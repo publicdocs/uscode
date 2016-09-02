@@ -59,7 +59,7 @@
 
 [Pub. L. 108–159, title II, § 215][/us/pl/108/159/s215], Dec. 4, 2003, [117 Stat. 1984][/us/stat/117/1984], provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Commission and the Board, in consultation with the Office of Fair Housing and Equal Opportunity of the Department of Housing and Urban Development, shall conduct a study of—
 
@@ -71,17 +71,17 @@
 
 >         “(4) the extent to which credit scoring systems are used by businesses, the factors considered by such systems, and the effects of variables which are not considered by such systems.
 
->     “(b) __Public Participation.—__ 
+>     “(b)  __Public Participation__  __.—__ 
 
 >     The Commission shall seek public input about the prescribed methodology and research design of the study described in subsection (a), including from relevant Federal regulators, State insurance regulators, community, civil rights, consumer, and housing groups.
 
 >     “(c) __Report Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Before the end of the 24-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall submit a detailed report on the study conducted pursuant to subsection (a) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
->         “(2) __Contents of report.—__ 
+>         “(2)  __Contents of report__  __.—__ 
 
 >         The report submitted under paragraph (1) shall include the findings and conclusions of the Commission, recommendations to address specific areas of concerns addressed in the study, and recommendations for legislative or administrative action that the Commission may determine to be necessary to ensure that credit and credit-based insurance scores are used appropriately and fairly to avoid negative effects.”
 
@@ -91,11 +91,11 @@
 
 >     “(a) __Study Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall conduct a study on ways to improve the operation of the Fair Credit Reporting Act \[[15 U.S.C. 1681][/us/usc/t15/s1681] et seq.\].
 
->         “(2) __Areas for study.—__ 
+>         “(2)  __Areas for study__  __.—__ 
 
 >         In conducting the study under paragraph (1), the Commission shall review—
 
@@ -135,11 +135,11 @@
 
 >             “(E) any actions that might be taken within a voluntary reporting system to encourage the reporting of the types of transactions described in subparagraph (D).
 
->         “(3) __Costs and benefits.—__ 
+>         “(3)  __Costs and benefits__  __.—__ 
 
 >         With respect to each area of study described in paragraph (2), the Commission shall consider the extent to which such requirements would benefit consumers, balanced against the cost of implementing such provisions.
 
->     “(b) __Report Required.—__ 
+>     “(b)  __Report Required__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2003\], the chairman of the Commission shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives containing a detailed summary of the findings and conclusions of the study under this section, together with such recommendations for legislative or administrative actions as may be appropriate.”
 
@@ -147,21 +147,21 @@
 
 [Pub. L. 108–159, title III, § 319][/us/pl/108/159/s319], Dec. 4, 2003, [117 Stat. 1999][/us/stat/117/1999], provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     Until the final report is submitted under subsection (b)(2), the Commission shall conduct an ongoing study of the accuracy and completeness of information contained in consumer reports prepared or maintained by consumer reporting agencies and methods for improving the accuracy and completeness of such information.
 
 >     “(b) __Biennial Reports Required.—__ 
 
->         “(1) __Interim reports.—__ 
+>         “(1)  __Interim reports__  __.—__ 
 
 >         The Commission shall submit an interim report to the Congress on the study conducted under subsection (a) at the end of the 1-year period beginning on the date of enactment of this Act \[Dec. 4, 2003\] and biennially thereafter for 8 years.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         The Commission shall submit a final report to the Congress on the study conducted under subsection (a) at the end of the 2-year period beginning on the date on which the final interim report is submitted to the Congress under paragraph (1).
 
->         “(3) __Contents.—__ 
+>         “(3)  __Contents__  __.—__ 
 
 >         Each report submitted under this subsection shall contain a detailed summary of the findings and conclusions of the Commission with respect to the study required under subsection (a) and such recommendations for legislative and administrative action as the Commission may determine to be appropriate.”
 

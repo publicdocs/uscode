@@ -31,13 +31,13 @@
 
 > “CHAPTER 1
 
-> “Sec. 101. __Emergency Steel Loan Guarantee Program.__ 
+> “Sec. 101.  __Emergency Steel Loan Guarantee Program__  __.__ 
 
->     (a) __Short Title.—__ 
+>      (a)  __Short Title__  __.—__ 
 
 >     This chapter may be cited as the ‘Emergency Steel Loan Guarantee Act of 1999’.
 
->     “(b) __Congressional Findings.—__ 
+>     “(b)  __Congressional Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -59,19 +59,19 @@
 
 >         “(6) a strong steel industry is necessary to the adequate defense preparedness of the United States in order to have sufficient steel available to build the ships, tanks, planes, and armaments necessary for the national defense.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Board.—__ 
+>         “(1)  __Board__  __.—__ 
 
 >         The term ‘Board’ means the Loan Guarantee Board established under subsection (e).
 
->         “(2) __Program.—__ 
+>         “(2)  __Program__  __.—__ 
 
 >         The term ‘Program’ means the Emergency Steel Guarantee Loan Program established under subsection (d).
 
->         “(3) __Qualified steel company.—__ 
+>         “(3)  __Qualified steel company__  __.—__ 
 
 >         The term ‘qualified steel company’ means any company that—
 
@@ -81,11 +81,11 @@
 
 >             “(C) has experienced layoffs, production losses, or financial losses since the beginning of the steel import crisis in 1998, and thereafter, or that operates substantial assets of a company that meets these qualifications.
 
->     “(d) __Establishment of Emergency Steel Guarantee Loan Program.—__ 
+>     “(d)  __Establishment of Emergency Steel Guarantee Loan Program__  __.—__ 
 
 >     There is established the Emergency Steel Guarantee Loan Program, to be administered by the Board, the purpose of which is to provide loan guarantees to qualified steel companies in accordance with this section.
 
->     “(e) __Loan Guarantee Board Membership.—__ 
+>     “(e)  __Loan Guarantee Board Membership__  __.—__ 
 
 >     There is established a Loan Guarantee Board, which shall be composed of—
 
@@ -97,27 +97,27 @@
 
 >     “(f) __Loan Guarantee Program.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         The Program may guarantee loans provided to qualified steel companies by private banking and investment institutions in accordance with the procedures, rules, and regulations established by the Board.
 
->         “(2) __Total guarantee limit.—__ 
+>         “(2)  __Total guarantee limit__  __.—__ 
 
 >         The aggregate amount of loans guaranteed and outstanding at any one time under this section may not exceed $1,000,000,000.
 
->         “(3) __Individual guarantee limit.—__ 
+>         “(3)  __Individual guarantee limit__  __.—__ 
 
 >         The aggregate amount of loans guaranteed under this section with respect to a single qualified steel company may not exceed $250,000,000.
 
->         “(4) __Timelines.—__ 
+>         “(4)  __Timelines__  __.—__ 
 
 >         The Board shall approve or deny each application for a guarantee under this section as soon as possible after receipt of such application.
 
->         “(5) __Additional costs.—__ 
+>         “(5)  __Additional costs__  __.—__ 
 
 >         For the additional cost of the loans guaranteed under this subsection, including the costs of modifying the loans as defined in section 502 of the Congressional Budget Act of 1974 ([2 U.S.C. 661a][/us/usc/t2/s661a]), there is appropriated $140,000,000 to remain available until expended.
 
->     “(g) __Requirements for Loan Guarantees.—__ 
+>     “(g)  __Requirements for Loan Guarantees__  __.—__ 
 
 >     A loan guarantee may be issued under this section upon application to the Board by a qualified steel company pursuant to an agreement to provide a loan to that qualified steel company by a private bank or investment company, if the Board determines that—
 
@@ -133,25 +133,25 @@
 
 >     “(h) __Terms and Conditions of Loan Guarantees.—__ 
 
->         “(1) __Loan duration.—__ 
+>         “(1)  __Loan duration__  __.—__ 
 
 >         All loans guaranteed under this section shall be payable in full not later than December 31, 2015, and the terms and conditions of each such loan shall provide that the loan may not be amended, or any provision thereof waived, without the consent of the Board.
 
->         “(2) __Loan security.—__ 
+>         “(2)  __Loan security__  __.—__ 
 
 >         Any commitment to issue a loan guarantee under this section shall contain such affirmative and negative covenants and other protective provisions that the Board determines are appropriate. The Board shall require security for the loans to be guaranteed under this section at the time at which the commitment is made.
 
->         “(3) __Fees.—__ 
+>         “(3)  __Fees__  __.—__ 
 
 >         A qualified steel company receiving a guarantee under this section shall pay a fee to the Department of the Treasury to cover costs of the program, but in no event shall such fee exceed an amount equal to 0.5 percent of the outstanding principal balance of the guaranteed loan.
 
 >         “(4) __Guarantee level.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraphs (B) and (C), any loan guarantee provided under this section shall not exceed 85 percent of the amount of principal of the loan.
 
->             “(B) __Increased level one.—__ 
+>             “(B)  __Increased level one__  __.—__ 
 
 >             A loan guarantee may be provided under this section in excess of 85 percent, but not more than 90 percent, of the amount of principal of the loan, if—
 
@@ -159,7 +159,7 @@
 
 >                 “(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
 
->             “(C) __Increased level two.—__ 
+>             “(C)  __Increased level two__  __.—__ 
 
 >             A loan guarantee may be provided under this section in excess of 85 percent, but not more than 95 percent, of the amount of principal of the loan, if—
 
@@ -167,29 +167,29 @@
 
 >                 “(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
 
->     “(i) __Reports to Congress.—__ 
+>     “(i)  __Reports to Congress__  __.—__ 
 
 >     The Secretary of Commerce shall submit to Congress a full report of the activities of the Board under this section during each of fiscal years 1999 and 2000, and annually thereafter, during such period as any loan guaranteed under this section is outstanding.
 
->     “(j) __Salaries and Administrative Expenses.—__ 
+>     “(j)  __Salaries and Administrative Expenses__  __.—__ 
 
 >     For necessary expenses to administer the Program, $5,000,000 is appropriated to the Department of Commerce, to remain available until expended, which may be transferred to the Office of the Assistant Secretary for Trade Development of the International Trade Administration.
 
->     “(k) __Termination of Guarantee Authority.—__ 
+>     “(k)  __Termination of Guarantee Authority__  __.—__ 
 
 >     The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2011.
 
->     “(l) __Regulatory Action.—__ 
+>     “(l)  __Regulatory Action__  __.—__ 
 
 >     The Board shall issue such final procedures, rules, and regulations as may be necessary to carry out this section not later than 60 days after the date of the enactment of this Act \[Aug. 17, 1999\].
 
 >     “(m) __Iron Ore Companies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the requirements of this subsection, an iron ore company incorporated under the laws of any State shall be treated as a qualified steel company for purposes of the Program.
 
->         “(2) __Total guarantee limit for iron ore company.—__ 
+>         “(2)  __Total guarantee limit for iron ore company__  __.—__ 
 
 >         Of the aggregate amount of loans authorized to be guaranteed and outstanding at any one time under subsection (f)(2), an amount not to exceed $30,000,000 shall be loans with respect to iron ore companies.
 
@@ -211,13 +211,13 @@
 
 > “CHAPTER 2
 
-> “Sec. 201. __Petroleum Development Management.__ 
+> “Sec. 201.  __Petroleum Development Management__  __.__ 
 
->     (a) __Short Title.—__ 
+>      (a)  __Short Title__  __.—__ 
 
 >     This chapter may be cited as the ‘Emergency Oil and Gas Guaranteed Loan Program Act’.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -241,19 +241,19 @@
 
 >         “(10) a national security policy should be developed that ensures that adequate supplies of oil are available at all times free of the threat of embargo or other foreign hostile acts.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Board.—__ 
+>         “(1)  __Board__  __.—__ 
 
 >         The term ‘Board’ means the Loan Guarantee Board established by subsection (e).
 
->         “(2) __Program.—__ 
+>         “(2)  __Program__  __.—__ 
 
 >         The term ‘Program’ means the Emergency Oil and Gas Guaranteed Loan Program established by subsection (d).
 
->         “(3) __Qualified oil and gas company.—__ 
+>         “(3)  __Qualified oil and gas company__  __.—__ 
 
 >         The term ‘qualified oil and gas company’ means a company that—
 
@@ -269,11 +269,11 @@
 
 >     “(d) __Emergency Oil and Gas Guaranteed Loan Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is established the Emergency Oil and Gas Guaranteed Loan Program, the purpose of which shall be to provide loan guarantees to qualified oil and gas companies in accordance with this section.
 
->         “(2) __Loan guarantee board.—__ 
+>         “(2)  __Loan guarantee board__  __.—__ 
 
 >         There is established to administer the Program a Loan Guarantee Board, to be composed of—
 
@@ -285,27 +285,27 @@
 
 >     “(e) __Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Program may guarantee loans provided to qualified oil and gas companies by private banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
 
->         “(2) __Total guarantee limit.—__ 
+>         “(2)  __Total guarantee limit__  __.—__ 
 
 >         The aggregate amount of loans guaranteed and outstanding at any one time under this section shall not exceed $500,000,000.
 
->         “(3) __Individual guarantee limit.—__ 
+>         “(3)  __Individual guarantee limit__  __.—__ 
 
 >         The aggregate amount of loans guaranteed under this section with respect to a single qualified oil and gas company shall not exceed $10,000,000.
 
->         “(4) __Expeditious action on applications.—__ 
+>         “(4)  __Expeditious action on applications__  __.—__ 
 
 >         The Board shall approve or deny an application for a guarantee under this section as soon as practicable after receipt of an application.
 
->         “(5) __Additional costs.—__ 
+>         “(5)  __Additional costs__  __.—__ 
 
 >         For the additional cost of the loans guaranteed under this subsection, including the costs of modifying the loans as defined in section 502 of the Congressional Budget Act of 1974 ([2 U.S.C. 661a][/us/usc/t2/s661a]), there is appropriated $122,500,000 to remain available until expended.
 
->     “(f) __Requirements for Loan Guarantees.—__ 
+>     “(f)  __Requirements for Loan Guarantees__  __.—__ 
 
 >     The Board may issue a loan guarantee on application by a qualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
 
@@ -319,35 +319,35 @@
 
 >     “(g) __Terms and Conditions of Loan Guarantees.—__ 
 
->         “(1) __Loan duration.—__ 
+>         “(1)  __Loan duration__  __.—__ 
 
 >         All loans guaranteed under this section shall be repayable in full not later than December 31, 2010, and the terms and conditions of each such loan shall provide that the loan agreement may not be amended, or any provision of the loan agreement waived, without the consent of the Board.
 
->         “(2) __Loan security.—__ 
+>         “(2)  __Loan security__  __.—__ 
 
 >         A commitment to issue a loan guarantee under this section shall contain such affirmative and negative covenants and other protective provisions as the Board determines are appropriate. The Board shall require security for the loans to be guaranteed under this section at the time at which the commitment is made.
 
->         “(3) __Fees.—__ 
+>         “(3)  __Fees__  __.—__ 
 
 >         A qualified oil and gas company receiving a loan guarantee under this section shall pay a fee to the Department of the Treasury to cover costs of the program, but in no event shall such fee exceed an amount equal to 0.5 percent of the outstanding principal balance of the guaranteed loan.
 
->         “(4) __Guarantee level.—__ 
+>         “(4)  __Guarantee level__  __.—__ 
 
 >         No loan guarantee may be provided under this section if the guarantee exceeds 85 percent of the amount of principal of the loan.
 
->     “(h) __Reports.—__ 
+>     “(h)  __Reports__  __.—__ 
 
 >     During fiscal year 1999 and each fiscal year thereafter until each guaranteed loan has been repaid in full, the Secretary of Commerce shall submit to Congress a report on the activities of the Board.
 
->     “(i) __Salaries and Administrative Expenses.—__ 
+>     “(i)  __Salaries and Administrative Expenses__  __.—__ 
 
 >     For necessary expenses to administer the Program, $2,500,000 is appropriated to the Department of Commerce, to remain available until expended, which may be transferred to the Office of the Assistant Secretary for Trade Development of the International Trade Administration.
 
->     “(j) __Termination of Guarantee Authority.—__ 
+>     “(j)  __Termination of Guarantee Authority__  __.—__ 
 
 >     The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2001.
 
->     “(k) __Regulatory Action.—__ 
+>     “(k)  __Regulatory Action__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Board shall issue such final procedures, rules, and regulations as are necessary to carry out this section.
 

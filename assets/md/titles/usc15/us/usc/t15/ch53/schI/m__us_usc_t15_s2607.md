@@ -93,7 +93,7 @@
 
     (e) __Notice to Administrator of substantial risks__ 
 
-        Any person who manufactures, processes, or distributes in commerce as chemical substance or mixture and who obtains information which reasonably supports the conclusion that such substance or mixture presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of such information unless such person has actual knowledge that the Administrator has been adequately informed of such information.
+        Any person who manufactures, processes, or distributes in commerce a chemical substance or mixture and who obtains information which reasonably supports the conclusion that such substance or mixture presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of such information unless such person has actual knowledge that the Administrator has been adequately informed of such information.
 
     (f) __“Manufacture” and “process” defined__ 
 

@@ -265,19 +265,19 @@
 
 [Pub. L. 108–159, title III, § 313(b)][/us/pl/108/159/s313/b], Dec. 4, 2003, [117 Stat. 1994][/us/stat/117/1994], provided that:
 
->     “(1) __Study required.—__ 
+>     “(1)  __Study required__  __.—__ 
 
 >     The Board and the Commission shall jointly study the extent to which, and the manner in which, consumer reporting agencies and furnishers of consumer information to consumer reporting agencies are complying with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information, the completeness of the information provided to consumer reporting agencies, and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.
 
->     “(2) __Report required.—__ 
+>     “(2)  __Report required__  __.—__ 
 
 >     Before the end of the 12-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Board and the Commission shall jointly submit a progress report to the Congress on the results of the study required under paragraph (1).
 
->     “(3) __Considerations.—__ 
+>     “(3)  __Considerations__  __.—__ 
 
 >     In preparing the report required under paragraph (2), the Board and the Commission shall consider information relating to complaints compiled by the Commission under section 611(e) of the Fair Credit Reporting Act \[[15 U.S.C. 1681i(e)][/us/usc/t15/s1681i/e]\], as added by this section.
 
->     “(4) __Recommendations.—__ 
+>     “(4)  __Recommendations__  __.—__ 
 
 >     The report required under paragraph (2) shall include such recommendations as the Board and the Commission jointly determine to be appropriate for legislative or administrative action, to ensure that—
 

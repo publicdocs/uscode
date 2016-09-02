@@ -89,19 +89,19 @@
 
         (3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 ([15 U.S.C. 77f(b)][/us/usc/t15/s77f/b]), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
 
-        (4) __Annual adjustment.—__ 
+        (4)  __Annual adjustment__  __.—__ 
 
         For each fiscal year, the Commission shall by order adjust the rate required by paragraphs (1) and (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 ([15 U.S.C. 77f(b)][/us/usc/t15/s77f/b]) for such fiscal year.
 
-        (5) __Fee collection.—__ 
+        (5)  __Fee collection__  __.—__ 
 
         Fees collected pursuant to this subsection for fiscal year 2012 and each fiscal year thereafter shall be deposited and credited as general revenue of the Treasury and shall not be available for obligation.
 
-        (6) __Review; effective date; publication.—__ 
+        (6)  __Review; effective date; publication__  __.—__ 
 
         In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of [section 553 of title 5][/us/usc/t5/s553]. An adjusted rate prescribed under paragraph (4) shall be published and take effect in accordance with section 6(b) of the Securities Act of 1933 ([15 U.S.C. 77f(b)][/us/usc/t15/s77f/b]).
 
-        (7) __Pro rata application.—__ 
+        (7)  __Pro rata application__  __.—__ 
 
         The rates per $1,000,000 required by this subsection shall be applied pro rata to amounts and balances of less than $1,000,000.
 
@@ -321,11 +321,11 @@
 
 [Pub. L. 111–203, title IX, § 971(b)][/us/pl/111/203/s971/b], (c), July 21, 2010, [124 Stat. 1915][/us/stat/124/1915], provided that:
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Commission may issue rules permitting the use by a shareholder of proxy solicitation materials supplied by an issuer of securities for the purpose of nominating individuals to membership on the board of directors of the issuer, under such terms and conditions as the Commission determines are in the interests of shareholders and for the protection of investors.
 
->     “(c) __Exemptions.—__ 
+>     “(c)  __Exemptions__  __.—__ 
 
 >     The Commission may, by rule or order, exempt an issuer or class of issuers from the requirement made by this section \[amending this section\] or an amendment made by this section. In determining whether to make an exemption under this subsection, the Commission shall take into account, among other considerations, whether the requirement in the amendment made by subsection (a) disproportionately burdens small issuers.”
 
@@ -347,7 +347,7 @@
 
 [Pub. L. 104–290, title V, § 510(b)][/us/pl/104/290/s510/b], Oct. 11, 1996, [110 Stat. 3450][/us/stat/110/3450], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Commission shall conduct a study of—
 
@@ -355,7 +355,7 @@
 
 >         “(B) the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall submit a report to the Congress on the results of the study conducted under paragraph (1), together with any recommendations for regulatory or legislative changes that it considers necessary to improve shareholder access to proxy statements.”
 
@@ -363,7 +363,7 @@
 
 [Pub. L. 103–202, title III, § 302(c)][/us/pl/103/202/s302/c], Dec. 17, 1993, [107 Stat. 2363][/us/stat/107/2363], provided that:
 
->     “(1) __Evaluation required.—__ 
+>     “(1)  __Evaluation required__  __.—__ 
 
 >     The Comptroller General of the United States shall, within 18 months after the date of enactment of this Act \[Dec. 17, 1993\], conduct a study of—
 
@@ -379,7 +379,7 @@
 
 >         “(F) the usefulness of such opinions to limited partners.
 
->     “(2) __Report required.—__ 
+>     “(2)  __Report required__  __.—__ 
 
 >     Not later than the end of the 18-month period referred to in paragraph (1), the Comptroller General of the United States shall submit to the Congress a report on the evaluation required by paragraph (1).”
 

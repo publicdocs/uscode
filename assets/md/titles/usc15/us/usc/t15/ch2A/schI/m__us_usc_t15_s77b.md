@@ -163,7 +163,7 @@
 
 [Pub. L. 111–203, title IV, § 413][/us/pl/111/203/s413], July 21, 2010, [124 Stat. 1577][/us/stat/124/1577], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The \[Securities and Exchange\] Commission shall adjust any net worth standard for an accredited investor, as set forth in the rules of the Commission under the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\], so that the individual net worth of any natural person, or joint net worth with the spouse of that person, at the time of purchase, is more than $1,000,000 (as such amount is adjusted periodically by rule of the Commission), excluding the value of the primary residence of such natural person, except that during the 4-year period that begins on the date of enactment of this Act \[July 21, 2010\], any net worth standard shall be $1,000,000, excluding the value of the primary residence of such natural person.
 
@@ -171,21 +171,21 @@
 
 >         “(1) __Initial review and adjustment.—__ 
 
->             “(A) __Initial review.—__ 
+>             “(A)  __Initial review__  __.—__ 
 
 >             The Commission may undertake a review of the definition of the term ‘accredited investor’, as such term applies to natural persons, to determine whether the requirements of the definition, excluding the requirement relating to the net worth standard described in subsection (a), should be adjusted or modified for the protection of investors, in the public interest, and in light of the economy.
 
->             “(B) __Adjustment or modification.—__ 
+>             “(B)  __Adjustment or modification__  __.—__ 
 
 >             Upon completion of a review under subparagraph (A), the Commission may, by notice and comment rulemaking, make such adjustments to the definition of the term ‘accredited investor’, excluding adjusting or modifying the requirement relating to the net worth standard described in subsection (a), as such term applies to natural persons, as the Commission may deem appropriate for the protection of investors, in the public interest, and in light of the economy.
 
 >         “(2) __Subsequent reviews and adjustment.—__ 
 
->             “(A) __Subsequent reviews.—__ 
+>             “(A)  __Subsequent reviews__  __.—__ 
 
 >             Not earlier than 4 years after the date of enactment of this Act \[July 21, 2010\], and not less frequently than once every 4 years thereafter, the Commission shall undertake a review of the definition, in its entirety, of the term ‘accredited investor’, as defined in section 230.215 of title 17, Code of Federal Regulations, or any successor thereto, as such term applies to natural persons, to determine whether the requirements of the definition should be adjusted or modified for the protection of investors, in the public interest, and in light of the economy.
 
->             “(B) __Adjustment or modification.—__ 
+>             “(B)  __Adjustment or modification__  __.—__ 
 
 >             Upon completion of a review under subparagraph (A), the Commission may, by notice and comment rulemaking, make such adjustments to the definition of the term ‘accredited investor’, as defined in section 230.215 of title 17, Code of Federal Regulations, or any successor thereto, as such term applies to natural persons, as the Commission may deem appropriate for the protection of investors, in the public interest, and in light of the economy.”
 

@@ -79,7 +79,7 @@
 
                 (iii) any foreign country which included a combat zone, as that term is defined in [section 112(c)(2) of title 26][/us/usc/t26/s112/c/2], at the time of performance of the relevant Federal contract or subcontract.
 
-        (5) __Alternative Size Standard__ 
+        (5) __Alternative size standard__ 
 
             (A) __In general__ 
 
@@ -613,7 +613,23 @@
 
         In this chapter, the term “private equity firm” has the meaning given the term “private equity fund” in [section 1851(h)(2) of title 12][/us/usc/t12/s1851/h/2].
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[3\], July 18, 1958, [72 Stat. 384][/us/stat/72/384]; [Pub. L. 94–305, title I, § 112(b)][/us/pl/94/305/s112/b], June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 95–507, title II, § 224(b)][/us/pl/95/507/s224/b], Oct. 24, 1978, [92 Stat. 1772][/us/stat/92/1772]; [Pub. L. 96–302, title V, § 504][/us/pl/96/302/s504], July 2, 1980, [94 Stat. 851][/us/stat/94/851]; [Pub. L. 96–481, title I, § 108][/us/pl/96/481/s108], Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323]; [Pub. L. 97–35, title XIX, § 1903][/us/pl/97/35/s1903], Aug. 13, 1981, [95 Stat. 771][/us/stat/95/771]; [Pub. L. 98–270, title III, § 310][/us/pl/98/270/s310], Apr. 18, 1984, [98 Stat. 161][/us/stat/98/161]; [Pub. L. 98–362, § 6][/us/pl/98/362/s6], July 16, 1984, [98 Stat. 434][/us/stat/98/434]; [Pub. L. 98–473, title I, § 111A(b)][/us/pl/98/473/s111A/b], Oct. 12, 1984, [98 Stat. 1966][/us/stat/98/1966]; [Pub. L. 99–272, title XVIII, § 18016][/us/pl/99/272/s18016], Apr. 7, 1986, [100 Stat. 371][/us/stat/100/371]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 921(f)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–149, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 921(f)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–149; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 921(f), Nov. 14, 1986, [100 Stat. 3929][/us/stat/100/3929], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(b)(2)][/us/pl/100/26/s10/b/2], Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–456, div. A, title VIII, § 845][/us/pl/100/456/s845], Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 100–590, title I, § 119(b)][/us/pl/100/590/s119/b], Nov. 3, 1988, [102 Stat. 2999][/us/stat/102/2999]; [Pub. L. 100–656, title VII, § 732][/us/pl/100/656/s732], Nov. 15, 1988, [102 Stat. 3897][/us/stat/102/3897]; [Pub. L. 101–510, div. A, title VIII, § 806(e)(1)][/us/pl/101/510/s806/e/1], Nov. 5, 1990, [104 Stat. 1592][/us/stat/104/1592]; [Pub. L. 102–366, title II, § 222(a)][/us/pl/102/366/s222/a], Sept. 4, 1992, [106 Stat. 999][/us/stat/106/999]; [Pub. L. 103–355, title IV, § 4404(a)][/us/pl/103/355/s4404/a], title VII, § 7106(d), Oct. 13, 1994, [108 Stat. 3349][/us/stat/108/3349], 3376; [Pub. L. 103–403, title III, § 301][/us/pl/103/403/s301], Oct. 22, 1994, [108 Stat. 4187][/us/stat/108/4187]; [Pub. L. 104–208, div. D, title I, § 104(b)(1)][/us/pl/104/208/s104/b/1], Sept. 30, 1996, [110 Stat. 3009–730][/us/stat/110/3009-730]; [Pub. L. 105–135, title IV, § 412][/us/pl/105/135/s412], title VI, § 602(a), Dec. 2, 1997, [111 Stat. 2617][/us/stat/111/2617], 2627; [Pub. L. 106–50, title I, § 103(a)][/us/pl/106/50/s103/a], title IV, § 401(a), Aug. 17, 1999, [113 Stat. 234][/us/stat/113/234], 243; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VI, §§ 602–604, 611, 612(b)–615(a), title VIII, § 806(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–697 to 2763A–701, 2763A–706; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, [118 Stat. 3456][/us/stat/118/3456], 3457, 3465; [Pub. L. 109–59, title X, § 10203][/us/pl/109/59/s10203], Aug. 10, 2005, [119 Stat. 1933][/us/stat/119/1933]; [Pub. L. 109–163, div. A, title VIII][/us/pl/109/163], §§ 844, 845(a)(1), Jan. 6, 2006, [119 Stat. 3389][/us/stat/119/3389], 3390; [Pub. L. 110–186, title II, § 205][/us/pl/110/186/s205], Feb. 14, 2008, [122 Stat. 629][/us/stat/122/629]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12063(c)(1), 12071, May 22, 2008, [122 Stat. 1408][/us/stat/122/1408], 1411; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12063(c)(1), 12071, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2170, 2173; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, [124 Stat. 2509][/us/stat/124/2509], 2521, 2536, 2543–2545, 2550; [Pub. L. 112–81, div. E, title LI, § 5107(b)][/us/pl/112/81/s5107/b], Dec. 31, 2011, [125 Stat. 1829][/us/stat/125/1829]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1661, 1696(b)(1), Jan. 2, 2013, [126 Stat. 2083][/us/stat/126/2083], 2090.)
+    (dd) __Definitions pertaining to subcontracting__ 
+
+    In this chapter:
+
+        (1) __Subcontract__ 
+
+            The term “subcontract” means a legally binding agreement between a contractor that is already under contract to another party to perform work, and a third party, hereinafter referred to as the subcontractor, for the subcontractor to perform a part, or all, of the work that the contractor has undertaken.
+
+        (2) __First tier subcontractor__ 
+
+            The term “first tier subcontractor” means a subcontractor who has a subcontract directly with the prime contractor.
+
+        (3) __At any tier__ 
+
+            The term “at any tier” means any subcontractor other than a subcontractor who is a first tier subcontractor.
+
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[3\], July 18, 1958, [72 Stat. 384][/us/stat/72/384]; [Pub. L. 94–305, title I, § 112(b)][/us/pl/94/305/s112/b], June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 95–507, title II, § 224(b)][/us/pl/95/507/s224/b], Oct. 24, 1978, [92 Stat. 1772][/us/stat/92/1772]; [Pub. L. 96–302, title V, § 504][/us/pl/96/302/s504], July 2, 1980, [94 Stat. 851][/us/stat/94/851]; [Pub. L. 96–481, title I, § 108][/us/pl/96/481/s108], Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323]; [Pub. L. 97–35, title XIX, § 1903][/us/pl/97/35/s1903], Aug. 13, 1981, [95 Stat. 771][/us/stat/95/771]; [Pub. L. 98–270, title III, § 310][/us/pl/98/270/s310], Apr. 18, 1984, [98 Stat. 161][/us/stat/98/161]; [Pub. L. 98–362, § 6][/us/pl/98/362/s6], July 16, 1984, [98 Stat. 434][/us/stat/98/434]; [Pub. L. 98–473, title I, § 111A(b)][/us/pl/98/473/s111A/b], Oct. 12, 1984, [98 Stat. 1966][/us/stat/98/1966]; [Pub. L. 99–272, title XVIII, § 18016][/us/pl/99/272/s18016], Apr. 7, 1986, [100 Stat. 371][/us/stat/100/371]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 921(f)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–149, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 921(f)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–149; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 921(f), Nov. 14, 1986, [100 Stat. 3929][/us/stat/100/3929], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(b)(2)][/us/pl/100/26/s10/b/2], Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–456, div. A, title VIII, § 845][/us/pl/100/456/s845], Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 100–590, title I, § 119(b)][/us/pl/100/590/s119/b], Nov. 3, 1988, [102 Stat. 2999][/us/stat/102/2999]; [Pub. L. 100–656, title VII, § 732][/us/pl/100/656/s732], Nov. 15, 1988, [102 Stat. 3897][/us/stat/102/3897]; [Pub. L. 101–510, div. A, title VIII, § 806(e)(1)][/us/pl/101/510/s806/e/1], Nov. 5, 1990, [104 Stat. 1592][/us/stat/104/1592]; [Pub. L. 102–366, title II, § 222(a)][/us/pl/102/366/s222/a], Sept. 4, 1992, [106 Stat. 999][/us/stat/106/999]; [Pub. L. 103–355, title IV, § 4404(a)][/us/pl/103/355/s4404/a], title VII, § 7106(d), Oct. 13, 1994, [108 Stat. 3349][/us/stat/108/3349], 3376; [Pub. L. 103–403, title III, § 301][/us/pl/103/403/s301], Oct. 22, 1994, [108 Stat. 4187][/us/stat/108/4187]; [Pub. L. 104–208, div. D, title I, § 104(b)(1)][/us/pl/104/208/s104/b/1], Sept. 30, 1996, [110 Stat. 3009–730][/us/stat/110/3009-730]; [Pub. L. 105–135, title IV, § 412][/us/pl/105/135/s412], title VI, § 602(a), Dec. 2, 1997, [111 Stat. 2617][/us/stat/111/2617], 2627; [Pub. L. 106–50, title I, § 103(a)][/us/pl/106/50/s103/a], title IV, § 401(a), Aug. 17, 1999, [113 Stat. 234][/us/stat/113/234], 243; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VI, §§ 602–604, 611, 612(b)–615(a), title VIII, § 806(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–697 to 2763A–701, 2763A–706; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, [118 Stat. 3456][/us/stat/118/3456], 3457, 3465; [Pub. L. 109–59, title X, § 10203][/us/pl/109/59/s10203], Aug. 10, 2005, [119 Stat. 1933][/us/stat/119/1933]; [Pub. L. 109–163, div. A, title VIII][/us/pl/109/163], §§ 844, 845(a)(1), Jan. 6, 2006, [119 Stat. 3389][/us/stat/119/3389], 3390; [Pub. L. 110–186, title II, § 205][/us/pl/110/186/s205], Feb. 14, 2008, [122 Stat. 629][/us/stat/122/629]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12063(c)(1), 12071, May 22, 2008, [122 Stat. 1408][/us/stat/122/1408], 1411; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12063(c)(1), 12071, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2170, 2173; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, [124 Stat. 2509][/us/stat/124/2509], 2521, 2536, 2543–2545, 2550; [Pub. L. 112–81, div. E, title LI, § 5107(b)][/us/pl/112/81/s5107/b], Dec. 31, 2011, [125 Stat. 1829][/us/stat/125/1829]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1661, 1696(b)(1), Jan. 2, 2013, [126 Stat. 2083][/us/stat/126/2083], 2090; [Pub. L. 113–66, div. A, title XVI, § 1614(b)][/us/pl/113/66/s1614/b], Dec. 26, 2013, [127 Stat. 949][/us/stat/127/949].)
 
  __References in Text__ 
 
@@ -672,6 +688,8 @@
     “(C) Construction and other contracts
 
     “The Administrator shall promulgate final regulations imposing requirements that are similar to those specified in items (aa) and (bb) of subparagraph (A)(i)(III) on contracts for general and specialty construction, and on contracts for any other industry category that would not otherwise be subject to those requirements. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B).”
+
+    Subsec. (dd). [Pub. L. 113–66][/us/pl/113/66] added subsec. (dd).
 
     2011—Subsecs. (aa) to (cc). [Pub. L. 112–81][/us/pl/112/81] added subsecs. (aa) to (cc).
 
@@ -857,11 +875,11 @@
 
 Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], and section 921(g), (h) of title IX, formerly title IV, of [Pub. L. 99–661][/us/pl/99/661]; renumbered title IX and amended by [Pub. L. 100–26][/us/pl/100/26], §§ 3(5), 10(a)(2), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], 288; [Pub. L. 100–180, div. A, title VIII, § 809(d)][/us/pl/100/180/s809/d], Dec. 4, 1987, [101 Stat. 1130][/us/stat/101/1130], provided that:
 
->     “(g) __Effective Dates.—__ 
+>     “(g)  __Effective Dates__  __.—__ 
 
 >     Except as otherwise provided in subsection (h), the amendments made by this section \[amending this section and sections 637 and 644 of this title and enacting provisions set out as notes below\] shall take effect on October 1, 1987.
 
->     “(h) __Initial Review of Size Standards.—__ 
+>     “(h)  __Initial Review of Size Standards__  __.—__ 
 
 >         (1) Paragraph (2) of section 3(a) of the Small Business Act (as added by subsection (f)) \[[15 U.S.C. 632(a)(2)][/us/usc/t15/s632/a/2]\] shall take effect on the date of the enactment of this Act \[Oct. 18, 1986\].
 
@@ -901,23 +919,43 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 
 [Pub. L. 105–135, title VI, § 605][/us/pl/105/135/s605], Dec. 2, 1997, [111 Stat. 2635][/us/stat/111/2635], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Dec. 2, 1997\], the Administrator shall publish in the Federal Register such final regulations as may be necessary to carry out this title \[see Short Title of 1997 Amendment note set out under [section 631 of this title][/us/usc/t15/s631]\] and the amendments made by this title.
 
->     “(b) __Federal Acquisition Regulation.—__ 
+>     “(b)  __Federal Acquisition Regulation__  __.—__ 
 
 >     Not later than 180 days after the date on which final regulations are published under subsection (a), the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation in order to ensure consistency between the Federal Acquisition Regulation, this title and the amendments made by this title, and the final regulations published under subsection (a).”
 
 [Pub. L. 102–366, title II, § 222(b)][/us/pl/102/366/s222/b], Sept. 4, 1992, [106 Stat. 999][/us/stat/106/999], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Sept. 4, 1992\], the Administrator of the Small Business Administration shall issue proposed regulations to implement the amendments made by subsection (a) \[amending this section\]. Final regulations shall be issued not later than 270 days after such date of enactment.
 
->     “(2) __Listing of additional size standards.—__ 
+>     “(2)  __Listing of additional size standards__  __.—__ 
 
 >     The regulations required by paragraph (1) shall include a listing of all small business size standards prescribed by statute or by individual Federal departments and agencies, identifying the programs or purposes to which such size standards apply.”
+
+ __Implementation__ 
+
+[Pub. L. 113–66, div. A, title XVI, § 1614(c)][/us/pl/113/66/s1614/c], Dec. 26, 2013, [127 Stat. 949][/us/stat/127/949], provided that:
+
+>     “(1)  __Requirement for plan__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Administrator of the Small Business Administration, the Secretary of Defense, and the Administrator of General Services shall submit to the Committee on Small Business and the Committee on Armed Services of the House of Representatives and the Committee on Small Business and Entrepreneurship and the Committee on Armed Services of the Senate a plan to implement this section \[amending this section and [section 637 of this title][/us/usc/t15/s637]\] and the amendments made by this section. The plan shall contain assurances that the appropriate tracking mechanisms are in place to enable transparency of subcontracting activities at all tiers.
+
+>     “(2)  __Completion of plan actions__  __.—__ 
+
+>     Not later than one year after the date of the enactment of this Act, the Administrator of the Small Business Administration, the Secretary of Defense, and the Administrator of General Services shall complete the actions required by the plan.
+
+>     “(3)  __Regulations__  __.—__ 
+
+>     No later than 18 months after the date of the enactment of this Act, the Administrator of the Small Business Administration shall promulgate any regulations necessary, and the Federal Acquisition Regulation shall be revised, to implement this section and the amendments made by this section.
+
+>     “(4)  __Applicability__  __.—__ 
+
+>     Any regulations promulgated pursuant to paragraph (3) shall apply to contracts entered into after the last day of the fiscal year in which the regulations are promulgated.”
 
  __Small Business Compliance Guide__ 
 
@@ -929,17 +967,17 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 
 [Pub. L. 111–240, title I, § 1136][/us/pl/111/240/s1136], Sept. 27, 2010, [124 Stat. 2520][/us/stat/124/2520], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), nothing in section 1111 \[amending [section 636 of this title][/us/usc/t15/s636] and enacting provisions set out as a note under [section 636 of this title][/us/usc/t15/s636]\], 1112 \[amending [section 696 of this title][/us/usc/t15/s696]\], 1113 \[amending [section 636 of this title][/us/usc/t15/s636]\], 1114 \[[124 Stat. 2508][/us/stat/124/2508]\], 1115 \[amending [section 689d of this title][/us/usc/t15/s689d]\], 1116 \[amending this section\], 1117 \[amending [section 634 of this title][/us/usc/t15/s634]\], 1118 \[[124 Stat. 2509][/us/stat/124/2509]\], 1122 \[amending [section 696 of this title][/us/usc/t15/s696] and enacting provisions set out as a note under [section 696 of this title][/us/usc/t15/s696]\], or 1131 \[amending [section 636 of this title][/us/usc/t15/s636] and enacting provisions set out as notes under [section 636 of this title][/us/usc/t15/s636]\], or an amendment made by such sections, shall be construed to limit the ability of Congress to appropriate funds.
 
->     “(b) __TARP Funds and Tax Increases.—__ 
+>     “(b)  __TARP Funds and Tax Increases__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any covered amounts may not be used to carry out section 1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118, 1122, or 1131, or an amendment made by such sections.
 
->         “(2) __Definition.—__ 
+>         “(2)  __Definition__  __.—__ 
 
 >         In this subsection, the term ‘covered amounts’ means—
 
@@ -953,7 +991,7 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 
 >     “(a) __Rolling Review.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator shall—
 
@@ -977,11 +1015,11 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 
 >                 “(ii) adjusted or did not adjust each size standard that was reviewed under the review.
 
->         “(2) __Complete review of size standards.—__ 
+>         “(2)  __Complete review of size standards__  __.—__ 
 
 >         The Administrator shall ensure that each size standard for small business concerns established under section 3(a)(2) of the Small Business Act ([15 U.S.C. 632(a)(2)][/us/usc/t15/s632/a/2]) is reviewed under paragraph (1) not less frequently than once every 5 years.
 
->     “(b) __Rules.—__ 
+>     “(b)  __Rules__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Administrator shall promulgate rules for conducting the reviews required under subsection (a).”
 
@@ -991,17 +1029,17 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 
 [Pub. L. 112–239, div. A, title XVI, § 1698][/us/pl/112/239/s1698], Jan. 2, 2013, [126 Stat. 2091][/us/stat/126/2091], provided that:
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     In this section, the term ‘covered base closure area’ means a base closure area that, on or before the date of enactment of this Act \[Jan. 2, 2013\], was treated as a HUBZone for purposes of the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.) pursuant to section 152(a)(2) of the Small Business Reauthorization and Manufacturing Assistance Act of 2004 \[[Pub. L. 108–447][/us/pl/108/447]\] ([15 U.S.C. 632][/us/usc/t15/s632] note).
 
 >     “(b) __Treatment as HUBZone.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), a covered base closure area shall be treated as a HUBZone for purposes of the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.) during the 5-year period beginning on the date of enactment of this Act.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         The total period of time that a covered base closure area is treated as a HUBZone for purposes of the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.) pursuant to this section and section 152(a)(2) of the Small Business Reauthorization and Manufacturing Assistance Act of 2004 ([15 U.S.C. 632][/us/usc/t15/s632] note) may not exceed 5 years.”
 
@@ -1165,6 +1203,8 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/stat/125/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1829
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2083
+[/us/pl/113/66/s1614/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1614%2Fb
+[/us/stat/127/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F949
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
@@ -1210,6 +1250,7 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/pl/112/239/s1696/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1696%2Fb%2F1%2FA
 [/us/usc/t15/s657a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657a
 [/us/pl/112/239/s1696/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1696%2Fb%2F1%2FB
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/240/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1116
 [/us/pl/111/240/s1202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1202%2Fb%2F1
@@ -1340,6 +1381,9 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/102/366/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs222%2Fb
 [/us/stat/106/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F999
+[/us/pl/113/66/s1614/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1614%2Fc
+[/us/stat/127/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F949
+[/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
 [/us/pl/112/239/s1681/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1681%2Fc
 [/us/stat/126/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2086
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121

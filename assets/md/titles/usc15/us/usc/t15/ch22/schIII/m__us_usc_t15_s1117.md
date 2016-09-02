@@ -109,15 +109,15 @@
 
 [Pub. L. 108–482, title II, § 205][/us/pl/108/482/s205], Dec. 23, 2004, [118 Stat. 3917][/us/stat/118/3917], provided that:
 
->     “(a) __Free Speech and Press.—__ 
+>     “(a)  __Free Speech and Press__  __.—__ 
 
 >     Nothing in this title \[see Short Title of 2004 Amendment note set out under [section 1051 of this title][/us/usc/t15/s1051]\] shall enlarge or diminish any rights of free speech or of the press for activities related to the registration or use of domain names.
 
->     “(b) __Discretion of Courts in Determining Relief.—__ 
+>     “(b)  __Discretion of Courts in Determining Relief__  __.—__ 
 
 >     Nothing in this title shall restrict the discretion of a court in determining damages or other relief to be assessed against a person found liable for the infringement of intellectual property rights.
 
->     “(c) __Discretion of Courts in Determining Terms of Imprisonment.—__ 
+>     “(c)  __Discretion of Courts in Determining Terms of Imprisonment__  __.—__ 
 
 >     Nothing in this title shall be construed to limit the discretion of a court to determine the appropriate term of imprisonment for an offense under applicable law.”
 

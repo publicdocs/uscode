@@ -137,7 +137,7 @@
 
         (1) Repealed. [Pub. L. 111–203, title X, § 1092(2)][/us/pl/111/203/s1092/2], July 21, 2010, [124 Stat. 2095][/us/stat/124/2095]
 
-        (2) __Definition.—__ 
+        (2)  __Definition__  __.—__ 
 
         For purposes of this subchapter, the term “bank” means—
 

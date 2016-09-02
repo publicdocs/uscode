@@ -83,7 +83,7 @@
 
         (3) __Reimbursement__ 
 
-            “The applicant may be required to pay a reasonable fee to reimburse the creditor for the cost of the appraisal, except where otherwise required in law.
+            The applicant may be required to pay a reasonable fee to reimburse the creditor for the cost of the appraisal, except where otherwise required in law.
 
         (4) __Free copy__ 
 

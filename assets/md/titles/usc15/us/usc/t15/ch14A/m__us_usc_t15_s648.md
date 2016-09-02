@@ -21,11 +21,11 @@
 
         (2) __Cooperation to provide international trade services.—__ 
 
-            (A) __Information and services.—__ 
+            (A)  __Information and services__  __.—__ 
 
             The small business development centers shall work in close cooperation with the Administration’s regional and local offices, the Department of Commerce, appropriate Federal, State and local agencies (including State trade agencies), and the small business community to serve as an active information dissemination and service delivery mechanism for existing trade promotion, trade finance, trade adjustment, trade remedy and trade data collection programs of particular utility for small businesses.
 
-            (B) __Cooperation with state trade agencies and export assistance centers.—__ 
+            (B)  __Cooperation with state trade agencies and export assistance centers__  __.—__ 
 
             A small business development center that counsels a small business concern on issues relating to international trade shall—
 
@@ -33,7 +33,7 @@
 
                 (ii) as necessary, refer the small business concern to a State trade agency or an Export Assistance Center for further counseling or assistance.
 
-            (C) __Definition.—__ 
+            (C)  __Definition__  __.—__ 
 
             In this paragraph, the term “Export Assistance Center” has the same meaning as in [section 649 of this title][/us/usc/t15/s649].
 
@@ -49,17 +49,17 @@
 
         (4) __Small business development center program level.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administration shall require as a condition of any grant (or amendment or modification thereof) made to an applicant under this section, that a matching amount (excluding any fees collected from recipients of such assistance) equal to the amount of such grant be provided from sources other than the Federal Government, to be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions.
 
-            (B) __Restriction.—__ 
+            (B)  __Restriction__  __.—__ 
 
             The matching amount described in subparagraph (A) shall not include any indirect costs or in-kind contributions derived from any Federal program.
 
             (C) __Funding formula.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clause (iii), the amount of a formula grant received by a State under this subparagraph shall be equal to an amount determined in accordance with the following formula:
 
@@ -71,11 +71,11 @@
 
                     (IV) The aggregate amount deducted under subclause (III) shall be added to the grants of those States that are not eligible to receive more than the minimum funding level in order to achieve the minimum funding level for each such State, except that the eligible amount of a grant to any State shall not be reduced to an amount below the minimum funding level.
 
-                (ii) __Grant determination.—__ 
+                (ii)  __Grant determination__  __.—__ 
 
                 The amount of a grant that a State is eligible to apply for under this subparagraph shall be the amount determined under clause (i), subject to any modifications required under clause (iii), and shall be based on the amount available for the fiscal year in which performance of the grant commences, but not including amounts distributed in accordance with clause (iv). The amount of a grant received by a State under any provision of this subparagraph shall not exceed the amount of matching funds from sources other than the Federal Government, as required under subparagraph (A).
 
-                (iii) __Minimum funding level.—__ 
+                (iii)  __Minimum funding level__  __.—__ 
 
                 The amount of the minimum funding level for each State shall be determined for each fiscal year based on the amount made available for that fiscal year to carry out this section, as follows:
 
@@ -85,7 +85,7 @@
 
                     (III) If the amount made available is more than $90,000,000, the minimum funding level shall be the sum of $500,000 plus a percentage of $500,000 equal to the percentage amount by which the amount made available exceeds $90,000,000.
 
-                (iv) __Distributions.—__ 
+                (iv)  __Distributions__  __.—__ 
 
                 Subject to clause (iii), if any State does not apply for, or use, its full funding eligibility for a fiscal year, the Administration shall distribute the remaining funds as follows:
 
@@ -95,7 +95,7 @@
 
                 (v) __Use of amounts.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Of the amounts made available in any fiscal year to carry out this section—
 
@@ -103,15 +103,15 @@
 
                         (bb) not more than $500,000 may be used by the Administration to pay the examination expenses enumerated in section 20(a)(1)(E).2
 
-                    (II) __Limitation.—__ 
+                    (II)  __Limitation__  __.—__ 
 
                     No funds described in subclause (I) may be used for examination expenses under section 20(a)(1)(E) 2 if the usage would reduce the amount of grants made available under clause (i)(I) of this subparagraph to less than $85,000,000 (after excluding any amounts provided in appropriations Acts, or accompanying report language, for specific institutions or for purposes other than the general small business development center program) or would further reduce the amount of such grants below such amount.
 
-                (vi) __Exclusions.—__ 
+                (vi)  __Exclusions__  __.—__ 
 
                 Grants provided to a State by the Administration or another Federal agency to carry out subsection (a)(6) or (c)(3)(G) of this section, or for supplemental grants set forth in clause (iv)(II) of this subparagraph, shall not be included in the calculation of maximum funding for a State under clause (ii) of this subparagraph.
 
-                (vii) __Authorization of appropriations.—__ 
+                (vii)  __Authorization of appropriations__  __.—__ 
 
                 There are authorized to be appropriated to carry out this subparagraph—
 
@@ -119,29 +119,29 @@
 
                     (II) $135,000,000 for fiscal year 2006.
 
-                (viii) __Limitation.—__ 
+                (viii)  __Limitation__  __.—__ 
 
                 From the funds appropriated pursuant to clause (vii), the Administration shall reserve not less than $1,000,000 in each fiscal year to develop portable assistance for startup and sustainability non-matching grant programs to be conducted by eligible small business development centers in communities that are economically challenged as a result of a business or government facility down sizing or closing, which has resulted in the loss of jobs or small business instability. A non-matching grant under this clause shall not exceed $100,000, and shall be used for small business development center personnel expenses and related small business programs and services.
 
-                (ix) __State defined.—__ 
+                (ix)  __State defined__  __.—__ 
 
                 In this subparagraph, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
         (5) __Federal contracts with small business development centers.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to the conditions set forth in subparagraph (B), a small business development center may enter into a contract with a Federal department or agency to provide specific assistance to small business concerns.
 
-            (B) __Contract prerequisites.—__ 
+            (B)  __Contract prerequisites__  __.—__ 
 
             Before bidding on a contract described in subparagraph (A), a small business development center shall receive approval from the Associate Administrator of the small business development center program of the subject and general scope of the contract. Each approval under subparagraph (A) shall be based upon a determination that the contract will provide assistance to small business concerns and that performance of the contract will not hinder the small business development center in carrying out the terms of the grant received by the small business development center from the Administration.
 
-            (C) __Exemption from matching requirement.—__ 
+            (C)  __Exemption from matching requirement__  __.—__ 
 
             A contract under this paragraph shall not be subject to the matching funds or eligibility requirements of paragraph (4).
 
-            (D) __Additional provision.—__ 
+            (D)  __Additional provision__  __.—__ 
 
             Notwithstanding any other provision of law, a contract for assistance under this paragraph shall not be applied to any Federal department or agency’s small business, woman-owned business, or socially and economically disadvantaged business contracting goal under [section 644(g) of this title][/us/usc/t15/s644/g].
 
@@ -159,7 +159,7 @@
 
         (7) __Privacy requirements.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A small business development center, consortium of small business development centers, or contractor or agent of a small business development center may not disclose the name, address, or telephone number of any individual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
 
@@ -167,7 +167,7 @@
 
                 (ii) the Administrator considers such a disclosure to be necessary for the purpose of conducting a financial audit of a small business development center, but a disclosure under this clause shall be limited to the information necessary for such audit.
 
-            (B) __Administrator use of information.—__ 
+            (B)  __Administrator use of information__  __.—__ 
 
             This section shall not—
 
@@ -177,7 +177,7 @@
 
             (C) __Regulations.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Administrator shall issue regulations to establish standards—
 
@@ -185,11 +185,11 @@
 
                     (II) for client surveys under subparagraph (B)(ii), including standards for oversight of such surveys and for dissemination and use of client information.
 
-                (ii) __Maximum privacy protection.—__ 
+                (ii)  __Maximum privacy protection__  __.—__ 
 
                 Regulations under this subparagraph, shall, to the extent practicable, provide for the maximum amount of privacy protection.
 
-                (iii) __Inspector general.—__ 
+                (iii)  __Inspector general__  __.—__ 
 
                 Until the effective date of regulations under this subparagraph, any client survey and the use of such information shall be approved by the Inspector General who shall include such approval in his semi-annual report.
 

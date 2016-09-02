@@ -63,23 +63,23 @@
 
 [Section 2605(b)(2) of div. A of Pub. L. 104–208][/us/pl/104/208/s2605/b/2] provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Any regulation of the Board, or any amendment or interpretation of any regulation of the Board issued pursuant to section 187 of the Truth in Lending Act \[[15 U.S.C. 1667f][/us/usc/t15/s1667f]\] (as added by paragraph (1) of this subsection), shall become effective on the first October 1 that follows the date of promulgation of that regulation, amendment, or interpretation by not less than 6 months.
 
->     “(B) __Longer period.—__ 
+>     “(B)  __Longer period__  __.—__ 
 
 >     The Board may, at the discretion of the Board, extend the time period referred to in subparagraph (A) in accordance with subparagraph (C), to permit lessors to adjust their disclosure forms to accommodate the requirements of section 127 \[187\] of the Truth in Lending Act (as added by paragraph (1) of this subsection).
 
->     “(C) __Shorter period.—__ 
+>     “(C)  __Shorter period__  __.—__ 
 
 >     The Board may shorten the time period referred to in subparagraph (A), if the Board makes a specific finding that such action is necessary to comply with the findings of a court or to prevent an unfair or deceptive practice.
 
->     “(D) __Compliance before effective date.—__ 
+>     “(D)  __Compliance before effective date__  __.—__ 
 
 >     Any lessor may comply with any means of disclosure provided for in section 127 \[187\] of the Truth in Lending Act (as added by paragraph (1) of this subsection) before the effective date of such requirement.
 
->     “(E) __Definitions.—__ 
+>     “(E)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection, the term ‘lessor’ has the same meaning as in section 181 of the Truth in Lending Act \[[15 U.S.C. 1667][/us/usc/t15/s1667]\].”
 
@@ -87,7 +87,7 @@
 
 [Section 2605(a) of div. A of Pub. L. 104–208][/us/pl/104/208/s2605/a] provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -97,7 +97,7 @@
 
 >         “(C) there has been a continued trend toward leasing automobiles and other durable goods for consumer use as an alternative to installment credit sales and that leasing product advances have occurred such that lessors have been unable to provide consistent industry-wide disclosures to fully account for the competitive progress that has occurred.
 
->     “(2) __Purposes.—__ 
+>     “(2)  __Purposes__  __.—__ 
 
 >     The purposes of this section are—
 

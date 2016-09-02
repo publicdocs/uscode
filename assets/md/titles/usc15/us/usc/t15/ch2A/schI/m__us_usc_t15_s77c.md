@@ -253,7 +253,7 @@
 
 [Pub. L. 111–203, title IX, § 989J][/us/pl/111/203/s989J], July 21, 2010, [124 Stat. 1949][/us/stat/124/1949], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commission shall treat as exempt securities described under section 3(a)(8) of the Securities Act of 1933 ([15 U.S.C. 77c(a)(8)][/us/usc/t15/s77c/a/8]) any insurance or endowment policy or annuity contract or optional annuity contract—
 
@@ -281,7 +281,7 @@
 
 >             “(B) by an insurance company that adopts and implements practices on a nationwide basis for the sale of any insurance or endowment policy or annuity contract or optional annuity contract that meet or exceed the minimum requirements established by the National Association of Insurance Commissioners Suitability in Annuity Transactions Model Regulation (Model 275), and any successor thereto, and is therefore subject to examination by the State of domicile of the insurance company, or by any other State where the insurance company conducts sales of such products, for the purpose of monitoring compliance under this section.
 
->     “(b) __Rule of Construction.—__ 
+>     “(b)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to affect whether any insurance or endowment policy or annuity contract or optional annuity contract that is not described in this section is or is not an exempt security under section 3(a)(8) of the Securities Act of 1933 ([15 U.S.C. 77c(a)(8)][/us/usc/t15/s77c/a/8]).”
 

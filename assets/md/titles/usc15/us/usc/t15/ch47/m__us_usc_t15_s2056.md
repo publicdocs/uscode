@@ -103,27 +103,27 @@
 
 > “SEC. 2. __CHILD-RESISTANT PORTABLE GASOLINE CONTAINERS.__ 
 
->     “(a) __Consumer Product Safety Rule.—__ 
+>     “(a)  __Consumer Product Safety Rule__  __.—__ 
 
 >     The provision of subsection (b) shall be considered to be a consumer product safety rule issued by the Consumer Product Safety Commission under section 9 of the Consumer Product Safety Act ([15 U.S.C. 2058][/us/usc/t15/s2058]).
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     Effective 6 months after the date of enactment of this Act \[July 17, 2008\], each portable gasoline container manufactured on or after that date for sale in the United States shall conform to the child-resistance requirements for closures on portable gasoline containers specified in the standard ASTM F2517-05, issued by ASTM International.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     As used in this Act, the term ‘portable gasoline container’ means any portable gasoline container intended for use by consumers.
 
->     “(d) __Revision of Rule.—__ 
+>     “(d)  __Revision of Rule__  __.—__ 
 
 >     If, after the enactment of this Act, ASTM International proposes to revise the child resistance requirements of ASTM F2517-05, ASTM International shall notify the Consumer Product Safety Commission of the proposed revision and the proposed revision shall be incorporated in the consumer product safety rule under subsection (a) unless, within 60 days of such notice, the Commission notifies ASTM International that the Commission has determined that such revision does not carry out the purposes of subsection (b).
 
->     “(e) __Implementing Regulations.—__ 
+>     “(e)  __Implementing Regulations__  __.—__ 
 
 >     [Section 553 of title 5][/us/usc/t5/s553], United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section, and sections 7 and 9 of the Consumer Product Safety Act \[[15 U.S.C. 2056][/us/usc/t15/s2056], 2058\] shall not apply to such issuance.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[July 17, 2008\], the Consumer Product Safety Commission shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on—
 
@@ -137,7 +137,7 @@
 
 [Pub. L. 101–608, title II, § 203][/us/pl/101/608/s203], Nov. 16, 1990, [104 Stat. 3123][/us/stat/104/3123], provided that:
 
->     “(a) __Consumer Product Safety Rule.—__ 
+>     “(a)  __Consumer Product Safety Rule__  __.—__ 
 
 >     The provisions of subsection (b) shall be considered to be a consumer product safety rule issued by the Consumer Product Safety Commission under section 9 of the Consumer Product Safety Act \[[15 U.S.C. 2058][/us/usc/t15/s2058]\].
 
@@ -151,27 +151,27 @@
 
 >             “(B) If, by June 1, 1992, the Underwriters Laboratories, Inc., has not issued a revision to the May 4, 1988, Standards for Safety—UL 325, third edition, to require an entrapment protection feature or device in addition to that required by the May 4, 1988, Standard, the Consumer Product Safety Commission shall begin a rulemaking proceeding, to be completed no later than October 31, 1992, to require an additional such feature or device on all automatic residential garage door openers manufactured on or after January 1, 1993, for sale in the United States. If such a revision is issued by the Underwriters Laboratories, Inc. after the rulemaking has commenced, the rulemaking shall be terminated and the revision shall be incorporated in the consumer product safety rule under subsection (a) unless the Commission has determined under subsection (c) that such revision does not carry out the purposes of subsection (b).
 
->     “(c) __Revision of Rule.—__ 
+>     “(c)  __Revision of Rule__  __.—__ 
 
 >     If, after June 1, 1992, or the date of a revision described in subsection (b)(2)(B) if later, the Underwriters Laboratories, Inc. proposes to further revise the entrapment protection requirements of the American National Standards Institute Underwriters Laboratories, Inc. Standards for Safety—UL 325, third edition, the Laboratories shall notify the Consumer Product Safety Commission of the proposed revision and the proposed revision shall be incorporated in the consumer product safety rule under subsection (a) unless, within 30 days of such notice, the Commission notifies the Laboratories that the Commission has determined that such revision does not carry out the purposes of subsection (b).
 
->     “(d) __Labeling.—__ 
+>     “(d)  __Labeling__  __.—__ 
 
 >     On and after January 1, 1991, a manufacturer selling or offering for sale in the United States an automatic residential garage door opener manufactured on or after January 1, 1991, shall clearly identify on any container of the system and on the system the month or week and year the system was manufactured and its conformance with the requirements of subsection (b). The display of the UL logo or listing mark, and compliance with the date marking requirements of UL 325, on both the container and the system, shall satisfy the requirements of this subsection.
 
->     “(e) __Notification.—__ 
+>     “(e)  __Notification__  __.—__ 
 
 >     Effective on and after July 1, 1991, all manufacturers of automatic residential garage door openers shall, in consultation with the Consumer Product Safety Commission, notify the public of the potential for entrapment by garage doors equipped with automatic garage door openers and advise the public to test their openers for the entrapment protection feature or device required by subsection (b).
 
->     “(f) __Preemption.—__ 
+>     “(f)  __Preemption__  __.—__ 
 
 >     In applying section 26(a) of the Consumer Product Safety Act ([15 U.S.C. 2075][/us/usc/t15/s2075]) \[[15 U.S.C. 2075(a)][/us/usc/t15/s2075/a]\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associated with automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
 
->     “(g) __Regulations.—__ 
+>     “(g)  __Regulations__  __.—__ 
 
 >     [Section 553 of title 5][/us/usc/t5/s553], United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section and sections 7 and 9 of the Consumer Product Safety Act \[[15 U.S.C. 2056][/us/usc/t15/s2056], 2058\] do not apply to such issuance. Any additional or revised requirement issued by the Commission shall provide an adequate degree of protection to the public.
 
->     “(h) __Construction.—__ 
+>     “(h)  __Construction__  __.—__ 
 
 >     Nothing in this section shall affect or modify in any way the obligations or liabilities of any person under the common law or any Federal or State law.”
 

@@ -113,7 +113,7 @@
 
         (1) __Governmentwide goals.—__ 
 
-            (A) __Establishment.—__ 
+            (A)  __Establishment__  __.—__ 
 
             The President shall annually establish Governmentwide goals for procurement contracts awarded to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women in accordance with the following:
 
@@ -127,7 +127,7 @@
 
                 (v) The Governmentwide goal for participation by small business concerns owned and controlled by women shall be established at not less than 5 percent of the total value of all prime contract and subcontract awards for each fiscal year.
 
-            (B) __Achievement of governmentwide goals.—__ 
+            (B)  __Achievement of governmentwide goals__  __.—__ 
 
             Each agency shall have an annual goal that presents, for that agency, the maximum practicable opportunity for small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women to participate in the performance of contracts let by such agency. The Small Business Administration and the Administrator for Federal Procurement Policy shall, when exercising their authority pursuant to paragraph (2), insure that the cumulative annual prime contract goals for all agencies meet or exceed the annual Governmentwide prime contract goal established by the President pursuant to this paragraph.
 
@@ -163,9 +163,11 @@
 
             (A) the extent of the participation by small business concerns, small business concerns owned and controlled by veterans (including service-disabled veterans), qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women in the procurement contracts of such agency during such fiscal year;
 
-            (B) whether the agency achieved the goals established for the agency under subsection (g)(2) with respect to such fiscal year; and
+            (B) whether the agency achieved the goals established for the agency under subsection (g)(2) with respect to such fiscal year;
 
-            (C) any justifications for a failure to achieve such goals.
+            (C) any justifications for a failure to achieve such goals; and
+
+            (D) a remediation plan with proposed new practices to better meet such goals, including analysis of factors leading to any failure to achieve such goals.
 
         (2) __Reports by Administrator__ 
 
@@ -375,11 +377,11 @@
 
     (l) __Procurement center representatives__ 
 
-        (1) __Assignment and role.—__ 
+        (1)  __Assignment and role__  __.—__ 
 
         The Administrator shall assign to each major procurement center a procurement center representative with such assistance as may be appropriate.
 
-        (2) __Activities.—__ 
+        (2)  __Activities__  __.—__ 
 
         A procurement center representative is authorized to—
 
@@ -395,21 +397,21 @@
 
             (F) receive unsolicited proposals from small business concerns and transmit such proposals to personnel of the activity responsible for reviewing such proposals, who shall furnish the procurement center representative with information regarding the disposition of any such proposal;
 
-            (G) consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
+            (G) consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “paragraphs”. </sup></sup>  (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
 
             (H) be an advocate for the maximum practicable utilization of small business concerns in Federal contracting, including by advocating against the consolidation or bundling of contract requirements when not justified; and
 
             (I) carry out any other responsibility assigned by the Administrator.
 
-        (3) __Appeals.—__ 
+        (3)  __Appeals__  __.—__ 
 
         A procurement center representative is authorized to appeal the failure to act favorably on any recommendation made pursuant to paragraph (2). Such appeal shall be filed and processed in the same manner and subject to the same conditions and limitations as an appeal filed by the Administrator pursuant to subsection (a) of this section.
 
         (4) The Administration shall assign and co-locate at least two small business technical advisers to each major procurement center in addition to such other advisers as may be authorized from time to time. The sole duties of such advisers shall be to assist the procurement center representative for the center to which such advisers are assigned in carrying out the functions described in paragraph (2) and the representatives referred to in subsection (k)(6) of this section.
 
-        (5) __Position requirements__ 
+        (5)  __Position requirements__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A procurement center representative assigned under this subsection shall—
 
@@ -419,25 +421,25 @@
 
                 (iii) have a Level III Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that any person serving in such a position on January 2, 2013, may continue to serve in that position for a period of 5 years without the required certification.
 
-            (B) __Compensation.—__ 
+            (B)  __Compensation__  __.—__ 
 
             The Administrator shall establish personnel positions for procurement center representatives assigned under this subsection, which are classified at a grade level of the General Schedule sufficient to attract and retain highly qualified personnel.
 
-        (6) __Major procurement center defined.—__ 
+        (6)  __Major procurement center defined__  __.—__ 
 
         For purposes of this subsection, the term “major procurement center” means a procurement center that, in the opinion of the Administrator, purchases substantial dollar amounts of goods or services, including goods or services that are commercially available.
 
-        (7) __Training__ 
+        (7)  __Training__ 
 
-            (A) __Authorization.—__ 
+            (A)  __Authorization__  __.—__ 
 
-            At such times as the Administrator deems appropriate, the breakout procurement center representative  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “the procurement center representative”. </sup></sup>  shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
+            At such times as the Administrator deems appropriate, the breakout procurement center representative  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “the procurement center representative”. </sup></sup>  shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
 
-            (B) __Limitation.—__ 
+            (B)  __Limitation__  __.—__ 
 
             A procurement center representative may provide training under subparagraph (A) only to the extent that the training does not interfere with the representative carrying out other activities under this subsection.
 
-        (8) __Annual briefing and report.—__ 
+        (8)  __Annual briefing and report__  __.—__ 
 
         A procurement center representative shall prepare and personally deliver an annual briefing and report to the head of the procurement center to which such representative is assigned. Such briefing and report shall detail the past and planned activities of the representative and shall contain such recommendations for improvement in the operation of the center as may be appropriate. The head of such center shall personally receive such briefing and report and shall, within 60 calendar days after receipt, respond, in writing, to each recommendation made by such representative.
 
@@ -447,7 +449,7 @@
 
          Each agency subject to the requirements of [section 2323 of title 10][/us/usc/t10/s2323] shall, when implementing such requirements—
 
-            (A) establish policies and procedures that insure that there will be no reduction in the number of  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “or”. </sup></sup>  dollar value of contracts awarded pursuant to this section and [section 637(a) of this title][/us/usc/t15/s637/a] in order to achieve any goal or other program objective; and
+            (A) establish policies and procedures that insure that there will be no reduction in the number of  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “or”. </sup></sup>  dollar value of contracts awarded pursuant to this section and [section 637(a) of this title][/us/usc/t15/s637/a] in order to achieve any goal or other program objective; and
 
             (B) assure that such requirements will not alter or change the procurement process used to implement this section or [section 637(a) of this title][/us/usc/t15/s637/a].
 
@@ -477,7 +479,7 @@
 
         (2) __Database__ 
 
-            (A)  __ <sup>\[__  __5__  __\]</sup> __  __ <sup><sup> __  __5__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __  __In general__ 
+            (A)  __ <sup>\[__  __6__  __\]</sup> __  __ <sup><sup> __  __6__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __  __In general__ 
 
             Not later than 180 days after December 21, 2000, the Administrator of the Small Business Administration shall develop and shall thereafter maintain a database containing data and information regarding—
 
@@ -575,7 +577,7 @@
 
         (3) reserve 1 or more contract awards for small business concerns under full and open multiple award procurements, including the subcategories of small business concerns identified in subsection (g)(2).
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[15\], July 18, 1958, [72 Stat. 395][/us/stat/72/395]; [Pub. L. 95–89, title V, § 502][/us/pl/95/89/s502], Aug. 4, 1977, [91 Stat. 562][/us/stat/91/562]; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 221, 232, 233, Oct. 24, 1978, [92 Stat. 1770][/us/stat/92/1770], 1772; [Pub. L. 96–302, title I][/us/pl/96/302], §§ 116, 117, July 2, 1980, [94 Stat. 839][/us/stat/94/839]; [Pub. L. 98–577, title IV, § 403(a)][/us/pl/98/577/s403/a], Oct. 30, 1984, [98 Stat. 3080][/us/stat/98/3080]; [Pub. L. 99–272, title XVIII, § 18003(a)][/us/pl/99/272/s18003/a], Apr. 7, 1986, [100 Stat. 363][/us/stat/100/363]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–132, 1783–147 to 1783–149, 1783–152, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–132, 3341–147 to 3341–149, 3341–152; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c), Nov. 14, 1986, [100 Stat. 3912][/us/stat/100/3912], 3926–3928, 3932, renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(a)(1)][/us/pl/100/26/s10/a/1], (b)(1), Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–180, div. A, title VIII, § 809(a)][/us/pl/100/180/s809/a]–(c), Dec. 4, 1987, [101 Stat. 1130][/us/stat/101/1130]; [Pub. L. 100–496, § 12][/us/pl/100/496/s12], Oct. 17, 1988, [102 Stat. 2465][/us/stat/102/2465]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 110, 133(a), Nov. 3, 1988, [102 Stat. 2994][/us/stat/102/2994], 3005; [Pub. L. 100–656, title V][/us/pl/100/656], §§ 502, 503, title VI, §§ 601, 603, Nov. 15, 1988, [102 Stat. 3881][/us/stat/102/3881], 3887, 3888; [Pub. L. 101–37][/us/pl/101/37], §§ 19, 21, June 15, 1989, [103 Stat. 74][/us/stat/103/74], 75; [Pub. L. 101–510, div. A, title VIII, § 806(e)(3)][/us/pl/101/510/s806/e/3], Nov. 5, 1990, [104 Stat. 1593][/us/stat/104/1593]; [Pub. L. 101–574, title II, § 208][/us/pl/101/574/s208], Nov. 15, 1990, [104 Stat. 2820][/us/stat/104/2820]; [Pub. L. 102–190, div. A, title VIII, § 806(d)][/us/pl/102/190/s806/d], Dec. 5, 1991, [105 Stat. 1419][/us/stat/105/1419]; [Pub. L. 102–366, title II, § 232(b)][/us/pl/102/366/s232/b], Sept. 4, 1992, [106 Stat. 1002][/us/stat/106/1002]; [Pub. L. 102–484, div. A, title VIII, § 801(h)(8)][/us/pl/102/484/s801/h/8], Oct. 23, 1992, [106 Stat. 2446][/us/stat/106/2446]; [Pub. L. 102–569, title IX, § 911(b)][/us/pl/102/569/s911/b], Oct. 29, 1992, [106 Stat. 4486][/us/stat/106/4486]; [Pub. L. 103–355, title IV, § 4004][/us/pl/103/355/s4004], title VII, §§ 7101(a), 7106(a), Oct. 13, 1994, [108 Stat. 3338][/us/stat/108/3338], 3367, 3374; [Pub. L. 103–403, title III, § 305][/us/pl/103/403/s305], Oct. 22, 1994, [108 Stat. 4189][/us/stat/108/4189]; [Pub. L. 104–106, div. D, title XLIII, § 4321(c)(3)][/us/pl/104/106/s4321/c/3], Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674]; [Pub. L. 105–135, title IV, § 413][/us/pl/105/135/s413], title VI, § 603(b), Dec. 2, 1997, [111 Stat. 2618][/us/stat/111/2618], 2632; [Pub. L. 106–50, title V, § 502][/us/pl/106/50/s502], title VI, § 601, Aug. 17, 1999, [113 Stat. 247][/us/stat/113/247], 248; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, §§ 806(a), 810\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–706; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1312(a), (b), 1331, 1333, 1346, 1347(b)(2), Sept. 27, 2010, [124 Stat. 2537][/us/stat/124/2537], 2541, 2542, 2546, 2547; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1621, 1623, 1631(a), (b), 1632, 1691, 1696(a), (b)(3), Jan. 2, 2013, [126 Stat. 2067][/us/stat/126/2067], 2069–2071, 2073, 2087, 2090, 2091.)
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[15\], July 18, 1958, [72 Stat. 395][/us/stat/72/395]; [Pub. L. 95–89, title V, § 502][/us/pl/95/89/s502], Aug. 4, 1977, [91 Stat. 562][/us/stat/91/562]; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 221, 232, 233, Oct. 24, 1978, [92 Stat. 1770][/us/stat/92/1770], 1772; [Pub. L. 96–302, title I][/us/pl/96/302], §§ 116, 117, July 2, 1980, [94 Stat. 839][/us/stat/94/839]; [Pub. L. 98–577, title IV, § 403(a)][/us/pl/98/577/s403/a], Oct. 30, 1984, [98 Stat. 3080][/us/stat/98/3080]; [Pub. L. 99–272, title XVIII, § 18003(a)][/us/pl/99/272/s18003/a], Apr. 7, 1986, [100 Stat. 363][/us/stat/100/363]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–132, 1783–147 to 1783–149, 1783–152, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–132, 3341–147 to 3341–149, 3341–152; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c), Nov. 14, 1986, [100 Stat. 3912][/us/stat/100/3912], 3926–3928, 3932, renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(a)(1)][/us/pl/100/26/s10/a/1], (b)(1), Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–180, div. A, title VIII, § 809(a)][/us/pl/100/180/s809/a]–(c), Dec. 4, 1987, [101 Stat. 1130][/us/stat/101/1130]; [Pub. L. 100–496, § 12][/us/pl/100/496/s12], Oct. 17, 1988, [102 Stat. 2465][/us/stat/102/2465]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 110, 133(a), Nov. 3, 1988, [102 Stat. 2994][/us/stat/102/2994], 3005; [Pub. L. 100–656, title V][/us/pl/100/656], §§ 502, 503, title VI, §§ 601, 603, Nov. 15, 1988, [102 Stat. 3881][/us/stat/102/3881], 3887, 3888; [Pub. L. 101–37][/us/pl/101/37], §§ 19, 21, June 15, 1989, [103 Stat. 74][/us/stat/103/74], 75; [Pub. L. 101–510, div. A, title VIII, § 806(e)(3)][/us/pl/101/510/s806/e/3], Nov. 5, 1990, [104 Stat. 1593][/us/stat/104/1593]; [Pub. L. 101–574, title II, § 208][/us/pl/101/574/s208], Nov. 15, 1990, [104 Stat. 2820][/us/stat/104/2820]; [Pub. L. 102–190, div. A, title VIII, § 806(d)][/us/pl/102/190/s806/d], Dec. 5, 1991, [105 Stat. 1419][/us/stat/105/1419]; [Pub. L. 102–366, title II, § 232(b)][/us/pl/102/366/s232/b], Sept. 4, 1992, [106 Stat. 1002][/us/stat/106/1002]; [Pub. L. 102–484, div. A, title VIII, § 801(h)(8)][/us/pl/102/484/s801/h/8], Oct. 23, 1992, [106 Stat. 2446][/us/stat/106/2446]; [Pub. L. 102–569, title IX, § 911(b)][/us/pl/102/569/s911/b], Oct. 29, 1992, [106 Stat. 4486][/us/stat/106/4486]; [Pub. L. 103–355, title IV, § 4004][/us/pl/103/355/s4004], title VII, §§ 7101(a), 7106(a), Oct. 13, 1994, [108 Stat. 3338][/us/stat/108/3338], 3367, 3374; [Pub. L. 103–403, title III, § 305][/us/pl/103/403/s305], Oct. 22, 1994, [108 Stat. 4189][/us/stat/108/4189]; [Pub. L. 104–106, div. D, title XLIII, § 4321(c)(3)][/us/pl/104/106/s4321/c/3], Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674]; [Pub. L. 105–135, title IV, § 413][/us/pl/105/135/s413], title VI, § 603(b), Dec. 2, 1997, [111 Stat. 2618][/us/stat/111/2618], 2632; [Pub. L. 106–50, title V, § 502][/us/pl/106/50/s502], title VI, § 601, Aug. 17, 1999, [113 Stat. 247][/us/stat/113/247], 248; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, §§ 806(a), 810\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–706; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1312(a), (b), 1331, 1333, 1346, 1347(b)(2), Sept. 27, 2010, [124 Stat. 2537][/us/stat/124/2537], 2541, 2542, 2546, 2547; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1621, 1623, 1631(a), (b), 1632, 1691, 1696(a), (b)(3), Jan. 2, 2013, [126 Stat. 2067][/us/stat/126/2067], 2069–2071, 2073, 2087, 2090, 2091; [Pub. L. 113–66, div. A, title XVI, § 1613][/us/pl/113/66/s1613], Dec. 26, 2013, [127 Stat. 948][/us/stat/127/948].)
 
  __References in Text__ 
 
@@ -624,6 +626,8 @@
     “(ii) A procurement employee or program manager described in this clause is a senior procurement executive, senior program manager, or Director of Small and Disadvantaged Business Utilization of a Federal agency having contracting authority.”
 
     Subsec. (h). [Pub. L. 112–239, § 1632][/us/pl/112/239/s1632], amended subsec. (h) generally. Prior to amendment, subsec. (h) related to annual Federal agency reports to Small Business Administration and inclusion of Administration information in President’s annual state of small business report to Congress.
+
+    Subsec. (h)(1)(D). [Pub. L. 113–66][/us/pl/113/66] added subpar. (D).
 
     Subsec. (k). [Pub. L. 112–239, § 1691(d)][/us/pl/112/239/s1691/d], substituted “, with experience serving in any combination of the following roles: program manager, deputy program manager, or assistant program manager for Federal acquisition program; chief engineer, systems engineer, assistant engineer, or product support manager for Federal acquisition program; Federal contracting officer; small business technical advisor; contracts administrator for Federal Government contracts; attorney specializing in Federal procurement law; small business liaison officer; officer or employee who managed Federal Government contracts for a small business; or individual whose primary responsibilities were for the functions and duties of section 637, 644 or 657q of this title. Such officer or employee” for “who shall” in introductory provisions.
 
@@ -965,11 +969,11 @@
 
 [Pub. L. 111–240, title I, § 1312(d)][/us/pl/111/240/s1312/d], Sept. 27, 2010, [124 Stat. 2538][/us/stat/124/2538], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Administrator \[of the Small Business Administration\] shall implement a 3-year pilot electronic procurement center representative program.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 30 days after the pilot program under paragraph (1) ends, the Comptroller General of the United States shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding the pilot program.”
 
@@ -977,7 +981,7 @@
 
 [Pub. L. 111–240, title I, § 1314][/us/pl/111/240/s1314], Sept. 27, 2010, [124 Stat. 2540][/us/stat/124/2540], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a) __ Definitions__  __.—__ 
 
 >     In this section—
 
@@ -993,27 +997,27 @@
 
 >             “(C) performance measurement and quality assurance.
 
->     “(b) __Establishment.—__ 
+>     “(b)  __Establishment__  __.—__ 
 
 >     The Administrator shall establish a Small Business Teaming Pilot Program for teaming and joint ventures involving small business concerns.
 
->     “(c) __Grants.—__ 
+>     “(c)  __Grants__  __.—__ 
 
 >     Under the Pilot Program, the Administrator may make grants to eligible organizations to provide assistance and guidance to teams of small business concerns seeking to compete for larger procurement contracts.
 
->     “(d) __Contracting Opportunities.—__ 
+>     “(d) __ Contracting Opportunities__  __.—__ 
 
 >     The Administrator shall work with eligible organizations receiving a grant under the Pilot Program to recommend appropriate contracting opportunities for teams or joint ventures of small business concerns.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 1 year before the date on which the authority to carry out the Pilot Program terminates under subsection (f), the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the effectiveness of the Pilot Program.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The authority to carry out the Pilot Program shall terminate 5 years after the date of enactment of this Act \[Sept. 27, 2010\].
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for grants under subsection (c) $5,000,000 for each of fiscal years 2010 through 2015.”
 
@@ -1021,123 +1025,17 @@
 
  __Manufacturing Contracts Through Manufacturing Application and Education Centers__ 
 
-[Pub. L. 103–403, title III, § 303][/us/pl/103/403/s303], Oct. 22, 1994, [108 Stat. 4188][/us/stat/108/4188], provided that:
-
->     “(a) __In General.—__ 
-
->     The Small Business Administration shall promote the award of Federal manufacturing contracts to small business concerns that participate in manufacturing application and education centers by working with the Department of Commerce and other agencies to identify components and subsystems that are both critical and currently foreign-sourced.
-
->     “(b) __Qualifications.—__ 
-
->     In order to qualify as a manufacturing application and education center under this section, an entity shall have the capacity to assist small business concerns in a shared-use production environment and to offer the following services:
-
->         “(1) Technology demonstration.
-
->         “(2) Technology education.
-
->         “(3) Technology application support.
-
->         “(4) Technology advancement support.
-
->     “(c) __Inapplicability of Certain Requirements.—__ 
-
->     The requirements of section 15(o)(1)(B) of the Small Business Act \[former [15 U.S.C. 644][/us/usc/t15/s644](o)(1)(B)\] shall not apply with respect to any manufacturing contract carried out by a small business concern in conjunction with a manufacturing application and education center under this section.
-
->     “(d) __Regulations.—__ 
-
->     Not later than 180 days after the date of enactment of this Act \[Oct. 22, 1994\], the Administrator of the Small Business Administration shall promulgate final regulations to carry out this section.
-
->     “(e) __Termination of Authority.—__ 
-
->     The authority of the Small Business Administration under this section shall terminate on September 30, 1997.
-
->     “(f) __Authorization of Appropriations.—__ 
-
->     There are authorized to be appropriated to the Small Business Administration, such sums as may be necessary to carry out this section.”
+    [Pub. L. 103–403, title III, § 303][/us/pl/103/403/s303], Oct. 22, 1994, [108 Stat. 4188][/us/stat/108/4188], authorized the Small Business Administration to promote the award of Federal manufacturing contracts to small business concerns that participate in manufacturing application and education centers by working with the Department of Commerce and other agencies to identify components and subsystems that are both critical and currently foreign-sourced, such authority to terminate on Sept. 30, 1997.
 
  __Pilot Program for Very Small Business Concerns__ 
 
-[Pub. L. 103–403, title III, § 304][/us/pl/103/403/s304], Oct. 22, 1994, [108 Stat. 4188][/us/stat/108/4188], as amended by [Pub. L. 105–135, title V, § 508][/us/pl/105/135/s508], Dec. 2, 1997, [111 Stat. 2627][/us/stat/111/2627]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695, provided that:
-
->     “(a) __Establishment.—__ 
-
->     The Administrator shall establish and carry out a pilot program in accordance with the requirements of this section to provide improved access to Federal contract opportunities for very small business concerns.
-
->     “(b) __Procurement Contracts.—__ 
-
->         “(1) __In general.—__ 
-
->         In carrying out subsection (a), the Administrator shall identify procurement contracts of Federal agencies for award under the program.
-
->         “(2) __Contract awards.—__ 
-
->         Under the program established pursuant to this section, the award of a procurement contract of a Federal agency identified by the Administration pursuant to paragraph (1) shall be made by the agency to an eligible program participant selected, and determined to be responsible, by the agency.
-
->         “(3) __Competition.—__ 
-
->         All contract opportunities offered for award under the program shall be awarded on the basis of competition among eligible very small business concerns.
-
->     “(c) __Eligibility.—__ 
-
->     Only a very small business concern shall be eligible to compete for a contract to be awarded under the program. A contracting officer may rely in good faith on a written certification that a small business concern is a very small business concern.
-
->     “(d) __Delegation of Authority.—__ 
-
->     The authority of the Administrator under subsections (b)(1) and (c) shall be delegated to not less than 5 and not more than 10 districts of the Administration to promote the award of contracts that can be performed by very small business concerns.
-
->     “(e) __Financial Assistance.—__ 
-
->     In order to assist very small business concerns receiving contract awards under the program, the Administrator shall establish a preauthorization program for such concerns for the purpose of receiving financial assistance under section 7(a) of the Small Business Act \[[15 U.S.C. 636(a)][/us/usc/t15/s636/a]\].
-
->     “(f) __Attainment of Contract Goals.—__ 
-
->     All contract awards made under the program shall be counted toward the attainment of the goals specified in section 15(g) of the Small Business Act \[[15 U.S.C. 644(g)][/us/usc/t15/s644/g]\].
-
->     “(g) __Regulations.—__ 
-
->     The Administrator shall—
-
->         “(1) issue proposed regulations to carry out this section not later than 180 days after the date of enactment of this Act \[Oct. 22, 1994\]; and
-
->         “(2) issue final regulations to carry out this section not later than 270 days after the date of enactment of this Act.
-
->     “(h) __Report to Congress.—__ 
-
->     Not later than April 30, 1997, the Administrator shall transmit to the Congress a report on the results of the program, together with such recommendations as the Administrator deems appropriate.
-
->     “(i) __Program Term.—__ 
-
->     Implementation of the program shall begin not later than August 30, 1995. The program authorized by this section shall expire on September 30, 2003.
-
->     “(j) __Definitions.—__ 
-
->     For purposes of this section, the following definitions shall apply:
-
->         “(1) __Administration.—__ 
-
->         The term ‘Administration’ means the Small Business Administration.
-
->         “(2) __Administrator.—__ 
-
->         The term ‘Administrator’ means the Administrator of the Small Business Administration.
-
->         “(3) __Program.—__ 
-
->         The term ‘program’ means a program established pursuant to subsection (a).
-
->         “(4) __Very small business concern.—__ 
-
->         The term ‘very small business concern’ means a small business concern that—
-
->             “(A) has not more than 15 employees; and
-
->             “(B) has average annual receipts that total not more than $1,000,000.”
+    [Pub. L. 103–403, title III, § 304][/us/pl/103/403/s304], Oct. 22, 1994, [108 Stat. 4188][/us/stat/108/4188], as amended by [Pub. L. 105–135, title V, § 508][/us/pl/105/135/s508], Dec. 2, 1997, [111 Stat. 2627][/us/stat/111/2627]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695, required the Administrator of the Small Business Administration to establish and carry out a pilot program related to improved access to Federal contract opportunities for very small business concerns beginning not later than Aug. 30, 1995, and expiring on Sept. 30, 2003.
 
  __Expedited Resolution of Contract Administration Matters__ 
 
 [Pub. L. 103–355, title II, § 2353][/us/pl/103/355/s2353], Oct. 13, 1994, [108 Stat. 3323][/us/stat/108/3323], provided that:
 
->     “(a) __Regulations Required.—__ 
+>     “(a)  __Regulations Required__  __.—__ 
 
 >         (1)
 
@@ -1149,11 +1047,11 @@
 
 >         “(2) The provisions shall not apply to a request for a contracting officer’s decision under the Contract Disputes Act of 1978 (\[former\] [41 U.S.C. 601][/us/usc/t41/s601] et seq.) \[see [41 U.S.C. 7101][/us/usc/t41/s7101] et seq.\].
 
->     “(b) __Rule of Construction.—__ 
+>     “(b)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be considered as creating any rights under the Contract Disputes Act of 1978 (\[former\] [41 U.S.C. 601][/us/usc/t41/s601] et seq.) \[see [41 U.S.C. 7101][/us/usc/t41/s7101] et seq.\].
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     In this section, the term ‘small business concern’ means a business concern that meets the requirements of section 3(a) of the Small Business Act ([15 U.S.C. 632(a)][/us/usc/t15/s632/a]) and the regulations promulgated pursuant to that section.”
 
@@ -1161,7 +1059,7 @@
 
 [Pub. L. 103–355, title VII, § 7102][/us/pl/103/355/s7102], Oct. 13, 1994, [108 Stat. 3367][/us/stat/108/3367], as amended by [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695, provided that:
 
->     “(a) __Procurement Procedures Authorized.—__ 
+>     “(a)  __Procurement Procedures Authorized__  __.—__ 
 
 >         (1)
 
@@ -1175,11 +1073,11 @@
 
 >     “(b) __Implementation Through the Federal Acquisition Regulation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Federal Acquisition Regulation shall be revised to provide for uniform implementation of the authority provided in subsection (a).
 
->         “(2) __Matters to be addressed.—__ 
+>         “(2)  __Matters to be addressed__  __.—__ 
 
 >         The revisions of the Federal Acquisition Regulation made pursuant to paragraph (1) shall include—
 
@@ -1201,7 +1099,7 @@
 
 >                 “(ii) guidance for limiting the use of such restricted competitions in the case of any contracting activity and class of contracts determined in accordance with such procedures to have caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity.
 
->     “(c) __Termination.—__ 
+>     “(c)  __Termination__  __.—__ 
 
 >     This section shall cease to be effective at the end of September 30, 2003.”
 
@@ -1213,15 +1111,11 @@
 
  __Procurement Procedures Under Small Business Competitiveness Demonstration Program Act of 1988__ 
 
-[Pub. L. 102–366, title II, § 202(h)][/us/pl/102/366/s202/h], Sept. 4, 1992, [106 Stat. 996][/us/stat/106/996], provided that: 
-
-> “Restricted competitions pursuant to section 713(b) of the Small Business Competitiveness Demonstration Program Act of 1988 \[[Pub. L. 100–656][/us/pl/100/656]\] (\[former\] [15 U.S.C. 644][/us/usc/t15/s644] note, [102 Stat. 3892][/us/stat/102/3892]) shall not be imposed with respect to the designated industry group of architectural and engineering services if the rate of small business participation exceeds 35 percent, until the improvements to the collection of data regarding prime contract awards (as required by subsection (g) \[amending [section 717 of Pub. L. 100–656][/us/pl/100/656/s717], formerly set out below\]) and the system for collecting data regarding other than prime contract awards (as required by subsection (d) \[amending [section 714 of Pub. L. 100–656][/us/pl/100/656/s714], formerly set out below\]) have been implemented, as determined by the Administrator for Federal Procurement Policy.”
+    [Pub. L. 102–366, title II, § 202(h)][/us/pl/102/366/s202/h], Sept. 4, 1992, [106 Stat. 996][/us/stat/106/996], provided for procurement procedures under the Small Business Competitiveness Demonstration Program Act of 1988 prior to implementation of improvements to the collection of data regarding prime contract awards and of a system for collecting such data.
 
  __Modifications of Test Plan and Policy Direction Under Small Business Competitiveness Demonstration Program Act of 1988__ 
 
-[Pub. L. 102–366, title II, § 202(i)][/us/pl/102/366/s202/i], Sept. 4, 1992, [106 Stat. 996][/us/stat/106/996], provided that: 
-
-> “The Administrator for Federal Procurement Policy shall issue appropriate modifications to the test plan and policy direction issued pursuant to section 715 of the Small Business Competitiveness Demonstration Program Act of 1988 \[[Pub. L. 100–656][/us/pl/100/656], formerly set out below\], to conform to the amendments made by this section and section 201(a) \[amending sections 711 to 714, 716, and 717 of [Pub. L. 100–656][/us/pl/100/656], formerly set out below\].”
+    [Pub. L. 102–366, title II, § 202(i)][/us/pl/102/366/s202/i], Sept. 4, 1992, [106 Stat. 996][/us/stat/106/996], required the Administrator for Federal Procurement Policy to issue certain modifications to the test plan and policy direction under the Small Business Competitiveness Demonstration Program Act of 1988.
 
  __Contract Bundling Study__ 
 
@@ -1521,6 +1415,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/124/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2537
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2067
+[/us/pl/113/66/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1613
+[/us/stat/127/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F948
 [/us/pl/109/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F282
 [/us/stat/120/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1186
 [/us/usc/t31/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6101
@@ -1563,6 +1459,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/112/239/s1631/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1631%2Fb%2F3
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/pl/112/239/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1632
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s1691/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1691%2Fd
 [/us/pl/112/239/s1691/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1691%2Fe%2F1
 [/us/pl/112/239/s1691/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1691%2Fe%2F2
@@ -1765,15 +1662,12 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/pl/103/403/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs303
 [/us/stat/108/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4188
-[/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
 [/us/pl/103/403/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs304
 [/us/stat/108/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4188
 [/us/pl/105/135/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs508
 [/us/stat/111/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2627
 [/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
-[/us/usc/t15/s644/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fg
 [/us/pl/103/355/s2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2353
 [/us/stat/108/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3323
 [/us/usc/t41/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs601
@@ -1793,15 +1687,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t15/s644a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644a
 [/us/pl/102/366/s202/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs202%2Fh
 [/us/stat/106/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F996
-[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
-[/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
-[/us/stat/102/3892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3892
-[/us/pl/100/656/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs717
-[/us/pl/100/656/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs714
 [/us/pl/102/366/s202/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs202%2Fi
 [/us/stat/106/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F996
-[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
-[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
 [/us/pl/102/366/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs321
 [/us/stat/106/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1006
 [/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656

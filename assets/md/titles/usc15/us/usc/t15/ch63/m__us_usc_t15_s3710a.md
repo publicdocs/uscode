@@ -235,7 +235,7 @@
 
 [Pub. L. 106–404, § 8][/us/pl/106/404/s8], Nov. 1, 2000, [114 Stat. 1746][/us/stat/114/1746], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     Within 90 days after the date of the enactment of this Act \[Nov. 1, 2000\], each Federal agency with a federally funded laboratory that has in effect on that date of the enactment one or more cooperative research and development agreements under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a]) shall report to the Committee on National Security of the National Science and Technology Council and the Congress on the general policies and procedures used by that agency to gather and consider the views of other agencies on—
 
@@ -245,7 +245,7 @@
 
 >         with respect to major proposed cooperative research and development agreements that involve critical national security technology or may have a significant impact on domestic or international competitiveness.
 
->     “(b) __Procedures.—__ 
+>     “(b)  __Procedures__  __.—__ 
 
 >     Within 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the Committee on National Security of the National Science and Technology Council, in conjunction with relevant Federal agencies and national laboratories, shall—
 
@@ -261,7 +261,7 @@
 
 >         Procedures established under this subsection shall be designed to the extent possible to use or modify existing procedures, to minimize burdens on Federal agencies, to encourage industrial partnerships with national laboratories, and to minimize delay in the approval or disapproval of joint work statements and cooperative research and development agreements.
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >     Nothing in this Act \[see Short Title of 2000 Amendment note set out under [section 3701 of this title][/us/usc/t15/s3701]\], nor any procedures established under this section shall provide to the Office of Science and Technology Policy, the National Science and Technology Council, or any Federal agency the authority to disapprove a cooperative research and development agreement or joint work statement, under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a]), of another Federal agency.”
 

@@ -85,7 +85,7 @@
 
 > “In this Act \[see Short Title of 2006 Amendment note set out under [section 311 of this title][/us/usc/t15/s311]\]:
 
->     “(1) __Drought.—__ 
+>     “(1)  __Drought__  __.—__ 
 
 >     The term ‘drought’ means a deficiency in precipitation—
 
@@ -99,7 +99,7 @@
 
 >             “(ii) substantial physical damage or injury to individuals, property, or the environment.
 
->     “(2) __Under secretary.—__ 
+>     “(2)  __Under secretary__  __.—__ 
 
 >     The term ‘Under Secretary’ means the Under Secretary of Commerce for Oceans and Atmosphere.”
 

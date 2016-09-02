@@ -27,7 +27,7 @@
 
         (2) __Maximum leverage.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The maximum amount of outstanding leverage made available to any one company licensed under [section 681(c) of this title][/us/usc/t15/s681/c] may not exceed the lesser of—
 
@@ -35,11 +35,11 @@
 
                 (ii) $150,000,000.
 
-            (B) __Multiple licenses under common control.—__ 
+            (B)  __Multiple licenses under common control__  __.—__ 
 
             The maximum amount of outstanding leverage made available to two or more companies licensed under [section 681(c) of this title][/us/usc/t15/s681/c] that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $225,000,000.
 
-            (C) __Investments in low-income geographic areas.—__ 
+            (C)  __Investments in low-income geographic areas__  __.—__ 
 
                 (i) In calculating the outstanding leverage of a company for the purposes of subparagraph (A), the Administrator shall not include the amount of the cost basis of any equity investment made by the company in a smaller enterprise located in a low-income geographic area (as defined in [section 689 of this title][/us/usc/t15/s689]), to the extent that the total of such amounts does not exceed 50 percent of the company’s private capital.
 
@@ -55,21 +55,21 @@
 
             (D) __Investments in energy saving small businesses.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clause (ii), in calculating the outstanding leverage of a company for purposes of subparagraph (A), the Administrator shall exclude the amount of the cost basis of any Energy Saving qualified investment in a smaller enterprise made in the first fiscal year after December 19, 2007, or any fiscal year thereafter by a company licensed in the applicable fiscal year.
 
                 (ii) __Limitations.—__ 
 
-                    (I) __Amount of exclusion.—__ 
+                    (I)  __Amount of exclusion__  __.—__ 
 
                     The amount excluded under clause (i) for a company shall not exceed 33 percent of the private capital of that company.
 
-                    (II) __Maximum investment.—__ 
+                    (II)  __Maximum investment__  __.—__ 
 
                     A company shall not make an Energy Saving qualified investment in any one entity in an amount equal to more than 20 percent of the private capital of that company.
 
-                    (III) __Other terms.—__ 
+                    (III)  __Other terms__  __.—__ 
 
                     The exclusion of amounts under clause (i) shall be subject to such terms as the Administrator may impose to ensure that there is no cost (as that term is defined in [section 661a of title 2][/us/usc/t2/s661a]) with respect to purchasing or guaranteeing any debenture involved.
 
@@ -365,11 +365,11 @@
 
 [Pub. L. 104–208, div. D, title II, § 208(d)(4)(B)][/us/pl/104/208/s208/d/4/B], Sept. 30, 1996, [110 Stat. 3009–744][/us/stat/110/3009-744], provided that:
 
->     “(i) __Uniform applicability.—__ 
+>     “(i)  __Uniform applicability__  __.—__ 
 
 >     Any regulation issued by the Administration to implement section 303(e) of the Small Business Investment Act of 1958 \[[15 U.S.C. 683(e)][/us/usc/t15/s683/e]\] that applies to any licensee with outstanding leverage obtained before the effective date of that regulation, shall apply uniformly to all licensees with outstanding leverage obtained before that effective date.
 
->     “(ii) __Definitions.—__ 
+>     “(ii)  __Definitions__  __.—__ 
 
 >     For purposes of this subparagraph, the terms ‘Administration’, ‘leverage’ and ‘licensee’ have the same meanings as in section 103 of the Small Business Investment Act of 1958 \[[15 U.S.C. 662][/us/usc/t15/s662]\].”
 

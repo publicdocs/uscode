@@ -203,11 +203,11 @@
 
 [Pub. L. 107–100, § 6(d)][/us/pl/107/100/s6/d], (e), Dec. 21, 2001, [115 Stat. 972][/us/stat/115/972], provided that:
 
->     “(d) __Use of Funds.—__ 
+>     “(d)  __Use of Funds__  __.—__ 
 
 >     The amendments made by this section to section 503 of the Small Business Investment Act of 1958 \[[15 U.S.C. 697][/us/usc/t15/s697]\], shall be effective only to the extent that funds are made available under appropriations Acts, which funds shall be utilized by the Administrator to offset the cost (as such term is defined in section 502 of the Federal Credit Reform Act of 1990 \[[2 U.S.C. 661a][/us/usc/t2/s661a]\]) of such amendments.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 636 of this title][/us/usc/t15/s636]\] shall become effective on October 1, 2002.”
 

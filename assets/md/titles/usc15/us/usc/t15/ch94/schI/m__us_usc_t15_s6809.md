@@ -131,6 +131,8 @@
 
  __References in Text__ 
 
+    This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436], which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+
     The Commodity Exchange Act, referred to in par. (3)(B), is [act Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], [42 Stat. 998][/us/stat/42/998], as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7][/us/usc/t7/s1] and Tables.
 
     The Farm Credit Act of 1971, referred to in par. (3)(C), is [Pub. L. 92–181][/us/pl/92/181], Dec. 10, 1971, [85 Stat. 583][/us/stat/85/583], as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12][/us/usc/t12/s2001] and Tables.
@@ -152,6 +154,8 @@
 [/us/usc/t15/s6804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6804
 [/us/pl/106/102/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs509
 [/us/stat/113/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1443
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1

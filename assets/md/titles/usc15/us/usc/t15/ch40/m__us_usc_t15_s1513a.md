@@ -23,7 +23,7 @@
 
     Section is from the Department of Commerce and Related Agencies Appropriations Act, 2006, which is title II of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006.
 
- __Prior Provisions__ 
+ __Similar Provisions__ 
 
     Similar provisions were contained in the following prior appropriation act:
 

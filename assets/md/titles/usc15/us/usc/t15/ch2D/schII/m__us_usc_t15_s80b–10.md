@@ -61,11 +61,11 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act \[July 21, 2010\], the Commission shall complete a study, including recommendations, of ways to improve the access of investors to registration information (including disciplinary actions, regulatory, judicial, and arbitration proceedings, and other information) about registered and previously registered investment advisers, associated persons of investment advisers, brokers and dealers and their associated persons on the existing Central Registration Depository and Investment Adviser Registration Depository systems, as well as identify additional information that should be made publicly available.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The study required by subsection (a) shall include an analysis of the advantages and disadvantages of further centralizing access to the information contained in the 2 systems, including—
 
@@ -73,7 +73,7 @@
 
 >             “(B) the identification of the method and format for displaying and publishing such data to enhance accessibility by and utility to investors.
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     Not later than 18 months after the date of completion of the study required by subsection (a), the Commission shall implement any recommendations of the study.”
 

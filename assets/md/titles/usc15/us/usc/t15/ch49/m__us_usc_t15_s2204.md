@@ -67,11 +67,11 @@
 
 [Pub. L. 105–108, § 4][/us/pl/105/108/s4], Nov. 20, 1997, [111 Stat. 2264][/us/stat/111/2264], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 60 days before the termination or transfer to a private sector person or entity of any significant function of the United States Fire Administration, as described in subsection (b), the Administrator of the United States Fire Administration shall transmit to Congress a report providing notice of that termination or transfer.
 
->     “(b) __Covered Terminations and Transfers.—__ 
+>     “(b)  __Covered Terminations and Transfers__  __.—__ 
 
 >     For purposes of subsection (a), a termination or transfer to a person or entity described in that subsection shall be considered to be a termination or transfer of a significant function of the United States Fire Administration if the termination or transfer—
 
@@ -83,15 +83,15 @@
 
 [Pub. L. 105–108, § 5][/us/pl/105/108/s5], Nov. 20, 1997, [111 Stat. 2265][/us/stat/111/2265], provided that:
 
->     “(a) __Major Reorganization Defined.—__ 
+>     “(a)  __Major Reorganization Defined__  __.—__ 
 
 >     With respect to the United States Fire Administration, the term ‘major reorganization’ means any reorganization of the Administration that involves the reassignment of more than 25 percent of the employees of the Administration.
 
->     “(b) __Notice of Reprogramming.—__ 
+>     “(b)  __Notice of Reprogramming__  __.—__ 
 
 >     If any funds appropriated pursuant to the amendments made by this Act \[see Short Title of 1997 Amendment note set out under [section 2201 of this title][/us/usc/t15/s2201]\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives.
 
->     “(c) __Notice of Reorganization.—__ 
+>     “(c)  __Notice of Reorganization__  __.—__ 
 
 >     Not later than 15 days before any major reorganization of any program, project, or activity of the United States Fire Administration, the Administrator of the United States Fire Administration shall provide notice to the Committees on Science \[now Science, Space, and Technology\] and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate.”
 

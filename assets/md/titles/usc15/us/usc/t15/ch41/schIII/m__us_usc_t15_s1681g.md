@@ -481,11 +481,11 @@
 
 [Pub. L. 104–208, div. A, title II, § 2408(e)(2)][/us/pl/104/208/s2408/e/2], (3), Sept. 30, 1996, [110 Stat. 3009–438][/us/stat/110/3009-438], 3009–439, provided that:
 
->     “(2) __Simplified disclosure.—__ 
+>     “(2)  __Simplified disclosure__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Sept. 30, 1996\], each consumer reporting agency shall develop a form on which such consumer reporting agency shall make the disclosures required under section 609(a) of the Fair Credit Reporting Act \[[15 U.S.C. 1681g(a)][/us/usc/t15/s1681g/a]\], for the purpose of maximizing the comprehensibility and standardization of such disclosures.
 
->     “(3) __Goals.—__ 
+>     “(3)  __Goals__  __.—__ 
 
 >     The Federal Trade Commission shall take appropriate action to assure that the goals of comprehensibility and standardization are achieved in accordance with paragraph (2).”
 

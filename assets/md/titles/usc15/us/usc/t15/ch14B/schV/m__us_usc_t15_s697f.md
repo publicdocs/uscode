@@ -149,7 +149,7 @@
 
 [Pub. L. 103–403, title V, § 502][/us/pl/103/403/s502], Oct. 22, 1994, [108 Stat. 4198][/us/stat/108/4198], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Small Business Administration shall fully utilize the $30,000,000 appropriated in [Public Law 103–317][/us/pl/103/317] \[[108 Stat. 1724][/us/stat/108/1724]\] to reduce, in accordance with this title \[enacting this section and provisions set out as a note under [section 661 of this title][/us/usc/t15/s661]\] and the amendments made by this title, prepayment penalties imposed in connection with debentures issued under—
 
@@ -157,11 +157,11 @@
 
 >         “(2) title III \[probably means title III of [Pub. L. 85–699][/us/pl/85/699], which is classified to section 681 et seq. of this title\] to companies operating under section 301(d) of such Act \[[15 U.S.C. 681(d)][/us/usc/t15/s681/d]\], which have been purchased by the Small Business Administration.
 
->     “(b) __Equal Opportunity.—__ 
+>     “(b)  __Equal Opportunity__  __.—__ 
 
 >     In order to provide an equal opportunity to participate in the program authorized under this title, the Small Business Administration shall afford each borrower or issuer of a debenture subject to this title, not less than 45 days to elect to participate and to provide an earnest money deposit. The Administration shall subsequently allow a period of not less than 4 months, during which those borrowers or issuers that elect to participate shall be allowed to complete the prepayment process.
 
->     “(c) __Restrictions on Participation.—__ 
+>     “(c)  __Restrictions on Participation__  __.—__ 
 
 >     In no event shall the Small Business Administration—
 

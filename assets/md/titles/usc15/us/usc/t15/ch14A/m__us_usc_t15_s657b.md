@@ -177,7 +177,7 @@
 
 [Pub. L. 106–50, title II, § 203][/us/pl/106/50/s203], Aug. 17, 1999, [113 Stat. 239][/us/stat/113/239], as amended by [Pub. L. 108–447, div. K, title I, § 143(b)][/us/pl/108/447/s143/b], Dec. 8, 2004, [118 Stat. 3455][/us/stat/118/3455]; [Pub. L. 110–186, title I, § 103(b)][/us/pl/110/186/s103/b], Feb. 14, 2008, [122 Stat. 625][/us/stat/122/625]; [Pub. L. 112–239, div. A, title XVI, § 1699(c)(3)][/us/pl/112/239/s1699/c/3], Jan. 2, 2013, [126 Stat. 2092][/us/stat/126/2092], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There is established an advisory committee to be known as the ‘Advisory Committee on Veterans Business Affairs’ (in this section referred to as the ‘Committee’), which shall serve as an independent source of advice and policy recommendations to—
 
@@ -193,7 +193,7 @@
 
 >     “(b) __Membership.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Committee shall be composed of 15 members, of whom—
 
@@ -203,35 +203,35 @@
 
 >         “(2) __Appointment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The members of the Committee shall be appointed by the Administrator in accordance with this section.
 
->             “(B) __Initial appointments.—__ 
+>             “(B)  __Initial appointments__  __.—__ 
 
 >             Not later than 90 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Administrator shall appoint the initial members of the Committee.
 
->         “(3) __Political affiliation.—__ 
+>         “(3)  __Political affiliation__  __.—__ 
 
 >         Not more than eight members of the Committee shall be of the same political party as the President.
 
 >         “(4) __Prohibition on federal employment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), no member of the Committee may serve as an officer or employee of the United States.
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             A member of the Committee who accepts a position as an officer or employee of the United States after the date of the member’s appointment to the Committee may continue to serve on the Committee for not more than 30 days after such acceptance.
 
 >         “(5) __Term of service.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B), the term of service of each member of the Committee shall be 3 years.
 
->             “(B) __Terms of initial appointees.—__ 
+>             “(B)  __Terms of initial appointees__  __.—__ 
 
 >             As designated by the Administrator at the time of appointment, of the members first appointed—
 
@@ -239,21 +239,21 @@
 
 >                 “(ii) five shall be appointed for a term of 5 years.
 
->         “(6) __Vacancies.—__ 
+>         “(6)  __Vacancies__  __.—__ 
 
 >         The Administrator shall fill any vacancies on the membership of the Committee not later than 30 days after the date on which such vacancy occurs.
 
 >         “(7) __Chairperson.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The members of the Committee shall elect one of the members to be Chairperson of the Committee.
 
->             “(B) __Vacancies in office of chairperson.—__ 
+>             “(B)  __Vacancies in office of chairperson__  __.—__ 
 
 >             Any vacancy in the office of the Chairperson of the Committee shall be filled by the Committee at the first meeting of the Committee following the date on which the vacancy occurs.
 
->     “(c) __Duties.—__ 
+>     “(c)  __Duties__  __.—__ 
 
 >     The duties of the Committee shall be the following:
 
@@ -269,47 +269,47 @@
 
 >     “(d) __Powers.—__ 
 
->         “(1) __Hearings.—__ 
+>         “(1)  __Hearings__  __.—__ 
 
 >         Subject to subsection (e), the Committee may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Committee considers advisable to carry out its duties.
 
->         “(2) __Information from federal agencies.—__ 
+>         “(2)  __Information from federal agencies__  __.—__ 
 
 >         Upon request of the Chairperson of the Committee, the head of any department or agency of the United States shall furnish such information to the Committee as the Committee considers to be necessary to carry out its duties.
 
->         “(3) __Use of mails.—__ 
+>         “(3)  __Use of mails__  __.—__ 
 
 >         The Committee may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 
->         “(4) __Gifts.—__ 
+>         “(4)  __Gifts__  __.—__ 
 
 >         The Committee may accept, use, and dispose of gifts or donations of services or property.
 
 >     “(e) __Meetings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Committee shall meet, not less than three times per year, at the call of the Chairperson or at the request of the Administrator.
 
->         “(2) __Location.—__ 
+>         “(2)  __Location__  __.—__ 
 
 >         Each meeting of the full Committee shall be held at the headquarters of the Small Business Administration located in Washington, District of Columbia. The Administrator shall provide suitable meeting facilities and such administrative support as may be necessary for each full meeting of the Committee.
 
->         “(3) __Task groups.—__ 
+>         “(3)  __Task groups__  __.—__ 
 
 >         The Committee may, from time-to-time, establish temporary task groups as may be necessary in order to carry out its duties.
 
 >     “(f) __Compensation and Expenses.—__ 
 
->         “(1) __No compensation.—__ 
+>         “(1)  __No compensation__  __.—__ 
 
 >         Members of the Committee shall serve without compensation for their service to the Committee.
 
->         “(2) __Expenses.—__ 
+>         “(2)  __Expenses__  __.—__ 
 
 >         The members of the Committee shall be reimbursed for travel and subsistence expenses in accordance with [section 5703 of title 5][/us/usc/t5/s5703], United States Code.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     Not later than 30 days after the end of each fiscal year beginning after the date of the enactment of this section \[Aug. 17, 1999\], the Committee shall transmit to the Congress and the President a report describing the activities of the Committee and any recommendations developed by the Committee for the promotion of small business concerns owned and controlled by veterans.”
 
@@ -317,7 +317,7 @@
 
 [Pub. L. 106–50, title III, § 301][/us/pl/106/50/s301], Aug. 17, 1999, [113 Stat. 242][/us/stat/113/242], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Small Business Administration shall enter into a memorandum of understanding with the Service Core \[probably should be “Corps”\] of Retired Executives (described in section 8(b)(1)(B) of the Small Business Act ([15 U.S.C. 637(b)(1)(B)][/us/usc/t15/s637/b/1/B]) and in this section referred to as ‘SCORE’) to provide for the following:
 
@@ -327,7 +327,7 @@
 
 >         “(3) The collection of statistics concerning services provided by SCORE to veterans, including service-disabled veterans, for inclusion in each annual report published by the Administrator under section 4(b)(2)(B) of the Small Business Act ([15 U.S.C. 633(b)(2)(B)][/us/usc/t15/s633/b/2/B]).
 
->     “(b) __Resources.—__ 
+>     “(b)  __Resources__  __.—__ 
 
 >     The Administrator shall provide to SCORE such resources as the Administrator determines necessary for SCORE to carry out the requirements of the memorandum of understanding specified in paragraph (1).”
 
@@ -367,7 +367,7 @@
 
 [Pub. L. 106–50, title VI, § 604][/us/pl/106/50/s604], Aug. 17, 1999, [113 Stat. 249][/us/stat/113/249], provided that:
 
->     “(a) __Information on Federal Procurement Practices.—__ 
+>     “(a)  __Information on Federal Procurement Practices__  __.—__ 
 
 >     The Administrator of the Small Business Administration shall, for each fiscal year—
 
@@ -377,15 +377,15 @@
 
 >         “(3) make such information available to any small business concern requesting such information.
 
->     “(b) __Identification of Small Business Concerns Owned by Eligible Veterans.—__ 
+>     “(b)  __Identification of Small Business Concerns Owned by Eligible Veterans__  __.—__ 
 
 >     Each fiscal year, the Secretary of Veterans Affairs shall, in consultation with the Assistant Secretary of Labor for Veterans’ Employment and Training and the Administrator of the Small Business Administration, identify small business concerns owned and controlled by veterans in the United States. The Secretary shall inform each small business concern identified under this paragraph that information on Federal procurement is available from the Administrator.
 
->     “(c) __Self-Employment Opportunities.—__ 
+>     “(c)  __Self-Employment Opportunities__  __.—__ 
 
 >     The Secretary of Labor, the Secretary of Veterans Affairs, and the Administrator of the Small Business Administration shall enter into a memorandum of understanding to provide for coordination of vocational rehabilitation services, technical and managerial assistance, and financial assistance to veterans, including service-disabled veterans, seeking to employ themselves by forming or expanding small business concerns. The memorandum of understanding shall include recommendations for expanding existing programs or establishing new programs to provide such services or assistance to such veterans.
 
->     “(d) __Data Collection Required.—__ 
+>     “(d)  __Data Collection Required__  __.—__ 
 
 >     The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 405(d)(4)(A)][/us/usc/t41/s405/d/4/A]) \[now [41 U.S.C. 1122(a)(4)(A)][/us/usc/t41/s1122/a/4/A]\] shall be modified to collect data regarding the percentage and dollar value of prime contracts and subcontracts awarded to small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans.”
 
@@ -453,7 +453,9 @@ Sec. 3. Functions. Consistent with the Act and other applicable law, the Task Fo
 
  __Extension of Term of Interagency Task Force on Veterans Small Business Development__ 
 
-    Term of the Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+    Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+    Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
  __Definitions__ 
 

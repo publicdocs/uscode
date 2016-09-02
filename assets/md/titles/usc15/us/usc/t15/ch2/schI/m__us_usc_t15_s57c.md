@@ -41,11 +41,11 @@
 
 [Pub. L. 103–312, § 11][/us/pl/103/312/s11], Aug. 26, 1994, [108 Stat. 1696][/us/stat/108/1696], provided that:
 
->     “(a) __Limitation on Use of Authorized Funds.—__ 
+>     “(a)  __Limitation on Use of Authorized Funds__  __.—__ 
 
 >     The Federal Trade Commission shall not have any authority to use any funds which are authorized to be appropriated to carry out the Federal Trade Commission Act ([15 U.S.C. 41][/us/usc/t15/s41] et seq.) for fiscal years 1994, 1995, and 1996 for the purpose of submitting statements to, appearing before, or intervening in the proceedings of, any Federal or State agency or State legislative body concerning proposed rules or legislation that the agency or legislative body is considering unless the Commission advises the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding such action as soon as possible.
 
->     “(b) __Contents of Notice to Congress.—__ 
+>     “(b)  __Contents of Notice to Congress__  __.—__ 
 
 >     The notice required in subsection (a) shall include the name of the agency or legislator involved, the date of such action, and a concise statement regarding the nature and purpose of such action.”
 

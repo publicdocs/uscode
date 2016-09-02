@@ -121,11 +121,11 @@
 
         (6) __Tick size.—__ 
 
-            (A) __Study and report.—__ 
+            (A)  __Study and report__  __.—__ 
 
             The Commission shall conduct a study examining the transition to trading and quoting securities in one penny increments, also known as decimalization. The study shall examine the impact that decimalization has had on the number of initial public offerings since its implementation relative to the period before its implementation. The study shall also examine the impact that this change has had on liquidity for small and middle capitalization company securities and whether there is sufficient economic incentive to support trading operations in these securities in penny increments. Not later than 90 days after April 5, 2012, the Commission shall submit to Congress a report on the findings of the study.
 
-            (B) __Designation.—__ 
+            (B)  __Designation__  __.—__ 
 
             If the Commission determines that the securities of emerging growth companies should be quoted and traded using a minimum increment of greater than $0.01, the Commission may, by rule not later than 180 days after April 5, 2012, designate a minimum increment for the securities of emerging growth companies that is greater than $0.01 but less than $0.10 for use in all quoting and trading of securities in any exchange or other execution venue.
 
@@ -170,6 +170,8 @@
 ([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 11A, as added [Pub. L. 94–29, § 7][/us/pl/94/29/s7], June 4, 1975, [89 Stat. 111][/us/stat/89/111]; amended [Pub. L. 98–620, title IV, § 402(14)][/us/pl/98/620/s402/14], Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358]; [Pub. L. 100–181, title III][/us/pl/100/181], §§ 313, 314, Dec. 4, 1987, [101 Stat. 1256][/us/stat/101/1256]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–430; [Pub. L. 112–106, title I, § 106(b)][/us/pl/112/106/s106/b], Apr. 5, 2012, [126 Stat. 312][/us/stat/126/312].)
 
  __References in Text__ 
+
+    This chapter, referred to in text, was in the original “this title”. See References in Text note set out under [section 78a of this title][/us/usc/t15/s78a].
 
     The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is [Pub. L. 92–436][/us/pl/92/436], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -218,6 +220,7 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/112/106/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs106%2Fb
 [/us/stat/126/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F312
+[/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/92/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F436
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106

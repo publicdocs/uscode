@@ -355,7 +355,7 @@
 
     [Section 1681m(a)(3) of this title][/us/usc/t15/s1681m/a/3], referred to in subsec. (b)(2)(B)(i), was redesignated [section 1681m(a)(4) of this title][/us/usc/t15/s1681m/a/4] by [Pub. L. 111–203, title X, § 1100F(1)(A)][/us/pl/111/203/s1100F/1/A], July 21, 2010, [124 Stat. 2112][/us/stat/124/2112].
 
-    Executive Order No. 12958, referred to in subsec. (b)(4)(D)(i), which was formerly set out under [section 435 of Title 50][/us/usc/t50/s435], War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731, prior to [section 435 of Title 50][/us/usc/t50/s435] being reclassified and renumbered as [section 3161 of Title 50][/us/usc/t50/s3161].
+    Executive Order No. 12958, referred to in subsec. (b)(4)(D)(i), which was formerly set out under [section 435 of Title 50][/us/usc/t50/s435], War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731, and was reclassified as a note under [section 3161 of this title][/us/usc/t15/s3161].
 
     The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (g)(3)(B), is [Pub. L. 104–191][/us/pl/104/191], Aug. 21, 1996, [110 Stat. 1936][/us/stat/110/1936]. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under [section 201 of Title 42][/us/usc/t42/s201], The Public Health and Welfare, and Tables.
 
@@ -544,8 +544,7 @@
 [/us/pl/111/203/s1100F/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100F%2F1%2FA
 [/us/stat/124/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2112
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t15/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3161
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/stat/110/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1936
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201

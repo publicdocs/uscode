@@ -295,7 +295,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title III, § 3006\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–550, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of Commerce, in consultation with the Patent and Trademark Office and the Federal Election Commission, shall conduct a study and report to Congress with recommendations on guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto, including consideration of and recommendations for—
 
@@ -311,7 +311,7 @@
 
 >         “(6) the guidelines, procedures, and policies of the Internet Corporation for Assigned Names and Numbers and the extent to which they address the considerations described in paragraphs (1) through (4).
 
->     “(b) __Guidelines and Procedures.—__ 
+>     “(b)  __Guidelines and Procedures__  __.—__ 
 
 >     The Secretary of Commerce shall, under its Memorandum of Understanding with the Internet Corporation for Assigned Names and Numbers, collaborate to develop guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto.”
 

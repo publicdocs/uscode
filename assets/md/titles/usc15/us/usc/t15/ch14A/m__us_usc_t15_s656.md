@@ -361,7 +361,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (o). [Pub. L. 112–239][/us/pl/112/239] added subsec. (o)
+    2013—Subsec. (o). [Pub. L. 112–239][/us/pl/112/239] added subsec. (o).
 
     2010—Subsec. (c)(1). [Pub. L. 111–240, § 1401(c)(2)(A)][/us/pl/111/240/s1401/c/2/A], substituted “As a condition” for “Subject to paragraph (5), as a condition” in introductory provisions.
 
@@ -461,11 +461,11 @@
 
 [Pub. L. 105–135, title III, § 308(b)][/us/pl/105/135/s308/b], Dec. 2, 1997, [111 Stat. 2615][/us/stat/111/2615], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), any organization conducting a 3-year project under section 29 of the Small Business Act ([15 U.S.C. 656][/us/usc/t15/s656]) (as in effect on the day before the effective date of this Act \[Dec. 2, 1997\]) on September 30, 1997, may request an extension of the term of that project to a total term of 5 years. If such an extension is made, the organization shall receive financial assistance in accordance with section 29(c) of the Small Business Act (as amended by this section) subject to procedures established by the Administrator, in coordination with the Assistant Administrator of the Office of Women’s Business Ownership established under section 29 of the Small Business Act ([15 U.S.C. 656][/us/usc/t15/s656]) (as amended by this section).
 
->     “(2) __Terms of assistance for certain organizations.—__ 
+>     “(2)  __Terms of assistance for certain organizations__  __.—__ 
 
 >     Any organization operating in the third year of a 3-year project under section 29 of the Small Business Act ([15 U.S.C. 656][/us/usc/t15/s656]) (as in effect on the day before the effective date of this Act) on September 30, 1997, may request an extension of the term of that project to a total term of 5 years. If such an extension is made, during the fourth and fifth years of the project, the organization shall receive financial assistance in accordance with section 29(c)(1)(C) of the Small Business Act (as amended by this section) subject to procedures established by the Administrator, in coordination with the Assistant Administrator of the Office of Women’s Business Ownership established under section 29 of the Small Business Act ([15 U.S.C. 656][/us/usc/t15/s656]) (as amended by this section).”
 

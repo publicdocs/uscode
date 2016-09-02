@@ -63,15 +63,15 @@
 
 [Pub. L. 105–26, § 4][/us/pl/105/26/s4], July 3, 1997, [111 Stat. 242][/us/stat/111/242], provided that:
 
->     “(a) __Study and Report.—__ 
+>     “(a)  __Study and Report__  __.—__ 
 
 >     The Attorney General shall carry out a study to determine the effect of this Act \[see Short Title of 1997 Amendments note set out under [section 1 of this title][/us/usc/t15/s1]\] on markets for noncharitable annuities, charitable gift annuities, and charitable remainder trusts. The Attorney General shall prepare a report summarizing the results of the study.
 
->     “(b) __Details of Study and Report.—__ 
+>     “(b)  __Details of Study and Report__  __.—__ 
 
 >     The report referred to in subsection (a) shall include any information on possible inappropriate activity resulting from this Act and any recommendations for legislative changes, including recommendations for additional enforcement resources.
 
->     “(c) __Submission of Report.—__ 
+>     “(c)  __Submission of Report__  __.—__ 
 
 >     The Attorney General shall submit the report referred to in subsection (a) to the Chairman and the ranking member of the Committee on the Judiciary of the House of Representatives, and to the Chairman and the ranking member of the Committee on the Judiciary of the Senate, not later than 27 months after the date of the enactment of this Act \[July 3, 1997\].”
 

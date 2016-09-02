@@ -187,13 +187,13 @@
 
 [Pub. L. 111–24, title IV, § 403][/us/pl/111/24/s403], as added by [Pub. L. 111–209, § 1][/us/pl/111/209/s1], July 27, 2010, [124 Stat. 2254][/us/stat/124/2254], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided under subsection (b) of this section, this title \[enacting this section and amending sections 1693m to 1693r of this title and provisions set out as a note under [section 1693 of this title][/us/usc/t15/s1693]\] and the amendments made by this title shall become effective 15 months after the date of enactment of this Act \[May 22, 2009\].
 
 >     “(b) __Exception.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of a gift certificate, store gift card, or general-use prepaid card that was produced prior to April 1, 2010, the effective date of the disclosure requirements described in sections 915(b)(3) and (c)(2)(B) of the Electronic Funds \[probably should be “Fund”\] Transfer Act \[[15 U.S.C. 1693][/us/usc/t15/s1693]l–1(b)(3), (c)(2)(B)\] shall be January 31, 2011, provided that an issuer of such a certificate or card shall—
 
@@ -205,7 +205,7 @@
 
 >             “(D) comply with the disclosure requirements of paragraph (2) of this subsection.
 
->         “(2) __Disclosure requirements.—__ 
+>         “(2)  __Disclosure requirements__  __.—__ 
 
 >         The disclosure requirements of this subsection are met by providing notice to consumers, via in-store signage, messages during customer service calls, Web sites, and general advertising, that—
 
@@ -215,7 +215,7 @@
 
 >             “(C) any dormancy fee, inactivity fee, or service fee for such certificates or cards that might otherwise be charged shall not be charged if such fees do not comply with section 915 of the Electronic Funds \[probably should be “Fund”\] Transfer Act \[[15 U.S.C. 1693][/us/usc/t15/s1693]l–1\].
 
->         “(3) __Period for disclosure requirements.—__ 
+>         “(3)  __Period for disclosure requirements__  __.—__ 
 
 >         The notice requirements in paragraph (2) of this subsection shall continue until January 31, 2013.”
 

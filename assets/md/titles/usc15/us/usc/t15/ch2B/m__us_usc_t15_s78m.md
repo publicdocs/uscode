@@ -111,19 +111,19 @@
 
         (3) At the time of filing such statement as the Commission may require by rule pursuant to paragraph (1) of this subsection, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to any securities issued in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 \[[15 U.S.C. 77f(b)][/us/usc/t15/s77f/b]\], or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this paragraph.
 
-        (4) __Annual adjustment.—__ 
+        (4)  __Annual adjustment__  __.—__ 
 
         For each fiscal year, the Commission shall by order adjust the rate required by paragraph (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[[15 U.S.C. 77f(b)][/us/usc/t15/s77f/b]\] for such fiscal year.
 
-        (5) __Fee collections.—__ 
+        (5)  __Fee collections__  __.—__ 
 
         Fees collected pursuant to this subsection for fiscal year 2012 and each fiscal year thereafter shall be deposited and credited as general revenue of the Treasury and shall not be available for obligation.
 
-        (6) __Effective date; publication.—__ 
+        (6)  __Effective date; publication__  __.—__ 
 
         In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of [section 553 of title 5][/us/usc/t5/s553]. An adjusted rate prescribed under paragraph (4) shall be published and take effect in accordance with section 6(b) of the Securities Act of 1933 ([15 U.S.C. 77f(b)][/us/usc/t15/s77f/b]).
 
-        (7) __Pro rata application.—__ 
+        (7)  __Pro rata application__  __.—__ 
 
         The rates per $1,000,000 required by this subsection shall be applied pro rata to amounts and balances of less than $1,000,000.
 
@@ -443,7 +443,7 @@
 
                     (III) foreign ministries.
 
-            (H) __Confidentiality and indemnification agreement.—__ 
+            (H)  __Confidentiality and indemnification agreement__  __.—__ 
 
             Before the security-based swap data repository may share information with any entity described in subparagraph (G)—
 
@@ -927,7 +927,7 @@
 
 [Pub. L. 111–203, title XV, § 1502][/us/pl/111/203/s1502], July 21, 2010, [124 Stat. 2213][/us/stat/124/2213], provided that:
 
->     “(a) __Sense of Congress on Exploitation and Trade of Conflict Minerals Originating in the Democratic Republic of the Congo.—__ 
+>     “(a)  __Sense of Congress on Exploitation and Trade of Conflict Minerals Originating in the Democratic Republic of the Congo__  __.—__ 
 
 >     It is the sense of Congress that the exploitation and trade of conflict minerals originating in the Democratic Republic of the Congo is helping to finance conflict characterized by extreme levels of violence in the eastern Democratic Republic of the Congo, particularly sexual- and gender-based violence, and contributing to an emergency humanitarian situation therein, warranting the provisions of section 13(p) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78m(p)][/us/usc/t15/s78m/p]\], as added by subsection (b).
 
@@ -937,11 +937,11 @@
 
 >         “(1) __Strategy.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 180 days after the date of the enactment of this Act \[July 21, 2010\], the Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the appropriate congressional committees a strategy to address the linkages between human rights abuses, armed groups, mining of conflict minerals, and commercial products.
 
->             “(B) __Contents.—__ 
+>             “(B)  __Contents__  __.—__ 
 
 >             The strategy required by subparagraph (A) shall include the following:
 
@@ -959,7 +959,7 @@
 
 >         “(2) __Map.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 180 days after the date of the enactment of this Act \[July 21, 2010\], the Secretary of State shall, in accordance with the recommendation of the United Nations Group of Experts on the Democratic Republic of the Congo in their December 2008 report—
 
@@ -977,25 +977,25 @@
 
 >                 “(iii) provide to the appropriate congressional committees an explanatory note describing the sources of information from which such map is based and the identification, where possible, of the armed groups or other forces in control of the mines depicted.
 
->             “(B) __Designation.—__ 
+>             “(B)  __Designation__  __.—__ 
 
 >             The map required under subparagraph (A) shall be known as the ‘Conflict Minerals Map’, and mines located in areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries, as depicted on such Conflict Minerals Map, shall be known as ‘Conflict Zone Mines’.
 
->             “(C) __Updates.—__ 
+>             “(C)  __Updates__  __.—__ 
 
 >             The Secretary of State shall update the map required under subparagraph (A) not less frequently than once every 180 days until the date on which the disclosure requirements under paragraph (1) of section 13(p) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78m(p)][/us/usc/t15/s78m/p]\], as added by subsection (b), terminate in accordance with the provisions of paragraph (4) of such section 13(p).
 
->             “(D) __Publication in federal register.—__ 
+>             “(D)  __Publication in federal register__  __.—__ 
 
 >             The Secretary of State shall add minerals to the list of minerals in the definition of conflict minerals under section 1502 \[amending this section and enacting this note\], as appropriate. The Secretary shall publish in the Federal Register notice of intent to declare a mineral as a conflict mineral included in such definition not later than one year before such declaration.
 
 >     “(d) __Reports.—__ 
 
->         “(1) __Baseline report.—__ 
+>         “(1)  __Baseline report__  __.—__ 
 
 >         Not later than 1 year after the date of the enactment of this Act \[July 21, 2010\] and annually thereafter until the termination of the disclosure requirements under section 13(p) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78m(p)][/us/usc/t15/s78m/p]\], the Comptroller General of the United States shall submit to appropriate congressional committees a report that includes an assessment of the rate of sexual- and gender-based violence in war-torn areas of the Democratic Republic of the Congo and adjoining countries.
 
->         “(2) __Regular report on effectiveness.—__ 
+>         “(2)  __Regular report on effectiveness__  __.—__ 
 
 >         Not later than 2 years after the date of the enactment of this Act \[July 21, 2010\] and annually thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that includes the following:
 
@@ -1021,7 +1021,7 @@
 
 >                     “(II) conflict minerals are necessary to the functionality or production of a product manufactured by such person.
 
->         “(3) __Report on private sector auditing.—__ 
+>         “(3)  __Report on private sector auditing__  __.—__ 
 
 >         Not later than 30 months after the date of the enactment of this Act \[July 21, 2010\], and annually thereafter, the Secretary of Commerce shall submit to the appropriate congressional committees a report that includes the following:
 
@@ -1037,15 +1037,15 @@
 
 >             “(C) A listing of all known conflict mineral processing facilities worldwide.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Adjoining country.—__ 
+>         “(1)  __Adjoining country__  __.—__ 
 
 >         The term ‘adjoining country’, with respect to the Democratic Republic of the Congo, means a country that shares an internationally recognized border with the Democratic Republic of the Congo.
 
->         “(2) __Appropriate congressional committees.—__ 
+>         “(2)  __Appropriate congressional committees__  __.—__ 
 
 >         The term ‘appropriate congressional committees’ means—
 
@@ -1053,11 +1053,11 @@
 
 >             “(B) the Committee on Appropriations, the Committee on Foreign Relations, the Committee on Finance, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
->         “(3) __Armed group.—__ 
+>         “(3)  __Armed group__  __.—__ 
 
 >         The term ‘armed group’ means an armed group that is identified as perpetrators of serious human rights abuses in the annual Country Reports on Human Rights Practices under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n(d)][/us/usc/t22/s2151n/d] and 2304(b)) relating to the Democratic Republic of the Congo or an adjoining country.
 
->         “(4) __Conflict mineral.—__ 
+>         “(4)  __Conflict mineral__  __.—__ 
 
 >         The term ‘conflict mineral’ means—
 
@@ -1065,7 +1065,7 @@
 
 >             “(B) any other mineral or its derivatives determined by the Secretary of State to be financing conflict in the Democratic Republic of the Congo or an adjoining country.
 
->         “(5) __Under the control of armed groups.—__ 
+>         “(5)  __Under the control of armed groups__  __.—__ 
 
 >         The term ‘under the control of armed groups’ means areas within the Democratic Republic of the Congo or adjoining countries in which armed groups—
 
@@ -1079,11 +1079,11 @@
 
 [Pub. L. 106–102, title II, § 241][/us/pl/106/102/s241], Nov. 12, 1999, [113 Stat. 1407][/us/stat/113/1407], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institution or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\].”
 

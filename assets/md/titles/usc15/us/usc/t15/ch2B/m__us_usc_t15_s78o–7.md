@@ -817,7 +817,7 @@
 
 [Pub. L. 111–203, title IX, § 939A][/us/pl/111/203/s939A], July 21, 2010, [124 Stat. 1887][/us/stat/124/1887], provided that:
 
->     “(a) __Agency Review.—__ 
+>     “(a)  __Agency Review__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this subtitle \[July 21, 2010\], each Federal agency shall, to the extent applicable, review—
 
@@ -825,11 +825,11 @@
 
 >         “(2) any references to or requirements in such regulations regarding credit ratings.
 
->     “(b) __Modifications Required.—__ 
+>     “(b)  __Modifications Required__  __.—__ 
 
 >     Each such agency shall modify any such regulations identified by the review conducted under subsection (a) to remove any reference to or requirement of reliance on credit ratings and to substitute in such regulations such standard of credit-worthiness as each respective agency shall determine as appropriate for such regulations. In making such determination, such agencies shall seek to establish, to the extent feasible, uniform standards of credit-worthiness for use by each such agency, taking into account the entities regulated by each such agency and the purposes for which such entities would rely on such standards of credit-worthiness.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Upon conclusion of the review required under subsection (a), each Federal agency shall transmit a report to Congress containing a description of any modification of any regulation such agency made pursuant to subsection (b).”
 
