@@ -29,6 +29,12 @@
 
     1937—Act May 20, 1937, inserted “for the purpose of promoting safety of life and property through the use of wire and radio communication”.
 
+ __Extension of Internet Tax Freedom Act__ 
+
+[Pub. L. 114–113, div. E, title VI, § 633][/us/pl/114/113/s633], Dec. 18, 2015, [129 Stat. 2471][/us/stat/129/2471], provided that: 
+
+> “Sections 1101(a) and 1104(a)(2)(A) of the Internet Tax Freedom Act (title XI of division C of [Public Law 105–277][/us/pl/105/277]; [47 U.S.C. 151][/us/usc/t47/s151] note) shall be applied by substituting ‘October 1, 2016’ for ‘October 1, 2015’.”
+
  __Moratorium on Internet Taxes__ 
 
 [Pub. L. 105–277, div. C, title XI][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], as amended by [Pub. L. 107–75, § 2][/us/pl/107/75/s2], Nov. 28, 2001, [115 Stat. 703][/us/stat/115/703]; [Pub. L. 108–435][/us/pl/108/435], §§ 2–6A, Dec. 3, 2004, [118 Stat. 2615–2618][/us/stat/118/2615-2618]; [Pub. L. 110–108][/us/pl/110/108], §§ 2–6, Oct. 31, 2007, [121 Stat. 1024–1026][/us/stat/121/1024-1026]; [Pub. L. 113–235, div. E, title VI, § 624][/us/pl/113/235/s624], Dec. 16, 2014, [128 Stat. 2377][/us/stat/128/2377], provided that:
@@ -586,6 +592,10 @@
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/114/113/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs633
+[/us/stat/129/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2471
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-719
 [/us/pl/107/75/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F75%2Fs2
