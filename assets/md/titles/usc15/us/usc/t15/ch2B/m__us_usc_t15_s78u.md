@@ -165,7 +165,7 @@
 
         (5) Upon application by the Commission, all proceedings pursuant to paragraphs (2) and (4) shall be held in camera and the records thereof sealed until expiration of the period of delay or such other date as the presiding judge or magistrate judge may permit.
 
-        (6) The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 \[[12 U.S.C. 3401][/us/usc/t12/s3401] et seq.\] to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) 1 of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission.
+        (6) Repealed. [Pub. L. 114–113, div. O, title VII, § 708][/us/pl/114/113/s708], Dec. 18, 2015, [129 Stat. 3030][/us/stat/129/3030].
 
         (7)
 
@@ -203,19 +203,21 @@
 
         The Commission shall provide the Commodity Futures Trading Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any broker or dealer registered pursuant to section 78o(b)(11) of this title, any exchange registered pursuant to [section 78f(g) of this title][/us/usc/t15/s78f/g], or any national securities association registered pursuant to section 78o–3(k) of this title.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21, [48 Stat. 899][/us/stat/48/899]; [May 27, 1936, ch. 462, § 7][/us/act/1936-05-27/ch462/s7], [49 Stat. 1379][/us/stat/49/1379]; [Pub. L. 91–452, title II, § 212][/us/pl/91/452/s212], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 94–29, § 17][/us/pl/94/29/s17], June 4, 1975, [89 Stat. 154][/us/stat/89/154]; [Pub. L. 96–433][/us/pl/96/433], §§ 3, 4, Oct. 10, 1980, [94 Stat. 1855][/us/stat/94/1855], 1858; [Pub. L. 98–376, § 2][/us/pl/98/376/s2], Aug. 10, 1984, [98 Stat. 1264][/us/stat/98/1264]; [Pub. L. 100–181, title III, § 323][/us/pl/100/181/s323], Dec. 4, 1987, [101 Stat. 1259][/us/stat/101/1259]; [Pub. L. 100–704][/us/pl/100/704], §§ 3(a)(1), 6(b), Nov. 19, 1988, [102 Stat. 4677][/us/stat/102/4677], 4681; [Pub. L. 101–429, title II, § 201][/us/pl/101/429/s201], Oct. 15, 1990, [104 Stat. 935][/us/stat/104/935]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 104–67, title I, § 103(b)(2)][/us/pl/104/67/s103/b/2], Dec. 22, 1995, [109 Stat. 756][/us/stat/109/756]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–426; [Pub. L. 107–204, § 3(b)(2)][/us/pl/107/204/s3/b/2], title III, §§ 305(a)(1), (b), 308(d)(1), title VI, § 603(a), July 30, 2002, [116 Stat. 749][/us/stat/116/749], 778, 779, 785, 794; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 923(b)(1), 929F(c), (d), (g)(2), 986(a)(3), July 21, 2010, [124 Stat. 1849][/us/stat/124/1849], 1854, 1855, 1935.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21, [48 Stat. 899][/us/stat/48/899]; [May 27, 1936, ch. 462, § 7][/us/act/1936-05-27/ch462/s7], [49 Stat. 1379][/us/stat/49/1379]; [Pub. L. 91–452, title II, § 212][/us/pl/91/452/s212], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 94–29, § 17][/us/pl/94/29/s17], June 4, 1975, [89 Stat. 154][/us/stat/89/154]; [Pub. L. 96–433][/us/pl/96/433], §§ 3, 4, Oct. 10, 1980, [94 Stat. 1855][/us/stat/94/1855], 1858; [Pub. L. 98–376, § 2][/us/pl/98/376/s2], Aug. 10, 1984, [98 Stat. 1264][/us/stat/98/1264]; [Pub. L. 100–181, title III, § 323][/us/pl/100/181/s323], Dec. 4, 1987, [101 Stat. 1259][/us/stat/101/1259]; [Pub. L. 100–704][/us/pl/100/704], §§ 3(a)(1), 6(b), Nov. 19, 1988, [102 Stat. 4677][/us/stat/102/4677], 4681; [Pub. L. 101–429, title II, § 201][/us/pl/101/429/s201], Oct. 15, 1990, [104 Stat. 935][/us/stat/104/935]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 104–67, title I, § 103(b)(2)][/us/pl/104/67/s103/b/2], Dec. 22, 1995, [109 Stat. 756][/us/stat/109/756]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–426; [Pub. L. 107–204, § 3(b)(2)][/us/pl/107/204/s3/b/2], title III, §§ 305(a)(1), (b), 308(d)(1), title VI, § 603(a), July 30, 2002, [116 Stat. 749][/us/stat/116/749], 778, 779, 785, 794; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 923(b)(1), 929F(c), (d), (g)(2), 986(a)(3), July 21, 2010, [124 Stat. 1849][/us/stat/124/1849], 1854, 1855, 1935; [Pub. L. 114–113, div. O, title VII, § 708][/us/pl/114/113/s708], Dec. 18, 2015, [129 Stat. 3030][/us/stat/129/3030].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(1), (b), (d), (e), and (f), was in the original “this title”. See References in Text note set out under [section 78a of this title][/us/usc/t15/s78a].
 
-    The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (6), (8), (9)(B), (11), and (13), is title XI of [Pub. L. 95–630][/us/pl/95/630], Nov. 10, 1978, [92 Stat. 3697][/us/stat/92/3697], which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. Section 1121(b) of the Act, which was classified to [section 3421(b) of Title 12][/us/usc/t12/s3421/b], was repealed by [Pub. L. 104–66, title III, § 3001(d)][/us/pl/104/66/s3001/d], Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734]. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12][/us/usc/t12/s3401] and Tables.
+    The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (8), (9)(B), (11), and (13), is title XI of [Pub. L. 95–630][/us/pl/95/630], Nov. 10, 1978, [92 Stat. 3697][/us/stat/92/3697], which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12][/us/usc/t12/s3401] and Tables.
 
     Section 19(b) of the Securities Act of 1933, referred to in subsec. (h)(2), was redesignated section 19(c) by [Pub. L. 107–204, title I, § 108(a)(1)][/us/pl/107/204/s108/a/1], July 30, 2002, [116 Stat. 768][/us/stat/116/768], and is classified to [section 77s(c) of this title][/us/usc/t15/s77s/c].
 
     Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragraph within quotation marks following subsec. (h)(4)(C), is classified to subsection (h) of this section.
 
  __Amendments__ 
+
+    2015—Subsec. (h)(6). [Pub. L. 114–113][/us/pl/114/113] struck out par. (6) which read as follows: “The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 \[[12 U.S.C. 3401][/us/usc/t12/s3401] et seq.\] to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission.”
 
     2010—Subsec. (a)(1). [Pub. L. 111–203, § 929F(g)(2)][/us/pl/111/203/s929F/g/2], in first sentence, substituted “, a person associated with such a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm” for “or a person associated with such a firm”.
 
@@ -366,7 +368,8 @@
 [/us/usc/t15/s80a–41/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9341%2Fb
 [/us/usc/t15/s80b–9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%939%2Fb
 [/us/usc/t12/s3409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3409%2Fa
-[/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
+[/us/pl/114/113/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs708
+[/us/stat/129/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3030
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/usc/t12/s3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3412
 [/us/usc/t12/s3412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3412%2Fb
@@ -404,16 +407,17 @@
 [/us/stat/116/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F749
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1849
+[/us/pl/114/113/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs708
+[/us/stat/129/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3030
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697
-[/us/usc/t12/s3421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3421%2Fb
-[/us/pl/104/66/s3001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3001%2Fd
-[/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/pl/107/204/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs108%2Fa%2F1
 [/us/stat/116/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F768
 [/us/usc/t15/s77s/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77s%2Fc
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/pl/111/203/s929F/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929F%2Fg%2F2
 [/us/pl/111/203/s929F/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929F%2Fc
 [/us/pl/111/203/s923/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs923%2Fb%2F1

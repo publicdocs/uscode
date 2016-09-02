@@ -199,9 +199,19 @@
 
             (A) __In general__ 
 
-                An affiliate of a person that qualifies for an exception under this subsection (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate, acting on behalf of the person and as an agent, uses the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity.
+            An affiliate of a person that qualifies for an exception under this subsection (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate—
 
-            (B) __Prohibition relating to certain affiliates__ 
+                (i) enters into the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
+
+                (ii) is directly and wholly-owned by another affiliate qualified for the exception under this paragraph or an entity that is not a financial entity;
+
+                (iii) is not indirectly majority-owned by a financial entity;
+
+                (iv) is not ultimately owned by a parent company that is a financial entity; and
+
+                (v) does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under [section 5311 of title 12][/us/usc/t12/s5311]).
+
+            (B) __Limitation on qualifying affiliates__ 
 
             The exception in subparagraph (A) shall not apply if the affiliate is—
 
@@ -213,15 +223,51 @@
 
                 (iv) a major security-based swap participant;
 
-                (v) an issuer that would be an investment company, as defined in [section 80a–3 of this title][/us/usc/t15/s80a–3], but for paragraph (1) or (7) of subsection (c) of that section;
+                (v) a commodity pool;
 
-                (vi) a commodity pool; or
+                (vi) a bank holding company;
 
-                (vii) a bank holding company with over $50,000,000,000 in consolidated assets.
+                (vii) a private fund, as defined in [section 80b–2(a) of this title][/us/usc/t15/s80b–2/a];
 
-            (C) __Transition rule for affiliates__ 
+                (viii) an employee benefit plan or government  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “governmental”. </sup></sup>  plan, as defined in paragraphs (3) and (32) of [section 1002 of title 29][/us/usc/t29/s1002];
+
+                (ix) an insured depository institution;
+
+                (x) a farm credit system institution;
+
+                (xi) a credit union;
+
+                (xii) a nonbank financial company supervised by the Board of Governors (as defined under [section 5311 of title 12][/us/usc/t12/s5311]); or
+
+                (xiii) an entity engaged in the business of insurance and subject to capital requirements established by an insurance governmental authority of a State, a territory of the United States, the District of Columbia, a country other than the United States, or a political subdivision of a country other than the United States that is engaged in the supervision of insurance companies under insurance law.
+
+            (C) __Limitation on affiliates’ affiliates__ 
+
+            Unless the Commission determines, by order, rule, or regulation, that it is in the public interest, the exception in subparagraph (A) shall not apply with respect to an affiliate if such affiliate is itself affiliated with—
+
+                (i) a major security-based swap participant;
+
+                (ii) a security-based swap dealer;
+
+                (iii) a major swap participant; or
+
+                (iv) a swap dealer.
+
+            (D) __Conditions on transactions__ 
+
+            With respect to an affiliate that qualifies for the exception in subparagraph (A)—
+
+                (i) such affiliate may not enter into any security-based swap other than for the purpose of hedging or mitigating commercial risk; and
+
+                (ii) neither such affiliate nor any person affiliated with such affiliate that is not a financial entity may enter into a security-based swap with or on behalf of any affiliate that is a financial entity or otherwise assume, net, combine, or consolidate the risk of security-based swaps entered into by any such financial entity, except one that is an affiliate that qualifies for the exception under subparagraph (A).
+
+            (E) __Transition rule for affiliates__ 
 
                 An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in section 78o–10(e) of this title and the clearing requirement described in subsection (a) with regard to security-based swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+
+            (F) __Risk management program__ 
+
+                Any security-based swap entered into by an affiliate that qualifies for the exception in subparagraph (A) shall be subject to a centralized risk management program of the affiliate, which is reasonably designed both to monitor and manage the risks associated with the security-based swap and to identify each of the affiliates on whose behalf a security-based swap was entered into.
 
         (5) __Election of counterparty__ 
 
@@ -311,7 +357,7 @@
 
                 (ii) include a certification that, under penalty of law, the compliance report is accurate and complete.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3C, as added [Pub. L. 111–203, title VII, § 763(a)][/us/pl/111/203/s763/a], July 21, 2010, [124 Stat. 1762][/us/stat/124/1762].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3C, as added [Pub. L. 111–203, title VII, § 763(a)][/us/pl/111/203/s763/a], July 21, 2010, [124 Stat. 1762][/us/stat/124/1762]; amended [Pub. L. 114–113, div. O, title VII, § 705(b)][/us/pl/114/113/s705/b], Dec. 18, 2015, [129 Stat. 3027][/us/stat/129/3027].)
 
  __References in Text__ 
 
@@ -320,6 +366,10 @@
     For the effective date of this section, referred to in subsec. (e), see [section 774 of Pub. L. 111–203][/us/pl/111/203/s774], set out as an Effective Date of 2010 Amendment note under [section 77b of this title][/us/usc/t15/s77b].
 
     Subsection (c) of that section, referred to in subsec. (g)(4)(B)(v), was in the original “subsection (c) of that Act”, and was translated as meaning subsec. (c) of section 3 of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], to reflect the probable intent of Congress.
+
+ __Amendments__ 
+
+    2015—Subsec. (g)(4). [Pub. L. 114–113][/us/pl/114/113] added subpars. (A) to (D) and (F), redesignated former subpar. (C) as (E), and struck out former subpars. (A) and (B) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
 
  __Effective Date__ 
 
@@ -337,16 +387,22 @@
 [/us/usc/t15/s80b–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932%2Fa
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/usc/t12/s1843/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fk
-[/us/usc/t15/s80a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933
+[/us/usc/t12/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5311
+[/us/usc/t15/s80b–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932%2Fa
+[/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
+[/us/usc/t12/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5311
 [/us/usc/t15/s78c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%934
 [/us/usc/t15/s78c–4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%934%2Fe
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/pl/111/203/s763/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fa
 [/us/stat/124/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1762
+[/us/pl/114/113/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs705%2Fb
+[/us/stat/129/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3027
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/111/203/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs774
 [/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs774
 [/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b
