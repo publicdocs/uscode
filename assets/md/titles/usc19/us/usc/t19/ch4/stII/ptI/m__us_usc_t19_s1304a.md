@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1304.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1305.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304a)
 
-## § 1304a. Technical assistance to CBP
+## § 1304a. Technical assistance to U.S. Customs and Border Protection
 
     The Secretary of Agriculture shall make available to U.S. Customs and Border Protection technical assistance related to the identification of produce represented as grown in the United States when it is not in fact grown in the United States.
 

@@ -17,7 +17,7 @@
 
     (a) __“Good subject to NAFTA drawback” defined__ 
 
-    For purposes of this Act and the amendments made by subsection (b) of this section, the term “good subject to NAFTA drawback” means any imported good other than the following:
+    For purposes of this Act and the amendments made by subsection (b), the term “good subject to NAFTA drawback” means any imported good other than the following:
 
         (1) A good entered under bond for transportation and exportation to a NAFTA country.
 
@@ -99,7 +99,7 @@
 
     (d) __Elimination of drawback for fees under__  __[__  __section 624 of title 7__  __][/us/usc/t7/s624]__ 
 
-    Notwithstanding any other provision of law, the Secretary of the Treasury may not, on condition of export, refund or reduce a fee applied pursuant to [section 624 of title 7][/us/usc/t7/s624] with respect to goods included under subsection (a) of this section that are exported to—
+    Notwithstanding any other provision of law, the Secretary of the Treasury may not, on condition of export, refund or reduce a fee applied pursuant to [section 624 of title 7][/us/usc/t7/s624] with respect to goods included under subsection (a) that are exported to—
 
         (1) Canada after December 31, 1995, for so long as it is a NAFTA country; or
 

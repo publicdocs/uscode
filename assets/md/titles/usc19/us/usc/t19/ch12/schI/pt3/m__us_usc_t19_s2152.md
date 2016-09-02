@@ -15,9 +15,9 @@
 
 ## § 2152. Advice from executive departments and other sources
 
-    Before any trade agreement is entered into under [section 2133 of this title][/us/usc/t19/s2133] or [section 3803 of this title][/us/usc/t19/s3803], the President shall seek information and advice with respect to such agreement from the Departments of Agriculture, Commerce, Defense, Interior, Labor, State and the Treasury, from the United States Trade Representative, and from such other sources as he may deem appropriate. Such advice shall be prepared and presented consistent with the provisions of Reorganization Plan Number 3 of 1979, Executive Order Number 12188 and [section 2171(c) of this title][/us/usc/t19/s2171/c].
+    Before any trade agreement is entered into under [section 2133 of this title][/us/usc/t19/s2133] or [section 4202 of this title][/us/usc/t19/s4202], the President shall seek information and advice with respect to such agreement from the Departments of Agriculture, Commerce, Defense, Interior, Labor, State and the Treasury, from the United States Trade Representative, and from such other sources as he may deem appropriate. Such advice shall be prepared and presented consistent with the provisions of Reorganization Plan Number 3 of 1979, Executive Order Number 12188 and [section 2171(c) of this title][/us/usc/t19/s2171/c].
 
-([Pub. L. 93–618, title I, § 132][/us/pl/93/618/s132], Jan. 3, 1975, [88 Stat. 1995][/us/stat/88/1995]; [Pub. L. 100–418, title I, § 1111(a)][/us/pl/100/418/s1111/a], Aug. 23, 1988, [102 Stat. 1137][/us/stat/102/1137]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(3)][/us/pl/107/210/s2110/a/3], Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020].)
+([Pub. L. 93–618, title I, § 132][/us/pl/93/618/s132], Jan. 3, 1975, [88 Stat. 1995][/us/stat/88/1995]; [Pub. L. 100–418, title I, § 1111(a)][/us/pl/100/418/s1111/a], Aug. 23, 1988, [102 Stat. 1137][/us/stat/102/1137]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(3)][/us/pl/107/210/s2110/a/3], Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020]; [Pub. L. 114–26, title I, § 110(a)(2)][/us/pl/114/26/s110/a/2], June 29, 2015, [129 Stat. 357][/us/stat/129/357].)
 
  __References in Text__ 
 
@@ -26,6 +26,8 @@
     Executive Order Number 12188, referred to in text, is set out as a note under [section 2171 of this title][/us/usc/t19/s2171].
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–26][/us/pl/114/26] substituted “[section 4202 of this title][/us/usc/t19/s4202]” for “[section 3803 of this title][/us/usc/t19/s3803]”
 
     2002—[Pub. L. 107–210][/us/pl/107/210] substituted “[section 3803 of this title][/us/usc/t19/s3803],” for “[section 2902 of this title][/us/usc/t19/s2902],”.
 
@@ -43,7 +45,7 @@
 ----------
 
 [/us/usc/t19/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2133
-[/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
+[/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
 [/us/usc/t19/s2171/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171%2Fc
 [/us/pl/93/618/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs132
 [/us/stat/88/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1995
@@ -51,8 +53,13 @@
 [/us/stat/102/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1137
 [/us/pl/107/210/s2110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F3
 [/us/stat/116/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1020
+[/us/pl/114/26/s110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F2
+[/us/stat/129/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F357
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
+[/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
+[/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
 [/us/usc/t19/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902

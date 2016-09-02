@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Notwithstanding any other provision of law, any vessel meeting the definition of a large yacht as provided in subsection (b) of this section and which is otherwise dutiable may be imported without the payment of duty if imported with the intention to offer for sale at a boat show in the United States. Payment of duty shall be deferred, in accordance with this section, until such large yacht is sold.
+        Notwithstanding any other provision of law, any vessel meeting the definition of a large yacht as provided in subsection (b) and which is otherwise dutiable may be imported without the payment of duty if imported with the intention to offer for sale at a boat show in the United States. Payment of duty shall be deferred, in accordance with this section, until such large yacht is sold.
 
     (b) __Definition__ 
 
@@ -39,7 +39,7 @@
 
             (A) entry shall be completed and duty (calculated at the applicable rates provided for under subheading 8903.91.00 or 8903.92.00 of the Harmonized Tariff Schedule of the United States and based upon the value of the large yacht at the time of importation) shall be deposited with the Customs Service; and
 
-            (B) the bond posted as required by subsection (c)(2) of this section shall be returned to the importer.
+            (B) the bond posted as required by subsection (c)(2) shall be returned to the importer.
 
     (e) __Procedures upon expiration of bond period__ 
 
@@ -49,7 +49,7 @@
 
             (A) entry shall be completed and duty (calculated at the applicable rates provided for under subheading 8903.91.00 or 8903.92.00 of the Harmonized Tariff Schedule of the United States and based upon the value of the large yacht at the time of importation) shall be deposited with the Customs Service; and
 
-            (B) the bond posted as required by subsection (c)(2) of this section shall be returned to the importer.
+            (B) the bond posted as required by subsection (c)(2) shall be returned to the importer.
 
         (2) __Additional requirements__ 
 

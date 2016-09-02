@@ -45,7 +45,7 @@
 
     (c) __Enforcement of rights__ 
 
-    If the President, after taking into account information and advice received under subsections (a) and (b) of this section, [section 2805 of this title][/us/usc/t19/s2805] or from other sources, determines that action is appropriate to respond to any act, policy, or practice of a major wine trading country constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine and—
+    If the President, after taking into account information and advice received under subsections (a) and (b), [section 2805 of this title][/us/usc/t19/s2805] or from other sources, determines that action is appropriate to respond to any act, policy, or practice of a major wine trading country constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine and—
 
         (1) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement; or
 

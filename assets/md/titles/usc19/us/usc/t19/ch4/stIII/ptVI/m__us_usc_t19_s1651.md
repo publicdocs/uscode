@@ -17,7 +17,7 @@
 
     (a) __Specific repeals__ 
 
-    The following Acts and parts of Acts are repealed, subject to the limitations provided in subdivision (c) of this section:
+    The following Acts and parts of Acts are repealed, subject to the limitations provided in subdivision (c):
 
         (1) The Tariff Act of 1922, except that the repeal of sections 304 and 482 (relating to marking of imported articles and to certified invoices, respectively) shall take effect sixty days after the enactment of this chapter;
 

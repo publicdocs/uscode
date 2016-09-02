@@ -25,7 +25,7 @@
 
     (b) __Survey reports__ 
 
-        The Commissioner of Customs shall no later than January 31, 1991, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of the first survey implemented under subsection (a)(2) of this section.
+        The Commissioner of Customs shall no later than January 31, 1991, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of the first survey implemented under subsection (a)(2).
 
 ([Pub. L. 101–382, title I, § 113][/us/pl/101/382/s113], Aug. 20, 1990, [104 Stat. 639][/us/stat/104/639]; [Pub. L. 101–508, title X, § 10001(d)][/us/pl/101/508/s10001/d], Nov. 5, 1990, [104 Stat. 1388–386][/us/stat/104/1388-386].)
 

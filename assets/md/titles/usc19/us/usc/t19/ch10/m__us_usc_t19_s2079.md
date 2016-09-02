@@ -23,8 +23,6 @@
 
     This Act, referred to in text, is [act Mar. 28, 1928, ch. 266][/us/act/1928-03-28/ch266], [45 Stat. 374][/us/stat/45/374], as amended, which enacted sections 2077 to 2080 of this title and sections 529a and 529g of former Title 31, Money and Finance. Sections 529a and 529g of former Title 31, were repealed by sections 1101(a)(3) and 1101(a)(6), respectively, of [Pub. L. 91–513, title III][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1291][/us/stat/84/1291], 1292.
 
-    The customs laws, referred to in text, are classified generally to this title.
-
  __Codification__ 
 
     Section was formerly classified to [section 529e of Title 31][/us/usc/t31/s529e] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].

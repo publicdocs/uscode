@@ -21,7 +21,7 @@
 
     (b) __Regulations governing entry or withdrawal from warehouse__ 
 
-        In order to carry out an agreement concluded under subsection (a) of this section, the President is authorized to issue regulations governing the entry or withdrawal from warehouse of the article covered by such agreement. In addition, in order to carry out a multilateral agreement concluded under subsection (a) of this section among countries accounting for a significant part of world trade in the article covered by such agreement, the President is also authorized to issue regulations governing the entry or withdrawal from warehouse of the like article which is the product of countries not parties to such agreement.
+        In order to carry out an agreement concluded under subsection (a), the President is authorized to issue regulations governing the entry or withdrawal from warehouse of the article covered by such agreement. In addition, in order to carry out a multilateral agreement concluded under subsection (a) among countries accounting for a significant part of world trade in the article covered by such agreement, the President is also authorized to issue regulations governing the entry or withdrawal from warehouse of the like article which is the product of countries not parties to such agreement.
 
 ([Pub. L. 87–794, title III, § 352][/us/pl/87/794/s352], Oct. 11, 1962, [76 Stat. 901][/us/stat/76/901]; [Pub. L. 93–618, title I, § 171(b)][/us/pl/93/618/s171/b], Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009].)
 

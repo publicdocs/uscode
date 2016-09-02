@@ -39,7 +39,7 @@
 
         (1) __Public information__ 
 
-        The standards information center shall, in addition to the functions specified under subsection (b) of this section, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
+        The standards information center shall, in addition to the functions specified under subsection (b), make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
 
             (A) any sanitary or phytosanitary measure of general application, including any inspection procedure or approval procedure proposed, adopted, or maintained by a Federal agency or agency of a State or local government;
 

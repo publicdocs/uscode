@@ -39,7 +39,7 @@
 
                     (II) the aggregate quantity (or, if quantity is not appropriate, value) of the foreign like product sold by the exporter or producer in such other country is 5 percent or more of the aggregate quantity (or value) of the subject merchandise sold in the United States or for export to the United States, and
 
-                    (III) the administering authority does not determine that the particular market situation in such other country prevents a proper comparison with the export price or constructed export price.
+                    (III) the administering authority does not determine that the particular market situation prevents a proper comparison with the export price or constructed export price.
 
             (C) __Third country sales__ 
 
@@ -71,7 +71,7 @@
 
         (4) __Use of constructed value__ 
 
-            If the administering authority determines that the normal value of the subject merchandise cannot be determined under paragraph (1)(B)(i), then, notwithstanding paragraph (1)(B)(ii), the normal value of the subject merchandise may be the constructed value of that merchandise, as determined under subsection (e) of this section.
+            If the administering authority determines that the normal value of the subject merchandise cannot be determined under paragraph (1)(B)(i), then, notwithstanding paragraph (1)(B)(ii), the normal value of the subject merchandise may be the constructed value of that merchandise, as determined under subsection (e).
 
         (5) __Indirect sales or offers for sale__ 
 
@@ -121,7 +121,7 @@
 
         (8) __Adjustments to constructed value__ 
 
-            Constructed value as determined under subsection (e) of this section, may be adjusted, as appropriate, pursuant to this subsection.
+            Constructed value as determined under subsection (e), may be adjusted, as appropriate, pursuant to this subsection.
 
     (b) __Sales at less than cost of production__ 
 
@@ -141,11 +141,13 @@
 
             (A) __Reasonable grounds to believe or suspect__ 
 
-            There are reasonable grounds to believe or suspect that sales of the foreign like product were made at prices that are less than the cost of production of the product, if—
+                (i) __Review__ 
 
-                (i) in an investigation initiated under [section 1673a of this title][/us/usc/t19/s1673a] or a review conducted under [section 1675 of this title][/us/usc/t19/s1675], an interested party described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title][/us/usc/t19/s1677/9] provides information, based upon observed prices or constructed prices or costs, that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of the product; or
+                    In a review conducted under [section 1675 of this title][/us/usc/t19/s1675] involving a specific exporter, there are reasonable grounds to believe or suspect that sales of the foreign like product have been made at prices that are less than the cost of production of the product if the administering authority disregarded some or all of the exporter’s sales pursuant to paragraph (1) in the investigation or, if a review has been completed, in the most recently completed review.
 
-                (ii) in a review conducted under [section 1675 of this title][/us/usc/t19/s1675] involving a specific exporter, the administering authority disregarded some or all of the exporter’s sales pursuant to paragraph (1) in the investigation or if a review has been completed, in the most recently completed review.
+                (ii) __Requests for information__ 
+
+                    In an investigation initiated under [section 1673a of this title][/us/usc/t19/s1673a] or a review conducted under [section 1675 of this title][/us/usc/t19/s1675], the administering authority shall request information necessary to calculate the constructed value and cost of production under subsections (e) and (f) to determine whether there are reasonable grounds to believe or suspect that sales of the foreign like product have been made at prices that represent less than the cost of production of the product.
 
             (B) __Extended period of time__ 
 
@@ -183,7 +185,7 @@
 
             (A) the subject merchandise is exported from a nonmarket economy country, and
 
-            (B) the administering authority finds that available information does not permit the normal value of the subject merchandise to be determined under subsection (a) of this section,
+            (B) the administering authority finds that available information does not permit the normal value of the subject merchandise to be determined under subsection (a),
 
             the administering authority shall determine the normal value of the subject merchandise on the basis of the value of the factors of production utilized in producing the merchandise and to which shall be added an amount for general expenses and profit plus the cost of containers, coverings, and other expenses. Except as provided in paragraph (2), the valuation of the factors of production shall be based on the best available information regarding the values of such factors in a market economy country or countries considered to be appropriate by the administering authority.
 
@@ -217,23 +219,27 @@
 
             (B) significant producers of comparable merchandise.
 
+        (5) __Discretion to disregard certain price or cost values__ 
+
+            In valuing the factors of production under paragraph (1) for the subject merchandise, the administering authority may disregard price or cost values without further investigation if the administering authority has determined that broadly available export subsidies existed or particular instances of subsidization occurred with respect to those price or cost values or if those price or cost values were subject to an antidumping order.
+
     (d) __Special rule for certain multinational corporations__ 
 
     Whenever, in the course of an investigation under this subtitle, the administering authority determines that—
 
         (1) subject merchandise exported to the United States is being produced in facilities which are owned or controlled, directly or indirectly, by a person, firm, or corporation which also owns or controls, directly or indirectly, other facilities for the production of the foreign like product which are located in another country or countries,
 
-        (2) subsection (a)(1)(C) of this section applies, and
+        (2) subsection (a)(1)(C) applies, and
 
         (3) the normal value of the foreign like product produced in one or more of the facilities outside the exporting country is higher than the normal value of the foreign like product produced in the facilities located in the exporting country,
 
-        it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authority shall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) of this section for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
+        it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authority shall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
 
     (e) __Constructed value__ 
 
     For purposes of this subtitle, the constructed value of imported merchandise shall be an amount equal to the sum of—
 
-        (1) the cost of materials and fabrication or other processing of any kind employed in producing the merchandise, during a period which would ordinarily permit the production of the merchandise in the ordinary course of business;
+        (1) the cost of materials and fabrication or other processing of any kind employed in producing the merchandise, during a period which would ordinarily permit the production of the merchandise in the ordinary course of trade;
 
         (2)
 
@@ -251,11 +257,11 @@
 
         (3) the cost of all containers and coverings of whatever nature, and all other expenses incidental to placing the subject merchandise in condition packed ready for shipment to the United States.
 
-        For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.
+        For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology. For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials.
 
     (f) __Special rules for calculation of cost of production and for calculation of constructed value__ 
 
-    For purposes of subsections (b) and (e) of this section.—
+    For purposes of subsections (b) and (e).—  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period preceding the dash probably should not appear. </sup></sup> 
 
         (1) __Costs__ 
 
@@ -295,9 +301,23 @@
 
             If, in the case of a transaction between affiliated persons involving the production by one of such persons of a major input to the merchandise, the administering authority has reasonable grounds to believe or suspect that an amount represented as the value of such input is less than the cost of production of such input, then the administering authority may determine the value of the major input on the basis of the information available regarding such cost of production, if such cost is greater than the amount that would be determined for such input under paragraph (2).
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 773, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 182][/us/stat/93/182]; amended [Pub. L. 98–573, title VI][/us/pl/98/573], §§ 615, 620(b), Oct. 30, 1984, [98 Stat. 3036][/us/stat/98/3036], 3039; [Pub. L. 99–514, title XVIII, § 1886(a)(11)][/us/pl/99/514/s1886/a/11], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1316(a), 1318, 1319, Aug. 23, 1988, [102 Stat. 1186][/us/stat/102/1186], 1189; [Pub. L. 103–465, title II, § 224][/us/pl/103/465/s224], Dec. 8, 1994, [108 Stat. 4878][/us/stat/108/4878].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 773, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 182][/us/stat/93/182]; amended [Pub. L. 98–573, title VI][/us/pl/98/573], §§ 615, 620(b), Oct. 30, 1984, [98 Stat. 3036][/us/stat/98/3036], 3039; [Pub. L. 99–514, title XVIII, § 1886(a)(11)][/us/pl/99/514/s1886/a/11], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1316(a), 1318, 1319, Aug. 23, 1988, [102 Stat. 1186][/us/stat/102/1186], 1189; [Pub. L. 103–465, title II, § 224][/us/pl/103/465/s224], Dec. 8, 1994, [108 Stat. 4878][/us/stat/108/4878]; [Pub. L. 114–27, title V][/us/pl/114/27], §§ 504(b), (c), 505, June 29, 2015, [129 Stat. 385][/us/stat/129/385].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1)(B)(ii)(III). [Pub. L. 114–27, § 504(b)][/us/pl/114/27/s504/b], which directed amendment of subcl. (III) by striking out “in such other country.”, was executed by striking out “in such other country” after “particular market situation” to reflect the probable intent of Congress.
+
+    Subsec. (b)(2)(A). [Pub. L. 114–27, § 505(a)][/us/pl/114/27/s505/a], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “There are reasonable grounds to believe or suspect that sales of the foreign like product were made at prices that are less than the cost of production of the product, if—
+
+    “(i) in an investigation initiated under [section 1673a of this title][/us/usc/t19/s1673a] or a review conducted under [section 1675 of this title][/us/usc/t19/s1675], an interested party described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title][/us/usc/t19/s1677/9] provides information, based upon observed prices or constructed prices or costs, that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of the product; or
+
+    “(ii) in a review conducted under [section 1675 of this title][/us/usc/t19/s1675] involving a specific exporter, the administering authority disregarded some or all of the exporter’s sales pursuant to paragraph (1) in the investigation or if a review has been completed, in the most recently completed review.”
+
+    Subsec. (c)(5). [Pub. L. 114–27, § 505(b)][/us/pl/114/27/s505/b], added par. (5).
+
+    Subsec. (e). [Pub. L. 114–27, § 504(c)(2)][/us/pl/114/27/s504/c/2], in concluding provisions, substituted “For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology. For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials.” for “For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.”
+
+    Subsec. (e)(1). [Pub. L. 114–27, § 504(c)(1)][/us/pl/114/27/s504/c/1], substituted “trade” for “business”.
 
     1994—[Pub. L. 103–465][/us/pl/103/465] amended section generally, substituting present provisions for provisions relating to foreign market value, which provided for determination of value in subsec. (a), sales at less than cost of production in subsec. (b), treatment of merchandise from nonmarket economy countries in subsec. (c), special rule for certain multinational corporations in subsec. (d), determination of constructed value in subsec. (e), and exportation from an intermediate country in subsec. (f).
 
@@ -342,9 +362,8 @@
 
 [/us/usc/t19/s1677/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F16
 [/us/usc/t19/s1677a/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677a%2Fd%2F1%2FD
-[/us/usc/t19/s1673a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
-[/us/usc/t19/s1677/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F9
+[/us/usc/t19/s1673a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
@@ -357,6 +376,17 @@
 [/us/stat/102/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1186
 [/us/pl/103/465/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs224
 [/us/stat/108/4878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4878
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/stat/129/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F385
+[/us/pl/114/27/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs504%2Fb
+[/us/pl/114/27/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs505%2Fa
+[/us/usc/t19/s1673a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a
+[/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
+[/us/usc/t19/s1677/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F9
+[/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
+[/us/pl/114/27/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs505%2Fb
+[/us/pl/114/27/s504/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs504%2Fc%2F2
+[/us/pl/114/27/s504/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs504%2Fc%2F1
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/418/s1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1319
 [/us/pl/100/418/s1316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1316%2Fa

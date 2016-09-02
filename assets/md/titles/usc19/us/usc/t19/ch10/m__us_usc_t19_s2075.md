@@ -27,7 +27,7 @@
 
             (B) the amount authorized for the fiscal year for the salaries and expenses of the Service for other than commercial operations.
 
-        (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commissioner of Customs shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the operations of the Customs Service as provided for in subsection (b) of this section.
+        (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commissioner of Customs shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the operations of the Customs Service as provided for in subsection (b).
 
     (b) __Authorization of appropriations__ 
 
@@ -61,11 +61,11 @@
 
     (c) __Mandatory 10-day deferment__ 
 
-        No part of any sum that is appropriated under the authority of subsection (b) of this section may be used to implement any procedure relating to the time of collection of estimated duties that shortens the maximum 10-day deferment procedure in effect on January 1, 1981.
+        No part of any sum that is appropriated under the authority of subsection (b) may be used to implement any procedure relating to the time of collection of estimated duties that shortens the maximum 10-day deferment procedure in effect on January 1, 1981.
 
     (d) __Overtime pay limitations; waiver__ 
 
-        No part of any sum that is appropriated under subsection (b) of this section for fiscal years after September 30, 1984, may be used for administrative expenses to pay any employee of the United States Customs Service overtime pay in an amount exceeding $25,000; except that the Commissioner of Customs or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Service.
+        No part of any sum that is appropriated under subsection (b) for fiscal years after September 30, 1984, may be used for administrative expenses to pay any employee of the United States Customs Service overtime pay in an amount exceeding $25,000; except that the Commissioner of Customs or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Service.
 
     (e) __Pay comparability authorization__ 
 
@@ -227,7 +227,7 @@
 
     “(B) $53,500,000 is for the operation and maintenance of the air interdiction program of the Service; and
 
-    “(C) not to exceed $14,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
+    “(C) not to exceed $14,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979.
 
     “(2) No part of any sum that is appropriated under the authority of paragraph (1) may be used to close any port of entry at which, during fiscal year 1985—
 

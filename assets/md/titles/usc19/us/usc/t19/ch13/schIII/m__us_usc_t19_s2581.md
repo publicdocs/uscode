@@ -29,7 +29,7 @@
 
         (3) authority under the notes of the Harmonized Tariff Schedule of the United States, but not including any quantitative restriction imposed under section 22 of the Agricultural Adjustment Act of 1934 ([7 U.S.C. 624][/us/usc/t7/s624]),
 
-        (4) the Trading With the Enemy Act (50 U.S.C. App. 1–44),
+        (4) the Trading With the Enemy Act (50 U.S.C. App. 1–44) \[now [50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\],
 
         (5) section 204 of the Agricultural Act of 1956 ([7 U.S.C. 1854][/us/usc/t7/s1854]) other than for meat or meat products, or
 
@@ -43,7 +43,7 @@
 
     The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
-    The Trading With the Enemy Act, referred to in subsec. (b)(4), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+    The Trading With the Enemy Act, referred to in subsec. (b)(4), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, which was classified generally to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -69,6 +69,7 @@
 [/us/usc/t19/s2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2135
 [/us/usc/t50/s1701–170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701%E2%80%93170
 [/us/usc/t7/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs624
+[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/usc/t7/s1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1854
 [/us/pl/96/39/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1102
 [/us/stat/93/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F307

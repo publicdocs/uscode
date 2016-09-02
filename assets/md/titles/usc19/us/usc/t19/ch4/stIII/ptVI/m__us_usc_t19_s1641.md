@@ -19,7 +19,7 @@
 
     As used in this section:
 
-        (1) The term “customs broker” means any person granted a customs broker’s license by the Secretary under subsection (b) of this section.
+        (1) The term “customs broker” means any person granted a customs broker’s license by the Secretary under subsection (b).
 
         (2) The term “customs business” means those activities involving transactions with the Customs Service concerning the entry and admissibility of merchandise, its classification and valuation, the payment of duties, taxes, or other charges assessed or collected by the Customs Service upon merchandise by reason of its importation, or the refund, rebate, or drawback thereof. It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with the Customs Service in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.
 
@@ -49,23 +49,23 @@
 
         (6) __Prohibited acts__ 
 
-            Any person who intentionally transacts customs business, other than solely on the behalf of that person, without holding a valid customs broker’s license granted to that person under this subsection shall be liable to the United States for a monetary penalty not to exceed $10,000 for each such transaction as well as for each violation of any other provision of this section. This penalty shall be assessed in the same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A) of this section.
+            Any person who intentionally transacts customs business, other than solely on the behalf of that person, without holding a valid customs broker’s license granted to that person under this subsection shall be liable to the United States for a monetary penalty not to exceed $10,000 for each such transaction as well as for each violation of any other provision of this section. This penalty shall be assessed in the same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A).
 
     (c) __Customs broker’s permits__ 
 
         (1) __In general__ 
 
-        Each person granted a customs broker’s license under subsection (b) of this section shall be issued, in accordance with such regulations as the Secretary shall prescribe, either or both of the following:
+        Each person granted a customs broker’s license under subsection (b) shall be issued, in accordance with such regulations as the Secretary shall prescribe, either or both of the following:
 
             (A) A national permit for the conduct of such customs business as the Secretary prescribes by regulation.
 
-            (B) A permit for each customs district in which that person conducts customs business and, except as provided in paragraph (2), regularly employs at least 1 individual who is licensed under subsection (b)(2) of this section to exercise responsible supervision and control over the customs business conducted by that person in that district.
+            (B) A permit for each customs district in which that person conducts customs business and, except as provided in paragraph (2), regularly employs at least 1 individual who is licensed under subsection (b)(2) to exercise responsible supervision and control over the customs business conducted by that person in that district.
 
         (2) __Exception__ 
 
-        If a person granted a customs broker’s license under subsection (b) of this section can demonstrate to the satisfaction of the Secretary that—
+        If a person granted a customs broker’s license under subsection (b) can demonstrate to the satisfaction of the Secretary that—
 
-            (A) he regularly employs in the region in which that district is located at least one individual who is licensed under subsection (b)(2) of this section, and
+            (A) he regularly employs in the region in which that district is located at least one individual who is licensed under subsection (b)(2), and
 
             (B) that sufficient procedures exist within the company for the person employed in that region to exercise responsible supervision and control over the customs business conducted by that person in that district,
 
@@ -73,11 +73,11 @@
 
         (3) __Lapse of permit__ 
 
-            The failure of a customs broker granted a permit under paragraph (1) to employ, for any continuous period of 180 days, at least one individual who is licensed under subsection (b)(2) of this section within the district or region (if paragraph (2) applies) for which a permit was issued shall, in addition to causing the broker to be subject to any other sanction under this section (including any in subsection (d) of this section), result in the revocation by operation of law of the permit.
+            The failure of a customs broker granted a permit under paragraph (1) to employ, for any continuous period of 180 days, at least one individual who is licensed under subsection (b)(2) within the district or region (if paragraph (2) applies) for which a permit was issued shall, in addition to causing the broker to be subject to any other sanction under this section (including any in subsection (d)), result in the revocation by operation of law of the permit.
 
         (4) __Appointment of subagents__ 
 
-            Notwithstanding subsection (c)(1) of this section, upon the implementation by the Secretary under [section 1413(b)(2) of this title][/us/usc/t19/s1413/b/2] of the component of the National Customs Automation Program referred to in [section 1411(a)(2)(B) of this title][/us/usc/t19/s1411/a/2/B], a licensed broker may appoint another licensed broker holding a permit in a customs district to act on its behalf as its subagent in that district if such activity relates to the filing of information that is permitted by law or regulation to be filed electronically. A licensed broker appointing a subagent pursuant to this paragraph shall remain liable for any and all obligations arising under bond and any and all duties, taxes, and fees, as well as any other liabilities imposed by law, and shall be precluded from delegating to a subagent such liability.
+            Notwithstanding subsection (c)(1), upon the implementation by the Secretary under [section 1413(b)(2) of this title][/us/usc/t19/s1413/b/2] of the component of the National Customs Automation Program referred to in [section 1411(a)(2)(B) of this title][/us/usc/t19/s1411/a/2/B], a licensed broker may appoint another licensed broker holding a permit in a customs district to act on its behalf as its subagent in that district if such activity relates to the filing of information that is permitted by law or regulation to be filed electronically. A licensed broker appointing a subagent pursuant to this paragraph shall remain liable for any and all obligations arising under bond and any and all duties, taxes, and fees, as well as any other liabilities imposed by law, and shall be precluded from delegating to a subagent such liability.
 
     (d) __Disciplinary proceedings__ 
 
@@ -89,7 +89,7 @@
 
             (B)
 
-             has been convicted at any time after the filing of an application for license under subsection (b) of this section of any felony or misdemeanor which the Secretary finds—
+             has been convicted at any time after the filing of an application for license under subsection (b) of any felony or misdemeanor which the Secretary finds—
 
                 (i) involved the importation or exportation of merchandise;
 
@@ -121,13 +121,13 @@
 
         (4) __Limitation of actions__ 
 
-            Notwithstanding [section 1621 of this title][/us/usc/t19/s1621], no proceeding under this subsection or subsection (b)(6) of this section shall be commenced unless such proceeding is instituted by the appropriate service of written notice within 5 years from the date the alleged violation was committed; except that if the alleged violation consists of fraud, the 5-year period of limitation shall commence running from the time such alleged violation was discovered.
+            Notwithstanding [section 1621 of this title][/us/usc/t19/s1621], no proceeding under this subsection or subsection (b)(6) shall be commenced unless such proceeding is instituted by the appropriate service of written notice within 5 years from the date the alleged violation was committed; except that if the alleged violation consists of fraud, the 5-year period of limitation shall commence running from the time such alleged violation was discovered.
 
     (e) __Judicial appeal__ 
 
         (1) __In general__ 
 
-            A customs broker, applicant, or other person directly affected may appeal any decision of the Secretary denying or revoking a license or permit under subsection (b) or (c) of this section, or revoking or suspending a license or permit or imposing a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, by filing in the Court of International Trade, within 60 days after the issuance of the decision or order, a written petition requesting that the decision or order be modified or set aside in whole or in part. A copy of the petition shall be transmitted promptly by the clerk of the court to the Secretary or his designee. In cases involving revocation or suspension of a license or permit or imposition of a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, after receipt of the petition, the Secretary shall file in court the record upon which the decision or order complained of was entered, as provided in [section 2635(d) of title 28][/us/usc/t28/s2635/d].
+            A customs broker, applicant, or other person directly affected may appeal any decision of the Secretary denying or revoking a license or permit under subsection (b) or (c), or revoking or suspending a license or permit or imposing a monetary penalty in lieu thereof under subsection (d)(2)(B), by filing in the Court of International Trade, within 60 days after the issuance of the decision or order, a written petition requesting that the decision or order be modified or set aside in whole or in part. A copy of the petition shall be transmitted promptly by the clerk of the court to the Secretary or his designee. In cases involving revocation or suspension of a license or permit or imposition of a monetary penalty in lieu thereof under subsection (d)(2)(B), after receipt of the petition, the Secretary shall file in court the record upon which the decision or order complained of was entered, as provided in [section 2635(d) of title 28][/us/usc/t28/s2635/d].
 
         (2) __Consideration of objections__ 
 
@@ -157,7 +157,7 @@
 
         (1) __In general__ 
 
-        On February 1, 1985, and on February 1 of each third year thereafter, each person who is licensed under subsection (b) of this section shall file with the Secretary of the Treasury a report as to—
+        On February 1, 1985, and on February 1 of each third year thereafter, each person who is licensed under subsection (b) shall file with the Secretary of the Treasury a report as to—
 
             (A) whether such person is actively engaged in business as a customs broker; and
 
@@ -165,7 +165,7 @@
 
         (2) __Suspension and revocation__ 
 
-        If a person licensed under subsection (b) of this section fails to file the required report by March 1 of the reporting year, the license is suspended, and may be thereafter revoked subject to the following procedures:
+        If a person licensed under subsection (b) fails to file the required report by March 1 of the reporting year, the license is suspended, and may be thereafter revoked subject to the following procedures:
 
             (A) The Secretary shall transmit written notice of suspension to the licensee no later than March 31 of the reporting year.
 
@@ -175,7 +175,7 @@
 
     (h) __Fees and charges__ 
 
-        The Secretary may prescribe reasonable fees and charges to defray the costs of the Customs Service in carrying out the provisions of this section, including, but not limited to, a fee for licenses issued under subsection (b) of this section and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
+        The Secretary may prescribe reasonable fees and charges to defray the costs of the Customs Service in carrying out the provisions of this section, including, but not limited to, a fee for licenses issued under subsection (b) and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 641, [46 Stat. 759][/us/stat/46/759]; [Aug. 26, 1935, ch. 689][/us/act/1935-08-26/ch689], §§ 3–5, [49 Stat. 864][/us/stat/49/864], 865; [Pub. L. 85–791, § 8][/us/pl/85/791/s8], Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 91–271, title III, § 301(jj)][/us/pl/91/271/s301/jj], June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 95–410, title I, § 113][/us/pl/95/410/s113], Oct. 3, 1978, [92 Stat. 898][/us/stat/92/898]; [Pub. L. 96–417, title VI, § 611][/us/pl/96/417/s611], Oct. 10, 1980, [94 Stat. 1746][/us/stat/94/1746]; [Pub. L. 98–573, title II, § 212(a)][/us/pl/98/573/s212/a], Oct. 30, 1984, [98 Stat. 2978][/us/stat/98/2978]; [Pub. L. 99–514, title XVIII, § 1888(8)][/us/pl/99/514/s1888/8], Oct. 22, 1986, [100 Stat. 2925][/us/stat/100/2925]; [Pub. L. 103–182, title VI, § 648][/us/pl/103/182/s648], Dec. 8, 1993, [107 Stat. 2207][/us/stat/107/2207]; [Pub. L. 104–295, § 21(e)(11)][/us/pl/104/295/s21/e/11], Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531]; [Pub. L. 105–258, title III, § 302(b)][/us/pl/105/258/s302/b], Oct. 14, 1998, [112 Stat. 1916][/us/stat/112/1916].)
 

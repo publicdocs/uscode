@@ -15,47 +15,27 @@
 
 #### Part 2—Adjustment Assistance for Workers
 
- __Applicability of Provisions During Calendar Year 2015__ 
+ __Effective and Termination Dates of 2015 Revival__ 
 
-[Pub. L. 113–235, div. B, title V, § 541][/us/pl/113/235/s541], Dec. 16, 2014, [128 Stat. 2217][/us/stat/128/2217], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     During the period beginning on January 1, 2015, and ending on December 31, 2015, the provisions of chapter 3 of title II of the Trade Act of 1974 ([19 U.S.C. 2341][/us/usc/t19/s2341] et seq.) \[part 3 of this subchapter\], as in effect on December 31, 2014, shall apply, except that in applying and administering such provisions, section 256(b) of that Act \[[19 U.S.C. 2346(b)][/us/usc/t19/s2346/b]\] shall be applied and administered by substituting ‘$16,000,000 for the period beginning on January 1, 2015, and ending December 31, 2015’ for ‘$16,000,000 for each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007’.
-
->     “(b)  __Termination__  __.—__ 
-
->     During the period beginning on January 1, 2015, and ending on December 31, 2015, section 285 of the Trade Act of 1974 \[[Pub. L. 93–618][/us/pl/93/618]\] ([19 U.S.C. 2271][/us/usc/t19/s2271] note \[prec.\]) \[set out as a Termination Date note below\], as in effect on December 31, 2014, shall apply, except that in applying and administering that section, subsection (b) of that section shall be applied and administered as if paragraph (1) read as follows:    “ ‘(1) Assistance for firms.—
-
->         “ ‘(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after December 31, 2015.
-
->         “ ‘(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 on or before December 31, 2015, may be provided—
-
->         “ ‘(i) to the extent funds are available pursuant to such chapter for such purpose; and
-
->         “ ‘(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.’.”
-
- __Effective and Termination Dates of 2011 Revival__ 
-
-[Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], provided that:
+[Pub. L. 114–27, title IV, § 402(b)][/us/pl/114/27/s402/b], (c), June 29, 2015, [129 Stat. 374][/us/stat/129/374], provided that:
 
 >     “(b)  __Applicability of Certain Provisions__  __.—__ 
 
->     Except as otherwise provided in this subtitle \[subtitle A (§§ 201–233) of title II of [Pub. L. 112–40][/us/pl/112/40], see Tables for classification\], the provisions of chapters 2 through 6 of title II of the Trade Act of 1974 \[this part, parts 3 to 6 of this subchapter, and provisions set out as a note below\], as in effect on February 12, 2011, and as amended by this subtitle, shall—
+>     Except as otherwise provided in this title \[see Tables for classification\], the provisions of chapters 2 through 6 of title II of the Trade Act of 1974 \[this part, parts 3 to 6 of this subchapter, and provisions set out as a note below\], as in effect on December 31, 2013, and as amended by this title, shall—
 
->         “(1) take effect on the date of the enactment of this Act \[Oct. 21, 2011\]; and
+>         “(1) take effect on the date of the enactment of this Act \[June 29, 2015\]; and
 
 >         “(2) apply to petitions for certification filed under chapter 2, 3, or 6 of title II of the Trade Act of 1974 \[this part and parts 3 and 6 of this subchapter\] on or after such date of enactment.
 
 >     “(c)  __References__  __.—__ 
 
->     Except as otherwise provided in this subtitle, whenever in this subtitle an amendment or repeal is expressed in terms of an amendment to, or repeal of, a provision of chapters 2 through 6 of title II of the Trade Act of 1974, the reference shall be considered to be made to a provision of any such chapter, as in effect on February 12, 2011.”
+>     Except as otherwise provided in this title, whenever in this title an amendment or repeal is expressed in terms of an amendment to, or repeal of, a provision of chapters 2 through 6 of title II of the Trade Act of 1974, the reference shall be considered to be made to a provision of any such chapter, as in effect on December 31, 2013.”
 
-[Pub. L. 112–40, title II, § 233][/us/pl/112/40/s233], Oct. 21, 2011, [125 Stat. 416][/us/stat/125/416], provided that:
+[Pub. L. 114–27, title IV, § 406][/us/pl/114/27/s406], June 29, 2015, [129 Stat. 379][/us/stat/129/379], provided that:
 
 >     “(a)  __Application of Prior Law__  __.—__ 
 
->     Subject to subsection (b), beginning on January 1, 2014, the provisions of chapters 2, 3, 5, and 6 of title II of the Trade Act of 1974 ([19 U.S.C. 2271][/us/usc/t19/s2271] et seq.) \[this part, parts 3, 5, and 6 of this subchapter, and provisions set out as a note below\], as in effect on February 13, 2011, shall apply, except that in applying and administering such chapters—
+>     Subject to subsection (b), beginning on July 1, 2021, the provisions of chapters 2, 3, 5, and 6 of title II of the Trade Act of 1974 ([19 U.S.C. 2271][/us/usc/t19/s2271] et seq.) \[this part, parts 3, 5, and 6 of this subchapter, and provisions set out as a note below\], as in effect on January 1, 2014, shall be in effect and apply, except that in applying and administering such chapters—
 
 >         “(1) paragraph (1) of section 231(c) of that Act \[[19 U.S.C. 2291(c)(1)][/us/usc/t19/s2291/c/1]\] shall be applied and administered as if subparagraphs (A), (B), and (C) of that paragraph were not in effect;
 
@@ -77,7 +57,7 @@
 
 >                          “(II) by substituting ‘78-week period’ for ‘52-week period’ each place it appears; and
 
->             “(B) by applying and administering subsection (g) as if it read as follows:    “ ‘(g) Payment of Trade Readjustment Allowances to Complete Training.—Notwithstanding any other provision of this section, in order to assist an adversely affected worker to complete training approved for the worker under section 236 \[[19 U.S.C. 2296][/us/usc/t19/s2296]\] that leads to the completion of a degree or industry-recognized credential, payments may be made as trade readjustment allowances for not more than 13 weeks within such period of eligibility as the Secretary may prescribe to account for a break in training or for justifiable cause that follows the last week for which the worker is otherwise entitled to a trade readjustment allowance under this chapter \[this part\] if—
+>             “(B) by applying and administering subsection (g) as if it read as follows:    “ ‘(g) Payment of Trade Readjustment Allowances To Complete Training.—Notwithstanding any other provision of this section, in order to assist an adversely affected worker to complete training approved for the worker under section 236 \[[19 U.S.C. 2296][/us/usc/t19/s2296]\] that leads to the completion of a degree or industry-recognized credential, payments may be made as trade readjustment allowances for not more than 13 weeks within such period of eligibility as the Secretary may prescribe to account for a break in training or for justifiable cause that follows the last week for which the worker is otherwise entitled to a trade readjustment allowance under this chapter \[this part\] if—
 
 >                 “ ‘(1) payment of the trade readjustment allowance for not more than 13 weeks is necessary for the worker to complete the training;
 
@@ -91,27 +71,27 @@
 
 >                 “ ‘(C) will complete the training during that period of eligibility.’;
 
->         “(3) section 245 of that Act \[[19 U.S.C. 2317][/us/usc/t19/s2317]\] shall be applied and administered by substituting ‘2014’ for ‘2007’;
+>         “(3) section 245(a) of that Act \[[19 U.S.C. 2317(a)][/us/usc/t19/s2317/a]\] shall be applied and administered by substituting ‘June 30, 2022’ for ‘December 31, 2007’;
 
->         “(4) section 246(b)(1) of that Act \[[19 U.S.C. 2318(b)(1)][/us/usc/t19/s2318/b/1]\] shall be applied and administered by substituting ‘December 31, 2014’ for ‘the date that is 5 years’ and all that follows through ‘State’;
+>         “(4) section 246(b)(1) of that Act \[[19 U.S.C. 2318(b)(1)][/us/usc/t19/s2318/b/1]\] shall be applied and administered by substituting ‘June 30, 2022’ for ‘the date that is 5 years’ and all that follows through ‘State’;
 
->         “(5) section 256(b) of that Act \[[19 U.S.C. 2346(b)][/us/usc/t19/s2346/b]\] shall be applied and administered by substituting ‘the 1-year period beginning on January 1, 2014’ for ‘each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007’;
+>         “(5) section 256(b) of that Act \[[19 U.S.C. 2346(b)][/us/usc/t19/s2346/b]\] shall be applied and administered by substituting ‘the 1-year period beginning on July 1, 2021’ for ‘each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007’;
 
->         “(6) section 298(a) of that Act \[[19 U.S.C. 2401g(a)][/us/usc/t19/s2401g/a]\] shall be applied and administered by substituting ‘the 1-year period beginning on January 1, 2014’ for ‘each of the fiscal years’ and all that follows through ‘October 1, 2007’; and
+>         “(6) section 298(a) of that Act \[[19 U.S.C. 2401g(a)][/us/usc/t19/s2401g/a]\] shall be applied and administered by substituting ‘the 1-year period beginning on July 1, 2021’ for ‘each of the fiscal years’ and all that follows through ‘October 1, 2007’; and
 
 >         “(7)
 
 >          section 285 of that Act \[[Pub. L. 93–618][/us/pl/93/618], set out as a Termination Date note below\] shall be applied and administered—
 
->             “(A) in subsection (a), by substituting ‘2014’ for ‘2007’ each place it appears; and
+>             “(A) in subsection (a), by substituting ‘June 30, 2022’ for ‘December 31, 2007’ each place it appears; and
 
 >             “(B) by applying and administering subsection (b) as if it read as follows:    “ ‘(b) Other Assistance.—
 
 >                 “ ‘(1) Assistance for firms.—
 
->                 “ ‘(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after December 31, 2014.
+>                 “ ‘(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after June 30, 2022.
 
->                 “ ‘(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 on or before December 31, 2014, may be provided—
+>                 “ ‘(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 pursuant to a petition filed under section 251 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] on or before June 30, 2022, may be provided—
 
 >                 “ ‘(i) to the extent funds are available pursuant to such chapter for such purpose; and
 
@@ -119,9 +99,9 @@
 
 >                 “ ‘(2) Farmers.—
 
->                 “ ‘(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 6 \[part 6 of this subchapter\] after December 31, 2014.
+>                 “ ‘(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 6 \[part 6 of this subchapter\] after June 30, 2022.
 
->                 “ ‘(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 6 on or before December 31, 2014, may be provided—
+>                 “ ‘(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 6 on or before June 30, 2022, may be provided—
 
 >                 “ ‘(i) to the extent funds are available pursuant to such chapter for such purpose; and
 
@@ -129,13 +109,53 @@
 
 >     “(b)  __Exceptions__  __.—__ 
 
->     The provisions of chapters 2, 3, 5, and 6 of title II of the Trade Act of 1974 \[this part, parts 3, 5, and 6 of this subchapter, and provisions set out as a note below\], as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], shall continue to apply on and after January 1, 2014, with respect to—
+>     The provisions of chapters 2, 3, 5, and 6 of title II of the Trade Act of 1974 \[this part, parts 3, 5, and 6 of this subchapter, and provisions set out as a note below\], as in effect on the date of the enactment of this Act \[June 29, 2015\], shall continue to apply on and after July 1, 2021, with respect to—
 
->         “(1) workers certified as eligible for trade adjustment assistance benefits under chapter 2 of title II of that Act pursuant to petitions filed under section 221 of that Act \[[19 U.S.C. 2271][/us/usc/t19/s2271]\] before January 1, 2014;
+>         “(1) workers certified as eligible for trade adjustment assistance benefits under chapter 2 of title II of that Act pursuant to petitions filed under section 221 of that Act \[[19 U.S.C. 2271][/us/usc/t19/s2271]\] before July 1, 2021;
 
->         “(2) firms certified as eligible for technical assistance or grants under chapter 3 of title II of that Act pursuant to petitions filed under section 251 of that Act \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] before January 1, 2014; and
+>         “(2) firms certified as eligible for technical assistance or grants under chapter 3 of title II of that Act pursuant to petitions filed under section 251 of that Act \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] before July 1, 2021; and
 
->         “(3) agricultural commodity producers certified as eligible for technical or financial assistance under chapter 6 of title II of that Act pursuant to petitions filed under section 292 of that Act \[[19 U.S.C. 2401a][/us/usc/t19/s2401a]\] before January 1, 2014.”
+>         “(3) agricultural commodity producers certified as eligible for technical or financial assistance under chapter 6 of title II of that Act pursuant to petitions filed under section 292 of that Act \[[19 U.S.C. 2401a][/us/usc/t19/s2401a]\] before July 1, 2021.”
+
+ __Applicability of Provisions During Calendar Year 2015__ 
+
+[Pub. L. 113–235, div. B, title V, § 541][/us/pl/113/235/s541], Dec. 16, 2014, [128 Stat. 2217][/us/stat/128/2217], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     During the period beginning on January 1, 2015, and ending on December 31, 2015, the provisions of chapter 3 of title II of the Trade Act of 1974 ([19 U.S.C. 2341][/us/usc/t19/s2341] et seq.) \[part 3 of this subchapter\], as in effect on December 31, 2014, shall apply, except that in applying and administering such provisions, section 256(b) of that Act \[[19 U.S.C. 2346(b)][/us/usc/t19/s2346/b]\] shall be applied and administered by substituting ‘$16,000,000 for the period beginning on January 1, 2015, and ending December 31, 2015’ for ‘$16,000,000 for each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007’.
+
+>     “(b)  __Termination__  __.—__ 
+
+>     During the period beginning on January 1, 2015, and ending on December 31, 2015, section 285 of the Trade Act of 1974 \[[Pub. L. 93–618][/us/pl/93/618]\] ([19 U.S.C. 2271][/us/usc/t19/s2271] note \[prec.\]) \[set out as a Termination Date note below\], as in effect on December 31, 2014, shall apply, except that in applying and administering that section, subsection (b) of that section shall be applied and administered as if paragraph (1) read as follows:    “ ‘(1) Assistance for firms.—
+
+>         “ ‘(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after December 31, 2015.
+
+>         “ ‘(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 on or before December 31, 2015, may be provided—
+
+>         “ ‘(i) to the extent funds are available pursuant to such chapter for such purpose; and
+
+>         “ ‘(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.’.”
+
+    \[[Pub. L. 114–27, title IV][/us/pl/114/27], §§ 402(b), (c), 403(a), June 29, 2015, [129 Stat. 374][/us/stat/129/374], provided that [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], as in effect on Dec. 31, 2013, took effect on June 29, 2015, and was amended by substituting “June 30, 2021” for “December 31, 2013” wherever appearing.\]
+
+ __Effective and Termination Dates of 2011 Revival__ 
+
+[Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], provided that:
+
+>     “(b)  __Applicability of Certain Provisions__  __.—__ 
+
+>     Except as otherwise provided in this subtitle \[subtitle A (§§ 201–233) of title II of [Pub. L. 112–40][/us/pl/112/40], see Tables for classification\], the provisions of chapters 2 through 6 of title II of the Trade Act of 1974 \[this part, parts 3 to 6 of this subchapter, and provisions set out as a note below\], as in effect on February 12, 2011, and as amended by this subtitle, shall—
+
+>         “(1) take effect on the date of the enactment of this Act \[Oct. 21, 2011\]; and
+
+>         “(2) apply to petitions for certification filed under chapter 2, 3, or 6 of title II of the Trade Act of 1974 \[this part and parts 3 and 6 of this subchapter\] on or after such date of enactment.
+
+>     “(c)  __References__  __.—__ 
+
+>     Except as otherwise provided in this subtitle, whenever in this subtitle an amendment or repeal is expressed in terms of an amendment to, or repeal of, a provision of chapters 2 through 6 of title II of the Trade Act of 1974, the reference shall be considered to be made to a provision of any such chapter, as in effect on February 12, 2011.”
+
+    [Pub. L. 112–40, title II, § 233][/us/pl/112/40/s233], Oct. 21, 2011, [125 Stat. 416][/us/stat/125/416], which provided that, beginning on Jan. 1, 2014, the provisions of this part, parts 3, 5, and 6 of this subchapter, and [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out below, as in effect on Feb. 13, 2011, would apply, subject to certain exceptions, was repealed by [Pub. L. 114–27, title IV, § 402(a)][/us/pl/114/27/s402/a], June 29, 2015, [129 Stat. 374][/us/stat/129/374].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -185,19 +205,19 @@
 
  __Termination Date__ 
 
-[Pub. L. 93–618, title II][/us/pl/93/618], ch. 5, § 285, formerly § 284, Jan. 3, 1975, [88 Stat. 2041][/us/stat/88/2041]; renumbered § 285, [Pub. L. 96–417, title VI, § 613(a)][/us/pl/96/417/s613/a], Oct. 10, 1980, [94 Stat. 1746][/us/stat/94/1746]; and amended [Pub. L. 97–35, title XXV, § 2512][/us/pl/97/35/s2512], Aug. 13, 1981, [95 Stat. 888][/us/stat/95/888]; [Pub. L. 98–120, § 2(b)][/us/pl/98/120/s2/b], Oct. 12, 1983, [97 Stat. 809][/us/stat/97/809]; [Pub. L. 99–107, § 3][/us/pl/99/107/s3], Sept. 30, 1985, [99 Stat. 479][/us/stat/99/479]; [Pub. L. 99–155, § 2(b)][/us/pl/99/155/s2/b], Nov. 14, 1985, [99 Stat. 814][/us/stat/99/814]; [Pub. L. 99–181, § 2][/us/pl/99/181/s2], Dec. 13, 1985, [99 Stat. 1172][/us/stat/99/1172]; [Pub. L. 99–189, § 2][/us/pl/99/189/s2], Dec. 18, 1985, [99 Stat. 1184][/us/stat/99/1184]; [Pub. L. 99–272, title XIII, § 13007(a)][/us/pl/99/272/s13007/a], Apr. 7, 1986, [100 Stat. 304][/us/stat/100/304]; [Pub. L. 100–418, title I, § 1426(a)][/us/pl/100/418/s1426/a], Aug. 23, 1988, [102 Stat. 1251][/us/stat/102/1251]; [Pub. L. 103–66, title XIII, § 13803(a)(1)][/us/pl/103/66/s13803/a/1], Aug. 10, 1993, [107 Stat. 668][/us/stat/107/668]; [Pub. L. 103–182, title V, § 505][/us/pl/103/182/s505], Dec. 8, 1993, [107 Stat. 2152][/us/stat/107/2152]; [Pub. L. 105–277, div. J, title I, § 1012(d)][/us/pl/105/277/s1012/d], Oct. 21, 1998, [112 Stat. 2681–901][/us/stat/112/2681-901]; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title VII, § 702(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–319; [Pub. L. 107–210, div. A, title I, § 111(c)][/us/pl/107/210/s111/c], Aug. 6, 2002, [116 Stat. 936][/us/stat/116/936]; [Pub. L. 110–89, § 1(d)][/us/pl/110/89/s1/d], Sept. 28, 2007, [121 Stat. 982][/us/stat/121/982]; [Pub. L. 111–5, div. B, title I, § 1892(b)][/us/pl/111/5/s1892/b], Feb. 17, 2009, [123 Stat. 421][/us/stat/123/421]; [Pub. L. 111–344, title I, § 101(c)(11)][/us/pl/111/344/s101/c/11], Dec. 29, 2010, [124 Stat. 3614][/us/stat/124/3614]; [Pub. L. 112–40, title II][/us/pl/112/40], §§ 201(b), (c), 232, Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], 416, provided that:
+[Pub. L. 93–618, title II][/us/pl/93/618], ch. 5, § 285, formerly § 284, Jan. 3, 1975, [88 Stat. 2041][/us/stat/88/2041]; renumbered § 285, [Pub. L. 96–417, title VI, § 613(a)][/us/pl/96/417/s613/a], Oct. 10, 1980, [94 Stat. 1746][/us/stat/94/1746]; and amended [Pub. L. 97–35, title XXV, § 2512][/us/pl/97/35/s2512], Aug. 13, 1981, [95 Stat. 888][/us/stat/95/888]; [Pub. L. 98–120, § 2(b)][/us/pl/98/120/s2/b], Oct. 12, 1983, [97 Stat. 809][/us/stat/97/809]; [Pub. L. 99–107, § 3][/us/pl/99/107/s3], Sept. 30, 1985, [99 Stat. 479][/us/stat/99/479]; [Pub. L. 99–155, § 2(b)][/us/pl/99/155/s2/b], Nov. 14, 1985, [99 Stat. 814][/us/stat/99/814]; [Pub. L. 99–181, § 2][/us/pl/99/181/s2], Dec. 13, 1985, [99 Stat. 1172][/us/stat/99/1172]; [Pub. L. 99–189, § 2][/us/pl/99/189/s2], Dec. 18, 1985, [99 Stat. 1184][/us/stat/99/1184]; [Pub. L. 99–272, title XIII, § 13007(a)][/us/pl/99/272/s13007/a], Apr. 7, 1986, [100 Stat. 304][/us/stat/100/304]; [Pub. L. 100–418, title I, § 1426(a)][/us/pl/100/418/s1426/a], Aug. 23, 1988, [102 Stat. 1251][/us/stat/102/1251]; [Pub. L. 103–66, title XIII, § 13803(a)(1)][/us/pl/103/66/s13803/a/1], Aug. 10, 1993, [107 Stat. 668][/us/stat/107/668]; [Pub. L. 103–182, title V, § 505][/us/pl/103/182/s505], Dec. 8, 1993, [107 Stat. 2152][/us/stat/107/2152]; [Pub. L. 105–277, div. J, title I, § 1012(d)][/us/pl/105/277/s1012/d], Oct. 21, 1998, [112 Stat. 2681–901][/us/stat/112/2681-901]; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title VII, § 702(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–319; [Pub. L. 107–210, div. A, title I, § 111(c)][/us/pl/107/210/s111/c], Aug. 6, 2002, [116 Stat. 936][/us/stat/116/936]; [Pub. L. 110–89, § 1(d)][/us/pl/110/89/s1/d], Sept. 28, 2007, [121 Stat. 982][/us/stat/121/982]; [Pub. L. 111–5, div. B, title I, § 1892(b)][/us/pl/111/5/s1892/b], Feb. 17, 2009, [123 Stat. 421][/us/stat/123/421]; [Pub. L. 111–344, title I, § 101(c)(11)][/us/pl/111/344/s101/c/11], Dec. 29, 2010, [124 Stat. 3614][/us/stat/124/3614]; [Pub. L. 112–40, title II][/us/pl/112/40], §§ 201(b), (c), 232, Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], 416; [Pub. L. 114–27, title IV][/us/pl/114/27], §§ 402(b), (c), 403(a), June 29, 2015, [129 Stat. 374][/us/stat/129/374], provided that:
 
 >     “(a) __Assistance for Workers.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         Except as provided in paragraph (2), trade adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 2 \[this part\] after December 31, 2013.
+>         Except as provided in paragraph (2), trade adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 2 \[this part\] after June 30, 2021.
 
 >         “(2)  __Exception__  __.—__ 
 
 >         Notwithstanding paragraph (1), a worker shall continue to receive trade adjustment assistance benefits and other benefits under chapter 2 for any week for which the worker meets the eligibility requirements of that chapter if the worker is—
 
->             “(A) certified as eligible for trade adjustment assistance benefits under chapter 2 of this title \[this part\] pursuant to a petition filed under section 221 \[[19 U.S.C. 2271][/us/usc/t19/s2271]\] before December 31, 2013; and
+>             “(A) certified as eligible for trade adjustment assistance benefits under chapter 2 of this title \[this part\] pursuant to a petition filed under section 221 \[[19 U.S.C. 2271][/us/usc/t19/s2271]\] before June 30, 2021; and
 
 >             “(B) otherwise eligible to receive trade adjustment assistance benefits under chapter 2.
 
@@ -207,11 +227,11 @@
 
 >             “(A)  __In general__  __.—__ 
 
->             Except as provided in subparagraph (B), technical assistance and grants may not be provided under chapter 3 \[part 3 of this subchapter\] after December 31, 2013.
+>             Except as provided in subparagraph (B), technical assistance and grants may not be provided under chapter 3 \[part 3 of this subchapter\] after June 30, 2021.
 
 >             “(B)  __Exception__  __.—__ 
 
->             Notwithstanding subparagraph (A), any technical assistance or grant approved under chapter 3 pursuant to a petition filed under section 251 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] on or before December 31, 2013, may be provided—
+>             Notwithstanding subparagraph (A), any technical assistance or grant approved under chapter 3 pursuant to a petition filed under section 251 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] on or before June 30, 2021, may be provided—
 
 >                 “(i) to the extent funds are available pursuant to such chapter for such purpose; and
 
@@ -221,17 +241,45 @@
 
 >             “(A)  __In general__  __.—__ 
 
->             Except as provided in subparagraph (B), technical assistance and financial assistance may not be provided under chapter 6 \[part 6 of this subchapter\] after December 31, 2013.
+>             Except as provided in subparagraph (B), technical assistance and financial assistance may not be provided under chapter 6 \[part 6 of this subchapter\] after June 30, 2021.
 
 >             “(B)  __Exception__  __.—__ 
 
->             Notwithstanding subparagraph (A), any technical or financial assistance approved under chapter 6 pursuant to a petition filed under section 292 \[[19 U.S.C. 2401a][/us/usc/t19/s2401a]\] on or before December 31, 2013, may be provided—
+>             Notwithstanding subparagraph (A), any technical or financial assistance approved under chapter 6 pursuant to a petition filed under section 292 \[[19 U.S.C. 2401a][/us/usc/t19/s2401a]\] on or before June 30, 2021, may be provided—
 
 >                 “(i) to the extent funds are available pursuant to such chapter for such purpose; and
 
 >                 “(ii) to the extent the recipient of the technical or financial assistance is otherwise eligible to receive such technical or financial assistance, as the case may be.”
 
-\[[Pub. L. 113–235, div. B, title V, § 541(b)][/us/pl/113/235/s541/b], Dec. 16, 2014, [128 Stat. 2217][/us/stat/128/2217], provided that, during the period beginning on Jan. 1, 2015, and ending on Dec. 31, 2015, [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out above, as in effect on Dec. 31, 2014, shall apply, except that subsec. (b) of that section shall be applied and administered as if par. (1) read as follows:
+    \[[Pub. L. 114–27, title IV, § 406(a)][/us/pl/114/27/s406/a], June 29, 2015, [129 Stat. 379][/us/stat/129/379], provided that, beginning July 1, 2021, subject to section 406(b), set out as an Effective and Termination Dates of 2015 Revival note above, [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out above, as in effect on Jan. 1, 2014, shall be applied and administered—
+
+    \[(1) in subsec. (a), by substituting “June 30, 2022” for “December 31, 2007” wherever appearing; and
+
+    \[(2) as if subsec. (b) read as follows:
+
+    \[“(b) Other Assistance.—
+
+    \[“(1) Assistance for firms.—
+
+    \[“(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after June 30, 2022.
+
+    \[“(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 pursuant to a petition filed under section 251 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] on or before June 30, 2022, may be provided—
+
+    \[“(i) to the extent funds are available pursuant to such chapter for such purpose; and
+
+    \[“(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.
+
+    \[“(2) Farmers.—
+
+    \[“(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 6 \[part 6 of this subchapter\] after June 30, 2022.
+
+    \[“(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 6 on or before June 30, 2022, may be provided—
+
+    \[“(i) to the extent funds are available pursuant to such chapter for such purpose; and
+
+    \[“(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.”\]
+
+\[[Pub. L. 113–235, div. B, title V, § 541(b)][/us/pl/113/235/s541/b], Dec. 16, 2014, [128 Stat. 2217][/us/stat/128/2217], provided that, during the period beginning on Jan. 1, 2015, and ending on Dec. 31, 2015, [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], as in effect on Dec. 31, 2014, shall apply, except that subsec. (b) of that section shall be applied and administered as if par. (1) read as follows:
 
     \[“(1) Assistance for firms.—
 
@@ -243,7 +291,7 @@
 
     \[“(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.”\]
 
-    \[[Pub. L. 112–40, title II, § 233(a)][/us/pl/112/40/s233/a], Oct. 21, 2011, [125 Stat. 416][/us/stat/125/416], provided that, beginning Jan. 1, 2014, subject to section 233(b), set out as an Effective and Termination Dates of 2011 Revival note above, [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out above, as in effect on Feb. 13, 2011, shall be applied and administered—
+    \[[Pub. L. 112–40, title II, § 233(a)][/us/pl/112/40/s233/a], Oct. 21, 2011, [125 Stat. 416][/us/stat/125/416], prior to repeal by [Pub. L. 114–27, title IV, § 402(a)][/us/pl/114/27/s402/a], June 29, 2015, [129 Stat. 374][/us/stat/129/374], provided that, beginning Jan. 1, 2014, subject to section 233(b), set out as an Effective and Termination Dates of 2011 Revival note above, [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], as in effect on Feb. 13, 2011, was to be applied and administered—
 
     \[(1) in subsec. (a), by substituting “2014” for “2007” wherever appearing; and
 
@@ -271,9 +319,9 @@
 
     \[“(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.”\]
 
-    \[Amendment to [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out above, by [section 1892(b) of Pub. L. 111–5][/us/pl/111/5/s1892/b], which substituted “December 31, 2010” for “December 31, 2007” wherever appearing in subsec. (a) and amended subsec. (b) generally, was not applicable on or after Feb. 13, 2011, except as otherwise provided, and [section 285 of Pub. L. 93–618][/us/pl/93/618/s285] was applied and administered beginning Feb. 13, 2011, as provided in former [section 1893(b) of Pub. L. 111–5][/us/pl/111/5/s1893/b]. [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], formerly set out as a Termination Date of 2009 Amendment note above, was repealed by [Pub. L. 112–40, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403].\]
+    \[Amendment to [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out above, by [section 1892(b) of Pub. L. 111–5][/us/pl/111/5/s1892/b], which substituted “December 31, 2010” for “December 31, 2007” wherever appearing in subsec. (a) and amended subsec. (b) generally, was not applicable on or after Feb. 13, 2011, except as otherwise provided, and [section 285 of Pub. L. 93–618][/us/pl/93/618/s285] was applied and administered beginning Feb. 13, 2011, as provided in former [section 1893(b) of Pub. L. 111–5][/us/pl/111/5/s1893/b]. [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], formerly set out as a Termination Date of 2009 Amendment note above, was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403].\]
 
-    \[[Pub. L. 111–5, div. B, title I, § 1893(b)][/us/pl/111/5/s1893/b], Feb. 17, 2009, [123 Stat. 422][/us/stat/123/422], as amended by [Pub. L. 111–344, title I, § 101(b)][/us/pl/111/344/s101/b], Dec. 29, 2010, [124 Stat. 3612][/us/stat/124/3612], provided, prior to repeal by [Pub. L. 112–40, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], that, beginning Feb. 13, 2011, subject to section 1893(a)(2), formerly set out as a Termination Date of 2009 Amendment note above, [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out above, was to be applied and administered—
+    \[[Pub. L. 111–5, div. B, title I, § 1893(b)][/us/pl/111/5/s1893/b], Feb. 17, 2009, [123 Stat. 422][/us/stat/123/422], as amended by [Pub. L. 111–344, title I, § 101(b)][/us/pl/111/344/s101/b], Dec. 29, 2010, [124 Stat. 3612][/us/stat/124/3612], provided, prior to repeal by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], that, beginning Feb. 13, 2011, subject to section 1893(a)(2), formerly set out as a Termination Date of 2009 Amendment note above, [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], was to be applied and administered—
 
     \[(1) in subsec. (a), by substituting “February 12, 2011” for “December 31, 2007” wherever appearing; and
 
@@ -318,29 +366,40 @@
 ----------
 ----------
 
+[/us/pl/114/27/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fb
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
+[/us/pl/114/27/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406
+[/us/stat/129/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F379
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
+[/us/usc/t19/s2291/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2291%2Fc%2F1
+[/us/usc/t19/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2293
+[/us/usc/t19/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2296
+[/us/usc/t19/s2317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2317%2Fa
+[/us/usc/t19/s2318/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2318%2Fb%2F1
+[/us/usc/t19/s2346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2346%2Fb
+[/us/usc/t19/s2401g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401g%2Fa
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
+[/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
+[/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
+[/us/usc/t19/s2401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401a
 [/us/pl/113/235/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs541
 [/us/stat/128/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2217
 [/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
 [/us/usc/t19/s2346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2346%2Fb
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
+[/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
 [/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/112/40/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233
 [/us/stat/125/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F416
-[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
-[/us/usc/t19/s2291/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2291%2Fc%2F1
-[/us/usc/t19/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2293
-[/us/usc/t19/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2296
-[/us/usc/t19/s2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2317
-[/us/usc/t19/s2318/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2318%2Fb%2F1
-[/us/usc/t19/s2346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2346%2Fb
-[/us/usc/t19/s2401g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401g%2Fa
-[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
-[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
-[/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
-[/us/usc/t19/s2401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401a
+[/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
+[/us/pl/114/27/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fa
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
 [/us/pl/111/344/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs101%2Fd
 [/us/stat/124/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3614
 [/us/pl/111/5/s1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1893
@@ -404,14 +463,22 @@
 [/us/stat/124/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3614
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
 [/us/usc/t19/s2401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401a
+[/us/pl/114/27/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406%2Fa
+[/us/stat/129/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F379
+[/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
+[/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
 [/us/pl/113/235/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs541%2Fb
 [/us/stat/128/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2217
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
 [/us/pl/112/40/s233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fa
 [/us/stat/125/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F416
+[/us/pl/114/27/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fa
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
 [/us/pl/111/5/s1892/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1892%2Fb

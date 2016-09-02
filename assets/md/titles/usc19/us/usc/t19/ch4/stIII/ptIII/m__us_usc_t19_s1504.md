@@ -37,7 +37,7 @@
 
             (A) __In general__ 
 
-                Except as provided in subparagraph (B) or (C), unless an entry or claim for drawback is extended under subsection (b) of this section or suspended as required by statute or court order, an entry or claim for drawback not liquidated within 1 year from the date of entry or claim shall be deemed liquidated at the drawback amount asserted by the claimant or claim. Notwithstanding [section 1500(e) of this title][/us/usc/t19/s1500/e], notice of liquidation need not be given of an entry deemed liquidated.
+                Except as provided in subparagraph (B) or (C), unless an entry or claim for drawback is extended under subsection (b) or suspended as required by statute or court order, an entry or claim for drawback not liquidated within 1 year from the date of entry or claim shall be deemed liquidated at the drawback amount asserted by the claimant or claim. Notwithstanding [section 1500(e) of this title][/us/usc/t19/s1500/e], notice of liquidation need not be given of an entry deemed liquidated.
 
             (B) __Unliquidated imports__ 
 
@@ -59,7 +59,7 @@
 
         (2) the importer of record or drawback claimant, as the case may be, requests such extension and shows good cause therefor.
 
-        The Secretary shall give notice of an extension under this subsection to the importer of record or drawback claimant, as the case may be, and the surety of such importer of record or drawback claimant. Notice shall be in such form and manner (which may include electronic transmittal) as the Secretary shall by regulation prescribe. Any entry the liquidation of which is extended under this subsection shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record, or the drawback amount asserted by the drawback claimant, at the expiration of 4 years from the applicable date specified in subsection (a) of this section.
+        The Secretary shall give notice of an extension under this subsection to the importer of record or drawback claimant, as the case may be, and the surety of such importer of record or drawback claimant. Notice shall be in such form and manner (which may include electronic transmittal) as the Secretary shall by regulation prescribe. Any entry the liquidation of which is extended under this subsection shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record, or the drawback amount asserted by the drawback claimant, at the expiration of 4 years from the applicable date specified in subsection (a).
 
     (c) __Notice of suspension__ 
 
@@ -67,7 +67,7 @@
 
     (d) __Removal of suspension__ 
 
-        Except as provided in [section 1675(a)(3) of this title][/us/usc/t19/s1675/a/3], when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry, unless liquidation is extended under subsection (b) of this section, within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry (other than an entry with respect to which liquidation has been extended under subsection (b) of this section) not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record or (in the case of a drawback entry or claim) at the drawback amount asserted by the drawback claimant.
+        Except as provided in [section 1675(a)(3) of this title][/us/usc/t19/s1675/a/3], when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry, unless liquidation is extended under subsection (b), within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry (other than an entry with respect to which liquidation has been extended under subsection (b)) not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record or (in the case of a drawback entry or claim) at the drawback amount asserted by the drawback claimant.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 504, as added [Pub. L. 95–410, title II, § 209(a)][/us/pl/95/410/s209/a], Oct. 3, 1978, [92 Stat. 902][/us/stat/92/902]; amended [Pub. L. 98–573, title I, § 191(d)][/us/pl/98/573/s191/d], Oct. 30, 1984, [98 Stat. 2971][/us/stat/98/2971]; [Pub. L. 103–182, title VI, § 641][/us/pl/103/182/s641], Dec. 8, 1993, [107 Stat. 2204][/us/stat/107/2204]; [Pub. L. 103–465, title II, § 220(c)][/us/pl/103/465/s220/c], Dec. 8, 1994, [108 Stat. 4865][/us/stat/108/4865]; [Pub. L. 104–295, § 3(a)(7)][/us/pl/104/295/s3/a/7], Oct. 11, 1996, [110 Stat. 3516][/us/stat/110/3516]; [Pub. L. 108–429, title I, § 1563(e)][/us/pl/108/429/s1563/e], title II, § 2102, Dec. 3, 2004, [118 Stat. 2585][/us/stat/118/2585], 2597.)
 
@@ -105,7 +105,7 @@
 
     Subsec. (d). [Pub. L. 108–429, § 1563(e)(3)][/us/pl/108/429/s1563/e/3], inserted “or (in the case of a drawback entry or claim) at the drawback amount asserted at the time of entry by the drawback claimant” before period at end.
 
-    1996—Subsec. (d). [Pub. L. 104–295][/us/pl/104/295] inserted “, unless liquidation is extended under subsection (b) of this section,” after “shall liquidate the entry” in first sentence, and “(other than an entry with respect to which liquidation has been extended under subsection (b) of this section)” after “Any entry” in second sentence.
+    1996—Subsec. (d). [Pub. L. 104–295][/us/pl/104/295] inserted “, unless liquidation is extended under subsection (b),” after “shall liquidate the entry” in first sentence, and “(other than an entry with respect to which liquidation has been extended under subsection (b))” after “Any entry” in second sentence.
 
     1994—Subsec. (a). [Pub. L. 103–465, § 220(c)(1)][/us/pl/103/465/s220/c/1], inserted “except as provided in [section 1675(a)(3) of this title][/us/usc/t19/s1675/a/3],” before “an entry of merchandise not liquidated” in introductory provisions.
 

@@ -21,7 +21,7 @@
 
     (b) __Objectives of working party__ 
 
-    The objectives of the United States for the working party described in subsection (a) of this section are to—
+    The objectives of the United States for the working party described in subsection (a) are to—
 
         (1) explore the linkage between international trade and internationally recognized worker rights, as defined in [section 2467(4) of this title][/us/usc/t19/s2467/4], taking into account differences in the level of development among countries;
 

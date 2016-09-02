@@ -23,11 +23,11 @@
 
         (2) the airport located at Pontiac/Oakland, Michigan, and
 
-        (3) any other airport, seaport, or other facility designated by the Secretary of the Treasury under subsection (c) of this section.
+        (3) any other airport, seaport, or other facility designated by the Secretary of the Treasury under subsection (c).
 
     (b) __Liability for and amount of fee__ 
 
-        The fee which is charged under subsection (a) of this section shall be paid by each person using the customs services at the airport, seaport, or other facility and shall be in an amount equal to the expenses incurred by the Secretary of the Treasury in providing the customs services which are rendered to such person at such airport, seaport, or other facility (including the salary and expenses of individuals employed by the Secretary of the Treasury to provide such customs services).
+        The fee which is charged under subsection (a) shall be paid by each person using the customs services at the airport, seaport, or other facility and shall be in an amount equal to the expenses incurred by the Secretary of the Treasury in providing the customs services which are rendered to such person at such airport, seaport, or other facility (including the salary and expenses of individuals employed by the Secretary of the Treasury to provide such customs services).
 
     (c) __Justification for service__ 
 
@@ -39,15 +39,15 @@
 
     (d) __Failure to pay fee__ 
 
-        Any person who, after notice and demand for payment of any fee charged under subsection (a) of this section, fails to pay such fee shall be guilty of a misdemeanor and if convicted thereof shall pay a fine that does not exceed an amount equal to 200 percent of such fee.
+        Any person who, after notice and demand for payment of any fee charged under subsection (a), fails to pay such fee shall be guilty of a misdemeanor and if convicted thereof shall pay a fine that does not exceed an amount equal to 200 percent of such fee.
 
     (e) __Small airport, seaport, or other facility account; expenditures for services__ 
 
-        Fees collected by the Secretary of the Treasury under subsection (a) of this section with respect to the provision of services at an airport, seaport, or other facility shall be deposited in an account within the Treasury of the United States that is specially designated for such airport, seaport, or other facility. The Secretary of the Treasury is authorized and directed to pay out of any funds available in such account any expenses incurred by the Federal Government in providing customs services at such airport, seaport, or other facility (including expenses incurred for the salaries and expenses of individuals employed to provide such services). None of the funds deposited into such account shall be available for any purpose other than making payments authorized under the preceding sentence.
+        Fees collected by the Secretary of the Treasury under subsection (a) with respect to the provision of services at an airport, seaport, or other facility shall be deposited in an account within the Treasury of the United States that is specially designated for such airport, seaport, or other facility. The Secretary of the Treasury is authorized and directed to pay out of any funds available in such account any expenses incurred by the Federal Government in providing customs services at such airport, seaport, or other facility (including expenses incurred for the salaries and expenses of individuals employed to provide such services). None of the funds deposited into such account shall be available for any purpose other than making payments authorized under the preceding sentence.
 
     (f) __Customs services for foreign trade zones or subzones__ 
 
-        For purposes of this section, customs services provided in connection with, or with respect to, any foreign trade zone or subzone that is located at, or in the vicinity of, any airport, seaport, or other facility described in subsection (a) of this section or designated under subsection (c) of this section shall be considered to be customs services provided at such airport, seaport, or other facility.
+        For purposes of this section, customs services provided in connection with, or with respect to, any foreign trade zone or subzone that is located at, or in the vicinity of, any airport, seaport, or other facility described in subsection (a) or designated under subsection (c) shall be considered to be customs services provided at such airport, seaport, or other facility.
 
 ([Pub. L. 98–573, title II, § 236][/us/pl/98/573/s236], Oct. 30, 1984, [98 Stat. 2992][/us/stat/98/2992]; [Pub. L. 99–190, § 142][/us/pl/99/190/s142], Dec. 19, 1985, [99 Stat. 1324][/us/stat/99/1324]; [Pub. L. 99–272, title XIII, § 13032][/us/pl/99/272/s13032], Apr. 7, 1986, [100 Stat. 310][/us/stat/100/310]; [Pub. L. 100–418, title I, § 1905][/us/pl/100/418/s1905], Aug. 23, 1988, [102 Stat. 1313][/us/stat/102/1313]; [Pub. L. 101–207, § 3(c)(2)][/us/pl/101/207/s3/c/2], (f)(1), Dec. 7, 1989, [103 Stat. 1834][/us/stat/103/1834], 1835.)
 

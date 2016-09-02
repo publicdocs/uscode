@@ -23,7 +23,7 @@
 
         (2) the date on which any foreign country is identified under [section 3103(c)(1)(B) of this title][/us/usc/t19/s3103/c/1/B] as a priority foreign country,
 
-        the President shall enter into negotiations with such priority foreign country for the purpose of entering into a bilateral or multilateral trade agreement under chapter 17 of this title which meets the specific negotiating objectives established by the President under subsection (b) of this section for such priority foreign country.
+        the President shall enter into negotiations with such priority foreign country for the purpose of entering into a bilateral or multilateral trade agreement under chapter 17 of this title which meets the specific negotiating objectives established by the President under subsection (b) for such priority foreign country.
 
     (b) __Establishment of specific negotiating objectives for each foreign priority country__ 
 

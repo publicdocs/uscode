@@ -19,7 +19,7 @@
 
     This section and sections 2192 and 2193 of this title are enacted by the Congress—
 
-        (1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of implementing bills described in subsection (b)(1) of this section, implementing revenue bills described in subsection (b) (2) of this section, approval resolutions described in subsection (b)(3) of this section, and resolutions described in sections 2192(a) and 2193(a) of this title; and they supersede other rules only to the extent that they are inconsistent therewith; and
+        (1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of implementing bills described in subsection (b)(1), implementing revenue bills described in subsection (b)(2), approval resolutions described in subsection (b)(3), and resolutions described in sections 2192(a) and 2193(a) of this title; and they supersede other rules only to the extent that they are inconsistent therewith; and
 
         (2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
 
@@ -29,7 +29,7 @@
 
         (1)
 
-         The term “implementing bill” means only a bill of either House of Congress which is introduced as provided in subsection (c) of this section with respect to one or more trade agreements, or with respect to an extension described in [section 3572(c)(3) of this title][/us/usc/t19/s3572/c/3], submitted to the House of Representatives and the Senate under [section 2112 of this title][/us/usc/t19/s2112], [section 3572 of this title][/us/usc/t19/s3572], or [section 3805(a)(1) of this title][/us/usc/t19/s3805/a/1] and which contains—
+         The term “implementing bill” means only a bill of either House of Congress which is introduced as provided in subsection (c) with respect to one or more trade agreements, or with respect to an extension described in [section 3572(c)(3) of this title][/us/usc/t19/s3572/c/3], submitted to the House of Representatives and the Senate under [section 2112 of this title][/us/usc/t19/s2112], [section 3572 of this title][/us/usc/t19/s3572], or [section 4205(a)(1) of this title][/us/usc/t19/s4205/a/1] and which contains—
 
             (A) a provision approving such trade agreement or agreements or such extension,
 
@@ -43,7 +43,7 @@
 
     (c) __Introduction and referral__ 
 
-        (1) On the day on which a trade agreement or extension is submitted to the House of Representatives and the Senate under [section 2112 of this title][/us/usc/t19/s2112], [section 3572 of this title][/us/usc/t19/s3572], or [section 3805(a)(1) of this title][/us/usc/t19/s3805/a/1], the implementing bill submitted by the President with respect to such trade agreement or extension shall be introduced (by request) in the House by the majority leader of the House, for himself and the minority leader of the House, or by Members of the House designated by the majority leader and minority leader of the House; and shall be introduced (by request) in the Senate by the majority leader of the Senate, for himself and the minority leader of the Senate, or by Members of the Senate designated by the majority leader and minority leader of the Senate. If either House is not in session on the day on which such a trade agreement or extension is submitted, the implementing bill shall be introduced in that House, as provided in the preceding sentence, on the first day thereafter on which that House is in session. Such bills shall be referred by the Presiding Officers of the respective Houses to the appropriate committee, or, in the case of a bill containing provisions within the jurisdiction of two or more committees, jointly to such committees for consideration of those provisions within their respective jurisdictions.
+        (1) On the day on which a trade agreement or extension is submitted to the House of Representatives and the Senate under [section 2112 of this title][/us/usc/t19/s2112], [section 3572 of this title][/us/usc/t19/s3572], or [section 4205(a)(1) of this title][/us/usc/t19/s4205/a/1], the implementing bill submitted by the President with respect to such trade agreement or extension shall be introduced (by request) in the House by the majority leader of the House, for himself and the minority leader of the House, or by Members of the House designated by the majority leader and minority leader of the House; and shall be introduced (by request) in the Senate by the majority leader of the Senate, for himself and the minority leader of the Senate, or by Members of the Senate designated by the majority leader and minority leader of the Senate. If either House is not in session on the day on which such a trade agreement or extension is submitted, the implementing bill shall be introduced in that House, as provided in the preceding sentence, on the first day thereafter on which that House is in session. Such bills shall be referred by the Presiding Officers of the respective Houses to the appropriate committee, or, in the case of a bill containing provisions within the jurisdiction of two or more committees, jointly to such committees for consideration of those provisions within their respective jurisdictions.
 
         (2) On the day on which a bilateral commercial agreement, entered into under subchapter IV of this chapter after January 3, 1975, is transmitted to the House of Representatives and the Senate, an approval resolution with respect to such agreement shall be introduced (by request) in the House by the majority leader of the House, for himself and the minority leader of the House, or by Members of the House designated by the majority leader and minority leader of the House; and shall be introduced (by request) in the Senate by the majority leader of the Senate, for himself and the minority leader of the Senate, or by Members of the Senate designated by the majority leader and minority leader of the Senate. If either House is not in session on the day on which such an agreement is transmitted, the approval resolution with respect to such agreement shall be introduced in that House, as provided in the preceding sentence, on the first day thereafter on which that House is in session. The approval resolution introduced in the House shall be referred to the Committee on Ways and Means and the approval resolution introduced in the Senate shall be referred to the Committee on Finance.
 
@@ -87,9 +87,11 @@
 
         (4) A motion in the Senate to further limit debate is not debatable. A motion to recommit an implementing bill or approval resolution is not in order.
 
-([Pub. L. 93–618, title I, § 151][/us/pl/93/618/s151], Jan. 3, 1975, [88 Stat. 2001][/us/stat/88/2001]; [Pub. L. 100–418, title I, § 1107(b)(1)][/us/pl/100/418/s1107/b/1], Aug. 23, 1988, [102 Stat. 1135][/us/stat/102/1135]; [Pub. L. 101–382, title I, § 132(b)(2)][/us/pl/101/382/s132/b/2], Aug. 20, 1990, [104 Stat. 645][/us/stat/104/645]; [Pub. L. 103–465, title II, § 282(c)(4)][/us/pl/103/465/s282/c/4], Dec. 8, 1994, [108 Stat. 4929][/us/stat/108/4929]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(1)][/us/pl/107/210/s2110/a/1], Aug. 6, 2002, [116 Stat. 1019][/us/stat/116/1019].)
+([Pub. L. 93–618, title I, § 151][/us/pl/93/618/s151], Jan. 3, 1975, [88 Stat. 2001][/us/stat/88/2001]; [Pub. L. 100–418, title I, § 1107(b)(1)][/us/pl/100/418/s1107/b/1], Aug. 23, 1988, [102 Stat. 1135][/us/stat/102/1135]; [Pub. L. 101–382, title I, § 132(b)(2)][/us/pl/101/382/s132/b/2], Aug. 20, 1990, [104 Stat. 645][/us/stat/104/645]; [Pub. L. 103–465, title II, § 282(c)(4)][/us/pl/103/465/s282/c/4], Dec. 8, 1994, [108 Stat. 4929][/us/stat/108/4929]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(1)][/us/pl/107/210/s2110/a/1], Aug. 6, 2002, [116 Stat. 1019][/us/stat/116/1019]; [Pub. L. 114–26, title I, § 110(a)(6)][/us/pl/114/26/s110/a/6], June 29, 2015, [129 Stat. 358][/us/stat/129/358].)
 
  __Amendments__ 
+
+    2015—Subsecs. (b)(1), (c)(1). [Pub. L. 114–26, § 110(a)(6)][/us/pl/114/26/s110/a/6], substituted “[section 4205(a)(1) of this title][/us/usc/t19/s4205/a/1]” for “[section 3805(a)(1) of this title][/us/usc/t19/s3805/a/1]”.
 
     2002—Subsec. (b)(1). [Pub. L. 107–210, § 2110(a)(1)(A)][/us/pl/107/210/s2110/a/1/A], substituted “[section 3572 of this title][/us/usc/t19/s3572], or [section 3805(a)(1) of this title][/us/usc/t19/s3805/a/1]” for “[section 2903(a)(1) of this title][/us/usc/t19/s2903/a/1], or [section 3572 of this title][/us/usc/t19/s3572]” in introductory provisions.
 
@@ -121,10 +123,10 @@
 [/us/usc/t19/s3572/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572%2Fc%2F3
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572
-[/us/usc/t19/s3805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fa%2F1
+[/us/usc/t19/s4205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4205%2Fa%2F1
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572
-[/us/usc/t19/s3805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fa%2F1
+[/us/usc/t19/s4205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4205%2Fa%2F1
 [/us/pl/93/618/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs151
 [/us/stat/88/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2001
 [/us/pl/100/418/s1107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1107%2Fb%2F1
@@ -135,6 +137,11 @@
 [/us/stat/108/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4929
 [/us/pl/107/210/s2110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F1
 [/us/stat/116/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1019
+[/us/pl/114/26/s110/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F6
+[/us/stat/129/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F358
+[/us/pl/114/26/s110/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F6
+[/us/usc/t19/s4205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4205%2Fa%2F1
+[/us/usc/t19/s3805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fa%2F1
 [/us/pl/107/210/s2110/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F1%2FA
 [/us/usc/t19/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572
 [/us/usc/t19/s3805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fa%2F1

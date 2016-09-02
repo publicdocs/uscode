@@ -17,7 +17,7 @@
 
     (a) __General rule__ 
 
-    Except as provided in subsection (b) of this section, no import relief may be provided under this subpart—
+    Except as provided in subsection (b), no import relief may be provided under this subpart—
 
         (1) in the case of a Canadian article, after December 31, 1998; or
 
@@ -27,7 +27,7 @@
 
     (b) __Exception__ 
 
-        Import relief may be provided under this subpart in the case of a Canadian article or Mexican article after the date on which such relief would, but for this subsection, terminate under subsection (a) of this section, but only if the Government of Canada or Mexico, as the case may be, consents to such provision.
+        Import relief may be provided under this subpart in the case of a Canadian article or Mexican article after the date on which such relief would, but for this subsection, terminate under subsection (a), but only if the Government of Canada or Mexico, as the case may be, consents to such provision.
 
 ([Pub. L. 103–182, title III, § 305][/us/pl/103/182/s305], Dec. 8, 1993, [107 Stat. 2103][/us/stat/107/2103].)
 

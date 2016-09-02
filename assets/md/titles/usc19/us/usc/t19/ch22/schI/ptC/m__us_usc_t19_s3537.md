@@ -21,7 +21,7 @@
 
     (b) __Notice and public comment__ 
 
-    In any proceeding described in subsection (a) of this section, the Trade Representative shall—
+    In any proceeding described in subsection (a), the Trade Representative shall—
 
         (1)
 
@@ -35,13 +35,13 @@
 
             (D) seeking written comments from the public concerning the issues raised in the dispute; and
 
-        (2) take into account any advice received from appropriate congressional committees and relevant private sector advisory committees referred to in subsection (a) of this section, and written comments received pursuant to paragraph (1)(D), in preparing United States submissions to the panel or the Appellate Body.
+        (2) take into account any advice received from appropriate congressional committees and relevant private sector advisory committees referred to in subsection (a), and written comments received pursuant to paragraph (1)(D), in preparing United States submissions to the panel or the Appellate Body.
 
     (c) __Access to documents__ 
 
-    In each proceeding described in subsection (a) of this section, the Trade Representative shall—
+    In each proceeding described in subsection (a), the Trade Representative shall—
 
-        (1) make written submissions by the United States referred to in subsection (b) of this section available to the public promptly after they are submitted to the panel or Appellate Body, except that the Trade Representative is authorized to withhold from disclosure any information contained in such submissions identified by the provider of the information as proprietary information or information treated as confidential by a foreign government;
+        (1) make written submissions by the United States referred to in subsection (b) available to the public promptly after they are submitted to the panel or Appellate Body, except that the Trade Representative is authorized to withhold from disclosure any information contained in such submissions identified by the provider of the information as proprietary information or information treated as confidential by a foreign government;
 
         (2) request each other party to the dispute to permit the Trade Representative to make that party’s written submissions to the panel or the Appellate Body available to the public; and
 

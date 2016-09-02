@@ -31,7 +31,7 @@
 
             (C) [Section 953 of title 21][/us/usc/t21/s953] (relating to exportation of controlled substances).
 
-            (D) The Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
+            (D) The Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\].
 
             (E) [Section 2778 of title 22][/us/usc/t22/s2778].
 
@@ -59,13 +59,13 @@
 
             (F) Merchandise mailed in violation of any provision of chapter 71 (relating to obscenity) or chapter 110 (relating to sexual exploitation and other abuse of children) of title 18.
 
-            (G) Merchandise mailed in violation of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
+            (G) Merchandise mailed in violation of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\].
 
             (H) Merchandise mailed in violation of [section 2778 of title 22][/us/usc/t22/s2778].
 
             (I) Merchandise mailed in violation of the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.).
 
-            (J) Merchandise mailed in violation of the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.).
+            (J) Merchandise mailed in violation of the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) \[now [50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\].
 
             (K) Merchandise subject to any other law enforced by the Customs Service.
 
@@ -79,21 +79,19 @@
 
     (d) __Search of mail sealed against inspection weighing 16 ounces or less__ 
 
-        Notwithstanding any other provision of this section, subsection (a)(1) of this section shall not apply to mail weighing 16 ounces or less sealed against inspection under the postal laws and regulations of the United States.
+        Notwithstanding any other provision of this section, subsection (a)(1) shall not apply to mail weighing 16 ounces or less sealed against inspection under the postal laws and regulations of the United States.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 583, as added [Pub. L. 107–210, div. A, title III, § 344(a)][/us/pl/107/210/s344/a], Aug. 6, 2002, [116 Stat. 986][/us/stat/116/986]; amended [Pub. L. 108–429, title II, § 2004(a)(12)][/us/pl/108/429/s2004/a/12], Dec. 3, 2004, [118 Stat. 2590][/us/stat/118/2590].)
 
  __References in Text__ 
 
-    The Customs laws of the United States, referred to in subsec. (a)(1), are classified generally to this title.
-
-    The Export Administration Act of 1979, referred to in subsecs. (a)(2)(D) and (c)(1)(G), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, and Tables.
+    The Export Administration Act of 1979, referred to in subsecs. (a)(2)(D) and (c)(1)(G), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
     The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(F) and (c)(1)(I), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
     [Section 2332a(b) of title 18][/us/usc/t18/s2332a/b], referred to in subsec. (c)(1)(B), does not define the term “weapon of mass destruction”. However, that term is defined elsewhere in that section.
 
-    The Trading with the Enemy Act, referred to in subsec. (c)(1)(J), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+    The Trading with the Enemy Act, referred to in subsec. (c)(1)(J), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, which was classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
     Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (c)(2)(A), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -136,12 +134,15 @@
 
 [/us/usc/t31/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5316
 [/us/usc/t21/s953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs953
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t18/s1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1956
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/pl/107/210/s344/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs344%2Fa
 [/us/stat/116/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F986
@@ -149,7 +150,6 @@
 [/us/stat/118/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2590
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

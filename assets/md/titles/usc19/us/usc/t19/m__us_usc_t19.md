@@ -15,7 +15,7 @@
 
 # Title 19—CUSTOMS DUTIES
 
-Current through 114-100not94not95
+Current through 114-114not95not113
 
 <table>
 
@@ -296,6 +296,16 @@ Current through 114-100not94not95
     <td> Dominican Republic-Central America Free Trade  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4001" data-uslm-ref="/us/usc/t19/s4001">4001</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fch27" data-uslm-ref="/us/usc/t19/ch27">27.</a>  </td>
+
+    <td> Bipartisan Congressional Trade Priorities and Accountability  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4201" data-uslm-ref="/us/usc/t19/s4201">4201</a>  </td>
 
   </tr>
 

@@ -15,15 +15,17 @@
 
 ## § 2465. Date of termination
 
-    No duty-free treatment provided under this subchapter shall remain in effect after July 31, 2013.
+    No duty-free treatment provided under this subchapter shall remain in effect after December 31, 2017.
 
-([Pub. L. 93–618, title V, § 505][/us/pl/93/618/s505], as added [Pub. L. 104–188, title I, § 1952(a)][/us/pl/104/188/s1952/a], Aug. 20, 1996, [110 Stat. 1925][/us/stat/110/1925]; amended [Pub. L. 105–34, title IX, § 981(a)][/us/pl/105/34/s981/a], Aug. 5, 1997, [111 Stat. 902][/us/stat/111/902]; [Pub. L. 105–277, div. J, title I, § 1011(a)][/us/pl/105/277/s1011/a], Oct. 21, 1998, [112 Stat. 2681–900][/us/stat/112/2681-900]; [Pub. L. 106–170, title V, § 508(a)][/us/pl/106/170/s508/a], Dec. 17, 1999, [113 Stat. 1923][/us/stat/113/1923]; [Pub. L. 107–210, div. D, title XLI, § 4101(a)][/us/pl/107/210/s4101/a], Aug. 6, 2002, [116 Stat. 1040][/us/stat/116/1040]; [Pub. L. 109–432, div. D, title VIII, § 8002][/us/pl/109/432/s8002], Dec. 20, 2006, [120 Stat. 3195][/us/stat/120/3195]; [Pub. L. 110–436, § 4][/us/pl/110/436/s4], Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–124, § 1][/us/pl/111/124/s1], Dec. 28, 2009, [123 Stat. 3484][/us/stat/123/3484]; [Pub. L. 112–40, § 1(a)][/us/pl/112/40/s1/a], Oct. 21, 2011, [125 Stat. 401][/us/stat/125/401].)
+([Pub. L. 93–618, title V, § 505][/us/pl/93/618/s505], as added [Pub. L. 104–188, title I, § 1952(a)][/us/pl/104/188/s1952/a], Aug. 20, 1996, [110 Stat. 1925][/us/stat/110/1925]; amended [Pub. L. 105–34, title IX, § 981(a)][/us/pl/105/34/s981/a], Aug. 5, 1997, [111 Stat. 902][/us/stat/111/902]; [Pub. L. 105–277, div. J, title I, § 1011(a)][/us/pl/105/277/s1011/a], Oct. 21, 1998, [112 Stat. 2681–900][/us/stat/112/2681-900]; [Pub. L. 106–170, title V, § 508(a)][/us/pl/106/170/s508/a], Dec. 17, 1999, [113 Stat. 1923][/us/stat/113/1923]; [Pub. L. 107–210, div. D, title XLI, § 4101(a)][/us/pl/107/210/s4101/a], Aug. 6, 2002, [116 Stat. 1040][/us/stat/116/1040]; [Pub. L. 109–432, div. D, title VIII, § 8002][/us/pl/109/432/s8002], Dec. 20, 2006, [120 Stat. 3195][/us/stat/120/3195]; [Pub. L. 110–436, § 4][/us/pl/110/436/s4], Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–124, § 1][/us/pl/111/124/s1], Dec. 28, 2009, [123 Stat. 3484][/us/stat/123/3484]; [Pub. L. 112–40, § 1(a)][/us/pl/112/40/s1/a], Oct. 21, 2011, [125 Stat. 401][/us/stat/125/401]; [Pub. L. 114–27, title II, § 201(a)][/us/pl/114/27/s201/a], June 29, 2015, [129 Stat. 371][/us/stat/129/371].)
 
  __Prior Provisions__ 
 
     A prior section 2465, [Pub. L. 93–618, title V, § 505][/us/pl/93/618/s505], Jan. 3, 1975, [88 Stat. 2071][/us/stat/88/2071]; [Pub. L. 98–573, title V, § 506(a)][/us/pl/98/573/s506/a], Oct. 30, 1984, [98 Stat. 3023][/us/stat/98/3023]; [Pub. L. 103–66, title XIII, § 13802(b)(1)][/us/pl/103/66/s13802/b/1], Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667]; [Pub. L. 103–465, title VI, § 601(a)][/us/pl/103/465/s601/a], Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990], related to termination of duty-free treatment and reports, prior to the general amendment of this subchapter by [Pub. L. 104–188][/us/pl/104/188].
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–27][/us/pl/114/27] substituted “December 31, 2017” for “July 31, 2013”.
 
     2011—[Pub. L. 112–40][/us/pl/112/40] substituted “July 31, 2013” for “December 31, 2010”.
 
@@ -40,6 +42,50 @@
     1998—[Pub. L. 105–277][/us/pl/105/277] substituted “June 30, 1999” for “June 30, 1998”.
 
     1997—[Pub. L. 105–34][/us/pl/105/34] substituted “June 30, 1998” for “May 31, 1997”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–27, title II, § 201(b)][/us/pl/114/27/s201/b], June 29, 2015, [129 Stat. 371][/us/stat/129/371], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendment made by subsection (a) \[amending this section\] shall apply to articles entered on or after the 30th day after the date of the enactment of this Act \[June 29, 2015\].
+
+>     “(2) __Retroactive application for certain liquidations and reliquidations.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         Notwithstanding section 514 of the Tariff Act of 1930 ([19 U.S.C. 1514][/us/usc/t19/s1514]) or any other provision of law and subject to subparagraph (B), any entry of a covered article to which duty-free treatment or other preferential treatment under title V of the Trade Act of 1974 ([19 U.S.C. 2461][/us/usc/t19/s2461] et seq.) would have applied if the entry had been made on July 31, 2013, that was made—
+
+>             “(i) after July 31, 2013; and
+
+>             “(ii) before the effective date specified in paragraph (1),
+
+>             shall be liquidated or reliquidated as though such entry occurred on the effective date specified in paragraph (1).
+
+>         “(B)  __Requests__  __.—__ 
+
+>         A liquidation or reliquidation may be made under subparagraph (A) with respect to an entry only if a request therefor is filed with U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act \[June 29, 2015\] that contains sufficient information to enable U.S. Customs and Border Protection—
+
+>             “(i) to locate the entry; or
+
+>             “(ii) to reconstruct the entry if it cannot be located.
+
+>         “(C)  __Payment of amounts owed__  __.—__ 
+
+>         Any amounts owed by the United States pursuant to the liquidation or reliquidation of an entry of a covered article under subparagraph (A) shall be paid, without interest, not later than 90 days after the date of the liquidation or reliquidation (as the case may be).
+
+>     “(3)  __Definitions__  __.—__ 
+
+>     In this subsection:
+
+>         “(A)  __Covered article__  __.—__ 
+
+>         The term ‘covered article’ means an article from a country that is a beneficiary developing country under title V of the Trade Act of 1974 ([19 U.S.C. 2461][/us/usc/t19/s2461] et seq.) as of the effective date specified in paragraph (1).
+
+>         “(B)  __Enter; entry__  __.—__ 
+
+>         The terms ‘enter’ and ‘entry’ include a withdrawal from warehouse for consumption.”
 
  __Effective Date of 2011 Amendment__ 
 
@@ -215,6 +261,8 @@
 [/us/stat/123/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3484
 [/us/pl/112/40/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs1%2Fa
 [/us/stat/125/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F401
+[/us/pl/114/27/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs201%2Fa
+[/us/stat/129/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F371
 [/us/pl/93/618/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs505
 [/us/stat/88/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2071
 [/us/pl/98/573/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs506%2Fa
@@ -224,6 +272,7 @@
 [/us/pl/103/465/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs601%2Fa
 [/us/stat/108/4990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4990
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/111/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F124
 [/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
@@ -232,6 +281,11 @@
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/114/27/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs201%2Fb
+[/us/stat/129/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F371
+[/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
+[/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
+[/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
 [/us/pl/112/40/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs1%2Fb
 [/us/stat/125/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F401
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514

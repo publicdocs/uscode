@@ -25,7 +25,7 @@
 
     (b) __Initiation__ 
 
-        The Trade Representative, after consultation with the administering authority and the Commission and obtaining the approval of the WTO Council for Trade in Goods, shall determine whether to initiate an investigation described in subsection (a) of this section.
+        The Trade Representative, after consultation with the administering authority and the Commission and obtaining the approval of the WTO Council for Trade in Goods, shall determine whether to initiate an investigation described in subsection (a).
 
     (c) __Determinations__ 
 
@@ -39,17 +39,17 @@
 
     An opportunity for public comment shall be provided, as appropriate—
 
-        (1) by the Trade Representative, in making the determination required by subsection (b) of this section, and
+        (1) by the Trade Representative, in making the determination required by subsection (b), and
 
-        (2) by the administering authority and the Commission, in making the determination required by subsection (c) of this section.
+        (2) by the administering authority and the Commission, in making the determination required by subsection (c).
 
     (e) __Issuance of order__ 
 
-        If the administering authority makes an affirmative determination under paragraph (1) of subsection (c) of this section, and the Commission makes an affirmative determination under paragraph (2) of subsection (c) of this section, the administering authority shall issue an antidumping duty order in accordance with [section 1673e of this title][/us/usc/t19/s1673e] and take such other actions as are required by [section 1673e of this title][/us/usc/t19/s1673e].
+        If the administering authority makes an affirmative determination under paragraph (1) of subsection (c), and the Commission makes an affirmative determination under paragraph (2) of subsection (c), the administering authority shall issue an antidumping duty order in accordance with [section 1673e of this title][/us/usc/t19/s1673e] and take such other actions as are required by [section 1673e of this title][/us/usc/t19/s1673e].
 
     (f) __Reviews of determinations__ 
 
-        For purposes of review under [section 1516a of this title][/us/usc/t19/s1516a] or review under [section 1675 of this title][/us/usc/t19/s1675], if an order is issued under subsection (e) of this section, the final determinations of the administering authority and the Commission under this section shall be treated as final determinations made under [section 1673d of this title][/us/usc/t19/s1673d].
+        For purposes of review under [section 1516a of this title][/us/usc/t19/s1516a] or review under [section 1675 of this title][/us/usc/t19/s1675], if an order is issued under subsection (e), the final determinations of the administering authority and the Commission under this section shall be treated as final determinations made under [section 1673d of this title][/us/usc/t19/s1673d].
 
     (g) __Access to information__ 
 

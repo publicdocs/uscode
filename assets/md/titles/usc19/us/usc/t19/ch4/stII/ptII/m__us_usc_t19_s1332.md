@@ -45,7 +45,7 @@
 
     (e) __Definitions__ 
 
-    When used in this subdivision and in subdivision (d) of this section—
+    When used in this subdivision and in subdivision (d)—
 
         (1) The term “article” includes any commodity, whether grown, produced, fabricated, manipulated, or manufactured;
 

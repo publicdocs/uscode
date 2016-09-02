@@ -381,7 +381,7 @@
 
             In examining the impact required to be considered under subparagraph (B)(i)(III), the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry in the United States, including, but not limited to—
 
-                (I) actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,
+                (I) actual and potential decline in output, sales, market share, gross profits, operating profits, net profits, ability to service debt, productivity, return on investments, return on assets, and utilization of capacity,
 
                 (II) factors affecting domestic prices,
 
@@ -397,11 +397,9 @@
 
             If domestic producers internally transfer significant production of the domestic like product for the production of a downstream article and sell significant production of the domestic like product in the merchant market, and the Commission finds that—
 
-                (I) the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product,
+                (I) the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product, and
 
-                (II) the domestic like product is the predominant material input in the production of that downstream article, and
-
-                (III) the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,
+                (II) the domestic like product is the predominant material input in the production of that downstream article,
 
              then the Commission, in determining market share and the factors affecting financial performance set forth in clause (iii), shall focus primarily on the merchant market for the domestic like product.
 
@@ -515,6 +513,10 @@
 
             The Commission shall consider whether any change in the volume, price effects, or impact of imports of the subject merchandise since the filing of the petition in an investigation under part I or II of this subtitle is related to the pendency of the investigation and, if so, the Commission may reduce the weight accorded to the data for the period after the filing of the petition in making its determination of material injury, threat of material injury, or material retardation of the establishment of an industry in the United States.
 
+        (J) __Effect of profitability__ 
+
+            The Commission may not determine that there is no material injury or threat of material injury to an industry in the United States merely because that industry is profitable or because the performance of that industry has recently improved.
+
     (8) __Subsidies Agreement; Agreement on Agriculture__ 
 
         (A) __Subsidies Agreement__ 
@@ -592,6 +594,8 @@
         (A) Sales disregarded under [section 1677b(b)(1) of this title][/us/usc/t19/s1677b/b/1].
 
         (B) Transactions disregarded under [section 1677b(f)(2) of this title][/us/usc/t19/s1677b/f/2].
+
+        (C) Situations in which the administering authority determines that the particular market situation prevents a proper comparison with the export price or constructed export price.
 
     (16) __Foreign like product__ 
 
@@ -851,7 +855,7 @@
 
             A determination that a country is a developing or least developed country pursuant to this paragraph shall be for purposes of this subtitle only and shall not affect the determination of a country’s status as a developing or least developed country with respect to any other law.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 771, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 176][/us/stat/93/176]; amended [Pub. L. 98–573, title VI, § 612(a)][/us/pl/98/573/s612/a], Oct. 30, 1984, [98 Stat. 3033][/us/stat/98/3033]; [Pub. L. 99–514, title XVIII, § 1886(a)(9)][/us/pl/99/514/s1886/a/9], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, [102 Stat. 1184][/us/stat/102/1184], 1187, 1203–1206, 1210; [Pub. L. 100–449, title IV, § 403(d)][/us/pl/100/449/s403/d], Sept. 28, 1988, [102 Stat. 1887][/us/stat/102/1887]; [Pub. L. 100–647, title IX, § 9001(a)(5)][/us/pl/100/647/s9001/a/5], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 101–382, title I, § 139(a)(3)][/us/pl/101/382/s139/a/3], title II, § 224(a), (b), Aug. 20, 1990, [104 Stat. 653][/us/stat/104/653], 659, 660; [Pub. L. 103–182, title IV, § 412(b)][/us/pl/103/182/s412/b], title VI, § 637(b), Dec. 8, 1993, [107 Stat. 2146][/us/stat/107/2146], 2203; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, [108 Stat. 4869][/us/stat/108/4869], 4890, 4898–4902, 4915, 4917, 4918; [Pub. L. 104–295, § 20(b)(7)][/us/pl/104/295/s20/b/7], (14), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 771, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 176][/us/stat/93/176]; amended [Pub. L. 98–573, title VI, § 612(a)][/us/pl/98/573/s612/a], Oct. 30, 1984, [98 Stat. 3033][/us/stat/98/3033]; [Pub. L. 99–514, title XVIII, § 1886(a)(9)][/us/pl/99/514/s1886/a/9], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, [102 Stat. 1184][/us/stat/102/1184], 1187, 1203–1206, 1210; [Pub. L. 100–449, title IV, § 403(d)][/us/pl/100/449/s403/d], Sept. 28, 1988, [102 Stat. 1887][/us/stat/102/1887]; [Pub. L. 100–647, title IX, § 9001(a)(5)][/us/pl/100/647/s9001/a/5], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 101–382, title I, § 139(a)(3)][/us/pl/101/382/s139/a/3], title II, § 224(a), (b), Aug. 20, 1990, [104 Stat. 653][/us/stat/104/653], 659, 660; [Pub. L. 103–182, title IV, § 412(b)][/us/pl/103/182/s412/b], title VI, § 637(b), Dec. 8, 1993, [107 Stat. 2146][/us/stat/107/2146], 2203; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, [108 Stat. 4869][/us/stat/108/4869], 4890, 4898–4902, 4915, 4917, 4918; [Pub. L. 104–295, § 20(b)(7)][/us/pl/104/295/s20/b/7], (14), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527]; [Pub. L. 114–27, title V][/us/pl/114/27], §§ 503, 504(a), June 29, 2015, [129 Stat. 384][/us/stat/129/384], 385.)
 
  __Amendment of Section__ 
 
@@ -870,6 +874,14 @@
     For the effective date of title II of the Uruguay Round Agreements Act, referred to in par. (26), as Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under [section 1671 of this title][/us/usc/t19/s1671].
 
  __Amendments__ 
+
+    2015—Par. (7)(C)(iii)(I). [Pub. L. 114–27, § 503(b)][/us/pl/114/27/s503/b], amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,”.
+
+    Par. (7)(C)(iv)(I) to (III). [Pub. L. 114–27, § 503(c)][/us/pl/114/27/s503/c], inserted “and” at end of subcl. (I), struck out “and” after comma at end of subcl. (II), and struck out subcl. (III) which read as follows: “the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,”.
+
+    Par. (7)(J). [Pub. L. 114–27, § 503(a)][/us/pl/114/27/s503/a], added subpar. (J).
+
+    Par. (15)(C). [Pub. L. 114–27, § 504(a)][/us/pl/114/27/s504/a], added subpar. (C).
 
     1996—Par. (16)(C)(i). [Pub. L. 104–295, § 20(b)(7)][/us/pl/104/295/s20/b/7], which directed substitution of “subject merchandise” for “merchandise which is the subject of the investigation” in subpar. (B)(i), was executed by making the substitution in subpar. (C)(i) to reflect the probable intent of Congress.
 
@@ -1158,6 +1170,8 @@
 [/us/stat/108/4869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4869
 [/us/pl/104/295/s20/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F7
 [/us/stat/110/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3527
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/stat/129/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F384
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384
@@ -1173,6 +1187,10 @@
 [/us/pl/96/39/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs106%2Fa
 [/us/stat/93/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F193
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
+[/us/pl/114/27/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs503%2Fb
+[/us/pl/114/27/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs503%2Fc
+[/us/pl/114/27/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs503%2Fa
+[/us/pl/114/27/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs504%2Fa
 [/us/pl/104/295/s20/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F7
 [/us/pl/104/295/s20/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F14
 [/us/pl/103/465/s233/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fb%2F2

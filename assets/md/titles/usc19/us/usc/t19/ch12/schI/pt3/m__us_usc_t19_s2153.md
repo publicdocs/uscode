@@ -17,15 +17,17 @@
 
     (a) __Opportunity for presentation of views__ 
 
-        In connection with any proposed trade agreement under [section 2133 of this title][/us/usc/t19/s2133] or [section 3803 of this title][/us/usc/t19/s3803], the President shall afford an opportunity for any interested person to present his views concerning any article on a list published under [section 2151 of this title][/us/usc/t19/s2151], any matter or article which should be so listed, any concession which should be sought by the United States, or any other matter relevant to such proposed trade agreement. For this purpose, the President shall designate an agency or an interagency committee which shall, after reasonable notice, hold public hearings and prescribe regulations governing the conduct of such hearings. When appropriate, such procedures shall apply to the development of trade policy and priorities.
+        In connection with any proposed trade agreement under [section 2133 of this title][/us/usc/t19/s2133] or [section 4202 of this title][/us/usc/t19/s4202], the President shall afford an opportunity for any interested person to present his views concerning any article on a list published under [section 2151 of this title][/us/usc/t19/s2151], any matter or article which should be so listed, any concession which should be sought by the United States, or any other matter relevant to such proposed trade agreement. For this purpose, the President shall designate an agency or an interagency committee which shall, after reasonable notice, hold public hearings and prescribe regulations governing the conduct of such hearings. When appropriate, such procedures shall apply to the development of trade policy and priorities.
 
     (b) __Summary of hearings__ 
 
         The organization holding such hearing shall furnish the President with a summary thereof.
 
-([Pub. L. 93–618, title I, § 133][/us/pl/93/618/s133], Jan. 3, 1975, [88 Stat. 1995][/us/stat/88/1995]; [Pub. L. 100–418, title I, § 1111(a)][/us/pl/100/418/s1111/a], Aug. 23, 1988, [102 Stat. 1137][/us/stat/102/1137]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(3)][/us/pl/107/210/s2110/a/3], Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020].)
+([Pub. L. 93–618, title I, § 133][/us/pl/93/618/s133], Jan. 3, 1975, [88 Stat. 1995][/us/stat/88/1995]; [Pub. L. 100–418, title I, § 1111(a)][/us/pl/100/418/s1111/a], Aug. 23, 1988, [102 Stat. 1137][/us/stat/102/1137]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(3)][/us/pl/107/210/s2110/a/3], Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020]; [Pub. L. 114–26, title I, § 110(a)(3)][/us/pl/114/26/s110/a/3], June 29, 2015, [129 Stat. 357][/us/stat/129/357].)
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–26][/us/pl/114/26] substituted “[section 4202 of this title][/us/usc/t19/s4202]” for “[section 3803 of this title][/us/usc/t19/s3803]”.
 
     2002—Subsec. (a). [Pub. L. 107–210][/us/pl/107/210] substituted “[section 3803 of this title][/us/usc/t19/s3803],” for “[section 2902 of this title][/us/usc/t19/s2902],”.
 
@@ -47,7 +49,7 @@
 ----------
 
 [/us/usc/t19/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2133
-[/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
+[/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
 [/us/usc/t19/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2151
 [/us/pl/93/618/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs133
 [/us/stat/88/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1995
@@ -55,6 +57,11 @@
 [/us/stat/102/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1137
 [/us/pl/107/210/s2110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F3
 [/us/stat/116/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1020
+[/us/pl/114/26/s110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F3
+[/us/stat/129/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F357
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
+[/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
+[/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
 [/us/usc/t19/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902

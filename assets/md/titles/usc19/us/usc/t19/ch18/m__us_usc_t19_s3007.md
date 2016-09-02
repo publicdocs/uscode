@@ -25,7 +25,7 @@
 
     (b) __Content__ 
 
-    Publications under subsection (a) of this section, in whatever format, shall contain—
+    Publications under subsection (a), in whatever format, shall contain—
 
         (1) the then current Harmonized Tariff Schedule;
 

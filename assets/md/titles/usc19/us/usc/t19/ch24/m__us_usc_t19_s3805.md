@@ -3529,7 +3529,7 @@
 
  __United States–Korea Free Trade Agreement Implementation Act__ 
 
-[Pub. L. 112–41][/us/pl/112/41], Oct. 21, 2011, [125 Stat. 428][/us/stat/125/428], provided that:
+[Pub. L. 112–41][/us/pl/112/41], Oct. 21, 2011, [125 Stat. 428][/us/stat/125/428], as amended by [Pub. L. 114–27, title VIII][/us/pl/114/27], §§ 801(b), 802(b), June 29, 2015, [129 Stat. 414][/us/stat/129/414], 415, provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -5165,11 +5165,19 @@
 
 > “SEC. 503. __RATE FOR MERCHANDISE PROCESSING FEES.__ 
 
-> “For the period beginning on December 1, 2015, and ending on June 30, 2021, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)][/us/usc/t19/s58c/a/9]) shall be applied and administered—
+> “For the period beginning on December 1, 2015, and ending on June 30, 2025, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)][/us/usc/t19/s58c/a/9]) shall be applied and administered—
 
 >     “(1) in subparagraph (A), by substituting ‘0.3464’ for ‘0.21’; and
 
 >     “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’.
+
+>     “(c) __\[sic\]__  __Further Additional Period__  __.—__ 
+
+>     For the period beginning on July 15, 2025, and ending on September 30, 2025, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)][/us/usc/t19/s58c/a/9]) shall be applied and administered—
+
+>         “(1) in subparagraph (A), by substituting ‘0.3464’ for ‘0.21’; and
+
+>         “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’.
 
 > “SEC. 504. __EXTENSION OF CUSTOMS USER FEES.__ 
 
@@ -14008,6 +14016,8 @@
 [/us/pl/112/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42
 [/us/pl/112/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41
 [/us/stat/125/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F428
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/stat/129/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F414
 [/us/usc/t19/s3803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803%2Fb
 [/us/usc/t19/s3511/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F4
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805
@@ -14041,6 +14051,7 @@
 [/us/usc/t19/s2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2518
 [/us/usc/t26/s6695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6695
 [/us/usc/t26/s6116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6116
+[/us/usc/t19/s58c/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c%2Fa%2F9
 [/us/usc/t19/s58c/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c%2Fa%2F9
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
 [/us/usc/t26/s6655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6655

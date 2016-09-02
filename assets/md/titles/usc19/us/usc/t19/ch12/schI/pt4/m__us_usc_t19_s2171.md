@@ -25,7 +25,9 @@
 
         (2) There shall be in the Office three Deputy United States Trade Representatives and one Chief Agricultural Negotiator who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative or the Chief Agricultural Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative and the Chief Agricultural Negotiator shall hold office at the pleasure of the President and shall have the rank of Ambassador.
 
-        (3) A person who has directly represented, aided, or advised a foreign entity (as defined by [section 207(f)(3) of title 18][/us/usc/t18/s207/f/3]) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
+        (3) There shall be in the Office one Chief Transparency Officer. The Chief Transparency Officer shall consult with Congress on transparency policy, coordinate transparency in trade negotiations, engage and assist the public, and advise the United States Trade Representative on transparency policy.
+
+        (4) A person who has directly represented, aided, or advised a foreign entity (as defined by [section 207(f)(3) of title 18][/us/usc/t18/s207/f/3]) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
 
     (c) __Duties of United States Trade Representative and Deputy United States Trade Representatives__ 
 
@@ -77,7 +79,7 @@
 
         (1)
 
-         In carrying out subsection (c) of this section with respect to unfair trade practices, the United States Trade Representative shall—
+         In carrying out subsection (c) with respect to unfair trade practices, the United States Trade Representative shall—
 
             (A) coordinate the application of interagency resources to specific unfair trade practice cases;
 
@@ -173,7 +175,7 @@
 
         (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
 
-([Pub. L. 93–618, title I, § 141][/us/pl/93/618/s141], Jan. 3, 1975, [88 Stat. 1999][/us/stat/88/1999]; [Pub. L. 97–456, § 3(a)][/us/pl/97/456/s3/a]–(d)(2), Jan. 12, 1983, [96 Stat. 2504][/us/stat/96/2504], 2505; [Pub. L. 98–573, title III, § 304(d)(2)(A)][/us/pl/98/573/s304/d/2/A], title VII, § 703, Oct. 30, 1984, [98 Stat. 3004][/us/stat/98/3004], 3043; [Pub. L. 99–272, title XIII, § 13023][/us/pl/99/272/s13023], Apr. 7, 1986, [100 Stat. 307][/us/stat/100/307]; [Pub. L. 99–514, title XVIII, § 1887(a)(3)][/us/pl/99/514/s1887/a/3], (4), Oct. 22, 1986, [100 Stat. 2923][/us/stat/100/2923]; [Pub. L. 100–203, title IX, § 9504][/us/pl/100/203/s9504], Dec. 22, 1987, [101 Stat. 1330–382][/us/stat/101/1330-382]; [Pub. L. 100–418, title I, § 1601][/us/pl/100/418/s1601], Aug. 23, 1988, [102 Stat. 1260][/us/stat/102/1260]; [Pub. L. 101–207, § 1(a)][/us/pl/101/207/s1/a], Dec. 7, 1989, [103 Stat. 1833][/us/stat/103/1833]; [Pub. L. 101–382, title I, § 103(a)][/us/pl/101/382/s103/a], Aug. 20, 1990, [104 Stat. 634][/us/stat/104/634]; [Pub. L. 103–465, title VI, § 621(a)(8)][/us/pl/103/465/s621/a/8], Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993]; [Pub. L. 104–65, § 21(b)][/us/pl/104/65/s21/b], Dec. 19, 1995, [109 Stat. 704][/us/stat/109/704]; [Pub. L. 104–295, § 20(f)(1)][/us/pl/104/295/s20/f/1], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 106–36, title I, § 1001(a)(2)][/us/pl/106/36/s1001/a/2], June 25, 1999, [113 Stat. 130][/us/stat/113/130]; [Pub. L. 106–200, title IV, § 406][/us/pl/106/200/s406], May 18, 2000, [114 Stat. 293][/us/stat/114/293]; [Pub. L. 107–210, div. A, title III, § 361(a)][/us/pl/107/210/s361/a], (b), Aug. 6, 2002, [116 Stat. 991][/us/stat/116/991]; [Pub. L. 108–429, title II, § 2004(a)(15)][/us/pl/108/429/s2004/a/15], Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591].)
+([Pub. L. 93–618, title I, § 141][/us/pl/93/618/s141], Jan. 3, 1975, [88 Stat. 1999][/us/stat/88/1999]; [Pub. L. 97–456, § 3(a)][/us/pl/97/456/s3/a]–(d)(2), Jan. 12, 1983, [96 Stat. 2504][/us/stat/96/2504], 2505; [Pub. L. 98–573, title III, § 304(d)(2)(A)][/us/pl/98/573/s304/d/2/A], title VII, § 703, Oct. 30, 1984, [98 Stat. 3004][/us/stat/98/3004], 3043; [Pub. L. 99–272, title XIII, § 13023][/us/pl/99/272/s13023], Apr. 7, 1986, [100 Stat. 307][/us/stat/100/307]; [Pub. L. 99–514, title XVIII, § 1887(a)(3)][/us/pl/99/514/s1887/a/3], (4), Oct. 22, 1986, [100 Stat. 2923][/us/stat/100/2923]; [Pub. L. 100–203, title IX, § 9504][/us/pl/100/203/s9504], Dec. 22, 1987, [101 Stat. 1330–382][/us/stat/101/1330-382]; [Pub. L. 100–418, title I, § 1601][/us/pl/100/418/s1601], Aug. 23, 1988, [102 Stat. 1260][/us/stat/102/1260]; [Pub. L. 101–207, § 1(a)][/us/pl/101/207/s1/a], Dec. 7, 1989, [103 Stat. 1833][/us/stat/103/1833]; [Pub. L. 101–382, title I, § 103(a)][/us/pl/101/382/s103/a], Aug. 20, 1990, [104 Stat. 634][/us/stat/104/634]; [Pub. L. 103–465, title VI, § 621(a)(8)][/us/pl/103/465/s621/a/8], Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993]; [Pub. L. 104–65, § 21(b)][/us/pl/104/65/s21/b], Dec. 19, 1995, [109 Stat. 704][/us/stat/109/704]; [Pub. L. 104–295, § 20(f)(1)][/us/pl/104/295/s20/f/1], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 106–36, title I, § 1001(a)(2)][/us/pl/106/36/s1001/a/2], June 25, 1999, [113 Stat. 130][/us/stat/113/130]; [Pub. L. 106–200, title IV, § 406][/us/pl/106/200/s406], May 18, 2000, [114 Stat. 293][/us/stat/114/293]; [Pub. L. 107–210, div. A, title III, § 361(a)][/us/pl/107/210/s361/a], (b), Aug. 6, 2002, [116 Stat. 991][/us/stat/116/991]; [Pub. L. 108–429, title II, § 2004(a)(15)][/us/pl/108/429/s2004/a/15], Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591]; [Pub. L. 114–26, title I, § 104(f)][/us/pl/114/26/s104/f], June 29, 2015, [129 Stat. 342][/us/stat/129/342].)
 
  __References in Text__ 
 
@@ -188,6 +190,8 @@
     Section is comprised of [section 141 of Pub. L. 93–618][/us/pl/93/618/s141]. [Section 141(b) of Pub. L. 93–618][/us/pl/93/618/s141/b] contains two pars. (3), the first of which amended sections 5312 and 5314 of Title 5, Government Organization and Employees.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3), (4). [Pub. L. 114–26][/us/pl/114/26] added par. (3) and redesignated former par. (3) as (4).
 
     2004—Subsec. (b)(2). [Pub. L. 108–429][/us/pl/108/429] realigned margins.
 
@@ -309,7 +313,7 @@
 
 [Pub. L. 105–5][/us/pl/105/5], Mar. 17, 1997, [111 Stat. 11][/us/stat/111/11], provided: 
 
-> “That notwithstanding the provisions of paragraph (3) of section 141(b) of the Trade Act of 1974 ([19 U.S.C. 2171(b)(3)][/us/usc/t19/s2171/b/3]) or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint Charlene Barshefsky as the United States Trade Representative.”
+> “That notwithstanding the provisions of paragraph (3) \[now (4)\] of section 141(b) of the Trade Act of 1974 ([19 U.S.C. 2171(b)(3)][/us/usc/t19/s2171/b/3] \[now (b)(4)\]) or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint Charlene Barshefsky as the United States Trade Representative.”
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -677,7 +681,7 @@ I am dedicated to the aggressive implementation of the Multilateral Trade Agreem
 
     (e) Sections 2(b) and 3(a), the first sentence of section 3(c), and sections 3(e), 3(f), and 6 of Executive Order 11846 of March 27, 1975, as amended \[[19 U.S.C. 2111][/us/usc/t19/s2111] note\], are revoked.
 
-    (f)(1) Section 1(a)(5) of Executive Order 11858 of May 7, 1975 \[50 U.S.C. App. 2170 note\], is amended to read: “(5) The United States Trade Representative”.
+    (f)(1) Section 1(a)(5) of Executive Order 11858 of May 7, 1975 \[[50 U.S.C. 4565][/us/usc/t50/s4565] note\], is amended to read: “(5) The United States Trade Representative”.
 
     (2) Section 1(a)(6) of such order is amended to read: “(6) The Chairman of the Council of Economic Advisers”.
 
@@ -810,6 +814,8 @@ I am dedicated to the aggressive implementation of the Multilateral Trade Agreem
 [/us/stat/116/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F991
 [/us/pl/108/429/s2004/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F15
 [/us/stat/118/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2591
+[/us/pl/114/26/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs104%2Ff
+[/us/stat/129/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F342
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
@@ -825,6 +831,7 @@ I am dedicated to the aggressive implementation of the Multilateral Trade Agreem
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/pl/93/618/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs141
 [/us/pl/93/618/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs141%2Fb
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/107/210/s361/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs361%2Fa%2F1%2FA
 [/us/pl/107/210/s361/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs361%2Fa%2F1%2FB
@@ -964,6 +971,7 @@ I am dedicated to the aggressive implementation of the Multilateral Trade Agreem
 [/us/usc/t7/s1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1854
 [/us/usc/t19/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1862
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
+[/us/usc/t50/s4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565
 [/us/usc/t19/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503
 [/us/usc/t19/s2503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fb
 [/us/usc/t19/s1671b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671b

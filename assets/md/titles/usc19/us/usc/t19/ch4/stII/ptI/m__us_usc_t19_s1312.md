@@ -25,7 +25,7 @@
 
         (1)
 
-         upon the exportation from the bonded warehouses which treated the metal-bearing materials, or from any other bonded smelting or refining warehouse, of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section; except that—
+         upon the exportation from the bonded warehouses which treated the metal-bearing materials, or from any other bonded smelting or refining warehouse, of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c); except that—
 
             (A)
 
@@ -49,11 +49,11 @@
 
         (2) upon payment of duties on the dutiable quantity of metal contained in the imported metal-bearing materials, or
 
-        (3) upon the transfer of the bond charges to another bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, or
+        (3) upon the transfer of the bond charges to another bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c), or
 
         (4)
 
-         upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that—
+         upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c), and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that—
 
             (A)
 
@@ -75,13 +75,13 @@
 
                 (iv) 25 percent during the 1-year period beginning on January 1, 2014, or
 
-        (5) upon the transfer to another bonded smelting or refining warehouse without physical shipment of metal of bond charges representing a quantity of dutiable metal contained in imported metal-bearing materials less wastage provided for in subsection (c) of this section of the plant of initial treatment of such materials provided there is on hand at the warehouse to which the transfer is made sufficient like metal in any form to satisfy the transferred bond charges.
+        (5) upon the transfer to another bonded smelting or refining warehouse without physical shipment of metal of bond charges representing a quantity of dutiable metal contained in imported metal-bearing materials less wastage provided for in subsection (c) of the plant of initial treatment of such materials provided there is on hand at the warehouse to which the transfer is made sufficient like metal in any form to satisfy the transferred bond charges.
 
         If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no charges against such bond may be canceled in whole or part upon an exportation to Canada under paragraph (1) or (4) during the period such Agreement is in operation except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
     (c) __Allowance on bond for wastage of metals__ 
 
-        For purposes of paragraphs (1), (3), (4), and (5) of subsection (b) of this section, due allowances shall be made for wastage of metals other than copper, lead, and zinc, as ascertained from time to time by the Secretary of the Treasury.
+        For purposes of paragraphs (1), (3), (4), and (5) of subsection (b), due allowances shall be made for wastage of metals other than copper, lead, and zinc, as ascertained from time to time by the Secretary of the Treasury.
 
     (d) __Credit for exportation of product other than refined metal__ 
 

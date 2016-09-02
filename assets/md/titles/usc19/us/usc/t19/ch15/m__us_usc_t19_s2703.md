@@ -19,7 +19,7 @@
 
         (1)
 
-         Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, and except as provided in subsection (b)(2) and (3) of this section, the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
+         Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, and except as provided in subsection (b)(2) and (3), the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
 
             (A) that article is imported directly from a beneficiary country into the customs territory of the United States; and
 
@@ -49,7 +49,7 @@
 
         (5)
 
-         The duty-free treatment provided under this chapter shall apply to an article (other than an article listed in subsection (b) of this section) which is the growth, product, or manufacture of the Commonwealth of Puerto Rico if—
+         The duty-free treatment provided under this chapter shall apply to an article (other than an article listed in subsection (b)) which is the growth, product, or manufacture of the Commonwealth of Puerto Rico if—
 
             (A) the article is imported directly from the beneficiary country into the customs territory of the United States,
 
@@ -85,7 +85,7 @@
 
             (E) watches and watch parts (including cases, bracelets, and straps), of whatever type including, but not limited to, mechanical, quartz digital or quartz analog, if such watches or watch parts contain any material which is the product of any country with respect to which HTS column 2 rates of duty apply; or
 
-            (F) articles to which reduced rates of duty apply under subsection (h) of this section.
+            (F) articles to which reduced rates of duty apply under subsection (h).
 
         (2) __Transition period treatment of certain textile and apparel articles__ 
 
@@ -271,11 +271,11 @@
 
                     (I) the article of footwear is the growth, product, or manufacture of a CBTPA beneficiary country; and
 
-                    (II) the article otherwise meets the requirements of subsection (a) of this section, except that in applying such subsection, “CBTPA beneficiary country” shall be substituted for “beneficiary country” each place it appears.
+                    (II) the article otherwise meets the requirements of subsection (a), except that in applying such subsection, “CBTPA beneficiary country” shall be substituted for “beneficiary country” each place it appears.
 
             (B) __Relationship to subsection (h) duty reductions__ 
 
-                If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) of this section is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
+                If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
 
         (4) __Customs procedures__ 
 
@@ -667,7 +667,7 @@
 
     Subsec. (b)(2)(A)(ix). [Pub. L. 107–210, § 3107(a)(7)][/us/pl/107/210/s3107/a/7], added cl. (ix).
 
-    2000—Subsec. (a)(1). [Pub. L. 106–200, § 211(e)(1)(B)][/us/pl/106/200/s211/e/1/B], inserted “and except as provided in subsection (b)(2) and (3) of this section,” after “Tax Reform Act of 1986,” in introductory provisions.
+    2000—Subsec. (a)(1). [Pub. L. 106–200, § 211(e)(1)(B)][/us/pl/106/200/s211/e/1/B], inserted “and except as provided in subsection (b)(2) and (3),” after “Tax Reform Act of 1986,” in introductory provisions.
 
     Subsec. (a)(5). [Pub. L. 106–200, § 212(1)][/us/pl/106/200/s212/1], made technical amendment to reference in original act which appears in text as reference to this chapter.
 

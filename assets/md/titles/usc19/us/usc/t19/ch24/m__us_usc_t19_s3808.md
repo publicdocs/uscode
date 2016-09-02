@@ -41,7 +41,7 @@
 
     (b) __Budget submission__ 
 
-        The President shall include a request for the resources necessary to support the plan described in subsection (a) of this section in the first budget that the President submits to the Congress after the submission of the plan.
+        The President shall include a request for the resources necessary to support the plan described in subsection (a) in the first budget that the President submits to the Congress after the submission of the plan.
 
 ([Pub. L. 107–210, div. B, title XXI, § 2108][/us/pl/107/210/s2108], Aug. 6, 2002, [116 Stat. 1018][/us/stat/116/1018].)
 

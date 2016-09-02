@@ -41,11 +41,11 @@
 
     (b) __Deferrals and waivers__ 
 
-    Notwithstanding subsection (a) of this section, but in furtherance of the objective of encouraging countries to become parties to the Agreement and provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products, the President may—
+    Notwithstanding subsection (a), but in furtherance of the objective of encouraging countries to become parties to the Agreement and provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products, the President may—
 
         (1)
 
-         waive the prohibition required by subsection (a)(1) of this section on procurement of products of a foreign country or instrumentality which has not yet become a party to the Agreement but—
+         waive the prohibition required by subsection (a)(1) on procurement of products of a foreign country or instrumentality which has not yet become a party to the Agreement but—
 
             (A) has agreed to apply transparent and competitive procedures to its government procurement equivalent to those in the Agreement, and
 
@@ -75,7 +75,7 @@
 
         (1) __Presidential report__ 
 
-            On or before October 1, 1981, the President shall prepare and transmit to the congressional committees referred to in subsection (c)(1) of this section a report which describes the actions he deems appropriate to establish reciprocity with major industrialized countries in the area of Government procurement.
+            On or before October 1, 1981, the President shall prepare and transmit to the congressional committees referred to in subsection (c)(1) a report which describes the actions he deems appropriate to establish reciprocity with major industrialized countries in the area of Government procurement.
 
         (2) __Procedure__ 
 

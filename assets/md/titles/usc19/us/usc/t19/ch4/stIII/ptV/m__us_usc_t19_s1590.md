@@ -39,7 +39,7 @@
 
     (d) __Criminal penalties__ 
 
-    In addition to being liable for a civil penalty under subsection (c) of this section, any person who intentionally commits, or attempts or conspires to commit, a violation of any provision of this section is, upon conviction—
+    In addition to being liable for a civil penalty under subsection (c), any person who intentionally commits, or attempts or conspires to commit, a violation of any provision of this section is, upon conviction—
 
         (1) liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, or both, if none of the merchandise involved was a controlled substance; or
 
@@ -65,7 +65,7 @@
 
     (h) __Intent of transfer of merchandise__ 
 
-    For purposes of imposing civil penalties under this section, any of the following acts, when performed within 250 miles of the territorial sea of the United States, shall be prima facie evidence that the transportation or possession of merchandise was unlawful and shall be presumed to constitute circumstances indicating that the purpose of the transfer is to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully, and for purposes of subsection (e) of this section or [section 1595a of this title][/us/usc/t19/s1595a], shall be prima facie evidence that an aircraft or vessel was used in connection with, or to aid or facilitate, a violation of this section:
+    For purposes of imposing civil penalties under this section, any of the following acts, when performed within 250 miles of the territorial sea of the United States, shall be prima facie evidence that the transportation or possession of merchandise was unlawful and shall be presumed to constitute circumstances indicating that the purpose of the transfer is to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully, and for purposes of subsection (e) or [section 1595a of this title][/us/usc/t19/s1595a], shall be prima facie evidence that an aircraft or vessel was used in connection with, or to aid or facilitate, a violation of this section:
 
         (1) The operation of an aircraft or a vessel without lights during such times as lights are required to be displayed under applicable law.
 

@@ -27,7 +27,7 @@
 
  __Antidumping__ 
 
-§§ 160 to 171. __ Repealed. __  __[__  __Pub. L. 96–39, title I, § 106(a)__  __][/us/pl/96/39/s106/a]__  __, __  __July 26, 1979__  __, __  __[__  __93 Stat. 193__  __][/us/stat/93/193]__ 
+§§ 160 to 171. __Repealed.__  __[__  __Pub. L. 96–39, title I, § 106(a)__  __][/us/pl/96/39/s106/a]__  __,__  __July 26, 1979__  __,__  __[__  __93 Stat. 193__  __][/us/stat/93/193]__ 
 
     Section 160, acts [May 27, 1921, ch. 14, § 201][/us/act/1921-05-27/ch14/s201], [42 Stat. 11][/us/stat/42/11]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title III, § 301, [68 Stat. 1138][/us/stat/68/1138]; Aug. 14, 1958, [Pub. L. 85–630][/us/pl/85/630], §§ 1, 4(b), [72 Stat. 583][/us/stat/72/583], 585; Jan. 3, 1975, [Pub. L. 93–618, title III, § 321(a)][/us/pl/93/618/s321/a], [88 Stat. 2043][/us/stat/88/2043], related to initiation of a dumping investigation. See section 1673 et seq. of this title.
 

@@ -35,7 +35,7 @@
 
     (c) __Violation__ 
 
-        After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b) of this section, the appropriate customs officer shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b) of this section.
+        After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b), the appropriate customs officer shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b).
 
     (d) __Remission for necessary repairs__ 
 
@@ -53,7 +53,7 @@
 
         (1)
 
-         In the case of any vessel referred to in subsection (a) of this section that arrives in a port of the United States two years or more after its last departure from a port in the United States, the duties imposed by this section shall apply only with respect to—
+         In the case of any vessel referred to in subsection (a) that arrives in a port of the United States two years or more after its last departure from a port in the United States, the duties imposed by this section shall apply only with respect to—
 
             (A) fish nets and netting, and
 
@@ -63,11 +63,11 @@
 
     (f) __Civil aircraft exception__ 
 
-        The duty imposed under subsection (a) of this section shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
+        The duty imposed under subsection (a) shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
 
     (g) __Fish net and netting purchases and repairs__ 
 
-    The duty imposed by subsection (a) of this section shall not apply to entries on and after October 1, 1979, and before January 1, 1982, of—
+    The duty imposed by subsection (a) shall not apply to entries on and after October 1, 1979, and before January 1, 1982, of—
 
         (1) tuna purse seine nets and netting which are equipments or parts thereof,
 

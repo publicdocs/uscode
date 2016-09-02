@@ -53,7 +53,7 @@
 
     (c) __Reporting requirement__ 
 
-        Not later than 12 months after May 18, 2000, the President shall prepare and transmit to the Congress a report containing the plan developed pursuant to subsection (b) of this section.
+        Not later than 12 months after May 18, 2000, the President shall prepare and transmit to the Congress a report containing the plan developed pursuant to subsection (b).
 
 ([Pub. L. 106–200, title I, § 116][/us/pl/106/200/s116], May 18, 2000, [114 Stat. 266][/us/stat/114/266].)
 

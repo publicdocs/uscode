@@ -25,7 +25,7 @@
 
     (b) __Restrictions on decrease or increase in rate of duty__ 
 
-    Except as otherwise provided in this subchapter, no proclamation pursuant to subsection (a) of this section shall be made—
+    Except as otherwise provided in this subchapter, no proclamation pursuant to subsection (a) shall be made—
 
         (1) decreasing any rate of duty to a rate below 50 percent of the rate existing on July 1, 1962; or
 

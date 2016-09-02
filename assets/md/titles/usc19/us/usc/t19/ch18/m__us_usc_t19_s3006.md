@@ -25,7 +25,7 @@
 
     (b) __Lay-over period__ 
 
-        (1) The President may proclaim a modification under subsection (a) of this section only after the expiration of the 60-day period beginning on the date on which the President submits a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the proposed modification and the reasons therefor.
+        (1) The President may proclaim a modification under subsection (a) only after the expiration of the 60-day period beginning on the date on which the President submits a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the proposed modification and the reasons therefor.
 
         (2)
 
@@ -37,7 +37,7 @@
 
     (c) __Effective date of modifications__ 
 
-        Modifications proclaimed by the President under subsection (a) of this section may not take effect before the 30th day after the date on which the text of the proclamation is published in the Federal Register.
+        Modifications proclaimed by the President under subsection (a) may not take effect before the 30th day after the date on which the text of the proclamation is published in the Federal Register.
 
 ([Pub. L. 100–418, title I, § 1206][/us/pl/100/418/s1206], Aug. 23, 1988, [102 Stat. 1151][/us/stat/102/1151]; [Pub. L. 109–432, div. D, title III, § 3012][/us/pl/109/432/s3012], Dec. 20, 2006, [120 Stat. 3177][/us/stat/120/3177].)
 

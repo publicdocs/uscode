@@ -41,7 +41,7 @@
 
             (A) __In general__ 
 
-            If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) of this section and determines that further proceedings are warranted, the Customs Service shall issue to the person concerned a written notice of intent to issue a claim for a monetary penalty. Such notice shall—
+            If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) and determines that further proceedings are warranted, the Customs Service shall issue to the person concerned a written notice of intent to issue a claim for a monetary penalty. Such notice shall—
 
                 (i) identify the drawback claim;
 
@@ -67,7 +67,7 @@
 
         (2) __Penalty claim__ 
 
-            After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under [section 1618 of this title][/us/usc/t19/s1618] to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under [section 1618 of this title][/us/usc/t19/s1618], the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
+            After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under [section 1618 of this title][/us/usc/t19/s1618] to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under [section 1618 of this title][/us/usc/t19/s1618], the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
 
     (c) __Maximum penalties__ 
 
@@ -79,7 +79,7 @@
 
             (A) __In general__ 
 
-                A negligent violation of subsection (a) of this section is punishable by a civil penalty in an amount not to exceed 20 percent of the actual or potential loss of revenue for the 1st violation.
+                A negligent violation of subsection (a) is punishable by a civil penalty in an amount not to exceed 20 percent of the actual or potential loss of revenue for the 1st violation.
 
             (B) __Repetitive violations__ 
 
@@ -89,7 +89,7 @@
 
             (A) __In general__ 
 
-            Subject to subparagraph (B), if the person concerned discloses the circumstances of a violation of subsection (a) of this section before, or without knowledge of the commencement of, a formal investigation of such violation, the monetary penalty assessed under this subsection may not exceed—
+            Subject to subparagraph (B), if the person concerned discloses the circumstances of a violation of subsection (a) before, or without knowledge of the commencement of, a formal investigation of such violation, the monetary penalty assessed under this subsection may not exceed—
 
                 (i) if the violation resulted from fraud, an amount equal to the actual or potential revenue of which the United States is or may be deprived as a result of overpayment of the claim; or
 
@@ -111,15 +111,15 @@
 
         (4) __Commencement of investigation__ 
 
-            For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.
+            For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed.
 
         (5) __Exclusivity__ 
 
-            Penalty claims under this section shall be the exclusive civil remedy for any drawback related violation of subsection (a) of this section.
+            Penalty claims under this section shall be the exclusive civil remedy for any drawback related violation of subsection (a).
 
     (d) __Deprivation of lawful revenue__ 
 
-        Notwithstanding [section 1514 of this title][/us/usc/t19/s1514], if the United States has been deprived of lawful duties and taxes resulting from a violation of subsection (a) of this section, the Customs Service shall require that such duties and taxes be restored whether or not a monetary penalty is assessed.
+        Notwithstanding [section 1514 of this title][/us/usc/t19/s1514], if the United States has been deprived of lawful duties and taxes resulting from a violation of subsection (a), the Customs Service shall require that such duties and taxes be restored whether or not a monetary penalty is assessed.
 
     (e) __Drawback compliance program__ 
 
@@ -149,21 +149,21 @@
 
         When a party that—
 
-            (A) has been certified as a participant in the drawback compliance program under subsection (e) of this section; and
+            (A) has been certified as a participant in the drawback compliance program under subsection (e); and
 
             (B) is generally in compliance with the appropriate procedures and requirements of the program;
 
-            commits a violation of subsection (a) of this section, the Customs Service, shall, in the absence of fraud or repeated violations, and in lieu of a monetary penalty, issue a written notice of the violation to the party. Repeated violations by a party may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
+            commits a violation of subsection (a), the Customs Service, shall, in the absence of fraud or repeated violations, and in lieu of a monetary penalty, issue a written notice of the violation to the party. Repeated violations by a party may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
 
         (2) __Contents of notice__ 
 
         A notice of violation issued under paragraph (1) shall—
 
-            (A) state that the party has violated subsection (a) of this section;
+            (A) state that the party has violated subsection (a);
 
             (B) explain the nature of the violation; and
 
-            (C) warn the party that future violations of subsection (a) of this section may result in the imposition of monetary penalties.
+            (C) warn the party that future violations of subsection (a) may result in the imposition of monetary penalties.
 
         (3) __Response to notice__ 
 
@@ -173,7 +173,7 @@
 
         (1)
 
-         A party who has been issued a written notice under subsection (f)(1) of this section and subsequently commits a repeat negligent violation involving the same issue is subject to the following monetary penalties:
+         A party who has been issued a written notice under subsection (f)(1) and subsequently commits a repeat negligent violation involving the same issue is subject to the following monetary penalties:
 
             (A) __2d violation__ 
 
@@ -187,11 +187,11 @@
 
                 An amount not to exceed 100 percent of the loss of revenue.
 
-        (2) If a party that has been certified as a participant in the drawback compliance program under subsection (e) of this section commits an alleged violation which was not repetitive, the party shall be issued a “warning letter”, and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
+        (2) If a party that has been certified as a participant in the drawback compliance program under subsection (e) commits an alleged violation which was not repetitive, the party shall be issued a “warning letter”, and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
 
     (h) __Regulation__ 
 
-        The Secretary shall promulgate regulations and guidelines to implement this section. Such regulations shall specify that for purposes of subsections (c) and (g) of this section, a repeat negligent violation involving the same issue shall be treated as a repetitive violation for a maximum period of 3 years.
+        The Secretary shall promulgate regulations and guidelines to implement this section. Such regulations shall specify that for purposes of subsections (c) and (g), a repeat negligent violation involving the same issue shall be treated as a repetitive violation for a maximum period of 3 years.
 
     (i) __Court of International Trade proceedings__ 
 

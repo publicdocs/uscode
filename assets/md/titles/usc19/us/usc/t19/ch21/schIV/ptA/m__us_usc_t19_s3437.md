@@ -33,11 +33,11 @@
 
     (b) __Identification of industry__ 
 
-        Within 90 days after receipt of a petition under subsection (a) of this section, the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) of this section and the deterioration described in subsection (a)(2) of this section.
+        Within 90 days after receipt of a petition under subsection (a), the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) and the deterioration described in subsection (a)(2).
 
     (c) __Action after identification__ 
 
-    At the request of an entity that is representative of an industry identified under subsection (b) of this section, the Trade Representative shall—
+    At the request of an entity that is representative of an industry identified under subsection (b), the Trade Representative shall—
 
         (1) compile and make available to the industry information under [section 2418 of this title][/us/usc/t19/s2418];
 
@@ -51,7 +51,7 @@
 
         (1) __In general__ 
 
-        The Trade Representative and the Secretary of Commerce shall review information obtained under subsection (c) of this section and consult with the industry identified under subsection (b) of this section with a view to deciding whether any action is appropriate—
+        The Trade Representative and the Secretary of Commerce shall review information obtained under subsection (c) and consult with the industry identified under subsection (b) with a view to deciding whether any action is appropriate—
 
             (A) under [section 2411 of this title][/us/usc/t19/s2411], including the initiation of an investigation under [section 2412(c) of this title][/us/usc/t19/s2412/c] (in the case of the Trade Representative); or
 

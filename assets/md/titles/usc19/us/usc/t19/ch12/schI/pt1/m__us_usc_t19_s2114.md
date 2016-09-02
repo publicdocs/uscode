@@ -21,7 +21,7 @@
 
     (b) __Conduct of negotiations on basis of appropriate product sectors of manufacturing__ 
 
-        As a means of achieving the negotiating objective set forth in subsection (a) of this section, to the extent consistent with the objective of maximizing overall economic benefit to the United States (through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, through the development of fair and equitable market opportunities, and through open and nondiscriminatory world trade), negotiations shall, to the extent feasible be conducted on the basis of appropriate product sectors of manufacturing.
+        As a means of achieving the negotiating objective set forth in subsection (a), to the extent consistent with the objective of maximizing overall economic benefit to the United States (through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, through the development of fair and equitable market opportunities, and through open and nondiscriminatory world trade), negotiations shall, to the extent feasible be conducted on the basis of appropriate product sectors of manufacturing.
 
     (c) __Identification of appropriate product sectors of manufacturing__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Presidential analysis of how negotiating objectives are achieved in each product sector by trade agreements__ 
 
-        If the President determines that competitive opportunities in one or more product sectors will be significantly affected by a trade agreement concluded under section 2111 or 2112 of this title, he shall submit to the Congress with each such agreement an analysis of the extent to which the negotiating objective set forth in subsection (a) of this section is achieved by such agreement in each product sector or product sectors.
+        If the President determines that competitive opportunities in one or more product sectors will be significantly affected by a trade agreement concluded under section 2111 or 2112 of this title, he shall submit to the Congress with each such agreement an analysis of the extent to which the negotiating objective set forth in subsection (a) is achieved by such agreement in each product sector or product sectors.
 
 ([Pub. L. 93–618, title I, § 104][/us/pl/93/618/s104], Jan. 3, 1975, [88 Stat. 1984][/us/stat/88/1984]; 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, [93 Stat. 1381][/us/stat/93/1381]; [Pub. L. 98–573, title III, § 306(c)(2)(C)(i)][/us/pl/98/573/s306/c/2/C/i], Oct. 30, 1984, [98 Stat. 3012][/us/stat/98/3012].)
 

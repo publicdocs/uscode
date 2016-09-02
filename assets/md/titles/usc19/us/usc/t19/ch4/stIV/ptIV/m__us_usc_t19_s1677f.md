@@ -49,7 +49,7 @@
 
             (A) __In general__ 
 
-            Except as provided in subsection (a)(4)(A) of this section and subsection (c) of this section, information submitted to the administering authority or the Commission which is designated as proprietary by the person submitting the information shall not be disclosed to any person without the consent of the person submitting the information, other than—
+            Except as provided in subsection (a)(4)(A) and subsection (c), information submitted to the administering authority or the Commission which is designated as proprietary by the person submitting the information shall not be disclosed to any person without the consent of the person submitting the information, other than—
 
                 (i) to an officer or employee of the administering authority or the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted or any review under this subtitle covering the same subject merchandise, or
 
@@ -71,7 +71,7 @@
 
                  either—
 
-                    (I) a statement which permits the administering authority or the Commission to release under administrative protective order, in accordance with subsection (c) of this section, the information submitted in confidence, or
+                    (I) a statement which permits the administering authority or the Commission to release under administrative protective order, in accordance with subsection (c), the information submitted in confidence, or
 
                     (II) a statement to the administering authority or the Commission that the business proprietary information is of a type that should not be released under administrative protective order.
 
@@ -117,7 +117,7 @@
 
                 (i) the business proprietary information submitted to the administering authority or the Commission on or before the date of the determination shall be made available, subject to the terms and conditions of the protective order, on such date; and
 
-                (ii) the business proprietary information submitted to the administering authority or the Commission after the date of the determination shall be served as required by subsection (d) of this section.
+                (ii) the business proprietary information submitted to the administering authority or the Commission after the date of the determination shall be served as required by subsection (d).
 
             (E) __Failure to disclose__ 
 
@@ -127,7 +127,7 @@
 
         If the administering authority denies a request for information under paragraph (1), then application may be made to the United States Customs Court for an order directing the administering authority or the Commission to make the information available. After notification of all parties to the investigation and after an opportunity for a hearing on the record, the court may issue an order, under such conditions as the court deems appropriate, which shall not have the effect of stopping or suspending the investigation, directing the administering authority or the Commission to make all or a portion of the requested information described in the preceding sentence available under a protective order and setting forth sanctions for violation of such order if the court finds that, under the standards applicable in proceedings of the court, such an order is warranted, and that—
 
-            (A) the administering authority or the Commission has denied access to the information under subsection (b)(1) of this section,
+            (A) the administering authority or the Commission has denied access to the information under subsection (b)(1),
 
             (B) the person on whose behalf the information is requested is an interested party who is a party to the investigation in connection with which the information was obtained or developed, and
 
@@ -215,7 +215,7 @@
 
     (g) __Information relating to violations of protective orders and sanctions__ 
 
-        The administering authority and the Commission may withhold from disclosure any correspondence, private letters of reprimand, settlement agreements, and documents and files compiled in relation to investigations and actions involving a violation or possible violation of a protective order issued under subsection (c) or (d) of this section, and such information shall be treated as information described in [section 552(b)(3) of title 5][/us/usc/t5/s552/b/3].
+        The administering authority and the Commission may withhold from disclosure any correspondence, private letters of reprimand, settlement agreements, and documents and files compiled in relation to investigations and actions involving a violation or possible violation of a protective order issued under subsection (c) or (d), and such information shall be treated as information described in [section 552(b)(3) of title 5][/us/usc/t5/s552/b/3].
 
     (h) __Opportunity for comment by consumers and industrial users__ 
 

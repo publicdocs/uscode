@@ -1265,25 +1265,9 @@ Part 2—Relief From Market Disruption to Industries and Diversion of Trade to t
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2451" data-uslm-ref="/us/usc/t19/s2451">2451.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2451" data-uslm-ref="/us/usc/t19/s2451">2451</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2451b" data-uslm-ref="/us/usc/t19/s2451b">2451b.</a>  </td>
 
-    <td> Action to address market disruption.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2451a" data-uslm-ref="/us/usc/t19/s2451a">2451a.</a>  </td>
-
-    <td> Action in response to trade diversion.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2451b" data-uslm-ref="/us/usc/t19/s2451b">2451b.</a>  </td>
-
-    <td> Regulations; termination of provision.  </td>
+    <td> Omitted.  </td>
 
   </tr>
 

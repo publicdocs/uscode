@@ -331,13 +331,13 @@
 
     Sec. 2–201. Sanctions Against Toshiba and Kongsberg.
 
-    (1) Procurement Sanctions. Pursuant to section 2443 of the Omnibus Trade Act \[50 U.S.C. App. 2410a note\] and subject to the exceptions referred to in paragraph (3), departments, agencies and instrumentalities of the United States Government shall not for the three-year period beginning on the date this Order takes effect, contract with or procure products and services from Toshiba Machine Company, Kongsberg Trading Company, Toshiba Corporation or Kongsberg Vaapenfabrikk. The head of each department, agency or instrumentality is hereby directed and authorized to implement this procurement sanction in accordance with paragraph (3).
+    (1) Procurement Sanctions. Pursuant to section 2443 of the Omnibus Trade Act \[former 50 U.S.C. App. 2410a note\] and subject to the exceptions referred to in paragraph (3), departments, agencies and instrumentalities of the United States Government shall not for the three-year period beginning on the date this Order takes effect, contract with or procure products and services from Toshiba Machine Company, Kongsberg Trading Company, Toshiba Corporation or Kongsberg Vaapenfabrikk. The head of each department, agency or instrumentality is hereby directed and authorized to implement this procurement sanction in accordance with paragraph (3).
 
     (2) Import Sanctions. Pursuant to section 2443 of the Omnibus Trade Act and subject to the exceptions referred to in paragraph (3), importation into the United States, its territories and possessions, of products produced by Toshiba Machine Company or Kongsberg Trading Company is prohibited for three years from the effective date of this Order. The Secretary of the Treasury is hereby directed and authorized to implement this import sanction in accordance with paragraph (3).
 
     (3) Exceptions. Authority to make determinations as to exceptions to sanctions and to implement exceptions by regulation or otherwise is delegated (i) to the Secretary of Defense with respect to determinations under section 2443(c)(1) regarding the procurement of defense articles or defense services, (ii) to the Secretary of the Treasury with respect to exceptions under section 2443(c)(2) regarding importation prohibited by section 2443(a)(2), and (iii) to the head of each Federal department, agency or instrumentality with respect to exceptions under section 2443(c)(2) affecting their respective contracting and procurement. All regulations implementing these exceptions provisions shall be consistent with any guidelines provided by the Office of Federal Procurement Policy, Office of Management and Budget.
 
-    (4) Annual Report. The annual report required by section 2445 \[50 U.S.C. App. 2413\], concerning estimated increases in defense expenditures arising from illegal technology transfers, shall be prepared by the Secretary of Defense, in consultation with the Secretaries of State and Commerce, for submission to the Congress by the President.
+    (4) Annual Report. The annual report required by section 2445 \[adding [50 U.S.C. 4616(f)][/us/usc/t50/s4616/f]\], concerning estimated increases in defense expenditures arising from illegal technology transfers, shall be prepared by the Secretary of Defense, in consultation with the Secretaries of State and Commerce, for submission to the Congress by the President.
 
  __PART III—FOREIGN CORRUPT PRACTICES AMENDMENTS; INVESTMENT; AND TECHNOLOGY__ 
 
@@ -347,7 +347,7 @@
 
     Sec. 3–201. Authority to Review Certain Mergers, Acquisitions, and Takeovers.
 
-    (1) Executive Order No. 11858, as amended \[50 U.S.C. App. 2170 note\], regarding the Committee on Foreign Investment in the United States (the “Committee”) is further amended as follows:
+    (1) Executive Order No. 11858, as amended \[[50 U.S.C. 4565][/us/usc/t50/s4565] note\], regarding the Committee on Foreign Investment in the United States (the “Committee”) is further amended as follows:
 
     (A) By adding new Sections 7 and 8 as follows:
 
@@ -361,7 +361,7 @@
 
     (C) By deleting, from the third sentence in Section 1(a), the phrase “representative of the”.
 
-    (D) By deleting “and” at the end of subparagraph (3) of Section 1(b), by substituting “; and” for the period at the end of subparagraph (4) of that Section, and by adding a new subparagraph (5) as follows: “(5) coordinate the views of the Executive Branch and discharge the responsibilities with respect to Section 721(a) and (e) of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.) (“Defense Production Act”).”
+    (D) By deleting “and” at the end of subparagraph (3) of Section 1(b), by substituting “; and” for the period at the end of subparagraph (4) of that Section, and by adding a new subparagraph (5) as follows: “(5) coordinate the views of the Executive Branch and discharge the responsibilities with respect to Section 721(a) and (e) of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.) \[now [50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\] (“Defense Production Act”).”
 
     (E) By adding the following sentence at the end of Section 5: “Information or documentary material filed pursuant to Section 1(b)(5) or Section 7 of this Order shall be treated in accordance with paragraph (b) of Section 721 of the Defense Production Act.”
 
@@ -403,7 +403,7 @@
 
     Any actions or determinations taken or made by an officer or agency under the Omnibus Trade Act or this Order shall be subject to the Executive oversight and direction of the President, and such actions or determinations shall be undertaken after appropriate inter-agency consultation as established by the President.
 
-    Sec. 5–102. Regulatory Review. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 \[formerly [5 U.S.C. 601][/us/usc/t5/s601] note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act \[50 U.S.C. App. 2401 et seq.\], determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[50 U.S.C. App. 2407(b)\].
+    Sec. 5–102. Regulatory Review. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 \[formerly [5 U.S.C. 601][/us/usc/t5/s601] note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\], determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[[50 U.S.C. 4607(b)][/us/usc/t50/s4607/b]\].
 
     Sec. 5–201. Offsets. The negotiating functions under section 825(c) of the Defense Authorization Act \[[10 U.S.C. 2532][/us/usc/t10/s2532] note\], as may be ordered by the President, are hereby jointly delegated to the Secretary of Defense and the United States Trade Representative. These functions shall be coordinated with the Secretary of State and conducted in consultation with the Secretaries of Commerce, Labor and the Treasury.
 
@@ -443,13 +443,18 @@
 [/us/usc/t19/s2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2397
 [/us/usc/t19/s2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2397
 [/us/usc/t15/s4712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4712%2Fa
+[/us/usc/t50/s4616/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4616%2Ff
 [/us/usc/t15/s78dd–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931
+[/us/usc/t50/s4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565
+[/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1444
 [/us/usc/t41/s10a–10d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a%E2%80%9310d
 [/us/usc/t41/s10b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10b%E2%80%931
 [/us/usc/t19/s2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2515
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
+[/us/usc/t50/s4607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4607%2Fb
 [/us/usc/t10/s2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2532
 [/us/usc/t10/s2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2532
 [/us/usc/t19/s1332/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1332%2Fg

@@ -97,9 +97,9 @@
 
     (c) __Period of time__ 
 
-    The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that—
+    The records required by subsections (a) and (b) shall be kept for such periods of time as the Secretary shall prescribe; except that—
 
-        (1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+        (1) no period of time for the retention of the records required under subsection (a) or (b)(3) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
 
         (2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
 
@@ -117,7 +117,7 @@
 
         (1) __Relating to NAFTA exports__ 
 
-        Any person who fails to retain records required by paragraph (2) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for—
+        Any person who fails to retain records required by paragraph (2) of subsection (b) or the regulations issued to implement that paragraph shall be liable for—
 
             (A) a civil penalty not to exceed $10,000; or
 
@@ -127,7 +127,7 @@
 
         (2) __Relating to Canadian agreement exports__ 
 
-            Any person who fails to retain the records required by paragraph (3) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
+            Any person who fails to retain the records required by paragraph (3) of subsection (b) or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
 
     (f) __Certificates of Origin for goods exported under the United States-Chile Free Trade Agreement__ 
 
@@ -299,7 +299,7 @@
 
     (l) __Penalties__ 
 
-    Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) of this section or the regulations issued to implement any such subsection shall be liable for the greater of—
+    Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) or the regulations issued to implement any such subsection shall be liable for the greater of—
 
         (1) a civil penalty not to exceed $10,000; or
 

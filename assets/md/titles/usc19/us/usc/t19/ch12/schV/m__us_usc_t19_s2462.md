@@ -101,7 +101,7 @@
 
             (E) Such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute.
 
-            (F) Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under [section 2405(j)(1)(A) of title 50][/us/usc/t50/s2405/j/1/A], Appendix or such country has not taken steps to support the efforts of the United States to combat terrorism.
+            (F) Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under [section 4605(j)(1)(A) of title 50][/us/usc/t50/s4605/j/1/A] or such country has not taken steps to support the efforts of the United States to combat terrorism.
 
             (G) Such country has not taken or is not taking steps to afford internationally recognized worker rights to workers in the country (including any designated zone in that country).
 
@@ -141,11 +141,11 @@
 
         (2) __Changed circumstances__ 
 
-            The President shall, after complying with the requirements of subsection (f)(2) of this section, withdraw or suspend the designation of any country as a beneficiary developing country if, after such designation, the President determines that as the result of changed circumstances such country would be barred from designation as a beneficiary developing country under subsection (b)(2) of this section. Such country shall cease to be a beneficiary developing country on the day on which the President issues an Executive order or Presidential proclamation revoking the designation of such country under this subchapter.
+            The President shall, after complying with the requirements of subsection (f)(2), withdraw or suspend the designation of any country as a beneficiary developing country if, after such designation, the President determines that as the result of changed circumstances such country would be barred from designation as a beneficiary developing country under subsection (b)(2). Such country shall cease to be a beneficiary developing country on the day on which the President issues an Executive order or Presidential proclamation revoking the designation of such country under this subchapter.
 
         (3) __Advice to Congress__ 
 
-            The President shall, as necessary, advise the Congress on the application of [section 2461 of this title][/us/usc/t19/s2461] and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c) of this section.
+            The President shall, as necessary, advise the Congress on the application of [section 2461 of this title][/us/usc/t19/s2461] and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c).
 
     (e) __Mandatory graduation of beneficiary developing countries__ 
 
@@ -202,7 +202,7 @@
 
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
 [/us/usc/t19/s3501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F10
-[/us/usc/t50/s2405/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj%2F1%2FA
+[/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t19/s2467/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2467%2F6%2FD
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461

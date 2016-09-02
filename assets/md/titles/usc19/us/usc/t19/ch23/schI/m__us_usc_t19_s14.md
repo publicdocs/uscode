@@ -25,6 +25,20 @@
 
     \[“(B) Requests for retroactive application.—Section 8(b) of the AGOA Acceleration Act of 2004 shall be applied with respect to the amendment made by paragraph (1) by substituting ‘90 days after the date of the enactment of the Miscellaneous Trade and Technical Corrections Act of 2004 \[Dec. 3, 2004\]’ for ‘90 days after the date of the enactment of this Act’.”\]
 
+ __Definitions__ 
+
+[Pub. L. 114–27, title I, § 112][/us/pl/114/27/s112], June 29, 2015, [129 Stat. 371][/us/stat/129/371], provided that: 
+
+> “In this title \[see Short Title of 2015 Amendment note above\]:
+
+>     “(1)  __Beneficiary sub-saharan african country__  __.—__ 
+
+>     The term ‘beneficiary sub-Saharan African country’ means a beneficiary sub-Saharan African country described in subsection (e) of section 506A of the Trade Act of 1974 \[[19 U.S.C. 2466a(e)][/us/usc/t19/s2466a/e]\] (as redesignated by this Act).
+
+>     “(2)  __Sub-saharan african country__  __.—__ 
+
+>     The term ‘sub-Saharan African country’ has the meaning given the term in section 107 of the African Growth and Opportunity Act \[[19 U.S.C. 3706][/us/usc/t19/s3706]\].”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s13.md) | [Next](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s3702.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs14)
@@ -39,5 +53,9 @@
 [/us/stat/118/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2595
 [/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
 [/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/114/27/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs112
+[/us/stat/129/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F371
+[/us/usc/t19/s2466a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2466a%2Fe
+[/us/usc/t19/s3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3706
 
 

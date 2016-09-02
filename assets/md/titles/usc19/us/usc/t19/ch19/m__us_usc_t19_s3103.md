@@ -21,7 +21,7 @@
 
     (b) __Factors to be taken into account__ 
 
-    In identifying priority foreign countries under subsection (a) of this section, the Trade Representative shall take into account, among other relevant factors—
+    In identifying priority foreign countries under subsection (a), the Trade Representative shall take into account, among other relevant factors—
 
         (1) the nature and significance of the acts, policies, and practices that deny mutually advantageous market opportunities to telecommunications products and services of United States firms;
 
@@ -37,7 +37,7 @@
 
         (1)
 
-         The Trade Representative may at any time, after taking into account the factors described in subsection (b) of this section—
+         The Trade Representative may at any time, after taking into account the factors described in subsection (b)—
 
             (A) revoke the identification of any priority foreign country that was made under this section, or
 
@@ -49,7 +49,7 @@
 
     (d) __Report to Congress__ 
 
-        By no later than the date that is 30 days after the date on which the investigation conducted under subsection (a) of this section is completed, the United States Trade Representative shall submit a report on the investigation to the President and to appropriate committees of the Congress.
+        By no later than the date that is 30 days after the date on which the investigation conducted under subsection (a) is completed, the United States Trade Representative shall submit a report on the investigation to the President and to appropriate committees of the Congress.
 
 ([Pub. L. 100–418, title I, § 1374][/us/pl/100/418/s1374], Aug. 23, 1988, [102 Stat. 1217][/us/stat/102/1217].)
 

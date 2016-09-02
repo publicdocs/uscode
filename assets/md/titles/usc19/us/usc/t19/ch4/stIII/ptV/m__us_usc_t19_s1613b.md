@@ -69,7 +69,7 @@
 
     (b) __United States Coast Guard__ 
 
-    The Commissioner of Customs shall make available to the United States Coast Guard, from funds appropriated under subsection (f)(2) of this section in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
+    The Commissioner of Customs shall make available to the United States Coast Guard, from funds appropriated under subsection (f)(2) in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
 
         (1) equipment for any vessel, vehicle, or aircraft available for official use by the United States Coast Guard to enable the vessel, vehicle, or aircraft to assist in law enforcement functions;
 
@@ -81,7 +81,7 @@
 
     (c) __Deposits__ 
 
-        There shall be deposited into the Fund all forfeited currency and proceeds from forfeiture under any law enforced or administered by the United States Customs Service or the United States Coast Guard and all income from investments made under subsection (d) of this section.
+        There shall be deposited into the Fund all forfeited currency and proceeds from forfeiture under any law enforced or administered by the United States Customs Service or the United States Coast Guard and all income from investments made under subsection (d).
 
     (d) __Investment__ 
 
@@ -133,15 +133,15 @@
 
     (f) __Authorization of appropriations__ 
 
-        (1) There are hereby appropriated from the Fund such sums as may be necessary to carry out the purposes set forth in subsection (a)(1) of this section.
+        (1) There are hereby appropriated from the Fund such sums as may be necessary to carry out the purposes set forth in subsection (a)(1).
 
         (2)
 
-            (A) Subject to subparagraph (B), there are authorized to be appropriated from the Fund not to exceed $20,000,000 for each fiscal year to carry out the purposes set forth in subsections (a)(3) and (b) of this section for such fiscal year.
+            (A) Subject to subparagraph (B), there are authorized to be appropriated from the Fund not to exceed $20,000,000 for each fiscal year to carry out the purposes set forth in subsections (a)(3) and (b) for such fiscal year.
 
             (B)
 
-             Of the amount authorized to be appropriated under subparagraph (A), not to exceed the following, shall be available to carry out the purposes set forth in subsection (a)(3) of this section:
+             Of the amount authorized to be appropriated under subparagraph (A), not to exceed the following, shall be available to carry out the purposes set forth in subsection (a)(3):
 
                 (i) $14,855,000 for fiscal year 1991.
 

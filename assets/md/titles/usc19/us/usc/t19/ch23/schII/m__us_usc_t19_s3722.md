@@ -79,7 +79,7 @@
 
         (5) __Monitoring and reports to Congress__ 
 
-            The Customs Service shall monitor and the Commissioner of Customs shall submit to Congress, not later than March 31 of each year, a report on the effectiveness of the visa systems and the implementation of legislation and regulations described in subsection (a) of this section and on measures taken by countries in sub-Saharan Africa which export textiles or apparel to the United States to prevent circumvention as described in Article 5 of the Agreement on Textiles and Clothing.
+            The Customs Service shall monitor and the Commissioner of Customs shall submit to Congress, not later than March 31 of each year, a report on the effectiveness of the visa systems and the implementation of legislation and regulations described in subsection (a) and on measures taken by countries in sub-Saharan Africa which export textiles or apparel to the United States to prevent circumvention as described in Article 5 of the Agreement on Textiles and Clothing.
 
     (c) __Customs Service enforcement__ 
 
@@ -89,7 +89,7 @@
 
          make available technical assistance to the beneficiary sub-Saharan African countries—
 
-            (A) in the development and implementation of visa systems, legislation, and regulations described in subsection (a)(1)(A) of this section; and
+            (A) in the development and implementation of visa systems, legislation, and regulations described in subsection (a)(1)(A); and
 
             (B) to train their officials in anti-transshipment enforcement;
 
@@ -99,7 +99,7 @@
 
     (d) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to carry out subsection (c) of this section the sum of $5,894,913.
+        There is authorized to be appropriated to carry out subsection (c) the sum of $5,894,913.
 
 ([Pub. L. 106–200, title I, § 113][/us/pl/106/200/s113], May 18, 2000, [114 Stat. 263][/us/stat/114/263].)
 

@@ -63,7 +63,7 @@
 
             (B) __Time for Commission determination__ 
 
-                Except as otherwise provided in subparagraph (C), the Commission shall issue its determination under subsection (a)(1) of this section, to the extent possible, not later than 1 year after the date on which the investigation is initiated under this section.
+                Except as otherwise provided in subparagraph (C), the Commission shall issue its determination under subsection (a)(1), to the extent possible, not later than 1 year after the date on which the investigation is initiated under this section.
 
             (C) __Special rule to permit administrative flexibility__ 
 
@@ -83,9 +83,9 @@
 
             (A) __Affirmative determination__ 
 
-            Upon being notified by the Commission that it has made an affirmative determination under subsection (a)(1) of this section—
+            Upon being notified by the Commission that it has made an affirmative determination under subsection (a)(1)—
 
-                (i) the administering authority shall order the termination of the suspension of liquidation required pursuant to subsection (a)(4) of this section, and
+                (i) the administering authority shall order the termination of the suspension of liquidation required pursuant to subsection (a)(4), and
 
                 (ii) the countervailing duty order shall remain in effect until revoked, in whole or in part, under [section 1675(d) of this title][/us/usc/t19/s1675/d].
 
@@ -95,7 +95,7 @@
 
                 (i) __In general__ 
 
-                    Upon being notified by the Commission that it has made a negative determination under subsection (a)(1) of this section, the administering authority shall revoke the countervailing duty order, and shall refund, with interest, any estimated countervailing duties collected during the period liquidation was suspended pursuant to subsection (a)(4) of this section.
+                    Upon being notified by the Commission that it has made a negative determination under subsection (a)(1), the administering authority shall revoke the countervailing duty order, and shall refund, with interest, any estimated countervailing duties collected during the period liquidation was suspended pursuant to subsection (a)(4).
 
                 (ii) __Limitation on negative determination__ 
 
@@ -103,7 +103,7 @@
 
         (4) __Countervailing duty orders with respect to which no request for injury investigation is made__ 
 
-            If, with respect to a countervailing duty order described in subsection (a) of this section, a request for an investigation is not made within the time required by subsection (a)(3) of this section, the Commission shall notify the administering authority that a negative determination has been made under subsection (a) of this section and the provisions of paragraph (3)(B) shall apply with respect to the order.
+            If, with respect to a countervailing duty order described in subsection (a), a request for an investigation is not made within the time required by subsection (a)(3), the Commission shall notify the administering authority that a negative determination has been made under subsection (a) and the provisions of paragraph (3)(B) shall apply with respect to the order.
 
     (c) __Pending and suspended countervailing duty investigations__ 
 
@@ -117,9 +117,9 @@
 
          in the case of a suspended investigation to which [section 1671c(i)(1)(C) of this title][/us/usc/t19/s1671c/i/1/C] applies, treat the countervailing duty order issued pursuant to such section as if it were—
 
-            (A) an order issued under subsection (a)(1)(B)(ii) of this section for purposes of subsection (a)(3) of this section; and
+            (A) an order issued under subsection (a)(1)(B)(ii) for purposes of subsection (a)(3); and
 
-            (B) an order issued under subsection (a)(1)(B)(i) of this section for purposes of subsection (a)(4) of this section.
+            (B) an order issued under subsection (a)(1)(B)(i) for purposes of subsection (a)(4).
 
     (d) __Publication in Federal Register__ 
 
@@ -131,7 +131,7 @@
 
             (A) __Requests for reviews__ 
 
-                Notwithstanding [section 1675(c)(6)(A) of this title][/us/usc/t19/s1675/c/6/A] and except as provided in subparagraph (B), an interested party may request a review of an order under [section 1675(c) of this title][/us/usc/t19/s1675/c] at the same time the party requests an investigation under subsection (a) of this section, if the order involves the same or comparable subject merchandise. Upon receipt of such request, the administering authority, after consulting with the Commission, shall initiate a review of the order under [section 1675(c) of this title][/us/usc/t19/s1675/c]. The Commission shall combine such review with the investigation under this section.
+                Notwithstanding [section 1675(c)(6)(A) of this title][/us/usc/t19/s1675/c/6/A] and except as provided in subparagraph (B), an interested party may request a review of an order under [section 1675(c) of this title][/us/usc/t19/s1675/c] at the same time the party requests an investigation under subsection (a), if the order involves the same or comparable subject merchandise. Upon receipt of such request, the administering authority, after consulting with the Commission, shall initiate a review of the order under [section 1675(c) of this title][/us/usc/t19/s1675/c]. The Commission shall combine such review with the investigation under this section.
 
             (B) __Exception__ 
 

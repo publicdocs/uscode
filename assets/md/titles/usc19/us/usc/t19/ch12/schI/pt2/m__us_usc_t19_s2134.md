@@ -29,11 +29,11 @@
 
     (c) __Maximum reduction in duties__ 
 
-        (1) No proclamation shall be made pursuant to subsection (a) of this section decreasing any rate of duty to a rate which is less than 80 percent of the existing rate of duty.
+        (1) No proclamation shall be made pursuant to subsection (a) decreasing any rate of duty to a rate which is less than 80 percent of the existing rate of duty.
 
-        (2) No proclamation shall be made pursuant to subsection (a) of this section decreasing or increasing any rate of duty to a rate which is lower or higher than the corresponding rate which would have resulted if the maximum authority granted by [section 2111 of this title][/us/usc/t19/s2111] with respect to such article had been exercised.
+        (2) No proclamation shall be made pursuant to subsection (a) decreasing or increasing any rate of duty to a rate which is lower or higher than the corresponding rate which would have resulted if the maximum authority granted by [section 2111 of this title][/us/usc/t19/s2111] with respect to such article had been exercised.
 
-        (3) Where the rate of duty in effect at any time is an intermediate stage under [section 2119 of this title][/us/usc/t19/s2119], the proclamation made pursuant to subsection (a) of this section may provide for the reduction of each rate of duty at each such stage proclaimed under [section 2111 of this title][/us/usc/t19/s2111] by not more than 20 percent of such rate of duty, and, subject to the limitation in paragraph (2), may provide for a final rate of duty which is not less than 80 percent of the rate of duty proclaimed as the final stage under [section 2111 of this title][/us/usc/t19/s2111].
+        (3) Where the rate of duty in effect at any time is an intermediate stage under [section 2119 of this title][/us/usc/t19/s2119], the proclamation made pursuant to subsection (a) may provide for the reduction of each rate of duty at each such stage proclaimed under [section 2111 of this title][/us/usc/t19/s2111] by not more than 20 percent of such rate of duty, and, subject to the limitation in paragraph (2), may provide for a final rate of duty which is not less than 80 percent of the rate of duty proclaimed as the final stage under [section 2111 of this title][/us/usc/t19/s2111].
 
         (4)
 

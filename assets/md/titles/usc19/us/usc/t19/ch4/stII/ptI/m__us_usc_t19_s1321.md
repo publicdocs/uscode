@@ -37,7 +37,7 @@
 
     (b) __Reduction or modification of exemption__ 
 
-        The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) of this section whenever he finds that such action is consistent with the purpose of subsection (a) of this section or is necessary for any reason to protect the revenue or to prevent unlawful importations.
+        The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) whenever he finds that such action is consistent with the purpose of subsection (a) or is necessary for any reason to protect the revenue or to prevent unlawful importations.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 321, as added [June 25, 1938, ch. 679, § 7][/us/act/1938-06-25/ch679/s7], [52 Stat. 1081][/us/stat/52/1081]; amended [Aug. 8, 1953, ch. 397, § 13][/us/act/1953-08-08/ch397/s13], [67 Stat. 515][/us/stat/67/515]; [Pub. L. 87–261, § 2(c)][/us/pl/87/261/s2/c], Sept. 21, 1961, [75 Stat. 541][/us/stat/75/541]; [Pub. L. 89–62, § 2][/us/pl/89/62/s2], June 30, 1965, [79 Stat. 208][/us/stat/79/208]; [Pub. L. 93–618, title VI, § 610(a)][/us/pl/93/618/s610/a], Jan. 3, 1975, [88 Stat. 2075][/us/stat/88/2075]; [Pub. L. 95–410, title II, § 205][/us/pl/95/410/s205], Oct. 3, 1978, [92 Stat. 900][/us/stat/92/900]; [Pub. L. 97–446, title I, § 115(b)][/us/pl/97/446/s115/b], Jan. 12, 1983, [96 Stat. 2335][/us/stat/96/2335]; [Pub. L. 100–418, title I, § 1214(h)(2)][/us/pl/100/418/s1214/h/2], Aug. 23, 1988, [102 Stat. 1157][/us/stat/102/1157]; [Pub. L. 103–182, title VI, § 651][/us/pl/103/182/s651], Dec. 8, 1993, [107 Stat. 2209][/us/stat/107/2209]; [Pub. L. 104–295, § 3(a)(8)][/us/pl/104/295/s3/a/8], (12), Oct. 11, 1996, [110 Stat. 3516][/us/stat/110/3516].)
 
@@ -59,7 +59,7 @@
 
     Subsec. (a)(3). [Pub. L. 103–182, § 651(3)][/us/pl/103/182/s651/3], added par. (3).
 
-    Subsec. (b). [Pub. L. 103–182, § 651(4)][/us/pl/103/182/s651/4], struck out “to diminish any dollar amount specified in subsection (a) of this section and” after “authorized by regulations” and substituted “subsection (a) of this section” for “such subsection” in two places.
+    Subsec. (b). [Pub. L. 103–182, § 651(4)][/us/pl/103/182/s651/4], struck out “to diminish any dollar amount specified in subsection (a) and” after “authorized by regulations” and substituted “subsection (a)” for “such subsection” in two places.
 
     1988—Subsec. (a)(2)(B). [Pub. L. 100–418][/us/pl/100/418] substituted “subheading 9804.00.30 or 9804.00.70” for “item 812.25 or 813.31”.
 

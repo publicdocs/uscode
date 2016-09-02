@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch26/schIV/m__us_usc_t19_s4111.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4112)
+[Previous](./../../../../..//us/usc/t19/ch26/schIV/m__us_usc_t19_s4111.md) | [Next](./../../../../..//us/usc/t19/ch27/m__us_usc_t19_ch27.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4112)
 
 ## § 4112. Earned import allowance program
 
@@ -127,7 +127,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch26/schIV/m__us_usc_t19_s4111.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4112)
+[Previous](./../../../../..//us/usc/t19/ch26/schIV/m__us_usc_t19_s4111.md) | [Next](./../../../../..//us/usc/t19/ch27/m__us_usc_t19_ch27.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4112)
 
 ----------
 ----------

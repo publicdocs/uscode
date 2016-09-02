@@ -41,7 +41,7 @@
 
     (b) __Effective date of certain proclaimed actions__ 
 
-        Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover requirements under subsection (a) of this section may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
+        Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover requirements under subsection (a) may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
 
 ([Pub. L. 103–182, title I, § 103][/us/pl/103/182/s103], Dec. 8, 1993, [107 Stat. 2063][/us/stat/107/2063].)
 

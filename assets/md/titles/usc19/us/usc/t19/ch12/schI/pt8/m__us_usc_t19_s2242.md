@@ -33,7 +33,7 @@
 
         (1)
 
-         In identifying priority foreign countries under subsection (a)(2) of this section, the Trade Representative shall only identify those foreign countries—
+         In identifying priority foreign countries under subsection (a)(2), the Trade Representative shall only identify those foreign countries—
 
             (A)
 
@@ -57,19 +57,19 @@
 
         (2)
 
-         In identifying priority foreign countries under subsection (a)(2) of this section, the Trade Representative shall—
+         In identifying priority foreign countries under subsection (a)(2), the Trade Representative shall—
 
             (A) consult with the Register of Copyrights, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, other appropriate officers of the Federal Government, and
 
             (B) take into account information from such sources as may be available to the Trade Representative and such information as may be submitted to the Trade Representative by interested persons, including information contained in reports submitted under [section 2241(b) of this title][/us/usc/t19/s2241/b] and petitions submitted under [section 2412 of this title][/us/usc/t19/s2412].
 
-        (3) The Trade Representative may identify a foreign country under subsection (a)(1)(B) of this section only if the Trade Representative finds that there is a factual basis for the denial of fair and equitable market access as a result of the violation of international law or agreement, or the existence of barriers, referred to in subsection (d)(3) of this section.
+        (3) The Trade Representative may identify a foreign country under subsection (a)(1)(B) only if the Trade Representative finds that there is a factual basis for the denial of fair and equitable market access as a result of the violation of international law or agreement, or the existence of barriers, referred to in subsection (d)(3).
 
         (4)
 
-         In identifying foreign countries under paragraphs (1) and (2) of subsection (a) of this section, the Trade Representative shall take into account—
+         In identifying foreign countries under paragraphs (1) and (2) of subsection (a), the Trade Representative shall take into account—
 
-            (A) the history of intellectual property laws and practices of the foreign country, including any previous identification under subsection (a)(2) of this section, and
+            (A) the history of intellectual property laws and practices of the foreign country, including any previous identification under subsection (a)(2), and
 
             (B) the history of efforts of the United States, and the response of the foreign country, to achieve adequate and effective protection and enforcement of intellectual property rights.
 
@@ -113,7 +113,7 @@
 
     (e) __Publication__ 
 
-        The Trade Representative shall publish in the Federal Register a list of foreign countries identified under subsection (a) of this section and shall make such revisions to the list as may be required by reason of action under subsection (c) of this section.
+        The Trade Representative shall publish in the Federal Register a list of foreign countries identified under subsection (a) and shall make such revisions to the list as may be required by reason of action under subsection (c).
 
     (f) __Special rule for actions affecting United States cultural industries__ 
 
@@ -129,7 +129,7 @@
 
         (2) __Special rules for identifications__ 
 
-        For purposes of [section 2412(b)(2)(A) of this title][/us/usc/t19/s2412/b/2/A], an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2) of this section, unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
+        For purposes of [section 2412(b)(2)(A) of this title][/us/usc/t19/s2412/b/2/A], an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2), unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
 
             (A) consult with and take into account the views of representatives of the relevant domestic industries, appropriate committees established pursuant to [section 2155 of this title][/us/usc/t19/s2155], and appropriate officers of the Federal Government, and
 
@@ -151,7 +151,7 @@
 
     (g) __Annual report__ 
 
-        The Trade Representative shall, by not later than the date by which countries are identified under subsection (a) of this section, transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including a description of progress made in achieving improved intellectual property protection and market access for persons relying on intellectual property rights.
+        The Trade Representative shall, by not later than the date by which countries are identified under subsection (a), transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including a description of progress made in achieving improved intellectual property protection and market access for persons relying on intellectual property rights.
 
 ([Pub. L. 93–618, title I, § 182][/us/pl/93/618/s182], as added [Pub. L. 100–418, title I, § 1303(b)][/us/pl/100/418/s1303/b], Aug. 23, 1988, [102 Stat. 1179][/us/stat/102/1179]; amended [Pub. L. 103–182, title V, § 513][/us/pl/103/182/s513], Dec. 8, 1993, [107 Stat. 2156][/us/stat/107/2156]; [Pub. L. 103–465, title III, § 313][/us/pl/103/465/s313], Dec. 8, 1994, [108 Stat. 4938][/us/stat/108/4938]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(8)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584.)
 

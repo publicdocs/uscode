@@ -17,7 +17,7 @@
 
     (a) __Congressional findings; directives; disavowal of prior approval of legislation__ 
 
-        The Congress finds that barriers to (and other distortions of) international trade are reducing the growth of foreign markets for the products of United States agriculture, industry, mining, and commerce, diminishing the intended mutual benefits of reciprocal trade concessions, adversely affecting the United States economy, preventing fair and equitable access to supplies, and preventing the development of open and nondiscriminatory trade among nations. The President is urged to take all appropriate and feasible steps within his power (including the full exercise of the rights of the United States under international agreements) to harmonize, reduce, or eliminate such barriers to (and other distortions of) international trade. The President is further urged to utilize the authority granted by subsection (b) of this section to negotiate trade agreements with other countries and instrumentalities providing on a basis of mutuality for the harmonization, reduction, or elimination of such barriers to (and other distortions of) international trade. Nothing in this subsection shall be construed as prior approval of any legislation which may be necessary to implement an agreement concerning barriers to (or other distortions of) international trade.
+        The Congress finds that barriers to (and other distortions of) international trade are reducing the growth of foreign markets for the products of United States agriculture, industry, mining, and commerce, diminishing the intended mutual benefits of reciprocal trade concessions, adversely affecting the United States economy, preventing fair and equitable access to supplies, and preventing the development of open and nondiscriminatory trade among nations. The President is urged to take all appropriate and feasible steps within his power (including the full exercise of the rights of the United States under international agreements) to harmonize, reduce, or eliminate such barriers to (and other distortions of) international trade. The President is further urged to utilize the authority granted by subsection (b) to negotiate trade agreements with other countries and instrumentalities providing on a basis of mutuality for the harmonization, reduction, or elimination of such barriers to (and other distortions of) international trade. Nothing in this subsection shall be construed as prior approval of any legislation which may be necessary to implement an agreement concerning barriers to (or other distortions of) international trade.
 
     (b) __Presidential determinations prerequisite to entry into trade agreements; trade with Israel__ 
 
@@ -29,7 +29,7 @@
 
             (B) The negotiation of any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States shall take fully into account any product that benefits from a discriminatory preferential tariff arrangement between Israel and a third country if the tariff preference on such product has been the subject of a challenge by the United States Government under the authority of [section 2411 of this title][/us/usc/t19/s2411] and the General Agreement on Tariffs and Trade.
 
-            (C) Notwithstanding any other provision of this section, the requirements of subsections (c) and (e)(1) of this section shall not apply to any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States.
+            (C) Notwithstanding any other provision of this section, the requirements of subsections (c) and (e)(1) shall not apply to any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States.
 
         (3) Notwithstanding any other provision of law, no trade benefit shall be extended to any country by reason of the extension of any trade benefit to another country under a trade agreement entered into under paragraph (1) with such other country that provides for the elimination or reduction of any duty imposed by the United States.
 
@@ -43,7 +43,7 @@
 
                 (ii)
 
-                 the President, at least 60 days prior to the date notice is provided under subsection (e)(1) of this section—
+                 the President, at least 60 days prior to the date notice is provided under subsection (e)(1)—
 
                     (I) provides written notice of such negotiations to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, and
 
@@ -79,11 +79,11 @@
 
     (c) __Presidential consultation with Congress prior to entry into trade agreements__ 
 
-        Before the President enters into any trade agreement under this section providing for the harmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall consult with the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and with each committee of the House and the Senate and each joint committee of the Congress which has jurisdiction over legislation involving subject matters which would be affected by such trade agreement. Such consultation shall include all matters relating to the implementation of such trade agreement as provided in subsections (d) and (e) of this section. If it is proposed to implement such trade agreement, together with one or more other trade agreements entered into under this section, in a single implementing bill, such consultation shall include the desirability and feasibility of such proposed implementation.
+        Before the President enters into any trade agreement under this section providing for the harmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall consult with the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and with each committee of the House and the Senate and each joint committee of the Congress which has jurisdiction over legislation involving subject matters which would be affected by such trade agreement. Such consultation shall include all matters relating to the implementation of such trade agreement as provided in subsections (d) and (e). If it is proposed to implement such trade agreement, together with one or more other trade agreements entered into under this section, in a single implementing bill, such consultation shall include the desirability and feasibility of such proposed implementation.
 
     (d) __Submission to Congress of agreements, drafts of implementing bills, and statements of proposed administrative action__ 
 
-        Whenever the President enters into a trade agreement under this section providing for the harmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall submit such agreement, together with a draft of an implementing bill (described in [section 2191(b) of this title][/us/usc/t19/s2191/b]) and a statement of any administrative action proposed to implement such agreement, to the Congress as provided in subsection (e) of this section, and such agreement shall enter into force with respect to the United States only if the provisions of subsection (e) of this section are complied with and the implementing bill submitted by the President is enacted into law.
+        Whenever the President enters into a trade agreement under this section providing for the harmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall submit such agreement, together with a draft of an implementing bill (described in [section 2191(b) of this title][/us/usc/t19/s2191/b]) and a statement of any administrative action proposed to implement such agreement, to the Congress as provided in subsection (e), and such agreement shall enter into force with respect to the United States only if the provisions of subsection (e) are complied with and the implementing bill submitted by the President is enacted into law.
 
     (e) __Steps prerequisite to entry into force of trade agreements__ 
 
@@ -601,7 +601,7 @@
 
 >     “(a)  __Short Title__  __.—__ 
 
->     This Act \[enacting [section 1584 of Title 28][/us/usc/t28/s1584], Judiciary and Judicial Procedure, amending sections 58c, 81c, 1305, 1306, 1311, 1312, 1313, 1502, 1508, 1514, 1516a, 1562, 1677, 1677f, and 2518 of this title, sections 150bb, 150cc, 154, 156, 624, 1582, and 2803 of Title 7, Agriculture, [section 1184 of Title 8][/us/usc/t8/s1184], Aliens and Nationality, [section 24 of Title 12][/us/usc/t12/s24], Banks and Banking, [section 152 of Title 21][/us/usc/t21/s152], Food and Drugs, sections 1581, 2201, and 2643 of Title 28, [section 2201 of Title 42][/us/usc/t42/s2201], The Public Health and Welfare, section 2406 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes below, and amending provisions set out as a note under [section 2253 of this title][/us/usc/t19/s2253]\] may be cited as the ‘United States-Canada Free-Trade Agreement Implementation Act of 1988’.
+>     This Act \[enacting [section 1584 of Title 28][/us/usc/t28/s1584], Judiciary and Judicial Procedure, amending sections 58c, 81c, 1305, 1306, 1311, 1312, 1313, 1502, 1508, 1514, 1516a, 1562, 1677, 1677f, and 2518 of this title, sections 150bb, 150cc, 154, 156, 624, 1582, and 2803 of Title 7, Agriculture, [section 1184 of Title 8][/us/usc/t8/s1184], Aliens and Nationality, [section 24 of Title 12][/us/usc/t12/s24], Banks and Banking, [section 152 of Title 21][/us/usc/t21/s152], Food and Drugs, sections 1581, 2201, and 2643 of Title 28, [section 2201 of Title 42][/us/usc/t42/s2201], The Public Health and Welfare, [section 4606 of Title 50][/us/usc/t50/s4606], War and National Defense, enacting provisions set out as notes below, and amending provisions set out as a note under [section 2253 of this title][/us/usc/t19/s2253]\] may be cited as the ‘United States-Canada Free-Trade Agreement Implementation Act of 1988’.
 
 >     “(b)  __Table of Contents__  __.—__ 
 
@@ -1493,7 +1493,7 @@
 
 >     “(a)  __Alaskan Oil__  __.—__ 
 
->     \[Amended section 2406 of the Appendix to Title 50, War and National Defense.\]
+>     \[Amended [section 4606 of Title 50][/us/usc/t50/s4606], War and National Defense.\]
 
 >     “(b)  __Uranium__  __.—__ 
 
@@ -2161,6 +2161,7 @@
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
 [/us/usc/t21/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs152
 [/us/usc/t42/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2201
+[/us/usc/t50/s4606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
@@ -2204,6 +2205,7 @@
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
 [/us/usc/t7/s1736j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736j
 [/us/usc/t7/s612c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%933
+[/us/usc/t50/s4606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606
 [/us/usc/t42/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2201
 [/us/usc/t19/s2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2518
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

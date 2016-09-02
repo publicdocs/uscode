@@ -21,7 +21,7 @@
 
     (b) __Application of rules of__  __[__  __section 2192 of this title__  __][/us/usc/t19/s2192]__  __; exceptions__ 
 
-        (1) Except as provided in this section, the provisions of [section 2192 of this title][/us/usc/t19/s2192] shall apply to resolutions described in subsection (a) of this section.
+        (1) Except as provided in this section, the provisions of [section 2192 of this title][/us/usc/t19/s2192] shall apply to resolutions described in subsection (a).
 
         (2) In applying [section 2192(c)(1) of this title][/us/usc/t19/s2192/c/1], all calendar days shall be counted.
 
@@ -31,11 +31,11 @@
 
     (c) __Consideration of second resolution not in order__ 
 
-        It shall not be in order in either the House of Representatives or the Senate to consider a resolution with respect to a recommendation of the President under [section 2432(d) of this title][/us/usc/t19/s2432/d] (other than a resolution described in subsection (a) of this section received from the other House), if that House has adopted a resolution with respect to the same recommendation.
+        It shall not be in order in either the House of Representatives or the Senate to consider a resolution with respect to a recommendation of the President under [section 2432(d) of this title][/us/usc/t19/s2432/d] (other than a resolution described in subsection (a) received from the other House), if that House has adopted a resolution with respect to the same recommendation.
 
     (d) __Procedures relating to conference reports in the Senate__ 
 
-        (1) Consideration in the Senate of the conference report on any joint resolution described in subsection (a) of this section, including consideration of all amendments in disagreement (and all amendments thereto), and consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees. Debate on any debatable motion or appeal related to the conference report shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the conference report.
+        (1) Consideration in the Senate of the conference report on any joint resolution described in subsection (a), including consideration of all amendments in disagreement (and all amendments thereto), and consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees. Debate on any debatable motion or appeal related to the conference report shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the conference report.
 
         (2) In any case in which there are amendments in disagreement, time on each amendment shall be limited to 30 minutes, to be equally divided between, and controlled by, the manager of the conference report and the minority leader or his designee. No amendment to any amendment in disagreement shall be received unless it is a germane amendment.
 

@@ -31,7 +31,7 @@
 
         (3) __Petition based upon a derogation of an international undertaking on official export credits__ 
 
-            If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
+            If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c), determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
 
         (4) __Action with respect to petitions__ 
 
@@ -45,7 +45,7 @@
 
             (B) __Acceptance of communications__ 
 
-                The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subparagraph (A)(ii) and subsection (c)(4)(D) of this section, and except for inquiries regarding the status of the administering authority’s consideration of the petition.
+                The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subparagraph (A)(ii) and subsection (c)(4)(D), and except for inquiries regarding the status of the administering authority’s consideration of the petition.
 
             (C) __Nondisclosure of certain information__ 
 
@@ -57,7 +57,7 @@
 
             (A) __Time for initial determination__ 
 
-            Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b) of this section, the administering authority shall—
+            Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b), the administering authority shall—
 
                 (i) after examining, on the basis of sources readily available to the administering authority, the accuracy and adequacy of the evidence provided in the petition, determine whether the petition alleges the elements necessary for the imposition of a duty under [section 1671(a) of this title][/us/usc/t19/s1671/a] and contains information reasonably available to the petitioner supporting the allegations, and
 
@@ -123,7 +123,7 @@
 
         (5) __“Domestic producers or workers” defined__ 
 
-            For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1) of this section.
+            For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1).
 
     (d) __Notification to Commission of determination__ 
 
@@ -145,7 +145,7 @@
 
     1994—Subsecs. (a), (b)(1). [Pub. L. 103–465, § 233(a)(6)(A)(i)][/us/pl/103/465/s233/a/6/A/i], (ii), substituted “initiated” for “commenced”.
 
-    Subsec. (b)(3). [Pub. L. 103–465][/us/pl/103/465], §§ 211(a)(1), 212(b)(1)(E), substituted “paragraph (1)” for “subsection (b)(1) of this section” and “5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section,” for “twenty days”.
+    Subsec. (b)(3). [Pub. L. 103–465][/us/pl/103/465], §§ 211(a)(1), 212(b)(1)(E), substituted “paragraph (1)” for “subsection (b)(1) of this section” and “5 days after the date on which the administering authority initiates an investigation under subsection (c),” for “twenty days”.
 
     Subsec. (b)(4). [Pub. L. 103–465, § 211(a)(2)][/us/pl/103/465/s211/a/2], added par. (4).
 

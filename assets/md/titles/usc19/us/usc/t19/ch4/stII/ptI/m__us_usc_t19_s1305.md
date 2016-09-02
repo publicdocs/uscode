@@ -33,7 +33,7 @@
 
     (c)  __1__  __Institution of forfeiture proceedings__ 
 
-        Notwithstanding the provisions of subsections (a) and (b) of this section, whenever a customs officer discovers any obscene material after such material has been imported or brought into the United States, or attempted to be imported or brought into the United States, he may refer the matter to the United States attorney for the institution of forfeiture proceedings under this section. Such proceedings shall begin no more than 30 days after the time the material is seized; except that no seizure or forfeiture shall be invalidated for delay if the claimant is responsible for extending the action beyond the allowable time limits or if proceedings are postponed pending the consideration of constitutional issues.
+        Notwithstanding the provisions of subsections (a) and (b), whenever a customs officer discovers any obscene material after such material has been imported or brought into the United States, or attempted to be imported or brought into the United States, he may refer the matter to the United States attorney for the institution of forfeiture proceedings under this section. Such proceedings shall begin no more than 30 days after the time the material is seized; except that no seizure or forfeiture shall be invalidated for delay if the claimant is responsible for extending the action beyond the allowable time limits or if proceedings are postponed pending the consideration of constitutional issues.
 
     (d) __Stay of forfeiture proceedings__ 
 
@@ -41,7 +41,7 @@
 
     (b)  __1__  __Coordination of forfeiture proceedings with criminal proceedings__ 
 
-        (1) Notwithstanding subsection (a) of this section, whenever the Customs Service is of the opinion that criminal prosecution would be appropriate or that further criminal investigation is warranted in connection with allegedly obscene material seized at the time of entry, the appropriate customs officer shall immediately transmit information concerning such seizure to the United States Attorney  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should not be capitalized. </sup></sup>  of the district of the addressee’s residence. No notice to the addressee or consignee concerning the seizure is required at the time of such transmittal.
+        (1) Notwithstanding subsection (a), whenever the Customs Service is of the opinion that criminal prosecution would be appropriate or that further criminal investigation is warranted in connection with allegedly obscene material seized at the time of entry, the appropriate customs officer shall immediately transmit information concerning such seizure to the United States Attorney  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should not be capitalized. </sup></sup>  of the district of the addressee’s residence. No notice to the addressee or consignee concerning the seizure is required at the time of such transmittal.
 
         (2) Upon receipt of such information, such United States attorney shall promptly determine whether in such attorney’s opinion the referral of the matter for forfeiture under this section would materially affect the Government’s ability to conduct a criminal investigation with respect to such seizure.
 

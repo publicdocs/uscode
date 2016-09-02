@@ -55,7 +55,7 @@
 
             (A)
 
-             Within 90 days after receiving a report submitted under subsection (b)(3)(A) of this section in which the Secretary finds that an article is being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security, the President shall—
+             Within 90 days after receiving a report submitted under subsection (b)(3)(A) in which the Secretary finds that an article is being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security, the President shall—
 
                 (i) determine whether the President concurs with the finding of the Secretary, and
 
@@ -63,7 +63,7 @@
 
             (B) If the President determines under subparagraph (A) to take action to adjust imports of an article and its derivatives, the President shall implement that action by no later than the date that is 15 days after the day on which the President determines to take action under subparagraph (A).
 
-        (2) By no later than the date that is 30 days after the date on which the President makes any determinations under paragraph (1), the President shall submit to the Congress a written statement of the reasons why the President has decided to take action, or refused to take action, under paragraph (1). Such statement shall be included in the report published under subsection (e) of this section.
+        (2) By no later than the date that is 30 days after the date on which the President makes any determinations under paragraph (1), the President shall submit to the Congress a written statement of the reasons why the President has decided to take action, or refused to take action, under paragraph (1). Such statement shall be included in the report published under subsection (e).
 
         (3)
 
@@ -99,13 +99,13 @@
 
     (d)  __1__  __Report by Secretary of Commerce__ 
 
-        (1) Upon the disposition of each request, application, or motion under subsection (b) of this section, the Secretary shall submit to the Congress, and publish in the Federal Register, a report on such disposition.
+        (1) Upon the disposition of each request, application, or motion under subsection (b), the Secretary shall submit to the Congress, and publish in the Federal Register, a report on such disposition.
 
         (2) Omitted.
 
     (f) __Congressional disapproval of Presidential adjustment of imports of petroleum or petroleum products; disapproval resolution__ 
 
-        (1) An action taken by the President under subsection (c) of this section to adjust imports of petroleum or petroleum products shall cease to have force and effect upon the enactment of a disapproval resolution, provided for in paragraph (2), relating to that action.
+        (1) An action taken by the President under subsection (c) to adjust imports of petroleum or petroleum products shall cease to have force and effect upon the enactment of a disapproval resolution, provided for in paragraph (2), relating to that action.
 
         (2)
 

@@ -25,7 +25,7 @@
 
     (b) __Determinations__ 
 
-    The determinations required to be made by the administering authority and the Commission under subsection (a) of this section shall be made under such procedures as the administering authority and the Commission, respectively, shall by regulation prescribe, and shall be treated as final determinations made under [section 1671d of this title][/us/usc/t19/s1671d] for purposes of judicial review under [section 1516a of this title][/us/usc/t19/s1516a]. If the determinations by each are affirmative, the administering authority shall—
+    The determinations required to be made by the administering authority and the Commission under subsection (a) shall be made under such procedures as the administering authority and the Commission, respectively, shall by regulation prescribe, and shall be treated as final determinations made under [section 1671d of this title][/us/usc/t19/s1671d] for purposes of judicial review under [section 1516a of this title][/us/usc/t19/s1516a]. If the determinations by each are affirmative, the administering authority shall—
 
         (1) issue a countervailing duty order under [section 1671e of this title][/us/usc/t19/s1671e] effective with respect to merchandise entered on and after the date on which the agreement terminates; and
 
@@ -33,7 +33,7 @@
 
     (c) __Hearings__ 
 
-        The determination proceedings required to be prescribed under subsection (b) of this section shall provide that the administering authority and the Commission must, upon the request of any interested party, hold a hearing in accordance with [section 1677c of this title][/us/usc/t19/s1677c] on the issues involved.
+        The determination proceedings required to be prescribed under subsection (b) shall provide that the administering authority and the Commission must, upon the request of any interested party, hold a hearing in accordance with [section 1677c of this title][/us/usc/t19/s1677c] on the issues involved.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 762, as added [Pub. L. 98–573, title VI, § 611(a)(4)][/us/pl/98/573/s611/a/4], Oct. 30, 1984, [98 Stat. 3032][/us/stat/98/3032]; amended [Pub. L. 103–465, title II][/us/pl/103/465], §§ 233(a)(5)(Z), (AA), 270(a)(1)(J), Dec. 8, 1994, [108 Stat. 4900][/us/stat/108/4900], 4917.)
 

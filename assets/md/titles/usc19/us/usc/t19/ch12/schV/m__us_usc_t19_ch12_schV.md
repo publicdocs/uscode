@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch12/schIV/pt2/m__us_usc_t19_s2451b.md) | [Next](./../../../../..//us/usc/t19/ch12/schV/m__us_usc_t19_s2461.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch12%2FschV)
+[Previous](./../../../../..//us/usc/t19/ch12/schIV/pt2/m__us_usc_t19_ch12_schIV_pt2.md) | [Next](./../../../../..//us/usc/t19/ch12/schV/m__us_usc_t19_s2461.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch12%2FschV)
 
 ### SUBCHAPTER V—GENERALIZED SYSTEM OF PREFERENCES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch12/schIV/pt2/m__us_usc_t19_s2451b.md) | [Next](./../../../../..//us/usc/t19/ch12/schV/m__us_usc_t19_s2461.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch12%2FschV)
+[Previous](./../../../../..//us/usc/t19/ch12/schIV/pt2/m__us_usc_t19_ch12_schIV_pt2.md) | [Next](./../../../../..//us/usc/t19/ch12/schV/m__us_usc_t19_s2461.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch12%2FschV)
 
 ----------
 ----------

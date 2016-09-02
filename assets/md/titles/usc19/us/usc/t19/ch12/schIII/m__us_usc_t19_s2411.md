@@ -31,7 +31,7 @@
 
                 (ii) is unjustifiable and burdens or restricts United States commerce;
 
-            the Trade Representative shall take action authorized in subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+            the Trade Representative shall take action authorized in subsection (c), subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 
         (2)
 
@@ -79,13 +79,13 @@
 
         (1) an act, policy, or practice of a foreign country is unreasonable or discriminatory and burdens or restricts United States commerce, and
 
-        (2) action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of that act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+        (2) action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c), subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of that act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 
     (c) __Scope of authority__ 
 
         (1)
 
-         For purposes of carrying out the provisions of subsection (a) or (b) of this section, the Trade Representative is authorized to—
+         For purposes of carrying out the provisions of subsection (a) or (b), the Trade Representative is authorized to—
 
             (A) suspend, withdraw, or prevent the application of, benefits of trade agreement concessions to carry out a trade agreement with the foreign country referred to in such subsection;
 
@@ -97,7 +97,7 @@
 
              enter into binding agreements with such foreign country that commit such foreign country to—
 
-                (i) eliminate, or phase out, the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section,
+                (i) eliminate, or phase out, the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b),
 
                 (ii) eliminate any burden or restriction on United States commerce resulting from such act, policy, or practice, or
 
@@ -113,7 +113,7 @@
 
             (A)
 
-             Notwithstanding any other provision of law governing any service sector access authorization, and in addition to the authority conferred in paragraph (1), the Trade Representative may, for purposes of carrying out the provisions of subsection (a) or (b) of this section—
+             Notwithstanding any other provision of law governing any service sector access authorization, and in addition to the authority conferred in paragraph (1), the Trade Representative may, for purposes of carrying out the provisions of subsection (a) or (b)—
 
                 (i) restrict, in the manner and to the extent the Trade Representative determines appropriate, the terms and conditions of any such authorization, or
 
@@ -131,7 +131,7 @@
 
         (3)
 
-         The actions the Trade Representative is authorized to take under subsection (a) or (b) of this section may be taken against any goods or economic sector—
+         The actions the Trade Representative is authorized to take under subsection (a) or (b) may be taken against any goods or economic sector—
 
             (A) on a nondiscriminatory basis or solely against the foreign country described in such subsection, and
 
@@ -139,7 +139,7 @@
 
         (4)
 
-         Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatory trade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section, or benefit the economic sector as closely related as possible to such economic sector, unless—
+         Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatory trade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b), or benefit the economic sector as closely related as possible to such economic sector, unless—
 
             (A) the provision of such trade benefits is not feasible, or
 
@@ -147,7 +147,7 @@
 
         (5)
 
-         If the Trade Representative determines that actions to be taken under subsection (a) or (b) of this section are to be in the form of import restrictions, the Trade Representative shall—
+         If the Trade Representative determines that actions to be taken under subsection (a) or (b) are to be in the form of import restrictions, the Trade Representative shall—
 
             (A) give preference to the imposition of duties over the imposition of other import restrictions, and
 
@@ -241,7 +241,7 @@
 
         (8) The term “Trade Representative” means the United States Trade Representative.
 
-        (9) The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b) of this section.
+        (9) The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b).
 
 ([Pub. L. 93–618, title III, § 301][/us/pl/93/618/s301], as added [Pub. L. 96–39, title IX, § 901][/us/pl/96/39/s901], July 26, 1979, [93 Stat. 295][/us/stat/93/295]; amended [Pub. L. 98–573, title III, § 304(a)][/us/pl/98/573/s304/a]–(c), (f), Oct. 30, 1984, [98 Stat. 3002][/us/stat/98/3002], 3005; [Pub. L. 100–418, title I, § 1301(a)][/us/pl/100/418/s1301/a], Aug. 23, 1988, [102 Stat. 1164][/us/stat/102/1164]; [Pub. L. 103–465, title III, § 314(a)][/us/pl/103/465/s314/a]–(c), title VI, § 621(a)(9), Dec. 8, 1994, [108 Stat. 4939][/us/stat/108/4939], 4940, 4993; [Pub. L. 104–295, § 20(c)(4)][/us/pl/104/295/s20/c/4], Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
 

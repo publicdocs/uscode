@@ -17,11 +17,11 @@
 
     (a) __Liquidation or reliquidation__ 
 
-        Notwithstanding [section 1514 of this title][/us/usc/t19/s1514] or any other provision of law, and subject to subsection (b) of this section, the Secretary of the Treasury shall liquidate or reliquidate the entries listed or otherwise described in subsection (c) of this section and refund any duty or excess duty that was paid, as provided in subsection (c) of this section.
+        Notwithstanding [section 1514 of this title][/us/usc/t19/s1514] or any other provision of law, and subject to subsection (b), the Secretary of the Treasury shall liquidate or reliquidate the entries listed or otherwise described in subsection (c) and refund any duty or excess duty that was paid, as provided in subsection (c).
 
     (b) __Requests__ 
 
-    Liquidation or reliquidation may be made under subsection (a) of this section with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date on which the WTO Agreement enters into force with respect to the United States, that contains sufficient information to enable the Customs Service—
+    Liquidation or reliquidation may be made under subsection (a) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date on which the WTO Agreement enters into force with respect to the United States, that contains sufficient information to enable the Customs Service—
 
         (1) to locate the entry; or
 
@@ -29,7 +29,7 @@
 
     (c) __Entries__ 
 
-    The entries referred to in subsection (a) of this section are as follows:
+    The entries referred to in subsection (a) are as follows:
 
         (1) __Agglomerated stone tiles__ 
 

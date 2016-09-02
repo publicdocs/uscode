@@ -25,13 +25,13 @@
 
     (b) __Exclusion of NAFTA imports__ 
 
-        In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 \[[19 U.S.C. 2251][/us/usc/t19/s2251] et seq.\], the President shall exclude from such action imports from a NAFTA country if the President makes a negative determination under subsection (a)(1) or (2) of this section with respect to imports from such country.
+        In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 \[[19 U.S.C. 2251][/us/usc/t19/s2251] et seq.\], the President shall exclude from such action imports from a NAFTA country if the President makes a negative determination under subsection (a)(1) or (2) with respect to imports from such country.
 
     (c) __Action after exclusion of NAFTA country imports__ 
 
         (1) __In general__ 
 
-        If the President, under subsection (b) of this section, excludes imports from a NAFTA country or countries from action under chapter 1 of title II of the Trade Act of 1974 \[[19 U.S.C. 2251][/us/usc/t19/s2251] et seq.\] but thereafter determines that a surge in imports from that country or countries is undermining the effectiveness of the action—
+        If the President, under subsection (b), excludes imports from a NAFTA country or countries from action under chapter 1 of title II of the Trade Act of 1974 \[[19 U.S.C. 2251][/us/usc/t19/s2251] et seq.\] but thereafter determines that a surge in imports from that country or countries is undermining the effectiveness of the action—
 
             (A) the President may take appropriate action under such chapter 1 to include those imports in the action; and
 

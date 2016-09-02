@@ -57,7 +57,7 @@
 
             (B) __Regional value-content requirement__ 
 
-                For purposes of subparagraph (D) of paragraph (1), a good shall be treated as originating in a NAFTA country if the regional value-content of the good, determined in accordance with subsection (b) of this section, is not less than 60 percent where the transaction value method is used, or not less than 50 percent where the net cost method is used, and the good satisfies all other applicable requirements of this section.
+                For purposes of subparagraph (D) of paragraph (1), a good shall be treated as originating in a NAFTA country if the regional value-content of the good, determined in accordance with subsection (b), is not less than 60 percent where the transaction value method is used, or not less than 50 percent where the net cost method is used, and the good satisfies all other applicable requirements of this section.
 
     (b) __Regional value-content__ 
 
@@ -207,7 +207,7 @@
 
         (4) __Value of nonoriginating materials used in originating materials__ 
 
-            Except as provided in subsection (c)(1) of this section, and for a motor vehicle identified in subsection (c)(2) of this section or a component identified in Annex 403.2 of the Agreement, the value of nonoriginating materials used by the producer in the production of a good shall not, for purposes of calculating the regional value-content of the good under paragraph (2) or (3), include the value of nonoriginating materials used to produce originating materials that are subsequently used in the production of the good.
+            Except as provided in subsection (c)(1), and for a motor vehicle identified in subsection (c)(2) or a component identified in Annex 403.2 of the Agreement, the value of nonoriginating materials used by the producer in the production of a good shall not, for purposes of calculating the regional value-content of the good under paragraph (2) or (3), include the value of nonoriginating materials used to produce originating materials that are subsequently used in the production of the good.
 
         (5) __Net cost method must be used in certain cases__ 
 
@@ -231,7 +231,7 @@
 
                 (iv) a word processing machine provided for in subheading 8469.10.00;
 
-            (E) the exporter or producer chooses to accumulate the regional value-content of the good in accordance with subsection (d) of this section; or
+            (E) the exporter or producer chooses to accumulate the regional value-content of the good in accordance with subsection (d); or
 
             (F) the good is designated as an intermediate material under paragraph (10) and is subject to a regional value-content requirement.
 
@@ -281,7 +281,7 @@
 
         (10) __Intermediate material__ 
 
-            Except for goods described in subsection (c)(1) of this section, any self-produced material, other than a component identified in Annex 403.2 of the Agreement, that is used in the production of a good may be designated by the producer of the good as an intermediate material for the purpose of calculating the regional value-content of the good under paragraph (2) or (3); provided that if the intermediate material is subject to a regional value-content requirement, no other self-produced material that is subject to a regional value-content requirement and is used in the production of the intermediate material may be designated by the producer as an intermediate material.
+            Except for goods described in subsection (c)(1), any self-produced material, other than a component identified in Annex 403.2 of the Agreement, that is used in the production of a good may be designated by the producer of the good as an intermediate material for the purpose of calculating the regional value-content of the good under paragraph (2) or (3); provided that if the intermediate material is subject to a regional value-content requirement, no other self-produced material that is subject to a regional value-content requirement and is used in the production of the intermediate material may be designated by the producer as an intermediate material.
 
         (11) __Value of intermediate material__ 
 
@@ -305,7 +305,7 @@
 
             (B) a good provided for in the tariff provisions listed in Annex 403.1 of the Agreement, that is subject to a regional value-content requirement and is for use as original equipment in the production of a motor vehicle for the transport of 15 or fewer persons provided for in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31,
 
-            the value of nonoriginating materials used by the producer in the production of the good shall be the sum of the values of all nonoriginating materials, determined in accordance with subsection (b)(9) of this section at the time the nonoriginating materials are received by the first person in the territory of a NAFTA country who takes title to them, that are imported from outside the territories of the NAFTA countries under the tariff provisions listed in Annex 403.1 of the Agreement and are used in the production of the good or that are used in the production of any material used in the production of the good.
+            the value of nonoriginating materials used by the producer in the production of the good shall be the sum of the values of all nonoriginating materials, determined in accordance with subsection (b)(9) at the time the nonoriginating materials are received by the first person in the territory of a NAFTA country who takes title to them, that are imported from outside the territories of the NAFTA countries under the tariff provisions listed in Annex 403.1 of the Agreement and are used in the production of the good or that are used in the production of any material used in the production of the good.
 
         (2) __Other vehicles and their automotive parts__ 
 
@@ -313,13 +313,13 @@
 
             (A)
 
-             for each material used by the producer listed in Annex 403.2 of the Agreement, whether or not produced by the producer, at the choice of the producer and determined in accordance with subsection (b) of this section, either—
+             for each material used by the producer listed in Annex 403.2 of the Agreement, whether or not produced by the producer, at the choice of the producer and determined in accordance with subsection (b), either—
 
                 (i) the value of such material that is nonoriginating, or
 
                 (ii) the value of nonoriginating materials used in the production of such material; and
 
-            (B) the value of any other nonoriginating material used by the producer that is not listed in Annex 403.2 of the Agreement determined in accordance with subsection (b) of this section.
+            (B) the value of any other nonoriginating material used by the producer that is not listed in Annex 403.2 of the Agreement determined in accordance with subsection (b).
 
         (3) __Averaging permitted__ 
 
@@ -415,7 +415,7 @@
 
         (2) __Treatment as single producer__ 
 
-            For purposes of subsection (b)(10) of this section, the production of a producer that chooses to accumulate its production with that of other producers under paragraph (1) shall be treated as the production of a single producer.
+            For purposes of subsection (b)(10), the production of a producer that chooses to accumulate its production with that of other producers under paragraph (1) shall be treated as the production of a single producer.
 
     (e) __De minimis amounts of nonoriginating materials__ 
 
@@ -557,7 +557,7 @@
 
     (k) __Transshipment__ 
 
-        A good shall not be considered to be an originating good by reason of having undergone production that satisfies the requirements of subsection (a) of this section if, subsequent to that production, the good undergoes further production or any other operation outside the territories of the NAFTA countries, other than unloading, reloading, or any other operation necessary to preserve it in good condition or to transport the good to the territory of a NAFTA country.
+        A good shall not be considered to be an originating good by reason of having undergone production that satisfies the requirements of subsection (a) if, subsequent to that production, the good undergoes further production or any other operation outside the territories of the NAFTA countries, other than unloading, reloading, or any other operation necessary to preserve it in good condition or to transport the good to the territory of a NAFTA country.
 
     (l) __Nonqualifying operations__ 
 
@@ -575,7 +575,7 @@
 
         (2) Except as otherwise expressly provided, whenever in this section there is a reference to a heading or subheading such reference shall be a reference to a heading or subheading of the HTS.
 
-        (3) In applying subsection (a)(4) of this section, the determination of whether a heading or subheading under the HTS provides for and specifically describes both a good and its parts shall be made on the basis of the nomenclature of the heading or subheading, the rules of interpretation, or notes of the HTS.
+        (3) In applying subsection (a)(4), the determination of whether a heading or subheading under the HTS provides for and specifically describes both a good and its parts shall be made on the basis of the nomenclature of the heading or subheading, the rules of interpretation, or notes of the HTS.
 
         (4)
 
@@ -585,7 +585,7 @@
 
             (B) the provisions of this section shall take precedence over the Customs Valuation Code to the extent of any difference; and
 
-            (C) the definitions in subsection (p) of this section shall take precedence over the definitions in the Customs Valuation Code to the extent of any difference.
+            (C) the definitions in subsection (p) shall take precedence over the definitions in the Customs Valuation Code to the extent of any difference.
 
         (5) All costs referred to in this section shall be recorded and maintained in accordance with the Generally Accepted Accounting Principles applicable in the territory of the NAFTA country in which the good is produced.
 
@@ -705,7 +705,7 @@
 
         (9) __Intermediate material__ 
 
-            The term “intermediate material” means a material that is self-produced, used in the production of a good, and designated pursuant to subsection (b)(10) of this section.
+            The term “intermediate material” means a material that is self-produced, used in the production of a good, and designated pursuant to subsection (b)(10).
 
         (10) __Marque__ 
 
@@ -737,7 +737,7 @@
 
         (17) __Net cost of a good__ 
 
-            The term “net cost of a good” means the net cost that can be reasonably allocated to a good using one of the methods set out in subsection (b)(8) of this section.
+            The term “net cost of a good” means the net cost that can be reasonably allocated to a good using one of the methods set out in subsection (b)(8).
 
         (18) __Nonallowable interest costs__ 
 
@@ -831,7 +831,7 @@
 
         (30) __Size category__ 
 
-        The term “size category” means with respect to a motor vehicle identified in subsection (c)(1)(A) of this section—
+        The term “size category” means with respect to a motor vehicle identified in subsection (c)(1)(A)—
 
             (A) 85 cubic feet or less of passenger and luggage interior volume;
 
@@ -853,7 +853,7 @@
 
         (33) __Transaction value__ 
 
-            Except as provided in subsection (c)(1) or (c)(2)(A) of this section, the term “transaction value” means the price actually paid or payable for a good or material with respect to a transaction of the producer of the good, adjusted in accordance with the principles of paragraphs 1, 3, and 4 of Article 8 of the Customs Valuation Code and determined without regard to whether the good or material is sold for export.
+            Except as provided in subsection (c)(1) or (c)(2)(A), the term “transaction value” means the price actually paid or payable for a good or material with respect to a transaction of the producer of the good, adjusted in accordance with the principles of paragraphs 1, 3, and 4 of Article 8 of the Customs Valuation Code and determined without regard to whether the good or material is sold for export.
 
         (34) __Underbody__ 
 
@@ -879,7 +879,7 @@
 
             (A) modifications to the provisions proclaimed under the authority of paragraph (1)(A), other than the provisions of paragraph A of Appendix 6 of Annex 300–B and section XI of part B of Annex 401 of the Agreement; and
 
-            (B) a modified version of the definition of any term set out in subsection (p) of this section (and such modified version of the definition shall supersede the version in subsection (p) of this section), but only if the modified version reflects solely those modifications to the same term in article 415 of the Agreement that are agreed to by the NAFTA countries before December 8, 1994.
+            (B) a modified version of the definition of any term set out in subsection (p) (and such modified version of the definition shall supersede the version in subsection (p)), but only if the modified version reflects solely those modifications to the same term in article 415 of the Agreement that are agreed to by the NAFTA countries before December 8, 1994.
 
         (3) __Special rules for textiles__ 
 

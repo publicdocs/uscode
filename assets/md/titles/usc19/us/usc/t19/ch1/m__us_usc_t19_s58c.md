@@ -17,7 +17,7 @@
 
     (a) __Schedule of fees__ 
 
-    In addition to any other fee authorized by law, the Secretary of the Treasury shall charge and collect the following fees for the provision of customs services in connection with the following:
+    In addition to any other fee authorized by law, the Secretary of the Treasury shall charge and collect the following fees (subject to adjustment under subsection (l)) for the provision of customs services in connection with the following:
 
         (1) For the arrival of a commercial vessel of 100 net tons or more, $397.
 
@@ -47,7 +47,7 @@
 
                 (i) The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
 
-                (ii) In determining the amount of any adjustment under clause (i), the Secretary of the Treasury shall take into account whether there is a surplus or deficit in the fund established under subsection (f) of this section with respect to the provision of customs services for the processing of formal entries and releases of merchandise.
+                (ii) In determining the amount of any adjustment under clause (i), the Secretary of the Treasury shall take into account whether there is a surplus or deficit in the fund established under subsection (f) with respect to the provision of customs services for the processing of formal entries and releases of merchandise.
 
                 (iii)
 
@@ -71,7 +71,7 @@
 
                 (v) An adjustment made under this subparagraph shall become effective with respect to formal entries and releases made on or after the 15th calendar day after the date of publication of the notice described in clause (iii)(IV) and shall remain in effect until adjusted under this subparagraph.
 
-            (C) Any fee charged under this paragraph, whether or not adjusted under subparagraph (B), is subject to the limitations in subsection (b)(8)(A) of this section.
+            (C) Any fee charged under this paragraph, whether or not adjusted under subparagraph (B), is subject to the limitations in subsection (b)(8)(A).
 
         (10)
 
@@ -91,7 +91,7 @@
 
             (iii) $9 if the entry or release, whether automated or manual, is prepared by customs personnel.
 
-            For provisions relating to the informal entry or release of merchandise at facilities referred to in subparagraphs (A), (B), and (C), see subsection (b)(9) of this section.
+            For provisions relating to the informal entry or release of merchandise at facilities referred to in subparagraphs (A), (B), and (C), see subsection (b)(9).
 
     (b) __Limitations on fees__ 
 
@@ -119,37 +119,37 @@
 
             (C) The exemption provided for in subparagraph (A)(i) shall not apply to fiscal years 1994, 1995, 1996, and 1997.
 
-        (2) No fee may be charged under subsection (a)(2) of this section for the arrival of a commercial truck during any calendar year after a total of $100 in fees has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such commercial truck during such calendar year.
+        (2) No fee may be charged under subsection (a)(2) for the arrival of a commercial truck during any calendar year after a total of $100 in fees (subject to adjustment under subsection (l)) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such commercial truck during such calendar year.
 
-        (3) No fee may be charged under subsection (a)(3) of this section for the arrival of a railroad car whether passenger or freight during any calendar year after a total of $100 in fees has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such passenger or freight rail car during such calendar year.
+        (3) No fee may be charged under subsection (a)(3) for the arrival of a railroad car whether passenger or freight during any calendar year after a total of $100 in fees (subject to adjustment under subsection (l)) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such passenger or freight rail car during such calendar year.
 
         (4)
 
             (A)
 
-             No fee may be charged under subsection (a)(5) of this section with respect to the arrival of any passenger—
+             No fee may be charged under subsection (a)(5) with respect to the arrival of any passenger—
 
                 (i) who is in transit to a destination outside the customs territory of the United States, and
 
                 (ii) for whom customs inspectional services are not provided.
 
-            (B) In the case of a commercial vessel making a single voyage involving 2 or more United States ports with respect to which the passengers would otherwise be charged a fee pursuant to subsection (a)(5) of this section, such fee shall be charged only 1 time for each passenger.
+            (B) In the case of a commercial vessel making a single voyage involving 2 or more United States ports with respect to which the passengers would otherwise be charged a fee pursuant to subsection (a)(5), such fee shall be charged only 1 time for each passenger.
 
         (5)
 
-         No fee may be charged under subsection (a)(1) of this section for the arrival of—
+         No fee may be charged under subsection (a)(1) for the arrival of—
 
-            (A) a vessel during a calendar year after a total of $5,955 in fees charged under paragraph (1) or (8) of subsection (a) of this section has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such vessel during such calendar year,
+            (A) a vessel during a calendar year after a total of $5,955 in fees (subject to adjustment under subsection (l)) charged under paragraph (1) or (8) of subsection (a) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such vessel during such calendar year,
 
             (B) any vessel which, at the time of the arrival, is being used solely as a tugboat, or
 
             (C) any barge or other bulk carrier from Canada or Mexico.
 
-        (6) No fee may be charged under subsection (a)(8) of this section for the arrival of a barge or other bulk carrier during a calendar year after a total of $1,500 in fees charged under paragraph (1) or (8) of subsection (a) of this section has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such barge or other bulk carrier during such calendar year.
+        (6) No fee may be charged under subsection (a)(8) for the arrival of a barge or other bulk carrier during a calendar year after a total of $1,500 in fees (subject to adjustment under subsection (l)) charged under paragraph (1) or (8) of subsection (a) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such barge or other bulk carrier during such calendar year.
 
         (7)
 
-         No fee may be charged under paragraph (2), (3), or (4) of subsection (a) of this section for the arrival of any—
+         No fee may be charged under paragraph (2), (3), or (4) of subsection (a) for the arrival of any—
 
             (A) commercial truck,
 
@@ -163,13 +163,13 @@
 
             (A)
 
-                (i) Subject to clause (ii), the fee charged under subsection (a)(9) of this section for the formal entry or release of merchandise may not exceed $485 or be less than $25, unless adjusted pursuant to subsection (a)(9)(B) of this section.
+                (i) Subject to clause (ii), the fee charged under subsection (a)(9) for the formal entry or release of merchandise may not exceed $485 or be less than $25, unless adjusted pursuant to subsection (a)(9)(B) or (l).
 
-                (ii) A surcharge of $3 shall be added to the fee determined after application of clause (i) for any manual entry or release of merchandise.
+                (ii) A surcharge of $3 (subject to adjustment under subsection (l)) shall be added to the fee determined after application of clause (i) for any manual entry or release of merchandise.
 
             (B)
 
-             No fee may be charged under subsection (a)(9) or (10) of this section for the processing of any article that is—
+             No fee may be charged under subsection (a)(9) or (10) for the processing of any article that is—
 
                 (i) provided for under any item in chapter 98 of the Harmonized Tariff Schedule of the United States, except subheading 9802.00.60 or 9802.00.80,
 
@@ -179,7 +179,7 @@
 
             (C)
 
-             For purposes of applying subsection (a)(9) or (10) of this section—
+             For purposes of applying subsection (a)(9) or (10)—
 
                 (i)
 
@@ -201,7 +201,7 @@
 
             (D)
 
-             The fee charged under subsection (a)(9) or (10) of this section with respect to the processing of merchandise shall—
+             The fee charged under subsection (a)(9) or (10) with respect to the processing of merchandise shall—
 
                 (i) be paid by the importer of record of the merchandise;
 
@@ -215,11 +215,11 @@
 
                 (vi) in the case of merchandise entered from a foreign trade zone (other than merchandise to which clause (v) applies), be applied only to the value of the privileged or nonprivileged foreign status merchandise under [section 3 of the Act of June 18, 1934][/us/act/1934-06-18/s3] (commonly known as the Foreign Trade Zones Act, [19 U.S.C. 81c][/us/usc/t19/s81c]).
 
-                With respect to merchandise that is classified under subheading 9802.00.60 or heading 9802.00.80 of such Schedule and is duty-free, the Secretary may collect the fee charged on the processing of the merchandise under subsection (a)(9) or (10) of this section on the basis of aggregate data derived from financial and manufacturing reports used by the importer in the normal course of business, rather than on the basis of entry-by-entry accounting.
+                With respect to merchandise that is classified under subheading 9802.00.60 or heading 9802.00.80 of such Schedule and is duty-free, the Secretary may collect the fee charged on the processing of the merchandise under subsection (a)(9) or (10) on the basis of aggregate data derived from financial and manufacturing reports used by the importer in the normal course of business, rather than on the basis of entry-by-entry accounting.
 
             (E)
 
-             For purposes of subsection (a)(9) and (10) of this section, merchandise is entered or released, as the case may be, if the merchandise is—
+             For purposes of subsection (a)(9) and (10), merchandise is entered or released, as the case may be, if the merchandise is—
 
                 (i) permitted or released under [section 1448(b) of this title][/us/usc/t19/s1448/b],
 
@@ -231,7 +231,7 @@
 
             (A)
 
-             With respect to the processing of letters, documents, records, shipments, merchandise, or any other item that is valued at an amount that is $2,000 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to [section 1498 of this title][/us/usc/t19/s1498]), except such items entered for transportation and exportation or immediate exportation at a centralized hub facility, an express consignment carrier facility, or a small airport or other facility, the following reimbursements and payments are required:
+             With respect to the processing of letters, documents, records, shipments, merchandise, or any other item that is valued at an amount that is $2,000 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to [section 1498 of this title][/us/usc/t19/s1498] and subject to adjustment under subsection (l)), except such items entered for transportation and exportation or immediate exportation at a centralized hub facility, an express consignment carrier facility, or a small airport or other facility, the following reimbursements and payments are required:
 
                 (i)
 
@@ -239,19 +239,19 @@
 
                     (I) the reimbursement which such facility is required to make during the fiscal year under [section 9701 of title 31][/us/usc/t31/s9701] or [section 58b of this title][/us/usc/t19/s58b]; and
 
-                    (II) an annual payment by the facility to the Secretary of the Treasury, which is in lieu of the payment of fees under subsection (a)(10) of this section for such fiscal year, in an amount equal to the reimbursement under subclause (I).
+                    (II) an annual payment by the facility to the Secretary of the Treasury, which is in lieu of the payment of fees under subsection (a)(10) for such fiscal year, in an amount equal to the reimbursement under subclause (I).
 
                 (ii)
 
-                 Notwithstanding subsection (e)(6) of this section and subject to the provisions of subparagraph (B), in the case of an express consignment carrier facility or centralized hub facility—
+                 Notwithstanding subsection (e)(6) and subject to the provisions of subparagraph (B), in the case of an express consignment carrier facility or centralized hub facility—
 
-                    (I) $.66 per individual airway bill or bill of lading; and
+                    (I) $.66 per individual airway bill or bill of lading (subject to adjustment under subsection (l)); and
 
-                    (II) if the merchandise is formally entered, the fee provided for in subsection (a)(9) of this section, if applicable.
+                    (II) if the merchandise is formally entered, the fee provided for in subsection (a)(9), if applicable.
 
             (B)
 
-                (i) Beginning in fiscal year 2004, the Secretary of the Treasury may adjust (not more than once per fiscal year) the amount described in subparagraph (A)(ii) to an amount that is not less than $.35 and not more than $1.00 per individual airway bill or bill of lading. The Secretary shall provide notice in the Federal Register of a proposed adjustment under the preceding sentence and the reasons therefor and shall allow for public comment on the proposed adjustment.
+                (i) Beginning in fiscal year 2004, the Secretary of the Treasury may adjust (not more than once per fiscal year) the amount described in subparagraph (A)(ii) to an amount that is not less than $.35 and not more than $1.00 per individual airway bill or bill of lading (subject to adjustment under subsection (l)). The Secretary shall provide notice in the Federal Register of a proposed adjustment under the preceding sentence and the reasons therefor and shall allow for public comment on the proposed adjustment.
 
                 (ii) Notwithstanding [section 1451 of this title][/us/usc/t19/s1451], the payment required by subparagraph (A)(ii)(I) or (II) shall be the only payment required for reimbursement of the Customs Service in connection with the processing of an individual airway bill or bill of lading in accordance with such subparagraph and for providing services at express consignment carrier facilities or centralized hub facilities, except that the Customs Service may require such facilities to cover expenses of the Customs Service for adequate office space, equipment, furnishings, supplies, and security.
 
@@ -285,17 +285,17 @@
 
                 Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-        (11) No fee may be charged under subsection (a)(9) or (10) of this section with respect to products of Israel if an exemption with respect to the fee is implemented under section 112 of the Customs and Trade Act of 1990.
+        (11) No fee may be charged under subsection (a)(9) or (10) with respect to products of Israel if an exemption with respect to the fee is implemented under section 112 of the Customs and Trade Act of 1990.
 
-        (12) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 202 of the United States-Chile Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+        (12) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 202 of the United States-Chile Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-        (13) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 202 of the United States-Singapore Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+        (13) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 202 of the United States-Singapore Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-        (14) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 203 of the United States-Australia Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+        (14) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 203 of the United States-Australia Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-        (15) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under [section 4033 of this title][/us/usc/t19/s4033]. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+        (15) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under [section 4033 of this title][/us/usc/t19/s4033]. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-        (16) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 202 of the United States-Bahrain Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+        (16) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 202 of the United States-Bahrain Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
         (17) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 202 of the United States-Oman Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
@@ -345,9 +345,9 @@
 
          Each person that issues a document or ticket to an individual for transportation by a commercial vessel or commercial aircraft into the customs territory of the United States shall—
 
-            (A) collect from that individual the fee charged under subsection (a)(5) of this section at the time the document or ticket is issued; and
+            (A) collect from that individual the fee charged under subsection (a)(5) at the time the document or ticket is issued; and
 
-            (B) separately identify on that document or ticket the fee charged under subsection (a)(5) of this section as a Federal inspection fee.
+            (B) separately identify on that document or ticket the fee charged under subsection (a)(5) as a Federal inspection fee.
 
         (2)
 
@@ -355,7 +355,7 @@
 
             (A) a document or ticket for transportation of a passenger into the customs territory of the United States is issued in a foreign country; and
 
-            (B) the fee charged under subsection (a)(5) of this section is not collected at the time such document or ticket is issued;
+            (B) the fee charged under subsection (a)(5) is not collected at the time such document or ticket is issued;
 
             the person providing transportation to such passenger shall collect such fee at the time such passenger departs from the customs territory of the United States and shall provide such passenger a receipt for the payment of such fee.
 
@@ -363,15 +363,15 @@
 
         (4)
 
-            (A) Notice of the date on which payment of the fee imposed by subsection (a)(7) of this section is due shall be published by the Secretary of the Treasury in the Federal Register by no later than the date that is 60 days before such due date.
+            (A) Notice of the date on which payment of the fee imposed by subsection (a)(7) is due shall be published by the Secretary of the Treasury in the Federal Register by no later than the date that is 60 days before such due date.
 
-            (B) A customs broker permit may be revoked or suspended for nonpayment of the fee imposed by subsection (a)(7) of this section only if notice of the date on which payment of such fee is due was published in the Federal Register at least 60 days before such due date.
+            (B) A customs broker permit may be revoked or suspended for nonpayment of the fee imposed by subsection (a)(7) only if notice of the date on which payment of such fee is due was published in the Federal Register at least 60 days before such due date.
 
-            (C) The customs broker’s license issued under [section 1641(b) of this title][/us/usc/t19/s1641/b] may not be revoked or suspended merely by reason of nonpayment of the fee imposed under subsection (a)(7) of this section.
+            (C) The customs broker’s license issued under [section 1641(b) of this title][/us/usc/t19/s1641/b] may not be revoked or suspended merely by reason of nonpayment of the fee imposed under subsection (a)(7).
 
     (e) __Provision of customs services__ 
 
-        (1) Notwithstanding [section 1451 of this title][/us/usc/t19/s1451] or any other provision of law (other than paragraph (2)), the customs services required to be provided to passengers upon arrival in the United States shall be adequately provided in connection with scheduled airline flights at customs serviced airports when needed and at no cost (other than the fees imposed under subsection (a) of this section) to airlines and airline passengers.
+        (1) Notwithstanding [section 1451 of this title][/us/usc/t19/s1451] or any other provision of law (other than paragraph (2)), the customs services required to be provided to passengers upon arrival in the United States shall be adequately provided in connection with scheduled airline flights at customs serviced airports when needed and at no cost (other than the fees imposed under subsection (a)) to airlines and airline passengers.
 
         (2)
 
@@ -385,7 +385,7 @@
 
             (A) the customs services required to be provided to passengers upon arrival in the United States shall be adequately provided in connection with scheduled airline flights when needed at places located outside the customs territory of the United States at which a customs officer is stationed for the purpose of providing such customs services, and
 
-            (B) other than the fees imposed under subsection (a) of this section, the airlines and airline passengers shall not be required to reimburse the Secretary of the Treasury for the costs of providing overtime customs inspectional services at such places.
+            (B) other than the fees imposed under subsection (a), the airlines and airline passengers shall not be required to reimburse the Secretary of the Treasury for the costs of providing overtime customs inspectional services at such places.
 
         (4)
 
@@ -409,13 +409,13 @@
 
             (D) the desirability or unavoidability of late night and early morning arrivals from various time zones;
 
-            (E) the availability (in accordance with regulations prescribed under subsection (g)(2) of this section) of customs personnel and resources; and
+            (E) the availability (in accordance with regulations prescribed under subsection (g)(2)) of customs personnel and resources; and
 
             (F) the need for specific enforcement checks.
 
         (6)
 
-         Notwithstanding any other provision of law except paragraph (2), during any period when fees are authorized under subsection (a) of this section, no charges, other than such fees, may be collected—
+         Notwithstanding any other provision of law except paragraph (2), during any period when fees are authorized under subsection (a), no charges, other than such fees, may be collected—
 
             (A)
 
@@ -441,7 +441,7 @@
 
         (1)
 
-         There is established in the general fund of the Treasury a separate account which shall be known as the “Customs User Fee Account”. Notwithstanding [section 1524 of this title][/us/usc/t19/s1524], there shall be deposited as offsetting receipts into the Customs User Fee Account all fees collected under subsection (a) of this section except—
+         There is established in the general fund of the Treasury a separate account which shall be known as the “Customs User Fee Account”. Notwithstanding [section 1524 of this title][/us/usc/t19/s1524], there shall be deposited as offsetting receipts into the Customs User Fee Account all fees collected under subsection (a) except—
 
             (A) the portion of such fees that is required under paragraph (3) for the direct reimbursement of appropriations, and
 
@@ -453,7 +453,7 @@
 
             (A)
 
-             The Secretary of the Treasury, in accordance with [section 1524 of this title][/us/usc/t19/s1524] and subject to subparagraph (B), shall directly reimburse, from the fees collected under subsection (a) of this section (other than the fees under subsection (a)(9) and (10) of this section and the excess fees determined by the Secretary under paragraph (4)), each appropriation for the amount paid out of that appropriation for the costs incurred by the Secretary—
+             The Secretary of the Treasury, in accordance with [section 1524 of this title][/us/usc/t19/s1524] and subject to subparagraph (B), shall directly reimburse, from the fees collected under subsection (a) (other than the fees under subsection (a)(9) and (10) and the excess fees determined by the Secretary under paragraph (4)), each appropriation for the amount paid out of that appropriation for the costs incurred by the Secretary—
 
                 (i)
 
@@ -469,7 +469,7 @@
 
                     (V) paying foreign language proficiency awards under [section 267a of this title][/us/usc/t19/s267a],
 
-                (ii) to the extent funds remain available after making reimbursements under clause (i), in providing salaries for full-time and part-time inspectional personnel and equipment that enhance customs services for those persons or entities that are required to pay fees under paragraphs (1) through (8) of subsection (a) of this section (distributed on a basis proportionate to the fees collected under paragraphs (1) through (8) of subsection (a) of this section), and
+                (ii) to the extent funds remain available after making reimbursements under clause (i), in providing salaries for full-time and part-time inspectional personnel and equipment that enhance customs services for those persons or entities that are required to pay fees under paragraphs (1) through (8) of subsection (a) (distributed on a basis proportionate to the fees collected under paragraphs (1) through (8) of subsection (a)), and
 
                 (iii) to the extent funds remain available after making reimbursements under clause (ii), in providing salaries for up to 50 full-time equivalent inspectional positions to provide preclearance services.
 
@@ -507,21 +507,21 @@
 
                     and shall transfer from the Customs User Fee Account to the General Fund of the Treasury an amount equal to the difference calculated under this clause, or $18,000,000, whichever amount is less. Transfers shall be made under this clause at least quarterly and on the basis of estimates to the same extent as are reimbursements under subparagraph (B)(iii).
 
-            (D) Nothing in this paragraph shall be construed to preclude the use of appropriated funds, from sources other than the fees collected under subsection (a) of this section, to pay the costs set forth in clauses (i), (ii), and (iii) of subparagraph (A).
+            (D) Nothing in this paragraph shall be construed to preclude the use of appropriated funds, from sources other than the fees collected under subsection (a), to pay the costs set forth in clauses (i), (ii), and (iii) of subparagraph (A).
 
         (4)
 
-            (A) There is created within the general fund of the Treasury a separate account that shall be known as the “Customs Commercial and Homeland Security Automation Account”. In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A) of this section, $350,000,000.
+            (A) There is created within the general fund of the Treasury a separate account that shall be known as the “Customs Commercial and Homeland Security Automation Account”. In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A), $350,000,000.
 
             (B) There is authorized to be appropriated from the Account in fiscal years 2003 through 2005 such amounts as are available in that Account for the development, establishment, and implementation of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
 
-            (C) In adjusting the fee imposed by subsection (a)(9)(A) of this section for fiscal year 2006, the Secretary of the Treasury shall reduce the amount estimated to be collected in fiscal year 2006 by the amount by which total fees deposited to the Account during fiscal years 2003, 2004, and 2005 exceed total appropriations from that Account.
+            (C) In adjusting the fee imposed by subsection (a)(9)(A) for fiscal year 2006, the Secretary of the Treasury shall reduce the amount estimated to be collected in fiscal year 2006 by the amount by which total fees deposited to the Account during fiscal years 2003, 2004, and 2005 exceed total appropriations from that Account.
 
-        (5) Of the amounts collected in fiscal year 1999 under paragraphs (9) and (10) of subsection (a) of this section, $50,000,000 shall be available to the Customs Service, subject to appropriations Acts, for automated commercial systems. Amounts made available under this paragraph shall remain available until expended.
+        (5) Of the amounts collected in fiscal year 1999 under paragraphs (9) and (10) of subsection (a), $50,000,000 shall be available to the Customs Service, subject to appropriations Acts, for automated commercial systems. Amounts made available under this paragraph shall remain available until expended.
 
     (g) __Regulations and enforcement__ 
 
-        (1) The Secretary of the Treasury may prescribe such rules and regulations as may be necessary to carry out the provisions of this section. Regulations issued by the Secretary of the Treasury under this subsection with respect to the collection of the fees charged under subsection (a)(5) of this section and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
+        (1) The Secretary of the Treasury may prescribe such rules and regulations as may be necessary to carry out the provisions of this section. Regulations issued by the Secretary of the Treasury under this subsection with respect to the collection of the fees charged under subsection (a)(5) and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
 
         (2) Except to the extent otherwise provided in regulations, all administrative and enforcement provisions of customs laws and regulations, other than those laws and regulations relating to drawback, shall apply with respect to any fee prescribed under subsection (a) of this section, and with respect to persons liable therefor, as if such fee is a customs duty. For purposes of the preceding sentence, any penalty expressed in terms of a relationship to the amount of the duty shall be treated as not less than the amount which bears a similar relationship to the amount of the fee assessed. For purposes of determining the jurisdiction of any court of the United States or any agency of the United States, any fee prescribed under subsection (a) of this section shall be treated as if such fee is a customs duty.
 
@@ -529,39 +529,59 @@
 
     (i) __Effect on other authority__ 
 
-        Except with respect to customs services for which fees are imposed under subsection (a) of this section, nothing in this section shall be construed as affecting the authority of the Secretary of the Treasury to charge fees under [section 58a of this title][/us/usc/t19/s58a].
+        Except with respect to customs services for which fees are imposed under subsection (a), nothing in this section shall be construed as affecting the authority of the Secretary of the Treasury to charge fees under [section 58a of this title][/us/usc/t19/s58a].
 
     (j) __Effective dates__ 
 
         (1) Except as otherwise provided in this subsection, the provisions of this section, and the amendments and repeals made by this section, shall apply with respect to customs services rendered after the date that is 90 days after April 7, 1986.
 
-        (2) Fees may be charged under subsection (a)(5) of this section only with respect to customs services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after the date that is 90 days after April 7, 1986.
+        (2) Fees may be charged under subsection (a)(5) only with respect to customs services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after the date that is 90 days after April 7, 1986.
 
         (3)
 
-            (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) of this section after September 30, 2024.
+            (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after July 7, 2025.
 
             (B)
 
-                (i) Subject to clause (ii), Fees  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  may not be charged under paragraphs (1) through (8) of subsection (a) of this section after September 30, 2024.
+                (i) Subject to clause (ii), Fees  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2025.
 
                 (ii)
 
-                 In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) of this section are authorized—
+                 In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
 
                     (I) the Secretary of the Treasury shall charge fees under each such paragraph in amounts that are reasonably related to the costs of providing customs services in connection with the activity or item for which the fee is charged under such paragraph, except that in no case may the fee charged under any such paragraph exceed by more than 10 percent the amount otherwise prescribed by such paragraph;
 
-                    (II) the amount of fees collected under such paragraphs may not exceed, in the aggregate, the amounts paid in that fiscal year for the costs described in subsection (f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fees are charged under such paragraphs;
+                    (II) the amount of fees collected under such paragraphs may not exceed, in the aggregate, the amounts paid in that fiscal year for the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fees are charged under such paragraphs;
 
-                    (III) a fee may not be collected under any such paragraph except to the extent such fee will be expended to pay the costs described in subsection (f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph; and
+                    (III) a fee may not be collected under any such paragraph except to the extent such fee will be expended to pay the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph; and
 
-                    (IV) any fee collected under any such paragraph shall be available for expenditure only to pay the costs described in subsection (f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph.
+                    (IV) any fee collected under any such paragraph shall be available for expenditure only to pay the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph.
+
+            (D)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. No subpar. (C) has been enacted. </sup></sup>  Fees may be charged under paragraphs (9) and (10) of subsection (a) during the period beginning on July 29, 2025, and ending on September 30, 2025.
 
     (k) __Advisory committee__ 
 
-        The Commissioner of Customs shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a) of this section. The advisory committee shall not be subject to termination under section 14 of the Federal Advisory Committee Act. The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
+        The Commissioner of Customs shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a). The advisory committee shall not be subject to termination under section 14 of the Federal Advisory Committee Act. The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
 
-([Pub. L. 99–272, title XIII, § 13031][/us/pl/99/272/s13031], Apr. 7, 1986, [100 Stat. 308][/us/stat/100/308]; [Pub. L. 99–509, title VIII, § 8101][/us/pl/99/509/s8101], Oct. 21, 1986, [100 Stat. 1965][/us/stat/100/1965]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1893(a)–(c)(1), (d), (e), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2927–2930; [Pub. L. 100–203, title IX, § 9501(a)][/us/pl/100/203/s9501/a], Dec. 22, 1987, [101 Stat. 1330–377][/us/stat/101/1330-377]; [Pub. L. 100–418, title I, § 1214(g)][/us/pl/100/418/s1214/g], Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 100–449, title II, § 203][/us/pl/100/449/s203], Sept. 28, 1988, [102 Stat. 1861][/us/stat/102/1861]; [Pub. L. 100–647, title IX, § 9001(a)(13)][/us/pl/100/647/s9001/a/13], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 101–207, § 3(c)(1)][/us/pl/101/207/s3/c/1], (f)(2), Dec. 7, 1989, [103 Stat. 1834][/us/stat/103/1834], 1835; [Pub. L. 101–382, title I][/us/pl/101/382], §§ 111(a)–(e), 139(c), Aug. 20, 1990, [104 Stat. 635–639][/us/stat/104/635-639], 654; [Pub. L. 101–508, title X, § 10001(a)][/us/pl/101/508/s10001/a], (b), (e), (f), Nov. 5, 1990, [104 Stat. 1388–385][/us/stat/104/1388-385] to 1388–387; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13801, 13813, Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667], 671; [Pub. L. 103–182, title II, § 204][/us/pl/103/182/s204], title V, § 521(a), title VI, § 682, Dec. 8, 1993, [107 Stat. 2092][/us/stat/107/2092], 2160, 2218; [Pub. L. 103–465, title VI][/us/pl/103/465], §§ 611(a), 612(a), Dec. 8, 1994, [108 Stat. 4991][/us/stat/108/4991], 4992; [Pub. L. 104–295][/us/pl/104/295], §§ 4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, [110 Stat. 3516][/us/stat/110/3516], 3517, 3529, 3539, 3540; [Pub. L. 105–150, § 1(a)][/us/pl/105/150/s1/a], Dec. 16, 1997, [111 Stat. 2685][/us/stat/111/2685]; [Pub. L. 106–36, title I, § 1001(b)(1)][/us/pl/106/36/s1001/b/1], title II, § 2418(a)–(d), June 25, 1999, [113 Stat. 131][/us/stat/113/131], 176, 177; [Pub. L. 106–476, title I, § 1457][/us/pl/106/476/s1457], Nov. 9, 2000, [114 Stat. 2170][/us/stat/114/2170]; [Pub. L. 107–210, div. A, title III, § 337(a)][/us/pl/107/210/s337/a], Aug. 6, 2002, [116 Stat. 978][/us/stat/116/978]; [Pub. L. 107–296, title IV, § 419(a)][/us/pl/107/296/s419/a], Nov. 25, 2002, [116 Stat. 2181][/us/stat/116/2181]; [Pub. L. 108–77, title II, § 204][/us/pl/108/77/s204], Sept. 3, 2003, [117 Stat. 930][/us/stat/117/930]; [Pub. L. 108–78, title II, § 203][/us/pl/108/78/s203], Sept. 3, 2003, [117 Stat. 961][/us/stat/117/961]; [Pub. L. 108–89, title III, § 301][/us/pl/108/89/s301], Oct. 1, 2003, [117 Stat. 1134][/us/stat/117/1134]; [Pub. L. 108–121, title II, § 201][/us/pl/108/121/s201], Nov. 11, 2003, [117 Stat. 1343][/us/stat/117/1343]; [Pub. L. 108–286, title II, § 204][/us/pl/108/286/s204], Aug. 3, 2004, [118 Stat. 939][/us/stat/118/939]; [Pub. L. 108–357, title VIII, § 892(a)][/us/pl/108/357/s892/a], (b), (c)(2), (d), Oct. 22, 2004, [118 Stat. 1644–1646][/us/stat/118/1644-1646]; [Pub. L. 108–429, title II, § 2004(f)][/us/pl/108/429/s2004/f], Dec. 3, 2004, [118 Stat. 2593][/us/stat/118/2593]; [Pub. L. 109–53, title II, § 204][/us/pl/109/53/s204], Aug. 2, 2005, [119 Stat. 483][/us/stat/119/483]; [Pub. L. 109–169, title II, § 203][/us/pl/109/169/s203], Jan. 11, 2006, [119 Stat. 3591][/us/stat/119/3591]; [Pub. L. 109–280, title XIV, § 1635(f)(5)][/us/pl/109/280/s1635/f/5], Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 109–283, title II, § 203][/us/pl/109/283/s203], Sept. 26, 2006, [120 Stat. 1201][/us/stat/120/1201]; [Pub. L. 110–42, § 3][/us/pl/110/42/s3], June 30, 2007, [121 Stat. 236][/us/stat/121/236]; [Pub. L. 110–52, § 2][/us/pl/110/52/s2], Aug. 1, 2007, [121 Stat. 264][/us/stat/121/264]; [Pub. L. 110–89, § 2(b)][/us/pl/110/89/s2/b], Sept. 28, 2007, [121 Stat. 982][/us/stat/121/982]; [Pub. L. 110–138, title II, § 204][/us/pl/110/138/s204], title VI, § 601, Dec. 14, 2007, [121 Stat. 1475][/us/stat/121/1475], 1489; [Pub. L. 110–191, § 3][/us/pl/110/191/s3], Feb. 29, 2008, [122 Stat. 646][/us/stat/122/646]; [Pub. L. 110–234, title XV, § 15201(a)][/us/pl/110/234/s15201/a], (b), May 22, 2008, [122 Stat. 1500][/us/stat/122/1500]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15201(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2262; [Pub. L. 110–287, § 2][/us/pl/110/287/s2], July 29, 2008, [122 Stat. 2649][/us/stat/122/2649]; [Pub. L. 110–436, § 5(a)][/us/pl/110/436/s5/a], Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–42, title I, § 103][/us/pl/111/42/s103], July 28, 2009, [123 Stat. 1963][/us/stat/123/1963]; [Pub. L. 111–124, § 3][/us/pl/111/124/s3], Dec. 28, 2009, [123 Stat. 3484][/us/stat/123/3484]; [Pub. L. 111–171, § 11][/us/pl/111/171/s11], May 24, 2010, [124 Stat. 1207][/us/stat/124/1207]; [Pub. L. 111–210, § 2][/us/pl/111/210/s2], July 27, 2010, [124 Stat. 2256][/us/stat/124/2256]; [Pub. L. 111–227, title IV, § 4001(a)][/us/pl/111/227/s4001/a], (b)(1), Aug. 11, 2010, [124 Stat. 2480][/us/stat/124/2480]; [Pub. L. 111–291, title VIII, § 821][/us/pl/111/291/s821], Dec. 8, 2010, [124 Stat. 3163][/us/stat/124/3163]; [Pub. L. 111–344, title III, § 301][/us/pl/111/344/s301], Dec. 29, 2010, [124 Stat. 3617][/us/stat/124/3617]; [Pub. L. 112–41, title II, § 203][/us/pl/112/41/s203], title V, § 504, Oct. 21, 2011, [125 Stat. 447][/us/stat/125/447], 460; [Pub. L. 112–42, title II, § 204][/us/pl/112/42/s204], title VI, §§ 601(a), 602, Oct. 21, 2011, [125 Stat. 483][/us/stat/125/483], 495, 496; [Pub. L. 112–43, title II, § 204][/us/pl/112/43/s204], title V, § 501, Oct. 21, 2011, [125 Stat. 518][/us/stat/125/518], 530; [Pub. L. 112–163, § 5][/us/pl/112/163/s5], Aug. 10, 2012, [126 Stat. 1277][/us/stat/126/1277]; [Pub. L. 113–67, div. A, title VII, § 701][/us/pl/113/67/s701], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189]; [Pub. L. 113–159, title II, § 2004][/us/pl/113/159/s2004], Aug. 8, 2014, [128 Stat. 1851][/us/stat/128/1851]; [Pub. L. 113–188, title X, § 1001(c)][/us/pl/113/188/s1001/c], Nov. 26, 2014, [128 Stat. 2022][/us/stat/128/2022].)
+    (l) __Adjustment of fees for inflation__ 
+
+        (1) __In general__ 
+
+            The Secretary of the Treasury shall adjust the fees established under subsection (a), and the limitations on such fees under paragraphs (2), (3), (5), (6), (8), and (9) of subsection (b), on April 1, 2016, and at the beginning of each fiscal year thereafter, to reflect the percentage (if any) of the increase in the average of the Consumer Price Index for the preceding 12-month period compared to the Consumer Price Index for fiscal year 2014.
+
+        (2) __Special rules for calculation of adjustment__ 
+
+        In adjusting under paragraph (1) the amount of the fees established under subsection (a), and the limitations on such fees under paragraphs (2), (3), (5), (6), (8), and (9) of subsection (b), the Secretary—
+
+            (A) shall round the amount of any increase in the Consumer Price Index to the nearest dollar; and
+
+            (B) may ignore any such increase of less than 1 percent.
+
+        (3) __Consumer price index defined__ 
+
+            For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+
+([Pub. L. 99–272, title XIII, § 13031][/us/pl/99/272/s13031], Apr. 7, 1986, [100 Stat. 308][/us/stat/100/308]; [Pub. L. 99–509, title VIII, § 8101][/us/pl/99/509/s8101], Oct. 21, 1986, [100 Stat. 1965][/us/stat/100/1965]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1893(a)–(c)(1), (d), (e), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2927–2930; [Pub. L. 100–203, title IX, § 9501(a)][/us/pl/100/203/s9501/a], Dec. 22, 1987, [101 Stat. 1330–377][/us/stat/101/1330-377]; [Pub. L. 100–418, title I, § 1214(g)][/us/pl/100/418/s1214/g], Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 100–449, title II, § 203][/us/pl/100/449/s203], Sept. 28, 1988, [102 Stat. 1861][/us/stat/102/1861]; [Pub. L. 100–647, title IX, § 9001(a)(13)][/us/pl/100/647/s9001/a/13], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 101–207, § 3(c)(1)][/us/pl/101/207/s3/c/1], (f)(2), Dec. 7, 1989, [103 Stat. 1834][/us/stat/103/1834], 1835; [Pub. L. 101–382, title I][/us/pl/101/382], §§ 111(a)–(e), 139(c), Aug. 20, 1990, [104 Stat. 635–639][/us/stat/104/635-639], 654; [Pub. L. 101–508, title X, § 10001(a)][/us/pl/101/508/s10001/a], (b), (e), (f), Nov. 5, 1990, [104 Stat. 1388–385][/us/stat/104/1388-385] to 1388–387; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13801, 13813, Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667], 671; [Pub. L. 103–182, title II, § 204][/us/pl/103/182/s204], title V, § 521(a), title VI, § 682, Dec. 8, 1993, [107 Stat. 2092][/us/stat/107/2092], 2160, 2218; [Pub. L. 103–465, title VI][/us/pl/103/465], §§ 611(a), 612(a), Dec. 8, 1994, [108 Stat. 4991][/us/stat/108/4991], 4992; [Pub. L. 104–295][/us/pl/104/295], §§ 4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, [110 Stat. 3516][/us/stat/110/3516], 3517, 3529, 3539, 3540; [Pub. L. 105–150, § 1(a)][/us/pl/105/150/s1/a], Dec. 16, 1997, [111 Stat. 2685][/us/stat/111/2685]; [Pub. L. 106–36, title I, § 1001(b)(1)][/us/pl/106/36/s1001/b/1], title II, § 2418(a)–(d), June 25, 1999, [113 Stat. 131][/us/stat/113/131], 176, 177; [Pub. L. 106–476, title I, § 1457][/us/pl/106/476/s1457], Nov. 9, 2000, [114 Stat. 2170][/us/stat/114/2170]; [Pub. L. 107–210, div. A, title III, § 337(a)][/us/pl/107/210/s337/a], Aug. 6, 2002, [116 Stat. 978][/us/stat/116/978]; [Pub. L. 107–296, title IV, § 419(a)][/us/pl/107/296/s419/a], Nov. 25, 2002, [116 Stat. 2181][/us/stat/116/2181]; [Pub. L. 108–77, title II, § 204][/us/pl/108/77/s204], Sept. 3, 2003, [117 Stat. 930][/us/stat/117/930]; [Pub. L. 108–78, title II, § 203][/us/pl/108/78/s203], Sept. 3, 2003, [117 Stat. 961][/us/stat/117/961]; [Pub. L. 108–89, title III, § 301][/us/pl/108/89/s301], Oct. 1, 2003, [117 Stat. 1134][/us/stat/117/1134]; [Pub. L. 108–121, title II, § 201][/us/pl/108/121/s201], Nov. 11, 2003, [117 Stat. 1343][/us/stat/117/1343]; [Pub. L. 108–286, title II, § 204][/us/pl/108/286/s204], Aug. 3, 2004, [118 Stat. 939][/us/stat/118/939]; [Pub. L. 108–357, title VIII, § 892(a)][/us/pl/108/357/s892/a], (b), (c)(2), (d), Oct. 22, 2004, [118 Stat. 1644–1646][/us/stat/118/1644-1646]; [Pub. L. 108–429, title II, § 2004(f)][/us/pl/108/429/s2004/f], Dec. 3, 2004, [118 Stat. 2593][/us/stat/118/2593]; [Pub. L. 109–53, title II, § 204][/us/pl/109/53/s204], Aug. 2, 2005, [119 Stat. 483][/us/stat/119/483]; [Pub. L. 109–169, title II, § 203][/us/pl/109/169/s203], Jan. 11, 2006, [119 Stat. 3591][/us/stat/119/3591]; [Pub. L. 109–280, title XIV, § 1635(f)(5)][/us/pl/109/280/s1635/f/5], Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 109–283, title II, § 203][/us/pl/109/283/s203], Sept. 26, 2006, [120 Stat. 1201][/us/stat/120/1201]; [Pub. L. 110–42, § 3][/us/pl/110/42/s3], June 30, 2007, [121 Stat. 236][/us/stat/121/236]; [Pub. L. 110–52, § 2][/us/pl/110/52/s2], Aug. 1, 2007, [121 Stat. 264][/us/stat/121/264]; [Pub. L. 110–89, § 2(b)][/us/pl/110/89/s2/b], Sept. 28, 2007, [121 Stat. 982][/us/stat/121/982]; [Pub. L. 110–138, title II, § 204][/us/pl/110/138/s204], title VI, § 601, Dec. 14, 2007, [121 Stat. 1475][/us/stat/121/1475], 1489; [Pub. L. 110–191, § 3][/us/pl/110/191/s3], Feb. 29, 2008, [122 Stat. 646][/us/stat/122/646]; [Pub. L. 110–234, title XV, § 15201(a)][/us/pl/110/234/s15201/a], (b), May 22, 2008, [122 Stat. 1500][/us/stat/122/1500]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15201(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2262; [Pub. L. 110–287, § 2][/us/pl/110/287/s2], July 29, 2008, [122 Stat. 2649][/us/stat/122/2649]; [Pub. L. 110–436, § 5(a)][/us/pl/110/436/s5/a], Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–42, title I, § 103][/us/pl/111/42/s103], July 28, 2009, [123 Stat. 1963][/us/stat/123/1963]; [Pub. L. 111–124, § 3][/us/pl/111/124/s3], Dec. 28, 2009, [123 Stat. 3484][/us/stat/123/3484]; [Pub. L. 111–171, § 11][/us/pl/111/171/s11], May 24, 2010, [124 Stat. 1207][/us/stat/124/1207]; [Pub. L. 111–210, § 2][/us/pl/111/210/s2], July 27, 2010, [124 Stat. 2256][/us/stat/124/2256]; [Pub. L. 111–227, title IV, § 4001(a)][/us/pl/111/227/s4001/a], (b)(1), Aug. 11, 2010, [124 Stat. 2480][/us/stat/124/2480]; [Pub. L. 111–291, title VIII, § 821][/us/pl/111/291/s821], Dec. 8, 2010, [124 Stat. 3163][/us/stat/124/3163]; [Pub. L. 111–344, title III, § 301][/us/pl/111/344/s301], Dec. 29, 2010, [124 Stat. 3617][/us/stat/124/3617]; [Pub. L. 112–41, title II, § 203][/us/pl/112/41/s203], title V, § 504, Oct. 21, 2011, [125 Stat. 447][/us/stat/125/447], 460; [Pub. L. 112–42, title II, § 204][/us/pl/112/42/s204], title VI, §§ 601(a), 602, Oct. 21, 2011, [125 Stat. 483][/us/stat/125/483], 495, 496; [Pub. L. 112–43, title II, § 204][/us/pl/112/43/s204], title V, § 501, Oct. 21, 2011, [125 Stat. 518][/us/stat/125/518], 530; [Pub. L. 112–163, § 5][/us/pl/112/163/s5], Aug. 10, 2012, [126 Stat. 1277][/us/stat/126/1277]; [Pub. L. 113–67, div. A, title VII, § 701][/us/pl/113/67/s701], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189]; [Pub. L. 113–159, title II, § 2004][/us/pl/113/159/s2004], Aug. 8, 2014, [128 Stat. 1851][/us/stat/128/1851]; [Pub. L. 113–188, title X, § 1001(c)][/us/pl/113/188/s1001/c], Nov. 26, 2014, [128 Stat. 2022][/us/stat/128/2022]; [Pub. L. 114–27, title VIII][/us/pl/114/27], §§ 801(a), 802(a), June 29, 2015, [129 Stat. 414][/us/stat/129/414]; [Pub. L. 114–94, div. C, title XXXII, § 32201(a)][/us/pl/114/94/s32201/a], (c), Dec. 4, 2015, [129 Stat. 1738][/us/stat/129/1738].)
 
  __Amendment of Section__ 
 
@@ -632,6 +652,34 @@
     Section is comprised of [section 13031 of Pub. L. 99–272][/us/pl/99/272/s13031]. Subsec. (h) of [section 13031 of Pub. L. 99–272][/us/pl/99/272/s13031] amended [section 545(i) of Title 45][/us/usc/t45/s545/i], Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–94, § 32201(c)(1)][/us/pl/114/94/s32201/c/1], inserted “(subject to adjustment under subsection (l))” after “following fees” in introductory provisions.
+
+    Subsec. (b)(2). [Pub. L. 114–94, § 32201(c)(2)(A)][/us/pl/114/94/s32201/c/2/A], inserted “(subject to adjustment under subsection (l))” after “in fees”.
+
+    Subsec. (b)(3). [Pub. L. 114–94, § 32201(c)(2)(B)][/us/pl/114/94/s32201/c/2/B], inserted “(subject to adjustment under subsection (l))” after “in fees”.
+
+    Subsec. (b)(5)(A). [Pub. L. 114–94, § 32201(c)(2)(C)][/us/pl/114/94/s32201/c/2/C], inserted “(subject to adjustment under subsection (l))” after “in fees”.
+
+    Subsec. (b)(6). [Pub. L. 114–94, § 32201(c)(2)(D)][/us/pl/114/94/s32201/c/2/D], inserted “(subject to adjustment under subsection (l))” after “in fees”.
+
+    Subsec. (b)(8)(A)(i). [Pub. L. 114–94, § 32201(c)(2)(E)(i)][/us/pl/114/94/s32201/c/2/E/i], inserted “or (l)” after “subsection (a)(9)(B)”.
+
+    Subsec. (b)(8)(A)(ii). [Pub. L. 114–94, § 32201(c)(2)(E)(ii)][/us/pl/114/94/s32201/c/2/E/ii], inserted “(subject to adjustment under subsection (l))” after “$3”.
+
+    Subsec. (b)(9)(A). [Pub. L. 114–94, § 32201(c)(2)(F)(i)(I)][/us/pl/114/94/s32201/c/2/F/i/I], inserted “and subject to adjustment under subsection (l)” after “[section 1498 of this title][/us/usc/t19/s1498]” in introductory provisions.
+
+    Subsec. (b)(9)(A)(ii)(I). [Pub. L. 114–94, § 32201(c)(2)(F)(i)(II)][/us/pl/114/94/s32201/c/2/F/i/II], inserted “(subject to adjustment under subsection (l))” after “bill of lading”.
+
+    Subsec. (b)(9)(B)(i). [Pub. L. 114–94, § 32201(c)(2)(F)(ii)][/us/pl/114/94/s32201/c/2/F/ii], inserted “(subject to adjustment under subsection (l))” after “bill of lading”.
+
+    Subsec. (j)(3)(A). [Pub. L. 114–27, § 801(a)][/us/pl/114/27/s801/a], substituted “July 7, 2025” for “September 30, 2024”.
+
+    Subsec. (j)(3)(B)(i). [Pub. L. 114–27, § 802(a)(1)][/us/pl/114/27/s802/a/1], substituted “September 30, 2025” for “September 30, 2024”.
+
+    Subsec. (j)(3)(D). [Pub. L. 114–27, § 802(a)(2)][/us/pl/114/27/s802/a/2], added subpar. (D).
+
+    Subsec. (l). [Pub. L. 114–94, § 32201(a)][/us/pl/114/94/s32201/a], added subsec. (l).
 
     2014—Subsec. (a)(9)(C), (D). [Pub. L. 113–188, § 1001(c)(1)(A)][/us/pl/113/188/s1001/c/1/A], redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “If for any fiscal year, the Secretary of the Treasury determines not to make an adjustment under subparagraph (B), the Secretary shall, within the time prescribed under subparagraph (B)(iii)(I), submit a written report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives detailing the reasons for maintaining the current fee and the methodology used for computing such fee.”
 
@@ -789,7 +837,7 @@
 
     Subsec. (f)(1)(B). [Pub. L. 107–296, § 419(a)(1)][/us/pl/107/296/s419/a/1], added subpar. (B) and struck out former subpar. (B) which read as follows: “the portion of such fees that is determined by the Secretary to be excess fees under paragraph (5).”
 
-    Subsec. (f)(4). [Pub. L. 107–296, § 419(a)(2)][/us/pl/107/296/s419/a/2], struck out “(other than the excess fees determined by the Secretary under paragraph (5))” after “subsection (a) of this section”.
+    Subsec. (f)(4). [Pub. L. 107–296, § 419(a)(2)][/us/pl/107/296/s419/a/2], struck out “(other than the excess fees determined by the Secretary under paragraph (5))” after “subsection (a)”.
 
     Subsec. (f)(5). [Pub. L. 107–296, § 419(a)(3)][/us/pl/107/296/s419/a/3], added par. (5) and struck out former par. (5) which read as follows: “At the close of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary of the Treasury shall determine the amount of the fees collected under paragraph (5)(A) of subsection (a) of this section for that fiscal year that exceeds the amount of such fees that would have been collected for such fiscal year if the fees that were in effect on the day before the effective date of this paragraph applied to such fiscal year. The amount of the excess fees determined under the preceding sentence shall be deposited in the Customs User Fee Account and shall be available for reimbursement of inspectional costs (including passenger processing costs) not otherwise reimbursed under this section, and shall be available only to the extent provided in appropriations Acts.”
 
@@ -801,7 +849,7 @@
 
     “(B) For fiscal year 1998 and each fiscal year thereafter, for the arrival of each passenger aboard a commercial vessel or commercial aircraft from a place outside the United States (other than a place referred to in subsection (b)(1)(A)(i) of this section), $5.”
 
-    Subsec. (b)(1)(A). [Pub. L. 106–36, § 2418(b)(2)][/us/pl/106/36/s2418/b/2], substituted “Except as provided in subsection (a)(5)(B) of this section, no fee” for “No fee” in introductory provisions.
+    Subsec. (b)(1)(A). [Pub. L. 106–36, § 2418(b)(2)][/us/pl/106/36/s2418/b/2], substituted “Except as provided in subsection (a)(5)(B), no fee” for “No fee” in introductory provisions.
 
     Subsec. (e)(1). [Pub. L. 106–36, § 1001(b)(1)(A)][/us/pl/106/36/s1001/b/1/A], realigned margins.
 
@@ -871,13 +919,13 @@
 
     1994—Subsec. (a)(9)(A). [Pub. L. 103–465, § 612(a)(1)(A)][/us/pl/103/465/s612/a/1/A], substituted “0.21” for “0.17”.
 
-    Subsec. (a)(9)(B). [Pub. L. 103–465, § 612(a)(1)(B)][/us/pl/103/465/s612/a/1/B], (C), in cl. (i), substituted “(but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would” for “(but not to a rate of more than 0.19 percent nor less than 0.15 percent) that would” and in cl. (ii), substituted “subsection (f) of this section” for “[section 1613b of this title][/us/usc/t19/s1613b]”.
+    Subsec. (a)(9)(B). [Pub. L. 103–465, § 612(a)(1)(B)][/us/pl/103/465/s612/a/1/B], (C), in cl. (i), substituted “(but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would” for “(but not to a rate of more than 0.19 percent nor less than 0.15 percent) that would” and in cl. (ii), substituted “subsection (f)” for “[section 1613b of this title][/us/usc/t19/s1613b]”.
 
     Subsec. (a)(10). [Pub. L. 103–465, § 612(a)(2)(B)][/us/pl/103/465/s612/a/2/B], (C), substituted “$6” for “$5” in cl. (ii) and “$9” for “$8” in cl. (iii).
 
     Subsec. (a)(10)(C). [Pub. L. 103–465, § 612(a)(2)(A)][/us/pl/103/465/s612/a/2/A], which directed the amendment of subpar. (C) by substituting a comma for a period after “entry or release”, could not be executed because a comma, rather than a period, already appeared after “entry or release”.
 
-    Subsec. (b)(8)(A)(i). [Pub. L. 103–465, § 612(a)(3)][/us/pl/103/465/s612/a/3], substituted “$485 or be less than $25, unless adjusted pursuant to subsection (a)(9)(B) of this section” for “$400 or be less than $21”.
+    Subsec. (b)(8)(A)(i). [Pub. L. 103–465, § 612(a)(3)][/us/pl/103/465/s612/a/3], substituted “$485 or be less than $25, unless adjusted pursuant to subsection (a)(9)(B)” for “$400 or be less than $21”.
 
     Subsec. (f)(3)(A)(i)(II). [Pub. L. 103–465, § 611(a)][/us/pl/103/465/s611/a], amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “paying premium pay under [section 267(b) of this title][/us/usc/t19/s267/b], but the amount for which reimbursement may be made under this subclause may not, for any fiscal year, exceed the difference between the cost of the premium pay for that year calculated under such [section 267(b) of this title][/us/usc/t19/s267/b] as amended by section 13811 of the Omnibus Budget Reconciliation Act of 1993 and the cost of such pay calculated under subchapter V of chapter 55 of title 5,”.
 
@@ -889,7 +937,7 @@
 
     Subsec. (f)(1). [Pub. L. 103–182, § 521(a)(3)(A)][/us/pl/103/182/s521/a/3/A], substituted “except—” and subpars. (A) and (B) for “except that portion of such fees that is required under paragraph (3) for the direct reimbursement of appropriations.”
 
-    Subsec. (f)(3)(A). [Pub. L. 103–182, § 521(a)(3)(B)][/us/pl/103/182/s521/a/3/B], in introductory provisions, substituted “(other than the fees under subsection (a)(9) and (10) of this section and the excess fees determined by the Secretary under paragraph (5))” for “(other than subsection (a)(9) or (10) of this section)”.
+    Subsec. (f)(3)(A). [Pub. L. 103–182, § 521(a)(3)(B)][/us/pl/103/182/s521/a/3/B], in introductory provisions, substituted “(other than the fees under subsection (a)(9) and (10) and the excess fees determined by the Secretary under paragraph (5))” for “(other than subsection (a)(9) or (10) of this section)”.
 
     [Pub. L. 103–66, § 13813(2)][/us/pl/103/66/s13813/2], in closing provisions, inserted “The transfer of funds required under subparagraph (C)(iii) has priority over reimbursements under this subparagraph to carry out subclauses (II), (III), (IV), and (V) of clause (i).”
 
@@ -903,7 +951,7 @@
 
     Subsec. (f)(3)(C)(i), (iii). [Pub. L. 103–66, § 13813(4)][/us/pl/103/66/s13813/4], substituted “to reimburse costs described in subparagraph (A)(i)” for “to fully reimburse inspectional overtime and preclearance costs” in clause (i) and added clause (iii).
 
-    Subsec. (f)(4). [Pub. L. 103–182, § 521(a)(3)(C)][/us/pl/103/182/s521/a/3/C], substituted “under subsection (a) of this section (other than the excess fees determined by the Secretary under paragraph (5))” for “under subsection (a) of this section”.
+    Subsec. (f)(4). [Pub. L. 103–182, § 521(a)(3)(C)][/us/pl/103/182/s521/a/3/C], inserted “(other than the excess fees determined by the Secretary under paragraph (5))” after “under subsection (a)”.
 
     Subsec. (f)(5). [Pub. L. 103–182, § 521(a)(3)(D)][/us/pl/103/182/s521/a/3/D], added par. (5).
 
@@ -1315,6 +1363,12 @@
 
     For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+ __Use of Fees__ 
+
+[Pub. L. 114–94, div. C, title XXXII, § 32201(b)][/us/pl/114/94/s32201/b], Dec. 4, 2015, [129 Stat. 1738][/us/stat/129/1738], provided that: 
+
+> “The fees collected as a result of the amendments made by this section \[amending this section\] shall be deposited in the Customs User Fee Account, shall be available for reimbursement of customs services and inspections costs, and shall be available only to the extent provided in appropriations Acts.”
+
  __Rates for Merchandise Processing Fees__ 
 
 [Pub. L. 112–40, § 2][/us/pl/112/40/s2], Oct. 21, 2011, [125 Stat. 402][/us/stat/125/402], provided that: 
@@ -1548,6 +1602,10 @@
 [/us/stat/128/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1851
 [/us/pl/113/188/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1001%2Fc
 [/us/stat/128/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2022
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/stat/129/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F414
+[/us/pl/114/94/s32201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fa
+[/us/stat/129/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1738
 [/us/pl/112/43/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs107%2Fc
 [/us/pl/112/42/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2Fs107%2Fc
 [/us/pl/112/41/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2Fs107%2Fc
@@ -1602,6 +1660,21 @@
 [/us/pl/99/272/s13031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13031
 [/us/pl/99/272/s13031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13031
 [/us/usc/t45/s545/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs545%2Fi
+[/us/pl/114/94/s32201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fc%2F1
+[/us/pl/114/94/s32201/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fc%2F2%2FA
+[/us/pl/114/94/s32201/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fc%2F2%2FB
+[/us/pl/114/94/s32201/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fc%2F2%2FC
+[/us/pl/114/94/s32201/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fc%2F2%2FD
+[/us/pl/114/94/s32201/c/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fc%2F2%2FE%2Fi
+[/us/pl/114/94/s32201/c/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fc%2F2%2FE%2Fii
+[/us/pl/114/94/s32201/c/2/F/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fc%2F2%2FF%2Fi%2FI
+[/us/usc/t19/s1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1498
+[/us/pl/114/94/s32201/c/2/F/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fc%2F2%2FF%2Fi%2FII
+[/us/pl/114/94/s32201/c/2/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fc%2F2%2FF%2Fii
+[/us/pl/114/27/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs801%2Fa
+[/us/pl/114/27/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs802%2Fa%2F1
+[/us/pl/114/27/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs802%2Fa%2F2
+[/us/pl/114/94/s32201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fa
 [/us/pl/113/188/s1001/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1001%2Fc%2F1%2FA
 [/us/pl/113/188/s1001/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1001%2Fc%2F2%2FA
 [/us/pl/113/188/s1001/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1001%2Fc%2F2%2FB
@@ -1929,6 +2002,8 @@
 [/us/pl/103/182/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs212
 [/us/stat/107/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2099
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/94/s32201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32201%2Fb
+[/us/stat/129/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1738
 [/us/pl/112/40/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs2
 [/us/stat/125/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F402
 [/us/usc/t19/s58c/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c%2Fa%2F9

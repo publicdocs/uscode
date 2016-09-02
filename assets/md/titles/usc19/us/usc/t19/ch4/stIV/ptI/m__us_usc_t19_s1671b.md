@@ -99,7 +99,7 @@
 
         If—
 
-            (A) the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b) of this section, or
+            (A) the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b), or
 
             (B)
 
@@ -119,15 +119,15 @@
 
                 (ii) additional time is necessary to make the preliminary determination,
 
-            then the administering authority may postpone making the preliminary determination under subsection (b) of this section until not later than the 130th day after the date on which the administering authority initiates an investigation under [section 1671a(c) of this title][/us/usc/t19/s1671a/c], or an investigation is initiated under [section 1671a(a) of this title][/us/usc/t19/s1671a/a].
+            then the administering authority may postpone making the preliminary determination under subsection (b) until not later than the 130th day after the date on which the administering authority initiates an investigation under [section 1671a(c) of this title][/us/usc/t19/s1671a/c], or an investigation is initiated under [section 1671a(a) of this title][/us/usc/t19/s1671a/a].
 
         (2) __Notice of postponement__ 
 
-            The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b) of this section, if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement. Notice of the postponement shall be published in the Federal Register.
+            The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b), if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement. Notice of the postponement shall be published in the Federal Register.
 
     (d) __Effect of determination by the administering authority__ 
 
-    If the preliminary determination of the administering authority under subsection (b) of this section is affirmative, the administering authority—
+    If the preliminary determination of the administering authority under subsection (b) is affirmative, the administering authority—
 
         (1)
 
@@ -165,7 +165,7 @@
 
         (2) __Suspension of liquidation__ 
 
-        If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
+        If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
 
             (A) the date which is 90 days before the date on which the suspension of liquidation was first ordered, or
 
@@ -173,17 +173,17 @@
 
     (f) __Notice of determination__ 
 
-        Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2) of this section, the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
+        Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2), the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
 
     (g) __Time period where upstream subsidization is involved__ 
 
         (1) __In general__ 
 
-            Whenever the administering authority concludes prior to a preliminary determination under subsection (b) of this section, that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed, the time period within which a preliminary determination must be made shall be extended to 250 days after the filing of a petition under [section 1671a(b) of this title][/us/usc/t19/s1671a/b] or initiation of an investigation under [section 1671a(a) of this title][/us/usc/t19/s1671a/a] (310 days in cases declared extraordinarily complicated under subsection (c) of this section), if the administering authority concludes that such additional time is necessary to make the required determination concerning upstream subsidization.
+            Whenever the administering authority concludes prior to a preliminary determination under subsection (b), that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed, the time period within which a preliminary determination must be made shall be extended to 250 days after the filing of a petition under [section 1671a(b) of this title][/us/usc/t19/s1671a/b] or initiation of an investigation under [section 1671a(a) of this title][/us/usc/t19/s1671a/a] (310 days in cases declared extraordinarily complicated under subsection (c)), if the administering authority concludes that such additional time is necessary to make the required determination concerning upstream subsidization.
 
         (2) __Exceptions__ 
 
-        Whenever the administering authority concludes, after a preliminary determination under subsection (b) of this section, that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed—
+        Whenever the administering authority concludes, after a preliminary determination under subsection (b), that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed—
 
             (A) in cases in which the preliminary determination was negative, the time period within which a final determination must be made shall be extended to 165 or 225 days, as appropriate, under [section 1671d(a)(1) of this title][/us/usc/t19/s1671d/a/1]; or
 

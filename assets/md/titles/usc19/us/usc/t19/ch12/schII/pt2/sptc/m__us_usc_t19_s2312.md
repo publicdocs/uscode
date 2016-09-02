@@ -21,13 +21,13 @@
 
     (b) __Review of final determination__ 
 
-        A final determination under subsection (a) of this section with respect to entitlement to program benefits under subpart B of this part is subject to review by the courts in the same manner and to the same extent as is provided by [section 405(g) of title 42][/us/usc/t42/s405/g].
+        A final determination under subsection (a) with respect to entitlement to program benefits under subpart B of this part is subject to review by the courts in the same manner and to the same extent as is provided by [section 405(g) of title 42][/us/usc/t42/s405/g].
 
 ([Pub. L. 93–618, title II, § 240][/us/pl/93/618/s240], Jan. 3, 1975, [88 Stat. 2025][/us/stat/88/2025].)
 
  __Termination Date__ 
 
-    No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285] and [section 233(a) of Pub. L. 112–40][/us/pl/112/40/s233/a], set out as notes preceding this section.
+    No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out as a note preceding [section 2271 of this title][/us/usc/t19/s2271].
 
 ----------
 
@@ -41,6 +41,6 @@
 [/us/pl/93/618/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs240
 [/us/stat/88/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2025
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
-[/us/pl/112/40/s233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fa
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 
 

@@ -17,11 +17,11 @@
 
     (a) __Preferential treatment__ 
 
-        Textile and apparel articles described in subsection (b) of this section that are imported directly into the customs territory of the United States from a beneficiary sub-Saharan African country described in [section 2466a(c) of this title][/us/usc/t19/s2466a/c], shall enter the United States free of duty and free of any quantitative limitations in accordance with the provisions set forth in subsection (b) of this section, if the country has satisfied the requirements set forth in [section 3722 of this title][/us/usc/t19/s3722].
+        Textile and apparel articles described in subsection (b) that are imported directly into the customs territory of the United States from a beneficiary sub-Saharan African country described in section 2466a(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, shall enter the United States free of duty and free of any quantitative limitations in accordance with the provisions set forth in subsection (b), if the country has satisfied the requirements set forth in [section 3722 of this title][/us/usc/t19/s3722].
 
     (b) __Products covered__ 
 
-    Subject to subsection (c), the preferential treatment described in subsection (a) of this section shall apply only to the following textile and apparel products:
+    Subject to subsection (c), the preferential treatment described in subsection (a) shall apply only to the following textile and apparel products:
 
         (1) __Apparel articles assembled in one or more beneficiary sub-Saharan African countries__ 
 
@@ -43,7 +43,7 @@
 
                 (i) __In general__ 
 
-                    Preferential treatment under this paragraph shall be extended in the 1-year period beginning October 1, 2003, and in each of the 11 succeeding 1-year periods, to imports of apparel articles in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
+                    Preferential treatment under this paragraph shall be extended in the 1-year period beginning October 1, 2003, and in each of the 21 succeeding 1-year periods, to imports of apparel articles in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
 
                 (ii) __Applicable percentage__ 
 
@@ -51,7 +51,7 @@
 
                     (I) 4.747 percent for the 1-year period beginning October 1, 2003, increased in each of the 5 succeeding 1-year periods by equal increments, so that for the 1-year period beginning October 1, 2007, the applicable percentage does not exceed 7 percent; and
 
-                    (II) for each succeeding 1-year period until September 30, 2015, not to exceed 7 percent.
+                    (II) for each succeeding 1-year period until September 30, 2025, not to exceed 7 percent.
 
             (B) __Surge mechanism__ 
 
@@ -163,11 +163,11 @@
 
     (c) __Lesser developed countries__ 
 
-        (1) __Preferential treatment of products through__  __September 30, 2015__ 
+        (1) __Preferential treatment of products through__  __September 30, 2025__ 
 
             (A) __Products covered__ 
 
-                In addition to the products described in subsection (b)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  the preferential treatment described in subsection (a) shall apply through September 30, 2015, to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
+                In addition to the products described in subsection (b)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  the preferential treatment described in subsection (a) shall apply through September 30, 2025, to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
 
             (B) __Applicable percentage__ 
 
@@ -175,7 +175,7 @@
 
                 (i) 2.9285 percent for the 1-year period beginning on October 1, 2005; and
 
-                (ii) 3.5 percent for the 1-year period beginning on October 1, 2006, and each 1-year period thereafter through September 30, 2015.
+                (ii) 3.5 percent for the 1-year period beginning on October 1, 2006, and each 1-year period thereafter through September 30, 2025.
 
         (2) __Applicability of other provisions__ 
 
@@ -227,7 +227,7 @@
 
             (C) __Exception__ 
 
-                In the case of an article described in subsection (b)(2) of this section, sewing thread shall not be treated as findings or trimmings under subparagraph (A).
+                In the case of an article described in subsection (b)(2), sewing thread shall not be treated as findings or trimmings under subparagraph (A).
 
         (2) __De minimis rule__ 
 
@@ -251,7 +251,7 @@
 
             (G) elbow patches,
 
-            that do not meet the requirements set forth in subsections (b) and (c) of this section, regardless of the country of origin of the item referred to in the applicable subparagraph of this paragraph.
+            that do not meet the requirements set forth in subsections (b) and (c), regardless of the country of origin of the item referred to in the applicable subparagraph of this paragraph.
 
     (f) __Definitions__ 
 
@@ -271,7 +271,7 @@
 
         (4) __Former sub-Saharan African country__ 
 
-            The term “former  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “beneficiary”. </sup></sup>  sub-Saharan African country” means a country that, after being designated as a beneficiary sub-Saharan African country under this chapter  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup> , ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
+            The term “former  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by “beneficiary”. </sup></sup>  sub-Saharan African country” means a country that, after being designated as a beneficiary sub-Saharan African country under this chapter  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup> , ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
 
         (5) __Enter; entered__ 
 
@@ -279,17 +279,31 @@
 
     (g) __Effective date__ 
 
-        This section takes effect on October 1, 2000, and shall remain in effect through September 30, 2015.
+        This section takes effect on October 1, 2000, and shall remain in effect through September 30, 2025.
 
-([Pub. L. 106–200, title I, § 112][/us/pl/106/200/s112], May 18, 2000, [114 Stat. 258][/us/stat/114/258]; [Pub. L. 107–210, div. C, title XXXI, § 3108(a)][/us/pl/107/210/s3108/a], Aug. 6, 2002, [116 Stat. 1038][/us/stat/116/1038]; [Pub. L. 108–274, § 7(b)][/us/pl/108/274/s7/b]–(f), July 13, 2004, [118 Stat. 824–826][/us/stat/118/824-826]; [Pub. L. 108–429, title II, § 2004(k)(1)][/us/pl/108/429/s2004/k/1], Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595]; [Pub. L. 109–432, div. D, title VI][/us/pl/109/432], §§ 6002–6004, Dec. 20, 2006, [120 Stat. 3190–3194][/us/stat/120/3190-3194]; [Pub. L. 110–436, § 3(a)][/us/pl/110/436/s3/a], (d), Oct. 16, 2008, [122 Stat. 4980][/us/stat/122/4980], 4981; [Pub. L. 112–163, § 1(a)][/us/pl/112/163/s1/a], Aug. 10, 2012, [126 Stat. 1274][/us/stat/126/1274].)
+([Pub. L. 106–200, title I, § 112][/us/pl/106/200/s112], May 18, 2000, [114 Stat. 258][/us/stat/114/258]; [Pub. L. 107–210, div. C, title XXXI, § 3108(a)][/us/pl/107/210/s3108/a], Aug. 6, 2002, [116 Stat. 1038][/us/stat/116/1038]; [Pub. L. 108–274, § 7(b)][/us/pl/108/274/s7/b]–(f), July 13, 2004, [118 Stat. 824–826][/us/stat/118/824-826]; [Pub. L. 108–429, title II, § 2004(k)(1)][/us/pl/108/429/s2004/k/1], Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595]; [Pub. L. 109–432, div. D, title VI][/us/pl/109/432], §§ 6002–6004, Dec. 20, 2006, [120 Stat. 3190–3194][/us/stat/120/3190-3194]; [Pub. L. 110–436, § 3(a)][/us/pl/110/436/s3/a], (d), Oct. 16, 2008, [122 Stat. 4980][/us/stat/122/4980], 4981; [Pub. L. 112–163, § 1(a)][/us/pl/112/163/s1/a], Aug. 10, 2012, [126 Stat. 1274][/us/stat/126/1274]; [Pub. L. 114–27, title I, § 103(b)][/us/pl/114/27/s103/b], June 29, 2015, [129 Stat. 364][/us/stat/129/364].)
 
  __References in Text__ 
+
+    [Section 2466a(c) of this title][/us/usc/t19/s2466a/c], referred to in subsec. (a), was redesignated [section 2466a(e) of this title][/us/usc/t19/s2466a/e] by [Pub. L. 114–27, title I, § 105(b)][/us/pl/114/27/s105/b], (c), June 29, 2015, [129 Stat. 366][/us/stat/129/366].
 
     The Harmonized Tariff Schedule of the United States, referred to in subsec. (b), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
     This chapter, referred to in subsec. (f)(4), was in the original “this Act”, and was translated as reading “this title”, meaning title I of [Pub. L. 106–200][/us/pl/106/200], May 18, 2000, [114 Stat. 252][/us/stat/114/252], which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under [section 3701 of this title][/us/usc/t19/s3701] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3)(A)(i). [Pub. L. 114–27, § 103(b)(2)(A)][/us/pl/114/27/s103/b/2/A], substituted “21 succeeding” for “11 succeeding”.
+
+    Subsec. (b)(3)(A)(ii)(II). [Pub. L. 114–27, § 103(b)(2)(B)][/us/pl/114/27/s103/b/2/B], substituted “September 30, 2025” for “September 30, 2015”.
+
+    Subsec. (c)(1). [Pub. L. 114–27, § 103(b)(3)(A)][/us/pl/114/27/s103/b/3/A], substituted “September 30, 2025” for “September 30, 2015” in heading.
+
+    Subsec. (c)(1)(A). [Pub. L. 114–27, § 103(b)(3)(B)][/us/pl/114/27/s103/b/3/B], substituted “September 30, 2025” for “September 30, 2015”.
+
+    Subsec. (c)(1)(B)(ii). [Pub. L. 114–27, § 103(b)(3)(C)][/us/pl/114/27/s103/b/3/C], substituted “September 30, 2025” for “September 30, 2015”.
+
+    Subsec. (g). [Pub. L. 114–27, § 103(b)(1)][/us/pl/114/27/s103/b/1], substituted “September 30, 2025” for “September 30, 2015”.
 
     2012—Subsec. (c)(1). [Pub. L. 112–163, § 1(a)(1)][/us/pl/112/163/s1/a/1], substituted “2015” for “2012” in heading.
 
@@ -418,7 +432,6 @@
 ----------
 ----------
 
-[/us/usc/t19/s2466a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2466a%2Fc
 [/us/usc/t19/s3722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3722
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
 [/us/usc/t19/s3722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3722
@@ -438,10 +451,22 @@
 [/us/stat/122/4980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4980
 [/us/pl/112/163/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fa
 [/us/stat/126/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1274
+[/us/pl/114/27/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb
+[/us/stat/129/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F364
+[/us/usc/t19/s2466a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2466a%2Fc
+[/us/usc/t19/s2466a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2466a%2Fe
+[/us/pl/114/27/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs105%2Fb
+[/us/stat/129/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F366
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
+[/us/pl/114/27/s103/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F2%2FA
+[/us/pl/114/27/s103/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F2%2FB
+[/us/pl/114/27/s103/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F3%2FA
+[/us/pl/114/27/s103/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F3%2FB
+[/us/pl/114/27/s103/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F3%2FC
+[/us/pl/114/27/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F1
 [/us/pl/112/163/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fa%2F1
 [/us/pl/112/163/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fa%2F2
 [/us/pl/112/163/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fa%2F3

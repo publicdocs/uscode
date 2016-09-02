@@ -55,13 +55,13 @@
 
     (b) __Effective period__ 
 
-        The President may not enter into any agreement under subsection (a) of this section which has an effective period beyond the close of the five-year period beginning on the date on which such agreement enters into force with respect to the United States.
+        The President may not enter into any agreement under subsection (a) which has an effective period beyond the close of the five-year period beginning on the date on which such agreement enters into force with respect to the United States.
 
     (c) __Restrictions on entering into agreements__ 
 
         (1) __In general__ 
 
-            The President may not enter into a bilateral or multilateral agreement authorized by subsection (a) of this section unless the application of the import restrictions set forth in [section 2606 of this title][/us/usc/t19/s2606] with respect to archaeological or ethnological material of the State Party making a request to the United States under article 9 of the Convention will be applied in concert with similar restrictions implemented, or to be implemented, by those nations (whether or not State Parties) individually having a significant import trade in such material.
+            The President may not enter into a bilateral or multilateral agreement authorized by subsection (a) unless the application of the import restrictions set forth in [section 2606 of this title][/us/usc/t19/s2606] with respect to archaeological or ethnological material of the State Party making a request to the United States under article 9 of the Convention will be applied in concert with similar restrictions implemented, or to be implemented, by those nations (whether or not State Parties) individually having a significant import trade in such material.
 
         (2) __Exception to restrictions__ 
 
@@ -73,7 +73,7 @@
 
     (d) __Suspension of import restrictions under agreements__ 
 
-    If, after an agreement enters into force with respect to the United States, the President determines that a number of parties to the agreement (other than parties described in subsection (c)(2) of this section) having significant import trade in the archaeological and ethnological material covered by the agreement—
+    If, after an agreement enters into force with respect to the United States, the President determines that a number of parties to the agreement (other than parties described in subsection (c)(2)) having significant import trade in the archaeological and ethnological material covered by the agreement—
 
         (1) have not implemented within a reasonable period of time import restrictions that are similar to those set forth in [section 2606 of this title][/us/usc/t19/s2606], or
 
@@ -85,13 +85,13 @@
 
     The President may extend any agreement that enters into force with respect to the United States for additional periods of not more than five years each if the President determines that—
 
-        (1) the factors referred to in subsection (a)(1) of this section which justified the entering into of the agreement still pertain, and
+        (1) the factors referred to in subsection (a)(1) which justified the entering into of the agreement still pertain, and
 
-        (2) no cause for suspension under subsection (d) of this section exists.
+        (2) no cause for suspension under subsection (d) exists.
 
     (f) __Procedures__ 
 
-    If any request described in subsection (a) of this section is made by a State Party, or if the President proposes to extend any agreement under subsection (e) of this section, the President shall—
+    If any request described in subsection (a) is made by a State Party, or if the President proposes to extend any agreement under subsection (e), the President shall—
 
         (1) publish notification of the request or proposal in the Federal Register;
 
@@ -111,7 +111,7 @@
 
         In any case in which the President—
 
-            (A) enters into or extends an agreement pursuant to subsection (a) or (e) of this section, or
+            (A) enters into or extends an agreement pursuant to subsection (a) or (e), or
 
             (B) applies import restrictions under [section 2603 of this title][/us/usc/t19/s2603],
 

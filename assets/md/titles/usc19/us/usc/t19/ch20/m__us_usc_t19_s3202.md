@@ -19,7 +19,7 @@
 
     For purposes of this chapter—
 
-        (1) The term “beneficiary country” means any country listed in subsection (b)(1) of this section with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter.
+        (1) The term “beneficiary country” means any country listed in subsection (b)(1) with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter.
 
         (2) The term “entered” means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
 
@@ -167,7 +167,7 @@
 
         Not later than June 30, 2010, and annually thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
 
-            (A) with respect to subsections (c) and (d) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
+            (A) with respect to subsections (c) and (d), the results of a general review of beneficiary countries based on the considerations described in such subsections; and
 
             (B) the performance of each beneficiary country or ATPEA  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “ATPDEA”. </sup></sup>  beneficiary country, as the case may be, under the criteria set forth in [section 3203(b)(6)(B) of this title][/us/usc/t19/s3203/b/6/B].
 

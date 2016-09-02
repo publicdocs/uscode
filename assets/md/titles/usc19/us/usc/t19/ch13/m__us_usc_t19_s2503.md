@@ -17,13 +17,13 @@
 
     (a) __Approval of agreements and statements of administrative action__ 
 
-        In accordance with the provisions of sections 2112 and 2191 of this title, the Congress approves the trade agreements described in subsection (c) of this section submitted to the Congress on June 19, 1979, and the statements of administrative action proposed to implement such trade agreements submitted to the Congress on that date.
+        In accordance with the provisions of sections 2112 and 2191 of this title, the Congress approves the trade agreements described in subsection (c) submitted to the Congress on June 19, 1979, and the statements of administrative action proposed to implement such trade agreements submitted to the Congress on that date.
 
     (b) __Acceptance of agreements by the President__ 
 
         (1) __In general__ 
 
-        The President may accept for the United States the final legal instruments or texts embodying each of the trade agreements approved by the Congress under subsection (a) of this section. The President shall submit a copy of each final instrument or text to the Congress on the date such text or instrument is available, together with a notification of any changes in the instruments or texts, including their annexes, if any, as accepted and the texts of such agreements as submitted to the Congress under subsection (a) of this section. Such final legal instruments or texts shall be deemed to be the agreements submitted to and approved by the Congress under subsection (a) of this section if such changes are—
+        The President may accept for the United States the final legal instruments or texts embodying each of the trade agreements approved by the Congress under subsection (a). The President shall submit a copy of each final instrument or text to the Congress on the date such text or instrument is available, together with a notification of any changes in the instruments or texts, including their annexes, if any, as accepted and the texts of such agreements as submitted to the Congress under subsection (a). Such final legal instruments or texts shall be deemed to be the agreements submitted to and approved by the Congress under subsection (a) if such changes are—
 
             (A) only rectifications of a formal character or minor technical or clerical changes which do not affect the substance or meaning of the texts as submitted to the Congress on June 19, 1979, or
 
@@ -39,7 +39,7 @@
 
         (3) __Limitation on acceptance concerning major industrial countries__ 
 
-        The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c) of this section, unless he determines that each major industrial country (as defined in section 2136(d) 1 of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
+        The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c), unless he determines that each major industrial country (as defined in section 2136(d) 1 of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
 
             (A) that country is not a major factor in trade in the products covered by that agreement,
 
@@ -51,7 +51,7 @@
 
     (c) __Trade agreements to which this Act applies__ 
 
-    The trade agreements to which subsection (a) of this section applies are the following:
+    The trade agreements to which subsection (a) applies are the following:
 
         (1) The Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade (relating to customs valuation).
 

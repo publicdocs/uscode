@@ -51,7 +51,7 @@
 
     (c) __Congressional action__ 
 
-        An agreement referred to in subsection (a) of this section, and a proclamation referred to in [section 2434(a) of this title][/us/usc/t19/s2434/a] implementing such agreement, shall take effect only if a joint resolution described in [section 2191(b)(3) of this title][/us/usc/t19/s2191/b/3] that approves of the agreement referred to in subsection (a) of this section is enacted into law.
+        An agreement referred to in subsection (a), and a proclamation referred to in [section 2434(a) of this title][/us/usc/t19/s2434/a] implementing such agreement, shall take effect only if a joint resolution described in [section 2191(b)(3) of this title][/us/usc/t19/s2191/b/3] that approves of the agreement referred to in subsection (a) is enacted into law.
 
 ([Pub. L. 93–618, title IV, § 405][/us/pl/93/618/s405], Jan. 3, 1975, [88 Stat. 2061][/us/stat/88/2061]; [Pub. L. 96–39, title XI, § 1106(f)(3)][/us/pl/96/39/s1106/f/3], July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 101–382, title I, § 132(b)(1)][/us/pl/101/382/s132/b/1], Aug. 20, 1990, [104 Stat. 645][/us/stat/104/645].)
 

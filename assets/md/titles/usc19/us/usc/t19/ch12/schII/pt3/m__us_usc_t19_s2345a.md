@@ -79,17 +79,21 @@
 
             Nothing in this subsection shall be construed to prohibit the Secretary from providing information the Secretary considers to be confidential business information under paragraph (1) to a court in camera or to another party under a protective order issued by a court.
 
-([Pub. L. 93–618, title II, § 255A][/us/pl/93/618/s255A], as added [Pub. L. 112–40, title II, § 221(a)(1)][/us/pl/112/40/s221/a/1], Oct. 21, 2011, [125 Stat. 409][/us/stat/125/409].)
+([Pub. L. 93–618, title II, § 255A][/us/pl/93/618/s255A], as added [Pub. L. 112–40, title II, § 221(a)(1)][/us/pl/112/40/s221/a/1], Oct. 21, 2011, [125 Stat. 409][/us/stat/125/409], and [Pub. L. 114–27, title IV, § 402(b)][/us/pl/114/27/s402/b], (c), June 29, 2015, [129 Stat. 374][/us/stat/129/374].)
 
  __Termination of Section__ 
 
-    For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Termination Date note below.
+    For termination of section beginning on July 1, 2021, with certain exceptions and subject to [section 406(b) of Pub. L. 114–27][/us/pl/114/27/s406/b], see Termination Date note below.
 
  __Termination Date__ 
 
-    For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see [section 233 of Pub. L. 112–40][/us/pl/112/40/s233], set out as an Effective and Termination Dates of 2011 Revival note preceding [section 2271 of this title][/us/usc/t19/s2271].
+    For revival and applicability, beginning on June 29, 2015, of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of [Pub. L. 114–27][/us/pl/114/27], set out as an Effective and Termination Dates of 2015 Revival note preceding [section 2271 of this title][/us/usc/t19/s2271].
 
-    Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2015, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285] and [section 541(b) of Pub. L. 113–235][/us/pl/113/235/s541/b], set out as notes preceding [section 2271 of this title][/us/usc/t19/s2271].
+    For termination of section, beginning on July 1, 2021, with certain exceptions and subject to [section 406(b) of Pub. L. 114–27][/us/pl/114/27/s406/b], see [section 406 of Pub. L. 114–27][/us/pl/114/27/s406], set out as an Effective and Termination Dates of 2015 Revival note preceding [section 2271 of this title][/us/usc/t19/s2271].
+
+    [Section 233 of Pub. L. 112–40][/us/pl/112/40/s233], formerly set out as an Effective and Termination Dates of 2011 Revival note preceding [section 2271 of this title][/us/usc/t19/s2271], which provided for the termination of this section beginning on Jan. 1, 2014, subject to certain exceptions, was repealed by [Pub. L. 114–27, title IV, § 402(a)][/us/pl/114/27/s402/a], June 29, 2015, [129 Stat. 374][/us/stat/129/374], effective June 29, 2015.
+
+    Except as otherwise provided, assistance may not be provided under this section after June 30, 2021, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out as a note preceding [section 2271 of this title][/us/usc/t19/s2271].
 
 ----------
 
@@ -104,12 +108,19 @@
 [/us/pl/93/618/s255A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs255A
 [/us/pl/112/40/s221/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs221%2Fa%2F1
 [/us/stat/125/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F409
-[/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
-[/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
+[/us/pl/114/27/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fb
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
+[/us/pl/114/27/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406%2Fb
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
+[/us/pl/114/27/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406%2Fb
+[/us/pl/114/27/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/112/40/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
+[/us/pl/114/27/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fa
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
-[/us/pl/113/235/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs541%2Fb
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 
 

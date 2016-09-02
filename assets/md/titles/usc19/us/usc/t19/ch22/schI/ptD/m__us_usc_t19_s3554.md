@@ -21,7 +21,7 @@
 
     (b) __Reports to Congress__ 
 
-        The President shall, not later than 12 months after December 8, 1994, and annually thereafter for a period of 4 years, submit to the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives, the Committee on Finance and the Committee on Foreign Relations of the Senate, and other appropriate committees of the Congress, a report on the steps taken to carry out subsection (a) of this section.
+        The President shall, not later than 12 months after December 8, 1994, and annually thereafter for a period of 4 years, submit to the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives, the Committee on Finance and the Committee on Foreign Relations of the Senate, and other appropriate committees of the Congress, a report on the steps taken to carry out subsection (a).
 
 ([Pub. L. 103–465, title I, § 134][/us/pl/103/465/s134], Dec. 8, 1994, [108 Stat. 4840][/us/stat/108/4840].)
 

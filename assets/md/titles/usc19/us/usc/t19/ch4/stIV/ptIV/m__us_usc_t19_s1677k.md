@@ -39,7 +39,7 @@
 
             (B) such domestic industry is being materially injured, or threatened with material injury, by reason of such dumping;
 
-            submit a petition to the Trade Representative that alleges the elements referred to in subparagraphs (A) and (B) and requests the Trade Representative to take action under subsection (c) of this section on behalf of the domestic industry.
+            submit a petition to the Trade Representative that alleges the elements referred to in subparagraphs (A) and (B) and requests the Trade Representative to take action under subsection (c) on behalf of the domestic industry.
 
         (2) A petition submitted under paragraph (1) shall contain such detailed information as the Trade Representative may require in support of the allegations in the petition.
 
@@ -51,11 +51,11 @@
 
     (d) __Consultation after submission of application__ 
 
-        After submitting an application under subsection (c)(1) of this section, the Trade Representative shall seek consultations with the appropriate authority of the Agreement country regarding the request for antidumping action.
+        After submitting an application under subsection (c)(1), the Trade Representative shall seek consultations with the appropriate authority of the Agreement country regarding the request for antidumping action.
 
     (e) __Action upon refusal of Agreement country to act__ 
 
-        If the appropriate authority of an Agreement country refuses to undertake antidumping measures in response to a request made therefor by the Trade Representative under subsection (c) of this section, the Trade Representative shall promptly consult with the domestic industry on whether action under any other law of the United States is appropriate.
+        If the appropriate authority of an Agreement country refuses to undertake antidumping measures in response to a request made therefor by the Trade Representative under subsection (c), the Trade Representative shall promptly consult with the domestic industry on whether action under any other law of the United States is appropriate.
 
 ([Pub. L. 100–418, title I, § 1317][/us/pl/100/418/s1317], Aug. 23, 1988, [102 Stat. 1188][/us/stat/102/1188]; [Pub. L. 103–465, title VI, § 621(a)(1)][/us/pl/103/465/s621/a/1], Dec. 8, 1994, [108 Stat. 4992][/us/stat/108/4992].)
 

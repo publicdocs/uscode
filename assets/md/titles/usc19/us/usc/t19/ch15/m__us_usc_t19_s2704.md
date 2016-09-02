@@ -33,7 +33,7 @@
 
         (1)
 
-         Each report required under subsection (a) of this section shall include, but not be limited to, an assessment by the Commission regarding—
+         Each report required under subsection (a) shall include, but not be limited to, an assessment by the Commission regarding—
 
             (A) the actual effect, during the period covered by the report, of this Act on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries; and
 
@@ -49,7 +49,7 @@
 
     (c) __Time of submission of reports; public participation__ 
 
-        (1) Each report required under subsection (a) of this section shall be submitted to the Congress and to the President before the close of the nine-month period beginning on the day after the last day of the period covered by the report.
+        (1) Each report required under subsection (a) shall be submitted to the Congress and to the President before the close of the nine-month period beginning on the day after the last day of the period covered by the report.
 
         (2) The Commission shall provide opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
 

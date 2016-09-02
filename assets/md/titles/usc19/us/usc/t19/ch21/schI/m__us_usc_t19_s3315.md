@@ -31,7 +31,7 @@
 
     (c) __Reimbursement of certain expenses__ 
 
-        If, in accordance with Annex 2002.2 of the Agreement, the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year, as reimbursement for expenses by the Canadian Section or the Mexican Section in connection with settlement proceedings under chapter 19 or 20 of the Agreement, the United States Section may retain and use such funds to carry out the functions described in subsection (a) of this section.
+        If, in accordance with Annex 2002.2 of the Agreement, the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year, as reimbursement for expenses by the Canadian Section or the Mexican Section in connection with settlement proceedings under chapter 19 or 20 of the Agreement, the United States Section may retain and use such funds to carry out the functions described in subsection (a).
 
 ([Pub. L. 103–182, title I, § 105][/us/pl/103/182/s105], Dec. 8, 1993, [107 Stat. 2064][/us/stat/107/2064]; [Pub. L. 110–161, div. B, title I, § 107][/us/pl/110/161/s107], Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893].)
 

@@ -31,7 +31,7 @@
 
     (b) __Terms and conditions__ 
 
-        Any contract entered into, or any grant made, under subsection (a) of this section shall be subject to such terms and conditions as the Trade Representative or Secretary concerned shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States.
+        Any contract entered into, or any grant made, under subsection (a) shall be subject to such terms and conditions as the Trade Representative or Secretary concerned shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States.
 
     (c) __Limitations__ 
 

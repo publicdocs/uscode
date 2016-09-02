@@ -33,7 +33,7 @@
 
         (4) __Designated authority__ 
 
-            The term “designated authority” means the Secretary of the Treasury, with respect to the prohibitions under subsection (b)(1)(A) of this section, and the President (or the President’s designee), with respect to the prohibitions under subsection (b)(1)(B) of this section.
+            The term “designated authority” means the Secretary of the Treasury, with respect to the prohibitions under subsection (b)(1)(A), and the President (or the President’s designee), with respect to the prohibitions under subsection (b)(1)(B).
 
         (5) __Dog fur__ 
 
@@ -97,11 +97,11 @@
 
         (3) __Enforcement__ 
 
-            The Secretary of the Treasury shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(A) of this section, and the President shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(B) of this section.
+            The Secretary of the Treasury shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(A), and the President shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(B).
 
         (4) __Regulations__ 
 
-            Not later than 270 days after November 9, 2000, the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by which testing laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) of this section applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
+            Not later than 270 days after November 9, 2000, the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by which testing laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
 
         (5) __Reward__ 
 

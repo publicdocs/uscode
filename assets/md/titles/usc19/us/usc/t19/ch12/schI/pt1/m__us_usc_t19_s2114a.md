@@ -93,7 +93,7 @@
 
     (d) __Definition of barriers and other distortions__ 
 
-    For purposes of subsection (a) of this section, the term “barriers to, or other distortions of, international trade in services” includes, but is not limited to—
+    For purposes of subsection (a), the term “barriers to, or other distortions of, international trade in services” includes, but is not limited to—
 
         (1) barriers to establishment in foreign markets, and
 

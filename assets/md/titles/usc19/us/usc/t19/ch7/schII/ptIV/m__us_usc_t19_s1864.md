@@ -15,7 +15,7 @@
 
 ## § 1864. Import sanctions for export violations
 
-    Any person who violates any national security export control imposed under section 2404 of the Appendix to title 50 or any regulation, order, or license issued under that section, may be subject to such controls on the importing of goods or technology into the United States as the President may prescribe.
+    Any person who violates any national security export control imposed under [section 4604 of title 50][/us/usc/t50/s4604] or any regulation, order, or license issued under that section, may be subject to such controls on the importing of goods or technology into the United States as the President may prescribe.
 
 ([Pub. L. 87–794, title II, § 233][/us/pl/87/794/s233], as added [Pub. L. 99–64, title I, § 121][/us/pl/99/64/s121], July 12, 1985, [99 Stat. 155][/us/stat/99/155]; amended [Pub. L. 100–418, title II, § 2447(a)][/us/pl/100/418/s2447/a], Aug. 23, 1988, [102 Stat. 1370][/us/stat/102/1370].)
 
@@ -30,6 +30,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/pl/87/794/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs233
 [/us/pl/99/64/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs121
 [/us/stat/99/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F155

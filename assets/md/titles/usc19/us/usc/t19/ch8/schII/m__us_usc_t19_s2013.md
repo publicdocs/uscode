@@ -17,11 +17,11 @@
 
     (a) __Retroactive effect; authority of President__ 
 
-        Subject to subsection (b) of this section, the President is authorized, notwithstanding [section 1514 of this title][/us/usc/t19/s1514] or any other provision of law, to give retroactive effect to any proclamation issued pursuant to [section 2011 of this title][/us/usc/t19/s2011] as of the earliest date after January 17, 1965, which he determines to be practicable.
+        Subject to subsection (b), the President is authorized, notwithstanding [section 1514 of this title][/us/usc/t19/s1514] or any other provision of law, to give retroactive effect to any proclamation issued pursuant to [section 2011 of this title][/us/usc/t19/s2011] as of the earliest date after January 17, 1965, which he determines to be practicable.
 
     (b) __Filing of request with customs officer__ 
 
-        In the case of liquidated customs entries, the retroactive effect pursuant to subsection (a) of this section of any proclamation shall apply only upon request therefor filed with the customs officer concerned on or before the 90th day after the date of such proclamation and subject to such other conditions as the President may specify.
+        In the case of liquidated customs entries, the retroactive effect pursuant to subsection (a) of any proclamation shall apply only upon request therefor filed with the customs officer concerned on or before the 90th day after the date of such proclamation and subject to such other conditions as the President may specify.
 
 ([Pub. L. 89–283, title II, § 203][/us/pl/89/283/s203], Oct. 21, 1965, [79 Stat. 1018][/us/stat/79/1018].)
 

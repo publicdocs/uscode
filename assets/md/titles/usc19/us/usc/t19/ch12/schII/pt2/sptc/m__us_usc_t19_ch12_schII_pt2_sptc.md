@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t19/ch12/schII/pt2/dII/m__us_usc_t19_s2298.md) | [Next](./../../../../../../..//us/usc/t19/ch12/schII/pt2/sptc/m__us_usc_t19_s2311.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch12%2FschII%2Fpt2%2Fsptc)
+[Previous](./../../../../../../..//us/usc/t19/ch12/schII/pt2/sptb/dII/m__us_usc_t19_s2298.md) | [Next](./../../../../../../..//us/usc/t19/ch12/schII/pt2/sptc/m__us_usc_t19_s2311.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch12%2FschII%2Fpt2%2Fsptc)
 
 ##### subpart c—general provisions
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t19/ch12/schII/pt2/dII/m__us_usc_t19_s2298.md) | [Next](./../../../../../../..//us/usc/t19/ch12/schII/pt2/sptc/m__us_usc_t19_s2311.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch12%2FschII%2Fpt2%2Fsptc)
+[Previous](./../../../../../../..//us/usc/t19/ch12/schII/pt2/sptb/dII/m__us_usc_t19_s2298.md) | [Next](./../../../../../../..//us/usc/t19/ch12/schII/pt2/sptc/m__us_usc_t19_s2311.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch12%2FschII%2Fpt2%2Fsptc)
 
 ----------
 ----------

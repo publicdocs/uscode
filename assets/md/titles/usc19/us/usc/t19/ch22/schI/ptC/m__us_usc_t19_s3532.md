@@ -21,7 +21,7 @@
 
     (b) __Consultations with congressional committees__ 
 
-    In furtherance of the objective set forth in subsection (a) of this section, the Trade Representative shall consult with the appropriate congressional committees before any vote is taken by the Ministerial Conference or the General Council relating to—
+    In furtherance of the objective set forth in subsection (a), the Trade Representative shall consult with the appropriate congressional committees before any vote is taken by the Ministerial Conference or the General Council relating to—
 
         (1) the adoption of an interpretation of the WTO Agreement or another multilateral trade agreement,
 
@@ -41,7 +41,7 @@
 
         (1) __In general__ 
 
-        Not later than 30 days after the end of any calendar year in which the Ministerial Conference or the General Council adopts by vote any decision to take any action described in paragraph (1), (2), (4), or (6) of subsection (b) of this section, the Trade Representative shall submit a report to the appropriate congressional committees describing—
+        Not later than 30 days after the end of any calendar year in which the Ministerial Conference or the General Council adopts by vote any decision to take any action described in paragraph (1), (2), (4), or (6) of subsection (b), the Trade Representative shall submit a report to the appropriate congressional committees describing—
 
             (A) the nature of the decision;
 
@@ -57,15 +57,15 @@
 
             (A) __Grant of waiver__ 
 
-                In the case of a decision to grant a waiver described in subsection (b)(3) of this section, the report under paragraph (1) shall describe the terms and conditions of the waiver and the rights and obligations of the United States that are affected by the waiver.
+                In the case of a decision to grant a waiver described in subsection (b)(3), the report under paragraph (1) shall describe the terms and conditions of the waiver and the rights and obligations of the United States that are affected by the waiver.
 
             (B) __Accession__ 
 
-                In the case of a decision on accession described in subsection (b)(5) of this section, the report under paragraph (1) shall state whether the United States intends to invoke Article XIII of the WTO Agreement.
+                In the case of a decision on accession described in subsection (b)(5), the report under paragraph (1) shall state whether the United States intends to invoke Article XIII of the WTO Agreement.
 
     (d) __Consultation on report__ 
 
-        Promptly after the submission of a report under subsection (c) of this section, the Trade Representative shall consult with the appropriate congressional committees with respect to the report.
+        Promptly after the submission of a report under subsection (c), the Trade Representative shall consult with the appropriate congressional committees with respect to the report.
 
 ([Pub. L. 103–465, title I, § 122][/us/pl/103/465/s122], Dec. 8, 1994, [108 Stat. 4829][/us/stat/108/4829].)
 

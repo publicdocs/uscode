@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        No later than the date that is 30 days after the date on which the President receives the report of the International Trade Commission containing an affirmative determination of the International Trade Commission under [section 3353(a) of this title][/us/usc/t19/s3353/a], the President, subject to subsection (b) of this section, shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or, except in the case of imports of a Canadian article, prevent the injury found by the International Trade Commission.
+        No later than the date that is 30 days after the date on which the President receives the report of the International Trade Commission containing an affirmative determination of the International Trade Commission under [section 3353(a) of this title][/us/usc/t19/s3353/a], the President, subject to subsection (b), shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or, except in the case of imports of a Canadian article, prevent the injury found by the International Trade Commission.
 
     (b) __Exception__ 
 

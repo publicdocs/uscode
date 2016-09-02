@@ -33,7 +33,7 @@
 
     (b) __Land Grant Colleges and not-for-profit institutions__ 
 
-        In conducting the study under subsection (a) of this section, the Secretary of Agriculture is encouraged to consult with American Land Grant Colleges and not-for-profit international organizations that have firsthand knowledge of current African farming practices.
+        In conducting the study under subsection (a), the Secretary of Agriculture is encouraged to consult with American Land Grant Colleges and not-for-profit international organizations that have firsthand knowledge of current African farming practices.
 
 ([Pub. L. 106–200, title I, § 130][/us/pl/106/200/s130], May 18, 2000, [114 Stat. 274][/us/stat/114/274].)
 

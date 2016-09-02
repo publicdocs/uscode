@@ -25,7 +25,7 @@
 
     (b) __Rate__ 
 
-        The rate of interest payable under subsection (a) of this section for any period of time is the rate of interest established under [section 6621 of title 26][/us/usc/t26/s6621] for such period.
+        The rate of interest payable under subsection (a) for any period of time is the rate of interest established under [section 6621 of title 26][/us/usc/t26/s6621] for such period.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 778, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 188][/us/stat/93/188]; amended [Pub. L. 98–573, title VI, § 621][/us/pl/98/573/s621], Oct. 30, 1984, [98 Stat. 3039][/us/stat/98/3039]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 

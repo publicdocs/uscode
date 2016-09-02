@@ -23,7 +23,7 @@
 
         (1) __Structure__ 
 
-            Each fund initiated under subsection (a) of this section should be structured as a partnership managed by professional private sector fund managers and monitored on a continuing basis by the Corporation.
+            Each fund initiated under subsection (a) should be structured as a partnership managed by professional private sector fund managers and monitored on a continuing basis by the Corporation.
 
         (2) __Capitalization__ 
 

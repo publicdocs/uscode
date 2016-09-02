@@ -27,7 +27,7 @@
 
     (b) __If information not available__ 
 
-    If information that is requested by a person under subsection (a) of this section is not available to the Trade Representative or other Federal agencies, the Trade Representative shall, within 30 days after receipt of the request—
+    If information that is requested by a person under subsection (a) is not available to the Trade Representative or other Federal agencies, the Trade Representative shall, within 30 days after receipt of the request—
 
         (1) request the information from the foreign government; or
 

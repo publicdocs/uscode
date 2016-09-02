@@ -57,7 +57,7 @@
 
     (b) __Participation in Program__ 
 
-        The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) of this section or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
+        The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
 
     (c) __Foreign-trade zones__ 
 

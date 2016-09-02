@@ -29,6 +29,16 @@
 
 > “All provisions of law (other than this Act \[this chapter\], the Trade Expansion Act of 1962 \[chapter 7 of this title\], and the Trade Agreements Extension Act of 1951 \[see Short Title of 1951 Amendment note set out under [section 1654 of this title][/us/usc/t19/s1654]\]), in effect after the date of enactment of this Act \[Jan. 3, 1975\], referring to section 350 of the Tariff Act of 1930 \[[section 1351 of this title][/us/usc/t19/s1351]\], to that section as amended, to the Act entitled ‘An Act to amend the Tariff Act of 1930,’ approved June 12, 1934 \[enacting sections 1352, 1353, and 1354 and amending [section 1351 of this title][/us/usc/t19/s1351]\], to that Act as amended or to the Trade Expansion Act of 1962, or to agreements entered into, or proclamations issued, or actions taken under any of such provisions, shall be construed, unless clearly precluded by the context, to refer also to this Act, or to agreements entered into or proclamations or orders issued pursuant to this Act.”
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–27, § 1(a)][/us/pl/114/27/s1/a], June 29, 2015, [129 Stat. 362][/us/stat/129/362], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Trade Preferences Extension Act of 2015’.”
+
+[Pub. L. 114–27, title IV, § 401][/us/pl/114/27/s401], June 29, 2015, [129 Stat. 373][/us/stat/129/373], provided that: 
+
+> “This title \[see Tables for classification\] may be cited as the ‘Trade Adjustment Assistance Reauthorization Act of 2015’.”
+
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–208, § 1(a)][/us/pl/112/208/s1/a], Dec. 14, 2012, [126 Stat. 1496][/us/stat/126/1496], provided that: 
@@ -126,6 +136,10 @@
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
+[/us/pl/114/27/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs1%2Fa
+[/us/stat/129/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F362
+[/us/pl/114/27/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs401
+[/us/stat/129/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F373
 [/us/pl/112/208/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F208%2Fs1%2Fa
 [/us/stat/126/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1496
 [/us/usc/t19/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241

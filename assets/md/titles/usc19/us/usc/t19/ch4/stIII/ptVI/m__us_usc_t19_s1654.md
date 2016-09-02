@@ -19,6 +19,12 @@
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 654, [46 Stat. 763][/us/stat/46/763].)
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–27, title V, § 501][/us/pl/114/27/s501], June 29, 2015, [129 Stat. 383][/us/stat/129/383], provided that: 
+
+> “This title \[amending sections 1677, 1677b, 1677e, and 1677m of this title and enacting provisions set out as a note under [section 3438 of this title][/us/usc/t19/s3438]\] may be cited as the ‘American Trade Enforcement Effectiveness Act’.”
+
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–93, § 1][/us/pl/112/93/s1], Feb. 10, 2012, [126 Stat. 8][/us/stat/126/8], provided that: 
@@ -188,6 +194,9 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F763
+[/us/pl/114/27/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs501
+[/us/stat/129/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F383
+[/us/usc/t19/s3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3438
 [/us/pl/112/93/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F93%2Fs1
 [/us/stat/126/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F8
 [/us/usc/t19/s1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1590

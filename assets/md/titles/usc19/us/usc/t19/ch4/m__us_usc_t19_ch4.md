@@ -75,7 +75,7 @@ Part I—Miscellaneous  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1304a" data-uslm-ref="/us/usc/t19/s1304a">1304a.</a>  </td>
 
-    <td> Technical assistance to CBP.  </td>
+    <td> Technical assistance to U.S. Customs and Border Protection.  </td>
 
   </tr>
 

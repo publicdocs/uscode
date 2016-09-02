@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-        A domestic producer of an article that is like a component part or a downstream product may petition the administering authority to designate a downstream product for monitoring under subsection (b) of this section. The petition shall specify—
+        A domestic producer of an article that is like a component part or a downstream product may petition the administering authority to designate a downstream product for monitoring under subsection (b). The petition shall specify—
 
             (A) the downstream product,
 
@@ -65,7 +65,7 @@
 
         (1) __In general__ 
 
-            If the determination made under subsection (a)(2)(A) of this section and a determination made under any clause of subsection (a)(2)(B) of this section with respect to a petition are affirmative, the Commission shall immediately commence monitoring of trade in the downstream product that is the subject of the determination made under subsection (a)(2)(A) of this section. If the Commission finds that imports of a downstream product being monitored increased during any calendar quarter by 5 percent or more over the preceding quarter, the Commission shall analyze that increase in the context of overall economic conditions in the product sector.
+            If the determination made under subsection (a)(2)(A) and a determination made under any clause of subsection (a)(2)(B) with respect to a petition are affirmative, the Commission shall immediately commence monitoring of trade in the downstream product that is the subject of the determination made under subsection (a)(2)(A). If the Commission finds that imports of a downstream product being monitored increased during any calendar quarter by 5 percent or more over the preceding quarter, the Commission shall analyze that increase in the context of overall economic conditions in the product sector.
 
         (2) __Reports__ 
 
@@ -73,7 +73,7 @@
 
     (c) __Action on basis of monitoring reports__ 
 
-    The administering authority shall review the information in the reports submitted by the Commission under subsection (b)(2) of this section and shall—
+    The administering authority shall review the information in the reports submitted by the Commission under subsection (b)(2) and shall—
 
         (1) consider the information in determining whether to initiate an investigation under section 1671a(a) or 1673a(a) of this title regarding any downstream product, and
 
@@ -89,7 +89,7 @@
 
             (A)
 
-             during the 5-year period ending on the date on which the petition is filed under subsection (a) of this section, has been subject to—
+             during the 5-year period ending on the date on which the petition is filed under subsection (a), has been subject to—
 
                 (i) a countervailing or antidumping duty order issued under this subtitle or section 1303 1 of this title that requires the deposit of estimated countervailing or antidumping duties imposed at a rate of at least 15 percent ad valorem, or
 

@@ -49,6 +49,12 @@
 
 > “The amendments made by this section \[amending this section and sections 3706 and 3721 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2012\].”
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–27, title I, § 101][/us/pl/114/27/s101], June 29, 2015, [129 Stat. 363][/us/stat/129/363], provided that: 
+
+> “This title \[amending sections 2466a, 2466b, 3702, 3703, and 3721 of this title, enacting provisions set out as notes under this section and sections 2466a and 3705 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘AGOA Extension and Enhancement Act of 2015’.”
+
  __Short Title of 2006 Amendment__ 
 
 [Pub. L. 109–432, div. D, title VI, § 6001][/us/pl/109/432/s6001], Dec. 20, 2006, [120 Stat. 3190][/us/stat/120/3190], provided that: 
@@ -65,9 +71,51 @@
 
 > “This title \[enacting this chapter and sections 2466a and 2466b of this title and amending [section 2463 of this title][/us/usc/t19/s2463] and sections 2193 and 2293 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘African Growth and Opportunity Act’.”
 
+ __Findings Relating to Extension and Enhancement of African Growth and Opportunity Act__ 
+
+[Pub. L. 114–27, title I, § 102][/us/pl/114/27/s102], June 29, 2015, [129 Stat. 363][/us/stat/129/363], provided that: 
+
+> “Congress finds the following:
+
+>     “(1) Since its enactment, the African Growth and Opportunity Act \[[19 U.S.C. 3701][/us/usc/t19/s3701] et seq.\] has been the centerpiece of trade relations between the United States and sub-Saharan Africa and has enhanced trade, investment, job creation, and democratic institutions throughout Africa.
+
+>     “(2) Trade and investment, as facilitated by the African Growth and Opportunity Act, promote economic growth, development, poverty reduction, democracy, the rule of law, and stability in sub-Saharan Africa.
+
+>     “(3) Trade between the United States and sub-Saharan Africa has more than tripled since the enactment of the African Growth and Opportunity Act in 2000, and United States direct investment in sub-Saharan Africa has grown almost sixfold.
+
+>     “(4) It is in the interest of the United States to engage and compete in emerging markets in sub-Saharan African countries, to boost trade and investment between the United States and sub-Saharan African countries, and to renew and strengthen the African Growth and Opportunity Act.
+
+>     “(5) The long-term economic security of the United States is enhanced by strong economic and political ties with the fastest-growing economies in the world, many of which are in sub-Saharan Africa.
+
+>     “(6) It is a goal of the United States to further integrate sub-Saharan African countries into the global economy, stimulate economic development in Africa, and diversify sources of growth in sub-Saharan Africa.
+
+>     “(7) To that end, implementation of the Agreement on Trade Facilitation of the World Trade Organization would strengthen regional integration efforts in sub-Saharan Africa and contribute to economic growth in the region.
+
+>     “(8) The elimination of barriers to trade and investment in sub-Saharan Africa, including high tariffs, forced localization requirements, restrictions on investment, and customs barriers, will create opportunities for workers, businesses, farmers, and ranchers in the United States and sub-Saharan African countries.
+
+>     “(9) The elimination of such barriers will improve utilization of the African Growth and Opportunity Act and strengthen regional and global integration, accelerate economic growth in sub-Saharan Africa, and enhance the trade relationship between the United States and sub-Saharan Africa.”
+
+    \[For definition of “sub-Saharan African country” as used in [section 102 of Pub. L. 114–27][/us/pl/114/27/s102], set out above, see [section 112 of Pub. L. 114–27][/us/pl/114/27/s112], set out below.\]
+
+ __Deepening and Expanding Trade and Investment Ties Between Sub-Saharan Africa and the United States__ 
+
+[Pub. L. 114–27, title I, § 108][/us/pl/114/27/s108], June 29, 2015, [129 Stat. 369][/us/stat/129/369], provided that: 
+
+> “It is the policy of the United States to continue to—
+
+>     “(1) seek to deepen and expand trade and investment ties between sub-Saharan Africa and the United States, including through the negotiation of accession by sub-Saharan African countries to the World Trade Organization and the negotiation of trade and investment framework agreements, bilateral investment treaties, and free trade agreements, as such agreements have the potential to catalyze greater trade and investment, facilitate additional investment in sub-Saharan Africa, further poverty reduction efforts, and promote economic growth;
+
+>     “(2) seek to negotiate agreements with individual sub-Saharan African countries as well as with the Regional Economic Communities, as appropriate;
+
+>     “(3) promote full implementation of commitments made under the WTO Agreement (as such term is defined in section 2(9) of the Uruguay Round Agreements Act ([19 U.S.C. 3501(9)][/us/usc/t19/s3501/9]) because such actions are likely to improve utilization of the African Growth and Opportunity Act \[[19 U.S.C. 3701][/us/usc/t19/s3701] et seq.\] and promote trade and investment and because regular review to ensure continued compliance helps to maximize the benefits of the African Growth and Opportunity Act; and
+
+>     “(4) promote the negotiation of trade agreements that cover substantially all trade between parties to such agreements and, if other countries seek to negotiate trade agreements that do not cover substantially all trade, continue to object in all appropriate forums.”
+
+    \[For definition of “sub-Saharan African country” as used in [section 108 of Pub. L. 114–27][/us/pl/114/27/s108], set out above, see [section 112 of Pub. L. 114–27][/us/pl/114/27/s112], set out below.\]
+
  __AGOA Acceleration__ 
 
-[Pub. L. 108–274][/us/pl/108/274], July 13, 2004, [118 Stat. 820][/us/stat/118/820], as amended by [Pub. L. 108–429, title II, § 2004(j)(1)][/us/pl/108/429/s2004/j/1], Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595], provided that:
+[Pub. L. 108–274][/us/pl/108/274], July 13, 2004, [118 Stat. 820][/us/stat/118/820], as amended by [Pub. L. 108–429, title II, § 2004(j)(1)][/us/pl/108/429/s2004/j/1], Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595]; [Pub. L. 114–27, title I, § 109][/us/pl/114/27/s109], June 29, 2015, [129 Stat. 369][/us/stat/129/369], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -187,6 +235,8 @@
 [/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
 [/us/pl/112/163/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fd
 [/us/stat/126/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1274
+[/us/pl/114/27/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs101
+[/us/stat/129/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F363
 [/us/pl/109/432/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6001
 [/us/stat/120/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3190
 [/us/usc/t19/s3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3721
@@ -195,10 +245,23 @@
 [/us/pl/106/200/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs101
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252
 [/us/usc/t19/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463
+[/us/pl/114/27/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs102
+[/us/stat/129/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F363
+[/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
+[/us/pl/114/27/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs102
+[/us/pl/114/27/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs112
+[/us/pl/114/27/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs108
+[/us/stat/129/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F369
+[/us/usc/t19/s3501/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F9
+[/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
+[/us/pl/114/27/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs108
+[/us/pl/114/27/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs112
 [/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
 [/us/stat/118/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F820
 [/us/pl/108/429/s2004/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fj%2F1
 [/us/stat/118/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2595
+[/us/pl/114/27/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs109
+[/us/stat/129/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F369
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
 [/us/usc/t19/s3802/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3802%2Fb%2F3
 [/us/usc/t19/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd

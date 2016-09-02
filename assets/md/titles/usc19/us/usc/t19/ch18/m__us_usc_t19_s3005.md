@@ -31,7 +31,7 @@
 
     (b) __Agency and public views regarding recommendations__ 
 
-    In formulating recommendations under subsection (a) of this section, the Commission shall solicit, and give consideration to, the views of interested Federal agencies and the public. For purposes of obtaining public views, the Commission—
+    In formulating recommendations under subsection (a), the Commission shall solicit, and give consideration to, the views of interested Federal agencies and the public. For purposes of obtaining public views, the Commission—
 
         (1) shall give notice of the proposed recommendations and afford reasonable opportunity for interested parties to present their views in writing; and
 

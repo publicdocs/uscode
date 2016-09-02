@@ -43,7 +43,7 @@
 
     (e) __Notice of appeals of panel reports__ 
 
-    If an appeal is taken of a report of a panel in a proceeding described in subsection (d) of this section, the Trade Representative shall, promptly after the notice of appeal is filed, notify the appropriate congressional committees of—
+    If an appeal is taken of a report of a panel in a proceeding described in subsection (d), the Trade Representative shall, promptly after the notice of appeal is filed, notify the appropriate congressional committees of—
 
         (1) the issues under appeal; and
 
@@ -51,7 +51,7 @@
 
     (f) __Actions upon circulation of reports__ 
 
-    Promptly after the circulation of a report of a panel or of the Appellate Body to WTO members in a proceeding described in subsection (d) of this section, the Trade Representative shall—
+    Promptly after the circulation of a report of a panel or of the Appellate Body to WTO members in a proceeding described in subsection (d), the Trade Representative shall—
 
         (1) notify the appropriate congressional committees of the report;
 
@@ -65,7 +65,7 @@
 
         In any case in which a dispute settlement panel or the Appellate Body finds in its report that a regulation or practice of a department or agency of the United States is inconsistent with any of the Uruguay Round Agreements, that regulation or practice may not be amended, rescinded, or otherwise modified in the implementation of such report unless and until—
 
-            (A) the appropriate congressional committees have been consulted under subsection (f) of this section;
+            (A) the appropriate congressional committees have been consulted under subsection (f);
 
             (B) the Trade Representative has sought advice regarding the modification from relevant private sector advisory committees established under [section 2155 of this title][/us/usc/t19/s2155];
 

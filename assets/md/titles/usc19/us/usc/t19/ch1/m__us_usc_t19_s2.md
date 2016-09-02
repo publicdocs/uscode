@@ -41,9 +41,9 @@
 
  __Customs Districts and Ports of Entry__ 
 
-    An alphabetical index of ports of entry is contained in Schedule D of the Harmonized Tariff Schedule. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
+    An alphabetical index of ports of entry is contained in Schedule D of the Harmonized Tariff Schedule, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
-    For list of international airports of entry, see section 6.13 of Part 6 of Chapter 1, United States Customs Service, of Title 19, Customs Duties, of the Code of Federal Regulations.
+    For list of international airports of entry, see section 122.13 of Part 122 of Chapter 1 of Title 19, Customs Duties, of the Code of Federal Regulations.
 
  __Virginia Inland Port; Withdrawal of Designation as Customs Service Port of Entry Prohibited__ 
 

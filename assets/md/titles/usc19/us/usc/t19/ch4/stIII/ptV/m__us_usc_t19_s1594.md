@@ -39,7 +39,7 @@
 
             unless the owner or operator, or the master, pilot, conductor, driver or other person in charge participated in, or had knowledge of, the violation, or was grossly negligent in preventing or discovering the violation.
 
-        (2) Except as provided in paragraph (1) or subsection (c) of this section, no vessel, vehicle, or aircraft is subject to forfeiture to the extent of an interest of an owner for a drug-related offense established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner.
+        (2) Except as provided in paragraph (1) or subsection (c), no vessel, vehicle, or aircraft is subject to forfeiture to the extent of an interest of an owner for a drug-related offense established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner.
 
     (c) __Prohibited merchandise on conveyance__ 
 
@@ -81,7 +81,7 @@
 
     (e) __Costs and expenses of seizure__ 
 
-        When a common carrier has been seized in accordance with the provisions of subsection (c) of this section and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.
+        When a common carrier has been seized in accordance with the provisions of subsection (c) and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 594, [46 Stat. 751][/us/stat/46/751]; [Pub. L. 99–570, title III, § 3121][/us/pl/99/570/s3121], Oct. 27, 1986, [100 Stat. 3207–86][/us/stat/100/3207-86]; [Pub. L. 100–690, title VI, § 6076(b)][/us/pl/100/690/s6076/b], Nov. 18, 1988, [102 Stat. 4324][/us/stat/102/4324].)
 

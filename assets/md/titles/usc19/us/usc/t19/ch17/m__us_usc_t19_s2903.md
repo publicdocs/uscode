@@ -73,7 +73,7 @@
 
         (1)
 
-         Except as provided in subsection (c) of this section—
+         Except as provided in subsection (c)—
 
             (A) the provisions of [section 2191 of this title][/us/usc/t19/s2191] (hereinafter in this section referred to as “fast track procedures”) apply to implementing bills submitted with respect to trade agreements entered into under section 2902(b) or (c) of this title before June 1, 1991; and
 
@@ -167,7 +167,7 @@
 
     (d) __Rules of House of Representatives and Senate__ 
 
-    Subsections (b) and (c) of this section are enacted by the Congress—
+    Subsections (b) and (c) are enacted by the Congress—
 
         (1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such is deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
 

@@ -17,7 +17,7 @@
 
     (a) __Required action by President__ 
 
-    Subject to subsection (b) of this section, for every major drug producing country and every major drug-transit country, the President shall, on or after March 1, 1987, and March 1 of each succeeding year, to the extent considered necessary by the President to achieve the purposes of this subchapter—
+    Subject to subsection (b), for every major drug producing country and every major drug-transit country, the President shall, on or after March 1, 1987, and March 1 of each succeeding year, to the extent considered necessary by the President to achieve the purposes of this subchapter—
 
         (1) deny to any or all of the products of that country tariff treatment under the Generalized System of Preferences, the Caribbean Basin Economic Recovery Act \[[19 U.S.C. 2701][/us/usc/t19/s2701] et seq.\], or any other law providing preferential tariff treatment;
 
@@ -25,7 +25,7 @@
 
         (3) apply to one or more duty-free products of that country a duty at a rate not to exceed 50 percent ad valorem;
 
-        (4) take the steps described in subsection (d)(1) or (d)(2) of this section, or both, to curtail air transportation between the United States and that country;
+        (4) take the steps described in subsection (d)(1) or (d)(2), or both, to curtail air transportation between the United States and that country;
 
         (5) withdraw the personnel and resources of the United States from participation in any arrangement with that country for the pre-clearance of customs by visitors between the United States and that country; or
 
@@ -37,7 +37,7 @@
 
             (A)
 
-             Subject to paragraph (3), subsection (a) of this section shall not apply with respect to a country if the President determines and certifies to the Congress, at the time of the submission of the report required by [section 2291h of title 22][/us/usc/t22/s2291h], that—
+             Subject to paragraph (3), subsection (a) shall not apply with respect to a country if the President determines and certifies to the Congress, at the time of the submission of the report required by [section 2291h of title 22][/us/usc/t22/s2291h], that—
 
                 (i)
 
@@ -51,7 +51,7 @@
 
                     (IV) in preventing and punishing bribery and other forms of public corruption which facilitate the illicit production, processing, or shipment of narcotic and psychotropic drugs and other controlled substances, or which discourage the investigation and prosecution of such acts; or
 
-                (ii) for a country that would not otherwise qualify for certification under clause (i), the vital national interests of the United States require that subsection (a) of this section not be applied with respect to that country.
+                (ii) for a country that would not otherwise qualify for certification under clause (i), the vital national interests of the United States require that subsection (a) not be applied with respect to that country.
 
             (B)
 
@@ -77,7 +77,7 @@
 
              If the President makes a certification with respect to a country pursuant to subparagraph (A)(ii), he shall include in such certification—
 
-                (i) a full and complete description of the vital national interests placed at risk if action is taken pursuant to subsection (a) of this section with respect to that country; and
+                (i) a full and complete description of the vital national interests placed at risk if action is taken pursuant to subsection (a) with respect to that country; and
 
                 (ii) a statement weighing the risk described in clause (i) against the risks posed to the vital national interests of the United States by the failure of such country to cooperate fully with the United States in combating narcotics or to take adequate steps to combat narcotics on its own.
 
@@ -117,11 +117,11 @@
 
             (K) Has that government refused to protect or give haven to any known drug traffickers, and has it expeditiously processed extradition requests relating to narcotics trafficking made by other countries?
 
-        (3) Subsection (a) of this section shall apply to a country without regard to paragraph (1) of this subsection if the Congress enacts, within 45 days of continuous session after receipt of a certification under paragraph (1), a joint resolution disapproving the determination of the President contained in that certification.
+        (3) Subsection (a) shall apply to a country without regard to paragraph (1) of this subsection if the Congress enacts, within 45 days of continuous session after receipt of a certification under paragraph (1), a joint resolution disapproving the determination of the President contained in that certification.
 
         (4)
 
-         If the President takes action under subsection (a) of this section, that action shall remain in effect until—
+         If the President takes action under subsection (a), that action shall remain in effect until—
 
             (A) the President makes the certification under paragraph (1), a period of 45 days of continuous session of Congress elapses, and during that period the Congress does not enact a joint resolution of disapproval; or
 
@@ -137,13 +137,13 @@
 
     (c) __Duration of action__ 
 
-        The action taken by the President under paragraph (1), (2), or (3) of subsection (a) of this section shall apply to the products of a foreign country that are entered, or withdrawn from warehouse for consumption, during the period that such action is in effect.
+        The action taken by the President under paragraph (1), (2), or (3) of subsection (a) shall apply to the products of a foreign country that are entered, or withdrawn from warehouse for consumption, during the period that such action is in effect.
 
     (d) __Presidential action regarding aviation__ 
 
         (1)
 
-            (A) The President is authorized to notify the government of a country against which is imposed the sanction described in subsection (a)(4) of this section of his intention to suspend the authority of foreign air carriers owned or controlled by the government or nationals of that country to engage in foreign air transportation to or from the United States.
+            (A) The President is authorized to notify the government of a country against which is imposed the sanction described in subsection (a)(4) of his intention to suspend the authority of foreign air carriers owned or controlled by the government or nationals of that country to engage in foreign air transportation to or from the United States.
 
             (B) Within 10 days after the date of notification of a government under subparagraph (A), the Secretary of Transportation shall take all steps necessary to suspend at the earliest possible date the authority of any foreign air carrier owned or controlled, directly or indirectly, by the government or nationals of that country to engage in foreign air transportation to or from the United States, notwithstanding any agreement relating to air services.
 
@@ -151,7 +151,7 @@
 
         (2)
 
-            (A) The President may direct the Secretary of State to terminate any air service agreement between the United States and a country against which the sanction described in subsection (a)(4) of this section is imposed in accordance with the provisions of that agreement.
+            (A) The President may direct the Secretary of State to terminate any air service agreement between the United States and a country against which the sanction described in subsection (a)(4) is imposed in accordance with the provisions of that agreement.
 
             (B) Upon termination of an agreement under this paragraph, the Secretary of Transportation shall take such steps as may be necessary to revoke at the earliest possible date the right of any foreign air carrier owned, or controlled, directly or indirectly, by the government or nationals of that country to engage in foreign air transportation to or from the United States.
 

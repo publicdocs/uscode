@@ -25,7 +25,7 @@
 
     (b) __Modification of agreements on basis of consultations__ 
 
-        At the direction of the President, the administering authority shall modify a quantitative restriction agreement as a result of consultations entered into under subsection (a) of this section.
+        At the direction of the President, the administering authority shall modify a quantitative restriction agreement as a result of consultations entered into under subsection (a).
 
     (c) __Special rule regarding agreements under__  __[__  __section 1671c(c)(3) of this title__  __][/us/usc/t19/s1671c/c/3]__ 
 

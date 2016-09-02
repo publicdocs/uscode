@@ -19,7 +19,7 @@
 
     Pursuant to [section 2903 of this title][/us/usc/t19/s2903] and [section 2191 of this title][/us/usc/t19/s2191], the Congress approves—
 
-        (1) the trade agreements described in subsection (d) of this section resulting from the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994, and submitted to the Congress on September 27, 1994; and
+        (1) the trade agreements described in subsection (d) resulting from the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994, and submitted to the Congress on September 27, 1994; and
 
         (2) the statement of administrative action proposed to implement the agreements that was submitted to the Congress on September 27, 1994.
 
@@ -33,7 +33,7 @@
 
     (d) __Trade agreements to which this Act applies__ 
 
-    Subsection (a) of this section applies to the WTO Agreement and to the following agreements annexed to that Agreement:
+    Subsection (a) applies to the WTO Agreement and to the following agreements annexed to that Agreement:
 
         (1) The General Agreement on Tariffs and Trade 1994.
 

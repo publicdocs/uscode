@@ -29,7 +29,7 @@
 
             (D) the Customs Service believes that any merchandise is not correctly and legally invoiced;
 
-            the carrier (unless subject to subsection (c) of this section) shall notify the bonded warehouse of such unentered merchandise.
+            the carrier (unless subject to subsection (c)) shall notify the bonded warehouse of such unentered merchandise.
 
         (2)
 
@@ -49,7 +49,7 @@
 
     Any imported merchandise that—
 
-        (1) is described in any of subparagraphs (A) through (D) of subsection (a)(1) of this section; and
+        (1) is described in any of subparagraphs (A) through (D) of subsection (a)(1); and
 
         (2) is consigned to, or owned by, the United States Government;
 

@@ -45,7 +45,7 @@
 
         (1) __Conditions for waiver of deposit of estimated duties__ 
 
-        The administering authority may permit, for not more than 90 days after the date of publication of an order under subsection (a) of this section, the posting of a bond or other security in lieu of the deposit of estimated antidumping duties required under subsection (a)(3) of this section if—
+        The administering authority may permit, for not more than 90 days after the date of publication of an order under subsection (a), the posting of a bond or other security in lieu of the deposit of estimated antidumping duties required under subsection (a)(3) if—
 
             (A)
 
@@ -61,7 +61,7 @@
 
             (C)
 
-             on the basis of information presented to the administering authority by any manufacturer, producer, or exporter in such form and within such time as the administering authority may require, the administering authority is satisfied that a determination will be made, within 90 days after the date of publication of an order under subsection (a) of this section, of the normal value and the export price (or the constructed export price) for all merchandise of such manufacturer, producer, or exporter described in that order which was entered, or withdrawn from warehouse, for consumption on or after the date of publication of—
+             on the basis of information presented to the administering authority by any manufacturer, producer, or exporter in such form and within such time as the administering authority may require, the administering authority is satisfied that a determination will be made, within 90 days after the date of publication of an order under subsection (a), of the normal value and the export price (or the constructed export price) for all merchandise of such manufacturer, producer, or exporter described in that order which was entered, or withdrawn from warehouse, for consumption on or after the date of publication of—
 
                 (i) an affirmative preliminary determination by the administering authority under [section 1673b(b) of this title][/us/usc/t19/s1673b/b], or
 
@@ -69,7 +69,7 @@
 
                 and before the date of publication of the affirmative final determination by the Commission under [section 1673d(b) of this title][/us/usc/t19/s1673d/b];
 
-            (D) the party described in subparagraph (C) provides credible evidence that the amount by which the normal value of the merchandise exceeds the export price (or the constructed export price) of the merchandise is significantly less than the amount of such excess specified in the antidumping duty order published under subsection (a) of this section; and
+            (D) the party described in subparagraph (C) provides credible evidence that the amount by which the normal value of the merchandise exceeds the export price (or the constructed export price) of the merchandise is significantly less than the amount of such excess specified in the antidumping duty order published under subsection (a); and
 
             (E) the data concerning the normal value and the export price (or the constructed export price) apply to sales in the usual commercial quantities and in the ordinary course of trade and the number of such sales are sufficient to form an adequate basis for comparison.
 
@@ -83,7 +83,7 @@
 
         (3) __Determinations to be basis of antidumping duty__ 
 
-            The administering authority shall publish notice in the Federal Register of the results of its determination of normal value and export price (or the constructed export price), and that determination shall be the basis for the assessment of antidumping duties on entries of merchandise to which the notice under this subsection applies and also shall be the basis for the deposit of estimated antidumping duties on future entries of merchandise of manufacturers, producers, or exporters described in paragraph (1) to which the order issued under subsection (a) of this section applies.
+            The administering authority shall publish notice in the Federal Register of the results of its determination of normal value and export price (or the constructed export price), and that determination shall be the basis for the assessment of antidumping duties on entries of merchandise to which the notice under this subsection applies and also shall be the basis for the deposit of estimated antidumping duties on future entries of merchandise of manufacturers, producers, or exporters described in paragraph (1) to which the order issued under subsection (a) applies.
 
         (4) __Provision of business proprietary information; written comments__ 
 

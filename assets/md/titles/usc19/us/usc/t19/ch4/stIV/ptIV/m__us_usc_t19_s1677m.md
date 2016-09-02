@@ -17,17 +17,31 @@
 
     (a) __Treatment of voluntary responses in countervailing or antidumping duty investigations and reviews__ 
 
-    In any investigation under part I or II of this subtitle or a review under [section 1675(a) of this title][/us/usc/t19/s1675/a] in which the administering authority has, under [section 1677f–1(c)(2) of this title][/us/usc/t19/s1677f–1/c/2] or [section 1677f–1(e)(2)(A) of this title][/us/usc/t19/s1677f–1/e/2/A] (whichever is applicable), limited the number of exporters or producers examined, or determined a single country-wide rate, the administering authority shall establish an individual countervailable subsidy rate or an individual weighted average dumping margin for any exporter or producer not initially selected for individual examination under such sections who submits to the administering authority the information requested from exporters or producers selected for examination, if—
+        (1) __In general__ 
 
-        (1)
+        In any investigation under part I or II of this subtitle or a review under [section 1675(a) of this title][/us/usc/t19/s1675/a] in which the administering authority has, under [section 1677f–1(c)(2) of this title][/us/usc/t19/s1677f–1/c/2] or [section 1677f–1(e)(2)(A) of this title][/us/usc/t19/s1677f–1/e/2/A] (whichever is applicable), limited the number of exporters or producers examined, or determined a single country-wide rate, the administering authority shall establish an individual countervailable subsidy rate or an individual weighted average dumping margin for any exporter or producer not initially selected for individual examination under such sections who submits to the administering authority the information requested from exporters or producers selected for examination, if—
 
-         such information is so submitted by the date specified—
+            (A)
 
-            (A) for exporters and producers that were initially selected for examination, or
+             such information is so submitted by the date specified—
 
-            (B) for the foreign government, in a countervailing duty case where the administering authority has determined a single country-wide rate; and
+                (i) for exporters and producers that were initially selected for examination, or
 
-        (2) the number of exporters or producers who have submitted such information is not so large that individual examination of such exporters or producers would be unduly burdensome and inhibit the timely completion of the investigation.
+                (ii) for the foreign government, in a countervailing duty case where the administering authority has determined a single country-wide rate; and
+
+            (B) the number of exporters or producers subject to the investigation or review is not so large that any additional individual examination of such exporters or producers would be unduly burdensome to the administering authority and inhibit the timely completion of the investigation or review.
+
+        (2) __Determination of unduly burdensome__ 
+
+        In determining if an individual examination under paragraph (1)(B) would be unduly burdensome, the administering authority may consider the following:
+
+            (A) The complexity of the issues or information presented in the proceeding, including questionnaires and any responses thereto.
+
+            (B) Any prior experience of the administering authority in the same or similar proceeding.
+
+            (C) The total number of investigations under part I or II and reviews under [section 1675 of this title][/us/usc/t19/s1675] being conducted by the administering authority as of the date of the determination.
+
+            (D) Such other factors relating to the timely completion of each such investigation and review as the administering authority considers appropriate.
 
     (b) __Certification of submissions__ 
 
@@ -51,7 +65,7 @@
 
         (2) such response is not submitted within the applicable time limits,
 
-        then the administering authority or the Commission (as the case may be) may, subject to subsection (e) of this section, disregard all or part of the original and subsequent responses.
+        then the administering authority or the Commission (as the case may be) may, subject to subsection (e), disregard all or part of the original and subsequent responses.
 
     (e) __Use of certain information__ 
 
@@ -99,7 +113,11 @@
 
             (B) no verification was made under this subparagraph during the 2 immediately preceding reviews and determinations under [section 1675(a) of this title][/us/usc/t19/s1675/a] of the same order, finding, or notice, except that this clause shall not apply if good cause for verification is shown.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 782, as added [Pub. L. 103–465, title II, § 231(a)][/us/pl/103/465/s231/a], Dec. 8, 1994, [108 Stat. 4893][/us/stat/108/4893].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 782, as added [Pub. L. 103–465, title II, § 231(a)][/us/pl/103/465/s231/a], Dec. 8, 1994, [108 Stat. 4893][/us/stat/108/4893]; amended [Pub. L. 114–27, title V, § 506][/us/pl/114/27/s506], June 29, 2015, [129 Stat. 386][/us/stat/129/386].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–27][/us/pl/114/27] designated existing provisions as par. (1) and inserted heading; redesignated former par. (1) and subpars. (A) and (B) as subpar. (A) and cls. (i) and (ii), respectively; added par. (2); and redesignated former par. (2) as subpar. (B) of par. (1) and amended it generally. Prior to amendment, subpar. (B) of par. (1) read as follows: “the number of exporters or producers who have submitted such information is not so large that individual examination of such exporters or producers would be unduly burdensome and inhibit the timely completion of the investigation.”
 
  __Effective Date__ 
 
@@ -115,12 +133,16 @@
 [/us/usc/t19/s1675/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fa
 [/us/usc/t19/s1677f–1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677f%E2%80%931%2Fc%2F2
 [/us/usc/t19/s1677f–1/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677f%E2%80%931%2Fe%2F2%2FA
+[/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
 [/us/usc/t19/s1675/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fd
 [/us/usc/t19/s1675/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fa
 [/us/usc/t19/s1675/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fa
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/pl/103/465/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs231%2Fa
 [/us/stat/108/4893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4893
+[/us/pl/114/27/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs506
+[/us/stat/129/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F386
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
 

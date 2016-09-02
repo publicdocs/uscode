@@ -15,7 +15,7 @@
 
 ## § 1401. Miscellaneous
 
-    When used in this subtitle or in part I of subtitle II of this chapter—
+    When used in this subtitle or in part I of subtitle II—
 
     (a) __Vessel__ 
 

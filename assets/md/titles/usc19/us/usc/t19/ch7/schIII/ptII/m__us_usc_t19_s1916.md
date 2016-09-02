@@ -31,7 +31,7 @@
 
     (b) __Mortgages__ 
 
-        Any mortgage acquired as security under subsection (a) of this section shall be recorded under applicable State law.
+        Any mortgage acquired as security under subsection (a) shall be recorded under applicable State law.
 
 ([Pub. L. 87–794, title III, § 316][/us/pl/87/794/s316], Oct. 11, 1962, [76 Stat. 888][/us/stat/76/888].)
 

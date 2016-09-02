@@ -35,9 +35,9 @@
 
         (1)
 
-         Notwithstanding the provisions of subsection (a) of this section—
+         Notwithstanding the provisions of subsection (a)—
 
-            (A) the United States Trade Representative may, after consulting with the petitioner (if any), delay for up to 90 days any request for consultations under subsection (a) of this section for the purpose of verifying or improving the petition to ensure an adequate basis for consultation, and
+            (A) the United States Trade Representative may, after consulting with the petitioner (if any), delay for up to 90 days any request for consultations under subsection (a) for the purpose of verifying or improving the petition to ensure an adequate basis for consultation, and
 
             (B) if such consultations are delayed by reason of subparagraph (A), each time limitation under [section 2414 of this title][/us/usc/t19/s2414] shall be extended for the period of such delay.
 

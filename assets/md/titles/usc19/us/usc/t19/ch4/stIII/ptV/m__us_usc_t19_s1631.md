@@ -21,7 +21,7 @@
 
     (b) __Contract requirements__ 
 
-    Any contract entered into under subsection (a) of this section shall provide that—
+    Any contract entered into under subsection (a) shall provide that—
 
         (1) the Secretary retains the authority to resolve a dispute, compromise a claim, end collection action, and refer a matter to the Attorney General to bring a civil action; and
 

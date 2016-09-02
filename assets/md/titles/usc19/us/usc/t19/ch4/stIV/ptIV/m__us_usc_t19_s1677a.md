@@ -17,11 +17,11 @@
 
     (a) __Export price__ 
 
-        The term “export price” means the price at which the subject merchandise is first sold (or agreed to be sold) before the date of importation by the producer or exporter of the subject merchandise outside of the United States to an unaffiliated purchaser in the United States or to an unaffiliated purchaser for exportation to the United States, as adjusted under subsection (c) of this section.
+        The term “export price” means the price at which the subject merchandise is first sold (or agreed to be sold) before the date of importation by the producer or exporter of the subject merchandise outside of the United States to an unaffiliated purchaser in the United States or to an unaffiliated purchaser for exportation to the United States, as adjusted under subsection (c).
 
     (b) __Constructed export price__ 
 
-        The term “constructed export price” means the price at which the subject merchandise is first sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d) of this section.
+        The term “constructed export price” means the price at which the subject merchandise is first sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d).
 
     (c) __Adjustments for export price and constructed export price__ 
 
@@ -61,7 +61,7 @@
 
             (D) any selling expenses not deducted under subparagraph (A), (B), or (C);
 
-        (2) the cost of any further manufacture or assembly (including additional material and labor), except in circumstances described in subsection (e) of this section; and
+        (2) the cost of any further manufacture or assembly (including additional material and labor), except in circumstances described in subsection (e); and
 
         (3) the profit allocated to the expenses described in paragraphs (1) and (2).
 
@@ -79,7 +79,7 @@
 
         (1) __In general__ 
 
-            For purposes of subsection (d)(3) of this section, profit shall be an amount determined by multiplying the total actual profit by the applicable percentage.
+            For purposes of subsection (d)(3), profit shall be an amount determined by multiplying the total actual profit by the applicable percentage.
 
         (2) __Definitions__ 
 
@@ -91,7 +91,7 @@
 
             (B) __Total United States expenses__ 
 
-                The term “total United States expenses” means the total expenses described in subsection (d)(1) and (2) of this section.
+                The term “total United States expenses” means the total expenses described in subsection (d)(1) and (2).
 
             (C) __Total expenses__ 
 

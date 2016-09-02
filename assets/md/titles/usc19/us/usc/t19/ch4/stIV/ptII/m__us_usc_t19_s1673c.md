@@ -95,7 +95,7 @@
 
     (d) __Additional rules and conditions__ 
 
-    The administering authority may not accept an agreement under subsection (b) or (c) of this section unless—
+    The administering authority may not accept an agreement under subsection (b) or (c) unless—
 
         (1) it is satisfied that suspension of the investigation is in the public interest, and
 
@@ -105,19 +105,19 @@
 
     (e) __Suspension of investigation procedure__ 
 
-    Before an investigation may be suspended under subsection (b) or (c) of this section the administering authority shall—
+    Before an investigation may be suspended under subsection (b) or (c) the administering authority shall—
 
         (1) notify the petitioner of, and consult with the petitioner concerning, its intention to suspend the investigation, and notify other parties to the investigation and the Commission not less than 30 days before the date on which it suspends the investigation,
 
-        (2) provide a copy of the proposed agreement to the petitioner at the time of the notification, together with an explanation of how the agreement will be carried out and enforced, and of how the agreement will meet the requirements of subsections (b) and (d) or (c) and (d) of this section, and
+        (2) provide a copy of the proposed agreement to the petitioner at the time of the notification, together with an explanation of how the agreement will be carried out and enforced, and of how the agreement will meet the requirements of subsections (b) and (d) or (c) and (d), and
 
-        (3) permit all interested parties described in [section 1677(9) of this title][/us/usc/t19/s1677/9] to submit comments and information for the record before the date on which notice of suspension of the investigation is published under subsection (f)(1)(A) of this section.
+        (3) permit all interested parties described in [section 1677(9) of this title][/us/usc/t19/s1677/9] to submit comments and information for the record before the date on which notice of suspension of the investigation is published under subsection (f)(1)(A).
 
     (f) __Effects of suspension of investigation__ 
 
         (1) __In general__ 
 
-        If the administering authority determines to suspend an investigation upon acceptance of an agreement described in subsection (b) or (c) of this section, then—
+        If the administering authority determines to suspend an investigation upon acceptance of an agreement described in subsection (b) or (c), then—
 
             (A) it shall suspend the investigation, publish notice of suspension of the investigation, and issue an affirmative preliminary determination under [section 1673b(b) of this title][/us/usc/t19/s1673b/b] with respect to the subject merchandise, unless it has previously issued such a determination in the same investigation,
 
@@ -129,7 +129,7 @@
 
             (A) __Cessation of exports; complete elimination of dumping margin__ 
 
-            If the agreement accepted by the administering authority is an agreement described in subsection (b) of this section, then—
+            If the agreement accepted by the administering authority is an agreement described in subsection (b), then—
 
                 (i) notwithstanding the affirmative preliminary determination required under paragraph (1)(A), the liquidation of entries of subject merchandise shall not be suspended under [section 1673b(d)(2) of this title][/us/usc/t19/s1673b/d/2],
 
@@ -139,11 +139,11 @@
 
             (B) __Other agreements__ 
 
-                If the agreement accepted by the administering authority is an agreement described in subsection (c) of this section, the liquidation of entries of the subject merchandise shall be suspended under [section 1673b(d)(2) of this title][/us/usc/t19/s1673b/d/2], or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under [section 1673b(d)(1)(B) of this title][/us/usc/t19/s1673b/d/1/B] may be adjusted to reflect the effect of the agreement.
+                If the agreement accepted by the administering authority is an agreement described in subsection (c), the liquidation of entries of the subject merchandise shall be suspended under [section 1673b(d)(2) of this title][/us/usc/t19/s1673b/d/2], or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3), but the security required under [section 1673b(d)(1)(B) of this title][/us/usc/t19/s1673b/d/1/B] may be adjusted to reflect the effect of the agreement.
 
         (3) __Where investigation is continued__ 
 
-        If, pursuant to subsection (g) of this section, the administering authority and the Commission continue an investigation in which an agreement has been accepted under subsection (b) or (c) of this section, then—
+        If, pursuant to subsection (g), the administering authority and the Commission continue an investigation in which an agreement has been accepted under subsection (b) or (c), then—
 
             (A) if the final determination by the administering authority or the Commission under [section 1673d of this title][/us/usc/t19/s1673d] is negative, the agreement shall have no force or effect and the investigation shall be terminated, or
 
@@ -153,7 +153,7 @@
 
                 (i) the agreement remains in force,
 
-                (ii) the agreement continues to meet the requirements of subsections (b) and (d), or (c) and (d) of this section, and
+                (ii) the agreement continues to meet the requirements of subsections (b) and (d), or (c) and (d), and
 
                 (iii) the parties to the agreement carry out their obligations under the agreement in accordance with its terms.
 
@@ -171,7 +171,7 @@
 
         (1) __In general__ 
 
-            Within 20 days after the suspension of an investigation under subsection (c) of this section, an interested party which is a party to the investigation and which is described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title][/us/usc/t19/s1677/9] may, by petition filed with the Commission and with notice to the administering authority, ask for a review of the suspension.
+            Within 20 days after the suspension of an investigation under subsection (c), an interested party which is a party to the investigation and which is described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title][/us/usc/t19/s1677/9] may, by petition filed with the Commission and with notice to the administering authority, ask for a review of the suspension.
 
         (2) __Commission investigation__ 
 
@@ -189,7 +189,7 @@
 
         (1) __In general__ 
 
-        If the administering authority determines that an agreement accepted under subsection (b) or (c) of this section is being, or has been, violated, or no longer meets the requirements of such subsection (other than the requirement, under subsection (c)(1) of this section, of elimination of injury) and subsection (d) of this section, then, on the date of publication of its determination, it shall—
+        If the administering authority determines that an agreement accepted under subsection (b) or (c) is being, or has been, violated, or no longer meets the requirements of such subsection (other than the requirement, under subsection (c)(1), of elimination of injury) and subsection (d), then, on the date of publication of its determination, it shall—
 
             (A)
 
@@ -197,11 +197,11 @@
 
                 (i) the date which is 90 days before the date of publication of the notice of suspension of liquidation, or
 
-                (ii) the date on which the merchandise, the sale or export to the United States of which was in violation of the agreement, or under an agreement which no longer meets the requirements of subsections (b) and (d), or (c) and (d) of this section, was first entered, or withdrawn from warehouse, for consumption,
+                (ii) the date on which the merchandise, the sale or export to the United States of which was in violation of the agreement, or under an agreement which no longer meets the requirements of subsections (b) and (d), or (c) and (d), was first entered, or withdrawn from warehouse, for consumption,
 
             (B) if the investigation was not completed, resume the investigation as if its affirmative preliminary determination were made on the date of its determination under this paragraph,
 
-            (C) if the investigation was completed under subsection (g) of this section, issue an antidumping duty order under [section 1673e(a) of this title][/us/usc/t19/s1673e/a] effective with respect to entries of merchandise liquidation of which was suspended,
+            (C) if the investigation was completed under subsection (g), issue an antidumping duty order under [section 1673e(a) of this title][/us/usc/t19/s1673e/a] effective with respect to entries of merchandise liquidation of which was suspended,
 
             (D) if it considers the violation to be intentional, notify the Commissioner of Customs who shall take appropriate action under paragraph (2), and
 
@@ -209,11 +209,11 @@
 
         (2) __Intentional violation to be punished by civil penalty__ 
 
-            Any person who intentionally violates an agreement accepted by the administering authority under subsection (b) or (c) of this section shall be subject to a civil penalty assessed in the same amount, in the same manner, and under the same procedures, as the penalty imposed for a fraudulent violation of [section 1592(a) of this title][/us/usc/t19/s1592/a].
+            Any person who intentionally violates an agreement accepted by the administering authority under subsection (b) or (c) shall be subject to a civil penalty assessed in the same amount, in the same manner, and under the same procedures, as the penalty imposed for a fraudulent violation of [section 1592(a) of this title][/us/usc/t19/s1592/a].
 
     (j) __Determination not to take agreement into account__ 
 
-        In making a final determination under [section 1673d of this title][/us/usc/t19/s1673d], or in conducting a review under [section 1675 of this title][/us/usc/t19/s1675], in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1) of this section, or continued an investigation under subsection (g) of this section, the Commission and the administering authority shall consider all of the subject merchandise without regard to the effect of any agreement under subsection (b) or (c) of this section.
+        In making a final determination under [section 1673d of this title][/us/usc/t19/s1673d], or in conducting a review under [section 1675 of this title][/us/usc/t19/s1675], in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1), or continued an investigation under subsection (g), the Commission and the administering authority shall consider all of the subject merchandise without regard to the effect of any agreement under subsection (b) or (c).
 
     (k) __Termination of investigation initiated by administering authority__ 
 
@@ -225,23 +225,23 @@
 
         The administering authority may suspend an investigation under this part upon acceptance of an agreement with a nonmarket economy country to restrict the volume of imports into the United States of the merchandise under investigation only if the administering authority determines that—
 
-            (A) such agreement satisfies the requirements of subsection (d) of this section, and
+            (A) such agreement satisfies the requirements of subsection (d), and
 
             (B) will prevent the suppression or undercutting of price levels of domestic products by imports of the merchandise under investigation.
 
         (2) __Failure of agreements__ 
 
-            If the administering authority determines that an agreement accepted under this subsection no longer prevents the suppression or undercutting of domestic prices of merchandise manufactured in the United States, the provisions of subsection (i) of this section shall apply.
+            If the administering authority determines that an agreement accepted under this subsection no longer prevents the suppression or undercutting of domestic prices of merchandise manufactured in the United States, the provisions of subsection (i) shall apply.
 
     (m) __Special rule for regional industry investigations__ 
 
         (1) __Suspension agreements__ 
 
-            If the Commission makes a regional industry determination under [section 1677(4)(C) of this title][/us/usc/t19/s1677/4/C], the administering authority shall offer exporters of the subject merchandise who account for substantially all exports of that merchandise for sale in the region concerned the opportunity to enter into an agreement described in subsection (b), (c), or (l) of this section.
+            If the Commission makes a regional industry determination under [section 1677(4)(C) of this title][/us/usc/t19/s1677/4/C], the administering authority shall offer exporters of the subject merchandise who account for substantially all exports of that merchandise for sale in the region concerned the opportunity to enter into an agreement described in subsection (b), (c), or (l).
 
         (2) __Requirements for suspension agreements__ 
 
-            Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b), (c), or (l) of this section, except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under [section 1673d(b) of this title][/us/usc/t19/s1673d/b] but not in the preliminary affirmative determination under [section 1673b(a) of this title][/us/usc/t19/s1673b/a], any agreement described in paragraph (1) may be accepted within 60 days after the antidumping order is published under [section 1673e of this title][/us/usc/t19/s1673e].
+            Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b), (c), or (l), except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under [section 1673d(b) of this title][/us/usc/t19/s1673d/b] but not in the preliminary affirmative determination under [section 1673b(a) of this title][/us/usc/t19/s1673b/a], any agreement described in paragraph (1) may be accepted within 60 days after the antidumping order is published under [section 1673e of this title][/us/usc/t19/s1673e].
 
         (3) __Effect of suspension agreement on antidumping duty order__ 
 

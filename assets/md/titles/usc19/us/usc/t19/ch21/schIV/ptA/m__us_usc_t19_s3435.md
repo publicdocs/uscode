@@ -37,7 +37,7 @@
 
     (d) __Publication of rules__ 
 
-        The rules prescribed under subsections (a), (b), and (c) of this section shall be published in the Federal Register.
+        The rules prescribed under subsections (a), (b), and (c) shall be published in the Federal Register.
 
     (e) __Administering authority__ 
 

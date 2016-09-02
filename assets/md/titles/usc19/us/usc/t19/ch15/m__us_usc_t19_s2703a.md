@@ -167,7 +167,7 @@
 
             (bb) 55 percent or more during the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016; and
 
-            (cc) 60 percent or more during the 1-year period beginning on December 20, 2017.
+            (cc) 60 percent or more during the 1-year period beginning on December 20, 2017, and each of the 7 succeeding 1-year periods.
 
         (II) __Foreign material__ 
 
@@ -271,7 +271,7 @@
 
                 <td> 
 
-            each of the succeeding 11 1-year periods  </td>
+            each of the 16 succeeding 1-year periods  </td>
 
                 <td> 
 
@@ -281,7 +281,7 @@
 
             </table>
 
-            No preferential treatment shall be provided under subparagraph (A) after December 19, 2018.
+            No preferential treatment shall be provided under subparagraph (A) after December 19, 2025.
 
         (D) __Other preferential treatment not affected by quantitative limitations__ 
 
@@ -297,7 +297,7 @@
 
                 (ii) __Limitation__ 
 
-                    Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+                    Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
                 (iii) __Other preferential treatment not affected by quantitative limitation__ 
 
@@ -337,7 +337,7 @@
 
                 (iii) __Limitation__ 
 
-                    Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+                    Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
                 (iv) __Other preferential treatment not affected by quantitative limitation__ 
 
@@ -4039,9 +4039,9 @@
 
     (h) __Termination__ 
 
-        Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2020.
+        Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2025.
 
-([Pub. L. 98–67, title II, § 213A][/us/pl/98/67/s213A], as added [Pub. L. 109–432, div. D, title V, § 5002(a)][/us/pl/109/432/s5002/a], Dec. 20, 2006, [120 Stat. 3181][/us/stat/120/3181]; amended [Pub. L. 110–234, title XV][/us/pl/110/234], §§ 15402–15405, May 22, 2008, [122 Stat. 1527–1545][/us/stat/122/1527-1545]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, §§ 15402–15405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2289–2307; [Pub. L. 110–436, § 7][/us/pl/110/436/s7], Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–171][/us/pl/111/171], §§ 3(2)–8, May 24, 2010, [124 Stat. 1195–1205][/us/stat/124/1195-1205]; [Pub. L. 112–234, § 2(f)][/us/pl/112/234/s2/f], Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625].)
+([Pub. L. 98–67, title II, § 213A][/us/pl/98/67/s213A], as added [Pub. L. 109–432, div. D, title V, § 5002(a)][/us/pl/109/432/s5002/a], Dec. 20, 2006, [120 Stat. 3181][/us/stat/120/3181]; amended [Pub. L. 110–234, title XV][/us/pl/110/234], §§ 15402–15405, May 22, 2008, [122 Stat. 1527–1545][/us/stat/122/1527-1545]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, §§ 15402–15405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2289–2307; [Pub. L. 110–436, § 7][/us/pl/110/436/s7], Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–171][/us/pl/111/171], §§ 3(2)–8, May 24, 2010, [124 Stat. 1195–1205][/us/stat/124/1195-1205]; [Pub. L. 112–234, § 2(f)][/us/pl/112/234/s2/f], Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625]; [Pub. L. 114–27, title III, § 301][/us/pl/114/27/s301], June 29, 2015, [129 Stat. 373][/us/stat/129/373].)
 
  __References in Text__ 
 
@@ -4056,6 +4056,16 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(B)(v)(I)(cc). [Pub. L. 114–27, § 301(1)(A)(i)][/us/pl/114/27/s301/1/A/i], amended item (cc) generally. Prior to amendment, item (cc) read as follows: “60 percent or more during the 1-year period beginning on December 20, 2017.”
+
+    Subsec. (b)(1)(C). [Pub. L. 114–27, § 301(1)(A)(ii)][/us/pl/114/27/s301/1/A/ii], substituted “16 succeeding 1-year periods” for “succeeding 11 1-year periods” in table and “December 19, 2025” for “December 19, 2018” in concluding provisions.
+
+    Subsec. (b)(2)(A)(ii). [Pub. L. 114–27, § 301(1)(B)(i)][/us/pl/114/27/s301/1/B/i], substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
+
+    Subsec. (b)(2)(B)(iii). [Pub. L. 114–27, § 301(1)(B)(ii)][/us/pl/114/27/s301/1/B/ii], substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
+
+    Subsec. (h). [Pub. L. 114–27, § 301(2)][/us/pl/114/27/s301/2], substituted “September 30, 2025” for “September 30, 2020”.
 
     2012—Subsec. (b)(4)(C), (D). [Pub. L. 112–234][/us/pl/112/234], which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignating subpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: “The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program.”
 
@@ -4308,6 +4318,8 @@
 [/us/stat/124/1195-1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1195-1205
 [/us/pl/112/234/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Ff
 [/us/stat/126/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1625
+[/us/pl/114/27/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301
+[/us/stat/129/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F373
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384
 [/us/usc/t19/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2701
@@ -4317,6 +4329,11 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/114/27/s301/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301%2F1%2FA%2Fi
+[/us/pl/114/27/s301/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301%2F1%2FA%2Fii
+[/us/pl/114/27/s301/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301%2F1%2FB%2Fi
+[/us/pl/114/27/s301/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301%2F1%2FB%2Fii
+[/us/pl/114/27/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301%2F2
 [/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/pl/111/171/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F1
 [/us/pl/111/171/s7/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FA

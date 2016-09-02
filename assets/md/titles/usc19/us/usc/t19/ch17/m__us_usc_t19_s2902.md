@@ -37,7 +37,7 @@
 
         (2)
 
-         No proclamation may be made under subsection (a) of this section that—
+         No proclamation may be made under subsection (a) that—
 
             (A) reduces any rate of duty (other than a rate of duty that does not exceed 5 percent ad valorem on August 23, 1988) to a rate which is less than 50 percent of the rate of such duty that applies on August 23, 1988; or
 
@@ -57,7 +57,7 @@
 
             (B) one-half of 1 percent ad valorem.
 
-        (5) No reduction in a rate of duty under a trade agreement entered into under subsection (a) of this section on any article may take effect more than 10 years after the effective date of the first reduction under paragraph (1) that is proclaimed to carry out the trade agreement with respect to such article.
+        (5) No reduction in a rate of duty under a trade agreement entered into under subsection (a) on any article may take effect more than 10 years after the effective date of the first reduction under paragraph (1) that is proclaimed to carry out the trade agreement with respect to such article.
 
         (6) A rate of duty reduction or increase that may not be proclaimed by reason of paragraph (2) may take effect only if a provision authorizing such reduction or increase is included within an implementing bill provided for under [section 2903 of this title][/us/usc/t19/s2903] and that bill is enacted into law.
 
@@ -109,7 +109,7 @@
 
         (1)
 
-         Before the President enters into any trade agreement under subsection (b) or (c) of this section, the President shall consult with—
+         Before the President enters into any trade agreement under subsection (b) or (c), the President shall consult with—
 
             (A) the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate; and
 
@@ -131,15 +131,15 @@
 
         (1) __In general__ 
 
-            Notwithstanding the time limitations in subsections (a) and (b) of this section, if the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade has not resulted in trade agreements by May 31, 1993, the President may, during the period after May 31, 1993, and before April 16, 1994, enter into, under subsections (a) and (b) of this section, trade agreements resulting from such negotiations.
+            Notwithstanding the time limitations in subsections (a) and (b), if the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade has not resulted in trade agreements by May 31, 1993, the President may, during the period after May 31, 1993, and before April 16, 1994, enter into, under subsections (a) and (b) of this section, trade agreements resulting from such negotiations.
 
         (2) __Application of tariff proclamation authority__ 
 
-            No proclamation under subsection (a) of this section to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
+            No proclamation under subsection (a) to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
 
         (3) __Application of implementing and “fast track” procedures__ 
 
-        [Section 2903 of this title][/us/usc/t19/s2903] applies to any trade agreement negotiated under subsection (b) of this section pursuant to paragraph (1), except that—
+        [Section 2903 of this title][/us/usc/t19/s2903] applies to any trade agreement negotiated under subsection (b) pursuant to paragraph (1), except that—
 
             (A) in applying subsection (a)(1)(A) of [section 2903 of this title][/us/usc/t19/s2903] to any such agreement, the phrase “at least 120 calendar days before the day on which he enters into the trade agreement (but not later than December 15, 1993),” shall be substituted for the phrase “at least 90 calendar days before the day on which he enters into the trade agreement,”; and
 

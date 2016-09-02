@@ -55,7 +55,7 @@
 
     (c) __Conversion to ad valorem rates for certain textiles__ 
 
-        For purposes of subsections (a) and (b) of this section, with respect to an article covered by Annex 300–B of the Agreement imported from Mexico for which the base rate in the Schedule of the United States in Annex 300–B is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
+        For purposes of subsections (a) and (b), with respect to an article covered by Annex 300–B of the Agreement imported from Mexico for which the base rate in the Schedule of the United States in Annex 300–B is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
 
 ([Pub. L. 103–182, title II, § 201][/us/pl/103/182/s201], Dec. 8, 1993, [107 Stat. 2068][/us/stat/107/2068]; [Pub. L. 104–188, title I, § 1954(a)(5)][/us/pl/104/188/s1954/a/5], Aug. 20, 1996, [110 Stat. 1927][/us/stat/110/1927].)
 

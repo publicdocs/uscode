@@ -37,23 +37,73 @@
 
     (b) __Adverse inferences__ 
 
-    If the administering authority or the Commission (as the case may be) finds that an interested party has failed to cooperate by not acting to the best of its ability to comply with a request for information from the administering authority or the Commission, the administering authority or the Commission (as the case may be), in reaching the applicable determination under this subtitle, may use an inference that is adverse to the interests of that party in selecting from among the facts otherwise available. Such adverse inference may include reliance on information derived from—
+        (1) __In general__ 
 
-        (1) the petition,
+        If the administering authority or the Commission (as the case may be) finds that an interested party has failed to cooperate by not acting to the best of its ability to comply with a request for information from the administering authority or the Commission, the administering authority or the Commission (as the case may be), in reaching the applicable determination under this subtitle—
 
-        (2) a final determination in the investigation under this subtitle,
+            (A) may use an inference that is adverse to the interests of that party in selecting from among the facts otherwise available; and
 
-        (3) any previous review under [section 1675 of this title][/us/usc/t19/s1675] or determination under [section 1675b of this title][/us/usc/t19/s1675b], or
+            (B) is not required to determine, or make any adjustments to, a countervailable subsidy rate or weighted average dumping margin based on any assumptions about information the interested party would have provided if the interested party had complied with the request for information.
 
-        (4) any other information placed on the record.
+        (2) __Potential sources of information for adverse inferences__ 
+
+        An adverse inference under paragraph (1)(A) may include reliance on information derived from—
+
+            (A) the petition,
+
+            (B) a final determination in the investigation under this subtitle,
+
+            (C) any previous review under [section 1675 of this title][/us/usc/t19/s1675] or determination under [section 1675b of this title][/us/usc/t19/s1675b], or
+
+            (D) any other information placed on the record.
 
     (c) __Corroboration of secondary information__ 
 
-        When the administering authority or the Commission relies on secondary information rather than on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
+        (1) __In general__ 
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 776, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 186][/us/stat/93/186]; amended [Pub. L. 98–573, title VI, § 618][/us/pl/98/573/s618], Oct. 30, 1984, [98 Stat. 3037][/us/stat/98/3037]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1326(d)(1), 1331, Aug. 23, 1988, [102 Stat. 1204][/us/stat/102/1204], 1207; [Pub. L. 103–465, title II, § 231(c)][/us/pl/103/465/s231/c], Dec. 8, 1994, [108 Stat. 4896][/us/stat/108/4896].)
+            Except as provided in paragraph (2), when the administering authority or the Commission relies on secondary information rather than on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
+
+        (2) __Exception__ 
+
+            The administrative authority and the Commission shall not be required to corroborate any dumping margin or countervailing duty applied in a separate segment of the same proceeding.
+
+    (d) __Subsidy rates and dumping margins in adverse inference determinations__ 
+
+        (1) __In general__ 
+
+        If the administering authority uses an inference that is adverse to the interests of a party under subsection (b)(1)(A) in selecting among the facts otherwise available, the administering authority may—
+
+            (A)
+
+             in the case of a countervailing duty proceeding—
+
+                (i) use a countervailable subsidy rate applied for the same or similar program in a countervailing duty proceeding involving the same country; or
+
+                (ii) if there is no same or similar program, use a countervailable subsidy rate for a subsidy program from a proceeding that the administering authority considers reasonable to use; and
+
+            (B) in the case of an antidumping duty proceeding, use any dumping margin from any segment of the proceeding under the applicable antidumping order.
+
+        (2) __Discretion to apply highest rate__ 
+
+            In carrying out paragraph (1), the administering authority may apply any of the countervailable subsidy rates or dumping margins specified under that paragraph, including the highest such rate or margin, based on the evaluation by the administering authority of the situation that resulted in the administering authority using an adverse inference in selecting among the facts otherwise available.
+
+        (3) __No obligation to make certain estimates or address certain claims__ 
+
+        If the administering authority uses an adverse inference under subsection (b)(1)(A) in selecting among the facts otherwise available, the administering authority is not required, for purposes of subsection (c) or for any other purpose—
+
+            (A) to estimate what the countervailable subsidy rate or dumping margin would have been if the interested party found to have failed to cooperate under subsection (b)(1) had cooperated; or
+
+            (B) to demonstrate that the countervailable subsidy rate or dumping margin used by the administering authority reflects an alleged commercial reality of the interested party.
+
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 776, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 186][/us/stat/93/186]; amended [Pub. L. 98–573, title VI, § 618][/us/pl/98/573/s618], Oct. 30, 1984, [98 Stat. 3037][/us/stat/98/3037]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1326(d)(1), 1331, Aug. 23, 1988, [102 Stat. 1204][/us/stat/102/1204], 1207; [Pub. L. 103–465, title II, § 231(c)][/us/pl/103/465/s231/c], Dec. 8, 1994, [108 Stat. 4896][/us/stat/108/4896]; [Pub. L. 114–27, title V, § 502][/us/pl/114/27/s502], June 29, 2015, [129 Stat. 383][/us/stat/129/383].)
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–27, § 502(1)][/us/pl/114/27/s502/1], inserted par. (1) designation and heading before “If the administering”, substituted “under this subtitle—” for “under this subtitle, may use”, inserted “(A) may use” before “an inference that is adverse” substituted “facts otherwise available; and” for “facts otherwise available. Such adverse inference may include”, added subpar. (B), inserted par. (2) designation, heading, and “An adverse inference under paragraph (1)(A) may include” before “reliance on information”, and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (2) and realigned margins.
+
+    Subsec. (c). [Pub. L. 114–27, § 502(2)][/us/pl/114/27/s502/2], designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), when the” for “When the”, and added par. (2).
+
+    Subsec. (d). [Pub. L. 114–27, § 502(3)][/us/pl/114/27/s502/3], added subsec. (d).
 
     1994—[Pub. L. 103–465][/us/pl/103/465] amended section generally, substituting present provisions for provisions relating to verification of information, certification of submissions, and determinations required to be made on best information available.
 
@@ -100,6 +150,11 @@
 [/us/stat/102/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1204
 [/us/pl/103/465/s231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs231%2Fc
 [/us/stat/108/4896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4896
+[/us/pl/114/27/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs502
+[/us/stat/129/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F383
+[/us/pl/114/27/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs502%2F1
+[/us/pl/114/27/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs502%2F2
+[/us/pl/114/27/s502/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs502%2F3
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/418/s1331/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1331%2F1
 [/us/pl/100/418/s1331/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1331%2F1

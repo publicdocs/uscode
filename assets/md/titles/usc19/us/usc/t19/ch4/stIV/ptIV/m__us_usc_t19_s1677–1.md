@@ -31,7 +31,7 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), the administering authority shall decide that a competitive benefit has been bestowed when the price for the input product referred to in subsection (a)(1) of this section for such use is lower than the price that the manufacturer or producer of merchandise which is the subject of a countervailing duty proceeding would otherwise pay for the product in obtaining it from another seller in an arms-length transaction.
+            Except as provided in paragraph (2), the administering authority shall decide that a competitive benefit has been bestowed when the price for the input product referred to in subsection (a)(1) for such use is lower than the price that the manufacturer or producer of merchandise which is the subject of a countervailing duty proceeding would otherwise pay for the product in obtaining it from another seller in an arms-length transaction.
 
         (2) __Adjustments__ 
 

@@ -19,11 +19,15 @@
 
 >     “(a)  __Identification of Countries__  __.—__ 
 
->     The President shall identify not fewer than 10 eligible sub-Saharan African countries as having the greatest potential to increase marketable exports of agricultural products to the United States and the greatest need for technical assistance, particularly with respect to pest risk assessments and complying with sanitary and phytosanitary rules of the United States.
+>     The President, through the Secretary of Agriculture, shall identify eligible sub-Saharan African countries that have potential to increase marketable exports of agricultural products to the United States and the greatest need for technical assistance, particularly with respect to pest risk assessments, complying with sanitary and phytosanitary rules of the United States, and developing food safety standards.
 
 >     “(b)  __Personnel__  __.—__ 
 
->     The President shall assign at least 20 full-time personnel for the purpose of providing assistance to the countries identified under subsection (a) to ensure that exports of agricultural products from those countries meet the requirements of United States law.
+>     The President shall assign at least 30 full-time personnel for the purpose of providing assistance to the countries identified under subsection (a) to ensure that exports of agricultural products from those countries, particularly from businesses and sectors that engage women farmers and entrepreneurs, meet the requirements of United States law.
+
+>     “(c)  __Coordination__  __.—__ 
+
+>     The President shall take such measures as are necessary to ensure adequate coordination of similar activities of agencies of the United States Government relating to agricultural technical assistance for sub-Saharan Africa.
 
 ----------
 

@@ -37,7 +37,7 @@
 
             (D) the value of the parts or components referred to in subparagraph (B) is a significant portion of the total value of the merchandise,
 
-            the administering authority, after taking into account any advice provided by the Commission under subsection (e) of this section, may include within the scope of such order or finding the imported parts or components referred to in subparagraph (B) that are used in the completion or assembly of the merchandise in the United States at any time such order or finding is in effect.
+            the administering authority, after taking into account any advice provided by the Commission under subsection (e), may include within the scope of such order or finding the imported parts or components referred to in subparagraph (B) that are used in the completion or assembly of the merchandise in the United States at any time such order or finding is in effect.
 
         (2) __Determination of whether process is minor or insignificant__ 
 
@@ -93,7 +93,7 @@
 
             (E) the administering authority determines that action is appropriate under this paragraph to prevent evasion of such order or finding,
 
-            the administering authority, after taking into account any advice provided by the Commission under subsection (e) of this section, may include such imported merchandise within the scope of such order or finding at any time such order or finding is in effect.
+            the administering authority, after taking into account any advice provided by the Commission under subsection (e), may include such imported merchandise within the scope of such order or finding at any time such order or finding is in effect.
 
         (2) __Determination of whether process is minor or insignificant__ 
 
@@ -155,7 +155,7 @@
 
             (E) the later-developed merchandise is advertised and displayed in a manner similar to the earlier product.
 
-            The administering authority shall take into account any advice provided by the Commission under subsection (e) of this section before making a determination under this subparagraph.
+            The administering authority shall take into account any advice provided by the Commission under subsection (e) before making a determination under this subparagraph.
 
         (2) __Exclusion from orders__ 
 
@@ -171,11 +171,11 @@
 
         Before making a determination—
 
-            (A) under subsection (a) of this section with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
+            (A) under subsection (a) with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
 
-            (B) under subsection (b) of this section with respect to merchandise completed or assembled in other foreign countries, or
+            (B) under subsection (b) with respect to merchandise completed or assembled in other foreign countries, or
 
-            (C) under subsection (d) of this section with respect to any later-developed merchandise which incorporates a significant technological advance or significant alteration of an earlier product,
+            (C) under subsection (d) with respect to any later-developed merchandise which incorporates a significant technological advance or significant alteration of an earlier product,
 
             with respect to an antidumping or countervailing duty order or finding as to which the Commission has made an affirmative injury determination, the administering authority shall notify the Commission of the proposed inclusion of such merchandise in such countervailing or antidumping order or finding. Notwithstanding any other provision of law, a decision by the administering authority regarding whether any merchandise is within a category for which notice is required under this paragraph is not subject to judicial review.
 

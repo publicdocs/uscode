@@ -25,7 +25,7 @@
 
             (A) if such record is required by law or regulation for the entry of the merchandise (whether or not the Customs Service required its presentation at the time of entry) it shall be provided to the Customs Service within a reasonable time after demand for its production is made, taking into consideration the number, type, and age of the item demanded; and
 
-            (B) if a person of whom demand is made under subparagraph (A) fails to comply with the demand, the person may be subject to penalty under subsection (g) of this section;
+            (B) if a person of whom demand is made under subparagraph (A) fails to comply with the demand, the person may be subject to penalty under subsection (g);
 
         (2)
 
@@ -49,7 +49,7 @@
 
             (D) any other person he may deem proper;
 
-            to appear before the appropriate customs officer at the time and place within the customs territory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A) of this section, and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
+            to appear before the appropriate customs officer at the time and place within the customs territory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A), and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
 
         (3) take, or cause to be taken, such testimony of the person concerned, under oath, as may be relevant to such investigation or inquiry.
 
@@ -147,7 +147,7 @@
 
     (e) __List of records and information__ 
 
-        The Customs Service shall identify and publish a list of the records or entry information that is required to be maintained and produced under subsection (a)(1)(A) of this section.
+        The Customs Service shall identify and publish a list of the records or entry information that is required to be maintained and produced under subsection (a)(1)(A).
 
     (f) __Recordkeeping compliance program__ 
 
@@ -175,11 +175,11 @@
 
         (1) __“Information” defined__ 
 
-            For purposes of this subsection, the term “information” means any record, statement, declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A) of this section.
+            For purposes of this subsection, the term “information” means any record, statement, declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A).
 
         (2) __Effects of failure to comply with demand__ 
 
-        Except as provided in paragraph (4), if a person fails to comply with a lawful demand for information under subsection (a)(1)(A) of this section the following provisions apply:
+        Except as provided in paragraph (4), if a person fails to comply with a lawful demand for information under subsection (a)(1)(A) the following provisions apply:
 
             (A) If the failure to comply is a result of the willful failure of the person to maintain, store, or retrieve the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $100,000, or an amount equal to 75 percent of the appraised value of the merchandise, whichever amount is less.
 
@@ -227,7 +227,7 @@
 
             When a recordkeeper who—
 
-                (i) has been certified as a participant in the recordkeeping compliance program under subsection (f) of this section; and
+                (i) has been certified as a participant in the recordkeeping compliance program under subsection (f); and
 
                 (ii) is generally in compliance with the appropriate procedures and requirements of the program;
 
@@ -303,7 +303,7 @@
 
     Subsecs. (e) to (g). [Pub. L. 103–182, § 615(5)][/us/pl/103/182/s615/5], added subsecs. (e) to (g).
 
-    1986—Subsec. (a)(2). [Pub. L. 99–570, § 3117(1)][/us/pl/99/570/s3117/1], substituted “as defined in subsection (c)(1)(A) of this section” for “required to be kept under [section 1508 of this title][/us/usc/t19/s1508]” in concluding provisions.
+    1986—Subsec. (a)(2). [Pub. L. 99–570, § 3117(1)][/us/pl/99/570/s3117/1], substituted “as defined in subsection (c)(1)(A)” for “required to be kept under [section 1508 of this title][/us/usc/t19/s1508]” in concluding provisions.
 
     Subsec. (c)(1)(A). [Pub. L. 99–570, § 3117(2)][/us/pl/99/570/s3117/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘records’ includes statements, declarations, or documents required to be kept under [section 1508 of this title][/us/usc/t19/s1508].”
 

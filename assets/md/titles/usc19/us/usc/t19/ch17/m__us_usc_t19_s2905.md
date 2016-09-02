@@ -37,7 +37,7 @@
 
     (b) __Effects of affirmative determination__ 
 
-    If both of the determinations made under paragraphs (1) and (2) of subsection (a) of this section with respect to a major foreign country are affirmative—
+    If both of the determinations made under paragraphs (1) and (2) of subsection (a) with respect to a major foreign country are affirmative—
 
         (1) the President shall reserve the right of the United States to withhold extension of the application of the GATT 1947 or the WTO Agreement, between the United States and such major foreign country, and
 
@@ -61,7 +61,7 @@
 
                 (ii) will afford United States business firms adequate opportunity, in accordance with customary practice, to compete for participation in such purchases or sales; or
 
-            (B) a bill submitted under subsection (c) of this section which approves of the extension of the application of the GATT 1947 or the WTO Agreement between the United States and such major foreign country is enacted into law.
+            (B) a bill submitted under subsection (c) which approves of the extension of the application of the GATT 1947 or the WTO Agreement between the United States and such major foreign country is enacted into law.
 
     (c) __Expedited consideration of bill to approve extension__ 
 
@@ -77,7 +77,7 @@
 
     (d) __Publication__ 
 
-        The President shall publish in the Federal Register each determination made under subsection (a) of this section.
+        The President shall publish in the Federal Register each determination made under subsection (a).
 
     (e) __Definitions__ 
 

@@ -21,11 +21,11 @@
 
         The selection of individuals under this section for—
 
-            (A) placement on lists prepared by the interagency group under subsection (c)(2)(B)(i) and (ii) of this section;
+            (A) placement on lists prepared by the interagency group under subsection (c)(2)(B)(i) and (ii);
 
-            (B) placement on preliminary candidate lists under subsection (c)(3)(A) of this section;
+            (B) placement on preliminary candidate lists under subsection (c)(3)(A);
 
-            (C) placement on final candidate lists under subsection (c)(4)(A) of this section;
+            (C) placement on final candidate lists under subsection (c)(4)(A);
 
             (D) placement by the Trade Representative on the rosters described in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13; and
 
@@ -35,7 +35,7 @@
 
         (2) __Additional criteria for roster placements and appointments under paragraph 1 of Annex 1901.2__ 
 
-            Rosters described in paragraph 1 of Annex 1901.2 shall include, to the fullest extent practicable, judges and former judges who meet the criteria referred to in paragraph (1). The Trade Representative shall, subject to subsection (b) of this section, appoint judges to binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, where such judges offer and are available to serve and such service is authorized by the chief judge of the court on which they sit.
+            Rosters described in paragraph 1 of Annex 1901.2 shall include, to the fullest extent practicable, judges and former judges who meet the criteria referred to in paragraph (1). The Trade Representative shall, subject to subsection (b), appoint judges to binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, where such judges offer and are available to serve and such service is authorized by the chief judge of the court on which they sit.
 
     (b) __Selection of certain judges to serve on panels and committees__ 
 
@@ -45,11 +45,11 @@
 
         (2) __Consultation with chief judges__ 
 
-            The Trade Representative shall consult, from time to time, with the chief judges of the Federal judicial circuits regarding the interest in, and availability for, participation in binational panels, extraordinary challenge committees, and special committees, of judges within their respective circuits. If the chief judge of a Federal judicial circuit determines that it is appropriate for one or more judges within that circuit to be included on a roster described in subsection (a)(1)(D) of this section, the chief judge shall identify all such judges for the Chief Justice of the United States who may, upon his or her approval, submit the names of such judges to the Trade Representative. The Trade Representative shall include the names of such judges on the roster.
+            The Trade Representative shall consult, from time to time, with the chief judges of the Federal judicial circuits regarding the interest in, and availability for, participation in binational panels, extraordinary challenge committees, and special committees, of judges within their respective circuits. If the chief judge of a Federal judicial circuit determines that it is appropriate for one or more judges within that circuit to be included on a roster described in subsection (a)(1)(D), the chief judge shall identify all such judges for the Chief Justice of the United States who may, upon his or her approval, submit the names of such judges to the Trade Representative. The Trade Representative shall include the names of such judges on the roster.
 
         (3) __Submission of lists to Congress__ 
 
-            The Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives and to the Committee on Finance and the Committee on the Judiciary of the Senate a list of all judges included on a roster under paragraph (2). Such list shall be submitted at the same time as the final candidate lists are submitted under subsection (c)(4)(A) of this section and the final forms of amendments are submitted under subsection (c)(4)(C)(iv) of this section.
+            The Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives and to the Committee on Finance and the Committee on the Judiciary of the Senate a list of all judges included on a roster under paragraph (2). Such list shall be submitted at the same time as the final candidate lists are submitted under subsection (c)(4)(A) and the final forms of amendments are submitted under subsection (c)(4)(C)(iv).
 
         (4) __Appointment of judges to panels or committees__ 
 
@@ -59,7 +59,7 @@
 
         (1) __Applicability__ 
 
-            This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, other than those individuals to whom subsection (b) of this section applies.
+            This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, other than those individuals to whom subsection (b) applies.
 
         (2) __Interagency group__ 
 
@@ -167,7 +167,7 @@
 
         (5) __Treatment of responses__ 
 
-            For purposes of applying [section 1001 of title 18][/us/usc/t18/s1001], the written or oral responses of individuals to inquiries of the interagency group established under paragraph (2)(A) or of the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subsection (a)(1) of this section, shall be treated as matters within the jurisdiction of an agency of the United States.
+            For purposes of applying [section 1001 of title 18][/us/usc/t18/s1001], the written or oral responses of individuals to inquiries of the interagency group established under paragraph (2)(A) or of the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subsection (a)(1), shall be treated as matters within the jurisdiction of an agency of the United States.
 
     (d) __Selection and appointment__ 
 
@@ -195,7 +195,7 @@
 
                 (iii) act to make a joint appointment with the Government of a NAFTA country, under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
 
-                only if such individual is on the appropriate final candidate list that was submitted to the appropriate Congressional Committees under subsection (c)(4)(A) of this section during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I) of this section, or on the list submitted under subsection (b)(3) of this section to the Congressional Committees referred to in such subsection; and
+                only if such individual is on the appropriate final candidate list that was submitted to the appropriate Congressional Committees under subsection (c)(4)(A) during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I), or on the list submitted under subsection (b)(3) to the Congressional Committees referred to in such subsection; and
 
             (B)
 
@@ -205,11 +205,11 @@
 
                 (ii) be appointed solely or jointly by the United States Government to serve as a member of a panel or committee convened under chapter 19;
 
-                during the 1-year period beginning on April 1 of any calendar year for which the Trade Representative has not met the requirements of subsection (a) of this section, and of subsection (b) or (c) of this section (as the case may be).
+                during the 1-year period beginning on April 1 of any calendar year for which the Trade Representative has not met the requirements of subsection (a), and of subsection (b) or (c) (as the case may be).
 
         (3) __Exceptions__ 
 
-        Notwithstanding subsection (c)(3) of this section (other than subparagraph (B)), subsection (c)(4) of this section, or paragraph (2)(A) of this subsection, individuals included on the preliminary candidate lists submitted to the appropriate Congressional Committees under subsection (c)(3)(B) of this section may—
+        Notwithstanding subsection (c)(3) (other than subparagraph (B)), subsection (c)(4), or paragraph (2)(A) of this subsection, individuals included on the preliminary candidate lists submitted to the appropriate Congressional Committees under subsection (c)(3)(B) may—
 
             (A) be selected by the Trade Representative for placement on the rosters described in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13 during the 3-month period beginning on the date on which the Agreement enters into force with respect to the United States; and
 
@@ -217,11 +217,11 @@
 
     (e) __Transition__ 
 
-    If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994, the provisions of subsection (c) of this section shall be applied with respect to the calendar year in which such entering into force occurs—
+    If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994, the provisions of subsection (c) shall be applied with respect to the calendar year in which such entering into force occurs—
 
-        (1) by substituting “the date that is 30 days after the date on which the Agreement enters into force with respect to the United States” for “January 3 of each calendar year” in subsections (c)(2)(B)(i) and (c)(3)(B)(i) of this section; and
+        (1) by substituting “the date that is 30 days after the date on which the Agreement enters into force with respect to the United States” for “January 3 of each calendar year” in subsections (c)(2)(B)(i) and (c)(3)(B)(i); and
 
-        (2) by substituting “the date that is 3 months after the date on which the Agreement enters into force with respect to the United States” for “March 31 of each calendar year” in subsection (c)(4)(A) of this section.
+        (2) by substituting “the date that is 3 months after the date on which the Agreement enters into force with respect to the United States” for “March 31 of each calendar year” in subsection (c)(4)(A).
 
     (f) __Immunity__ 
 
@@ -233,7 +233,7 @@
 
     (h) __Report to Congress__ 
 
-        At such time as the final candidate lists are submitted under subsection (c)(4)(A) of this section and the final forms of amendments are submitted under subsection (c)(4)(C)(iv) of this section, the Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives, and to the Committee on Finance and the Committee on the Judiciary of the Senate, a report regarding the efforts made to secure the participation of judges and former judges on binational panels, extraordinary challenge committees, and special committees established under chapter 19.
+        At such time as the final candidate lists are submitted under subsection (c)(4)(A) and the final forms of amendments are submitted under subsection (c)(4)(C)(iv), the Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives, and to the Committee on Finance and the Committee on the Judiciary of the Senate, a report regarding the efforts made to secure the participation of judges and former judges on binational panels, extraordinary challenge committees, and special committees established under chapter 19.
 
 ([Pub. L. 103–182, title IV, § 402][/us/pl/103/182/s402], Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129]; [Pub. L. 104–295, § 21(c)(1)][/us/pl/104/295/s21/c/1], Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
 
@@ -243,7 +243,7 @@
 
  __Amendments__ 
 
-    1996—Subsec. (d)(3). [Pub. L. 104–295][/us/pl/104/295] substituted “subsection (c)(4) of this section” for “(c)(4)” in introductory provisions.
+    1996—Subsec. (d)(3). [Pub. L. 104–295][/us/pl/104/295] substituted “subsection (c)(4)” for “(c)(4)” in introductory provisions.
 
  __North American Free Trade Agreement: Entry Into Force__ 
 

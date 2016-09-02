@@ -25,13 +25,13 @@
 
             (B) The certified or recognized union or other duly authorized representative of such workers.
 
-            (C) Employers of such workers, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])), including State employment security agencies, or the State dislocated worker unit established under title I of such Act \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], on behalf of such workers.
+            (C) Employers of such workers, one-stop operators or one-stop partners (as defined in [section 3102 of title 29][/us/usc/t29/s3102]) including State employment security agencies, or a State dislocated worker unit, on behalf of such workers.
 
         (2)
 
          Upon receipt of a petition filed under paragraph (1), the Governor shall—
 
-            (A) ensure that rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 ([29 U.S.C. 2864][/us/usc/t29/s2864])) authorized under other Federal laws are made available to the workers covered by the petition to the extent authorized under such laws; and
+            (A) ensure that rapid response activities and appropriate career services (as described in [section 3174 of title 29][/us/usc/t29/s3174]) authorized under other Federal laws are made available to the workers covered by the petition to the extent authorized under such laws; and
 
             (B) assist the Secretary in the review of the petition by verifying such information and providing such other assistance as the Secretary may request.
 
@@ -39,39 +39,31 @@
 
     (b) __Hearing__ 
 
-        If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary’s publication under subsection (a) of this section a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
+        If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary’s publication under subsection (a) a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 
-([Pub. L. 93–618, title II, § 221][/us/pl/93/618/s221], Jan. 3, 1975, [88 Stat. 2019][/us/stat/88/2019]; [Pub. L. 99–272, title XIII, § 13002(a)][/us/pl/99/272/s13002/a], Apr. 7, 1986, [100 Stat. 300][/us/stat/100/300]; [Pub. L. 103–182, title V, § 503(a)][/us/pl/103/182/s503/a], Dec. 8, 1993, [107 Stat. 2151][/us/stat/107/2151]; [Pub. L. 107–210, div. A, title I, § 112(a)][/us/pl/107/210/s112/a], Aug. 6, 2002, [116 Stat. 937][/us/stat/116/937]; [Pub. L. 108–429, title II, § 2004(a)(4)][/us/pl/108/429/s2004/a/4], Dec. 3, 2004, [118 Stat. 2590][/us/stat/118/2590]; [Pub. L. 111–5, div. B, title I, § 1801(e)(1)][/us/pl/111/5/s1801/e/1], Feb. 17, 2009, [123 Stat. 370][/us/stat/123/370]; [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]; [Pub. L. 113–128, title V, § 512(hh)(1)][/us/pl/113/128/s512/hh/1], July 22, 2014, [128 Stat. 1720][/us/stat/128/1720].)
+([Pub. L. 93–618, title II, § 221][/us/pl/93/618/s221], Jan. 3, 1975, [88 Stat. 2019][/us/stat/88/2019]; [Pub. L. 99–272, title XIII, § 13002(a)][/us/pl/99/272/s13002/a], Apr. 7, 1986, [100 Stat. 300][/us/stat/100/300]; [Pub. L. 103–182, title V, § 503(a)][/us/pl/103/182/s503/a], Dec. 8, 1993, [107 Stat. 2151][/us/stat/107/2151]; [Pub. L. 107–210, div. A, title I, § 112(a)][/us/pl/107/210/s112/a], Aug. 6, 2002, [116 Stat. 937][/us/stat/116/937]; [Pub. L. 108–429, title II, § 2004(a)(4)][/us/pl/108/429/s2004/a/4], Dec. 3, 2004, [118 Stat. 2590][/us/stat/118/2590]; [Pub. L. 111–5, div. B, title I, § 1801(e)(1)][/us/pl/111/5/s1801/e/1], Feb. 17, 2009, [123 Stat. 370][/us/stat/123/370]; [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]; [Pub. L. 113–128, title V, § 512(hh)(1)][/us/pl/113/128/s512/hh/1], July 22, 2014, [128 Stat. 1720][/us/stat/128/1720]; [Pub. L. 114–27, title IV, § 402(b)][/us/pl/114/27/s402/b], (c), June 29, 2015, [129 Stat. 374][/us/stat/129/374].)
 
- __Reversion to Provisions in Effect on__  __February 13, 2011__ 
+ __Reversion to Provisions in Effect on__  __January 1, 2014__ 
 
-    For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
-
- __Amendment of Subsection (a)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(hh)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1720, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a) of this section is amended as follows:
-
-    (1) in paragraph (1)(C), by striking “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])) including State employment security agencies,” and inserting “, one-stop operators or one-stop partners (as defined in [section 3102 of title 29][/us/usc/t29/s3102]) including State employment security agencies,” and by striking “or the State dislocated worker unit established under title I of such Act,” and inserting “or a State dislocated worker unit,”; and
-
-    (2) in subsection (a)(2)(A), by striking “rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 ([29 U.S.C. 2864][/us/usc/t29/s2864])) authorized under other Federal laws” and inserting “rapid response activities and appropriate career services (as described in [section 3174 of title 29][/us/usc/t29/s3174]) authorized under other Federal laws”.
-
-    See note above and 2014 Amendment notes below.
-
- __References in Text__ 
-
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(1)(C), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to [section 406(b) of Pub. L. 114–27][/us/pl/114/27/s406/b], see Codification and Effective and Termination Dates of 2015 Revival notes below.
 
  __Codification__ 
 
-    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided for Feb. 13, 2011, termination of amendment by [Pub. L. 111–5][/us/pl/111/5], was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], and the provisions of this section, as amended by [Pub. L. 111–5][/us/pl/111/5] and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by [Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
+    [Section 233 of Pub. L. 112–40][/us/pl/112/40/s233], which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by [Pub. L. 114–27, title IV, § 402(a)][/us/pl/114/27/s402/a], June 29, 2015, [129 Stat. 374][/us/stat/129/374], and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by [Pub. L. 114–27][/us/pl/114/27], §§ 402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+
+    Amendments made by [Pub. L. 113–128][/us/pl/113/128] were effective July 1, 2015, and were executed to this section as it existed on Dec. 31, 2013, pursuant to [section 402(b) of Pub. L. 114–27][/us/pl/114/27/s402/b], which revived the provisions of this section, effective June 29, 2015. See 2014 Amendment notes below.
+
+    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided for Feb. 13, 2011, termination of amendment by [Pub. L. 111–5][/us/pl/111/5], was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], and the provisions of this section, as amended by [Pub. L. 111–5][/us/pl/111/5] and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by [Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(C). [Pub. L. 113–128, § 512(hh)(1)(A)(ii)][/us/pl/113/128/s512/hh/1/A/ii], substituted “or a State dislocated worker unit,” for “or the State dislocated worker unit established under title I of such Act,”.
+    2015—[Pub. L. 114–27][/us/pl/114/27], §§ 402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
-    [Pub. L. 113–128, § 512(hh)(1)(A)(i)][/us/pl/113/128/s512/hh/1/A/i], which directed substitution of “, one-stop operators or one-stop partners (as defined in [section 3102 of title 29][/us/usc/t29/s3102]) including State employment security agencies,” for “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])) including State employment security agencies,”, was executed by making the substitution for “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])), including State employment security agencies,” to reflect the probable intent of Congress.
+    2014—Subsec. (a)(1)(C). [Pub. L. 113–128, § 512(hh)(1)(A)(ii)][/us/pl/113/128/s512/hh/1/A/ii], substituted “or a State dislocated worker unit,” for “or the State dislocated worker unit established under title I of such Act,”. See Codification note above.
 
-    Subsec. (a)(2)(A). [Pub. L. 113–128, § 512(hh)(1)(B)][/us/pl/113/128/s512/hh/1/B], substituted “rapid response activities and appropriate career services (as described in [section 3174 of title 29][/us/usc/t29/s3174]) authorized under other Federal laws” for “rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 ([29 U.S.C. 2864][/us/usc/t29/s2864])) authorized under other Federal laws”.
+    [Pub. L. 113–128, § 512(hh)(1)(A)(i)][/us/pl/113/128/s512/hh/1/A/i], which directed substitution of “, one-stop operators or one-stop partners (as defined in [section 3102 of title 29][/us/usc/t29/s3102]) including State employment security agencies,” for “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])) including State employment security agencies,”, was executed by making the substitution for “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])), including State employment security agencies,” to reflect the probable intent of Congress. See Codification note above.
+
+    Subsec. (a)(2)(A). [Pub. L. 113–128, § 512(hh)(1)(B)][/us/pl/113/128/s512/hh/1/B], substituted “rapid response activities and appropriate career services (as described in [section 3174 of title 29][/us/usc/t29/s3174]) authorized under other Federal laws” for “rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 ([29 U.S.C. 2864][/us/usc/t29/s2864])) authorized under other Federal laws”. See Codification note above.
 
     2011—[Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -91,13 +83,21 @@
 
     1986—Subsec. (a). [Pub. L. 99–272][/us/pl/99/272] inserted “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers”.
 
+ __Effective and Termination Dates of 2015 Revival__ 
+
+    For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of [Pub. L. 114–27][/us/pl/114/27], set out as a note preceding this section.
+
+    For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to [section 406(b) of Pub. L. 114–27][/us/pl/114/27/s406/b], see [section 406 of Pub. L. 114–27][/us/pl/114/27/s406], set out as a note preceding this section.
+
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective and Termination Dates of 2011 Revival__ 
 
-    For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of [Pub. L. 112–40][/us/pl/112/40], set out as notes preceding this section. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see [section 233 of Pub. L. 112–40][/us/pl/112/40/s233], set out as a note preceding this section.
+    For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of [Pub. L. 112–40][/us/pl/112/40], set out as a note preceding this section.
+
+    [Section 233 of Pub. L. 112–40][/us/pl/112/40/s233], formerly set out as a note preceding this section, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by [Pub. L. 114–27, title IV, § 402(a)][/us/pl/114/27/s402/a], June 29, 2015, [129 Stat. 374][/us/stat/129/374], effective June 29, 2015. See Codification note above.
 
  __Effective and Termination Dates of 2009 Amendment__ 
 
@@ -145,7 +145,7 @@
 
 >             “(B) would otherwise be eligible to receive benefits under such chapter 3 as in effect on the day before such effective date.”
 
-    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided that, except as otherwise provided, amendment by [Pub. L. 111–5][/us/pl/111/5] not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by [Pub. L. 111–5][/us/pl/111/5] had never been enacted, was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]. See Codification note above.
+    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], formerly set out as a Termination Date of 2009 Amendment note preceding this section, which provided that, except as otherwise provided, amendment by [Pub. L. 111–5][/us/pl/111/5] not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by [Pub. L. 111–5][/us/pl/111/5] had never been enacted, was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], effective Oct. 21, 2011. See Codification note above.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -183,9 +183,85 @@
 
  __Termination Date__ 
 
-    No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285] and [section 233(a) of Pub. L. 112–40][/us/pl/112/40/s233/a], set out as notes preceding this section.
+    No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out as a note preceding this section.
 
  __Applicability of Trade Adjustment Assistance Provisions__ 
+
+[Pub. L. 114–27, title IV, § 405][/us/pl/114/27/s405], June 29, 2015, [129 Stat. 377][/us/stat/129/377], provided that:
+
+>     “(a) __Trade Adjustment Assistance for Workers.—__ 
+
+>         “(1) __Petitions filed on or after__  __january 1, 2014__  __, and before date of enactment.—__ 
+
+>             “(A) __Certifications of workers not certified before date of enactment.—__ 
+
+>                 “(i)  __Criteria if a determination has not been made__  __.—__ 
+
+>                 If, as of the date of the enactment of this Act \[June 29, 2015\], the Secretary of Labor has not made a determination with respect to whether to certify a group of workers as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[[19 U.S.C. 2272][/us/usc/t19/s2272]\] pursuant to a petition described in clause (iii), the Secretary shall make that determination based on the requirements of section 222 of the Trade Act of 1974, as in effect on such date of enactment.
+
+>                 “(ii)  __Reconsideration of denials of certifications__  __.—__ 
+
+>                 If, before the date of the enactment of this Act, the Secretary made a determination not to certify a group of workers as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 pursuant to a petition described in clause (iii), the Secretary shall—
+
+>                          “(I) reconsider that determination; and
+
+>                          “(II) if the group of workers meets the requirements of section 222 of the Trade Act of 1974, as in effect on such date of enactment, certify the group of workers as eligible to apply for adjustment assistance.
+
+>                 “(iii)  __Petition described__  __.—__ 
+
+>                 A petition described in this clause is a petition for a certification of eligibility for a group of workers filed under section 221 of the Trade Act of 1974 \[[19 U.S.C. 2271][/us/usc/t19/s2271]\] on or after January 1, 2014, and before the date of the enactment of this Act.
+
+>             “(B) __Eligibility for benefits.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 Except as provided in clause (ii), a worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[[19 U.S.C. 2272][/us/usc/t19/s2272]\] pursuant to a petition described in subparagraph (A)(iii) shall be eligible, on and after the date that is 90 days after the date of the enactment of this Act \[June 29, 2015\], to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of 1974 \[this part\], as in effect on such date of enactment.
+
+>                 “(ii)  __Computation of maximum benefits__  __.—__ 
+
+>                 Benefits received by a worker described in clause (i) under chapter 2 of title II of the Trade Act of 1974 before the date of the enactment of this Act shall be included in any determination of the maximum benefits for which the worker is eligible under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on the date of the enactment of this Act.
+
+>         “(2)  __Petitions filed before __  __january 1, 2014__  __.—__ 
+
+>         A worker certified as eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 \[[19 U.S.C. 2271][/us/usc/t19/s2271]\] on or before December 31, 2013, shall continue to be eligible to apply for and receive benefits under the provisions of chapter 2 of title II of such Act, as in effect on December 31, 2013.
+
+>         “(3)  __Qualifying separations with respect to petitions filed within 90 days of date of enactment__  __.—__ 
+
+>         Section 223(b) of the Trade Act of 1974 \[[19 U.S.C. 2273(b)][/us/usc/t19/s2273/b]\], as in effect on the date of the enactment of this Act, shall be applied and administered by substituting ‘before January 1, 2014’ for ‘more than one year before the date of the petition on which such certification was granted’ for purposes of determining whether a worker is eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 on or after the date of the enactment of this Act and on or before the date that is 90 days after such date of enactment.
+
+>     “(b) __Trade Adjustment Assistance for Firms.—__ 
+
+>         “(1) __Certification of firms not certified before date of enactment.—__ 
+
+>             “(A)  __Criteria if a determination has not been made__  __.—__ 
+
+>             If, as of the date of the enactment of this Act \[June 29, 2015\], the Secretary of Commerce has not made a determination with respect to whether to certify a firm as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] pursuant to a petition described in subparagraph (C), the Secretary shall make that determination based on the requirements of section 251 of the Trade Act of 1974, as in effect on such date of enactment.
+
+>             “(B)  __Reconsideration of denial of certain petitions__  __.—__ 
+
+>             If, before the date of the enactment of this Act, the Secretary made a determination not to certify a firm as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 pursuant to a petition described in subparagraph (C), the Secretary shall—
+
+>                 “(i) reconsider that determination; and
+
+>                 “(ii) if the firm meets the requirements of section 251 of the Trade Act of 1974, as in effect on such date of enactment, certify the firm as eligible to apply for adjustment assistance.
+
+>             “(C)  __Petition described__  __.—__ 
+
+>             A petition described in this subparagraph is a petition for a certification of eligibility filed by a firm or its representative under section 251 of the Trade Act of 1974 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] on or after January 1, 2014, and before the date of the enactment of this Act \[June 29, 2015\].
+
+>         “(2) __Certification of firms that did not submit petitions between__  __january 1, 2014__  __, and date of enactment.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Secretary of Commerce shall certify a firm described in subparagraph (B) as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\], as in effect on the date of the enactment of this Act \[June 29, 2015\], if the firm or its representative files a petition for a certification of eligibility under section 251 of the Trade Act of 1974 not later than 90 days after such date of enactment.
+
+>             “(B)  __Firm described__  __.—__ 
+
+>             A firm described in this subparagraph is a firm that the Secretary determines would have been certified as eligible to apply for adjustment assistance if—
+
+>                 “(i) the firm or its representative had filed a petition for a certification of eligibility under section 251 of the Trade Act of 1974 on a date during the period beginning on January 1, 2014, and ending on the day before the date of the enactment of this Act; and
+
+>                 “(ii) the provisions of chapter 3 of title II of the Trade Act of 1974 \[part 3 of this subchapter\], as in effect on such date of enactment, had been in effect on that date during the period described in clause (i).”
 
 [Pub. L. 112–40, title II, § 231][/us/pl/112/40/s231], Oct. 21, 2011, [125 Stat. 413][/us/stat/125/413], provided that:
 
@@ -313,9 +389,8 @@
 ----------
 
 [/us/usc/t19/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2319
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174
 [/us/pl/93/618/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs221
 [/us/stat/88/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2019
 [/us/pl/99/272/s13002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13002%2Fa
@@ -332,22 +407,22 @@
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/113/128/s512/hh/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1
 [/us/stat/128/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1720
-[/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
+[/us/pl/114/27/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fb
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
+[/us/pl/114/27/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406%2Fb
+[/us/pl/112/40/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233
+[/us/pl/114/27/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fa
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
-[/us/usc/t29/s2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864
-[/us/usc/t29/s3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/114/27/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fb
 [/us/pl/111/5/s1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1893
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/112/40/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fa
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/113/128/s512/hh/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1%2FA%2Fii
 [/us/pl/113/128/s512/hh/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1%2FA%2Fi
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
@@ -366,10 +441,16 @@
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406%2Fb
+[/us/pl/114/27/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
-[/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
 [/us/pl/112/40/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233
+[/us/pl/114/27/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fa
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
 [/us/pl/111/5/s1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1891
 [/us/stat/123/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F420
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
@@ -389,7 +470,16 @@
 [/us/stat/107/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2152
 [/us/usc/t19/s2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2331
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
-[/us/pl/112/40/s233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fa
+[/us/pl/114/27/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs405
+[/us/stat/129/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F377
+[/us/usc/t19/s2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2272
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
+[/us/usc/t19/s2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2272
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
+[/us/usc/t19/s2273/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2273%2Fb
+[/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
+[/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
+[/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
 [/us/pl/112/40/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs231
 [/us/stat/125/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F413
 [/us/usc/t19/s2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2272

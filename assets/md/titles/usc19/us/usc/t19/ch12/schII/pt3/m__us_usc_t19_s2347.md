@@ -13,27 +13,33 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch12/schII/pt3/m__us_usc_t19_s2346.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt3/m__us_usc_t19_s2348.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2347)
 
-## § 2347. Repealed. [Pub. L. 111–5, div. B, title I, § 1864(a)(1)][/us/pl/111/5/s1864/a/1], Feb. 17, 2009, [123 Stat. 397][/us/stat/123/397]; [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]
+## § 2347. Repealed. [Pub. L. 111–5, div. B, title I, § 1864(a)(1)][/us/pl/111/5/s1864/a/1], Feb. 17, 2009, [123 Stat. 397][/us/stat/123/397]; [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]; [Pub. L. 114–27, title IV, § 402(b)][/us/pl/114/27/s402/b], (c), June 29, 2015, [129 Stat. 374][/us/stat/129/374]
 
     Section, [Pub. L. 93–618, title II, § 257][/us/pl/93/618/s257], Jan. 3, 1975, [88 Stat. 2033][/us/stat/88/2033]; [Pub. L. 97–35, title XXV, § 2525][/us/pl/97/35/s2525], Aug. 13, 1981, [95 Stat. 892][/us/stat/95/892], related to administration of financial assistance.
 
  __Termination of Repeal__ 
 
-    For termination of repeal of section beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Effective and Termination Dates of Repeal notes below.
+    For termination of repeal of section beginning on July 1, 2021, with certain exceptions and subject to [section 406(b) of Pub. L. 114–27][/us/pl/114/27/s406/b], see Effective and Termination Dates of Repeal notes below.
 
  __Effective and Termination Dates of Repeal__ 
 
-    For temporary revival and applicability of repeal, as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of [Pub. L. 112–40][/us/pl/112/40], set out as Effective and Termination Dates of 2011 Revival notes preceding [section 2271 of this title][/us/usc/t19/s2271]. For termination of repeal and reinstatement of former [section 2347 of this title][/us/usc/t19/s2347] beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see [section 233 of Pub. L. 112–40][/us/pl/112/40/s233], set out as an Effective and Termination Dates of 2011 Revival note preceding [section 2271 of this title][/us/usc/t19/s2271].
+    For revival and applicability, beginning on June 29, 2015, of the repeal of this section, as in effect on Dec. 31, 2013, see section 402(b), (c) of [Pub. L. 114–27][/us/pl/114/27], set out as an Effective and Termination Dates of 2015 Revival note preceding [section 2271 of this title][/us/usc/t19/s2271].
+
+    For termination of repeal and reinstatement of former [section 2346 of this title][/us/usc/t19/s2346] beginning on July 1, 2021, with certain exceptions and subject to [section 406(b) of Pub. L. 114–27][/us/pl/114/27/s406/b], see [section 406 of Pub. L. 114–27][/us/pl/114/27/s406], set out as an Effective and Termination Dates of 2015 Revival note preceding [section 2271 of this title][/us/usc/t19/s2271].
+
+    For revival and applicability, beginning on Oct. 21, 2011, of the repeal of this section, as in effect on Feb. 12, 2011, see section 201(b), (c) of [Pub. L. 112–40][/us/pl/112/40], set out as an Effective and Termination Dates of 2011 Revival note preceding [section 2271 of this title][/us/usc/t19/s2271].
+
+    [Section 233 of Pub. L. 112–40][/us/pl/112/40/s233], formerly set out as an Effective and Termination Dates of 2011 Revival note preceding [section 2271 of this title][/us/usc/t19/s2271], which provided for the termination of repeal and reinstatement of former [section 2347 of this title][/us/usc/t19/s2347], beginning on Jan. 1, 2014, subject to certain exceptions, was repealed by [Pub. L. 114–27, title IV, § 402(a)][/us/pl/114/27/s402/a], June 29, 2015, [129 Stat. 374][/us/stat/129/374], effective June 29, 2015.
 
     Repeal effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see [section 1864(e) of Pub. L. 111–5][/us/pl/111/5/s1864/e], set out as an Effective and Termination Dates note under [section 2344 of this title][/us/usc/t19/s2344].
 
     Except as otherwise provided and subject to certain applicability provisions, repeal effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see [section 1891 of Pub. L. 111–5][/us/pl/111/5/s1891], set out as an Effective and Termination Dates of 2009 Amendment note under [section 2271 of this title][/us/usc/t19/s2271].
 
-    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided that, except as otherwise provided, repeal of this section not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if the repeal had never been enacted, was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403].
+    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], formerly set out as a Termination Date of 2009 Amendment note preceding [section 2271 of this title][/us/usc/t19/s2271], which provided that, except as otherwise provided, repeal of this section not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if the repeal had never been enacted, was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], effective Oct. 21, 2011.
 
  __Termination Date__ 
 
-    Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2015, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285] and [section 541(b) of Pub. L. 113–235][/us/pl/113/235/s541/b], set out as notes preceding [section 2271 of this title][/us/usc/t19/s2271].
+    Except as otherwise provided, assistance may not be provided under this section after June 30, 2021, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out as a note preceding [section 2271 of this title][/us/usc/t19/s2271].
 
  __Deposit of Receipts From Transactions Under This Part Into Economic Development Revolving Fund__ 
 
@@ -52,26 +58,35 @@
 [/us/stat/123/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F397
 [/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/114/27/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fb
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
 [/us/pl/93/618/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs257
 [/us/stat/88/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2033
 [/us/pl/97/35/s2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2525
 [/us/stat/95/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F892
-[/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
+[/us/pl/114/27/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406%2Fb
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
+[/us/usc/t19/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2346
+[/us/pl/114/27/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406%2Fb
+[/us/pl/114/27/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
-[/us/usc/t19/s2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2347
-[/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
 [/us/pl/112/40/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
+[/us/usc/t19/s2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2347
+[/us/pl/114/27/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fa
+[/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
 [/us/pl/111/5/s1864/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1864%2Fe
 [/us/usc/t19/s2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2344
 [/us/pl/111/5/s1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1891
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/111/5/s1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1893
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/112/40/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fa
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
-[/us/pl/113/235/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs541%2Fb
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329

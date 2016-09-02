@@ -29,11 +29,11 @@
 
         (1)
 
-         Action taken under [section 2253 of this title][/us/usc/t19/s2253] may be reduced, modified, or terminated by the President (but not before the President receives the report required under subsection (a)(2)(A) of this section) if the President—
+         Action taken under [section 2253 of this title][/us/usc/t19/s2253] may be reduced, modified, or terminated by the President (but not before the President receives the report required under subsection (a)(2)(A)) if the President—
 
             (A)
 
-             after taking into account any report or advice submitted by the Commission under subsection (a) of this section and after seeking the advice of the Secretary of Commerce and the Secretary of Labor, determines, on the basis that either—
+             after taking into account any report or advice submitted by the Commission under subsection (a) and after seeking the advice of the Secretary of Commerce and the Secretary of Labor, determines, on the basis that either—
 
                 (i) the domestic industry has not made adequate efforts to make a positive adjustment to import competition, or
 

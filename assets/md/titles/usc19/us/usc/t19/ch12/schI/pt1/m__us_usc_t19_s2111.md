@@ -25,13 +25,13 @@
 
     (b) __Limitation on authority to decrease duty__ 
 
-        (1) Except as provided in paragraph (2), no proclamation pursuant to subsection (a)(2) of this section shall be made decreasing a rate of duty to a rate below 40 percent of the rate existing on January 1, 1975.
+        (1) Except as provided in paragraph (2), no proclamation pursuant to subsection (a)(2) shall be made decreasing a rate of duty to a rate below 40 percent of the rate existing on January 1, 1975.
 
         (2) Paragraph (1) shall not apply in the case of any article for which the rate of duty existing on January 1, 1975, is not more than 5 percent ad valorem.
 
     (c) __Limitation on authority to increase duty__ 
 
-    No proclamation shall be made pursuant to subsection (a)(2) of this section increasing any rate of duty to, or imposing a rate above, the higher of the following:
+    No proclamation shall be made pursuant to subsection (a)(2) increasing any rate of duty to, or imposing a rate above, the higher of the following:
 
         (1) the rate which is 50 percent above the rate set forth in rate column numbered 2 of the Tariff Schedules of the United States as in effect on January 1, 1975, or
 
@@ -157,7 +157,7 @@ Texts of Agreements Identified in the Third and Fourth Recitals of This Proclama
 
     <td colspan="2"> 
 
-1 Not printed in the Federal Register. The text of the Geneva (1979) Protocol to the General Agreement in part 1 of Annex I has been printed by the Contracting Parties to the General Agreement on Tariffs and Trade in four volumes entitled Geneva (1979) Protocol to the General Agreements on Tariffs and Trade. The Agreement with the Hungarian People’s Republic in part 6 of Annex I has been printed in House Document 96–153, vol. 1, p. 703. The general provisions of all the agreements in parts 1 to 6 of annex I, but not schedules of concessions by other parties, will be printed in the Customs Bulletin. The texts of all these agreements will be printed in Treaties and Other International Acts Series, and in the bound volumes of United States Treaties and Other International Agreements.
+1 Not printed in the Federal Register. The text of the Geneva (1979) Protocol to the General Agreement in part 1 of Annex I has been printed by the Contracting Parties to the General Agreement on Tariffs and Trade in four volumes entitled Geneva (1979) Protocol to the General Agreements on Tariffs and Trade. The Agreement with the Hungarian People’s Republic in part 6 of Annex I has been printed in House Document 96–153, vol. 1, p. 703. The general provisions of all the agreements in parts 1 to 6 of Annex I, but not schedules of concessions by other parties, will be printed in the Customs Bulletin. The texts of all these agreements will be printed in Treaties and Other International Acts Series, and in the bound volumes of United States Treaties and Other International Agreements.
 
   </td>
 

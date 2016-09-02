@@ -23,7 +23,7 @@
 
     If the consignee of any designated archaeological or ethnological material is unable to present to the customs officer concerned at the time of making entry of such material—
 
-        (1) the certificate or other documentation of the State Party required under subsection (a) of this section; or
+        (1) the certificate or other documentation of the State Party required under subsection (a); or
 
         (2)
 
@@ -41,7 +41,7 @@
 
         (1)
 
-         for purposes of subsection (b)(2)(A) of this section—
+         for purposes of subsection (b)(2)(A)—
 
             (A)
 
@@ -55,7 +55,7 @@
 
         (2)
 
-         for purposes of subsection (b)(2)(B) of this section—
+         for purposes of subsection (b)(2)(B)—
 
             (A) one or more declarations under oath by the importer or the person for whose account the material is to be imported, stating that, to the best of his knowledge, the material was exported from the State Party on or before the date such material was designated under [section 2604 of this title][/us/usc/t19/s2604], and
 
@@ -63,7 +63,7 @@
 
     (d) __Related persons__ 
 
-    For purposes of subsections (b) and (c) of this section, a person shall be treated as a related person to an importer, or to a person for whose account material is imported, if such person—
+    For purposes of subsections (b) and (c), a person shall be treated as a related person to an importer, or to a person for whose account material is imported, if such person—
 
         (1) is a member of the same family as the importer or person of account, including, but not limited to, membership as a brother or sister (whether by whole or half blood), spouse, ancestor, or lineal descendant;
 

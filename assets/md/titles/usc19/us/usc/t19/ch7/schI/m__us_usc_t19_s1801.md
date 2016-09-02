@@ -41,7 +41,7 @@
 
  __President’s Export Council__ 
 
-    For provisions relating to establishment of President’s Export Council and the Council’s functions concerning export expansion, see Ex. Ord. No. 12131, May 4, 1979, 44 F.R. 26841, set out as a note under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, War and National Defense.
+    For provisions relating to establishment of President’s Export Council and the Council’s functions concerning export expansion, see Ex. Ord. No. 12131, May 4, 1979, 44 F.R. 26841, set out as a note under [section 4601 of Title 50][/us/usc/t50/s4601], War and National Defense.
 
  __Executive Order No. 11075__ 
 
@@ -75,7 +75,7 @@
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
-[/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
 [/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072

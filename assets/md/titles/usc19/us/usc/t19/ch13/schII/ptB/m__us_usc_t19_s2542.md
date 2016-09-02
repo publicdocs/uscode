@@ -19,15 +19,15 @@
 
         (1) __For nonagricultural products__ 
 
-            The Secretary of Commerce shall establish and maintain within the Department of Commerce a technical office that shall carry out the functions prescribed under subsection (b) of this section with respect to nonagricultural products.
+            The Secretary of Commerce shall establish and maintain within the Department of Commerce a technical office that shall carry out the functions prescribed under subsection (b) with respect to nonagricultural products.
 
         (2) __For agricultural products__ 
 
-            The Secretary of Agriculture shall establish and maintain within the Department of Agriculture a technical office that shall carry out the functions prescribed under subsection (b) of this section with respect to agricultural products.
+            The Secretary of Agriculture shall establish and maintain within the Department of Agriculture a technical office that shall carry out the functions prescribed under subsection (b) with respect to agricultural products.
 
     (b) __Functions of offices__ 
 
-        The President shall prescribe for each technical office established under subsection (a) of this section such functions as the President deems necessary or appropriate to implement this subchapter.
+        The President shall prescribe for each technical office established under subsection (a) such functions as the President deems necessary or appropriate to implement this subchapter.
 
 ([Pub. L. 96–39, title IV, § 412][/us/pl/96/39/s412], July 26, 1979, [93 Stat. 244][/us/stat/93/244].)
 

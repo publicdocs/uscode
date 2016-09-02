@@ -29,7 +29,7 @@
 
     (b) __Report to Congress concerning emigration policies__ 
 
-        After January 3, 1975, (A) a nonmarket economy country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (B) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a) of this section. Such report with respect to such country shall include information as to the nature and implementation of its laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate to the United States to join close relatives. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter, so long as such credits or guarantees are extended or such agreement is in effect.
+        After January 3, 1975, (A) a nonmarket economy country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (B) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a). Such report with respect to such country shall include information as to the nature and implementation of its laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate to the United States to join close relatives. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter, so long as such credits or guarantees are extended or such agreement is in effect.
 
     (c) __Exemption from application of section__ 
 
@@ -37,7 +37,7 @@
 
     (d) __Additional exemption from application of section__ 
 
-        During any period that a waiver is in effect with respect to any nonmarket economy country under [section 2432(c) of this title][/us/usc/t19/s2432/c], the provisions of subsections (a) and (b) of this section shall not apply with respect to such country.
+        During any period that a waiver is in effect with respect to any nonmarket economy country under [section 2432(c) of this title][/us/usc/t19/s2432/c], the provisions of subsections (a) and (b) shall not apply with respect to such country.
 
 ([Pub. L. 93–618, title IV, § 409][/us/pl/93/618/s409], Jan. 3, 1975, [88 Stat. 2064][/us/stat/88/2064].)
 
