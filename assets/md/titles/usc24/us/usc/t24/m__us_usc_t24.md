@@ -15,7 +15,7 @@
 
 # Title 24—HOSPITALS AND ASYLUMS
 
-Current through 113-125
+Current through 113-126
 
 <table>
 
