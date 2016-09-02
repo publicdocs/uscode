@@ -15,7 +15,7 @@
 
 ## § 1501. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “Indian Wars” means the campaigns, engagements, and expeditions of the United States military forces against Indian tribes or nations, service in which has been recognized heretofore as pensionable service.
 

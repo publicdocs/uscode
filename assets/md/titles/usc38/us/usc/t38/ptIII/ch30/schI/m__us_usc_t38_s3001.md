@@ -15,7 +15,7 @@
 
 ## § 3001. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to provide a new educational assistance program to assist in the readjustment of members of the Armed Forces to civilian life after their separation from military service;
 

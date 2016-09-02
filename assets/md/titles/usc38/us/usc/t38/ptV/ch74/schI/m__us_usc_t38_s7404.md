@@ -35,35 +35,37 @@
 
             (C) Notwithstanding the provisions of subsection (d) of [section 5307 of title 5][/us/usc/t5/s5307], the Secretary may make any certification under that subsection instead of the Office of Personnel Management and without concurrence of the Office of Management and Budget.
 
-    (b) The grades for positions provided for in paragraph (1) of [section 7401 of this title][/us/usc/t38/s7401] shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:    physician and dentist schedule
+    (b) The grades for positions provided for in paragraph (1) of [section 7401 of this title][/us/usc/t38/s7401] shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
 
-        Physician grade.
+physician and dentist schedule
 
-        Dentist grade.
+    Physician grade.
 
-        nurse schedule
+    Dentist grade.
 
-        Nurse V.
+nurse schedule
 
-        Nurse IV.
+    Nurse V.
 
-        Nurse III.
+    Nurse IV.
 
-        Nurse II.
+    Nurse III.
 
-        Nurse I.
+    Nurse II.
 
-        clinical podiatrist, chiropractor, and optometrist schedule
+    Nurse I.
 
-        Chief grade.
+clinical podiatrist, chiropractor, and optometrist schedule
 
-        Senior grade.
+    Chief grade.
 
-        Intermediate grade.
+    Senior grade.
 
-        Full grade.
+    Intermediate grade.
 
-        Associate grade.
+    Full grade.
+
+    Associate grade.
 
     (c) Notwithstanding the provisions of [section 7425(a) of this title][/us/usc/t38/s7425/a], a person appointed under [section 7306 of this title][/us/usc/t38/s7306] who is not eligible for pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
 

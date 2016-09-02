@@ -15,7 +15,7 @@
 
 ## § 8161. Definitions
 
-For the purposes of this subchapter:
+    For the purposes of this subchapter:
 
     (1) The term “enhanced-use lease” means a written lease entered into by the Secretary under this subchapter.
 

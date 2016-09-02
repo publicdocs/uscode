@@ -15,7 +15,7 @@
 
 ## § 7652. Eligibility: individuals entitled to benefits under the GI Bill program for members of the Selected Reserve
 
-The Secretary of Veterans Affairs may not approve an application under [section 7603 of this title][/us/usc/t38/s7603] of an individual applying to receive assistance under this subchapter unless—
+    The Secretary of Veterans Affairs may not approve an application under [section 7603 of this title][/us/usc/t38/s7603] of an individual applying to receive assistance under this subchapter unless—
 
     (1) the individual is entitled to benefits under chapter 106 of title 10; and
 

@@ -15,7 +15,7 @@
 
 ## § 1101. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “veteran” includes a person who died in the active military, naval, or air service.
 

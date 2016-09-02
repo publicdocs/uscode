@@ -15,7 +15,7 @@
 
 ## § 5727. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Availability.—__ 
 

@@ -15,7 +15,7 @@
 
 ## § 7904. Preferences in awarding financial assistance
 
-In awarding financial assistance under this chapter, the Secretary shall give a preference to qualified individuals who are otherwise eligible to receive the financial assistance in the following order of priority:
+    In awarding financial assistance under this chapter, the Secretary shall give a preference to qualified individuals who are otherwise eligible to receive the financial assistance in the following order of priority:
 
     (1) Veterans with service-connected disabilities.
 

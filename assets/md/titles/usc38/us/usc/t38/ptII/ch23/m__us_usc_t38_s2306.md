@@ -133,7 +133,7 @@
 
  __Amendment of Section__ 
 
-For delayed effective date of subsections (f) and (h)(4) of this section, see Effective Date of 2013 Amendment note below.
+    For delayed effective date of subsections (f) and (h)(4) of this section, see Effective Date of 2013 Amendment note below.
 
  __Amendments__ 
 

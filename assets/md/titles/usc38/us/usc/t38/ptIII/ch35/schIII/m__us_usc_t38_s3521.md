@@ -15,7 +15,7 @@
 
 ## § 3521. Approval of application
 
-The Secretary shall approve an application if the Secretary finds that—
+    The Secretary shall approve an application if the Secretary finds that—
 
     (1) the proposed program of education constitutes a “program of education” as that term is defined in this chapter;
 

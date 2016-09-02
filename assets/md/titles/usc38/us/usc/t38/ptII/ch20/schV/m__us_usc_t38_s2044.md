@@ -129,7 +129,7 @@
 
             (D) $100,000,000 for fiscal year 2012.
 
-            (E) $300,000,000 for fiscal year 2013.
+            (E) $300,000,000 for each of fiscal years 2013 and 2014.
 
         (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
@@ -183,13 +183,15 @@
 
         (7) The term “veteran family” includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
 
-(Added [Pub. L. 110–387, title VI, § 604(b)(1)][/us/pl/110/387/s604/b/1], Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132]; amended [Pub. L. 111–275, title X, § 1001(e)][/us/pl/111/275/s1001/e], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 112–37, § 12][/us/pl/112/37/s12], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III, § 305(c)][/us/pl/112/154/s305/c], Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187].)
+(Added [Pub. L. 110–387, title VI, § 604(b)(1)][/us/pl/110/387/s604/b/1], Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132]; amended [Pub. L. 111–275, title X, § 1001(e)][/us/pl/111/275/s1001/e], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 112–37, § 12][/us/pl/112/37/s12], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III, § 305(c)][/us/pl/112/154/s305/c], Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37, § 2(f)(2)][/us/pl/113/37/s2/f/2], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524].)
 
  __Codification__ 
 
     [Pub. L. 112–37, § 12][/us/pl/112/37/s12], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397], which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is [section 2044 of Title 38][/us/usc/t38/s2044], Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
  __Amendments__ 
+
+    2013—Subsec. (e)(1)(E). [Pub. L. 113–37][/us/pl/113/37] substituted “for each of fiscal years 2013 and 2014” for “for fiscal year 2013”.
 
     2012—Subsec. (e)(1)(E). [Pub. L. 112–154][/us/pl/112/154] added subpar. (E).
 
@@ -200,6 +202,10 @@
     Subsec. (e)(3). [Pub. L. 112–37, § 12(a)(2)][/us/pl/112/37/s12/a/2], substituted “2012” for “2011”. See Codification note above.
 
     2010—Subsec. (e)(3). [Pub. L. 111–275][/us/pl/111/275] substituted “fiscal years” for “fiscal year”.
+
+ __Effective Date of 2013 Amendment__ 
+
+    Amendment by [Pub. L. 113–37][/us/pl/113/37] effective Oct. 1, 2013, see [section 4(a) of Pub. L. 113–37][/us/pl/113/37/s4/a], set out as a note under [section 322 of this title][/us/usc/t38/s322].
 
  __Purpose__ 
 
@@ -227,14 +233,20 @@
 [/us/stat/125/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F397
 [/us/pl/112/154/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs305%2Fc
 [/us/stat/126/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1187
+[/us/pl/113/37/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Ff%2F2
+[/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/pl/112/37/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs12
 [/us/stat/125/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F397
 [/us/usc/t38/s2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2044
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/112/37/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs12%2Fb
 [/us/pl/112/37/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs12%2Fa%2F1
 [/us/pl/112/37/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs12%2Fa%2F2
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/37/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs4%2Fa
+[/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
 [/us/pl/110/387/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs604%2Fa
 [/us/stat/122/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4132
 

@@ -15,7 +15,7 @@
 
 ## § 8131. Definitions
 
-For the purpose of this subchapter—
+    For the purpose of this subchapter—
 
     (1) The veteran population of each State shall be determined on the basis of the latest figures certified by the Department of Commerce.
 

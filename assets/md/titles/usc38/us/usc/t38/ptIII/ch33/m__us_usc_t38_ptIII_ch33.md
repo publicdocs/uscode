@@ -175,9 +175,15 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     2012—[Pub. L. 112–154, title IV, § 402(a)(2)][/us/pl/112/154/s402/a/2], Aug. 6, 2012, [126 Stat. 1189][/us/stat/126/1189], added item 3325.
 

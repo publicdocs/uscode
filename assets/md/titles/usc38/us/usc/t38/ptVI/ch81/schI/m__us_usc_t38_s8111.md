@@ -31,7 +31,7 @@
 
         (4) Establish a joint incentive program under subsection (d).
 
-        \[(c) Repealed. [Pub. L. 108–136, div. A, title V, § 583(b)(1)][/us/pl/108/136/s583/b/1], Nov. 24, 2003, [117 Stat. 1491][/us/stat/117/1491].\]
+    \[(c) Repealed. [Pub. L. 108–136, div. A, title V, § 583(b)(1)][/us/pl/108/136/s583/b/1], Nov. 24, 2003, [117 Stat. 1491][/us/stat/117/1491].\]
 
     (d) __Joint Incentives Program.—__ 
 
@@ -489,7 +489,9 @@
 
 >     “(1) without regard to any otherwise applicable requirement for the payment of a copayment or deductible; or
 
->     “(2) subject to a requirement to pay only part of any such otherwise applicable copayment or deductible, as specified in the guidelines.    “\[SEC. 204. Repealed. [Pub. L. 104–262, title III, § 302(b)(1)][/us/pl/104/262/s302/b/1], Oct. 9, 1996, [110 Stat. 3193][/us/stat/110/3193].\]
+>     “(2) subject to a requirement to pay only part of any such otherwise applicable copayment or deductible, as specified in the guidelines.
+
+> “\[SEC. 204. Repealed. [Pub. L. 104–262, title III, § 302(b)(1)][/us/pl/104/262/s302/b/1], Oct. 9, 1996, [110 Stat. 3193][/us/stat/110/3193].\]
 
 > “SEC. 205. __CONSULTATION WITH VETERANS SERVICE ORGANIZATIONS.__ 
 

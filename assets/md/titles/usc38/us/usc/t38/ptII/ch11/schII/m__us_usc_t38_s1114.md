@@ -15,7 +15,7 @@
 
 ## § 1114. Rates of wartime disability compensation
 
-For the purposes of [section 1110 of this title][/us/usc/t38/s1110]—
+    For the purposes of [section 1110 of this title][/us/usc/t38/s1110]—
 
     (a) if and while the disability is rated 10 percent the monthly compensation shall be $123;
 

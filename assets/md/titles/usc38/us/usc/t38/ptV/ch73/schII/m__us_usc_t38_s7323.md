@@ -15,7 +15,7 @@
 
 ## § 7323. Required consultations with nurses
 
-The Under Secretary for Health shall ensure that—
+    The Under Secretary for Health shall ensure that—
 
     (1) the director of a geographic service area, in formulating policy relating to the provision of patient care, shall consult regularly with a senior nurse executive or senior nurse executives; and
 

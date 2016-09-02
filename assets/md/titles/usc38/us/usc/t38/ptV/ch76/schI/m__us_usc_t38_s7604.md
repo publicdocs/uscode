@@ -15,7 +15,7 @@
 
 ## § 7604. Terms of agreement
 
-An agreement between the Secretary and a participant in the Educational Assistance Program shall be in writing, shall be signed by the participant, and shall include the following provisions:
+    An agreement between the Secretary and a participant in the Educational Assistance Program shall be in writing, shall be signed by the participant, and shall include the following provisions:
 
     (1)
 

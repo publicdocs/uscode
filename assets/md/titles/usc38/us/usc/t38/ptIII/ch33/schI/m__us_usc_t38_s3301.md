@@ -15,7 +15,7 @@
 
 ## § 3301. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1)
 
@@ -185,7 +185,11 @@ In this chapter:
 
 >              the fraction—
 
->                 “(I) the numerator of which is—         “(aa) the number of months of entitlement to basic educational assistance under chapter 30 of title 38, United States Code, remaining to the individual at the time of the election; plus
+>                 “(I)
+
+>                  the numerator of which is—
+
+>                          “(aa) the number of months of entitlement to basic educational assistance under chapter 30 of title 38, United States Code, remaining to the individual at the time of the election; plus
 
 >                          “(bb) the number of months, if any, of entitlement under such chapter 30 revoked by the individual under paragraph (3)(A); and
 

@@ -15,7 +15,7 @@
 
 ## § 3741. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) The term “disabled veteran” means (A) a veteran who is entitled to compensation under laws administered by the Secretary for a disability rated at 30 percent or more, or (B) a veteran whose discharge or release from active duty was for a disability incurred or aggravated in line of duty.
 

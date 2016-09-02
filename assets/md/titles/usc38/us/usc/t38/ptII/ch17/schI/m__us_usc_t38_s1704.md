@@ -15,7 +15,7 @@
 
 ## § 1704. Preventive health services: annual report
 
-Not later than October 31 each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on preventive health services. Each such report shall include the following:
+    Not later than October 31 each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on preventive health services. Each such report shall include the following:
 
     (1)
 

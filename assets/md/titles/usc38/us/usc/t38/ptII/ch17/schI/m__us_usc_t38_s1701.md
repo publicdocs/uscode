@@ -15,7 +15,7 @@
 
 ## § 1701. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “disability” means a disease, injury, or other physical or mental defect.
 

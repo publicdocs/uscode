@@ -39,7 +39,7 @@
 
     (d) __Duration.—__ 
 
-    The authority of the Secretaries to provide referral and counseling services under the demonstration program shall cease on September 30, 2013.
+    The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2014.
 
     (e) __Definition.—__ 
 
@@ -49,7 +49,7 @@
 
         (2) is at risk for homelessness absent referral and counseling services provided under the demonstration program (as determined under guidelines established by the Secretaries).
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 912][/us/stat/115/912]; amended [Pub. L. 110–28, title V, § 5705][/us/pl/110/28/s5705], May 25, 2007, [121 Stat. 170][/us/stat/121/170]; [Pub. L. 110–387, title VI, § 602(a)][/us/pl/110/387/s602/a]–(d)(2), Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132]; [Pub. L. 112–239, div. A, title V, § 590][/us/pl/112/239/s590], Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769].)
+(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 912][/us/stat/115/912]; amended [Pub. L. 110–28, title V, § 5705][/us/pl/110/28/s5705], May 25, 2007, [121 Stat. 170][/us/stat/121/170]; [Pub. L. 110–387, title VI, § 602(a)][/us/pl/110/387/s602/a]–(d)(2), Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132]; [Pub. L. 112–239, div. A, title V, § 590][/us/pl/112/239/s590], Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769]; [Pub. L. 113–37, § 2(e)(2)][/us/pl/113/37/s2/e/2], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524].)
 
  __Prior Provisions__ 
 
@@ -57,7 +57,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (d). [Pub. L. 112–239][/us/pl/112/239] substituted “September 30, 2013” for “September 30, 2012”.
+    2013—Subsec. (d). [Pub. L. 113–37][/us/pl/113/37] inserted “to enter into a contract” before “to provide” and substituted “September 30, 2014” for “September 30, 2013”.
+
+    [Pub. L. 112–239][/us/pl/112/239] substituted “September 30, 2013” for “September 30, 2012”.
 
     2008—[Pub. L. 110–387, § 602(d)(2)][/us/pl/110/387/s602/d/2], amended section catchline generally. Prior to amendment, catchline read as follows: “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness”.
 
@@ -70,6 +72,10 @@
     Subsec. (d). [Pub. L. 110–387, § 602(c)][/us/pl/110/387/s602/c], substituted “September 30, 2012.” for “September 30, 2007.”
 
     2007—Subsec. (d). [Pub. L. 110–28][/us/pl/110/28] substituted “shall cease on September 30, 2007” for “shall cease on the date that is four years after the date of the commencement of the program”.
+
+ __Effective Date of 2013 Amendment__ 
+
+    Amendment by [Pub. L. 113–37][/us/pl/113/37] effective Oct. 1, 2013, see [section 4(a) of Pub. L. 113–37][/us/pl/113/37/s4/a], set out as a note under [section 322 of this title][/us/usc/t38/s322].
 
 ----------
 
@@ -86,8 +92,11 @@
 [/us/stat/122/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4132
 [/us/pl/112/239/s590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs590
 [/us/stat/126/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1769
+[/us/pl/113/37/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fe%2F2
+[/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
 [/us/stat/108/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3150
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/387/s602/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs602%2Fd%2F2
 [/us/pl/110/387/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs602%2Fa
@@ -95,5 +104,8 @@
 [/us/pl/110/387/s602/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs602%2Fd%2F1
 [/us/pl/110/387/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs602%2Fc
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/37/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs4%2Fa
+[/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
 
 

@@ -15,7 +15,7 @@
 
 ## § 7305. Divisions of Veterans Health Administration
 
-The Veterans Health Administration shall include the following:
+    The Veterans Health Administration shall include the following:
 
     (1) The Office of the Under Secretary for Health.
 

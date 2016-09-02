@@ -15,7 +15,7 @@
 
 ## § 3452. Definitions
 
-For the purposes of this chapter and chapter 36 of this title—
+    For the purposes of this chapter and chapter 36 of this title—
 
     (a)
 

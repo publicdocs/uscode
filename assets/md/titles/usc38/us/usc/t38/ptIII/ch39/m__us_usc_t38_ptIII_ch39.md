@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t38/ptIII/ch37/schVI/m__us_usc_t38_s3772 to 3775.md) | [Next](./../../../../..//us/usc/t38/ptIII/ch39/m__us_usc_t38_s3901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch39)
+[Previous](./../../../../..//us/usc/t38/ptIII/ch37/schVI/m__us_usc_t38_s3771.md) | [Next](./../../../../..//us/usc/t38/ptIII/ch39/m__us_usc_t38_s3901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch39)
 
 ### CHAPTER 39—AUTOMOBILES AND ADAPTIVE EQUIPMENT FOR CERTAIN DISABLED VETERANS AND MEMBERS OF THE ARMED FORCES
 
@@ -85,7 +85,7 @@ This chapter as added by [Pub. L. 91–666, § 2(a)][/us/pl/91/666/s2/a], Jan.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t38/ptIII/ch37/schVI/m__us_usc_t38_s3772 to 3775.md) | [Next](./../../../../..//us/usc/t38/ptIII/ch39/m__us_usc_t38_s3901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch39)
+[Previous](./../../../../..//us/usc/t38/ptIII/ch37/schVI/m__us_usc_t38_s3771.md) | [Next](./../../../../..//us/usc/t38/ptIII/ch39/m__us_usc_t38_s3901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch39)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 1115. Additional compensation for dependents
 
-Any veteran entitled to compensation at the rates provided in [section 1114 of this title][/us/usc/t38/s1114], and whose disability is rated not less than 30 percent, shall be entitled to additional compensation for dependents in the following monthly amounts:
+    Any veteran entitled to compensation at the rates provided in [section 1114 of this title][/us/usc/t38/s1114], and whose disability is rated not less than 30 percent, shall be entitled to additional compensation for dependents in the following monthly amounts:
 
     (1)
 

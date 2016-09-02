@@ -15,7 +15,7 @@
 
 ## § 2002. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “homeless veteran” means a veteran who is homeless (as that term is defined in section 103(a) of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11302(a)][/us/usc/t42/s11302/a])).
 

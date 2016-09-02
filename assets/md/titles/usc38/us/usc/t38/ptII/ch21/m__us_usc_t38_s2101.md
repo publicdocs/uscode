@@ -73,7 +73,11 @@
 
             (C) the nature and condition of the proposed housing unit are such as to be suitable to the veteran’s needs for dwelling purposes.
 
-        (4) The Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2013.
+        (4)
+
+            (A) Except as provided in subparagraph (B), the Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2014.
+
+            (B) In fiscal year 2014, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
 
     (b) __Adaptations to Residence of Veteran.—__ 
 
@@ -107,13 +111,15 @@
 
     Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1168][/us/stat/72/1168], § 801; [Pub. L. 86–239][/us/pl/86/239], Sept. 8, 1959, [73 Stat. 472][/us/stat/73/472]; [Pub. L. 88–401][/us/pl/88/401], Aug. 4, 1964, [78 Stat. 380][/us/stat/78/380]; [Pub. L. 91–22, § 1][/us/pl/91/22/s1], June 6, 1969, [83 Stat. 32][/us/stat/83/32]; [Pub. L. 95–117, title IV, § 401][/us/pl/95/117/s401], Oct. 3, 1977, [91 Stat. 1065][/us/stat/91/1065]; [Pub. L. 96–385, title III, § 301(a)][/us/pl/96/385/s301/a], Oct. 7, 1980, [94 Stat. 1531][/us/stat/94/1531]; [Pub. L. 99–576, title IV, § 401(a)][/us/pl/99/576/s401/a], title VII, §§ 701(48), 702(7), Oct. 28, 1986, [100 Stat. 3280][/us/stat/100/3280], 3295, 3302; renumbered § 2101 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–183, title IV, § 401][/us/pl/108/183/s401], Dec. 16, 2003, [117 Stat. 2664][/us/stat/117/2664]; [Pub. L. 108–454, title IV, § 401][/us/pl/108/454/s401], Dec. 10, 2004, [118 Stat. 3614][/us/stat/118/3614]; [Pub. L. 109–233, title I, § 105(a)][/us/pl/109/233/s105/a], June 15, 2006, [120 Stat. 402][/us/stat/120/402]; [Pub. L. 110–289, div. B, title VI][/us/pl/110/289], §§ 2602(b)(1), (7)(A), 2603, July 30, 2008, [122 Stat. 2859][/us/stat/122/2859], 2860; [Pub. L. 112–154, title II][/us/pl/112/154], §§ 202(a), (c), 203(a), Aug. 6, 2012, [126 Stat. 1176][/us/stat/126/1176], 1177.)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1168][/us/stat/72/1168], § 801; [Pub. L. 86–239][/us/pl/86/239], Sept. 8, 1959, [73 Stat. 472][/us/stat/73/472]; [Pub. L. 88–401][/us/pl/88/401], Aug. 4, 1964, [78 Stat. 380][/us/stat/78/380]; [Pub. L. 91–22, § 1][/us/pl/91/22/s1], June 6, 1969, [83 Stat. 32][/us/stat/83/32]; [Pub. L. 95–117, title IV, § 401][/us/pl/95/117/s401], Oct. 3, 1977, [91 Stat. 1065][/us/stat/91/1065]; [Pub. L. 96–385, title III, § 301(a)][/us/pl/96/385/s301/a], Oct. 7, 1980, [94 Stat. 1531][/us/stat/94/1531]; [Pub. L. 99–576, title IV, § 401(a)][/us/pl/99/576/s401/a], title VII, §§ 701(48), 702(7), Oct. 28, 1986, [100 Stat. 3280][/us/stat/100/3280], 3295, 3302; renumbered § 2101 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–183, title IV, § 401][/us/pl/108/183/s401], Dec. 16, 2003, [117 Stat. 2664][/us/stat/117/2664]; [Pub. L. 108–454, title IV, § 401][/us/pl/108/454/s401], Dec. 10, 2004, [118 Stat. 3614][/us/stat/118/3614]; [Pub. L. 109–233, title I, § 105(a)][/us/pl/109/233/s105/a], June 15, 2006, [120 Stat. 402][/us/stat/120/402]; [Pub. L. 110–289, div. B, title VI][/us/pl/110/289], §§ 2602(b)(1), (7)(A), 2603, July 30, 2008, [122 Stat. 2859][/us/stat/122/2859], 2860; [Pub. L. 112–154, title II][/us/pl/112/154], §§ 202(a), (c), 203(a), Aug. 6, 2012, [126 Stat. 1176][/us/stat/126/1176], 1177; [Pub. L. 113–37, § 2(g)][/us/pl/113/37/s2/g], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524].)
 
  __Prior Provisions__ 
 
     Prior section 2101, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1222][/us/stat/72/1222], related to eligibility for mustering-out payments, prior to repeal by [Pub. L. 89–50, § 1(a)][/us/pl/89/50/s1/a], June 24, 1965, [79 Stat. 173][/us/stat/79/173], effective July 1, 1966.
 
  __Amendments__ 
+
+    2013—Subsec. (a)(4). [Pub. L. 113–37][/us/pl/113/37] designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the Secretary’s” for “The Secretary’s” and “September 30, 2014” for “September 30, 2013”, and added subpar. (B).
 
     2012—Subsec. (a)(1). [Pub. L. 112–154, § 202(c)(1)][/us/pl/112/154/s202/c/1], substituted “to paragraphs (3) and (4)” for “to paragraph (3)”.
 
@@ -168,6 +174,10 @@
     1964—[Pub. L. 88–401][/us/pl/88/401] struck out provisions from cl. (2)(B) which required such permanent and total disability to be such as to preclude locomotion without the aid of a wheelchair.
 
     1959—[Pub. L. 86–239][/us/pl/86/239] designated existing provisions of first sentence as cl. (1), struck out “by reason of amputation, ankylosis, progressive muscular dystrophies, or paralysis” after “loss of use”, and added cl. (2).
+
+ __Effective Date of 2013 Amendment__ 
+
+    Amendment by [Pub. L. 113–37][/us/pl/113/37] effective Oct. 1, 2013, see [section 4(a) of Pub. L. 113–37][/us/pl/113/37/s4/a], set out as a note under [section 322 of this title][/us/usc/t38/s322].
 
  __Effective Date of 2012 Amendment__ 
 
@@ -226,10 +236,13 @@
 [/us/stat/122/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2859
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/stat/126/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1176
+[/us/pl/113/37/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fg
+[/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1222
 [/us/pl/89/50/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F50%2Fs1%2Fa
 [/us/stat/79/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F173
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/154/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs202%2Fc%2F1
 [/us/pl/112/154/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs202%2Fa
 [/us/pl/112/154/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs202%2Fc%2F2
@@ -257,6 +270,9 @@
 [/us/pl/91/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F22
 [/us/pl/88/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F401
 [/us/pl/86/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F239
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/37/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs4%2Fa
+[/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
 [/us/pl/112/154/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs202%2Fb
 [/us/stat/126/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1177
 [/us/pl/112/154/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs203%2Fb

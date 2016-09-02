@@ -15,7 +15,7 @@
 
 ## § 7703. Functions of the Administration
 
-The Veterans Benefits Administration is responsible for the administration of the following programs of the Department:
+    The Veterans Benefits Administration is responsible for the administration of the following programs of the Department:
 
     (1) Compensation and pension programs.
 

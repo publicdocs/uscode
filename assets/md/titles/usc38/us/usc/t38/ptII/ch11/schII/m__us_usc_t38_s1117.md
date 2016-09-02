@@ -625,7 +625,9 @@
 
 >         “(1) The term ‘Persian Gulf War’ has the meaning given that term in [section 101(33) of title 38][/us/usc/t38/s101/33], United States Code.
 
->         “(2) The term ‘Post-9/11 Global Theater of Operations’ means Afghanistan, Iraq, and any other theater of operations for which the Global War on Terrorism Expeditionary Medal is awarded for service.    “\[SEC. 1604. Repealed. [Pub. L. 111–275, title VIII, § 806(b)(3)][/us/pl/111/275/s806/b/3], Oct. 13, 2010, [124 Stat. 2893][/us/stat/124/2893].\]
+>         “(2) The term ‘Post-9/11 Global Theater of Operations’ means Afghanistan, Iraq, and any other theater of operations for which the Global War on Terrorism Expeditionary Medal is awarded for service.
+
+> “\[SEC. 1604. Repealed. [Pub. L. 111–275, title VIII, § 806(b)(3)][/us/pl/111/275/s806/b/3], Oct. 13, 2010, [124 Stat. 2893][/us/stat/124/2893].\]
 
 > “SEC. 1605. __DEFINITIONS.__ 
 

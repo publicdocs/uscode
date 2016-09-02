@@ -15,7 +15,7 @@
 
 ## § 5510. Annual report
 
-The Secretary shall include in the Annual Benefits Report of the Veterans Benefits Administration or the Secretary’s Annual Performance and Accountability Report information concerning fiduciaries who have been appointed to receive payments for beneficiaries of the Department. As part of such information, the Secretary shall separately set forth the following:
+    The Secretary shall include in the Annual Benefits Report of the Veterans Benefits Administration or the Secretary’s Annual Performance and Accountability Report information concerning fiduciaries who have been appointed to receive payments for beneficiaries of the Department. As part of such information, the Secretary shall separately set forth the following:
 
     (1) The number of beneficiaries in each category (veteran, surviving spouse, child, adult disabled child, or parent).
 

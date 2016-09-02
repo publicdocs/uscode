@@ -15,7 +15,7 @@
 
 ## § 7504. Agreement
 
-An agreement between the Secretary and a participant in the scholarship program under this chapter shall be in writing, shall be signed by the participant, and shall include—
+    An agreement between the Secretary and a participant in the scholarship program under this chapter shall be in writing, shall be signed by the participant, and shall include—
 
     (1) the Secretary’s agreement to provide the participant with financial assistance as authorized under this chapter;
 

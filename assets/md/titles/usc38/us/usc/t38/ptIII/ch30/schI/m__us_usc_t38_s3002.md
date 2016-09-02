@@ -15,7 +15,7 @@
 
 ## § 3002. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “basic educational assistance” means educational assistance provided under subchapter II of this chapter.
 

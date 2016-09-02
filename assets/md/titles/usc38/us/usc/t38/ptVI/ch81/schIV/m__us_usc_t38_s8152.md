@@ -15,7 +15,7 @@
 
 ## § 8152. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) The term “health-care resource” includes hospital care and medical services (as those terms are defined in [section 1701 of this title][/us/usc/t38/s1701]), services under sections 1782 and 1783 of this title, any other health-care service, and any health-care support or administrative resource.
 

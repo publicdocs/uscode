@@ -15,7 +15,7 @@
 
 ## § 7401. Appointments in Veterans Health Administration
 
-There may be appointed by the Secretary such personnel as the Secretary may find necessary for the health care of veterans (in addition to those in the Office of the Under Secretary for Health appointed under [section 7306 of this title][/us/usc/t38/s7306]), as follows:
+    There may be appointed by the Secretary such personnel as the Secretary may find necessary for the health care of veterans (in addition to those in the Office of the Under Secretary for Health appointed under [section 7306 of this title][/us/usc/t38/s7306]), as follows:
 
     (1) Physicians, dentists, podiatrists, chiropractors, optometrists, registered nurses, physician assistants, and expanded-function dental auxiliaries.
 

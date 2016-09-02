@@ -139,7 +139,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs521A" data-uslm-ref="/us/usc/t38/s521A">521A.</a>  </td>
 
-    <td> Assistance for United States Paralympics, Inc.  </td>
+    <td> Assistance for United States Olympic Committee.  </td>
 
   </tr>
 
@@ -267,6 +267,8 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 
  __Amendments__ 
 
+    2013—[Pub. L. 113–37, § 2(b)(3)][/us/pl/113/37/s2/b/3], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524], added item 521A and struck out former item 521A “Assistance for United States Paralympics, Inc.”
+
     2012—[Pub. L. 112–154, title VII][/us/pl/112/154], §§ 707(b), 709(b)(2), Aug. 6, 2012, [126 Stat. 1207][/us/stat/126/1207], 1208, added item 517 and substituted “Authority to advertise in national media; VetStar Award Program” for “Authority to advertise in national media” in item 532.
 
     2008—[Pub. L. 110–389, title II, § 214(b)][/us/pl/110/389/s214/b], title VII, § 702(b), title VIII, § 809(b), Oct. 10, 2008, [122 Stat. 4154][/us/stat/122/4154], 4183, 4190, added items 521A, 532, and 546.
@@ -288,6 +290,8 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 ----------
 ----------
 
+[/us/pl/113/37/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fb%2F3
+[/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/stat/126/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1207
 [/us/pl/110/389/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs214%2Fb

@@ -15,7 +15,7 @@
 
 ## § 4303. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “Attorney General” means the Attorney General of the United States or any person designated by the Attorney General to carry out a responsibility of the Attorney General under this chapter.
 

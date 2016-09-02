@@ -15,7 +15,7 @@
 
 ## § 7734. Annual report to Congress
 
-The Secretary shall include in the annual report to the Congress required by [section 529 of this title][/us/usc/t38/s529] a report on the quality assurance activities carried out under this subchapter. Each such report shall include—
+    The Secretary shall include in the annual report to the Congress required by [section 529 of this title][/us/usc/t38/s529] a report on the quality assurance activities carried out under this subchapter. Each such report shall include—
 
     (1)
 

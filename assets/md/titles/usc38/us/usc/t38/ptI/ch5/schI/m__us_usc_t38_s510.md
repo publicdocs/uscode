@@ -93,7 +93,9 @@
 
 [Pub. L. 101–312][/us/pl/101/312], June 25, 1990, [104 Stat. 271][/us/stat/104/271], provided: 
 
-> “That (a) the Secretary of Veterans Affairs may proceed with the administrative reorganization described in subsection (b) of this Act without regard to section 210(b) \[see 303, 510, 711\] of title 38, United States Code.
+>     “That 
+
+>     (a) the Secretary of Veterans Affairs may proceed with the administrative reorganization described in subsection (b) of this Act without regard to section 210(b) \[see 303, 510, 711\] of title 38, United States Code.
 
 >     “(b) The administrative reorganization referred to in subsection (a) is the reorganization of the regional field offices of the Veterans Health Services and Research Administration of the Department of Veterans Affairs as that reorganization and related activity are described in (1) letters dated January 22, 1990, and the detailed plan and justification enclosed therewith, submitted by the Secretary to the Committees on Veterans’ Affairs of the Senate and the House of Representatives pursuant to such section 210(b) \[see 303, 510, 711\], and (2) letters dated April 17, 1990, submitted in supplementation thereof by the Secretary to such Committees.”
 

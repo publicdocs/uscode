@@ -37,7 +37,7 @@
 
  __Amendment of Subsection (a)(2)__ 
 
-[Pub. L. 112–260, title I, § 104(b)(1)][/us/pl/112/260/s104/b/1], (3), Jan. 10, 2013, [126 Stat. 2420][/us/stat/126/2420], provided that, effective on the date that is one year after Jan. 10, 2013, and applicable with respect to burials and funerals occurring on or after that date, subsection (a)(2) of this section is amended by striking “who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and”. See 2013 Amendment note below.
+    [Pub. L. 112–260, title I, § 104(b)(1)][/us/pl/112/260/s104/b/1], (3), Jan. 10, 2013, [126 Stat. 2420][/us/stat/126/2420], provided that, effective on the date that is one year after Jan. 10, 2013, and applicable with respect to burials and funerals occurring on or after that date, subsection (a)(2) of this section is amended by striking “who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and”. See 2013 Amendment note below.
 
  __Amendments__ 
 

@@ -35,25 +35,23 @@
 
     (c)
 
-        (1)
+        (1) If a participant in the Scholarship Program breaches the agreement by failing (for any reason) to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
 
-         If a participant in the Scholarship Program breaches the agreement by failing (for any reason) to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
+          t−s
 
-              t−s
+     A=3Φ  A——B
 
-         A=3Φ  A——B
-
-             t
+         t
 
         In such formula:
 
-            (A) “A” is the amount the United States is entitled to recover.
+        (A) “A” is the amount the United States is entitled to recover.
 
-            (B) “Φ” is the sum of (i) the amounts paid under this subchapter to or on behalf of the participant, and (ii) the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
+        (B) “Φ” is the sum of (i) the amounts paid under this subchapter to or on behalf of the participant, and (ii) the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
 
-            (C) “t” is the total number of months in the participant’s period of obligated service, including any additional period of obligated service in accordance with [section 7616(b)(4) of this title][/us/usc/t38/s7616/b/4].
+        (C) “t” is the total number of months in the participant’s period of obligated service, including any additional period of obligated service in accordance with [section 7616(b)(4) of this title][/us/usc/t38/s7616/b/4].
 
-            (D) “s” is the number of months of such period served by the participant in accordance with [section 7613 of this title][/us/usc/t38/s7613].
+        (D) “s” is the number of months of such period served by the participant in accordance with [section 7613 of this title][/us/usc/t38/s7613].
 
         (2) Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the one-year period beginning on the date of the breach of the agreement.
 

@@ -15,7 +15,7 @@
 
 ## § 1901. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) The term “insurance” means National Service Life Insurance.
 

@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t38/ptI/m__us_usc_t38_ptI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38)
 
-# 
-
-Title 38—VETERANS’ BENEFITS
+# Title 38—VETERANS’ BENEFITS
 
 This title was enacted by [Pub. L. 85–857, § 1][/us/pl/85/857/s1], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105]
+
+Current through 113–44
 
 <table>
 

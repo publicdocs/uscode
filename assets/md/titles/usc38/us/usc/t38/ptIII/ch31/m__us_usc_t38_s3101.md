@@ -15,7 +15,7 @@
 
 ## § 3101. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “employment handicap” means an impairment, resulting in substantial part from a disability described in [section 3102(1)(A) of this title][/us/usc/t38/s3102/1/A], of a veteran’s ability to prepare for, obtain, or retain employment consistent with such veteran’s abilities, aptitudes, and interests.
 

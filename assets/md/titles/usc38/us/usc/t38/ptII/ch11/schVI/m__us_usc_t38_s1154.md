@@ -211,43 +211,45 @@
 
 [Pub. L. 98–542, § 1–3][/us/pl/98/542/s1–3], Oct. 24, 1984, [98 Stat. 2725][/us/stat/98/2725], 2727, as amended by [Pub. L. 102–4, § 10(a)][/us/pl/102/4/s10/a], (b), Feb. 6, 1991, [105 Stat. 19][/us/stat/105/19], provided that:
 
- __“short title__ 
+>  __“short title__ 
 
-    “Section 1. This Act \[amending this section, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and [section 1116 of this title][/us/usc/t38/s1116]\] may be cited as the ‘Veterans’ Dioxin and Radiation Exposure Compensation Standards Act’.
+> “Section 1. This Act \[amending this section, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and [section 1116 of this title][/us/usc/t38/s1116]\] may be cited as the ‘Veterans’ Dioxin and Radiation Exposure Compensation Standards Act’.
 
- __“findings__ 
+>  __“findings__ 
 
-    “Sec. 2. The Congress makes the following findings:
+> “Sec. 2.
 
-    “(1) Veterans who served in the Republic of Vietnam during the Vietnam era and veterans who participated in atmospheric nuclear tests or the American occupation of Hiroshima or Nagasaki, Japan, are deeply concerned about possible long-term health effects of exposure to herbicides containing dioxin or to ionizing radiation.
+>  The Congress makes the following findings:
 
-    “(2) There is scientific and medical uncertainty regarding such long-term adverse health effects.
+>     “(1) Veterans who served in the Republic of Vietnam during the Vietnam era and veterans who participated in atmospheric nuclear tests or the American occupation of Hiroshima or Nagasaki, Japan, are deeply concerned about possible long-term health effects of exposure to herbicides containing dioxin or to ionizing radiation.
 
-    “(3) In [section 102 of Public Law 97–22][/us/pl/97/22/s102] \[see Tables for classification\], the Congress responded to that uncertainty by authorizing priority medical care at Veterans’ Administration \[now Department of Veterans Affairs\] facilities for any disability of a veteran who may have been so exposed (even though there is insufficient medical evidence linking such disability with such exposure) unless the disability is found to have resulted from a cause other than the exposure.
+>     “(2) There is scientific and medical uncertainty regarding such long-term adverse health effects.
 
-    “(4) The Congress has further responded to that medical and scientific uncertainty by requiring, in [section 307 of Public Law 96–151][/us/pl/96/151/s307] \[set out as a note under [section 1116 of this title][/us/usc/t38/s1116]\] and [section 601 of Public Law 98–160][/us/pl/98/160/s601] \[set out below\], the conduct of thorough epidemiological studies of the health effects experienced by veterans in connection with exposure both to herbicides containing dioxin and (if not determined to be scientifically infeasible) to radiation, and by requiring in [Public Law 97–414][/us/pl/97/414] \[see Tables for classification\], the development of radioepidemiological tables setting forth the probabilities of causation between various cancers and exposure to radiation.
+>     “(3) In [section 102 of Public Law 97–22][/us/pl/97/22/s102] \[see Tables for classification\], the Congress responded to that uncertainty by authorizing priority medical care at Veterans’ Administration \[now Department of Veterans Affairs\] facilities for any disability of a veteran who may have been so exposed (even though there is insufficient medical evidence linking such disability with such exposure) unless the disability is found to have resulted from a cause other than the exposure.
 
-    “(5) There is some evidence that most types of leukemia, malignancies of the thyroid, female breast, lung, bone, liver, and skin, and polycythemia vera are associated with exposure to certain levels of ionizing radiation.
+>     “(4) The Congress has further responded to that medical and scientific uncertainty by requiring, in [section 307 of Public Law 96–151][/us/pl/96/151/s307] \[set out as a note under [section 1116 of this title][/us/usc/t38/s1116]\] and [section 601 of Public Law 98–160][/us/pl/98/160/s601] \[set out below\], the conduct of thorough epidemiological studies of the health effects experienced by veterans in connection with exposure both to herbicides containing dioxin and (if not determined to be scientifically infeasible) to radiation, and by requiring in [Public Law 97–414][/us/pl/97/414] \[see Tables for classification\], the development of radioepidemiological tables setting forth the probabilities of causation between various cancers and exposure to radiation.
 
-    “(6) As of the date of the enactment of this Act \[Oct. 24, 1984\], there are sixty-six federally sponsored research projects being conducted relating to herbicides containing dioxin, at a cost to the Federal Government in excess of $130,000,000 and, as of 1981, federally sponsored research projects relating to ionizing radiation were costing the Federal Government more than $115,000,000.
+>     “(5) There is some evidence that most types of leukemia, malignancies of the thyroid, female breast, lung, bone, liver, and skin, and polycythemia vera are associated with exposure to certain levels of ionizing radiation.
 
-    “(7) The initial results of one project—an epidemiological study, conducted by the United States Air Force School of Aerospace Medicine, of the health status of the ‘Ranch Hand’ veterans who carried out the loading and aerial spraying of herbicides containing dioxin in Vietnam and in the process came into direct skin contact with such herbicides in their most concentrated liquid form—were released on February 24, 1984, and contained the conclusion ‘that there is insufficient evidence to support a cause and effect relationship between herbicide exposure and adverse health in the Ranch Hand group at this time’.
+>     “(6) As of the date of the enactment of this Act \[Oct. 24, 1984\], there are sixty-six federally sponsored research projects being conducted relating to herbicides containing dioxin, at a cost to the Federal Government in excess of $130,000,000 and, as of 1981, federally sponsored research projects relating to ionizing radiation were costing the Federal Government more than $115,000,000.
 
-    “(8) The ‘film badges’ which were originally issued to members of the Armed Forces in connection with the atmospheric nuclear test program have previously constituted a primary source of dose information for veterans (and survivors of veterans) filing claims for Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation or dependency and indemnity compensation in connection with exposure to radiation.
+>     “(7) The initial results of one project—an epidemiological study, conducted by the United States Air Force School of Aerospace Medicine, of the health status of the ‘Ranch Hand’ veterans who carried out the loading and aerial spraying of herbicides containing dioxin in Vietnam and in the process came into direct skin contact with such herbicides in their most concentrated liquid form—were released on February 24, 1984, and contained the conclusion ‘that there is insufficient evidence to support a cause and effect relationship between herbicide exposure and adverse health in the Ranch Hand group at this time’.
 
-    “(9) These film badges often provide an incomplete measure of radiation exposure, since they were not capable of recording inhaled, ingested, or neutron doses (although the Defense Nuclear Agency currently has the capability to reconstruct individual estimates of such doses), were not issued to most of the participants in nuclear tests, often provided questionable readings because they were shielded during the detonation, and were worn for only limited periods during and after each nuclear detonation.
+>     “(8) The ‘film badges’ which were originally issued to members of the Armed Forces in connection with the atmospheric nuclear test program have previously constituted a primary source of dose information for veterans (and survivors of veterans) filing claims for Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation or dependency and indemnity compensation in connection with exposure to radiation.
 
-    “(10) Standards governing the reporting of dose estimates in connection with radiation-related claims for Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation vary among the several branches of the Armed Forces, and no uniform minimum standards exist.
+>     “(9) These film badges often provide an incomplete measure of radiation exposure, since they were not capable of recording inhaled, ingested, or neutron doses (although the Defense Nuclear Agency currently has the capability to reconstruct individual estimates of such doses), were not issued to most of the participants in nuclear tests, often provided questionable readings because they were shielded during the detonation, and were worn for only limited periods during and after each nuclear detonation.
 
-    “(11) The Veterans’ Administration \[now Department of Veterans Affairs\] has not promulgated permanent regulations setting forth specific guidelines, standards, and criteria for the adjudication of claims for Veterans’ Administration disability compensation based on exposure to herbicides containing dioxin or to ionizing radiation.
+>     “(10) Standards governing the reporting of dose estimates in connection with radiation-related claims for Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation vary among the several branches of the Armed Forces, and no uniform minimum standards exist.
 
-    “(12) Such claims (especially those involving health effects with long latency periods) present adjudicatory issues which are significantly different from issues generally presented in claims based upon the usual types of injuries incurred in military service.
+>     “(11) The Veterans’ Administration \[now Department of Veterans Affairs\] has not promulgated permanent regulations setting forth specific guidelines, standards, and criteria for the adjudication of claims for Veterans’ Administration disability compensation based on exposure to herbicides containing dioxin or to ionizing radiation.
 
-    “(13) It has always been the policy of the Veterans’ Administration \[now Department of Veterans Affairs\] and is the policy of the United States, with respect to individual claims for service connection of diseases and disabilities, that when, after consideration of all evidence and material of record, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of a claim, the benefit of the doubt in resolving each such issue shall be given to the claimant.
+>     “(12) Such claims (especially those involving health effects with long latency periods) present adjudicatory issues which are significantly different from issues generally presented in claims based upon the usual types of injuries incurred in military service.
 
- __“purpose__ 
+>     “(13) It has always been the policy of the Veterans’ Administration \[now Department of Veterans Affairs\] and is the policy of the United States, with respect to individual claims for service connection of diseases and disabilities, that when, after consideration of all evidence and material of record, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of a claim, the benefit of the doubt in resolving each such issue shall be given to the claimant.
 
-    “Sec. 3. The purpose of this Act is to ensure that Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation is provided to veterans who were exposed to ionizing radiation in connection with atmospheric nuclear tests or in connection with the American occupation of Hiroshima or Nagasaki, Japan, for all disabilities arising after that service that are connected, based on sound scientific and medical evidence, to such service (and that Veterans’ Administration dependency and indemnity compensation is provided to survivors of those veterans for all deaths resulting from such disabilities).”
+>  __“purpose__ 
+
+> “Sec. 3. The purpose of this Act is to ensure that Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation is provided to veterans who were exposed to ionizing radiation in connection with atmospheric nuclear tests or in connection with the American occupation of Hiroshima or Nagasaki, Japan, for all disabilities arising after that service that are connected, based on sound scientific and medical evidence, to such service (and that Veterans’ Administration dependency and indemnity compensation is provided to survivors of those veterans for all deaths resulting from such disabilities).”
 
     \[Amendment by [Pub. L. 102–4][/us/pl/102/4] to sections 2 and 3 of [Pub. L. 98–542][/us/pl/98/542], set out above, effective at the end of the six-month period beginning on Feb. 6, 1991, except as otherwise provided, see [section 10(e) of Pub. L. 102–4][/us/pl/102/4/s10/e], set out below under sections 5 to 7 of [Pub. L. 98–542][/us/pl/98/542].\]
 
@@ -255,89 +257,123 @@
 
 [Pub. L. 98–542, § 5–7][/us/pl/98/542/s5–7], Oct. 24, 1984, [98 Stat. 2727–2730][/us/stat/98/2727-2730], as amended by [Pub. L. 100–321, § 2(c)][/us/pl/100/321/s2/c], May 20, 1988, [102 Stat. 486][/us/stat/102/486]; [Pub. L. 102–4, § 10(c)][/us/pl/102/4/s10/c], (d), Feb. 6, 1991, [105 Stat. 19][/us/stat/105/19], 20; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that:
 
- __“requirement for and content of regulations__ 
+>  __“requirement for and content of regulations__ 
 
-    “Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under section 1154(a)(2) \[formerly 354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
+> “Sec. 5.
 
-    “(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans’ Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit include a requirement that a death or disability be service connected and the claim of service connection is based on a veteran’s exposure during service in connection with such veteran’s participation in atmospheric nuclear tests or with the American occupation of Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
+>      (a)
 
-    “(2) ensure that, with respect to those claims, the policy of the United States described in section 2(13) \[set out above\] is carried out.
+>      In carrying out the responsibilities of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under section 1154(a)(2) \[formerly 354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
 
-    “(b)(1)(A) The guidelines required to be established in regulations prescribed under this section shall include guidelines governing the evaluation of the findings of scientific studies relating to the possible increased risk of adverse health effects of exposure to ionizing radiation. Those guidelines shall require that, in the evaluation of those studies, the Administrator \[now Secretary\] shall take into account whether the results are statistically significant, are capable of replication, and withstand peer review.
+>         “(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans’ Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit include a requirement that a death or disability be service connected and the claim of service connection is based on a veteran’s exposure during service in connection with such veteran’s participation in atmospheric nuclear tests or with the American occupation of Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
 
-    “(B) The evaluations described in subparagraph (A) shall be made by the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] after receiving the advice of the Scientific Council of the Veterans’ Advisory Committee on Environmental Hazards (established under section 6). Those evaluations shall be published in the notice section of the Federal Register.
+>         “(2) ensure that, with respect to those claims, the policy of the United States described in section 2(13) \[set out above\] is carried out.
 
-    “(C) The standards and criteria required to be established in regulations prescribed under this section shall include provisions governing the use in the adjudication of individual claims of the Administrator’s \[now Secretary’s\] evaluations made under subparagraph (B).
+>     “(b)
 
-    “(2)(A)(i) In prescribing regulations under this section, the Administrator \[now Secretary\] (after receiving the advice of the Advisory Committee and of the Scientific Council of the Veterans’ Advisory Committee on Environmental Hazards regarding the diseases described in subparagraph (B)) shall make determinations, based on sound medical and scientific evidence, with respect to each disease described in subparagraph (B) as to whether service connection shall, subject to division (ii) of this subparagraph, be granted in the adjudication of individual cases. In making determinations regarding such diseases, the Administrator shall give due regard to the need to maintain the policy of the United States with respect to the resolution of contested issues as set forth in section 2(13) \[set out above\]. The Administrator shall set forth in such regulations such determinations, with any specification (relating to exposure or other relevant matter) of limitations on the circumstances under which service connection shall be granted, and shall implement such determinations in accordance with such regulations.
+>         (1)
 
-    “(ii) If the Administrator \[now Secretary\] makes a determination, pursuant to this subparagraph, that service connection shall be granted in the case of a disease described in subparagraph (B), the Administrator shall specify in such regulations that, in the adjudication of individual cases, service connection shall not be granted where there is sufficient affirmative evidence to the contrary or evidence to establish that an intercurrent injury or disease which is a recognized cause of the described disease has been suffered between the date of separation from service and the onset of such disease or that the disability is due to the veteran’s own willful misconduct.
+>             (A) The guidelines required to be established in regulations prescribed under this section shall include guidelines governing the evaluation of the findings of scientific studies relating to the possible increased risk of adverse health effects of exposure to ionizing radiation. Those guidelines shall require that, in the evaluation of those studies, the Administrator \[now Secretary\] shall take into account whether the results are statistically significant, are capable of replication, and withstand peer review.
 
-    “(iii) With regard to each disease described in subparagraph (B), the Administrator \[now Secretary\] shall include in the regulations prescribed under this section provisions specifying the factors to be considered in adjudicating issues relating to whether or not service connection should be granted in individual cases and the circumstances governing the granting of service connection for such disease.
+>             “(B) The evaluations described in subparagraph (A) shall be made by the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] after receiving the advice of the Scientific Council of the Veterans’ Advisory Committee on Environmental Hazards (established under section 6). Those evaluations shall be published in the notice section of the Federal Register.
 
-    “(B) The diseases referred to in subparagraph (A) are those specified in section 2(5) \[set out above\] and any other disease with respect to which the Administrator \[now Secretary\] finds (after receiving and considering the advice of the Scientific Council established under section 6(d)(2)) that there is sound scientific or medical evidence indicating a connection to exposure to ionizing radiation, in the case of a veteran who was exposed to ionizing radiation in connection with such veteran’s participation in an atmospheric nuclear test or with the American occupation of Hiroshima or Nagasaki, Japan, before July 1, 1946.
+>             “(C) The standards and criteria required to be established in regulations prescribed under this section shall include provisions governing the use in the adjudication of individual claims of the Administrator’s \[now Secretary’s\] evaluations made under subparagraph (B).
 
-    “(3) The regulations prescribed under this section shall include—
+>         “(2)
 
-    “(A) specification of the maximum period of time after exposure to such ionizing radiation for the development of those diseases; and
+>             (A)
 
-    “(B) a requirement that a claimant filing a claim based upon a veteran’s exposure to ionizing radiation from the detonation of a nuclear device may not be required to produce evidence substantiating the veteran’s exposure during active military, naval, or air service if the information in the veteran’s service records and other records of the Department of Defense is not inconsistent with the claim that the veteran was present where and when the claimed exposure occurred.
+>                 (i) In prescribing regulations under this section, the Administrator \[now Secretary\] (after receiving the advice of the Advisory Committee and of the Scientific Council of the Veterans’ Advisory Committee on Environmental Hazards regarding the diseases described in subparagraph (B)) shall make determinations, based on sound medical and scientific evidence, with respect to each disease described in subparagraph (B) as to whether service connection shall, subject to division (ii) of this subparagraph, be granted in the adjudication of individual cases. In making determinations regarding such diseases, the Administrator shall give due regard to the need to maintain the policy of the United States with respect to the resolution of contested issues as set forth in section 2(13) \[set out above\]. The Administrator shall set forth in such regulations such determinations, with any specification (relating to exposure or other relevant matter) of limitations on the circumstances under which service connection shall be granted, and shall implement such determinations in accordance with such regulations.
 
-    “(c)(1) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] shall develop the regulations required by this section (and any amendment to those regulations) through a public review and comment process in accordance with the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code. That process may include consideration by the Administrator of the recommendations of the Veterans’ Advisory Committee on Environmental Hazards and the Scientific Council thereof (established under section 6) with respect to the proposed regulations, and that process shall include consideration by the Administrator of the recommendations of the Committee and the Council with respect to the final regulations and proposed and final amendments to such regulations. The period for public review and comment shall be completed not later than ninety days after the proposed regulations or proposed amendments are published in the Federal Register.
+>                 “(ii) If the Administrator \[now Secretary\] makes a determination, pursuant to this subparagraph, that service connection shall be granted in the case of a disease described in subparagraph (B), the Administrator shall specify in such regulations that, in the adjudication of individual cases, service connection shall not be granted where there is sufficient affirmative evidence to the contrary or evidence to establish that an intercurrent injury or disease which is a recognized cause of the described disease has been suffered between the date of separation from service and the onset of such disease or that the disability is due to the veteran’s own willful misconduct.
 
-    “(2)(A) Not later than one hundred and eighty days after the date of the enactment of this Act \[Oct. 24, 1984\], the Administrator \[now Secretary\] shall develop and publish in the Federal Register a proposed version of the regulations required to be prescribed by this section.
+>                 “(iii) With regard to each disease described in subparagraph (B), the Administrator \[now Secretary\] shall include in the regulations prescribed under this section provisions specifying the factors to be considered in adjudicating issues relating to whether or not service connection should be granted in individual cases and the circumstances governing the granting of service connection for such disease.
 
-    “(B) Not later than three hundred days after the date of the enactment of this Act \[Oct. 24, 1984\], the Administrator \[now Secretary\] shall publish in the Federal Register the final regulations (together with explanations of the bases for the guidelines, standards, and criteria contained therein) required to be prescribed by this section.
+>             “(B) The diseases referred to in subparagraph (A) are those specified in section 2(5) \[set out above\] and any other disease with respect to which the Administrator \[now Secretary\] finds (after receiving and considering the advice of the Scientific Council established under section 6(d)(2)) that there is sound scientific or medical evidence indicating a connection to exposure to ionizing radiation, in the case of a veteran who was exposed to ionizing radiation in connection with such veteran’s participation in an atmospheric nuclear test or with the American occupation of Hiroshima or Nagasaki, Japan, before July 1, 1946.
 
- __“advisory committee on environmental hazards__ 
+>         “(3)
 
-    “Sec. 6. (a) The advisory committee referred to in subsections (b) and (c) of section 5, to be known as the Veterans’ Advisory Committee on Environmental Hazards (hereinafter in this section referred to as the ‘Committee’) shall consist of nine members appointed by the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] after requesting and considering recommendations from veteran organizations, including—
+>          The regulations prescribed under this section shall include—
 
-    “(1) six individuals (of whom none may be members of the Armed Forces on active duty or employees of the Veterans’ Administration \[now Department of Veterans Affairs\] or the Department of Defense and not more than three may be employees of other Federal departments or agencies), appointed, after requesting and considering the recommendations of the heads of Federal entities with particular expertise in biomedical and environmental science, including—
+>             “(A) specification of the maximum period of time after exposure to such ionizing radiation for the development of those diseases; and
 
-    “(A) three individuals who are recognized medical or scientific authorities in fields pertinent to understanding the health effects of exposure to ionizing radiation; and
+>             “(B) a requirement that a claimant filing a claim based upon a veteran’s exposure to ionizing radiation from the detonation of a nuclear device may not be required to produce evidence substantiating the veteran’s exposure during active military, naval, or air service if the information in the veteran’s service records and other records of the Department of Defense is not inconsistent with the claim that the veteran was present where and when the claimed exposure occurred.
 
-    “(B) three individuals who are recognized medical or scientific authorities in fields, such as epidemiology and other scientific disciplines, pertinent to determining and assessing the health effects of exposure to ionizing radiation in exposed populations; and
+>     “(c)
 
-    “(2) three individuals from the general public, including at least one disabled veteran, having a demonstrated interest in and experience relating to veterans’ concerns regarding exposure to ionizing radiation.
+>         (1) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] shall develop the regulations required by this section (and any amendment to those regulations) through a public review and comment process in accordance with the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code. That process may include consideration by the Administrator of the recommendations of the Veterans’ Advisory Committee on Environmental Hazards and the Scientific Council thereof (established under section 6) with respect to the proposed regulations, and that process shall include consideration by the Administrator of the recommendations of the Committee and the Council with respect to the final regulations and proposed and final amendments to such regulations. The period for public review and comment shall be completed not later than ninety days after the proposed regulations or proposed amendments are published in the Federal Register.
 
-    “(b) The Committee shall include, as ex officio, nonvoting members, the Chief Medical Director and the Chief Benefits Director of the Veterans’ Administration \[now Under Secretary for Health and Under Secretary for Benefits of the Department of Veterans Affairs\], or their designees.
+>         “(2)
 
-    “(c) The Committee shall submit to the Administrator \[now Secretary\] any recommendations it considers appropriate for administrative or legislative action.
+>             (A) Not later than one hundred and eighty days after the date of the enactment of this Act \[Oct. 24, 1984\], the Administrator \[now Secretary\] shall develop and publish in the Federal Register a proposed version of the regulations required to be prescribed by this section.
 
-    “(d)(1) The six members of the Committee described in subsection (a)(1) shall, in addition to serving as members of the Committee, constitute a Scientific Council of the Committee (hereinafter in this section referred to as the ‘Council’).
+>             “(B) Not later than three hundred days after the date of the enactment of this Act \[Oct. 24, 1984\], the Administrator \[now Secretary\] shall publish in the Federal Register the final regulations (together with explanations of the bases for the guidelines, standards, and criteria contained therein) required to be prescribed by this section.
 
-    “(2) The Council shall have responsibility for evaluating scientific studies relating to possible adverse health effects of exposure to ionizing radiation.
+>  __“advisory committee on environmental hazards__ 
 
-    “(3) The Council shall make findings and evaluations regarding pertinent scientific studies and shall submit to the Committee, the Administrator \[now Secretary\], and the Committees on Veterans’ Affairs of the Senate and House of Representatives directly periodic reports on such findings and evaluations.
+> “Sec. 6.
 
-    “(e) The Administrator \[now Secretary\] shall designate one of the members to chair the Committee and another member to chair the Council.
+>      (a)
 
-    “(f) The Administrator \[now Secretary\] shall determine the terms of service and pay and allowances of members of the Committee, except that a term of service of any member may not exceed three years. The Administrator may reappoint any member for additional terms of service.
+>      The advisory committee referred to in subsections (b) and (c) of section 5, to be known as the Veterans’ Advisory Committee on Environmental Hazards (hereinafter in this section referred to as the ‘Committee’) shall consist of nine members appointed by the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] after requesting and considering recommendations from veteran organizations, including—
 
-    “(g) The Administrator \[now Secretary\] shall provide administrative support services and fiscal support for the Committee.
+>         “(1)
 
- __“nuclear radiation matters involving other agencies__ 
+>          six individuals (of whom none may be members of the Armed Forces on active duty or employees of the Veterans’ Administration \[now Department of Veterans Affairs\] or the Department of Defense and not more than three may be employees of other Federal departments or agencies), appointed, after requesting and considering the recommendations of the heads of Federal entities with particular expertise in biomedical and environmental science, including—
 
-    “Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear Agency, as Department of Defense Executive Agent for the Nuclear Test Personnel Review Program, relating to the preparation of radiation dose estimates with regard to claims for Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation and dependency and indemnity compensation under chapters 11 and 13, respectively, of title 38, United States Code—
+>             “(A) three individuals who are recognized medical or scientific authorities in fields pertinent to understanding the health effects of exposure to ionizing radiation; and
 
-    “(1) the Secretary of Defense shall prescribe guidelines (and any amendment to those guidelines) through a public review and comment process in accordance with the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code—
+>             “(B) three individuals who are recognized medical or scientific authorities in fields, such as epidemiology and other scientific disciplines, pertinent to determining and assessing the health effects of exposure to ionizing radiation in exposed populations; and
 
-    “(A) specifying the minimum standards governing the preparation of radiation dose estimates in connection with claims for such compensation,
+>         “(2) three individuals from the general public, including at least one disabled veteran, having a demonstrated interest in and experience relating to veterans’ concerns regarding exposure to ionizing radiation.
 
-    “(B) making such standards uniformly applicable to the several branches of the Armed Forces, and
+>     “(b) The Committee shall include, as ex officio, nonvoting members, the Chief Medical Director and the Chief Benefits Director of the Veterans’ Administration \[now Under Secretary for Health and Under Secretary for Benefits of the Department of Veterans Affairs\], or their designees.
 
-    “(C) requiring that each such estimate furnished to the Veterans’ Administration \[now Department of Veterans Affairs\] and to any veteran or survivor include information regarding all material aspects of the radiation environment to which the veteran was exposed and which form the basis of the claim, including inhaled, ingested, and neutron doses; and
+>     “(c) The Committee shall submit to the Administrator \[now Secretary\] any recommendations it considers appropriate for administrative or legislative action.
 
-    “(2) the Secretary of Health and Human Services, through the Director of the National Institutes of Health, shall—
+>     “(d)
 
-    “(A) conduct a review of the reliability and accuracy of scientific and technical devices and techniques (such as ‘whole body counters’) which may be useful in determining previous radiation exposure;
+>         (1) The six members of the Committee described in subsection (a)(1) shall, in addition to serving as members of the Committee, constitute a Scientific Council of the Committee (hereinafter in this section referred to as the ‘Council’).
 
-    “(B) submit to the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] and the Committees on Veterans’ Affairs of the House of Representatives and the Senate, not later than July 1, 1985, a report regarding the results of such review, including information concerning the availability of such devices and techniques, the categories of exposed individuals as to whom use of such devices and techniques may be appropriate, and the reliability and accuracy of dose estimates which may be derived from such devices and techniques; and
+>         “(2) The Council shall have responsibility for evaluating scientific studies relating to possible adverse health effects of exposure to ionizing radiation.
 
-    “(C) enter into an interagency agreement with the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] for the purpose of assisting the Administrator in identifying agencies or other entities capable of furnishing services involving the use of such devices and techniques.
+>         “(3) The Council shall make findings and evaluations regarding pertinent scientific studies and shall submit to the Committee, the Administrator \[now Secretary\], and the Committees on Veterans’ Affairs of the Senate and House of Representatives directly periodic reports on such findings and evaluations.
 
-    “(b) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], in resolving material differences between a radiation dose estimate, from a credible source, submitted by a veteran or survivor and a radiation dose estimate prepared and transmitted by the Director of the Defense Nuclear Agency, shall provide for the preparation of a radiation dose estimate by an independent expert, who shall be selected by the Director of the National Institutes of Health and who shall not be affiliated with the Defense Nuclear Agency, and the Administrator shall provide for the consideration of such independent estimate in connection with the adjudication of the claim for Veterans’ Administration \[now Department of Veterans Affairs\] compensation.”
+>     “(e) The Administrator \[now Secretary\] shall designate one of the members to chair the Committee and another member to chair the Council.
+
+>     “(f) The Administrator \[now Secretary\] shall determine the terms of service and pay and allowances of members of the Committee, except that a term of service of any member may not exceed three years. The Administrator may reappoint any member for additional terms of service.
+
+>     “(g) The Administrator \[now Secretary\] shall provide administrative support services and fiscal support for the Committee.
+
+>  __“nuclear radiation matters involving other agencies__ 
+
+> “Sec. 7.
+
+>      (a)
+
+>      In connection with the duties of the Director of the Defense Nuclear Agency, as Department of Defense Executive Agent for the Nuclear Test Personnel Review Program, relating to the preparation of radiation dose estimates with regard to claims for Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation and dependency and indemnity compensation under chapters 11 and 13, respectively, of title 38, United States Code—
+
+>         “(1)
+
+>          the Secretary of Defense shall prescribe guidelines (and any amendment to those guidelines) through a public review and comment process in accordance with the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code—
+
+>             “(A) specifying the minimum standards governing the preparation of radiation dose estimates in connection with claims for such compensation,
+
+>             “(B) making such standards uniformly applicable to the several branches of the Armed Forces, and
+
+>             “(C) requiring that each such estimate furnished to the Veterans’ Administration \[now Department of Veterans Affairs\] and to any veteran or survivor include information regarding all material aspects of the radiation environment to which the veteran was exposed and which form the basis of the claim, including inhaled, ingested, and neutron doses; and
+
+>         “(2)
+
+>          the Secretary of Health and Human Services, through the Director of the National Institutes of Health, shall—
+
+>             “(A) conduct a review of the reliability and accuracy of scientific and technical devices and techniques (such as ‘whole body counters’) which may be useful in determining previous radiation exposure;
+
+>             “(B) submit to the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] and the Committees on Veterans’ Affairs of the House of Representatives and the Senate, not later than July 1, 1985, a report regarding the results of such review, including information concerning the availability of such devices and techniques, the categories of exposed individuals as to whom use of such devices and techniques may be appropriate, and the reliability and accuracy of dose estimates which may be derived from such devices and techniques; and
+
+>             “(C) enter into an interagency agreement with the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] for the purpose of assisting the Administrator in identifying agencies or other entities capable of furnishing services involving the use of such devices and techniques.
+
+>     “(b) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], in resolving material differences between a radiation dose estimate, from a credible source, submitted by a veteran or survivor and a radiation dose estimate prepared and transmitted by the Director of the Defense Nuclear Agency, shall provide for the preparation of a radiation dose estimate by an independent expert, who shall be selected by the Director of the National Institutes of Health and who shall not be affiliated with the Defense Nuclear Agency, and the Administrator shall provide for the consideration of such independent estimate in connection with the adjudication of the claim for Veterans’ Administration \[now Department of Veterans Affairs\] compensation.”
 
 \[[Pub. L. 102–4, § 10(e)][/us/pl/102/4/s10/e], Feb. 6, 1991, [105 Stat. 20][/us/stat/105/20], as amended by [Pub. L. 102–86, title V, § 503(b)(2)][/us/pl/102/86/s503/b/2], Aug. 14, 1991, [105 Stat. 425][/us/stat/105/425], provided that:
 

@@ -39,11 +39,13 @@
 
     (c) __Liability During Period of Obligated Service.—__ 
 
-        (1) Except as provided in subsection (d), if a participant in the Program breaches the agreement by failing for any reason to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:        t−s
+        (1) Except as provided in subsection (d), if a participant in the Program breaches the agreement by failing for any reason to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
 
-            A=3Φ  ( —— )
+        t−s
 
-                 t
+    A=3Φ  ( —— )
+
+         t
 
         (2)
 

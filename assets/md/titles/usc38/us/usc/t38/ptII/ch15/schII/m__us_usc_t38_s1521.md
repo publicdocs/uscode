@@ -445,7 +445,7 @@
 
 >     “(2) by reason of his disability or disabilities, is permanently housebound but does not qualify for pension based on need of regular aid and attendance,
 
->         in lieu of the pension otherwise payable to him, a pension at the monthly rate of $100.”
+>     in lieu of the pension otherwise payable to him, a pension at the monthly rate of $100.”
 
  __Retirement Income Exclusion__ 
 

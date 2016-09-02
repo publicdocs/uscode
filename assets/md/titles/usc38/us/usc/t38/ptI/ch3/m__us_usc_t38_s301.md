@@ -179,13 +179,13 @@
 
 >         after the effective date of this Act and before the first appointment of a person to such position after such date shall continue to be compensated for so serving or acting at the rate at which such person was compensated before the effective date of this Act.
 
->     “\[SEC. 12. Repealed. [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3], Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402].\]
+> “\[SEC. 12. Repealed. [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3], Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402].\]
 
 > “SEC. 14. __ADDITIONAL CONFORMING AMENDMENTS.__ 
 
 >     “After consultation with the appropriate committees of the Congress, the Secretary of Veterans Affairs shall prepare and submit to the Congress proposed legislation containing technical and conforming amendments to title 38, United States Code, and to other provisions of law, which reflect the changes made by this Act. Such legislation shall be submitted not later than 6 months after the date of enactment of this Act \[Oct. 25, 1988\].
 
->     “\[SEC. 16. Repealed. [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3], Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402].\]
+> “\[SEC. 16. Repealed. [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3], Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402].\]
 
 > “SEC. 18. __EFFECTIVE DATE.__ 
 

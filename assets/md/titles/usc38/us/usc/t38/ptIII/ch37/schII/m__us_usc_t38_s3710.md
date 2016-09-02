@@ -91,7 +91,7 @@
 
         (8) in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 100 percent of the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to [section 3731 of this title][/us/usc/t38/s3731].
 
-        \[(c) Repealed. [Pub. L. 100–198, § 3(a)(2)][/us/pl/100/198/s3/a/2], Dec. 21, 1987, [101 Stat. 1315][/us/stat/101/1315].\]
+    \[(c) Repealed. [Pub. L. 100–198, § 3(a)(2)][/us/pl/100/198/s3/a/2], Dec. 21, 1987, [101 Stat. 1315][/us/stat/101/1315].\]
 
     (d)
 

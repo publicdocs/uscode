@@ -21,13 +21,13 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–260, title I, § 104(b)(2)][/us/pl/112/260/s104/b/2], (3), Jan. 10, 2013, [126 Stat. 2420][/us/stat/126/2420], provided that, effective on the date that is one year after Jan. 10, 2013, and applicable with respect to burials and funerals occurring on or after that date, this section is amended as follows:
+    [Pub. L. 112–260, title I, § 104(b)(2)][/us/pl/112/260/s104/b/2], (3), Jan. 10, 2013, [126 Stat. 2420][/us/stat/126/2420], provided that, effective on the date that is one year after Jan. 10, 2013, and applicable with respect to burials and funerals occurring on or after that date, this section is amended as follows:
 
-(1) by striking “Where a veteran” and all that follows through “compensation, the” and inserting “(a) In General.—The”;
+    (1) by striking “Where a veteran” and all that follows through “compensation, the” and inserting “(a) In General.—The”;
 
-(2) by inserting “described in subsection (b)” after “of the deceased veteran”; and
+    (2) by inserting “described in subsection (b)” after “of the deceased veteran”; and
 
-(3) by adding at the end the following:
+    (3) by adding at the end the following:
 
     (b) Deceased Veteran Described.—A deceased veteran described in this subsection is any of the following veterans:
 
@@ -37,7 +37,7 @@
 
     (3) A veteran whom the Secretary determines is eligible for funeral expenses under [section 2302 of this title][/us/usc/t38/s2302] by virtue of the Secretary determining that the veteran has no next of kin or other person claiming the body of such veteran pursuant to subsection (a)(2)(A) of such section.
 
-See 2013 Amendment note below.
+    See 2013 Amendment note below.
 
  __Amendments__ 
 

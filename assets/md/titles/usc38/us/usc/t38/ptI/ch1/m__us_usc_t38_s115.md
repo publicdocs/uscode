@@ -15,7 +15,7 @@
 
 ## § 115. Acquisition of real property
 
-For the purposes of sections 314, 315, 316, and 2406 of this title and subchapter I of chapter 81 of this title, the Secretary may acquire and use real property—
+    For the purposes of sections 314, 315, 316, and 2406 of this title and subchapter I of chapter 81 of this title, the Secretary may acquire and use real property—
 
     (1) before title to the property is approved under [section 3111 of title 40][/us/usc/t40/s3111]; and
 

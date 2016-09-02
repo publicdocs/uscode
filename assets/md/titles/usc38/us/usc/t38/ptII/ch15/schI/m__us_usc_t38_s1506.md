@@ -15,7 +15,7 @@
 
 ## § 1506. Resource reports and overpayment adjustments
 
-As a condition of granting or continuing pension under section 1521, 1541, or 1542 of this title, the Secretary—
+    As a condition of granting or continuing pension under section 1521, 1541, or 1542 of this title, the Secretary—
 
     (1) may require from any person who is an applicant for or a recipient of pension such information, proofs, and evidence as the Secretary determines to be necessary in order to determine the annual income and the value of the corpus of the estate of such person, and of any spouse or child for whom the person is receiving or is to receive increased pension (such a child is hereinafter in this subsection referred to as a “dependent child”), and, in the case of a child applying for or in receipt of pension under [section 1542 of this title][/us/usc/t38/s1542] (hereinafter in this subsection referred to as a “surviving child”), of any person with whom such child is residing who is legally responsible for such child’s support;
 

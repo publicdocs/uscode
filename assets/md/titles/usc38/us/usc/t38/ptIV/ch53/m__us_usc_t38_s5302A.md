@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t38/ptIV/ch53/m__us_usc_t38_s5302.md) | [Next](./../../../../..//us/usc/t38/ptIV/ch53/m__us_usc_t38_s5303.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5302A)
 
-## § 5302A.  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>  Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone
+## § 5302A  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>  Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone
 
     (a) __Limitation on Authority.—__ 
 

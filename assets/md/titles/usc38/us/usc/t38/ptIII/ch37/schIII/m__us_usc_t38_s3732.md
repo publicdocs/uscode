@@ -133,11 +133,13 @@
 
             (D) For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B), the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
-        (11) This subsection shall apply to loans closed before October 1, 2013.
+        (11) This subsection shall apply to loans closed before October 1, 2014.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1212][/us/stat/72/1212], § 1816(a)–(c); [Pub. L. 89–117, title I, § 107(f)][/us/pl/89/117/s107/f], Aug. 10, 1965, [79 Stat. 460][/us/stat/79/460]; [Pub. L. 94–324, § 7(17)][/us/pl/94/324/s7/17], June 30, 1976, [90 Stat. 722][/us/stat/90/722]; [Pub. L. 98–369, div. B, title V, § 2512(a)][/us/pl/98/369/s2512/a], July 18, 1984, [98 Stat. 1117][/us/stat/98/1117]; [Pub. L. 100–198][/us/pl/100/198], §§ 4(a), 5(a), Dec. 21, 1987, [101 Stat. 1316][/us/stat/101/1316]; renumbered § 1832 and amended [Pub. L. 100–322, title IV, § 415(b)(1)(A)][/us/pl/100/322/s415/b/1/A]–(C), (5), May 20, 1988, [102 Stat. 550][/us/stat/102/550], 551; [Pub. L. 101–237, title III][/us/pl/101/237], §§ 304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, [103 Stat. 2073–2075][/us/stat/103/2073-2075], 2077; [Pub. L. 102–54][/us/pl/102/54], §§ 1, 3(a), 14(g)(1), June 13, 1991, [105 Stat. 267][/us/stat/105/267], 288; renumbered § 3732 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–66, title XII, § 12006(a)][/us/pl/103/66/s12006/a], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 103–446, title IX, § 907][/us/pl/103/446/s907], Nov. 2, 1994, [108 Stat. 4677][/us/stat/108/4677]; [Pub. L. 105–33, title VIII, § 8013][/us/pl/105/33/s8013], Aug. 5, 1997, [111 Stat. 664][/us/stat/111/664]; [Pub. L. 106–419, title IV, § 402(c)][/us/pl/106/419/s402/c], Nov. 1, 2000, [114 Stat. 1863][/us/stat/114/1863]; [Pub. L. 107–103, title IV, § 405(d)][/us/pl/107/103/s405/d], Dec. 27, 2001, [115 Stat. 994][/us/stat/115/994]; [Pub. L. 108–183, title IV, § 406][/us/pl/108/183/s406], Dec. 16, 2003, [117 Stat. 2666][/us/stat/117/2666]; [Pub. L. 109–233, title V, § 503(9)][/us/pl/109/233/s503/9], June 15, 2006, [120 Stat. 416][/us/stat/120/416]; [Pub. L. 111–275, title VIII, § 802(a)][/us/pl/111/275/s802/a], Oct. 13, 2010, [124 Stat. 2888][/us/stat/124/2888]; [Pub. L. 112–191, title II, § 201][/us/pl/112/191/s201], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1212][/us/stat/72/1212], § 1816(a)–(c); [Pub. L. 89–117, title I, § 107(f)][/us/pl/89/117/s107/f], Aug. 10, 1965, [79 Stat. 460][/us/stat/79/460]; [Pub. L. 94–324, § 7(17)][/us/pl/94/324/s7/17], June 30, 1976, [90 Stat. 722][/us/stat/90/722]; [Pub. L. 98–369, div. B, title V, § 2512(a)][/us/pl/98/369/s2512/a], July 18, 1984, [98 Stat. 1117][/us/stat/98/1117]; [Pub. L. 100–198][/us/pl/100/198], §§ 4(a), 5(a), Dec. 21, 1987, [101 Stat. 1316][/us/stat/101/1316]; renumbered § 1832 and amended [Pub. L. 100–322, title IV, § 415(b)(1)(A)][/us/pl/100/322/s415/b/1/A]–(C), (5), May 20, 1988, [102 Stat. 550][/us/stat/102/550], 551; [Pub. L. 101–237, title III][/us/pl/101/237], §§ 304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, [103 Stat. 2073–2075][/us/stat/103/2073-2075], 2077; [Pub. L. 102–54][/us/pl/102/54], §§ 1, 3(a), 14(g)(1), June 13, 1991, [105 Stat. 267][/us/stat/105/267], 288; renumbered § 3732 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–66, title XII, § 12006(a)][/us/pl/103/66/s12006/a], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 103–446, title IX, § 907][/us/pl/103/446/s907], Nov. 2, 1994, [108 Stat. 4677][/us/stat/108/4677]; [Pub. L. 105–33, title VIII, § 8013][/us/pl/105/33/s8013], Aug. 5, 1997, [111 Stat. 664][/us/stat/111/664]; [Pub. L. 106–419, title IV, § 402(c)][/us/pl/106/419/s402/c], Nov. 1, 2000, [114 Stat. 1863][/us/stat/114/1863]; [Pub. L. 107–103, title IV, § 405(d)][/us/pl/107/103/s405/d], Dec. 27, 2001, [115 Stat. 994][/us/stat/115/994]; [Pub. L. 108–183, title IV, § 406][/us/pl/108/183/s406], Dec. 16, 2003, [117 Stat. 2666][/us/stat/117/2666]; [Pub. L. 109–233, title V, § 503(9)][/us/pl/109/233/s503/9], June 15, 2006, [120 Stat. 416][/us/stat/120/416]; [Pub. L. 111–275, title VIII, § 802(a)][/us/pl/111/275/s802/a], Oct. 13, 2010, [124 Stat. 2888][/us/stat/124/2888]; [Pub. L. 112–191, title II, § 201][/us/pl/112/191/s201], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–37, § 2(h)][/us/pl/113/37/s2/h], Sept. 30, 2013, [127 Stat. 525][/us/stat/127/525].)
 
  __Amendments__ 
+
+    2013—Subsec. (c)(11). [Pub. L. 113–37][/us/pl/113/37] substituted “October 1, 2014” for “October 1, 2013”.
 
     2012—Subsec. (c)(11). [Pub. L. 112–191][/us/pl/112/191] substituted “October 1, 2013” for “October 1, 2012”.
 
@@ -219,6 +221,10 @@
 
     1965—[Pub. L. 89–117][/us/pl/89/117] designated existing provisions as subsec. (a) and added subsec. (b).
 
+ __Effective Date of 2013 Amendment__ 
+
+    Amendment by [Pub. L. 113–37][/us/pl/113/37] effective Oct. 1, 2013, see [section 4(a) of Pub. L. 113–37][/us/pl/113/37/s4/a], set out as a note under [section 322 of this title][/us/usc/t38/s322].
+
  __Effective Date of 2010 Amendment__ 
 
 [Pub. L. 111–275, title VIII, § 802(b)][/us/pl/111/275/s802/b], Oct. 13, 2010, [124 Stat. 2889][/us/stat/124/2889], provided that: 
@@ -263,7 +269,7 @@
 
     Amendment by [Pub. L. 94–324][/us/pl/94/324] effective June 30, 1976, see [section 9(a) of Pub. L. 94–324][/us/pl/94/324/s9/a], set out as a note under [section 3701 of this title][/us/usc/t38/s3701].
 
- __“Net Value” Defined With Respect to Loans Closed Before__  __October 1, 1993__ 
+“Net Value” Defined With Respect to Loans Closed Before October 1, 1993
 
 [Pub. L. 102–389, title I][/us/pl/102/389], Oct. 6, 1992, [106 Stat. 1574][/us/stat/106/1574], provided in part: 
 
@@ -316,6 +322,9 @@
 [/us/stat/124/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2888
 [/us/pl/112/191/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191%2Fs201
 [/us/stat/126/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1439
+[/us/pl/113/37/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fh
+[/us/stat/127/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F525
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
@@ -363,6 +372,9 @@
 [/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/37/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs4%2Fa
+[/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
 [/us/pl/111/275/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs802%2Fb
 [/us/stat/124/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2889
 [/us/pl/103/66/s12006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs12006%2Fb

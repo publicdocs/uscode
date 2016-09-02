@@ -491,7 +491,7 @@ SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY  </td>
 
  __Amendment of Analysis__ 
 
-[Pub. L. 108–422, title IV, § 411(c)(2)][/us/pl/108/422/s411/c/2], (f), Nov. 30, 2004, [118 Stat. 2389][/us/stat/118/2389], 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with [section 1710B(b) of this title][/us/usc/t38/s1710B/b], this analysis is amended by striking out item 8116.
+    [Pub. L. 108–422, title IV, § 411(c)(2)][/us/pl/108/422/s411/c/2], (f), Nov. 30, 2004, [118 Stat. 2389][/us/stat/118/2389], 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with [section 1710B(b) of this title][/us/usc/t38/s1710B/b], this analysis is amended by striking out item 8116.
 
  __Amendments__ 
 

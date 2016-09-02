@@ -15,7 +15,7 @@
 
 ## § 4101. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “special disabled veteran” has the same meaning provided in [section 4211(1) of this title][/us/usc/t38/s4211/1].
 

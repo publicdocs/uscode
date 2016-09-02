@@ -15,7 +15,7 @@
 
 ## § 4304. Character of service
 
-A person’s entitlement to the benefits of this chapter by reason of the service of such person in one of the uniformed services terminates upon the occurrence of any of the following events:
+    A person’s entitlement to the benefits of this chapter by reason of the service of such person in one of the uniformed services terminates upon the occurrence of any of the following events:
 
     (1) A separation of such person from such uniformed service with a dishonorable or bad conduct discharge.
 

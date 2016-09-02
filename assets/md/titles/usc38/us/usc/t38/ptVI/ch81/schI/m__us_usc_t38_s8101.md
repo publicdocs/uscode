@@ -15,7 +15,7 @@
 
 ## § 8101. Definitions
 
-For the purposes of this subchapter:
+    For the purposes of this subchapter:
 
     (1) The term “alter”, with respect to a medical facility, means to repair, remodel, improve, or extend such medical facility.
 

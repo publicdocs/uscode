@@ -15,7 +15,7 @@
 
 ## § 3736. Reporting requirements
 
-The annual report required by [section 529 of this title][/us/usc/t38/s529] shall include a discussion of the activities under this chapter. Beginning with the report submitted at the close of fiscal year 1996, and every second year thereafter, this discussion shall include information regarding the following:
+    The annual report required by [section 529 of this title][/us/usc/t38/s529] shall include a discussion of the activities under this chapter. Beginning with the report submitted at the close of fiscal year 1996, and every second year thereafter, this discussion shall include information regarding the following:
 
     (1) Loans made to veterans whose only qualifying service was in the Selected Reserve.
 

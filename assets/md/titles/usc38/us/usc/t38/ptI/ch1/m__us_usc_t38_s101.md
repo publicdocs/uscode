@@ -15,7 +15,7 @@
 
 ## § 101. Definitions
 
-For the purposes of this title—
+    For the purposes of this title—
 
     (1) The terms “Secretary” and “Department” mean the Secretary of Veterans Affairs and the Department of Veterans Affairs, respectively.
 
@@ -436,6 +436,10 @@ For the purposes of this title—
     Amendment by [Pub. L. 89–311][/us/pl/89/311] effective first day of second calendar month following Oct. 31, 1965, see [section 9 of Pub. L. 89–311][/us/pl/89/311/s9], set out as a note under [section 1114 of this title][/us/usc/t38/s1114].
 
  __Short Title of 2013 Amendment__ 
+
+[Pub. L. 113–37, § 1][/us/pl/113/37/s1], Sept. 30, 2013, [127 Stat. 523][/us/stat/127/523], provided that: 
+
+> “This Act \[amending sections 322, 521A, 1710, 1729, 2013, 2021, 2023, 2044, 2061, 2101, 3732, and 5317A of this title and [section 653 of Title 42][/us/usc/t42/s653], The Public Health and Welfare, enacting provisions set out as a note under [section 322 of this title][/us/usc/t38/s322], and amending provisions set out as a note under [section 1710 of this title][/us/usc/t38/s1710]\] may be cited as the ‘Department of Veterans Affairs Expiring Authorities Act of 2013’.”
 
 [Pub. L. 112–260, § 1(a)][/us/pl/112/260/s1/a], Jan. 10, 2013, [126 Stat. 2417][/us/stat/126/2417], provided that: 
 
@@ -1516,6 +1520,11 @@ For the purposes of this title—
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/89/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs9
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/113/37/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs1
+[/us/stat/127/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F523
+[/us/usc/t42/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653
+[/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
+[/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
 [/us/pl/112/260/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs1%2Fa
 [/us/stat/126/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2417
 [/us/usc/t10/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1144

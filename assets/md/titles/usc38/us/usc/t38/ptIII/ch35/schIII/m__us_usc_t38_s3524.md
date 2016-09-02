@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptIII/ch35/schIII/m__us_usc_t38_s3523.md) | [Next](./../../../../../..//us/usc/t38/ptIII/ch35/schIII/m__us_usc_t38_s3525, 3526.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3524)
+[Previous](./../../../../../..//us/usc/t38/ptIII/ch35/schIII/m__us_usc_t38_s3523.md) | [Next](./../../../../../..//us/usc/t38/ptIII/ch35/schIV/m__us_usc_t38_ptIII_ch35_schIV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3524)
 
 ## § 3524. Discontinuance for unsatisfactory prog­ress
 
-The Secretary shall discontinue the educational assistance allowance on behalf of an eligible person if, at any time, the Secretary finds that according to the regularly prescribed standards and practices of the educational institution such person is attending, the person’s attendance, conduct, or progress is unsatisfactory. The Secretary may renew the payment of the educational assistance allowance only if the Secretary finds that—
+    The Secretary shall discontinue the educational assistance allowance on behalf of an eligible person if, at any time, the Secretary finds that according to the regularly prescribed standards and practices of the educational institution such person is attending, the person’s attendance, conduct, or progress is unsatisfactory. The Secretary may renew the payment of the educational assistance allowance only if the Secretary finds that—
 
     (1) the eligible person will be resuming enrollment at the same educational institution in the same program of education and the educational institution has both approved such eligible person’s reenrollment and certified it to the Department of Veterans Affairs; or
 
@@ -71,9 +71,19 @@ The Secretary shall discontinue the educational assistance allowance on behalf o
 
     For provisions directing the Administrator to suspend the implementation of the amendment to this section by [section 307 of Pub. L. 94–502][/us/pl/94/502/s307] in the case of any accredited educational institution which submits to the Administrator its course catalog or bulletin and a certification that the policies and regulations described in cls. (6) and (7) of section 1776(b) \[now 3676(b)(6) and (7)\] of this title are being enforced by such institution, unless the Administrator finds that the catalog or bulletin fails to state fully and clearly the policies and regulations, and for that suspension to continue until the Administrator submits the report required under [section 305(b)(2) of Pub. L. 95–202][/us/pl/95/202/s305/b/2], see [section 305(b)(4)(A) of Pub. L. 95–202][/us/pl/95/202/s305/b/4/A], set out as a note under [section 3474 of this title][/us/usc/t38/s3474].
 
+\[§§ 3525, 3526. __Vacant\]__ 
+
+ __Codification__ 
+
+    Prior to renumbering of sections 1700 to 1766 of this chapter as sections 3500 to 3566 by [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], sections 1725 and 1726 of this chapter were repealed.
+
+    Section 1725, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1197][/us/stat/72/1197], which related to period of operation for approval by Administrator, was repealed by [Pub. L. 92–540, title IV, § 402(2)][/us/pl/92/540/s402/2], Oct. 24, 1972, [86 Stat. 1090][/us/stat/86/1090].
+
+    Section 1726, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1197][/us/stat/72/1197], which provided for control by agencies of United States, was repealed by [Pub. L. 89–358, § 3(a)(3)][/us/pl/89/358/s3/a/3], Mar. 3, 1966, [80 Stat. 20][/us/stat/80/20].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptIII/ch35/schIII/m__us_usc_t38_s3523.md) | [Next](./../../../../../..//us/usc/t38/ptIII/ch35/schIII/m__us_usc_t38_s3525, 3526.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3524)
+[Previous](./../../../../../..//us/usc/t38/ptIII/ch35/schIII/m__us_usc_t38_s3523.md) | [Next](./../../../../../..//us/usc/t38/ptIII/ch35/schIV/m__us_usc_t38_ptIII_ch35_schIV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3524)
 
 ----------
 ----------
@@ -114,5 +124,15 @@ The Secretary shall discontinue the educational assistance allowance on behalf o
 [/us/pl/95/202/s305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2Fs305%2Fb%2F2
 [/us/pl/95/202/s305/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2Fs305%2Fb%2F4%2FA
 [/us/usc/t38/s3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3474
+[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
+[/us/stat/72/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1197
+[/us/pl/92/540/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs402%2F2
+[/us/stat/86/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1090
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
+[/us/stat/72/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1197
+[/us/pl/89/358/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs3%2Fa%2F3
+[/us/stat/80/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F20
 
 

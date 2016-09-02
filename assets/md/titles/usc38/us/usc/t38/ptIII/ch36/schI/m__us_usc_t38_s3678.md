@@ -15,7 +15,7 @@
 
 ## § 3678. Notice of approval of courses
 
-The State approving agency, upon determining that an educational institution has complied with all the requirements of this chapter, will issue a letter to such institution setting forth the courses which have been approved for the purposes of this chapter, and will furnish an official copy of such letter and any subsequent amendments to the Secretary. The letter of approval shall be accompanied by a copy of the catalog or bulletin of the institution, as approved by the State approving agency, and shall contain the following information:
+    The State approving agency, upon determining that an educational institution has complied with all the requirements of this chapter, will issue a letter to such institution setting forth the courses which have been approved for the purposes of this chapter, and will furnish an official copy of such letter and any subsequent amendments to the Secretary. The letter of approval shall be accompanied by a copy of the catalog or bulletin of the institution, as approved by the State approving agency, and shall contain the following information:
 
     (1) date of letter and effective date of approval of courses;
 

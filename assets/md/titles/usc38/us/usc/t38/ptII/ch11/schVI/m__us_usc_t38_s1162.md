@@ -15,7 +15,7 @@
 
 ## § 1162. Clothing allowance
 
-The Secretary under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $716 per year to each veteran who—
+    The Secretary under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $716 per year to each veteran who—
 
     (1) because of a service-connected disability, wears or uses a prosthetic or orthopedic appliance (including a wheelchair) which the Secretary determines tends to wear out or tear the clothing of the veteran; or
 

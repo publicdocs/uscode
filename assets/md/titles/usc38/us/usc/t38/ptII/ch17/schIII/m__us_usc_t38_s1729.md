@@ -39,7 +39,7 @@
 
             (E)
 
-             for which care and services are furnished before October 1, 2013, under this chapter to a veteran who—
+             for which care and services are furnished before October 1, 2014, under this chapter to a veteran who—
 
                 (i) has a service-connected disability; and
 
@@ -147,13 +147,15 @@
 
             (D) a person obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added [Pub. L. 97–72, title I, § 106(a)(1)][/us/pl/97/72/s106/a/1], Nov. 3, 1981, [95 Stat. 1050][/us/stat/95/1050], § 629; amended [Pub. L. 99–272, title XIX, § 19013(a)][/us/pl/99/272/s19013/a], Apr. 7, 1986, [100 Stat. 382][/us/stat/100/382]; [Pub. L. 100–322, title II, § 202][/us/pl/100/322/s202], May 20, 1988, [102 Stat. 509][/us/stat/102/509]; [Pub. L. 101–508, title VIII, § 8011(a)][/us/pl/101/508/s8011/a]–(c), Nov. 5, 1990, [104 Stat. 1388–344][/us/stat/104/1388-344]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1729 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–568, title VI, § 604][/us/pl/102/568/s604], Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343]; [Pub. L. 103–66, title XII, § 12003][/us/pl/103/66/s12003], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 104–262, title I, § 101(d)(10)][/us/pl/104/262/s101/d/10], Oct. 9, 1996, [110 Stat. 3180][/us/stat/110/3180]; [Pub. L. 105–33, title VIII][/us/pl/105/33], §§ 8022, 8023(b)(4), (d), Aug. 5, 1997, [111 Stat. 665][/us/stat/111/665], 667; [Pub. L. 107–135, title II][/us/pl/107/135], §§ 208(e)(4), 209(b), Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463], 2464; [Pub. L. 110–161, div. I, title II, § 232][/us/pl/110/161/s232], Dec. 26, 2007, [121 Stat. 2273][/us/stat/121/2273]; [Pub. L. 110–329, div. E, title II, § 225][/us/pl/110/329/s225], Sept. 30, 2008, [122 Stat. 3713][/us/stat/122/3713]; [Pub. L. 110–387, title VIII, § 804(b)][/us/pl/110/387/s804/b], Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 111–163, title V, § 518][/us/pl/111/163/s518], May 5, 2010, [124 Stat. 1167][/us/stat/124/1167]; [Pub. L. 112–154, title I, § 113][/us/pl/112/154/s113], Aug. 6, 2012, [126 Stat. 1176][/us/stat/126/1176].)
+(Added [Pub. L. 97–72, title I, § 106(a)(1)][/us/pl/97/72/s106/a/1], Nov. 3, 1981, [95 Stat. 1050][/us/stat/95/1050], § 629; amended [Pub. L. 99–272, title XIX, § 19013(a)][/us/pl/99/272/s19013/a], Apr. 7, 1986, [100 Stat. 382][/us/stat/100/382]; [Pub. L. 100–322, title II, § 202][/us/pl/100/322/s202], May 20, 1988, [102 Stat. 509][/us/stat/102/509]; [Pub. L. 101–508, title VIII, § 8011(a)][/us/pl/101/508/s8011/a]–(c), Nov. 5, 1990, [104 Stat. 1388–344][/us/stat/104/1388-344]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1729 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–568, title VI, § 604][/us/pl/102/568/s604], Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343]; [Pub. L. 103–66, title XII, § 12003][/us/pl/103/66/s12003], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 104–262, title I, § 101(d)(10)][/us/pl/104/262/s101/d/10], Oct. 9, 1996, [110 Stat. 3180][/us/stat/110/3180]; [Pub. L. 105–33, title VIII][/us/pl/105/33], §§ 8022, 8023(b)(4), (d), Aug. 5, 1997, [111 Stat. 665][/us/stat/111/665], 667; [Pub. L. 107–135, title II][/us/pl/107/135], §§ 208(e)(4), 209(b), Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463], 2464; [Pub. L. 110–161, div. I, title II, § 232][/us/pl/110/161/s232], Dec. 26, 2007, [121 Stat. 2273][/us/stat/121/2273]; [Pub. L. 110–329, div. E, title II, § 225][/us/pl/110/329/s225], Sept. 30, 2008, [122 Stat. 3713][/us/stat/122/3713]; [Pub. L. 110–387, title VIII, § 804(b)][/us/pl/110/387/s804/b], Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 111–163, title V, § 518][/us/pl/111/163/s518], May 5, 2010, [124 Stat. 1167][/us/stat/124/1167]; [Pub. L. 112–154, title I, § 113][/us/pl/112/154/s113], Aug. 6, 2012, [126 Stat. 1176][/us/stat/126/1176]; [Pub. L. 113–37, § 2(d)][/us/pl/113/37/s2/d], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (i)(1)(B)(ii), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
+
+    2013—Subsec. (a)(2)(E). [Pub. L. 113–37][/us/pl/113/37] substituted “October 1, 2014” for “October 1, 2013”.
 
     2012—Subsec. (a)(2)(E). [Pub. L. 112–154][/us/pl/112/154] substituted “October 1, 2013” for “October 1, 2012”.
 
@@ -212,6 +214,10 @@
     1988—Subsec. (b)(2)(C). [Pub. L. 100–322][/us/pl/100/322] added subpar. (C).
 
     1986—[Pub. L. 99–272][/us/pl/99/272] amended section generally, inserting authority to recover from a third party under a health-plan contract the reasonable costs of a non-service-connected disability, to require the Administrator to prescribe regulations to govern determination of reasonable costs, to authorize the compromise, settlement or waiver of claims, and to provide for the deposit of money collected under this section in the Treasury.
+
+ __Effective Date of 2013 Amendment__ 
+
+    Amendment by [Pub. L. 113–37][/us/pl/113/37] effective Oct. 1, 2013, see [section 4(a) of Pub. L. 113–37][/us/pl/113/37/s4/a], set out as a note under [section 322 of this title][/us/usc/t38/s322].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -321,9 +327,12 @@
 [/us/stat/124/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1167
 [/us/pl/112/154/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs113
 [/us/stat/126/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1176
+[/us/pl/113/37/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fd
+[/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
@@ -356,6 +365,9 @@
 [/us/pl/101/508/s8011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8011%2Fc
 [/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/37/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs4%2Fa
+[/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
 [/us/pl/105/33/s8023/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fb%2F4
 [/us/pl/105/33/s8023/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fd
 [/us/pl/105/33/s8023/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fg
