@@ -663,7 +663,19 @@
 
             As determined by the Secretary, each State agency, to the maximum extent practicable, shall establish agreements with entities responsible for the regulation or sponsorship of gaming in the State to determine whether individuals participating in the supplemental nutrition assistance program have received substantial lottery or gambling winnings.
 
-([Pub. L. 88–525, § 6][/us/pl/88/525/s6], Aug. 31, 1964, [78 Stat. 704][/us/stat/78/704]; [Pub. L. 94–339, § 3][/us/pl/94/339/s3], July 5, 1976, [90 Stat. 800][/us/stat/90/800]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 964][/us/stat/91/964]; [Pub. L. 96–58][/us/pl/96/58], §§ 5, 9, Aug. 14, 1979, [93 Stat. 391][/us/stat/93/391], 392; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 109, 110, 114, 115, 139, 140, May 26, 1980, [94 Stat. 359][/us/stat/94/359], 361, 370; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 108(b), (c), 109, 112, Aug. 13, 1981, [95 Stat. 361][/us/stat/95/361], 362; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1310, 1311, Dec. 22, 1981, [95 Stat. 1284][/us/stat/95/1284], 1285; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, [96 Stat. 774][/us/stat/96/774], 777, 778, 787; [Pub. L. 98–204][/us/pl/98/204], §§ 5, 6, Dec. 2, 1983, [97 Stat. 1385][/us/stat/97/1385], 1386; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1513(b), 1516, 1517(a), Dec. 23, 1985, [99 Stat. 1571–1573][/us/stat/99/1571-1573]; [Pub. L. 100–435, title II, § 202(b)][/us/pl/100/435/s202/b], (c), title IV, § 404(a)–(d), Sept. 19, 1988, [102 Stat. 1656][/us/stat/102/1656], 1665–1667; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, [104 Stat. 3786–3788][/us/stat/104/3786-3788]; [Pub. L. 102–237, title IX][/us/pl/102/237], §§ 907, 941(3), Dec. 13, 1991, [105 Stat. 1885][/us/stat/105/1885], 1892; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13922(b), 13942, Aug. 10, 1993, [107 Stat. 675][/us/stat/107/675], 677; [Pub. L. 103–225, title I][/us/pl/103/225], §§ 101(a), 104(b), Mar. 25, 1994, [108 Stat. 106][/us/stat/108/106], 107; [Pub. L. 103–296, title I, § 108(f)(1)][/us/pl/103/296/s108/f/1], (2), Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486], 1487; [Pub. L. 104–193, title I, § 109(b)][/us/pl/104/193/s109/b], title VIII, §§ 813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2314, 2315, 2318, 2320–2323; [Pub. L. 104–208, div. C, title III, § 308(g)(7)(D)(i)][/us/pl/104/208/s308/g/7/D/i], Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624]; [Pub. L. 105–33, title I, § 1001][/us/pl/105/33/s1001], Aug. 5, 1997, [111 Stat. 251][/us/stat/111/251]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–418, 2681–429; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4109, 4115(b)(2), 4121(c), May 13, 2002, [116 Stat. 309][/us/stat/116/309], 315, 324; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1101, 1102, 1106, 1114; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1862–1864, 1868, 1875; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4007, 4008(a), 4009(a), 4030(d), Feb. 7, 2014, [128 Stat. 787–789][/us/stat/128/787-789], 814.)
+([Pub. L. 88–525, § 6][/us/pl/88/525/s6], Aug. 31, 1964, [78 Stat. 704][/us/stat/78/704]; [Pub. L. 94–339, § 3][/us/pl/94/339/s3], July 5, 1976, [90 Stat. 800][/us/stat/90/800]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 964][/us/stat/91/964]; [Pub. L. 96–58][/us/pl/96/58], §§ 5, 9, Aug. 14, 1979, [93 Stat. 391][/us/stat/93/391], 392; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 109, 110, 114, 115, 139, 140, May 26, 1980, [94 Stat. 359][/us/stat/94/359], 361, 370; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 108(b), (c), 109, 112, Aug. 13, 1981, [95 Stat. 361][/us/stat/95/361], 362; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1310, 1311, Dec. 22, 1981, [95 Stat. 1284][/us/stat/95/1284], 1285; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, [96 Stat. 774][/us/stat/96/774], 777, 778, 787; [Pub. L. 98–204][/us/pl/98/204], §§ 5, 6, Dec. 2, 1983, [97 Stat. 1385][/us/stat/97/1385], 1386; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1513(b), 1516, 1517(a), Dec. 23, 1985, [99 Stat. 1571–1573][/us/stat/99/1571-1573]; [Pub. L. 100–435, title II, § 202(b)][/us/pl/100/435/s202/b], (c), title IV, § 404(a)–(d), Sept. 19, 1988, [102 Stat. 1656][/us/stat/102/1656], 1665–1667; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, [104 Stat. 3786–3788][/us/stat/104/3786-3788]; [Pub. L. 102–237, title IX][/us/pl/102/237], §§ 907, 941(3), Dec. 13, 1991, [105 Stat. 1885][/us/stat/105/1885], 1892; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13922(b), 13942, Aug. 10, 1993, [107 Stat. 675][/us/stat/107/675], 677; [Pub. L. 103–225, title I][/us/pl/103/225], §§ 101(a), 104(b), Mar. 25, 1994, [108 Stat. 106][/us/stat/108/106], 107; [Pub. L. 103–296, title I, § 108(f)(1)][/us/pl/103/296/s108/f/1], (2), Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486], 1487; [Pub. L. 104–193, title I, § 109(b)][/us/pl/104/193/s109/b], title VIII, §§ 813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2314, 2315, 2318, 2320–2323; [Pub. L. 104–208, div. C, title III, § 308(g)(7)(D)(i)][/us/pl/104/208/s308/g/7/D/i], Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624]; [Pub. L. 105–33, title I, § 1001][/us/pl/105/33/s1001], Aug. 5, 1997, [111 Stat. 251][/us/stat/111/251]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–418, 2681–429; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4109, 4115(b)(2), 4121(c), May 13, 2002, [116 Stat. 309][/us/stat/116/309], 315, 324; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1101, 1102, 1106, 1114; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1862–1864, 1868, 1875; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4007, 4008(a), 4009(a), 4030(d), Feb. 7, 2014, [128 Stat. 787–789][/us/stat/128/787-789], 814; [Pub. L. 113–128, title V, § 512][/us/pl/113/128/s512](l)(2), July 22, 2014, [128 Stat. 1709][/us/stat/128/1709].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(l)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1709, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended:
+
+    (1) in subsection (d)(4)(M), by striking “activities under title I of the Workforce Investment Act of 1998” and inserting “activities under title I of the Workforce Innovation and Opportunity Act”;
+
+    (2) in subsection (e)(3)(A), by striking “a program under title I of the Workforce Investment Act of 1998” and inserting “a program under title I of the Workforce Innovation and Opportunity Act”; and
+
+    (3) in subsection (o)(1)(A), by striking “a program under the title I of the Workforce Investment Act of 1998” and inserting “a program under title I of the Workforce Innovation and Opportunity Act”.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -683,7 +695,13 @@
 
     2014—Subsec. (d)(4)(B)(vii), (F)(iii). [Pub. L. 113–79, § 4030(d)][/us/pl/113/79/s4030/d], realigned margins.
 
+    Subsec. (d)(4)(M). [Pub. L. 113–128, § 512(l)(2)(A)][/us/pl/113/128/s512/l/2/A], substituted “activities under title I of the Workforce Innovation and Opportunity Act” for “activities under title I of the Workforce Investment Act of 1998”.
+
+    Subsec. (e)(3)(A). [Pub. L. 113–128, § 512(l)(2)(B)][/us/pl/113/128/s512/l/2/B], substituted “a program under title I of the Workforce Innovation and Opportunity Act” for “a program under title I of the Workforce Investment Act of 1998”.
+
     Subsec. (e)(3)(B). [Pub. L. 113–79, § 4007][/us/pl/113/79/s4007], substituted “section, subject to the condition that the course or program of study—” for “section;” and added cls. (i) and (ii).
+
+    Subsec. (o)(1)(A). [Pub. L. 113–128, § 512(l)(2)(C)][/us/pl/113/128/s512/l/2/C], substituted “a program under title I of the Workforce Innovation and Opportunity Act” for “a program under the title I of the Workforce Investment Act of 1998”.
 
     Subsec. (r). [Pub. L. 113–79, § 4008(a)][/us/pl/113/79/s4008/a], added subsec. (r).
 
@@ -969,7 +987,9 @@
 
     1976—Subsecs. (b) to (e). [Pub. L. 94–339][/us/pl/94/339] added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
- __Effective Date of 2014 Amendment__ 
+ __Effective Date of 2014 Amendments__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
     Amendment by [section 4008(a) of Pub. L. 113–79][/us/pl/113/79/s4008/a] inapplicable to a conviction if the conviction is for conduct occurring on or before Feb. 7, 2014, see [section 4008(c) of Pub. L. 113–79][/us/pl/113/79/s4008/c], set out as a note under [section 2014 of this title][/us/usc/t7/s2014].
 
@@ -1188,6 +1208,10 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/787-789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F787-789
+[/us/pl/113/128/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512
+[/us/stat/128/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1709
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -1206,7 +1230,10 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79/s4030/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fd
+[/us/pl/113/128/s512/l/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fl%2F2%2FA
+[/us/pl/113/128/s512/l/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fl%2F2%2FB
 [/us/pl/113/79/s4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4007
+[/us/pl/113/128/s512/l/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fl%2F2%2FC
 [/us/pl/113/79/s4008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4008%2Fa
 [/us/pl/113/79/s4009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4009%2Fa
 [/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
@@ -1358,6 +1385,9 @@
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t7/s2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016
 [/us/pl/94/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F339
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/113/79/s4008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4008%2Fa
 [/us/pl/113/79/s4008/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4008%2Fc
 [/us/usc/t7/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014

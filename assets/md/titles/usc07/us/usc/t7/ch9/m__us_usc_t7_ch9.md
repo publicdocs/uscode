@@ -491,7 +491,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs229" data-uslm-ref="/us/usc/t7/s229">229.</a>  </td>
 
-    <td> Annual report.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
