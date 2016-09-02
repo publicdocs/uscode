@@ -1,0 +1,110 @@
+---
+---
+
+# 31 U.S.C., USLM ref /us/usc/t31/s3126
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t31/stIII/ch31/schII/m__us_usc_t31_s3125.md) | [Next](./../../../../../..//us/usc/t31/stIII/ch31/schII/m__us_usc_t31_s3127.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3126)
+
+## § 3126. Losses and relief from liability related to redeeming savings bonds and notes
+
+    (a) Under regulations prescribed by the Secretary of the Treasury, a loss resulting from a payment related to redeeming a savings bond or savings note shall be replaced out of the fund established by [section 17303(a) of title 40][/us/usc/t40/s17303/a]. A Federal reserve bank, a paying agent allowed to make payments in redeeming a bond or note, or an officer or employee of the Department of the Treasury is relieved from liability to the United States Government for the loss when the Secretary decides that the loss did not result from the fault or negligence of the bank, paying agent, officer, or employee. The Secretary shall relieve the bank, agent, officer, or employee from liability when the Secretary decides that written notice of liability or potential liability has not been given to the bank, agent, officer, or employee by the Government within 10 years from the date of the erroneous payment. However, the Secretary may not relieve a paying agent of an assumed unconditional liability to the Government.
+
+    (b) [Section 17304(c) of title 40][/us/usc/t40/s17304/c] applies to a decision of the Secretary made under this section. A recovery or repayment of a loss for which replacement is made out of the fund shall be credited to the fund and is available for the purposes for which the fund was established.
+
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 946][/us/stat/96/946]; [Pub. L. 107–217, § 3(h)(4)][/us/pl/107/217/s3/h/4], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299].)
+
+<table>
+
+  <tr>
+
+    <td colspan="3"> 
+
+Historical and Revision Notes  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Revised Section  </td>
+
+    <td> 
+
+Source (U.S. Code)  </td>
+
+    <td> 
+
+Source (Statutes at Large)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+3126(a)  </td>
+
+    <td> 
+
+31:757c(i)(1st–4th sentences).  </td>
+
+    <td> 
+
+Sept. 24, 1917, ch. 56, 40 Stat. 288, § 22(i)(1st–6th sentences); added Apr. 11, 1943, ch. 52, § 3, 57 Stat. 63; restated Apr. 3, 1945, ch. 51, § 3, 59 Stat. 47; Sept. 22, 1959, Pub. L. 86–346, § 103, 31 Stat. 622; Oct. 17, 1968, Pub. L. 90–595, § 2, 82 Stat. 1155.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+3126(b)  </td>
+
+    <td> 
+
+31:757c(i)(5th, 6th sentences).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+</table>
+
+    In subsection (a), the words “qualified” and “authorized or” are omitted as surplus. The words “officer or employee of the Department of the Treasury” are substituted for “Treasury of the United States” and “Treasurer” because of the source provisions restated in section 321 of the revised title and for consistency with other titles of the United States Code. The text of 31:757c(i)(3d sentence) is omitted as surplus because of 39:410. The words “under regulations prescribed by him” are omitted as unnecessary.
+
+ __Amendments__ 
+
+    2002—Subsec. (a). [Pub. L. 107–217, § 3(h)(4)(A)][/us/pl/107/217/s3/h/4/A], substituted “[section 17303(a) of title 40][/us/usc/t40/s17303/a]” for “section 2 of the Government Losses in Shipment Act ([40 U.S.C. 722][/us/usc/t40/s722])”.
+
+    Subsec. (b). [Pub. L. 107–217, § 3(h)(4)(B)][/us/pl/107/217/s3/h/4/B], substituted “[Section 17304(c) of title 40][/us/usc/t40/s17304/c]” for “Section 3 of the Government Losses in Shipment Act ([40 U.S.C. 723][/us/usc/t40/s723]) (related to finality of decisions of the Secretary)”.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t31/stIII/ch31/schII/m__us_usc_t31_s3125.md) | [Next](./../../../../../..//us/usc/t31/stIII/ch31/schII/m__us_usc_t31_s3127.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3126)
+
+----------
+----------
+
+[/us/usc/t40/s17303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17303%2Fa
+[/us/usc/t40/s17304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17304%2Fc
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
+[/us/stat/96/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F946
+[/us/pl/107/217/s3/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F4
+[/us/stat/116/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1299
+[/us/pl/107/217/s3/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F4%2FA
+[/us/usc/t40/s17303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17303%2Fa
+[/us/usc/t40/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs722
+[/us/pl/107/217/s3/h/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F4%2FB
+[/us/usc/t40/s17304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17304%2Fc
+[/us/usc/t40/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs723
+
+
