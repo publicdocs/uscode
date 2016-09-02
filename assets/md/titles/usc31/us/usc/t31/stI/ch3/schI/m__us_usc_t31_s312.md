@@ -131,7 +131,7 @@
 
     (d)  __Designation as Enforcement Organization__  __.—__ 
 
-    The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of [section 9703 of title 31][/us/usc/t31/s9703], United States Code, and other relevant authorities.
+    The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of [section 9705 of title 31][/us/usc/t31/s9705], United States Code, and other relevant authorities.
 
     (e)  __Use of Existing Resources__  __.—__ 
 
@@ -141,7 +141,7 @@
 
     References in this section to the “Secretary”, “Undersecretary”, “Deputy Secretary”, “Deputy Assistant Secretary”, “Office”, “Assistant Secretary”, and “Department” are references to positions and offices of the Department of the Treasury, unless otherwise specified.
 
-(Added [Pub. L. 108–447, div. H, title II, § 222(a)][/us/pl/108/447/s222/a], Dec. 8, 2004, [118 Stat. 3242][/us/stat/118/3242], § 313; renumbered § 312, [Pub. L. 111–203, title V, § 502(a)(2)][/us/pl/111/203/s502/a/2], July 21, 2010, [124 Stat. 1580][/us/stat/124/1580].)
+(Added [Pub. L. 108–447, div. H, title II, § 222(a)][/us/pl/108/447/s222/a], Dec. 8, 2004, [118 Stat. 3242][/us/stat/118/3242], § 313; renumbered § 312, [Pub. L. 111–203, title V, § 502(a)(2)][/us/pl/111/203/s502/a/2], July 21, 2010, [124 Stat. 1580][/us/stat/124/1580]; amended [Pub. L. 114–22, title I, § 105(c)(2)(A)(ii)(I)][/us/pl/114/22/s105/c/2/A/ii/I], May 29, 2015, [129 Stat. 237][/us/stat/129/237].)
 
  __References in Text__ 
 
@@ -151,13 +151,13 @@
 
     Section 105 of the Intelligence Authorization Act for Fiscal Year 2004, referred to in subsec. (b)(4)(A), is [section 105 of Pub. L. 108–177][/us/pl/108/177/s105], title I, Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603], which enacted [section 311 of this title][/us/usc/t31/s311]. For complete classification of section 105 to the Code, see Tables.
 
-    [Section 9703 of title 31][/us/usc/t31/s9703], referred to in subsec. (d), probably means the [section 9703 of this title][/us/usc/t31/s9703] added by [section 638(b)(1) of Pub. L. 102–393][/us/pl/102/393/s638/b/1].
-
  __Prior Provisions__ 
 
     A prior section 312 was renumbered [section 315 of this title][/us/usc/t31/s315].
 
  __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–22][/us/pl/114/22] substituted “section 9705” for “section 9703”.
 
     2010—[Pub. L. 111–203][/us/pl/111/203] renumbered [section 313 of this title][/us/usc/t31/s313] as this section.
 
@@ -176,20 +176,20 @@
 ----------
 ----------
 
-[/us/usc/t31/s9703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703
+[/us/usc/t31/s9705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9705
 [/us/pl/108/447/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs222%2Fa
 [/us/stat/118/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3242
 [/us/pl/111/203/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs502%2Fa%2F2
 [/us/stat/124/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1580
+[/us/pl/114/22/s105/c/2/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F2%2FA%2Fii%2FI
+[/us/stat/129/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F237
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t12/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1951
 [/us/pl/108/177/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs105
 [/us/stat/117/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2603
 [/us/usc/t31/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs311
-[/us/usc/t31/s9703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703
-[/us/usc/t31/s9703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703
-[/us/pl/102/393/s638/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs638%2Fb%2F1
 [/us/usc/t31/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs315
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t31/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs313
 [/us/pl/108/458/s1081/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1081%2Fc

@@ -645,6 +645,8 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat.
 
  __Regulations__ 
 
+    Secretary of the Treasury required to consult with State supervisory agencies in issuing rules to carry out subsec. (a)(6) of this section, see [section 2(c) of Pub. L. 113–156][/us/pl/113/156/s2/c], set out as a Consultation with State Agencies note under [section 1958 of Title 12][/us/usc/t12/s1958], Banks and Banking.
+
 [Pub. L. 107–56, title III, § 312(b)(1)][/us/pl/107/56/s312/b/1], Oct. 26, 2001, [115 Stat. 305][/us/stat/115/305], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act \[[15 U.S.C. 6809][/us/usc/t15/s6809]\]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under [section 5318(i)(1) of title 31][/us/usc/t31/s5318/i/1], United States Code, as added by this section.”
@@ -843,6 +845,8 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat.
 [/us/stat/108/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2149
 [/us/pl/103/325/s413/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs413%2Fb%2F1
 [/us/stat/108/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2254
+[/us/pl/113/156/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F156%2Fs2%2Fc
+[/us/usc/t12/s1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1958
 [/us/pl/107/56/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs312%2Fb%2F1
 [/us/stat/115/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F305
 [/us/usc/t15/s6809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6809

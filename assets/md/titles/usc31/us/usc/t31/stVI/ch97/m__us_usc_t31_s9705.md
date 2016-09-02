@@ -1,7 +1,7 @@
 ---
 ---
 
-# 31 U.S.C., USLM ref /us/usc/t31/s9703.1
+# 31 U.S.C., USLM ref /us/usc/t31/s9705
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9704.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9704^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703.1)
+[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9704.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9705)
 
-## § 9703. <sup>\[1\]</sup>  <sup><sup> 1 Another section 9703 is set out preceding [section 9704 of this title][/us/usc/t31/s9704]. </sup></sup>  Department of the Treasury Forfeiture Fund
+## § 9705. Department of the Treasury Forfeiture Fund
 
     (a)  __In General__  __.—__ 
 
@@ -51,11 +51,11 @@
 
             (H) Payment for services of experts and consultants needed by a Department of the Treasury law enforcement organization to carry out the organization’s duties relating to seizure and forfeiture.
 
-            (I) payment  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in joint law enforcement operations with a Department of the Treasury law enforcement organization;  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The semicolon probably should be a period. </sup></sup> 
+            (I) Payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in joint law enforcement operations with a Department of the Treasury law enforcement organization.
 
             (J)
 
-             payment 2 made pursuant to guidelines promulgated by the Secretary, if such payment is necessary and directly related to seizure and forfeiture program expenses for—
+             Payment made pursuant to guidelines promulgated by the Secretary, if such payment is necessary and directly related to seizure and forfeiture program expenses for—
 
                 (i) the purchase or lease of automatic data processing systems (not less than a majority of which use will be related to such program);
 
@@ -97,13 +97,15 @@
 
                  the United States Secret Service with respect to a violation of—
 
-                    (I) section 1028, 1029, or 1030 or  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “of”. </sup></sup>  title 18;
+                    (I) section 1028, 1029, or 1030 of title 18;
 
                     (II) any law of the United States relating to coins, obligations, or securities of the United States or of a foreign government; or
 
-                    (III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation; and
+                    (III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation;
 
-                (iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act).
+                (iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act); and
+
+                (v) United States Immigration and Customs Enforcement with respect to a violation of chapter 77 of title 18 (relating to human trafficking);
 
             (C) payment of costs for publicizing awards available under section 619 of the Tariff Act of 1930 ([19 U.S.C. 1619][/us/usc/t19/s1619]);
 
@@ -113,9 +115,9 @@
 
             (F) payment for equipment for any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with a Department of the Treasury law enforcement organization;
 
-            (G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations;  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be followed by “and”. </sup></sup> 
+            (G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; and
 
-            (H) payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury; and  <sup>\[6\]</sup>  <sup><sup> 6 So in original. The “; and” probably should be a period. </sup></sup> 
+            (H) payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury.
 
     (b) __Limitations.—__ 
 
@@ -239,17 +241,17 @@
 
         (3)
 
-            (A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988. <sup>\[7\]</sup>  <sup><sup> 7 See References in Text note below. </sup></sup> 
+            (A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
             (B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
-            (C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year  <sup>\[8\]</sup>  <sup><sup> 8 So in original. Probably should be “years”. </sup></sup>  1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g)  <sup>\[9\]</sup>  <sup><sup> 9 So in original. Probably should be “paragraph (4)(B)”. </sup></sup>  shall also be carried forward.
+            (C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “years”. </sup></sup>  1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “paragraph (4)(B)”. </sup></sup>  shall also be carried forward.
 
         (4)
 
             (A) After reserving any amount authorized by paragraph (3)(C), any unobligated balances remaining in the Fund on September 30, 1993, shall be deposited into the general fund of the Treasury of the United States.
 
-            (B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) 7 and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
+            (B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) 1 and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
 
             (C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
 
@@ -271,13 +273,13 @@
 
         (2)
 
-         The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of  <sup>\[10\]</sup>  <sup><sup> 10 So in original. Probably should be “or”. </sup></sup>  forfeiture of the property, if such a transfer—
+         The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “or”. </sup></sup>  forfeiture of the property, if such a transfer—
 
             (A) is one with which the Secretary of State has agreed;
 
             (B) is authorized in an international agreement between the United States and the foreign country; and
 
-            (C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(h)][/us/usc/t22/s2291/h]).7
+            (C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(h)][/us/usc/t22/s2291/h]).1
 
         (3) Nothing in this section shall affect the authority of the Secretary under [section 981 of title 18][/us/usc/t18/s981] or section 616 of the Tariff Act of 1930 ([19 U.S.C. 1616a][/us/usc/t19/s1616a]).
 
@@ -309,7 +311,7 @@
 
     (m)  __Forfeited Property__  __.—__ 
 
-    For purposes of this section and notwithstanding section 524(c)(11) 7 of title 28 or any other law—
+    For purposes of this section and notwithstanding section 524(c)(11) 1 of title 28 or any other law—
 
         (1)
 
@@ -345,7 +347,7 @@
 
         The term “Secretary” means the Secretary of the Treasury.
 
-(Added [Pub. L. 102–393, title VI, § 638(b)(1)][/us/pl/102/393/s638/b/1], Oct. 6, 1992, [106 Stat. 1779][/us/stat/106/1779]; amended [Pub. L. 103–182, title VI, § 685][/us/pl/103/182/s685], Dec. 8, 1993, [107 Stat. 2220][/us/stat/107/2220]; [Pub. L. 103–322, title IX, § 90205(c)][/us/pl/103/322/s90205/c], Sept. 13, 1994, [108 Stat. 1994][/us/stat/108/1994]; [Pub. L. 103–329, title I, § 112][/us/pl/103/329/s112], Sept. 30, 1994, [108 Stat. 2391][/us/stat/108/2391]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title I, § 116\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–325; [Pub. L. 105–61, title I, § 122(b)][/us/pl/105/61/s122/b], (c), Oct. 10, 1997, [111 Stat. 1289][/us/stat/111/1289]; [Pub. L. 107–296, title XI, § 1112(n)][/us/pl/107/296/s1112/n], Nov. 25, 2002, [116 Stat. 2278][/us/stat/116/2278]; [Pub. L. 111–350, § 5(h)(10)][/us/pl/111/350/s5/h/10], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
+(Added [Pub. L. 102–393, title VI, § 638(b)(1)][/us/pl/102/393/s638/b/1], Oct. 6, 1992, [106 Stat. 1779][/us/stat/106/1779], § 9703; amended [Pub. L. 103–182, title VI, § 685][/us/pl/103/182/s685], Dec. 8, 1993, [107 Stat. 2220][/us/stat/107/2220]; [Pub. L. 103–322, title IX, § 90205(c)][/us/pl/103/322/s90205/c], Sept. 13, 1994, [108 Stat. 1994][/us/stat/108/1994]; [Pub. L. 103–329, title I, § 112][/us/pl/103/329/s112], Sept. 30, 1994, [108 Stat. 2391][/us/stat/108/2391]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title I, § 116\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–325; [Pub. L. 105–61, title I, § 122(b)][/us/pl/105/61/s122/b], (c), Oct. 10, 1997, [111 Stat. 1289][/us/stat/111/1289]; [Pub. L. 107–296, title XI, § 1112(n)][/us/pl/107/296/s1112/n], Nov. 25, 2002, [116 Stat. 2278][/us/stat/116/2278]; [Pub. L. 111–350, § 5(h)(10)][/us/pl/111/350/s5/h/10], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849]; renumbered § 9705 and amended [Pub. L. 114–22, title I, § 105(c)(1)][/us/pl/114/22/s105/c/1], May 29, 2015, [129 Stat. 237][/us/stat/129/237].)
 
  __References in Text__ 
 
@@ -370,6 +372,20 @@
     [Section 524(c)(11) of title 28][/us/usc/t28/s524/c/11], referred to in subsec. (m), was redesignated section 524(c)(10) by [Pub. L. 104–66, title I, § 1091(h)(2)][/us/pl/104/66/s1091/h/2], Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722].
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–22, § 105(c)(1)(A)][/us/pl/114/22/s105/c/1/A], renumbered [section 9703 of this title][/us/usc/t31/s9703], relating to Department of the Treasury Forfeiture Fund, as this section.
+
+    Subsec. (a)(1)(I). [Pub. L. 114–22, § 105(c)(1)(B)(i)(I)][/us/pl/114/22/s105/c/1/B/i/I], substituted “Payment” for “payment” and period for semicolon at end.
+
+    Subsec. (a)(1)(J). [Pub. L. 114–22, § 105(c)(1)(B)(i)(II)][/us/pl/114/22/s105/c/1/B/i/II], which directed substitution of “Payment” for “payment”, was executed by making the substitution the first place appearing, to reflect the probable intent of Congress.
+
+    Subsec. (a)(2)(B)(iii)(I). [Pub. L. 114–22, § 105(c)(1)(B)(ii)(I)(aa)(AA)][/us/pl/114/22/s105/c/1/B/ii/I/aa/AA], substituted “of title 18” for “or title 18”.
+
+    Subsec. (a)(2)(B)(v). [Pub. L. 114–22, § 105(c)(1)(B)(ii)(I)(aa)(BB)][/us/pl/114/22/s105/c/1/B/ii/I/aa/BB]–(cc), added cl. (v).
+
+    Subsec. (a)(2)(G). [Pub. L. 114–22, § 105(c)(1)(B)(ii)(II)][/us/pl/114/22/s105/c/1/B/ii/II], inserted “and” at end.
+
+    Subsec. (a)(2)(H). [Pub. L. 114–22, § 105(c)(1)(B)(ii)(III)][/us/pl/114/22/s105/c/1/B/ii/III], substituted period for “; and” at end.
 
     2011—Subsec. (b)(3). [Pub. L. 111–350][/us/pl/111/350] substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5]), title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)”.
 
@@ -427,12 +443,11 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9704.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9704^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703.1)
+[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9704.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9705)
 
 ----------
 ----------
 
-[/us/usc/t31/s9704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9704
 [/us/usc/t19/s1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1619
 [/us/usc/t19/s1612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1612%2Fb
 [/us/usc/t19/s1616a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1616a%2Fc
@@ -464,6 +479,8 @@
 [/us/stat/116/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2278
 [/us/pl/111/350/s5/h/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F10
 [/us/stat/124/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3849
+[/us/pl/114/22/s105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F1
+[/us/stat/129/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F237
 [/us/usc/t26/s5872/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5872%2Fb%2F2
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/stat/84/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1114
@@ -486,6 +503,14 @@
 [/us/usc/t28/s524/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs524%2Fc%2F11
 [/us/pl/104/66/s1091/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1091%2Fh%2F2
 [/us/stat/109/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F722
+[/us/pl/114/22/s105/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F1%2FA
+[/us/usc/t31/s9703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703
+[/us/pl/114/22/s105/c/1/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F1%2FB%2Fi%2FI
+[/us/pl/114/22/s105/c/1/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F1%2FB%2Fi%2FII
+[/us/pl/114/22/s105/c/1/B/ii/I/aa/AA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F1%2FB%2Fii%2FI%2Faa%2FAA
+[/us/pl/114/22/s105/c/1/B/ii/I/aa/BB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F1%2FB%2Fii%2FI%2Faa%2FBB
+[/us/pl/114/22/s105/c/1/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F1%2FB%2Fii%2FII
+[/us/pl/114/22/s105/c/1/B/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F1%2FB%2Fii%2FIII
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251

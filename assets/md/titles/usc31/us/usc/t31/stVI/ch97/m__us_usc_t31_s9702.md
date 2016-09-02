@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9701.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702)
+[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9701.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702)
 
 ## § 9702. Investment of trust funds
 
@@ -71,7 +71,7 @@ R.S. § 3659.  </td>
 
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9701.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702)
+[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9701.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702)
 
 ----------
 ----------

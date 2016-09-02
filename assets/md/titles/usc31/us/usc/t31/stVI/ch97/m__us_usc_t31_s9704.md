@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.1.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.1^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9704)
+[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9705.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9704)
 
 ## § 9704. Pilot projects for managerial accountability and flexibility
 
     (a) The Director of the Office of Management and Budget shall designate not less than five agencies as pilot projects in managerial accountability and flexibility for fiscal years 1995 and 1996. Such agencies shall be selected from those designated as pilot projects under section 1118 and shall reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
 
-    (b) Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for one or more of the major functions and operations of the agency.
+    (b) Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703 for one or more of the major functions and operations of the agency.
 
     (c)
 
@@ -27,13 +27,11 @@
 
         (2) an identification of any significant difficulties experienced by the pilot agencies in preparing proposed waivers.
 
-    (d) For purposes of this section the definitions under section 1115(f) 1 shall apply.
+    (d) For purposes of this section the definitions under section 1115(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall apply.
 
 (Added [Pub. L. 103–62, § 6(b)][/us/pl/103/62/s6/b], Aug. 3, 1993, [107 Stat. 290][/us/stat/107/290].)
 
  __References in Text__ 
-
-    Section 9703, referred to in subsec. (b), probably means the section 9703 added by [section 5(a) of Pub. L. 103–62][/us/pl/103/62/s5/a], Aug. 3, 1993, [107 Stat. 289][/us/stat/107/289], which is set out preceding this section.
 
     Section 1115(f), referred to in subsec. (d), was redesignated [section 1115(g) of this title][/us/usc/t31/s1115/g] by [Pub. L. 107–296, title XIII, § 1311(a)(2)][/us/pl/107/296/s1311/a/2], Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290].
 
@@ -43,15 +41,13 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.1.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.1^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9704)
+[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9705.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9704)
 
 ----------
 ----------
 
 [/us/pl/103/62/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs6%2Fb
 [/us/stat/107/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F290
-[/us/pl/103/62/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs5%2Fa
-[/us/stat/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F289
 [/us/usc/t31/s1115/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115%2Fg
 [/us/pl/107/296/s1311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1311%2Fa%2F2
 [/us/stat/116/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2290

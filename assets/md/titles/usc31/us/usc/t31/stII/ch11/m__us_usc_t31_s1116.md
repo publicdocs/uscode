@@ -41,7 +41,7 @@
 
             (C) if the performance goal is impractical or infeasible, why that is the case and what action is recommended;
 
-        (4) describe the use and assess the effectiveness in achieving performance goals of any waiver under section 9703  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title;
+        (4) describe the use and assess the effectiveness in achieving performance goals of any waiver under [section 9703 of this title][/us/usc/t31/s9703];
 
         (5) include a review of the performance goals and evaluation of the performance plan relative to the agency’s strategic human capital management;
 
@@ -103,10 +103,6 @@
 
 (Added [Pub. L. 111–352, § 4][/us/pl/111/352/s4], Jan. 4, 2011, [124 Stat. 3871][/us/stat/124/3871].)
 
- __References in Text__ 
-
-    Section 9703, referred to in subsec. (c)(4), probably means the section 9703 added by [section 5(a) of Pub. L. 103–62][/us/pl/103/62/s5/a], Aug. 3, 1993, [107 Stat. 289][/us/stat/107/289].
-
  __Prior Provisions__ 
 
     A prior section 1116, added [Pub. L. 103–62, § 4(b)][/us/pl/103/62/s4/b], Aug. 3, 1993, [107 Stat. 288][/us/stat/107/288]; amended [Pub. L. 106–531, § 5(a)(1)][/us/pl/106/531/s5/a/1], (b), Nov. 22, 2000, [114 Stat. 2539][/us/stat/114/2539]; [Pub. L. 107–296, title XIII, § 1311(b)][/us/pl/107/296/s1311/b], Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290], related to program performance reports, prior to repeal by [Pub. L. 111–352, § 4][/us/pl/111/352/s4], Jan. 4, 2011, [124 Stat. 3871][/us/stat/124/3871].
@@ -134,10 +130,9 @@
 ----------
 ----------
 
+[/us/usc/t31/s9703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703
 [/us/pl/111/352/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs4
 [/us/stat/124/3871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3871
-[/us/pl/103/62/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs5%2Fa
-[/us/stat/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F289
 [/us/pl/103/62/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs4%2Fb
 [/us/stat/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F288
 [/us/pl/106/531/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs5%2Fa%2F1

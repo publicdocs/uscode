@@ -27,15 +27,13 @@
 
         (2) identify any significant difficulties experienced by the pilot agencies in preparing plans and reports; and
 
-        (3) set forth any recommended changes in the requirements of the provisions of Government Performance and Results Act of 1993, [section 306 of title 5][/us/usc/t5/s306], sections 1105, 1115, 1116, 1117, 1119 and 9703  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and this section.
+        (3) set forth any recommended changes in the requirements of the provisions of Government Performance and Results Act of 1993, [section 306 of title 5][/us/usc/t5/s306], sections 1105, 1115, 1116, 1117, 1119 and 9703 of this title, and this section.
 
 (Added [Pub. L. 103–62, § 6(a)][/us/pl/103/62/s6/a], Aug. 3, 1993, [107 Stat. 290][/us/stat/107/290].)
 
  __References in Text__ 
 
     The Government Performance and Results Act of 1993, referred to in subsec. (c)(1), (3), is [Pub. L. 103–62][/us/pl/103/62], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], which enacted sections 1115 to 1119, 9703, and 9704 of this title, [section 306 of Title 5][/us/usc/t5/s306], Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of this title][/us/usc/t31/s1105], and enacted provisions set out as notes under sections 1101 and 1115 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of this title][/us/usc/t31/s1101] and Tables.
-
-    Section 9703, referred to in subsec. (c)(3), probably means the section 9703 added by [section 5(a) of Pub. L. 103–62][/us/pl/103/62/s5/a], Aug. 3, 1993, [107 Stat. 289][/us/stat/107/289].
 
  __Construction__ 
 
@@ -56,8 +54,6 @@
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
-[/us/pl/103/62/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs5%2Fa
-[/us/stat/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F289
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/pl/103/62/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs10

@@ -139,7 +139,7 @@
 
     (h)  __Definitions__  __.—__ 
 
-    For purposes of this section and sections 1116 through 1125, and sections 9703  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 9704, the term—
+    For purposes of this section and sections 1116 through 1125, and sections 9703 and 9704, the term—
 
         (1) “agency” has the same meaning as such term is defined under [section 306(f) of title 5][/us/usc/t5/s306/f];
 
@@ -166,10 +166,6 @@
         (12) “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
 (Added [Pub. L. 111–352, § 3][/us/pl/111/352/s3], Jan. 4, 2011, [124 Stat. 3867][/us/stat/124/3867].)
-
- __References in Text__ 
-
-    Section 9703, referred to in subsec. (h), probably means the section 9703 added by [section 5(a) of Pub. L. 103–62][/us/pl/103/62/s5/a], Aug. 3, 1993, [107 Stat. 289][/us/stat/107/289].
 
  __Prior Provisions__ 
 
@@ -450,8 +446,6 @@
 [/us/usc/t5/s306/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306%2Ff
 [/us/pl/111/352/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs3
 [/us/stat/124/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3867
-[/us/pl/103/62/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs5%2Fa
-[/us/stat/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F289
 [/us/pl/103/62/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs4%2Fb
 [/us/stat/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F287
 [/us/pl/107/296/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1311%2Fa
