@@ -99,7 +99,7 @@
 
     The date of the enactment of the Ethics Reform Act of 1989, referred to in subsec. (h)(1)(A)(ii), is the date of enactment of [Pub. L. 101–194][/us/pl/101/194], which was approved Nov. 30, 1989.
 
-    Section 316(a) of the Federal Election Campaign Act of 1971, referred to in subsec. (i)(1), was probably intended to be a reference to section 312(a) of Federal Election Campaign Act of 1971, [Pub. L. 92–225][/us/pl/92/225], which is classified to [section 439(a) of Title 2][/us/usc/t2/s439/a], The Congress, and which directs the chief executive officer of each State to designate a State officer to receive reports and statements filed by persons under the Federal Election Campaign Act of 1971.
+    Section 316(a) of the Federal Election Campaign Act of 1971, referred to in subsec. (i)(1), was probably intended to be a reference to section 312(a) of the Federal Election Campaign Act of 1971, [Pub. L. 92–225][/us/pl/92/225], which is classified to [section 30113(a) of Title 52][/us/usc/t52/s30113/a], Voting and Elections, and which directs the chief executive officer of each State to designate a State officer to receive reports and statements filed by persons under the Federal Election Campaign Act of 1971.
 
     Section 8(b) of the Stop Trading on Congressional Knowledge Act of 2012, referred to in subsec. (i)(2), is [section 8(b) of Pub. L. 112–105][/us/pl/112/105/s8/b], which is set out as a note under section 105 of this Appendix.
 
@@ -235,7 +235,7 @@
 [/us/stat/126/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F293
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
-[/us/usc/t2/s439/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs439%2Fa
+[/us/usc/t52/s30113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30113%2Fa
 [/us/pl/112/105/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs8%2Fb
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs703

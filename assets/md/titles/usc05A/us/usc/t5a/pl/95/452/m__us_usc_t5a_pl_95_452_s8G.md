@@ -351,7 +351,7 @@
 
 [Pub. L. 107–252, title VIII, § 812(b)][/us/pl/107/252/s812/b], Oct. 29, 2002, [116 Stat. 1727][/us/stat/116/1727], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the appointment of all members of the Election Assistance Commission under section 203 \[[42 U.S.C. 15323][/us/usc/t42/s15323]\].”
+> “The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the appointment of all members of the Election Assistance Commission under section 203 \[[52 U.S.C. 20923][/us/usc/t52/s20923]\].”
 
  __Effective Date of 2000 Amendment__ 
 
@@ -1139,7 +1139,7 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/stat/120/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3241
 [/us/pl/107/252/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs812%2Fb
 [/us/stat/116/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1727
-[/us/usc/t42/s15323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15323
+[/us/usc/t52/s20923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20923
 [/us/pl/106/422/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422%2Fs1%2Fd
 [/us/stat/114/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1872
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315

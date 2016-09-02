@@ -105,7 +105,7 @@
 
         (B) required to be reported by the reporting individual under [section 7342 of title 5][/us/usc/t5/s7342], United States Code; or
 
-        (C) required to be reported under section 304 of the Federal Election Campaign Act of 1971 ([2 U.S.C. 434][/us/usc/t2/s434]);
+        (C) required to be reported under section 304 of the Federal Election Campaign Act of 1971 ([2 U.S.C. 434][/us/usc/t2/s434]) \[now [52 U.S.C. 30104][/us/usc/t52/s30104]\];
 
     (16) “relative” means an individual who is related to the reporting individual, as father, mother, son, daughter, brother, sister, uncle, aunt, great aunt, great uncle, first cousin, nephew, niece, husband, wife, grandfather, grandmother, grandson, granddaughter, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, half sister, or who is the grandfather or grandmother of the spouse of the reporting individual, and shall be deemed to include the fiance or fiancee of the reporting individual;
 
@@ -233,6 +233,7 @@
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
 [/us/usc/t5/s7342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342
 [/us/usc/t2/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434
+[/us/usc/t52/s30104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104
 [/us/usc/t10/s101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F9
 [/us/usc/t5/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103%2Fh
 [/us/usc/t5/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103%2Fh

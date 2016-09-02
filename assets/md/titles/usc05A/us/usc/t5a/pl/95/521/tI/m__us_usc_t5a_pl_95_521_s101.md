@@ -99,7 +99,7 @@
 
     This Act, referred to in subsec. (b)(1), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824], as amended, known as the Ethics in Government Act of 1978. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-    Section 301 of the Federal Campaign Act of 1971, referred to in subsec. (c), probably means section 301 of the Federal Election Campaign Act of 1971, [Pub. L. 92–225][/us/pl/92/225], which is classified to [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Section 301 of the Federal Campaign Act of 1971, referred to in subsec. (c), probably means section 301 of the Federal Election Campaign Act of 1971, [Pub. L. 92–225][/us/pl/92/225], which is classified to [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
     The General Schedule, referred to in subsec. (f)(3), (6), is set out under [section 5332 of this title][/us/usc/t5/s5332].
 
@@ -145,7 +145,7 @@
 
 [Pub. L. 101–280, § 11][/us/pl/101/280/s11], May 4, 1990, [104 Stat. 163][/us/stat/104/163], provided that: 
 
-> “Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution \[amending sections 101 to 106, 109 to 111, former section 202, and sections 501 to 503 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, sections 3393, 7351, 7353, and 7701 of this title, sections 31–1, 441i, and 4725 of Title 2, The Congress, sections 1601 and 2397a of Title 10, Armed Forces, sections 202, 203, 205, 207, 208, and 216 of Title 18, Crimes and Criminal Procedure, [section 3945 of Title 22][/us/usc/t22/s3945], Foreign Relations and Intercourse, [section 1043 of Title 26][/us/usc/t26/s1043], Internal Revenue Code, and sections 1353 and 3730 of Title 31, Money and Finance, renumbering [section 1352 of Title 31][/us/usc/t31/s1352] as section 1353, repealing [section 112 of Pub. L. 95–521][/us/pl/95/521/s112], set out in this Appendix, enacting provisions set out as notes under sections 101 and 105 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, [section 2397a of Title 10][/us/usc/t10/s2397a], and [section 1043 of Title 26][/us/usc/t26/s1043], and amending provisions set out as notes under section 207 and 208 of Title 18 and [section 1344 of Title 31][/us/usc/t31/s1344]\] take effect on the date of the enactment of this joint resolution \[May 4, 1990\].”
+> “Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution \[amending sections 101 to 106, 109 to 111, former section 202, and sections 501 to 503 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, sections 3393, 7351, 7353, and 7701 of this title, sections 31–1 and 4725 and former [section 441i of Title 2][/us/usc/t2/s441i], The Congress, sections 1601 and 2397a of Title 10, Armed Forces, sections 202, 203, 205, 207, 208, and 216 of Title 18, Crimes and Criminal Procedure, [section 3945 of Title 22][/us/usc/t22/s3945], Foreign Relations and Intercourse, [section 1043 of Title 26][/us/usc/t26/s1043], Internal Revenue Code, and sections 1353 and 3730 of Title 31, Money and Finance, renumbering [section 1352 of Title 31][/us/usc/t31/s1352] as section 1353, repealing [section 112 of Pub. L. 95–521][/us/pl/95/521/s112], set out in this Appendix, enacting provisions set out as notes under sections 101 and 105 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, [section 2397a of Title 10][/us/usc/t10/s2397a], and [section 1043 of Title 26][/us/usc/t26/s1043], and amending provisions set out as notes under section 207 and 208 of Title 18 and [section 1344 of Title 31][/us/usc/t31/s1344]\] take effect on the date of the enactment of this joint resolution \[May 4, 1990\].”
 
  __Effective Date of 1989 Amendment__ 
 
@@ -329,7 +329,7 @@
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t26/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs112
 [/us/usc/t2/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs701
@@ -351,6 +351,7 @@
 [/us/pl/101/280/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs11
 [/us/stat/104/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F163
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
+[/us/usc/t2/s441i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441i
 [/us/usc/t22/s3945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3945
 [/us/usc/t26/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1043
 [/us/usc/t31/s1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1352
