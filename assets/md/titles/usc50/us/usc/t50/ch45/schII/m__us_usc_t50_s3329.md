@@ -75,7 +75,7 @@
 
 >         “(5)  __Covered system__  __.—__ 
 
->         The term ‘covered system’ means a national security system, as that term is defined in [section 3542(b) of title 44][/us/usc/t44/s3542/b], United States Code.
+>         The term ‘covered system’ means a national security system, as that term is defined in \[former\] [section 3542(b) of title 44][/us/usc/t44/s3542/b], United States Code \[see now [44 U.S.C. 3552(b)][/us/usc/t44/s3552/b]\].
 
 >         “(6)  __Supply chain risk__  __.—__ 
 
@@ -150,6 +150,7 @@
 [/us/usc/t41/s4106/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4106%2Fd%2F3
 [/us/usc/t41/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3311
 [/us/usc/t44/s3542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb
+[/us/usc/t44/s3552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
 [/us/pl/112/87/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs309

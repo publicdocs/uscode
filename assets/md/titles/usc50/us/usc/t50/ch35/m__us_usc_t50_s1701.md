@@ -61,6 +61,184 @@
 
 > “If any provision of this Act \[enacting this chapter\] is held invalid, the remainder of the Act shall not be affected thereby.”
 
+ __Venezuela Defense of Human Rights and Civil Society__ 
+
+[Pub. L. 113–278][/us/pl/113/278], Dec. 18, 2014, [128 Stat. 3011][/us/stat/128/3011], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Venezuela Defense of Human Rights and Civil Society Act of 2014’.
+
+> “SEC. 2. __FINDINGS.__ 
+
+> “Congress makes the following findings:
+
+>     “(1) The Central Bank of Venezuela and the National Statistical Institute of Venezuela stated that the annual inflation rate in Venezuela in 2013 was 56.30, the highest level of inflation in the Western Hemisphere and the third highest level of inflation in the world behind South Sudan and Syria.
+
+>     “(2) The Central Bank of Venezuela and the Government of Venezuela have imposed a series of currency controls that has exacerbated economic problems and, according to the World Economic Forum, has become the most problematic factor for doing business in Venezuela.
+
+>     “(3) The Central Bank of Venezuela declared that the scarcity index of Venezuela reached 29.4 percent in March 2014, which signifies that fewer than one in 4 basic goods is unavailable at any given time. The Central Bank has not released any information on the scarcity index since that time.
+
+>     “(4) Since 1999, violent crime in Venezuela has risen sharply and the Venezuelan Violence Observatory, an independent nongovernmental organization, found the national per capita murder rate to be 79 per 100,000 people in 2013.
+
+>     “(5) The international nongovernmental organization Human Rights Watch recently stated, ‘Under the leadership of President Chàvez and now President Maduro, the accumulation of power in the executive branch and the erosion of human rights guarantees have enabled the government to intimidate, censor, and prosecute its critics.’.
+
+>     “(6) The Country Reports on Human Rights Practices for 2013 of the Department of State maintained that in Venezuela ‘the government did not respect judicial independence or permit judges to act according to the law without fear of retaliation’ and ‘the government used the judiciary to intimidate and selectively prosecute political, union, business, and civil society leaders who were critical of government policies or actions’.
+
+>     “(7) The Government of Venezuela has detained foreign journalists and threatened and expelled international media outlets operating in Venezuela, and the international nongovernmental organization Freedom House declared that Venezuela’s ‘media climate is permeated by intimidation, sometimes including physical attacks, and strong antimedia rhetoric by the government is common’.
+
+>     “(8) Since February 4, 2014, the Government of Venezuela has responded to antigovernment protests with violence and killings perpetrated by its public security forces.
+
+>     “(9) In May 2014, Human Rights Watch found that the unlawful use of force perpetrated against antigovernment protesters was ‘part of a systematic practice by the Venezuelan security forces’.
+
+>     “(10) As of September 1, 2014, 41 people had been killed, approximately 3,000 had been arrested unjustly, and more than 150 remained in prison and faced criminal charges as a result of antigovernment demonstrations throughout Venezuela.
+
+>     “(11) Opposition leader Leopoldo Lopez was arrested on February 18, 2014, in relation to the protests and was unjustly charged with criminal incitement, conspiracy, arson, and property damage. Since his arrest, Lopez has been held in solitary confinement and has been denied 58 out of 60 of his proposed witnesses at his ongoing trial.
+
+>     “(12) As of September 1, 2014, not a single member of the public security forces of the Government of Venezuela had been held accountable for acts of violence perpetrated against antigovernment protesters.
+
+> “SEC. 3. __SENSE OF CONGRESS REGARDING ANTIGOVERNMENT PROTESTS IN VENEZUELA AND THE NEED TO PREVENT FURTHER VIOLENCE IN VENEZUELA.__ 
+
+> “It is the sense of Congress that—
+
+>     “(1) the United States aspires to a mutually beneficial relationship with Venezuela based on respect for human rights and the rule of law and a functional and productive relationship on issues of public security, including counternarcotics and counterterrorism;
+
+>     “(2) the United States supports the people of Venezuela in their efforts to realize their full economic potential and to advance representative democracy, human rights, and the rule of law within their country;
+
+>     “(3) the chronic mismanagement by the Government of Venezuela of its economy has produced conditions of economic hardship and scarcity of basic goods and foodstuffs for the people of Venezuela;
+
+>     “(4) the failure of the Government of Venezuela to guarantee minimal standards of public security for its citizens has led the country to become one of the most violent and corrupt in the world;
+
+>     “(5) the Government of Venezuela continues to take steps to remove checks and balances on the executive, politicize the judiciary, undermine the independence of the legislature through use of executive decree powers, persecute and prosecute its political opponents, curtail freedom of the press, and limit the free expression of its citizens;
+
+>     “(6) Venezuelans, responding to ongoing economic hardship, high levels of crime and violence, and the lack of basic political rights and individual freedoms, have turned out in demonstrations in Caracas and throughout the country to protest the failure of the Government of Venezuela to protect the political and economic well-being of its citizens; and
+
+>     “(7) the repeated use of violence perpetrated by the National Guard and security personnel of Venezuela, as well as persons acting on behalf of the Government of Venezuela, against antigovernment protesters that began on February 4, 2014, is intolerable and the use of unprovoked violence by protesters is also a matter of serious concern.
+
+> “SEC. 4. __UNITED STATES POLICY TOWARD VENEZUELA.__ 
+
+> “It is the policy of the United States—
+
+>     “(1) to support the people of Venezuela in their aspiration to live under conditions of peace and representative democracy as defined by the Inter-American Democratic Charter of the Organization of American States;
+
+>     “(2) to work in concert with the other member states within the Organization of American States, as well as the countries of the European Union, to ensure the peaceful resolution of the current situation in Venezuela and the immediate cessation of violence against antigovernment protestors;
+
+>     “(3) to hold accountable government and security officials in Venezuela responsible for or complicit in the use of force in relation to antigovernment protests and similar future acts of violence; and
+
+>     “(4) to continue to support the development of democratic political processes and independent civil society in Venezuela.
+
+> “SEC. 5. __SANCTIONS ON PERSONS RESPONSIBLE FOR VIOLENCE IN VENEZUELA.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     The President shall impose the sanctions described in subsection (b) with respect to any foreign person, including any current or former official of the Government of Venezuela or any person acting on behalf of that Government, that the President determines—
+
+>         “(1) has perpetrated, or is responsible for ordering or otherwise directing, significant acts of violence or serious human rights abuses in Venezuela against persons associated with the antigovernment protests in Venezuela that began on February 4, 2014;
+
+>         “(2) has ordered or otherwise directed the arrest or prosecution of a person in Venezuela primarily because of the person’s legitimate exercise of freedom of expression or assembly; or
+
+>         “(3) has knowingly materially assisted, sponsored, or provided significant financial, material, or technological support for, or goods or services in support of, the commission of acts described in paragraph (1) or (2).
+
+>     “(b) __Sanctions Described.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The sanctions described in this subsection are the following:
+
+>             “(A)  __Asset blocking__  __.—__ 
+
+>             The exercise of all powers granted to the President by the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+>             “(B)  __Exclusion from the united states and revocation of visa or other documentation__  __.—__ 
+
+>             In the case of an alien determined by the President to be subject to subsection (a), denial of a visa to, and exclusion from the United States of, the alien, and revocation in accordance with section 221(i) of the Immigration and Nationality Act ([8 U.S.C. 1201(i)][/us/usc/t8/s1201/i]), of any visa or other documentation of the alien.
+
+>         “(2)  __Penalties__  __.—__ 
+
+>         A person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1)(A) or any regulation, license, or order issued to carry out paragraph (1)(A) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ([50 U.S.C. 1705][/us/usc/t50/s1705]) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+>         “(3)  __Exception relating to importation of goods__  __.—__ 
+
+>         The requirement to block and prohibit all transactions in all property and interests in property under paragraph (1)(A) shall not include the authority to impose sanctions on the importation of goods.
+
+>         “(4)  __Exception to comply with united nations headquarters agreement__  __.—__ 
+
+>         Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+
+>     “(c)  __Waiver__  __.—__ 
+
+>     The President may waive the application of sanctions under subsection (b) with respect to a person if the President—
+
+>         “(1) determines that such a waiver is in the national interest of the United States; and
+
+>         “(2) on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations and the Committee on Banking Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives a notice of and justification for the waiver.
+
+>     “(d)  __Regulatory Authority__  __.—__ 
+
+>     The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
+
+>     “(e)  __Termination__  __.—__ 
+
+>     The requirement to impose sanctions under this section shall terminate on December 31, 2016.
+
+>     “(f)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Admitted; alien__  __.—__ 
+
+>         The terms ‘admitted’ and ‘alien’ have the meanings given those terms in section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101]).
+
+>         “(2)  __Financial institution__  __.—__ 
+
+>         The term ‘financial institution’ has the meaning given that term in [section 5312 of title 31][/us/usc/t31/s5312], United States Code.
+
+>         “(3)  __Foreign person__  __.—__ 
+
+>         The term ‘foreign person’ means a person that is not a United States person.
+
+>         “(4)  __Good__  __.—__ 
+
+>         The term ‘good’ has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
+
+>         “(5)  __Knowingly__  __.—__ 
+
+>         The term ‘knowingly’, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+
+>         “(6)  __Materially assisted__  __.—__ 
+
+>         The term ‘materially assisted’ means the provision of assistance that is significant and of a kind directly relevant to acts described in paragraph (1) or (2) of subsection (a).
+
+>         “(7)  __United states person__  __.—__ 
+
+>         The term ‘United States person’ means—
+
+>             “(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
+
+>             “(B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
+
+> “SEC. 6. __REPORT ON BROADCASTING, INFORMATION DISTRIBUTION, AND CIRCUMVENTION TECHNOLOGY DISTRIBUTION IN VENEZUELA.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 30 days after the date of the enactment of this Act \[Dec. 18, 2014\], the Chairman of the Broadcasting Board of Governors (in this section referred to as the ‘Board’) shall submit to Congress a report that includes—
+
+>         “(1) a thorough evaluation of the governmental, political, and technological obstacles faced by the people of Venezuela in their efforts to obtain accurate, objective, and comprehensive news and information about domestic and international affairs;
+
+>         “(2) an assessment of current efforts relating to broadcasting, information distribution, and circumvention technology distribution in Venezuela, by the United States Government and otherwise; and
+
+>         “(3) a strategy for expanding such efforts in Venezuela, including recommendations for additional measures to expand upon current efforts.
+
+>     “(b)  __Elements__  __.—__ 
+
+>     The report required by subsection (a) shall include—
+
+>         “(1) an assessment of the current level of Federal funding dedicated to broadcasting, information distribution, and circumvention technology distribution in Venezuela by the Board before the date of the enactment of this Act;
+
+>         “(2) an assessment of the extent to which the current level and type of news and related programming and content provided by the Voice of America and other sources is addressing the informational needs of the people of Venezuela; and
+
+>         “(3) recommendations for increasing broadcasting, information distribution, and circumvention technology distribution in Venezuela.”
+
  __Imposition of Sanctions With Respect to Support for the Rebel Group Known as M23__ 
 
 [Pub. L. 112–239, div. A, title XII, § 1284][/us/pl/112/239/s1284], Jan. 2, 2013, [126 Stat. 2035][/us/stat/126/2035], provided that:
@@ -5643,6 +5821,14 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/pl/95/223/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs208
 [/us/stat/91/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1629
+[/us/pl/113/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F278
+[/us/stat/128/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3011
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/usc/t8/s1201/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1201%2Fi
+[/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
+[/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
+[/us/usc/t31/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/112/239/s1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1284
 [/us/stat/126/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2035
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

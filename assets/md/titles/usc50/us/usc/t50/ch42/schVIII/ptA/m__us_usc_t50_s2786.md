@@ -131,7 +131,7 @@
 
         The term “covered system” means the following:
 
-            (A) National security systems (as defined in [section 3542(b) of title 44][/us/usc/t44/s3542/b]) and components of such systems.
+            (A) National security systems (as defined in section 3542(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 44) and components of such systems.
 
             (B) Nuclear weapons and components of nuclear weapons.
 
@@ -165,6 +165,10 @@
 
 ([Pub. L. 107–314, div. D, title XLVIII, § 4806][/us/pl/107/314/s4806], as added [Pub. L. 113–66, div. C, title XXXI, § 3113(a)][/us/pl/113/66/s3113/a], Dec. 26, 2013, [127 Stat. 1053][/us/stat/127/1053].)
 
+ __References in Text__ 
+
+    [Section 3542 of title 44][/us/usc/t44/s3542], referred to in subsec. (f)(5)(A), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions defining “national security system” are now contained in [section 3552 of title 44][/us/usc/t44/s3552], as enacted by [Pub. L. 113–283][/us/pl/113/283].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2785.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_ch42_schVIII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2786)
@@ -176,9 +180,13 @@
 [/us/usc/t41/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3306
 [/us/usc/t41/s4106/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4106%2Fd%2F3
 [/us/usc/t41/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3311
-[/us/usc/t44/s3542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb
 [/us/pl/107/314/s4806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4806
 [/us/pl/113/66/s3113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3113%2Fa
 [/us/stat/127/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1053
+[/us/usc/t44/s3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542
+[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
+[/us/usc/t44/s3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 
 

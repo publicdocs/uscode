@@ -179,7 +179,7 @@
 
             (B) any significant modification or enhancement of an existing intelligence community business system (other than necessary to maintain current services).
 
-        (5) The term “national security system” has the meaning given that term in [section 3542 of title 44][/us/usc/t44/s3542].
+        (5) The term “national security system” has the meaning given that term in section 3542  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 44.
 
         (6) The term “Office of Business Transformation of the Office of the Director of National Intelligence” includes any successor office that assumes the functions of the Office of Business Transformation of the Office of the Director of National Intelligence as carried out by the Office of Business Transformation on October 7, 2010.
 
@@ -188,6 +188,8 @@
  __References in Text__ 
 
     Section 8083 of the Department of Defense Appropriations Act, 2005, referred to in subsec. (g), is [section 8083 of Pub. L. 108–287][/us/pl/108/287/s8083], title VIII, Aug. 5, 2004, [118 Stat. 989][/us/stat/118/989], which is not classified to the Code.
+
+    [Section 3542 of title 44][/us/usc/t44/s3542], referred to in subsec. (k)(5), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions defining “national security system” are now contained in [section 3552 of title 44][/us/usc/t44/s3552], as enacted by [Pub. L. 113–283][/us/pl/113/283].
 
  __Codification__ 
 
@@ -244,7 +246,6 @@
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/usc/t44/s3601/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601%2F4
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
-[/us/usc/t44/s3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/111/259/s322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs322%2Fa%2F1
 [/us/stat/124/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2669
@@ -254,6 +255,11 @@
 [/us/stat/128/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1406
 [/us/pl/108/287/s8083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287%2Fs8083
 [/us/stat/118/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F989
+[/us/usc/t44/s3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542
+[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
+[/us/usc/t44/s3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/usc/t50/s415a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%936
 [/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277

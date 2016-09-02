@@ -87,7 +87,7 @@
 
 >         “(E) sections 301 of title 5, 113(b) and 162(b) of title 10, 503 of title 28, and 301(b) of title 31, United States Code.”
 
- __Improvement of Equality of Employment Opportunities in the Intelligence Community__ 
+ __Findings Regarding Improvement of Equality of Employment Opportunities in the Intelligence Community__ 
 
 [Pub. L. 108–177, title III, § 319][/us/pl/108/177/s319], Dec. 13, 2003, [117 Stat. 2614][/us/stat/117/2614], as amended by [Pub. L. 108–458, title I, § 1071(g)(3)(A)(iv)][/us/pl/108/458/s1071/g/3/A/iv], (B), Dec. 17, 2004, [118 Stat. 3692][/us/stat/118/3692]; [Pub. L. 111–259, title III, § 313(b)(1)(A)][/us/pl/111/259/s313/b/1/A], (3), Oct. 7, 2010, [124 Stat. 2666][/us/stat/124/2666], provided that: 
 
