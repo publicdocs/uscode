@@ -59,7 +59,7 @@
 
  __Outreach and Education__ 
 
-[Pub. L. 109–59, title IV, § 4127][/us/pl/109/59/s4127], Aug. 10, 2005, [119 Stat. 1741][/us/stat/119/1741], as amended by [Pub. L. 111–147, title IV, § 422(g)][/us/pl/111/147/s422/g], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(g)][/us/pl/111/322/s2202/g], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(g)][/us/pl/112/5/s202/g], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(f)][/us/pl/112/30/s122/f], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(f)][/us/pl/112/102/s202/f], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(f)][/us/pl/112/140/s202/f], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II, § 32603(f)][/us/pl/112/141/s32603/f], div. G, title II, § 112002(e), July 6, 2012, [126 Stat. 808][/us/stat/126/808], 983, provided that:
+[Pub. L. 109–59, title IV, § 4127][/us/pl/109/59/s4127], Aug. 10, 2005, [119 Stat. 1741][/us/stat/119/1741], as amended by [Pub. L. 111–147, title IV, § 422(g)][/us/pl/111/147/s422/g], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(g)][/us/pl/111/322/s2202/g], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(g)][/us/pl/112/5/s202/g], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(f)][/us/pl/112/30/s122/f], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(f)][/us/pl/112/102/s202/f], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(f)][/us/pl/112/140/s202/f], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II, § 32603(f)][/us/pl/112/141/s32603/f], div. G, title II, § 112002(e), July 6, 2012, [126 Stat. 808][/us/stat/126/808], 983; [Pub. L. 113–159, title I, § 1102(f)][/us/pl/113/159/s1102/f], Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -85,9 +85,11 @@
 
 >     “(e)  __Funding__  __.—__ 
 
->     From amounts made available under [section 31104(i) of title 49][/us/usc/t49/s31104/i], United States Code, the Secretary shall make available $4,000,000 to the Federal Motor Carrier Safety Administration for each of fiscal years 2013 and 2014 to carry out this section (other than subsection (f)).”
+>     From amounts made available under [section 31104(i) of title 49][/us/usc/t49/s31104/i], United States Code, the Secretary shall make available $4,000,000 to the Federal Motor Carrier Safety Administration for each of fiscal years 2013 and 2014 and $2,663,014 to the Federal Motor Carrier Safety Administration for the period beginning on October 1, 2014, and ending on May 31, 2015, to carry out this section (other than subsection (f)).
 
-    “(f) Study.—The Comptroller General shall update the Government Accountability Office’s evaluation of the ‘Share the Road Safely’ program to determine if it has achieved reductions in the number and severity of commercial motor vehicle crashes, including reductions in the number of deaths and the severity of injuries sustained in these crashes and shall report its updated evaluation to Congress no later than June 30, 2006.”
+>     “(f)  __Study__  __.—__ 
+
+>     The Comptroller General shall update the Government Accountability Office’s evaluation of the ‘Share the Road Safely’ program to determine if it has achieved reductions in the number and severity of commercial motor vehicle crashes, including reductions in the number of deaths and the severity of injuries sustained in these crashes and shall report its updated evaluation to Congress no later than June 30, 2006.”
 
  __Safety Data Improvement Program__ 
 
@@ -355,6 +357,8 @@
 [/us/stat/126/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F395
 [/us/pl/112/141/s32603/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Ff
 [/us/stat/126/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F808
+[/us/pl/113/159/s1102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1102%2Ff
+[/us/stat/128/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1844
 [/us/usc/t49/s31104/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Fi
 [/us/pl/109/59/s4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4128
 [/us/stat/119/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1742
