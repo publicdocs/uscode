@@ -89,23 +89,19 @@
 
         (3) providing for appropriate dissemination of Technology Innovation Program research results.
 
-    (g) __Annual report__ 
-
-        The Director shall submit annually to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report describing the Technology Innovation Program’s activities, including a description of the metrics upon which award funding decisions were made in the previous fiscal year, any proposed changes to those metrics, metrics for evaluating the success of ongoing and completed awards, and an evaluation of ongoing and completed awards. The first annual report shall include best practices for management of programs to stimulate high-risk, high-reward research.
-
-    (h) __Continuation of ATP grants__ 
+    (g) __Continuation of ATP grants__ 
 
         The Director shall, through the Technology Innovation Program, continue to provide support originally awarded under the Advanced Technology Program, in accordance with the terms of the original award and consistent with the goals of the Technology Innovation Program.
 
-    (i) __Coordination with other State and Federal technology programs__ 
+    (h) __Coordination with other State and Federal technology programs__ 
 
         In carrying out this section, the Director shall, as appropriate, coordinate with other senior State and Federal officials to ensure cooperation and coordination in State and Federal technology programs and to avoid unnecessary duplication of efforts.
 
-    (j) __Acceptance of funds from other Federal agencies__ 
+    (i) __Acceptance of funds from other Federal agencies__ 
 
         In addition to amounts appropriated to carry out this section, the Secretary and the Director may accept funds from other Federal agencies to support awards under the Technology Innovation Program. Any award under this section which is supported with funds from other Federal agencies shall be selected and carried out according to the provisions of this section. Funds accepted from other Federal agencies shall be included as part of the Federal cost share of any project funded under this section.
 
-    (k) __TIP Advisory Board__ 
+    (j) __TIP Advisory Board__ 
 
         (1) __Establishment__ 
 
@@ -149,11 +145,7 @@
 
             In discharging its duties under this subsection, the TIP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.
 
-        (5) __Annual report__ 
-
-            The TIP Advisory Board shall transmit an annual report to the Secretary for transmittal to the Congress not later than 30 days after the submission to Congress of the President’s annual budget request in each year. Such report shall address the status of the Technology Innovation Program and comment on the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of [section 278i of this title][/us/usc/t15/s278i].
-
-    (l) __Definitions__ 
+    (k) __Definitions__ 
 
     In this section—
 
@@ -213,21 +205,29 @@
 
             (B) may include additional for-profit companies, institutions of higher education, and other organizations, such as national laboratories and nonprofit research institutes, that may or may not contribute non-Federal funds to the project; and
 
-        (5) the term “TIP Advisory Board” means the advisory board established under subsection (k).
+        (5) the term “TIP Advisory Board” means the advisory board established under subsection (j).
 
-([Mar. 3, 1901, ch. 872, § 28][/us/act/1901-03-03/ch872/s28], as added [Pub. L. 110–69, title III, § 3012(b)][/us/pl/110/69/s3012/b], Aug. 9, 2007, [121 Stat. 593][/us/stat/121/593].)
+([Mar. 3, 1901, ch. 872, § 28][/us/act/1901-03-03/ch872/s28], as added [Pub. L. 110–69, title III, § 3012(b)][/us/pl/110/69/s3012/b], Aug. 9, 2007, [121 Stat. 593][/us/stat/121/593]; amended [Pub. L. 113–188, title II, § 201(d)][/us/pl/113/188/s201/d], (e), Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
 
  __References in Text__ 
 
-    The Federal Advisory Committee Act, referred to in subsec. (k)(4), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
+    The Federal Advisory Committee Act, referred to in subsec. (j)(4), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Prior Provisions__ 
 
     A prior section 278n, [act Mar. 3, 1901, ch. 872, § 28][/us/act/1901-03-03/ch872/s28], as added [Pub. L. 100–418, title V, § 5131(a)][/us/pl/100/418/s5131/a], Aug. 23, 1988, [102 Stat. 1439][/us/stat/102/1439]; amended [Pub. L. 102–245, title II, § 201(c)][/us/pl/102/245/s201/c], Feb. 14, 1992, [106 Stat. 16][/us/stat/106/16], related to the Advanced Technology Program, prior to repeal by [Pub. L. 110–69, title III, § 3012(a)][/us/pl/110/69/s3012/a], Aug. 9, 2007, [121 Stat. 593][/us/stat/121/593].
 
- __Change of Name__ 
+ __Amendments__ 
 
-    Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+    2014—Subsecs. (g) to (j). [Pub. L. 113–188, § 201(d)(1)][/us/pl/113/188/s201/d/1], (2), redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which required annual reports describing the Technology Innovation Program’s activities.
+
+    Subsec. (j)(5). [Pub. L. 113–188, § 201(e)][/us/pl/113/188/s201/e], struck out par. (5) which related to annual Technology Innovation Program status reports transmitted by the TIP Advisory Board.
+
+    Subsec. (k). [Pub. L. 113–188, § 201(d)(2)][/us/pl/113/188/s201/d/2], redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
+
+    Subsec. (k)(5). [Pub. L. 113–188, § 201(d)(3)][/us/pl/113/188/s201/d/3], substituted “under subsection (j)” for “under subsection (k)”.
+
+    Subsec. (l). [Pub. L. 113–188, § 201(d)(2)][/us/pl/113/188/s201/d/2], redesignated subsec. (l) as (k).
 
  __Technology Innovation Program__ 
 
@@ -256,11 +256,12 @@
 ----------
 ----------
 
-[/us/usc/t15/s278i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278i
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/act/1901-03-03/ch872/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs28
 [/us/pl/110/69/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3012%2Fb
 [/us/stat/121/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F593
+[/us/pl/113/188/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fd
+[/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/act/1901-03-03/ch872/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs28
@@ -270,6 +271,11 @@
 [/us/stat/106/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F16
 [/us/pl/110/69/s3012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3012%2Fa
 [/us/stat/121/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F593
+[/us/pl/113/188/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fd%2F1
+[/us/pl/113/188/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fe
+[/us/pl/113/188/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fd%2F2
+[/us/pl/113/188/s201/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fd%2F3
+[/us/pl/113/188/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fd%2F2
 [/us/pl/111/240/s4226/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs4226%2Fb
 [/us/stat/124/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2598
 [/us/usc/t15/s278n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278n

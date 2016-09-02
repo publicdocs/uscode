@@ -23,11 +23,7 @@
 
         For each major manufacturing industry, the Director may work with industry, trade associations, professional societies, and others as appropriate, to identify enterprise integration standardization and implementation activities underway in the United States and abroad that affect that industry and to assess the current state of enterprise integration within that industry. The Director may assist in the development of roadmaps to permit supply chains within the industry to operate as an integrated electronic enterprise. The roadmaps shall be based on voluntary consensus standards.
 
-    (c) __Reports__ 
-
-        Within 180 days after November 5, 2002, and annually thereafter, the Director shall submit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the National Institute of Standards and Technology’s activities under subsection (b) of this section.
-
-    (d) __Authorized activities__ 
+    (c) __Authorized activities__ 
 
     In order to carry out this Act, the Director may work with industry, trade associations, professional societies, and others as appropriate—
 
@@ -39,25 +35,27 @@
 
         (4) to provide technical assistance and, if necessary, financial support to small- and medium-sized businesses that set up pilot projects in enterprise integration.
 
-    (e) __Manufacturing Extension Program__ 
+    (d) __Manufacturing Extension Program__ 
 
         The Director shall ensure that the Manufacturing Extension Program is prepared to advise small- and medium-sized businesses on how to acquire the expertise, equipment, and training necessary to participate fully in supply chains using enterprise integration.
 
-([Pub. L. 107–277, § 3][/us/pl/107/277/s3], Nov. 5, 2002, [116 Stat. 1936][/us/stat/116/1936].)
+([Pub. L. 107–277, § 3][/us/pl/107/277/s3], Nov. 5, 2002, [116 Stat. 1936][/us/stat/116/1936]; [Pub. L. 113–188, title II, § 201(b)][/us/pl/113/188/s201/b], Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
 
  __References in Text__ 
 
-    This Act, referred to in subsec. (d), is [Pub. L. 107–277][/us/pl/107/277], Nov. 5, 2002, [116 Stat. 1936][/us/stat/116/1936], which enacted this section and provisions set out as a note under this section. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsec. (c), is [Pub. L. 107–277][/us/pl/107/277], Nov. 5, 2002, [116 Stat. 1936][/us/stat/116/1936], which enacted this section and provisions set out as a note under this section. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
     Section was enacted as part of the Enterprise Integration Act of 2002, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
 
+ __Amendments__ 
+
+    2014—Subsecs. (c) to (e). [Pub. L. 113–188][/us/pl/113/188] redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which required annual reports on the National Institute of Standards and Technology’s activities under subsec. (b).
+
  __Change of Name__ 
 
     The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by provision of title II of div. B of [Pub. L. 108–447][/us/pl/108/447], formerly set out as a note under [section 278k of this title][/us/usc/t15/s278k]. Program now known as the Hollings Manufacturing Extension Partnership, see [section 278k(i) of this title][/us/usc/t15/s278k/i].
-
-    Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
  __Enterprise Integration__ 
 
@@ -96,8 +94,11 @@
 
 [/us/pl/107/277/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F277%2Fs3
 [/us/stat/116/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1936
+[/us/pl/113/188/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fb
+[/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
 [/us/pl/107/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F277
 [/us/stat/116/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1936
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t15/s278k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278k
 [/us/usc/t15/s278k/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278k%2Fi
