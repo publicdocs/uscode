@@ -65,57 +65,79 @@
 
           <tr>
 
-            <td colspan="2"> If the amount remains in the fund at  </td>
+            <td> 
 
-            <td> The applicable  </td>
+         If the amount remains in the fund at
 
-  </tr>
+          the close of the—  </td>
 
-          <tr>
+            <td> 
 
-            <td colspan="2">   the close of the—  </td>
+        The
 
-            <td> percentage is—  </td>
+        applicable
 
-  </tr>
-
-          <tr>
-
-            <td>    26th taxable year  </td>
-
-            <td>   20 percent    </td>
+        percentage is—  </td>
 
   </tr>
 
           <tr>
 
-            <td>    27th taxable year  </td>
+            <td> 
 
-            <td>   40 percent    </td>
+        26th taxable year  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>    28th taxable year  </td>
-
-            <td>   60 percent    </td>
+        20 percent    </td>
 
   </tr>
 
           <tr>
 
-            <td>    29th taxable year  </td>
+            <td> 
 
-            <td>   80 percent    </td>
+        27th taxable year  </td>
+
+            <td> 
+
+        40 percent    </td>
 
   </tr>
 
           <tr>
 
-            <td>    30th taxable year  </td>
+            <td> 
 
-            <td>   100 percent.  </td>
+        28th taxable year  </td>
+
+            <td> 
+
+        60 percent    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        29th taxable year  </td>
+
+            <td> 
+
+        80 percent    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        30th taxable year  </td>
+
+            <td> 
+
+        100 percent.  </td>
 
   </tr>
 
