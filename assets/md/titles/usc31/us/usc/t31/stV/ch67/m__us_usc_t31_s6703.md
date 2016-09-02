@@ -25,7 +25,7 @@
 
         (3) The Gang Resistance Education and Training Program under the Act entitled “An Act making appropriations for the Treasury Department, the United States Postal Service, the Executive Office of the President, and certain Independent Agencies, for the fiscal year ending September 30, 1991, and for other purposes”, approved November 5, 1990 ([Public Law 101–509][/us/pl/101/509]).
 
-        (4) Programs under title I of the Workforce Investment Act of 1998.
+        (4) Programs under title I of the Workforce Innovation and Opportunity Act.
 
         (5) Programs under subtitle C of title I of the National and Community Service Act of 1990 ([42 U.S.C. 12571][/us/usc/t42/s12571] et seq.), as amended.
 
@@ -119,10 +119,6 @@
 
 (Added [Pub. L. 103–322, title III, § 31001(a)][/us/pl/103/322/s31001/a], Sept. 13, 1994, [108 Stat. 1861][/us/stat/108/1861]; amended [Pub. L. 104–316, title I, § 115(j)][/us/pl/104/316/s115/j], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417, 2681–424, 2681–432; [Pub. L. 107–217, § 3(h)(8)][/us/pl/107/217/s3/h/8], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 109–270, § 2(i)][/us/pl/109/270/s2/i], Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748]; [Pub. L. 113–128, title V, § 512(ff)][/us/pl/113/128/s512/ff], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
 
- __Amendment of Subsection (a)(4)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(ff), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1719, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(4) of this section is amended by striking “Programs under title I of the Workforce Investment Act of 1998.” and inserting “Programs under title I of the Workforce Innovation and Opportunity Act.” See 2014 Amendment note below.
-
  __References in Text__ 
 
     The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§ 2711 et seq.) and B (§ 2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519]. See part A (§ 6311 et seq.) and subpart 3 (§ 6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to [section 3192 of Title 20][/us/usc/t20/s3192] prior to being omitted in the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382]. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by [Pub. L. 107–110][/us/pl/107/110] and is classified to [section 7213a of Title 20][/us/usc/t20/s7213a].
@@ -131,7 +127,7 @@
 
     [Public Law 101–509][/us/pl/101/509], referred to in subsec. (a)(3), is [Pub. L. 101–509][/us/pl/101/509], Nov. 5, 1990, [104 Stat. 1389][/us/stat/104/1389]. For complete classification of this Act to the Code, see Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The National and Community Service Act of 1990, referred to in subsec. (a)(5), is [Pub. L. 101–610][/us/pl/101/610], Nov. 16, 1990, [104 Stat. 3127][/us/stat/104/3127], as amended. Subtitle C of title I of the Act is classified generally to division C (§ 12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42][/us/usc/t42/s12501] and Tables.
 
@@ -181,7 +177,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -221,8 +217,6 @@
 [/us/stat/120/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F748
 [/us/pl/113/128/s512/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fff
 [/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
@@ -240,9 +234,9 @@
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/stat/104/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1389
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501

@@ -237,7 +237,7 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
  __Contract Appeals Board__ 
 
-[Pub. L. 110–161, div. H, title I, § 1501][/us/pl/110/161/s1501], Dec. 26, 2007, [121 Stat. 2249][/us/stat/121/2249], provided that:
+[Pub. L. 110–161, div. H, title I, § 1501][/us/pl/110/161/s1501], Dec. 26, 2007, [121 Stat. 2249][/us/stat/121/2249], as amended by [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -319,6 +319,8 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 [/us/usc/t32/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs716
 [/us/pl/110/161/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1501
 [/us/stat/121/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2249
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/95/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563
 [/us/usc/t41/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs601
 [/us/usc/t41/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7101

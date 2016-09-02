@@ -1933,6 +1933,8 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 Provisions authorizing commemorative coins were contained in the following acts:
 
+    [Pub. L. 114–30][/us/pl/114/30], July 6, 2015, [129 Stat. 424][/us/stat/129/424].—Boys Town Centennial.
+
     [Pub. L. 113–291, div. B, title XXX, § 3055][/us/pl/113/291/s3055], Dec. 19, 2014, [128 Stat. 3808][/us/stat/128/3808].—National Park Service 100th anniversary.
 
     [Pub. L. 113–212][/us/pl/113/212], Dec. 16, 2014, [128 Stat. 2082][/us/stat/128/2082].—World War I American Veterans Centennial.
@@ -2055,7 +2057,7 @@ Provisions authorizing commemorative coins were contained in the following acts:
 
  __Possession of Gold Coins and Bullion__ 
 
-    The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under [section 95a of Title 12][/us/usc/t12/s95a], Banks and Banking.
+    The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under [section 5 of Title 50][/us/usc/t50/s5], Appendix, War and National Defense.
 
 ----------
 
@@ -2253,6 +2255,8 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/pl/99/185/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs2%2Fg
 [/us/stat/99/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1178
 [/us/usc/t31/s5112/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fi
+[/us/pl/114/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F30
+[/us/stat/129/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F424
 [/us/pl/113/291/s3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3055
 [/us/stat/128/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3808
 [/us/pl/113/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F212
@@ -2417,6 +2421,6 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/stat/99/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F113
 [/us/pl/97/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F220
 [/us/stat/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F222
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
+[/us/usc/t50/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs5
 
 

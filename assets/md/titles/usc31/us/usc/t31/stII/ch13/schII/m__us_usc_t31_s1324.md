@@ -193,7 +193,7 @@ June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, P
 
  __Construction of 2002 Amendment__ 
 
-    Nothing in amendment by [Pub. L. 107–210][/us/pl/107/210], other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see [section 203(f) of Pub. L. 107–210][/us/pl/107/210/s203/f], set out as a note under [section 2918 of Title 29][/us/usc/t29/s2918], Labor.
+    Nothing in amendment by [Pub. L. 107–210][/us/pl/107/210], other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see [section 203(f) of Pub. L. 107–210][/us/pl/107/210/s203/f], set out as a Construction note under [section 35 of Title 26][/us/usc/t26/s35], Internal Revenue Code.
 
  __Coordination With Refund Provision__ 
 
@@ -310,7 +310,7 @@ June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, P
 [/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs203%2Ff
-[/us/usc/t29/s2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918
+[/us/usc/t26/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs35
 [/us/pl/101/508/s11116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11116
 [/us/stat/104/1388-415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-415
 [/us/usc/t31/s1324/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1324%2Fb%2F2

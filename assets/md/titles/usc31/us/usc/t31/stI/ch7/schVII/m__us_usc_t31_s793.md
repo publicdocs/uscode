@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t31/stI/ch7/schVII/m__us_usc_t31_s792.md) | [Next](./../../../../../..//us/usc/t31/stI/ch9/m__us_usc_t31_stI_ch9.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs793)
 
-## § 793. Authorization of Appropriations
+## § 793. Authorization of appropriations
 
     There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 

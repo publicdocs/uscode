@@ -181,7 +181,7 @@ June 30, 1967, Pub. L. 90–39, § 2, 81 Stat. 99.  </td>
 
 >         “(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on March 16, 2015, exceeds
 
->         “(2) the face amount of such obligations outstanding on the date of the enactment of this Act \[Feb. 15, 2014\].
+>         “(2) the face amount of such obligations outstanding on the date of the enactment of this Act.
 
 > “SEC. 3. __RESTORING CONGRESSIONAL AUTHORITY OVER THE NATIONAL DEBT.__ 
 
