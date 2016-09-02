@@ -223,11 +223,11 @@
 
     Section 38(c) of the Arms Export Control Act, referred to in subsec. (c)(7)(D), is classified to [section 2778(c) of Title 22][/us/usc/t22/s2778/c], Foreign Relations and Intercourse.
 
-    Section 11 of the Export Administration Act of 1979, referred to in subsec. (c)(7)(D), is classified to [section 2410 of Title 50][/us/usc/t50/s2410], Appendix, War and National Defense.
+    Section 11 of the Export Administration Act of 1979, referred to in subsec. (c)(7)(D), is classified to [section 4610 of Title 50][/us/usc/t50/s4610], War and National Defense.
 
     Section 206 of the International Emergency Economic Powers Act, referred to in subsec. (c)(7)(D), is classified to [section 1705 of Title 50][/us/usc/t50/s1705].
 
-    Section 16 of the Trading with the Enemy Act, referred to in subsec. (c)(7)(D), is classified to [section 16 of Title 50][/us/usc/t50/s16], Appendix.
+    Section 16 of the Trading with the Enemy Act, referred to in subsec. (c)(7)(D), is classified to [section 4315 of Title 50][/us/usc/t50/s4315].
 
     Section 15 of the Food and Nutrition Act of 2008, referred to in subsec. (c)(7)(D), is classified to [section 2024 of Title 7][/us/usc/t7/s2024], Agriculture.
 
@@ -506,9 +506,9 @@
 [/us/stat/102/4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4312
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t22/s2778/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fc
-[/us/usc/t50/s2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410
+[/us/usc/t50/s4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
-[/us/usc/t50/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs16
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t7/s2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2024
 [/us/usc/t42/s1490s/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490s%2Fa%2F1
 [/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327

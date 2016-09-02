@@ -91,7 +91,7 @@
 
     Temporary extension of section, see [section 798 of this title][/us/usc/t18/s798].
 
-    [Act June 30, 1953, ch. 175, § 7][/us/act/1953-06-30/ch175/s7], [67 Stat. 133][/us/stat/67/133], repealed Joint Res. [July 3, 1952, ch. 570, § 1(a)(29)][/us/act/1952-07-03/ch570/s1/a/29], [66 Stat. 333][/us/stat/66/333]; Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914 which is set out as a note preceding section 1 of Appendix to Title 50, War and National Defense.
+    [Act June 30, 1953, ch. 175, § 7][/us/act/1953-06-30/ch175/s7], [67 Stat. 133][/us/stat/67/133], repealed Joint Res. [July 3, 1952, ch. 570, § 1(a)(29)][/us/act/1952-07-03/ch570/s1/a/29], [66 Stat. 333][/us/stat/66/333]; Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914 which is set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
     Joint Res. [July 3, 1952, ch. 570, § 6][/us/act/1952-07-03/ch570/s6], [66 Stat. 334][/us/stat/66/334], repealed Joint Res. [Apr. 14, 1952, ch. 204][/us/act/1952-04-14/ch204], [66 Stat. 54][/us/stat/66/54], as amended by Joint Res. [May 28, 1952, ch. 339][/us/act/1952-05-28/ch339], [66 Stat. 96][/us/stat/66/96]. Intermediate extensions by Joint Res. [June 14, 1952, ch. 437][/us/act/1952-06-14/ch437], [66 Stat. 137][/us/stat/66/137], and Joint Res. [June 30, 1952, ch. 526][/us/act/1952-06-30/ch526], [66 Stat. 296][/us/stat/66/296], which continued provisions until July 3, 1952, expired by their own terms.
 
@@ -145,6 +145,7 @@
 [/us/stat/66/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F333
 [/us/act/1953-03-31/ch13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13%2Fs1
 [/us/stat/67/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F18
+[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/act/1952-07-03/ch570/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570%2Fs6
 [/us/stat/66/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F334
 [/us/act/1952-04-14/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-14%2Fch204

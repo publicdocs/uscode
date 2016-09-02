@@ -59,7 +59,7 @@
 
  __References in Text__ 
 
-    Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B), is classified to [section 2410 of Title 50][/us/usc/t50/s2410], Appendix, War and National Defense.
+    Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B), is classified to [section 4610 of Title 50][/us/usc/t50/s4610], War and National Defense.
 
  __Amendments__ 
 
@@ -101,7 +101,7 @@
 [/us/stat/40/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F226
 [/us/act/1940-03-28/ch72/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72%2Fs6
 [/us/stat/54/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F80
-[/us/usc/t50/s2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410
+[/us/usc/t50/s4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
 [/us/pl/99/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569

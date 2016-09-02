@@ -39,7 +39,7 @@
 
     Section 219 of the Immigration and Nationality Act, referred to in subsec. (d)(3), is classified to [section 1189 of Title 8][/us/usc/t8/s1189], Aliens and Nationality.
 
-    Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(3), is classified to [section 2405(j) of Title 50][/us/usc/t50/s2405/j], Appendix, War and National Defense.
+    Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(3), is classified to [section 4605(j) of Title 50][/us/usc/t50/s4605/j], War and National Defense.
 
     Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (d)(3), is classified to [section 2371 of Title 22][/us/usc/t22/s2371], Foreign Relations and Intercourse.
 
@@ -71,7 +71,7 @@
 [/us/pl/108/458/s6803/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6803%2Fc%2F2
 [/us/stat/118/3768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3768
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
-[/us/usc/t50/s2405/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/pl/114/23/s812/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fd
 [/us/stat/129/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F312

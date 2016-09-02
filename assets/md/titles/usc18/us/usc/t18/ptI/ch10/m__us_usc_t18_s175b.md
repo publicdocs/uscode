@@ -65,7 +65,7 @@
 
             (G)
 
-                (i) is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]), or section 40(d) of chapter 3 of the Arms Export Control Act ([22 U.S.C. 2780(d)][/us/usc/t22/s2780/d]), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism, or (ii) acts for or on behalf of, or operates subject to the direction or control of, a government or official of a country described in this subparagraph;
+                (i) is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]), or section 40(d) of chapter 3 of the Arms Export Control Act ([22 U.S.C. 2780(d)][/us/usc/t22/s2780/d]), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism, or (ii) acts for or on behalf of, or operates subject to the direction or control of, a government or official of a country described in this subparagraph;
 
             (H) has been discharged from the Armed Services of the United States under dishonorable conditions; or
 
@@ -82,6 +82,8 @@
     Section 351A of the Public Health Service Act, referred to in subsecs. (a)(1), (b)(1), and (c)(1), is classified to [section 262a of Title 42][/us/usc/t42/s262a], The Public Health and Welfare.
 
     Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to in subsecs. (b)(2) and (c)(2), is classified to [section 8401 of Title 7][/us/usc/t7/s8401], Agriculture.
+
+    Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(2)(G)(i), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j) of Title 50][/us/usc/t50/s4605/j].
 
  __Amendments__ 
 
@@ -140,6 +142,7 @@
 [/us/stat/118/3767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3767
 [/us/usc/t42/s262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a
 [/us/usc/t7/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8401
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/pl/108/458/s6802/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fd%2F1
 [/us/pl/108/458/s6802/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fc%2F1
 [/us/pl/108/458/s6802/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fc%2F2

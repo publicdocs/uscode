@@ -41,7 +41,7 @@
 
  __Repeals__ 
 
-    Section 7 of [act June 30, 1953, ch. 175][/us/act/1953-06-30/ch175], [67 Stat. 134][/us/stat/67/134], repealed Joint Res. [July 3, 1952, ch. 570, § 1(a)(29)][/us/act/1952-07-03/ch570/s1/a/29], [66 Stat. 333][/us/stat/66/333]; Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914 which is set out as a note preceding section 1 of Appendix to Title 50, War and National Defense.
+    Section 7 of [act June 30, 1953, ch. 175][/us/act/1953-06-30/ch175], [67 Stat. 134][/us/stat/67/134], repealed Joint Res. [July 3, 1952, ch. 570, § 1(a)(29)][/us/act/1952-07-03/ch570/s1/a/29], [66 Stat. 333][/us/stat/66/333]; Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914, which is set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
  __Repeal of Extensions of War-time Provisions__ 
 
@@ -71,6 +71,7 @@
 [/us/stat/66/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F333
 [/us/act/1953-03-31/ch13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13%2Fs1
 [/us/stat/67/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F18
+[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/act/1952-04-14/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-14%2Fch204
 [/us/stat/66/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F54
 [/us/act/1952-05-28/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-28%2Fch339

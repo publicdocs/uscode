@@ -125,7 +125,7 @@
 
 [Act June 29, 1948, ch. 719, § 4][/us/act/1948-06-29/ch719/s4], [62 Stat. 1100][/us/stat/62/1100], provided that: 
 
-> “For its own use in the industrial employment and training of prisoners and not for transfer or disposition, transfers of surplus property under the Surplus Property Act of 1944 \[former sections 1611 to 1646 of Appendix to Title 50, War and National Defense\], may be made to Federal Prison Industries, Incorporated, without reimbursement or transfer of funds.”
+> “For its own use in the industrial employment and training of prisoners and not for transfer or disposition, transfers of surplus property under the Surplus Property Act of 1944 \[former sections 1611 to 1646 of the former Appendix to Title 50, War and National Defense\], may be made to Federal Prison Industries, Incorporated, without reimbursement or transfer of funds.”
 
 ----------
 

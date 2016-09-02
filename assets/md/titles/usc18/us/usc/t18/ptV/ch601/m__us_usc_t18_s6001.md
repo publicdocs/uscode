@@ -75,9 +75,9 @@
 
  __Effective Date; Savings Provision__ 
 
-[Section 260 of Pub. L. 91–452][/us/pl/91/452/s260] provided that: 
+[Pub. L. 91–452, title II, § 260][/us/pl/91/452/s260], Oct. 15, 1970, [84 Stat. 931][/us/stat/84/931], provided that: 
 
-> “The provisions of part V of title 18, United States Code, added by title II of this Act \[this part\], and the amendments and repeals made by title II of this Act \[sections 835, 895, 1406, 1954, 2424, 2514 and 3486 of this title, sections 15, 87f(f), 135c, 499m(f), and 2115 of Title 7, Agriculture, section 25 of former Title 11, Bankruptcy, [section 1820 of Title 12][/us/usc/t12/s1820], Banks and Banking, sections 32, 33, 49, 77v, 78u(d), 79r(e), 80a–41, 80b–9, 155, 717m, 1271, and 1714 of Title 15, Commerce and Trade, [section 825f of Title 16][/us/usc/t16/s825f], Conservation, [section 1333 of Title 19][/us/usc/t19/s1333], Customs Duties, [section 373 of Title 21][/us/usc/t21/s373], Food and Drugs, sections 4874 and 7493 of Title 26, Internal Revenue Code, [section 161(3) of Title 29][/us/usc/t29/s161/3], Labor, [section 506 of Title 33][/us/usc/t33/s506], Navigation and Navigable waters, sections 405(f) and 2201 of Title 42, The Public Health and Welfare, sections 157 and 362 of Title 45, Railroads, sections 827 and 1124 of former Title 46, Shipping, section 409(l) of Title 47, Telecommunications, sections 9, 43, 46, 47, 48, 916, 1017, and 1484 of former Title 49, Transportation, [section 792 of Title 50][/us/usc/t50/s792], War and National Defense, and sections 643a, 1152, 2026, and 2155(b) of Title 50, Appendix\], shall take effect on the sixtieth day following the date of the enactment of this Act \[Oct. 15, 1970\]. No amendment to or repeal of any provision of law under title II of this Act shall affect any immunity to which any individual is entitled under such provision by reason of any testimony or other information given before such day.”
+> “The provisions of part V of title 18, United States Code, added by title II of this Act \[this part\], and the amendments and repeals made by title II of this Act \[sections 835, 895, 1406, 1954, 2424, 2514 and 3486 of this title, sections 15, 87f(f), 135c, 499m(f), and 2115 of Title 7, Agriculture, section 25 of former Title 11, Bankruptcy, [section 1820 of Title 12][/us/usc/t12/s1820], Banks and Banking, sections 32, 33, 49, 77v, 78u(d), 79r(e), 80a–41, 80b–9, 155, 717m, 1271, and 1714 of Title 15, Commerce and Trade, [section 825f of Title 16][/us/usc/t16/s825f], Conservation, [section 1333 of Title 19][/us/usc/t19/s1333], Customs Duties, [section 373 of Title 21][/us/usc/t21/s373], Food and Drugs, sections 4874 and 7493 of Title 26, Internal Revenue Code, [section 161(3) of Title 29][/us/usc/t29/s161/3], Labor, [section 506 of Title 33][/us/usc/t33/s506], Navigation and Navigable waters, sections 405(f) and 2201 of Title 42, The Public Health and Welfare, sections 157 and 362 of Title 45, Railroads, sections 827 and 1124 of former Title 46, Shipping, section 409(l) of Title 47, Telecommunications, sections 9, 43, 46, 47, 48, 916, 1017, and 1484 of former Title 49, Transportation, sections 792 and 4555 of Title 50, War and National Defense, and former sections 643a, 1152, and 2026 of the former Appendix to Title 50\], shall take effect on the sixtieth day following the date of the enactment of this Act \[Oct. 15, 1970\]. No amendment to or repeal of any provision of law under title II of this Act shall affect any immunity to which any individual is entitled under such provision by reason of any testimony or other information given before such day.”
 
  __Savings Provision__ 
 
@@ -157,13 +157,13 @@
 [/us/pl/95/405/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs28
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2
 [/us/pl/91/452/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs260
+[/us/stat/84/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F931
 [/us/usc/t12/s1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1820
 [/us/usc/t16/s825f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825f
 [/us/usc/t19/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1333
 [/us/usc/t21/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs373
 [/us/usc/t29/s161/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs161%2F3
 [/us/usc/t33/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs506
-[/us/usc/t50/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs792
 [/us/pl/95/598/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314
 [/us/pl/95/598/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs403%2Fd
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

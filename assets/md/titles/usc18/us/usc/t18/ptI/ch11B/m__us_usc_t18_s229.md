@@ -59,7 +59,7 @@
 
 [Pub. L. 105–277, div. I, title II, § 211][/us/pl/105/277/s211], Oct. 21, 1998, [112 Stat. 2681–872][/us/stat/112/2681-872], provided that: 
 
-> “If the President determines, after notice and an opportunity for a hearing in accordance with [section 554 of title 5][/us/usc/t5/s554], United States Code, that any person within the United States, or any national of the United States located outside the United States, has committed any violation of [section 229 of title 18][/us/usc/t18/s229], United States Code, the President may issue an order for the suspension or revocation of the authority of the person to export from the United States any goods or technology (as such terms are defined in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415)).”
+> “If the President determines, after notice and an opportunity for a hearing in accordance with [section 554 of title 5][/us/usc/t5/s554], United States Code, that any person within the United States, or any national of the United States located outside the United States, has committed any violation of [section 229 of title 18][/us/usc/t18/s229], United States Code, the President may issue an order for the suspension or revocation of the authority of the person to export from the United States any goods or technology (as such terms are defined in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415)) \[now [50 U.S.C. 4618][/us/usc/t50/s4618]\].”
 
     \[For authority of Secretary of Commerce to suspend or revoke export privileges pursuant to [section 211 of Pub. L. 105–277][/us/pl/105/277/s211], set out above, see section 4 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under [section 6711 of Title 22][/us/usc/t22/s6711], Foreign Relations and Intercourse.\]
 
@@ -77,6 +77,7 @@
 [/us/stat/112/2681-872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-872
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t18/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs229
+[/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/pl/105/277/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs211
 [/us/usc/t22/s6711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6711
 

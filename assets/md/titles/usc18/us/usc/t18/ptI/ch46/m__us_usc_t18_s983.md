@@ -357,7 +357,7 @@
 
             (C) the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301][/us/usc/t21/s301] et seq.);
 
-            (D) the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (IEEPA) ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.); or
+            (D) the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or the International Emergency Economic Powers Act (IEEPA) ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.); or
 
             (E) [section 1 of title VI of the Act of June 15, 1917][/us/act/1917-06-15/s1] ([40 Stat. 233][/us/stat/40/233]; [22 U.S.C. 401][/us/usc/t22/s401]).
 
@@ -397,7 +397,7 @@
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (i)(2)(C), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-    The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+    The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering in Title 50, and is now classified principally to chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
     The International Emergency Economic Powers Act, referred to in (i)(2)(D), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
