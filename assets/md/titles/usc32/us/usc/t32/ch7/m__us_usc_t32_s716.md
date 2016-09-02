@@ -75,7 +75,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    Amendment by [Pub. L. 104–316][/us/pl/104/316] effective 60 days after Oct. 19, 1996, see [section 101(e) of Pub. L. 104–316][/us/pl/104/316/s101/e], set out as a note under [section 130c of Title 2][/us/usc/t2/s130c], The Congress.
+    Amendment by [Pub. L. 104–316][/us/pl/104/316] effective 60 days after Oct. 19, 1996, see [section 101(e) of Pub. L. 104–316][/us/pl/104/316/s101/e], set out as a note under [section 4593 of Title 2][/us/usc/t2/s4593], The Congress.
 
  __Effective Date of 1985 Amendment__ 
 
@@ -120,7 +120,7 @@
 [/us/usc/t10/s2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2774
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/104/316/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs101%2Fe
-[/us/usc/t2/s130c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130c
+[/us/usc/t2/s4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4593
 [/us/pl/99/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224
 [/us/pl/99/224/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224%2Fs4
 [/us/usc/t5/s5584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5584
