@@ -33,9 +33,7 @@
 
             <td> 
 
-        The tax is
-
-        the following amount per ton  </td>
+        The tax is the following amount per ton  </td>
 
   </tr>
 

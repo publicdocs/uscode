@@ -149,9 +149,7 @@
 
                         <td> 
 
-                    The
-
-                    number of anticipated payments is:  </td>
+                    The number of anticipated payments is:  </td>
 
   </tr>
 
@@ -231,9 +229,7 @@
 
                         <td> 
 
-                    The
-
-                    number is:  </td>
+                    The number is:  </td>
 
   </tr>
 

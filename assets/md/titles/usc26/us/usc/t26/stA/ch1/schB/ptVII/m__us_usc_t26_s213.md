@@ -121,9 +121,7 @@
 
                 <td> 
 
-            The
-
-            limitation is:  </td>
+            The limitation is:  </td>
 
   </tr>
 

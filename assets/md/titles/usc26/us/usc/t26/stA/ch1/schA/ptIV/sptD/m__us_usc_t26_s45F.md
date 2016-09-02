@@ -115,9 +115,7 @@
 
                     <td> 
 
-                The
-
-                applicable recapture percentage is:  </td>
+                The applicable recapture percentage is:  </td>
 
   </tr>
 

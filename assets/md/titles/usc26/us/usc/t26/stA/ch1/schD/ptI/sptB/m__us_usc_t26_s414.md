@@ -1337,9 +1337,7 @@
 
                         <td> 
 
-                    The
-
-                    percentage is—  </td>
+                    The percentage is—  </td>
 
   </tr>
 

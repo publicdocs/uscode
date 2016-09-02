@@ -109,9 +109,7 @@
 
                         <td> 
 
-                    The
-
-                    percentage is:  </td>
+                    The percentage is:  </td>
 
   </tr>
 
@@ -979,9 +977,7 @@
 
     <td> 
 
-“For taxable years beginning in calendar
-
- year:  </td>
+“For taxable years beginning in calendar year:  </td>
 
     <td> 
 

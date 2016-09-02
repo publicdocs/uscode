@@ -777,9 +777,7 @@
 
                         <td> 
 
-                     For years beginning in calendar
-
-                      year:  </td>
+                     For years beginning in calendar year:  </td>
 
                         <td> 
 

@@ -217,9 +217,7 @@
 
                     <td> 
 
-                The
-
-                applicable percentage is:  </td>
+                The applicable percentage is:  </td>
 
   </tr>
 
