@@ -115,15 +115,15 @@
 
 [Pub. L. 109–59, title III, § 3049(a)][/us/pl/109/59/s3049/a], Aug. 10, 2005, [119 Stat. 1711][/us/stat/119/1711], as amended by [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Effective as of the first day of the next fiscal year beginning after the date of the enactment of this Act \[Aug. 10, 2005\], each covered agency shall implement a program under which all qualified Federal employees serving in or under such agency shall be offered transit pass transportation fringe benefits, as described in paragraph (2).
 
->     “(2) __Benefits described.—__ 
+>     “(2)  __Benefits described__  __.—__ 
 
 >     The benefits described in this paragraph are the transit pass transportation fringe benefits which, under section 2 of Executive Order No. 13150 \[set out below\], are required to be offered by Federal agencies in the National Capital Region on the date of the enactment of this Act.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     In this subsection—
 
@@ -139,7 +139,7 @@
 
 >         “(F) any determination as to whether or not one is a ‘qualified Federal employee’ shall be made applying the same criteria as would apply under section 2 of Executive Order No. 13150.
 
->     “(4) __Rule of construction.—__ 
+>     “(4)  __Rule of construction__  __.—__ 
 
 >     Nothing in this subsection shall be considered to require that a covered agency—
 

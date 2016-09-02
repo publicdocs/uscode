@@ -15,7 +15,7 @@
 
 ## § 5724d. Transportation and moving expenses for immediate family of certain deceased Federal employees
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Under regulations prescribed by the President, the head of the agency concerned (or a designee) may determine that a covered employee died as a result of personal injury sustained while in the performance of the employee’s duty and authorize or approve the payment by the agency, from Government funds, of—
 
@@ -35,11 +35,11 @@
 
             (B) such other place appropriate for interment as is determined by the agency head (or designee).
 
-    (b) __No Duplicate Payment of Expenses.—__ 
+    (b)  __No Duplicate Payment of Expenses__  __.—__ 
 
     No expenses may be paid under this section if those expenses are paid from Government funds under section 5742 or any other authority.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     For purposes of this section—
 

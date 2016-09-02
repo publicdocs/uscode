@@ -269,7 +269,7 @@ June 11, 1946, ch. 324, § 2 (less (a)), 60 Stat. 237.  </td>
 
 [Pub. L. 106–544, § 7][/us/pl/106/544/s7], Dec. 19, 2000, [114 Stat. 2719][/us/stat/114/2719], provided that:
 
->     “(a) __Study on Use of Administrative Subpoenas.—__ 
+>     “(a)  __Study on Use of Administrative Subpoenas__  __.—__ 
 
 >     Not later than December 31, 2001, the Attorney General, in consultation with the Secretary of the Treasury, shall complete a study on the use of administrative subpoena power by executive branch agencies or entities and shall report the findings to the Committees on the Judiciary of the Senate and the House of Representatives. Such report shall include—
 
@@ -285,11 +285,11 @@ June 11, 1946, ch. 324, § 2 (less (a)), 60 Stat. 237.  </td>
 
 >     “(b) __Report on Frequency of Use of Administrative Subpoenas.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General and the Secretary of the Treasury shall report in January of each year to the Committees on the Judiciary of the Senate and the House of Representatives on the number of administrative subpoenas issued by them under this section and the identity of the agency or component of the Department of Justice or the Department of the Treasury issuing the subpoena and imposing the charges.
 
->         “(2) __Expiration.—__ 
+>         “(2)  __Expiration__  __.—__ 
 
 >         The reporting requirement of this subsection shall terminate in 3 years after the date of the enactment of this section \[Dec. 19, 2000\].”
 

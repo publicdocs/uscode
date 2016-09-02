@@ -75,11 +75,11 @@
 
 [Pub. L. 106–65, div. A, title VI, § 663][/us/pl/106/65/s663], Oct. 5, 1999, [113 Stat. 673][/us/stat/113/673], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 661(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–167, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this subtitle \[subtitle F (§§ 661–663) of title VI of div. A of [Pub. L. 106–65][/us/pl/106/65], enacting this section and [section 211 of Title 37][/us/usc/t37/s211], Pay and Allowances of the Uniformed Services, and amending sections 8351, 8432b, 8433, 8439, and 8473 of this title and [section 211 of Title 37][/us/usc/t37/s211]\] shall take effect 180 days after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\].
 
->     “(b) __Postponement Authority.—__ 
+>     “(b)  __Postponement Authority__  __.—__ 
 
 >         (1)
 

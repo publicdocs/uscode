@@ -919,11 +919,11 @@ July 18, 1966, Pub. L. 89–504, § 505, 80 Stat. 301.  </td>
 
 [Section 11004(c) of Pub. L. 103–66][/us/pl/103/66/s11004/c] provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 8334 and 8418 of this title\] shall take effect on the first day of the first month beginning at least 30 days after the date of the enactment of this Act \[Aug. 10, 1993\] and shall apply to all deposits required under section 8339(j)(3) or (5), 8339(k)(2), or 8418 of title 5, United States Code, on which no payment has been made prior to such effective date.
 
->     “(2) __Partial deposit.—__ 
+>     “(2)  __Partial deposit__  __.—__ 
 
 >     For any deposit required under section 8339(j)(3) or (5), 8339(k)(2), or 8418 of title 5, United States Code, or section 4(b) or (c) of the Civil Service Retirement Spouse Equity Act of 1984 \[[Pub. L. 98–615][/us/pl/98/615]\] ([5 U.S.C. 8341][/us/usc/t5/s8341] note) that has been partially, but not fully, paid before the effective date of this Act \[probably should be “the effective date of the amendments made by this section”\], the Office shall by regulation provide for determining the remaining portion of the deposit and for payment of the remaining portion of the deposit by a prospective reduction in the annuity of the employee or Member. The reduction shall be similar to the reductions provided pursuant to the amendments made under this section.”
 

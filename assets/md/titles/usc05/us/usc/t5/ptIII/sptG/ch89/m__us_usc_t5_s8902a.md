@@ -243,11 +243,11 @@
 
 [Pub. L. 105–266, § 2(b)][/us/pl/105/266/s2/b], Oct. 19, 1998, [112 Stat. 2366][/us/stat/112/2366], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 19, 1998\].
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >         (A) Paragraphs (2), (3), and (5) of [section 8902a(c) of title 5][/us/usc/t5/s8902a/c], United States Code, as amended by subsection (a)(3), shall apply only to the extent that the misconduct which is the basis for debarment under paragraph (2), (3), or (5), as applicable, occurs after the date of the enactment of this Act.
 
@@ -259,11 +259,11 @@
 
 [Pub. L. 100–654, title I, § 102][/us/pl/100/654/s102], Nov. 14, 1988, [102 Stat. 3841][/us/stat/102/3841], provided that:
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     The amendments made by this title \[enacting this section\] shall be effective with respect to any calendar year beginning, and contracts entered into or renewed for any calendar year beginning, after the date of the enactment of this Act \[Nov. 14, 1988\].
 
->     “(b) __Prior Conduct Not To Be Considered.—__ 
+>     “(b)  __Prior Conduct Not To Be Considered__  __.—__ 
 
 >     In carrying out [section 8902a of title 5][/us/usc/t5/s8902a], United States Code, as added by this title, no debarment, civil monetary penalty, or assessment may be imposed under such section based on any criminal or other conduct occurring before the beginning of the first calendar year which begins after the date of the enactment of this Act \[Nov. 14, 1988\].”
 

@@ -15,7 +15,7 @@
 
 ## § 10105. Retention bonuses
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Administrator may pay, on a case-by-case basis, a bonus under this section to an employee of the Agency if—
 
@@ -29,7 +29,7 @@
 
             (B) for a different position in the Federal service.
 
-    (b) __Service Agreement.—__ 
+    (b)  __Service Agreement__  __.—__ 
 
     Payment of a bonus under this section is contingent upon the employee entering into a written service agreement with the Agency to complete a period of service with the Agency. Such agreement shall include—
 
@@ -39,15 +39,15 @@
 
     (c) __Bonus Amount.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The amount of a bonus under this section shall be determined by the Administrator, but may not exceed 25 percent of the annual rate of basic pay of the position involved.
 
-        (2) __Form of payment.—__ 
+        (2)  __Form of payment__  __.—__ 
 
         A bonus under this section shall be paid in the form of a lump-sum payment and shall not be considered to be part of basic pay.
 
-    (d) __Limitation.—__ 
+    (d)  __Limitation__  __.—__ 
 
     A bonus under this section—
 
@@ -65,17 +65,17 @@
 
         (3) upon completion of the strategic human capital plan, shall be paid in accordance with that plan.
 
-    (e) __Termination of Authority.—__ 
+    (e)  __Termination of Authority__  __.—__ 
 
     The authority to grant bonuses under this section shall expire 5 years after the date of enactment of this chapter.
 
     (f) __Reports.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Office of Personnel Management shall submit to the appropriate committees of Congress, annually for each of the first 5 years during which this section is in effect, a report on the operation of this section.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         Each report submitted under this subsection shall include, with respect to the period covered by such report, a description of how the authority to pay bonuses under this section was used by the Agency, including, with respect to each such agency—
 

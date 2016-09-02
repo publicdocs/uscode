@@ -15,7 +15,7 @@
 
 ## § 5760. Travel and transportation allowances: transportation of family members incident to the repatriation of employees held captive
 
-    (a) __Allowance for Family Members and Certain Others.—__ 
+    (a)  __Allowance for Family Members and Certain Others__  __.—__ 
 
         (1) Under uniform regulations prescribed by the heads of agencies, travel and transportation described in subsection (d) may be provided for not more than 3 family members of an employee described in subsection (b).
 
@@ -29,7 +29,7 @@
 
         (3) If no family member of an employee described in subsection (b) is able to travel to the repatriation site of the employee, travel and transportation described in subsection (d) may be provided to not more than 2 persons related to and selected by the employee.
 
-    (b) __Covered Employees.—__ 
+    (b)  __Covered Employees__  __.—__ 
 
     An employee described in this subsection is an employee (as defined in [section 2105 of this title][/us/usc/t5/s2105]) who—
 
@@ -37,11 +37,11 @@
 
         (2) is repatriated to a site inside or outside the United States.
 
-    (c) __Eligible Family Members.—__ 
+    (c)  __Eligible Family Members__  __.—__ 
 
     In this section, the term “family member” has the meaning given the term in [section 481h(b) of title 37][/us/usc/t37/s481h/b].
 
-    (d) __Travel and Transportation Authorized.—__ 
+    (d)  __Travel and Transportation Authorized__  __.—__ 
 
         (1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the employee is located.
 

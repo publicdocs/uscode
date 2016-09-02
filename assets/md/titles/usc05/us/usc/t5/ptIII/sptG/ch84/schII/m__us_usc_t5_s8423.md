@@ -37,7 +37,19 @@
 
                 (ii) the aggregate amount of basic pay payable by the agency, for the period involved, to employees and Members (under clause (i)) who are within such agency.
 
-        (2) In determining any normal-cost percentage to be applied under this subsection, amounts provided for under section 8422 shall be taken into account.
+        (2)
+
+            (A) In determining any normal-cost percentage to be applied under this subsection, amounts provided for under section 8422 shall be taken into account.
+
+            (B)
+
+                (i) Subject to clauses (ii) and (iii), for purposes of any period in any year beginning after December 31, 2013, the normal-cost percentage under this subsection shall be determined and applied as if section 401(b) of the Bipartisan Budget Act of 2013 had not been enacted.
+
+                (ii) Any contributions under this subsection in excess of the amounts which (but for clause (i)) would otherwise have been payable shall be applied toward reducing the unfunded liability of the Civil Service Retirement System.
+
+                (iii) After the unfunded liability of the Civil Service Retirement System has been eliminated, as determined by the Office, Government contributions under this subsection shall be determined and made disregarding this subparagraph.
+
+                (iv) The preceding provisions of this subparagraph shall be disregarded for purposes of determining the contributions payable by the United States Postal Service and the Postal Regulatory Commission.
 
         (3)
 
@@ -89,13 +101,17 @@
 
     (c) Under regulations prescribed by the Office, the head of an agency may request reconsideration of any amount determined to be payable with respect to such agency under subsection (a) or (b). Any such request shall be referred to the Board of Actuaries of the Civil Service Retirement System. The Board of Actuaries shall review the computations of the Office and may make any adjustment with respect to any such amount which the Board determines appropriate. A determination by the Board of Actuaries under this subsection shall be final.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 537][/us/stat/100/537]; amended [Pub. L. 102–378, § 2(66)][/us/pl/102/378/s2/66], Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 102–496, title VIII, § 803(c)][/us/pl/102/496/s803/c], Oct. 24, 1992, [106 Stat. 3253][/us/stat/106/3253]; [Pub. L. 104–186, title II, § 215(15)][/us/pl/104/186/s215/15], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 105–261, div. C, title XXXI, § 3154(j)][/us/pl/105/261/s3154/j], Oct. 17, 1998, [112 Stat. 2256][/us/stat/112/2256]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(4)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 109–435, title VI, § 604(b)][/us/pl/109/435/s604/b], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241]; [Pub. L. 110–161, div. E, title V, § 535(b)(5)][/us/pl/110/161/s535/b/5], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076].)
+(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 537][/us/stat/100/537]; amended [Pub. L. 102–378, § 2(66)][/us/pl/102/378/s2/66], Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 102–496, title VIII, § 803(c)][/us/pl/102/496/s803/c], Oct. 24, 1992, [106 Stat. 3253][/us/stat/106/3253]; [Pub. L. 104–186, title II, § 215(15)][/us/pl/104/186/s215/15], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 105–261, div. C, title XXXI, § 3154(j)][/us/pl/105/261/s3154/j], Oct. 17, 1998, [112 Stat. 2256][/us/stat/112/2256]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(4)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 109–435, title VI, § 604(b)][/us/pl/109/435/s604/b], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241]; [Pub. L. 110–161, div. E, title V, § 535(b)(5)][/us/pl/110/161/s535/b/5], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 113–67, div. A, title IV, § 401(c)][/us/pl/113/67/s401/c], Dec. 26, 2013, [127 Stat. 1184][/us/stat/127/1184].)
 
  __References in Text__ 
 
     Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred to in subsec. (a)(1)(B)(i), are classified to sections 2152 and 2153, respectively, of Title 50, War and National Defense.
 
+    Section 401(b) of the Bipartisan Budget Act of 2013, referred to in subsec. (a)(2)(B)(i), is [section 401(b) of div. A of Pub. L. 113–67][/us/pl/113/67/s401/b], which amended [section 8422 of this title][/us/usc/t5/s8422].
+
  __Amendments__ 
+
+    2013—Subsec. (a)(2). [Pub. L. 113–67][/us/pl/113/67] designated existing provisions as subpar. (A) and added subpar. (B).
 
     2007—Subsec. (a)(1)(B)(i), (3)(A). [Pub. L. 110–161][/us/pl/110/161] inserted “customs and border protection officers,” after “nuclear materials couriers,” wherever appearing.
 
@@ -154,6 +170,11 @@
 [/us/stat/120/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3241
 [/us/pl/110/161/s535/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs535%2Fb%2F5
 [/us/stat/121/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2076
+[/us/pl/113/67/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fc
+[/us/stat/127/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1184
+[/us/pl/113/67/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fb
+[/us/usc/t5/s8422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8422
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553

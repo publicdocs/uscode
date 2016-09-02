@@ -41,11 +41,11 @@
 
 >     “(1) __Implementation plan.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Securities and Exchange Commission shall develop a plan to implement [section 4802 of title 5][/us/usc/t5/s4802], United States Code, as added by this section.
 
->         “(B) __Inclusion in annual performance plan and report.—__ 
+>         “(B)  __Inclusion in annual performance plan and report__  __.—__ 
 
 >         The Securities and Exchange Commission shall include—
 
@@ -55,11 +55,11 @@
 
 >     “(2) __Implementation report.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Before implementing the plan developed under paragraph (1), the Securities and Exchange Commission shall submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] and the Committee on Financial Services of the House of Representatives, and the Office of Personnel Management on the details of the plan.
 
->         “(B) __Content.—__ 
+>         “(B)  __Content__  __.—__ 
 
 >         The report under this paragraph shall include—
 

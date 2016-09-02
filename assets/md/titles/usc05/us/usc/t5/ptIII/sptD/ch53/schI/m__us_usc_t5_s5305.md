@@ -113,7 +113,7 @@
 
 [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 209\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1460, as amended by [Pub. L. 102–378, § 3(3)][/us/pl/102/378/s3/3], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective on the first day of the first applicable pay period beginning on or after January 1, 1991, the President may establish staffing differentials equal to 5 percent of basic pay, which may be paid to each General Schedule employee whose position is in—
 
@@ -123,7 +123,7 @@
 
 >         “(3) any combination of classes of positions described in paragraph (1) or (2) for which the President determines a recruiting difficulty exists.
 
->     “(b) __Manner of Payment; Reduction or Elimination.—__ 
+>     “(b)  __Manner of Payment; Reduction or Elimination__  __.—__ 
 
 >     A staffing differential under this section—
 

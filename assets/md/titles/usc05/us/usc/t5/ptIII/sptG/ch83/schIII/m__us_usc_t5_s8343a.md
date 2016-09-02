@@ -107,11 +107,11 @@
 
 [Pub. L. 101–239, title IV, § 4005][/us/pl/101/239/s4005], Dec. 19, 1989, [103 Stat. 2135][/us/stat/103/2135], as amended by [Pub. L. 101–508, title VII, § 7001(a)(2)(A)][/us/pl/101/508/s7001/a/2/A]–(C)(i), Nov. 5, 1990, [104 Stat. 1388–328][/us/stat/104/1388-328], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, and except as provided in subsection (c), any lump-sum credit payable to an employee or Member pursuant to the election of an alternative form of annuity by such employee or Member under section 8343a or [section 8420a of title 5][/us/usc/t5/s8420a], United States Code, shall be paid in accordance with the schedule under subsection (b) (instead of the schedule which would otherwise apply), if the commencement date of the annuity payable to such employee or Member occurs after December 2, 1989, and before December 2, 1990.
 
->     “(b) __Schedule of Payments.—__ 
+>     “(b)  __Schedule of Payments__  __.—__ 
 
 >     The schedule of payment of any lump-sum credit subject to this section is as follows:
 
@@ -121,7 +121,7 @@
 
 >         An amount payable in accordance with paragraph (2) shall be payable with interest, computed using the rate under [section 8334(e)(3) of title 5][/us/usc/t5/s8334/e/3], United States Code.
 
->     “(c) __Exceptions.—__ 
+>     “(c)  __Exceptions__  __.—__ 
 
 >     The Office of Personnel Management shall prescribe regulations to provide that, unless the individual involved indicates otherwise by written notice to the Office (submitted at such time and in such manner as the regulations may require), this section shall not apply—
 
@@ -129,15 +129,15 @@
 
 >         “(2) in the case of any individual as to whom the application of this section would be against equity and good conscience, due to a life-threatening affliction or other critical medical condition affecting such individual.
 
->     “(d) __Annuity Benefits Not Affected.—__ 
+>     “(d)  __Annuity Benefits Not Affected__  __.—__ 
 
 >     Nothing in this section shall affect the commencement date, the amount, or any other aspect of any annuity benefits payable under section 8343a or [section 8420a of title 5][/us/usc/t5/s8420a], United States Code.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the terms ‘lump-sum credit’, ‘employee’, and ‘Member’ each has the meaning given such term by section 8331 or [section 8401 of title 5][/us/usc/t5/s8401], United States Code, as appropriate.
 
->     “(f) __Continued Applicability.—__ 
+>     “(f)  __Continued Applicability__  __.—__ 
 
 >     The preceding provisions of this section (disregarding the provision in subsection (a) limiting this section’s applicability to annuities commencing before the date specified in such provision) shall also apply in the case of any employee or Member whose election of an alternative form of annuity would not have been allowable under section 8343a(f) or 8420a(f) of title 5, United States Code (as the case may be), but for—
 

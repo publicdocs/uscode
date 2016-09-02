@@ -245,11 +245,11 @@
 
 [Pub. L. 105–266, § 7(b)][/us/pl/105/266/s7/b], Oct. 19, 1998, [112 Stat. 2369][/us/stat/112/2369], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Any service agreement under [section 5948 of title 5][/us/usc/t5/s5948], United States Code, which is in effect on the date of the enactment of this Act \[Oct. 19, 1998\] may, with respect to any period of service remaining in such agreement, be modified based on the amendment made by subsection (a) \[amending this section\].
 
->     “(2) __Limitation.—__ 
+>     “(2)  __Limitation__  __.—__ 
 
 >     A modification taking effect under this subsection in any year shall not cause an allowance to be increased to a rate which, if applied throughout such year, would cause the limitation under section 5948(a)(2) of such title (as amended by this section), or any other applicable limitation, to be exceeded.”
 

@@ -15,7 +15,7 @@
 
 ## § 564. Publication of notice; applications for membership on committees
 
-    (a) __Publication of Notice.—__ 
+    (a)  __Publication of Notice__  __.—__ 
 
     If, after considering the report of a convener or conducting its own assessment, an agency decides to establish a negotiated rulemaking committee, the agency shall publish in the Federal Register and, as appropriate, in trade or other specialized publications, a notice which shall include—
 
@@ -35,7 +35,7 @@
 
         (8) an explanation of how a person may apply or nominate another person for membership on the committee, as provided under subsection (b).
 
-    (b) __Applications for Membership or__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “on”.__  __ </sup></sup> __  __Committee.—__ 
+    (b)  __Applications for Membership or __  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “on”.__  __ </sup></sup> __  __ Committee__  __.—__ 
 
     Persons who will be significantly affected by a proposed rule and who believe that their interests will not be adequately represented by any person specified in a notice under subsection (a)(4) may apply for, or nominate another person for, membership on the negotiated rulemaking committee to represent such interests with respect to the proposed rule. Each application or nomination shall include—
 
@@ -47,7 +47,7 @@
 
         (4) the reasons that the persons specified in the notice under subsection (a)(4) do not adequately represent the interests of the person submitting the application or nomination.
 
-    (c) __Period for Submission of Comments and Applications.—__ 
+    (c)  __Period for Submission of Comments and Applications__  __.—__ 
 
     The agency shall provide for a period of at least 30 calendar days for the submission of comments and applications under this section.
 

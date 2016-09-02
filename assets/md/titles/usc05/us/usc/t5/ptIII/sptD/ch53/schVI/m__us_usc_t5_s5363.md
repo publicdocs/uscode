@@ -119,17 +119,17 @@
 
 [Pub. L. 108–411, title III, § 301(d)][/us/pl/108/411/s301/d], Oct. 30, 2004, [118 Stat. 2317][/us/stat/118/2317], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     This section \[amending this section, sections 4505a, 5302, 5305, 5334, 5361, and 5365 of this title, and provisions set out as a note under [section 5305 of this title][/us/usc/t5/s5305]\] shall take effect on the first day of the first applicable pay period beginning on or after the 180th day after the date of the enactment of this Act \[Oct. 30, 2004\].
 
 >     “(2) __Conversion rules.—__ 
 
->         “(A) __Individuals receiving a retained rate or a rate greater than the maximum rate for the grade.—__ 
+>         “(A)  __Individuals receiving a retained rate or a rate greater than the maximum rate for the grade__  __.—__ 
 
 >         Subject to any regulations the Office of Personnel Management may prescribe, an employee under a covered pay schedule who, on the day before the effective date of this section, is receiving a retained rate under [section 5363 of title 5][/us/usc/t5/s5363], United States Code, or is receiving under similar authority a rate of basic pay that is greater than the maximum rate of basic pay payable for the grade of the employee’s position shall have that rate converted as of the effective date of this section, and the employee shall be considered to be receiving a retained rate under section 5363 of such title (as amended by this section). The newly applicable retained rate shall equal the formerly applicable retained rate as adjusted to include any applicable locality-based payment under [section 5304 of title 5][/us/usc/t5/s5304], United States Code, or similar provision of law.
 
->         “(B) __Definition.—__ 
+>         “(B)  __Definition__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘covered pay schedule’ has the meaning given such term by [section 5361 of title 5][/us/usc/t5/s5361], United States Code.”
 

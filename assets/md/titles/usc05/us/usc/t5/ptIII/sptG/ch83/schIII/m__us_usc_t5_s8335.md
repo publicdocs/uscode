@@ -225,11 +225,11 @@ Section 529 \[title IV, § 409(c)\] of [Pub. L. 101–509][/us/pl/101/509] pro
 
 [Pub. L. 99–556, title V, § 504][/us/pl/99/556/s504], Oct. 27, 1986, [100 Stat. 3141][/us/stat/100/3141], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     [Section 8335(a) of title 5][/us/usc/t5/s8335/a], United States Code, shall not apply to any air traffic controller appointed before January 1, 1987.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘air traffic controller’ means any individual who—
 

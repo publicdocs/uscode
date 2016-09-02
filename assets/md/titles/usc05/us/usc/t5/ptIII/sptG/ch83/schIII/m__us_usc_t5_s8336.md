@@ -613,7 +613,7 @@ July 18, 1966, Pub. L. 89–504, § 504, 80 Stat. 301.  </td>
 
 [Pub. L. 106–303, § 1][/us/pl/106/303/s1], Oct. 13, 2000, [114 Stat. 1063][/us/stat/114/1063], as amended by [Pub. L. 108–271][/us/pl/108/271], §§ 2(a), (b)(1), 8(b), July 7, 2004, [118 Stat. 811][/us/stat/118/811], 814, provided that:
 
->     “(a) __Civil Service Retirement System.—__ 
+>     “(a)  __Civil Service Retirement System__  __.—__ 
 
 >     Effective October 13, 2000, paragraph (2) of [section 8336(d) of title 5][/us/usc/t5/s8336/d], United States Code, shall, with respect to officers and employees of the Government Accountability Office, be applied as if it had been amended to read as follows:    “ ‘(2)(A) has been employed continuously by the Government Accountability Office for at least the 31-day period immediately preceding the start of the period referred to in subparagraph (D);
 
@@ -629,7 +629,7 @@ July 18, 1966, Pub. L. 89–504, § 504, 80 Stat. 301.  </td>
 
 >         “ ‘(iii) reducing high-grade, managerial, or supervisory positions;’.
 
->     “(b) __Federal Employees’ Retirement System.—__ 
+>     “(b)  __Federal Employees’ Retirement System__  __.—__ 
 
 >     Effective October 13, 2000, subparagraph (B) of [section 8414(b)(1) of title 5][/us/usc/t5/s8414/b/1], United States Code, shall, with respect to officers and employees of the Government Accountability Office, be applied as if it had been amended to read as follows:    “ ‘(B)(i) has been employed continuously by the Government Accountability Office for at least the 31-day period immediately preceding the start of the period referred to in clause (iv);
 
@@ -645,11 +645,11 @@ July 18, 1966, Pub. L. 89–504, § 504, 80 Stat. 301.  </td>
 
 >         “ ‘(III) reducing high-grade, managerial, or supervisory positions;’.
 
->     “(c) __Numerical Limitation.—__ 
+>     “(c)  __Numerical Limitation__  __.—__ 
 
 >     Not to exceed 10 percent of the Government Accountability Office’s workforce (as of the start of a fiscal year) shall be permitted to take voluntary early retirement in such fiscal year pursuant to this section.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Comptroller General shall prescribe any regulations necessary to carry out this section, including regulations under which an early retirement offer may be made to any employee or group of employees based on—
 
@@ -659,7 +659,7 @@ July 18, 1966, Pub. L. 89–504, § 504, 80 Stat. 301.  </td>
 
 >         “(3) such other similar factors (or combination of factors described in this or any other paragraph of this subsection) as the Comptroller General considers necessary and appropriate in order to achieve the purpose involved.
 
->     “(e) __Sense of Congress.—__ 
+>     “(e)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the implementation of this section is intended to reshape the Government Accountability Office workforce and not downsize the Government Accountability Office workforce.”
 

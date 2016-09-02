@@ -47,11 +47,11 @@
 
             (F) Other medical supplies and services.
 
-        (3) __Employee Organization Plans.—__ 
+        (3)  __Employee Organization Plans__  __.—__ 
 
         Benefits of the types named under paragraph (1) or (2) of this subsection or both.
 
-        (4) __Comprehensive Medical Plans.—__ 
+        (4)  __Comprehensive Medical Plans__  __.—__ 
 
         Benefits of the types named under paragraph (1) or (2) of this subsection or both.
 
@@ -171,7 +171,7 @@ Sept. 28, 1959, Pub. L. 86–382, § 5, 73 Stat. 712.  </td>
 
 [Pub. L. 99–251, title I, § 107][/us/pl/99/251/s107], Feb. 27, 1986, [100 Stat. 16][/us/stat/100/16], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -183,7 +183,7 @@ Sept. 28, 1959, Pub. L. 86–382, § 5, 73 Stat. 712.  </td>
 
 >         “(4) mental illness is a problem of grave concern to the people of the United States and is widely but unnecessarily feared and misunderstood.
 
->     “(b) __Sense of the Congress.—__ 
+>     “(b)  __Sense of the Congress__  __.—__ 
 
 >     It is the sense of the Congress—
 

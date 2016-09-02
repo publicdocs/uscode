@@ -41,15 +41,15 @@
 
 [Pub. L. 108–469, § 2][/us/pl/108/469/s2], Dec. 21, 2004, [118 Stat. 3892][/us/stat/118/3892], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Federal Retirement Thrift Investment Board (in this section referred to as the ‘Board’) shall periodically evaluate whether the tools available to participants provide the information needed to understand, evaluate, and compare financial products, services, and opportunities offered through the Thrift Savings Plan. The Board shall use these evaluations to improve its existing education program for Thrift Savings Plan participants.
 
->     “(b) __Report on Financial Literacy Efforts.—__ 
+>     “(b)  __Report on Financial Literacy Efforts__  __.—__ 
 
 >     The Board shall annually report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives on its Thrift Savings Plan education efforts on behalf of plan participants.
 
->     “(c) __Strategy.—__ 
+>     “(c)  __Strategy__  __.—__ 
 
 >     As part of the retirement training offered by Office of Personnel Management under [section 8350 of title 5][/us/usc/t5/s8350], United States Code, the Office, in consultation with the Board, shall—
 

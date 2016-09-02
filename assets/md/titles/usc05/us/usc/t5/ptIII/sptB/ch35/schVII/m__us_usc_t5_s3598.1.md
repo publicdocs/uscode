@@ -15,27 +15,27 @@
 
 ## § 3598. <sup>\[1\]</sup>  <sup><sup> 1 Another section 3598 is set out after this section. </sup></sup>  Federal Bureau of Investigation Reserve Service
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Director of the Federal Bureau of Investigation may provide for the establishment and training of a Federal Bureau of Investigation Reserve Service (hereinafter in this section referred to as the “FBI Reserve Service”) for temporary reemployment of employees in the Bureau during periods of emergency, as determined by the Director.
 
-    (b) __Membership.—__ 
+    (b)  __Membership__  __.—__ 
 
     Membership in the FBI Reserve Service shall be limited to individuals who previously served as full-time employees of the Bureau.
 
-    (c) __Annuitants.—__ 
+    (c)  __Annuitants__  __.—__ 
 
     If an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes temporarily reemployed pursuant to this section, such annuity shall not be discontinued thereby. An annuitant so reemployed shall not be considered an employee for the purposes of chapter 83 or 84.
 
-    (d) __No Impact on Bureau Personnel Ceiling.—__ 
+    (d)  __No Impact on Bureau Personnel Ceiling__  __.—__ 
 
     FBI Reserve Service members reemployed on a temporary basis pursuant to this section shall not count against any personnel ceiling applicable to the Bureau.
 
-    (e) __Expenses.—__ 
+    (e)  __Expenses__  __.—__ 
 
     The Director may provide members of the FBI Reserve Service transportation and per diem in lieu of subsistence, in accordance with applicable provisions of this title, for the purpose of participating in any training that relates to service as a member of the FBI Reserve Service.
 
-    (f) __Limitation on Membership.—__ 
+    (f)  __Limitation on Membership__  __.—__ 
 
     Membership of the FBI Reserve Service is not to exceed 500 members at any given time.
 

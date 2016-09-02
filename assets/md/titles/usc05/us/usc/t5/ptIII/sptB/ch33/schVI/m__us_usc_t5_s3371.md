@@ -91,7 +91,7 @@
 
 [Pub. L. 108–196, § 3][/us/pl/108/196/s3], Dec. 19, 2003, [117 Stat. 2896][/us/stat/117/2896], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section—
 
@@ -101,15 +101,15 @@
 
 >         “(3) the term ‘Program’ means the employee exchange program established under subsection (b).
 
->     “(b) __Establishment.—__ 
+>     “(b)  __Establishment__  __.—__ 
 
 >     The President shall establish an employee exchange program between Federal agencies that perform law enforcement functions and agencies of State and local governments that perform law enforcement functions.
 
->     “(c) __Conduct of Program.—__ 
+>     “(c)  __Conduct of Program__  __.—__ 
 
 >     The Program shall be conducted in accordance with subchapter VI of chapter 33 of title 5, United States Code.
 
->     “(d) __Qualifications.—__ 
+>     “(d)  __Qualifications__  __.—__ 
 
 >     An employee of an employing agency who performs law enforcement functions may be selected to participate in the Program if the employee—
 
@@ -121,7 +121,7 @@
 
 >         “(4) agrees to return to the employing agency after completing the assignment for a period not less than the length of the assignment.
 
->     “(e) __Written Agreement.—__ 
+>     “(e)  __Written Agreement__  __.—__ 
 
 >     An employee shall enter into a written agreement regarding the terms and conditions of the assignment before beginning the assignment with another agency.”
 

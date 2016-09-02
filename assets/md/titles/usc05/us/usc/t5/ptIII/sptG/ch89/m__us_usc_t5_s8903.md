@@ -39,7 +39,7 @@
 
         Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients’ homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
 
-        (C) __Mixed model prepayment plans.—__ 
+        (C)  __Mixed model prepayment plans__  __.—__ 
 
         Mixed model prepayment plans which are a combination of the type of plans described in subparagraph (A) and the type of plans described in subparagraph (B).
 

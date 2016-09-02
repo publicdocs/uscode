@@ -89,19 +89,19 @@ R.S. § 1753 (last 16 words).  </td>
 
 [Pub. L. 105–261, div. A, title XI, § 1108][/us/pl/105/261/s1108], Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142], provided that:
 
->     “(a) __Continuation of Existing Program.—__ 
+>     “(a)  __Continuation of Existing Program__  __.—__ 
 
 >     The Secretary of Defense shall continue to actively carry out the drug testing program, originally required by section 3(a) of Executive Order No. 12564 (51 Fed. Reg. 32889; September 15, 1986) \[set out below\], involving civilian employees of the Department of Defense who are considered to be employees in sensitive positions. The Secretary shall comply with the drug testing procedures prescribed pursuant to section 4 of the Executive order.
 
->     “(b) __Testing Upon Reasonable Suspicion of Illegal Drug Use.—__ 
+>     “(b)  __Testing Upon Reasonable Suspicion of Illegal Drug Use__  __.—__ 
 
 >     The Secretary of Defense shall ensure that the drug testing program referred to in subsection (a) authorizes the testing of a civilian employee of the Department of Defense for illegal drug use when there is a reasonable suspicion that the employee uses illegal drugs.
 
->     “(c) __Notification to Applicants.—__ 
+>     “(c)  __Notification to Applicants__  __.—__ 
 
 >     The Secretary of Defense shall notify persons who apply for employment with the Department of Defense that, as a condition of employment by the Department, the person may be required to submit to drug testing under the drug testing program required by Executive Order No. 12564 (51 Fed. Reg. 32889; September 15, 1986) pursuant to the terms of the Executive order.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section, the terms ‘illegal drugs’ and ‘employee in a sensitive position’ have the meanings given such terms in section 7 of Executive Order No. 12564 (51 Fed. Reg. 32889; September 15, 1986).”
 
@@ -267,15 +267,15 @@ Similar provisions were contained in the following prior appropriations acts:
 
 [Pub. L. 99–145, title XIV, § 1461][/us/pl/99/145/s1461], Nov. 8, 1985, [99 Stat. 765][/us/stat/99/765], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     A Federal officer, employee, or Member of Congress may not accept, directly or indirectly, any tangible thing of value as a gift or memento in connection with a ceremony to mark the completion of a naval shipbuilding milestone.
 
->     “(b) __Exclusion.—__ 
+>     “(b)  __Exclusion__  __.—__ 
 
 >     Subsection (a) does not apply to a gift or memento that has a value of less than $100.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the terms ‘officer’, ‘employee’, and ‘Member of Congress’ have the meanings given those terms in sections 2104, 2105, and 2106, respectively, of title 5, United States Code.”
 

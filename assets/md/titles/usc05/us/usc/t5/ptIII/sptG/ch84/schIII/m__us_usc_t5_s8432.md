@@ -397,7 +397,7 @@
 
 [Pub. L. 100–238, title I, § 125][/us/pl/100/238/s125], Jan. 8, 1988. [101 Stat. 1756][/us/stat/101/1756], as amended by [Pub. L. 107–347, title II, § 209(g)(3)][/us/pl/107/347/s209/g/3], Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932]; [Pub. L. 110–234, title VII, § 7101(b)(6)][/us/pl/110/234/s7101/b/6], May 22, 2008, [122 Stat. 1214][/us/stat/122/1214]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7101(b)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1975, provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -407,11 +407,11 @@
 
 >     “(b) __Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Executive Director shall prescribe regulations relating to participation in the Thrift Savings Plan by an individual described in subsection (c).
 
->         “(2) __Specific matters to be included.—__ 
+>         “(2)  __Specific matters to be included__  __.—__ 
 
 >         Under the regulations—
 
@@ -419,7 +419,7 @@
 
 >             “(B) an employing authority which would not otherwise make contributions to the Thrift Savings Fund shall be allowed, with respect to any individual under subsection (c) who is serving under such authority, and at the sole discretion of such authority, to make any contributions on behalf of such individual which would be permitted or required under the provisions of [section 8432(c) of title 5][/us/usc/t5/s8432/c], United States Code, if such authority were the individual’s employing agency under such provisions.
 
->     “(c) __Applicability.—__ 
+>     “(c)  __Applicability__  __.—__ 
 
 >     This section applies with respect to—
 
@@ -439,11 +439,11 @@
 
 >     “(d) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the regulations prescribed under this section shall become effective in accordance with the provisions of such regulations.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         The regulations prescribed under this section shall, with respect to individuals under subsection (c)(1)(C), be effective as of January 1, 1987.”
 

@@ -15,13 +15,13 @@
 
 ## § 3111a. Federal internship programs
 
-    (a) __Internship Coordinator.—__ 
+    (a)  __Internship Coordinator__  __.—__ 
 
     The head of each agency operating an internship program shall appoint an individual within such agency to serve as an internship coordinator.
 
     (b) __Online Information.—__ 
 
-        (1) __Agencies.—__ 
+        (1)  __Agencies__  __.—__ 
 
         The Office of Personnel Management shall make publicly available on the Internet—
 
@@ -29,11 +29,11 @@
 
             (B) information regarding application procedures and deadlines for each internship program.
 
-        (2) __Office of personnel management.—__ 
+        (2)  __Office of personnel management__  __.—__ 
 
         The Office of Personnel Management shall make publicly available on the Internet links to the websites where the information described in paragraph (1) is displayed.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     For purposes of this section—
 

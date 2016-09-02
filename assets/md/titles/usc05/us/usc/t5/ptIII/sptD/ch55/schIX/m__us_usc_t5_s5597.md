@@ -167,11 +167,11 @@
 
 [Pub. L. 106–303, § 2][/us/pl/106/303/s2], Oct. 13, 2000, [114 Stat. 1064][/us/stat/114/1064], as amended by [Pub. L. 108–271][/us/pl/108/271], §§ 2(a), (b)(2), (c), 8(b), July 7, 2004, [118 Stat. 811][/us/stat/118/811], 814, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective October 13, 2000, the authority to provide voluntary separation incentive payments shall be available to the Comptroller General with respect to employees of the Government Accountability Office.
 
->     “(b) __Terms and Conditions.—__ 
+>     “(b)  __Terms and Conditions__  __.—__ 
 
 >     The authority to provide voluntary separation incentive payments under this section shall be available in accordance with the provisions of subsections (a)(2)–(e) of section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997, as contained in [Public Law 104–208][/us/pl/104/208] ([5 U.S.C. 5597][/us/usc/t5/s5597] note), except that—
 
@@ -207,7 +207,7 @@
 
 >         The amount required under this paragraph shall be the amount determined under subparagraph (A) or (B), whichever is greater, for the fiscal year involved.
 
->             “(A) __First method.—__ 
+>             “(A)  __First method__  __.—__ 
 
 >             The amount required under this subparagraph shall be determined as follows:
 
@@ -231,43 +231,43 @@
 
 >                          “(IV) The amount equal to 211 percent of the final basic pay of each employee described in paragraph (2), who is covered by chapter 84 of such title 5, and who resigns.
 
->             “(B) __Second method.—__ 
+>             “(B)  __Second method__  __.—__ 
 
 >             The amount required under this subparagraph shall be equal to 45 percent of the final basic pay of each employee described in paragraph (2).
 
->         “(2) __Computations to be based on separations occurring in the fiscal year involved.—__ 
+>         “(2)  __Computations to be based on separations occurring in the fiscal year involved__  __.—__ 
 
 >         The employees described in this paragraph are those employees who receive a voluntary separation incentive payment under this section based on their separating from service during the fiscal year involved.
 
 >         “(3) __Regulations.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Office of Personnel Management shall prescribe any regulations necessary to carry out this subsection, including provisions under which any additional contribution determined under this subsection shall, at the election of the Government Accountability Office, be payable either in a lump sum or through installment payments made over a period of not to exceed 3 years.
 
->             “(B) __Interest.—__ 
+>             “(B)  __Interest__  __.—__ 
 
 >             The regulations shall include provisions under which, if the installment method is chosen, interest shall be payable at the same rate as provided for under [section 8348(f) of title 5][/us/usc/t5/s8348/f], United States Code.
 
->         “(4) __Rule of construction.—__ 
+>         “(4)  __Rule of construction__  __.—__ 
 
 >         As used in this subsection, the term ‘resign’ shall not be considered to include early retirement or a separation giving rise to an immediate annuity.
 
 >     “(d) __Definitions.—__ 
 
->         “(1) __Final basic pay.—__ 
+>         “(1)  __Final basic pay__  __.—__ 
 
 >         As used in this section, the term ‘final basic pay’ has the same meaning as under section 663(d)(2) of the Treasury, Postal Service, and General Government Appropriations Act, 1997, as contained in [Public Law 104–208][/us/pl/104/208] ([5 U.S.C. 5597][/us/usc/t5/s5597] note).
 
->         “(2) __Employee.—__ 
+>         “(2)  __Employee__  __.—__ 
 
 >         As used in this section and, for purposes of this section, the provisions of law cited in subsection (b), the term ‘employee’ shall be considered to refer to an officer or employee of the Government Accountability Office.
 
->     “(e) __Numerical Limitation.—__ 
+>     “(e)  __Numerical Limitation__  __.—__ 
 
 >     Not to exceed 5 percent of the Government Accountability Office’s workforce (as of the start of a fiscal year) shall be permitted to receive a voluntary separation incentive payment under this section based on their separating from service in such fiscal year.
 
->     “(f) __Regulations.—__ 
+>     “(f)  __Regulations__  __.—__ 
 
 >     The Comptroller General shall prescribe any regulations necessary to carry out this section, excluding subsection (c). Such regulations shall include provisions under which a voluntary separation incentive payment may be offered to any employee or group of employees based on—
 
@@ -277,7 +277,7 @@
 
 >         “(3) such other similar factors (or combination of factors described in this or any other paragraph of this subsection) as the Comptroller General considers necessary and appropriate in order to achieve the purpose involved.
 
->     “(g) __Sense of Congress.—__ 
+>     “(g)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the implementation of this section is intended to reshape the Government Accountability Office workforce and not downsize the Government Accountability Office workforce.”
 
@@ -307,7 +307,7 @@
 
 [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 663\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–383, provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For the purposes of this section—
 
@@ -333,11 +333,11 @@
 
 >     “(b) __Agency Strategic Plan.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The head of each agency, prior to obligating any resources for voluntary separation incentive payments, shall submit to the House and Senate Committees on Appropriations and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives a strategic plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The agency’s plan shall include—
 
@@ -349,11 +349,11 @@
 
 >     “(c) __Authority To Provide Voluntary Separation Incentive Payments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A voluntary separation incentive payment under this section may be paid by an agency to any employee only to the extent necessary to eliminate the positions and functions identified by the strategic plan.
 
->         “(2) __Amount and treatment of payments.—__ 
+>         “(2)  __Amount and treatment of payments__  __.—__ 
 
 >         A voluntary separation incentive payment—
 
@@ -377,29 +377,29 @@
 
 >     “(d) __Additional Agency Contributions to the Retirement Fund.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In addition to any other payments which it is required to make under subchapter III of chapter 83 of title 5, United States Code, an agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund an amount equal to 15 percent of the final basic pay of each employee of the agency who is covered under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, to whom a voluntary separation incentive has been paid under this section.
 
->         “(2) __Definition.—__ 
+>         “(2)  __Definition__  __.—__ 
 
 >         For the purpose of paragraph (I), the term ‘final basic pay’, with respect to an employee, means the total amount of basic pay which would be payable for a year of service by such employee, computed using the employee’s final rate of basic pay, and, if last serving on other than a full-time basis, with appropriate adjustment therefor.
 
->     “(e) __Effect of Subsequent Employment With the Government.—__ 
+>     “(e)  __Effect of Subsequent Employment With the Government__  __.—__ 
 
 >     An individual who has received a voluntary separation incentive payment under this section and accepts any employment for compensation with the Government of the United States, or who works for any agency of the United States Government through a personal services contract, within 5 years after the date of the separation on which the payment is based shall be required to pay, prior to the individual’s first day of employment, the entire amount of the incentive payment to the agency that paid the incentive payment.
 
 >     “(f) __Reduction of Agency Employment Levels.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The total number of funded employee positions in the agency shall be reduced by one position for each vacancy created by the separation of any employee who has received, or is due to receive, a voluntary separation incentive payment under this section. For the purposes of this subsection, positions shall be counted on a full-time-equivalent basis.
 
->         “(2) __Enforcement.—__ 
+>         “(2)  __Enforcement__  __.—__ 
 
 >         The President, through the Office of Management and Budget, shall monitor the agency and take any action necessary to ensure that the requirements of this subsection are met.
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     This section shall take effect October 1, 1996.”
 

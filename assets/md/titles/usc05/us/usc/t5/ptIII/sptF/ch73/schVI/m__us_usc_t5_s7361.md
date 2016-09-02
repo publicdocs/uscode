@@ -33,11 +33,11 @@
 
 [Pub. L. 99–570, title VI, § 6003][/us/pl/99/570/s6003], Oct. 27, 1986, [100 Stat. 3207–159][/us/stat/100/3207-159], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Director of the Office of Personnel Management shall, in consultation with the Secretary of Health and Human Services, establish a Government-wide education program, using seminars and such other methods as the Director considers appropriate, to carry out the purposes prescribed in subsection (b).
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The program established under this section shall be designed to provide information to Federal Government employees with respect to—
 

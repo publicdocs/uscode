@@ -15,7 +15,7 @@
 
 ## § 3161. Employment and compensation of employees
 
-    (a) __Definition of Temporary Organization.—__ 
+    (a)  __Definition of Temporary Organization__  __.—__ 
 
     For the purposes of this subchapter, the term “temporary organization” means a commission, committee, board, or other organization that—
 
@@ -23,7 +23,7 @@
 
         (2) is terminated upon the completion of the study or project or upon the occurrence of a condition related to the completion of the study or project.
 
-    (b) __Employment Authority.—__ 
+    (b)  __Employment Authority__  __.—__ 
 
         (1) Notwithstanding the provisions of chapter 51 of this title, the head of a temporary organization may appoint persons to positions of employment in a temporary organization in such numbers and with such skills as are necessary for the performance of the functions required of a temporary organization.
 
@@ -31,11 +31,11 @@
 
         (3) The positions of employment in a temporary organization are in the excepted service of the civil service.
 
-    (c) __Detail Authority.—__ 
+    (c)  __Detail Authority__  __.—__ 
 
     Upon the request of the head of a temporary organization, the head of any department or agency of the Government may detail, on a nonreimbursable basis, any personnel of the department or agency to that organization to assist in carrying out its duties.
 
-    (d) __Compensation.—__ 
+    (d)  __Compensation__  __.—__ 
 
         (1) The rate of basic pay for an employee appointed under subsection (b) shall be established under regulations prescribed by the Office of Personnel Management without regard to the provisions of chapter 51 and subchapter III of chapter 53 of this title.
 
@@ -47,15 +47,15 @@
 
         (5) In this subsection, the term “basic pay” includes locality pay provided for under [section 5304 of this title][/us/usc/t5/s5304].
 
-    (e) __Travel Expenses.—__ 
+    (e)  __Travel Expenses__  __.—__ 
 
     An employee of a temporary organization, whether employed on a full-time or part-time basis, may be allowed travel and transportation expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of this title, while traveling away from the employee’s regular place of business in the performance of services for the temporary organization.
 
-    (f) __Benefits.—__ 
+    (f)  __Benefits__  __.—__ 
 
     An employee appointed under subsection (b) shall be afforded the same benefits and entitlements as are provided temporary employees under this title.
 
-    (g) __Return Rights.—__ 
+    (g)  __Return Rights__  __.—__ 
 
     An employee serving under a career or career conditional appointment or the equivalent in an agency who transfers to or converts to an appointment in a temporary organization with the consent of the head of the agency is entitled to be returned to the employee’s former position or a position of like seniority, status, and pay without grade or pay retention in the agency if the employee—
 
@@ -69,11 +69,11 @@
 
             (B) the date of the termination of the temporary organization.
 
-    (h) __Temporary and Intermittent Services.—__ 
+    (h)  __Temporary and Intermittent Services__  __.—__ 
 
     The head of a temporary organization may procure for the organization temporary and intermittent services under [section 3109(b) of this title][/us/usc/t5/s3109/b].
 
-    (i) __Acceptance of Volunteer Services.—__ 
+    (i)  __Acceptance of Volunteer Services__  __.—__ 
 
         (1) The head of a temporary organization may accept volunteer services appropriate to the duties of the organization without regard to [section 1342 of title 31][/us/usc/t31/s1342].
 

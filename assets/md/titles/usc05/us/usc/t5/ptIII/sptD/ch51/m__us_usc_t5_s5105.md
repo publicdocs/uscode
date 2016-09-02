@@ -95,15 +95,15 @@ Oct. 28, 1949, ch. 782, § 401, 63 Stat. 957.  </td>
 
 [Pub. L. 111–352, § 12][/us/pl/111/352/s12], Jan. 4, 2011, [124 Stat. 3882][/us/stat/124/3882], provided that:
 
->     “(a) __Performance Management Skills and Competencies.—__ 
+>     “(a)  __Performance Management Skills and Competencies__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Jan. 4, 2011\], the Director of the Office of Personnel Management, in consultation with the Performance Improvement Council, shall identify the key skills and competencies needed by Federal Government personnel for developing goals, evaluating programs, and analyzing and using performance information for the purpose of improving Government efficiency and effectiveness.
 
->     “(b) __Position Classifications.—__ 
+>     “(b)  __Position Classifications__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act, based on the identifications under subsection (a), the Director of the Office of Personnel Management shall incorporate, as appropriate, such key skills and competencies into relevant position classifications.
 
->     “(c) __Incorporation Into Existing Agency Training.—__ 
+>     “(c)  __Incorporation Into Existing Agency Training__  __.—__ 
 
 >     Not later than 2 years after the enactment of this Act, the Director of the Office of Personnel Management shall work with each agency, as defined under [section 306(f) of title 5][/us/usc/t5/s306/f], United States Code, to incorporate the key skills identified under subsection (a) into training for relevant employees at each agency.”
 

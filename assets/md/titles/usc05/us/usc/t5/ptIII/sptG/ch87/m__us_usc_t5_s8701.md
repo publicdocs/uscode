@@ -249,29 +249,29 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 
 [Pub. L. 105–311, § 11][/us/pl/105/311/s11], Oct. 30, 1998, [112 Stat. 2954][/us/stat/112/2954], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this Act \[see Short Title of 1998 Amendment note below\], the amendments made by this Act shall take effect on the date of enactment of this Act \[Oct. 30, 1998\].
 
->     “(b) __Maximum Limitation on Employee Insurance.—__ 
+>     “(b)  __Maximum Limitation on Employee Insurance__  __.—__ 
 
 >     Section 3 \[amending this section and [section 8714b of this title][/us/usc/t5/s8714b]\] shall take effect on the first day of the first applicable pay period beginning on or after the date of enactment of this Act.
 
->     “(c) __Erroneous Coverage.—__ 
+>     “(c)  __Erroneous Coverage__  __.—__ 
 
 >     Section 5 \[amending [section 8706 of this title][/us/usc/t5/s8706]\] shall be effective in any case in which a finding of erroneous insurance coverage is made on or after the date of enactment of this Act.
 
->     “(d) __Direct Payment of Insurance Contributions.—__ 
+>     “(d)  __Direct Payment of Insurance Contributions__  __.—__ 
 
 >     Section 6 \[amending sections 8707 and 8714a to 8714c of this title\] shall take effect on the first day of the first applicable pay period beginning on or after the date of enactment of this Act.
 
 >     “(e) __Additional Optional Life Insurance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Section 7 \[amending [section 8714b of this title][/us/usc/t5/s8714b] and enacting provisions set out as a note under [section 8714b of this title][/us/usc/t5/s8714b]\] shall take effect on the first day of the first pay period that begins on or after the 180th day following the date of enactment of this Act, or on any earlier date that the Office of Personnel Management may prescribe that is at least 60 days after the date of enactment of this Act.
 
->         “(2) __Regulations.—__ 
+>         “(2)  __Regulations__  __.—__ 
 
 >         The Office shall prescribe regulations under which an employee may elect to continue additional optional insurance that remains in force on such effective date without subsequent reduction and with the full cost withheld from annuity or compensation on and after such effective date if that employee—
 
@@ -279,11 +279,11 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 
 >             “(B) continued additional optional insurance pursuant to section 8714b(c)(2) as in effect immediately before such effective date.
 
->     “(f) __Improved Optional Life Insurance on Family Members.—__ 
+>     “(f)  __Improved Optional Life Insurance on Family Members__  __.—__ 
 
 >     The amendments made by section 8 \[amending [section 8714c of this title][/us/usc/t5/s8714c]\] shall take effect on the first day of the first pay period which begins on or after the 180th day following the date of enactment of this Act or on any earlier date that the Office of Personnel Management may prescribe.
 
->     “(g) __Open Season.—__ 
+>     “(g)  __Open Season__  __.—__ 
 
 >     Any election made by an employee under section 9 \[set out as a note below\], and applicable withholdings, shall be effective on the first day of the first applicable pay period that—
 

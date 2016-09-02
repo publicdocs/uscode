@@ -377,7 +377,7 @@
 
 [Pub. L. 112–199, title I, § 110][/us/pl/112/199/s110], Nov. 27, 2012, [126 Stat. 1471][/us/stat/126/1471], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this subsection—
 
@@ -395,7 +395,7 @@
 
 >     “(b) __Protected Disclosure.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any disclosure of information by an employee or applicant for employment that the employee or applicant reasonably believes is evidence of censorship related to research, analysis, or technical information—
 
@@ -427,11 +427,11 @@
 
 >                 “(ii) the disclosure is made to the Special Counsel, or to the Inspector General of an agency or another person designated by the head of the agency to receive such disclosures, consistent with the protection of sources and methods.
 
->         “(2) __Disclosures not excluded.—__ 
+>         “(2)  __Disclosures not excluded__  __.—__ 
 
 >         A disclosure shall not be excluded from paragraph (1) for any reason described under section 2302(f)(1) or (2) of title 5, United States Code.
 
->         “(3) __Rule of construction.—__ 
+>         “(3)  __Rule of construction__  __.—__ 
 
 >         Nothing in this section shall be construed to imply any limitation on the protections of employees and applicants afforded by any other provision of law, including protections with respect to any disclosure of information believed to be evidence of censorship related to research, analysis, or technical information.”
 
@@ -441,21 +441,21 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         Each agreement in Standard Forms 312 and 4414 of the Government and any other nondisclosure policy, form, or agreement of the Government shall contain the following statement: ‘These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to (1) classified information, (2) communications to Congress, (3) the reporting to an Inspector General of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or (4) any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling.’.
 
->         “(2) __Agency websites.—__ 
+>         “(2)  __Agency websites__  __.—__ 
 
 >         Agencies making use of any nondisclosure policy, form, or agreement shall also post the statement required under paragraph (1) on the agency website, accompanied by the specific list of controlling Executive orders and statutory provisions.
 
 >         “(3) __Enforceability.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Any nondisclosure policy, form, or agreement described under paragraph (1) that does not contain the statement required under paragraph (1) may not be implemented or enforced to the extent such policy, form, or agreement is inconsistent with that statement.
 
->             “(B) __Nondisclosure policy, form, or agreement in effect before the effective date.—__ 
+>             “(B)  __Nondisclosure policy, form, or agreement in effect before the effective date__  __.—__ 
 
 >             With respect to a nondisclosure policy, form, or agreement that was in effect before the effective date of this Act \[see Effective Date of 2012 Amendment note above\], but that does not contain the statement required under paragraph (1) for implementation or enforcement—
 
@@ -463,7 +463,7 @@
 
 >                 “(ii) it shall not be a prohibited personnel practice to enforce that policy, form, or agreement after the effective date of this Act with regard to a former employee if the agency complies with paragraph (2).
 
->     “(b) __Persons Other Than Government Employees.—__ 
+>     “(b)  __Persons Other Than Government Employees__  __.—__ 
 
 >     Notwithstanding subsection (a), a nondisclosure policy, form, or agreement that is to be executed by a person connected with the conduct of an intelligence or intelligence-related activity, other than an employee or officer of the United States Government, may contain provisions appropriate to the particular activity for which such document is to be used. Such policy, form, or agreement shall, at a minimum, require that the person will not disclose any classified information received in the course of such activity unless specifically authorized to do so by the United States Government. Such nondisclosure policy, form, or agreement shall also make it clear that such forms do not bar disclosures to Congress or to an authorized official of an executive agency or the Department of Justice that are essential to reporting a substantial violation of law, consistent with the protection of sources and methods.”
 

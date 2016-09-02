@@ -15,13 +15,13 @@
 
 ## § 3114. Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission
 
-    (a) __Applicability.—__ 
+    (a)  __Applicability__  __.—__ 
 
     This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service, and any position at the Commission in the competitive service that requires specialized knowledge of financial and capital market formation or regulation, financial market structures or surveillance, or information technology.
 
     (b) __Appointment Authority.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Commission may appoint candidates to any position described in subsection (a)—
 
@@ -29,11 +29,11 @@
 
             (B) notwithstanding any statutes, rules, and regulations governing appointments in the competitive service.
 
-        (2) __Rule of construction.—__ 
+        (2)  __Rule of construction__  __.—__ 
 
         The appointment of a candidate to a position under authority of this subsection shall not be considered to cause such position to be converted from the competitive service to the excepted service.
 
-    (c) __Reports.—__ 
+    (c)  __Reports__  __.—__ 
 
     No later than 90 days after the end of fiscal year 2003 (for fiscal year 2003) and 90 days after the end of fiscal year 2005 (for fiscal years 2004 and 2005), the Commission shall submit a report with respect to its exercise of the authority granted by subsection (b) during such fiscal years to the Committee on Government Reform and the Committee on Financial Services of the House of Representatives and the Committee on Governmental Affairs and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such reports shall describe the changes in the hiring process authorized by such subsection, including relevant information related to—
 
@@ -49,7 +49,7 @@
 
         (6) the way in which managers were trained in the administration of the streamlined hiring system.
 
-    (d) __Commission Defined.—__ 
+    (d)  __Commission Defined__  __.—__ 
 
     For purposes of this section, the term “Commission” means the Securities and Exchange Commission.
 

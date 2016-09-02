@@ -71,7 +71,7 @@
 
 [Pub. L. 101–335, § 7(b)(2)][/us/pl/101/335/s7/b/2], (3), July 17, 1990, [104 Stat. 325][/us/stat/104/325], as amended by [Pub. L. 102–378, § 7(a)][/us/pl/102/378/s7/a], Oct. 2, 1992, [106 Stat. 1359][/us/stat/106/1359], provided that:
 
->     “(2) __Election by persons previously appointed.—__ 
+>     “(2)  __Election by persons previously appointed__  __.—__ 
 
 >     The Office of Personnel Management shall prescribe regulations (including procedures and deadlines) under which an election under [section 3392(c)(2) of title 5][/us/usc/t5/s3392/c/2], United States Code (as amended by this section) may be made by any individual who—
 
@@ -91,7 +91,7 @@
 
 >         An election under this paragraph shall be effective as of the date of appointment to the position described in subparagraph (A).
 
->     “(3) __Retroactive performance awards.—__ 
+>     “(3)  __Retroactive performance awards__  __.—__ 
 
 >     If an individual elects under paragraph (2) to continue to be subject to performance awards, the head of the agency in which such individual is serving shall determine whether to grant retroactive performance awards for any fiscal years prior to fiscal year 1991 to such individual, and the amount of any such awards, without regard to the provisions of subsection (b) of [section 5383 of title 5][/us/usc/t5/s5383], United States Code, and subsections (b) and (c) of section 5384 of such title. Before granting an award, the head of the agency shall make a written determination that the individual’s performance during the fiscal year for which the award is given was at least fully successful, and shall consider the recommendation of the agency’s performance review board with respect to the award. No such award for performance during any fiscal year may be less than 5 percent nor more than 15 percent of the individual’s rate of basic pay as of the end of such fiscal year.”
 

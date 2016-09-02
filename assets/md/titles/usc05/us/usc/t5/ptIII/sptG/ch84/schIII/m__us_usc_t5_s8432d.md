@@ -15,7 +15,7 @@
 
 ## § 8432d. Qualified Roth contribution program
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -23,11 +23,11 @@
 
         (2) the terms “designated Roth contribution” and “elective deferral” have the meanings given such terms in section 402A of the Internal Revenue Code of 1986.
 
-    (b) __Authority To Establish.—__ 
+    (b)  __Authority To Establish__  __.—__ 
 
     The Executive Director shall by regulation provide for the inclusion in the Thrift Savings Plan of a qualified Roth contribution program, under such terms and conditions as the Board may prescribe.
 
-    (c) __Required Provisions.—__ 
+    (c)  __Required Provisions__  __.—__ 
 
     The regulations under subsection (b) shall include—
 

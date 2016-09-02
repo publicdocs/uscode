@@ -15,7 +15,7 @@
 
 ## § 6503. Training and monitoring
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The head of each executive agency shall ensure that—
 
@@ -43,7 +43,7 @@
 
         (4) when determining what constitutes diminished employee performance, the agency shall consult the performance management guidelines of the Office of Personnel Management.
 
-    (b) __Training Requirement Exemptions.—__ 
+    (b)  __Training Requirement Exemptions__  __.—__ 
 
     The head of an executive agency may provide for an exemption from the training requirements under subsection (a), if the head of that agency determines that the training would be unnecessary because the employee is already teleworking under a work arrangement in effect before the date of enactment of this chapter.
 

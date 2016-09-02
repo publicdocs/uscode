@@ -297,7 +297,7 @@
 
 [Pub. L. 107–228, div. A, title III, § 321][/us/pl/107/228/s321], Sept. 30, 2002, [116 Stat. 1380][/us/stat/116/1380], provided that:
 
->     “(a) __Retirement Credit for Certain Government Service Performed Abroad.—__ 
+>     “(a)  __Retirement Credit for Certain Government Service Performed Abroad__  __.—__ 
 
 >     Subject to subsection (b)(1), credit under chapter 84 of title 5, United States Code, shall be allowed for any service performed by an individual if or to the extent that—
 
@@ -327,7 +327,7 @@
 
 >     “(b) __Requirements.—__ 
 
->         “(1) __Requirements of the individual.—__ 
+>         “(1)  __Requirements of the individual__  __.—__ 
 
 >         In order to receive credit under chapter 84 of title 5, United States Code, for any service described in subsection (a), the individual who performed such service (or, if deceased, any person who is or would be eligible for a survivor annuity under the Federal Employees’ Retirement System based on the service of such individual)—
 
@@ -337,19 +337,19 @@
 
 >         “(2) __Government contributions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In addition to any other payment that it is required to make under chapter 84 of title 5, United States Code, a department, agency, or other instrumentality of the United States shall remit to the Office of Personnel Management (for deposit in the Treasury of the United States to the credit of the Fund) the amount described in subparagraph (B).
 
->             “(B) __Amount described.—__ 
+>             “(B)  __Amount described__  __.—__ 
 
 >             The amount described in this subparagraph is, with respect to a remittance under paragraph (1), the total amount of Government contributions that would, under [section 8423 of title 5][/us/usc/t5/s8423], United States Code, have been required of the instrumentality involved (to the extent that it was the employing entity during the period of service to which such remittance relates) in connection with such service.
 
->             “(C) __Special rule.—__ 
+>             “(C)  __Special rule__  __.—__ 
 
 >             If an amount cannot be remitted under this paragraph because an instrumentality has ceased to exist, such amount shall instead be treated as part of the supplemental liability referred to in section 8423(b)(1)(A) or (B) of title 5, United States Code (whichever would be appropriate).
 
->         “(3) __Related requirements.—__ 
+>         “(3)  __Related requirements__  __.—__ 
 
 >         Any remittance under paragraph (1) or (2)—
 
@@ -359,45 +359,45 @@
 
 >         “(4) __Notification and assistance requirements.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Office of Personnel Management shall take such action as may be necessary and appropriate to inform individuals entitled to have any service credited under this section, or to have any annuity computed or recomputed under this section, of their entitlement to such credit, computation, or recomputation.
 
->             “(B) __Assistance to individuals.—__ 
+>             “(B)  __Assistance to individuals__  __.—__ 
 
 >             The Office shall, on request, assist any individual referred to in subparagraph (A) in obtaining from any department, agency, or other instrumentality of the United States such information in the possession of such instrumentality as may be necessary to verify the entitlement of such individual to have any service credited, or to have any annuity computed or recomputed, pursuant to this section.
 
->             “(C) __Assistance from instrumentalities.—__ 
+>             “(C)  __Assistance from instrumentalities__  __.—__ 
 
 >             Any department, agency, or other instrumentality of the United States that possesses any information with respect to any service described in subsection (a) shall, at the request of the Office, furnish such information to the Office.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Abroad.—__ 
+>         “(1)  __Abroad__  __.—__ 
 
 >         The term ‘abroad’ has the meaning given such term under section 102 of the Foreign Service Act of 1980 ([22 U.S.C. 3902][/us/usc/t22/s3902]).
 
->         “(2) __Basic pay.—__ 
+>         “(2)  __Basic pay__  __.—__ 
 
 >         The term ‘basic pay’ has the meaning given such term under [section 8401 of title 5][/us/usc/t5/s8401], United States Code.
 
->         “(3) __Civil service retirement and disability fund.—__ 
+>         “(3)  __Civil service retirement and disability fund__  __.—__ 
 
 >         The term ‘Civil Service Retirement and Disability Fund’ or ‘Fund’ means the Civil Service Retirement and Disability Fund under [section 8348 of title 5][/us/usc/t5/s8348], United States Code.
 
->         “(4) __Temporary appointment.—__ 
+>         “(4)  __Temporary appointment__  __.—__ 
 
 >         The term ‘temporary appointment’ means an appointment that is limited by its terms to a period of one year or less.
 
->     “(d) __Rule of Construction.—__ 
+>     “(d)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be considered to permit or require the making of any contributions to the Thrift Savings Fund that would not otherwise have been permitted or required had this section not been enacted.
 
 >     “(e) __Applicability.—__ 
 
->         “(1) __Annuities commencing on or after effective date of implementing regulations.—__ 
+>         “(1)  __Annuities commencing on or after effective date of implementing regulations__  __.—__ 
 
 >         An annuity or survivor annuity—
 
@@ -409,7 +409,7 @@
 
 >         “(2) __Annuities with commencement date preceding effective date of implementing regulations.—__ 
 
->             “(A) __Recomputation cases.—__ 
+>             “(A)  __Recomputation cases__  __.—__ 
 
 >             An annuity or survivor annuity—
 
@@ -419,7 +419,7 @@
 
 >                   shall (subject to subsection (b)(1)) be recomputed taking into account all service described in subsection (a) that was performed by such individual.
 
->             “(B) __Other cases.—__ 
+>             “(B)  __Other cases__  __.—__ 
 
 >             An annuity or survivor annuity—
 
@@ -431,7 +431,7 @@
 
 >                   shall (subject to subsection (b)(1)) be computed taking into account all service described in subsection (a) that was performed by such individual.
 
->             “(C) __Retroactive effect.—__ 
+>             “(C)  __Retroactive effect__  __.—__ 
 
 >             Any computation or recomputation of an annuity or survivor annuity pursuant to this paragraph shall—
 
@@ -439,15 +439,15 @@
 
 >                 “(ii) if pursuant to subparagraph (B), be effective as of the commencement date that would have applied if application for the annuity or survivor annuity involved had been submitted on the earliest date possible in order for it to have been approved.
 
->             “(D) __Lump-sum payment.—__ 
+>             “(D)  __Lump-sum payment__  __.—__ 
 
 >             Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (as the case may be) shall be payable in the form of a lump-sum payment.
 
->             “(E) __Order of precedence.—__ 
+>             “(E)  __Order of precedence__  __.—__ 
 
 >             [Section 8424(d) of title 5][/us/usc/t5/s8424/d], United States Code, shall apply in the case of any payment under subparagraph (D) payable to an individual who has died.
 
->     “(f) __Implementation.—__ 
+>     “(f)  __Implementation__  __.—__ 
 
 >     The Office of Personnel Management, in consultation with the Secretary, shall prescribe such regulations and take such action as may be necessary and appropriate to implement this section.”
 

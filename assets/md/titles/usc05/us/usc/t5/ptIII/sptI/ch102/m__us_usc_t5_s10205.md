@@ -15,11 +15,11 @@
 
 ## § 10205. Service step adjustments
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “calendar week of active service” includes all periods of leave with pay or other paid time off, and periods of non-pay status which do not cumulatively equal one 40-hour workweek.
 
-    (b) __Adjustments.—__ 
+    (b)  __Adjustments__  __.—__ 
 
     Each member whose current performance is at an acceptable level of competence shall have a service step adjustment as follows:
 

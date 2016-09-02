@@ -15,7 +15,7 @@
 
 ## § 10103. Career paths
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator shall—
 
@@ -23,11 +23,11 @@
 
         (2) publish information on the career paths described in paragraph (1).
 
-    (b) __Education, Training, and Experience.—__ 
+    (b)  __Education, Training, and Experience__  __.—__ 
 
     The Administrator shall ensure that all personnel of the Agency are provided the opportunity to acquire the education, training, and experience necessary to qualify for promotion within the Agency, including, as appropriate, the opportunity to participate in the Rotation Program established under section 844 of the Homeland Security Act of 2002.
 
-    (c) __Policy.—__ 
+    (c)  __Policy__  __.—__ 
 
     The Administrator shall establish a policy for assigning Agency personnel to positions that provides for a balance between—
 

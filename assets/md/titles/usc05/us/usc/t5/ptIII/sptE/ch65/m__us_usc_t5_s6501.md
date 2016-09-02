@@ -17,15 +17,15 @@
 
     In this chapter:
 
-    (1) __Employee.—__ 
+    (1)  __Employee__  __.—__ 
 
     The term “employee” has the meaning given that term under section 2105.
 
-    (2) __Executive agency.—__ 
+    (2)  __Executive agency__  __.—__ 
 
     Except as provided in section 6506, the term “executive agency” has the meaning given that term under section 105.
 
-    (3) __Telework.—__ 
+    (3)  __Telework__  __.—__ 
 
     The term “telework” or “teleworking” refers to a work flexibility arrangement under which an employee performs the duties and responsibilities of such employee’s position, and other authorized activities, from an approved worksite other than the location from which the employee would otherwise work.
 
@@ -35,7 +35,7 @@
 
 [Pub. L. 111–292, § 4][/us/pl/111/292/s4], Dec. 9, 2010, [124 Stat. 3173][/us/stat/124/3173], provided that:
 
->     “(a) __Research by OPM on Telework.—__ 
+>     “(a)  __Research by OPM on Telework__  __.—__ 
 
 >     The Director of the Office of Personnel Management shall—
 
@@ -45,11 +45,11 @@
 
 >         “(3) make any studies or reviews performed under this subsection available to the public.
 
->     “(b) __Use of Contract To Carry Out Research.—__ 
+>     “(b)  __Use of Contract To Carry Out Research__  __.—__ 
 
 >     The Director of the Office of Personnel Management may carry out subsection (a) under a contract entered into by the Director using competitive procedures under section 303 of the Federal Property and Administrative Services Act of 1949 (\[former\] [41 U.S.C. 253][/us/usc/t41/s253]) \[see [41 U.S.C. 3105][/us/usc/t41/s3105], 3301, 3303 to 3305\].
 
->     “(c) __Use of Other Federal Agencies.—__ 
+>     “(c)  __Use of Other Federal Agencies__  __.—__ 
 
 >     The heads of Federal agencies with relevant jurisdiction over the subject matters in subsection (a)(2) shall work cooperatively with the Director of the Office of Personnel Management to carry out that subsection, if the Director determines that coordination is necessary to fulfill obligations under that subsection.”
 

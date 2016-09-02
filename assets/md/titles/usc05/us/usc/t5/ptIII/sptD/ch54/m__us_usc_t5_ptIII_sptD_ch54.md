@@ -97,7 +97,7 @@
 
 [Pub. L. 103–89, § 4][/us/pl/103/89/s4], Sept. 30, 1993, [107 Stat. 983][/us/stat/107/983], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -111,7 +111,7 @@
 
 >         “(5) the term ‘FEPCA’ means the Federal Employees Pay Comparability Act of 1990 \[section 529 \[§§ 1–412\] of [Pub. L. 101–509][/us/pl/101/509], see Short Title of 1990 Amendment; Rules of Construction note set out under [section 5301 of this title][/us/usc/t5/s5301]\] (contained in the Treasury, Postal Service and General Government Appropriations Act, 1991 ([Public Law 101–509][/us/pl/101/509]; [104 Stat. 1427][/us/stat/104/1427])).
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     Notwithstanding [section 5332(a)(1) of title 5][/us/usc/t5/s5332/a/1], United States Code (as amended by section 3(b)(1)(F)), or any other provision of law, the rate of basic pay for an employee covered by the performance management and recognition system on October 31, 1993, shall be determined in accordance with this section so long as such employee continues, without a break in service of more than 3 days, to occupy any position—
 
@@ -121,15 +121,15 @@
 
 >     “(c) __Special Rules.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The rate of basic pay for an employee who is subject to this section shall be the rate payable to such employee on October 31, 1993, subject to paragraph (2).
 
->         “(2) __Adjustments.—__ 
+>         “(2)  __Adjustments__  __.—__ 
 
 >         Adjustments in the rate of basic pay for an employee who is subject to this section shall be made in accordance with the relevant provisions of title 5, United States Code, or otherwise applicable provisions of law, subject to the following:
 
->             “(A) __Deem rates and positions to be under the general schedule.—__ 
+>             “(A)  __Deem rates and positions to be under the general schedule__  __.—__ 
 
 >             For purposes of applying subchapters I and III of chapter 53 of such title (and the provisions of section 302 \[set out as a note under [section 5304 of this title][/us/usc/t5/s5304]\] and title IV \[see Short Title set out in a note under [section 5305 of this title][/us/usc/t5/s5305]\] of FEPCA with respect to any payment under any of those provisions)—
 
@@ -139,7 +139,7 @@
 
 >                 “(iii) any employee who is subject to this section shall be considered to be a ‘General Schedule employee’ (as referred to in section 302(b) of FEPCA).
 
->             “(B) __Special rules relating to provisions governing step-increases.—__ 
+>             “(B)  __Special rules relating to provisions governing step-increases__  __.—__ 
 
 >             For purposes of applying the provisions of sections 5335 and 5336 of title 5, United States Code, with respect to any employee who is subject to this section—
 
@@ -155,7 +155,7 @@
 
 >                   No rate of basic pay for an employee may be increased, as a result of this subparagraph (or any provision of law to which any clause of this subparagraph relates), if or to the extent that the resulting rate would exceed the maximum rate for the grade of the position occupied by such employee.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Office of Personnel Management shall prescribe any regulations which may be necessary for the administration of this section.”
 

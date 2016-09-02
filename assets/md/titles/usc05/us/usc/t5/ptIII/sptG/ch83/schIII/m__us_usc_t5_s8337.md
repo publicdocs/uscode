@@ -225,11 +225,11 @@ Oct. 4, 1961, Pub. L. 87–350, § 4(a), 75 Stat. 771.  </td>
 
 [Section 124(c) of Pub. L. 100–238][/us/pl/100/238/s124/c] provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 8464a of this title][/us/usc/t5/s8464a], amending this section, renumbering [section 8457 of this title][/us/usc/t5/s8457] as section 8456, and repealing former [section 8456 of this title][/us/usc/t5/s8456]\] shall be effective as of January 1, 1987, and shall apply with respect to benefits payable based on a death or disability occurring on or after that date.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (a)(1)(A) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 8, 1988\] and shall apply with respect to benefits payable based on a death or disability occurring on or after that date.”
 

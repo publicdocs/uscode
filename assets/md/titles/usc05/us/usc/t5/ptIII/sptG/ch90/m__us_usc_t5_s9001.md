@@ -17,7 +17,7 @@
 
     For purposes of this chapter:
 
-    (1) __Employee.—__ 
+    (1)  __Employee__  __.—__ 
 
     The term “employee” means—
 
@@ -31,7 +31,7 @@
 
         (E) an employee of the District of Columbia courts.
 
-    (2) __Annuitant.—__ 
+    (2)  __Annuitant__  __.—__ 
 
     The term “annuitant” means—
 
@@ -49,7 +49,7 @@
 
         (C) any former employee who, on the basis of his or her service, would meet all requirements for being considered an “annuitant” within the meaning of subchapter III of chapter 83, chapter 84, or any other retirement system for employees of the Government, but for the fact that such former employee has not attained the minimum age for title to annuity.
 
-    (3) __Member of the uniformed services.—__ 
+    (3)  __Member of the uniformed services__  __.—__ 
 
     The term “member of the uniformed services” means a member of the uniformed services, other than a retired member of the uniformed services, who is—
 
@@ -57,11 +57,11 @@
 
         (B) a member of the Selected Reserve.
 
-    (4) __Retired member of the uniformed services.—__ 
+    (4)  __Retired member of the uniformed services__  __.—__ 
 
     The term “retired member of the uniformed services” means a member or former member of the uniformed services entitled to retired or retainer pay, and a member who has been transferred to the Retired Reserve and who would be entitled to retired pay under chapter 1223 of title 10 but for not having attained the age of 60 and who satisfies such eligibility requirements as the Office of Personnel Management prescribes under section 9008.
 
-    (5) __Qualified relative.—__ 
+    (5)  __Qualified relative__  __.—__ 
 
     The term “qualified relative” means each of the following:
 
@@ -73,23 +73,23 @@
 
         (D) An individual having such other relationship to an individual described in paragraph (1), (2), (3), or (4) as the Office may by regulation prescribe.
 
-    (6) __Eligible individual.—__ 
+    (6)  __Eligible individual__  __.—__ 
 
     The term “eligible individual” refers to an individual described in paragraph (1), (2), (3), (4), or (5).
 
-    (7) __Qualified carrier.—__ 
+    (7)  __Qualified carrier__  __.—__ 
 
     The term “qualified carrier” means an insurance company (or consortium of insurance companies) that is licensed to issue long-term care insurance in all States, taking any subsidiaries of such a company into account (and, in the case of a consortium, considering the member companies and any subsidiaries thereof, collectively).
 
-    (8) __State.—__ 
+    (8)  __State__  __.—__ 
 
     The term “State” includes the District of Columbia.
 
-    (9) __Qualified long-term care insurance contract.—__ 
+    (9)  __Qualified long-term care insurance contract__  __.—__ 
 
     The term “qualified long-term care insurance contract” has the meaning given such term by section 7702B of the Internal Revenue Code of 1986.
 
-    (10) __Appropriate secretary.—__ 
+    (10)  __Appropriate secretary__  __.—__ 
 
     The term “appropriate Secretary” means—
 

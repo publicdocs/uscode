@@ -127,7 +127,7 @@
 
         (3)
 
-            (A) An individual making an election under subsection (c)(2)(B) may, at such individual’s option, elect coverage either as an individual or, if appropriate, for self and family.
+            (A) An individual making an election under subsection (c)(2)(B) may, at such individual’s option, elect coverage either as an individual or, if appropriate, for self plus one or for self and family.
 
             (B) For the purpose of this paragraph, members of an individual’s family shall be determined in the same way as would apply under this chapter in the case of an enrolled employee.
 
@@ -241,13 +241,13 @@
 
          In the case of an individual—
 
-            (A) who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section for self and family based on such person’s separation from service; and
+            (A) who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section based on such person’s separation from service under a self plus one enrollment that covered the individual or under a self and family enrollment; and
 
             (B) whose divorce, annulment, or legal separation (as the case may be) occurs before the end of the 18-month period beginning on the date of the separation from service referred to in subparagraph (A),
 
             extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added [Pub. L. 100–654, title II, § 201(a)(1)][/us/pl/100/654/s201/a/1], Nov. 14, 1988, [102 Stat. 3841][/us/stat/102/3841]; amended [Pub. L. 102–484, div. D, title XLIV, § 4438(a)][/us/pl/102/484/s4438/a], Oct. 23, 1992, [106 Stat. 2725][/us/stat/106/2725]; [Pub. L. 103–337, div. A, title III, § 341(d)][/us/pl/103/337/s341/d], Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720]; [Pub. L. 104–106, div. A, title X, § 1036][/us/pl/104/106/s1036], Feb. 10, 1996, [110 Stat. 431][/us/stat/110/431]; [Pub. L. 106–65, div. A, title XI, § 1104(c)][/us/pl/106/65/s1104/c], div. C, title XXXII, § 3244, Oct. 5, 1999, [113 Stat. 777][/us/stat/113/777], 965; [Pub. L. 106–117, title XI, § 1106][/us/pl/106/117/s1106], Nov. 30, 1999, [113 Stat. 1598][/us/stat/113/1598]; [Pub. L. 107–314, div. A, title XI, § 1103][/us/pl/107/314/s1103], Dec. 2, 2002, [116 Stat. 2661][/us/stat/116/2661]; [Pub. L. 107–314, div. D, title XLVI, § 4603(h)][/us/pl/107/314/s4603/h], formerly [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3136(h)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–459, renumbered [§ 4603(h) of Pub. L. 107–314][/us/pl/107/314/s4603/h] by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(4)(A)][/us/pl/108/136/s3141/i/4/A]–(C), Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777]; [Pub. L. 108–136, div. C, title XXXI, § 3141(m)(3)][/us/pl/108/136/s3141/m/3], Nov. 24, 2003, [117 Stat. 1787][/us/stat/117/1787]; [Pub. L. 108–375, div. A, title XI, § 1101(a)][/us/pl/108/375/s1101/a], Oct. 28, 2004, [118 Stat. 2072][/us/stat/118/2072]; [Pub. L. 109–163, div. A, title XI, § 1101][/us/pl/109/163/s1101], Jan. 6, 2006, [119 Stat. 3447][/us/stat/119/3447]; [Pub. L. 110–422, title VI, § 615][/us/pl/110/422/s615], Oct. 15, 2008, [122 Stat. 4800][/us/stat/122/4800]; [Pub. L. 111–242, § 151][/us/pl/111/242/s151], as added [Pub. L. 111–322, title I, § 1(a)(2)][/us/pl/111/322/s1/a/2], Dec. 22, 2010, [124 Stat. 3519][/us/stat/124/3519]; [Pub. L. 112–81, div. A, title XI, § 1123][/us/pl/112/81/s1123], Dec. 31, 2011, [125 Stat. 1617][/us/stat/125/1617].)
+(Added [Pub. L. 100–654, title II, § 201(a)(1)][/us/pl/100/654/s201/a/1], Nov. 14, 1988, [102 Stat. 3841][/us/stat/102/3841]; amended [Pub. L. 102–484, div. D, title XLIV, § 4438(a)][/us/pl/102/484/s4438/a], Oct. 23, 1992, [106 Stat. 2725][/us/stat/106/2725]; [Pub. L. 103–337, div. A, title III, § 341(d)][/us/pl/103/337/s341/d], Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720]; [Pub. L. 104–106, div. A, title X, § 1036][/us/pl/104/106/s1036], Feb. 10, 1996, [110 Stat. 431][/us/stat/110/431]; [Pub. L. 106–65, div. A, title XI, § 1104(c)][/us/pl/106/65/s1104/c], div. C, title XXXII, § 3244, Oct. 5, 1999, [113 Stat. 777][/us/stat/113/777], 965; [Pub. L. 106–117, title XI, § 1106][/us/pl/106/117/s1106], Nov. 30, 1999, [113 Stat. 1598][/us/stat/113/1598]; [Pub. L. 107–314, div. A, title XI, § 1103][/us/pl/107/314/s1103], Dec. 2, 2002, [116 Stat. 2661][/us/stat/116/2661]; [Pub. L. 107–314, div. D, title XLVI, § 4603(h)][/us/pl/107/314/s4603/h], formerly [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3136(h)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–459, renumbered [§ 4603(h) of Pub. L. 107–314][/us/pl/107/314/s4603/h] by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(4)(A)][/us/pl/108/136/s3141/i/4/A]–(C), Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777]; [Pub. L. 108–136, div. C, title XXXI, § 3141(m)(3)][/us/pl/108/136/s3141/m/3], Nov. 24, 2003, [117 Stat. 1787][/us/stat/117/1787]; [Pub. L. 108–375, div. A, title XI, § 1101(a)][/us/pl/108/375/s1101/a], Oct. 28, 2004, [118 Stat. 2072][/us/stat/118/2072]; [Pub. L. 109–163, div. A, title XI, § 1101][/us/pl/109/163/s1101], Jan. 6, 2006, [119 Stat. 3447][/us/stat/119/3447]; [Pub. L. 110–422, title VI, § 615][/us/pl/110/422/s615], Oct. 15, 2008, [122 Stat. 4800][/us/stat/122/4800]; [Pub. L. 111–242, § 151][/us/pl/111/242/s151], as added [Pub. L. 111–322, title I, § 1(a)(2)][/us/pl/111/322/s1/a/2], Dec. 22, 2010, [124 Stat. 3519][/us/stat/124/3519]; [Pub. L. 112–81, div. A, title XI, § 1123][/us/pl/112/81/s1123], Dec. 31, 2011, [125 Stat. 1617][/us/stat/125/1617]; [Pub. L. 113–67, div. A, title VII, § 706(b)][/us/pl/113/67/s706/b], Dec. 26, 2013, [127 Stat. 1194][/us/stat/127/1194].)
 
  __References in Text__ 
 
@@ -260,6 +260,10 @@
     The date of enactment of this paragraph, referred to in subsec. (d)(6)(B), is the date of enactment of [Pub. L. 110–422][/us/pl/110/422], which was approved Oct. 15, 2008.
 
  __Amendments__ 
+
+    2013—Subsec. (d)(3)(A). [Pub. L. 113–67, § 706(b)(1)][/us/pl/113/67/s706/b/1], inserted “for self plus one or” before “for self and family”.
+
+    Subsec. (f)(3)(A). [Pub. L. 113–67, § 706(b)(2)][/us/pl/113/67/s706/b/2], substituted “based on such person’s separation from service under a self plus one enrollment that covered the individual or under a self and family enrollment” for “for self and family based on such person’s separation from service”.
 
     2011—Subsec. (d)(4)(B). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2016” for “December 31, 2011” in cls. (i) and (ii) and substituted “February 1, 2017” for “February 1, 2012” in cl. (ii).
 
@@ -376,10 +380,14 @@
 [/us/stat/124/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3519
 [/us/pl/112/81/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1123
 [/us/stat/125/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1617
+[/us/pl/113/67/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fb
+[/us/stat/127/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1194
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t50/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2601
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/pl/110/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422
+[/us/pl/113/67/s706/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fb%2F1
+[/us/pl/113/67/s706/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fb%2F2
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/242/s151/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs151%2F1
 [/us/pl/111/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322

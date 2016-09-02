@@ -21,7 +21,7 @@
 
     (c) The annuity of a Congressional employee, or former Congressional employee, retiring under this subchapter is computed under subsection (a), except that if the individual has had at least 5 years of service as a Congressional employee or Member, or any combination thereof, so much of the annuity as is computed with respect to either such type of service (or a combination thereof), not exceeding a total of 20 years, shall be computed by multiplying 17⁄10 percent of the individual’s average pay by the years of such service.
 
-    (d) Notwithstanding any other provision of law, the annuity of an individual described in subsection (b) or (c) who is a revised annuity employee shall be computed in the same manner as in the case of an individual described in subsection (a).
+    (d) Notwithstanding any other provision of law, the annuity of an individual described in subsection (b) or (c) who is a revised annuity employee or a further revised annuity employee shall be computed in the same manner as in the case of an individual described in subsection (a).
 
     (e)
 
@@ -187,7 +187,7 @@
 
     (n) In the case of any annuity computation under this section that includes, in the aggregate, at least 2 months of credit under section 8411(d) for any period while receiving benefits under subchapter I of chapter 81, the percentage otherwise applicable under this section for that period so credited shall be increased by 1 percentage point.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 527][/us/stat/100/527]; amended [Pub. L. 99–556, title I, § 105(b)(2)][/us/pl/99/556/s105/b/2], Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132]; [Pub. L. 103–283, title III, § 307(b)(2)][/us/pl/103/283/s307/b/2], July 22, 1994, [108 Stat. 1442][/us/stat/108/1442]; [Pub. L. 105–61, title V, § 516(a)(7)][/us/pl/105/61/s516/a/7], Oct. 10, 1997, [111 Stat. 1306][/us/stat/111/1306]; [Pub. L. 105–261, div. C, title XXXI, § 3154(h)][/us/pl/105/261/s3154/h], Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255]; [Pub. L. 106–65, div. A, title V, § 522(c)(1)][/us/pl/106/65/s522/c/1], Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(2)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 106–571, § 3(c)(1)][/us/pl/106/571/s3/c/1], Dec. 28, 2000, [114 Stat. 3055][/us/stat/114/3055]; [Pub. L. 107–107, div. A, title XI, § 1132(b)(3)][/us/pl/107/107/s1132/b/3], Dec. 28, 2001, [115 Stat. 1244][/us/stat/115/1244]; [Pub. L. 107–135, title I, § 122(a)][/us/pl/107/135/s122/a], Jan. 23, 2002, [115 Stat. 2451][/us/stat/115/2451]; [Pub. L. 108–92, § 1(a)][/us/pl/108/92/s1/a], Oct. 3, 2003, [117 Stat. 1160][/us/stat/117/1160]; [Pub. L. 108–176, title II, § 226(b)(1)][/us/pl/108/176/s226/b/1], Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530]; [Pub. L. 110–161, div. E, title V, § 535(b)(3)][/us/pl/110/161/s535/b/3], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 111–84, div. A, title XIX, § 1901(a)][/us/pl/111/84/s1901/a], Oct. 28, 2009, [123 Stat. 2615][/us/stat/123/2615]; [Pub. L. 112–96, title V, § 5001(c)(1)][/us/pl/112/96/s5001/c/1], Feb. 22, 2012, [126 Stat. 199][/us/stat/126/199].)
+(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 527][/us/stat/100/527]; amended [Pub. L. 99–556, title I, § 105(b)(2)][/us/pl/99/556/s105/b/2], Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132]; [Pub. L. 103–283, title III, § 307(b)(2)][/us/pl/103/283/s307/b/2], July 22, 1994, [108 Stat. 1442][/us/stat/108/1442]; [Pub. L. 105–61, title V, § 516(a)(7)][/us/pl/105/61/s516/a/7], Oct. 10, 1997, [111 Stat. 1306][/us/stat/111/1306]; [Pub. L. 105–261, div. C, title XXXI, § 3154(h)][/us/pl/105/261/s3154/h], Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255]; [Pub. L. 106–65, div. A, title V, § 522(c)(1)][/us/pl/106/65/s522/c/1], Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(2)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 106–571, § 3(c)(1)][/us/pl/106/571/s3/c/1], Dec. 28, 2000, [114 Stat. 3055][/us/stat/114/3055]; [Pub. L. 107–107, div. A, title XI, § 1132(b)(3)][/us/pl/107/107/s1132/b/3], Dec. 28, 2001, [115 Stat. 1244][/us/stat/115/1244]; [Pub. L. 107–135, title I, § 122(a)][/us/pl/107/135/s122/a], Jan. 23, 2002, [115 Stat. 2451][/us/stat/115/2451]; [Pub. L. 108–92, § 1(a)][/us/pl/108/92/s1/a], Oct. 3, 2003, [117 Stat. 1160][/us/stat/117/1160]; [Pub. L. 108–176, title II, § 226(b)(1)][/us/pl/108/176/s226/b/1], Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530]; [Pub. L. 110–161, div. E, title V, § 535(b)(3)][/us/pl/110/161/s535/b/3], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 111–84, div. A, title XIX, § 1901(a)][/us/pl/111/84/s1901/a], Oct. 28, 2009, [123 Stat. 2615][/us/stat/123/2615]; [Pub. L. 112–96, title V, § 5001(c)(1)][/us/pl/112/96/s5001/c/1], Feb. 22, 2012, [126 Stat. 199][/us/stat/126/199]; [Pub. L. 113–67, div. A, title IV, § 401(d)][/us/pl/113/67/s401/d], Dec. 26, 2013, [127 Stat. 1185][/us/stat/127/1185].)
 
  __References in Text__ 
 
@@ -196,6 +196,8 @@
     The date of enactment of this paragraph, referred to in subsec. (m)(2)(B)(i), is the date of enactment of [Pub. L. 111–84][/us/pl/111/84], which was approved Oct. 28, 2009.
 
  __Amendments__ 
+
+    2013—Subsec. (d). [Pub. L. 113–67][/us/pl/113/67] inserted “or a further revised annuity employee” after “a revised annuity employee”.
 
     2012—Subsecs. (d) to (n). [Pub. L. 112–96][/us/pl/112/96] added subsec. (d) and redesignated former subsecs. (d) to (m) as (e) to (n), respectively.
 
@@ -318,8 +320,11 @@
 [/us/stat/123/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2615
 [/us/pl/112/96/s5001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fc%2F1
 [/us/stat/126/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F199
+[/us/pl/113/67/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fd
+[/us/stat/127/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1185
 [/us/pl/106/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F571
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161

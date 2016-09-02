@@ -125,15 +125,15 @@
 
 [Pub. L. 99–80, § 7][/us/pl/99/80/s7], Aug. 5, 1985, [99 Stat. 186][/us/stat/99/186], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this Act \[reviving and amending this section and [section 2412(d) of Title 28][/us/usc/t28/s2412/d], Judiciary and Judicial Procedure, and amending and repealing provisions set out as notes under those sections\] shall apply to cases pending on or commenced on or after the date of the enactment of this Act \[Aug. 5, 1985\].
 
->     “(b) __Applicability of Amendments to Certain Prior Cases.—__ 
+>     “(b)  __Applicability of Amendments to Certain Prior Cases__  __.—__ 
 
 >     The amendments made by this Act shall apply to any case commenced on or after October 1, 1984, and finally disposed of before the date of the enactment of this Act \[Aug. 5, 1985\], except that in any such case, the 30-day period referred to in [section 504(a)(2) of title 5][/us/usc/t5/s504/a/2], United States Code, or [section 2412(d)(1)(B) of title 28][/us/usc/t28/s2412/d/1/B], United States Code, as the case may be, shall be deemed to commence on the date of the enactment of this Act.
 
->     “(c) __Applicability of Amendments to Prior Board of Contracts Appeals Cases.—__ 
+>     “(c)  __Applicability of Amendments to Prior Board of Contracts Appeals Cases__  __.—__ 
 
 >     [Section 504(b)(1)(C)(ii) of title 5][/us/usc/t5/s504/b/1/C/ii], United States Code, as added by section 1(c)(2) of this Act, and [section 2412(d)(2)(E) of title 28][/us/usc/t28/s2412/d/2/E], United States Code, as added by section 2(c)(2) of this Act, shall apply to any adversary adjudication pending on or commenced on or after October 1, 1981, in which applications for fees and other expenses were timely filed and were dismissed for lack of jurisdiction.”
 
@@ -169,7 +169,7 @@
 
 [Pub. L. 99–80, § 6][/us/pl/99/80/s6], Aug. 5, 1985, [99 Stat. 186][/us/stat/99/186], provided that:
 
->     “(a) __Revival of Certain Expired Provisions.—__ 
+>     “(a)  __Revival of Certain Expired Provisions__  __.—__ 
 
 >     [Section 504 of title 5][/us/usc/t5/s504], United States Code, and the item relating to that section in the table of sections of chapter 5 of title 5, United States Code, and subsection (d) of [section 2412 of title 28][/us/usc/t28/s2412], United States Code, shall be effective on or after the date of the enactment of this Act \[Aug. 5, 1985\] as if they had not been repealed by sections 203(c) and 204(c) of the Equal Access to Justice Act \[[Pub. L. 96–481][/us/pl/96/481]\].
 

@@ -17,7 +17,7 @@
 
     (a) __Veteran.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided under paragraph (3), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Subsec. does not contain a par. (3). </sup></sup>  an individual shall be treated as a veteran defined under section 2108(1) for purposes of making an appointment in the competitive service, if the individual—
 
@@ -25,13 +25,13 @@
 
             (B) submits a certification described under paragraph (2) to the Federal officer making the appointment.
 
-        (2) __Certification.—__ 
+        (2)  __Certification__  __.—__ 
 
         A certification referred to under paragraph (1) is a certification that the individual is expected to be discharged or released from active duty in the armed forces under honorable conditions not later than 120 days after the date of the submission of the certification.
 
     (b) __Disabled Veteran.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided under paragraph (3),1 an individual shall be treated as a disabled veteran defined under section 2108(2) for purposes of making an appointment in the competitive service, if the individual—
 
@@ -39,11 +39,11 @@
 
             (B) submits a certification described under paragraph (2) to the Federal officer making the appointment.
 
-        (2) __Certification.—__ 
+        (2)  __Certification__  __.—__ 
 
         A certification referred to under paragraph (1) is a certification that the individual is expected to be separated from active duty in the armed forces under honorable conditions not later than 120 days after the date of the submission of the certification.
 
-    (c) __Preference Eligible.—__ 
+    (c)  __Preference Eligible__  __.—__ 
 
     Subsections (a) and (b) shall apply with respect to determining whether an individual is a preference eligible under section 2108(3) for purposes of making an appointment in the competitive service.
 

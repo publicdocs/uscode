@@ -29,7 +29,7 @@
 
         (3)
 
-            (A) The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees shall be as follows:
+            (A) The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees or further revised annuity employees shall be as follows:
 
 <table>
 
@@ -481,6 +481,114 @@
 
             </table>
 
+            (C) The applicable percentage under this paragraph for civilian service by further revised annuity employees shall be as follows:
+
+<table>
+
+              <tr>
+
+                <td>   </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Employee  </td>
+
+                <td> 
+
+            10.6  </td>
+
+                <td> 
+
+            After December 31, 2013.  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Congressional employee  </td>
+
+                <td> 
+
+            10.6  </td>
+
+                <td> 
+
+            After December 31, 2013.  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Member  </td>
+
+                <td> 
+
+            10.6  </td>
+
+                <td> 
+
+            After December 31, 2013.  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller  </td>
+
+                <td> 
+
+            11.1  </td>
+
+                <td> 
+
+            After December 31, 2013.  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Nuclear materials courier  </td>
+
+                <td> 
+
+            11.1  </td>
+
+                <td> 
+
+            After December 31, 2013.  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Customs and border protection officer  </td>
+
+                <td> 
+
+            11.1  </td>
+
+                <td> 
+
+            After December 31, 2013.  </td>
+
+  </tr>
+
+            </table>
+
     (b) Each employee or Member is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this subchapter, or under subchapter IV or V of this chapter, based on the service of the employee or Member.
 
     (c) The amounts deducted and withheld under this section shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Secretary of the Treasury may prescribe. Deposits made by an employee, Member, or survivor also shall be credited to the Fund.
@@ -559,7 +667,7 @@
 
         (3) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 536][/us/stat/100/536]; amended [Pub. L. 100–238, title I, § 104(a)][/us/pl/100/238/s104/a], Jan. 8, 1988, [101 Stat. 1746][/us/stat/101/1746]; [Pub. L. 103–82, title III, § 371(b)(2)][/us/pl/103/82/s371/b/2], Sept. 21, 1993, [107 Stat. 911][/us/stat/107/911]; [Pub. L. 103–353, § 5(d)][/us/pl/103/353/s5/d], (e)(2), Oct. 13, 1994, [108 Stat. 3174][/us/stat/108/3174]; [Pub. L. 104–186, title II, § 215(14)][/us/pl/104/186/s215/14], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 104–316, title I, § 103(g)][/us/pl/104/316/s103/g], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 105–33, title VII, § 7001(b)(1)][/us/pl/105/33/s7001/b/1], Aug. 5, 1997, [111 Stat. 657][/us/stat/111/657]; [Pub. L. 105–61, title V, § 516(a)(8)][/us/pl/105/61/s516/a/8], Oct. 10, 1997, [111 Stat. 1307][/us/stat/111/1307]; [Pub. L. 105–261, div. C, title XXXI, § 3154(i)(1)][/us/pl/105/261/s3154/i/1], Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255]; [Pub. L. 106–65, div. A, title X, § 1066(d)(3)][/us/pl/106/65/s1066/d/3], Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773]; [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 505(b)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–52; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(3)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 107–107, div. A, title XI, § 1132(b)(2)(A)][/us/pl/107/107/s1132/b/2/A], (B), Dec. 28, 2001, [115 Stat. 1243][/us/stat/115/1243], 1244; [Pub. L. 107–135, title I, § 122(b)][/us/pl/107/135/s122/b], Jan. 23, 2002, [115 Stat. 2451][/us/stat/115/2451]; [Pub. L. 108–92, § 1(b)][/us/pl/108/92/s1/b], Oct. 3, 2003, [117 Stat. 1160][/us/stat/117/1160]; [Pub. L. 108–176, title II, § 226(b)(2)(A)][/us/pl/108/176/s226/b/2/A], Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530]; [Pub. L. 110–161, div. E, title V, § 535(b)(4)][/us/pl/110/161/s535/b/4], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 111–84, div. A, title XIX][/us/pl/111/84], §§ 1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, [123 Stat. 2615][/us/stat/123/2615], 2616; [Pub. L. 112–96, title V, § 5001(b)][/us/pl/112/96/s5001/b], (c)(2)(A), Feb. 22, 2012, [126 Stat. 199][/us/stat/126/199].)
+(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 536][/us/stat/100/536]; amended [Pub. L. 100–238, title I, § 104(a)][/us/pl/100/238/s104/a], Jan. 8, 1988, [101 Stat. 1746][/us/stat/101/1746]; [Pub. L. 103–82, title III, § 371(b)(2)][/us/pl/103/82/s371/b/2], Sept. 21, 1993, [107 Stat. 911][/us/stat/107/911]; [Pub. L. 103–353, § 5(d)][/us/pl/103/353/s5/d], (e)(2), Oct. 13, 1994, [108 Stat. 3174][/us/stat/108/3174]; [Pub. L. 104–186, title II, § 215(14)][/us/pl/104/186/s215/14], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 104–316, title I, § 103(g)][/us/pl/104/316/s103/g], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 105–33, title VII, § 7001(b)(1)][/us/pl/105/33/s7001/b/1], Aug. 5, 1997, [111 Stat. 657][/us/stat/111/657]; [Pub. L. 105–61, title V, § 516(a)(8)][/us/pl/105/61/s516/a/8], Oct. 10, 1997, [111 Stat. 1307][/us/stat/111/1307]; [Pub. L. 105–261, div. C, title XXXI, § 3154(i)(1)][/us/pl/105/261/s3154/i/1], Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255]; [Pub. L. 106–65, div. A, title X, § 1066(d)(3)][/us/pl/106/65/s1066/d/3], Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773]; [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 505(b)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–52; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(3)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 107–107, div. A, title XI, § 1132(b)(2)(A)][/us/pl/107/107/s1132/b/2/A], (B), Dec. 28, 2001, [115 Stat. 1243][/us/stat/115/1243], 1244; [Pub. L. 107–135, title I, § 122(b)][/us/pl/107/135/s122/b], Jan. 23, 2002, [115 Stat. 2451][/us/stat/115/2451]; [Pub. L. 108–92, § 1(b)][/us/pl/108/92/s1/b], Oct. 3, 2003, [117 Stat. 1160][/us/stat/117/1160]; [Pub. L. 108–176, title II, § 226(b)(2)(A)][/us/pl/108/176/s226/b/2/A], Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530]; [Pub. L. 110–161, div. E, title V, § 535(b)(4)][/us/pl/110/161/s535/b/4], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 111–84, div. A, title XIX][/us/pl/111/84], §§ 1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, [123 Stat. 2615][/us/stat/123/2615], 2616; [Pub. L. 112–96, title V, § 5001(b)][/us/pl/112/96/s5001/b], (c)(2)(A), Feb. 22, 2012, [126 Stat. 199][/us/stat/126/199]; [Pub. L. 113–67, div. A, title IV, § 401(b)][/us/pl/113/67/s401/b], Dec. 26, 2013, [127 Stat. 1184][/us/stat/127/1184].)
 
  __References in Text__ 
 
@@ -572,6 +680,10 @@
     The Peace Corps Act, referred to in subsec. (f)(1), is [Pub. L. 87–293][/us/pl/87/293], Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612], which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22][/us/usc/t22/s2501] and Tables.
 
  __Amendments__ 
+
+    2013—Subsec. (a)(3)(A). [Pub. L. 113–67, § 401(b)(1)][/us/pl/113/67/s401/b/1], inserted “or further revised annuity employees” after “revised annuity employees”.
+
+    Subsec. (a)(3)(C). [Pub. L. 113–67, § 401(b)(2)][/us/pl/113/67/s401/b/2], added subpar. (C).
 
     2012—Subsec. (a)(3). [Pub. L. 112–96, § 5001(b)][/us/pl/112/96/s5001/b], designated existing provisions as subpar. (A), substituted “The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees” for “The applicable percentage under this paragraph for civilian service”, and added subpar. (B).
 
@@ -750,6 +862,8 @@
 [/us/stat/123/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2615
 [/us/pl/112/96/s5001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fb
 [/us/stat/126/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F199
+[/us/pl/113/67/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fb
+[/us/stat/127/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1184
 [/us/usc/t26/s3101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101%2Fa
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
@@ -771,6 +885,8 @@
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
+[/us/pl/113/67/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fb%2F1
+[/us/pl/113/67/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fb%2F2
 [/us/pl/112/96/s5001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fb
 [/us/pl/112/96/s5001/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fc%2F2%2FA
 [/us/pl/111/84/s1904/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1904%2Fb%2F3%2FA

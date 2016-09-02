@@ -105,11 +105,11 @@ Sept. 6, 1960, Pub. L. 86–707, § 111, 74 Stat. 792.  </td>
 
 [Pub. L. 101–246, title I, § 156][/us/pl/101/246/s156], Feb. 16, 1990, [104 Stat. 46][/us/stat/104/46], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of State shall establish and implement an appropriate housing policy and space standards in consultation with all agencies with employees outside the United States who are under the authority of the chief of mission or with other agencies or employees who participate in the overseas housing program. Such policy may not provide housing or related benefits based solely on the representational status of the employee, except if such individual is the ambassador, deputy chief of mission, permanent charge, or the consul general when serving as the principal officer.
 
->     “(b) __Waiver.—__ 
+>     “(b)  __Waiver__  __.—__ 
 
 >     The Secretary of State may grant exceptions to the restriction on providing housing or related benefits on a representational basis under subsection (a) on a case-by-case basis where a documented need for such exception is established. The Secretary of State shall prepare a comprehensive list annually of all such exceptions granted under this subsection.”
 

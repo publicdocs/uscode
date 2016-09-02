@@ -123,7 +123,7 @@
 
 [Pub. L. 101–552, § 3][/us/pl/101/552/s3], Nov. 15, 1990, [104 Stat. 2736][/us/stat/104/2736], as amended by [Pub. L. 104–320, § 4(a)][/us/pl/104/320/s4/a], Oct. 19, 1996, [110 Stat. 3871][/us/stat/110/3871], provided that:
 
->     “(a) __Promulgation of Agency Policy.—__ 
+>     “(a)  __Promulgation of Agency Policy__  __.—__ 
 
 >     Each agency shall adopt a policy that addresses the use of alternative means of dispute resolution and case management. In developing such a policy, each agency shall—
 
@@ -147,7 +147,7 @@
 
 >             “(G) other agency actions.
 
->     “(b) __Dispute Resolution Specialists.—__ 
+>     “(b)  __Dispute Resolution Specialists__  __.—__ 
 
 >     The head of each agency shall designate a senior official to be the dispute resolution specialist of the agency. Such official shall be responsible for the implementation of—
 
@@ -155,7 +155,7 @@
 
 >         “(2) the agency policy developed under subsection (a).
 
->     “(c) __Training.—__ 
+>     “(c)  __Training__  __.—__ 
 
 >     Each agency shall provide for training on a regular basis for the dispute resolution specialist of the agency and other employees involved in implementing the policy of the agency developed under subsection (a). Such training should encompass the theory and practice of negotiation, mediation, arbitration, or related techniques. The dispute resolution specialist shall periodically recommend to the agency head agency employees who would benefit from similar training.
 
@@ -173,7 +173,7 @@
 
 [Pub. L. 101–552, § 9][/us/pl/101/552/s9], Nov. 15, 1990, [104 Stat. 2747][/us/stat/104/2747], provided that:
 
->     “(a) __Representation of Parties.—__ 
+>     “(a)  __Representation of Parties__  __.—__ 
 
 >     Each agency, in developing a policy on the use of alternative means of dispute resolution under this Act \[see Short Title note above\], shall develop a policy with regard to the representation by persons other than attorneys of parties in alternative dispute resolution proceedings and shall identify any of its administrative programs with numerous claims or disputes before the agency and determine—
 
@@ -181,7 +181,7 @@
 
 >         “(2) whether the subject areas of the applicable proceedings or the procedures are so complex or specialized that only attorneys may adequately provide such representation or assistance.
 
->     “(b) __Representation and Assistance by Nonattorneys.—__ 
+>     “(b)  __Representation and Assistance by Nonattorneys__  __.—__ 
 
 >     A person who is not an attorney may provide representation or assistance to any individual in a claim or dispute with an agency, if—
 
@@ -191,7 +191,7 @@
 
 >         “(3) such person meets any requirement of the agency to provide representation or assistance in such a claim or dispute.
 
->     “(c) __Disqualification of Representation or Assistance.—__ 
+>     “(c)  __Disqualification of Representation or Assistance__  __.—__ 
 
 >     Any agency that adopts regulations under subchapter IV of chapter 5 of title 5, United States Code, to permit representation or assistance by persons who are not attorneys shall review the rules of practice before such agency to—
 

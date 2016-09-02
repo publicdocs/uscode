@@ -111,11 +111,11 @@
 
 [Pub. L. 99–335, title III, § 311][/us/pl/99/335/s311], June 6, 1986, [100 Stat. 608][/us/stat/100/608], provided that:
 
->     “(a) __Initial Appointment of Members.—__ 
+>     “(a)  __Initial Appointment of Members__  __.—__ 
 
 >     [Section 8472(c) of title 5][/us/usc/t5/s8472/c], United States Code (as added by section 101(a) of this Act) shall not apply to the members of the Federal Retirement Thrift Investment Board first appointed to such Board.
 
->     “(b) __Terms of Service.—__ 
+>     “(b)  __Terms of Service__  __.—__ 
 
 >     Notwithstanding subsection (e)(1) of [section 8472 of title 5][/us/usc/t5/s8472], United States Code (as added by section 101(a) of this Act), the term of service of each member of the Federal Retirement Thrift Investment Board appointed pursuant to subsection (a) shall be 1 year, except that such member shall continue to serve until his successor is appointed under subsection (b) of such section 8472 and confirmed under subsection (c) of such section.”
 
@@ -123,11 +123,11 @@
 
 [Pub. L. 99–335, title VII, § 701][/us/pl/99/335/s701], June 6, 1986, [100 Stat. 631][/us/stat/100/631], as amended by [Pub. L. 99–500, § 101(m)][/us/pl/99/500/s101/m] \[title IV, § 401\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–322, and [Pub. L. 99–591, § 101(m)][/us/pl/99/591/s101/m] \[title IV, § 401\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–322, provided that:
 
->     “(a) __Temporary Alternative Funding.—__ 
+>     “(a)  __Temporary Alternative Funding__  __.—__ 
 
 >     Notwithstanding section 8434(c)(3) \[probably should be “section 8437(c)(3)”\] of title 5, United States Code (as added by section 101 of this Act), the expenses incurred in the administration of the Federal Retirement Thrift Investment Management System under subchapter VII of chapter 84 of such title (as so added) during fiscal years 1986 and 1987 may be paid from sums appropriated pursuant to subsection (b).
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Federal Retirement Thrift Investment Board, for fiscal years 1986 and 1987, such sums as may be necessary to pay the expenses incurred in the administration of the Federal Retirement Thrift Investment Management System during such fiscal years.”
 

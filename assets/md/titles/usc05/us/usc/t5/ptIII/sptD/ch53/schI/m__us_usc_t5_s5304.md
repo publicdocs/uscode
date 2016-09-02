@@ -431,27 +431,27 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 > “SEC. 1912. __EXTENSION OF LOCALITY PAY.__ 
 
->     “(a) __Locality-based Comparability Payments.—__ 
+>     “(a)  __Locality-based Comparability Payments__  __.—__ 
 
 >     \[Amended this section.\]
 
->     “(b) __Allowances Based on Living Costs and Conditions of Environment.—__ 
+>     “(b)  __Allowances Based on Living Costs and Conditions of Environment__  __.—__ 
 
 >     \[Amended [section 5941 of this title][/us/usc/t5/s5941].\]
 
 > “SEC. 1913. __ADJUSTMENT OF SPECIAL RATES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each special rate of pay established under [section 5305 of title 5][/us/usc/t5/s5305], United States Code, and payable in an area designated as a cost-of-living allowance area under section 5941(a) of that title, shall be adjusted, on the dates prescribed by section 1914, in accordance with regulations prescribed by the Director of the Office of Personnel Management under section 1918.
 
 >     “(b) __Agencies With Statutory Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each special rate of pay established under an authority described under paragraph (2) and payable in a location designated as a cost-of-living allowance area under [section 5941(a)(1) of title 5][/us/usc/t5/s5941/a/1], United States Code, shall be adjusted in accordance with regulations prescribed by the applicable head of the agency that are consistent with the regulations issued by the Director of the Office of Personnel Management under subsection (a).
 
->         “(2) __Statutory authority.—__ 
+>         “(2)  __Statutory authority__  __.—__ 
 
 >         The authority referred to under paragraph (1), \[sic\] is any statutory authority that—
 
@@ -461,7 +461,7 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >             “(C) authorizes the head of the agency to increase the minimum, intermediate, or maximum rates of basic pay authorized under applicable statutes and regulations.
 
->     “(c) __Temporary Adjustment.—__ 
+>     “(c)  __Temporary Adjustment__  __.—__ 
 
 >     Regulations issued under subsection (a) or (b) may provide that statutory limitations on the amount of such special rates may be temporarily raised to a higher level during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012, at which time any special rate of pay in excess of the applicable limitation shall be converted to a retained rate under [section 5363 of title 5][/us/usc/t5/s5363], United States Code.
 
@@ -477,7 +477,7 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 > “SEC. 1915. __SAVINGS PROVISION.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -493,11 +493,11 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >     “(b) __Savings Provisions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         During the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012, an employee paid a special rate under 5305 of title 5, United States Code, who the day before the date of enactment of this Act \[Oct. 28, 2009\] was eligible to receive a cost-of-living allowance under [section 5941 of title 5][/us/usc/t5/s5941], United States Code, and who continues to be officially stationed in an allowance area, shall receive an increase in the employee’s special rate consistent with increases in the applicable special rate schedule. For employees in allowance areas, the minimum step rate for any grade of a special rate schedule shall be increased at the time of an increase in the applicable locality rate percentage for the allowance area by not less than the dollar increase in the locality-based comparability payment for a non-special rate employee at the same minimum step provided under section 1914 of this subtitle, and corresponding increases shall be provided for all step rates of the given pay range.
 
->         “(2) __Continuation of cost of living allowance rate.—__ 
+>         “(2)  __Continuation of cost of living allowance rate__  __.—__ 
 
 >         If an employee, who the day before the date of enactment of this Act was eligible to receive a cost-of-living allowance under [section 5941 of title 5][/us/usc/t5/s5941], United States Code, would receive a rate of basic pay and applicable locality-based comparability payment which is in excess of the maximum rate limitation set under [section 5304(g) of title 5][/us/usc/t5/s5304/g], United States Code, for his position (but for that maximum rate limitation) due to the operation of this subtitle, the employee shall continue to receive the cost-of-living allowance rate in effect on December 31, 2009 without adjustment until—
 
@@ -507,7 +507,7 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >             but, when any such position becomes vacant, the pay of any subsequent appointee thereto shall be fixed in the manner provided by applicable law and regulation.
 
->         “(3) __Locality-based comparability payments.—__ 
+>         “(3)  __Locality-based comparability payments__  __.—__ 
 
 >         Any employee covered under paragraph (2) shall receive any applicable locality-based comparability payment extended under section 1914 of this subtitle which is not in excess of the maximum rate set under [section 5304(g) of title 5][/us/usc/t5/s5304/g], United States Code, for his position including any future increase to statutory pay limitations under 5318 of title 5, United States Code. Notwithstanding paragraph (2), to the extent that an employee covered under that paragraph receives any amount of locality-based comparability payment, the cost-of-living allowance rate under that paragraph shall be reduced accordingly, as provided under [section 5941(c)(2)(B) of title 5][/us/usc/t5/s5941/c/2/B], United States Code.
 
@@ -515,7 +515,7 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >     “(a) __In General.—__ 
 
->         “(1) __Definition.—__ 
+>         “(1)  __Definition__  __.—__ 
 
 >         In this subsection, the term ‘covered employee’ means—
 
@@ -563,27 +563,27 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >         “(2) __Application to covered employees.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding any other provision of law, for purposes of this subtitle (including the amendments made by this subtitle) any covered employee shall be treated as an employee to whom [section 5941 of title 5][/us/usc/t5/s5941], United States Code (as amended by section 1912 of this subtitle), and section 1914 of this subtitle apply.
 
->             “(B) __Pay fixed by statute.—__ 
+>             “(B)  __Pay fixed by statute__  __.—__ 
 
 >             Pay to covered employees under section 5304 or 5304a of title 5, United States Code, as a result of the application of this subtitle shall be considered to be fixed by statute.
 
->             “(C) __Performance appraisal system.—__ 
+>             “(C)  __Performance appraisal system__  __.—__ 
 
 >             With respect to a covered employee who is subject to a performance appraisal system no part of pay attributable to locality-based comparability payments as a result of the application of this subtitle including [section 5941 of title 5][/us/usc/t5/s5941], United States Code (as amended by section 1912 of this subtitle), may be reduced on the basis of the performance of that employee.
 
 >     “(b) __Postal Employees in Non-foreign Areas.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         \[Amended [section 1005 of Title 39][/us/usc/t39/s1005], Postal Service.\]
 
 >         “(2) __Continuation of cost of living allowance.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding any other provision of this subtitle, any employee of the Postal Service (other than an employee covered by section 1003(b) and (c) of title 39, United States Code, whose duty station is in a nonforeign area) who is paid an allowance under section 1005(b) of that title shall be treated for all purposes as if the provisions of this subtitle (including the amendments made by this subtitle) had not been enacted, except that the cost-of-living allowance rate paid to that employee—
 
@@ -597,7 +597,7 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >                          “(II) the applicable locality-based comparability pay percentage under section 1914.
 
->             “(B) __Rule of construction.—__ 
+>             “(B)  __Rule of construction__  __.—__ 
 
 >             Nothing in this subtitle shall be construed to—
 
@@ -607,7 +607,7 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 > “SEC. 1917. __ELECTION OF ADDITIONAL BASIC PAY FOR ANNUITY COMPUTATION BY EMPLOYEES.__ 
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     In this section the term ‘covered employee’ means any employee—
 
@@ -619,27 +619,27 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >     “(b) __Election.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An employee described under subsection (a)(1) and (2) may file an election with the Office of Personnel Management to be covered under this section.
 
->         “(2) __Deadline.—__ 
+>         “(2)  __Deadline__  __.—__ 
 
 >         An election under this subsection may be filed not later than December 31, 2012.
 
 >     “(c) __Computation of Annuity.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided under paragraph (2), for purposes of the computation of an annuity of a covered employee any cost-of-living allowance under [section 5941 of title 5][/us/usc/t5/s5941], United States Code, paid to that employee during the first applicable pay period beginning on or after January 1, 2010 through the first applicable pay period ending on or after December 31, 2012, shall be considered basic pay as defined under section 8331(3) or 8401(4) of that title.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         An employee’s cost-of-living allowance may be considered basic pay under paragraph (1) only to the extent that, when added to the employee’s locality-based comparability payments, the resulting sum does not exceed the amount of the locality-based comparability payments the employee would have received during that period for the applicable pay area if the limitation under section 1914 did not apply.
 
 >     “(d) __Civil Service Retirement and Disability Retirement Fund.—__ 
 
->         “(1) __Employee contributions.—__ 
+>         “(1)  __Employee contributions__  __.—__ 
 
 >         A covered employee shall pay into the Civil Service Retirement and Disability Retirement Fund—
 
@@ -655,21 +655,21 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >         “(2) __Agency contributions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The employing agency of a covered employee shall pay into the Civil Service Retirement and Disability Retirement Fund an amount for applicable agency contributions based on payments made under paragraph (1).
 
->             “(B) __Source.—__ 
+>             “(B)  __Source__  __.—__ 
 
 >             Amounts paid under this paragraph shall be contributed from the appropriation or fund used to pay the employee.
 
->         “(3) __Regulations.—__ 
+>         “(3)  __Regulations__  __.—__ 
 
 >         The Office of Personnel Management may prescribe regulations to carry out this section.
 
 > “SEC. 1918. __REGULATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the Office of Personnel Management shall prescribe regulations to carry out this subtitle, including—
 
@@ -679,17 +679,17 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >         “(3) rules governing establishment and adjustment of saved or retained rates for any employee whose rate of pay exceeds applicable pay limitations on the first day of the first pay period beginning on or after January 1, 2012.
 
->     “(b) __Other Pay Systems.—__ 
+>     “(b)  __Other Pay Systems__  __.—__ 
 
 >     With the concurrence of the Director of the Office of Personnel Management, the administrator of a pay system not administered by the Office of Personnel Management shall prescribe regulations to carry out this subtitle with respect to employees in such pay system, consistent with the regulations prescribed by the Office under subsection (a). With respect to employees not entitled to locality-based comparability payments under [section 5304 of title 5][/us/usc/t5/s5304], United States Code, regulations prescribed under this subsection may provide for special payments or adjustments for employees who were eligible to receive a cost-of-living allowance under section 5941 of that title on the date before the date of enactment of this Act \[Oct. 28, 2009\].
 
 > “SEC. 1919. __EFFECTIVE DATES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided by subsection (b), this subtitle (including the amendments made by this subtitle) shall take effect on the date of enactment of this Act \[Oct. 28, 2009\].
 
->     “(b) __Locality Pay and Schedule.—__ 
+>     “(b)  __Locality Pay and Schedule__  __.—__ 
 
 >     The amendments made by section 1912 and the provisions of section 1914 shall take effect on the first day of the first applicable pay period beginning on or after January 1, 2010.”
 
@@ -801,7 +801,7 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 Section 529 \[title III, § 302\] of [Pub. L. 101–509][/us/pl/101/509], as amended by [Pub. L. 102–378, § 3(4)][/us/pl/102/378/s3/4], Oct. 2, 1992, [106 Stat. 1356][/us/stat/106/1356]; [Pub. L. 103–89, § 3(b)(2)][/us/pl/103/89/s3/b/2], Sept. 30, 1993, [107 Stat. 982][/us/stat/107/982], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For the purpose of this section—
 
@@ -809,13 +809,13 @@ Section 529 \[title III, § 302\] of [Pub. L. 101–509][/us/pl/101/509], as a
 
 >         “(2) the term ‘pay relative’ shall have the meaning given such term under regulations prescribed by the Bureau of Labor Statistics.
 
->     “(b) __Authority.—__ 
+>     “(b)  __Authority__  __.—__ 
 
 >         (1) The President may establish geographic adjustments of up to 8 percent of basic pay which may be paid to each General Schedule employee whose duty station is within any area where such adjustment is needed (as determined under paragraph (2)).
 
 >         “(2) In determining areas where an interim geographic adjustment is needed, the President shall consider available evidence of significant pay disparities, including BLS information on pay relatives and relevant commercial surveys, and recruitment or retention problems.
 
->     “(c) __Administration.—__ 
+>     “(c)  __Administration__  __.—__ 
 
 >         (1)
 
@@ -831,7 +831,7 @@ Section 529 \[title III, § 302\] of [Pub. L. 101–509][/us/pl/101/509], as a
 
 >         “(2) No amount payable under this section shall be taken into account in any survey or computation under, or for any other purpose in the administration of, [section 5304 of title 5][/us/usc/t5/s5304], United States Code (as so amended).
 
->     “(d) __Commencement and Termination Rules.—__ 
+>     “(d)  __Commencement and Termination Rules__  __.—__ 
 
 >         (1) The effective date of an adjustment under this section shall be as determined by the President, but not later than January 1, 1994.
 
@@ -847,11 +847,11 @@ Section 529 \[title III, § 302\] of [Pub. L. 101–509][/us/pl/101/509], as a
 
 >                 “(ii) the rate at which payments under this section are payable.
 
->     “(e) __Employees Receiving Special Pay Rates.—__ 
+>     “(e)  __Employees Receiving Special Pay Rates__  __.—__ 
 
 >     The President (or his designated agent) shall determine what, if any, geographic adjustment shall be payable under this section in the case of an employee whose rate of pay is fixed under [section 5303 of title 5][/us/usc/t5/s5303], United States Code (as in effect before the date of enactment of this Act \[Nov. 5, 1990\]), [section 5305 of title 5][/us/usc/t5/s5305], United States Code (as amended by section 101 of this Act), or any similar provision of law.
 
->     “(f) __Effective Date.—__ 
+>     “(f)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of enactment of this Act \[Nov. 5, 1990\].”
 

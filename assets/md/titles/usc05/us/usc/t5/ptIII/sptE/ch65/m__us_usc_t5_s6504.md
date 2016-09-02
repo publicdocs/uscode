@@ -15,11 +15,11 @@
 
 ## § 6504. Policy and support
 
-    (a) __Agency Consultation With the Office of Personnel Management.—__ 
+    (a)  __Agency Consultation With the Office of Personnel Management__  __.—__ 
 
     Each executive agency shall consult with the Office of Personnel Management in developing telework policies.
 
-    (b) __Guidance and Consultation.—__ 
+    (b)  __Guidance and Consultation__  __.—__ 
 
     The Office of Personnel Management shall—
 
@@ -39,11 +39,11 @@
 
     (c) __Security Guidelines.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Director of the Office of Management and Budget, in coordination with the Department of Homeland Security and the National Institute of Standards and Technology, shall issue guidelines not later than 180 days after the date of the enactment of this chapter to ensure the adequacy of information and security protections for information and information systems used while teleworking.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         Guidelines issued under this subsection shall, at a minimum, include requirements necessary to—
 
@@ -61,15 +61,15 @@
 
     (d) __Continuity of Operations Plans.—__ 
 
-        (1) __Incorporation into continuity of operations plans.—__ 
+        (1)  __Incorporation into continuity of operations plans__  __.—__ 
 
         Each executive agency shall incorporate telework into the continuity of operations plan of that agency.
 
-        (2) __Continuity of operations plans supersede telework policy.—__ 
+        (2)  __Continuity of operations plans supersede telework policy__  __.—__ 
 
         During any period that an executive agency is operating under a continuity of operations plan, that plan shall supersede any telework policy.
 
-    (e) __Telework Website.—__ 
+    (e)  __Telework Website__  __.—__ 
 
     The Office of Personnel Management shall—
 
@@ -87,7 +87,7 @@
 
             (D) guidance submitted by the Federal Emergency Management Agency, and the General Services Administration to the Office of Personnel Management not later than 10 business days after the date of submission.
 
-    (f) __Policy Guidance on Purchasing Computer Systems.—__ 
+    (f)  __Policy Guidance on Purchasing Computer Systems__  __.—__ 
 
     Not later than 120 days after the date of the enactment of this chapter, the Director of the Office of Management and Budget shall issue policy guidance requiring each executive agency when purchasing computer systems, to purchase computer systems that enable and support telework, unless the head of the agency determines that there is a mission-specific reason not to do so.
 

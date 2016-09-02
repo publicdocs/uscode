@@ -17,19 +17,19 @@
 
     (a) __Services of Conveners and Facilitators.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An agency may employ or enter into contracts for the services of an individual or organization to serve as a convener or facilitator for a negotiated rulemaking committee under this subchapter, or may use the services of a Government employee to act as a convener or a facilitator for such a committee.
 
-        (2) __Determination of conflicting interests.—__ 
+        (2)  __Determination of conflicting interests__  __.—__ 
 
         An agency shall determine whether a person under consideration to serve as convener or facilitator of a committee under paragraph (1) has any financial or other interest that would preclude such person from serving in an impartial and independent manner.
 
-    (b) __Services and Facilities of Other Entities.—__ 
+    (b)  __Services and Facilities of Other Entities__  __.—__ 
 
     For purposes of this subchapter, an agency may use the services and facilities of other Federal agencies and public and private agencies and instrumentalities with the consent of such agencies and instrumentalities, and with or without reimbursement to such agencies and instrumentalities, and may accept voluntary and uncompensated services without regard to the provisions of [section 1342 of title 31][/us/usc/t31/s1342]. The Federal Mediation and Conciliation Service may provide services and facilities, with or without reimbursement, to assist agencies under this subchapter, including furnishing conveners, facilitators, and training in negotiated rulemaking.
 
-    (c) __Expenses of Committee Members.—__ 
+    (c)  __Expenses of Committee Members__  __.—__ 
 
     Members of a negotiated rulemaking committee shall be responsible for their own expenses of participation in such committee, except that an agency may, in accordance with section 7(d) of the Federal Advisory Committee Act, pay for a member’s reasonable travel and per diem expenses, expenses to obtain technical assistance, and a reasonable rate of compensation, if—
 
@@ -37,7 +37,7 @@
 
         (2) the agency determines that such member’s participation in the committee is necessary to assure an adequate representation of the member’s interest.
 
-    (d) __Status of Member as Federal Employee.—__ 
+    (d)  __Status of Member as Federal Employee__  __.—__ 
 
     A member’s receipt of funds under this section or section 569 shall not conclusively determine for purposes of sections 202 through 209 of title 18 whether that member is an employee of the United States Government.
 

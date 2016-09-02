@@ -81,21 +81,21 @@
 
 [Pub. L. 105–277, div. C, title I, § 151(d)][/us/pl/105/277/s151/d], Oct. 21, 1998, [112 Stat. 2681–616][/us/stat/112/2681-616], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     Subject to paragraph (2), this section \[enacting this section and sections 3346 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under [section 3301 of this title][/us/usc/t5/s3301]\] and the amendments made by this section shall take effect 30 days after the date of enactment of this section \[Oct. 21, 1998\].
 
 >     “(2) __Application.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         This section shall apply to any office that becomes vacant after the effective date of this section.
 
->         “(B) __Immediate application of time limitation.—__ 
+>         “(B)  __Immediate application of time limitation__  __.—__ 
 
 >         Notwithstanding subparagraph (A), for any office vacant on the effective date of this section, the time limitations under [section 3346 of title 5][/us/usc/t5/s3346], United States Code (as amended by this section) shall apply to such office. Such time limitations shall apply as though such office first became vacant on the effective date of this section.
 
->         “(C) __Certain nominations.—__ 
+>         “(C)  __Certain nominations__  __.—__ 
 
 >         If the President submits to the Senate the nomination of any person after the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and [section 3349d of title 5][/us/usc/t5/s3349d], United States Code (as amended by this section).”
 
@@ -263,6 +263,10 @@
 
     Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, terminated upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
 
+ __General Services Administration__ 
+
+    Memorandum of President of the United States, Sept. 20, 2013, 78 F.R. 59161.
+
  __Millennium Challenge Corporation__ 
 
     Memorandum of President of the United States, May 21, 2012, 77 F.R. 31161.
@@ -295,7 +299,9 @@
 
  __Office of the Director of National Intelligence__ 
 
-    Memorandum of President of the United States, Mar. 8, 2011, 76 F.R. 13499.
+    Memorandum of President of the United States, Sept. 20, 2013, 78 F.R. 59159.
+
+    Memorandum of President of the United States, Mar. 8, 2011, 76 F.R. 13499, revoked by Memorandum of President of the United States, § 4, Sept. 20, 2013, 78 F.R. 59159.
 
     Memorandum of President of the United States, Oct. 3, 2008, 73 F.R. 58869, revoked by Memorandum of President of the United States, § 5, Mar. 8, 2011, 76 F.R. 13499.
 

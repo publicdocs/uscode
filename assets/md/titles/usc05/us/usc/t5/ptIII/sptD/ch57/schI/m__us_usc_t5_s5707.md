@@ -147,11 +147,11 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 
 [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXV, § 2505, Oct. 21, 1998, [112 Stat. 2681–837][/us/stat/112/2681-837], as amended by [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 707\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–461; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     Except as provided in subsection (e), none of the funds authorized to be appropriated for the Department of State for fiscal year 2000 or 2001 may be used to pay for the expenses of foreign travel by an officer or employee of an Executive branch agency to attend an international conference, or for the routine services that a United States diplomatic mission or consular post provides in support of foreign travel by such an officer or employee to attend an international conference, unless that officer or employee has submitted a preliminary report with respect to that foreign travel in accordance with subsection (b), and has not previously failed to submit a final report with respect to foreign travel to attend an international conference required by subsection (c).
 
->     “(b) __Preliminary Reports.—__ 
+>     “(b)  __Preliminary Reports__  __.—__ 
 
 >     A preliminary report referred to in subsection (a) is a report by an officer or employee of an Executive branch agency with respect to proposed foreign travel to attend an international conference, submitted to the Director prior to commencement of the travel, setting forth—
 
@@ -161,7 +161,7 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 
 >         “(3) the purpose and duration of the travel.
 
->     “(c) __Final Reports.—__ 
+>     “(c)  __Final Reports__  __.—__ 
 
 >     A final report referred to in subsection (a) is a report by an officer or employee of an Executive branch agency with respect to foreign travel to attend an international conference, submitted to the Director not later than 30 days after the conclusion of the travel—
 
@@ -169,7 +169,7 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 
 >         “(2) updating any other information included in the preliminary report.
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     The Director shall submit a report on January 31 of the years 2000 and 2001 and July 31 of the years 2000 and 2001, to the Committees on Foreign Relations and Appropriations of the Senate and the Committees on International Relations and Appropriations of the House of Representatives, setting forth with respect to each international conference for which reports described in subsection (c) were required to be submitted to the Director during the preceding six months—
 
@@ -179,7 +179,7 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 
 >         “(3) the total cost of travel by officers and employees of Executive branch agencies to the international conference.
 
->     “(e) __Exceptions.—__ 
+>     “(e)  __Exceptions__  __.—__ 
 
 >     This section shall not apply to travel by—
 
@@ -189,15 +189,15 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 
 >         “(3) any officer or employee who travels prior to January 1, 1999.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Director.—__ 
+>         “(1)  __Director__  __.—__ 
 
 >         The term ‘Director’ means the Director of the Office of International Conferences of the Department of State.
 
->         “(2) __Executive branch agency.—__ 
+>         “(2)  __Executive branch agency__  __.—__ 
 
 >         The terms ‘Executive branch agency’ and ‘Executive branch agencies’ mean—
 
@@ -205,11 +205,11 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 
 >             “(B) the Executive Office of the President (except as provided in subsection (e)).
 
->         “(3) __International conference.—__ 
+>         “(3)  __International conference__  __.—__ 
 
 >         The term ‘international conference’ means any meeting held under the auspices of an international organization or foreign government, at which representatives of more than two foreign governments are expected to be in attendance, and to which United States Executive branch agencies will send a total of ten or more representatives.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Oct. 21, 1998\], and annually thereafter, the President shall submit to the appropriate congressional committees a report describing—
 

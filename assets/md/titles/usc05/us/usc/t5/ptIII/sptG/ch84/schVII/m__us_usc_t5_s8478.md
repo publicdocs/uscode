@@ -85,11 +85,11 @@
 
 [Pub. L. 99–556, title I, § 113][/us/pl/99/556/s113], Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), until such time as the Secretary of Labor promulgates final regulations under [section 8478 of title 5][/us/usc/t5/s8478], United States Code, the Secretary of Labor may, with respect to the Thrift Savings Fund, apply the temporary regulations under section 412 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1112][/us/usc/t29/s1112]\] that are set forth in section 2550.412–1, and subchapter I of chapter XXV, of title 29 of the Code of Federal Regulations, as in effect on September 23, 1986.
 
->     “(b) __Termination of Interim Authority.—__ 
+>     “(b)  __Termination of Interim Authority__  __.—__ 
 
 >     The authority to apply the temporary regulations referred to in subsection (a) with respect to the Thrift Savings Fund shall expire not later than December 31, 1989.”
 

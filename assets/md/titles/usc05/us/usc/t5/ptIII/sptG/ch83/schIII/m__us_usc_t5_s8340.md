@@ -339,7 +339,7 @@ In subsection (a), the words “Effective December 1, 1965 \* \* \* before D
 
 [Pub. L. 103–66, title XI, § 11001][/us/pl/103/66/s11001], Aug. 10, 1993, [107 Stat. 408][/us/stat/107/408], provided that:
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     This section shall apply with respect to any cost-of-living increase scheduled to take effect, during fiscal year 1994, 1995, or 1996, under—
 
@@ -349,11 +349,11 @@ In subsection (a), the words “Effective December 1, 1965 \* \* \* before D
 
 >         “(3) section 291 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2131][/us/usc/t50/s2131]), as set forth in section 802 of the CIARDS Technical Corrections Act of 1992 ([Public Law 102–496][/us/pl/102/496]; [106 Stat. 3196][/us/stat/106/3196]).
 
->     “(b) __Delay in Effective Date of Adjustments.—__ 
+>     “(b)  __Delay in Effective Date of Adjustments__  __.—__ 
 
 >     A cost-of-living increase described in subsection (a) shall not take effect until the first day of the third calendar month after the date such increase would otherwise take effect.
 
->     “(c) __Rule of Construction.—__ 
+>     “(c)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be considered to affect any determination relating to eligibility for an annuity increase or the amount of the first increase in an annuity under section 8340(b) or (c) or section 8462(b) or (c) of title 5, United States Code, or comparable provisions of law.”
 

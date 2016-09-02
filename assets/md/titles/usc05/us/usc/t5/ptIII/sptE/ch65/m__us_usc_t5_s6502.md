@@ -17,7 +17,7 @@
 
     (a) __Telework Eligibility.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 180 days after the date of enactment of this chapter, the head of each executive agency shall—
 
@@ -27,7 +27,7 @@
 
             (C) notify all employees of the agency of their eligibility to telework.
 
-        (2) __Limitation.—__ 
+        (2)  __Limitation__  __.—__ 
 
         An employee may not telework under a policy established under this section if—
 
@@ -35,7 +35,7 @@
 
             (B) the employee has been officially disciplined for violations of subpart G of the Standards of Ethical Conduct for Employees of the Executive Branch for viewing, downloading, or exchanging pornography, including child pornography, on a Federal Government computer or while performing official Federal Government duties.
 
-    (b) __Participation.—__ 
+    (b)  __Participation__  __.—__ 
 
     The policy described under subsection (a) shall—
 

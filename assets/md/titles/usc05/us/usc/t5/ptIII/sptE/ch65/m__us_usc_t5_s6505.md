@@ -15,11 +15,11 @@
 
 ## § 6505. Telework Managing Officer
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The head of each executive agency shall designate an employee of the agency as the Telework Managing Officer. The Telework Managing Officer shall be established within the Office of the Chief Human Capital Officer or a comparable office with similar functions.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     The Telework Managing Officer shall—
 
@@ -37,11 +37,11 @@
 
         (3) perform other duties as the applicable delegating authority may assign.
 
-    (c) __Status Within Agency.—__ 
+    (c)  __Status Within Agency__  __.—__ 
 
     The Telework Managing Officer of an agency shall be a senior official of the agency who has direct access to the head of the agency.
 
-    (d) __Rule of Construction Regarding Status of Telework Managing Officer.—__ 
+    (d)  __Rule of Construction Regarding Status of Telework Managing Officer__  __.—__ 
 
     Nothing in this section shall be construed to prohibit an individual who holds another office or position in an agency from serving as the Telework Managing Officer for the agency under this chapter.
 

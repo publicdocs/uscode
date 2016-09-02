@@ -661,11 +661,11 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 [Pub. L. 104–231, § 12][/us/pl/104/231/s12], Oct. 2, 1996, [110 Stat. 3054][/us/stat/110/3054], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this Act \[amending this section and enacting provisions set out as notes below\] shall take effect 180 days after the date of the enactment of this Act \[Oct. 2, 1996\].
 
->     “(b) __Provisions Effective on Enactment \[sic\].—__ 
+>     “(b)  __Provisions Effective on Enactment__  __\[sic\].—__ 
 
 >     Sections 7 and 8 \[amending this section\] shall take effect one year after the date of the enactment of this Act \[Oct. 2, 1996\].”
 
@@ -725,17 +725,17 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 [Pub. L. 111–83, title V, § 565][/us/pl/111/83/s565], Oct. 28, 2009, [123 Stat. 2184][/us/stat/123/2184], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Protected National Security Documents Act of 2009’.
 
 >     “(b) Notwithstanding any other provision of the law to the contrary, no protected document, as defined in subsection (c), shall be subject to disclosure under [section 552 of title 5][/us/usc/t5/s552], United States Code\[,\] or any proceeding under that section.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Protected document.—__ 
+>         “(1)  __Protected document__  __.—__ 
 
 >         The term ‘protected document’ means any record—
 
@@ -749,21 +749,21 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >                 “(ii) relates to the treatment of individuals engaged, captured, or detained after September 11, 2001, by the Armed Forces of the United States in operations outside of the United States.
 
->         “(2) __Photograph.—__ 
+>         “(2)  __Photograph__  __.—__ 
 
 >         The term ‘photograph’ encompasses all photographic images, whether originals or copies, including still photographs, negatives, digital images, films, video tapes, and motion pictures.
 
 >     “(d) __Certification.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For any photograph described under subsection (c)(1), the Secretary of Defense shall issue a certification if the Secretary of Defense determines that disclosure of that photograph would endanger citizens of the United States, members of the United States Armed Forces, or employees of the United States Government deployed outside the United States.
 
->         “(2) __Certification expiration.—__ 
+>         “(2)  __Certification expiration__  __.—__ 
 
 >         A certification and a renewal of a certification issued pursuant to subsection (d)(3) shall expire 3 years after the date on which the certification or renewal, \[sic\] is issued by the Secretary of Defense.
 
->         “(3) __Certification renewal.—__ 
+>         “(3)  __Certification renewal__  __.—__ 
 
 >         The Secretary of Defense may issue—
 
@@ -771,15 +771,15 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >             “(B) more than 1 renewal of a certification.
 
->         “(4) __Notice to congress.—__ 
+>         “(4)  __Notice to congress__  __.—__ 
 
 >         The Secretary of Defense shall provide Congress a timely notice of the Secretary’s issuance of a certification and of a renewal of a certification.
 
->     “(e) __Rule of Construction.—__ 
+>     “(e)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to preclude the voluntary disclosure of a protected document.
 
->     “(f) __Effective Date.—__ 
+>     “(f)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of enactment of this Act \[Oct. 28, 2009\] and apply to any protected document.”
 
@@ -819,11 +819,11 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 [Pub. L. 108–375, div. A, title IX, § 914][/us/pl/108/375/s914], Oct. 28, 2004, [118 Stat. 2029][/us/stat/118/2029], provided that:
 
->     “(a) __Mandatory Disclosure Requirements Inapplicable.—__ 
+>     “(a)  __Mandatory Disclosure Requirements Inapplicable__  __.—__ 
 
 >     The requirements to make information available under [section 552 of title 5][/us/usc/t5/s552], United States Code, shall not apply to land remote sensing information.
 
->     “(b) __Land Remote Sensing Information Defined.—__ 
+>     “(b)  __Land Remote Sensing Information Defined__  __.—__ 
 
 >     In this section, the term ‘land remote sensing information’—
 
@@ -837,19 +837,19 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >         “(2) includes any imagery and other product that is derived from such data and which is prohibited from sale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license described in paragraph (1)(B).
 
->     “(c) __State or Local Government Disclosures.—__ 
+>     “(c)  __State or Local Government Disclosures__  __.—__ 
 
 >     Land remote sensing information provided by the head of a department or agency of the United States to a State, local, or tribal government may not be made available to the general public under any State, local, or tribal law relating to the disclosure of information or records.
 
->     “(d) __Safeguarding Information.—__ 
+>     “(d)  __Safeguarding Information__  __.—__ 
 
 >     The head of each department or agency of the United States having land remote sensing information within that department or agency or providing such information to a State, local, or tribal government shall take such actions, commensurate with the sensitivity of that information, as are necessary to protect that information from disclosure other than in accordance with this section and other applicable law.
 
->     “(e) __Additional Definition.—__ 
+>     “(e)  __Additional Definition__  __.—__ 
 
 >     In this section, the term ‘land remote sensing’ has the meaning given such term in section 3 of the Land Remote Sensing Policy Act of 1992 (\[former\] [15 U.S.C. 5602][/us/usc/t15/s5602]) \[now [51 U.S.C. 60101][/us/usc/t51/s60101]\].
 
->     “(f) __Disclosure to Congress.—__ 
+>     “(f)  __Disclosure to Congress__  __.—__ 
 
 >     Nothing in this section shall be construed to authorize the withholding of information from the appropriate committees of Congress.”
 
@@ -869,19 +869,19 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 > “SEC. 802. __DESIGNATION.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Agency.—__ 
+>         “(1)  __Agency__  __.—__ 
 
 >         The term ‘agency’ has the meaning given such term under [section 551 of title 5][/us/usc/t5/s551], United States Code.
 
->         “(2) __Interagency group.—__ 
+>         “(2)  __Interagency group__  __.—__ 
 
 >         The term ‘Interagency Group’ means the Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group established under subsection (b).
 
->         “(3) __Japanese imperial government records.—__ 
+>         “(3)  __Japanese imperial government records__  __.—__ 
 
 >         The term ‘Japanese Imperial Government records’ means classified records or portions of records that pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
 
@@ -893,21 +893,21 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >             “(D) any government which was an ally of the Japanese Imperial Government.
 
->         “(4) __Record.—__ 
+>         “(4)  __Record__  __.—__ 
 
 >         The term ‘record’ means a Japanese Imperial Government record.
 
 >     “(b) __Establishment of Interagency Group.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 60 days after the date of the enactment of this Act \[Dec. 27, 2000\], the President shall designate the Working Group established under the Nazi War Crimes Disclosure Act ([Public Law 105–246][/us/pl/105/246]; [5 U.S.C. 552][/us/usc/t5/s552] note) to also carry out the purposes of this title with respect to Japanese Imperial Government records, and that Working Group shall remain in existence for 6 years after the date on which this title takes effect. Such Working Group is redesignated as the ‘Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group’.
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         \[Amended [Pub. L. 105–246][/us/pl/105/246], set out as a note below.\]
 
->     “(c) __Functions.—__ 
+>     “(c)  __Functions__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 27, 2000\], the Interagency Group shall, to the greatest extent possible consistent with section 803—
 
@@ -917,17 +917,17 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >         “(3) submit a report to Congress, including the Committee on Government Reform \[now Committee on Oversight and Government Reform\] and the Permanent Select Committee on Intelligence of the House of Representatives, and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this title.
 
 > “SEC. 803. __REQUIREMENT OF DISCLOSURE OF RECORDS.__ 
 
->     “(a) __Release of Records.—__ 
+>     “(a)  __Release of Records__  __.—__ 
 
 >     Subject to subsections (b), (c), and (d), the Japanese Imperial Government Records Interagency Working Group shall release in their entirety Japanese Imperial Government records.
 
->     “(b) __Exemptions.—__ 
+>     “(b)  __Exemptions__  __.—__ 
 
 >     An agency head may exempt from release under subsection (a) specific information, that would—
 
@@ -953,15 +953,15 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >     “(c) __Applications of Exemptions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In applying the exemptions provided in paragraphs (2) through (10) of subsection (b), there shall be a presumption that the public interest will be served by disclosure and release of the records of the Japanese Imperial Government. The exemption may be asserted only when the head of the agency that maintains the records determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] and the Permanent Select Committee on Intelligence of the House of Representatives.
 
->         “(2) __Application of title 5.—__ 
+>         “(2)  __Application of title 5__  __.—__ 
 
 >         A determination by an agency head to apply an exemption provided in paragraphs (2) through (9) of subsection (b) shall be subject to the same standard of review that applies in the case of records withheld under [section 552(b)(1) of title 5][/us/usc/t5/s552/b/1], United States Code.
 
->     “(d) __Records Related to Investigations or Prosecutions.—__ 
+>     “(d)  __Records Related to Investigations or Prosecutions__  __.—__ 
 
 >     This section shall not apply to records—
 
@@ -987,7 +987,7 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 > “SEC. 2. __ESTABLISHMENT OF NAZI WAR CRIMINAL RECORDS INTERAGENCY WORKING GROUP.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section the term—
 
@@ -1001,19 +1001,19 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >     “(b) __Establishment of Interagency Group.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 60 days after the date of enactment of this Act \[Oct. 8, 1998\], the President shall establish the Nazi War Criminal Records Interagency Working Group, which shall remain in existence for 3 years after the date the Interagency Group is established.
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         The President shall appoint to the Interagency Group individuals whom the President determines will most completely and effectively carry out the functions of the Interagency Group within the time limitations provided in this section, including the Director of the Holocaust Museum, the Historian of the Department of State, the Archivist of the United States, the head of any other agency the President considers appropriate, and no more than 4 other persons who shall be members of the public, of whom 3 shall be persons appointed under the provisions of this Act in effect on October 8, 1998..\[sic\] The head of an agency appointed by the President may designate an appropriate officer to serve on the Interagency Group in lieu of the head of such agency.
 
->         “(3) __Initial meeting.—__ 
+>         “(3)  __Initial meeting__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act, the Interagency Group shall hold an initial meeting and begin the functions required under this section.
 
->     “(c) __Functions.—__ 
+>     “(c)  __Functions__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Oct. 8, 1998\], the Interagency Group shall, to the greatest extent possible consistent with section 3 of this Act—
 
@@ -1023,13 +1023,13 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >         “(3) submit a report to Congress, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act.
 
 > “SEC. 3. __REQUIREMENT OF DISCLOSURE OF RECORDS REGARDING PERSONS WHO COMMITTED NAZI WAR CRIMES.__ 
 
->     “(a) __Nazi War Criminal Records.—__ 
+>     “(a)  __Nazi War Criminal Records__  __.—__ 
 
 >     For purposes of this Act, the term ‘Nazi war criminal records’ means classified records or portions of records that—
 
@@ -1055,11 +1055,11 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >     “(b) __Release of Records.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraphs (2), (3), and (4), the Nazi War Criminal Records Interagency Working Group shall release in their entirety Nazi war criminal records that are described in subsection (a).
 
->         “(2) __Exception for privacy, etc.—__ 
+>         “(2)  __Exception for privacy, etc__  __.—__ 
 
 >         An agency head may exempt from release under paragraph (1) specific information, that would—
 
@@ -1085,15 +1085,15 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >         “(3) __Application of exemptions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In applying the exemptions listed in subparagraphs (B) through (J) of paragraph (2), there shall be a presumption that the public interest in the release of Nazi war criminal records will be served by disclosure and release of the records. Assertion of such exemption may only be made when the agency head determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives. The exemptions set forth in paragraph (2) shall constitute the only authority pursuant to which an agency head may exempt records otherwise subject to release under paragraph (1).
 
->             “(B) __Application of title 5.—__ 
+>             “(B)  __Application of title 5__  __.—__ 
 
 >             A determination by an agency head to apply an exemption listed in subparagraphs (B) through (I) of paragraph (2) shall be subject to the same standard of review that applies in the case of records withheld under [section 552(b)(1) of title 5][/us/usc/t5/s552/b/1], United States Code.
 
->         “(4) __Limitation on application.—__ 
+>         “(4)  __Limitation on application__  __.—__ 
 
 >         This subsection shall not apply to records—
 
@@ -1101,17 +1101,17 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >             “(B) solely in the possession, custody, or control of that office.
 
->     “(c) __Inapplicability of National Security Act of 1947 Exemption.—__ 
+>     “(c)  __Inapplicability of National Security Act of__  __1947__  __Exemption__  __.—__ 
 
 >     Section 701(a) of the National Security Act of 1947 ([50 U.S.C. 431][/us/usc/t50/s431]\[(a)\]) \[now [50 U.S.C. 3141(a)][/us/usc/t50/s3141/a]\] shall not apply to any operational file, or any portion of any operational file, that constitutes a Nazi war criminal record under section 3 of this Act.
 
 > “SEC. 4. __EXPEDITED PROCESSING OF FOIA REQUESTS FOR NAZI WAR CRIMINAL RECORDS.__ 
 
->     “(a) __Expedited Processing.—__ 
+>     “(a)  __Expedited Processing__  __.—__ 
 
 >     For purposes of expedited processing under [section 552(a)(6)(E) of title 5][/us/usc/t5/s552/a/6/E], United States Code, any requester of a Nazi war criminal record shall be deemed to have a compelling need for such record.
 
->     “(b) __Requester.—__ 
+>     “(b)  __Requester__  __.—__ 
 
 >     For purposes of this section, the term ‘requester’ means any person who was persecuted in the manner described under section 3(a)(1) of this Act who requests a Nazi war criminal record.
 
@@ -1123,7 +1123,7 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 [Section 2 of Pub. L. 104–231][/us/pl/104/231/s2] provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -1139,7 +1139,7 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >         “(6) Government agencies should use new technology to enhance public access to agency records and information.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 1996 Amendment note above\] are to—
 
@@ -1155,7 +1155,7 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 [Pub. L. 103–236, title V, § 533][/us/pl/103/236/s533], Apr. 30, 1994, [108 Stat. 480][/us/stat/108/480], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Data with respect to a foreign country collected by sensors during observation flights conducted in connection with the Treaty on Open Skies, including flights conducted prior to entry into force of the treaty, shall be exempt from disclosure under the Freedom of Information Act—
 
@@ -1163,11 +1163,11 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
 >         “(2) if the country has not, acting through the Open Skies Consultative Commission or any other diplomatic channel, authorized the United States to disclose the data to the public.
 
->     “(b) __Statutory Construction.—__ 
+>     “(b)  __Statutory Construction__  __.—__ 
 
 >     This section constitutes a specific exemption within the meaning of [section 552(b)(3) of title 5][/us/usc/t5/s552/b/3], United States Code.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For the purposes of this section—
 

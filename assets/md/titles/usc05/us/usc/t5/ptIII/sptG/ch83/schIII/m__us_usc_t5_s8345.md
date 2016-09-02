@@ -267,7 +267,7 @@ Sept. 6, 1960, Pub. L. 86–713, § 1(b), 74 Stat. 814.  </td>
 
 Section 305(b)–(d) of [Pub. L. 99–251][/us/pl/99/251] provided that:
 
->     “(b) __Savings Provision.—__ 
+>     “(b)  __Savings Provision__  __.—__ 
 
 >     An annuity payable from the Civil Service Retirement and Disability Fund as of the day before the date of enactment of this Act \[Feb. 27, 1986\] shall not be reduced—
 
@@ -275,11 +275,11 @@ Section 305(b)–(d) of [Pub. L. 99–251][/us/pl/99/251] provided that:
 
 >         “(2) if or to the extent that the reduction is to be made for the purpose of eliminating an overpayment resulting from the manner in which such section 8345(f) has been administered by the Office of Personnel Management.
 
->     “(c) __Ratification of Erroneous Payments.—__ 
+>     “(c)  __Ratification of Erroneous Payments__  __.—__ 
 
 >     Any individual to whom an overpayment of an annuity has been made from the Civil Service Retirement and Disability Fund before the date of enactment of this Act \[Feb. 27, 1986\] shall be deemed to have been entitled to that overpayment if and to the extent that such overpayment resulted from the manner in which the Office of Personnel Management has administered [section 8345(f) of title 5][/us/usc/t5/s8345/f], United States Code.
 
->     “(d) __Adjustments of Certain Reductions.—__ 
+>     “(d)  __Adjustments of Certain Reductions__  __.—__ 
 
 >         (1)
 

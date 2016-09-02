@@ -15,7 +15,7 @@
 
 ## § 3330d. Appointment of certain military spouses
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -79,7 +79,7 @@
 
                 (ii) has not remarried.
 
-    (b) __Appointment Authority.—__ 
+    (b)  __Appointment Authority__  __.—__ 
 
     The head of an agency may appoint noncompetitively—
 
@@ -89,21 +89,21 @@
 
     (c) __Special Rules Regarding Relocating Spouse.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An appointment of a relocating spouse of a member of the Armed Forces under this section may only be to a position the duty station for which is within the geographic area of the permanent duty station of the member of the Armed Forces, unless there is no agency with a position with a duty station within the geographic area of the permanent duty station of the member of the Armed Forces.
 
-        (2) __Single permanent appointment per duty station.—__ 
+        (2)  __Single permanent appointment per duty station__  __.—__ 
 
         A relocating spouse of a member of the Armed Forces may not receive more than 1 permanent appointment under this section for each time the spouse relocates as described in subparagraphs (B) and (C) of subsection (a)(5).
 
     (d) __Special Rules Regarding Spouse of a Disabled or Deceased Member of the Armed Forces.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(6) is not restricted to a geographical area.
 
-        (2) __Single permanent appointment.—__ 
+        (2)  __Single permanent appointment__  __.—__ 
 
         A spouse of a disabled or deceased member of the Armed Forces may not receive more than 1 permanent appointment under this section.
 

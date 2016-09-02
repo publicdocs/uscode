@@ -15,7 +15,7 @@
 
 ## § 10206. Technician positions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) Each member whose position is determined under section 10202(a)(3) to be included as a technician position shall, on or after such date, receive, in addition to the member’s scheduled rate of basic pay, an amount equal to 6 percent of the sum of such member’s rate of basic pay and the applicable locality-based comparability payment.
 
@@ -23,7 +23,7 @@
 
         (3) The additional compensation authorized by this subsection shall be paid to a member in the same manner and at the same time as the member’s basic pay is paid.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
         (1) Except as provided in paragraph (2), the additional compensation authorized by subsection (a)(1) shall be considered as basic pay for all purposes, including section 8401(4).
 

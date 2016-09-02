@@ -33,7 +33,7 @@
 
 [Pub. L. 107–296, title XIII, § 1303][/us/pl/107/296/s1303], Nov. 25, 2002, [116 Stat. 2288][/us/stat/116/2288], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a Chief Human Capital Officers Council, consisting of—
 
@@ -43,15 +43,15 @@
 
 >         “(3) the Chief Human Capital Officers of Executive departments and any other members who are designated by the Director of the Office of Personnel Management.
 
->     “(b) __Functions.—__ 
+>     “(b)  __Functions__  __.—__ 
 
 >     The Chief Human Capital Officers Council shall meet periodically to advise and coordinate the activities of the agencies of its members on such matters as modernization of human resources systems, improved quality of human resources information, and legislation affecting human resources operations and organizations.
 
->     “(c) __Employee Labor Organizations at Meetings.—__ 
+>     “(c)  __Employee Labor Organizations at Meetings__  __.—__ 
 
 >     The Chief Human Capital Officers Council shall ensure that representatives of Federal employee labor organizations are present at a minimum of 1 meeting of the Council each year. Such representatives shall not be members of the Council.
 
->     “(d) __Annual Report.—__ 
+>     “(d)  __Annual Report__  __.—__ 
 
 >     Each year the Chief Human Capital Officers Council shall submit a report to Congress on the activities of the Council.”
 

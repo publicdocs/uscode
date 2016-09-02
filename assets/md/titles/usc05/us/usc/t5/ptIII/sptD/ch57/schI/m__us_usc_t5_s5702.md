@@ -215,15 +215,15 @@ Aug. 14, 1961, Pub. L. 87–139, §§ 1, 8(a), 75 Stat. 339, 340.  </td>
 
 [Pub. L. 107–107, div. A, title XI, § 1116][/us/pl/107/107/s1116], Dec. 28, 2001, [115 Stat. 1241][/us/stat/115/1241], provided that:
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     In this section, the term ‘agency’ has the meaning given that term under [section 5701 of title 5][/us/usc/t5/s5701], United States Code.
 
->     “(b) __Retention of Travel Promotional Items.—__ 
+>     “(b)  __Retention of Travel Promotional Items__  __.—__ 
 
 >     To the extent provided under subsection (c), a Federal employee, member of the Foreign Service, member of a uniformed service, any family member or dependent of such an employee or member, or other individual who receives a promotional item (including frequent flyer miles, upgrade, or access to carrier clubs or facilities) as a result of using travel or transportation services obtained at Federal Government expense or accepted under [section 1353 of title 31][/us/usc/t31/s1353], United States Code, may retain the promotional item for personal use if the promotional item is obtained under the same terms as those offered to the general public and at no additional cost to the Federal Government.
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >     Subsection (b)—
 
@@ -237,15 +237,15 @@ Aug. 14, 1961, Pub. L. 87–139, §§ 1, 8(a), 75 Stat. 339, 340.  </td>
 
 >         “(2) does not apply to travel by any officer, employee, or other official of the Government who is not in or under any agency.
 
->     “(d) __Regulatory Authority.—__ 
+>     “(d)  __Regulatory Authority__  __.—__ 
 
 >     Any agency with authority to prescribe regulations governing the acquisition, acceptance, use, or disposal of any travel or transportation services obtained at Government expense or accepted under [section 1353 of title 31][/us/usc/t31/s1353], United States Code, may prescribe regulations to carry out subsection (b) with respect to those travel or transportation services.
 
->     “(e) __Repeal of Superseded Law.—__ 
+>     “(e)  __Repeal of Superseded Law__  __.—__ 
 
 >     \[Repealed [section 6008 of Pub. L. 103–355][/us/pl/103/355/s6008], formerly set out as a note below.\]
 
->     “(f) __Applicability.—__ 
+>     “(f)  __Applicability__  __.—__ 
 
 >     This section shall apply with respect to promotional items received before, on, or after the date of enactment of this Act \[Dec. 28, 2001\].”
 

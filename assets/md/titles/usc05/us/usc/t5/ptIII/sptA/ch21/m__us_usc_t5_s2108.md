@@ -323,15 +323,15 @@ Mar. 3, 1966, Pub. L. 89–358, § 11, 80 Stat. 28.  </td>
 
 [Pub. L. 110–317, § 10][/us/pl/110/317/s10], Aug. 29, 2008, [122 Stat. 3530][/us/stat/122/3530], provided that:
 
->     “(a) __Retroactive Effective Date.—__ 
+>     “(a)  __Retroactive Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b) and section 9 \[amending [section 685 of Title 26][/us/usc/t26/s685], Internal Revenue Code, and enacting provisions set out as a note under [section 685 of Title 26][/us/usc/t26/s685]\], this Act \[amending this section, [section 8521 of this title][/us/usc/t5/s8521], sections 1145, 1146, and 1174 of Title 10, Armed Forces, [section 685 of Title 26][/us/usc/t26/s685], [section 303a of Title 37][/us/usc/t37/s303a], Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under [section 101 of Title 10][/us/usc/t10/s101] and [section 685 of Title 26][/us/usc/t26/s685]\] and the amendments made by this Act shall apply with respect to any sole survivorship discharge granted after September 11, 2001.
 
->     “(b) __Date of Enactment Effective Date for Certain Amendments.—__ 
+>     “(b)  __Date of Enactment Effective Date for Certain Amendments__  __.—__ 
 
 >     The amendments made by sections 4, 7, and 8 \[amending this section and [section 8521 of this title][/us/usc/t5/s8521] and [section 1145 of Title 10][/us/usc/t10/s1145]\] shall apply with respect to any sole survivorship discharge granted after the date of the enactment of this Act \[Aug. 29, 2008\].
 
->     “(c) __Sole Survivorship Discharge Defined.—__ 
+>     “(c)  __Sole Survivorship Discharge Defined__  __.—__ 
 
 >     In this section, the term ‘sole survivorship discharge’ means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
 

@@ -157,11 +157,11 @@ Sept. 13, 1960, Pub. L. 86–767, § 103, 74 Stat. 906.  </td>
 
 >     “(a) __Authorization to Provide.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The head of an agency or department containing an element of the intelligence community may pay to the estate of a decedent described in paragraph (2) a burial allowance at the request of a representative of such estate, as determined in accordance with the laws of a State.
 
->         “(2) __Description.—__ 
+>         “(2)  __Description__  __.—__ 
 
 >         A decedent described in this paragraph is an individual—
 
@@ -177,11 +177,11 @@ Sept. 13, 1960, Pub. L. 86–767, § 103, 74 Stat. 906.  </td>
 
 >                 “(ii) occurred in connection with an intelligence activity having a substantial element of risk.
 
->     “(b) __Use of Burial Allowance.—__ 
+>     “(b)  __Use of Burial Allowance__  __.—__ 
 
 >     A burial allowance paid under subsection (a) may be used to reimburse such estate for burial expenses, including recovery, mortuary, funeral, or memorial service, cremation, burial costs, and costs of transportation by common carrier to the place selected for final disposition of the decedent.
 
->     “(c) __Amount of Burial Allowance; Relationship to Other Provisions.—__ 
+>     “(c)  __Amount of Burial Allowance; Relationship to Other Provisions__  __.—__ 
 
 >     A burial allowance paid under subsection (a) shall be—
 
@@ -195,7 +195,7 @@ Sept. 13, 1960, Pub. L. 86–767, § 103, 74 Stat. 906.  </td>
 
 >         “(2) in addition to any other benefit permitted under any other provision of law, including funds that may be expended as specified in the General Provisions section of the classified annex accompanying this Act.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 3, 2012\], the Director of the Office of Personnel Management, in consultation with the Director of National Intelligence, the Secretary of Labor, and the Secretary of Defense, shall submit to Congress a report on the feasibility of implementing legislation to provide for burial allowances at a level which adequately addresses the cost of burial expenses and provides for equitable treatment when an officer or employee of a Federal agency or department dies as the result of an injury sustained in the performance of duty.”
 

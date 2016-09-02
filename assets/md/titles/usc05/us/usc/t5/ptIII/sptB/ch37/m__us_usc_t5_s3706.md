@@ -15,11 +15,11 @@
 
 ## § 3706. Reporting requirement
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Office of Personnel Management shall, not later than April 30 and October 31 of each year, prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate a semiannual report summarizing the operation of this chapter during the immediately preceding 6-month period ending on March 31 and September 30, respectively.
 
-    (b) __Content.—__ 
+    (b)  __Content__  __.—__ 
 
     Each report shall include, with respect to the 6-month period to which such report relates—
 
@@ -37,7 +37,7 @@
 
         (3) such other information as the Office considers appropriate.
 
-    (c) __Publication.—__ 
+    (c)  __Publication__  __.—__ 
 
     A copy of each report submitted under subsection (a)—
 
@@ -45,7 +45,7 @@
 
         (2) shall be made publicly available on the Internet.
 
-    (d) __Agency Cooperation.—__ 
+    (d)  __Agency Cooperation__  __.—__ 
 
     On request of the Office, agencies shall furnish such information and reports as the Office may require in order to carry out this section.
 

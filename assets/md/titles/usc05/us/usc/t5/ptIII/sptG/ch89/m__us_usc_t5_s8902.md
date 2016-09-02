@@ -233,7 +233,7 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(7)–(9), 78 Stat. 165.  </td>
 
 [Pub. L. 100–654, title II, § 203][/us/pl/100/654/s203], Nov. 14, 1988, [102 Stat. 3845][/us/stat/102/3845], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this title \[enacting [section 8905a of this title][/us/usc/t5/s8905a] and amending this section and sections 8903, 8905, and 8909 of this title\] shall apply with respect to—
 
@@ -241,7 +241,7 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(7)–(9), 78 Stat. 165.  </td>
 
 >         “(2) any qualifying event occurring on or after the first day of the first calendar year beginning after the end of the 9-month period referred to in paragraph (1).
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     For the purpose of this section, the term ‘qualifying event’ means any of the following events:
 

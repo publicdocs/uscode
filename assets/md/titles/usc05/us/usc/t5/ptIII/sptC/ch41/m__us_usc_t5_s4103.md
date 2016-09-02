@@ -129,11 +129,11 @@ July 7, 1958, Pub. L. 85–507, § 7, 72 Stat. 331.  </td>
 
 [Pub. L. 104–146, § 9][/us/pl/104/146/s9], May 20, 1996, [110 Stat. 1373][/us/stat/110/1373], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, a Federal employee may not be required to attend or participate in an AIDS or HIV training program if such employee refuses to consent to such attendance or participation, except for training necessary to protect the health and safety of the Federal employee and the individuals served by such employees. An employer may not retaliate in any manner against such an employee because of the refusal of such employee to consent to such attendance or participation.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     As used in subsection (a), the term ‘Federal employee’ has the same meaning given the term ‘employee’ in [section 2105 of title 5][/us/usc/t5/s2105], United States Code, and such term shall include members of the armed forces.”
 

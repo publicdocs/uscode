@@ -385,11 +385,11 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (as applicable to the Federal Employe
 
 [Pub. L. 100–690, title VI, § 6401][/us/pl/100/690/s6401], Nov. 18, 1988, [102 Stat. 4370][/us/stat/102/4370], as amended by [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title IV, § 408(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1468, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Drug Enforcement Administration and the Federal Bureau of Investigation are authorized on and after October 1, 1988, to pay bonuses up to 25 percent of base pay to employees of the Drug Enforcement Administration and the Federal Bureau of Investigation who possess and make substantial use of one or more languages, other than English, in the performance of their official duties. The Administrator of the Drug Enforcement Administration and the Director of the Federal Bureau of Investigation shall develop such policies as necessary to implement the payment of these bonuses.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     The provisions of this section shall apply only to an employee who has received a bonus under this section before January 1, 1992. The provisions of subchapter III of chapter 45 of title 5, United States Code, shall apply to any employee who would otherwise be eligible to receive a bonus under this section, on and after such date.”
 

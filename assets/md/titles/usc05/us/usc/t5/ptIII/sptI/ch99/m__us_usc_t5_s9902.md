@@ -15,7 +15,7 @@
 
 ## § 9902. Department of Defense personnel authorities
 
-    (a) __Performance Management and Workforce Incentives.—__ 
+    (a)  __Performance Management and Workforce Incentives__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
             (B) Any rules or regulations promulgated pursuant to this subsection shall be deemed an agency rule or regulation under section 7117(a)(2), and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1).
 
-    (b) __Flexibilities Relating to Appointments.—__ 
+    (b)  __Flexibilities Relating to Appointments__  __.—__ 
 
         (1)
 
@@ -101,7 +101,7 @@
 
         (6) The Secretary shall develop indicators of effectiveness to determine whether appointment flexibilities under this subsection have achieved the objectives set forth in paragraph (1).
 
-    (c) __Criteria for Use of New Personnel Authorities.—__ 
+    (c)  __Criteria for Use of New Personnel Authorities__  __.—__ 
 
     In establishing any new performance management and workforce incentive system under subsection (a) or utilizing appointment flexibilities under subsection (b), the Secretary shall—
 
@@ -129,7 +129,7 @@
 
         (9) ensure that adequate agency resources are allocated for the design, implementation, and administration of such system.
 
-    (d) __Development of Training Program for Supervisors.—__ 
+    (d)  __Development of Training Program for Supervisors__  __.—__ 
 
         (1)
 
@@ -265,7 +265,7 @@
 
     (h) __Reports.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 1 year after the implementation of any performance management and workforce incentive system under subsection (a) or any procedures relating to personnel appointment flexibilities under subsection (b) (whichever is earlier), and whenever any significant action is taken under any of the preceding provisions of this section (but at least biennially) thereafter, the Secretary shall—
 
@@ -273,7 +273,7 @@
 
             (B) submit to the appropriate committees of Congress and the Comptroller General, a report describing the results of the assessments or surveys conducted under subparagraph (A) (including the methodology used), together with any other information which the Secretary considers appropriate.
 
-        (2) __Review.—__ 
+        (2)  __Review__  __.—__ 
 
         After receiving any report under paragraph (1), the Comptroller General—
 
@@ -291,7 +291,7 @@
 
                 together with any recommendations the Comptroller General considers appropriate.
 
-        (3) __Definition.—__ 
+        (3)  __Definition__  __.—__ 
 
         For purposes of this subsection, the term “appropriate committees of Congress” means—
 
@@ -395,7 +395,7 @@
 
 [Pub. L. 111–84, div. A, title XI, § 1113(a)][/us/pl/111/84/s1113/a]–(g), Oct. 28, 2009, [123 Stat. 2498–2502][/us/stat/123/2498-2502], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(17)][/us/pl/111/383/s1075/d/17], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373]; [Pub. L. 112–81, div. A, title XI, § 1102(c)(2)][/us/pl/112/81/s1102/c/2], Dec. 31, 2011, [125 Stat. 1612][/us/stat/125/1612], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -409,17 +409,17 @@
 
 >             “(B) such other provisions of law as would apply if [section 9902 of title 5][/us/usc/t5/s9902], United States Code, had never been enacted.
 
->     “(b) __Repeal of Provisions Relating to NSPS.—__ 
+>     “(b)  __Repeal of Provisions Relating to__  __NSPS.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         \[Amended this section.\]
 
->         “(2) __Expansion prohibited.—__ 
+>         “(2)  __Expansion prohibited__  __.—__ 
 
 >         The National Security Personnel System may not be extended to any organizational or functional unit of the Department of Defense (or any component thereof) not included in such System as of March 1, 2009.
 
->         “(3) __Current rules invalid.—__ 
+>         “(3)  __Current rules invalid__  __.—__ 
 
 >         Any regulations in effect as of the day before the date of the enactment of this Act \[Oct. 28, 2009\] which were issued pursuant to any provision of law repealed by paragraph (1)(A)—
 
@@ -429,7 +429,7 @@
 
 >     “(c) __Termination of NSPS and Conversion of Employees and Positions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall take all actions which may be necessary to provide, beginning no later than 6 months after the date of enactment of this Act \[Oct. 28, 2009\], for the orderly termination of the National Security Personnel System and conversion of all employees and positions from such System, by not later than January 1, 2012, to—
 
@@ -439,35 +439,35 @@
 
 >             No employee shall suffer any loss of or decrease in pay because of the preceding sentence, and, for purposes of carrying out such preceding sentence, any determination of the system that last applied (or that would have applied) with respect to an employee or position shall take into account any modifications to such system pursuant to the provisions of subsections (a) and (b) of [section 9902 of title 5][/us/usc/t5/s9902], United States Code, as amended by subsection (d).
 
->         “(2) __Transition period appointments.—__ 
+>         “(2)  __Transition period appointments__  __.—__ 
 
 >         To the extent practicable, any individual who, during the NSPS transition period, is appointed to any position within the Department of Defense which is subject to the NSPS shall be subject to the statutory pay system and all other aspects of the personnel system to which such individual or position is to be converted in accordance with the requirements of paragraph (1).
 
->         “(3) __Temporary continuation of nsps.—__ 
+>         “(3)  __Temporary continuation of nsps__  __.—__ 
 
 >         Notwithstanding any other provision of this section, the National Security Personnel System, as in effect on the day before the date of the enactment of this Act, shall continue to apply with respect to any employees and positions remaining subject to the NSPS, in accordance with paragraph (1), during the NSPS transition period.
 
->         “(4) __Restoration of full annual pay adjustments under nsps pending its termination.—__ 
+>         “(4)  __Restoration of full annual pay adjustments under nsps pending its termination__  __.—__ 
 
 >         Notwithstanding subsection (b)(1)(A) \[amending this section\], [section 9902(e)(7) of title 5][/us/usc/t5/s9902/e/7], United States Code, to the extent that it remains in force under paragraph (3), shall be applied by substituting ‘100 percent’ for ‘no less than 60 percent’.
 
->         “(5) __NSPS transition period defined.—__ 
+>         “(5)  __NSPS transition period defined__  __.—__ 
 
 >         For purposes of this subsection, the term ‘NSPS transition period’ means the period beginning on the date of the enactment of this Act and ending on January 1, 2012.
 
->     “(d) __Authority Relating to Performance Management and Workforce Incentives, Hiring Flexibilities, and Training of Supervisors.—__ 
+>     “(d)  __Authority Relating to Performance Management and Workforce Incentives, Hiring Flexibilities, and Training of Supervisors__  __.—__ 
 
 >     \[Amended this section.\]
 
 >     “\[(e) Repealed. [Pub. L. 112–81, div. A, title XI, § 1102(c)(2)][/us/pl/112/81/s1102/c/2], Dec. 31, 2011, [125 Stat. 1612][/us/stat/125/1612].\]
 
->     “(f) __Clerical Amendments.—__ 
+>     “(f)  __Clerical Amendments__  __.—__ 
 
 >     \[Amended this section and analysis preceding [section 9901 of this title][/us/usc/t5/s9901].\]
 
 >     “(g) __Other Personnel Flexibilities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the Secretary of Defense determines that it would be in the best interest of the Department of Defense to implement personnel flexibilities in addition to those authorized under [section 9902 of title 5][/us/usc/t5/s9902], United States Code, as amended by this section, the Secretary, in coordination with the Director of the Office of Personnel Management, may develop and submit to the covered committees, not later than 6 months after the date of the enactment of this Act \[Oct. 28, 2009\], a proposal to implement—
 
@@ -475,11 +475,11 @@
 
 >             “(B) additional personnel flexibilities and associated statutory waivers, which would require exemption from the application of the General Schedule (as so defined).
 
->         “(2) __Rationale.—__ 
+>         “(2)  __Rationale__  __.—__ 
 
 >         If the Secretary’s proposal is to implement authorities described in paragraph (1)(B), the Secretary shall provide a detailed rationale as to why implementation of authorities described in paragraph (1)(A) are not adequate or appropriate to meet the interests of the Department.
 
->         “(3) __Requirements.—__ 
+>         “(3)  __Requirements__  __.—__ 
 
 >         The Secretary’s proposal (whether as described in paragraph (1)(A) or (1)(B))—
 
@@ -493,15 +493,15 @@
 
 >             “(E) may not provide for the waiver of any provision of law that cannot be waived under paragraph (3) of [section 9902(b) of title 5][/us/usc/t5/s9902/b], United States Code (as in effect on the day before the date of the enactment of this Act), and shall be subject to the requirements in paragraphs (4) and (5) of such section (as then in effect).
 
->         “(4) __Congressional approval required.—__ 
+>         “(4)  __Congressional approval required__  __.—__ 
 
 >         If Congress approves the Secretary’s proposal in the National Defense Authorization Act for Fiscal Year 2011, the Secretary may implement the proposal (subject to any changes required by law) and begin the implementation of such proposal for personnel included in the National Security Personnel System, in lieu of the transition that would otherwise be required by subsection (b), subject to paragraph (5).
 
->         “(5) __Restrictions.—__ 
+>         “(5)  __Restrictions__  __.—__ 
 
 >         Notwithstanding any approval under paragraph (4), the provisions of subsection (b)(2) and (c)(4) shall apply with respect to any proposal approved under such paragraph, unless and until modified or repealed in legislation enacted after the date of the enactment of this Act.
 
->         “(6) __Definitions.—__ 
+>         “(6)  __Definitions__  __.—__ 
 
 >         For purposes of this subsection, the term ‘covered committees’ means—
 
@@ -525,7 +525,7 @@
 
 [Pub. L. 108–136, div. A, title XI, § 1111][/us/pl/108/136/s1111], Nov. 24, 2003, [117 Stat. 1634][/us/stat/117/1634], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     The Secretary of Defense may carry out a pilot program using an automated workforce management system to demonstrate improved efficiency in the performance of civilian personnel management. The automated workforce management system used for the pilot program shall be capable of automating the following workforce management functions:
 
@@ -539,7 +539,7 @@
 
 >         “(5) Performance management.
 
->     “(b) __Authorities Under Pilot Program.—__ 
+>     “(b)  __Authorities Under Pilot Program__  __.—__ 
 
 >     Under the pilot program, the Secretary of Defense shall provide the Secretary of each military department with the authority for the following:
 
@@ -561,7 +561,7 @@
 
 >         “(2) Identify at least one regional civilian personnel center (or equivalent) in that military department for participation in the pilot program.
 
->     “(c) __Duration of Pilot Program.—__ 
+>     “(c)  __Duration of Pilot Program__  __.—__ 
 
 >     The Secretary of Defense may carry out the pilot program under this section at each selected regional civilian personnel center for a period of two years beginning not later than March 1, 2004.”
 

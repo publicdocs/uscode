@@ -17,19 +17,19 @@
 
     (a) __Establishment.—__ 
 
-        (1) __Determination to establish committee.—__ 
+        (1)  __Determination to establish committee__  __.—__ 
 
         If after considering comments and applications submitted under section 564, the agency determines that a negotiated rulemaking committee can adequately represent the interests that will be significantly affected by a proposed rule and that it is feasible and appropriate in the particular rulemaking, the agency may establish a negotiated rulemaking committee. In establishing and administering such a committee, the agency shall comply with the Federal Advisory Committee Act with respect to such committee, except as otherwise provided in this subchapter.
 
-        (2) __Determination not to establish committee.—__ 
+        (2)  __Determination not to establish committee__  __.—__ 
 
         If after considering such comments and applications, the agency decides not to establish a negotiated rulemaking committee, the agency shall promptly publish notice of such decision and the reasons therefor in the Federal Register and, as appropriate, in trade or other specialized publications, a copy of which shall be sent to any person who applied for, or nominated another person for membership on the negotiating  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “negotiated”. </sup></sup>  rulemaking committee to represent such interests with respect to the proposed rule.
 
-    (b) __Membership.—__ 
+    (b)  __Membership__  __.—__ 
 
     The agency shall limit membership on a negotiated rulemaking committee to 25 members, unless the agency head determines that a greater number of members is necessary for the functioning of the committee or to achieve balanced membership. Each committee shall include at least one person representing the agency.
 
-    (c) __Administrative Support.—__ 
+    (c)  __Administrative Support__  __.—__ 
 
     The agency shall provide appropriate administrative support to the negotiated rulemaking committee, including technical assistance.
 

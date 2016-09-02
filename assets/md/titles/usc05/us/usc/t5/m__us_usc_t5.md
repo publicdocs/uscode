@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378]
 
-Current through 113-65
+Current through 113–75!66
 
 <table>
 
@@ -16825,21 +16825,21 @@ Elim.  </td>
 
 >     “(a) __Finding and Purpose.—__ 
 
->         “(1) __Finding.—__ 
+>         “(1)  __Finding__  __.—__ 
 
 >         Congress finds that the national security and homeland security challenges of the 21st century require that executive branch personnel use a whole-of-Government approach in order for the United States Government to operate in the most effective and efficient manner.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of this section is to increase the efficiency and effectiveness of the Government by fostering greater interagency experience among executive branch personnel on national security and homeland security matters involving more than 1 agency.
 
 >     “(b) __Committee on National Security Personnel.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         There is established a Committee on National Security Personnel within the Executive Office of the President.
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         The members of the Committee shall include—
 
@@ -16881,7 +16881,7 @@ Elim.  </td>
 
 >                 “(iv) appropriate performance measures, reporting requirements, and other accountability devices for the evaluation of the program.
 
->     “(d) __Program Requirements.—__ 
+>     “(d)  __Program Requirements__  __.—__ 
 
 >     The policies, processes, and procedures established pursuant to subsection (c) shall, at a minimum, provide that—
 
@@ -16903,11 +16903,11 @@ Elim.  </td>
 
 >         “(6) an employee participating in the program shall receive performance evaluations from officials in his or her employing agency that are based on input from the supervisors of the employee during his or her service in the program that are based primarily on the contribution of the employee to the work of the agency in which the employee performed such service, and these performance evaluations shall be provided the same weight in the receipt of promotions and other rewards by the employee from the employing agency as performance evaluations for service in the employing agency.
 
->     “(e) __Selection of Individuals to Fill Senior Positions.—__ 
+>     “(e)  __Selection of Individuals to Fill Senior Positions__  __.—__ 
 
 >     The head of each agency participating in the program established pursuant to subsection (c) shall ensure that, in selecting individuals to fill senior positions within an Interagency Community of Interest, the agency gives a strong preference to individuals who have performed interagency rotational service within the Interagency Community of Interest pursuant to such program.
 
->     “(f) __Interagency Community of Interest Defined.—__ 
+>     “(f)  __Interagency Community of Interest Defined__  __.—__ 
 
 >     As used in this section, the term ‘National Security Interagency Community of Interest’ or ‘Interagency Community of Interest’ means the positions in the executive branch of the Government that, as determined by the Committee on National Security Personnel—
 
@@ -16915,11 +16915,11 @@ Elim.  </td>
 
 >         “(2) have significant responsibility for the same substantive, functional, or regional subject area related to national security or homeland security that requires integration of the positions and activities in that area across multiple agencies to ensure that the executive branch of the Government operates as a single, cohesive enterprise to maximize mission success and minimize cost.
 
->     “(g) __Report on Performance Measures.—__ 
+>     “(g)  __Report on Performance Measures__  __.—__ 
 
 >     Not later than the end of the 2nd fiscal year after the fiscal year in which this Act is enacted, the Committee on National Security Personnel shall assess the performance measures described in subsection (c)(2)(E)(iv) and issue a report to Congress on the assessment of those performance measures.
 
->     “(h) __GAO Review.—__ 
+>     “(h)  __GAO Review__  __.—__ 
 
 >     Not later than the end of the 2nd fiscal year after the fiscal year in which this Act is enacted, the Comptroller General of the United States shall submit to Congress a report assessing the implementation and effectiveness of the interagency rotation program established pursuant to this section. The report required by this section shall address, at a minimum—
 
@@ -16947,7 +16947,7 @@ Elim.  </td>
 
 >         “(4) the extent to which interagency rotational service under this section has improved or is expected to improve interagency integration and coordination within National Security Interagency Communities of Interest.
 
->     “(i) __Exclusion.—__ 
+>     “(i)  __Exclusion__  __.—__ 
 
 >     This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]).”
 

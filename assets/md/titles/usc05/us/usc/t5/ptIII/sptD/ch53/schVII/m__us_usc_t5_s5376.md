@@ -65,21 +65,21 @@
 
 [Pub. L. 110–372, § 2(d)][/us/pl/110/372/s2/d], Oct. 8, 2008, [122 Stat. 4044][/us/stat/122/4044], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 3104, 3324, 3325, 5108 and 5304 of this title\] shall take effect on the first day of the first pay period beginning on or after the 180th day following the date of enactment of this Act \[Oct. 8, 2008\].
 
 >     “(2) __No reductions in rates of pay.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section may not result, at the time such amendments take effect, in a reduction in the rate of basic pay for an individual holding a position to which [section 5376 of title 5][/us/usc/t5/s5376], United States Code, applies.
 
->         “(B) __Determination of rate of pay.—__ 
+>         “(B)  __Determination of rate of pay__  __.—__ 
 
 >         For the purposes of subparagraph (A), the rate of basic pay for an individual described in that subparagraph shall be deemed to be the rate of basic pay set for the individual under [section 5376 of title 5][/us/usc/t5/s5376], United States Code, plus any applicable locality pay paid to that individual on the day before the effective date under paragraph (1), subject to regulations that the Director of the Office of Personnel Management may prescribe.
 
->     “(3) __References to maximum rates.—__ 
+>     “(3)  __References to maximum rates__  __.—__ 
 
 >     Except as otherwise provided by law, any reference in a provision of law to the maximum rate under [section 5376 of title 5][/us/usc/t5/s5376], United States Code—
 
@@ -101,7 +101,7 @@
 
 [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(c), (d)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1442, provided that:
 
->     “(c) __Other References.—__ 
+>     “(c)  __Other References__  __.—__ 
 
 >     Until otherwise provided by law—
 
@@ -127,7 +127,7 @@
 
 >             “(B) shall be considered to include authority under section 5376 of such title (as amended by section 102(a)), if applicable.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 \[section 529 \[title III, § 303\] of [Pub. L. 101–509][/us/pl/101/509], set out as a note under [section 5301 of this title][/us/usc/t5/s5301]\], governing the conversion or adjustment of rates of pay, where necessary because of the abolishment of grades GS–16, 17, and 18 of the General Schedule.”
 

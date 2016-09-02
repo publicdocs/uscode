@@ -15,7 +15,7 @@
 
 ## § 563. Determination of need for negotiated rulemaking committee
 
-    (a) __Determination of Need by the Agency.—__ 
+    (a)  __Determination of Need by the Agency__  __.—__ 
 
     An agency may establish a negotiated rulemaking committee to negotiate and develop a proposed rule, if the head of the agency determines that the use of the negotiated rulemaking procedure is in the public interest. In making such a determination, the head of the agency shall consider whether—
 
@@ -41,7 +41,7 @@
 
     (b) __Use of Conveners.—__ 
 
-        (1) __Purposes of conveners.—__ 
+        (1)  __Purposes of conveners__  __.—__ 
 
         An agency may use the services of a convener to assist the agency in—
 
@@ -49,7 +49,7 @@
 
             (B) conducting discussions with such persons to identify the issues of concern to such persons, and to ascertain whether the establishment of a negotiated rulemaking committee is feasible and appropriate in the particular rulemaking.
 
-        (2) __Duties of conveners.—__ 
+        (2)  __Duties of conveners__  __.—__ 
 
         The convener shall report findings and may make recommendations to the agency. Upon request of the agency, the convener shall ascertain the names of persons who are willing and qualified to represent interests that will be significantly affected by the proposed rule, including residents of rural areas. The report and any recommendations of the convener shall be made available to the public upon request.
 

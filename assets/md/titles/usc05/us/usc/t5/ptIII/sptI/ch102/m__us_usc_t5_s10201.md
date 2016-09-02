@@ -43,13 +43,13 @@
 
 >         “(1) __In general.—__ 
 
->             “(A) __Rates of pay fixed.—__ 
+>             “(A)  __Rates of pay fixed__  __.—__ 
 
 >             Effective the first day of the first pay period which begins after the date of the enactment of this Act \[Oct. 15, 2010\], the Secretary shall fix the rates of basic pay for members of the United States Secret Service Uniformed Division, as defined under [section 10201 of title 5][/us/usc/t5/s10201], United States Code, (as added by section 2(a)) in accordance with the provisions of this subsection.
 
 >             “(B) __Rate based on creditable service.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Each member shall be placed in and receive basic pay at the corresponding scheduled rate under chapter 102 of title 5, United States Code, as added by section 2(a) (after any adjustment under paragraph (3) of this subsection) in accordance with the member’s total years of creditable service, as provided in the table in this clause. If the scheduled rate of basic pay for the step to which the member would be assigned in accordance with this paragraph is lower than the member’s rate of basic pay immediately before the date of enactment of this paragraph, the member shall be placed in and receive basic pay at the next higher service step, subject to the provisions of clause (iv). If the member’s rate of pay exceeds the highest step of the rank, the rate of basic pay shall be determined in accordance with clause (iv).
 
@@ -253,13 +253,13 @@
 
 >                 </table>
 
->                 “(ii) __Creditable service.—__ 
+>                 “(ii)  __Creditable service__  __.—__ 
 
 >                 For the purposes of this subsection, a member’s creditable service is any police service in pay status with the United States Secret Service Uniformed Division, the United States Park Police, or the District of Columbia Metropolitan Police Department.
 
 >                 “(iii) __Step 13 conversion maximum rate.—__ 
 
->                          “(I) __In general.—__ 
+>                          “(I)  __In general__  __.—__ 
 
 >                     A member who, at the time of conversion, is in step 13 of any rank below Deputy Chief, is entitled to that rate of basic pay which is the greater of—
 
@@ -267,35 +267,35 @@
 
 >                         “(bb) the rate of pay for step 14 under the pay schedule in effect immediately before conversion.
 
->                          “(II) __Step 14 rate.—__ 
+>                          “(II)  __Step 14 rate__  __.—__ 
 
 >                     Clause (iv) shall apply to a member whose pay is set in accordance with subclause (I)(bb).
 
 >                 “(iv) __Adjustment based on former rate of pay.—__ 
 
->                          “(I) __Definition.—__ 
+>                          “(I)  __Definition__  __.—__ 
 
 >                     In this clause, the term ‘former rate of basic pay’ means the rate of basic pay last received by a member before the conversion.
 
->                          “(II) __In general.—__ 
+>                          “(II)  __In general__  __.—__ 
 
 >                     If, as a result of conversion to the new salary schedule, the member’s former rate of basic pay is greater than the maximum rate of basic pay payable for the rank of the member’s position immediately after the conversion, the member is entitled to basic pay at a rate equal to the member’s former rate of basic pay, and increased at the time of any increase in the maximum rate of basic pay payable for the rank of the member’s position by 50 percent of the dollar amount of each such increase.
 
->                          “(III) __Promotions.—__ 
+>                          “(III)  __Promotions__  __.—__ 
 
 >                     For the purpose of applying [section 10207 of title 5][/us/usc/t5/s10207], United States Code, relating to promotions, (as added by section 2(a)) an employee receiving a rate above the maximum rate as provided under this clause shall be deemed to be at step 13.
 
->         “(2) __Credit for service.—__ 
+>         “(2)  __Credit for service__  __.—__ 
 
 >         Each member whose position is converted to the salary schedule under chapter 102 of title 5, United States Code, (as added by section 2(a)) in accordance with this subsection shall be granted credit for purposes of such member’s first service step adjustment made after conversion to the salary schedule under that chapter for all satisfactory service performed by the member since the member’s last increase in basic pay before the adjustment under this section.
 
->         “(3) __Adjustments during transition.—__ 
+>         “(3)  __Adjustments during transition__  __.—__ 
 
 >         The schedule of rates of basic pay shall be increased by the percentage of any annual adjustment applicable to the General Schedule authorized under [section 5303 of title 5][/us/usc/t5/s5303], United States Code, or any other authority, which takes effect during the period beginning on January 1, 2010, through the last day of the last pay period preceding the first pay period which begins after the date of the enactment of this Act. The Secretary of Homeland Security may establish a methodology of schedule adjustment that results in uniform fixed-dollar step increments within any given rank and preserves the established percentage differences among rates of different ranks at the same step position.
 
 >     “(b) __Impact on Benefits Under the District of Columbia Police and Firefighters’ Retirement and Disability System.—__ 
 
->         “(1) __Salary increases for purposes of certain pensions and allowances.—__ 
+>         “(1)  __Salary increases for purposes of certain pensions and allowances__  __.—__ 
 
 >         For purposes of section 3 of the Act entitled ‘An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia’, approved August 4, 1949 (sec. 5–744, D.C. Official Code) and section 301 of the District of Columbia Police and Firemen’s Salary Act of 1953 (sec. 5–745, D.C. Official Code)—
 
@@ -303,7 +303,7 @@
 
 >             “(B) any adjustment of rates of basic pay of those positions and individuals in accordance with this Act and the amendments made by this Act which is made after such conversion shall be treated as an increase in the salary of individuals who are members of the United States Secret Service Uniformed Division on the date of the enactment of this Act.
 
->         “(2) __Treatment of retirement benefits and pensions of current and former members.—__ 
+>         “(2)  __Treatment of retirement benefits and pensions of current and former members__  __.—__ 
 
 >         Except as otherwise provided in this Act, nothing in this Act shall affect retirement benefits and pensions of current members and former members who have retired under the District of Columbia Police and Firefighters’ Retirement and Disability System.”
 

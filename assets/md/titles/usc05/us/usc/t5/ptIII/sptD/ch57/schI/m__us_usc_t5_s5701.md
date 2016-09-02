@@ -175,11 +175,11 @@ Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340.  </td>
 
 [Pub. L. 112–194, § 6][/us/pl/112/194/s6], Oct. 5, 2012, [126 Stat. 1451][/us/stat/126/1451], provided that:
 
->     “(a) __Executive Agency Accounting.—__ 
+>     “(a)  __Executive Agency Accounting__  __.—__ 
 
 >     Nothing in this Act \[see Short Title of 2012 Amendment note set out under [section 101 of Title 41][/us/usc/t41/s101], Public Contracts\], or the amendments made by this Act, shall be construed to excuse the head of an executive agency from the responsibilities set out in [section 3512 of title 31][/us/usc/t31/s3512], United States Code, or in the Improper Payments Information Act of 2002 \[[Pub. L. 107–300][/us/pl/107/300]\] ([31 U.S.C. 3321][/us/usc/t31/s3321] note).
 
->     “(b) __Personal Information.—__ 
+>     “(b)  __Personal Information__  __.—__ 
 
 >     Nothing in this Act, or the amendments made by this Act, shall be construed to require the disclosure of personally identifying information that is otherwise protected from disclosure under [section 552a of title 5][/us/usc/t5/s552a], United States Code (popularly known as the Privacy Act of 1974).”
 
@@ -189,7 +189,7 @@ Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340.  </td>
 
 [Pub. L. 112–194, § 4][/us/pl/112/194/s4], Oct. 5, 2012, [126 Stat. 1450][/us/stat/126/1450], provided that:
 
->     “(a) __Required Internal Controls for Centrally Billed Accounts.—__ 
+>     “(a)  __Required Internal Controls for Centrally Billed Accounts__  __.—__ 
 
 >     The head of an executive agency that has employees who use a travel charge card that is billed directly to the United States Government shall establish and maintain the following internal control activities:
 
@@ -199,7 +199,7 @@ Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340.  </td>
 
 >         “(3) The executive agency shall submit requests to servicing airlines for refunds of fully or partially unused tickets, when entitled to such refunds, and track the status of unused tickets to ensure appropriate resolution.
 
->     “(b) __Guidance.—__ 
+>     “(b)  __Guidance__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 5, 2012\], the Director of the Office of Management and Budget shall review the existing guidance and, as necessary, prescribe additional guidance for executive agencies implementing the requirements of subsection (a).”
 
@@ -235,7 +235,7 @@ Similar provisions were contained in the following prior appropriations acts:
 
 [Pub. L. 105–264, § 2][/us/pl/105/264/s2], Oct. 19, 1998, [112 Stat. 2350][/us/stat/112/2350], as amended by [Pub. L. 112–194, § 3][/us/pl/112/194/s3], Oct. 5, 2012, [126 Stat. 1448][/us/stat/126/1448], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Under regulations issued by the Administrator of General Services after consultation with the Secretary of the Treasury, the Administrator shall require that Federal employees use the travel charge card established pursuant to the United States Travel and Transportation Payment and Expense Control System, or any Federal contractor-issued travel charge card, for all payments of expenses of official Government travel. The Administrator shall exempt any payment, person, type or class of payments, or type or class of personnel from any requirement established under the preceding sentence in any case in which—
 
@@ -245,47 +245,47 @@ Similar provisions were contained in the following prior appropriations acts:
 
 >         “(3) the Secretary of Defense or the Secretary of Transportation (with respect to the Coast Guard) requests an exemption with respect to the members of the uniformed services.
 
->     “(b) __Agency Exemption.—__ 
+>     “(b)  __Agency Exemption__  __.—__ 
 
 >     The head of a Federal agency or the designee of such head may exempt any payment, person, type or class of payments, or type or class of agency personnel from subsection (a) if the agency head or the designee determines the exemption to be necessary in the interest of the agency. Not later than 30 days after granting such an exemption, the head of such agency or the designee shall notify the Administrator of General Services in writing of such exemption stating the reasons for the exemption.
 
 >     “(c) __Limitation on Restriction on Disclosure.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         \[Amended [section 3413 of Title 12][/us/usc/t12/s3413], Banks and Banking.\]
 
->         “(2) __Effective date.—__ 
+>         “(2)  __Effective date__  __.—__ 
 
 >         The amendment made by paragraph (1) is effective as of October 1, 1983, and applies to any records created pursuant to the United States Travel and Transportation Payment and Expense Control System or any Federal contractor-issued travel charge card issued for official Government travel.
 
 >     “(d) __Collection of Amounts Owed.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Under regulations issued by the Administrator of General Services and upon written request of a Federal contractor, the head of any Federal agency or a disbursing official of the United States may, on behalf of the contractor, collect by deduction from the amount of pay owed to an employee of the agency any amount of funds the employee owes to the contractor as a result of delinquencies not disputed by the employee on a travel charge card issued for payment of expenses incurred in connection with official Government travel. The amount deducted from the pay owed to an employee with respect to a pay period may not exceed 15 percent of the disposable pay of the employee for that pay period, except that a greater percentage may be deducted upon the written consent of the employee.
 
->         “(2) __Due process protections.—__ 
+>         “(2)  __Due process protections__  __.—__ 
 
 >         Collection under this subsection shall be carried out in accordance with procedures substantially equivalent to the procedures required under [section 3716(a) of title 31][/us/usc/t31/s3716/a], United States Code.
 
->         “(3) __Definitions.—__ 
+>         “(3)  __Definitions__  __.—__ 
 
 >         For the purpose of this subsection:
 
->             “(A) __Agency.—__ 
+>             “(A)  __Agency__  __.—__ 
 
 >             The term ‘agency’ has the meaning that term has under [section 101 of title 31][/us/usc/t31/s101], United States Code.
 
->             “(B) __Employee.—__ 
+>             “(B)  __Employee__  __.—__ 
 
 >             The term ‘employee’ means an individual employed in or under an agency, including a member of any of the uniformed services. For purposes of this subsection, a member of one of the uniformed services is an employee of that uniformed service.
 
->             “(C) __Member; uniformed service.—__ 
+>             “(C)  __Member; uniformed service__  __.—__ 
 
 >             Each of the terms ‘member’ and ‘uniformed service’ has the meaning that term has in [section 101 of title 37][/us/usc/t37/s101], United States Code.
 
->     “(e) __Regulations.—__ 
+>     “(e)  __Regulations__  __.—__ 
 
 >     Within 270 days after the date of the enactment of this Act \[Oct. 19, 1998\], the Administrator of General Services shall promulgate regulations implementing this section, that—
 
@@ -299,25 +299,25 @@ Similar provisions were contained in the following prior appropriations acts:
 
 >     “(f) __Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator of General Services shall submit 2 reports to the Congress on agency compliance with this section and regulations that have been issued under this section.
 
->         “(2) __Timing.—__ 
+>         “(2)  __Timing__  __.—__ 
 
 >         The first report under this subsection shall be submitted before the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 19, 1998\], and the second report shall be submitted after that period and before the end of the 540-day period beginning on that date of enactment.
 
->         “(3) __Preparation.—__ 
+>         “(3)  __Preparation__  __.—__ 
 
 >         Each report shall be based on a sampling survey of agencies that expended more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. The head of an agency shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director of the Office of Management and Budget.
 
->     “(g) __Reimbursement of Travel Expenses.—__ 
+>     “(g)  __Reimbursement of Travel Expenses__  __.—__ 
 
 >     In accordance with regulations prescribed by the Administrator of General Services, the head of an agency shall ensure that the agency reimburses an employee who submits a proper voucher for allowable travel expenses in accordance with applicable travel regulations within 30 days after submission of the voucher. If an agency fails to reimburse an employee who has submitted a proper voucher within 30 days after submission of the voucher, the agency shall pay the employee a late payment fee as prescribed by the Administrator.
 
 >     “(h) __Management of Travel Charge Cards.—__ 
 
->         “(1) __Required safeguards and internal controls.—__ 
+>         “(1)  __Required safeguards and internal controls__  __.—__ 
 
 >         The head of each executive agency that has employees that use travel charge cards shall establish and maintain the following internal control activities to ensure the proper, efficient, and effective use of such travel charge cards:
 
@@ -339,27 +339,27 @@ Similar provisions were contained in the following prior appropriations acts:
 
 >             “(I) Each executive agency shall ensure that, where appropriate, travel card payments are issued directly to the travel card-issuing bank for credit to the employee’s individual travel card account.
 
->         “(2) __Guidance on management of travel charge cards.—__ 
+>         “(2)  __Guidance on management of travel charge cards__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of the Government Charge Card Abuse Prevention Act of 2012 \[Oct. 5, 2012\], the Director of the Office of Management and Budget shall review the existing guidance and, as necessary, prescribe additional guidance for executive agencies governing the implementation of the requirements in paragraph (1).
 
->         “(3) __Inspector general audit.—__ 
+>         “(3)  __Inspector general audit__  __.—__ 
 
 >         The Inspector General of each executive agency with more than $10,000,000 in travel card spending shall conduct periodic audits or reviews of travel card programs to analyze risks of illegal, improper, or erroneous purchases and payments. The findings of such audits or reviews along with recommendations to prevent improper use of travel cards shall be reported to the Director of the Office of Management and Budget and Congress.
 
->         “(4) __Penalties for violations.—__ 
+>         “(4)  __Penalties for violations__  __.—__ 
 
 >         Consistent with the guidance prescribed under paragraph (2), each executive agency shall provide for appropriate adverse personnel actions to be imposed in cases in which employees of the executive agency fail to comply with applicable travel charge card terms and conditions or applicable agency regulations or commit fraud with respect to a travel charge card, including removal in appropriate cases.
 
->         “(5) __Definitions.—__ 
+>         “(5)  __Definitions__  __.—__ 
 
 >         In this subsection:
 
->             “(A) __Executive agency.—__ 
+>             “(A)  __Executive agency__  __.—__ 
 
 >             The term ‘executive agency’ means an agency as that term is defined in subparagraphs (A) and (B) of [section 5701(1) of title 5][/us/usc/t5/s5701/1], United States Code.
 
->             “(B) __Travel charge card.—__ 
+>             “(B)  __Travel charge card__  __.—__ 
 
 >             The term ‘travel charge card’ means any Federal contractor-issued travel charge card that is individually billed to each card holder.”
 
@@ -371,11 +371,11 @@ Similar provisions were contained in the following prior appropriations acts:
 
 > “In this Act \[enacting [section 1909 of Title 41][/us/usc/t41/s1909], Public Contracts, amending [section 2784 of Title 10][/us/usc/t10/s2784], Armed Forces, enacting provisions set out as notes under this section and sections 101 and 1909 of Title 41, and amending provisions set out as a note under this section\]:
 
->     “(1) __Executive agency.—__ 
+>     “(1)  __Executive agency__  __.—__ 
 
 >     The term ‘executive agency’ has the meaning given such term in [section 133 of title 41][/us/usc/t41/s133], United States Code.
 
->     “(2) __Employee.—__ 
+>     “(2)  __Employee__  __.—__ 
 
 >     The term ‘employee’ has the meaning given such term in section 2(d)(3) of the Travel and Transportation Reform Act of 1998 ([Public Law 105–264][/us/pl/105/264]; [5 U.S.C. 5701][/us/usc/t5/s5701] note).”
 

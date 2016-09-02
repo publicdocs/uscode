@@ -43,7 +43,7 @@
 
 [Pub. L. 102–58, § 3][/us/pl/102/58/s3], June 18, 1991, [105 Stat. 299][/us/stat/105/299], provided that:
 
->     “(a) __Judicial Branch Employees.—__ 
+>     “(a)  __Judicial Branch Employees__  __.—__ 
 
 >     The Director of the Administrative Office of the United States Courts shall establish a leave bank program under which—
 
@@ -53,11 +53,11 @@
 
 >         “(3) such Persian Gulf conflict participants who have returned to Judicial Branch employment may use such annual leave, after it is credited to their leave accounts, in the same manner as any other annual leave to their credit.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘employee’ means an employee as defined in [section 6301(2) of title 5][/us/usc/t5/s6301/2], United States Code.
 
->     “(c) __Deadline for Regulations.—__ 
+>     “(c)  __Deadline for Regulations__  __.—__ 
 
 >     Within 30 days after the date of the enactment of this Act \[June 18, 1991\], the Director of the Administration \[Administrative\] Office shall prescribe regulations necessary for the administration of subsection (a).”
 
@@ -65,7 +65,7 @@
 
 [Pub. L. 102–25, title III, § 361][/us/pl/102/25/s361], Apr. 6, 1991, [105 Stat. 92][/us/stat/105/92], as amended by [Pub. L. 102–484, div. A, title X, § 1054(c)(1)][/us/pl/102/484/s1054/c/1], Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502], provided that:
 
->     “(a) __Civil Service Employees.—__ 
+>     “(a)  __Civil Service Employees__  __.—__ 
 
 >     The Office of Personnel Management shall establish a leave bank program under which—
 
@@ -75,15 +75,15 @@
 
 >         “(3) such Persian Gulf concflict \[sic\] participants who have returned to civilian employment may use such annual leave, after it is credited to their leave accounts, in the same manner as any other annual leave to their credit.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘employee’ means an employee as defined in [section 6361(1) of title 5][/us/usc/t5/s6361/1], United States Code.
 
->     “(c) __Deadline for Regulations.—__ 
+>     “(c)  __Deadline for Regulations__  __.—__ 
 
 >     Within 30 days after the date of the enactment of this Act \[Apr. 6, 1991\], the Office of Personnel Management shall prescribe regulations necessary for the administration of subsection (a).
 
->     “(d) __Department of Veterans Affairs Health-Care Professionals.—__ 
+>     “(d)  __Department of Veterans Affairs Health-Care Professionals__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall establish a program similar to that established under subsection (a) for the benefit of health-care professionals covered under [section 7423(e) of title 38][/us/usc/t38/s7423/e], United States Code. Such program shall be as similar and \[as\] practicable to the program established under subsection (a).”
 

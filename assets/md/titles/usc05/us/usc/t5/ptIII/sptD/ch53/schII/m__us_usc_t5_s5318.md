@@ -59,25 +59,25 @@
 
 >     “(a) __Salary Levels.—__ 
 
->         “(1) __Executive positions.—__ 
+>         “(1)  __Executive positions__  __.—__ 
 
 >         Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for positions in the Executive Schedule shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
 
 >         “(2) __Legislative positions; office of the vice president.—__ 
 
->             “(A) __Generally.—__ 
+>             “(A)  __Generally__  __.—__ 
 
 >             Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the offices and positions under subparagraphs (A) and (B) of section 225(f) of the Federal Salary Act of 1967 ([2 U.S.C. 356(A)][/us/usc/t2/s356/A] and (B)) shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100), except as provided in subparagraph (B).
 
->             “(B) __Exceptions.—__ 
+>             “(B)  __Exceptions__  __.—__ 
 
 >             Nothing in subparagraph (A) shall affect the rate of basic pay for a Senator, the President pro tempore of the Senate, or the majority leader or the minority leader of the Senate.
 
->         “(3) __Judicial positions.—__ 
+>         “(3)  __Judicial positions__  __.—__ 
 
 >         Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
 
->     “(b) __Coordination Rule.—__ 
+>     “(b)  __Coordination Rule__  __.—__ 
 
 >     If a pay adjustment under subsection (a) is to be made for an office or position as of the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first.”
 
@@ -89,7 +89,7 @@
 
 >         “(1) __Method for computing percent change in the eci.—__ 
 
->             “(A) __Definitions.—__ 
+>             “(A)  __Definitions__  __.—__ 
 
 >             For purposes of this paragraph—
 
@@ -97,7 +97,7 @@
 
 >                 “(ii) the term ‘base quarter’ means the 3-month period ending on December 31 of a year.
 
->             “(B) __Method.—__ 
+>             “(B)  __Method__  __.—__ 
 
 >             For purposes of the provisions of law amended by paragraph (2), the ‘most recent percentage change in the ECI’, as of any date, shall be one-half of 1 percent less than the percentage (rounded to the nearest one-tenth of 1 percent) derived by—
 
@@ -121,13 +121,13 @@
 
 >         “(2) __Provisions through which new method is to be implemented.—__ 
 
->             “(A) __Amendment to titles 3, 5, and 28 of the united states code.—__ 
+>             “(A)  __Amendment to titles 3, 5, and 28 of the united states code__  __.—__ 
 
 >             [Section 104 of title 3][/us/usc/t3/s104], United States Code, [section 5318 of title 5][/us/usc/t5/s5318], United States Code, and [section 461(a) of title 28][/us/usc/t28/s461/a], United States Code, are amended by striking ‘corresponds to’ and all that follows thereafter through the period, and inserting the following:
 
 >         ‘corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.’.
 
->         “(B) __Amendment to the legislative reorganization act of 1946.—__ 
+>         “(B)  __Amendment to the legislative reorganization act of 1946__  __.—__ 
 
 >         Section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]) is amended by striking ‘corresponds to’ and all that follows thereafter through the period and inserting the following:
 

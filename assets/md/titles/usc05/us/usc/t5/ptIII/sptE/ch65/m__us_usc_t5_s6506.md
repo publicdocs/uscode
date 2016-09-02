@@ -15,13 +15,13 @@
 
 ## § 6506. Reports
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “executive agency” shall not include the Government Accountability Office.
 
     (b) __Reports by the Office of Personnel Management.—__ 
 
-        (1) __Submission of reports.—__ 
+        (1)  __Submission of reports__  __.—__ 
 
         Not later than 18 months after the date of enactment of this chapter and on an annual basis thereafter, the Director of the Office of Personnel Management, in consultation with Chief  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “the”. </sup></sup>  Human Capital Officers Council, shall—
 
@@ -35,7 +35,7 @@
 
             (B) transmit a copy of the report to the Comptroller General and the Office of Management and Budget.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         Each report submitted under this subsection shall include—
 
@@ -89,7 +89,7 @@
 
         (1) __Report on government accountability office telework program.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 18 months after the date of enactment of this chapter and on an annual basis thereafter, the Comptroller General shall submit a report addressing the telework program of the Government Accountability Office to—
 
@@ -97,21 +97,21 @@
 
                 (ii) the Committee on Oversight and Government Reform of the House of Representatives.
 
-            (B) __Contents.—__ 
+            (B)  __Contents__  __.—__ 
 
             Each report submitted by the Comptroller General shall include the same information as required under subsection (b) applicable to the Government Accountability Office.
 
-        (2) __Report to congress on office of personnel management report.—__ 
+        (2)  __Report to congress on office of personnel management report__  __.—__ 
 
         Not later than 6 months after the submission of the first report to Congress required under subsection (b), the Comptroller General shall review that report required under subsection (b) and submit a report to Congress on the progress each executive agency has made towards the goals established under section 6504(b)(2).
 
     (d) __Chief Human Capital Officer Reports.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each year the Chief Human Capital Officer of each executive agency, in consultation with the Telework Managing Officer of that agency, shall submit a report to the Chair and Vice Chair of the Chief Human Capital Officers Council on agency management efforts to promote telework.
 
-        (2) __Review and inclusion of relevant information.—__ 
+        (2)  __Review and inclusion of relevant information__  __.—__ 
 
         The Chair and Vice Chair of the Chief Human Capital Officers Council shall—
 

@@ -15,19 +15,19 @@
 
 ## § 566. Conduct of committee activity
 
-    (a) __Duties of Committee.—__ 
+    (a)  __Duties of Committee__  __.—__ 
 
     Each negotiated rulemaking committee established under this subchapter shall consider the matter proposed by the agency for consideration and shall attempt to reach a consensus concerning a proposed rule with respect to such matter and any other matter the committee determines is relevant to the proposed rule.
 
-    (b) __Representatives of Agency on Committee.—__ 
+    (b)  __Representatives of Agency on Committee__  __.—__ 
 
     The person or persons representing the agency on a negotiated rulemaking committee shall participate in the deliberations and activities of the committee with the same rights and responsibilities as other members of the committee, and shall be authorized to fully represent the agency in the discussions and negotiations of the committee.
 
-    (c) __Selecting Facilitator.—__ 
+    (c)  __Selecting Facilitator__  __.—__ 
 
     Notwithstanding section 10(e) of the Federal Advisory Committee Act, an agency may nominate either a person from the Federal Government or a person from outside the Federal Government to serve as a facilitator for the negotiations of the committee, subject to the approval of the committee by consensus. If the committee does not approve the nominee of the agency for fa­cilitator, the agency shall submit a substitute nomination. If a committee does not approve any nominee of the agency for facilitator, the committee shall select by consensus a person to serve as facilitator. A person designated to represent the agency in substantive issues may not serve as facilitator or otherwise chair the committee.
 
-    (d) __Duties of Facilitator.—__ 
+    (d)  __Duties of Facilitator__  __.—__ 
 
     A facilitator approved or selected by a negotiated rulemaking committee shall—
 
@@ -37,15 +37,15 @@
 
         (3) manage the keeping of minutes and records as required under section 10(b) and (c) of the Federal Advisory Committee Act, except that any personal notes and materials of the facilitator or of the members of a committee shall not be subject to [section 552 of this title][/us/usc/t5/s552].
 
-    (e) __Committee Procedures.—__ 
+    (e)  __Committee Procedures__  __.—__ 
 
     A negotiated rulemaking committee established under this subchapter may adopt procedures for the operation of the committee. No provision of [section 553 of this title][/us/usc/t5/s553] shall apply to the procedures of a negotiated rulemaking committee.
 
-    (f) __Report of Committee.—__ 
+    (f)  __Report of Committee__  __.—__ 
 
     If a committee reaches a consensus on a proposed rule, at the conclusion of negotiations the committee shall transmit to the agency that established the committee a report containing the proposed rule. If the committee does not reach a consensus on a proposed rule, the committee may transmit to the agency a report specifying any areas in which the committee reached a consensus. The committee may include in a report any other information, recommendations, or materials that the committee considers appropriate. Any committee member may include as an addendum to the report additional information, recommendations, or materials.
 
-    (g) __Records of Committee.—__ 
+    (g)  __Records of Committee__  __.—__ 
 
     In addition to the report required by subsection (f), a committee shall submit to the agency the records required under section 10(b) and (c) of the Federal Advisory Committee Act.
 

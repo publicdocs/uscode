@@ -1871,11 +1871,11 @@ Nov. 2, 1966, Pub. L. 89–702, § 208(c), 80 Stat. 1096.  </td>
 
 [Pub. L. 109–435, title VIII, § 805][/us/pl/109/435/s805], Dec. 20, 2006, [120 Stat. 3253][/us/stat/120/3253], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided under subsection (b), this title \[see Short Title of 2006 Amendment note set out under [section 101 of this title][/us/usc/t5/s101]\] shall take effect on October 1, 2006.
 
->     “(b) __Termination of Employer Contribution.—__ 
+>     “(b)  __Termination of Employer Contribution__  __.—__ 
 
 >     The amendment made by paragraph (1) of section 802(a) \[amending this section\] shall take effect on the first day of the first pay period beginning on or after October 1, 2006.”
 
@@ -1909,7 +1909,7 @@ Nov. 2, 1966, Pub. L. 89–702, § 208(c), 80 Stat. 1096.  </td>
 
 [Section 7001(f) of Pub. L. 105–33][/us/pl/105/33/s7001/f] provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     This section \[amending this section, [section 8422 of this title][/us/usc/t5/s8422], sections 4045, 4071c, and 4071e of Title 22, Foreign Relations and Intercourse, and [section 2082 of Title 50][/us/usc/t50/s2082], War and National Defense, and enacting provisions set out as notes under this section, [section 8422 of this title][/us/usc/t5/s8422], sections 4045 and 4071c of Title 22, and [section 2021 of Title 50][/us/usc/t50/s2021]\] shall take effect on—
 
@@ -1917,7 +1917,7 @@ Nov. 2, 1966, Pub. L. 89–702, § 208(c), 80 Stat. 1096.  </td>
 
 >         “(B) if later, the date of enactment of this Act \[Aug. 5, 1997\].
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     If the date of enactment of this Act is later than October 1, 1997, then any reference to October 1, 1997, in subsection (a)(1), (c)(1), or (d)(1) shall be treated as a reference to the date of enactment of this Act.”
 
@@ -2037,7 +2037,7 @@ Section 7001(a)(1), (2) of [Pub. L. 105–33][/us/pl/105/33] provided that:
 
 >     “(1) __Agency contributions.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Notwithstanding section 8334(a)(1) or (k)(1) of title 5, United States Code, during the period beginning on October 1, 1997, through September 30, 2002, each employing agency (other than the United States Postal Service or the Metropolitan Washington Airports Authority) shall contribute—
 
@@ -2049,11 +2049,11 @@ Section 7001(a)(1), (2) of [Pub. L. 105–33][/us/pl/105/33] provided that:
 
 >             in lieu of the agency contributions otherwise required under [section 8334(a)(1) of title 5][/us/usc/t5/s8334/a/1], United States Code.
 
->         “(B) __Application.—__ 
+>         “(B)  __Application__  __.—__ 
 
 >         For purposes of subparagraph (A) and notwithstanding the amendments made by paragraph (3) \[amending this section\], during the period beginning on January 1, 1999 through December 31, 2002, with respect to the United States Postal Service and the Metropolitan Washington Airports Authority, the agency contribution shall be determined as though those amendments had not been made.
 
->     “(2) __No reduction in agency contributions by the postal service.—__ 
+>     “(2)  __No reduction in agency contributions by the postal service__  __.—__ 
 
 >     Contributions by the Treasury of the United States or the United States Postal Service under section 8348(g), (h), or (m) of title 5, United States Code—
 
@@ -2077,7 +2077,7 @@ Section 7001(a)(1), (2) of [Pub. L. 105–33][/us/pl/105/33] provided that:
 
 [Section 128 of Pub. L. 100–238][/us/pl/100/238/s128] provided that:
 
->     “(a) __Refund Eligibility.—__ 
+>     “(a)  __Refund Eligibility__  __.—__ 
 
 >     An individual shall upon written application to the Office of Personnel Management, receive a refund under subsection (b), if such individual—
 
@@ -2087,7 +2087,7 @@ Section 7001(a)(1), (2) of [Pub. L. 105–33][/us/pl/105/33] provided that:
 
 >         “(3) becomes subject to [section 8334(k) of title 5][/us/usc/t5/s8334/k], United States Code.
 
->     “(b) __Refund Computation.—__ 
+>     “(b)  __Refund Computation__  __.—__ 
 
 >     An individual eligible for a refund under subsection (a) shall receive a refund—
 
@@ -2107,7 +2107,7 @@ Section 7001(a)(1), (2) of [Pub. L. 105–33][/us/pl/105/33] provided that:
 
 >             “(B) the total amount which would have been deducted if such individual’s basic pay had instead been subject to [section 8334(k) of title 5][/us/usc/t5/s8334/k], United States Code, during such period.
 
->     “(c) __Interest Computation.—__ 
+>     “(c)  __Interest Computation__  __.—__ 
 
 >     A refund under this section shall be computed with interest in accordance with [section 8334(e) of title 5][/us/usc/t5/s8334/e], United States Code, and regulations prescribed by the Office of Personnel Management.”
 

@@ -15,11 +15,11 @@
 
 ## § 10102. Strategic human capital plan
 
-    (a) __Plan Development.—__ 
+    (a)  __Plan Development__  __.—__ 
 
     Not later than 6 months after the date of enactment of this chapter, the Administrator shall develop and submit to the appropriate committees of Congress a strategic human capital plan to shape and improve the workforce of the Agency.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
     The strategic human capital plan shall include—
 
@@ -59,7 +59,7 @@
 
             (E) describes any additional authorities or resources necessary to address any deficiencies in the Surge Capacity Force.
 
-    (c) __Annual Updates.—__ 
+    (c)  __Annual Updates__  __.—__ 
 
     Not later than May 1, 2007, and May 1st of each of the next 5 succeeding years, the Administrator shall submit to the appropriate committees of Congress an update of the strategic human capital plan, including an assessment by the Administrator, using results-oriented performance measures, of the progress of the Department and the Agency in implementing the strategic human capital plan.
 

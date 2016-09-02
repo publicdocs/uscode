@@ -303,15 +303,15 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 99–661, div. A, title XIII, § 1358][/us/pl/99/661/s1358], Nov. 14, 1986, [100 Stat. 3999][/us/stat/100/3999], provided that:
 
->     “(a) __Wage Determinations.—__ 
+>     “(a)  __Wage Determinations__  __.—__ 
 
 >     Notwithstanding any other provision of law, in the administration of the last undesignated paragraph preceding chapter 6 of title I of [Public Law 97–257][/us/pl/97/257] ([96 Stat. 832][/us/stat/96/832]) \[set out below\], the individuals described in subsection (b) shall be paid wages determined in the same manner as that established in such undesignated paragraph with respect to United States Army Corps of Engineers employees paid from Corps of Engineers Special Power Rate Schedules.
 
->     “(b) __Covered Individuals.—__ 
+>     “(b)  __Covered Individuals__  __.—__ 
 
 >     The individuals described in subsection (a) are electric powerplant controllers and powerplant shift operators (as defined under regulations prescribed by the Secretary of Defense) assigned to the Soo Locks Power Plant in the Detroit District in the North Central Region of the United States Army Corps of Engineers.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     Subsection (a) applies with respect to pay periods commencing on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 

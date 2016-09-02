@@ -93,7 +93,7 @@ R.S. § 1753 (less last 16 words).  </td>
 
 >     “(a) __Findings and Policies.—__ 
 
->         “(1) __Findings.—__ 
+>         “(1)  __Findings__  __.—__ 
 
 >         Congress finds that—
 
@@ -103,7 +103,7 @@ R.S. § 1753 (less last 16 words).  </td>
 
 >             “(C) it is in the United States national interest to maximize the return to the Nation of funds invested in the development of such citizens by seeking to employ them in the Federal sector.
 
->         “(2) __Policy.—__ 
+>         “(2)  __Policy__  __.—__ 
 
 >         It shall be the policy of the United States Government to—
 
@@ -159,7 +159,7 @@ R.S. § 1753 (less last 16 words).  </td>
 
 > “SEC. 5. __MEMBERSHIP.__ 
 
->     “(a) __Number and Appointment.—__ 
+>     “(a)  __Number and Appointment__  __.—__ 
 
 >     The Council shall be composed of 15 members as follows:
 
@@ -181,69 +181,69 @@ R.S. § 1753 (less last 16 words).  </td>
 
 >             “(D) 4 of whom shall be chosen from among members of the public who do not hold any Government office or position.
 
->     “(b) __Continuation of Membership.—__ 
+>     “(b)  __Continuation of Membership__  __.—__ 
 
 >     If any member of the Council whose appointment is based on that individual’s holding a Government office or position leaves such office or position, or if any member of the Council under subsection (a)(4)(D) is appointed or elected to a Government office or position, that individual may continue to serve as such a member for not longer than the 90-day period beginning on the date of leaving that office or position, or entering into that office or position, as the case may be.
 
->     “(c) __Terms.—__ 
+>     “(c)  __Terms__  __.—__ 
 
 >     Members of the Council shall be appointed for the life of the Council.
 
->     “(d) __Vacancies.—__ 
+>     “(d)  __Vacancies__  __.—__ 
 
 >     A vacancy in the Council shall be filled in the manner in which the original appointment was made.
 
->     “(e) __Compensation.—__ 
+>     “(e)  __Compensation__  __.—__ 
 
 >         (1) Members of the Council shall not be entitled to pay (or, in the case of members holding any Government office or position, pay in addition to any to which they are otherwise entitled for service in such office or position) by virtue of membership on the Council.
 
 >         “(2) While serving away from their homes or regular places of business in the performance of duties for the Council, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as authorized by [section 5703 of title 5][/us/usc/t5/s5703], United States Code, for persons employed intermittently in Government service.
 
->     “(f) __Quorum.—__ 
+>     “(f)  __Quorum__  __.—__ 
 
 >     Eight members of the Council shall constitute a quorum.
 
->     “(g) __Chairman.—__ 
+>     “(g)  __Chairman__  __.—__ 
 
 >     The Chairman of the Council shall be designated by the President from among the members appointed under subsection (a)(4)(D).
 
->     “(h) __Meetings.—__ 
+>     “(h)  __Meetings__  __.—__ 
 
 >     The Council shall meet at the call of the Chairman or a majority of its members, and shall meet on at least a quarterly basis.
 
 > “SEC. 6. __DIRECTOR AND STAFF; EXPERTS AND CONSULTANTS.__ 
 
->     “(a) __Director.—__ 
+>     “(a)  __Director__  __.—__ 
 
 >     With the approval of the Council, the Chairman may appoint a Director and fix the pay of such Director at a rate not to exceed the rate for level IV of the Executive Schedule \[[5 U.S.C. 5315][/us/usc/t5/s5315]\]. The Director shall be a person who, by reason of demonstrated ability in the area of management, government, or public administration, is especially well qualified to serve.
 
->     “(b) __Staff.—__ 
+>     “(b)  __Staff__  __.—__ 
 
 >     With the approval of the Chairman, the Director may appoint and fix the pay of such personnel as may be necessary to carry out the functions of the Council. The staff of the Council shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
->     “(c) __Experts and Consultants.—__ 
+>     “(c)  __Experts and Consultants__  __.—__ 
 
 >     The Council may procure temporary or intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum rate payable under the General Schedule.
 
->     “(d) __Staff of Federal Agencies.—__ 
+>     “(d)  __Staff of Federal Agencies__  __.—__ 
 
 >     Upon the request of the Chairman, the head of a Federal agency may detail, on a reimbursable or nonreimbursable basis, any personnel of such agency to the Council to assist the Council in carrying out its functions under this Act.
 
 > “SEC. 7. __POWERS.__ 
 
->     “(a) __Mails.—__ 
+>     “(a)  __Mails__  __.—__ 
 
 >     The Council may use the United States mails in the same manner and under the same conditions as other Federal agencies.
 
->     “(b) __Administrative Support Services.—__ 
+>     “(b)  __Administrative Support Services__  __.—__ 
 
 >     The Administrator of General Services shall provide to the Council, on a reimbursable basis, such administrative support services as the Council may request.
 
->     “(c) __Official Data.—__ 
+>     “(c)  __Official Data__  __.—__ 
 
 >     The Council may secure directly from any Federal agency information necessary to carry out its functions under this Act. Each such agency is authorized and directed to furnish, to the extent permitted by law, any information requested by the Council.
 
->     “(d) __Gifts.—__ 
+>     “(d)  __Gifts__  __.—__ 
 
 >     The Council—
 
@@ -261,11 +261,11 @@ R.S. § 1753 (less last 16 words).  </td>
 
 > “SEC. 9. __COMMENCEMENT; TERMINATION.__ 
 
->     “(a) __Commencement.—__ 
+>     “(a)  __Commencement__  __.—__ 
 
 >     Appointments under section 5 shall be made, and the Council shall first meet, within 90 days after the date of the enactment of this Act \[Aug. 14, 1990\].
 
->     “(b) __Termination.—__ 
+>     “(b)  __Termination__  __.—__ 
 
 >     The Council shall cease to exist upon transmitting its final report under section 8(2).
 

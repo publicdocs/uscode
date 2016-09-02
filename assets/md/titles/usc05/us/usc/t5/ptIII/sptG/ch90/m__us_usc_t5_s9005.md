@@ -15,17 +15,17 @@
 
 ## § 9005. Preemption
 
-    (a) __Contractual Provisions.—__ 
+    (a)  __Contractual Provisions__  __.—__ 
 
     The terms of any contract under this chapter which relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to long-term care insurance or contracts.
 
     (b) __Premiums.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         No tax, fee, or other monetary payment may be imposed or collected, directly or indirectly, by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, on, or with respect to, any premium paid for an insurance policy under this chapter.
 
-        (2) __Rule of construction.—__ 
+        (2)  __Rule of construction__  __.—__ 
 
         Paragraph (1) shall not be construed to exempt any company or other entity issuing a policy of insurance under this chapter from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by such entity from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
 

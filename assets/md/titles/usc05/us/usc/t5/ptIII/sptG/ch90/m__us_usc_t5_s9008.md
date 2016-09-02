@@ -15,19 +15,19 @@
 
 ## § 9008. Administrative functions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Office of Personnel Management shall prescribe regulations necessary to carry out this chapter.
 
-    (b) __Enrollment Periods.—__ 
+    (b)  __Enrollment Periods__  __.—__ 
 
     The Office shall provide for periodic coordinated enrollment, promotion, and education efforts in consultation with the carriers.
 
-    (c) __Consultation.—__ 
+    (c)  __Consultation__  __.—__ 
 
     Any regulations necessary to effect the application and operation of this chapter with respect to an eligible individual described in paragraph (3) or (4) of section 9001, or a qualified relative thereof, shall be prescribed by the Office in consultation with the appropriate Secretary.
 
-    (d) __Informed Decisionmaking.—__ 
+    (d)  __Informed Decisionmaking__  __.—__ 
 
     The Office shall ensure that each eligible individual applying for long-term care insurance under this chapter is furnished the information necessary to enable that individual to evaluate the advantages and disadvantages of obtaining long-term care insurance under this chapter, including the following:
 

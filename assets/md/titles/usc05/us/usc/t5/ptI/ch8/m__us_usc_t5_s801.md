@@ -203,15 +203,15 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Request for review.—__ 
+>         “(1)  __Request for review__  __.—__ 
 
 >         When an agency publishes an economically significant rule, a chairman or ranking member of a committee of jurisdiction of either House of Congress may request the Comptroller General of the United States to review the rule.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Comptroller General shall submit a report on each economically significant rule selected under paragraph (4) to the committees of jurisdiction in each House of Congress not later than 180 calendar days after a committee request is received. The report shall include an independent evaluation of the economically significant rule by the Comptroller General.
 
->         “(3) __Independent evaluation.—__ 
+>         “(3)  __Independent evaluation__  __.—__ 
 
 >         The independent evaluation of the economically significant rule by the Comptroller General under paragraph (2) shall include—
 
@@ -223,11 +223,11 @@
 
 >             “(D) a summary of the results of the evaluation of the Comptroller General and the implications of those results.
 
->         “(4) __Procedures for priorities of requests.—__ 
+>         “(4)  __Procedures for priorities of requests__  __.—__ 
 
 >         The Comptroller General shall have discretion to develop procedures for determining the priority and number of requests for review under paragraph (1) for which a report will be submitted under paragraph (2).
 
->     “(b) __Authority of Comptroller General.—__ 
+>     “(b)  __Authority of Comptroller General__  __.—__ 
 
 >     Each agency shall promptly cooperate with the Comptroller General in carrying out this Act. Nothing in this Act is intended to expand or limit the authority of the Government Accountability Office.
 
@@ -237,15 +237,15 @@
 
 > “SEC. 6. __EFFECTIVE DATE AND DURATION OF PILOT PROJECT.__ 
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This Act and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Oct. 17, 2000\].
 
->     “(b) __Duration of Pilot Project.—__ 
+>     “(b)  __Duration of Pilot Project__  __.—__ 
 
 >     The pilot project under this Act shall continue for a period of 3 years, if in each fiscal year, or portion thereof included in that period, a specific annual appropriation not less than $5,200,000 or the pro-rated equivalent thereof shall have been made for the pilot project.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Before the conclusion of the 3-year period, the Comptroller General shall submit to Congress a report reviewing the effectiveness of the pilot project and recommending whether or not Congress should permanently authorize the pilot project.”
 

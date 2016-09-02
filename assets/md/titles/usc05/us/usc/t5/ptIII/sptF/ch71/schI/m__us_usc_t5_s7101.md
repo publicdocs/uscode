@@ -53,7 +53,7 @@
 
 [Pub. L. 108–136, div. A, title XI, § 1128][/us/pl/108/136/s1128], Nov. 24, 2003, [117 Stat. 1641][/us/stat/117/1641], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each agency shall conduct an annual survey of its employees (including survey questions unique to the agency and questions prescribed under subsection (b)) to assess—
 
@@ -73,15 +73,15 @@
 
 >             “(E) opportunity to contribute to achieving organizational mission.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Office of Personnel Management shall issue regulations prescribing survey questions that should appear on all agency surveys under subsection (a) in order to allow a comparison across agencies.
 
->     “(c) __Availability of Results.—__ 
+>     “(c)  __Availability of Results__  __.—__ 
 
 >     The results of the agency surveys under subsection (a) shall be made available to the public and posted on the website of the agency involved, unless the head of such agency determines that doing so would jeopardize or negatively impact national security.
 
->     “(d) __Agency defined.—__ 
+>     “(d)  __Agency defined__  __.—__ 
 
 >     For purposes of this section, the term ‘agency’ means an Executive agency (as defined by [section 105 of title 5][/us/usc/t5/s105], United States Code).”
 
@@ -553,7 +553,9 @@
 
  __Extension of Term of National Council on Federal Labor-Management Relations__ 
 
-    Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+    Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+    Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 ----------
 

@@ -361,11 +361,11 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 
 [Pub. L. 103–338, § 5(b)][/us/pl/103/338/s5/b], Oct. 6, 1994, [108 Stat. 3115][/us/stat/108/3115], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Under regulations prescribed by the President or his designee, an agency shall, as appropriate, pay or make reimbursement for any moving expenses which would be payable under the provisions of [section 5724(a)(3) of title 5][/us/usc/t5/s5724/a/3], United States Code, as amended by section 4 (but which would not have been payable under such provisions, as last in effect before being so amended).
 
->     “(2) __Applicability.—__ 
+>     “(2)  __Applicability__  __.—__ 
 
 >     The moving expenses to which this subsection applies are those incurred by the family of an individual who died—
 
@@ -373,7 +373,7 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 
 >         “(ii) during the period beginning on January 1, 1994, and ending on the effective date of this Act \[Oct. 6, 1994\].
 
->     “(3) __Condition.—__ 
+>     “(3)  __Condition__  __.—__ 
 
 >     Payment or reimbursement under this subsection may not be made except upon appropriate written application submitted within 12 months after the date on which the regulations referred to in paragraph (1) take effect.”
 

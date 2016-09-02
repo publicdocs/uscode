@@ -19,7 +19,7 @@
 
 [Pub. L. 106–567, title IV, § 406][/us/pl/106/567/s406], Dec. 27, 2000, [114 Stat. 2849][/us/stat/114/2849], as amended by [Pub. L. 107–108, title IV, § 404][/us/pl/107/108/s404], Dec. 28, 2001, [115 Stat. 1404][/us/stat/115/1404], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any provision of title VI, section 636 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 \[[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f]\] (5 U.S.C. prec. 5941 note), the Director of Central Intelligence may—
 
@@ -27,7 +27,7 @@
 
 >         “(2) use appropriated funds available to the Director to reimburse employees within categories so designated for 100 percent of the costs incurred by such employees for professional liability insurance in accordance with subsection (a) of that section.
 
->     “(b) __Reports.—__ 
+>     “(b)  __Reports__  __.—__ 
 
 >     The Director of Central Intelligence shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee of Intelligence of the House of Representatives a report on each designation of a category of employees under paragraph (1) of subsection (a), including the approximate number of employees covered by such designation and an estimate of the amount to be expended on reimbursement of such employees under paragraph (2) of that subsection.”
 
@@ -41,11 +41,11 @@
 
 [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 636\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–363, as amended by [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 644\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–526; [Pub. L. 106–58, title VI, § 642(a)][/us/pl/106/58/s642/a], Sept. 29, 1999, [113 Stat. 477][/us/stat/113/477]; [Pub. L. 110–161, div. F, title IV, § 429(a)][/us/pl/110/161/s429/a], Dec. 26, 2007, [121 Stat. 2151][/us/stat/121/2151], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     Notwithstanding any other provision of law, amounts appropriated by this Act (or any other Act for fiscal year 1997 or any fiscal year thereafter) for salaries and expenses shall be used to reimburse any qualified employee for not to exceed one-half the costs incurred by such employee for professional liability insurance. A payment under this section shall be contingent upon the submission of such information or documentation as the employing agency may require.
 
->     “(b) __Qualified Employee.—__ 
+>     “(b)  __Qualified Employee__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified employee’ means an agency employee whose position is that of—
 
@@ -55,7 +55,7 @@
 
 >         “(3) a temporary fire line manager.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -83,7 +83,7 @@
 
 >             “(C) directing the deployment of equipment for a wildland or managed fire.
 
->     “(d) __Applicability.—__ 
+>     “(d)  __Applicability__  __.—__ 
 
 >     The amendments made by this section \[this note\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and shall apply thereafter.”
 

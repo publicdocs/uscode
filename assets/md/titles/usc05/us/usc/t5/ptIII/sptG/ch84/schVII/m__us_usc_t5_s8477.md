@@ -369,11 +369,11 @@
 
 [Pub. L. 99–556, title I, § 111][/us/pl/99/556/s111], Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), until such time as final regulations under subparagraph (A) of [section 8477(c)(3) of title 5][/us/usc/t5/s8477/c/3], United States Code, become effective, the Secretary of Labor may, in accordance with procedures under section 408(a) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1108(a)][/us/usc/t29/s1108/a]\], grant any exemption allowable under such section 8477(c)(3).
 
->     “(b) __Termination of Interim Authority.—__ 
+>     “(b)  __Termination of Interim Authority__  __.—__ 
 
 >     The authority to grant an exemption under [section 8477(c)(3) of title 5][/us/usc/t5/s8477/c/3], United States Code, using the procedures under section 408(a) of the Employee Retirement Income Security Act of 1974 shall expire not later than December 31, 1988.”
 

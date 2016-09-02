@@ -235,13 +235,13 @@ Sept. 23, 1959, Pub. L. 86–382, § 9(b), 73 Stat. 715.  </td>
 
 [Pub. L. 99–251, title I, § 112][/us/pl/99/251/s112], Feb. 27, 1986, [100 Stat. 19][/us/stat/100/19], provided that:
 
->     “(a) __Prohibited Transfers.—__ 
+>     “(a)  __Prohibited Transfers__  __.—__ 
 
 >         (1) No amount in the Employees Health Benefits Fund may be transferred to the general fund of the Treasury of the United States or the United States Postal Service as a result of a refund described in paragraph (2).
 
 >         “(2) This subsection applies with respect to any refund made by a carrier during fiscal year 1986 or 1987 to the Employees Health Benefits Fund to the extent that such refund represents amounts in excess of the minimum level of financial reserves necessary to be held by such carrier to ensure the stable and efficient operation of its health benefits plan.
 
->     “(b) __Restriction Relating to Use of Certain Amounts in the Fund.—__ 
+>     “(b)  __Restriction Relating to Use of Certain Amounts in the Fund__  __.—__ 
 
 >         (1) Any amount which is in the Employees Health Benefits Fund, and which is described in paragraph (2), may be used solely for the purpose of paying the Government contribution under chapter 89 of title 5, United States Code, for health benefits for annuitants enrolled in health benefits plans (without regard to the health benefits plan or plans from which the refunds were received).
 
@@ -253,7 +253,7 @@ Sept. 23, 1959, Pub. L. 86–382, § 9(b), 73 Stat. 715.  </td>
 
 >             “(B) which are attributable to Government contributions (other than contributions by the government of the District of Columbia, which shall be returned to such government) that were made under [section 8906(b) of title 5][/us/usc/t5/s8906/b], United States Code, as determined under regulations which the Office of Personnel Management shall prescribe.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For the purpose of this section—
 

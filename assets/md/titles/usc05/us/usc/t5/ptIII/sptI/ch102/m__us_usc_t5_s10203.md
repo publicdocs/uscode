@@ -15,7 +15,7 @@
 
 ## § 10203. Basic pay
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The annual rates of basic pay of members of the United States Secret Service Uniformed Division shall be fixed in accordance with the following schedule of rates, except that the payable annual rate of basic pay for positions at the Lieutenant, Captain, and Inspector ranks is limited to 95 percent of the rate of pay for level V of the Executive Schedule under subchapter II of chapter 53.
 

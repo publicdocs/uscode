@@ -43,15 +43,15 @@
 
 [Pub. L. 101–12, § 7][/us/pl/101/12/s7], Apr. 10, 1989, [103 Stat. 34][/us/stat/103/34], provided that:
 
->     “(a) __Orders, Rules, and Regulations.—__ 
+>     “(a)  __Orders, Rules, and Regulations__  __.—__ 
 
 >     All orders, rules, and regulations issued by the Merit Systems Protection Board or the Special Counsel before the effective date of this Act \[see Effective Date of 1989 Amendment note above\] shall continue in effect, according to their terms, until modified, terminated, superseded, or repealed.
 
->     “(b) __Administrative Proceedings.—__ 
+>     “(b)  __Administrative Proceedings__  __.—__ 
 
 >     No provision of this Act \[see Short Title of 1989 Amendment note above\] shall affect any administrative proceeding pending at the time such provisions take effect. Orders shall be issued in such proceedings, and appeals shall be taken therefrom, as if this Act had not been enacted.
 
->     “(c) __Suits and Other Proceedings.—__ 
+>     “(c)  __Suits and Other Proceedings__  __.—__ 
 
 >     No suit, action, or other proceeding lawfully commenced by or against the members of the Merit Systems Protection Board, the Special Counsel, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1989 Amendment note above\], shall abate by reason of the enactment of this Act. Determinations with respect to any such suit, action, or other proceeding shall be made as if this Act had not been enacted.”
 
@@ -59,7 +59,7 @@
 
 [Pub. L. 101–12, § 2][/us/pl/101/12/s2], Apr. 10, 1989, [103 Stat. 16][/us/stat/103/16], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -69,7 +69,7 @@
 
 >         “(3) in passing the Civil Service Reform Act of 1978 \[[Pub. L. 95–454][/us/pl/95/454], see Tables for classification\], Congress established the Office of Special Counsel to protect whistleblowers (those individuals who make disclosures described in such section 2302(b)(8)) from reprisal.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Short Title of 1989 Amendment note above\] is to strengthen and improve protection for the rights of Federal employees, to prevent reprisals, and to help eliminate wrongdoing within the Government by—
 

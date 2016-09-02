@@ -111,11 +111,11 @@ Oct. 11, 1962, Pub. L. 87–793, § 502, 76 Stat. 841.  </td>
 
 Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provided that:
 
->     “(a) __Generally.—__ 
+>     “(a)  __Generally__  __.—__ 
 
 >     Except as otherwise provided in this Act, this Act and the amendments made by this Act \[this Act means section 529 \[titles I–III, §§ 1–306\] of [Pub. L. 101–509][/us/pl/101/509], but does not include section 529 \[title IV, §§ 401–412\] of [Pub. L. 101–509][/us/pl/101/509], see Short Title of 1990 Amendment; Rules of Construction note below, and see Tables for classification\] shall take effect on such date as the President shall determine \[see Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, set out below\], but not earlier than 90 days, and not later than 180 days, after the date of enactment of this Act \[Nov. 5, 1990\].
 
->     “(b) __Special Rule.—__ 
+>     “(b)  __Special Rule__  __.—__ 
 
 >     The first calendar year in which comparability payments under [section 5304 of title 5][/us/usc/t5/s5304], United States Code (as amended by this Act), are paid shall be the calendar year beginning on January 1, 1994.”
 
@@ -139,11 +139,11 @@ Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provi
 
 [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[§ 1\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section, and the sections immediately following this section through section 412, inclusive \[section 529 \[§§ 1–412\] of [Pub. L. 101–509][/us/pl/101/509], see Tables for classification\], may be cited as the ‘Federal Employees Pay Comparability Act of 1990’ (hereinafter in this section referred to as ‘FEPCA’).
 
->     “(b) __Rules of Construction.—__ 
+>     “(b)  __Rules of Construction__  __.—__ 
 
 >         (1) Except as otherwise expressly provided, any reference (actual or implicit) in FEPCA (outside of this section) to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’) shall be construed to be a reference to FEPCA (or the corresponding provision within FEPCA).
 
@@ -163,7 +163,7 @@ Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provi
 
 [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 111\], Nov. 5, 1990, [104 Stat. 1453][/us/stat/104/1453], provided that:
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     It is the policy of Congress that—
 
@@ -175,11 +175,11 @@ Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provi
 
 >         “(4) any legislation needed to implement the systems should be enacted in a timely fashion so as to permit implementation of the system by October 1, 1993.
 
->     “(b) __Establishment.—__ 
+>     “(b)  __Establishment__  __.—__ 
 
 >     The Office of Personnel Management shall establish a Pay-for-Performance Labor-Management Committee to advise the Office on the design and establishment of systems for strengthening the linkage between the performance of General Schedule employees and their pay.
 
->     “(c) __Membership.—__ 
+>     “(c)  __Membership__  __.—__ 
 
 >     The members of the Committee shall be—
 
@@ -193,19 +193,19 @@ Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provi
 
 >         “(5) 6 individuals appointed by the Director of the Office of Personnel Management to serve as representatives of employee organizations which represent substantial numbers of General Schedule employees, and who shall be selected with due consideration to such factors as the relative numbers of General Schedule employees represented by the various organizations, except that not more than 3 members of the Committee at any one time shall be from a single employee organization, council, federation, alliance, association, or affiliation of employee organizations.
 
->     “(d) __Pay for Members.—__ 
+>     “(d)  __Pay for Members__  __.—__ 
 
 >     The Chairman shall be paid at a rate of basic pay for the Senior Executive Service, to be determined by the Director of the Office of Personnel Management. The members of the Committee who are otherwise employees of the Federal Government shall not receive any additional pay by reason of their service on the Committee. The members of the Committee who are not otherwise employees of the Federal Government shall not be paid for their service on the Committee and shall not be considered employees of the Federal Government for any purpose by reason of their service on the Committee.
 
->     “(e) __Administrative Support.—__ 
+>     “(e)  __Administrative Support__  __.—__ 
 
 >     The Office of Personnel Management may provide staff and administrative support for the Committee.
 
->     “(f) __Functions.—__ 
+>     “(f)  __Functions__  __.—__ 
 
 >     The Committee shall review available reports and studies on performance evaluation and performance-based pay systems (including a report to be prepared by the National Academy of Sciences) and any other pertinent information.
 
->     “(g) __Report to the Office of Personnel Management.—__ 
+>     “(g)  __Report to the Office of Personnel Management__  __.—__ 
 
 >     No later than 1 year after the date of enactment of this Act \[Nov. 5, 1990\], the Committee shall submit a report to the Director of the Office of Personnel Management, which shall include recommendations as to—
 

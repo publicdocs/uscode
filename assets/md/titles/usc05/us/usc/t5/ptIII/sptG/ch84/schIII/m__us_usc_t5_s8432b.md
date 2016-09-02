@@ -137,7 +137,7 @@
 
 [Pub. L. 103–353, § 4(e)][/us/pl/103/353/s4/e], (f), Oct. 13, 1994, [108 Stat. 3172][/us/stat/108/3172], 3173, provided that:
 
->     “(e) __Effective Date; Applicability.—__ 
+>     “(e)  __Effective Date; Applicability__  __.—__ 
 
 >     This section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] and the amendments made by this section—
 
@@ -145,7 +145,7 @@
 
 >         “(2) shall apply to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of title 38, United States Code, occurs on or after August 2, 1990.
 
->     “(f) __Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—__ 
+>     “(f)  __Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date__  __.—__ 
 
 >     In the case of any employee (described in subsection (e)(2)) who is reemployed or restored (in the circumstances described in [section 8432b(a) of title 5][/us/usc/t5/s8432b/a], United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall apply to such employee, in accordance with their terms, subject to the following:
 

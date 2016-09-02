@@ -63,7 +63,7 @@
 
 > “SEC. 2. __PRESENTATION OF UNITED STATES FLAG ON BEHALF OF FEDERAL CIVILIAN EMPLOYEES WHO DIE OF INJURIES INCURRED IN CONNECTION WITH THEIR EMPLOYMENT.__ 
 
->     “(a) __Presentation Authorized.—__ 
+>     “(a)  __Presentation Authorized__  __.—__ 
 
 >     Upon receipt of a request under subsection (b), the head of an executive agency may give a flag of the United States for an individual who—
 
@@ -71,7 +71,7 @@
 
 >         “(2) dies of injuries incurred in connection with such individual’s employment with the Federal Government, suffered as a result of a criminal act, an act of terrorism, a natural disaster, or other circumstance as determined by the President.
 
->     “(b) __Request for Flag.—__ 
+>     “(b)  __Request for Flag__  __.—__ 
 
 >     The head of an executive agency may furnish a flag for a deceased employee described in subsection (a) upon the request of—
 
@@ -79,27 +79,27 @@
 
 >         “(2) if no request is received from an individual described in paragraph (1), an individual other than the next of kin as determined by the Director of the Office of Personnel Management.
 
->     “(c) __Classified Information.—__ 
+>     “(c)  __Classified Information__  __.—__ 
 
 >     The head of an executive agency may disclose information necessary to show that a deceased individual is an employee described in subsection (a) to the extent that such information is not classified and to the extent that such disclosure does not endanger the national security of the United States.
 
->     “(d) __Employee Notification of Flag Benefit.—__ 
+>     “(d)  __Employee Notification of Flag Benefit__  __.—__ 
 
 >     The head of an executive agency shall provide appropriate notice to employees of the agency of the flag benefit provided for under this section.
 
->     “(e) __Regulations.—__ 
+>     “(e)  __Regulations__  __.—__ 
 
 >     The Director of the Office of Personnel Management, in coordination with the Secretary of Defense and the Secretary of Homeland Security, may prescribe regulations to implement this section. Any such regulations shall provide for the head of an executive agency to consider the conditions and circumstances surrounding the death of an employee and nature of the service of the employee.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Employee.—__ 
+>         “(1)  __Employee__  __.—__ 
 
 >         The term ‘employee’ has the meaning given that term in [section 2105 of title 5][/us/usc/t5/s2105], United States Code, and includes an officer or employee of the United States Postal Service or of the Postal Regulatory Commission.
 
->         “(2) __Executive agency.—__ 
+>         “(2)  __Executive agency__  __.—__ 
 
 >         The term ‘executive agency’ has the meaning given that term in [section 105 of title 5][/us/usc/t5/s105], United States Code, and includes the United States Postal Service and the Postal Regulatory Commission.”
 

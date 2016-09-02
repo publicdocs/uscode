@@ -93,11 +93,11 @@ Sept. 21, 1944, ch. 412, § 709, 58 Stat. 743.  </td>
 
 [Pub. L. 103–226, § 5][/us/pl/103/226/s5], Mar. 30, 1994, [108 Stat. 115][/us/stat/108/115], as amended by [Pub. L. 103–329, title VI, § 631][/us/pl/103/329/s631], Sept. 30, 1994, [108 Stat. 2424][/us/stat/108/2424]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     For the purpose of this section, the term ‘agency’ means an Executive agency (as defined by [section 105 of title 5][/us/usc/t5/s105], United States Code), but does not include the Government Accountability Office.
 
->     “(b) __Limitations on Full-Time Equivalent Positions.—__ 
+>     “(b)  __Limitations on Full-Time Equivalent Positions__  __.—__ 
 
 >     The President, through the Office of Management and Budget (in consultation with the Office of Personnel Management), shall ensure that the total number of full-time equivalent positions in all agencies shall not exceed—
 
@@ -113,7 +113,7 @@ Sept. 21, 1944, ch. 412, § 709, 58 Stat. 743.  </td>
 
 >         “(6) 1,882,300 during fiscal year 1999.
 
->     “(c) __Monitoring and Notification.—__ 
+>     “(c)  __Monitoring and Notification__  __.—__ 
 
 >     The Office of Management and Budget, after consultation with the Office of Personnel Management, shall—
 
@@ -121,13 +121,13 @@ Sept. 21, 1944, ch. 412, § 709, 58 Stat. 743.  </td>
 
 >         “(2) notify the President and the Congress on the first date of each quarter of each applicable fiscal year of any determination that any requirement of subsection (b) is not met.
 
->     “(d) __Compliance.—__ 
+>     “(d)  __Compliance__  __.—__ 
 
 >     If, at any time during a fiscal year, the Office of Management and Budget notifies the President and the Congress that any requirement under subsection (b) is not met, no agency may hire any employee for any position in such agency until the Office of Management and Budget notifies the President and the Congress that the total number of full-time equivalent positions for all agencies equals or is less than the applicable number required under subsection (b).
 
 >     “(e) __Waiver.—__ 
 
->         “(1) __Emergencies.—__ 
+>         “(1)  __Emergencies__  __.—__ 
 
 >         Any provision of this section may be waived upon a determination by the President that—
 
@@ -143,17 +143,17 @@ Sept. 21, 1944, ch. 412, § 709, 58 Stat. 743.  </td>
 
 >     “(f) __Employment Backfill Prevention.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The total number of funded employee positions in all agencies (excluding the Department of Defense and the Central Intelligence Agency) shall be reduced by one position for each vacancy created by the separation of any employee who has received, or is due to receive, a voluntary separation incentive payment under section 3(a)–(e) \[[5 U.S.C. 5597][/us/usc/t5/s5597] note\]. For purposes of this subsection, positions and vacancies shall be counted on a full-time-equivalent basis.
 
->         “(2) __Related restriction.—__ 
+>         “(2)  __Related restriction__  __.—__ 
 
 >         No funds budgeted for and appropriated by any Act for salaries or expenses of positions eliminated under this subsection may be used for any purpose other than authorized separation costs.
 
 >         “(3) __Applicability of backfill prevention provisions to agencies otherwise exempted from fte reduction.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If any agency is otherwise exempted by any law from the limitations on full-time equivalent positions or the restrictions on hiring established by this section—
 
@@ -161,15 +161,15 @@ Sept. 21, 1944, ch. 412, § 709, 58 Stat. 743.  </td>
 
 >                 “(ii) the reductions required pursuant to clause (i) shall be made in the number of funded employee positions in such agency.
 
->             “(B) __Waiver authority.—__ 
+>             “(B)  __Waiver authority__  __.—__ 
 
 >             In the case of a particular position in an agency, subparagraph (A) may be waived upon a determination by the head of the agency that the performance of a critical agency mission requires the waiver.
 
->             “(C) __Relation to other law.—__ 
+>             “(C)  __Relation to other law__  __.—__ 
 
 >             No law may be construed as suspending or modifying this paragraph unless such law specifically amends this paragraph.
 
->     “(g) __Limitation on Procurement of Service Contracts.—__ 
+>     “(g)  __Limitation on Procurement of Service Contracts__  __.—__ 
 
 >     The President shall take appropriate action to ensure that there is no increase in the procurement of service contracts by reason of the enactment of this Act \[see Tables for classification\], except in cases in which a cost comparison demonstrates such contracts would be to the financial advantage of the Federal Government.”
 

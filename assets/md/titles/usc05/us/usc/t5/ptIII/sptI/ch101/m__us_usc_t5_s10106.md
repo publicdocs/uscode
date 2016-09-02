@@ -17,11 +17,11 @@
 
     (a) __Initial Report.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 3 months after the date of enactment of this chapter, the Administrator shall develop and submit to the appropriate committees of Congress a report on the vacancies in employee positions of the Agency.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         The report under this subsection shall include—
 
@@ -35,7 +35,7 @@
 
             (E) a plan for reducing the hiring-cycle time and reducing the current and anticipated vacancies with highly-qualified personnel.
 
-    (b) __Quarterly Updates.—__ 
+    (b)  __Quarterly Updates__  __.—__ 
 
     Not later than 3 months after submission of the initial report, and every 3 months thereafter until 5 years after the date of enactment of this chapter, the Administrator shall submit to the appropriate committees of Congress an update of the report under subsection (a), including an assessment by the Administrator of the progress of the Agency in filling vacant employee positions of the Agency.
 

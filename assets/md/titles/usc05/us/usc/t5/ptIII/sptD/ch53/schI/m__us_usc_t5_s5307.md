@@ -113,11 +113,11 @@
 
 >     “(1) __Extension to 2009.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For any certification of a performance appraisal system under [section 5307(d) of title 5][/us/usc/t5/s5307/d], United States Code, in effect on the date of enactment of this Act \[Oct. 8, 2008\] and scheduled to expire at the end of calendar year 2008, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
 
->         “(B) __Limitation.—__ 
+>         “(B)  __Limitation__  __.—__ 
 
 >         The expiration of any extension under this paragraph shall be not later than the later of—
 
@@ -127,11 +127,11 @@
 
 >     “(2) __Extension to 2010.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For any certification of a performance appraisal system under [section 5307(d) of title 5][/us/usc/t5/s5307/d], United States Code, in effect on the date of enactment and scheduled to expire at the end of calendar year 2009, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
 
->         “(B) __Limitation.—__ 
+>         “(B)  __Limitation__  __.—__ 
 
 >         The expiration of any extension under this paragraph shall be not later than the later of—
 

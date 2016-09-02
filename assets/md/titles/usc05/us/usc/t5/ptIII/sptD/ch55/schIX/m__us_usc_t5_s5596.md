@@ -177,29 +177,29 @@ Mar. 30, 1966, Pub. L. 89–380, §§ 2–4, 80 Stat. 94, 95.  </td>
 
 [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 623(b)\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–429, provided that:
 
->     “(1) __Generally.—__ 
+>     “(1)  __Generally__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\], and shall apply with respect to any employee found, in a final judgment entered or a final decision otherwise rendered on or after such date, to have been the subject of an unjustified or unwarranted personnel action, the correction of which entitles such employee to an amount under [section 5596(b)(1)(A)(i) of title 5][/us/usc/t5/s5596/b/1/A/i], United States Code.
 
 >     “(2) __Exception.—__ 
 
->         “(A) __Cases in which a right to interest was reserved.—__ 
+>         “(A)  __Cases in which a right to interest was reserved__  __.—__ 
 
 >         The amendments made by subsection (a) \[amending this section\] shall also apply with respect to any claim which was brought under [section 5596 of title 5][/us/usc/t5/s5596], United States Code, and with respect to which a final judgment was entered or a final decision was otherwise rendered before the date of the enactment of this Act \[Dec. 22, 1987\], if, under terms of such judgment or decision, a right to interest was specifically reserved, contingent on the enactment of a statute authorizing the payment of interest on claims brought under such section 5596.
 
->         “(B) __Method of computing interest.—__ 
+>         “(B)  __Method of computing interest__  __.—__ 
 
 >         The amount of interest payable under this paragraph with respect to a claim shall be determined in accordance with [section 5596(b)(2)(B) of title 5][/us/usc/t5/s5596/b/2/B], United States Code (as amended by this section).
 
->         “(C) __Source.—__ 
+>         “(C)  __Source__  __.—__ 
 
 >         An amount payable under this paragraph shall be paid from the appropriation made by [section 1304 of title 31][/us/usc/t31/s1304], United States Code, notwithstanding [section 5596(b)(2)(C) of title 5][/us/usc/t5/s5596/b/2/C], United States Code (as amended by this section) or any other provision of law.
 
->         “(D) __Deadline.—__ 
+>         “(D)  __Deadline__  __.—__ 
 
 >         An application for a payment under this paragraph shall be ineffective if it is filed after the end of the 1-year period beginning on the date of the enactment of this Act \[Dec. 22, 1987\].
 
->         “(E) __Limitation on payments.—__ 
+>         “(E)  __Limitation on payments__  __.—__ 
 
 >         Payments under this paragraph may not be made before October 1, 1988, except that interest shall continue to accrue in accordance with \[section\] 5596(b)(2)(B) of title 5, United States Code.”
 

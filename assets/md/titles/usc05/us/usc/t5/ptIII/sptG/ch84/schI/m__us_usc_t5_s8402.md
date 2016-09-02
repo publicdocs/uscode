@@ -161,15 +161,15 @@
 
 [Pub. L. 106–168, title II, § 202(d)][/us/pl/106/168/s202/d], Dec. 12, 1999, [113 Stat. 1819][/us/stat/113/1819], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to succeeding provisions of this subsection, this section \[amending this section and [section 8411 of this title][/us/usc/t5/s8411] and enacting provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 12, 1999\].
 
->     “(2) __Provisions relating to creditability and certain former employees.—__ 
+>     “(2)  __Provisions relating to creditability and certain former employees__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending [section 8411 of this title][/us/usc/t5/s8411]\] and the provisions of subsection (c) \[set out as a note below\] shall apply only to individuals who separate from service subject to chapter 84 of title 5, United States Code, on or after the date of the enactment of this Act \[Dec. 12, 1999\].
 
->     “(3) __Provisions relating to exclusion from chapter.—__ 
+>     “(3)  __Provisions relating to exclusion from chapter__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall not apply to any former employee of the Board of Governors of the Federal Reserve System who, subsequent to his or her last period of service as an employee of the Board of Governors of the Federal Reserve System and prior to the date of the enactment of this Act \[Dec. 12, 1999\], became subject to subchapter III of chapter 83 or chapter 84 of title 5, United States Code, under the law in effect at the time of the individual’s appointment.”
 

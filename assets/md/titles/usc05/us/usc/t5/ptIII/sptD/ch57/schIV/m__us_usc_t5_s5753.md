@@ -125,15 +125,15 @@
 
 [Pub. L. 108–411, title I, § 101(d)][/us/pl/108/411/s101/d], Oct. 30, 2004, [118 Stat. 2310][/us/stat/118/2310], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     Except as provided under paragraphs (2) and (3), this section \[enacting this section and [section 5754 of this title][/us/usc/t5/s5754], repealing former sections 5753 and 5754 of this title, and amending provisions set out as a note under [section 5305 of this title][/us/usc/t5/s5305]\] shall take effect on the first day of the first applicable pay period beginning on or after the 180th day after the date of the enactment of this Act \[Oct. 30, 2004\].
 
->     “(2) __Application to agreements.—__ 
+>     “(2)  __Application to agreements__  __.—__ 
 
 >     A recruitment or relocation bonus service agreement that was authorized under [section 5753 of title 5][/us/usc/t5/s5753], United States Code, before the effective date under paragraph (1) shall continue, until its expiration, to be subject to such section as in effect on the day before such effective date.
 
->     “(3) __Application to allowances.—__ 
+>     “(3)  __Application to allowances__  __.—__ 
 
 >     Payment of a retention allowance that was authorized under [section 5754 of title 5][/us/usc/t5/s5754], United States Code, before the effective date under paragraph (1) shall continue, subject to such section as in effect on the day before such effective date, until the retention allowance is reauthorized or terminated (but no longer than 1 year after such effective date).”
 

@@ -21,9 +21,11 @@
 
          Not later than October 1 of each year, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect during the following contract year with respect to—
 
-            (A) enrollments under this chapter for self alone; and
+            (A) enrollments under this chapter for self alone;
 
-            (B) enrollments under this chapter for self and family.
+            (B) enrollments under this chapter for self plus one; and
+
+            (C) enrollments under this chapter for self and family.
 
         (2) In determining each weighted average under paragraph (1), the weight to be given to a particular subscription charge shall, with respect to each plan (and option) to which it is to apply, be commensurate with the number of enrollees enrolled in such plan (and option) as of March 31 of the year in which the determination is being made.
 
@@ -109,7 +111,7 @@
 
     (i) An annuitant whose annuity is insufficient to cover the withholdings required for enrollment in a particular health benefits plan may enroll (or remain enrolled) in such plan, notwithstanding any other provision of this section, if the annuitant elects, under conditions prescribed by regulations of the Office, to pay currently into the Employees Health Benefits Fund, through the retirement system that administers the annuitant’s health benefits enrollment, an amount equal to the withholdings that would otherwise be required under this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 604][/us/stat/80/604]; [Pub. L. 90–83, § 1(96)][/us/pl/90/83/s1/96], Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 91–418, § 1(a)][/us/pl/91/418/s1/a], Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869]; [Pub. L. 93–246, § 1][/us/pl/93/246/s1], Jan. 31, 1974, [88 Stat. 3][/us/stat/88/3]; [Pub. L. 94–310, § 3(a)][/us/pl/94/310/s3/a], June 15, 1976, [90 Stat. 687][/us/stat/90/687]; [Pub. L. 95–437, § 4(c)(2)(A)][/us/pl/95/437/s4/c/2/A], Oct. 10, 1978, [92 Stat. 1059][/us/stat/92/1059]; [Pub. L. 95–454, title IX, § 906(a)(15)][/us/pl/95/454/s906/a/15], (c)(2)(F), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], 1227; [Pub. L. 96–54, § 2(a)(53)][/us/pl/96/54/s2/a/53], Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 99–272, title XV, § 15202(b)][/us/pl/99/272/s15202/b], Apr. 7, 1986, [100 Stat. 334][/us/stat/100/334]; [Pub. L. 101–239, title IV, § 4003(a)][/us/pl/101/239/s4003/a], Dec. 19, 1989, [103 Stat. 2135][/us/stat/103/2135]; [Pub. L. 101–303, § 1(a)][/us/pl/101/303/s1/a], (b), May 29, 1990, [104 Stat. 250][/us/stat/104/250]; [Pub. L. 101–508, title VII, § 7102(a)][/us/pl/101/508/s7102/a], (b), Nov. 5, 1990, [104 Stat. 1388–333][/us/stat/104/1388-333]; [Pub. L. 102–378, § 2(78)][/us/pl/102/378/s2/78], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–186, title II, § 215(19)][/us/pl/104/186/s215/19], Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title IV, § 422\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–343; [Pub. L. 105–33, title VII, § 7002(a)][/us/pl/105/33/s7002/a], Aug. 5, 1997, [111 Stat. 662][/us/stat/111/662]; [Pub. L. 105–261, div. A, title VII, § 721(b)(2)][/us/pl/105/261/s721/b/2], (3), Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 107–107, div. A, title V, § 519(a)][/us/pl/107/107/s519/a], (b), Dec. 28, 2001, [115 Stat. 1096][/us/stat/115/1096]; [Pub. L. 108–375, div. A, title XI, § 1101(b)][/us/pl/108/375/s1101/b], Oct. 28, 2004, [118 Stat. 2072][/us/stat/118/2072]; [Pub. L. 109–435, title VIII, § 803(a)(1)(A)][/us/pl/109/435/s803/a/1/A], Dec. 20, 2006, [120 Stat. 3251][/us/stat/120/3251].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 604][/us/stat/80/604]; [Pub. L. 90–83, § 1(96)][/us/pl/90/83/s1/96], Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 91–418, § 1(a)][/us/pl/91/418/s1/a], Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869]; [Pub. L. 93–246, § 1][/us/pl/93/246/s1], Jan. 31, 1974, [88 Stat. 3][/us/stat/88/3]; [Pub. L. 94–310, § 3(a)][/us/pl/94/310/s3/a], June 15, 1976, [90 Stat. 687][/us/stat/90/687]; [Pub. L. 95–437, § 4(c)(2)(A)][/us/pl/95/437/s4/c/2/A], Oct. 10, 1978, [92 Stat. 1059][/us/stat/92/1059]; [Pub. L. 95–454, title IX, § 906(a)(15)][/us/pl/95/454/s906/a/15], (c)(2)(F), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], 1227; [Pub. L. 96–54, § 2(a)(53)][/us/pl/96/54/s2/a/53], Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 99–272, title XV, § 15202(b)][/us/pl/99/272/s15202/b], Apr. 7, 1986, [100 Stat. 334][/us/stat/100/334]; [Pub. L. 101–239, title IV, § 4003(a)][/us/pl/101/239/s4003/a], Dec. 19, 1989, [103 Stat. 2135][/us/stat/103/2135]; [Pub. L. 101–303, § 1(a)][/us/pl/101/303/s1/a], (b), May 29, 1990, [104 Stat. 250][/us/stat/104/250]; [Pub. L. 101–508, title VII, § 7102(a)][/us/pl/101/508/s7102/a], (b), Nov. 5, 1990, [104 Stat. 1388–333][/us/stat/104/1388-333]; [Pub. L. 102–378, § 2(78)][/us/pl/102/378/s2/78], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–186, title II, § 215(19)][/us/pl/104/186/s215/19], Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title IV, § 422\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–343; [Pub. L. 105–33, title VII, § 7002(a)][/us/pl/105/33/s7002/a], Aug. 5, 1997, [111 Stat. 662][/us/stat/111/662]; [Pub. L. 105–261, div. A, title VII, § 721(b)(2)][/us/pl/105/261/s721/b/2], (3), Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 107–107, div. A, title V, § 519(a)][/us/pl/107/107/s519/a], (b), Dec. 28, 2001, [115 Stat. 1096][/us/stat/115/1096]; [Pub. L. 108–375, div. A, title XI, § 1101(b)][/us/pl/108/375/s1101/b], Oct. 28, 2004, [118 Stat. 2072][/us/stat/118/2072]; [Pub. L. 109–435, title VIII, § 803(a)(1)(A)][/us/pl/109/435/s803/a/1/A], Dec. 20, 2006, [120 Stat. 3251][/us/stat/120/3251]; [Pub. L. 113–67, div. A, title VII, § 706(c)][/us/pl/113/67/s706/c], Dec. 26, 2013, [127 Stat. 1194][/us/stat/127/1194].)
 
 <table>
 
@@ -244,6 +246,8 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
     In subsection (e)(2), the words “as defined by [section 8901 of this title][/us/usc/t5/s8901]” are substituted for “as defined in section 2 of this Act” to reflect the codification of that section in [5 U.S.C. 8901][/us/usc/t5/s8901]. The words “Employees Health Benefits Fund” and “Fund” are substituted for “fund” and “fund”, respectively. In the penultimate sentence, the words “will continue during nonpay status and end” are substituted for “will terminate” for clarity and on authority of [5 U.S.C. 8906(e)(1)][/us/usc/t5/s8906/e/1].
 
  __Amendments__ 
+
+    2013—Subsec. (a)(1). [Pub. L. 113–67][/us/pl/113/67] struck out “and” at end of subpar. (A), added subpar. (B), and redesignated subpar. (B) as (C).
 
     2006—Subsec. (g)(2)(A). [Pub. L. 109–435][/us/pl/109/435] substituted “shall through September 30, 2016, be paid by the United States Postal Service, and thereafter shall be paid first from the Postal Service Retiree Health Benefits Fund up to the amount contained in the Fund, with any remaining amount paid by the United States Postal Service” for “shall be paid by the United States Postal Service”.
 
@@ -498,9 +502,12 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 [/us/stat/118/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2072
 [/us/pl/109/435/s803/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs803%2Fa%2F1%2FA
 [/us/stat/120/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3251
+[/us/pl/113/67/s706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fc
+[/us/stat/127/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1194
 [/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
 [/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
 [/us/usc/t5/s8906/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906%2Fe%2F1
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/107/s519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs519%2Fa

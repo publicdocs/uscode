@@ -83,11 +83,11 @@
 
 > “SECTION 1. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This Act may be cited as the ‘Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002’.
 
->     “(b) __Table of Contents.—__ 
+>     “(b)  __Table of Contents__  __.—__ 
 
 >     \[Omitted.\]
 
@@ -181,7 +181,7 @@
 
 > “SEC. 201. __REIMBURSEMENT REQUIREMENT.__ 
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     This section applies with respect to any payment made in accordance with section 2414, 2517, 2672, or 2677 of title 28, United States Code, and under [section 1304 of title 31][/us/usc/t31/s1304], United States Code (relating to judgments, awards, and compromise settlements) to any Federal employee, former Federal employee, or applicant for Federal employment, in connection with any proceeding brought by or on behalf of such employee, former employee, or applicant under—
 
@@ -189,11 +189,11 @@
 
 >         “(2) any other provision of law which prohibits any form of discrimination, as identified under rules issued under section 204.
 
->     “(b) __Requirement.—__ 
+>     “(b)  __Requirement__  __.—__ 
 
 >     An amount equal to the amount of each payment described in subsection (a) shall be reimbursed to the fund described in [section 1304 of title 31][/us/usc/t31/s1304], United States Code, out of any appropriation, fund, or other account (excluding any part of such appropriation, of such fund, or of such account available for the enforcement of any Federal law) available for operating expenses of the Federal agency to which the discriminatory conduct involved is attributable as determined under section 204.
 
->     “(c) __Scope.—__ 
+>     “(c)  __Scope__  __.—__ 
 
 >     The provisions of law cited in this subsection are the following:
 
@@ -203,7 +203,7 @@
 
 > “SEC. 202. __NOTIFICATION REQUIREMENT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Written notification of the rights and protections available to Federal employees, former Federal employees, and applicants for Federal employment (as the case may be) in connection with the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) shall be provided to such employees, former employees, and applicants—
 
@@ -211,17 +211,17 @@
 
 >         “(2) if, or to the extent that, no such notification would otherwise be required, in such time, form, and manner as shall under section 204 be required in order to carry out the requirements of this section.
 
->     “(b) __Posting on the Internet.—__ 
+>     “(b)  __Posting on the Internet__  __.—__ 
 
 >     Any written notification under this section shall include, but not be limited to, the posting of the information required under paragraph (1) or (2) (as applicable) of subsection (a) on the Internet site of the Federal agency involved.
 
->     “(c) __Employee Training.—__ 
+>     “(c)  __Employee Training__  __.—__ 
 
 >     Each Federal agency shall provide to the employees of such agency training regarding the rights and remedies applicable to such employees under the laws cited in section 201(c).
 
 > “SEC. 203. __REPORTING REQUIREMENT.__ 
 
->     “(a) __Annual Report.—__ 
+>     “(a)  __Annual Report__  __.—__ 
 
 >     Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report which shall include, with respect to the fiscal year—
 
@@ -263,13 +263,13 @@
 
 >         “(8) any adjustment (to the extent the adjustment can be ascertained in the budget of the agency) to comply with the requirements under section 201.
 
->     “(b) __First Report.—__ 
+>     “(b)  __First Report__  __.—__ 
 
 >     The 1st report submitted under subsection (a) shall include for each item under subsection (a) data for each of the 5 immediately preceding fiscal years (or, if data are not available for all 5 fiscal years, for each of those 5 fiscal years for which data are available).
 
 > “SEC. 204. __RULES AND GUIDELINES.__ 
 
->     “(a) __Issuance of Rules and Guidelines.—__ 
+>     “(a)  __Issuance of Rules and Guidelines__  __.—__ 
 
 >     The President (or the designee of the President) shall issue—
 
@@ -279,7 +279,7 @@
 
 >         “(3) based on the results of such study, advisory guidelines incorporating best practices that Federal agencies may follow to take such actions against such employees.
 
->     “(b) __Agency Notification Regarding Implementation of Guidelines.—__ 
+>     “(b)  __Agency Notification Regarding Implementation of Guidelines__  __.—__ 
 
 >     Not later than 30 days after the issuance of guidelines under subsection (a), each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Equal Employment Opportunity Commission, and the Attorney General a written statement specifying in detail—
 
@@ -301,11 +301,11 @@
 
 >         “(1) __Study.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study relating to the effects of eliminating the requirement that Federal employees aggrieved by violations of any of the laws specified under section 201(c) exhaust administrative remedies before filing complaints with the Equal Employment Opportunity Commission.
 
->             “(B) __Contents.—__ 
+>             “(B)  __Contents__  __.—__ 
 
 >             The study shall include a detailed summary of matters investigated, information collected, and conclusions formulated that lead to determinations of how the elimination of such requirement will—
 
@@ -317,23 +317,23 @@
 
 >                 “(iv) affect any other matters determined by the General Accounting Office \[now Government Accountability Office\] to be appropriate for consideration.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Equal Employment Opportunity Commission, and the Attorney General a report containing the information required to be included in such study.
 
 >     “(b) __Study on Ascertainment of Certain Costs of the Department of Justice in Defending Discrimination and Whistleblower Cases.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study of the methods that could be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report containing the information required to be included in the study.
 
 >     “(c) __Studies on Statutory Effects on Agency Operations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 18 months after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct—
 
@@ -341,7 +341,7 @@
 
 >             “(B) a study on the effects of section 13 of the Contract Disputes Act of 1978 ([41 U.S.C. 612][/us/usc/t41/s612]) \[now [41 U.S.C. 7108][/us/usc/t41/s7108]\] on the operations of Federal agencies.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         Each study under paragraph (1) shall include, with respect to the applicable statutes of the study—
 
@@ -363,13 +363,13 @@
 
 >                 “(v) any other matter determined by the General Accounting Office \[now Government Accountability Office\] to be appropriate for consideration.
 
->         “(3) __Reports.—__ 
+>         “(3)  __Reports__  __.—__ 
 
 >         Not later than 90 days after the completion of each study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Attorney General.
 
 >     “(d) __Study on Administrative and Personnel Costs Incurred by the Department of the Treasury.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study on the extent of any administrative and personnel costs incurred by the Department of the Treasury to account for payments made in accordance with section 2414, 2517, 2672, or 2677 of title 28, United States Code, and under [section 1304 of title 31][/us/usc/t31/s1304], United States Code, as a result of—
 
@@ -377,7 +377,7 @@
 
 >             “(B) the Contracts Dispute \[Contract Disputes\] Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] note \[see [41 U.S.C. 7101][/us/usc/t41/s7101] et seq.\]; [Public Law 95–563][/us/pl/95/563]).
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Attorney General.
 
@@ -385,11 +385,11 @@
 
 > “SEC. 301. __DATA TO BE POSTED BY EMPLOYING FEDERAL AGENCIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each Federal agency shall post on its public Web site, in the time, form, and manner prescribed under section 303 (in conformance with the requirements of this section), summary statistical data relating to equal employment opportunity complaints filed with such agency by employees or former employees of, or applicants for employment with, such agency.
 
->     “(b) __Content Requirements.—__ 
+>     “(b)  __Content Requirements__  __.—__ 
 
 >     The data posted by a Federal agency under this section shall include, for the then current fiscal year, the following:
 
@@ -465,7 +465,7 @@
 
 >     “(c) __Timing and Other Requirements.—__ 
 
->         “(1) __Current year data.—__ 
+>         “(1)  __Current year data__  __.—__ 
 
 >         Data posted under this section for the then current fiscal year shall include both—
 
@@ -473,13 +473,13 @@
 
 >             “(B) final year-end data.
 
->         “(2) __Data for prior years.—__ 
+>         “(2)  __Data for prior years__  __.—__ 
 
 >         The data posted by a Federal agency under this section for a fiscal year (both interim and final) shall include, for each item under subsection (b), such agency’s corresponding year-end data for each of the 5 immediately preceding fiscal years (or, if not available for all 5 fiscal years, for however many of those 5 fiscal years for which data are available).
 
 > “SEC. 302. __DATA TO BE POSTED BY THE EQUAL EMPLOYMENT OPPORTUNITY COMMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Equal Employment Opportunity Commission shall post on its public Web site, in the time, form, and manner prescribed under section 303 for purposes of this section, summary statistical data relating to—
 
@@ -487,11 +487,11 @@
 
 >         “(2) appeals filed with the Commission from final agency actions on complaints described in section 301.
 
->     “(b) __Specific Requirements.—__ 
+>     “(b)  __Specific Requirements__  __.—__ 
 
 >     The data posted under this section shall, with respect to the hearings and appeals described in subsection (a), include summary statistical data corresponding to that described in paragraphs (1) through (10) of section 301(b), and shall be subject to the same timing and other requirements as set forth in section 301(c).
 
->     “(c) __Coordination.—__ 
+>     “(c)  __Coordination__  __.—__ 
 
 >     The data required under this section shall be in addition to the data the Commission is required to post under section 301 as an employing Federal agency.
 

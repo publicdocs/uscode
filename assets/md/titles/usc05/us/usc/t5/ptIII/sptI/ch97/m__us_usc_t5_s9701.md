@@ -15,11 +15,11 @@
 
 ## § 9701. Establishment of human resources management system
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Notwithstanding any other provision of this part, the Secretary of Homeland Security may, in regulations prescribed jointly with the Director of the Office of Personnel Management, establish, and from time to time adjust, a human resources management system for some or all of the organizational units of the Department of Homeland Security.
 
-    (b) __System Requirements.—__ 
+    (b)  __System Requirements__  __.—__ 
 
     Any system established under subsection (a) shall—
 
@@ -55,7 +55,7 @@
 
         (5) permit the use of a category rating system for evaluating applicants for positions in the competitive service.
 
-    (c) __Other Nonwaivable Provisions.—__ 
+    (c)  __Other Nonwaivable Provisions__  __.—__ 
 
     The other provisions of this part as referred to in subsection (b)(3)(D), are (to the extent not otherwise specified in subparagraph (A), (B), (C), or (D) of subsection (b)(3))—
 
@@ -63,7 +63,7 @@
 
         (2) chapters 41, 45, 47, 55, 57, 59, 72, 73, and 79, and this chapter.
 
-    (d) __Limitations Relating to Pay.—__ 
+    (d)  __Limitations Relating to Pay__  __.—__ 
 
     Nothing in this section shall constitute authority—
 
@@ -81,11 +81,11 @@
 
     (e) __Provisions to Ensure Collaboration With Employee Representatives.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In order to ensure that the authority of this section is exercised in collaboration with, and in a manner that ensures the participation of employee representatives in the planning, development, and implementation of any human resources management system or adjustments to such system under this section, the Secretary of Homeland Security and the Director of the Office of Personnel Management shall provide for the following:
 
-            (A) __Notice of proposal.—__ 
+            (A)  __Notice of proposal__  __.—__ 
 
             The Secretary and the Director shall, with respect to any proposed system or adjustment—
 
@@ -95,7 +95,7 @@
 
                 (iii) give any recommendations received from any such representatives under clause (ii) full and fair consideration in deciding whether or how to proceed with the proposal.
 
-            (B) __Pre-implementation congressional notification, consultation, and mediation.—__ 
+            (B)  __Pre-implementation congressional notification, consultation, and mediation__  __.—__ 
 
             Following receipt of recommendations, if any, from employee representatives with respect to a proposal described in subparagraph (A), the Secretary and the Director shall accept such modifications to the proposal in response to the recommendations as they determine advisable and shall, with respect to any parts of the proposal as to which they have not accepted the recommendations—
 
@@ -113,7 +113,7 @@
 
                 (iii) The Secretary shall promptly notify Congress of the implementation of any part of the proposal and shall furnish with such notice an explanation of the proposal, any changes made to the proposal as a result of recommendations from employee representatives, and of the reasons why implementation is appropriate under this subparagraph.
 
-            (D) __Continuing collaboration.—__ 
+            (D)  __Continuing collaboration__  __.—__ 
 
             If a proposal described in subparagraph (A) is implemented, the Secretary and the Director shall—
 
@@ -121,7 +121,7 @@
 
                 (ii) give each employee representative adequate access to information to make that participation productive.
 
-        (2) __Procedures.—__ 
+        (2)  __Procedures__  __.—__ 
 
         Any procedures necessary to carry out this subsection shall be established by the Secretary and the Director jointly as internal rules of departmental procedure which shall not be subject to review. Such procedures shall include measures to ensure—
 
@@ -135,7 +135,7 @@
 
     (f) __Provisions Relating to Appellate Procedures.—__ 
 
-        (1) __Sense of congress.—__ 
+        (1)  __Sense of congress__  __.—__ 
 
         It is the sense of Congress that—
 
@@ -149,7 +149,7 @@
 
                 (ii) toward that end, should be required to consult with the Merit Systems Protection Board before issuing any such regulations.
 
-        (2) __Requirements.—__ 
+        (2)  __Requirements__  __.—__ 
 
         Any regulations under this section which relate to any matters within the purview of chapter 77—
 
@@ -165,11 +165,11 @@
 
             (C) shall modify procedures under chapter 77 only insofar as such modifications are designed to further the fair, efficient, and expeditious resolution of matters involving the employees of the Department.
 
-    (g) __Provisions Relating to Labor-Management Relations.—__ 
+    (g)  __Provisions Relating to Labor-Management Relations__  __.—__ 
 
     Nothing in this section shall be construed as conferring authority on the Secretary of Homeland Security to modify any of the provisions of section 842 of the Homeland Security Act of 2002.
 
-    (h) __Sunset Provision.—__ 
+    (h)  __Sunset Provision__  __.—__ 
 
     Effective 5 years after the conclusion of the transition period defined under section 1501 of the Homeland Security Act of 2002, all authority to issue regulations under this section (including regulations which would modify, supersede, or terminate any regulations previously issued under this section) shall cease to be available.
 

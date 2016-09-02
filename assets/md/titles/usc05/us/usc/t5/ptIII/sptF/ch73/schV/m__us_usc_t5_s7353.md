@@ -93,19 +93,19 @@
 
 [Pub. L. 110–402, § 2][/us/pl/110/402/s2], Oct. 13, 2008, [122 Stat. 4255][/us/stat/122/4255], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Gift.—__ 
+>         “(1)  __Gift__  __.—__ 
 
 >         The term ‘gift’ has the meaning given under section 109(5) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
 
->         “(2) __Judicial officer.—__ 
+>         “(2)  __Judicial officer__  __.—__ 
 
 >         The term ‘judicial officer’ has the meaning given under section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
 
->     “(b) __Prohibition on Acceptance of Honorary Club Memberships.—__ 
+>     “(b)  __Prohibition on Acceptance of Honorary Club Memberships__  __.—__ 
 
 >     A judicial officer may not accept a gift of an honorary club membership with a value of more than $50 in any calendar year.”
 

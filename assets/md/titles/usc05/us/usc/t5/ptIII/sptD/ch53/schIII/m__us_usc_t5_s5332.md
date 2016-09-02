@@ -7027,7 +7027,7 @@ Rate  </td>
 
     <td> 
 
-Alaska\  </td>
+Alaska  </td>
 
     <td> 
 

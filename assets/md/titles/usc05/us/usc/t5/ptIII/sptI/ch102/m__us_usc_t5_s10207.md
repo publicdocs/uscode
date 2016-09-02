@@ -15,11 +15,11 @@
 
 ## § 10207. Promotions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Each member who is promoted to a higher rank shall receive basic pay at the same step at which such member was being compensated prior to the date of the promotion.
 
-    (b) __Credit for Service.—__ 
+    (b)  __Credit for Service__  __.—__ 
 
     For the purposes of a service step adjustment under section 10205, periods of service at the lower rank shall be credited in the same manner as if it was service at the rank to which the employee is promoted.
 

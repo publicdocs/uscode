@@ -15,15 +15,15 @@
 
 ## § 9002. Availability of insurance
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Office of Personnel Management shall establish and, in consultation with the appropriate Secretaries, administer a program through which an individual described in paragraph (1), (2), (3), (4), or (5) of section 9001 may obtain long-term care insurance coverage under this chapter for such individual.
 
-    (b) __Discretionary Authority Regarding Nonappropriated Fund Instrumentalities.—__ 
+    (b)  __Discretionary Authority Regarding Nonappropriated Fund Instrumentalities__  __.—__ 
 
     The Secretary of Defense may determine that a nonappropriated fund instrumentality of the Department of Defense is covered under this chapter or is covered under an alternative long-term care insurance program.
 
-    (c) __General Requirements.—__ 
+    (c)  __General Requirements__  __.—__ 
 
     Long-term care insurance may not be offered under this chapter unless—
 
@@ -31,33 +31,33 @@
 
         (2) each insurance contract under which any such coverage is provided is issued by a qualified carrier.
 
-    (d) __Documentation Requirement.—__ 
+    (d)  __Documentation Requirement__  __.—__ 
 
     As a condition for obtaining long-term care insurance coverage under this chapter based on one’s status as a qualified relative, an applicant shall provide documentation to demonstrate the relationship, as prescribed by the Office.
 
     (e) __Underwriting Standards.—__ 
 
-        (1) __Disqualifying condition.—__ 
+        (1)  __Disqualifying condition__  __.—__ 
 
         Nothing in this chapter shall be considered to require that long-term care insurance coverage be made available in the case of any individual who would be eligible for benefits immediately.
 
-        (2) __Spousal parity.—__ 
+        (2)  __Spousal parity__  __.—__ 
 
         For the purpose of underwriting standards, a spouse of an individual described in paragraph (1), (2), (3), or (4) of section 9001 shall, as nearly as practicable, be treated like that individual.
 
-        (3) __Guaranteed issue.—__ 
+        (3)  __Guaranteed issue__  __.—__ 
 
         Nothing in this chapter shall be considered to require that long-term care insurance coverage be guaranteed to an eligible individual.
 
-        (4) __Requirement that contract be fully insured.—__ 
+        (4)  __Requirement that contract be fully insured__  __.—__ 
 
         In addition to the requirements otherwise applicable under section 9001(9), in order to be considered a qualified long-term care insurance contract for purposes of this chapter, a contract must be fully insured, whether through reinsurance with other companies or otherwise.
 
-        (5) __Higher standards allowable.—__ 
+        (5)  __Higher standards allowable__  __.—__ 
 
         Nothing in this chapter shall, in the case of an individual applying for long-term care insurance coverage under this chapter after the expiration of such individual’s first opportunity to enroll, preclude the application of underwriting standards more stringent than those that would have applied if that opportunity had not yet expired.
 
-    (f) __Guaranteed Renewability.—__ 
+    (f)  __Guaranteed Renewability__  __.—__ 
 
     The benefits and coverage made available to eligible individuals under any insurance contract under this chapter shall be guaranteed renewable (as defined by section 7A(2) of the model regulations described in section 7702B(g)(2) of the Internal Revenue Code of 1986), including the right to have insurance remain in effect so long as premiums continue to be timely made. However, the authority to revise premiums under this chapter shall be available only on a class basis and only to the extent otherwise allowable under section 9003(b).
 

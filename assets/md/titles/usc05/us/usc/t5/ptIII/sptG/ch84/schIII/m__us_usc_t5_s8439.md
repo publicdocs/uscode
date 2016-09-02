@@ -103,21 +103,21 @@
 
 [Pub. L. 111–31, div. B, title I, § 105][/us/pl/111/31/s105], June 22, 2009, [123 Stat. 1855][/us/stat/123/1855], provided that:
 
->     “(a) __Annual Report.—__ 
+>     “(a)  __Annual Report__  __.—__ 
 
 >     The Board shall, not later than June 30 of each year, submit to Congress an annual report on the operations of the Thrift Savings Plan. Such report shall include, for the prior calendar year, information on the number of participants as of the last day of such prior calendar year, the median balance in participants’ accounts as of such last day, demographic information on participants, the percentage allocation of amounts among investment funds or options, the status of the development and implementation of the mutual fund window, the diversity demographics of any company, investment adviser, or other entity retained to invest and manage the assets of the Thrift Savings Fund, and such other information as the Board considers appropriate. A copy of each annual report under this subsection shall be made available to the public through an Internet website.
 
 >     “(b) __Reporting of Fees and Other Information.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Board shall include in the periodic statements provided to participants under [section 8439(c) of title 5][/us/usc/t5/s8439/c], United States Code, the amount of the investment management fees, administrative expenses, and any other fees or expenses paid with respect to each investment fund and option under the Thrift Savings Plan. Any such statement shall also provide a statement notifying participants as to how they may access the annual report described in subsection (a), as well as any other information concerning the Thrift Savings Plan that might be useful.
 
->         “(2) __Use of estimates.—__ 
+>         “(2)  __Use of estimates__  __.—__ 
 
 >         For purposes of providing the information required under this subsection, the Board may provide a reasonable and representative estimate of any fees or expenses described in paragraph (1) and shall indicate any such estimate as being such an estimate. Any such estimate shall be based on the previous year’s experience.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 

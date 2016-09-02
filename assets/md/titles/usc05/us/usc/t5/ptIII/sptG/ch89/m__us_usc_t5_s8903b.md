@@ -31,11 +31,11 @@
 
 [Pub. L. 105–266, § 6(a)(3)][/us/pl/105/266/s6/a/3], Oct. 19, 1998, [112 Stat. 2369][/us/stat/112/2369], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by this subsection \[enacting this section\] shall apply as of the date of the enactment of this Act \[Oct. 19, 1998\], including with respect to any plan which has been discontinued as of such date.
 
->     “(B) __Transition rule.—__ 
+>     “(B)  __Transition rule__  __.—__ 
 
 >     For purposes of applying [section 8903b(a) of title 5][/us/usc/t5/s8903b/a], United States Code (as amended by this subsection) with respect to any plan seeking to be readmitted for purposes of any contract year beginning before January 1, 2000, such section shall be applied by substituting ‘second contract year’ for ‘third contract year’.”
 

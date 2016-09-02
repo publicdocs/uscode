@@ -237,11 +237,11 @@
 
 [Pub. L. 100–238, title I, § 134(d)][/us/pl/100/238/s134/d], Jan. 8, 1988, [101 Stat. 1765][/us/stat/101/1765], provided that:
 
->     “(1) __Generally.—__ 
+>     “(1)  __Generally__  __.—__ 
 
 >     The amendments made by this section \[amending this section and provisions set out as notes under [section 8331 of this title][/us/usc/t5/s8331]\] shall take effect on the date of the enactment of this Act \[Jan. 8, 1988\], and as provided in paragraph (2), shall apply with respect to any individual who becomes a reemployed annuitant on or after such date.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending provisions set out as a note under [section 8331 of this title][/us/usc/t5/s8331]\] shall apply with respect to any election made by a reemployed annuitant on or after the date of the enactment of this Act \[Jan. 8, 1988\].”
 

@@ -15,7 +15,7 @@
 
 ## § 3702. General provisions
 
-    (a) __Assignment Authority.—__ 
+    (a)  __Assignment Authority__  __.—__ 
 
     On request from or with the agreement of a private sector organization, and with the consent of the employee concerned, the head of an agency may arrange for the assignment of an employee of the agency to a private sector organization or an employee of a private sector organization to the agency. An eligible employee is an individual who—
 
@@ -27,7 +27,7 @@
 
         An employee of an agency shall be eligible to participate in this program only if the employee is employed at the GS–11 level or above (or equivalent) and is serving under a career or career-conditional appointment or an appointment of equivalent tenure in the excepted service, and applicable requirements of section 209(b) of the E-Government Act of 2002 are met with respect to the proposed assignment of such employee.
 
-    (b) __Agreements.—__ 
+    (b)  __Agreements__  __.—__ 
 
     Each agency that exercises its authority under this chapter shall provide for a written agreement between the agency and the employee concerned regarding the terms and conditions of the employee’s assignment. In the case of an employee of the agency, the agreement shall—
 
@@ -37,19 +37,19 @@
 
         An amount under paragraph (2) shall be treated as a debt due the United States.
 
-    (c) __Termination.—__ 
+    (c)  __Termination__  __.—__ 
 
     Assignments may be terminated by the agency or private sector organization concerned for any reason at any time.
 
-    (d) __Duration.—__ 
+    (d)  __Duration__  __.—__ 
 
     Assignments under this chapter shall be for a period of between 3 months and 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year, except that no assignment under this chapter may commence after the end of the 5-year period beginning on the date of the enactment of this chapter.
 
-    (e) __Assistance.—__ 
+    (e)  __Assistance__  __.—__ 
 
     The Chief Information Officers Council, by agreement with the Office of Personnel Management, may assist in the administration of this chapter, including by maintaining lists of potential candidates for assignment under this chapter, establishing mentoring relationships for the benefit of individuals who are given assignments under this chapter, and publicizing the program.
 
-    (f) __Considerations.—__ 
+    (f)  __Considerations__  __.—__ 
 
     In exercising any authority under this chapter, an agency shall take into consideration—
 
@@ -71,7 +71,7 @@
 
 [Pub. L. 111–84, div. A, title XI, § 1110][/us/pl/111/84/s1110], Oct. 28, 2009, [123 Stat. 2493][/us/stat/123/2493], provided that:
 
->     “(a) __Assignment Authority.—__ 
+>     “(a)  __Assignment Authority__  __.—__ 
 
 >     The Secretary of Defense may, with the agreement of the private sector organization concerned, arrange for the temporary assignment of an employee to such private sector organization, or from such private sector organization to a Department of Defense organization under this section. An employee shall be eligible for such an assignment only if—
 
@@ -89,7 +89,7 @@
 
 >         “(2) the proposed assignment meets applicable requirements of section 209(b) of the E-Government Act of 2002 \[[Pub. L. 107–347][/us/pl/107/347]\] ([44 U.S.C. 3501][/us/usc/t44/s3501] note).
 
->     “(b) __Agreements.—__ 
+>     “(b)  __Agreements__  __.—__ 
 
 >     The Secretary of Defense shall provide for a written agreement among the Department of Defense, the private sector organization, and the employee concerned regarding the terms and conditions of the employee’s assignment under this section. The agreement—
 
@@ -99,15 +99,15 @@
 
 >         An amount for which an employee is liable under paragraph (2) shall be treated as a debt due the United States.
 
->     “(c) __Termination.—__ 
+>     “(c)  __Termination__  __.—__ 
 
 >     An assignment under this section may, at any time and for any reason, be terminated by the Department of Defense or the private sector organization concerned.
 
->     “(d) __Duration.—__ 
+>     “(d)  __Duration__  __.—__ 
 
 >     An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2013.
 
->     “(e) __Terms and Conditions for Private Sector Employees.—__ 
+>     “(e)  __Terms and Conditions for Private Sector Employees__  __.—__ 
 
 >     An employee of a private sector organization who is assigned to a Department of Defense organization under this section—
 
@@ -133,11 +133,11 @@
 
 >         “(3) may not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private sector organization from which such employee is assigned.
 
->     “(f) __Prohibition Against Charging Certain Costs to the Federal Government.—__ 
+>     “(f)  __Prohibition Against Charging Certain Costs to the Federal Government__  __.—__ 
 
 >     A private sector organization may not charge the Department of Defense or any other agency of the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the organization to an employee assigned to a Department of Defense organization under this section for the period of the assignment.
 
->     “(g) __Considerations.—__ 
+>     “(g)  __Considerations__  __.—__ 
 
 >     In carrying out this section, the Secretary of Defense—
 
@@ -145,11 +145,11 @@
 
 >         “(2) shall take into consideration the question of how assignments under this section might best be used to help meet the needs of the Department of Defense with respect to the training of employees in information technology management.
 
->     “(h) __Numerical Limitation.—__ 
+>     “(h)  __Numerical Limitation__  __.—__ 
 
 >     In no event may more than 10 employees be participating in assignments under this section at any given time.
 
->     “(i) __Reporting Requirement.—__ 
+>     “(i)  __Reporting Requirement__  __.—__ 
 
 >     For each of fiscal years 2010 through 2015, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], not later than 1 month after the end of the fiscal year involved, a report on any activities carried out under this section during such fiscal year, including information concerning—
 
@@ -161,7 +161,7 @@
 
 >         “(4) a discussion of any actions that might be taken to improve the effectiveness of the program under this section, including any proposed changes in law.
 
->     “(j) __Repeal of Superseded Section.—__ 
+>     “(j)  __Repeal of Superseded Section__  __.—__ 
 
 >     Section 1109 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110-181; [122 Stat. 358][/us/stat/122/358]) \[formerly set out as a note under this section\] is repealed, except that—
 

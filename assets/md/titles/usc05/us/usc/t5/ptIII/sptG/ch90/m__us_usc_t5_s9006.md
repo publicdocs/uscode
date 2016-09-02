@@ -15,7 +15,7 @@
 
 ## § 9006. Studies, reports, and audits
 
-    (a) __Provisions Relating to Carriers.—__ 
+    (a)  __Provisions Relating to Carriers__  __.—__ 
 
     Each master contract under this chapter shall contain provisions requiring the carrier—
 
@@ -23,11 +23,11 @@
 
         (2) to permit the Office and representatives of the Government Accountability Office to examine such records of the carrier as may be necessary to carry out the purposes of this chapter.
 
-    (b) __Provisions Relating to Federal Agencies.—__ 
+    (b)  __Provisions Relating to Federal Agencies__  __.—__ 
 
     Each Federal agency shall keep such records, make such certifications, and furnish the Office, the carrier, or both, with such information and reports as the Office may require.
 
-    (c) __Reports by the Government Accountability Office.—__ 
+    (c)  __Reports by the Government Accountability Office__  __.—__ 
 
     The Government Accountability Office shall prepare and submit to the President, the Office of Personnel Management, and each House of Congress, before the end of the third and fifth years during which the program under this chapter is in effect, a written report evaluating such program. Each such report shall include an analysis of the competitiveness of the program, as compared to both group and individual coverage generally available to individuals in the private insurance market. The Office shall cooperate with the Government Accountability Office to provide periodic evaluations of the program.
 

@@ -225,7 +225,7 @@
 
         (B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B);
 
-    (36) the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years; and
+    (36) the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years;
 
     (37)
 
@@ -241,9 +241,25 @@
 
             (iii) has less than 5 years of creditable civilian service under section 8411; and
 
-        (B) after December 31, 2012, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.
+        (B) after December 31, 2012, and before January 1, 2014, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 517][/us/stat/100/517]; amended [Pub. L. 99–556, title I][/us/pl/99/556], §§ 107, 109, 119, Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132], 3134; [Pub. L. 100–238, title I][/us/pl/100/238], §§ 103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, [101 Stat. 1744][/us/stat/101/1744], 1745, 1750; [Pub. L. 100–679, § 13(a)(2)][/us/pl/100/679/s13/a/2], Nov. 17, 1988, [102 Stat. 4071][/us/stat/102/4071]; [Pub. L. 101–335, § 6(a)(1)][/us/pl/101/335/s6/a/1], July 17, 1990, [104 Stat. 322][/us/stat/104/322]; [Pub. L. 101–474, § 5][/us/pl/101/474/s5](o), Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 101–508, title VII, § 7202(k)(1)][/us/pl/101/508/s7202/k/1], Nov. 5, 1990, [104 Stat. 1388–338][/us/stat/104/1388-338]; [Pub. L. 103–337, div. A, title XVI, § 1677(a)(4)][/us/pl/103/337/s1677/a/4], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 103–353, § 5(c)][/us/pl/103/353/s5/c], (e)(1), Oct. 13, 1994, [108 Stat. 3174][/us/stat/108/3174]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title II, § 206(a)(1)\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372, 3009–378; [Pub. L. 105–261, div. C, title XXXI, § 3154(f)][/us/pl/105/261/s3154/f], Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255]; [Pub. L. 106–65, div. A, title V, § 522(c)(2)][/us/pl/106/65/s522/c/2], Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597]; [Pub. L. 106–571, § 3(c)(2)][/us/pl/106/571/s3/c/2], Dec. 28, 2000, [114 Stat. 3056][/us/stat/114/3056]; [Pub. L. 108–83, title I, § 104(a)][/us/pl/108/83/s104/a], Sept. 30, 2003, [117 Stat. 1017][/us/stat/117/1017]; [Pub. L. 108–176, title II, § 226(a)(2)][/us/pl/108/176/s226/a/2], Dec. 12, 2003, [117 Stat. 2529][/us/stat/117/2529]; [Pub. L. 110–161, div. E, title V, § 535(b)(1)][/us/pl/110/161/s535/b/1], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 110–181, div. A, title XI, § 1115(b)][/us/pl/110/181/s1115/b], Jan. 28, 2008, [122 Stat. 361][/us/stat/122/361]; [Pub. L. 111–84, div. A, title XIX, § 1904(b)(1)][/us/pl/111/84/s1904/b/1], Oct. 28, 2009, [123 Stat. 2616][/us/stat/123/2616]; [Pub. L. 112–96, title V, § 5001(a)][/us/pl/112/96/s5001/a], Feb. 22, 2012, [126 Stat. 199][/us/stat/126/199].)
+    (38)
+
+     the term “further revised annuity employee” means any individual who—
+
+        (A)
+
+         on December 31, 2013—
+
+            (i) is not an employee or Member covered under this chapter;
+
+            (ii) is not performing civilian service which is creditable service under section 8411; and
+
+            (iii) has less than 5 years of creditable civilian service under section 8411; and
+
+        (B) after December 31, 2013, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.
+
+(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 517][/us/stat/100/517]; amended [Pub. L. 99–556, title I][/us/pl/99/556], §§ 107, 109, 119, Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132], 3134; [Pub. L. 100–238, title I][/us/pl/100/238], §§ 103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, [101 Stat. 1744][/us/stat/101/1744], 1745, 1750; [Pub. L. 100–679, § 13(a)(2)][/us/pl/100/679/s13/a/2], Nov. 17, 1988, [102 Stat. 4071][/us/stat/102/4071]; [Pub. L. 101–335, § 6(a)(1)][/us/pl/101/335/s6/a/1], July 17, 1990, [104 Stat. 322][/us/stat/104/322]; [Pub. L. 101–474, § 5][/us/pl/101/474/s5](o), Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 101–508, title VII, § 7202(k)(1)][/us/pl/101/508/s7202/k/1], Nov. 5, 1990, [104 Stat. 1388–338][/us/stat/104/1388-338]; [Pub. L. 103–337, div. A, title XVI, § 1677(a)(4)][/us/pl/103/337/s1677/a/4], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 103–353, § 5(c)][/us/pl/103/353/s5/c], (e)(1), Oct. 13, 1994, [108 Stat. 3174][/us/stat/108/3174]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title II, § 206(a)(1)\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372, 3009–378; [Pub. L. 105–261, div. C, title XXXI, § 3154(f)][/us/pl/105/261/s3154/f], Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255]; [Pub. L. 106–65, div. A, title V, § 522(c)(2)][/us/pl/106/65/s522/c/2], Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597]; [Pub. L. 106–571, § 3(c)(2)][/us/pl/106/571/s3/c/2], Dec. 28, 2000, [114 Stat. 3056][/us/stat/114/3056]; [Pub. L. 108–83, title I, § 104(a)][/us/pl/108/83/s104/a], Sept. 30, 2003, [117 Stat. 1017][/us/stat/117/1017]; [Pub. L. 108–176, title II, § 226(a)(2)][/us/pl/108/176/s226/a/2], Dec. 12, 2003, [117 Stat. 2529][/us/stat/117/2529]; [Pub. L. 110–161, div. E, title V, § 535(b)(1)][/us/pl/110/161/s535/b/1], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 110–181, div. A, title XI, § 1115(b)][/us/pl/110/181/s1115/b], Jan. 28, 2008, [122 Stat. 361][/us/stat/122/361]; [Pub. L. 111–84, div. A, title XIX, § 1904(b)(1)][/us/pl/111/84/s1904/b/1], Oct. 28, 2009, [123 Stat. 2616][/us/stat/123/2616]; [Pub. L. 112–96, title V, § 5001(a)][/us/pl/112/96/s5001/a], Feb. 22, 2012, [126 Stat. 199][/us/stat/126/199]; [Pub. L. 113–67, div. A, title IV, § 401(a)][/us/pl/113/67/s401/a], Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183].)
 
  __References in Text__ 
 
@@ -260,6 +276,10 @@
     The date of the enactment of the Legislative Branch Appropriations Act, 2004, referred to in par. (20), is the date of enactment of [Pub. L. 108–83][/us/pl/108/83], which was approved Sept. 30, 2003.
 
  __Amendments__ 
+
+    2013—Par. (37)(B). [Pub. L. 113–67, § 401(a)(2)][/us/pl/113/67/s401/a/2], inserted “and before January 1, 2014,” after “after December 31, 2012,”.
+
+    Par. (38). [Pub. L. 113–67, § 401(a)(1)][/us/pl/113/67/s401/a/1], added par. (38).
 
     2012—Par. (37). [Pub. L. 112–96][/us/pl/112/96] added par. (37).
 
@@ -331,7 +351,7 @@
 
 [Pub. L. 108–176, title II, § 226(c)][/us/pl/108/176/s226/c], Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     This section \[amending this section and sections 8331, 8335, 8415, 8422, 8425, 8452, and 8468 of this title\] and the amendments made by this section—
 
@@ -347,7 +367,7 @@
 
 >     “(2) __Special rule.—__ 
 
->         “(A) __Deposit requirement.—__ 
+>         “(A)  __Deposit requirement__  __.—__ 
 
 >         For purposes of determining eligibility for immediate retirement under [section 8412(e) of title 5][/us/usc/t5/s8412/e], United States Code, the amendment made by subsection (a)(2) \[amending this section\] shall, with respect to any service described in subparagraph (B), be disregarded unless there is deposited into the Civil Service Retirement and Disability Fund, with respect to such service, in such time, form, and manner as the Office of Personnel Management by regulation requires, an amount equal to the amount by which—
 
@@ -357,7 +377,7 @@
 
 >             An amount under this subparagraph shall include interest, computed under paragraphs (2) and (3) of section 8334(e) of such title 5.
 
->         “(B) __Prior service described.—__ 
+>         “(B)  __Prior service described__  __.—__ 
 
 >         This paragraph applies with respect to any service performed by an individual before the effective date of this section as an employee described in [section 8401(35)(B) of title 5][/us/usc/t5/s8401/35/B], United States Code (as amended by subsection (a)(2)).”
 
@@ -393,11 +413,11 @@
 
 [Pub. L. 99–335, title VII, § 702(a)][/us/pl/99/335/s702/a], (b), June 6, 1986, [100 Stat. 631][/us/stat/100/631], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this Act and the amendments made by this Act \[see Short Title note below\] shall take effect on January 1, 1987.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >         (1) Subchapter VII of chapter 84 of title 5, United States Code, as added by section 101 of this Act, shall take effect on the date of the enactment of this Act \[June 6, 1986\].
 
@@ -570,6 +590,8 @@
 [/us/stat/123/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2616
 [/us/pl/112/96/s5001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fa
 [/us/stat/126/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F199
+[/us/pl/113/67/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fa
+[/us/stat/127/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1183
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -581,6 +603,8 @@
 [/us/stat/97/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1106
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
 [/us/pl/108/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83
+[/us/pl/113/67/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fa%2F2
+[/us/pl/113/67/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fa%2F1
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

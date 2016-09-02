@@ -221,11 +221,11 @@ Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to § 203), 78 Stat. 
 
 [Pub. L. 102–378, § 9][/us/pl/102/378/s9], Oct. 2, 1992, [106 Stat. 1360][/us/stat/106/1360], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section, this Act and the amendments made by this Act \[see Tables for classification\] shall take effect as of the date of enactment of this Act \[Oct. 2, 1992\].
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >         (1) The amendment made by section 4(c) \[amending provisions set out as a note under [section 31–2 of Title 2][/us/usc/t2/s31–2], The Congress\] shall be effective as of December 31, 1991.
 

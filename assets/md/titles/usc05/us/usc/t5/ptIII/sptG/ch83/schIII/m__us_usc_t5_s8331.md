@@ -933,7 +933,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 [Pub. L. 105–261, div. C, title XXXI, § 3154(m)][/us/pl/105/261/s3154/m], (n), Oct. 17, 1998, [112 Stat. 2256][/us/stat/112/2256], provided that:
 
->     “(m) __Applicability.—__ 
+>     “(m)  __Applicability__  __.—__ 
 
 >     Subsections (b) through (l) \[amending this section and sections 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title and enacting provisions set out as notes under sections 8334, 8348, and 8422 of this title\] shall apply only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of title 5, United States Code (as amended by this section), after the later of—
 
@@ -941,7 +941,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(2) the date of the enactment of this Act \[Oct. 17, 1998\].
 
->     “(n) __Effective Dates.—__ 
+>     “(n)  __Effective Dates__  __.—__ 
 
 >         (1)
 
@@ -1105,17 +1105,17 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     “(a) __Retirement Treatment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of chapters 83 and 84 of title 5, United States Code, a hazardous materials response team member of the Capitol Police shall be treated as a member of the Capitol Police.
 
->         “(2) __Application.—__ 
+>         “(2)  __Application__  __.—__ 
 
 >         This subsection shall apply to periods of service performed as a hazardous materials response team member of the Capitol Police on and after December 1, 2002.
 
 >     “(b) __Treatment of Incumbents.—__ 
 
->         “(1) __Definitions.—__ 
+>         “(1)  __Definitions__  __.—__ 
 
 >         In this subsection, the term—
 
@@ -1131,7 +1131,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(2) __Individual contributions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             An incumbent shall pay with respect to prior service an amount into the Civil Service Retirement and Disability Fund equal to—
 
@@ -1139,11 +1139,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >                 “(ii) interest computed on the amount under clause (i) based on [section 8334(e) of title 5][/us/usc/t5/s8334/e], United States Code.
 
->             “(B) __Effect of not contributing.—__ 
+>             “(B)  __Effect of not contributing__  __.—__ 
 
 >             If no part of or less than the full amount required under subparagraph (A) is paid, all prior service of the incumbent shall remain fully creditable as treated under subsection (a), but the resulting annuity shall be reduced in a manner similar to that described under [section 8334(d)(2) of title 5][/us/usc/t5/s8334/d/2], United States Code, to the extent necessary to make up the amount unpaid.
 
->         “(3) __Government contributions for prior service.—__ 
+>         “(3)  __Government contributions for prior service__  __.—__ 
 
 >         The Capitol Police shall pay with respect to prior service of each incumbent an amount into the Civil Service Retirement and Disability Fund equal to—
 
@@ -1151,7 +1151,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(B) interest computed on the amount under subparagraph (A) based on [section 8334(e) of title 5][/us/usc/t5/s8334/e], United States Code.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the first day of the first applicable pay period beginning on or after the date of enactment of this Act \[Sept. 30, 2003\].”
 
@@ -1161,11 +1161,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     “(a) __Supreme Court Police Retirement.—__ 
 
->         “(1) __Service deemed to be service as law enforcement officer.—__ 
+>         “(1)  __Service deemed to be service as law enforcement officer__  __.—__ 
 
 >         Any period of service performed before the effective date of this section by an individual as a member of the Supreme Court Police, who is such a member on such date, shall be deemed to be service performed as a law enforcement officer for purposes of chapters 83 and 84 of title 5, United States Code. Notwithstanding any amendment made by this section, any period of service performed before the effective date of this section by an individual as a member of the Supreme Court Police, who is not such a member on such date, shall be employee service for purposes of chapters 83 and 84 of title 5, United States Code.
 
->         “(2) __Contributions.—__ 
+>         “(2)  __Contributions__  __.—__ 
 
 >         The Marshal of the Supreme Court of the United States shall pay an amount determined by the Office of Personnel Management equal to—
 
@@ -1183,53 +1183,53 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(B) with respect to the period of service described in subparagraph (A), the difference between the Government contributions that were in fact made to the Civil Service Retirement and Disability Fund for such service, and the amount that would have been required if such service had instead been performed as a law enforcement officer, subject to subsection (f).
 
->         “(3) __Deposit of payments.—__ 
+>         “(3)  __Deposit of payments__  __.—__ 
 
 >         Payments under paragraph (2) shall be paid from the salaries and expenses account from appropriations to the Supreme Court of the United States, including any prior year unobligated balances, and deposited in the Civil Service Retirement and Disability Fund.
 
->     “(b) __Amendments to Chapter 83.—__ 
+>     “(b)  __Amendments to Chapter__  __83.—__ 
 
 >     \[Amended sections 8334 to 8336 and 8339 of this title.\]
 
->     “(c) __Amendments to Chapter 84.—__ 
+>     “(c)  __Amendments to Chapter__  __84.—__ 
 
 >     \[Amended sections 8412, 8415, 8422, 8423, and 8425 of this title.\]
 
 >     “(d) __Payments for Other Liability.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Marshal of the Supreme Court of the United States shall pay into the Civil Service Retirement and Disability Fund an amount determined by the Director of the Office of Personnel Management to be necessary to reimburse the Fund for any estimated increase in the unfunded liability of the Fund resulting from the amendments related to the Civil Service Retirement System under this section, and for any estimated increase in the supplemental liability of the Fund resulting from the amendments related to the Federal Employees’ Retirement System under this section.
 
->         “(2) __Installments.—__ 
+>         “(2)  __Installments__  __.—__ 
 
 >         The amount determined under paragraph (1) shall be paid in 5 equal annual installments with interest computed at the rates used in the most recent valuation of the Federal Employees’ Retirement System.
 
->         “(3) __Source of funds.—__ 
+>         “(3)  __Source of funds__  __.—__ 
 
 >         Payments under this subsection shall be made from amounts available from the salaries and expenses account from appropriations to the Supreme Court of the United States, including any prior year unobligated balances.
 
->     “(e) __No Mandatory Separation for a 2-Year Period.—__ 
+>     “(e)  __No Mandatory Separation for a __  __2__  __-Year Period__  __.—__ 
 
 >     Nothing in section 8335(e) or 8425(d) of title 5, United States Code, as added by this section, shall require the automatic separation of any member of the Supreme Court Police before the end of the 2-year period beginning on the effective date of this section.
 
->     “(f) __Nonreduction in Government Contributions.—__ 
+>     “(f)  __Nonreduction in Government Contributions__  __.—__ 
 
 >     Notwithstanding any other provision of this section, Government contributions to the Civil Service Retirement and Disability Fund on behalf of a member of the Supreme Court Police shall, with respect to any service performed during the period beginning on January 1, 1999, and ending on December 31, 2002, while subject to the Federal Employees’ Retirement System, be determined in the same way as if this section had never been enacted.
 
->     “(g) __Savings Provision.—__ 
+>     “(g)  __Savings Provision__  __.—__ 
 
 >     Nothing in this section or in any amendment made by this section shall, with respect to any service performed before the effective date of such amendment, have the effect of reducing the percentage applicable in computing any portion of an annuity based on service as a member of the Supreme Court Police below the percentage which would otherwise apply if this section had not been enacted.
 
->     “(h) __Technical and Conforming Amendments.—__ 
+>     “(h)  __Technical and Conforming Amendments__  __.—__ 
 
 >     \[Amended sections 8337, 8339, 8341, 8343a, and 8344 of this title.\]
 
->     “(i) __Applicability.—__ 
+>     “(i)  __Applicability__  __.—__ 
 
 >     This section and the amendments made by this section shall apply only to an individual who is employed as a member of the Supreme Court Police after the later of October 1, 2000, or the date of enactment of this Act \[Dec. 21, 2000\].
 
->     “(j) __Effective Date.—__ 
+>     “(j)  __Effective Date__  __.—__ 
 
 >     Except as otherwise provided in this section, this section and the amendments made by this section shall take effect on the first day of the first applicable pay period that begins on the later of October 1, 2000, or the date of enactment of this Act.”
 
@@ -1239,11 +1239,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2001. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This title may be cited as the ‘Federal Erroneous Retirement Coverage Corrections Act’.
 
->     “(b) __Table of Contents.—__ 
+>     “(b)  __Table of Contents__  __.—__ 
 
 >     \[Omitted.\]
 
@@ -1251,7 +1251,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “For purposes of this title:
 
->     “(1) __Annuitant.—__ 
+>     “(1)  __Annuitant__  __.—__ 
 
 >     The term ‘annuitant’ has the meaning given such term under section 8331(9) or 8401(2) of title 5, United States Code.
 
@@ -1263,19 +1263,19 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     The term ‘CSRDF’ means the Civil Service Retirement and Disability Fund.
 
->     “(4) __CSRS covered.—__ 
+>     “(4) __CSRS__  __covered__  __.—__ 
 
 >     The term ‘CSRS covered’, with respect to any service, means service that is subject to the provisions of subchapter III of chapter 83 of title 5, United States Code, other than service subject to section 8334(k) of such title.
 
->     “(5) __CSRS-offset covered.—__ 
+>     “(5) __CSRS-__  __offset covered__  __.—__ 
 
 >     The term ‘CSRS-Offset covered’, with respect to any service, means service that is subject to the provisions of subchapter III of chapter 83 of title 5, United States Code, and to section 8334(k) of such title.
 
->     “(6) __Employee.—__ 
+>     “(6)  __Employee__  __.—__ 
 
 >     The term ‘employee’ has the meaning given such term under section 8331(1) or 8401(11) of title 5, United States Code.
 
->     “(7) __Executive director.—__ 
+>     “(7)  __Executive director__  __.—__ 
 
 >     The term ‘Executive Director of the Federal Retirement Thrift Investment Board’ or ‘Executive Director’ means the Executive Director appointed under [section 8474 of title 5][/us/usc/t5/s8474], United States Code.
 
@@ -1283,43 +1283,43 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     The term ‘FERS’ means the Federal Employees’ Retirement System.
 
->     “(9) __FERS covered.—__ 
+>     “(9) __FERS__  __covered__  __.—__ 
 
 >     The term ‘FERS covered’, with respect to any service, means service that is subject to chapter 84 of title 5, United States Code.
 
->     “(10) __Former employee.—__ 
+>     “(10)  __Former employee__  __.—__ 
 
 >     The term ‘former employee’ means an individual who was an employee, but who is not an annuitant.
 
->     “(11) __OASDI taxes.—__ 
+>     “(11) __OASDI__  __taxes__  __.—__ 
 
 >     The term ‘OASDI taxes’ means the OASDI employee tax and the OASDI employer tax.
 
->     “(12) __OASDI employee tax.—__ 
+>     “(12) __OASDI__  __employee tax__  __.—__ 
 
 >     The term ‘OASDI employee tax’ means the tax imposed under section 3101(a) of the Internal Revenue Code of 1986 \[[26 U.S.C. 3101(a)][/us/usc/t26/s3101/a]\] (relating to Old-Age, Survivors and Disability Insurance).
 
->     “(13) __OASDI employer tax.—__ 
+>     “(13) __OASDI__  __employer tax__  __.—__ 
 
 >     The term ‘OASDI employer tax’ means the tax imposed under section 3111(a) of the Internal Revenue Code of 1986 \[[26 U.S.C. 3111(a)][/us/usc/t26/s3111/a]\] (relating to Old-Age, Survivors and Disability Insurance).
 
->     “(14) __OASDI trust funds.—__ 
+>     “(14) __OASDI__  __trust funds__  __.—__ 
 
 >     The term ‘OASDI trust funds’ means the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund.
 
->     “(15) __Office.—__ 
+>     “(15)  __Office__  __.—__ 
 
 >     The term ‘Office’ means the Office of Personnel Management.
 
->     “(16) __Retirement coverage determination.—__ 
+>     “(16)  __Retirement coverage determination__  __.—__ 
 
 >     The term ‘retirement coverage determination’ means a determination by an employee or agent of the Government as to whether a particular type of Government service is CSRS covered, CSRS-Offset covered, FERS covered, or Social Security-Only covered.
 
->     “(17) __Retirement coverage error.—__ 
+>     “(17)  __Retirement coverage error__  __.—__ 
 
 >     The term ‘retirement coverage error’ means an erroneous retirement coverage determination that was in effect for a minimum period of 3 years of service after December 31, 1986.
 
->     “(18) __Social security-only covered.—__ 
+>     “(18)  __Social security-only covered__  __.—__ 
 
 >     The term ‘Social Security-Only covered’, with respect to any service, means Government service that—
 
@@ -1331,21 +1331,21 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(ii) is not subject to CSRS or FERS.
 
->     “(19) __Survivor.—__ 
+>     “(19)  __Survivor__  __.—__ 
 
 >     The term ‘survivor’ has the meaning given such term under section 8331(10) or 8401(28) of title 5, United States Code.
 
->     “(20) __Thrift savings fund.—__ 
+>     “(20)  __Thrift savings fund__  __.—__ 
 
 >     The term ‘Thrift Savings Fund’ means the Thrift Savings Fund established under [section 8437 of title 5][/us/usc/t5/s8437], United States Code.
 
 > “SEC. 2003. __APPLICABILITY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This title shall apply with respect to retirement coverage errors that occur before, on, or after the date of the enactment of this Act \[Sept. 19, 2000\].
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     Except as otherwise provided in this title, this title shall not apply to any erroneous retirement coverage determination that was in effect for a period of less than 3 years of service after December 31, 1986.
 
@@ -1359,33 +1359,33 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2101. __EMPLOYEES.__ 
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     This section shall apply in the case of any employee or former employee who should be (or should have been) FERS covered but, as a result of a retirement coverage error, is (or was) CSRS covered or CSRS-Offset covered instead.
 
 >     “(b) __Uncorrected Error.—__ 
 
->         “(1) __Applicability.—__ 
+>         “(1)  __Applicability__  __.—__ 
 
 >         This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described under paragraph (3). As soon as practicable after discovery of the error, and subject to the right of an election under paragraph (2), if CSRS covered or CSRS-Offset covered, such individual shall be treated as CSRS-Offset covered, retroactive to the date of the retirement coverage error.
 
 >         “(2) __Coverage.—__ 
 
->             “(A) __Election.—__ 
+>             “(A)  __Election__  __.—__ 
 
 >             Upon written notice of a retirement coverage error, an individual may elect to be CSRS-Offset covered or FERS covered, effective as of the date of the retirement coverage error. Such election shall be made not later than 180 days after the date of receipt of such notice.
 
->             “(B) __Nonelection.—__ 
+>             “(B)  __Nonelection__  __.—__ 
 
 >             If the individual does not make an election by the date provided under subparagraph (A), a CSRS-Offset covered individual shall remain CSRS-Offset covered and a CSRS covered individual shall be treated as CSRS-Offset covered.
 
->         “(3) __Regulations.—__ 
+>         “(3)  __Regulations__  __.—__ 
 
 >         The Office shall prescribe regulations to carry out this subsection.
 
 >     “(c) __Corrected Error.—__ 
 
->         “(1) __Applicability.—__ 
+>         “(1)  __Applicability__  __.—__ 
 
 >         This subsection applies if the retirement coverage error was corrected before the effective date of the regulations described under subsection (b).
 
@@ -1393,29 +1393,29 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(A) __Election.—__ 
 
->                 “(i) __CSRS-offset covered.—__ 
+>                 “(i) __CSRS-__  __offset covered__  __.—__ 
 
 >                 Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing individuals to elect, during the 18-month period immediately following the effective date of such regulations, to be CSRS-Offset covered, effective as of the date of the retirement coverage error.
 
->                 “(ii) __Thrift savings fund contributions.—__ 
+>                 “(ii)  __Thrift savings fund contributions__  __.—__ 
 
 >                 If under this section an individual elects to be CSRS-Offset covered, all employee contributions to the Thrift Savings Fund made during the period of FERS coverage (and earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under title 5, United States Code, that would otherwise be applicable.
 
->             “(B) __Previous settlement payment.—__ 
+>             “(B)  __Previous settlement payment__  __.—__ 
 
 >             An individual who previously received a payment ordered by a court or provided as a settlement of claim for losses resulting from a retirement coverage error shall not be entitled to make an election under this subsection unless that amount is waived in whole or in part under section 2208, and any amount not waived is repaid.
 
->             “(C) __Ineligibility for election.—__ 
+>             “(C)  __Ineligibility for election__  __.—__ 
 
 >             An individual who, subsequent to correction of the retirement coverage error, received a refund of retirement deductions under [section 8424 of title 5][/us/usc/t5/s8424], United States Code, or a distribution under section 8433(b), (c), or (h)(1)(A) of title 5, United States Code, may not make an election under this subsection.
 
->         “(3) __Corrective action to remain in effect.—__ 
+>         “(3)  __Corrective action to remain in effect__  __.—__ 
 
 >         If an individual is ineligible to make an election or does not make an election under paragraph (2) before the end of any time limitation under this subsection, the corrective action taken before such time limitation shall remain in effect.
 
 > “SEC. 2102. __ANNUITANTS AND SURVIVORS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This section shall apply in the case of an individual who is—
 
@@ -1425,25 +1425,25 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     “(b) __Coverage.—__ 
 
->         “(1) __Election.—__ 
+>         “(1)  __Election__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing an individual described under subsection (a) to elect CSRS-Offset coverage or FERS coverage, effective as of the date of the retirement coverage error.
 
->         “(2) __Time limitation.—__ 
+>         “(2)  __Time limitation__  __.—__ 
 
 >         An election under this subsection shall be made not later than 18 months after the effective date of the regulations prescribed under paragraph (1).
 
 >         “(3) __Reduced annuity.—__ 
 
->             “(A) __Amount in account.—__ 
+>             “(A)  __Amount in account__  __.—__ 
 
 >             If the individual elects CSRS-Offset coverage, the amount in the employee’s Thrift Savings Fund account under subchapter III of chapter 84 of title 5, United States Code, on the date of retirement that represents the Government’s contributions and earnings on those contributions (whether or not such amount was subsequently distributed from the Thrift Savings Fund) will form the basis for a reduction in the individual’s annuity, under regulations prescribed by the Office.
 
->             “(B) __Reduction.—__ 
+>             “(B)  __Reduction__  __.—__ 
 
 >             The reduced annuity to which the individual is entitled shall be equal to an amount which, when taken together with the amount referred to in subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of an unreduced CSRS-Offset annuity that would have been provided the individual.
 
->         “(4) __Reduced benefit.—__ 
+>         “(4)  __Reduced benefit__  __.—__ 
 
 >         If—
 
@@ -1453,19 +1453,19 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             then the survivor’s CSRS-Offset benefit shall be subject to a reduction, under regulations prescribed by the Office. The reduced annuity to which the individual is entitled shall be equal to an amount which, when taken together with the amount of the payment referred to under subparagraph (B) would result in the present value of the total being actuarially equivalent to the present value of an unreduced CSRS-Offset annuity that would have been provided the individual.
 
->         “(5) __Previous settlement payment.—__ 
+>         “(5)  __Previous settlement payment__  __.—__ 
 
 >         An individual who previously received a payment ordered by a court or provided as a settlement of claim for losses resulting from a retirement coverage error may not make an election under this subsection unless repayment of that amount is waived in whole or in part under section 2208, and any amount not waived is repaid.
 
->     “(c) __Nonelection.—__ 
+>     “(c)  __Nonelection__  __.—__ 
 
 >     If the individual does not make an election under subsection (b) before any time limitation under this section, the retirement coverage shall be subject to the following rules:
 
->         “(1) __Corrective action previously taken.—__ 
+>         “(1)  __Corrective action previously taken__  __.—__ 
 
 >         If corrective action was taken before the end of any time limitation under this section, that corrective action shall remain in effect.
 
->         “(2) __Corrective action not previously taken.—__ 
+>         “(2)  __Corrective action not previously taken__  __.—__ 
 
 >         If corrective action was not taken before such time limitation, the employee shall be CSRS-Offset covered, retroactive to the date of the retirement coverage error.
 
@@ -1483,11 +1483,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2112. __CORRECTION MANDATORY.__ 
 
->     “(a) __Uncorrected Error.—__ 
+>     “(a)  __Uncorrected Error__  __.—__ 
 
 >     If the retirement coverage error has not been corrected, as soon as practicable after discovery of the error, such individual shall be covered under the correct retirement coverage, effective as of the date of the retirement coverage error.
 
->     “(b) __Corrected Error.—__ 
+>     “(b)  __Corrected Error__  __.—__ 
 
 >     If the retirement coverage error has been corrected, the corrective action previously taken shall remain in effect.
 
@@ -1495,45 +1495,45 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2121. __EMPLOYEE WHO SHOULD BE SOCIAL SECURITY-ONLY COVERED, BUT WHO IS ERRONEOUSLY CSRS OR CSRS-OFFSET COVERED INSTEAD.__ 
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     This section applies in the case of a retirement coverage error in which a Social Security-Only covered employee was erroneously CSRS covered or CSRS-Offset covered.
 
 >     “(b) __Uncorrected Error.—__ 
 
->         “(1) __Applicability.—__ 
+>         “(1)  __Applicability__  __.—__ 
 
 >         This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described in paragraph (3).
 
->         “(2) __Coverage.—__ 
+>         “(2)  __Coverage__  __.—__ 
 
 >         In the case of an individual who is erroneously CSRS covered, as soon as practicable after discovery of the error, and subject to the right of an election under paragraph (3), such individual shall be CSRS-Offset covered, effective as of the date of the retirement coverage error.
 
 >         “(3) __Election.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Upon written notice of a retirement coverage error, an individual may elect to be CSRS-Offset covered or Social Security-Only covered, effective as of the date of the retirement coverage error. Such election shall be made not later than 180 days after the date of receipt of such notice.
 
->             “(B) __Nonelection.—__ 
+>             “(B)  __Nonelection__  __.—__ 
 
 >             If the individual does not make an election before the date provided under subparagraph (A), the individual shall remain CSRS-Offset covered.
 
->             “(C) __Regulations.—__ 
+>             “(C)  __Regulations__  __.—__ 
 
 >             The Office shall prescribe regulations to carry out this paragraph.
 
 >     “(c) __Corrected Error.—__ 
 
->         “(1) __Applicability.—__ 
+>         “(1)  __Applicability__  __.—__ 
 
 >         This subsection applies if the retirement coverage error was corrected before the effective date of the regulations described under subsection (b)(3).
 
->         “(2) __Election.—__ 
+>         “(2)  __Election__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing individuals to elect, during the 18-month period immediately following the effective date of such regulations, to be CSRS-Offset covered or Social Security-Only covered, effective as of the date of the retirement coverage error.
 
->         “(3) __Nonelection.—__ 
+>         “(3)  __Nonelection__  __.—__ 
 
 >         If an eligible individual does not make an election under paragraph (2) before the end of any time limitation under this subsection, the corrective action taken before such time limitation shall remain in effect.
 
@@ -1541,13 +1541,13 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2131. __EMPLOYEE WHO SHOULD BE SOCIAL SECURITY-ONLY COVERED, CSRS COVERED, OR CSRS-OFFSET COVERED AND IS NOT FERS-ELIGIBLE, BUT WHO IS ERRONEOUSLY FERS COVERED INSTEAD.__ 
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     This section applies in the case of a retirement coverage error in which a Social Security-Only covered, CSRS covered, or CSRS-Offset covered employee not eligible to elect FERS coverage under authority of [section 8402(c) of title 5][/us/usc/t5/s8402/c], United States Code, was erroneously FERS covered.
 
 >     “(b) __Uncorrected Error.—__ 
 
->         “(1) __Applicability.—__ 
+>         “(1)  __Applicability__  __.—__ 
 
 >         This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described in paragraph (2).
 
@@ -1555,41 +1555,41 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(A) __Election.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Upon written notice of a retirement coverage error, an individual may elect to remain FERS covered or to be Social Security-Only covered, CSRS covered, or CSRS-Offset covered, as would have applied in the absence of the erroneous retirement coverage determination, effective as of the date of the retirement coverage error. Such election shall be made not later than 180 days after the date of receipt of such notice.
 
->                 “(ii) __Treatment of fers election.—__ 
+>                 “(ii)  __Treatment of fers election__  __.—__ 
 
 >                 An election of FERS coverage under this subsection is deemed to be an election under section 301 of the Federal Employees Retirement System Act of 1986 ([5 U.S.C. 8331][/us/usc/t5/s8331] note; [Public Law 99–335][/us/pl/99/335]; [100 Stat. 599][/us/stat/100/599]).
 
->             “(B) __Nonelection.—__ 
+>             “(B)  __Nonelection__  __.—__ 
 
 >             If the individual does not make an election before the date provided under subparagraph (A), the individual shall remain FERS covered, effective as of the date of the retirement coverage error.
 
->         “(3) __Employee contributions in thrift savings fund.—__ 
+>         “(3)  __Employee contributions in thrift savings fund__  __.—__ 
 
 >         If under this section, an individual elects to be Social Security-Only covered, CSRS covered, or CSRS-Offset covered, all employee contributions to the Thrift Savings Fund made during the period of erroneous FERS coverage (and all earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under section 8351 or 8432 of title 5, United States Code.
 
->         “(4) __Regulations.—__ 
+>         “(4)  __Regulations__  __.—__ 
 
 >         Except as provided under paragraph (3), the Office shall prescribe regulations to carry out this subsection.
 
 >     “(c) __Corrected Error.—__ 
 
->         “(1) __Applicability.—__ 
+>         “(1)  __Applicability__  __.—__ 
 
 >         This subsection applies if the retirement coverage error was corrected before the effective date of the regulations described under paragraph (2).
 
->         “(2) __Election.—__ 
+>         “(2)  __Election__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing individuals to elect, during the 18-month period immediately following the effective date of such regulations to remain Social Security-Only covered, CSRS covered, or CSRS-Offset covered, or to be FERS covered, effective as of the date of the retirement coverage error.
 
->         “(3) __Nonelection.—__ 
+>         “(3)  __Nonelection__  __.—__ 
 
 >         If an eligible individual does not make an election under paragraph (2), the corrective action taken before the end of any time limitation under this subsection shall remain in effect.
 
->         “(4) __Treatment of fers election.—__ 
+>         “(4)  __Treatment of fers election__  __.—__ 
 
 >         An election of FERS coverage under this subsection is deemed to be an election under section 301 of the Federal Employees Retirement System Act of 1986 ([5 U.S.C. 8331][/us/usc/t5/s8331] note; [Public Law 99–335][/us/pl/99/335]; [100 Stat. 599][/us/stat/100/599]).
 
@@ -1597,7 +1597,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     “(a) __In General.—__ 
 
->         “(1) __FERS election prevented.—__ 
+>         “(1)  __FERS election prevented__  __.—__ 
 
 >         If an individual was prevented from electing FERS coverage because the individual was erroneously FERS covered during the period when the individual was eligible to elect FERS under title III of the Federal Employees Retirement System Act \[[Pub. L. 99–335][/us/pl/99/335]\] or the Federal Employees’ Retirement System Open Enrollment Act of 1997 ([Public Law 105–61][/us/pl/105/61]; [111 Stat. 1318][/us/stat/111/1318] et seq.) \[[5 U.S.C. 8331][/us/usc/t5/s8331] notes\], the individual—
 
@@ -1605,15 +1605,15 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(B) shall remain covered by FERS, unless the individual declines, under regulations prescribed by the Office, to be FERS covered.
 
->         “(2) __Declining fers coverage.—__ 
+>         “(2)  __Declining fers coverage__  __.—__ 
 
 >         If an individual described under paragraph (1)(B) declines to be FERS covered, such individual shall be CSRS covered, CSRS-Offset covered, or Social Security-Only covered, as would apply in the absence of a FERS election, effective as of the date of the erroneous retirement coverage determination.
 
->     “(b) __Employee Contributions in Thrift Savings Fund.—__ 
+>     “(b)  __Employee Contributions in Thrift Savings Fund__  __.—__ 
 
 >     If under this section, an individual declines to be FERS covered and instead is Social Security-Only covered, CSRS covered, or CSRS-Offset covered, as would apply in the absence of a FERS election, all employee contributions to the Thrift Savings Fund made during the period of erroneous FERS coverage (and all earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under title 5, United States Code, that would otherwise be applicable.
 
->     “(c) __Inapplicability of Duration of Erroneous Coverage.—__ 
+>     “(c)  __Inapplicability of Duration of Erroneous Coverage__  __.—__ 
 
 >     This section shall apply regardless of the length of time the erroneous coverage determination remained in effect.
 
@@ -1629,11 +1629,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2142. __CORRECTION MANDATORY.__ 
 
->     “(a) __Uncorrected Error.—__ 
+>     “(a)  __Uncorrected Error__  __.—__ 
 
 >     If the retirement coverage error has not been corrected, as soon as practicable after discovery of the error, such individual shall be covered under the correct retirement coverage, effective as of the date of the retirement coverage error.
 
->     “(b) __Corrected Error.—__ 
+>     “(b)  __Corrected Error__  __.—__ 
 
 >     If the retirement coverage error has been corrected before the effective date of this title, the corrective action taken before such date shall remain in effect.
 
@@ -1645,11 +1645,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2152. __CORRECTION MANDATORY.__ 
 
->     “(a) __Uncorrected Error.—__ 
+>     “(a)  __Uncorrected Error__  __.—__ 
 
 >     If the retirement coverage error has not been corrected, as soon as practicable after discovery of the error, such individual shall be covered under the correct retirement coverage, effective as of the date of the retirement coverage error.
 
->     “(b) __Corrected Error.—__ 
+>     “(b)  __Corrected Error__  __.—__ 
 
 >     If the retirement coverage error has been corrected before the effective date of this title, the corrective action taken before such date shall remain in effect.
 
@@ -1661,7 +1661,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2202. __INFORMATION TO BE FURNISHED TO AND BY AUTHORITIES ADMINISTERING THIS TITLE.__ 
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     The authorities identified in this subsection are—
 
@@ -1671,15 +1671,15 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(3) the Executive Director of the Federal Retirement Thrift Investment Board.
 
->     “(b) __Authority To Obtain Information.—__ 
+>     “(b)  __Authority To Obtain Information__  __.—__ 
 
 >     Each authority identified in subsection (a) may secure directly from any department or agency of the United States information necessary to enable such authority to carry out its responsibilities under this title. Upon request of the authority involved, the head of the department or agency involved shall furnish that information to the requesting authority.
 
->     “(c) __Authority To Provide Information.—__ 
+>     “(c)  __Authority To Provide Information__  __.—__ 
 
 >     Each authority identified in subsection (a) may provide directly to any department or agency of the United States all information such authority believes necessary to enable the department or agency to carry out its responsibilities under this title.
 
->     “(d) __Limitation; Safeguards.—__ 
+>     “(d)  __Limitation; Safeguards__  __.—__ 
 
 >     Each of the respective authorities under subsection (a) shall—
 
@@ -1689,7 +1689,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2203. __SERVICE CREDIT DEPOSITS.__ 
 
->     “(a) __CSRS Deposit.—__ 
+>     “(a) __CSRS__  __Deposit__  __.—__ 
 
 >     In the case of a retirement coverage error in which—
 
@@ -1703,7 +1703,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     “(b) __FERS Deposit.—__ 
 
->         “(1) __Applicability.—__ 
+>         “(1)  __Applicability__  __.—__ 
 
 >         This subsection applies in the case of an erroneous retirement coverage determination in which—
 
@@ -1717,27 +1717,27 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(2) __Reduced annuity.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If at the time of commencement of an annuity there is remaining unpaid CSRS civilian or military service credit deposit for service described under paragraph (1), the annuity shall be reduced based upon the amount unpaid together with interest computed in accordance with section 8334(e)(2) and (3) of title 5, United States Code, and regulations prescribed by the Office.
 
->             “(B) __Amount.—__ 
+>             “(B)  __Amount__  __.—__ 
 
 >             The reduced annuity to which the individual is entitled shall be equal to an amount that, when taken together with the amount referred to under subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of the unreduced annuity benefit that would have been provided the individual.
 
 >         “(3) __Survivor annuity.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If at the time of commencement of a survivor annuity, there is remaining unpaid any CSRS service credit deposit described under paragraph (1), and there has been no actuarial reduction in an annuity under paragraph (2), the survivor annuity shall be reduced based upon the amount unpaid together with interest computed in accordance with section 8334(e)(2) and (3) of title 5, United States Code, and regulations prescribed by the Office.
 
->             “(B) __Amount.—__ 
+>             “(B)  __Amount__  __.—__ 
 
 >             The reduced survivor annuity to which the individual is entitled shall be equal to an amount that, when taken together with the amount referred to under subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of an unreduced survivor annuity benefit that would have been provided the individual.
 
 > “SEC. 2204. __PROVISIONS RELATED TO SOCIAL SECURITY COVERAGE OF MISCLASSIFIED EMPLOYEES.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section, the term—
 
@@ -1753,7 +1753,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     “(b) __Reports to Commissioner of Social Security.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In order to carry out the Commissioner of Social Security’s responsibilities under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], the Commissioner may request the head of each agency that employs or employed a covered individual to report (in coordination with the Office of Personnel Management) in such form and within such timeframe as the Commissioner may specify, any or all of—
 
@@ -1761,31 +1761,31 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(B) such additional information as the Commissioner may require for the purpose of carrying out the Commissioner’s responsibilities under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.).
 
->         “(2) __Compliance.—__ 
+>         “(2)  __Compliance__  __.—__ 
 
 >         The head of an agency or the Office shall comply with a request from the Commissioner under paragraph (1).
 
->         “(3) __Wages.—__ 
+>         “(3)  __Wages__  __.—__ 
 
 >         For purposes of section 201 of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401]), wages reported under this subsection shall be deemed to be wages reported to the Secretary of the Treasury or the Secretary’s delegates pursuant to subtitle F of the Internal Revenue Code of 1986 \[[26 U.S.C. 6001][/us/usc/t26/s6001] et seq.\].
 
->     “(c) __Payment Relating to OASDI Employee Taxes.—__ 
+>     “(c)  __Payment Relating to OASDI Employee Taxes__  __.—__ 
 
 >     The Office shall transfer from the Civil Service Retirement and Disability Fund to the General Fund of the Treasury an amount equal to the lesser of the excess CSRS deduction amount or the OASDI taxes due for covered individuals (as adjusted by amounts transferred relating to applicable OASDI employee taxes as a result of corrections made, including corrections made before the date of the enactment of this Act \[Sept. 19, 2000\]). If the excess CSRS deductions exceed the OASDI taxes, any difference shall be paid to the covered individual or survivors, as appropriate.
 
 >     “(d) __Payment of OASDI Employer Taxes.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each employing agency shall pay an amount equal to the OASDI employer taxes owed with respect to covered individuals during the applicable period of erroneous coverage (as adjusted by amounts transferred for the payment of such taxes as a result of corrections made, including corrections made before the date of the enactment of this Act \[Sept. 19, 2000\]).
 
->         “(2) __Payment.—__ 
+>         “(2)  __Payment__  __.—__ 
 
 >         Amounts paid under this subsection shall be determined subject to any limitation under section 6501 of the Internal Revenue Code of 1986 \[[26 U.S.C. 6501][/us/usc/t26/s6501]\].
 
 > “SEC. 2205. __THRIFT SAVINGS PLAN TREATMENT FOR CERTAIN INDIVIDUALS.__ 
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     This section applies to an individual who—
 
@@ -1797,29 +1797,29 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(1) __In general.—__ 
 
->             “(A) __Payment.—__ 
+>             “(A)  __Payment__  __.—__ 
 
 >             With respect to an individual to whom this section applies, the employing agency shall pay to the Thrift Savings Fund under subchapter III of chapter 84 of title 5, United States Code, for credit to the account of the employee involved, an amount equal to the earnings which are disallowed under section 8432a(a)(2) of such title on the employee’s retroactive contributions to such Fund.
 
->             “(B) __Amount.—__ 
+>             “(B)  __Amount__  __.—__ 
 
 >             Earnings under subparagraph (A) shall be computed in accordance with the procedures for computing lost earnings under [section 8432a of title 5][/us/usc/t5/s8432a], United States Code. The amount paid by the employing agency shall be treated for all purposes as if that amount had actually been earned on the basis of the employee’s contributions.
 
->             “(C) __Exceptions.—__ 
+>             “(C)  __Exceptions__  __.—__ 
 
 >             If an individual made retroactive contributions before the effective date of the regulations under section 2101(c), the Director may provide for an alternative calculation of lost earnings to the extent that a calculation under subparagraph (B) is not administratively feasible. The alternative calculation shall yield an amount that is as close as practicable to the amount computed under subparagraph (B), taking into account earnings previously paid.
 
->         “(2) __Additional employee contribution.—__ 
+>         “(2)  __Additional employee contribution__  __.—__ 
 
 >         In cases in which the retirement coverage error was corrected before the effective date of the regulations under section 2101(c), the employee involved shall have an additional opportunity to make retroactive contributions for the period of the retirement coverage error (subject to applicable limits), and such contributions (including any contributions made after the date of the correction) shall be treated in accordance with paragraph (1).
 
 >     “(c) __Regulations.—__ 
 
->         “(1) __Executive director.—__ 
+>         “(1)  __Executive director__  __.—__ 
 
 >         The Executive Director shall prescribe regulations appropriate to carry out this section relating to retroactive employee contributions and payments made on or after the effective date of the regulations under section 2101(c).
 
->         “(2) __Office.—__ 
+>         “(2)  __Office__  __.—__ 
 
 >         The Office, in consultation with the Federal Retirement Thrift Investment Board, shall prescribe regulations appropriate to carry out this section relating to the calculation of lost earnings on retroactive employee contributions made before the effective date of the regulations under section 2101(c).
 
@@ -1827,7 +1827,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     “(a) __Certain Excess Agency Contributions To Remain in the CSRDF.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any amount described under paragraph (2) shall—
 
@@ -1835,11 +1835,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(B) may not be paid or credited to an agency.
 
->         “(2) __Amounts.—__ 
+>         “(2)  __Amounts__  __.—__ 
 
 >         Paragraph (1) refers to any amount of contributions made by an agency under [section 8423 of title 5][/us/usc/t5/s8423], United States Code, on behalf of any employee, former employee, or annuitant (or survivor of such employee, former employee, or annuitant) who makes an election to correct a retirement coverage error under this title, that the Office determines to be excess as a result of such election.
 
->     “(b) __Additional Employee Retirement Deductions To Be Paid by Agency.—__ 
+>     “(b)  __Additional Employee Retirement Deductions To Be Paid by Agency__  __.—__ 
 
 >     If a correction in a retirement coverage error results in an increase in employee deductions under section 8334 or 8422 of title 5, United States Code, that cannot be fully paid by a reallocation of otherwise available amounts previously deducted from the employee’s pay as employment taxes or retirement deductions, the employing agency—
 
@@ -1857,7 +1857,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2208. __DISCRETIONARY ACTIONS BY DIRECTOR.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the Office of Personnel Management may—
 
@@ -1869,29 +1869,29 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(4) waive payments required due to correction of a retirement coverage error under this title.
 
->     “(b) __Similar Actions.—__ 
+>     “(b)  __Similar Actions__  __.—__ 
 
 >     In exercising the authority under this section, the Director shall, to the extent practicable, provide for similar actions in situations involving similar circumstances.
 
->     “(c) __Judicial Review.—__ 
+>     “(c)  __Judicial Review__  __.—__ 
 
 >     Actions taken under this section are final and conclusive, and are not subject to administrative or judicial review.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Office of Personnel Management shall prescribe regulations regarding the process and criteria used in exercising the authority under this section.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     The Office of Personnel Management shall, not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], and annually thereafter for each year in which the authority provided in this section is used, submit a report to each House of Congress on the operation of this section.
 
 > “SEC. 2209. __REGULATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In addition to the regulations specifically authorized in this title, the Office may prescribe such other regulations as are necessary for the administration of this title.
 
->     “(b) __Former Spouse.—__ 
+>     “(b)  __Former Spouse__  __.—__ 
 
 >     The regulations prescribed under this title shall provide for protection of the rights of a former spouse with entitlement to an apportionment of benefits or to survivor benefits based on the service of the employee.
 
@@ -1899,7 +1899,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 2301. __PROVISIONS TO AUTHORIZE CONTINUED CONFORMITY OF OTHER FEDERAL RETIREMENT SYSTEMS.__ 
 
->     “(a) __Foreign Service.—__ 
+>     “(a)  __Foreign Service__  __.—__ 
 
 >     Sections 827 and 851 of the Foreign Service Act of 1980 ([22 U.S.C. 4067][/us/usc/t22/s4067] and 4071) shall apply with respect to this title in the same manner as if this title were part of—
 
@@ -1907,7 +1907,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(2) the Federal Employees’ Retirement System, to the extent this title relates to the Federal Employees’ Retirement System.
 
->     “(b) __Central Intelligence Agency.—__ 
+>     “(b)  __Central Intelligence Agency__  __.—__ 
 
 >     Sections 292 and 301 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2141][/us/usc/t50/s2141] and 2151) shall apply with respect to this title in the same manner as if this title were part of—
 
@@ -1937,13 +1937,13 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 [Pub. L. 104–201, div. A, title XVI, § 1616][/us/pl/104/201/s1616], Sept. 23, 1996, [110 Stat. 2741][/us/stat/110/2741], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
->     “(a) __Pilot Programs Authorized.—__ 
+>     “(a)  __Pilot Programs Authorized__  __.—__ 
 
 >         (1) The Secretary of Defense, after consultation with the Director of the Office of Personnel Management, may establish one or more pilot programs under which Federal retirement benefits are provided in accordance with this section to persons who convert from Federal employment to employment by a Department of Defense contractor in connection with the privatization of the performance of functions at selected military installations being closed under the base closure and realignment process.
 
 >         “(2) The Secretary of Defense shall select the military installations to be covered by a pilot program under this section.
 
->     “(b) __Eligible Converted Employees.—__ 
+>     “(b)  __Eligible Converted Employees__  __.—__ 
 
 >         (1)
 
@@ -1963,11 +1963,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(2) A person who, under paragraph (1), would otherwise be eligible for an early deferred annuity under this section shall not be eligible for such benefits if the person received separation pay or severance pay due to a separation described in subparagraph (B) of that paragraph unless the person repays the full amount of such pay with interest (computed at a rate determined appropriate by the Director of the Office of Personnel Management) to the Department of Defense before attaining early deferred retirement age.
 
->     “(c) __Retirement Benefits of Converted Employees.—__ 
+>     “(c)  __Retirement Benefits of Converted Employees__  __.—__ 
 
 >     In the case of a converted employee covered by a pilot program, payment of a deferred annuity for which the converted employee is eligible under [section 8338(a) of title 5][/us/usc/t5/s8338/a], United States Code, shall commence on the first day of the first month that begins after the date on which the converted employee attains early deferred retirement age, notwithstanding the age requirement under that section. If the employment of a converted employee is involuntarily terminated by the defense contractor or subcontractor as described in subsection (b)(1)(F) and the converted employee resumes Federal service before the converted employee attains early deferred retirement age, the converted employee shall once again be covered under the Civil Service Retirement System instead of the pilot program.
 
->     “(d) __Computation of Average Pay.—__ 
+>     “(d)  __Computation of Average Pay__  __.—__ 
 
 >         (1)
 
@@ -1983,7 +1983,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(B) For purposes of computing the deferred annuity for a converted employee referred to in subparagraph (A), the average pay of the converted employee, computed under [section 8331(4) of title 5][/us/usc/t5/s8331/4], United States Code, as of the date of the employee’s covered separation from Federal service, shall be adjusted at the same time and by the same percentage that pay rates for positions that are in the same area as, and are comparable to, the last position the converted employee held as a prevailing rate employee, are increased under section 5343(a) of such title during the period beginning on that date and ending on the date on which the converted employee attains early deferred retirement age.
 
->     “(e) __Payment of Unfunded Liability.—__ 
+>     “(e)  __Payment of Unfunded Liability__  __.—__ 
 
 >         (1)
 
@@ -1995,23 +1995,23 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(2) The estimated increase in the unfunded liability for each department referred to in paragraph (1) shall be determined by the Director of the Office of Personnel Management. In making the determination, the Director shall consider any savings to the Fund as a result of a pilot program established under this section. The Secretary of the military department concerned shall pay the amount so determined to the Director in 10 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, with the first payment thereof due at the end of the fiscal year in which an increase in average pay under subsection (d) becomes effective.
 
->     “(f) __Contractor Service Not Creditable.—__ 
+>     “(f)  __Contractor Service Not Creditable__  __.—__ 
 
 >     Service performed by a converted employee for a defense contractor after the employee’s covered separation from Federal service is not creditable service for purposes of subchapter III of chapter 83 of title 5, United States Code.
 
->     “(g) __Receipt of Benefits While Employed by a Defense Contractor.—__ 
+>     “(g)  __Receipt of Benefits While Employed by a Defense Contractor__  __.—__ 
 
 >     A converted employee may commence receipt of an early deferred annuity in accordance with this section while continuing to work for a defense contractor.
 
->     “(h) __Lump-Sum Credit Payment.—__ 
+>     “(h)  __Lump-Sum Credit Payment__  __.—__ 
 
 >     If a converted employee dies before attaining early deferred retirement age, such employee shall be treated as a former employee who dies not retired for purposes of payment of the lump-sum credit under [section 8342(d) of title 5][/us/usc/t5/s8342/d], United States Code.
 
->     “(i) __Continued Federal Health Benefits Coverage.—__ 
+>     “(i)  __Continued Federal Health Benefits Coverage__  __.—__ 
 
 >     Notwithstanding [section 8905a(e)(1)(A) of title 5][/us/usc/t5/s8905a/e/1/A], United States Code, the continued coverage of a converted employee for health benefits under chapter 89 of such title by reason of the application of section 8905a of such title to such employee shall terminate 90 days after the date of the employee’s covered separation from Federal employment. For the purposes of the preceding sentence, a person who, except for subsection (b)(2), would be a converted employee shall be considered a converted employee.
 
->     “(j) __Report by Government Accountability Office.—__ 
+>     “(j)  __Report by Government Accountability Office__  __.—__ 
 
 >     The Comptroller General shall conduct a study of each pilot program, if any, established under this section and submit a report on the pilot program to Congress not later than two years after the date on which the program is established. The report shall contain the following:
 
@@ -2031,11 +2031,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(3) Any other recommendation relating to the program.
 
->     “(k) __Implementing Regulations.—__ 
+>     “(k)  __Implementing Regulations__  __.—__ 
 
 >     Not later than 30 days after the Secretary of Defense notifies the Director of the Office of Personnel Management of a decision to establish a pilot program under this section, the Director shall prescribe regulations to carry out the provisions of this section with respect to that pilot program. Before prescribing the regulations, the Director shall consult with the Secretary.
 
->     “(l) __Definitions.—__ 
+>     “(l)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -2061,7 +2061,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(7) The term ‘separation pay’ means separation pay payable under [section 5597 of title 5][/us/usc/t5/s5597], United States Code.
 
->     “(m) __Application of Pilot Program.—__ 
+>     “(m)  __Application of Pilot Program__  __.—__ 
 
 >     In the event that a pilot program is established for a military installation, the pilot program shall apply to a covered separation from Federal service by an employee of the Department of Defense at the installation occurring on or after August 1, 1996.”
 
@@ -2071,7 +2071,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     “(a) __Relating to Voluntary Separation Incentive Payments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In addition to any other payments which it is required to make under subchapter III of chapter 83 of title 5, United States Code, an agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund an amount equal to 9 percent of the final basic pay of each employee of the agency—
 
@@ -2079,7 +2079,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(B) to whom a voluntary separation incentive payment has been or is to be paid by such agency based on that retirement.
 
->         “(2) __Definitions.—__ 
+>         “(2)  __Definitions__  __.—__ 
 
 >         For the purpose of this subsection—
 
@@ -2093,9 +2093,9 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >                 “(ii) any separation pay under [section 5597 of title 5][/us/usc/t5/s5597], United States Code.
 
->     “(b) __Relating to Fiscal Years 1995 Through 1998.—__ 
+>     “(b)  __Relating to Fiscal Years__  __1995__  __Through__  __1998.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In addition to any other payments which it is required to make under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, in fiscal years 1995, 1996, 1997, and 1998 (and in addition to any amounts required under subsection (a)), each agency shall, before the end of each such fiscal year, remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund an amount equal to the product of—
 
@@ -2103,11 +2103,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(B) $80.
 
->         “(2) __Definition.—__ 
+>         “(2)  __Definition__  __.—__ 
 
 >         For the purpose of this subsection, the term ‘agency’ means an Executive agency (as defined by [section 105 of title 5][/us/usc/t5/s105], United States Code), but does not include the General Accounting Office \[now Government Accountability Office\].
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The Director of the Office of Personnel Management may prescribe any regulations necessary to carry out this section.”
 
@@ -2135,7 +2135,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 > “SEC. 301. __ELECTIONS.__ 
 
->     “(a) __Elections for Individuals Subject to the Civil Service Retirement System.—__ 
+>     “(a)  __Elections for Individuals Subject to the Civil Service Retirement System__  __.—__ 
 
 >         (1)
 
@@ -2165,7 +2165,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(4) A member of the Foreign Service described in section 103(6) of the Foreign Service Act of 1980 \[[22 U.S.C. 3903(6)][/us/usc/t22/s3903/6]\] shall be ineligible to make any election under this subsection.
 
->     “(b) __Elections for Certain Individuals Serving Continuously Since__  __December 31, 1983__  __.—__ 
+>     “(b)  __Elections for Certain Individuals Serving Continuously Since December__  __31, 1983.—__ 
 
 >     The following rules shall apply in the case of any individual described in [section 8402(b)(1) of title 5][/us/usc/t5/s8402/b/1], United States Code:
 
@@ -2207,7 +2207,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(C) Any individual who becomes subject to subchapter III of chapter 83 of such title pursuant to notification under section 8331(2) of such title after December 31, 1986, shall become subject to such subchapter under the same terms and conditions as apply in the case of an individual described in section 8402(b)(2) of such title who is subject to such subchapter.
 
->     “(c) __Effective Date; Irrevocability.—__ 
+>     “(c)  __Effective Date; Irrevocability__  __.—__ 
 
 >     An election made under this section—
 
@@ -2215,7 +2215,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         “(2) shall be irrevocable.
 
->     “(d) __Condition for Making an Election; Extension To Satisfy Condition.—__ 
+>     “(d)  __Condition for Making an Election; Extension To Satisfy Condition__  __.—__ 
 
 >         (1) An election under this section to become subject to chapter 84 of title 5, United States Code, shall not be considered effective in the case of an individual having one or more former spouses, unless the election is made with the written consent of such former spouse (or each such former spouse, if there is more than one).
 
@@ -2245,13 +2245,13 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(B) An extension under this paragraph shall be for 6 months or for such longer period as the Office considers appropriate.
 
->     “(e) __Exclusions.—__ 
+>     “(e)  __Exclusions__  __.—__ 
 
 >     This section does not apply to an individual under [section 8331(1)(G) of title 5][/us/usc/t5/s8331/1/G], United States Code.
 
 > “SEC. 302. __EFFECT OF AN ELECTION UNDER SECTION 301 TO BECOME SUBJECT TO THE FEDERAL EMPLOYEES’ RETIREMENT SYSTEM.__ 
 
->     “(a) __General and Special Rules.—__ 
+>     “(a)  __General and Special Rules__  __.—__ 
 
 >     All provisions of chapter 84 of title 5, United States Code (including those relating to disability benefits, survivor benefits, and any reductions to provide for survivor benefits) shall apply with respect to any individual who becomes subject to such chapter pursuant to an election under section 301, except if, or to the extent that, such provisions are inconsistent with the following:
 
@@ -2397,7 +2397,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >                 “(ii) with respect to service performed on or after the effective date of the election under section 301, it is service with respect to which deductions from pay would be required to be withheld under the second sentence of [section 8468(a) of title 5][/us/usc/t5/s8468/a], United States Code.
 
->     “(b) __Chapter 83 Generally Inapplicable.—__ 
+>     “(b)  __Chapter__  __83__  __Generally Inapplicable__  __.—__ 
 
 >         (1) Except as provided in subsection (a) or paragraph (2), subchapter III of chapter 83 of title 5, United States Code, shall not apply with respect to any individual who becomes subject to chapter 84 of title 5, United States Code, pursuant to an election under section 301.
 
@@ -2407,7 +2407,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >             “(B) Nothing in paragraph (1) shall preclude the payment of any lump-sum credit in accordance with [section 8342 of title 5][/us/usc/t5/s8342], United States Code.
 
->     “(c) __Refunds Relating to Certain Civilian Service.—__ 
+>     “(c)  __Refunds Relating to Certain Civilian Service__  __.—__ 
 
 >         (1)
 
@@ -2443,7 +2443,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >  PROVISIONS RELATING TO AN ELECTION TO BECOME SUBJECT TO CHAPTER 83 SUBJECT TO CERTAIN OFFSETS RELATING TO SOCIAL SE­CURITY.
 
->     “(a) __Refund.—__ 
+>     “(a)  __Refund__  __.—__ 
 
 >     Any individual who makes an election under section 301(b)(1)(A) shall, upon written application to the Office of Personnel Management, be entitled to a refund equal to—
 
@@ -2465,7 +2465,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >         A refund under this subsection shall be computed with interest in accordance with section 302(c)(2) and regulations prescribed by the Office of Personnel Management.
 
->     “(b) __Deposit Requirements.—__ 
+>     “(b)  __Deposit Requirements__  __.—__ 
 
 >         (1)
 

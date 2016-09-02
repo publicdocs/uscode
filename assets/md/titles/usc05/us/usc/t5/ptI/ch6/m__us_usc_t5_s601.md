@@ -43,7 +43,7 @@
 
         (B) shall not include a collection of information described under [section 3518(c)(1) of title 44][/us/usc/t44/s3518/c/1], United States Code.
 
-    (8) __Recordkeeping requirement.—__ 
+    (8)  __Recordkeeping requirement__  __.—__ 
 
     The term “recordkeeping requirement” means a requirement imposed by an agency on persons to maintain specified records.
 
@@ -85,13 +85,13 @@
 
 [Pub. L. 107–198, § 4][/us/pl/107/198/s4], June 28, 2002, [116 Stat. 732][/us/stat/116/732], provided that:
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     In this section, the term ‘agency’ has the meaning given that term under [section 551 of title 5][/us/usc/t5/s551], United States Code.
 
 >     “(b) __In General.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         Not later than December 31, 2003, each agency shall submit an initial report to—
 
@@ -105,11 +105,11 @@
 
 >             “(B) the Small Business and Agriculture Regulatory Enforcement Ombudsman designated under section 30(b) of the Small Business Act ([15 U.S.C. 657(b)][/us/usc/t15/s657/b]).
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Not later than December 31, 2004, each agency shall submit a final report to the members and officer described under paragraph (1) (A) and (B).
 
->         “(3) __Content.—__ 
+>         “(3)  __Content__  __.—__ 
 
 >         The initial report under paragraph (1) shall include information with respect to the 1-year period beginning on October 1, 2002, and the final report under paragraph (2) shall include information with respect to the 1-year period beginning on October 1, 2003, on each of the following:
 
@@ -121,7 +121,7 @@
 
 >             “(D) The total monetary amount of the reductions or waivers referred to under subparagraph (C).
 
->         “(4) __Definitions in reports.—__ 
+>         “(4)  __Definitions in reports__  __.—__ 
 
 >         Each report under this subsection shall include definitions selected at the discretion of the reporting agency of the terms ‘enforcement actions’, ‘reduction or waiver’, and ‘small entity’ as used in the report.”
 
@@ -129,7 +129,7 @@
 
 [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 654\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528, as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
->     “(a) __Purposes.—__ 
+>     “(a)  __Purposes__  __.—__ 
 
 >     The purposes of this section are to—
 
@@ -137,7 +137,7 @@
 
 >         “(2) improve the management of executive branch agencies.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section—
 
@@ -151,7 +151,7 @@
 
 >             “(B) any individual who is not a member of such group, but who is related by blood, marriage, or adoption to a member of such group, and over half of whose support in a calendar year is received from such group.
 
->     “(c) __Family Policymaking Assessment.—__ 
+>     “(c)  __Family Policymaking Assessment__  __.—__ 
 
 >     Before implementing policies and regulations that may affect family well-being, each agency shall assess such actions with respect to whether—
 
@@ -171,7 +171,7 @@
 
 >     “(d) __Governmentwide Family Policy Coordination and Review.—__ 
 
->         “(1) __Certification and rationale.—__ 
+>         “(1)  __Certification and rationale__  __.—__ 
 
 >         With respect to each proposed policy or regulation that may affect family well-being, the head of each agency shall—
 
@@ -179,7 +179,7 @@
 
 >             “(B) provide an adequate rationale for implementation of each policy or regulation that may negatively affect family well-being.
 
->         “(2) __Office of management and budget.—__ 
+>         “(2)  __Office of management and budget__  __.—__ 
 
 >         The Director of the Office of Management and Budget shall—
 
@@ -187,7 +187,7 @@
 
 >             “(B) compile, index, and submit annually to the Congress the written certifications received pursuant to paragraph (1)(A).
 
->         “(3) __Office of policy development.—__ 
+>         “(3)  __Office of policy development__  __.—__ 
 
 >         The Office of Policy Development shall—
 
@@ -197,7 +197,7 @@
 
 >             “(C) advise the President on policy and regulatory actions that may be taken to strengthen the institutions of marriage and family in the United States.
 
->     “(e) __Assessments Upon Request by Members of Congress.—__ 
+>     “(e)  __Assessments Upon Request by Members of Congress__  __.—__ 
 
 >     Upon request by a Member of Congress relating to a proposed policy or regulation, an agency shall conduct an assessment in accordance with subsection (c), and shall provide a certification and rationale in accordance with subsection (d).
 
@@ -263,11 +263,11 @@
 
 >     “(a) __Compliance Guide.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For each rule or group of related rules for which an agency is required to prepare a final regulatory flexibility analysis under section 605(b) \[probably should be “section 604”\] of title 5, United States Code, the agency shall publish 1 or more guides to assist small entities in complying with the rule and shall entitle such publications ‘small entity compliance guides’.
 
->         “(2) __Publication of guides.—__ 
+>         “(2)  __Publication of guides__  __.—__ 
 
 >         The publication of each guide under this subsection shall include—
 
@@ -275,7 +275,7 @@
 
 >             “(B) distribution of the guide to known industry contacts, such as small entities, associations, or industry leaders affected by the rule.
 
->         “(3) __Publication date.—__ 
+>         “(3)  __Publication date__  __.—__ 
 
 >         An agency shall publish each guide (including the posting and distribution of the guide as described under paragraph (2))—
 
@@ -285,11 +285,11 @@
 
 >         “(4) __Compliance actions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Each guide shall explain the actions a small entity is required to take to comply with a rule.
 
->             “(B) __Explanation.—__ 
+>             “(B)  __Explanation__  __.—__ 
 
 >             The explanation under subparagraph (A)—
 
@@ -297,7 +297,7 @@
 
 >                 “(ii) if determined appropriate by the agency, may include a description of possible procedures, such as conducting tests, that may assist a small entity in meeting such requirements, except that, compliance with any procedures described pursuant to this section does not establish compliance with the rule, or establish a presumption or inference of such compliance.
 
->             “(C) __Procedures.—__ 
+>             “(C)  __Procedures__  __.—__ 
 
 >             Procedures described under subparagraph (B)(ii)—
 
@@ -305,33 +305,33 @@
 
 >                 “(ii) shall not be additional requirements, or diminish requirements, relating to the rule.
 
->         “(5) __Agency preparation of guides.—__ 
+>         “(5)  __Agency preparation of guides__  __.—__ 
 
 >         The agency shall, in its sole discretion, taking into account the subject matter of the rule and the language of relevant statutes, ensure that the guide is written using sufficiently plain language likely to be understood by affected small entities. Agencies may prepare separate guides covering groups or classes of similarly affected small entities and may cooperate with associations of small entities to develop and distribute such guides. An agency may prepare guides and apply this section with respect to a rule or a group of related rules.
 
->         “(6) __Reporting.—__ 
+>         “(6)  __Reporting__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of the Fair Minimum Wage Act of 2007 \[May 25, 2007\], and annually thereafter, the head of each agency shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate, the Committee on Small Business of the House of Representatives, and any other committee of relevant jurisdiction describing the status of the agency’s compliance with paragraphs (1) through (5).
 
->     “(b) __Comprehensive Source of Information.—__ 
+>     “(b)  __Comprehensive Source of Information__  __.—__ 
 
 >     Agencies shall cooperate to make available to small entities through comprehensive sources of information, the small entity compliance guides and all other available information on statutory and regulatory requirements affecting small entities.
 
->     “(c) __Limitation on Judicial Review.—__ 
+>     “(c)  __Limitation on Judicial Review__  __.—__ 
 
 >     An agency’s small entity compliance guide shall not be subject to judicial review, except that in any civil or administrative action against a small entity for a violation occurring after the effective date of this section, the content of the small entity compliance guide may be considered as evidence of the reasonableness or appropriateness of any proposed fines, penalties or damages.
 
 > “SEC. 213. __INFORMAL SMALL ENTITY GUIDANCE.__ 
 
->     “(a) __General.—__ 
+>     “(a)  __General__  __.—__ 
 
 >     Whenever appropriate in the interest of administering statutes and regulations within the jurisdiction of an agency which regulates small entities, it shall be the practice of the agency to answer inquiries by small entities concerning information on, and advice about, compliance with such statutes and regulations, interpreting and applying the law to specific sets of facts supplied by the small entity. In any civil or administrative action against a small entity, guidance given by an agency applying the law to facts provided by the small entity may be considered as evidence of the reasonableness or appropriateness of any proposed fines, penalties or damages sought against such small entity.
 
->     “(b) __Program.—__ 
+>     “(b)  __Program__  __.—__ 
 
 >     Each agency regulating the activities of small entities shall establish a program for responding to such inquiries no later than 1 year after enactment of this section \[Mar. 29, 1996\], utilizing existing functions and personnel of the agency to the extent practicable.
 
->     “(c) __Reporting.—__ 
+>     “(c)  __Reporting__  __.—__ 
 
 >     Each agency regulating the activities of small business shall report to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] and Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Small Business and Committee on the Judiciary of the House of Representatives no later than 2 years after the date of the enactment of this section on the scope of the agency’s program, the number of small entities using the program, and the achievements of the program to assist small entity compliance with agency regulations.
 
@@ -367,11 +367,11 @@
 
 > “SEC. 223. __RIGHTS OF SMALL ENTITIES IN ENFORCEMENT ACTIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each agency regulating the activities of small entities shall establish a policy or program within 1 year of enactment of this section \[Mar. 29, 1996\] to provide for the reduction, and under appropriate circumstances for the waiver, of civil penalties for violations of a statutory or regulatory requirement by a small entity. Under appropriate circumstances, an agency may consider ability to pay in determining penalty assessments on small entities.
 
->     “(b) __Conditions and Exclusions.—__ 
+>     “(b)  __Conditions and Exclusions__  __.—__ 
 
 >     Subject to the requirements or limitations of other statutes, policies or programs established under this section shall contain conditions or exclusions which may include, but shall not be limited to—
 
@@ -387,7 +387,7 @@
 
 >         “(6) requiring a good faith effort to comply with the law.
 
->     “(c) __Reporting.—__ 
+>     “(c)  __Reporting__  __.—__ 
 
 >     Agencies shall report to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] and Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Small Business and Committee on Judiciary of the House of Representatives no later than 2 years after the date of enactment of this section \[Mar. 29, 1996\] on the scope of their program or policy, the number of enforcement actions against small entities that qualified or failed to qualify for the program or policy, and the total amount of penalty reductions and waivers.
 
@@ -399,7 +399,7 @@
 
 [Pub. L. 101–574, title III, § 309][/us/pl/101/574/s309], Nov. 15, 1990, [104 Stat. 2831][/us/stat/104/2831], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Office of Technology Assessment shall conduct a study of the effects of deregulation on the economic vitality of rural areas. Such study shall include, but not be limited to, a thorough analysis of the impact of deregulation on—
 
@@ -415,7 +415,7 @@
 
 >         “(6) the availability and costs of services enumerated in paragraphs (1) through (5) in urban areas compared to rural areas.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this title \[Nov. 15, 1990\], the Office of Technology Assessment shall transmit to Congress a report on the results of the study conducted under subsection (a) together with its recommendations on how to address the problems facing small businesses in rural areas.”
 

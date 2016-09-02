@@ -115,7 +115,7 @@ June 11, 1946, ch. 324, § 7, 60 Stat. 241.  </td>
 
     1990—Subsec. (c)(6). [Pub. L. 101–552, § 4(a)(1)][/us/pl/101/552/s4/a/1], inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
 
-    Subsec. (c)(7) to (11). [Pub. L. 101–552, § 4(a)(2)][/us/pl/101/552/s4/a/2], added pars. (7) and (8) and redesignated former pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
+    Subsec. (c)(7) to (11). [Pub. L. 101–552, § 4(a)(2)][/us/pl/101/552/s4/a/2], added pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
 
     1978—Subsec. (b)(3). [Pub. L. 95–251][/us/pl/95/251] substituted “administrative law judges” for “hearing examiners”.
 

@@ -115,7 +115,7 @@
 
 [Pub. L. 103–424, § 13][/us/pl/103/424/s13], Oct. 29, 1994, [108 Stat. 4367][/us/stat/108/4367], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Office of Special Counsel shall, after consulting with the Office of Policy and Evaluation of the Merit Systems Protection Board, conduct an annual survey of all individuals who contact the Office of Special Counsel for assistance. The survey shall—
 
@@ -125,7 +125,7 @@
 
 >         “(3) determine if the individual, whether successful or not, was satisfied with the treatment received from the Office of Special Counsel.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The results of the survey conducted under subsection (a) shall be published in the annual report of the Office of Special Counsel.”
 

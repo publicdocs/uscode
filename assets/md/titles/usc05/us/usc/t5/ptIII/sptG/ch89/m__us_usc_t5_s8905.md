@@ -15,7 +15,15 @@
 
 ## § 8905. Election of coverage
 
-    (a) An employee may enroll in an approved health benefits plan described by section 8903 or 8903a of this title either as an individual or for self and family.
+    (a)
+
+     An employee may enroll in an approved health benefits plan described in section 8903 or 8903a—
+
+        (1) as an individual;
+
+        (2) for self plus one; or
+
+        (3) for self and family.
 
     (b)
 
@@ -47,17 +55,17 @@
 
             (B) in the case of a former spouse of a former employee whose marriage was dissolved after the employee’s retirement, within 60 days after the dissolution of the marriage or, if later, within 60 days after an election is made under section 8339(j)(3) or 8417(b) of this title for such former spouse by the retired employee,
 
-            enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for self and family as provided in paragraph (2) of this subsection, subject to agreement to pay the full subscription charge of the enrollment, including the amounts determined by the Office to be necessary for administration and reserves pursuant to [section 8909(b) of this title][/us/usc/t5/s8909/b]. The former spouse shall submit an enrollment application and make premium payments to the agency which, at the time of divorce or annulment, employed the employee to whom the former spouse was married or, in the case of a former spouse who is receiving annuity payments under section 8341(h), 8345(j), 8445, or 8467 of this title, to the Office of Personnel Management.
+            enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “for” probably should precede “self and family”. </sup></sup>  for self plus one or self and family as provided in paragraph (2) of this subsection, subject to agreement to pay the full subscription charge of the enrollment, including the amounts determined by the Office to be necessary for administration and reserves pursuant to [section 8909(b) of this title][/us/usc/t5/s8909/b]. The former spouse shall submit an enrollment application and make premium payments to the agency which, at the time of divorce or annulment, employed the employee to whom the former spouse was married or, in the case of a former spouse who is receiving annuity payments under section 8341(h), 8345(j), 8445, or 8467 of this title, to the Office of Personnel Management.
 
         (2)
 
-         Coverage for self and family under this subsection shall be limited to—
+         Coverage for self plus one or for self and family under this subsection shall be limited to—
 
             (A) the former spouse; and
 
             (B)
 
-             unmarried dependent natural or adopted children of the former spouse and the employee who are—
+             unmarried dependent natural or adopted children (or, in the case of self plus one coverage, not more than 1 such child) of the former spouse and the employee who are—
 
                 (i) under 22 years of age; or
 
@@ -65,7 +73,7 @@
 
     (d) An individual whom the Secretary of Defense determines is an eligible beneficiary under subsection (b) of [section 1108 of title 10][/us/usc/t10/s1108] may enroll, as part of the demonstration project under such section, in a health benefits plan under this chapter in accordance with the agreement under subsection (a) of such section between the Secretary and the Office and applicable regulations under this chapter.
 
-    (e) If an employee, annuitant, or other individual eligible to enroll in a health benefits plan under this chapter has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
+    (e) If an employee, annuitant, or other individual eligible to enroll in a health benefits plan under this chapter has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self and family, or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollment of the other spouse. However, an individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
 
     (f) An employee, annuitant, former spouse, or person having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a] enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.
 
@@ -93,13 +101,13 @@
 
     (h)
 
-        (1) An unenrolled employee who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may enroll for self and family coverage in a health benefits plan under this chapter. If such employee fails to enroll for self and family coverage in a health benefits plan that provides full benefits and services in the location in which the child resides, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall enroll the employee in a self and family enrollment in the option which provides the lower level of coverage under the Service Benefit Plan.
+        (1) An unenrolled employee who is required by a court or administrative order to provide health insurance coverage for 1 or more children who meets the requirements of section 8901(5) may enroll for self plus one or self and family coverage, as necessary to provide health insurance coverage for each child who is covered under the order, in a health benefits plan under this chapter. If such employee fails to enroll for self plus one or self and family coverage, as necessary to provide health insurance coverage for each child who is covered under the order, in a health benefits plan that provides full benefits and services in the location in which the child or children reside, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall enroll the employee in a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the option which provides the lower level of coverage under the Service Benefit Plan.
 
-        (2) An employee who is enrolled as an individual in a health benefits plan under this chapter and who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may change to a self and family enrollment in the same or another health benefits plan under this chapter. If such employee fails to change to a self and family enrollment and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall change the enrollment of the employee to a self and family enrollment in the plan in which the employee is enrolled if that plan provides full benefits and services in the location where the child resides. If the plan in which the employee is enrolled does not provide full benefits and services in the location in which the child resides, or, if the employee fails to change to a self and family enrollment in a plan that provides full benefits and services in the location where the child resides, the employing agency shall change the coverage of the employee to a self and family enrollment in the option which provides the lower level of coverage under the Service Benefits Plan.
+        (2) An employee who is enrolled as an individual in a health benefits plan under this chapter and who is required by a court or administrative order to provide health insurance coverage for 1 or more children who meets the requirements of section 8901(5) may change to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the same or another health benefits plan under this chapter. If such employee fails to change to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall change the enrollment of the employee to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the plan in which the employee is enrolled if that plan provides full benefits and services in the location where the child or children reside. If the plan in which the employee is enrolled does not provide full benefits and services in the location in which the child or children reside, or, if the employee fails to change to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in a plan that provides full benefits and services in the location where the child or children reside, the employing agency shall change the coverage of the employee to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the option which provides the lower level of coverage under the Service Benefits Plan.
 
-        (3) The employee may not discontinue the self and family enrollment in a plan that provides full benefits and services in the location in which the child resides for so long as the court or administrative order remains in effect and the child continues to meet the requirements of section 8901(5), unless the employee provides documentation showing that such coverage has been provided through other health insurance.
+        (3) The employee may not discontinue the self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in a plan that provides full benefits and services in the location in which the child or children reside for so long as the court or administrative order remains in effect and the child or children continue to meet the requirements of section 8901(5), unless the employee provides documentation showing that such coverage has been provided through other health insurance.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 603][/us/stat/80/603]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615, § 3(4)][/us/pl/98/615/s3/4], Nov. 8, 1984, [98 Stat. 3203][/us/stat/98/3203]; [Pub. L. 99–53, § 2(a)][/us/pl/99/53/s2/a], (c), June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 99–251, title I][/us/pl/99/251], §§ 103, 104(a), Feb. 27, 1986, [100 Stat. 14][/us/stat/100/14]; [Pub. L. 99–335, title II, § 207(m)][/us/pl/99/335/s207/m], June 6, 1986, [100 Stat. 598][/us/stat/100/598]; [Pub. L. 100–654, title II][/us/pl/100/654], §§ 201(c), (d), 202(c), Nov. 14, 1988, [102 Stat. 3845][/us/stat/102/3845]; [Pub. L. 102–378, § 2(77)][/us/pl/102/378/s2/77], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 105–261, div. A, title VII, § 721(b)(1)][/us/pl/105/261/s721/b/1], Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 106–394, § 2][/us/pl/106/394/s2], Oct. 30, 2000, [114 Stat. 1629][/us/stat/114/1629].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 603][/us/stat/80/603]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615, § 3(4)][/us/pl/98/615/s3/4], Nov. 8, 1984, [98 Stat. 3203][/us/stat/98/3203]; [Pub. L. 99–53, § 2(a)][/us/pl/99/53/s2/a], (c), June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 99–251, title I][/us/pl/99/251], §§ 103, 104(a), Feb. 27, 1986, [100 Stat. 14][/us/stat/100/14]; [Pub. L. 99–335, title II, § 207(m)][/us/pl/99/335/s207/m], June 6, 1986, [100 Stat. 598][/us/stat/100/598]; [Pub. L. 100–654, title II][/us/pl/100/654], §§ 201(c), (d), 202(c), Nov. 14, 1988, [102 Stat. 3845][/us/stat/102/3845]; [Pub. L. 102–378, § 2(77)][/us/pl/102/378/s2/77], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 105–261, div. A, title VII, § 721(b)(1)][/us/pl/105/261/s721/b/1], Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 106–394, § 2][/us/pl/106/394/s2], Oct. 30, 2000, [114 Stat. 1629][/us/stat/114/1629]; [Pub. L. 113–67, div. A, title VII, § 706(a)][/us/pl/113/67/s706/a], Dec. 26, 2013, [127 Stat. 1193][/us/stat/127/1193].)
 
 <table>
 
@@ -171,6 +179,22 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 
  __Amendments__ 
 
+    2013—Subsec. (a). [Pub. L. 113–67, § 706(a)(1)][/us/pl/113/67/s706/a/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “An employee may enroll in an approved health benefits plan described by section 8903 or 8903a of this title either as an individual or for self and family.”
+
+    Subsec. (c)(1). [Pub. L. 113–67, § 706(a)(2)(A)][/us/pl/113/67/s706/a/2/A], inserted “for self plus one or” before “self and family as provided in paragraph (2) of this subsection” in concluding provisions.
+
+    Subsec. (c)(2). [Pub. L. 113–67, § 706(a)(2)(B)(i)][/us/pl/113/67/s706/a/2/B/i], inserted “for self plus one or” before “for self and family” in introductory provisions.
+
+    Subsec. (c)(2)(B). [Pub. L. 113–67, § 706(a)(2)(B)(ii)][/us/pl/113/67/s706/a/2/B/ii], inserted “(or, in the case of self plus one coverage, not more than 1 such child)” after “adopted children”.
+
+    Subsec. (e). [Pub. L. 113–67, § 706(a)(3)][/us/pl/113/67/s706/a/3], substituted “or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollment of the other spouse” for “or each spouse may enroll as an individual”.
+
+    Subsec. (h). [Pub. L. 113–67, § 706(a)(4)(A)][/us/pl/113/67/s706/a/4/A]–(C), substituted “self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family enrollment”, “1 or more children” for “a child”, and “the child or children reside” for “the child resides” wherever appearing.
+
+    Subsec. (h)(1). [Pub. L. 113–67, § 706(a)(4)(D)][/us/pl/113/67/s706/a/4/D], substituted “self plus one or self and family coverage, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family coverage” in two places.
+
+    Subsec. (h)(3). [Pub. L. 113–67, § 706(a)(4)(E)][/us/pl/113/67/s706/a/4/E], substituted “the child or children continue” for “the child continues”.
+
     2000—Subsec. (h). [Pub. L. 106–394][/us/pl/106/394] added subsec. (h).
 
     1998—Subsecs. (d) to (g). [Pub. L. 105–261][/us/pl/105/261] added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
@@ -225,15 +249,21 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 
     Amendment by [Pub. L. 95–454][/us/pl/95/454] effective 90 days after Oct. 13, 1978, see [section 907 of Pub. L. 95–454][/us/pl/95/454/s907], set out as a note under [section 1101 of this title][/us/usc/t5/s1101].
 
+ __Weighted Average for First Year__ 
+
+[Pub. L. 113–67, div. A, title VII, § 706(d)][/us/pl/113/67/s706/d], Dec. 26, 2013, [127 Stat. 1194][/us/stat/127/1194], provided that: 
+
+> “For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code \[[5 U.S.C. 8901][/us/usc/t5/s8901] et seq.\], the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis.”
+
  __Election of Health Benefits Coverage and Entitlement to Health Benefits Under this Chapter Rather Than Under Retired Federal Employees Health Benefits Act__ 
 
 [Pub. L. 93–246][/us/pl/93/246], §§ 2, 4(b), Jan. 31, 1974, [88 Stat. 4][/us/stat/88/4], provided that:
 
 > “Sec. 2.
 
->      (a) Notwithstanding any other provision of law, an annuitant, as defined under [section 8901(3) of title 5][/us/usc/t5/s8901/3], United States Code, who is participating or who is eligible to participate in the health benefits program offered under the Retired Federal Employees Health Benefits Act ([74 Stat. 849][/us/stat/74/849]; [Public Law 86–724][/us/pl/86/724]), may elect, in accordance with regulations prescribed by the United States Civil Service Commission, to be covered under the provisions of chapter 89 of title 5, United States Code \[this chapter\], in lieu of coverage under such Act.
+>      (a) Notwithstanding any other provision of law, an annuitant, as defined under [section 8901(3) of title 5][/us/usc/t5/s8901/3], United States Code, who is participating or who is eligible to participate in the health benefits program offered under the Retired Federal Employees Health Benefits Act ([74 Stat. 849][/us/stat/74/849]; [Public Law 86–724][/us/pl/86/724]), may elect, in accordance with regulations prescribed by the United States Civil Service Commission, to be covered under the provisions of chapter 89 of title 5, United States Code \[[5 U.S.C. 8901][/us/usc/t5/s8901] et seq.\], in lieu of coverage under such Act.
 
->     “(b) An annuitant who elects to be covered under the provisions of chapter 89 of title 5, United States Code \[this chapter\], in accordance with subsection (a) of this section, shall be entitled to the benefits under such chapter 89.
+>     “(b) An annuitant who elects to be covered under the provisions of chapter 89 of title 5, United States Code, in accordance with subsection (a) of this section, shall be entitled to the benefits under such chapter 89.
 
 > “\[Sec. 4\]
 
@@ -273,6 +303,16 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 [/us/stat/112/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2065
 [/us/pl/106/394/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394%2Fs2
 [/us/stat/114/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1629
+[/us/pl/113/67/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa
+[/us/stat/127/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1193
+[/us/pl/113/67/s706/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F1
+[/us/pl/113/67/s706/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F2%2FA
+[/us/pl/113/67/s706/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F2%2FB%2Fi
+[/us/pl/113/67/s706/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F2%2FB%2Fii
+[/us/pl/113/67/s706/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F3
+[/us/pl/113/67/s706/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F4%2FA
+[/us/pl/113/67/s706/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F4%2FD
+[/us/pl/113/67/s706/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F4%2FE
 [/us/pl/106/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/102/378/s2/77/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F77%2FA
@@ -307,10 +347,14 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
+[/us/pl/113/67/s706/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fd
+[/us/stat/127/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1194
+[/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
 [/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
 [/us/stat/88/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F4
 [/us/usc/t5/s8901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F3
 [/us/stat/74/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F849
 [/us/pl/86/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F724
+[/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
 
 

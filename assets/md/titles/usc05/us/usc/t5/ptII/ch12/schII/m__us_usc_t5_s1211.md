@@ -35,7 +35,7 @@
 
 [Pub. L. 110–409, § 7(b)][/us/pl/110/409/s7/b], Oct. 14, 2008, [122 Stat. 4312][/us/stat/122/4312], provided that:
 
->     “(1) __Definitions.—__ 
+>     “(1)  __Definitions__  __.—__ 
 
 >     In this section \[enacting [section 11 of Pub. L. 95–452][/us/pl/95/452/s11], set out in the Appendix to this title, amending sections 2, 4, and 8G of [Pub. L. 95–452][/us/pl/95/452] and [section 1105 of Title 31][/us/usc/t31/s1105], Money and Finance, renumbering sections 11 and 12 of [Pub. L. 95–452][/us/pl/95/452] as 12 and 13, respectively, of [Pub. L. 95–452][/us/pl/95/452], enacting provisions set out as a note under [section 11 of Pub. L. 95–452][/us/pl/95/452/s11], and amending provisions set out as notes under [section 3 of Pub. L. 95–452][/us/pl/95/452/s3] and [section 501 of Title 31][/us/usc/t31/s501]\]—
 
@@ -45,15 +45,15 @@
 
 >     “(2) __Authority of integrity committee.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         An allegation of wrongdoing against the Special Counsel or the Deputy Special Counsel may be received, reviewed, and referred for investigation by the Integrity Committee to the same extent and in the same manner as in the case of an allegation against an Inspector General (or a member of the staff of an Office of Inspector General), subject to the requirement that the Special Counsel recuse himself or herself from the consideration of any allegation brought under this paragraph.
 
->         “(B) __Coordination with existing provisions of law.—__ 
+>         “(B)  __Coordination with existing provisions of law__  __.—__ 
 
 >         This subsection does not eliminate access to the Merit Systems Protection Board for review under [section 7701 of title 5][/us/usc/t5/s7701], United States Code. To the extent that an allegation brought under this subsection involves section 2302(b)(8) of that title, a failure to obtain corrective action within 120 days after the date on which that allegation is received by the Integrity Committee shall, for purposes of section 1221 of such title, be considered to satisfy section 1214(a)(3)(B) of that title.
 
->     “(3) __Regulations.—__ 
+>     “(3)  __Regulations__  __.—__ 
 
 >     The Integrity Committee may prescribe any rules or regulations necessary to carry out this subsection, subject to such consultation or other requirements as might otherwise apply.”
 

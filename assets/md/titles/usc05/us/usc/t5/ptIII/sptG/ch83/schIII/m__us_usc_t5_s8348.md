@@ -407,15 +407,15 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
 >     “(1) __In general.—__ 
 
->         “(A) __Request for review.—__ 
+>         “(A)  __Request for review__  __.—__ 
 
 >         Notwithstanding any other provision of this section \[amending this section and [section 8334 of this title][/us/usc/t5/s8334]\] (including any amendment made by this section), any determination or redetermination made by the Office of Personnel Management under this section (including any amendment made by this section) shall, upon request of the United States Postal Service, be subject to a review by the Postal Regulatory Commission under this subsection.
 
->         “(B) __Report.—__ 
+>         “(B)  __Report__  __.—__ 
 
 >         Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of pension obligations, to conduct a review in accordance with generally accepted actuarial practices and principles and to provide a report to the Commission containing the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
 
->     “(2) __Reconsideration.—__ 
+>     “(2)  __Reconsideration__  __.—__ 
 
 >     Upon receiving the report from the Commission under paragraph (1), the Office of Personnel Management shall reconsider its determination or redetermination in light of such report, and shall make any appropriate adjustments. The Office shall submit a report containing the results of its reconsideration to the Commission, the Postal Service, and Congress.”
 

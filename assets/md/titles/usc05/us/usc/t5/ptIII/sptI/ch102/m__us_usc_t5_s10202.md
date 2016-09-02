@@ -15,7 +15,7 @@
 
 ## § 10202. Authorities
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary is authorized to—
 
@@ -27,11 +27,11 @@
 
         (4) determine the rate of basic pay of a member who is changed or demoted to a lower rank, in accordance with section 10208.
 
-    (b) __Delegation of Authority.—__ 
+    (b)  __Delegation of Authority__  __.—__ 
 
     The Secretary is authorized to delegate to the designated agent or agents of the Secretary, any power or function vested in the Secretary under in  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  this chapter.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Secretary may prescribe such regulations as may be necessary to administer this chapter.
 

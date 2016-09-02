@@ -347,7 +347,7 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 
 [Pub. L. 108–136, div. A, title XI, § 1114][/us/pl/108/136/s1114], Nov. 24, 2003, [117 Stat. 1635][/us/stat/117/1635], provided that:
 
->     “(a) __Restoration of Annual Leave.—__ 
+>     “(a)  __Restoration of Annual Leave__  __.—__ 
 
 >     During the period October 1, 1992, through December 31, 1997, all employees transferring from a closing or realigning Department of Defense installation or activity as defined under [section 6304(d)(3) of title 5][/us/usc/t5/s6304/d/3], United States Code, to another Department of Defense installation or activity—
 
@@ -355,7 +355,7 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 
 >         “(2) may be deemed by the Secretary of Defense to have used all forfeited annual leave properly restored under [section 6304(d)(3) of title 5][/us/usc/t5/s6304/d/3], United States Code, within the appropriate time limits, only if such restored annual leave was used by the employee or paid to the employee in the form of a lump sum payment under [section 5551(a) of title 5][/us/usc/t5/s5551/a], United States Code, by the last day of the 2001 leave year.
 
->     “(b) __Payment of Restored Annual Leave.—__ 
+>     “(b)  __Payment of Restored Annual Leave__  __.—__ 
 
 >         (1)
 

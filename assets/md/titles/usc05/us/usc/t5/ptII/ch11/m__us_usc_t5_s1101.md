@@ -111,21 +111,21 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
 [Pub. L. 108–458, title VIII, § 8403(b)][/us/pl/108/458/s8403/b], Dec. 17, 2004, [118 Stat. 3870][/us/stat/118/3870], as amended by [Pub. L. 111–283, § 2(c)(2)][/us/pl/111/283/s2/c/2], Oct. 15, 2010, [124 Stat. 3048][/us/stat/124/3048], provided that:
 
->     “(1) __Definition.—__ 
+>     “(1)  __Definition__  __.—__ 
 
 >     In this section, the term ‘major party’ has the meaning given that term under section 9002(6) of the Internal Revenue Code of 1986 \[[26 U.S.C. 9002(6)][/us/usc/t26/s9002/6]\].
 
 >     “(2) __Transmittal.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than 15 days after the date on which a major party nominates a candidate for President, the Office of Personnel Management shall transmit an electronic record to that candidate on Presidentially appointed positions.
 
->         (B) __Other candidates.—__ 
+>         (B)  __Other candidates__  __.—__ 
 
 >         After making transmittals under subparagraph (A), the Office of Personnel Management shall transmit such electronic record to any other candidate for President who is an eligible candidate described in section 3(h)(4)(B) of the Presidential Transition Act of 1963 \[[Pub. L. 88–277][/us/pl/88/277]\] ([3 U.S.C. 102][/us/usc/t3/s102] note) and may transmit such electronic record to any other candidate for President.
 
->     “(3) __Content.—__ 
+>     “(3)  __Content__  __.—__ 
 
 >     The record transmitted under this subsection shall provide—
 
@@ -143,7 +143,7 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
 [Pub. L. 108–136, div. A, title IX, § 906][/us/pl/108/136/s906], Nov. 24, 2003, [117 Stat. 1561][/us/stat/117/1561], provided that:
 
->     “(a) __Transfer of Functions.—__ 
+>     “(a)  __Transfer of Functions__  __.—__ 
 
 >         (1) Subject to subsection (b), the Secretary of Defense may transfer to the Office of Personnel Management the personnel security investigations functions that, as of the date of the enactment of this Act \[Nov. 24, 2003\], are performed by the Defense Security Service of the Department of Defense. Such a transfer may be made only with the concurrence of the Director of the Office of Personnel Management.
 
@@ -151,7 +151,7 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
 >         “(3) Any transfer of a function under this subsection is a transfer of function within the meaning of [section 3503 of title 5][/us/usc/t5/s3503], United States Code.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >         (1) The Secretary of Defense may not make a transfer of functions under subsection (a) unless the Secretary determines, and certifies in writing to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate, that each of the conditions specified in paragraph (2) has been met. Such a transfer may then be made only after a period of 30 days has elapsed after the date on which the certification is received by those committees.
 
@@ -169,7 +169,7 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
 >             “(E) That the Department of Defense will retain within the Defense Security Service sufficient personnel and capabilities to improve Department of Defense industrial security programs and practices.
 
->     “(c) __Transfer of Personnel.—__ 
+>     “(c)  __Transfer of Personnel__  __.—__ 
 
 >         (1)
 
@@ -201,7 +201,7 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
 >             “(B) the employee may not be separated, other than pursuant to chapter 75 of title 5, United States Code, during such one-year period.
 
->     “(d) __Actions After Transfer.—__ 
+>     “(d)  __Actions After Transfer__  __.—__ 
 
 >         (1) Not later than one year after a transfer of functions to the Office of Personnel Management under subsection (a), the Director of the Office of Personnel Management, in coordination with the Secretary of Defense, shall review all functions performed by personnel of the Defense Security Service at the time of the transfer and make a written determination regarding whether each such function is inherently governmental or is otherwise inappropriate for performance by contractor personnel.
 
@@ -217,15 +217,15 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
 [Pub. L. 108–136, div. A, title XI, § 1127][/us/pl/108/136/s1127], Nov. 24, 2003, [117 Stat. 1640][/us/stat/117/1640], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, an agency or other employing entity of the Government which provides or plans to provide a flexible spending account option for its employees shall not impose any fee with respect to any of its employees in order to defray the administrative costs associated therewith.
 
->     “(b) __Offset of Administrative Costs.—__ 
+>     “(b)  __Offset of Administrative Costs__  __.—__ 
 
 >     Each such agency or employing entity that offers a flexible spending account option under a program established or administered by the Office of Personnel Management shall periodically forward to such Office, or entity designated by such Office, the amount necessary to offset the administrative costs of such program which are attributable to such agency.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >         (1) The Office shall submit a report to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate no later than March 31, 2004, specifying the administrative costs associated with the Governmentwide program (referred to in subsection (b)) for fiscal year 2003, as well as the projected administrative costs of such program for each of the 5 fiscal years thereafter.
 

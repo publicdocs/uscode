@@ -15,7 +15,7 @@
 
 ## § 7906. Services of post-combat case coordinators
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -23,11 +23,11 @@
 
         (2) the term “qualified employee” means an employee as described in subsection (b).
 
-    (b) __Requirement.—__ 
+    (b)  __Requirement__  __.—__ 
 
     The head of each agency shall, in a manner consistent with the guidelines prescribed under subsection (c), provide for the assignment of a post-combat case coordinator in the case of any employee of such agency who suffers an injury or disability incurred, or an illness contracted, while in the performance of such employee’s duties, as a result of a war-risk hazard or during or as a result of capture, detention, or other restraint by a hostile force or individual.
 
-    (c) __Guidelines.—__ 
+    (c)  __Guidelines__  __.—__ 
 
     The Office of Personnel Management shall, after such consultation as the Office considers appropriate, prescribe guidelines for the operation of this section. Under the guidelines, the responsibilities of a post-combat case coordinator shall include—
 
@@ -47,7 +47,7 @@
 
             (B) for suicidal or homicidal thoughts or behaviors.
 
-    (d) __Duration.—__ 
+    (d)  __Duration__  __.—__ 
 
     The services of a post-combat case coordinator shall remain available to a qualified employee until—
 

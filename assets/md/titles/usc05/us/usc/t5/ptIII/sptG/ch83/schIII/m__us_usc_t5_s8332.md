@@ -869,27 +869,27 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >         “(A) __Amendments relating to csrs.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The amendments made by subsection (a) \[amending this section and [section 8334 of this title][/us/usc/t5/s8334]\] shall apply with respect to any individual entitled to an annuity on the basis of a separation from service occurring on or after the effective date of this subtitle \[Oct. 1, 1993\].
 
->             “(ii) __Rules relating to annuities based on earlier separations.—__ 
+>             “(ii)  __Rules relating to annuities based on earlier separations__  __.—__ 
 
 >             An annuity under subchapter III of chapter 83 of title 5, United States Code, payable to an individual based on a separation from service occurring before the effective date of this subtitle shall be subject to the provisions of paragraph (2).
 
 >         “(B) __Amendments relating to fers.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The amendments made by subsection (b) \[amending sections 8411 and 8422 of this title\] shall apply with respect to any individual entitled to an annuity on the basis of a separation from service occurring before, on, or after the effective date of this subtitle \[Oct. 1, 1993\], subject to clause (ii).
 
->             “(ii) __Rule relating to annuities based on earlier separations.—__ 
+>             “(ii)  __Rule relating to annuities based on earlier separations__  __.—__ 
 
 >             In the case of any individual whose entitlement to an annuity is based on a separation from service occurring before the effective date of this subtitle, any increase in such individual’s annuity on the basis of a deposit made under [section 8442(f) of title 5][/us/usc/t5/s8442/f], United States Code, as amended by subsection (b)(2), shall be effective beginning with the annuity payment payable for the first calendar month beginning after the effective date of this subtitle.
 
 >     “(2) __Special rules.—__ 
 
->         “(A) __Old-age or survivors insurance benefits.—__ 
+>         “(A)  __Old-age or survivors insurance benefits__  __.—__ 
 
 >         Subject to subparagraph (B), in any case in which an individual described in paragraph (1)(A)(ii) is also entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] (or would be entitled to such benefits upon filing an application therefor), the amount of the annuity to which such individual is entitled under subchapter III of chapter 83 of title 5, United States Code (after taking into account any creditable service as a volunteer or volunteer leader under the Economic Opportunity Act of 1964 \[[42 U.S.C. 2701][/us/usc/t42/s2701] et seq.\], the Domestic Volunteer Service Act of 1973 \[[42 U.S.C. 4950][/us/usc/t42/s4950] et seq.\], or the Peace Corps Act \[[22 U.S.C. 2501][/us/usc/t22/s2501] et seq.\]) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors insurance benefit for the determination month by a fraction—
 
@@ -899,15 +899,15 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >         “(B) __Limitations.—__ 
 
->             “(i) __Reduction in annuity.—__ 
+>             “(i)  __Reduction in annuity__  __.—__ 
 
 >             Subparagraph (A) shall not reduce the annuity of an individual below the amount of the annuity which would be payable to the individual for the determination month if the provisions of [section 8332(j) of title 5][/us/usc/t5/s8332/j], United States Code, relating to service as a volunteer or volunteer leader, applied to the individual for such month.
 
->             “(ii) __Application.—__ 
+>             “(ii)  __Application__  __.—__ 
 
 >             Subparagraph (A) shall not apply in the case of an individual who, prior to the date of enactment of this Act \[Sept. 21, 1993\], made a deposit under [section 8334(c) of title 5][/us/usc/t5/s8334/c], United States Code, with respect to service as a volunteer or volunteer leader (as described in subparagraph (A)).
 
->             “(iii) __Determination month.—__ 
+>             “(iii)  __Determination month__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘determination month’ means—
 
@@ -915,15 +915,15 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >                 “(II) the first calendar month beginning after the date of enactment of this Act \[Sept. 21, 1993\], in the case of any individual entitled to such benefits for such month.
 
->             “(iv) __Rule relating to annuities based on earlier separations.—__ 
+>             “(iv)  __Rule relating to annuities based on earlier separations__  __.—__ 
 
 >             Any increase in an annuity which occurs by virtue of the enactment of this paragraph shall be effective beginning with the annuity payment payable for the first calendar month beginning after the effective date of this subtitle \[Oct. 1, 1993\].
 
->     “(3) __Furnishing of information.—__ 
+>     “(3)  __Furnishing of information__  __.—__ 
 
 >     The Secretary of Health and Human Services shall furnish such information to the Office of Personnel Management as may be necessary to carry out this subsection.
 
->     “(4) __Action to inform individuals.—__ 
+>     “(4)  __Action to inform individuals__  __.—__ 
 
 >     The Director of the Office of Personnel Management shall take such action as may be necessary and appropriate to inform individuals entitled to credit under this section for service as a volunteer or volunteer leader, or to have any annuity recomputed, or to make a deposit under this section, of such entitlement.”
 
@@ -947,7 +947,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >     “(1) __General rule.—__ 
 
->         “(A) __Eligibility.—__ 
+>         “(A)  __Eligibility__  __.—__ 
 
 >         Except as provided in paragraph (2), the amendment made by section 1 \[amending this section\] applies only with respect to individuals who—
 
@@ -955,7 +955,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >             “(ii) make an appropriate deposit, in accordance with section 8334(c) or 8411(f) of title 5, United States Code (as appropriate), for additional service that is creditable under such amendment.
 
->         “(B) __Deposit.—__ 
+>         “(B)  __Deposit__  __.—__ 
 
 >         Any such deposit—
 
@@ -965,7 +965,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >     “(2) __Exception.—__ 
 
->         “(A) __Rule for individuals separating after__  __december 31, 1968__  __, and before the enactment of this act.—__ 
+>         “(A)  __Rule for individuals separating after __  __december 31, 1968__  __, and before the enactment of this act__  __.—__ 
 
 >         In the case of any individual who—
 
@@ -975,11 +975,11 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >             any annuity under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, based on such individual’s service (as defined in section 8331(12) or 8401(26) of such title, as applicable) shall be determined or redetermined to take into account the amendment made by section 1 \[amending this section\], if application therefor is received by the Office of Personnel Management within 1 year after the date of enactment of this Act, and an appropriate deposit is made for any additional service that is creditable under such amendment. Any such deposit shall be computed, and must be paid either in a lump sum at the time of application or in installments over the 2-year period which begins on the date of application, or such shorter period as the Office may by regulation prescribe.
 
->         “(B) __Earlier payments not affected by recomputation.—__ 
+>         “(B)  __Earlier payments not affected by recomputation__  __.—__ 
 
 >         Any change in an annuity resulting from a redetermination under subparagraph (A) shall apply only with respect to monthly payments accruing after the date the deposit required under subparagraph (A) is made (or, if payments are to be made in installments, after an agreement has been entered into regarding the manner in which such payments will be made).
 
->     “(3) __Payment by survivors.—__ 
+>     “(3)  __Payment by survivors__  __.—__ 
 
 >     For the purpose of survivor annuities, any deposit or installment payment required by paragraph (1) or (2) relating to service of an individual may also be made by a survivor of such individual.”
 
@@ -1097,7 +1097,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >     “(a) __Retirement Credit.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any individual who is treated as an employee of the Federal Government for purposes of chapter 83 or chapter 84 of title 5, United States Code, on or after the date of enactment of this Act \[Oct. 28, 2009\] who performed qualifying District of Columbia service shall be entitled to have such service included in calculating the individual’s creditable service under section 8332 or 8411 of title 5, United States Code, but only for purposes of the following provisions of such title:
 
@@ -1113,15 +1113,15 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >             “(F) Section 8337 and subchapter V of chapter 84 (relating to disability benefits).
 
->         “(2) __Treatment of detention officer service as law enforcement officer service.—__ 
+>         “(2)  __Treatment of detention officer service as law enforcement officer service__  __.—__ 
 
 >         Any portion of an individual’s qualifying District of Columbia service which consisted of service as a detention officer under section 2604(2) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (sec. 1-626.04(2), D.C. Official Code) shall be treated as service as a law enforcement officer under sections 8331(20) or 8401(17) of title 5, United States Code, for purposes of applying paragraph (1) with respect to the individual.
 
->         “(3) __Service not included in computing amount of any annuity.—__ 
+>         “(3)  __Service not included in computing amount of any annuity__  __.—__ 
 
 >         Qualifying District of Columbia service shall not be taken into account for purposes of computing the amount of any benefit payable out of the Civil Service Retirement and Disability Fund.
 
->     “(b) __Qualifying District of Columbia Service Defined.—__ 
+>     “(b)  __Qualifying District of Columbia Service Defined__  __.—__ 
 
 >     In this section, ‘qualifying District of Columbia service’ means any of the following:
 
@@ -1157,7 +1157,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >             “(B) for which the individual did not ever receive credit under the provisions of subchapter III of chapter 83 or chapter 84 of title 5, United States Code (other than by virtue of section 8331(1)(iv) of such title).
 
->     “(c) __Certification of Service.—__ 
+>     “(c)  __Certification of Service__  __.—__ 
 
 >     The Office of Personnel Management shall accept the certification of the appropriate personnel official of the government of the District of Columbia or other independent employing entity concerning whether an individual performed qualifying District of Columbia service and the length of the period of such service the individual performed.”
 
@@ -1167,7 +1167,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >     “(1) __Service of employees of legislative service organizations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to succeeding provisions of this paragraph, upon application to the Office of Personnel Management in such form and manner as the Office shall prescribe, any individual who performed service as an employee of a legislative service organization of the House of Representatives (as defined and authorized in the One Hundred Third Congress) and whose pay was paid in whole or in part by a source other than the Clerk Hire account of a Member of the House of Representatives (other than an individual described in paragraph (6)) shall be entitled—
 
@@ -1175,7 +1175,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >             “(ii) to have all pay for such service which was so paid by a source other than the Clerk Hire account of a Member included (in addition to any amounts otherwise included in basic pay) for purposes of computing an annuity payable out of the Civil Service Retirement and Disability Fund.
 
->         “(B) __Deposit requirement.—__ 
+>         “(B)  __Deposit requirement__  __.—__ 
 
 >         In order to be eligible for the benefits described in subparagraph (A), an individual shall be required to pay into the Civil Service Retirement and Disability Fund an amount equal to the difference between—
 
@@ -1185,7 +1185,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >             The amount required under this subparagraph shall include interest, which shall be computed under [section 8334(e) of title 5][/us/usc/t5/s8334/e], United States Code.
 
->         “(C) __Certain offsets required in order to prevent double contributions and benefits.—__ 
+>         “(C)  __Certain offsets required in order to prevent double contributions and benefits__  __.—__ 
 
 >         In the case of any period of service as an employee of a legislative service organization which constituted employment for purposes of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]—
 
@@ -1193,37 +1193,37 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >             “(ii) any retirement benefits under subchapter III of chapter 83 of title 5, United States Code, shall be subject to offset (to reflect that portion of benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] attributable to pay referred to in subparagraph (A)) similar to that provided for under section 8349 of such title.
 
->     “(2) __Survivor annuitants.—__ 
+>     “(2)  __Survivor annuitants__  __.—__ 
 
 >     For purposes of survivor annuities, an application authorized by this section may, in the case of an individual under paragraph (1) who has died, be made by a survivor of such individual.
 
->     “(3) __Recomputation of annuities.—__ 
+>     “(3)  __Recomputation of annuities__  __.—__ 
 
 >     Any annuity or survivor annuity payable as of when an individual makes the deposit required under paragraph (1) shall be recomputed to take into account the crediting of service under such paragraph for purposes of amounts accruing for any period beginning on or after the date on which the individual makes the deposit.
 
->     “(4) __Certification of speaker.—__ 
+>     “(4)  __Certification of speaker__  __.—__ 
 
 >     The Office of Personnel Management shall accept the certification of the Speaker of the House of Representatives (or the Speaker’s designee) concerning the service of, and the amount of compensation received by, an employee with respect to whom credit is to be sought under this subsection.
 
 >     “(5) __Notification and other duties of the office of personnel management.—__ 
 
->         “(A) __Notice.—__ 
+>         “(A)  __Notice__  __.—__ 
 
 >         The Office of Personnel Management shall take such action as may be necessary and appropriate to inform individuals of any rights they might have as a result of enactment of this subsection.
 
->         “(B) __Assistance.—__ 
+>         “(B)  __Assistance__  __.—__ 
 
 >         The Office shall, on request, assist any individual in obtaining from any department, agency, or other instrumentality of the United States any information in the possession of such instrumentality which may be necessary to verify the entitlement of such individual to have any service credited under this subsection or to have an annuity recomputed under paragraph (3).
 
->         “(C) __Information.—__ 
+>         “(C)  __Information__  __.—__ 
 
 >         Any department, agency, or other instrumentality of the United States which possesses any information with respect to an individual’s performance of any service described in paragraph (1) shall, at the request of the office, furnish such information to the Office.
 
->     “(6) __Exclusion of certain employees.—__ 
+>     “(6)  __Exclusion of certain employees__  __.—__ 
 
 >     An individual is not eligible for credit under this subsection if the individual served as an employee of the House of Representatives for an aggregate period of 5 years or longer after the individual’s final period of service as an employee of a legislative service organization of the House of Representatives.
 
->     “(7) __Member defined.—__ 
+>     “(7)  __Member defined__  __.—__ 
 
 >     In this subsection, the term ‘Member of the House of Representatives’ includes a Delegate or Resident Commissioner to Congress.”
 
@@ -1231,11 +1231,11 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 [Pub. L. 104–88, title I, § 105][/us/pl/104/88/s105], Dec. 29, 1995, [109 Stat. 920][/us/stat/109/920], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     An employee of the Interstate Commerce Commission who is separated from Government service pursuant to the abolition of that agency under section 101 \[[49 U.S.C. 701][/us/usc/t49/s701] note\] shall, upon appropriate written application, be given credit, for purposes of determining eligibility for and computing the amount of any annuity under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, for accrued annual leave standing to such employee’s credit at the time of separation.
 
->     “(b) __Limitation and Other Conditions.—__ 
+>     “(b)  __Limitation and Other Conditions__  __.—__ 
 
 >     Any regulations necessary to carry out this section shall be prescribed by the Office of Personnel Management. Such regulations shall include provisions—
 
@@ -1253,7 +1253,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >         “(4) under which subsection (a) shall not apply with respect to an employee who declines a reasonable offer of employment in another position in the Department of Transportation made under this Act \[see Tables for classification\] or any amendment made by this Act.
 
->     “(c) __Extinguishment of Eligibility for Lump-Sum Payment.—__ 
+>     “(c)  __Extinguishment of Eligibility for Lump-Sum Payment__  __.—__ 
 
 >     A lump-sum payment under [section 5551 of title 5][/us/usc/t5/s5551], United States Code, shall not be payable with respect to any leave for which retirement credit is obtained under this section.”
 
@@ -1265,7 +1265,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >     “(a) __In General.—__ 
 
->         “(1) __Conditions for receiving credit.—__ 
+>         “(1)  __Conditions for receiving credit__  __.—__ 
 
 >         Subject to the making of a deposit under [section 8334(c) of title 5][/us/usc/t5/s8334/c], United States Code, upon application to the Office of Personnel Management within 2 years after the date of the enactment of this Act \[Jan. 8, 1988\], any individual who is an employee (as defined by section 8331(1) or 8401(11) of such title) on such date shall be allowed credit under subchapter III of chapter 83 of such title for any service if such service was performed—
 
@@ -1275,7 +1275,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >         “(2) __Certification.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Office shall, with respect to any service for which credit is sought under this subsection, accept the certification of the head of the agency which was party to the contract referred to in paragraph (1)(B), but only if such certification—
 
@@ -1283,11 +1283,11 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >                 “(ii) indicates the period of service which was performed under the contract by the individual involved, and includes copies of appropriate records or other documentation to support the determination as to the length of such period.
 
->             “(B) __Finality.—__ 
+>             “(B)  __Finality__  __.—__ 
 
 >             A decision by an agency head concerning whether or not to make a certification under this paragraph in any particular instance shall be at the sole discretion of the agency head, and shall not be subject to administrative or judicial review.
 
->         “(3) __Exception.—__ 
+>         “(3)  __Exception__  __.—__ 
 
 >         Nothing in this subsection shall apply with respect to any service performed under—
 
@@ -1301,7 +1301,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >     “(b) __Applicability to Annuitants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of any individual who—
 
@@ -1311,7 +1311,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >             any annuity under such subchapter based on the service of such individual shall be redetermined to take into account the amendment made by subsection (a) if application therefor is made, and the deposit requirement under such subsection is met, within 2 years after the date of the enactment of this Act.
 
->         “(2) __Amounts to which applicable.—__ 
+>         “(2)  __Amounts to which applicable__  __.—__ 
 
 >         Any change in an annuity resulting from a redetermination under paragraph (1) shall be effective with respect to payments accruing for months beginning after the date of the enactment of this Act.”
 

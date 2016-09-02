@@ -333,7 +333,7 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
 [Pub. L. 101–509, title VI, § 633][/us/pl/101/509/s633], Nov. 5, 1990, [104 Stat. 633][/us/stat/104/633], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 \[see Short Title of 1990 Amendment note set out under [section 5301 of this title][/us/usc/t5/s5301]\] and any provision of law amended by such Act), for purposes of any adjustment scheduled to take effect under [section 5303 of title 5][/us/usc/t5/s5303], United States Code (as amended by section 101 \[section 529 \[title I, § 101\] of [Pub. L. 101–509][/us/pl/101/509]\]) during the period beginning on October 1, 1991, and ending on September 30, 1994, the provisions of section 5303 of such title (as so amended) shall be applied in accordance with the following:
 
@@ -359,7 +359,7 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
 >             “(D) Add after paragraph (4) (as so redesignated by subparagraph (B) the following:    “ ‘(5) For the purpose of this subsection, “severe economic conditions” shall be considered to exist relative to an adjustment scheduled to take effect on a given date if, during the 12-month period ending 2 calendar quarters before such date, there occurred 2 consecutive quarters of negative growth in the GNP.’
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 \[see Short Title of 1990 Amendment note set out under [section 5301 of this title][/us/usc/t5/s5301]\] and any provision of law amended made by such Act), effective for purposes of any pay adjustment scheduled to take effect during the period described in subsection (a), any reference in a provision of law to [section 5303 of title 5][/us/usc/t5/s5303], United States Code, as amended by section 101 \[section 529 \[title I, § 101\] of [Pub. L. 101–509][/us/pl/101/509]\] (or to the effective date of a pay adjustment, the size of an adjustment, a rate payable after an adjustment, or other related matter under such section 5303) shall be considered a reference to such section as applied in accordance with this section (or to the corresponding matter, as determined under such section 5303, as applied in accordance with this section).”
 
@@ -367,11 +367,11 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
 >     “(a) __Restoration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Effective for pay periods beginning on or after the date of enactment of this Act \[Nov. 30, 1989\], the rate of basic pay for any office or position in the executive, legislative, or judicial branch of the Government or in the government of the District of Columbia shall be determined as if the provisions of law cited in paragraph (2) had never been enacted.
 
->         “(2) __Citations.—__ 
+>         “(2)  __Citations__  __.—__ 
 
 >         The provisions of law referred to in paragraph (1) are as follows:
 
@@ -379,21 +379,21 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
 >             “(B) Section 619(b) of the Treasury, Postal Service and General Government Appropriations Act, 1990 ([Public Law 101–136][/us/pl/101/136]) \[set out below\].
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     Notwithstanding any other provision of this section, the rate of basic pay for a Senator, the President pro tempore of the Senate, and the majority leader and the minority leader of the Senate shall be determined as if subsection (a) had not been enacted.
 
->     “(c) __Specific Authority.—__ 
+>     “(c)  __Specific Authority__  __.—__ 
 
 >     For purposes of [section 140 of Public Law 97–92][/us/pl/97/92/s140] ([28 U.S.C. 461][/us/usc/t28/s461] note), appropriate salary increases are hereby authorized for Federal judges and Justices of the Supreme Court pursuant to subsection (a).
 
->     “(d) __Special Rule.—__ 
+>     “(d)  __Special Rule__  __.—__ 
 
 >     Notwithstanding any other provision of this section, no adjustment in any rate of pay shall become effective, as a result of the enactment of this section, before the first applicable pay period beginning on or after the date as of which the order issued by the President on October 16, 1989, pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 902][/us/usc/t2/s902]\] is rescinded.”
 
 [Pub. L. 101–194, title XI, § 1101(a)][/us/pl/101/194/s1101/a], Nov. 30, 1989, [103 Stat. 1781][/us/stat/103/1781], provided that:
 
->     “(1) __Adjustments in Rates of Pay.—__ 
+>     “(1)  __Adjustments in Rates of Pay__  __.—__ 
 
 >     Notwithstanding any other provision of law (including any provision of this Act or amendment made by this Act), effective as provided in paragraph (2), the rate of pay of each office and position of United States Senator, the President pro tempore of the Senate, and the majority and minority leaders of the Senate shall be increased by—
 
@@ -485,11 +485,11 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
 [Pub. L. 100–202, § 110(a)][/us/pl/100/202/s110/a], Dec. 22, 1987, [101 Stat. 1329–436][/us/stat/101/1329-436], provided that:
 
->     “(1) __Two-percent increase.—__ 
+>     “(1)  __Two-percent increase__  __.—__ 
 
 >     Notwithstanding any other provision of law, in the case of fiscal year 1988, the overall percentage of the adjustment under [section 5305 of title 5][/us/usc/t5/s5305], United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems (as defined by section 5301(c) of such title), shall be an increase of 2 percent.
 
->     “(2) __Uniform adjustments; delayed effective date.—__ 
+>     “(2)  __Uniform adjustments; delayed effective date__  __.—__ 
 
 >     Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage and shall take effect as of the beginning of the first applicable pay period beginning on or after January 1, 1988.”
 

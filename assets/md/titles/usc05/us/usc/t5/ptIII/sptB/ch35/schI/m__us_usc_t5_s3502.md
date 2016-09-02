@@ -265,17 +265,17 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
 [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(g)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–434, as amended by [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that:
 
->     “(1) __Immediately effective amendments.—__ 
+>     “(1)  __Immediately effective amendments__  __.—__ 
 
 >     The amendments made by subsections (a) through (d) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636, 1022a, 3116, and 3151 of Title 15, Commerce and Trade, section 79l of Title 16, Conservation, [section 665 of Title 18][/us/usc/t18/s665], Crimes and Criminal Procedure, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 3443, 5934, 5938, 6365, 6434, 6453, and 6455 of Title 20, Education, [section 5855 of Title 22][/us/usc/t22/s5855], Foreign Relations and Intercourse, [section 2102 of Title 29][/us/usc/t29/s2102], Labor, [section 6703 of Title 31][/us/usc/t31/s6703], Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6103, 6864, 6873, 7274h, 9806, 11302, 12637, 12653c, 12655m, 12899c, 12899e, and 13823 of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2391, 2501, 2701, and 2687 of Title 10, Armed Forces, [section 3304 of Title 26][/us/usc/t26/s3304], Internal Revenue Code, [section 1721 of Title 29][/us/usc/t29/s1721], and [section 4101 of Title 38][/us/usc/t38/s4101], and repealing provisions set out as notes under sections 1501 and 1551 of Title 29\] shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].
 
 >     “(2) __Subsequently effective amendments.—__ 
 
->         “(A) __Mckinney-vento homeless assistance act.—__ 
+>         “(A)  __Mckinney-vento homeless assistance act__  __.—__ 
 
 >         The amendments made by subsection (e) shall take effect on July 1, 1999.
 
->         “(B) __Job training partnership act.—__ 
+>         “(B)  __Job training partnership act__  __.—__ 
 
 >         The amendments made by subsection (f) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636 and 3116 of Title 15, Commerce and Trade, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 6365, 6434, 6453, and 6455 of Title 20, Education, [section 2102 of Title 29][/us/usc/t29/s2102], Labor, [section 6703 of Title 31][/us/usc/t31/s6703], Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6864, 6873, 7274h, 9806, 11302, 12653c, 12655m, 12899c, and 13823 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2501, 2687, and 2701 of Title 10, Armed Forces, [section 3304 of Title 26][/us/usc/t26/s3304], Internal Revenue Code, [section 1721 of Title 29][/us/usc/t29/s1721], and [section 4101 of Title 38][/us/usc/t38/s4101]\] shall take effect on July 1, 2000.”
 
@@ -319,7 +319,7 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
 [Pub. L. 103–337, div. A, title X, § 1066][/us/pl/103/337/s1066], Oct. 5, 1994, [108 Stat. 2850][/us/stat/108/2850], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
->     “(a) __Study and Report.—__ 
+>     “(a)  __Study and Report__  __.—__ 
 
 >         (1) The Director of the Office of Personnel Management shall conduct a study on the feasibility of establishing a mandatory interagency placement program for Federal employees affected by reductions in force.
 
@@ -345,13 +345,13 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
 >         “(5) Not later than six months after the date of the enactment of this Act \[Oct. 5, 1994\], the Director shall submit to Congress a report on the results of the study required by paragraph (1) and on any action taken by the Director under subsection (b).
 
->     “(b) __Agreements To Establish Interagency Placement Program.—__ 
+>     “(b)  __Agreements To Establish Interagency Placement Program__  __.—__ 
 
 >         (1) The Director may establish a Government-wide interagency placement program for Federal employees affected by reductions in force if, during the 6-month period beginning on the date of the enactment of this Act \[Oct. 5, 1994\], the Director, in consultation with the Secretary of Defense, determines that such a program is feasible. To carry out the program, the Director may enter into an agreement with the head of each agency that agrees to participate in the program. If the Director establishes a program under this subsection, it is not necessary that the program be an interagency placement program within the meaning of subsection (a)(2).
 
 >         “(2) If the Director establishes a program pursuant to paragraph (1), the report required by subsection (a)(5) shall identify each agency that does not agree to participate in the program and the reasons of the head of that agency for not agreeing to participate.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

@@ -15,7 +15,7 @@
 
 ## § 552a. Records maintained on individuals
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -91,7 +91,7 @@
 
         (13) the term “Federal personnel” means officers and employees of the Government of the United States, members of the uniformed services (including members of the Reserve Components), individuals entitled to receive immediate or deferred retirement benefits under any retirement program of the Government of the United States (including survivor benefits).
 
-    (b) __Conditions of Disclosure.—__ 
+    (b)  __Conditions of Disclosure__  __.—__ 
 
     No agency shall disclose any record which is contained in a system of records by any means of communication to any person, or to another agency, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains, unless disclosure of the record would be—
 
@@ -119,7 +119,7 @@
 
         (12) to a consumer reporting agency in accordance with [section 3711(e) of title 31][/us/usc/t31/s3711/e].
 
-    (c) __Accounting of Certain Disclosures.—__ 
+    (c)  __Accounting of Certain Disclosures__  __.—__ 
 
     Each agency, with respect to each system of records under its control, shall—
 
@@ -137,7 +137,7 @@
 
         (4) inform any person or other agency about any correction or notation of dispute made by the agency in accordance with subsection (d) of this section of any record that has been disclosed to the person or agency if an accounting of the disclosure was made.
 
-    (d) __Access to Records.—__ 
+    (d)  __Access to Records__  __.—__ 
 
     Each agency that maintains a system of rec­ords shall—
 
@@ -163,7 +163,7 @@
 
         (5) nothing in this section shall allow an individual access to any information compiled in reasonable anticipation of a civil action or proceeding.
 
-    (e) __Agency Requirements.—__ 
+    (e)  __Agency Requirements__  __.—__ 
 
     Each agency that maintains a system of rec­ords shall—
 
@@ -221,7 +221,7 @@
 
         (12) if such agency is a recipient agency or a source agency in a matching program with a non-Federal agency, with respect to any establishment or revision of a matching program, at least 30 days prior to conducting such program, publish in the Federal Register notice of such establishment or revision.
 
-    (f) __Agency Rules.—__ 
+    (f)  __Agency Rules__  __.—__ 
 
     In order to carry out the provisions of this section, each agency that maintains a system of records shall promulgate rules, in accordance with the requirements (including general notice) of [section 553 of this title][/us/usc/t5/s553], which shall—
 
@@ -239,7 +239,7 @@
 
     (g)
 
-        (1) __Civil Remedies.—__ 
+        (1)  __Civil Remedies__  __.—__ 
 
         Whenever any agency
 
@@ -275,13 +275,13 @@
 
         (5) An action to enforce any liability created under this section may be brought in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, without regard to the amount in controversy, within two years from the date on which the cause of action arises, except that where an agency has materially and willfully misrepresented any information required under this section to be disclosed to an individual and the information so misrepresented is material to establishment of the liability of the agency to the individual under this section, the action may be brought at any time within two years after discovery by the individual of the misrepresentation. Nothing in this section shall be construed to authorize any civil action by reason of any injury sustained as the result of a disclosure of a record prior to September 27, 1975.
 
-    (h) __Rights of Legal Guardians.—__ 
+    (h)  __Rights of Legal Guardians__  __.—__ 
 
     For the purposes of this section, the parent of any minor, or the legal guardian of any individual who has been declared to be incompetent due to physical or mental incapacity or age by a court of competent jurisdiction, may act on behalf of the individual.
 
     (i)
 
-        (1) __Criminal Penalties.—__ 
+        (1)  __Criminal Penalties__  __.—__ 
 
         Any officer or employee of an agency, who by virtue of his employment or official position, has possession of, or access to, agency records which contain individually identifiable information the disclosure of which is prohibited by this section or by rules or regulations established thereunder, and who knowing that disclosure of the specific material is so prohibited, willfully discloses the material in any manner to any person or agency not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000.
 
@@ -289,7 +289,7 @@
 
         (3) Any person who knowingly and willfully requests or obtains any record concerning an individual from an agency under false pretenses shall be guilty of a misdemeanor and fined not more than $5,000.
 
-    (j) __General Exemptions.—__ 
+    (j)  __General Exemptions__  __.—__ 
 
     The head of any agency may promulgate rules, in accordance with the requirements (including general notice) of sections 553(b)(1), (2), and (3), (c), and (e) of this title, to exempt any system of records within the agency from any part of this section except subsections (b), (c)(1) and (2), (e)(4)(A) through (F), (e)(6), (7), (9), (10), and (11), and (i) if the system of rec­ords is—
 
@@ -299,7 +299,7 @@
 
         At the time rules are adopted under this subsection, the agency shall include in the statement required under [section 553(c) of this title][/us/usc/t5/s553/c], the reasons why the system of records is to be exempted from a provision of this section.
 
-    (k) __Specific Exemptions.—__ 
+    (k)  __Specific Exemptions__  __.—__ 
 
     The head of any agency may promulgate rules, in accordance with the requirements (including general notice) of sections 553(b)(1), (2), and (3), (c), and (e) of this title, to exempt any system of records within the agency from subsections (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I) and (f) of this section if the system of rec­ords is—
 
@@ -321,7 +321,7 @@
 
     (l)
 
-        (1) __Archival Records.—__ 
+        (1)  __Archival Records__  __.—__ 
 
         Each agency record which is accepted by the Archivist of the United States for storage, processing, and servicing in accordance with [section 3103 of title 44][/us/usc/t44/s3103] shall, for the purposes of this section, be considered to be maintained by the agency which deposited the record and shall be subject to the provisions of this section. The Archivist of the United States shall not disclose the record except to the agency which maintains the record, or under rules established by that agency which are not inconsistent with the provisions of this section.
 
@@ -331,17 +331,17 @@
 
     (m)
 
-        (1) __Government Contractors.—__ 
+        (1)  __Government Contractors__  __.—__ 
 
         When an agency provides by a contract for the operation by or on behalf of the agency of a system of records to accomplish an agency function, the agency shall, consistent with its authority, cause the requirements of this section to be applied to such system. For purposes of subsection (i) of this section any such contractor and any employee of such contractor, if such contract is agreed to on or after the effective date of this section, shall be considered to be an employee of an agency.
 
         (2) A consumer reporting agency to which a record is disclosed under [section 3711(e) of title 31][/us/usc/t31/s3711/e] shall not be considered a contractor for the purposes of this section.
 
-    (n) __Mailing Lists.—__ 
+    (n)  __Mailing Lists__  __.—__ 
 
     An individual’s name and address may not be sold or rented by an agency unless such action is specifically authorized by law. This provision shall not be construed to require the withholding of names and addresses otherwise permitted to be made public.
 
-    (o) __Matching Agreements.—__ 
+    (o)  __Matching Agreements__  __.—__ 
 
         (1)
 
@@ -399,7 +399,7 @@
 
                 (ii) each party to the agreement certifies to the Board in writing that the program has been conducted in compliance with the agreement.
 
-    (p) __Verification and Opportunity to Contest Findings.—__ 
+    (p)  __Verification and Opportunity to Contest Findings__  __.—__ 
 
         (1)
 
@@ -437,7 +437,7 @@
 
         (3) Notwithstanding paragraph (1), an agency may take any appropriate action otherwise prohibited by such paragraph if the agency determines that the public health or public safety may be adversely affected or significantly threatened during any notice period required by such paragraph.
 
-    (q) __Sanctions.—__ 
+    (q)  __Sanctions__  __.—__ 
 
         (1) Notwithstanding any other provision of law, no source agency may disclose any record which is contained in a system of records to a recipient agency or non-Federal agency for a matching program if such source agency has reason to believe that the requirements of subsection (p), or any matching agreement entered into pursuant to subsection (o), or both, are not being met by such recipient agency.
 
@@ -449,11 +449,11 @@
 
             (B) the source agency has no reason to believe that the certification is inaccurate.
 
-    (r) __Report on New Systems and Matching Programs.—__ 
+    (r)  __Report on New Systems and Matching Programs__  __.—__ 
 
     Each agency that proposes to establish or make a significant change in a system of records or a matching program shall provide adequate advance notice of any such proposal (in duplicate) to the Committee on Government Operations of the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Office of Management and Budget in order to permit an evaluation of the probable or potential effect of such proposal on the privacy or other rights of individuals.
 
-    (s) __Biennial Report.—__ 
+    (s)  __Biennial Report__  __.—__ 
 
     The President shall biennially submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report—
 
@@ -467,13 +467,13 @@
 
     (t)
 
-        (1) __Effect of Other Laws.—__ 
+        (1)  __Effect of Other Laws__  __.—__ 
 
         No agency shall rely on any exemption contained in [section 552 of this title][/us/usc/t5/s552] to withhold from an individual any record which is otherwise accessible to such individual under the provisions of this section.
 
         (2) No agency shall rely on any exemption in this section to withhold from an individual any record which is otherwise accessible to such individual under the provisions of [section 552 of this title][/us/usc/t5/s552].
 
-    (u) __Data Integrity Boards.—__ 
+    (u)  __Data Integrity Boards__  __.—__ 
 
         (1) Every agency conducting or participating in a matching program shall establish a Data Integrity Board to oversee and coordinate among the various components of such agency the agency’s implementation of this section.
 
@@ -541,7 +541,7 @@
 
         (6) In the reports required by paragraph (3)(D), agency matching activities that are not matching programs may be reported on an aggregate basis, if and to the extent necessary to protect ongoing law enforcement or counterintelligence investigations.
 
-    (v) __Office of Management and Budget Responsibilities.—__ 
+    (v)  __Office of Management and Budget Responsibilities__  __.—__ 
 
     The Director of the Office of Management and Budget shall—
 
@@ -549,7 +549,7 @@
 
         (2) provide continuing assistance to and oversight of the implementation of this section by agencies.
 
-    (w) __Applicability to Bureau of Consumer Financial Protection.—__ 
+    (w)  __Applicability to Bureau of Consumer Financial Protection__  __.—__ 
 
     Except as provided in the Consumer Financial Protection Act of 2010, this section shall apply with respect to the Bureau of Consumer Financial Protection.
 
@@ -677,15 +677,15 @@
 
 [Pub. L. 100–503, § 10][/us/pl/100/503/s10], Oct. 18, 1988, [102 Stat. 2514][/us/stat/102/2514], as amended by [Pub. L. 101–56, § 2][/us/pl/101/56/s2], July 19, 1989, [103 Stat. 149][/us/stat/103/149], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), the amendments made by this Act \[amending this section and repealing provisions set out as a note below\] shall take effect 9 months after the date of enactment of this Act \[Oct. 18, 1988\].
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The amendment made by sections 3(b), 6, 7, and 8 of this Act \[amending this section and repealing provisions set out as a note below\] shall take effect upon enactment.
 
->     “(c) __Effective Date Delayed for Existing Programs.—__ 
+>     “(c)  __Effective Date Delayed for Existing Programs__  __.—__ 
 
 >     In the case of any matching program (as defined in [section 552a(a)(8) of title 5][/us/usc/t5/s552a/a/8], United States Code, as added by section 5 of this Act) in operation before June 1, 1989, the amendments made by this Act (other than the amendments described in subsection (b)) shall take effect January 1, 1990, if—
 

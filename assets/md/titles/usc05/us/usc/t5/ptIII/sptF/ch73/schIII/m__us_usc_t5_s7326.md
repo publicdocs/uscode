@@ -35,11 +35,11 @@
 
 [Pub. L. 112–230, § 5(b)][/us/pl/112/230/s5/b], Dec. 28, 2012, [126 Stat. 1617][/us/stat/126/1617], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by section 4 \[enacting this section and repealing former [section 7326 of this title][/us/usc/t5/s7326]\] shall apply with respect to any violation occurring before, on, or after the effective date of this Act \[see above\].
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by section 4 shall not apply with respect to an alleged violation if, before the effective date of this Act—
 

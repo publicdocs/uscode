@@ -15,7 +15,7 @@
 
 ## § 5759. <sup>\[1\]</sup>  <sup><sup> 1 So in original. No section 5758 has been enacted. </sup></sup>  Retention and relocation bonuses for the Federal Bureau of Investigation
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Director of the Federal Bureau of Investigation, after consultation with the Director of the Office of Personnel Management, may pay, on a case-by-case basis, a bonus under this section to an employee of the Bureau if—
 
@@ -33,7 +33,7 @@
 
         (2) the individual is subject to a mobility agreement and is transferred to a position in a different geographical area in which there is a shortage of critical skills (as determined by the Director of the Federal Bureau of Investigation).
 
-    (b) __Service Agreement.—__ 
+    (b)  __Service Agreement__  __.—__ 
 
     Payment of a bonus under this section is contingent upon the employee entering into a written service agreement with the Bureau to complete a period of service with the Bureau. Such agreement shall include—
 
@@ -41,11 +41,11 @@
 
         (2) the conditions under which the agreement may be terminated before the agreed-upon service period has been completed, and the effect of the termination, including requirements for a bonus recipient’s repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation.
 
-    (c) __Limitation on Authority.—__ 
+    (c)  __Limitation on Authority__  __.—__ 
 
     A bonus paid under this section may not exceed 50 percent of the employee’s annual rate of basic pay. The bonus may be paid in a lump sum or installments linked to completion of periods of service.
 
-    (d) __Impact on Basic Pay.—__ 
+    (d)  __Impact on Basic Pay__  __.—__ 
 
     A bonus paid under this section is not part of the basic pay of an employee for any purpose.
 

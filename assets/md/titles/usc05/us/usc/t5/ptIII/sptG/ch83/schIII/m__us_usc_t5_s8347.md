@@ -369,23 +369,23 @@ Sept. 26, 1966, Pub. L. 89–604, § 1(c), 80 Stat. 847.  </td>
 
 Section 1043(b), (c) of [Pub. L. 104–106][/us/pl/104/106] provided that:
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act \[Feb. 10, 1996\], the Office of Personnel Management (and each of the other administrative authorities, within the meaning of subsection (c)(2)(C)(iii)) shall prescribe any regulations (or make any modifications in existing regulations) necessary to carry out this section \[amending this section and sections 3502 and 8461 of this title and enacting provisions set out as a note under [section 3502 of this title][/us/usc/t5/s3502]\] and the amendments made by this section, including regulations to provide for the notification of individuals who may be affected by the enactment of this section. All regulations (and modifications to regulations) under the preceding sentence shall take effect on the same date.
 
 >     “(c) __Applicability; Related Provisions.—__ 
 
->         “(1) __Prospective rules.—__ 
+>         “(1)  __Prospective rules__  __.—__ 
 
 >         Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 3502 and 8461 of this title\] shall apply with respect to moves occurring on or after the effective date of the regulations under subsection (b). Moves occurring on or after the date of the enactment of this Act \[Feb. 10, 1996\] and before the effective date of such regulations shall be subject to applicable provisions of title 5, United States Code, disregarding the amendments made by this section, except that any individual making an election pursuant to this sentence shall be ineligible to make an election otherwise allowable under paragraph (2).
 
 >         “(2) __Retroactive rules.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The regulations under subsection (b) shall include provisions for the application of sections 8347(q) and 8461(n) of title 5, United States Code, as amended by this section, with respect to any individual who, at any time after December 31, 1965, and before the effective date of such regulations, moved between positions in circumstances that would have qualified such individual to make an election under the provisions of such section 8347(q) or 8461(n), as so amended, if such provisions had then been in effect.
 
->             “(B) __Deadline; related provisions.—__ 
+>             “(B)  __Deadline; related provisions__  __.—__ 
 
 >             An election pursuant to this paragraph—
 
@@ -403,27 +403,27 @@ Section 1043(b), (c) of [Pub. L. 104–106][/us/pl/104/106] provided that:
 
 >             “(C) __Transfers of contributions.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the ‘previous system’), all individual contributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the ‘current system’), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, the term ‘current system’ shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
 
->                 “(ii) __Condition subsequent relating to repayment of lump-sum credit.—__ 
+>                 “(ii)  __Condition subsequent relating to repayment of lump-sum credit__  __.—__ 
 
 >                 In the case of an individual who has received such individual’s lump-sum credit (within the meaning of [section 8401(19) of title 5][/us/usc/t5/s8401/19], United States Code, or a similar payment) from such individual’s previous system, the payment described in clause (i) shall not be made (and the election to which it relates shall be ineffective) unless such lump-sum credit is redeposited or otherwise paid at such time and in such manner as shall be required under applicable regulations. Regulations to carry out this clause shall include provisions for the computation of interest (consistent with section 8334(e)(2) and (3) of title 5, United States Code), if no provisions for such computation otherwise exist.
 
 >                 “(iii) __Condition subsequent relating to deficiency in payments relative to amounts needed to ensure that benefits are fully funded.—__ 
 
->                          “(I) __In general.—__ 
+>                          “(I)  __In general__  __.—__ 
 
 >                     Except as provided in subclause (II), the payment described in clause (i) shall not be made (and the election to which it relates shall be ineffective) if the actuarial present value of the future benefits that would be payable under the previous system with respect to service performed by such individual after the move on which the election under this paragraph is based and before the effective date of the election, exceeds the total amounts required to be transferred to the previous system under the preceding provisions of this subparagraph with respect to such service, as determined by the authority administering such previous system (in this section referred to as the ‘administrative authority’).
 
->                          “(II) __Payment of deficiency.—__ 
+>                          “(II)  __Payment of deficiency__  __.—__ 
 
 >                     A determination of a deficiency under this clause shall not render an election ineffective if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the full amount of the deficiency described in subclause (I).
 
 >             “(D) __Alternative election for an individual then participating in fers.—__ 
 
->                 “(i) __Applicability.—__ 
+>                 “(i)  __Applicability__  __.—__ 
 
 >                 This subparagraph applies with respect to any individual who—
 
@@ -431,19 +431,19 @@ Section 1043(b), (c) of [Pub. L. 104–106][/us/pl/104/106] provided that:
 
 >                          “(II) would then otherwise be eligible to make an election under subparagraphs (A) through (C) of this paragraph, determined disregarding the matter in subclause (I) of subparagraph (B) before the first semicolon therein.
 
->                 “(ii) __Election.—__ 
+>                 “(ii)  __Election__  __.—__ 
 
 >                 An individual described in clause (i) may, instead of making an election for which such individual is otherwise eligible under this paragraph, elect to have all prior qualifying NAFI service of such individual treated as creditable service for purposes of any annuity under FERS payable out of the Civil Service Retirement and Disability Fund.
 
->                 “(iii) __Qualifying nafi service.—__ 
+>                 “(iii)  __Qualifying nafi service__  __.—__ 
 
 >                 For purposes of this subparagraph, the term ‘qualifying NAFI service’ means any service which, but for this subparagraph, would be creditable for purposes of any retirement system established for employees described in [section 2105(c) of title 5][/us/usc/t5/s2105/c], United States Code.
 
->                 “(iv) __Service ceases to be creditable for nafi retirement system purposes.—__ 
+>                 “(iv)  __Service ceases to be creditable for nafi retirement system purposes__  __.—__ 
 
 >                 Any qualifying NAFI service that becomes creditable for FERS purposes by virtue of an election made under this subparagraph shall not be creditable for purposes of any retirement system referred to in clause (iii).
 
->                 “(v) __Conditions.—__ 
+>                 “(v)  __Conditions__  __.—__ 
 
 >                 An election under this subparagraph shall be subject to requirements, similar to those set forth in subparagraph (C), to ensure that—
 
@@ -453,7 +453,7 @@ Section 1043(b), (c) of [Pub. L. 104–106][/us/pl/104/106] provided that:
 
 >             “(E) __Alternative election for an individual then participating in a nafi retirement system.—__ 
 
->                 “(i) __Applicability.—__ 
+>                 “(i)  __Applicability__  __.—__ 
 
 >                 This subparagraph applies with respect to any individual who—
 
@@ -461,29 +461,29 @@ Section 1043(b), (c) of [Pub. L. 104–106][/us/pl/104/106] provided that:
 
 >                          “(II) would then otherwise be eligible to make an election under subparagraphs (A) through (C) of this paragraph (determined disregarding the matter in subclause (I) of subparagraph (B) before the first semicolon therein) based on a move from FERS.
 
->                 “(ii) __Election.—__ 
+>                 “(ii)  __Election__  __.—__ 
 
 >                 An individual described in clause (i) may, instead of making an election for which such individual is otherwise eligible under this paragraph, elect to have all prior qualifying FERS service of such individual treated as creditable service for purposes of determining eligibility for benefits under a NAFI retirement system, but not for purposes of computing the amount of any such benefits except as provided in clause (v)(II).
 
->                 “(iii) __Qualifying fers service.—__ 
+>                 “(iii)  __Qualifying fers service__  __.—__ 
 
 >                 For purposes of this subparagraph, the term ‘qualifying FERS service’ means any service which, but for this subparagraph, would be creditable for purposes of the Federal Employees’ Retirement System.
 
->                 “(iv) __Service ceases to be creditable for purposes of fers.—__ 
+>                 “(iv)  __Service ceases to be creditable for purposes of fers__  __.—__ 
 
 >                 Any qualifying FERS service that becomes creditable for NAFI purposes by virtue of an election made under this subparagraph shall not be creditable for purposes of the Federal Employees’ Retirement System.
 
 >                 “(v) __Funding requirements.—__ 
 
->                          “(I) __In general.—__ 
+>                          “(I)  __In general__  __.—__ 
 
 >                     Except as provided in subclause (II), nothing in this section or in any other provision of law or any other authority shall be considered to require any payment or transfer of monies in order for an election under this subparagraph to be effective.
 
->                          “(II) __Contribution required only if individual elects to have service made creditable for computation purposes as well.—__ 
+>                          “(II)  __Contribution required only if individual elects to have service made creditable for computation purposes as well__  __.—__ 
 
 >                     Under regulations prescribed by the appropriate administrative authority, an individual making an election under this subparagraph may further elect to have the qualifying FERS service made creditable for computation purposes under a NAFI retirement system, but only if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the amount necessary to fully fund the actuarial present value of future benefits under the NAFI retirement system attributable to the qualifying FERS service.
 
->         “(3) __Information.—__ 
+>         “(3)  __Information__  __.—__ 
 
 >         The regulations under subsection (b) shall include provisions under which any individual—
 

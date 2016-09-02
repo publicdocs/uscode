@@ -15,15 +15,15 @@
 
 ## § 8102a. Death gratuity for injuries incurred in connection with employee’s service with an Armed Force
 
-    (a) __Death Gratuity Authorized.—__ 
+    (a)  __Death Gratuity Authorized__  __.—__ 
 
     The United States shall pay a death gratuity of up to $100,000 to or for the survivor prescribed by subsection (d) immediately upon receiving official notification of the death of an employee who dies of injuries incurred in connection with the employee’s service with an Armed Force in a contingency operation.
 
-    (b) __Retroactive Payment in Certain Cases.—__ 
+    (b)  __Retroactive Payment in Certain Cases__  __.—__ 
 
     At the discretion of the Secretary concerned, subsection (a) may apply in the case of an employee who died, on or after October 7, 2001, and before the date of enactment of this section, as a result of injuries incurred in connection with the employee’s service with an Armed Force in the theater of operations of Operation Enduring Freedom or Operation Iraqi Freedom.
 
-    (c) __Relationship to Other Benefits.—__ 
+    (c)  __Relationship to Other Benefits__  __.—__ 
 
     The death gratuity payable under this section shall be reduced by the amount of any death gratuity provided under section 413 of the Foreign Service Act of 1980, section 1603 of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, or any other law of the United States based on the same death.
 
@@ -85,7 +85,7 @@
 
         (6) If a person covered by this section has a spouse, but designates a person other than the spouse to receive all or a portion of the amount payable under this section, the head of the agency, or other entity, in which that person is employed shall provide notice of the designation to the spouse.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
         (1) The term “contingency operation” has the meaning given to that term in [section 1482a(c) of title 10][/us/usc/t10/s1482a/c], United States Code.
 

@@ -135,7 +135,7 @@ Sept. 6, 1960, Pub. L. 86–707, § 501(a), 74 Stat. 800.  </td>
 
 [Pub. L. 101–12, § 8(a)][/us/pl/101/12/s8/a], (b), Apr. 10, 1989, [103 Stat. 34][/us/stat/103/34], as amended by [Pub. L. 103–424, § 1][/us/pl/103/424/s1], Oct. 29, 1994, [108 Stat. 4361][/us/stat/108/4361]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, §§ 641(a), 642(a)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–365; [Pub. L. 107–304, § 2(a)][/us/pl/107/304/s2/a], (b), Nov. 27, 2002, [116 Stat. 2364][/us/stat/116/2364], provided that:
 
->     “(a) __Authorization of Appropriations.—__ 
+>     “(a)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated—
 
@@ -143,7 +143,7 @@ Sept. 6, 1960, Pub. L. 86–707, § 501(a), 74 Stat. 800.  </td>
 
 >         “(2) for each of fiscal years 2003, 2004, 2005, 2006, and 2007 such sums as necessary to carry out subchapter II of chapter 12 of title 5, United States Code (as amended by this Act).
 
->     “(b) __Restriction Relating to Appropriations Under the Civil Service Reform Act of 1978.—__ 
+>     “(b)  __Restriction Relating to Appropriations Under the Civil Service Reform Act of__  __1978.—__ 
 
 >     No funds may be appropriated to the Merit Systems Protection Board or the Office of Special Counsel pursuant to section 903 of the Civil Service Reform Act of 1978 \[[Pub. L. 95–454][/us/pl/95/454]\] ([5 U.S.C. 5509][/us/usc/t5/s5509] note).”
 

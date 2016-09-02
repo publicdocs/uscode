@@ -433,13 +433,13 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
 [Pub. L. 107–304, § 4][/us/pl/107/304/s4], Nov. 27, 2002, [116 Stat. 2364][/us/stat/116/2364], provided that:
 
->     “(a) __Enrollment in Chapter 89 Plan.—__ 
+>     “(a)  __Enrollment in Chapter __  __89 Plan.—__ 
 
 >     For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Overseas Private Investment Corporation before the effective date of this Act \[probably means Nov. 27, 2002, the date of enactment of [Pub. L. 107–304][/us/pl/107/304]\] shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 
 >     “(b) __Continued Coverage.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any individual who, as of the enrollment eligibility date, is covered by a health benefits plan administered by the Overseas Private Investment Corporation may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
 
@@ -447,7 +447,7 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
 >             “(B) for coverage effective on and after such date.
 
->         “(2) __Individuals currently under continued coverage.—__ 
+>         “(2)  __Individuals currently under continued coverage__  __.—__ 
 
 >         An individual who, as of the enrollment eligibility date, is entitled to continued coverage under a health benefits plan administered by the Overseas Private Investment Corporation—
 
@@ -455,7 +455,7 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
 >             “(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of such title in accordance with section 8905a of such title for coverage effective on and after such date.
 
->         “(3) __Unmarried dependent children.—__ 
+>         “(3)  __Unmarried dependent children__  __.—__ 
 
 >         An individual who, as of the enrollment eligibility date, is covered as an unmarried dependent child under a health benefits plan administered by the Overseas Private Investment Corporation and who is not a member of family as defined under [section 8901(5) of title 5][/us/usc/t5/s8901/5], United States Code—
 
@@ -465,15 +465,15 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
 >     “(c) __Transfers to the Employees Health Benefits Fund.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Overseas Private Investment Corporation shall transfer to the Employees Health Benefits Fund established under [section 8909 of title 5][/us/usc/t5/s8909], United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Overseas Private Investment Corporation, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section.
 
->         “(2) __Availability of funds.—__ 
+>         “(2)  __Availability of funds__  __.—__ 
 
 >         The amounts transferred under paragraph (1) shall be held in the Fund and used by the Office in addition to amounts available under [section 8906(g)(1) of title 5][/us/usc/t5/s8906/g/1], United States Code.
 
->     “(d) __Administration and Regulations.—__ 
+>     “(d)  __Administration and Regulations__  __.—__ 
 
 >     The Office of Personnel Management—
 
@@ -487,7 +487,7 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
 >         “(2) may prescribe regulations to implement this section.
 
->     “(e) __Enrollment Eligibility Date.—__ 
+>     “(e)  __Enrollment Eligibility Date__  __.—__ 
 
 >     For purposes of this section, the term ‘enrollment eligibility date’ means the last day on which coverage under a health benefits plan administered by the Overseas Private Investment Corporation is available. Such date shall be determined by the Office of Personnel Management in consultation with the Overseas Private Investment Corporation.”
 
@@ -495,7 +495,7 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
 [Pub. L. 105–266, § 4][/us/pl/105/266/s4], Oct. 19, 1998, [112 Stat. 2367][/us/stat/112/2367], provided that:
 
->     “(a) __Enrollment in Chapter 89 Plan.—__ 
+>     “(a)  __Enrollment in Chapter__  __89__  __Plan__  __.—__ 
 
 >     For purposes of chapter 89 of title 5, United States Code, any period of enrollment—
 
@@ -505,7 +505,7 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
 >         shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 
->     “(b) __Continued Coverage.—__ 
+>     “(b)  __Continued Coverage__  __.—__ 
 
 >         (1)
 
@@ -529,15 +529,15 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
 >         “(4) Coverage under chapter 89 of title 5, United States Code, pursuant to an enrollment under this section shall become effective on January 3, 1999 or such earlier date as established by the Office of Personnel Management after consultation with the Federal Deposit Insurance Corporation or the Board of Governors of the Federal Reserve System, as appropriate.
 
->     “(c) __Eligibility for FEHBP Limited to Individuals Losing Eligibility Under Former Health Plan.—__ 
+>     “(c)  __Eligibility for FEHBP Limited to Individuals Losing Eligibility Under Former Health Plan__  __.—__ 
 
 >     Nothing in subsection (a)(2) or any paragraph of subsection (b) (to the extent such paragraph relates to the plan described in subsection (a)(2)) shall be considered to apply with respect to any individual whose eligibility for coverage under such plan does not involuntarily terminate on or before January 2, 1999.
 
->     “(d) __Transfers to the Employees Health Benefits Fund.—__ 
+>     “(d)  __Transfers to the Employees Health Benefits Fund__  __.—__ 
 
 >     The Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System shall transfer to the Employees Health Benefits Fund under [section 8909 of title 5][/us/usc/t5/s8909], United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office of Personnel Management in addition to amounts available under section 8906(g)(1) of such title.
 
->     “(e) __Administration and Regulations.—__ 
+>     “(e)  __Administration and Regulations__  __.—__ 
 
 >     The Office of Personnel Management—
 
@@ -603,11 +603,11 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
 [Pub. L. 103–409, § 5][/us/pl/103/409/s5], Oct. 25, 1994, [108 Stat. 4232][/us/stat/108/4232], provided that:
 
->     “(a) __Enrollment in Chapter 89 Plan.—__ 
+>     “(a)  __Enrollment in Chapter__  __89__  __Plan__  __.—__ 
 
 >     For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision before the termination of such plans on January 7, 1995, shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 
->     “(b) __Continued Coverage.—__ 
+>     “(b)  __Continued Coverage__  __.—__ 
 
 >         (1)
 
@@ -633,11 +633,11 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
 >             “(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of such title in accordance with section 8905a for continued coverage effective on and after January 8, 1995.
 
->     “(c) __Transfers to the Employees Health Benefits Fund.—__ 
+>     “(c)  __Transfers to the Employees Health Benefits Fund__  __.—__ 
 
 >     The Office of the Comptroller of the Currency and the Office of Thrift Supervision shall transfer to the Employees Health Benefits Fund established under [section 8909 of title 5][/us/usc/t5/s8909], United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Office of the Comptroller of the Currency and the Office of Thrift Supervision, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office in addition to amounts available under section 8906(g)(1) of such title.
 
->     “(d) __Administration and Regulations.—__ 
+>     “(d)  __Administration and Regulations__  __.—__ 
 
 >     The Office of Personnel Management—
 

@@ -93,11 +93,11 @@ The words “or military department” are inserted to preserve the application 
 
 > “In this Act:
 
->     “(1) __Agency.—__ 
+>     “(1)  __Agency__  __.—__ 
 
 >     The term ‘agency’ means an Executive agency, as defined under [section 105 of title 5][/us/usc/t5/s105], United States Code.
 
->     “(2) __Covered document.—__ 
+>     “(2)  __Covered document__  __.—__ 
 
 >     The term ‘covered document’—
 
@@ -115,7 +115,7 @@ The words “or military department” are inserted to preserve the application 
 
 >         “(C) does not include a regulation.
 
->     “(3) __Plain writing.—__ 
+>     “(3)  __Plain writing__  __.—__ 
 
 >     The term ‘plain writing’ means writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience.
 
@@ -123,7 +123,7 @@ The words “or military department” are inserted to preserve the application 
 
 >     “(a) __Preparation for Implementation of Plain Writing Requirements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 9 months after the date of enactment of this Act \[Oct. 13, 2010\], the head of each agency shall—
 
@@ -145,7 +145,7 @@ The words “or military department” are inserted to preserve the application 
 
 >                 “(ii) the agency reports required under section 5.
 
->         “(2) __Website.—__ 
+>         “(2)  __Website__  __.—__ 
 
 >         The plain writing section described under paragraph (1)(E) shall—
 
@@ -159,17 +159,17 @@ The words “or military department” are inserted to preserve the application 
 
 >                 “(ii) the agency reports required under section 5.
 
->     “(b) __Requirement to Use Plain Writing in New Documents.—__ 
+>     “(b)  __Requirement to Use Plain Writing in New Documents__  __.—__ 
 
 >     Beginning not later than 1 year after the date of enactment of this Act, each agency shall use plain writing in every covered document of the agency that the agency issues or substantially revises.
 
 >     “(c) __Guidance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act, the Director of the Office of Management and Budget shall develop and issue guidance on implementing the requirements of this section. The Director may designate a lead agency, and may use interagency working groups to assist in developing and issuing the guidance.
 
->         “(2) __Interim guidance.—__ 
+>         “(2)  __Interim guidance__  __.—__ 
 
 >         Before the issuance of guidance under paragraph (1), agencies may follow the guidance of—
 
@@ -179,21 +179,21 @@ The words “or military department” are inserted to preserve the application 
 
 > “SEC. 5. __REPORTS TO CONGRESS.__ 
 
->     “(a) __Initial Report.—__ 
+>     “(a)  __Initial Report__  __.—__ 
 
 >     Not later than 9 months after the date of enactment of this Act \[Oct. 13, 2010\], the head of each agency shall publish on the plain writing section of the agency’s website a report that describes the agency plan for compliance with the requirements of this Act.
 
->     “(b) __Annual Compliance Report.—__ 
+>     “(b)  __Annual Compliance Report__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act, and annually thereafter, the head of each agency shall publish on the plain writing section of the agency’s website a report on agency compliance with the requirements of this Act.
 
 > “SEC. 6. __JUDICIAL REVIEW AND ENFORCEABILITY.__ 
 
->     “(a) __Judicial Review.—__ 
+>     “(a)  __Judicial Review__  __.—__ 
 
 >     There shall be no judicial review of compliance or noncompliance with any provision of this Act.
 
->     “(b) __Enforceability.—__ 
+>     “(b)  __Enforceability__  __.—__ 
 
 >     No provision of this Act shall be construed to create any right or benefit, substantive or procedural, enforceable by any administrative or judicial action.
 
@@ -205,7 +205,7 @@ The words “or military department” are inserted to preserve the application 
 
 [Pub. L. 109–163, div. A, title X, § 1058(a)][/us/pl/109/163/s1058/a], (b), Jan. 6, 2006, [119 Stat. 3442][/us/stat/119/3442], provided that:
 
->     “(a) __Youth Organization Defined.—__ 
+>     “(a)  __Youth Organization Defined__  __.—__ 
 
 >     In this section, the term ‘youth organization’ means—
 
@@ -253,15 +253,15 @@ The words “or military department” are inserted to preserve the application 
 
 >     “(b) __Support for Youth Organizations.—__ 
 
->         “(1) __Continuation of support.—__ 
+>         “(1)  __Continuation of support__  __.—__ 
 
 >         No Federal law (including any rule, regulation, directive, instruction, or order) shall be construed to limit any Federal agency from providing any form of support for a youth organization (including the Boy Scouts of America or any group officially affiliated with the Boy Scouts of America) that would result in that Federal agency providing less support to that youth organization (or any similar organization chartered under the chapter of title 36, United States Code, relating to that youth organization) than was provided during the preceding fiscal year to that youth organization. This paragraph shall be subject to the availability of appropriations.
 
->         “(2) __Youth organizations that cease to exist.—__ 
+>         “(2)  __Youth organizations that cease to exist__  __.—__ 
 
 >         Paragraph (1) shall not apply to any youth organization that ceases to exist.
 
->         “(3) __Waivers.—__ 
+>         “(3)  __Waivers__  __.—__ 
 
 >         The head of a Federal agency may waive the application of paragraph (1) to a youth organization with respect to each conviction or investigation described under subparagraph (A) or (B) for a period of not more than two fiscal years if—
 
@@ -269,7 +269,7 @@ The words “or military department” are inserted to preserve the application 
 
 >             “(B) the youth organization is the subject of a criminal investigation relating to fraudulent use or waste of Federal funds.
 
->         “(4) __Types of support.—__ 
+>         “(4)  __Types of support__  __.—__ 
 
 >         Support described in paragraph (1) includes—
 
@@ -287,7 +287,7 @@ The words “or military department” are inserted to preserve the application 
 
 [Pub. L. 108–458, title VII, § 7211(a)][/us/pl/108/458/s7211/a]–(d), Dec. 17, 2004, [118 Stat. 3825–3827][/us/stat/118/3825-3827], provided that:
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     In this section \[enacting this note and repealing provisions set out as a note below\], the term ‘birth certificate’ means a certificate of birth—
 
@@ -309,29 +309,29 @@ The words “or military department” are inserted to preserve the application 
 
 >     “(b) __Standards for Acceptance by Federal Agencies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Beginning 2 years after the promulgation of minimum standards under paragraph (3), no Federal agency may accept a birth certificate for any official purpose unless the certificate conforms to such standards.
 
 >         “(2) __State certification.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Each State shall certify to the Secretary of Health and Human Services that the State is in compliance with the requirements of this section.
 
->             “(B) __Frequency.—__ 
+>             “(B)  __Frequency__  __.—__ 
 
 >             Certifications under subparagraph (A) shall be made at such intervals and in such a manner as the Secretary of Health and Human Services, with the concurrence of the Secretary of Homeland Security and the Commissioner of Social Security, may prescribe by regulation.
 
->             “(C) __Compliance.—__ 
+>             “(C)  __Compliance__  __.—__ 
 
 >             Each State shall ensure that units of local government and other authorized custodians of records in the State comply with this section.
 
->             “(D) __Audits.—__ 
+>             “(D)  __Audits__  __.—__ 
 
 >             The Secretary of Health and Human Services may conduct periodic audits of each State’s compliance with the requirements of this section.
 
->         “(3) __Minimum standards.—__ 
+>         “(3)  __Minimum standards__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Health and Human Services shall by regulation establish minimum standards for birth certificates for use by Federal agencies for official purposes that—
 
@@ -345,7 +345,7 @@ The words “or military department” are inserted to preserve the application 
 
 >             “(E) shall accommodate the differences between the States in the manner and form in which birth records are stored and birth certificates are produced from such records.
 
->         “(4) __Consultation with government agencies.—__ 
+>         “(4)  __Consultation with government agencies__  __.—__ 
 
 >         In promulgating the standards required under paragraph (3), the Secretary of Health and Human Services shall consult with—
 
@@ -357,7 +357,7 @@ The words “or military department” are inserted to preserve the application 
 
 >             “(D) other appropriate Federal agencies.
 
->         “(5) __Extension of effective date.—__ 
+>         “(5)  __Extension of effective date__  __.—__ 
 
 >         The Secretary of Health and Human Services may extend the date specified under paragraph (1) for up to 2 years for birth certificates issued by a State if the Secretary determines that the State made reasonable efforts to comply with the date under paragraph (1) but was unable to do so.
 
@@ -365,21 +365,21 @@ The words “or military department” are inserted to preserve the application 
 
 >         “(1) __Assistance in meeting federal standards.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Beginning on the date a final regulation is promulgated under subsection (b)(3), the Secretary of Health and Human Services shall award grants to States to assist them in conforming to the minimum standards for birth certificates set forth in the regulation.
 
->             “(B) __Allocation of grants.—__ 
+>             “(B)  __Allocation of grants__  __.—__ 
 
 >             The Secretary shall award grants to States under this paragraph based on the proportion that the estimated average annual number of birth certificates issued by a State applying for a grant bears to the estimated average annual number of birth certificates issued by all States.
 
->             “(C) __Minimum allocation.—__ 
+>             “(C)  __Minimum allocation__  __.—__ 
 
 >             Notwithstanding subparagraph (B), each State shall receive not less than 0.5 percent of the grant funds made available under this paragraph.
 
 >         “(2) __Assistance in matching birth and death records.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary of Health and Human Services, in coordination with the Commissioner of Social Security and other appropriate Federal agencies, shall award grants to States, under criteria established by the Secretary, to assist States in—
 
@@ -389,15 +389,15 @@ The words “or military department” are inserted to preserve the application 
 
 >                 “(iii) noting the fact of death on the birth certificates of deceased persons.
 
->             “(B) __Allocation of grants.—__ 
+>             “(B)  __Allocation of grants__  __.—__ 
 
 >             The Secretary shall award grants to qualifying States under this paragraph based on the proportion that the estimated annual average number of birth and death records created by a State applying for a grant bears to the estimated annual average number of birth and death records originated by all States.
 
->             “(C) __Minimum allocation.—__ 
+>             “(C)  __Minimum allocation__  __.—__ 
 
 >             Notwithstanding subparagraph (B), each State shall receive not less than 0.5 percent of the grant funds made available under this paragraph.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary for each of the fiscal years 2005 through 2009 such sums as may be necessary to carry out this section.”
 

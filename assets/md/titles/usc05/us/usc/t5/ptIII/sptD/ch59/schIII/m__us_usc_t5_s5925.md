@@ -105,11 +105,11 @@ Sept. 6, 1960, Pub. L. 86–707, § 231, 74 Stat. 795.  </td>
 
 [Pub. L. 102–190, div. A, title X, § 1093][/us/pl/102/190/s1093], Dec. 5, 1991, [105 Stat. 1487][/us/stat/105/1487], provided that:
 
->     “(a) __Waiver of Requirement That Employee Be Detailed to A Post for an ‘Extended’ Period.—__ 
+>     “(a)  __Waiver of Requirement That Employee Be Detailed to A Post for an ‘Extended’ Period__  __.—__ 
 
 >     An individual who performed service of a type described in subsection (b) shall, upon appropriate written application, be granted the total amount to which such individual would have been entitled for such service under [section 5925(a) of title 5][/us/usc/t5/s5925/a], United States Code, disregarding any eligibility requirement relating to the minimum period of time for which an individual must serve at, or be detailed to, a post.
 
->     “(b) __Description of Service Involved.—__ 
+>     “(b)  __Description of Service Involved__  __.—__ 
 
 >     This section applies with respect to any period of service if, or to the extent that—
 
@@ -127,11 +127,11 @@ Sept. 6, 1960, Pub. L. 86–707, § 231, 74 Stat. 795.  </td>
 
 >         “(2) no differential under such section 5925(a) was granted to such employee for such service.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The President may prescribe any regulations necessary to carry out this section.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For the purpose of this section—
 

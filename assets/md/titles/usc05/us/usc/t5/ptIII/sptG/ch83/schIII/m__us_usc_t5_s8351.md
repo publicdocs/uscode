@@ -223,15 +223,15 @@
 
 [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 138(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–234, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 8440f of this title][/us/usc/t5/s8440f] and amending this section and sections 8432 and 8440a to 8440e of this title\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
 
->     “(2) __Coordination with election periods.—__ 
+>     “(2)  __Coordination with election periods__  __.—__ 
 
 >     The Executive Director shall by regulation determine the first election period in which elections may be made consistent with the amendments made by this section.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 

@@ -219,11 +219,11 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
 [Pub. L. 105–261, div. A, title XI, § 1101][/us/pl/105/261/s1101], Oct. 17, 1998, [112 Stat. 2139][/us/stat/112/2139], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\] title X, § 1087(d)(6), title XI, § 1113\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, 1654A–314; [Pub. L. 108–136, div. A, title IX, § 921(g)][/us/pl/108/136/s921/g], title XI, § 1116, Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570], 1636; [Pub. L. 109–364, div. A, title XI, § 1103][/us/pl/109/364/s1103], Oct. 17, 2006, [120 Stat. 2408][/us/stat/120/2408]; [Pub. L. 110–181, div. A, title XI, § 1108][/us/pl/110/181/s1108], Jan. 28, 2008, [122 Stat. 358][/us/stat/122/358]; [Pub. L. 111–84, div. A, title XI, § 1104][/us/pl/111/84/s1104], Oct. 28, 2009, [123 Stat. 2485][/us/stat/123/2485]; [Pub. L. 112–81, div. A, title XI, § 1110][/us/pl/112/81/s1110], Dec. 31, 2011, [125 Stat. 1615][/us/stat/125/1615]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vi)][/us/pl/112/239/s1076/c/2/A/vi], title XI, § 1102(a), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], 1973, provided that:
 
->     “(a) __Program Authorized.—__ 
+>     “(a)  __Program Authorized__  __.—__ 
 
 >     During the program period specified in subsection (e)(1), the Secretary of Defense may carry out a program of experimental use of the special personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects administered by the Defense Advanced Research Projects Agency and research and development projects administered by laboratories designated for the program by the Secretary from among the laboratories of each of the military departments.
 
->     “(b) __Special Personnel Management Authority.—__ 
+>     “(b)  __Special Personnel Management Authority__  __.—__ 
 
 >     Under the program, the Secretary may—
 
@@ -245,13 +245,13 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
 >         “(3) pay any employee appointed under paragraph (1) payments in addition to basic pay within the limit applicable to the employee under subsection (d).
 
->     “(c) __Limitation on Term of Appointment.—__ 
+>     “(c)  __Limitation on Term of Appointment__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed 4 years.
 
 >         “(2) The Secretary may, in the case of a particular employee, extend the period to which service is limited under paragraph (1) by up to 2 years if the Secretary determines that such action is necessary to promote the efficiency of the Defense Advanced Research Projects Agency.
 
->     “(d) __Limitations on Additional Payments.—__ 
+>     “(d)  __Limitations on Additional Payments__  __.—__ 
 
 >         (1)
 
@@ -267,7 +267,7 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
 >         “(4) An employee appointed under the program is not eligible for any bonus, monetary award, or other monetary incentive for service under the appointment other than payments authorized by this section.
 
->     “(e) __Period of Program.—__ 
+>     “(e)  __Period of Program__  __.—__ 
 
 >         (1) The period for carrying out the program authorized under this section begins on October 17, 1998, and ends on September 30, 2016.
 
@@ -281,7 +281,7 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
 >             “(C) no period of service may be extended under subsection (c)(2).
 
->     “(f) __Savings Provisions.—__ 
+>     “(f)  __Savings Provisions__  __.—__ 
 
 >     In the case of an employee who, on the last day of the program period specified in subsection (e)(1), is serving in a position pursuant to an appointment under subsection (b)(1)—
 
@@ -295,7 +295,7 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
 >         “(2) the rate of basic pay prescribed for the position under subsection (b)(2) may not be reduced for so long (within the period applicable to the employee under paragraph (1)) as the employee continues to serve in the position without a break in service.
 
->     “(g) __Annual Report.—__ 
+>     “(g)  __Annual Report__  __.—__ 
 
 >         (1)
 

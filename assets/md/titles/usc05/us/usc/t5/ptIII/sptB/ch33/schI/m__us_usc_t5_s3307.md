@@ -131,27 +131,27 @@ June 27, 1956, ch. 452, § 302 (less proviso), 70 Stat. 355.  </td>
 
 [Pub. L. 110–161, div. E, title V, § 535(e)][/us/pl/110/161/s535/e], Dec. 26, 2007, [121 Stat. 2077][/us/stat/121/2077], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\] shall become effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after the date of the enactment of this Act \[Dec. 26, 2007\].
 
 >     “(2) __Transition rules.—__ 
 
->         “(A) __Nonapplicability of mandatory separation provisions to certain individuals.—__ 
+>         “(A)  __Nonapplicability of mandatory separation provisions to certain individuals__  __.—__ 
 
 >         The amendments made by subsections (a)(3) and (b)(6) \[amending sections 8335 and 8425 of this title\], respectively, shall not apply to an individual first appointed as a customs and border protection officer before the effective date under paragraph (1).
 
->         “(B) __Treatment of prior cbpo service.—__ 
+>         “(B)  __Treatment of prior cbpo service__  __.—__ 
 
->             “(i) __General rule.—__ 
+>             “(i)  __General rule__  __.—__ 
 
 >             Except as provided in clause (ii), nothing in this section \[amending this section and sections 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title and enacting provisions set out as a note under this section\] or any amendment made by this section shall be considered to apply with respect to any service performed as a customs and border protection officer before the effective date under paragraph (1).
 
->             “(ii) __Exception.—__ 
+>             “(ii)  __Exception__  __.—__ 
 
 >             Service described in section 8331(31) or 8401(36) of title 5, United States Code (as amended by this section) rendered before the effective date under paragraph (1) may be taken into account to determine if an individual who is serving on or after such effective date then qualifies as a customs and border protection officer by virtue of holding a supervisory or administrative position in the Department of Homeland Security.
 
->         “(C) __Minimum annuity amount.—__ 
+>         “(C)  __Minimum annuity amount__  __.—__ 
 
 >         The annuity of an individual serving as a customs and border protection officer on the effective date under paragraph (1) pursuant to an appointment made before that date shall, to the extent that its computation is based on service rendered as a customs and border protection officer on or after that date, be at least equal to the amount that would be payable—
 
@@ -159,23 +159,23 @@ June 27, 1956, ch. 452, § 302 (less proviso), 70 Stat. 355.  </td>
 
 >             “(ii) to the extent such service is subject to the Federal Employees’ Retirement System, by applying section 8415(d) \[now 8415(e)\] of title 5, United States Code, with respect to such service.
 
->         “(D) __Rule of construction.—__ 
+>         “(D)  __Rule of construction__  __.—__ 
 
 >         Nothing in the amendment made by subsection (c) \[amending this section\] shall be considered to apply with respect to any appointment made before the effective date under paragraph (1).
 
 >     “(3) __Election.—__ 
 
->         “(A) __Incumbent defined.—__ 
+>         “(A)  __Incumbent defined__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘incumbent’ means an individual who is serving as a customs and border protection officer on the date of the enactment of this Act.
 
->         “(B) __Notice requirement.—__ 
+>         “(B)  __Notice requirement__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this Act, the Director of the Office of Personnel Management shall take measures reasonably designed to ensure that incumbents are notified as to their election rights under this paragraph, and the effect of making or not making a timely election.
 
 >         “(C) __Election available to incumbents.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             An incumbent may elect, for all purposes, either—
 
@@ -183,15 +183,15 @@ June 27, 1956, ch. 452, § 302 (less proviso), 70 Stat. 355.  </td>
 
 >                 “(II) to be treated as if subsections (a) and (b) had never been enacted.      “Failure to make a timely election under this paragraph shall be treated in the same way as an election made under subclause (I) on the last day allowable under clause (ii).
 
->             “(ii) __Deadline.—__ 
+>             “(ii)  __Deadline__  __.—__ 
 
 >             An election under this paragraph shall not be effective unless it is made at least 14 days before the effective date under paragraph (1).
 
->     “(4) __Definition.—__ 
+>     “(4)  __Definition__  __.—__ 
 
 >     For purposes of this subsection, the term ‘customs and border protection officer’ has the meaning given such term by section 8331(31) or 8401(36) of title 5, United States Code (as amended by this section).
 
->     “(5) __Exclusion.—__ 
+>     “(5)  __Exclusion__  __.—__ 
 
 >     Nothing in this section or any amendment made by this section shall be considered to afford any election or to otherwise apply with respect to any individual who, as of the day before the date of the enactment of this Act—
 

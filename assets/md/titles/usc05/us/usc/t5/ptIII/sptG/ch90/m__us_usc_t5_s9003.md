@@ -15,13 +15,13 @@
 
 ## § 9003. Contracting authority
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Office of Personnel Management shall, without regard to section 6101(b) to (d) of title 41 or any other statute requiring competitive bidding, contract with one or more qualified carriers for a policy or policies of long-term care insurance. The Office shall ensure that each resulting contract (hereafter in this chapter referred to as a “master contract”) is awarded on the basis of contractor qualifications, price, and reasonable competition.
 
     (b) __Terms and Conditions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each master contract under this chapter shall contain—
 
@@ -33,17 +33,17 @@
 
             (D) such other terms and conditions as may be mutually agreed to by the Office and the carrier involved, consistent with the requirements of this chapter.
 
-        (2) __Premiums.—__ 
+        (2)  __Premiums__  __.—__ 
 
         Premiums charged under each master contract entered into under this section shall reasonably and equitably reflect the cost of the benefits provided, as determined by the Office. The premiums shall not be adjusted during the term of the contract unless mutually agreed to by the Office and the carrier.
 
-        (3) __Nonrenewability.—__ 
+        (3)  __Nonrenewability__  __.—__ 
 
         Master contracts under this chapter may not be made automatically renewable.
 
     (c) __Payment of Required Benefits; Dispute Resolution.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each master contract under this chapter shall require the carrier to agree—
 
@@ -57,11 +57,11 @@
 
                 (ii) to establish, for disputes not resolved through procedures under clause (i), procedures for one or more alternative means of dispute resolution involving independent third-party review under appropriate circumstances by entities mutually acceptable to the Office and the carrier.
 
-        (2) __Eligibility.—__ 
+        (2)  __Eligibility__  __.—__ 
 
         A carrier’s determination as to whether or not a particular individual is eligible to obtain long-term care insurance coverage under this chapter shall be subject to review only to the extent and in the manner provided in the applicable master contract.
 
-        (3) __Other claims.—__ 
+        (3)  __Other claims__  __.—__ 
 
         For purposes of applying chapter 71 of title 41 to disputes arising under this chapter between a carrier and the Office—
 
@@ -69,31 +69,31 @@
 
             (B) the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in [section 7104(b)(1) of title 41][/us/usc/t41/s7104/b/1] relative to such a dispute.
 
-        (4) __Rule of construction.—__ 
+        (4)  __Rule of construction__  __.—__ 
 
         Nothing in this chapter shall be considered to grant authority for the Office or a third-party reviewer to change the terms of any contract under this chapter.
 
     (d) __Duration.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each master contract under this chapter shall be for a term of 7 years, unless terminated earlier by the Office in accordance with the terms of such contract. However, the rights and responsibilities of the enrolled individual, the insurer, and the Office (or duly designated third-party administrator) under such contract shall continue with respect to such individual until the termination of coverage of the enrolled individual or the effective date of a successor contract thereto.
 
         (2) __Exception.—__ 
 
-            (A) __Shorter duration.—__ 
+            (A)  __Shorter duration__  __.—__ 
 
             In the case of a master contract entered into before the end of the period described in subparagraph (B), paragraph (1) shall be applied by substituting “ending on the last day of the 7-year period described in paragraph (2)(B)” for “of 7 years”.
 
-            (B) __Definition.—__ 
+            (B)  __Definition__  __.—__ 
 
             The period described in this subparagraph is the 7-year period beginning on the earliest date as of which any long-term care insurance coverage under this chapter becomes effective.
 
-        (3) __Congressional notification.—__ 
+        (3)  __Congressional notification__  __.—__ 
 
         No later than 180 days after receiving the second report required under section 9006(c), the President (or his designee) shall submit to the Committees on Government Reform and on Armed Services of the House of Representatives and the Committees on Governmental Affairs and on Armed Services of the Senate, a written recommendation as to whether the program under this chapter should be continued without modification, terminated, or restructured. During the 180-day period following the date on which the President (or his designee) submits the recommendation required under the preceding sentence, the Office of Personnel Management may not take any steps to rebid or otherwise contract for any coverage to be available at any time following the expiration of the 7-year period described in paragraph (2)(B).
 
-        (4) __Full portability.—__ 
+        (4)  __Full portability__  __.—__ 
 
         Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollment shall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
 

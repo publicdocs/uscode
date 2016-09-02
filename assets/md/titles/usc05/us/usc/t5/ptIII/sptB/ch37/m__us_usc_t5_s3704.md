@@ -15,11 +15,11 @@
 
 ## § 3704. Assignment of employees from private sector organizations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An employee of a private sector organization assigned to an agency under this chapter is deemed, during the period of the assignment, to be on detail to such agency.
 
-    (b) __Terms and Conditions.—__ 
+    (b)  __Terms and Conditions__  __.—__ 
 
     An employee of a private sector organization assigned to an agency under this chapter—
 
@@ -49,11 +49,11 @@
 
         The supervision of an employee of a private sector organization assigned to an agency under this chapter may be governed by agreement between the agency and the private sector organization concerned. Such an assignment may be made with or without reimbursement by the agency for the pay, or a part thereof, of the employee during the period of assignment, or for any contribution of the private sector organization to employee benefit systems.
 
-    (c) __Coordination With Chapter 81.—__ 
+    (c)  __Coordination With Chapter__  __81.—__ 
 
     An employee of a private sector organization assigned to an agency under this chapter who suffers disability or dies as a result of personal injury sustained while performing duties during the assignment shall be treated, for the purpose of subchapter I of chapter 81, as an employee as defined by section 8101 who had sustained the injury in the performance of duty, except that, if the employee or the employee’s dependents receive from the private sector organization any payment under an insurance policy for which the premium is wholly paid by the private sector organization, or other benefit of any kind on account of the same injury or death, then, the amount of such payment or benefit shall be credited against any compensation otherwise payable under subchapter I of chapter 81.
 
-    (d) __Prohibition Against Charging Certain Costs to the Federal Government.—__ 
+    (d)  __Prohibition Against Charging Certain Costs to the Federal Government__  __.—__ 
 
     A private sector organization may not charge the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the organization to an employee assigned to an agency under this chapter for the period of the assignment.
 
