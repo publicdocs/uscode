@@ -1,0 +1,43 @@
+---
+---
+
+# 15 U.S.C., USLM ref /us/usc/t15/s1667b
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t15/ch41/schI/ptE/m__us_usc_t15_s1667a.md) | [Next](./../../../../../..//us/usc/t15/ch41/schI/ptE/m__us_usc_t15_s1667c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1667b)
+
+## § 1667b. Lessee’s liability on expiration or termination of lease
+
+    (a) __Estimated residual value of property as basis; presumptions; action by lessor for excess liability; mutually agreeable final adjustment__ 
+
+        Where the lessee’s liability on expiration of a consumer lease is based on the estimated residual value of the property such estimated residual value shall be a reasonable approximation of the anticipated actual fair market value of the property on lease expiration. There shall be a rebuttable presumption that the estimated residual value is unreasonable to the extent that the estimated residual value exceeds the actual residual value by more than three times the average payment allocable to a monthly period under the lease. In addition, where the lessee has such liability on expiration of a consumer lease there shall be a rebuttable presumption that the lessor’s estimated residual value is not in good faith to the extent that the estimated residual value exceeds the actual residual value by more than three times the average payment allocable to a monthly period under the lease and such lessor shall not collect from the lessee the amount of such excess liability on expiration of a consumer lease unless the lessor brings a successful action with respect to such excess liability. In all actions, the lessor shall pay the lessee’s reasonable attorney’s fees. The presumptions stated in this section shall not apply to the extent the excess of estimated over actual residual value is due to physical damage to the property beyond reasonable wear and use, or to excessive use, and the lease may set standards for such wear and use if such standards are not unreasonable. Nothing in this subsection shall preclude the right of a willing lessee to make any mutually agreeable final adjustment with respect to such excess residual liability, provided such an agreement is reached after termination of the lease.
+
+    (b) __Penalties and charges for delinquency, default, or early termination__ 
+
+        Penalties or other charges for delinquency, default, or early termination may be specified in the lease but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the delinquency, default, or early termination, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy.
+
+    (c) __Independent professional appraisal of residual value of property at termination of lease; finality__ 
+
+        If a lease has a residual value provision at the termination of the lease, the lessee may obtain at his expense, a professional appraisal of the leased property by an independent third party agreed to by both parties. Such appraisal shall be final and binding on the parties.
+
+([Pub. L. 90–321, title I, § 183][/us/pl/90/321/s183], as added [Pub. L. 94–240, § 3][/us/pl/94/240/s3], Mar. 23, 1976, [90 Stat. 259][/us/stat/90/259].)
+
+----------
+
+[Previous](./../../../../../..//us/usc/t15/ch41/schI/ptE/m__us_usc_t15_s1667a.md) | [Next](./../../../../../..//us/usc/t15/ch41/schI/ptE/m__us_usc_t15_s1667c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1667b)
+
+----------
+----------
+
+[/us/pl/90/321/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs183
+[/us/pl/94/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs3
+[/us/stat/90/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F259
+
+

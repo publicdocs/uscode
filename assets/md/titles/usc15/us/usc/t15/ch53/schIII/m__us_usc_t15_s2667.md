@@ -1,0 +1,73 @@
+---
+---
+
+# 15 U.S.C., USLM ref /us/usc/t15/s2667
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t15/ch53/schIII/m__us_usc_t15_s2666.md) | [Next](./../../../../..//us/usc/t15/ch53/schIII/m__us_usc_t15_s2668.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2667)
+
+## § 2667. Radon in schools
+
+    (a) __Study of radon in schools__ 
+
+        (1) __Authority__ 
+
+            The Administrator shall conduct a study for the purpose of determining the extent of radon contamination in the Nation’s school buildings.
+
+        (2) __List of high probability areas__ 
+
+            In carrying out such study, the Administrator shall identify and compile a list of areas within the United States which the Administrator determines have a high probability of including schools which have elevated levels of radon.
+
+        (3) __Basis of list__ 
+
+        In compiling such list, the Administrator shall make such determinations on the basis of, among other things, each of the following:
+
+            (A) Geological data.
+
+            (B) Data on high radon levels in homes and other structures nearby any such school.
+
+            (C) Physical characteristics of the school buildings.
+
+        (4) __Survey__ 
+
+            In conducting such study the Administrator shall design a survey which when completed allows Congress to characterize the extent of radon contamination in schools in each State. The survey shall include testing from a representative sample of schools in each high-risk area identified in paragraph (1) and shall include additional testing, to the extent resources are available for such testing. The survey also shall include any reliable testing data supplied by States, schools, or other parties.
+
+        (5) __Assistance__ 
+
+            (A) The Administrator shall make available to the appropriate agency of each State, as designated by the Governor of such State, a list of high risk areas within each State, including a delineation of such areas and any other data available to the Administrator for schools in that State. To assist such agencies, the Administrator also shall provide guidance and data detailing the risks associated with high radon levels, technical guidance and related information concerning testing for radon within schools, and methods of reducing radon levels.
+
+            (B) In addition to the assistance authorized by subparagraph (A), the Administrator is authorized to make available to the appropriate agency of each State, as designated by the Governor of such State, devices suitable for use by such agencies in conducting tests for radon within the schools under the jurisdiction of any such State agency. The Administrator is authorized to make available to such agencies the use of laboratories of the Environmental Protection Agency, or to recommend laboratories, to evaluate any such devices for the presence of radon levels.
+
+        (6) __Diagnostic and remedial efforts__ 
+
+            The Administrator is authorized to select, from high-risk areas identified in paragraph (2), school buildings for purposes of enabling the Administrator to undertake diagnostic and remedial efforts to reduce the levels of radon in such school buildings. Such diagnostic and remedial efforts shall be carried out with a view to developing technology and expertise for the purpose of making such technology and expertise available to any local educational agency and the several States.
+
+        (7) __Status report__ 
+
+            On or before October 1, 1989, the Administrator shall submit to the Congress a status report with respect to action taken by the Administrator in conducting the study required by this section, including the results of the Administrator’s diagnostic and remedial work. On or before October 1, 1989, the Administrator shall submit a final report setting forth the results of the study conducted pursuant to this section, including the results of the Administrator’s diagnostic and remedial work, and the recommendations of the Administrator.
+
+    (b) __Authorization__ 
+
+        For the purpose of carrying out the provisions of paragraph (6) of subsection (a) of this section, there are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary. For the purpose of carrying out the provisions of this section other than such paragraph (6), there are authorized to be appropriated such sums, not to exceed $1,000,000, as may be necessary.
+
+([Pub. L. 94–469, title III, § 307][/us/pl/94/469/s307], as added [Pub. L. 100–551, § 1(a)][/us/pl/100/551/s1/a], Oct. 28, 1988, [102 Stat. 2761][/us/stat/102/2761].)
+
+----------
+
+[Previous](./../../../../..//us/usc/t15/ch53/schIII/m__us_usc_t15_s2666.md) | [Next](./../../../../..//us/usc/t15/ch53/schIII/m__us_usc_t15_s2668.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2667)
+
+----------
+----------
+
+[/us/pl/94/469/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs307
+[/us/pl/100/551/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551%2Fs1%2Fa
+[/us/stat/102/2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2761
+
+

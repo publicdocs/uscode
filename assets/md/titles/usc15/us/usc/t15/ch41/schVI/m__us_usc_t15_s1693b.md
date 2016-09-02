@@ -1,0 +1,228 @@
+---
+---
+
+# 15 U.S.C., USLM ref /us/usc/t15/s1693b
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t15/ch41/schVI/m__us_usc_t15_s1693a.md) | [Next](./../../../../..//us/usc/t15/ch41/schVI/m__us_usc_t15_s1693c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693b)
+
+## § 1693b. Regulations
+
+    (a) __Prescription by the Bureau and the Board__ 
+
+        (1) __In general__ 
+
+            Except as provided in paragraph (2), the Bureau shall prescribe rules to carry out the purposes of this subchapter.
+
+        (2) __Authority of the Board__ 
+
+        The Board shall have sole authority to prescribe rules—
+
+            (A) to carry out the purposes of this subchapter with respect to a person described in [section 5519(a) of title 12][/us/usc/t12/s5519/a]; and
+
+            (B) to carry out the purposes of section 1693o–2 of this title.
+
+        In prescribing such regulations, the Board shall:
+
+        (1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. See 2010 Amendment note below. </sup></sup>  consult with the other agencies referred to in section 1693o  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title and take into account, and allow for, the continuing evolution of electronic banking services and the technology utilized in such services,
+
+        (2) 1 prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would be required, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
+
+        (3) 1 to the extent practicable, the Board shall demonstrate that the consumer protections of the proposed regulations outweigh the compliance costs imposed upon consumers and financial institutions, and
+
+        (4) 1 any proposed regulations and accompanying analyses shall be sent promptly to Congress by the Board.
+
+    (b) __Issuance of model clauses__ 
+
+        The Bureau shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of [section 1693c of this title][/us/usc/t15/s1693c] and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with [section 553 of title 5][/us/usc/t5/s553]. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Bureau shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
+
+    (c) __Criteria; modification of requirements__ 
+
+        Regulations prescribed hereunder may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of electronic fund transfers or remittance transfers, as in the judgment of the Bureau are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith. The Bureau shall by regulation modify the requirements imposed by this subchapter on small financial institutions if the Bureau determines that such modifications are necessary to alleviate any undue compliance burden on small financial institutions and such modifications are consistent with the purpose and objective of this subchapter.
+
+    (d) __Applicability to service providers other than certain financial institutions__ 
+
+        (1) __In general__ 
+
+            If electronic fund transfer services are made available to consumers by a person other than a financial institution holding a consumer’s account, the Bureau shall by regulation assure that the disclosures, protections, responsibilities, and remedies created by this subchapter are made applicable to such persons and services.
+
+        (2) __State and local government electronic benefit transfer systems__ 
+
+            (A) __“Electronic benefit transfer system” defined__ 
+
+            In this paragraph, the term “electronic benefit transfer system”—
+
+                (i) means a system under which a government agency distributes needs-tested benefits by establishing accounts that may be accessed by recipients electronically, such as through automated teller machines or point-of-sale terminals; and
+
+                (ii) does not include employment-related payments, including salaries and pension, retirement, or unemployment benefits established by a Federal, State, or local government agency.
+
+            (B) __Exemption generally__ 
+
+                The disclosures, protections, responsibilities, and remedies established under this subchapter, and any regulation prescribed or order issued by the Bureau in accordance with this subchapter, shall not apply to any electronic benefit transfer system established under State or local law or administered by a State or local government.
+
+            (C) __Exception for direct deposit into recipient’s account__ 
+
+                Subparagraph (B) shall not apply with respect to any electronic funds transfer under an electronic benefit transfer system for a deposit directly into a consumer account held by the recipient of the benefit.
+
+            (D) __Rule of construction__ 
+
+            No provision of this paragraph—
+
+                (i) affects or alters the protections otherwise applicable with respect to benefits established by any other provision  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by “of”. </sup></sup>  Federal, State, or local law; or
+
+                (ii) otherwise supersedes the application of any State or local law.
+
+        (3) __Fee disclosures at automated teller machines__ 
+
+            (A) __In general__ 
+
+            The regulations prescribed under paragraph (1) shall require any automated teller machine operator who imposes a fee on any consumer for providing host transfer services to such consumer to provide notice in accordance with subparagraph (B) to the consumer (at the time the service is provided) of—
+
+                (i) the fact that a fee is imposed by such operator for providing the service; and
+
+                (ii) the amount of any such fee.
+
+            (B) __Notice requirement__ 
+
+                The notice required under clauses (i) and (ii) of subparagraph (A) with respect to any fee described in such subparagraph shall appear on the screen of the automated teller machine, or on a paper notice issued from such machine, after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction.
+
+            (C) __Prohibition on fees not properly disclosed and explicitly assumed by consumer__ 
+
+            No fee may be imposed by any automated teller machine operator in connection with any electronic fund transfer initiated by a consumer for which a notice is required under subparagraph (A), unless—
+
+                (i) the consumer receives such notice in accordance with subparagraph (B); and
+
+                (ii) the consumer elects to continue in the manner necessary to effect the transaction after receiving such notice.
+
+            (D) __Definitions__ 
+
+            For purposes of this paragraph, the following definitions shall apply:
+
+                (i) __Automated teller machine operator__ 
+
+                The term “automated teller machine operator” means any person who—
+
+                    (I) operates an automated teller machine at which consumers initiate electronic fund transfers; and
+
+                    (II) is not the financial institution that holds the account of such consumer from which the transfer is made.
+
+                (ii) __Electronic fund transfer__ 
+
+                    The term “electronic fund transfer” includes a transaction that involves a balance inquiry initiated by a consumer in the same manner as an electronic fund transfer, whether or not the consumer initiates a transfer of funds in the course of the transaction.
+
+                (iii) __Host transfer services__ 
+
+                    The term “host transfer services” means any electronic fund transfer made by an automated teller machine operator in connection with a transaction initiated by a consumer at an automated teller machine operated by such operator.
+
+    (e) __Deference__ 
+
+    No provision of this subchapter may be construed as altering, limiting, or otherwise affecting the deference that a court affords to—
+
+        (1) the Bureau in making determinations regarding the meaning or interpretation of any provision of this subchapter for which the Bureau has authority to prescribe regulations; or
+
+        (2) the Board in making determinations regarding the meaning or interpretation of section 1693o–2 of this title.
+
+([Pub. L. 90–321, title IX, § 904][/us/pl/90/321/s904], as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3730][/us/stat/92/3730]; amended [Pub. L. 104–193, title VIII, § 891][/us/pl/104/193/s891], title IX, § 907, Aug. 22, 1996, [110 Stat. 2346][/us/stat/110/2346], 2350; [Pub. L. 106–102, title VII, § 702][/us/pl/106/102/s702], Nov. 12, 1999, [113 Stat. 1463][/us/stat/113/1463]; [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1073(a)(2), 1084(1), (3), July 21, 2010, [124 Stat. 2060][/us/stat/124/2060], 2081; [Pub. L. 112–216, § 1][/us/pl/112/216/s1], Dec. 20, 2012, [126 Stat. 1590][/us/stat/126/1590].)
+
+ __References in Text__ 
+
+    Section 1693o of this title, referred to in subsec. (a)(1), was in the original “section 917”, and was translated as meaning [section 918 of Pub. L. 90–321][/us/pl/90/321/s918] to reflect the probable intent of Congress and the renumbering of [section 917 of Pub. L. 90–321][/us/pl/90/321/s917] as section 918 by [Pub. L. 111–24, title IV, § 401][/us/pl/111/24/s401], May 22, 2009, [123 Stat. 1751][/us/stat/123/1751].
+
+ __Amendments__ 
+
+    2012—Subsec. (d)(3)(B). [Pub. L. 112–216][/us/pl/112/216], in subpar. heading, substituted “requirement” for “requirements” and, in text, substituted “The notice required under clauses (i) and (ii)” for
+
+    “(i) On the machine.—The notice required under clause (i) of subparagraph (A) with respect to any fee described in such subparagraph shall be posted in a prominent and conspicuous location on or at the automated teller machine at which the electronic fund transfer is initiated by the consumer.
+
+    “(ii) On the screen.—The notice required under clauses (i) and (ii)”
+
+    and struck out “, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction” after “completing the transaction”.
+
+    2010—[Pub. L. 111–203, § 1084(1)][/us/pl/111/203/s1084/1], substituted “Bureau” for “Board” wherever appearing in subsecs. (b) to (d).
+
+    Subsec. (a). [Pub. L. 111–203, § 1084(3)(A)][/us/pl/111/203/s1084/3/A], substituted “Prescription by the Bureau and the Board” for “Prescription by Board” in heading that had been supplied editorially and substituted initial pars. (1) and (2), relating to the Bureau’s prescription of rules and authority of the Board, for first sentence of former introductory provisions which read as follows: “The Board shall prescribe regulations to carry out the purposes of this subchapter.” Second sentence of former introductory provisions was redesignated as concluding provisions of par. (2) to reflect the probable intent of Congress.
+
+    Subsec. (c). [Pub. L. 111–203, § 1073(a)(2)][/us/pl/111/203/s1073/a/2], inserted “or remittance transfers” after “electronic fund transfers”.
+
+    Subsec. (e). [Pub. L. 111–203, § 1084(3)(B)][/us/pl/111/203/s1084/3/B], added subsec. (e).
+
+    1999—Subsec. (d)(3). [Pub. L. 106–102][/us/pl/106/102] added par. (3).
+
+    1996—Subsec. (d). [Pub. L. 104–193, § 907][/us/pl/104/193/s907], which directed the amendment of subsec. (d), was not executed because of similar amendment by [Pub. L. 104–193, § 891][/us/pl/104/193/s891]. See below. [Section 907 of Pub. L. 104–193][/us/pl/104/193/s907] provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
+
+    “(2) State and local government electronic benefit transfer programs.—
+
+    “(A) Exemption generally.—The disclosures, protections, responsibilities, and remedies established under this subchapter, and any regulation prescribed or order issued by the Board in accordance with this subchapter, shall not apply to any electronic benefit transfer program established under State or local law or administered by a State or local government.
+
+    “(B) Exception for direct deposit into recipient’s account.—Subparagraph (A) shall not apply with respect to any electronic funds transfer under an electronic benefit transfer program for deposits directly into a consumer account held by the recipient of the benefit.
+
+    “(C) Rule of construction.—No provision of this paragraph may be construed as—
+
+    “(i) affecting or altering the protections otherwise applicable with respect to benefits established by Federal, State, or local law; or
+
+    “(ii) otherwise superseding the application of any State or local law.
+
+    “(D) Electronic benefit transfer program defined.—For purposes of this paragraph, the term ‘electronic benefit transfer program’—
+
+    “(i) means a program under which a government agency distributes needs-tested benefits by establishing accounts to be accessed by recipients electronically, such as through automated teller machines, or point-of-sale terminals; and
+
+    “(ii) does not include employment-related payments, including salaries and pension, retirement, or unemployment benefits established by Federal, State, or local governments.”
+
+    [Pub. L. 104–193, § 891][/us/pl/104/193/s891], designated existing provisions as par. (1), inserted subsec. heading and par. (2), and substituted “If” for “In the event that”.
+
+ __Effective Date of 2010 Amendment__ 
+
+    Amendment by [section 1073(a)(2) of Pub. L. 111–203][/us/pl/111/203/s1073/a/2] effective 1 day after July 21, 2010, except as otherwise provided, see [section 4 of Pub. L. 111–203][/us/pl/111/203/s4], set out as an Effective Date note under [section 5301 of Title 12][/us/usc/t12/s5301], Banks and Banking.
+
+    Amendment by section 1084(1), (3) of [Pub. L. 111–203][/us/pl/111/203] effective on the designated transfer date, see [section 1100H of Pub. L. 111–203][/us/pl/111/203/s1100H], set out as a note under [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees.
+
+----------
+
+[Previous](./../../../../..//us/usc/t15/ch41/schVI/m__us_usc_t15_s1693a.md) | [Next](./../../../../..//us/usc/t15/ch41/schVI/m__us_usc_t15_s1693c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693b)
+
+----------
+----------
+
+[/us/usc/t12/s5519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5519%2Fa
+[/us/usc/t15/s1693c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693c
+[/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
+[/us/pl/90/321/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs904
+[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/stat/92/3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3730
+[/us/pl/104/193/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs891
+[/us/stat/110/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2346
+[/us/pl/106/102/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs702
+[/us/stat/113/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1463
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/stat/124/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2060
+[/us/pl/112/216/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F216%2Fs1
+[/us/stat/126/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1590
+[/us/pl/90/321/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs918
+[/us/pl/90/321/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs917
+[/us/pl/111/24/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs401
+[/us/stat/123/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1751
+[/us/pl/112/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F216
+[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
+[/us/pl/111/203/s1084/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F3%2FA
+[/us/pl/111/203/s1073/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1073%2Fa%2F2
+[/us/pl/111/203/s1084/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F3%2FB
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/104/193/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs907
+[/us/pl/104/193/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs891
+[/us/pl/104/193/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs907
+[/us/pl/104/193/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs891
+[/us/pl/111/203/s1073/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1073%2Fa%2F2
+[/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
+[/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
+
+

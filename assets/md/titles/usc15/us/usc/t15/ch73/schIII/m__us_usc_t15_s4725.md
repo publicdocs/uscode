@@ -1,0 +1,62 @@
+---
+---
+
+# 15 U.S.C., USLM ref /us/usc/t15/s4725
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4724.md) | [Next](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4726.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4725)
+
+## § 4725. United States and Foreign Commercial Service Pacific Rim initiative
+
+    (a) __In general__ 
+
+    In order to encourage the export of United States goods and services to Japan, South Korea, and Taiwan, the United States and Foreign Commercial Service shall make a special effort to—
+
+        (1) identify United States goods and services which are not being exported to the markets of Japan, South Korea, and Taiwan but which could be exported to these markets under competitive market conditions;
+
+        (2) identify and notify United States persons who sell or provide such goods or services of potential opportunities identified under paragraph (1);
+
+        (3) present, periodically, a list of the goods and services identified under paragraph (1), together with a list of any impediments to the export of such goods and services, to appropriate authorities in Japan, South Korea, and Taiwan, with a view toward liberalizing markets to such goods and services;
+
+        (4) facilitate the entrance into such markets by United States persons identified and notified under paragraph (2); and
+
+        (5) monitor and evaluate the results of efforts to increase the sale of goods and services in such markets.
+
+    (b) __Reports to Congress__ 
+
+        The Secretary of Commerce shall report periodically to the Congress on activities carried out under subsection (a) of this section.
+
+    (c) __“United States person” defined__ 
+
+    As used in this section, the term “United States person” means—
+
+        (1) a United States citizen; or
+
+        (2) a corporation, partnership, or other association created under the laws of the United States or any State (including the District of Columbia or any commonwealth, territory, or possession of the United States).
+
+([Pub. L. 100–418, title II, § 2306][/us/pl/100/418/s2306], Aug. 23, 1988, [102 Stat. 1344][/us/stat/102/1344].)
+
+ __Termination of Reporting Requirements__ 
+
+    For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b) of this section is listed on page 51), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.
+
+----------
+
+[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4724.md) | [Next](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4726.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4725)
+
+----------
+----------
+
+[/us/pl/100/418/s2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2306
+[/us/stat/102/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1344
+[/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
+[/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+
+

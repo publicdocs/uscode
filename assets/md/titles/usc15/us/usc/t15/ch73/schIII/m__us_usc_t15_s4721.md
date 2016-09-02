@@ -1,0 +1,200 @@
+---
+---
+
+# 15 U.S.C., USLM ref /us/usc/t15/s4721
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_ch73_schIII.md) | [Next](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4722.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4721)
+
+## § 4721. United States and Foreign Commercial Service
+
+    (a) __Establishment__ 
+
+        (1) __In general__ 
+
+            The Secretary of Commerce shall establish, within the International Trade Administration, the United States and Foreign Commercial Service. The Secretary shall, to the greatest extent practicable, transfer to the Commercial Service the functions and personnel of the United States and Foreign Commercial Services.
+
+        (2) __Assistant Secretary of Commerce and Director General; other personnel__ 
+
+            The head of the Commercial Service shall be the Assistant Secretary of Commerce and Director General of the Commercial Service, who shall be appointed by the President, by and with the advice and consent of the Senate. The Assistant Secretary of Commerce and Director General of the Commercial Service may appoint Commercial Service Officers and such other personnel as may be necessary to carry out the activities of the Commercial Service.
+
+        (3) __Coordination with foreign policy objectives__ 
+
+            The Secretary shall take the necessary steps to ensure that the activities of the Commercial Service are carried out in a manner consistent with United States foreign policy objectives, and the Secretary shall consult regularly with the Secretary of State in order to comply with this paragraph.
+
+        (4) __Authority of chief of mission__ 
+
+            All activities of the Commercial Service shall be subject to section 207 of the Foreign Service Act of 1980 ([22 U.S.C. 3927][/us/usc/t22/s3927]).
+
+    (b) __Statement of purpose__ 
+
+    The Commercial Service shall place primary emphasis on the promotion of exports of goods and services from the United States, particularly by small businesses and medium-sized businesses, and on the protection of United States business interests abroad by carrying out activities such as—
+
+        (1) identifying United States businesses with the potential to export goods and services and providing such businesses with advice and information on establishing export businesses;
+
+        (2) providing United States exporters with information on economic conditions, market opportunities, the status of the intellectual property system in such country, and the legal and regulatory environment within foreign countries;
+
+        (3) providing United States exporters with information and advice on the necessary adaptation of product design and marketing strategy to meet the differing cultural and technical requirements of foreign countries;
+
+        (4) providing United States exporters with actual leads and an introduction to contacts within foreign countries;
+
+        (5) assisting United States exporters in locating reliable sources of business services in foreign countries;
+
+        (6) assisting United States exporters in their dealings with foreign governments and enterprises owned by foreign governments;
+
+        (7) assisting the coordination of the efforts of State and local agencies and private organizations which seek to promote United States business interests abroad so as to maximize their effectiveness and minimize the duplication of efforts;
+
+        (8) utilizing district and foreign offices as one-stop shops for United States exporters by providing exporters with information on all export promotion and export finance activities of the Federal Government, assisting exporters in identifying which Federal programs may be of greatest assistance, and assisting exporters in making contact with the Federal programs identified; and
+
+        (9) providing United States exporters and export finance institutions with information on all financing and insurance programs of the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration, including providing assistance in completing applications for such programs and working with exporters and export finance institutions to address any deficiencies in such applications that have been submitted.
+
+    (c) __Offices__ 
+
+        (1) __In general__ 
+
+            The Commercial Service shall conduct its activities at a headquarters office, district offices located in major United States cities, and foreign offices located in major foreign cities.
+
+        (2) __Headquarters__ 
+
+            The headquarters of the Commercial Service shall provide such managerial, administrative, research, and other services as the Secretary considers necessary to carry out the purposes of the Commercial Service.
+
+        (3) __District offices__ 
+
+            The Secretary shall establish district offices of the Commercial Service in any United States city in a region in which the Secretary determines that there is a need for Federal Government export assistance.
+
+        (4) __Foreign offices__ 
+
+            (A) The Secretary may, after consultation with the Secretary of State, establish foreign offices of the Commercial Service. These offices shall be located in foreign cities in regions in which the Secretary determines there are significant business opportunities for United States exporters.
+
+            (B) The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial Service Officers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 \[[22 U.S.C. 3901][/us/usc/t22/s3901] et seq.\]. The Secretary shall designate a Commercial Officer  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Commercial Service Officer”. </sup></sup>  as head of each foreign office.
+
+            (C) Upon the request of the Secretary, the Secretary of State shall attach the Commercial Service Officers and other employees of each foreign office to the diplomatic mission of the United States in the country in which that foreign office is located, and shall obtain for them diplomatic privileges and immunities equivalent to those enjoyed by Foreign Service personnel of comparable rank and salary.
+
+            (D) For purposes of official representation, the senior Commercial Service Officer in each country shall be considered to be the senior commercial representative of the United States in that country, and the United States chief of mission in that country shall accord that officer all privileges and responsibilities appropriate to the position of senior commercial representative of other countries.
+
+            (E) The Secretary of State is authorized, upon the request of the Secretary, to provide office space, equipment, facilities, and such other administrative and clerical services as may be required for the operation of the foreign offices. The Secretary is authorized to reimburse or advance funds to the Secretary of State for such services.
+
+            (F) The authority of the Secretary under this paragraph shall be subject to [section 4802 of title 22][/us/usc/t22/s4802].
+
+    (d) __Rank of Commercial Service Officers in foreign missions__ 
+
+        (1) __Minister-Counselor__ 
+
+            Notwithstanding any other provision of law, the Secretary is authorized to designate up to 16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
+
+        (2) __Consul General__ 
+
+            In any United States consulate in which a vacancy occurs in the position of Consul General, the Secretary of State, in consultation with the Secretary, shall consider filling that vacancy with a Commercial Service Officer if the primary functions of the consulate are of a commercial nature and if there are significant business opportunities for United States exporters in the region in which the consulate is located.
+
+    (e) __Information dissemination__ 
+
+        In order to carry out subsection (b)(7) of this section, to lessen the cost of distribution of information produced by the Commercial Service, and to make that information more readily available, the Secretary should establish a system for distributing that information in those areas where no district offices of the Commercial Service are located. Distributors of the information should be State export promotion agencies or private export and trade promotion associations. The distribution system should be consistent with cost recovery objectives of the Department of Commerce.
+
+    (f) __Cooperation in Federal financing and insurance programs__ 
+
+    To assist the Commercial Service in carrying out subsection (b)(9) of this section, and consistent with the provisions of [section 635i–7 of title 12][/us/usc/t12/s635i–7], the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration shall each—
+
+        (1) provide to the Commercial Service complete and current information on all of its programs and financing practices; and
+
+        (2) undertake a training program regarding such programs and practices for Commercial Service Officers who are designated by the Assistant Secretary of Commerce and Director General of the Commercial Service.
+
+    (g) __Audits__ 
+
+    The Inspector General of the Department of Commerce shall perform periodic audits of the operations of the Commercial Service, but at least once every 3 years. The Inspector General shall report to the Congress the results of each such audit. In addition to an overview of the activities and effectiveness of Commercial Service operations, the audit shall include—
+
+        (1) an evaluation of the current placement of domestic personnel and recommendations for transferring personnel among district offices;
+
+        (2) an evaluation of the current placement of foreign-based personnel and recommendations for transferring such personnel in response to newly emerging business opportunities for United States exporters; and
+
+        (3) an evaluation of the personnel system and its management, including the recruitment, assignment, promotion, and performance appraisal of personnel, the use of limited appointees, and the “time-in-class” system.
+
+    (h) __Report by Secretary__ 
+
+        Not later than 1 year after August 23, 1988, the Secretary shall submit a report to the Congress on the feasibility and desirability, the progress to date, the present status, and the 5-year outlook, of the comprehensive integration of the functions and personnel of the foreign and domestic export promotion operations within the International Trade Administration of the Department of Commerce.
+
+    (i) __Omitted__ 
+
+    (j) __Definitions__ 
+
+    For purposes of this section—
+
+        (1) the term “Secretary” means the Secretary of Commerce;
+
+        (2) the term “Commercial Service” means the United States and Foreign Commercial Service;
+
+        (3)
+
+         the term “United States exporter” means—
+
+            (A) a United States citizen;
+
+            (B) a corporation, partnership, or other association created under the laws of the United States or of any State; or
+
+            (C) a foreign corporation, partnership, or other association, more than 95 percent of which is owned by persons described in subparagraphs (A) and (B),
+
+            that exports, or seeks to export, goods or services produced in the United States;
+
+        (4) the term “small business” means any small business concern as defined under [section 632 of this title][/us/usc/t15/s632];
+
+        (5) the term “State” means any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States; and
+
+        (6) the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+([Pub. L. 100–418, title II, § 2301][/us/pl/100/418/s2301], Aug. 23, 1988, [102 Stat. 1338][/us/stat/102/1338]; [Pub. L. 102–429, title II][/us/pl/102/429], §§ 202, 203, 205, Oct. 21, 1992, [106 Stat. 2201][/us/stat/106/2201], 2204.)
+
+ __References in Text__ 
+
+    The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22][/us/usc/t22/s3901] and Tables.
+
+ __Codification__ 
+
+    Section is comprised of [section 2301 of Pub. L. 100–418][/us/pl/100/418/s2301]. Subsec. (i) of [section 2301 of Pub. L. 100–418][/us/pl/100/418/s2301] amended [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees.
+
+ __Amendments__ 
+
+    1992—Subsec. (b)(8), (9). [Pub. L. 102–429][/us/pl/102/429], §§ 202, 203(a), added pars. (8) and (9).
+
+    Subsec. (d)(1). [Pub. L. 102–429, § 205][/us/pl/102/429/s205], substituted “16” for “8”.
+
+    Subsecs. (f) to (j). [Pub. L. 102–429, § 203(b)][/us/pl/102/429/s203/b], added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+
+ __Termination of Reporting Requirements__ 
+
+    For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and page 53 of House Document No. 103–7.
+
+----------
+
+[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_ch73_schIII.md) | [Next](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4722.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4721)
+
+----------
+----------
+
+[/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927
+[/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
+[/us/usc/t22/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802
+[/us/usc/t12/s635i–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%937
+[/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
+[/us/pl/100/418/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2301
+[/us/stat/102/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1338
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/stat/106/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2201
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
+[/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
+[/us/pl/100/418/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2301
+[/us/pl/100/418/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2301
+[/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs205
+[/us/pl/102/429/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs203%2Fb
+[/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
+[/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+
+
