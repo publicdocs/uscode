@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schVII/m__us_usc_t12_s131 to 138.md) | [Next](./../../../../..//us/usc/t12/ch2/schVIII/m__us_usc_t12_s141.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschVIII)
+[Previous](./../../../../..//us/usc/t12/ch2/schVII/m__us_usc_t12_ch2_schVII.md) | [Next](./../../../../..//us/usc/t12/ch2/schVIII/m__us_usc_t12_s141.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschVIII)
 
 ### SUBCHAPTER VIII—RESERVE CITIES; LAWFUL RESERVES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schVII/m__us_usc_t12_s131 to 138.md) | [Next](./../../../../..//us/usc/t12/ch2/schVIII/m__us_usc_t12_s141.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschVIII)
+[Previous](./../../../../..//us/usc/t12/ch2/schVII/m__us_usc_t12_ch2_schVII.md) | [Next](./../../../../..//us/usc/t12/ch2/schVIII/m__us_usc_t12_s141.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschVIII)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 1468b. Powers of examiners
 
-For the purposes of this chapter, examiners appointed by the a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Federal banking agency shall—
+    For the purposes of this chapter, examiners appointed by the a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Federal banking agency shall—
 
     (1) be subject to the same requirements, responsibilities, and penalties as are applicable to examiners under the Federal Reserve Act \[[12 U.S.C. 221][/us/usc/t12/s221] et seq.\] and title LXII of the Revised Statutes; and
 

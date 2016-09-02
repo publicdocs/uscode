@@ -307,7 +307,7 @@
 
  __Amendment of Subsection (c)(2)__ 
 
-[Pub. L. 112–78, § 402(b)][/us/pl/112/78/s402/b], Dec. 23, 2011, [125 Stat. 1289][/us/stat/125/1289], provided that, effective Oct. 1, 2021, subsection (c)(2) of this section is amended by striking subparagraph (C). See 2011 Amendment note below.
+    [Pub. L. 112–78, § 402(b)][/us/pl/112/78/s402/b], Dec. 23, 2011, [125 Stat. 1289][/us/stat/125/1289], provided that, effective Oct. 1, 2021, subsection (c)(2) of this section is amended by striking subparagraph (C). See 2011 Amendment note below.
 
  __References in Text__ 
 

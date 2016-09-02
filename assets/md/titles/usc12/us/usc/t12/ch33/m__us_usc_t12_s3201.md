@@ -15,7 +15,7 @@
 
 ## § 3201. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “depository institution” means a commercial bank, a savings bank, a trust company, a savings and loan association, a building and loan association, a homestead association, a cooperative bank, an industrial bank, or a credit union;
 

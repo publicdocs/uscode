@@ -15,7 +15,7 @@
 
 ## § 5386. Mandatory terms and conditions for all orderly liquidation actions
 
-In taking action under this subchapter, the Corporation shall—
+    In taking action under this subchapter, the Corporation shall—
 
     (1) determine that such action is necessary for purposes of the financial stability of the United States, and not for the purpose of preserving the covered financial company;
 

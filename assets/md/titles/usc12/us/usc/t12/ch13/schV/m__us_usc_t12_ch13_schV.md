@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_s1730f to 1730i.md) | [Next](./../../../../..//us/usc/t12/ch13/schV/m__us_usc_t12_s1731.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschV)
+[Previous](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_s1730e.md) | [Next](./../../../../..//us/usc/t12/ch13/schV/m__us_usc_t12_s1731.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschV)
 
 ### SUBCHAPTER V—MISCELLANEOUS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_s1730f to 1730i.md) | [Next](./../../../../..//us/usc/t12/ch13/schV/m__us_usc_t12_s1731.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschV)
+[Previous](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_s1730e.md) | [Next](./../../../../..//us/usc/t12/ch13/schV/m__us_usc_t12_s1731.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschV)
 
 ----------
 ----------

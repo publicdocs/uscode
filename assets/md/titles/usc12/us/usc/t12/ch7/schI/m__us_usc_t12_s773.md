@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s771, 772.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s773a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs773)
+[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s761.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s773a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs773)
 
 ## § 773. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s771, 772.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s773a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs773)
+[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s761.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s773a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs773)
 
 ----------
 ----------

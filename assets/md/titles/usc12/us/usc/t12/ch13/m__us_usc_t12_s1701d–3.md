@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701d–1, 1701d–2.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701d–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701d%E2%80%933)
+[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701d.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701d–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701d%E2%80%933)
 
 ## § 1701d–3. Repealed. [Pub. L. 91–609, title V, § 503(3)][/us/pl/91/609/s503/3], Dec. 31, 1970, [84 Stat. 1785][/us/stat/84/1785]
 
@@ -19,7 +19,7 @@ Section, acts [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title VI, §�
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701d–1, 1701d–2.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701d–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701d%E2%80%933)
+[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701d.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701d–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701d%E2%80%933)
 
 ----------
 ----------

@@ -113,21 +113,31 @@
 
 >                 “(ii) __Limitation on operating authority.—__ 
 
->                      “(I) In general.—Notwithstanding clause (i) and subparagraph (A)(ii), the authority of the Federal Intermediate Credit Bank of Jackson to operate as provided under clause (i) shall expire, and the Farm Credit Administration shall revoke the Bank’s charter, immediately on the Bank’s merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
+>                          “(I) __In general.—__ 
 
->                      “(II) District boundary modification.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson shall not include the authority for the Bank to modify, nor shall the Farm Credit Administration approve such a modification to, the boundaries of the Fifth Farm Credit District to reaffiliate any portion of the District with another Farm Credit Bank, except—
+>                     Notwithstanding clause (i) and subparagraph (A)(ii), the authority of the Federal Intermediate Credit Bank of Jackson to operate as provided under clause (i) shall expire, and the Farm Credit Administration shall revoke the Bank’s charter, immediately on the Bank’s merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
 
->                     “(aa) in the case of the merger of the entire Bank as an entity with a Farm Credit Bank such that the entire chartered territory of the Federal Intermediate Credit Bank of Jackson (except as provided in item (bb)) is merged with the Farm Credit Bank; and
+>                          “(II) __District boundary modification.—__ 
 
->                     “(bb) in the case of the reaffiliation of the Northwest Louisiana Production Credit Association with another farm credit district pursuant to the Farm Credit Act of 1971 ([12 U.S.C. 2001][/us/usc/t12/s2001] et seq.) and any applicable regulations under such Act.
+>                     Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson shall not include the authority for the Bank to modify, nor shall the Farm Credit Administration approve such a modification to, the boundaries of the Fifth Farm Credit District to reaffiliate any portion of the District with another Farm Credit Bank, except—
+
+>                         “(aa) in the case of the merger of the entire Bank as an entity with a Farm Credit Bank such that the entire chartered territory of the Federal Intermediate Credit Bank of Jackson (except as provided in item (bb)) is merged with the Farm Credit Bank; and
+
+>                         “(bb) in the case of the reaffiliation of the Northwest Louisiana Production Credit Association with another farm credit district pursuant to the Farm Credit Act of 1971 ([12 U.S.C. 2001][/us/usc/t12/s2001] et seq.) and any applicable regulations under such Act.
 
 >                 “(iii) __Limitation on authority to merge.—__ 
 
->                          “(I) In general.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as provided under clause (i) shall expire, and the Farm Credit Administration shall revoke the Bank’s charter, immediately on the Bank’s merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
+>                          “(I) __In general.—__ 
 
->                          “(II) Bank integrity.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank shall be limited to a merger of the Federal Intermediate Credit Bank of Jackson (as chartered on the date of enactment of this subsection \[Oct. 28, 1992\] to include the territory in the States of Alabama, Louisiana, and Mississippi, except as provided in clause (ii)(II)(bb)) as a whole entity such that the entire chartered territory of the Federal Intermediate Credit Bank of Jackson is merged with the Farm Credit Bank.
+>                     Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as provided under clause (i) shall expire, and the Farm Credit Administration shall revoke the Bank’s charter, immediately on the Bank’s merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
 
->                          “(III) Limitation.—Beginning on the date of an order issued by the Farm Credit Administration under subparagraph (D), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank shall be limited to the arbitrated merger provided for in paragraph (2).
+>                          “(II) __Bank integrity.—__ 
+
+>                     Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank shall be limited to a merger of the Federal Intermediate Credit Bank of Jackson (as chartered on the date of enactment of this subsection \[Oct. 28, 1992\] to include the territory in the States of Alabama, Louisiana, and Mississippi, except as provided in clause (ii)(II)(bb)) as a whole entity such that the entire chartered territory of the Federal Intermediate Credit Bank of Jackson is merged with the Farm Credit Bank.
+
+>                          “(III) __Limitation.—__ 
+
+>                     Beginning on the date of an order issued by the Farm Credit Administration under subparagraph (D), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank shall be limited to the arbitrated merger provided for in paragraph (2).
 
 >             “(C) __Extension.—__ 
 
@@ -137,7 +147,9 @@
 
 >                 “(ii) __Compliance.—__ 
 
->                 If the Farm Credit Administration grants an extension under clause (i), it shall issue an order under subparagraph (D) immediately if—         “(I) the Federal Intermediate Credit Bank of Jackson, or the Farm Credit Bank that is a signatory to the letter of intent under clause (i), provides written notification to the Farm Credit Administration that the bank does not intend to complete the merger described in the letter of intent;
+>                 If the Farm Credit Administration grants an extension under clause (i), it shall issue an order under subparagraph (D) immediately if—
+
+>                          “(I) the Federal Intermediate Credit Bank of Jackson, or the Farm Credit Bank that is a signatory to the letter of intent under clause (i), provides written notification to the Farm Credit Administration that the bank does not intend to complete the merger described in the letter of intent;
 
 >                          “(II) the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is not complying with any term or condition on which an extension under clause (i) was conditioned; or
 
@@ -167,7 +179,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 Not later than 100 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the arbitrator shall develop and submit for certification to the Farm Credit Administration a plan specifying the terms and conditions of the merger of the two banks required under this paragraph, such that the terms and conditions are fair and equitable to the two banks, their affiliated associations, the stockholders or farmer-borrowers of the associations, and the other institutions of the Farm Credit System, and are designed to protect or enhance the safety and soundness of the Farm Credit System. In devising the plan, the arbitrator shall, to the extent practicable, achieve the following objectives:         “(I) Implementation of the preferences expressed by the affected and interested parties in submissions under clause (ii).
+>                 Not later than 100 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the arbitrator shall develop and submit for certification to the Farm Credit Administration a plan specifying the terms and conditions of the merger of the two banks required under this paragraph, such that the terms and conditions are fair and equitable to the two banks, their affiliated associations, the stockholders or farmer-borrowers of the associations, and the other institutions of the Farm Credit System, and are designed to protect or enhance the safety and soundness of the Farm Credit System. In devising the plan, the arbitrator shall, to the extent practicable, achieve the following objectives:
+
+>                          “(I) Implementation of the preferences expressed by the affected and interested parties in submissions under clause (ii).
 
 >                          “(II) Valuation of assets fairly, equitably, and consistently for all parties involved.
 
@@ -181,7 +195,9 @@
 
 >                 “(iii) __Content of plan; farm credit bank.—__ 
 
->                 The plan developed and submitted under clause (i) shall include provisions regarding the following matters:         “(I) The initial composition, following the merger, of the board of directors of the resulting Farm Credit Bank (which shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 ([12 U.S.C. 2001][/us/usc/t12/s2001] et seq.) and any applicable regulations).
+>                 The plan developed and submitted under clause (i) shall include provisions regarding the following matters:
+
+>                          “(I) The initial composition, following the merger, of the board of directors of the resulting Farm Credit Bank (which shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 ([12 U.S.C. 2001][/us/usc/t12/s2001] et seq.) and any applicable regulations).
 
 >                          “(II) The valuation, for purposes of the merger, of the assets and liabilities of the merging banks.
 
@@ -195,7 +211,9 @@
 
 >                 “(iv) __Content of plan; agricultural credit associations.—__ 
 
->                 If the arbitrator determines that the chartering of agricultural credit associations in the States of Alabama, Louisiana, and Mississippi will be in the best interests of the farmers, ranchers, and aquatic producers eligible to borrow from Farm Credit System associations, the plan required under this subparagraph shall also include, based on submissions from the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas, provisions for the establishment of agricultural credit associations to operate in the States, subject to approval in the referendum under subparagraph (F). Such provisions shall include provisions regarding the following matters:         “(I) A proposal for the establishment of an agricultural credit association in each of the geographic areas specified in subparagraph (F)(iii) (the charters of which, if validly issued under subparagraph (G)(i) pursuant to approval in the referendum under subparagraph (F), shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 ([12 U.S.C. 2001][/us/usc/t12/s2001] et seq.) and any applicable regulations).
+>                 If the arbitrator determines that the chartering of agricultural credit associations in the States of Alabama, Louisiana, and Mississippi will be in the best interests of the farmers, ranchers, and aquatic producers eligible to borrow from Farm Credit System associations, the plan required under this subparagraph shall also include, based on submissions from the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas, provisions for the establishment of agricultural credit associations to operate in the States, subject to approval in the referendum under subparagraph (F). Such provisions shall include provisions regarding the following matters:
+
+>                          “(I) A proposal for the establishment of an agricultural credit association in each of the geographic areas specified in subparagraph (F)(iii) (the charters of which, if validly issued under subparagraph (G)(i) pursuant to approval in the referendum under subparagraph (F), shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 ([12 U.S.C. 2001][/us/usc/t12/s2001] et seq.) and any applicable regulations).
 
 >                          “(II) The initial composition, if the proposal for the establishment of agricultural credit associations is approved, of the board of directors of each such agricultural credit association (which shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 ([12 U.S.C. 2001][/us/usc/t12/s2001] et seq.) and any applicable regulations).
 
@@ -227,7 +245,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 Not later than 170 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the American Arbitration Association shall conduct, and compile and forward to the Farm Credit Administration the results of, a vote of current farmer-borrowers of the production credit associations and the Federal land bank associations in the States of Alabama, Louisiana, and Mississippi, in accordance with the Election Rules of the American Arbitration Association, to determine whether the farmer-borrowers of each association in the geographic areas described in clause (iii) prefer to have credit delivered—         “(I) in the case of production credit association farmer-borrowers, through a production credit association or through an agricultural credit association as proposed in the plan; and
+>                 Not later than 170 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the American Arbitration Association shall conduct, and compile and forward to the Farm Credit Administration the results of, a vote of current farmer-borrowers of the production credit associations and the Federal land bank associations in the States of Alabama, Louisiana, and Mississippi, in accordance with the Election Rules of the American Arbitration Association, to determine whether the farmer-borrowers of each association in the geographic areas described in clause (iii) prefer to have credit delivered—
+
+>                          “(I) in the case of production credit association farmer-borrowers, through a production credit association or through an agricultural credit association as proposed in the plan; and
 
 >                          “(II) in the case of Federal land bank association farmer-borrowers, through a Federal land bank association or through an agricultural credit association as proposed in the plan.
 
@@ -239,7 +259,9 @@
 
 >                 “(iii) __Tabulation of results.—__ 
 
->                 The results of the vote under this subparagraph shall be compiled separately for production credit association farmer-borrowers and Federal land bank association farmer-borrowers in each of the following seven geographic areas:         “(I) The area served by the Federal Land Bank Association of South Mississippi.
+>                 The results of the vote under this subparagraph shall be compiled separately for production credit association farmer-borrowers and Federal land bank association farmer-borrowers in each of the following seven geographic areas:
+
+>                          “(I) The area served by the Federal Land Bank Association of South Mississippi.
 
 >                          “(II) The area served by the Federal Land Bank Association of North Mississippi.
 

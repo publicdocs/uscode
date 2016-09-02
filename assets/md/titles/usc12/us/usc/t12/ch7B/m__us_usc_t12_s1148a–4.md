@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch7B/m__us_usc_t12_s1148a–1 to 1148a–3.md) | [Next](./../../../..//us/usc/t12/ch7B/m__us_usc_t12_s1148b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1148a%E2%80%934)
+[Previous](./../../../..//us/usc/t12/ch7B/m__us_usc_t12_s1148a.md) | [Next](./../../../..//us/usc/t12/ch7B/m__us_usc_t12_s1148b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1148a%E2%80%934)
 
 ## § 1148a–4. Security for economic disaster and special livestock loans
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch7B/m__us_usc_t12_s1148a–1 to 1148a–3.md) | [Next](./../../../..//us/usc/t12/ch7B/m__us_usc_t12_s1148b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1148a%E2%80%934)
+[Previous](./../../../..//us/usc/t12/ch7B/m__us_usc_t12_s1148a.md) | [Next](./../../../..//us/usc/t12/ch7B/m__us_usc_t12_s1148b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1148a%E2%80%934)
 
 ----------
 ----------

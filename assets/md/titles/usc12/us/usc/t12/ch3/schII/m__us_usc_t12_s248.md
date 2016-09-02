@@ -15,7 +15,7 @@
 
 ## § 248. Enumerated powers
 
-The Board of Governors of the Federal Reserve System shall be authorized and empowered:
+    The Board of Governors of the Federal Reserve System shall be authorized and empowered:
 
     (a) __Examination of accounts and affairs of banks; publication of weekly statements; reports of liabilities and assets of depository institutions; covered institutions__ 
 

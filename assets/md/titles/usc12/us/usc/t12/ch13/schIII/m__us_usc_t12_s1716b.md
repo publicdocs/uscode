@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716–1, 1716a.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1717.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716b)
+[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1717.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716b)
 
 ## § 1716b. Partition of Federal National Mortgage Association into Federal National Mortgage Association and Government National Mortgage Association; assets and liabilities; operations
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716–1, 1716a.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1717.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716b)
+[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1717.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716b)
 
 ----------
 ----------

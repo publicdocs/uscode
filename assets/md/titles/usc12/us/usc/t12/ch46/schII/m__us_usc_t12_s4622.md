@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4619 to 4621.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4623.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622)
+[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4618.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4623.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622)
 
 ## § 4622. Capital restoration plans
 
@@ -49,7 +49,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4619 to 4621.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4623.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622)
+[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4618.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4623.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622)
 
 ----------
 ----------

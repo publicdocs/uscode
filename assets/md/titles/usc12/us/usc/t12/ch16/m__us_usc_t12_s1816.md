@@ -15,7 +15,7 @@
 
 ## § 1816. Factors to be considered
 
-The factors that are required, under [section 1814 of this title][/us/usc/t12/s1814], to be considered in connection with, and enumerated in, any certificate issued pursuant to [section 1814 of this title][/us/usc/t12/s1814] and that are required, under [section 1815 of this title][/us/usc/t12/s1815], to be considered by the Board of Directors in connection with any determination by such Board pursuant to [section 1815 of this title][/us/usc/t12/s1815] are the following:
+    The factors that are required, under [section 1814 of this title][/us/usc/t12/s1814], to be considered in connection with, and enumerated in, any certificate issued pursuant to [section 1814 of this title][/us/usc/t12/s1814] and that are required, under [section 1815 of this title][/us/usc/t12/s1815], to be considered by the Board of Directors in connection with any determination by such Board pursuant to [section 1815 of this title][/us/usc/t12/s1815] are the following:
 
     (1) The financial history and condition of the depository institution.
 

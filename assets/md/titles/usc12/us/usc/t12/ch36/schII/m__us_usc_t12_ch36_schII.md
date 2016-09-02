@@ -11,16 +11,44 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch36/schI/m__us_usc_t12_s3501 to 3509.md) | [Next](./../../../../..//us/usc/t12/ch36/schII/m__us_usc_t12_s3521 to 3524.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch36%2FschII)
+[Previous](./../../../../..//us/usc/t12/ch36/schI/m__us_usc_t12_ch36_schI.md) | [Next](./../../../../..//us/usc/t12/ch37/m__us_usc_t12_ch37.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch36%2FschII)
 
 ### SUBCHAPTER II—REGULATORY SIMPLIFICATION
 
+§§ 3521 to 3524. __Repealed.__  __[__  __Pub. L. 96–221, title VIII, § 806__  __][/us/pl/96/221/s806]__  __,__  __Mar. 31, 1980__  __,__  __[__  __94 Stat. 192__  __][/us/stat/94/192]__ 
+
+    Section 3521, [Pub. L. 96–221, title VIII, § 802][/us/pl/96/221/s802], Mar. 31, 1980, [94 Stat. 191][/us/stat/94/191], set forth Congressional findings with respect to regulatory simplification.
+
+    Section 3522, [Pub. L. 96–221, title VIII, § 803][/us/pl/96/221/s803], Mar. 31, 1980, [94 Stat. 191][/us/stat/94/191], set forth statement of policy respecting regulations issued by Federal financial regulatory agencies.
+
+    Section 3523, [Pub. L. 96–221, title VIII, § 804][/us/pl/96/221/s804], Mar. 31, 1980, [94 Stat. 192][/us/stat/94/192], authorized program for periodic review by financial regulatory agencies of existing regulations, and revision of regulations not in accord with policy statement.
+
+    Section 3524, [Pub. L. 96–221, title VIII, § 805][/us/pl/96/221/s805], Mar. 31, 1980, [94 Stat. 192][/us/stat/94/192], related to reporting requirements for each financial regulatory agency.
+
+ __Effective Date of Repeal__ 
+
+[Pub. L. 96–221, title VIII, § 806][/us/pl/96/221/s806], Mar. 31, 1980, [94 Stat. 192][/us/stat/94/192], provided that: 
+
+> “This title \[enacting this subchapter\] is hereby repealed five years after the date of enactment of this title \[Mar. 31, 1980\].”
+
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch36/schI/m__us_usc_t12_s3501 to 3509.md) | [Next](./../../../../..//us/usc/t12/ch36/schII/m__us_usc_t12_s3521 to 3524.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch36%2FschII)
+[Previous](./../../../../..//us/usc/t12/ch36/schI/m__us_usc_t12_ch36_schI.md) | [Next](./../../../../..//us/usc/t12/ch37/m__us_usc_t12_ch37.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch36%2FschII)
 
 ----------
 ----------
 
+[/us/pl/96/221/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs806
+[/us/stat/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F192
+[/us/pl/96/221/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs802
+[/us/stat/94/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F191
+[/us/pl/96/221/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs803
+[/us/stat/94/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F191
+[/us/pl/96/221/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs804
+[/us/stat/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F192
+[/us/pl/96/221/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs805
+[/us/stat/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F192
+[/us/pl/96/221/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs806
+[/us/stat/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F192
 
 

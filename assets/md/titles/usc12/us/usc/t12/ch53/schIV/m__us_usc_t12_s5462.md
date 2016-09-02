@@ -15,7 +15,7 @@
 
 ## § 5462. Definitions
 
-In this subchapter, the following definitions shall apply:
+    In this subchapter, the following definitions shall apply:
 
     (1) __Appropriate financial regulator__ 
 

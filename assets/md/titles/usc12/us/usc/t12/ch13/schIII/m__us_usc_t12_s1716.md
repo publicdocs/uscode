@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_ch13_schIII.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716–1, 1716a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716)
+[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_ch13_schIII.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716)
 
 ## § 1716. Declaration of purposes of subchapter
 
-The Congress declares that the purposes of this subchapter are to establish secondary market facilities for residential mortgages, to provide that the operations thereof shall be financed by private capital to the maximum extent feasible, and to authorize such facilities to—
+    The Congress declares that the purposes of this subchapter are to establish secondary market facilities for residential mortgages, to provide that the operations thereof shall be financed by private capital to the maximum extent feasible, and to authorize such facilities to—
 
     (1) provide stability in the secondary market for residential mortgages;
 
@@ -115,9 +115,15 @@ The Congress declares that the purposes of this subchapter are to establish seco
 
 > “Nothing in the amendment made by the first section of this Act \[amending sections 1716, 1717 to 1721 of this title\] shall limit the authority of the Federal National Mortgage Association to service or sell any mortgage purchased prior to the date of the enactment of this Act \[July 1, 1948\], or to purchase, service, or sell any mortgage with respect to which a commitment to purchase was made prior to the date of the enactment of this Act \[July 1, 1948\].”
 
+§§ 1716–1, 1716a. __Repealed.__  __[__  __Aug. 2, 1954, ch. 649__  __][/us/act/1954-08-02/ch649]__  __, title II, § 206,__  __[__  __68 Stat. 622__  __][/us/stat/68/622]__ 
+
+    Section 1716–1, acts [Oct. 30, 1951, ch. 642][/us/act/1951-10-30/ch642], [65 Stat. 599][/us/stat/65/599]; [June 30, 1953, ch. 170, § 14][/us/act/1953-06-30/ch170/s14], [67 Stat. 125][/us/stat/67/125], related to special authority of the Federal National Mortgage Association to make advance commitments, under certain conditions, with respect to insured cooperative-housing mortgages under [section 1715e of this title][/us/usc/t12/s1715e].
+
+    Section 1716a, [act Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 608(a), [65 Stat. 315][/us/stat/65/315], required that one of the persons constituting the Board of Directors of the Federal National Mortgage Association be appointed by the Administrator of Veterans’ Affairs from among personnel of the Veterans’ Administration.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_ch13_schIII.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716–1, 1716a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716)
+[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_ch13_schIII.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716)
 
 ----------
 ----------
@@ -178,5 +184,14 @@ The Congress declares that the purposes of this subchapter are to establish seco
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/act/1948-07-01/ch784/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-01%2Fch784%2Fs2
 [/us/stat/62/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1209
+[/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
+[/us/stat/68/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F622
+[/us/act/1951-10-30/ch642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-30%2Fch642
+[/us/stat/65/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F599
+[/us/act/1953-06-30/ch170/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs14
+[/us/stat/67/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F125
+[/us/usc/t12/s1715e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715e
+[/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
+[/us/stat/65/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F315
 
 

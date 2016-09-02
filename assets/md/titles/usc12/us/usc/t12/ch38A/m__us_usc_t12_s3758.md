@@ -15,7 +15,7 @@
 
 ## § 3758. Service of notice of foreclosure sale
 
-The foreclosure commissioner shall serve the notice of default and foreclosure sale described in [section 3757 of this title][/us/usc/t12/s3757] upon the following persons and in the following manner, and no additional notice shall be required to be served, notwithstanding any notice requirements of any State or local law:
+    The foreclosure commissioner shall serve the notice of default and foreclosure sale described in [section 3757 of this title][/us/usc/t12/s3757] upon the following persons and in the following manner, and no additional notice shall be required to be served, notwithstanding any notice requirements of any State or local law:
 
     (1) __Timing__ 
 

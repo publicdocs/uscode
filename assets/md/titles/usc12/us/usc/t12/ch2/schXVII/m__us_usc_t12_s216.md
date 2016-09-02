@@ -15,7 +15,7 @@
 
 ## § 216. Purpose
 
-The purpose of this subchapter is to dispose of unclaimed property in the possession, custody, or control of the Comptroller of the Currency by—
+    The purpose of this subchapter is to dispose of unclaimed property in the possession, custody, or control of the Comptroller of the Currency by—
 
     (1) providing final notice of the availability of unclaimed property from closed national banks;
 

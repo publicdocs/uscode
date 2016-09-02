@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schII/m__us_usc_t12_ch7_schII.md) | [Next](./../../../../..//us/usc/t12/ch7/schII/m__us_usc_t12_s1017 to 1019.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1016)
+[Previous](./../../../../..//us/usc/t12/ch7/schII/m__us_usc_t12_ch7_schII.md) | [Next](./../../../../..//us/usc/t12/ch7/schII–A/m__us_usc_t12_ch7_schII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1016)
 
 ## § 1016. Repealed and Omitted
 
@@ -21,9 +21,17 @@
 
     Subsec. (h) provided: “Any instrument heretofore or hereafter executed on behalf of the Land Bank Commissioner and/or the Federal Farm Mortgage Corporation by a Federal land bank, through its duly authorized officers, shall be conclusively presumed to have been duly authorized by the Land Bank Commissioner and the Federal Farm Mortgage Corporation.”
 
+§§ 1017 to 1019. __Repealed.__  __[__  __Pub. L. 87–353, § 3(b)__  __][/us/pl/87/353/s3/b]__  __,__  __Oct. 4, 1961__  __,__  __[__  __75 Stat. 773__  __][/us/stat/75/773]__ 
+
+    Section 1017, acts [May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title II, § 33, [48 Stat. 49][/us/stat/48/49]; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title VIII, § 80(a), [48 Stat. 273][/us/stat/48/273], authorized Land Bank Commissioner to make rules and regulations and to appoint, employ and fix compensation of officers, employees, attorneys and agents.
+
+    Section 1018, acts [May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title II, § 34, [48 Stat. 49][/us/stat/48/49]; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title VIII, § 80(a), [48 Stat. 273][/us/stat/48/273], related to making available to Land Bank Commissioner of facilities of Federal land banks and Federal land bank associations.
+
+    Section 1019, [act May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title II, § 35, [48 Stat. 49][/us/stat/48/49], prescribed a penalty of not more than $1,000 fine or six months’ imprisonment or both for false representations in obtaining loan.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schII/m__us_usc_t12_ch7_schII.md) | [Next](./../../../../..//us/usc/t12/ch7/schII/m__us_usc_t12_s1017 to 1019.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1016)
+[Previous](./../../../../..//us/usc/t12/ch7/schII/m__us_usc_t12_ch7_schII.md) | [Next](./../../../../..//us/usc/t12/ch7/schII–A/m__us_usc_t12_ch7_schII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1016)
 
 ----------
 ----------
@@ -70,5 +78,17 @@
 [/us/stat/75/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F773
 [/us/pl/87/353/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F353%2Fs3%2Fb
 [/us/stat/75/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F773
+[/us/pl/87/353/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F353%2Fs3%2Fb
+[/us/stat/75/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F773
+[/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
+[/us/stat/48/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F49
+[/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
+[/us/stat/48/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F273
+[/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
+[/us/stat/48/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F49
+[/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
+[/us/stat/48/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F273
+[/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
+[/us/stat/48/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F49
 
 

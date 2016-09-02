@@ -461,9 +461,13 @@
 
                 A copy of any order under subparagraph (C) shall also be served upon any depository institution that the subject of the order is affiliated with at the time the order is issued, whereupon the institution-affiliated party who is subject to the order (if a director or an officer) shall cease to be a director or officer of such depository institution.
 
-                (ii) __Effect of acquittal.—A finding of not guilty or other disposition of the charge shall not preclude the agency from instituting proceedings after such finding or disposition to remove such party from office or to prohibit further participation in depository institution affairs, pursuant to paragraph (1), (2), or (3) of subsection (e) of this section.__ 
+                (ii) __Effect of acquittal.—__ 
 
-                (iii) __Effective period.—Any notice of suspension or order of removal issued under this paragraph shall remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) unless terminated by the agency.__ 
+                A finding of not guilty or other disposition of the charge shall not preclude the agency from instituting proceedings after such finding or disposition to remove such party from office or to prohibit further participation in depository institution affairs, pursuant to paragraph (1), (2), or (3) of subsection (e) of this section.
+
+                (iii) __Effective period.—__ 
+
+                Any notice of suspension or order of removal issued under this paragraph shall remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) unless terminated by the agency.
 
             (E) __Relevant depository institution.—__ 
 

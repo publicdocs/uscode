@@ -143,7 +143,11 @@
 
 >              the oversight and supervisory practices of the Administration concerning the Fund, including the treatment of amounts deposited in the Fund pursuant to section 202(c) of the Federal Credit Union Act \[[12 U.S.C. 1782(c)][/us/usc/t12/s1782/c]\], including analysis of—
 
->                 “(i) whether those amounts should be—         “(I) refundable; or
+>                 “(i)
+
+>                  whether those amounts should be—
+
+>                          “(I) refundable; or
 
 >                          “(II) treated as expenses; and
 

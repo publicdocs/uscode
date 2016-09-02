@@ -15,7 +15,7 @@
 
 ## § 615. Powers of corporation
 
-Each corporation organized as provided in sections 611 to 614 of this title shall have power, under such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe:
+    Each corporation organized as provided in sections 611 to 614 of this title shall have power, under such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe:
 
     (a) __Dealings in drafts, checks, bills of exchange, acceptances, and other evidences of indebtedness; purchase and sale of securities; letters of credit; purchase and sale of coin, bullion, and exchange; borrowing and loaning money; issue of debentures, bonds, and notes; deposits; limitation of liabilities; reserves__ 
 

@@ -15,7 +15,7 @@
 
 ## § 5202. Definitions
 
-For purposes of this chapter, the following definitions shall apply:
+    For purposes of this chapter, the following definitions shall apply:
 
     (1) __Appropriate committees of Congress__ 
 

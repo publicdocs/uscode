@@ -321,7 +321,9 @@
 
 >                 “(iii) __Terms.—__ 
 
->                 The amount of capital to be received from private, nongovernment investors shall be—         “(I) equal to or greater than 100 percent of the capital to be received under the Program; and
+>                 The amount of capital to be received from private, nongovernment investors shall be—
+
+>                          “(I) equal to or greater than 100 percent of the capital to be received under the Program; and
 
 >                          “(II) subordinate to the capital investment made by the Secretary under the Program.
 
@@ -351,11 +353,19 @@
 
 >                 “(i) the rate at which dividends or interest are payable shall be 5 percent per annum initially;
 
->                 “(ii) within the first 2 years after the date of the capital investment under the Program, the rate may be adjusted based on the amount of an eligible institution’s small business lending. Changes in the amount of small business lending shall be measured against the average amount of small business lending reported by the eligible institution in its call reports for the 4 full quarters immediately preceding the date of enactment of this Act \[Sept. 27, 2010\], minus adjustments from each quarterly balance in respect of—         “(I) net loan charge offs with respect to small business lending; and
+>                 “(ii)
+
+>                  within the first 2 years after the date of the capital investment under the Program, the rate may be adjusted based on the amount of an eligible institution’s small business lending. Changes in the amount of small business lending shall be measured against the average amount of small business lending reported by the eligible institution in its call reports for the 4 full quarters immediately preceding the date of enactment of this Act \[Sept. 27, 2010\], minus adjustments from each quarterly balance in respect of—
+
+>                          “(I) net loan charge offs with respect to small business lending; and
 
 >                          “(II) gains realized by the eligible institution resulting from mergers, acquisitions or purchases of loans after origination and syndication; which adjustments shall be determined in accordance with guidance promulgated by the Secretary; and
 
->                 “(iii) during any calendar quarter during the initial 2-year period referred to in clause (ii), an institution’s rate shall be adjusted to reflect the following schedule, based on that institution’s change in the amount of small business lending relative to the baseline—         “(I) if the amount of small business lending has increased by less than 2.5 percent, the dividend or interest rate shall be 5 percent;
+>                 “(iii)
+
+>                  during any calendar quarter during the initial 2-year period referred to in clause (ii), an institution’s rate shall be adjusted to reflect the following schedule, based on that institution’s change in the amount of small business lending relative to the baseline—
+
+>                          “(I) if the amount of small business lending has increased by less than 2.5 percent, the dividend or interest rate shall be 5 percent;
 
 >                          “(II) if the amount of small business lending has increased by 2.5 percent or greater, but by less than 5.0 percent, the dividend or interest rate shall be 4 percent;
 
@@ -393,11 +403,21 @@
 
 >             The capital investment received by an eligible institution under the Program shall be evidenced by preferred stock or other financial instrument that—
 
->                 “(i) includes, as a term and condition, that the capital investment will—         “(I) be repaid not later than the end of the 10-year period beginning on the date of the capital investment under the Program; or
+>                 “(i)
+
+>                  includes, as a term and condition, that the capital investment will—
+
+>                          “(I) be repaid not later than the end of the 10-year period beginning on the date of the capital investment under the Program; or
 
 >                          “(II) at the end of such 10-year period, be subject to such additional terms as the Secretary shall prescribe, which shall include a requirement that the stock or instrument shall carry the highest dividend or interest rate payable; and
 
->                 “(ii) provides that the term and condition described under clause (i) shall not apply if the application of that term and condition would adversely affect the capital treatment of the stock or financial instrument under current or successor applicable capital provisions compared to a capital instrument with identical terms other than the term and condition described under clause (i).         “(I) Requirements on financial instruments issued by a community development financial institution loan fund.—Any equity equivalent capital issued to the Treasury by a community development loan fund receiving a capital investment under the Program shall provide that the rate at which interest is payable shall be 2 percent per annum for 8 years. After 8 years, the rate at which interest is payable shall be 9 percent.
+>                 “(ii)
+
+>                  provides that the term and condition described under clause (i) shall not apply if the application of that term and condition would adversely affect the capital treatment of the stock or financial instrument under current or successor applicable capital provisions compared to a capital instrument with identical terms other than the term and condition described under clause (i).
+
+>                          “(I) __Requirements on financial instruments issued by a community development financial institution loan fund.—__ 
+
+>                     Any equity equivalent capital issued to the Treasury by a community development loan fund receiving a capital investment under the Program shall provide that the rate at which interest is payable shall be 2 percent per annum for 8 years. After 8 years, the rate at which interest is payable shall be 9 percent.
 
 >         “(6) __Additional incentives to repay.—__ 
 

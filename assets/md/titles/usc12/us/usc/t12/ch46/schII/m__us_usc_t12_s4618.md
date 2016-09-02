@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4617.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4619 to 4621.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4618)
+[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4617.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4622.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4618)
 
 ## § 4618. Notice of classification and enforcement action
 
@@ -71,9 +71,17 @@
 
     Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by [section 1(a) of Pub. L. 104–14][/us/pl/104/14/s1/a], set out as a note preceding [section 21 of Title 2][/us/usc/t2/s21], The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
+§§ 4619 to 4621. __Repealed.__  __[__  __Pub. L. 110–289, div. A, title I, § 1145(b)(4)__  __][/us/pl/110/289/s1145/b/4]__  __,__  __July 30, 2008__  __,__  __[__  __122 Stat. 2767__  __][/us/stat/122/2767]__ 
+
+    Section 4619, [Pub. L. 102–550, title XIII, § 1369][/us/pl/102/550/s1369], Oct. 28, 1992, [106 Stat. 3981][/us/stat/106/3981]; [Pub. L. 110–289, div. A, title I, § 1161(a)(6)][/us/pl/110/289/s1161/a/6], July 30, 2008, [122 Stat. 2779][/us/stat/122/2779], related to appointment of conservators.
+
+    Section 4620, [Pub. L. 102–550, title XIII, § 1369A][/us/pl/102/550/s1369A], Oct. 28, 1992, [106 Stat. 3983][/us/stat/106/3983], related to powers of conservators.
+
+    Section 4621, [Pub. L. 102–550, title XIII, § 1369B][/us/pl/102/550/s1369B], Oct. 28, 1992, [106 Stat. 3984][/us/stat/106/3984], related to liability protection for conservators.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4617.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4619 to 4621.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4618)
+[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4617.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4622.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4618)
 
 ----------
 ----------
@@ -91,5 +99,15 @@
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
+[/us/pl/110/289/s1145/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1145%2Fb%2F4
+[/us/stat/122/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2767
+[/us/pl/102/550/s1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1369
+[/us/stat/106/3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3981
+[/us/pl/110/289/s1161/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fa%2F6
+[/us/stat/122/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2779
+[/us/pl/102/550/s1369A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1369A
+[/us/stat/106/3983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3983
+[/us/pl/102/550/s1369B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1369B
+[/us/stat/106/3984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3984
 
 

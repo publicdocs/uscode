@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schXI/m__us_usc_t12_s168 to 177.md) | [Next](./../../../../..//us/usc/t12/ch2/schXI/m__us_usc_t12_s178.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs177a)
+[Previous](./../../../../..//us/usc/t12/ch2/schXI/m__us_usc_t12_ch2_schXI.md) | [Next](./../../../../..//us/usc/t12/ch2/schXI/m__us_usc_t12_s178.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs177a)
 
 ## § 177a. Funds available for cost of transporting and redeeming national and Federal Reserve bank notes
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schXI/m__us_usc_t12_s168 to 177.md) | [Next](./../../../../..//us/usc/t12/ch2/schXI/m__us_usc_t12_s178.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs177a)
+[Previous](./../../../../..//us/usc/t12/ch2/schXI/m__us_usc_t12_ch2_schXI.md) | [Next](./../../../../..//us/usc/t12/ch2/schXI/m__us_usc_t12_s178.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs177a)
 
 ----------
 ----------

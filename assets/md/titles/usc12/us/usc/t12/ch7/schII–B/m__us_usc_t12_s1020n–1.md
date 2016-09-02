@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020i to 1020n.md) | [Next](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1020n%E2%80%931)
+[Previous](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_ch7_schII–B.md) | [Next](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1020n%E2%80%931)
 
 ## § 1020n–1. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020i to 1020n.md) | [Next](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1020n%E2%80%931)
+[Previous](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_ch7_schII–B.md) | [Next](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1020n%E2%80%931)
 
 ----------
 ----------

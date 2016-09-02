@@ -105,7 +105,7 @@
 
 >     “(4) the Government has a responsibility to lessen the disproportionate burden which such families bear as a result of such policies.
 
->         It is the purpose of this title \[enacting this section, and amending sections 1715z–3 and 1719 of this title\] to provide, during periods of high mortgage interest rates, a source of mortgage credit for such families which is within their financial means.”
+>     It is the purpose of this title \[enacting this section, and amending sections 1715z–3 and 1719 of this title\] to provide, during periods of high mortgage interest rates, a source of mortgage credit for such families which is within their financial means.”
 
 ----------
 

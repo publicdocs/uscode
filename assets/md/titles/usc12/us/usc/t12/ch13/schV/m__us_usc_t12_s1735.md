@@ -15,7 +15,7 @@
 
 ## § 1735. Payment of certain funds to Treasury
 
-The following funds shall be deemed an indebtedness to the United States of the particular insurance fund involved, and the Secretary is authorized and directed to pay the amount of such indebtedness to the Secretary of the Treasury, with simple interest thereon from the date the funds were advanced to the date of final payment at a rate determined by the Secretary of the Treasury, taking into consideration the average rate on outstanding marketable obligations of the United States from the date the funds were advanced until the date of final payment—
+    The following funds shall be deemed an indebtedness to the United States of the particular insurance fund involved, and the Secretary is authorized and directed to pay the amount of such indebtedness to the Secretary of the Treasury, with simple interest thereon from the date the funds were advanced to the date of final payment at a rate determined by the Secretary of the Treasury, taking into consideration the average rate on outstanding marketable obligations of the United States from the date the funds were advanced until the date of final payment—
 
     (1) funds made available to the Secretary pursuant to the provisions of sections 1705 and 1708 of this title, exclusive of amounts heretofore refunded, (a) for carrying out this subchapter and [section 484d of title 48][/us/usc/t48/s484d] with respect to mortgages insured under [section 1709 of this title][/us/usc/t12/s1709] where such funds were credited to the general reinsurance account in the Mutual Mortgage Insurance Fund, and (b) for the payment of salaries and expenses with respect to mortgage insurance under sections 1713 and 1715a of this title where such funds were credited to the Housing Insurance Fund;
 
@@ -23,7 +23,7 @@ The following funds shall be deemed an indebtedness to the United States of the 
 
     (3) funds made available to the Secretary by the Secretary of the Treasury pursuant to section 1747i 1 of this title.
 
-        Payments to the Secretary of the Treasury under this section shall be made in such amounts and at such times as the Secretary determines, after consultations with the Secretary of the Treasury, that funds are available for that purpose, taking into consideration the continued solvency of the funds involved. All payments made pursuant to this section shall be covered into the Treasury as miscellaneous receipts.
+    Payments to the Secretary of the Treasury under this section shall be made in such amounts and at such times as the Secretary determines, after consultations with the Secretary of the Treasury, that funds are available for that purpose, taking into consideration the continued solvency of the funds involved. All payments made pursuant to this section shall be covered into the Treasury as miscellaneous receipts.
 
 ([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 516, as added [June 30, 1953, ch. 170, § 9][/us/act/1953-06-30/ch170/s9], [67 Stat. 123][/us/stat/67/123]; amended [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 98–479, title II, § 204(a)(21)][/us/pl/98/479/s204/a/21], Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232].)
 

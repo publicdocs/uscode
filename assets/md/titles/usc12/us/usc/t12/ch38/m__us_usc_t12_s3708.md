@@ -15,7 +15,7 @@
 
 ## § 3708. Service of notice of default and foreclosure sale
 
-The foreclosure commissioner shall serve the notice of default and foreclosure sale provided for in [section 3706 of this title][/us/usc/t12/s3706] upon the following persons and in the following manner, and no additional notice shall be required to be served notwithstanding any notice requirements of any State or local law—
+    The foreclosure commissioner shall serve the notice of default and foreclosure sale provided for in [section 3706 of this title][/us/usc/t12/s3706] upon the following persons and in the following manner, and no additional notice shall be required to be served notwithstanding any notice requirements of any State or local law—
 
     (1)
 

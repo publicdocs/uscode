@@ -15,7 +15,7 @@
 
 ## § 2277a. Definitions
 
-As used in this part:
+    As used in this part:
 
     (1) __Board of Directors__ 
 

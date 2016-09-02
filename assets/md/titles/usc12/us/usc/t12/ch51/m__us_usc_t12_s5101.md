@@ -15,7 +15,7 @@
 
 ## § 5101. Purposes and methods for establishing a mortgage licensing system and registry
 
-In order to increase uniformity, reduce regulatory burden, enhance consumer protection, and reduce fraud, the States, through the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators, are hereby encouraged to establish a Nationwide Mortgage Licensing System and Registry for the residential mortgage industry that accomplishes all of the following objectives:
+    In order to increase uniformity, reduce regulatory burden, enhance consumer protection, and reduce fraud, the States, through the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators, are hereby encouraged to establish a Nationwide Mortgage Licensing System and Registry for the residential mortgage industry that accomplishes all of the following objectives:
 
     (1) Provides uniform license applications and reporting requirements for State-licensed loan originators.
 

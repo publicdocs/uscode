@@ -15,7 +15,7 @@
 
 ## § 3101. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) “agency” means any office or any place of business of a foreign bank located in any State of the United States at which credit balances are maintained incidental to or arising out of the exercise of banking powers, checks are paid, or money is lent but at which deposits may not be accepted from citizens or residents of the United States;
 

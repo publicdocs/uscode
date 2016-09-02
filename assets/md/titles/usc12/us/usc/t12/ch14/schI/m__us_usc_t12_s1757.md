@@ -15,7 +15,7 @@
 
 ## § 1757. Powers
 
-A Federal credit union shall have succession in its corporate name during its existence and shall have power—
+    A Federal credit union shall have succession in its corporate name during its existence and shall have power—
 
     (1) to make contracts;
 

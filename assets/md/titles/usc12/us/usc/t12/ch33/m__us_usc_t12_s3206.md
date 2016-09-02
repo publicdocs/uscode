@@ -15,7 +15,7 @@
 
 ## § 3206. Administration and enforcement
 
-This chapter shall be administered and enforced by—
+    This chapter shall be administered and enforced by—
 
     (1) the Comptroller of the Currency with respect to national banks and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation),
 

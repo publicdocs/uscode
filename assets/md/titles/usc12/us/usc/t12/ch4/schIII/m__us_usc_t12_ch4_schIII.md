@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch4/schII/m__us_usc_t12_s544 to 547.md) | [Next](./../../../../..//us/usc/t12/ch4/schIII/m__us_usc_t12_s548.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch4%2FschIII)
+[Previous](./../../../../..//us/usc/t12/ch4/schII/m__us_usc_t12_s543.md) | [Next](./../../../../..//us/usc/t12/ch4/schIII/m__us_usc_t12_s548.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch4%2FschIII)
 
 ### SUBCHAPTER III—NATIONAL BANK SHARES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch4/schII/m__us_usc_t12_s544 to 547.md) | [Next](./../../../../..//us/usc/t12/ch4/schIII/m__us_usc_t12_s548.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch4%2FschIII)
+[Previous](./../../../../..//us/usc/t12/ch4/schII/m__us_usc_t12_s543.md) | [Next](./../../../../..//us/usc/t12/ch4/schIII/m__us_usc_t12_s548.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch4%2FschIII)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 4307. Periodic statements
 
-Each depository institution shall include on or with each periodic statement provided to each account holder at such institution a clear and conspicuous disclosure of the following information with respect to such account:
+    Each depository institution shall include on or with each periodic statement provided to each account holder at such institution a clear and conspicuous disclosure of the following information with respect to such account:
 
     (1) The annual percentage yield earned.
 

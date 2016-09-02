@@ -15,7 +15,7 @@
 
 ## § 2702. Mortgages eligible for assistance
 
-No assistance shall be extended with respect to any mortgage under this chapter unless—
+    No assistance shall be extended with respect to any mortgage under this chapter unless—
 
     (1) the holder of the mortgage has indicated to the mortgagor its intention to foreclose;
 

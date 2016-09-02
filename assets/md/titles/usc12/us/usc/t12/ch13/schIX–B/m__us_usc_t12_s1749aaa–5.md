@@ -15,7 +15,7 @@
 
 ## § 1749aaa–5. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) The term “group practice facility” means a facility in a State for the provision of preventive, diagnostic, and treatment services to ambulatory patients (in which patient care is under the professional supervision of persons licensed to practice medicine or osteopathy in the State or, in the case of optometric care or treatment, is under the professional supervision of persons licensed to practice optometry in the State, or, in the case of dental diagnosis or treatment, is under the professional supervision of persons licensed to practice dentistry in the State, or, in the case of podiatric care or treatment, is under the professional supervision of persons licensed to practice podiatry in the State) and which is primarily for the provision of such health services by a medical or dental group.
 

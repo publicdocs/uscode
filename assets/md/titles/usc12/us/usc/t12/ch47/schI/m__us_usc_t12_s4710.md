@@ -15,7 +15,7 @@
 
 ## § 4710. Collection and compilation of information
 
-The Fund shall—
+    The Fund shall—
 
     (1) collect and compile information pertinent to community development financial institutions that will assist in creating, developing, expanding, and preserving such institutions; and
 

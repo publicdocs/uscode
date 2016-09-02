@@ -15,7 +15,7 @@
 
 ## § 1701c. Secretary of Housing and Urban Development
 
-In carrying out his functions, powers, and duties—
+    In carrying out his functions, powers, and duties—
 
     (a) __Employment of personnel; delegation of functions__ 
 

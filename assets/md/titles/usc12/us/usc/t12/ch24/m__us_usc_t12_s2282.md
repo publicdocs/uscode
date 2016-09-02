@@ -15,7 +15,7 @@
 
 ## § 2282. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “Federal agency” means an executive department, an independent Federal establishment, or a corporation or other entity established by the Congress which is owned in whole or in part by the United States.
 

@@ -15,7 +15,7 @@
 
 ## § 2277a–7. General corporate powers
 
-On January 6, 1988, the Corporation shall become a body corporate and as such shall have the following powers:
+    On January 6, 1988, the Corporation shall become a body corporate and as such shall have the following powers:
 
     (1) __Seal__ 
 

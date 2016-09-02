@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch5/schII/m__us_usc_t12_s591 to 599.md) | [Next](./../../../..//us/usc/t12/ch6/schI/m__us_usc_t12_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch6)
+[Previous](./../../../..//us/usc/t12/ch5/schII/m__us_usc_t12_ch5_schII.md) | [Next](./../../../..//us/usc/t12/ch6/schI/m__us_usc_t12_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch6)
 
 ## CHAPTER 6—FOREIGN BANKING
 
@@ -283,7 +283,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch5/schII/m__us_usc_t12_s591 to 599.md) | [Next](./../../../..//us/usc/t12/ch6/schI/m__us_usc_t12_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch6)
+[Previous](./../../../..//us/usc/t12/ch5/schII/m__us_usc_t12_ch5_schII.md) | [Next](./../../../..//us/usc/t12/ch6/schI/m__us_usc_t12_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch6)
 
 ----------
 ----------

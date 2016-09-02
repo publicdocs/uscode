@@ -83,7 +83,7 @@
 
                 “(ii) 15 percent of the sum of the amounts determined under such subparagraph, in the case of an institution which is a community development financial institution; and
 
-                “(B) with respect to qualifying activities described in paragraph (2)(C), 15 percent of the amounts determined under such subparagraph.”
+            “(B) with respect to qualifying activities described in paragraph (2)(C), 15 percent of the amounts determined under such subparagraph.”
 
         (3) __Adjustment of percentage__ 
 

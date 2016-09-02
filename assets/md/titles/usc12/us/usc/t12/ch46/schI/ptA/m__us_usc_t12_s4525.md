@@ -15,13 +15,13 @@
 
 ## § 4525. Information, records, and meetings
 
-For purposes of subchapter II of chapter 5 of title 5—
+    For purposes of subchapter II of chapter 5 of title 5—
 
     (1) the Agency, and
 
     (2) the Department of Housing and Urban Development, with respect to activities under this chapter,
 
-        shall be considered agencies responsible for the regulation or supervision of financial institutions.
+    shall be considered agencies responsible for the regulation or supervision of financial institutions.
 
 ([Pub. L. 102–550, title XIII, § 1319F][/us/pl/102/550/s1319F], Oct. 28, 1992, [106 Stat. 3952][/us/stat/106/3952]; [Pub. L. 110–289, div. A, title I, § 1161(a)(5)][/us/pl/110/289/s1161/a/5], July 30, 2008, [122 Stat. 2779][/us/stat/122/2779].)
 

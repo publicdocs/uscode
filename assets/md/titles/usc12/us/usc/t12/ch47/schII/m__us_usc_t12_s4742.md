@@ -15,7 +15,7 @@
 
 ## § 4742. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “Fund” means the Community Development Financial Institutions Fund established under [section 4703 of this title][/us/usc/t12/s4703];
 

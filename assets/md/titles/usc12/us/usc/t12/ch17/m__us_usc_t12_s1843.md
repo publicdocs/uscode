@@ -1121,7 +1121,7 @@
 
 >     “(3) other relevant facts;
 
->         jointly adopt rules that permit financial subsidiaries to engage in merchant banking activities described in section 4(k)(4)(H) of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1843(k)(4)(H)][/us/usc/t12/s1843/k/4/H]\], under such terms and conditions as the Board of Governors of the Federal Reserve System and the Secretary of the Treasury jointly determine to be appropriate.”
+>     jointly adopt rules that permit financial subsidiaries to engage in merchant banking activities described in section 4(k)(4)(H) of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1843(k)(4)(H)][/us/usc/t12/s1843/k/4/H]\], under such terms and conditions as the Board of Governors of the Federal Reserve System and the Secretary of the Treasury jointly determine to be appropriate.”
 
  __Modification of Prior Approvals__ 
 

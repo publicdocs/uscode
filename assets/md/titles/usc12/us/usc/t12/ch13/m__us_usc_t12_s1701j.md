@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701i, 1701i–1.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701j–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701j)
+[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701h–1.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701j–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701j)
 
 ## § 1701j. Repealed. [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 813, [68 Stat. 647][/us/stat/68/647]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701i, 1701i–1.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701j–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701j)
+[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701h–1.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701j–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701j)
 
 ----------
 ----------

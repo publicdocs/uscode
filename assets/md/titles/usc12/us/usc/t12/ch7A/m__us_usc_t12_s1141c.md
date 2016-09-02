@@ -15,7 +15,7 @@
 
 ## § 1141c. Special powers of administration
 
-The administration is authorized and directed—
+    The administration is authorized and directed—
 
     (1) to promote education in the principles and practices of cooperative marketing of agricultural commodities and food products thereof.
 

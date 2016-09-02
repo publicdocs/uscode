@@ -19,7 +19,7 @@
 
     The purpose of this section is to assist in relieving the shortage of housing for elderly persons and to increase the supply of rental housing for elderly persons.
 
-    For the purposes of this section—
+        For the purposes of this section—
 
         (1) the term “housing” means eight or more new or rehabilitated living units, not less than 50 per centum of which are specially designed for the use and occupancy of elderly persons;
 

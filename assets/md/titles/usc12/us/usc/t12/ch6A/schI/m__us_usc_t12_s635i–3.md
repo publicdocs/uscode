@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i to 635i–2.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933)
+[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635h.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933)
 
 ## § 635i–3. Tied Aid Credit Fund and program
 
@@ -385,7 +385,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i to 635i–2.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933)
+[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635h.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933)
 
 ----------
 ----------

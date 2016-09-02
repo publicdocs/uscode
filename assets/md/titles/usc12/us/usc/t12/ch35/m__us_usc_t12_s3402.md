@@ -15,7 +15,7 @@
 
 ## § 3402. Access to financial records by Government authorities prohibited; exceptions
 
-Except as provided by section 3403(c) or (d), 3413, or 3414 of this title, no Government authority may have access to or obtain copies of, or the information contained in the financial records of any customer from a financial institution unless the financial records are reasonably described and—
+    Except as provided by section 3403(c) or (d), 3413, or 3414 of this title, no Government authority may have access to or obtain copies of, or the information contained in the financial records of any customer from a financial institution unless the financial records are reasonably described and—
 
     (1) such customer has authorized such disclosure in accordance with [section 3404 of this title][/us/usc/t12/s3404];
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748f.md) | [Next](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748g–1, 1748h.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748g)
+[Previous](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748f.md) | [Next](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748h–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748g)
 
 ## § 1748g. Cost certification
 
@@ -25,9 +25,17 @@
 
     1955—Act Aug. 11, 1955, struck out provisions requiring cost certifications.
 
+§§ 1748g–1, 1748h. __Omitted__ 
+
+ __Codification__ 
+
+    Section 1748g–1, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 810, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 601(d), [65 Stat. 313][/us/stat/65/313], which related to mortgages on housing constructed for personnel of the Atomic Energy Commission, was omitted from the amendments to title VIII of act June 27, 1934, this subchapter, by [act Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 646][/us/stat/69/646].
+
+    Section 1748h, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 809, as added [May 2, 1950, ch. 151][/us/act/1950-05-02/ch151], [64 Stat. 97][/us/stat/64/97], which related to the procurement of services of architects and engineers by the Secretaries of the Army, Navy and Air Force to effectuate the purposes of this subchapter, was omitted from the amendment to title VIII of act June 27, 1934, this subchapter, by [act Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 646][/us/stat/69/646].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748f.md) | [Next](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748g–1, 1748h.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748g)
+[Previous](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748f.md) | [Next](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748h–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748g)
 
 ----------
 ----------
@@ -43,5 +51,15 @@
 [/us/stat/73/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F686
 [/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
 [/us/usc/t12/s1748h–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748h%E2%80%932
+[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
+[/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
+[/us/stat/65/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F313
+[/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
+[/us/stat/69/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F646
+[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
+[/us/act/1950-05-02/ch151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-02%2Fch151
+[/us/stat/64/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F97
+[/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
+[/us/stat/69/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F646
 
 

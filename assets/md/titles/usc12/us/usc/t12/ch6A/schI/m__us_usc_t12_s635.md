@@ -673,7 +673,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 1(c) of Pub. L. 103–428][/us/pl/103/428/s1/c], see Effective and Termination Dates of 1994 Amendments note below.
+    For termination of amendment by [section 1(c) of Pub. L. 103–428][/us/pl/103/428/s1/c], see Effective and Termination Dates of 1994 Amendments note below.
 
  __References in Text__ 
 
@@ -1261,13 +1261,21 @@ For termination of amendment by [section 1(c) of Pub. L. 103–428][/us/pl/103/4
 
 >              if the person or any other person owned or controlled by the person has engaged in an activity described in subparagraph (A), that—
 
->                 “(i) in the case of an activity described in subparagraph (A)(i)—         “(I) the President has waived the imposition of sanctions with respect to the person that engaged in that activity pursuant to section 4(c), 6(b)(5), or 9(c) of the Iran Sanctions Act of 1996 ([Public Law 104–172][/us/pl/104/172]; [50 U.S.C. 1701][/us/usc/t50/s1701] note);
+>                 “(i)
 
->                          “(II)(aa) the President has invoked the special rule described in section 4(e)(3) of that Act with respect to the person that engaged in that activity; or
+>                  in the case of an activity described in subparagraph (A)(i)—
 
->                          “(bb)(AA) the person that engaged in that activity determines, based on its best knowledge and belief, that the person meets the criteria described in subparagraph (A) of such section 4(e)(3) and has provided to the President the assurances described in subparagraph (B) of that section; and
+>                          “(I) the President has waived the imposition of sanctions with respect to the person that engaged in that activity pursuant to section 4(c), 6(b)(5), or 9(c) of the Iran Sanctions Act of 1996 ([Public Law 104–172][/us/pl/104/172]; [50 U.S.C. 1701][/us/usc/t50/s1701] note);
 
->                          “(BB) the Secretary of State has issued an advisory opinion to that person that the person meets such criteria and has provided to the President those assurances; or
+>                          “(II)
+
+>                         (aa) the President has invoked the special rule described in section 4(e)(3) of that Act with respect to the person that engaged in that activity; or
+
+>                              “(bb)
+
+>                             (AA) the person that engaged in that activity determines, based on its best knowledge and belief, that the person meets the criteria described in subparagraph (A) of such section 4(e)(3) and has provided to the President the assurances described in subparagraph (B) of that section; and
+
+>                                  “(BB) the Secretary of State has issued an advisory opinion to that person that the person meets such criteria and has provided to the President those assurances; or
 
 >                          “(III) the President has determined that the criteria have been met for the exception provided for under section 5(a)(3)(C) of the Iran Sanctions Act of 1996 \[[Pub. L. 104–172][/us/pl/104/172], [50 U.S.C. 1701][/us/usc/t50/s1701] note\] to apply with respect to the person that engaged in that activity; or
 

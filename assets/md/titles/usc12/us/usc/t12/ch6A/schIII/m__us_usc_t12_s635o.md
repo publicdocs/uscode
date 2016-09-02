@@ -15,7 +15,7 @@
 
 ## § 635o. Congressional statement of purpose
 
-The purpose of this subchapter is—
+    The purpose of this subchapter is—
 
     (1) to expand employment and economic growth in the United States by expanding United States exports to the markets of the developing world;
 

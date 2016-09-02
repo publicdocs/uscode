@@ -15,7 +15,7 @@
 
 ## § 2243. Powers of Board
 
-The Board shall manage and administer, and establish policies for, the Farm Credit Administration. It—
+    The Board shall manage and administer, and establish policies for, the Farm Credit Administration. It—
 
     (1) shall approve the rules and regulations for the implementation of this chapter not inconsistent with its provisions;
 

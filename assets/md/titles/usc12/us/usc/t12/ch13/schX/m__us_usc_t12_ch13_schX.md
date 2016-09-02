@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIX–C/ptD/m__us_usc_t12_s1749bbb–11 to 1749bbb–21.md) | [Next](./../../../../..//us/usc/t12/ch13/schX/m__us_usc_t12_s1750.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschX)
+[Previous](./../../../../..//us/usc/t12/ch13/schIX–C/ptD/m__us_usc_t12_ch13_schIX–C_ptD.md) | [Next](./../../../../..//us/usc/t12/ch13/schX/m__us_usc_t12_s1750.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschX)
 
 ### SUBCHAPTER X—NATIONAL DEFENSE HOUSING INSURANCE
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIX–C/ptD/m__us_usc_t12_s1749bbb–11 to 1749bbb–21.md) | [Next](./../../../../..//us/usc/t12/ch13/schX/m__us_usc_t12_s1750.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschX)
+[Previous](./../../../../..//us/usc/t12/ch13/schIX–C/ptD/m__us_usc_t12_ch13_schIX–C_ptD.md) | [Next](./../../../../..//us/usc/t12/ch13/schX/m__us_usc_t12_s1750.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschX)
 
 ----------
 ----------

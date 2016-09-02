@@ -15,7 +15,7 @@
 
 ## § 1148b. Additional powers of regional agricultural credit corporations
 
-Each regional agricultural credit corporation, created under the authority of [section 1148 of this title][/us/usc/t12/s1148], in addition to the powers granted prior to August 19, 1937, shall have and, upon order or approval of the Farm Credit Administration, shall exercise the following rights, powers, and authority:
+    Each regional agricultural credit corporation, created under the authority of [section 1148 of this title][/us/usc/t12/s1148], in addition to the powers granted prior to August 19, 1937, shall have and, upon order or approval of the Farm Credit Administration, shall exercise the following rights, powers, and authority:
 
     (a) __Places of transacting business__ 
 

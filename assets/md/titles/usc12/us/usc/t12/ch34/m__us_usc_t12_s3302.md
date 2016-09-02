@@ -15,7 +15,7 @@
 
 ## § 3302. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “Federal financial institutions regulatory agencies” means the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Office of Thrift Supervision, and the National Credit Union Administration;
 

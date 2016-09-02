@@ -381,7 +381,11 @@
 
 >              shall consist of not less than 9 nor more than 14 members appointed by the Secretary from among individuals—
 
->                 “(i) who are—         “(I) users of the financial services system; or
+>                 “(i)
+
+>                  who are—
+
+>                          “(I) users of the financial services system; or
 
 >                          “(II) experts in finance or on the financial services system; and
 
@@ -761,7 +765,11 @@
 
 >                 “(i) by virtue of his employment or official position, he has possession of or access to any book, record, or information made available under this subsection and determined by the Secretary to be confidential under subparagraph (A); and
 
->                 “(ii) he discloses the material in any manner other than—         “(I) to an officer or employee of the Department of the Treasury; or
+>                 “(ii)
+
+>                  he discloses the material in any manner other than—
+
+>                          “(I) to an officer or employee of the Department of the Treasury; or
 
 >                          “(II) pursuant to the exceptions set forth in such section 1906.
 

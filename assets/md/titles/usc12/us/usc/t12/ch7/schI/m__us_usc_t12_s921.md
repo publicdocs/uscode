@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s911 to 915.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s931.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs921)
+[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s791.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s931.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs921)
 
 ## § 921. Repealed. [Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].26(a), Dec. 10, 1971, [85 Stat. 624][/us/stat/85/624]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s911 to 915.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s931.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs921)
+[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s791.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s931.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs921)
 
 ----------
 ----------

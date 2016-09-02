@@ -15,7 +15,7 @@
 
 ## § 5401. Purposes
 
-The purposes of this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  are—
+    The purposes of this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  are—
 
     (1) to provide for the safe and sound operation of the banking system of the United States;
 

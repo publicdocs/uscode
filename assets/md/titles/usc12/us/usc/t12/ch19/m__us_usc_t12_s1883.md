@@ -15,13 +15,13 @@
 
 ## § 1883. Insurance rates; report to Congress
 
-The Federal supervisory agencies shall consult with
+    The Federal supervisory agencies shall consult with
 
     (1) insurers furnishing insurance protection against losses resulting from robberies, burglaries, and larcenies committed against financial institutions referred to in [section 1881 of this title][/us/usc/t12/s1881], and
 
     (2) State agencies having supervisory or regulatory responsibilities with respect to such insurers
 
-        to determine the feasibility and desirability of premium rate differentials based on the installation, maintenance, and operation of security devices and procedures. The Federal supervisory agencies shall report to the Congress the results of their consultations pursuant to this section not later than two years after July 7, 1968.
+    to determine the feasibility and desirability of premium rate differentials based on the installation, maintenance, and operation of security devices and procedures. The Federal supervisory agencies shall report to the Congress the results of their consultations pursuant to this section not later than two years after July 7, 1968.
 
 ([Pub. L. 90–389, § 4][/us/pl/90/389/s4], July 7, 1968, [82 Stat. 295][/us/stat/82/295].)
 

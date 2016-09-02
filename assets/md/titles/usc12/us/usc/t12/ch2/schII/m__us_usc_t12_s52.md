@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s51d to 51f.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s53.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs52)
+[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s51c.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s53.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs52)
 
 ## § 52. Par value and incidents of stock; transfer of shares
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s51d to 51f.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s53.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs52)
+[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s51c.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s53.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs52)
 
 ----------
 ----------

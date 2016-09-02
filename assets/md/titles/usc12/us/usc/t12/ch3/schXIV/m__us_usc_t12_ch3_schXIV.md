@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch3/schXIII/m__us_usc_t12_s441 to 448.md) | [Next](./../../../../..//us/usc/t12/ch3/schXIV/m__us_usc_t12_s461.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch3%2FschXIV)
+[Previous](./../../../../..//us/usc/t12/ch3/schXIII/m__us_usc_t12_ch3_schXIII.md) | [Next](./../../../../..//us/usc/t12/ch3/schXIV/m__us_usc_t12_s461.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch3%2FschXIV)
 
 ### SUBCHAPTER XIV—BANK RESERVES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch3/schXIII/m__us_usc_t12_s441 to 448.md) | [Next](./../../../../..//us/usc/t12/ch3/schXIV/m__us_usc_t12_s461.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch3%2FschXIV)
+[Previous](./../../../../..//us/usc/t12/ch3/schXIII/m__us_usc_t12_ch3_schXIII.md) | [Next](./../../../../..//us/usc/t12/ch3/schXIV/m__us_usc_t12_s461.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch3%2FschXIV)
 
 ----------
 ----------

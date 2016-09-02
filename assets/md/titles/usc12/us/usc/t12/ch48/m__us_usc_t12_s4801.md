@@ -15,7 +15,7 @@
 
 ## § 4801. Incorporated definitions
 
-Unless otherwise specifically provided in this chapter, for purposes of this chapter—
+    Unless otherwise specifically provided in this chapter, for purposes of this chapter—
 
     (1) the terms “appropriate Federal banking agency”, “Federal banking agencies”, “insured depository institution”, and “State bank supervisor” have the same meanings as in [section 1813 of this title][/us/usc/t12/s1813]; and
 

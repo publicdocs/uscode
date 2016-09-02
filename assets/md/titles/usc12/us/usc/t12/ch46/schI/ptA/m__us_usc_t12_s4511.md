@@ -107,197 +107,281 @@
 
 [Pub. L. 110–289, div. A, title III][/us/pl/110/289], July 30, 2008, [122 Stat. 2794–2799][/us/stat/122/2794-2799], provided that:
 
- __“Subtitle A—OFHEO__ 
+> “Subtitle A— __OFHEO__ 
 
-    “SEC. 1301. ABOLISHMENT OF OFHEO.
+> “SEC. 1301. __ABOLISHMENT OF OFHEO.__ 
 
-    “(a) In General.—Effective at the end of the 1-year period beginning on the date of enactment of this Act \[July 30, 2008\], the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development and the positions of the Director and Deputy Director of such Office are abolished.
+>     “(a) __In General.—__ 
 
-    “(b) Disposition of Affairs.—During the 1-year period beginning on the date of enactment of this Act \[July 30, 2008\], the Director of the Office of Federal Housing Enterprise Oversight, solely for the purpose of winding up the affairs of the Office of Federal Housing Enterprise Oversight—
+>     Effective at the end of the 1-year period beginning on the date of enactment of this Act \[July 30, 2008\], the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development and the positions of the Director and Deputy Director of such Office are abolished.
 
-    “(1) shall manage the employees of such Office and provide for the payment of the compensation and benefits of any such employee which accrue before the effective date of the transfer of such employee under section 1303; and
+>     “(b) __Disposition of Affairs.—__ 
 
-    “(2) may take any other action necessary for the purpose of winding up the affairs of the Office.
+>     During the 1-year period beginning on the date of enactment of this Act \[July 30, 2008\], the Director of the Office of Federal Housing Enterprise Oversight, solely for the purpose of winding up the affairs of the Office of Federal Housing Enterprise Oversight—
 
-    “(c) Status of Employees Before Transfer.—The amendments made by title I \[title I (§§ 1101–1163) of div. A of [Pub. L. 110–289][/us/pl/110/289], see Tables for classification\] and the abolishment of the Office of Federal Housing Enterprise Oversight under subsection (a) of this section may not be construed to affect the status of any employee of such Office as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1303.
+>         “(1) shall manage the employees of such Office and provide for the payment of the compensation and benefits of any such employee which accrue before the effective date of the transfer of such employee under section 1303; and
 
-    “(d) Use of Property and Services.—
+>         “(2) may take any other action necessary for the purpose of winding up the affairs of the Office.
 
-    “(1) Property.—The Director may use the property of the Office of Federal Housing Enterprise Oversight to perform functions which have been transferred to the Director for such time as is reasonable to facilitate the orderly transfer of functions transferred under any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
+>     “(c) __Status of Employees Before Transfer.—__ 
 
-    “(2) Agency services.—Any agency, department, or other instrumentality of the United States, and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Office of Federal Housing Enterprise Oversight before the expiration of the period under subsection (a) in connection with functions that are transferred to the Director shall—
+>     The amendments made by title I \[title I (§§ 1101–1163) of div. A of [Pub. L. 110–289][/us/pl/110/289], see Tables for classification\] and the abolishment of the Office of Federal Housing Enterprise Oversight under subsection (a) of this section may not be construed to affect the status of any employee of such Office as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1303.
 
-    “(A) continue to provide such services, on a reimbursable basis, until the transfer of such functions is complete; and
+>     “(d) __Use of Property and Services.—__ 
 
-    “(B) consult with any such agency to coordinate and facilitate a prompt and reasonable transition.
+>         “(1) __Property.—__ 
 
-    “(e) Continuation of Services.—The Director may use the services of employees and other personnel of the Office of Federal Housing Enterprise Oversight, on a reimbursable basis, to perform functions which have been transferred to the Director for such time as is reasonable to facilitate the orderly transfer of functions pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
+>         The Director may use the property of the Office of Federal Housing Enterprise Oversight to perform functions which have been transferred to the Director for such time as is reasonable to facilitate the orderly transfer of functions transferred under any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
 
-    “(f) Savings Provisions.—
+>         “(2) __Agency services.—__ 
 
-    “(1) Existing rights, duties, and obligations not affected.—Subsection (a) shall not affect the validity of any right, duty, or obligation of the United States, the Director of the Office of Federal Housing Enterprise Oversight, or any other person, which—
+>         Any agency, department, or other instrumentality of the United States, and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Office of Federal Housing Enterprise Oversight before the expiration of the period under subsection (a) in connection with functions that are transferred to the Director shall—
 
-    “(A) arises under—
+>             “(A) continue to provide such services, on a reimbursable basis, until the transfer of such functions is complete; and
 
-    “(i) the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[[12 U.S.C. 4501][/us/usc/t12/s4501] et seq.\];
+>             “(B) consult with any such agency to coordinate and facilitate a prompt and reasonable transition.
 
-    “(ii) the Federal National Mortgage Association Charter Act \[[12 U.S.C. 1716][/us/usc/t12/s1716] et seq.\];
+>     “(e) __Continuation of Services.—__ 
 
-    “(iii) the Federal Home Loan Mortgage Corporation Act \[[12 U.S.C. 1451][/us/usc/t12/s1451] et seq.\]; or
+>     The Director may use the services of employees and other personnel of the Office of Federal Housing Enterprise Oversight, on a reimbursable basis, to perform functions which have been transferred to the Director for such time as is reasonable to facilitate the orderly transfer of functions pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
 
-    “(iv) any other provision of law applicable with respect to such Office; and
+>     “(f) __Savings Provisions.—__ 
 
-    “(B) existed on the day before the date of abolishment under subsection (a).
+>         “(1) __Existing rights, duties, and obligations not affected.—__ 
 
-    “(2) Continuation of suits.—No action or other proceeding commenced by or against the Director of the Office of Federal Housing Enterprise Oversight in connection with functions that are transferred to the Director of the Federal Housing Finance Agency shall abate by reason of the enactment of this Act \[see Tables for classification\], except that the Director of the Federal Housing Finance Agency shall be substituted for the Director of the Office of Federal Housing Enterprise Oversight as a party to any such action or proceeding.
+>         Subsection (a) shall not affect the validity of any right, duty, or obligation of the United States, the Director of the Office of Federal Housing Enterprise Oversight, or any other person, which—
 
-    “SEC. 1302. CONTINUATION AND COORDINATION OF CERTAIN ACTIONS.
+>             “(A)
 
-    “(a) In General.—All regulations, orders, and determinations described in subsection (b) shall remain in effect according to the terms of such regulations, orders, and determinations, and shall be enforceable by or against the Director or the Secretary of Housing and Urban Development, as the case may be, until modified, terminated, set aside, or superseded in accordance with applicable law by the Director or the Secretary, as the case may be, any court of competent jurisdiction, or operation of law.
+>              arises under—
 
-    “(b) Applicability.—A regulation, order, or determination is described in this subsection if it—
+>                 “(i) the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[[12 U.S.C. 4501][/us/usc/t12/s4501] et seq.\];
 
-    “(1) was issued, made, prescribed, or allowed to become effective by—
+>                 “(ii) the Federal National Mortgage Association Charter Act \[[12 U.S.C. 1716][/us/usc/t12/s1716] et seq.\];
 
-    “(A) the Office of Federal Housing Enterprise Oversight;
+>                 “(iii) the Federal Home Loan Mortgage Corporation Act \[[12 U.S.C. 1451][/us/usc/t12/s1451] et seq.\]; or
 
-    “(B) the Secretary of Housing and Urban Development, and relates to the authority of the Secretary under—
+>                 “(iv) any other provision of law applicable with respect to such Office; and
 
-    “(i) the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[[12 U.S.C. 4501][/us/usc/t12/s4501] et seq.\];
+>             “(B) existed on the day before the date of abolishment under subsection (a).
 
-    “(ii) the Federal National Mortgage Association Charter Act \[[12 U.S.C. 1716][/us/usc/t12/s1716] et seq.\], with respect to the Federal National Mortgage Association; or
+>         “(2) __Continuation of suits.—__ 
 
-    “(iii) the Federal Home Loan Mortgage Corporation Act \[[12 U.S.C. 1451][/us/usc/t12/s1451] et seq.\], with respect to the Federal Home Loan Mortgage Corporation; or
+>         No action or other proceeding commenced by or against the Director of the Office of Federal Housing Enterprise Oversight in connection with functions that are transferred to the Director of the Federal Housing Finance Agency shall abate by reason of the enactment of this Act \[see Tables for classification\], except that the Director of the Federal Housing Finance Agency shall be substituted for the Director of the Office of Federal Housing Enterprise Oversight as a party to any such action or proceeding.
 
-    “(C) a court of competent jurisdiction, and relates to functions transferred by this Act \[see Tables for classification\]; and
+> “SEC. 1302. __CONTINUATION AND COORDINATION OF CERTAIN ACTIONS.__ 
 
-    “(2) is in effect on the effective date of the abolishment under section 1301(a).
+>     “(a) __In General.—__ 
 
-    “SEC. 1303. TRANSFER AND RIGHTS OF EMPLOYEES OF OFHEO.
+>     All regulations, orders, and determinations described in subsection (b) shall remain in effect according to the terms of such regulations, orders, and determinations, and shall be enforceable by or against the Director or the Secretary of Housing and Urban Development, as the case may be, until modified, terminated, set aside, or superseded in accordance with applicable law by the Director or the Secretary, as the case may be, any court of competent jurisdiction, or operation of law.
 
-    “(a) Transfer.—Each employee of the Office of Federal Housing Enterprise Oversight shall be transferred to the Agency for employment, not later than the effective date of the abolishment under section 1301(a), and such transfer shall be deemed a transfer of function for purposes of [section 3503 of title 5][/us/usc/t5/s3503], United States Code.
+>     “(b) __Applicability.—__ 
 
-    “(b) Guaranteed Positions.—
+>     A regulation, order, or determination is described in this subsection if it—
 
-    “(1) In general.—Each employee transferred under subsection (a) shall be guaranteed a position with the same status, tenure, grade, and pay as that held on the day immediately preceding the transfer.
+>         “(1)
 
-    “(2) No involuntary separation or reduction.—An employee transferred under subsection (a) holding a permanent position on the day immediately preceding the transfer may not be involuntarily separated or reduced in grade or compensation during the 12-month period beginning on the date of transfer, except for cause, or, in the case of a temporary employee, separated in accordance with the terms of the appointment of the employee.
+>          was issued, made, prescribed, or allowed to become effective by—
 
-    “(c) Appointment Authority for Excepted and Senior Executive Service Employees.—
+>             “(A) the Office of Federal Housing Enterprise Oversight;
 
-    “(1) In general.—In the case of an employee occupying a position in the excepted service or the Senior Executive Service, any appointment authority established under law or by regulations of the Office of Personnel Management for filling such position shall be transferred, subject to paragraph (2).
+>             “(B)
 
-    “(2) Decline of transfer.—The Director may decline a transfer of authority under paragraph (1) to the extent that such authority relates to—
+>              the Secretary of Housing and Urban Development, and relates to the authority of the Secretary under—
 
-    “(A) a position excepted from the competitive service because of its confidential, policymaking, policy-determining, or policy-advocating character; or
+>                 “(i) the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[[12 U.S.C. 4501][/us/usc/t12/s4501] et seq.\];
 
-    “(B) a noncareer position in the Senior Executive Service (within the meaning of [section 3132(a)(7) of title 5][/us/usc/t5/s3132/a/7], United States Code).
+>                 “(ii) the Federal National Mortgage Association Charter Act \[[12 U.S.C. 1716][/us/usc/t12/s1716] et seq.\], with respect to the Federal National Mortgage Association; or
 
-    “(d) Reorganization.—If the Director determines, after the end of the 1-year period beginning on the effective date of the abolishment under section 1301(a), that a reorganization of the combined workforce is required, that reorganization shall be deemed a major reorganization for purposes of affording affected employee retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5, United States Code.
+>                 “(iii) the Federal Home Loan Mortgage Corporation Act \[[12 U.S.C. 1451][/us/usc/t12/s1451] et seq.\], with respect to the Federal Home Loan Mortgage Corporation; or
 
-    “(e) Employee Benefit Programs.—
+>             “(C) a court of competent jurisdiction, and relates to functions transferred by this Act \[see Tables for classification\]; and
 
-    “(1) In general.—Any employee of the Office of Federal Housing Enterprise Oversight accepting employment with the Agency as a result of a transfer under subsection (a) may retain, for 12 months after the date on which such transfer occurs, membership in any employee benefit program of the Agency or the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development, as applicable, including insurance, to which such employee belongs on the date of the abolishment under section 1301(a), if—
+>         “(2) is in effect on the effective date of the abolishment under section 1301(a).
 
-    “(A) the employee does not elect to give up the benefit or membership in the program; and
+> “SEC. 1303. __TRANSFER AND RIGHTS OF EMPLOYEES OF OFHEO.__ 
 
-    “(B) the benefit or program is continued by the Director of the Federal Housing Finance Agency.
+>     “(a) __Transfer.—__ 
 
-    “(2) Cost differential.—
+>     Each employee of the Office of Federal Housing Enterprise Oversight shall be transferred to the Agency for employment, not later than the effective date of the abolishment under section 1301(a), and such transfer shall be deemed a transfer of function for purposes of [section 3503 of title 5][/us/usc/t5/s3503], United States Code.
 
-    “(A) In general.—The difference in the costs between the benefits which would have been provided by the Office of Federal Housing Enterprise Oversight and those provided by this section shall be paid by the Director.
+>     “(b) __Guaranteed Positions.—__ 
 
-    “(B) Health insurance.—If any employee elects to give up membership in a health insurance program or the health insurance program is not continued by the Director, the employee shall be permitted to select an alternate Federal health insurance program not later than 30 days after the date of such election or notice, without regard to any other regularly scheduled open season.
+>         “(1) __In general.—__ 
 
-    “SEC. 1304. TRANSFER OF PROPERTY AND FACILITIES.
+>         Each employee transferred under subsection (a) shall be guaranteed a position with the same status, tenure, grade, and pay as that held on the day immediately preceding the transfer.
 
-    “Upon the effective date of its abolishment under section 1301(a), all property of the Office of Federal Housing Enterprise Oversight shall transfer to the Agency.
+>         “(2) __No involuntary separation or reduction.—__ 
 
- __“Subtitle B—Federal Housing Finance Board__ 
+>         An employee transferred under subsection (a) holding a permanent position on the day immediately preceding the transfer may not be involuntarily separated or reduced in grade or compensation during the 12-month period beginning on the date of transfer, except for cause, or, in the case of a temporary employee, separated in accordance with the terms of the appointment of the employee.
 
-    “SEC. 1311. ABOLISHMENT OF THE FEDERAL HOUSING FINANCE BOARD.
+>     “(c) __Appointment Authority for Excepted and Senior Executive Service Employees.—__ 
 
-    “(a) In General.—Effective at the end of the 1-year period beginning on the date of enactment of this Act \[July 30, 2008\], the Federal Housing Finance Board (in this subtitle referred to as the ‘Board’) is abolished.
+>         “(1) __In general.—__ 
 
-    “(b) Disposition of Affairs.—During the 1-year period beginning on the date of enactment of this Act \[July 30, 2008\], the Board, solely for the purpose of winding up the affairs of the Board—
+>         In the case of an employee occupying a position in the excepted service or the Senior Executive Service, any appointment authority established under law or by regulations of the Office of Personnel Management for filling such position shall be transferred, subject to paragraph (2).
 
-    “(1) shall manage the employees of the Board and provide for the payment of the compensation and benefits of any such employee which accrue before the effective date of the transfer of such employee under section 1313; and
+>         “(2) __Decline of transfer.—__ 
 
-    “(2) may take any other action necessary for the purpose of winding up the affairs of the Board.
+>         The Director may decline a transfer of authority under paragraph (1) to the extent that such authority relates to—
 
-    “(c) Status of Employees Before Transfer.—The amendments made by titles I and II \[titles I (§§ 1101–1163) and II (§§ 1201–1218) of div. A of [Pub. L. 110–289][/us/pl/110/289], see Tables for classification\] and the abolishment of the Board under subsection (a) may not be construed to affect the status of any employee of the Board as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1313.
+>             “(A) a position excepted from the competitive service because of its confidential, policymaking, policy-determining, or policy-advocating character; or
 
-    “(d) Use of Property and Services.—
+>             “(B) a noncareer position in the Senior Executive Service (within the meaning of [section 3132(a)(7) of title 5][/us/usc/t5/s3132/a/7], United States Code).
 
-    “(1) Property.—The Director may use the property of the Board to perform functions which have been transferred to the Director, for such time as is reasonable to facilitate the orderly transfer of functions transferred under any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
+>     “(d) __Reorganization.—__ 
 
-    “(2) Agency services.—Any agency, department, or other instrumentality of the United States, and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Board before the expiration of the 1-year period under subsection (a) in connection with functions that are transferred to the Director shall—
+>     If the Director determines, after the end of the 1-year period beginning on the effective date of the abolishment under section 1301(a), that a reorganization of the combined workforce is required, that reorganization shall be deemed a major reorganization for purposes of affording affected employee retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5, United States Code.
 
-    “(A) continue to provide such services, on a reimbursable basis, until the transfer of such functions is complete; and
+>     “(e) __Employee Benefit Programs.—__ 
 
-    “(B) consult with any such agency to coordinate and facilitate a prompt and reasonable transition.
+>         “(1) __In general.—__ 
 
-    “(e) Continuation of Services.—The Director may use the services of employees and other personnel of the Board, on a reimbursable basis, to perform functions which have been transferred to the Director for such time as is reasonable to facilitate the orderly transfer of functions pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
+>         Any employee of the Office of Federal Housing Enterprise Oversight accepting employment with the Agency as a result of a transfer under subsection (a) may retain, for 12 months after the date on which such transfer occurs, membership in any employee benefit program of the Agency or the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development, as applicable, including insurance, to which such employee belongs on the date of the abolishment under section 1301(a), if—
 
-    “(f) Savings Provisions.—
+>             “(A) the employee does not elect to give up the benefit or membership in the program; and
 
-    “(1) Existing rights, duties, and obligations not affected.—Subsection (a) shall not affect the validity of any right, duty, or obligation of the United States, a member of the Board, or any other person, which—
+>             “(B) the benefit or program is continued by the Director of the Federal Housing Finance Agency.
 
-    “(A) arises under the Federal Home Loan Bank Act \[[12 U.S.C. 1421][/us/usc/t12/s1421] et seq.\], or any other provision of law applicable with respect to the Board; and
+>         “(2) __Cost differential.—__ 
 
-    “(B) existed on the day before the effective date of the abolishment under subsection (a).
+>             “(A) __In general.—__ 
 
-    “(2) Continuation of suits.—No action or other proceeding commenced by or against the Board in connection with functions that are transferred under this Act \[see Tables for classification\] to the Director shall abate by reason of the enactment of this Act, except that the Director shall be substituted for the Board or any member thereof as a party to any such action or proceeding.
+>             The difference in the costs between the benefits which would have been provided by the Office of Federal Housing Enterprise Oversight and those provided by this section shall be paid by the Director.
 
-    “SEC. 1312. CONTINUATION AND COORDINATION OF CERTAIN ACTIONS.
+>             “(B) __Health insurance.—__ 
 
-    “(a) In General.—All regulations, orders, determinations, and resolutions described under subsection (b) shall remain in effect according to the terms of such regulations, orders, determinations, and resolutions, and shall be enforceable by or against the Director until modified, terminated, set aside, or superseded in accordance with applicable law by the Director, any court of competent jurisdiction, or operation of law.
+>             If any employee elects to give up membership in a health insurance program or the health insurance program is not continued by the Director, the employee shall be permitted to select an alternate Federal health insurance program not later than 30 days after the date of such election or notice, without regard to any other regularly scheduled open season.
 
-    “(b) Applicability.—A regulation, order, determination, or resolution is described under this subsection if it—
+> “SEC. 1304. __TRANSFER OF PROPERTY AND FACILITIES.__ 
 
-    “(1) was issued, made, prescribed, or allowed to become effective by—
+>     “Upon the effective date of its abolishment under section 1301(a), all property of the Office of Federal Housing Enterprise Oversight shall transfer to the Agency.
 
-    “(A) the Board; or
+> “Subtitle B— __Federal Housing Finance Board__ 
 
-    “(B) a court of competent jurisdiction, and relates to functions transferred by this Act \[see Tables for classification\]; and
+> “SEC. 1311. __ABOLISHMENT OF THE FEDERAL HOUSING FINANCE BOARD.__ 
 
-    “(2) is in effect on the effective date of the abolishment under section 1311(a).
+>     “(a) __In General.—__ 
 
-    “SEC. 1313. TRANSFER AND RIGHTS OF EMPLOYEES OF THE FEDERAL HOUSING FINANCE BOARD.
+>     Effective at the end of the 1-year period beginning on the date of enactment of this Act \[July 30, 2008\], the Federal Housing Finance Board (in this subtitle referred to as the ‘Board’) is abolished.
 
-    “(a) Transfer.—Each employee of the Board shall be transferred to the Agency for employment, not later than the effective date of the abolishment under section 1311(a), and such transfer shall be deemed a transfer of function for purposes of [section 3503 of title 5][/us/usc/t5/s3503], United States Code.
+>     “(b) __Disposition of Affairs.—__ 
 
-    “(b) Guaranteed Positions.—
+>     During the 1-year period beginning on the date of enactment of this Act \[July 30, 2008\], the Board, solely for the purpose of winding up the affairs of the Board—
 
-    “(1) In general.—Each employee transferred under subsection (a) shall be guaranteed a position with the same status, tenure, grade, and pay as that held on the day immediately preceding the transfer.
+>         “(1) shall manage the employees of the Board and provide for the payment of the compensation and benefits of any such employee which accrue before the effective date of the transfer of such employee under section 1313; and
 
-    “(2) No involuntary separation or reduction.—An employee holding a permanent position on the day immediately preceding the transfer may not be involuntarily separated or reduced in grade or compensation during the 12-month period beginning on the date of transfer, except for cause, or, if the employee is a temporary employee, separated in accordance with the terms of the appointment of the employee.
+>         “(2) may take any other action necessary for the purpose of winding up the affairs of the Board.
 
-    “(c) Appointment Authority for Excepted Employees.—
+>     “(c) __Status of Employees Before Transfer.—__ 
 
-    “(1) In general.—In the case of an employee occupying a position in the excepted service, any appointment authority established under law or by regulations of the Office of Personnel Management for filling such position shall be transferred, subject to paragraph (2).
+>     The amendments made by titles I and II \[titles I (§§ 1101–1163) and II (§§ 1201–1218) of div. A of [Pub. L. 110–289][/us/pl/110/289], see Tables for classification\] and the abolishment of the Board under subsection (a) may not be construed to affect the status of any employee of the Board as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1313.
 
-    “(2) Decline of transfer.—The Director may decline a transfer of authority under paragraph (1), to the extent that such authority relates to a position excepted from the competitive service because of its confidential, policymaking, policy-determining, or policy-advocating character.
+>     “(d) __Use of Property and Services.—__ 
 
-    “(d) Reorganization.—If the Director determines, after the end of the 1-year period beginning on the effective date of the abolishment under section 1311(a), that a reorganization of the combined workforce is required, that reorganization shall be deemed a major reorganization for purposes of affording affected employee retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5, United States Code.
+>         “(1) __Property.—__ 
 
-    “(e) Employee Benefit Programs.—
+>         The Director may use the property of the Board to perform functions which have been transferred to the Director, for such time as is reasonable to facilitate the orderly transfer of functions transferred under any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
 
-    “(1) In general.—Any employee of the Board accepting employment with the Agency as a result of a transfer under subsection (a) may retain, for 12 months after the date on which such transfer occurs, membership in any employee benefit program of the Agency or the Board, as applicable, including insurance, to which such employee belongs on the effective date of the abolishment under section 1311(a) if—
+>         “(2) __Agency services.—__ 
 
-    “(A) the employee does not elect to give up the benefit or membership in the program; and
+>         Any agency, department, or other instrumentality of the United States, and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Board before the expiration of the 1-year period under subsection (a) in connection with functions that are transferred to the Director shall—
 
-    “(B) the benefit or program is continued by the Director.
+>             “(A) continue to provide such services, on a reimbursable basis, until the transfer of such functions is complete; and
 
-    “(2) Cost differential.—
+>             “(B) consult with any such agency to coordinate and facilitate a prompt and reasonable transition.
 
-    “(A) In general.—The difference in the costs between the benefits which would have been provided by the Board and those provided by this section shall be paid by the Director.
+>     “(e) __Continuation of Services.—__ 
 
-    “(B) Health insurance.—If any employee elects to give up membership in a health insurance program or the health insurance program is not continued by the Director, the employee shall be permitted to select an alternate Federal health insurance program not later than 30 days after the date of such election or notice, without regard to any other regularly scheduled open season.
+>     The Director may use the services of employees and other personnel of the Board, on a reimbursable basis, to perform functions which have been transferred to the Director for such time as is reasonable to facilitate the orderly transfer of functions pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
 
-    “SEC. 1314. TRANSFER OF PROPERTY AND FACILITIES.
+>     “(f) __Savings Provisions.—__ 
 
-    “Upon the effective date of the abolishment under section 1311(a), all property of the Board shall transfer to the Agency.”
+>         “(1) __Existing rights, duties, and obligations not affected.—__ 
+
+>         Subsection (a) shall not affect the validity of any right, duty, or obligation of the United States, a member of the Board, or any other person, which—
+
+>             “(A) arises under the Federal Home Loan Bank Act \[[12 U.S.C. 1421][/us/usc/t12/s1421] et seq.\], or any other provision of law applicable with respect to the Board; and
+
+>             “(B) existed on the day before the effective date of the abolishment under subsection (a).
+
+>         “(2) __Continuation of suits.—__ 
+
+>         No action or other proceeding commenced by or against the Board in connection with functions that are transferred under this Act \[see Tables for classification\] to the Director shall abate by reason of the enactment of this Act, except that the Director shall be substituted for the Board or any member thereof as a party to any such action or proceeding.
+
+> “SEC. 1312. __CONTINUATION AND COORDINATION OF CERTAIN ACTIONS.__ 
+
+>     “(a) __In General.—__ 
+
+>     All regulations, orders, determinations, and resolutions described under subsection (b) shall remain in effect according to the terms of such regulations, orders, determinations, and resolutions, and shall be enforceable by or against the Director until modified, terminated, set aside, or superseded in accordance with applicable law by the Director, any court of competent jurisdiction, or operation of law.
+
+>     “(b) __Applicability.—__ 
+
+>     A regulation, order, determination, or resolution is described under this subsection if it—
+
+>         “(1)
+
+>          was issued, made, prescribed, or allowed to become effective by—
+
+>             “(A) the Board; or
+
+>             “(B) a court of competent jurisdiction, and relates to functions transferred by this Act \[see Tables for classification\]; and
+
+>         “(2) is in effect on the effective date of the abolishment under section 1311(a).
+
+> “SEC. 1313. __TRANSFER AND RIGHTS OF EMPLOYEES OF THE FEDERAL HOUSING FINANCE BOARD.__ 
+
+>     “(a) __Transfer.—__ 
+
+>     Each employee of the Board shall be transferred to the Agency for employment, not later than the effective date of the abolishment under section 1311(a), and such transfer shall be deemed a transfer of function for purposes of [section 3503 of title 5][/us/usc/t5/s3503], United States Code.
+
+>     “(b) __Guaranteed Positions.—__ 
+
+>         “(1) __In general.—__ 
+
+>         Each employee transferred under subsection (a) shall be guaranteed a position with the same status, tenure, grade, and pay as that held on the day immediately preceding the transfer.
+
+>         “(2) __No involuntary separation or reduction.—__ 
+
+>         An employee holding a permanent position on the day immediately preceding the transfer may not be involuntarily separated or reduced in grade or compensation during the 12-month period beginning on the date of transfer, except for cause, or, if the employee is a temporary employee, separated in accordance with the terms of the appointment of the employee.
+
+>     “(c) __Appointment Authority for Excepted Employees.—__ 
+
+>         “(1) __In general.—__ 
+
+>         In the case of an employee occupying a position in the excepted service, any appointment authority established under law or by regulations of the Office of Personnel Management for filling such position shall be transferred, subject to paragraph (2).
+
+>         “(2) __Decline of transfer.—__ 
+
+>         The Director may decline a transfer of authority under paragraph (1), to the extent that such authority relates to a position excepted from the competitive service because of its confidential, policymaking, policy-determining, or policy-advocating character.
+
+>     “(d) __Reorganization.—__ 
+
+>     If the Director determines, after the end of the 1-year period beginning on the effective date of the abolishment under section 1311(a), that a reorganization of the combined workforce is required, that reorganization shall be deemed a major reorganization for purposes of affording affected employee retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5, United States Code.
+
+>     “(e) __Employee Benefit Programs.—__ 
+
+>         “(1) __In general.—__ 
+
+>         Any employee of the Board accepting employment with the Agency as a result of a transfer under subsection (a) may retain, for 12 months after the date on which such transfer occurs, membership in any employee benefit program of the Agency or the Board, as applicable, including insurance, to which such employee belongs on the effective date of the abolishment under section 1311(a) if—
+
+>             “(A) the employee does not elect to give up the benefit or membership in the program; and
+
+>             “(B) the benefit or program is continued by the Director.
+
+>         “(2) __Cost differential.—__ 
+
+>             “(A) __In general.—__ 
+
+>             The difference in the costs between the benefits which would have been provided by the Board and those provided by this section shall be paid by the Director.
+
+>             “(B) __Health insurance.—__ 
+
+>             If any employee elects to give up membership in a health insurance program or the health insurance program is not continued by the Director, the employee shall be permitted to select an alternate Federal health insurance program not later than 30 days after the date of such election or notice, without regard to any other regularly scheduled open season.
+
+> “SEC. 1314. __TRANSFER OF PROPERTY AND FACILITIES.__ 
+
+>     “Upon the effective date of the abolishment under section 1311(a), all property of the Board shall transfer to the Agency.”
 
     \[For definitions of terms used in title III of [Pub. L. 110–289][/us/pl/110/289], set out above, see [section 1002(b) of Pub. L. 110–289][/us/pl/110/289/s1002/b], set out below.\]
 

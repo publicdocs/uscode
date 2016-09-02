@@ -15,7 +15,7 @@
 
 ## § 3012. General corporate powers
 
-The Bank shall have the power to make and service loans, commitments for credit, guarantees, furnish financially related services, technical assistance and the results of research, issue its obligations within the limitations imposed by [section 3017 of this title][/us/usc/t12/s3017] in such amounts, at such times, and on such terms as the Bank may determine, and to exercise the other powers and duties prescribed in this chapter, and shall have the power to—
+    The Bank shall have the power to make and service loans, commitments for credit, guarantees, furnish financially related services, technical assistance and the results of research, issue its obligations within the limitations imposed by [section 3017 of this title][/us/usc/t12/s3017] in such amounts, at such times, and on such terms as the Bank may determine, and to exercise the other powers and duties prescribed in this chapter, and shall have the power to—
 
     (1) operate under the direction of its Board of Directors;
 
@@ -53,7 +53,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
     (18) have such other incidental powers as may be necessary or expedient to carry out its duties under this chapter.
 
-        In determining whether a public offering is taking place for the purpose of the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\], there shall be excluded from consideration all class B and class C stock purchases which took place prior to August 13, 1981.
+    In determining whether a public offering is taking place for the purpose of the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\], there shall be excluded from consideration all class B and class C stock purchases which took place prior to August 13, 1981.
 
 ([Pub. L. 95–351, title I, § 102][/us/pl/95/351/s102], Aug. 20, 1978, [92 Stat. 500][/us/stat/92/500]; [Pub. L. 97–35, title III, § 394(d)(1)][/us/pl/97/35/s394/d/1], Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436].)
 
@@ -77,7 +77,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
  See [section 396(a) of Pub. L. 97–35][/us/pl/97/35/s396/a] set out below.
 
- __“Final Government Equity Redemption Date” Defined__ 
+“Final Government Equity Redemption Date” Defined
 
 [Pub. L. 97–35, title III, § 396(a)][/us/pl/97/35/s396/a], Aug. 13, 1981, [95 Stat. 439][/us/stat/95/439], provided that: 
 

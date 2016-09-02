@@ -15,7 +15,7 @@
 
 ## § 4244. Contract provisions
 
-A contract made with a private counsel under [section 4241 of this title][/us/usc/t12/s4241] shall include—
+    A contract made with a private counsel under [section 4241 of this title][/us/usc/t12/s4241] shall include—
 
     (1) a provision permitting the Attorney General to terminate either the contract or the private counsel’s representation of the United States in particular cases if the Attorney General finds that such action is in the best interests of the United States;
 

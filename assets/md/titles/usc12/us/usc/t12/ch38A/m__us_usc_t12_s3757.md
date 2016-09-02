@@ -15,7 +15,7 @@
 
 ## § 3757. Notice of default and foreclosure sale
 
-The notice of default and foreclosure sale to be served in accordance with this chapter shall set forth—
+    The notice of default and foreclosure sale to be served in accordance with this chapter shall set forth—
 
     (1) the name and address of the foreclosure commissioner;
 

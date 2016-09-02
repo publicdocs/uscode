@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t12/ch23/schV/ptA/m__us_usc_t12_s2222 to 2227.md) | [Next](./../../../../../..//us/usc/t12/ch23/schV/ptB/m__us_usc_t12_s2241.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschV%2FptB)
+[Previous](./../../../../../..//us/usc/t12/ch23/schV/ptA/m__us_usc_t12_s2221.md) | [Next](./../../../../../..//us/usc/t12/ch23/schV/ptB/m__us_usc_t12_s2241.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschV%2FptB)
 
 #### Part B—Farm Credit Administration Organization
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t12/ch23/schV/ptA/m__us_usc_t12_s2222 to 2227.md) | [Next](./../../../../../..//us/usc/t12/ch23/schV/ptB/m__us_usc_t12_s2241.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschV%2FptB)
+[Previous](./../../../../../..//us/usc/t12/ch23/schV/ptA/m__us_usc_t12_s2221.md) | [Next](./../../../../../..//us/usc/t12/ch23/schV/ptB/m__us_usc_t12_s2241.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschV%2FptB)
 
 ----------
 ----------

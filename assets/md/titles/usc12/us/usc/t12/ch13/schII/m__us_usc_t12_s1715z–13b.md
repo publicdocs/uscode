@@ -273,19 +273,31 @@
 
                     (I) __Foreclosure__ 
 
-                        (aa) In general    The holder of the certificate may initiate foreclosure proceedings (after providing written notice of that action to the Secretary).
+                        (aa) __In general__ 
 
-                        (bb) Payment    Upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (f) of this section) plus reasonable fees and expenses as approved by the Secretary.
+                            The holder of the certificate may initiate foreclosure proceedings (after providing written notice of that action to the Secretary).
 
-                        (cc) Subrogation    The rights of the Secretary shall be subrogated to the rights of the holder of the guarantee. The holder shall assign the obligation and security to the Secretary.
+                        (bb) __Payment__ 
+
+                            Upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (f) of this section) plus reasonable fees and expenses as approved by the Secretary.
+
+                        (cc) __Subrogation__ 
+
+                            The rights of the Secretary shall be subrogated to the rights of the holder of the guarantee. The holder shall assign the obligation and security to the Secretary.
 
                     (II) __No foreclosure__ 
 
-                        (aa) In general    Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interest of the United States.
+                        (aa) __In general__ 
 
-                        (bb) Payment    Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (f) of this section).
+                            Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interest of the United States.
 
-                        (cc) Subrogation    The rights of the Secretary shall be subrogated to the rights of the holder of the guarantee. The holder shall assign the obligation and security to the Secretary.
+                        (bb) __Payment__ 
+
+                            Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (f) of this section).
+
+                        (cc) __Subrogation__ 
+
+                            The rights of the Secretary shall be subrogated to the rights of the holder of the guarantee. The holder shall assign the obligation and security to the Secretary.
 
             (B) __Requirements__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIX/m__us_usc_t12_s1749 to 1749c.md) | [Next](./../../../../..//us/usc/t12/ch13/schIX–A/m__us_usc_t12_ch13_schIX–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1749d)
+[Previous](./../../../../..//us/usc/t12/ch13/schIX/m__us_usc_t12_ch13_schIX.md) | [Next](./../../../../..//us/usc/t12/ch13/schIX–A/m__us_usc_t12_ch13_schIX–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1749d)
 
 ## § 1749d. Cost of inspections and of providing representatives
 
@@ -67,7 +67,7 @@ Section was enacted as part of the Independent Offices Appropriation Act, 1964, 
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIX/m__us_usc_t12_s1749 to 1749c.md) | [Next](./../../../../..//us/usc/t12/ch13/schIX–A/m__us_usc_t12_ch13_schIX–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1749d)
+[Previous](./../../../../..//us/usc/t12/ch13/schIX/m__us_usc_t12_ch13_schIX.md) | [Next](./../../../../..//us/usc/t12/ch13/schIX–A/m__us_usc_t12_ch13_schIX–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1749d)
 
 ----------
 ----------

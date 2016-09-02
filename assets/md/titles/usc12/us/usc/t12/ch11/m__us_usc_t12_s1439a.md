@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1439, 1439–1.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1440.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1439a)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1438a.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1440.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1439a)
 
 ## § 1439a. Deposits in special fund; availability for all purposes of Federal Home Loan Bank Board and Federal Home Loan Bank Administration
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1439, 1439–1.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1440.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1439a)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1438a.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1440.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1439a)
 
 ----------
 ----------

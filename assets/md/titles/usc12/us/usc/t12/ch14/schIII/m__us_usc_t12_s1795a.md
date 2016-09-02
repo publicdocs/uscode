@@ -15,7 +15,7 @@
 
 ## § 1795a. Definitions
 
-As used in this subchapter, the term—
+    As used in this subchapter, the term—
 
     (1)
 

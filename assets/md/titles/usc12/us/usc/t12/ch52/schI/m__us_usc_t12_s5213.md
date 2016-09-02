@@ -15,7 +15,7 @@
 
 ## § 5213. Considerations
 
-In exercising the authorities granted in this chapter, the Secretary shall take into consideration—
+    In exercising the authorities granted in this chapter, the Secretary shall take into consideration—
 
     (1) protecting the interests of taxpayers by maximizing overall returns and minimizing the impact on the national debt;
 

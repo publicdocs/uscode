@@ -15,7 +15,7 @@
 
 ## § 36. Branch banks
 
-The conditions upon which a national banking association may retain or establish and operate a branch or branches are the following:
+    The conditions upon which a national banking association may retain or establish and operate a branch or branches are the following:
 
     (a) __Lawful and continuous operation__ 
 

@@ -15,7 +15,7 @@
 
 ## § 3405. Administrative subpena and summons
 
-A Government authority may obtain financial records under [section 3402(2) of this title][/us/usc/t12/s3402/2] pursuant to an administrative subpena or summons otherwise authorized by law only if—
+    A Government authority may obtain financial records under [section 3402(2) of this title][/us/usc/t12/s3402/2] pursuant to an administrative subpena or summons otherwise authorized by law only if—
 
     (1) there is reason to believe that the rec­ords sought are relevant to a legitimate law enforcement inquiry;
 

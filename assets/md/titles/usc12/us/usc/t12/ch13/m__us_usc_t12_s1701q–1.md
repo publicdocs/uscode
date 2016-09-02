@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701q.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701q–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q%E2%80%931)
+[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s205.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701q–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q%E2%80%931)
 
 ## § 1701q–1. Civil money penalties against mortgagors under [section 1701q of this title][/us/usc/t12/s1701q]
 
@@ -141,7 +141,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701q.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701q–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q%E2%80%931)
+[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s205.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701q–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q%E2%80%931)
 
 ----------
 ----------

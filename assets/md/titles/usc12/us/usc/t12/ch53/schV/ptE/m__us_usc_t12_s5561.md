@@ -15,7 +15,7 @@
 
 ## § 5561. Definitions
 
-For purposes of this part, the following definitions shall apply:
+    For purposes of this part, the following definitions shall apply:
 
     (1) __Bureau investigation__ 
 

@@ -15,7 +15,7 @@
 
 ## § 2802. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Bureau” means the Bureau of Consumer Financial Protection;
 

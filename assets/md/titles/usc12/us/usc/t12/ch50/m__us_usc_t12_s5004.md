@@ -15,7 +15,7 @@
 
 ## § 5004. Substitute check warranties
 
-A bank that transfers, presents, or returns a substitute check and receives consideration for the check warrants, as a matter of law, to the transferee, any subsequent collecting or returning bank, the depositary bank, the drawee, the drawer, the payee, the depositor, and any endorser (regardless of whether the warrantee receives the substitute check or another paper or electronic form of the substitute check or original check) that—
+    A bank that transfers, presents, or returns a substitute check and receives consideration for the check warrants, as a matter of law, to the transferee, any subsequent collecting or returning bank, the depositary bank, the drawee, the drawer, the payee, the depositor, and any endorser (regardless of whether the warrantee receives the substitute check or another paper or electronic form of the substitute check or original check) that—
 
     (1) the substitute check meets all the requirements for legal equivalence under [section 5003(b) of this title][/us/usc/t12/s5003/b]; and
 

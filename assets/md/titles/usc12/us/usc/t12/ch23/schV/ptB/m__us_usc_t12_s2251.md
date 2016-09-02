@@ -15,7 +15,7 @@
 
 ## § 2251. Quarters and facilities for the Farm Credit Administration
 
-As an alternate to the rental of quarters under [section 2249 of this title][/us/usc/t12/s2249], and without regard to any other provision of law, the banks of the System, with the concurrence of two-thirds of the bank boards, are hereby authorized—
+    As an alternate to the rental of quarters under [section 2249 of this title][/us/usc/t12/s2249], and without regard to any other provision of law, the banks of the System, with the concurrence of two-thirds of the bank boards, are hereby authorized—
 
     (1) To lease or acquire real property in the District of Columbia or elsewhere for quarters of the Farm Credit Administration.
 

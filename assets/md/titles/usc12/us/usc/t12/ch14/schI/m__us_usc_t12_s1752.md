@@ -15,7 +15,7 @@
 
 ## § 1752. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “Federal credit union” means a cooperative association organized in accordance with the provisions of this chapter for the purpose of promoting thrift among its members and creating a source of credit for provident or productive purposes;
 

@@ -457,7 +457,7 @@
 
 >     “(4) was an insured institution (as so defined) for less than 1 year as of April 1, 1987,
 
->         may cease to be a Savings Association Insurance Fund member and become a Bank Insurance Fund member at any time during the 2-year period beginning on the date of the enactment of this Act without the approval of the Federal Deposit Insurance Corporation under section 5(d)(2) of the Federal Deposit Insurance Act \[[12 U.S.C. 1815(d)(2)][/us/usc/t12/s1815/d/2]\] (as added by subsection (a) of this section) and without incurring any liability for any exit or entrance fee imposed under such section 5(d)(2).”
+>     may cease to be a Savings Association Insurance Fund member and become a Bank Insurance Fund member at any time during the 2-year period beginning on the date of the enactment of this Act without the approval of the Federal Deposit Insurance Corporation under section 5(d)(2) of the Federal Deposit Insurance Act \[[12 U.S.C. 1815(d)(2)][/us/usc/t12/s1815/d/2]\] (as added by subsection (a) of this section) and without incurring any liability for any exit or entrance fee imposed under such section 5(d)(2).”
 
  __Definition of “Commercial Firm”__ 
 

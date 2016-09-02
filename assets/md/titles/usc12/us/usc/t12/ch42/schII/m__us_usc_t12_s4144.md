@@ -15,7 +15,7 @@
 
 ## § 4144. Grants for other purposes
 
-The Secretary may provide grants under this subchapter—
+    The Secretary may provide grants under this subchapter—
 
     (1) to resident-controlled or community-based nonprofit organizations with experience in resident education and organizing for the purpose of conducting community, city or county wide outreach and training programs to identify and organize residents of eligible low-income housing; and
 

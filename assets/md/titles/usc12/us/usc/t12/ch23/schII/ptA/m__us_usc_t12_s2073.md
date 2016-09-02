@@ -15,7 +15,7 @@
 
 ## § 2073. General corporate powers
 
-Each production credit association shall be a body corporate and, subject to supervision by the Farm Credit Bank for the district and regulation by the Farm Credit Administration, shall have the power to—
+    Each production credit association shall be a body corporate and, subject to supervision by the Farm Credit Bank for the district and regulation by the Farm Credit Administration, shall have the power to—
 
     (1) have succession until terminated in accordance with this chapter or any other Act of Congress;
 

@@ -15,7 +15,7 @@
 
 ## § 2279aa. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) __Agricultural real estate__ 
 

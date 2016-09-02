@@ -15,7 +15,7 @@
 
 ## § 635i–7. Cooperation on export financing programs
 
-The Bank shall, subject to appropriate memoranda of understanding—
+    The Bank shall, subject to appropriate memoranda of understanding—
 
     (1)
 

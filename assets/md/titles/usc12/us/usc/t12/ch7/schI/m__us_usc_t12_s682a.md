@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s678 to 682.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s683.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs682a)
+[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s671.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s683.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs682a)
 
 ## § 682a. Repealed. [Aug. 19, 1937, ch. 704, § 7(c)][/us/act/1937-08-19/ch704/s7/c], [50 Stat. 707][/us/stat/50/707]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s678 to 682.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s683.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs682a)
+[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s671.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s683.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs682a)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 3350. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) __State appraiser certifying and licensing agency__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1425 to 1425b.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1426a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1426)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1424.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1426a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1426)
 
 ## § 1426. Capital structure of Federal home loan banks
 
@@ -351,7 +351,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1425 to 1425b.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1426a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1426)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1424.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1426a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1426)
 
 ----------
 ----------

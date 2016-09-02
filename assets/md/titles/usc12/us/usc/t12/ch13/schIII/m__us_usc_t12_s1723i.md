@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1723g, 1723h.md) | [Next](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_ch13_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723i)
+[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1723f.md) | [Next](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_ch13_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723i)
 
 ## § 1723i. Civil money penalties against issuers
 
@@ -151,7 +151,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1723g, 1723h.md) | [Next](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_ch13_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723i)
+[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1723f.md) | [Next](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_ch13_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723i)
 
 ----------
 ----------

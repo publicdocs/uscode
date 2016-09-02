@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2611 to 2613.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2615.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2614)
+[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2610.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2615.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2614)
 
 ## § 2614. Jurisdiction of courts; limitations
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2611 to 2613.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2615.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2614)
+[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2610.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2615.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2614)
 
 ----------
 ----------

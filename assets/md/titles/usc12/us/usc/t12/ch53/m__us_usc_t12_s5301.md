@@ -15,7 +15,7 @@
 
 ## § 5301. Definitions
 
-As used in this Act, the following definitions shall apply, except as the context otherwise requires or as otherwise specifically provided in this Act:
+    As used in this Act, the following definitions shall apply, except as the context otherwise requires or as otherwise specifically provided in this Act:
 
     (1) __Affiliate__ 
 

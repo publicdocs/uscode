@@ -15,7 +15,7 @@
 
 ## § 2278b. Establishment of Corporation
 
-Not later than 5 days after January 6, 1988, the Farm Credit Administration shall charter the Farm Credit System Financial Assistance Corporation (hereinafter referred to in this chapter as the “Financial Assistance Corporation”) which shall be—
+    Not later than 5 days after January 6, 1988, the Farm Credit Administration shall charter the Farm Credit System Financial Assistance Corporation (hereinafter referred to in this chapter as the “Financial Assistance Corporation”) which shall be—
 
     (1) an institution of the Farm Credit System; and
 

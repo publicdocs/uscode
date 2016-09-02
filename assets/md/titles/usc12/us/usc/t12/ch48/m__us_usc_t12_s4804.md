@@ -15,7 +15,7 @@
 
 ## § 4804. Elimination of duplicative filings
 
-The Federal banking agencies shall work jointly—
+    The Federal banking agencies shall work jointly—
 
     (1) to eliminate, to the extent practicable, duplicative or otherwise unnecessary requests for information in connection with applications or notices to the agencies; and
 

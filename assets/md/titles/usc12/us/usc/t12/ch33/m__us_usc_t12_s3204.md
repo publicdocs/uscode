@@ -15,7 +15,7 @@
 
 ## § 3204. Exceptions
 
-The prohibitions contained in sections 3202 and 3203 of this title shall not apply in the case of any one or more of the following or subsidiary thereof:
+    The prohibitions contained in sections 3202 and 3203 of this title shall not apply in the case of any one or more of the following or subsidiary thereof:
 
     (1) A depository institution or depository holding company which has been placed formally in liquidation, or which is in the hands of a receiver, conservator, or other official exercising a similar function.
 

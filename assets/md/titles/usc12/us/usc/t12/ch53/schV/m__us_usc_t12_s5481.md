@@ -15,7 +15,7 @@
 
 ## § 5481. Definitions
 
-Except as otherwise provided in this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for purposes of this title, <sup>\[1\]</sup>  the following definitions shall apply:
+    Except as otherwise provided in this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for purposes of this title, <sup>\[1\]</sup>  the following definitions shall apply:
 
     (1) __Affiliate__ 
 

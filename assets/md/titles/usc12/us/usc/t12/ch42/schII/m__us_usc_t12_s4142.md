@@ -15,7 +15,7 @@
 
 ## § 4142. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to promote the ability of residents of eligible low-income housing to meaningfully participate in the preservation process established by this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and affect decisions about the future of their housing;
 

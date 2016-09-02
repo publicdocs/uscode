@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptD1/m__us_usc_t12_s2216 to 2216k.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptF/m__us_usc_t12_s2218.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschIV%2FptF)
+[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptD1/m__us_usc_t12_ch23_schIV_ptD1.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptF/m__us_usc_t12_s2218.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschIV%2FptF)
 
 #### Part F—Sale of Insurance
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptD1/m__us_usc_t12_s2216 to 2216k.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptF/m__us_usc_t12_s2218.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschIV%2FptF)
+[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptD1/m__us_usc_t12_ch23_schIV_ptD1.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptF/m__us_usc_t12_s2218.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschIV%2FptF)
 
 ----------
 ----------

@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1421.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1422a, 1422b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1422)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1421.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1423.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1422)
 
 ## § 1422. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1)
 
@@ -133,9 +133,15 @@ As used in this chapter—
 
     1934—Subsec. (6). Act June 27, 1934, struck out “first” before “mortgage” and inserted “or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed”.
 
+§§ 1422a, 1422b. __Repealed.__  __[__  __Pub. L. 110–289, div. A, title II, § 1204(1)__  __][/us/pl/110/289/s1204/1]__  __,__  __July 30, 2008__  __,__  __[__  __122 Stat. 2785__  __][/us/stat/122/2785]__ 
+
+    Section 1422a, [act July 22, 1932, ch. 522, § 2A][/us/act/1932-07-22/ch522/s2A], as added [Pub. L. 101–73, title VII, § 702(a)][/us/pl/101/73/s702/a], Aug. 9, 1989, [103 Stat. 413][/us/stat/103/413]; amended [Pub. L. 102–550, title XIII, § 1391][/us/pl/102/550/s1391], title XVI, § 1608, Oct. 28, 1992, [106 Stat. 4009][/us/stat/106/4009], 4089, established the Federal Housing Finance Board.
+
+    Section 1422b, [act July 22, 1932, ch. 522, § 2B][/us/act/1932-07-22/ch522/s2B], as added [Pub. L. 101–73, title VII, § 702(a)][/us/pl/101/73/s702/a], Aug. 9, 1989, [103 Stat. 414][/us/stat/103/414]; amended [Pub. L. 106–102, title VI, § 606(e)(1)][/us/pl/106/102/s606/e/1], Nov. 12, 1999, [113 Stat. 1454][/us/stat/113/1454], related to powers and duties of the Federal Housing Finance Board.
+
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1421.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1422a, 1422b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1422)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1421.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1423.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1422)
 
 ----------
 ----------
@@ -194,5 +200,17 @@ As used in this chapter—
 [/us/pl/87/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F779
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
+[/us/pl/110/289/s1204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F1
+[/us/stat/122/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2785
+[/us/act/1932-07-22/ch522/s2A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs2A
+[/us/pl/101/73/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs702%2Fa
+[/us/stat/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F413
+[/us/pl/102/550/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1391
+[/us/stat/106/4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4009
+[/us/act/1932-07-22/ch522/s2B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs2B
+[/us/pl/101/73/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs702%2Fa
+[/us/stat/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F414
+[/us/pl/106/102/s606/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs606%2Fe%2F1
+[/us/stat/113/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1454
 
 

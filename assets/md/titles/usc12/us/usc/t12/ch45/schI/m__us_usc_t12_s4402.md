@@ -15,7 +15,7 @@
 
 ## § 4402. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) __Broker or dealer__ 
 

@@ -15,7 +15,7 @@
 
 ## § 3407. Judicial subpena
 
-A Government authority may obtain financial records under [section 3402(4) of this title][/us/usc/t12/s3402/4] pursuant to judicial subpena only if—
+    A Government authority may obtain financial records under [section 3402(4) of this title][/us/usc/t12/s3402/4] pursuant to judicial subpena only if—
 
     (1) such subpena is authorized by law and there is reason to believe that the records sought are relevant to a legitimate law enforcement inquiry;
 

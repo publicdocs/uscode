@@ -15,7 +15,7 @@
 
 ## § 1747l. Definitions
 
-The following terms shall have the meanings, respectively, ascribed to them below, and, unless the context clearly indicates otherwise, shall include the plural as well as the singular number:
+    The following terms shall have the meanings, respectively, ascribed to them below, and, unless the context clearly indicates otherwise, shall include the plural as well as the singular number:
 
     (a) “Investor” shall mean (1) any natural person; (2) any group of not more than ten natural persons; (3) any corporation, company, association, trust, or other legal entity; or (4) any combination of two or more corporations, companies, associations, trusts, or other legal entities, having all the powers necessary to comply with the requirements of this subchapter, which the Secretary (i) shall find to be qualified by business experience and facilities, to afford assurance of the necessary continuity of long-term investment, and to have available the necessary capital required for long-term investment in the project, and (ii) shall approve as eligible for insurance under this subchapter.
 

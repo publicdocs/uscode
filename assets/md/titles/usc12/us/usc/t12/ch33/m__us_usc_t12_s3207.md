@@ -15,7 +15,7 @@
 
 ## § 3207. Rules and regulations
 
-Regulations to carry out this chapter, including regulations that permit service by a management official that would otherwise be prohibited by [section 3202 of this title][/us/usc/t12/s3202] or [section 3203 of this title][/us/usc/t12/s3203], if such service would not result in a monopoly or substantial lessening of competition, may be prescribed by—
+    Regulations to carry out this chapter, including regulations that permit service by a management official that would otherwise be prohibited by [section 3202 of this title][/us/usc/t12/s3202] or [section 3203 of this title][/us/usc/t12/s3203], if such service would not result in a monopoly or substantial lessening of competition, may be prescribed by—
 
     (1) the Comptroller of the Currency with respect to national banks and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation),
 

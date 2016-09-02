@@ -15,7 +15,7 @@
 
 ## § 2501. Congressional findings and declaration of purpose
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) the books and records of banking and financial organizations and business associations engaged in issuing and selling money orders and traveler’s checks do not, as a matter of business practice, show the last known addresses of purchasers of such instruments;
 

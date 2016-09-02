@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/schXI/m__us_usc_t12_s1750aa to 1750jj.md) | [Next](./../../../..//us/usc/t12/ch14/m__us_usc_t12_s1751.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch14)
+[Previous](./../../../..//us/usc/t12/ch13/schXI/m__us_usc_t12_ch13_schXI.md) | [Next](./../../../..//us/usc/t12/ch14/m__us_usc_t12_s1751.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch14)
 
 ## CHAPTER 14—FEDERAL CREDIT UNIONS
 
@@ -587,7 +587,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/schXI/m__us_usc_t12_s1750aa to 1750jj.md) | [Next](./../../../..//us/usc/t12/ch14/m__us_usc_t12_s1751.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch14)
+[Previous](./../../../..//us/usc/t12/ch13/schXI/m__us_usc_t12_ch13_schXI.md) | [Next](./../../../..//us/usc/t12/ch14/m__us_usc_t12_s1751.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch14)
 
 ----------
 ----------

@@ -1789,23 +1789,25 @@
 
 Prior to its repeal by [section 509(a) of Pub. L. 100–86][/us/pl/100/86/s509/a], [Pub. L. 97–320, title I, § 141][/us/pl/97/320/s141], Oct. 15, 1982, [96 Stat. 1488][/us/stat/96/1488], as amended by [Pub. L. 99–120, § 6(a)][/us/pl/99/120/s6/a], Oct. 8, 1985, [99 Stat. 504][/us/stat/99/504]; [Pub. L. 99–278, § 1(a)][/us/pl/99/278/s1/a], Apr. 24, 1986, [100 Stat. 397][/us/stat/100/397]; [Pub. L. 99–400, § 1(a)][/us/pl/99/400/s1/a], Aug. 27, 1986, [100 Stat. 902][/us/stat/100/902]; [Pub. L. 99–452, § 1(a)][/us/pl/99/452/s1/a], Oct. 8, 1986, [100 Stat. 1140][/us/stat/100/1140], provided that:
 
->      “(a) Effective on October 13, 1986—
+>      “(a)
 
->     “(1) section 13(c)(5) of the Federal Deposit Insurance Act \[[section 1823(c)(5) of this title][/us/usc/t12/s1823/c/5]\], as added by section 111 of this Act, shall be repealed;
+>      Effective on October 13, 1986—
 
->     “(2) subparagraphs (F) and (G) of section 5(o)(2) of the Home Owners’ Loan Act of 1933 \[section 1464(o)(2) of this title\], as added by section 112 of this Act, shall be repealed;
+>         “(1) section 13(c)(5) of the Federal Deposit Insurance Act \[[section 1823(c)(5) of this title][/us/usc/t12/s1823/c/5]\], as added by section 111 of this Act, shall be repealed;
 
->     “(3) the provision of law amended by section 116 of this Act \[[section 1823(f) of this title][/us/usc/t12/s1823/f]\] shall be amended to read as it would without such amendment;
+>         “(2) subparagraphs (F) and (G) of section 5(o)(2) of the Home Owners’ Loan Act of 1933 \[section 1464(o)(2) of this title\], as added by section 112 of this Act, shall be repealed;
 
->     “(4) the provisions of law amended by subsections (a) \[[section 1843(c)(8) of this title][/us/usc/t12/s1843/c/8]\] and (c) \[[section 1842(d) of this title][/us/usc/t12/s1842/d]\] of section 118 shall be amended to read as they would without such amendments;
+>         “(3) the provision of law amended by section 116 of this Act \[[section 1823(f) of this title][/us/usc/t12/s1823/f]\] shall be amended to read as it would without such amendment;
 
->     “(5) the provision of law amended by section 121 of this Act \[[section 1464(p) of this title][/us/usc/t12/s1464/p]\] shall be amended to read as it would without such amendment;
+>         “(4) the provisions of law amended by subsections (a) \[[section 1843(c)(8) of this title][/us/usc/t12/s1843/c/8]\] and (c) \[[section 1842(d) of this title][/us/usc/t12/s1842/d]\] of section 118 shall be amended to read as they would without such amendments;
 
->     “(6) the provisions of law amended by subsections (d) through (g) of section 122 of this Act \[section 1729(c), (d) of this title\] shall be amended to read as they would without such amendments;
+>         “(5) the provision of law amended by section 121 of this Act \[[section 1464(p) of this title][/us/usc/t12/s1464/p]\] shall be amended to read as it would without such amendment;
 
->     “(7) the provisions of law amended by section 123 of this Act \[section 1730a(e)(2), (m) of this title\] shall be amended to read as they would without such amendments; and
+>         “(6) the provisions of law amended by subsections (d) through (g) of section 122 of this Act \[section 1729(c), (d) of this title\] shall be amended to read as they would without such amendments;
 
->     “(8) the provisions of law amended by sections 131 \[section 1785(h), (i) of this title\] and 132 \[section 1786(b)(2), (h)–(p) of this title\] shall be amended to read as they would without such amendments.
+>         “(7) the provisions of law amended by section 123 of this Act \[section 1730a(e)(2), (m) of this title\] shall be amended to read as they would without such amendments; and
+
+>         “(8) the provisions of law amended by sections 131 \[section 1785(h), (i) of this title\] and 132 \[section 1786(b)(2), (h)–(p) of this title\] shall be amended to read as they would without such amendments.
 
 >     “(b) The repeal or termination by subsection (a) of any amendment made by this Act shall have no effect on any action taken or authorized while such amendment was in effect.”
 

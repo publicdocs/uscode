@@ -15,7 +15,7 @@
 
 ## § 2153. Power to borrow; issuance of notes, bonds, debentures, and other obligations
 
-Each of the banks of the System, in order to obtain funds for its authorized purposes, shall have power, subject to regulation by the Farm Credit Administration, and subject to the limitations of paragraph (e) of this section, to—
+    Each of the banks of the System, in order to obtain funds for its authorized purposes, shall have power, subject to regulation by the Farm Credit Administration, and subject to the limitations of paragraph (e) of this section, to—
 
     (a) Borrow money from or loan to any other institution of the System, borrow from any commercial bank or other lending institution, issue its notes or other evidence of debt on its own individual responsibility and full faith and credit, and invest its excess funds in such sums, at such times, and on such terms and conditions as it may determine.
 

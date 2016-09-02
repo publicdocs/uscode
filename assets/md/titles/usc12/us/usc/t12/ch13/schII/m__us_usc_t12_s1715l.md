@@ -75,11 +75,11 @@
 
     The property or project shall comply with such standards and conditions as the Secretary may prescribe to establish the acceptability of such property for mortgage insurance and may include such commercial and community facilities as the Secretary deems adequate to serve the occupants: Provided, That in the case of any such property or project located in an urban renewal area, the provisions of [section 1715k(d)(3)(B)(iv) of this title][/us/usc/t12/s1715k/d/3/B/iv] shall apply with respect to the nondwelling facilities which may be included in the mortgage: Provided further, That, in the case of a mortgage which bears interest at the below-market interest rate prescribed in the proviso of subsection (d)(5) of this section, the provisions of [section 1715k(d)(3)(B)(iv) of this title][/us/usc/t12/s1715k/d/3/B/iv] shall only apply if the mortgagor waives the right to receive dividends on its equity investment in the portion thereof devoted to commercial facilities.
 
-    A property or project covered by a mortgage insured under the provisions of subsection (d)(3) or (d)(4) of this section shall include five or more family units: Provided, That such units, in the case of a project designed primarily for occupancy by displaced, elderly, or handicapped families, need not, with the approval of the Secretary, contain kitchen facilities, and such projects may include central dining and other shared facilities. The Secretary is authorized to adopt such procedures and requirements as he determines are desirable to assure that the dwelling accommodations provided under this section are available to displaced families. Notwithstanding any provision of this chapter, the Secretary, in order to assist further the provision of housing for low and moderate income families, in his discretion and under such conditions as he may prescribe, may insure a mortgage which meets the requirements of subsection (d)(3) of this section as in effect after June 30, 1961, or which meets the requirements of subsection (h), (i), or (j) of this section with no premium charge, with a reduced premium charge, or with a premium charge for such period or periods during the time the insurance is in effect as the Secretary may determine, and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to reimburse the General Insurance Fund for any net losses in connection with such insurance. Any person who is sixty-two years of age or over, or who is a handicapped person within the meaning of section 1701q 2 of this title, or who is a displaced person, shall be deemed to be a family within the meaning of the terms “family” and “families” as those terms are used in this section. Low- and moderate-income persons who are less than 62 years of age shall be eligible for occupancy of dwelling units in a project financed with a mortgage insured under subsection (d)(3) of this section. In any case in which it is determined in accordance with regulations of the Secretary that facilities in existence or under construction on December 31, 1970, which could appropriately be used for classroom purposes are available in any such property or project and that public schools in the community are overcrowded due in part to the attendance at such schools of residents of the property or project, such facilities may be used for such purposes to the extent permitted in such regulations (without being subject to any of the requirements of the proviso in [section 1715k(d)(3)(B)(iv) of this title][/us/usc/t12/s1715k/d/3/B/iv] except the requirement that the project be predominantly residential).
+        A property or project covered by a mortgage insured under the provisions of subsection (d)(3) or (d)(4) of this section shall include five or more family units: Provided, That such units, in the case of a project designed primarily for occupancy by displaced, elderly, or handicapped families, need not, with the approval of the Secretary, contain kitchen facilities, and such projects may include central dining and other shared facilities. The Secretary is authorized to adopt such procedures and requirements as he determines are desirable to assure that the dwelling accommodations provided under this section are available to displaced families. Notwithstanding any provision of this chapter, the Secretary, in order to assist further the provision of housing for low and moderate income families, in his discretion and under such conditions as he may prescribe, may insure a mortgage which meets the requirements of subsection (d)(3) of this section as in effect after June 30, 1961, or which meets the requirements of subsection (h), (i), or (j) of this section with no premium charge, with a reduced premium charge, or with a premium charge for such period or periods during the time the insurance is in effect as the Secretary may determine, and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to reimburse the General Insurance Fund for any net losses in connection with such insurance. Any person who is sixty-two years of age or over, or who is a handicapped person within the meaning of section 1701q 2 of this title, or who is a displaced person, shall be deemed to be a family within the meaning of the terms “family” and “families” as those terms are used in this section. Low- and moderate-income persons who are less than 62 years of age shall be eligible for occupancy of dwelling units in a project financed with a mortgage insured under subsection (d)(3) of this section. In any case in which it is determined in accordance with regulations of the Secretary that facilities in existence or under construction on December 31, 1970, which could appropriately be used for classroom purposes are available in any such property or project and that public schools in the community are overcrowded due in part to the attendance at such schools of residents of the property or project, such facilities may be used for such purposes to the extent permitted in such regulations (without being subject to any of the requirements of the proviso in [section 1715k(d)(3)(B)(iv) of this title][/us/usc/t12/s1715k/d/3/B/iv] except the requirement that the project be predominantly residential).
 
-    As used in this section the terms “displaced family”, “displaced families”, and “displaced person” shall mean a family or families, or a person, displaced from an urban renewal area, or as a result of governmental action, or as a result of a major disaster as determined by the President pursuant to the Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5121][/us/usc/t42/s5121] et seq.\].
+        As used in this section the terms “displaced family”, “displaced families”, and “displaced person” shall mean a family or families, or a person, displaced from an urban renewal area, or as a result of governmental action, or as a result of a major disaster as determined by the President pursuant to the Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5121][/us/usc/t42/s5121] et seq.\].
 
-    In order to induce advances by owners for capital improvements (excluding any owner contributions that may be required by the Secretary as a condition for assistance under section 201 of the Housing and Community Development Amendments of 1978) to benefit projects covered by a mortgage under the provisions of subsection (d)(3) of this section that bears a below market interest rate prescribed in the proviso to subsection (d)(5) of this section, in establishing the rental charge for the project the Secretary may include an amount that would permit a return of such advances with interest to the owner out of project income, on such terms and conditions as the Secretary may determine. Any resulting increase in rent contributions shall be—
+        In order to induce advances by owners for capital improvements (excluding any owner contributions that may be required by the Secretary as a condition for assistance under section 201 of the Housing and Community Development Amendments of 1978) to benefit projects covered by a mortgage under the provisions of subsection (d)(3) of this section that bears a below market interest rate prescribed in the proviso to subsection (d)(5) of this section, in establishing the rental charge for the project the Secretary may include an amount that would permit a return of such advances with interest to the owner out of project income, on such terms and conditions as the Secretary may determine. Any resulting increase in rent contributions shall be—
 
         (A) to a level not exceeding the lower of 30 percent of the adjusted income of the tenant or the published existing fair market rent for comparable housing established under section 8(c) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(c)][/us/usc/t42/s1437f/c]\];
 
@@ -683,177 +683,219 @@
 
 The Emergency Low Income Housing Preservation Act of 1987, consisting of title II of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [101 Stat. 1877][/us/stat/101/1877], amended the National Housing Act, the United States Housing Act of 1937, and the Housing Act of 1949, and enacted provisions formerly set out as a note under this section. The provisions set out as a note under this section consisted of subtitles A and B \[§§ 201–203, 221–230, and 231–235\] of title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 100–628, title X][/us/pl/100/628], §§ 1021–1027, Nov. 7, 1988, [102 Stat. 3270][/us/stat/102/3270], 3271; [Pub. L. 101–235, title II][/us/pl/101/235], §§ 201, 202(a)–(c), 203(b), Dec. 15, 1989, [103 Stat. 2037][/us/stat/103/2037], 2038; [Pub. L. 101–402, § 1][/us/pl/101/402/s1], Oct. 1, 1990, [104 Stat. 866][/us/stat/104/866]; [Pub. L. 101–494][/us/pl/101/494], §§ 1(c), 2(a), Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], which set up a temporary program for the prepayment of mortgages on low income housing insured under the National Housing Act that terminated on the date of enactment of the Cranston-Gonzalez National Affordable Housing Act (Nov. 28, 1990). The Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625]\] amended subtitles A and B of title II of [Pub. L. 100–242][/us/pl/100/242] generally, changing the name of title II of [Pub. L. 100–242][/us/pl/100/242] to the “Low-Income Housing Preservation and Resident Homeownership Act of 1990”. As amended, subtitles A and B of title II are classified generally to subchapter I (§ 4101 et seq.) of chapter 42 of this title. Prior to the general revision by [Pub. L. 101–625][/us/pl/101/625], subtitles A and B of title II read as follows:
 
- __“subtitle a—general provisions__ 
+> “subtitle a— __general provisions__ 
 
-    “SEC. 201. SHORT TITLE.
+> “SEC. 201. __SHORT TITLE.__ 
 
-    “This title \[amending sections 1715z–6 and 1715z–15 of this title and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare\] may be cited as the ‘Emergency Low Income Housing Preservation Act of 1987’.
+>     “This title \[amending sections 1715z–6 and 1715z–15 of this title and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare\] may be cited as the ‘Emergency Low Income Housing Preservation Act of 1987’.
 
-    “SEC. 202. FINDINGS AND PURPOSE.
+> “SEC. 202. __FINDINGS AND PURPOSE.__ 
 
-    “(a) Findings.—The Congress finds that—
+>     “(a) __Findings.—__ 
 
-    “(1) in the next 15 years, more than 330,000 low income housing units insured or assisted under sections 221(d)(3) and 236 of the National Housing Act \[[12 U.S.C. 1715][/us/usc/t12/s1715]l(d)(3), 1715z–1\] could be lost as a result of the termination of low income affordability restrictions;
+>     The Congress finds that—
 
-    “(2) in the next decade, more than 465,000 low income housing units produced with assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] could be lost as a result of the expiration of the rental assistance contracts;
+>         “(1) in the next 15 years, more than 330,000 low income housing units insured or assisted under sections 221(d)(3) and 236 of the National Housing Act \[[12 U.S.C. 1715][/us/usc/t12/s1715]l(d)(3), 1715z–1\] could be lost as a result of the termination of low income affordability restrictions;
 
-    “(3) some 150,000 units of rural low income housing financed under section 515 of the Housing Act of 1949 \[[42 U.S.C. 1485][/us/usc/t42/s1485]\] are threatened with loss as a result of the prepayment of mortgages by owners;
+>         “(2) in the next decade, more than 465,000 low income housing units produced with assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] could be lost as a result of the expiration of the rental assistance contracts;
 
-    “(4) the loss of this privately owned and federally assisted housing, which would occur in a period of sharply rising rents on unassisted housing and extremely low production of additional low rent housing, would inflict unacceptable harm on current tenants and would precipitate a grave national crisis in the supply of low income housing that was neither anticipated nor intended when contracts for these units were entered into;
+>         “(3) some 150,000 units of rural low income housing financed under section 515 of the Housing Act of 1949 \[[42 U.S.C. 1485][/us/usc/t42/s1485]\] are threatened with loss as a result of the prepayment of mortgages by owners;
 
-    “(5) the loss of this affordable housing, to encourage the production of which the public has provided substantial benefits over past years, would irreparably damage hard-won progress toward such important and long-established national objectives as—
+>         “(4) the loss of this privately owned and federally assisted housing, which would occur in a period of sharply rising rents on unassisted housing and extremely low production of additional low rent housing, would inflict unacceptable harm on current tenants and would precipitate a grave national crisis in the supply of low income housing that was neither anticipated nor intended when contracts for these units were entered into;
 
-    “(A) providing a more adequate supply of decent, safe, and sanitary housing that is affordable to low income Americans;
+>         “(5)
 
-    “(B) increasing the supply of housing affordable to low income Americans that is accessible to employment opportunities; and
+>          the loss of this affordable housing, to encourage the production of which the public has provided substantial benefits over past years, would irreparably damage hard-won progress toward such important and long-established national objectives as—
 
-    “(C) expanding housing opportunities for all Americans, particularly members of disadvantaged minorities;
+>             “(A) providing a more adequate supply of decent, safe, and sanitary housing that is affordable to low income Americans;
 
-    “(6) the provision of an adequate supply of low income housing has depended and will continue to depend upon a strong, long-term partnership between the public and private sectors that accommodates a fair return on investment;
+>             “(B) increasing the supply of housing affordable to low income Americans that is accessible to employment opportunities; and
 
-    “(7) recent reductions in Federal housing assistance and tax benefits related to low income housing have increased the incentives for private industry to withdraw from the production and management of low income housing;
+>             “(C) expanding housing opportunities for all Americans, particularly members of disadvantaged minorities;
 
-    “(8) efforts to retain this housing must take account of specific financial and market conditions that differ markedly from project to project;
+>         “(6) the provision of an adequate supply of low income housing has depended and will continue to depend upon a strong, long-term partnership between the public and private sectors that accommodates a fair return on investment;
 
-    “(9) a major review of alternative responses to this threatened loss of affordable housing is now being undertaken by numerous private sector task forces as well as State and local organizations; and
+>         “(7) recent reductions in Federal housing assistance and tax benefits related to low income housing have increased the incentives for private industry to withdraw from the production and management of low income housing;
 
-    “(10) until the Congress can act on recommendations that will emerge from this review, interim measures are needed to avoid the irreplaceable loss of low income housing and irrevocable displacement of current tenants.
+>         “(8) efforts to retain this housing must take account of specific financial and market conditions that differ markedly from project to project;
 
-    “(b) Purpose.—It is the purpose of this title—
+>         “(9) a major review of alternative responses to this threatened loss of affordable housing is now being undertaken by numerous private sector task forces as well as State and local organizations; and
 
-    “(1) to preserve and retain to the maximum extent practicable as housing affordable to low income families or persons those privately owned dwelling units that were produced for such purpose with Federal assistance;
+>         “(10) until the Congress can act on recommendations that will emerge from this review, interim measures are needed to avoid the irreplaceable loss of low income housing and irrevocable displacement of current tenants.
 
-    “(2) to minimize the involuntary displacement of tenants currently residing in such housing; and
+>     “(b) __Purpose.—__ 
 
-    “(3) to continue the partnership between all levels of government and the private sector in the production and operation of housing that is affordable to low income Americans.
+>     It is the purpose of this title—
 
-    “SEC. 203. TERMINATION OF CERTAIN PROVISIONS.
+>         “(1) to preserve and retain to the maximum extent practicable as housing affordable to low income families or persons those privately owned dwelling units that were produced for such purpose with Federal assistance;
 
-    “(a) In General.—Effective on November 30, 1990, or the date of enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\], whichever is earlier—
+>         “(2) to minimize the involuntary displacement of tenants currently residing in such housing; and
 
-    “(1) subtitles B and D \[amending sections 1715z–6 and 1715z–15 of this title and sections 1437f and 1485 of Title 42, The Public Health and Welfare and enacting provisions set out in this note\] are repealed; and
+>         “(3) to continue the partnership between all levels of government and the private sector in the production and operation of housing that is affordable to low income Americans.
 
-    “(2) each provision of law amended by subtitle B or D is amended to read as it would without such amendment.
+> “SEC. 203. __TERMINATION OF CERTAIN PROVISIONS.__ 
 
-    “(b) Savings Provision.—The repeal or amendment of any provision under subsection (a) shall have no effect on any action taken or authorized under the provision prior to such repeal or amendment.
+>     “(a) __In General.—__ 
 
- __“subtitle b—prepayment of mortgages insured under national housing act__ 
+>     Effective on November 30, 1990, or the date of enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\], whichever is earlier—
 
-    “SEC. 221. GENERAL PREPAYMENT LIMITATION.
+>         “(1) subtitles B and D \[amending sections 1715z–6 and 1715z–15 of this title and sections 1437f and 1485 of Title 42, The Public Health and Welfare and enacting provisions set out in this note\] are repealed; and
 
-    “(a) Prior Approval of Plan of Action.—An owner of eligible low income housing may prepay, and a mortgagee may accept prepayment of, a mortgage on such housing only in accordance with a plan of action approved by the Secretary of Housing and Urban Development under this subtitle. An insurance contract with respect to eligible low-income housing may be terminated pursuant to section 229 of the National Housing Act \[[12 U.S.C. 1715t][/us/usc/t12/s1715t]\] only in accordance with a plan of action approved by the Secretary under this subtitle.
+>         “(2) each provision of law amended by subtitle B or D is amended to read as it would without such amendment.
 
-    “(b) Alternative Prepayment Moratorium.—In the event any court of the United States or any State invalidates the requirements established in this subtitle (1) an owner of eligible low income housing located in the geographic area subject to the jurisdiction of such court may not prepay, and a mortgagee may not accept prepayment of, a mortgage on such housing during the 2-year period following the date of such invalidation, and (2) an insurance contract with respect to eligible low-income housing located in the geographic area subject to the jurisdiction of such court may not be terminated pursuant to section 229 of the National Housing Act \[[12 U.S.C. 1715t][/us/usc/t12/s1715t]\] during the 2-year period following the date of such invalidation.
+>     “(b) __Savings Provision.—__ 
 
-    “SEC. 222. NOTICE OF INTENT.
+>     The repeal or amendment of any provision under subsection (a) shall have no effect on any action taken or authorized under the provision prior to such repeal or amendment.
 
-    “An owner of eligible low income housing seeking to initiate prepayment or other changes in the status or terms of the mortgage or regulatory agreement (including a request to terminate the insurance contract pursuant to section 229 of the National Housing Act \[[12 U.S.C. 1715t][/us/usc/t12/s1715t]\]) shall file with the Secretary a notice of the intent of the owner in such form and manner as the Secretary shall prescribe. The owner shall simultaneously file the notice of intent with any appropriate State or local government agency for the jurisdiction within which the housing is located.
+> “subtitle b— __prepayment of mortgages insured under national housing act__ 
 
-    “SEC. 223. PLAN OF ACTION.
+> “SEC. 221. __GENERAL PREPAYMENT LIMITATION.__ 
 
-    “(a) Preparation and Submission.—Upon receipt of a notice of intent, the Secretary shall provide the owner with such information as the owner needs to prepare a plan of action, which information shall include a description of the Federal incentives authorized under this title, and any relevant market area and demographic information that the Secretary has custody of and that the owner may use in preparing the plan. The owner shall submit the plan of action to the Secretary in such form and manner as the Secretary shall prescribe. The owner may simultaneously submit the plan of action to any appropriate State or local government agency for the jurisdiction within which the housing is located, which agency shall, in reviewing the plan, consult with representatives of the tenants of the housing.
+>     “(a) __Prior Approval of Plan of Action.—__ 
 
-    “(b) Contents.—The plan of action shall include—
+>     An owner of eligible low income housing may prepay, and a mortgagee may accept prepayment of, a mortgage on such housing only in accordance with a plan of action approved by the Secretary of Housing and Urban Development under this subtitle. An insurance contract with respect to eligible low-income housing may be terminated pursuant to section 229 of the National Housing Act \[[12 U.S.C. 1715t][/us/usc/t12/s1715t]\] only in accordance with a plan of action approved by the Secretary under this subtitle.
 
-    “(1) a description of any proposed changes in the status or terms of the mortgage or regulatory agreement, which may include a request for incentives to extend the low income use of the housing;
+>     “(b) __Alternative Prepayment Moratorium.—__ 
 
-    “(2) a description of any assistance that could be provided by State or local government agencies, as determined by prior consultation between the owner and any appropriate State or local agencies;
+>     In the event any court of the United States or any State invalidates the requirements established in this subtitle (1) an owner of eligible low income housing located in the geographic area subject to the jurisdiction of such court may not prepay, and a mortgagee may not accept prepayment of, a mortgage on such housing during the 2-year period following the date of such invalidation, and (2) an insurance contract with respect to eligible low-income housing located in the geographic area subject to the jurisdiction of such court may not be terminated pursuant to section 229 of the National Housing Act \[[12 U.S.C. 1715t][/us/usc/t12/s1715t]\] during the 2-year period following the date of such invalidation.
 
-    “(3) a description of any proposed changes in the low income affordability restrictions;
+> “SEC. 222. __NOTICE OF INTENT.__ 
 
-    “(4) a description of any change in ownership that is related to prepayment;
+>     “An owner of eligible low income housing seeking to initiate prepayment or other changes in the status or terms of the mortgage or regulatory agreement (including a request to terminate the insurance contract pursuant to section 229 of the National Housing Act \[[12 U.S.C. 1715t][/us/usc/t12/s1715t]\]) shall file with the Secretary a notice of the intent of the owner in such form and manner as the Secretary shall prescribe. The owner shall simultaneously file the notice of intent with any appropriate State or local government agency for the jurisdiction within which the housing is located.
 
-    “(5) an assessment of the effect of the proposed changes on existing tenants;
+> “SEC. 223. __PLAN OF ACTION.__ 
 
-    “(6) a statement of the effect of the proposed changes on the supply of housing affordable to lower and very low income families or persons in the community within which the housing is located and in the area that the housing could reasonably be expected to serve; and
+>     “(a) __Preparation and Submission.—__ 
 
-    “(7) any other information that the Secretary determines is necessary to achieve the purposes of this title.
+>     Upon receipt of a notice of intent, the Secretary shall provide the owner with such information as the owner needs to prepare a plan of action, which information shall include a description of the Federal incentives authorized under this title, and any relevant market area and demographic information that the Secretary has custody of and that the owner may use in preparing the plan. The owner shall submit the plan of action to the Secretary in such form and manner as the Secretary shall prescribe. The owner may simultaneously submit the plan of action to any appropriate State or local government agency for the jurisdiction within which the housing is located, which agency shall, in reviewing the plan, consult with representatives of the tenants of the housing.
 
-    “(c) Revisions.—The owner may from time to time revise and amend the plan of action as may be necessary to obtain approval of the plan under this subtitle.
+>     “(b) __Contents.—__ 
 
-    “(d) Authority To Limit Contents of Plan.—The Secretary shall limit the amount of appraisal, market area, and demographic information required under this section in the case of a plan of action requesting incentives.
+>     The plan of action shall include—
 
-    “SEC. 224. INCENTIVES TO EXTEND LOW INCOME USE.
+>         “(1) a description of any proposed changes in the status or terms of the mortgage or regulatory agreement, which may include a request for incentives to extend the low income use of the housing;
 
-    “(a) Agreements by Secretary.—After receiving a plan of action from an owner of eligible low income housing, the Secretary may enter into such agreements as are necessary to satisfy the criteria for approval under section 225.
+>         “(2) a description of any assistance that could be provided by State or local government agencies, as determined by prior consultation between the owner and any appropriate State or local agencies;
 
-    “(b) Permissible Incentives.—Agreements entered into under subsection (a) that by modifications to the existing regulatory agreement or mortgage extend the low income affordability restrictions through the term of the mortgage or, in the case of the prepayment of a mortgage, by a recorded instrument impose low income affordability restrictions (including the obligations specified in the regulatory agreement) through a period equivalent to the term of the original mortgage may include one or more of the following incentives that the Secretary, after taking into account local market conditions, determines to be necessary to achieve the purposes of this title:
+>         “(3) a description of any proposed changes in the low income affordability restrictions;
 
-    “(1) An increase in the allowable distribution or other measures to increase the rate of return on investment.
+>         “(4) a description of any change in ownership that is related to prepayment;
 
-    “(2) Revisions to the method of calculating equity.
+>         “(5) an assessment of the effect of the proposed changes on existing tenants;
 
-    “(3) Increased access to residual receipts accounts or excess replacement reserves.
+>         “(6) a statement of the effect of the proposed changes on the supply of housing affordable to lower and very low income families or persons in the community within which the housing is located and in the area that the housing could reasonably be expected to serve; and
 
-    “(4) Provision of insurance for a second mortgage under section 241(f) of the National Housing Act \[[12 U.S.C. 1715z–6(f)][/us/usc/t12/s1715z–6/f]\].
+>         “(7) any other information that the Secretary determines is necessary to achieve the purposes of this title.
 
-    “(5) An increase in the rents permitted under an existing contract under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], or (subject to the availability of amounts provided in appropriation Acts) additional assistance under such section 8 or an extension of any project-based assistance attached to the housing.
+>     “(c) __Revisions.—__ 
 
-    “(6) Financing of capital improvements under section 201 of the Housing and Community Development Amendments of 1978 \[[12 U.S.C. 1715z–1a][/us/usc/t12/s1715z–1a]\].
+>     The owner may from time to time revise and amend the plan of action as may be necessary to obtain approval of the plan under this subtitle.
 
-    “(7) Other actions, authorized in other provisions of law, to facilitate a transfer or sale of the project to a qualified nonprofit organization, limited equity tenant cooperative, public agency, or other entity acceptable to the Secretary.
+>     “(d) __Authority To Limit Contents of Plan.—__ 
 
-    “(8) Other incentives authorized in law.
+>     The Secretary shall limit the amount of appraisal, market area, and demographic information required under this section in the case of a plan of action requesting incentives.
 
-    “SEC. 225. CRITERIA FOR APPROVAL OF PLAN OF ACTION.
+> “SEC. 224. __INCENTIVES TO EXTEND LOW INCOME USE.__ 
 
-    “(a) Plan of Action Involving Termination of Low Income Affordability Restrictions.—The Secretary may approve a plan of action that involves termination of the low income affordability restrictions only upon a written finding that—
+>     “(a) __Agreements by Secretary.—__ 
 
-    “(1) implementation of the plan of action will not materially increase economic hardship for current tenants (and will not in any event result in (A) a monthly rental payment by a current tenant that exceeds 30 percent of the monthly adjusted income of the tenant or an increase in the monthly rental payment in any year that exceeds 10 percent (whichever is lower), or (B) in the case of a current tenant who already pays more than such percentage, an increase in the monthly rental payment in any year that exceeds the increase in the Consumer Price Index or 10 percent (whichever is lower)) or involuntarily displace current tenants (except for good cause) where comparable and affordable housing is not readily available, determined without regard to the availability of Federal housing assistance that would address any such hardship or involuntary displacement; and
+>     After receiving a plan of action from an owner of eligible low income housing, the Secretary may enter into such agreements as are necessary to satisfy the criteria for approval under section 225.
 
-    “(2)(A) the supply of vacant, comparable housing is sufficient to ensure that such prepayment will not materially affect—
+>     “(b) __Permissible Incentives.—__ 
 
-    “(i) the availability of decent, safe, and sanitary housing affordable to lower income and very low-income families or persons in the area that the housing could reasonably be expected to serve;
+>     Agreements entered into under subsection (a) that by modifications to the existing regulatory agreement or mortgage extend the low income affordability restrictions through the term of the mortgage or, in the case of the prepayment of a mortgage, by a recorded instrument impose low income affordability restrictions (including the obligations specified in the regulatory agreement) through a period equivalent to the term of the original mortgage may include one or more of the following incentives that the Secretary, after taking into account local market conditions, determines to be necessary to achieve the purposes of this title:
 
-    “(ii) the ability of lower income and very low-income families or persons to find affordable, decent, safe, and sanitary housing near employment opportunities; or
+>         “(1) An increase in the allowable distribution or other measures to increase the rate of return on investment.
 
-    “(iii) the housing opportunities of minorities in the community within which the housing is located; or
+>         “(2) Revisions to the method of calculating equity.
 
-    “(B) the plan has been approved by the appropriate State agency and any appropriate local government agency for the jurisdiction within which the housing is located as being in accordance with a State strategy approved by the Secretary under section 226.
+>         “(3) Increased access to residual receipts accounts or excess replacement reserves.
 
-    “(b) Plan of Action Including Incentives.—The Secretary may approve a plan of action that includes incentives only upon finding that—
+>         “(4) Provision of insurance for a second mortgage under section 241(f) of the National Housing Act \[[12 U.S.C. 1715z–6(f)][/us/usc/t12/s1715z–6/f]\].
 
-    “(1) the package of incentives is necessary to provide a fair return on the investment of the owner;
+>         “(5) An increase in the rents permitted under an existing contract under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], or (subject to the availability of amounts provided in appropriation Acts) additional assistance under such section 8 or an extension of any project-based assistance attached to the housing.
 
-    “(2) due diligence has been given to ensuring that the package of incentives is, for the Federal Government, the least costly alternative that is consistent with the full achievement of the purposes of this title; and
+>         “(6) Financing of capital improvements under section 201 of the Housing and Community Development Amendments of 1978 \[[12 U.S.C. 1715z–1a][/us/usc/t12/s1715z–1a]\].
 
-    “(3) binding commitments have been made to ensure that—
+>         “(7) Other actions, authorized in other provisions of law, to facilitate a transfer or sale of the project to a qualified nonprofit organization, limited equity tenant cooperative, public agency, or other entity acceptable to the Secretary.
 
-    “(A) the housing will be retained as housing affordable for very low-income families or persons, lower income families or persons, and moderate income families or persons for the remaining term of the mortgage;
+>         “(8) Other incentives authorized in law.
 
-    “(B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing;
+> “SEC. 225. __CRITERIA FOR APPROVAL OF PLAN OF ACTION.__ 
 
-    “(C) current tenants shall not be involuntarily displaced (except for good cause);
+>     “(a) __Plan of Action Involving Termination of Low Income Affordability Restrictions.—__ 
 
-    “(D) any increase in rent contributions for current tenants shall be to a level that does not exceed 30 percent of the adjusted income of the tenant or the fair market rent for comparable housing under section 8(b) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(b)][/us/usc/t42/s1437f/b]\], whichever is lower;
+>     The Secretary may approve a plan of action that involves termination of the low income affordability restrictions only upon a written finding that—
 
-    “(E)(i) any resulting increase in rents for current tenants (except for increases made necessary by increased operating costs)—
+>         “(1) implementation of the plan of action will not materially increase economic hardship for current tenants (and will not in any event result in (A) a monthly rental payment by a current tenant that exceeds 30 percent of the monthly adjusted income of the tenant or an increase in the monthly rental payment in any year that exceeds 10 percent (whichever is lower), or (B) in the case of a current tenant who already pays more than such percentage, an increase in the monthly rental payment in any year that exceeds the increase in the Consumer Price Index or 10 percent (whichever is lower)) or involuntarily displace current tenants (except for good cause) where comparable and affordable housing is not readily available, determined without regard to the availability of Federal housing assistance that would address any such hardship or involuntary displacement; and
 
-    “(I) shall be phased in equally over a period of not less than 3 years, if such increase is 30 percent or more; and
+>         “(2)
 
-    “(II) shall be limited to not more than 10 percent per year if such increase is more than 10 percent but less than 30 percent; and
+>             (A)
 
-    “(ii) assistance under section 8 of the United States Housing Act of 1937 shall be provided if necessary to mitigate any adverse affect on current income eligible tenants; and
+>              the supply of vacant, comparable housing is sufficient to ensure that such prepayment will not materially affect—
 
-    “(F)(i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, lower income families or persons, and moderate income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February, 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
+>                 “(i) the availability of decent, safe, and sanitary housing affordable to lower income and very low-income families or persons in the area that the housing could reasonably be expected to serve;
 
-    “(ii) in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subtitle and shall make provision for such annual rent adjustments as may be made necessary by future reasonable increases in operating costs.
+>                 “(ii) the ability of lower income and very low-income families or persons to find affordable, decent, safe, and sanitary housing near employment opportunities; or
 
-“(c) Section 8 Rental Assistance.—When providing rental assistance under section 8 \[of the United States Housing Act of 1937, [42 U.S.C. 1437f][/us/usc/t42/s1437f]\], the Secretary may enter into a contract with an owner, contingent upon the future availability of appropriations for the purpose of renewing expiring contracts for rental assistance as provided in appropriations Acts, to extend the term of such rental assistance for such additional period or periods as is necessary to carry out an approved plan of action. The contract and the approved plan of action shall provide that, if the Secretary is unable to extend the term of such rental assistance or is unable to develop a revised package of incentives providing benefits to the owner comparable to those received under the original approved plan of action, the Secretary, upon the request of the owner, shall take the following actions (subject to the limitations under the following paragraphs):—
+>                 “(iii) the housing opportunities of minorities in the community within which the housing is located; or
 
->     “(1) Modification of the binding commitments made pursuant to subsection (b) that are dependent on such rental assistance.
+>             “(B) the plan has been approved by the appropriate State agency and any appropriate local government agency for the jurisdiction within which the housing is located as being in accordance with a State strategy approved by the Secretary under section 226.
 
->     “(2) If action under paragraph (1) is not feasible, release of an owner from the binding commitments made pursuant to subsection (b) that are dependent on such rental assistance.
+>     “(b) __Plan of Action Including Incentives.—__ 
 
->     “(3)
+>     The Secretary may approve a plan of action that includes incentives only upon finding that—
 
->      If action under paragraphs (1) and (2) would, in the determination of the Secretary, result in the default of the insured loan, approval of the revised plan of action, notwithstanding subsection (a), that involves the termination of low-income affordability restrictions.
+>         “(1) the package of incentives is necessary to provide a fair return on the investment of the owner;
+
+>         “(2) due diligence has been given to ensuring that the package of incentives is, for the Federal Government, the least costly alternative that is consistent with the full achievement of the purposes of this title; and
+
+>         “(3)
+
+>          binding commitments have been made to ensure that—
+
+>             “(A) the housing will be retained as housing affordable for very low-income families or persons, lower income families or persons, and moderate income families or persons for the remaining term of the mortgage;
+
+>             “(B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing;
+
+>             “(C) current tenants shall not be involuntarily displaced (except for good cause);
+
+>             “(D) any increase in rent contributions for current tenants shall be to a level that does not exceed 30 percent of the adjusted income of the tenant or the fair market rent for comparable housing under section 8(b) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(b)][/us/usc/t42/s1437f/b]\], whichever is lower;
+
+>             “(E)
+
+>                 (i)
+
+>                  any resulting increase in rents for current tenants (except for increases made necessary by increased operating costs)—
+
+>                     “(I) shall be phased in equally over a period of not less than 3 years, if such increase is 30 percent or more; and
+
+>                     “(II) shall be limited to not more than 10 percent per year if such increase is more than 10 percent but less than 30 percent; and
+
+>                 “(ii) assistance under section 8 of the United States Housing Act of 1937 shall be provided if necessary to mitigate any adverse affect on current income eligible tenants; and
+
+>             “(F)
+
+>                 (i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, lower income families or persons, and moderate income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February, 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
+
+>                 “(ii) in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subtitle and shall make provision for such annual rent adjustments as may be made necessary by future reasonable increases in operating costs.
+
+>     “(c) __Section 8 Rental Assistance.—__ 
+
+>     When providing rental assistance under section 8 \[of the United States Housing Act of 1937, [42 U.S.C. 1437f][/us/usc/t42/s1437f]\], the Secretary may enter into a contract with an owner, contingent upon the future availability of appropriations for the purpose of renewing expiring contracts for rental assistance as provided in appropriations Acts, to extend the term of such rental assistance for such additional period or periods as is necessary to carry out an approved plan of action. The contract and the approved plan of action shall provide that, if the Secretary is unable to extend the term of such rental assistance or is unable to develop a revised package of incentives providing benefits to the owner comparable to those received under the original approved plan of action, the Secretary, upon the request of the owner, shall take the following actions (subject to the limitations under the following paragraphs):—
+
+>         “(1) Modification of the binding commitments made pursuant to subsection (b) that are dependent on such rental assistance.
+
+>         “(2) If action under paragraph (1) is not feasible, release of an owner from the binding commitments made pursuant to subsection (b) that are dependent on such rental assistance.
+
+>         “(3) If action under paragraphs (1) and (2) would, in the determination of the Secretary, result in the default of the insured loan, approval of the revised plan of action, notwithstanding subsection (a), that involves the termination of low-income affordability restrictions.
 
 >         At least 30 days prior to making a request under the preceding sentence, an owner shall notify the Secretary of the owner’s intention to submit the request. The Secretary shall have a period of 90 days following receipt of such notice to take action to extend the rental assistance contract and to continue the binding commitments under subsection (b).
 
->         “(d) __Relocation of Displaced Tenants.—__ 
+>     “(d) __Relocation of Displaced Tenants.—__ 
 
->         Any plan of action shall specify actions that the Secretary and the owner shall take to ensure that any tenants, displaced as a result of a plan of action approved under subsection (a) or as a result of modifications taken pursuant to subsection (c), are relocated to affordable housing.
+>     Any plan of action shall specify actions that the Secretary and the owner shall take to ensure that any tenants, displaced as a result of a plan of action approved under subsection (a) or as a result of modifications taken pursuant to subsection (c), are relocated to affordable housing.
 
 > “SEC. 226. __ALTERNATIVE STATE STRATEGY.__ 
 

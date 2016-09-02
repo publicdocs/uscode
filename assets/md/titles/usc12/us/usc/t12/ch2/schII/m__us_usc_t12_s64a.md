@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s63, 64.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s65.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs64a)
+[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s62.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s65.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs64a)
 
 ## § 64a. Individual liability of shareholders; limitation on liability
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s63, 64.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s65.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs64a)
+[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s62.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s65.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs64a)
 
 ----------
 ----------

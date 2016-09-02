@@ -15,7 +15,7 @@
 
 ## § 2271. Definitions
 
-As used in this part—
+    As used in this part—
 
     (1) the terms “cease and desist order that has become final” and “order which has become final” mean a cease and desist order, or an order, issued by the Farm Credit Administration with the consent of the System institution or the director or officer or other person concerned, or with respect to which no petition for review of the action of the Farm Credit Administration has been filed and perfected in a court of appeals as specified in [section 2266(b) of this title][/us/usc/t12/s2266/b], or with respect to which the action of the court in which such petition is so filed is not subject to further review by the Supreme Court of the United States in proceedings provided for in [section 2266(b) of this title][/us/usc/t12/s2266/b], or an order issued under [section 2265 of this title][/us/usc/t12/s2265];
 

@@ -2009,7 +2009,9 @@ SUBCHAPTER IX–A—MORTGAGE INSURANCE FOR LAND DEVELOPMENT AND NEW COMMUNITIES 
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1749aa" data-uslm-ref="/us/usc/t12/s1749aa">1749aa</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1749" data-uslm-ref="/us/usc/t12/s1749">1749</a>ll. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1749aa" data-uslm-ref="/us/usc/t12/s1749aa">1749aa</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1749" data-uslm-ref="/us/usc/t12/s1749">1749</a>ll.  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 

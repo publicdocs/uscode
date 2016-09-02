@@ -15,7 +15,7 @@
 
 ## § 2279aa–14. Federal jurisdiction
 
-Notwithstanding [section 1349 of title 28][/us/usc/t28/s1349] or any other provision of law:
+    Notwithstanding [section 1349 of title 28][/us/usc/t28/s1349] or any other provision of law:
 
     (1) The Corporation shall be considered an agency under sections 1345 and 1442 of such title.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s691 to 697.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s701.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs698)
+[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s683.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s701.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs698)
 
 ## § 698. Repealed. [Aug. 11, 1955, ch. 785][/us/act/1955-08-11/ch785], title III, § 302, [69 Stat. 664][/us/stat/69/664]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s691 to 697.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s701.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs698)
+[Previous](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s683.md) | [Next](./../../../../..//us/usc/t12/ch7/schI/m__us_usc_t12_s701.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs698)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schVI/m__us_usc_t12_s1138 to 1138c.md) | [Next](./../../../../..//us/usc/t12/ch7/schVI/m__us_usc_t12_s1138e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1138d)
+[Previous](./../../../../..//us/usc/t12/ch7/schVI/m__us_usc_t12_ch7_schVI.md) | [Next](./../../../../..//us/usc/t12/ch7/schVI/m__us_usc_t12_s1138e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1138d)
 
 ## § 1138d. Repealed. [June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schVI/m__us_usc_t12_s1138 to 1138c.md) | [Next](./../../../../..//us/usc/t12/ch7/schVI/m__us_usc_t12_s1138e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1138d)
+[Previous](./../../../../..//us/usc/t12/ch7/schVI/m__us_usc_t12_ch7_schVI.md) | [Next](./../../../../..//us/usc/t12/ch7/schVI/m__us_usc_t12_s1138e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1138d)
 
 ----------
 ----------

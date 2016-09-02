@@ -15,7 +15,7 @@
 
 ## § 5201. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to immediately provide authority and facilities that the Secretary of the Treasury can use to restore liquidity and stability to the financial system of the United States; and
 

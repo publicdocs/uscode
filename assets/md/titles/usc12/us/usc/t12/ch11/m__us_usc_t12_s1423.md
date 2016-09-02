@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1422a, 1422b.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1424.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1423)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1422.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1424.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1423)
 
 ## § 1423. Federal Home Loan Bank districts; number and boundaries; establishment of Federal Home Loan Banks; names
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1422a, 1422b.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1424.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1423)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1422.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1424.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1423)
 
 ----------
 ----------

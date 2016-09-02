@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch37/m__us_usc_t12_s3601 to 3620.md) | [Next](./../../../..//us/usc/t12/ch38/m__us_usc_t12_s3701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch38)
+[Previous](./../../../..//us/usc/t12/ch37/m__us_usc_t12_ch37.md) | [Next](./../../../..//us/usc/t12/ch38/m__us_usc_t12_s3701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch38)
 
 ## CHAPTER 38—MULTIFAMILY MORTGAGE FORECLOSURE
 
@@ -163,7 +163,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch37/m__us_usc_t12_s3601 to 3620.md) | [Next](./../../../..//us/usc/t12/ch38/m__us_usc_t12_s3701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch38)
+[Previous](./../../../..//us/usc/t12/ch37/m__us_usc_t12_ch37.md) | [Next](./../../../..//us/usc/t12/ch38/m__us_usc_t12_s3701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch38)
 
 ----------
 ----------

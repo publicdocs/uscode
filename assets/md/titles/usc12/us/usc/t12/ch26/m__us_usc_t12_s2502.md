@@ -15,7 +15,7 @@
 
 ## § 2502. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) “banking organization” means any bank, trust company, savings bank, safe deposit company, or a private banker engaged in business in the United States;
 

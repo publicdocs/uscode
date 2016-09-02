@@ -283,7 +283,7 @@ A. All of the following transactions are prohibited, except as specifically auth
 
     Without limitation as to any other powers or authority of the Secretary of the Treasury or the Attorney General under any other provision of this Order, the Secretary of the Treasury is authorized and empowered to prescribe from time to time regulations, rulings, and instructions to carry out the purposes of this Order and to provide therein or otherwise the conditions under which licenses may be granted by or through such officers or agencies as the Secretary of the Treasury may designate, and the decision of the Secretary with respect to the granting, denial or other disposition of an application or license shall be final.
 
- __section 8. offenses and penalties under act oct. 6, 1917__ 
+ __section 8. offenses and penalties under act__  __oct. 6, 1917__ 
 
 [Section 5(b) of the Act of October 6, 1917][/us/act/1917-10-06/s5/b], as amended, provides in part:
 

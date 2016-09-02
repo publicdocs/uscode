@@ -15,7 +15,7 @@
 
 ## § 2503. State entitlement to escheat or custody
 
-Where any sum is payable on a money order, traveler’s check, or other similar written instrument (other than a third party bank check) on which a banking or financial organization or a business association is directly liable—
+    Where any sum is payable on a money order, traveler’s check, or other similar written instrument (other than a third party bank check) on which a banking or financial organization or a business association is directly liable—
 
     (1) if the books and records of such banking or financial organization or business association show the State in which such money order, traveler’s check, or similar written instrument was purchased, that State shall be entitled exclusively to escheat or take custody of the sum payable on such instrument, to the extent of that State’s power under its own laws to escheat or take custody of such sum;
 

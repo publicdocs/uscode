@@ -15,7 +15,7 @@
 
 ## § 4545. Fair housing
 
-The Secretary of Housing and Urban Development shall—
+    The Secretary of Housing and Urban Development shall—
 
     (1) by regulation, prohibit each enterprise from discriminating in any manner in the purchase of any mortgage because of race, color, religion, sex, handicap, familial status, age, or national origin, including any consideration of the age or location of the dwelling or the age of the neighborhood or census tract where the dwelling is located in a manner that has a discriminatory effect;
 

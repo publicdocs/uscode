@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2609.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2611 to 2613.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2610)
+[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2609.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2614.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2610)
 
 ## § 2610. Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements
 
@@ -27,9 +27,17 @@
 
     1990—[Pub. L. 101–625][/us/pl/101/625] substituted present section catchline for “Fee for preparation of truth-in-lending and uniform settlement statements”, inserted after first comma “or by a servicer (as the term is defined under [section 2605(i) of this title][/us/usc/t12/s2605/i]),”, and substituted “lender or servicer” for second reference to “lender” and “2609(c)” for “2605”.
 
+§§ 2611 to 2613. __Repealed.__  __[__  __Pub. L. 104–208, div. A, title II, § 2103(h)__  __][/us/pl/104/208/s2103/h]__  __,__  __Sept. 30, 1996__  __,__  __[__  __110 Stat. 3009–401__  __][/us/stat/110/3009-401]__ 
+
+    Section 2611, [Pub. L. 93–533, § 13][/us/pl/93/533/s13], Dec. 22, 1974, [88 Stat. 1730][/us/stat/88/1730], related to establishment of land parcel recordation system on demonstration basis.
+
+    Section 2612, [Pub. L. 93–533, § 14][/us/pl/93/533/s14], Dec. 22, 1974, [88 Stat. 1730][/us/stat/88/1730], directed Secretary of Housing and Urban Development to report on necessity for further legislation involving real estate settlements.
+
+    Section 2613, [Pub. L. 93–533, § 15][/us/pl/93/533/s15], Dec. 22, 1974, [88 Stat. 1730][/us/stat/88/1730], directed Secretary of Housing and Urban Development to determine, and report to Congress on, feasibility of including statements of settlement costs in special information booklets.
+
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2609.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2611 to 2613.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2610)
+[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2609.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2614.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2610)
 
 ----------
 ----------
@@ -45,5 +53,13 @@
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t12/s2605/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2605%2Fi
+[/us/pl/104/208/s2103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2103%2Fh
+[/us/stat/110/3009-401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-401
+[/us/pl/93/533/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs13
+[/us/stat/88/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1730
+[/us/pl/93/533/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs14
+[/us/stat/88/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1730
+[/us/pl/93/533/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs15
+[/us/stat/88/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1730
 
 

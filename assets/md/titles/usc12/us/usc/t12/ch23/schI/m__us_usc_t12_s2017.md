@@ -15,7 +15,7 @@
 
 ## § 2017. Eligibility
 
-The credit and financial services authorized in this subchapter may be made available to persons who are or become stockholders or members of the bank or associations in the district, and who are—
+    The credit and financial services authorized in this subchapter may be made available to persons who are or become stockholders or members of the bank or associations in the district, and who are—
 
     (1) bona fide farmers, ranchers, or producers or harvesters of aquatic products;
 

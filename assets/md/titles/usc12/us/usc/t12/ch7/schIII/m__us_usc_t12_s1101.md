@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schIII/m__us_usc_t12_s1091 to 1095.md) | [Next](./../../../../..//us/usc/t12/ch7/schIII/m__us_usc_t12_s1111.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1101)
+[Previous](./../../../../..//us/usc/t12/ch7/schIII/m__us_usc_t12_s1081.md) | [Next](./../../../../..//us/usc/t12/ch7/schIII/m__us_usc_t12_s1111.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1101)
 
 ## § 1101. Repealed. [Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].26(a), Dec. 10, 1971, [85 Stat. 624][/us/stat/85/624]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schIII/m__us_usc_t12_s1091 to 1095.md) | [Next](./../../../../..//us/usc/t12/ch7/schIII/m__us_usc_t12_s1111.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1101)
+[Previous](./../../../../..//us/usc/t12/ch7/schIII/m__us_usc_t12_s1081.md) | [Next](./../../../../..//us/usc/t12/ch7/schIII/m__us_usc_t12_s1111.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1101)
 
 ----------
 ----------

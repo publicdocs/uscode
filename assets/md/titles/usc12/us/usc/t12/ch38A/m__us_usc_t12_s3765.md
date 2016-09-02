@@ -15,7 +15,7 @@
 
 ## § 3765. Effect of sale
 
-A sale, made and conducted as prescribed in this chapter to a bona fide purchaser, shall bar all claims upon, or with respect to, the property sold, for each of the following persons:
+    A sale, made and conducted as prescribed in this chapter to a bona fide purchaser, shall bar all claims upon, or with respect to, the property sold, for each of the following persons:
 
     (1) __Notice recipients__ 
 

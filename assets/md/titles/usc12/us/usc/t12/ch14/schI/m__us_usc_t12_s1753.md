@@ -15,7 +15,7 @@
 
 ## § 1753. Federal credit union organization
 
-Any seven or more natural persons who desire to form a Federal credit union shall each subscribe either individually or collectively before some officer competent to administer oaths an organization certificate in duplicate which shall specifically state:
+    Any seven or more natural persons who desire to form a Federal credit union shall each subscribe either individually or collectively before some officer competent to administer oaths an organization certificate in duplicate which shall specifically state:
 
     (1) the name of the association;
 
@@ -31,7 +31,7 @@ Any seven or more natural persons who desire to form a Federal credit union shal
 
     (7) the fact that the certificate is made to enable such persons to avail themselves of the advantages of this chapter.
 
-        Such organization certificate may also contain any provisions approved by the Board for the management of the business of the association and for the conduct of its affairs and relative to the powers of its directors, officers, or stockholders.
+    Such organization certificate may also contain any provisions approved by the Board for the management of the business of the association and for the conduct of its affairs and relative to the powers of its directors, officers, or stockholders.
 
 ([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 103, formerly § 3, [48 Stat. 1217][/us/stat/48/1217]; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; renumbered § 4 and amended [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 628][/us/stat/73/628]; [Pub. L. 91–206, § 2(1)][/us/pl/91/206/s2/1], Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 103, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 97–320, title V][/us/pl/97/320], §§ 503, 504, Oct. 15, 1982, [96 Stat. 1528][/us/stat/96/1528].)
 

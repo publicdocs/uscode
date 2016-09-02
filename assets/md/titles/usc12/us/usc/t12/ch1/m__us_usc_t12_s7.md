@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch1/m__us_usc_t12_s5, 6.md) | [Next](./../../../..//us/usc/t12/ch1/m__us_usc_t12_s8.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs7)
+[Previous](./../../../..//us/usc/t12/ch1/m__us_usc_t12_s4b.md) | [Next](./../../../..//us/usc/t12/ch1/m__us_usc_t12_s8.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs7)
 
 ## § 7. Chief of examining division
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch1/m__us_usc_t12_s5, 6.md) | [Next](./../../../..//us/usc/t12/ch1/m__us_usc_t12_s8.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs7)
+[Previous](./../../../..//us/usc/t12/ch1/m__us_usc_t12_s4b.md) | [Next](./../../../..//us/usc/t12/ch1/m__us_usc_t12_s8.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs7)
 
 ----------
 ----------

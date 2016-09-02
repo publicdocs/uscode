@@ -297,9 +297,9 @@
 
                 (I)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(i)”. </sup></sup>  the funds set aside to cover expected losses on transactions financed by the Bank; and
 
-            (ii) the costs incurred to cover the administrative expenses of the Bank.
+    (ii)
 
-        (3) __Limitation__ 
+     the costs incurred to cover the administrative expenses of the Bank.    (3) __Limitation__ 
 
             The aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2012, 2013, and 2014 shall not exceed $20,000,000.
 

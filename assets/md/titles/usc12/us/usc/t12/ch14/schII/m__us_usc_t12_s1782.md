@@ -159,9 +159,9 @@
 
                 (ii) the premium charge does not exceed the amount necessary to restore the equity ratio to 1.3 percent.
 
-            (C) __Premium charge required if equity ratio falls below 1.2 percent.—__ 
+            (C) __Premium charge required if equity ratio falls below 1.__ 
 
-            If the Fund’s equity ratio is less than 1.2 percent, the Board shall, subject to subparagraph (B), assess a premium charge in such an amount as the Board determines to be necessary to restore the equity ratio to, and maintain that ratio at, 1.2 percent.
+            2 percent.—If the Fund’s equity ratio is less than 1.2 percent, the Board shall, subject to subparagraph (B), assess a premium charge in such an amount as the Board determines to be necessary to restore the equity ratio to, and maintain that ratio at, 1.2 percent.
 
             (D) __Fund restoration plans.—__ 
 

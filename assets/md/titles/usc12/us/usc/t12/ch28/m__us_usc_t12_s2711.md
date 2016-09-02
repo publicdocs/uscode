@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2709, 2710.md) | [Next](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2712.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2711)
+[Previous](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2708.md) | [Next](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2712.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2711)
 
 ## § 2711. Nonapplicability of other laws
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2709, 2710.md) | [Next](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2712.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2711)
+[Previous](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2708.md) | [Next](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2712.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2711)
 
 ----------
 ----------

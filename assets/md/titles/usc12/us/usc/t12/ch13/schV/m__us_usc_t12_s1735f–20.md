@@ -15,7 +15,7 @@
 
 ## § 1735f–20. Authorization of appropriations for General and Special Risk Insurance Funds
 
-There are authorized to be appropriated such sums as may be necessary for each of fiscal years 1994 and 1995, to be allocated in any manner that the Secretary determines appropriate, for the following costs incurred in conjunction with programs authorized under the General Insurance Fund, as provided by [section 1735c of this title][/us/usc/t12/s1735c], and the Special Risk Insurance Fund, as provided by [section 1715z–3 of this title][/us/usc/t12/s1715z–3]:
+    There are authorized to be appropriated such sums as may be necessary for each of fiscal years 1994 and 1995, to be allocated in any manner that the Secretary determines appropriate, for the following costs incurred in conjunction with programs authorized under the General Insurance Fund, as provided by [section 1735c of this title][/us/usc/t12/s1735c], and the Special Risk Insurance Fund, as provided by [section 1715z–3 of this title][/us/usc/t12/s1715z–3]:
 
     (1) The cost to the Government, as defined in section 661a  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 2, of new insurance commitments.
 

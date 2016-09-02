@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptA/m__us_usc_t12_s2162.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_s2181, 2182.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschIV%2FptB)
+[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptA/m__us_usc_t12_s2162.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_s2183.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschIV%2FptB)
 
 #### Part B—Dissolution
 
@@ -19,9 +19,15 @@
 
     1988—[Pub. L. 100–233, title IV, § 418(a)(1)][/us/pl/100/233/s418/a/1], formerly § 415(a)(1), Jan. 6, 1988, [101 Stat. 1653][/us/stat/101/1653], renumbered § 418(a)(1), [Pub. L. 100–399, title IV, § 409(a)][/us/pl/100/399/s409/a], Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003], substituted “Dissolution” for “Dissolution and merger” as part B heading.
 
+§§ 2181, 2182. __Repealed.__  __[__  __Pub. L. 100–233, title IV, § 418(a)(2)__  __][/us/pl/100/233/s418/a/2]__  __, (3), formerly § 415(a)(2), (3),__  __Jan. 6, 1988__  __,__  __[__  __101 Stat. 1653__  __][/us/stat/101/1653]__  __; renumbered § 418(a)(2), (3),__  __[__  __Pub. L. 100–399, title IV, § 409(a)__  __][/us/pl/100/399/s409/a]__  __,__  __Aug. 17, 1988__  __,__  __[__  __102 Stat. 1003__  __][/us/stat/102/1003]__ 
+
+    Section 2181, [Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].10, Dec. 10, 1971, [85 Stat. 612][/us/stat/85/612]; [Pub. L. 96–592, title IV, § 402][/us/pl/96/592/s402], Dec. 24, 1980, [94 Stat. 3446][/us/stat/94/3446], related to merger of similar banks.
+
+    Section 2182, [Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].11, Dec. 10, 1971, [85 Stat. 612][/us/stat/85/612]; [Pub. L. 99–205, title II, § 205(f)(4)][/us/pl/99/205/s205/f/4], Dec. 23, 1985, [99 Stat. 1706][/us/stat/99/1706], related to board of directors for merged bank.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptA/m__us_usc_t12_s2162.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_s2181, 2182.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschIV%2FptB)
+[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptA/m__us_usc_t12_s2162.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_s2183.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschIV%2FptB)
 
 ----------
 ----------
@@ -30,5 +36,17 @@
 [/us/stat/101/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1653
 [/us/pl/100/399/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs409%2Fa
 [/us/stat/102/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1003
+[/us/pl/100/233/s418/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs418%2Fa%2F2
+[/us/stat/101/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1653
+[/us/pl/100/399/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs409%2Fa
+[/us/stat/102/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1003
+[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/stat/85/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F612
+[/us/pl/96/592/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs402
+[/us/stat/94/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3446
+[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/stat/85/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F612
+[/us/pl/99/205/s205/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Ff%2F4
+[/us/stat/99/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1706
 
 

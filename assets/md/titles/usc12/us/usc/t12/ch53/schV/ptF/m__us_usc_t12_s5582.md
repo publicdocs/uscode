@@ -55,7 +55,7 @@
 
  __Definition of Designated Transfer Date__ 
 
-Notice of Secretary of the Treasury, Sept. 20, 2010, 75 F.R. 57252, provided that the designated transfer date is July 21, 2011.
+    Notice of Secretary of the Treasury, Sept. 20, 2010, 75 F.R. 57252, provided that the designated transfer date is July 21, 2011.
 
  __References in Text__ 
 

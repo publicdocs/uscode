@@ -15,7 +15,7 @@
 
 ## § 2279bb. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1) __Compensation__ 
 

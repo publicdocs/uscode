@@ -15,7 +15,7 @@
 
 ## § 5114. State examination authority
 
-In addition to any authority allowed under State law a State licensing agency shall have the authority to conduct investigations and examinations as follows:
+    In addition to any authority allowed under State law a State licensing agency shall have the authority to conduct investigations and examinations as follows:
 
     (1) For the purposes of investigating violations or complaints arising under this chapter, or for the purposes of examination, the State licensing agency may review, investigate, or examine any loan originator licensed or required to be licensed under this chapter, as often as necessary in order to carry out the purposes of this chapter.
 

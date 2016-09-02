@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1246, 1247.md) | [Next](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1249.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1248)
+[Previous](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1245.md) | [Next](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1249.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1248)
 
 ## § 1248. Repealed. [June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1246, 1247.md) | [Next](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1249.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1248)
+[Previous](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1245.md) | [Next](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1249.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1248)
 
 ----------
 ----------

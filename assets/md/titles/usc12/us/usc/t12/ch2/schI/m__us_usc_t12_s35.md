@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s33 to 34c.md) | [Next](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s36.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs35)
+[Previous](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s32.md) | [Next](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s36.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs35)
 
 ## § 35. Organization of State banks as national banking associations
 
@@ -89,7 +89,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s33 to 34c.md) | [Next](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s36.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs35)
+[Previous](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s32.md) | [Next](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s36.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs35)
 
 ----------
 ----------

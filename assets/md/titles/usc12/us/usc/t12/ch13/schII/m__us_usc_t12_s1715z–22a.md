@@ -15,7 +15,7 @@
 
 ## § 1715z–22a. Definitions
 
-For purposes of this subtitle:
+    For purposes of this subtitle:
 
     (1) The term “multifamily housing” means housing accommodations on the mortgaged property that are designed principally for residential use, conform to standards satisfactory to the Secretary, and consist of not less than 5 rental units on 1 site. These units may be detached, semidetached, row house, or multifamily structures.
 

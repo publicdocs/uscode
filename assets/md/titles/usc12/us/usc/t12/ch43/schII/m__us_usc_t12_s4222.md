@@ -15,7 +15,7 @@
 
 ## § 4222. Contents of declarations
 
-A declaration filed pursuant to [section 4221 of this title][/us/usc/t12/s4221] shall—
+    A declaration filed pursuant to [section 4221 of this title][/us/usc/t12/s4221] shall—
 
     (1) set forth the name and address of the declarant and the basis for the declarant’s knowledge of the facts alleged;
 

@@ -15,7 +15,7 @@
 
 ## § 3761. Foreclosure costs
 
-The following foreclosure costs shall be paid from the sale proceeds before satisfaction of any other claim to such sale proceeds:
+    The following foreclosure costs shall be paid from the sale proceeds before satisfaction of any other claim to such sale proceeds:
 
     (1) __Advertising and postage__ 
 

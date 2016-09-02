@@ -193,7 +193,7 @@ Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [10
 
 [Pub. L. 99–345][/us/pl/99/345], June 24, 1986, [100 Stat. 673][/us/stat/100/673], provided that:
 
->     “Section 1. Each provision of law amended by [Public Law 99–289][/us/pl/99/289] \[set out below\], is amended by striking out ‘June 6, 1986’ wherever it appears and inserting in lieu thereof ‘September 30, 1986’.
+> “Section 1. Each provision of law amended by [Public Law 99–289][/us/pl/99/289] \[set out below\], is amended by striking out ‘June 6, 1986’ wherever it appears and inserting in lieu thereof ‘September 30, 1986’.
 
 > “Sec. 2. The applicable limitation on additional commitments to insure mortgages and loans to carry out the purposes of the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\] during fiscal year 1986 is increased by an additional $9,500,000,000 of mortgage and loan principal.”
 

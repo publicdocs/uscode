@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s86.md) | [Next](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s87 to 89.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs86a)
+[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s86.md) | [Next](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s90.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs86a)
 
 ## § 86a. Omitted
 
@@ -25,9 +25,17 @@
 
     [Section 301 of Pub. L. 96–104][/us/pl/96/104/s301], which limited the applicability of [Pub. L. 96–104][/us/pl/96/104] to those States having a constitutional provision that all contracts for a greater rate of interest than 10 per centum per annum are void as to both principal and interest, was repealed by [section 212 of Pub. L. 96–161][/us/pl/96/161/s212], effective at the close of Dec. 27, 1979.
 
+§§ 87 to 89. __Repealed.__  __[__  __Pub. L. 103–325, title VI, § 602(e)(2)__  __][/us/pl/103/325/s602/e/2]__  __–(4),__  __Sept. 23, 1994__  __,__  __[__  __108 Stat. 2291__  __][/us/stat/108/2291]__ 
+
+    Section 87, R.S. § 5203, related to restriction on use by bank of its circulating notes.
+
+    Section 88, R.S. § 5206, related to restriction on use by bank of notes of other banks.
+
+    Section 89, R.S. § 5196, related to duty of bank to receive circulating notes of other banks in payment of debts.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s86.md) | [Next](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s87 to 89.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs86a)
+[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s86.md) | [Next](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s90.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs86a)
 
 ----------
 ----------
@@ -49,5 +57,7 @@
 [/us/pl/96/104/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2Fs301
 [/us/pl/96/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104
 [/us/pl/96/161/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs212
+[/us/pl/103/325/s602/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fe%2F2
+[/us/stat/108/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2291
 
 

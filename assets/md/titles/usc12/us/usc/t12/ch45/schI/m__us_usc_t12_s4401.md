@@ -15,7 +15,7 @@
 
 ## § 4401. Findings and purpose
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) many financial institutions engage daily in thousands of transactions with other financial institutions directly and through clearing organizations;
 

@@ -15,7 +15,7 @@
 
 ## § 215b. Definitions
 
-As used in this subchapter, the term—
+    As used in this subchapter, the term—
 
     (1) “State bank” means any bank, banking association, trust company, savings bank (other than a mutual savings bank), or other banking institution which is engaged in the business of receiving deposits and which is incorporated under the laws of any State, or which is operating under the Code of Law for the District of Columbia;
 

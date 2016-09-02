@@ -15,7 +15,7 @@
 
 ## § 216a. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “Comptroller” means the Comptroller of the Currency;
 

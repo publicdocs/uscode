@@ -15,7 +15,7 @@
 
 ## § 4304. Disclosure requirements for certain accounts
 
-The Bureau shall require, in regulations which the Bureau shall prescribe, such modification in the disclosure requirements under this chapter relating to annual percentage yield as may be necessary to carry out the purposes of this chapter in the case of—
+    The Bureau shall require, in regulations which the Bureau shall prescribe, such modification in the disclosure requirements under this chapter relating to annual percentage yield as may be necessary to carry out the purposes of this chapter in the case of—
 
     (1) accounts with respect to which determination of annual percentage yield is based on an annual rate of interest that is guaranteed for a period of less than 1 year;
 

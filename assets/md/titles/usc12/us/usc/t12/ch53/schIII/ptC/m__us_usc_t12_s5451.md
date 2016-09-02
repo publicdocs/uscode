@@ -15,7 +15,7 @@
 
 ## § 5451. Branching
 
-Notwithstanding the Federal Deposit Insurance Act ([12 U.S.C. 1811][/us/usc/t12/s1811] et seq.), the Bank Holding Company Act of 1956 ([12 U.S.C. 1841][/us/usc/t12/s1841] et seq.), or any other provision of Federal or State law, a savings association that becomes a bank may—
+    Notwithstanding the Federal Deposit Insurance Act ([12 U.S.C. 1811][/us/usc/t12/s1811] et seq.), the Bank Holding Company Act of 1956 ([12 U.S.C. 1841][/us/usc/t12/s1841] et seq.), or any other provision of Federal or State law, a savings association that becomes a bank may—
 
     (1) continue to operate any branch or agency that the savings association operated immediately before the savings association became a bank; and
 

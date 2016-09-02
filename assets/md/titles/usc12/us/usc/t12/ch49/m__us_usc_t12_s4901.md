@@ -15,7 +15,7 @@
 
 ## § 4901. Definitions
 
-In this chapter, the following definitions shall apply:
+    In this chapter, the following definitions shall apply:
 
     (1) __Adjustable rate mortgage__ 
 

@@ -15,7 +15,7 @@
 
 ## § 3342. Transactions requiring services of State certified appraiser
 
-In determining whether an appraisal in connection with a federally related transaction shall be performed by a State certified appraiser, an agency or instrumentality under this chapter shall consider whether transactions, either individually or collectively, are of sufficient financial or public policy importance to the United States that an individual who performs an appraisal in connection with such transactions should be a State certified appraiser, except that—
+    In determining whether an appraisal in connection with a federally related transaction shall be performed by a State certified appraiser, an agency or instrumentality under this chapter shall consider whether transactions, either individually or collectively, are of sufficient financial or public policy importance to the United States that an individual who performs an appraisal in connection with such transactions should be a State certified appraiser, except that—
 
     (1) a State certified appraiser shall be required for all federally related transactions having a value of $1,000,000 or more; and
 

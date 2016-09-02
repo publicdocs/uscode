@@ -15,7 +15,7 @@
 
 ## § 1441a–1. Definitions
 
-For purposes of [section 1441a–2 of this title][/us/usc/t12/s1441a–2]:
+    For purposes of [section 1441a–2 of this title][/us/usc/t12/s1441a–2]:
 
     (1) __State housing finance authority__ 
 

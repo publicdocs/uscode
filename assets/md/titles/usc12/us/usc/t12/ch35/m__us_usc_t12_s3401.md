@@ -15,7 +15,7 @@
 
 ## § 3401. Definitions
 
-For the purpose of this chapter, the term—
+    For the purpose of this chapter, the term—
 
     (1) “financial institution”, except as provided in [section 3414 of this title][/us/usc/t12/s3414], means any office of a bank, savings bank, card issuer as defined in section 1602(n)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 15, industrial loan company, trust company, savings association, building and loan, or homestead association (including cooperative banks), credit union, or consumer finance institution, located in any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, or the Virgin Islands;
 

@@ -15,7 +15,7 @@
 
 ## § 3408. Formal written request
 
-A Government authority may request financial records under [section 3402(5) of this title][/us/usc/t12/s3402/5] pursuant to a formal written request only if—
+    A Government authority may request financial records under [section 3402(5) of this title][/us/usc/t12/s3402/5] pursuant to a formal written request only if—
 
     (1) no administrative summons or subpena authority reasonably appears to be available to that Government authority to obtain financial records for the purpose for which such records are sought;
 

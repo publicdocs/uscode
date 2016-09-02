@@ -15,7 +15,7 @@
 
 ## § 2122. Corporate existence; general corporate powers
 
-Each bank for cooperatives shall be a body corporate and, subject to regulation by the Farm Credit Administration, shall have power to—
+    Each bank for cooperatives shall be a body corporate and, subject to regulation by the Farm Credit Administration, shall have power to—
 
     (1) Adopt and use a corporate seal.
 

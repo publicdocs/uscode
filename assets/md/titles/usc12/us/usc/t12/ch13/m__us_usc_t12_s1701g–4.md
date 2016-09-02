@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701g to 1701g–3.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701g–5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701g%E2%80%934)
+[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701f–1.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701g–5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701g%E2%80%934)
 
 ## § 1701g–4. Omitted
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701g to 1701g–3.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701g–5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701g%E2%80%934)
+[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701f–1.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701g–5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701g%E2%80%934)
 
 ----------
 ----------

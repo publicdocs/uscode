@@ -15,7 +15,7 @@
 
 ## § 1866. Services to nonstockholders or nonmembers
 
-No bank service company shall unreasonably discriminate in the provision of any services authorized under this chapter to any depository institution that does not own stock in or is not a member of the service company on the basis of the fact that such depository institution is in competition with an institution that owns stock in or is a member of the bank service company, except that—
+    No bank service company shall unreasonably discriminate in the provision of any services authorized under this chapter to any depository institution that does not own stock in or is not a member of the service company on the basis of the fact that such depository institution is in competition with an institution that owns stock in or is a member of the bank service company, except that—
 
     (1) it shall not be considered unreasonable discrimination for a bank service company to provide services to a nonstockholding or nonmember institution only at a price that fully reflects all of the costs of offering those services, including the cost of capital and a reasonable return thereon; and
 

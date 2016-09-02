@@ -15,7 +15,7 @@
 
 ## § 2279a. Power to merge
 
-The banks within a district may merge into a single entity (hereinafter in this subchapter referred to as a “merged bank”) if the plan of merger is approved by—
+    The banks within a district may merge into a single entity (hereinafter in this subchapter referred to as a “merged bank”) if the plan of merger is approved by—
 
     (1) the Farm Credit Administration Board;
 

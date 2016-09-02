@@ -15,7 +15,7 @@
 
 ## § 5341. Definitions
 
-For purposes of this part—
+    For purposes of this part—
 
     (1) the terms “Office” and “Director” mean the Office of Financial Research established under this part and the Director thereof, respectively;
 

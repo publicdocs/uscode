@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748g–1, 1748h.md) | [Next](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748h–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748h%E2%80%931)
+[Previous](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748g.md) | [Next](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748h–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748h%E2%80%931)
 
 ## § 1748h–1. Civilian employees of Armed Forces
 
@@ -195,7 +195,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748g–1, 1748h.md) | [Next](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748h–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748h%E2%80%931)
+[Previous](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748g.md) | [Next](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748h–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748h%E2%80%931)
 
 ----------
 ----------
