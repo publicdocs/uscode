@@ -35,9 +35,81 @@
 
             (B) 50 percent shall be deposited in a special fund in the Treasury, to be known as the “BLM Permit Processing Improvement Fund” (referred to in this subsection as the “Fund”).
 
-        (3) For each of fiscal years 2006 through 2015, the Fund shall be available to the Secretary of the Interior for expenditure, without further appropriation and without fiscal year limitation, for the coordination and processing of oil and gas use authorizations on onshore Federal land under the jurisdiction of the Pilot Project offices identified in [section 15924(d) of title 42][/us/usc/t42/s15924/d].
+        (3) __Use of fund.—__ 
 
-([Feb. 25, 1920, ch. 85, § 35][/us/act/1920-02-25/ch85/s35], [41 Stat. 450][/us/stat/41/450]; [May 27, 1947, ch. 83][/us/act/1947-05-27/ch83], [61 Stat. 119][/us/stat/61/119]; [Aug. 3, 1950, ch. 527][/us/act/1950-08-03/ch527], [64 Stat. 402][/us/stat/64/402]; [Pub. L. 85–88, § 2][/us/pl/85/88/s2], July 10, 1957, [71 Stat. 282][/us/stat/71/282]; [Pub. L. 85–508][/us/pl/85/508], §§ 6(k), 28(b), July 7, 1958, [72 Stat. 343][/us/stat/72/343], 351; [Pub. L. 94–273, § 6(2)][/us/pl/94/273/s6/2], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 94–377, § 9][/us/pl/94/377/s9], Aug. 4, 1976, [90 Stat. 1089][/us/stat/90/1089]; [Pub. L. 94–422, title III, § 301][/us/pl/94/422/s301], Sept. 28, 1976, [90 Stat. 1323][/us/stat/90/1323]; [Pub. L. 94–579, title III, § 317(a)][/us/pl/94/579/s317/a], Oct. 21, 1976, [90 Stat. 2770][/us/stat/90/2770]; [Pub. L. 97–451, title I][/us/pl/97/451], §§ 104(a), 111(g), Jan. 12, 1983, [96 Stat. 2451][/us/stat/96/2451], 2456; [Pub. L. 100–203, title V, § 5109][/us/pl/100/203/s5109], Dec. 22, 1987, [101 Stat. 1330–261][/us/stat/101/1330-261]; [Pub. L. 100–443, § 5(b)][/us/pl/100/443/s5/b], Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 103–66, title X, § 10201][/us/pl/103/66/s10201], Aug. 10, 1993, [107 Stat. 407][/us/stat/107/407]; [Pub. L. 106–393, title V, § 503][/us/pl/106/393/s503], Oct. 30, 2000, [114 Stat. 1624][/us/stat/114/1624]; [Pub. L. 109–58, title III, § 365(g)][/us/pl/109/58/s365/g], Aug. 8, 2005, [119 Stat. 725][/us/stat/119/725]; [Pub. L. 113–67, div. A, title III, § 302][/us/pl/113/67/s302], Dec. 26, 2013, [127 Stat. 1181][/us/stat/127/1181].)
+            (A)  __In general__  __.—__ 
+
+            The Fund shall be available to the Secretary of the Interior for expenditure, without further appropriation and without fiscal year limitation, for the coordination and processing of oil and gas use authorizations on onshore Federal and Indian trust mineral estate land.
+
+            (B)  __Accounts__  __.—__ 
+
+            The Secretary shall divide the Fund into—
+
+                (i) a Rental Account (referred to in this subsection as the “Rental Account”) comprised of rental receipts collected under this section; and
+
+                (ii) a Fee Account (referred to in this subsection as the “Fee Account”) comprised of fees collected under subsection (d).
+
+        (4) __Rental account.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            The Secretary shall use the Rental Account for—
+
+                (i) the coordination and processing of oil and gas use authorizations on onshore Federal and Indian trust mineral estate land under the jurisdiction of the Project offices identified under [section 15924(d) of title 42][/us/usc/t42/s15924/d]; and
+
+                (ii) training programs for development of expertise related to coordinating and processing oil and gas use authorizations.
+
+            (B)  __Allocation__  __.—__ 
+
+            In determining the allocation of the Rental Account among Project offices for a fiscal year, the Secretary shall consider—
+
+                (i) the number of applications for permit to drill received in a Project office during the previous fiscal year;
+
+                (ii) the backlog of applications described in clause (i) in a Project office;
+
+                (iii) publicly available industry forecasts for development of oil and gas resources under the jurisdiction of a Project office; and
+
+                (iv) any opportunities for partnership with local industry organizations and educational institutions in developing training programs to facilitate the coordination and processing of oil and gas use authorizations.
+
+        (5) __Fee account.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            The Secretary shall use the Fee Account for the coordination and processing of oil and gas use authorizations on onshore Federal and Indian trust mineral estate land.
+
+            (B)  __Allocation__  __.—__ 
+
+            The Secretary shall transfer not less than 75 percent of the revenues collected by an office for the processing of applications for permits to the State office of the State in which the fees were collected.
+
+    (d) __BLM oil and gas permit processing fee__ 
+
+        (1) __In general__ 
+
+            Notwithstanding any other provision of law, for each of fiscal years 2016 through 2026, the Secretary, acting through the Director of the Bureau of Land Management, shall collect a fee for each new application for a permit to drill that is submitted to the Secretary.
+
+        (2) __Amount__ 
+
+            The amount of the fee shall be $9,500 for each new application, as indexed for United States dollar inflation from October 1, 2015 (as measured by the Consumer Price Index).
+
+        (3) __Use__ 
+
+        Of the fees collected under this subsection for a fiscal year, the Secretary shall transfer—
+
+            (A)
+
+             for each of fiscal years 2016 through 2019—
+
+                (i) 15 percent to the field offices that collected the fees and used to process protests, leases, and permits under this chapter, subject to appropriation; and
+
+                (ii) 85 percent to the BLM Permit Processing Improvement Fund established under subsection (c)(2)(B) (referred to in this subsection as the “Fund”); and
+
+            (B) for each of fiscal years 2020 through 2026, all of the fees to the Fund.
+
+        (4) __Additional costs__ 
+
+            During each of fiscal years of 2016 through 2026, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing applications for permits to drill.
+
+([Feb. 25, 1920, ch. 85, § 35][/us/act/1920-02-25/ch85/s35], [41 Stat. 450][/us/stat/41/450]; [May 27, 1947, ch. 83][/us/act/1947-05-27/ch83], [61 Stat. 119][/us/stat/61/119]; [Aug. 3, 1950, ch. 527][/us/act/1950-08-03/ch527], [64 Stat. 402][/us/stat/64/402]; [Pub. L. 85–88, § 2][/us/pl/85/88/s2], July 10, 1957, [71 Stat. 282][/us/stat/71/282]; [Pub. L. 85–508][/us/pl/85/508], §§ 6(k), 28(b), July 7, 1958, [72 Stat. 343][/us/stat/72/343], 351; [Pub. L. 94–273, § 6(2)][/us/pl/94/273/s6/2], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 94–377, § 9][/us/pl/94/377/s9], Aug. 4, 1976, [90 Stat. 1089][/us/stat/90/1089]; [Pub. L. 94–422, title III, § 301][/us/pl/94/422/s301], Sept. 28, 1976, [90 Stat. 1323][/us/stat/90/1323]; [Pub. L. 94–579, title III, § 317(a)][/us/pl/94/579/s317/a], Oct. 21, 1976, [90 Stat. 2770][/us/stat/90/2770]; [Pub. L. 97–451, title I][/us/pl/97/451], §§ 104(a), 111(g), Jan. 12, 1983, [96 Stat. 2451][/us/stat/96/2451], 2456; [Pub. L. 100–203, title V, § 5109][/us/pl/100/203/s5109], Dec. 22, 1987, [101 Stat. 1330–261][/us/stat/101/1330-261]; [Pub. L. 100–443, § 5(b)][/us/pl/100/443/s5/b], Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 103–66, title X, § 10201][/us/pl/103/66/s10201], Aug. 10, 1993, [107 Stat. 407][/us/stat/107/407]; [Pub. L. 106–393, title V, § 503][/us/pl/106/393/s503], Oct. 30, 2000, [114 Stat. 1624][/us/stat/114/1624]; [Pub. L. 109–58, title III, § 365(g)][/us/pl/109/58/s365/g], Aug. 8, 2005, [119 Stat. 725][/us/stat/119/725]; [Pub. L. 113–67, div. A, title III, § 302][/us/pl/113/67/s302], Dec. 26, 2013, [127 Stat. 1181][/us/stat/127/1181]; [Pub. L. 113–291, div. B, title XXX, § 3021(b)][/us/pl/113/291/s3021/b], (c)(1), Dec. 19, 2014, [128 Stat. 3760][/us/stat/128/3760], 3761.)
 
  __References in Text__ 
 
@@ -54,6 +126,10 @@
     Provisions of subsec. (a) which authorized the payment of monies to the Territory of Alaska were omitted as superseded by the provisions authorizing the payment of monies to the State of Alaska.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(3) to (5). [Pub. L. 113–291, § 3021(c)(1)][/us/pl/113/291/s3021/c/1], added pars. (3) to (5) and struck out former par. (3) which read as follows: “For each of fiscal years 2006 through 2015, the Fund shall be available to the Secretary of the Interior for expenditure, without further appropriation and without fiscal year limitation, for the coordination and processing of oil and gas use authorizations on onshore Federal land under the jurisdiction of the Pilot Project offices identified in [section 15924(d) of title 42][/us/usc/t42/s15924/d].”
+
+    Subsec. (d). [Pub. L. 113–291, § 3021(b)][/us/pl/113/291/s3021/b], added subsec. (d)
 
     2013—Subsec. (b). [Pub. L. 113–67][/us/pl/113/67] amended subsec. (b) generally. Prior to amendment, text read as follows: “In determining the amount of payments to the States under this section, the amount of such payments shall not be reduced by any administrative or other costs incurred by the United States.”
 
@@ -166,6 +242,8 @@
 [/us/stat/119/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F725
 [/us/pl/113/67/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs302
 [/us/stat/127/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1181
+[/us/pl/113/291/s3021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fb
+[/us/stat/128/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3760
 [/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
 [/us/stat/96/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2447
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701
@@ -180,6 +258,9 @@
 [/us/stat/52/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1252
 [/us/act/1956-08-10/ch1041/s49/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs49%2Fb
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
+[/us/pl/113/291/s3021/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fc%2F1
+[/us/usc/t42/s15924/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15924%2Fd
+[/us/pl/113/291/s3021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fb
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
