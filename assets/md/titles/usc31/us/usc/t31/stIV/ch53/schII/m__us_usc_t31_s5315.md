@@ -23,7 +23,7 @@
 
         (2) it is important to have the most feasible current and complete information on the kind and source of capital flows, including transactions by large United States businesses and their foreign affiliates; and
 
-        (3) additional authority should be provided to collect information on capital flows under section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)) and section 8 of the Bretton Woods Agreement Act ([22 U.S.C. 286f][/us/usc/t22/s286f]).
+        (3) additional authority should be provided to collect information on capital flows under section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b))  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and section 8 of the Bretton Woods Agreement Act ([22 U.S.C. 286f][/us/usc/t22/s286f]).
 
     (b) In this section, “United States person” and “foreign person controlled by a United States person” have the same meanings given those terms in section 7(f)(2)(A) and (C), respectively, of the Securities and Exchange Act of 1934 ([15 U.S.C. 78g(f)(2)(A)][/us/usc/t15/s78g/f/2/A], (C)).
 
@@ -95,7 +95,7 @@ Sept. 21, 1973, Pub. L. 93–110, §§ 201, 202, 87 Stat. 353.  </td>
 
  __References in Text__ 
 
-    Section 5(b) of the Trading With the Enemy Act, referred to in subsec. (a)(3), is also classified to [section 95a of Title 12][/us/usc/t12/s95a], Banks and Banking.
+    Section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)), referred to in subsec. (a)(3), is section 5(b) of [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 415][/us/stat/40/415], which was editorially transferred and is now classified to [section 4305(b) of Title 50][/us/usc/t50/s4305/b], War and National Defense.
 
 ----------
 
@@ -108,6 +108,8 @@ Sept. 21, 1973, Pub. L. 93–110, §§ 201, 202, 87 Stat. 353.  </td>
 [/us/usc/t15/s78g/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78g%2Ff%2F2%2FA
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F997
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/stat/40/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F415
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 
 

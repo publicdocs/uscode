@@ -327,7 +327,7 @@ R.S. § 3534; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma 
 
  __Possession of Gold Coins and Bullion__ 
 
-    The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under [section 95a of Title 12][/us/usc/t12/s95a], Banks and Banking.
+    The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974.
 
 ----------
 
@@ -338,6 +338,5 @@ R.S. § 3534; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma 
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F987
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
 
 

@@ -2057,7 +2057,7 @@ Provisions authorizing commemorative coins were contained in the following acts:
 
  __Possession of Gold Coins and Bullion__ 
 
-    The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under [section 5 of Title 50][/us/usc/t50/s5], Appendix, War and National Defense.
+    The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974.
 
 ----------
 
@@ -2421,6 +2421,5 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/stat/99/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F113
 [/us/pl/97/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F220
 [/us/stat/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F222
-[/us/usc/t50/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs5
 
 

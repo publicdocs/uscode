@@ -433,7 +433,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(1) Section 3 of the Employment Act of 1946 ([15 U.S.C. 1022][/us/usc/t15/s1022]).
 
->     “(2) Section 723 of the Defense Production Act of 1950 \[50 U.S.C. App. 2172\].
+>     “(2) Section 723 of the Defense Production Act of 1950 \[[50 U.S.C. 4568][/us/usc/t50/s4568]\].
 
 >     “(3) Section 603 of the Public Works and Economic Development Act of 1965 ([42 U.S.C. 3213][/us/usc/t42/s3213]).
 
@@ -499,7 +499,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(34) Section 607(a) of the Housing and Community Development Amendments of 1978 ([42 U.S.C. 8106(a)][/us/usc/t42/s8106/a]).
 
->     “(35) Section 708(l) of the Defense Production Act of 1950 (50 U.S.C. App. 2158(l)).
+>     “(35) Section 708(l) of the Defense Production Act of 1950 (50 U.S.C. App. 2158(l)) \[now [50 U.S.C. 4558][/us/usc/t50/s4558](l)\].
 
 >     “(36) Section 2546 of the Comprehensive Thrift and Bank Fraud Prosecution and Taxpayer Recovery Act of 1990 \[[Pub. L. 101–647][/us/pl/101/647]\] ([28 U.S.C. 522][/us/usc/t28/s522] note).
 
@@ -769,11 +769,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(8) Section 3 of the International Claims Settlement Act of 1949 ([22 U.S.C. 1622][/us/usc/t22/s1622]).
 
->     “(9) Section 9 of the War Claims Act of 1948 (50 U.S.C. App. 2008).
+>     “(9) Section 9 of the War Claims Act of 1948 (50 U.S.C. App. 2008) \[now [50 U.S.C. 4107][/us/usc/t50/s4107]\].
 
 >     “(10) [Section 13(c) of the Act of September 11, 1957][/us/act/1957-09-11/s13/c] ([8 U.S.C. 1255b(c)][/us/usc/t8/s1255b/c]).
 
->     “(11) Section 203(b) of the Aleutian and Pribilof Islands Restitution Act (50 U.S.C. App. 1989c–2(b)).
+>     “(11) Section 203(b) of the Aleutian and Pribilof Islands Restitution Act (50 U.S.C. App. 1989c–2(b)) \[now [50 U.S.C. 4233][/us/usc/t50/s4233]\].
 
 >     “(12) Section 801(e) of the Immigration Act of 1990 ([29 U.S.C. 2920(e)][/us/usc/t29/s2920/e]).
 
@@ -909,9 +909,9 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(29) Sections 202(d) and 401(c) of the National Emergencies Act ([50 U.S.C. 1622(d)][/us/usc/t50/s1622/d], 1641(c)).
 
->     “(30) Section 10(g) of the Military Selective Service Act (50 U.S.C. App. 460(g)).
+>     “(30) Section 10(g) of the Military Selective Service Act (50 U.S.C. App. 460(g)) \[now [50 U.S.C. 3809(g)][/us/usc/t50/s3809/g]\].
 
->     “(31) Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158).
+>     “(31) Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158) \[now [50 U.S.C. 4558][/us/usc/t50/s4558]\].
 
 >     “(32) Section 703(g) of the Military Construction Authorization Act, 1982 ([Public Law 97–99][/us/pl/97/99]; [95 Stat. 1376][/us/stat/95/1376]).
 
@@ -975,7 +975,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >         “(14) section 204 of the International Emergency Economic Powers Act ([50 U.S.C. 1703][/us/usc/t50/s1703]);
 
->         “(15) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413);
+>         “(15) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) \[now [50 U.S.C. 4616][/us/usc/t50/s4616]\];
 
 >         “(16) section 207 of the International Economic Policy Act of 1972 ([Public Law 92–412][/us/pl/92/412]; [86 Stat. 648][/us/stat/86/648]) \[former [22 U.S.C. 2846][/us/usc/t22/s2846]\];
 
@@ -1001,9 +1001,9 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >         “(27) [section 23 of the Act of August 1, 1956][/us/act/1956-08-01/s23] (Chapter 841 \[probably should be [section 515(b)(2) of Public Law 95–105][/us/pl/95/105/s515/b/2]\]; [22 U.S.C. 2694(2)][/us/usc/t22/s2694/2]);
 
->         “(28) section 5(c)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2404(c)(5));
+>         “(28) section 5(c)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2404(c)(5)) \[now [50 U.S.C. 4604(c)(5)][/us/usc/t50/s4604/c/5]\];
 
->         “(29) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413);
+>         “(29) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) \[now [50 U.S.C. 4616][/us/usc/t50/s4616]\];
 
 >         “(30) [section 50 of Public Law 87–297][/us/pl/87/297/s50] ([22 U.S.C. 2590][/us/usc/t22/s2590]);
 
@@ -1132,6 +1132,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t15/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022
+[/us/usc/t50/s4568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4568
 [/us/usc/t42/s3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3213
 [/us/usc/t42/s3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3535
 [/us/usc/t12/s1735f–18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735f%E2%80%9318%2Fc
@@ -1168,6 +1169,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t12/s1752a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752a%2Fd
 [/us/usc/t12/s1441b/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441b%2Fi
 [/us/usc/t42/s8106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8106%2Fa
+[/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t28/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs522
 [/us/usc/t12/s1708/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1708%2Fb%2F8
@@ -1303,8 +1305,10 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t8/s1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1523
 [/us/usc/t8/s1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1356
 [/us/usc/t22/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622
+[/us/usc/t50/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4107
 [/us/act/1957-09-11/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1957-09-11%2Fs13%2Fc
 [/us/usc/t8/s1255b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1255b%2Fc
+[/us/usc/t50/s4233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4233
 [/us/usc/t29/s2920/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2920%2Fe
 [/us/usc/t8/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1364
 [/us/usc/t15/s1691f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691f
@@ -1406,6 +1410,8 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/pl/102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F1
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
 [/us/usc/t50/s1622/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1622%2Fd
+[/us/usc/t50/s3809/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809%2Fg
+[/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
 [/us/pl/97/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F99
 [/us/stat/95/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1376
 [/us/pl/97/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F99
@@ -1435,6 +1441,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t22/s5858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5858
 [/us/usc/t50/s1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1543
 [/us/usc/t50/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1703
+[/us/usc/t50/s4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4616
 [/us/pl/92/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412
 [/us/stat/86/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F648
 [/us/usc/t22/s2846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2846
@@ -1458,6 +1465,8 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/act/1956-08-01/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fs23
 [/us/pl/95/105/s515/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs515%2Fb%2F2
 [/us/usc/t22/s2694/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2694%2F2
+[/us/usc/t50/s4604/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fc%2F5
+[/us/usc/t50/s4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4616
 [/us/pl/87/297/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs50
 [/us/usc/t22/s2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2590
 [/us/usc/t22/s2200a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200a
