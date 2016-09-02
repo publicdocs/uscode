@@ -1837,7 +1837,7 @@ E–1  </td>
 
 [Pub. L. 87–531, § 5][/us/pl/87/531/s5], July 10, 1962, [76 Stat. 153][/us/stat/76/153], provided that: 
 
-> “The Secretaries of the departments concerned shall have the same authority with respect to payments of quarters allowances to enlisted members of the uniformed services to pay grades E–4 (over 4 years’ service) through E–9 that they have with respect to enlisted members of the uniformed services in pay grades E–1, E–2, E–3, and E–4 (4 years’ or less service) under sections 10 and 11 of the Dependents Assistance Act of 1950 (50 App. U.S.C. 2210, 2211).”
+> “The Secretaries of the departments concerned shall have the same authority with respect to payments of quarters allowances to enlisted members of the uniformed services to pay grades E–4 (over 4 years’ service) through E–9 that they have with respect to enlisted members of the uniformed services in pay grades E–1, E–2, E–3, and E–4 (4 years’ or less service) under sections 10 and 11 of the Dependents Assistance Act of 1950 (\[former\] 50 App. U.S.C. 2210, 2211).”
 
  __Executive Order No. 10204__ 
 

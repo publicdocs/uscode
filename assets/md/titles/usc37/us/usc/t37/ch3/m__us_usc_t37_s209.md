@@ -21,7 +21,7 @@
 
         (2) The Secretary of Defense shall prescribe by regulation the monthly rates for subsistence allowances provided under this section. The rate may not be less than $250 per month, but may not exceed $674 per month.
 
-        (3) A subsistence allowance under this section may not be considered financial assistance requiring additional service within the meaning of the third sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1)).
+        (3) A subsistence allowance under this section may not be considered financial assistance requiring additional service within the meaning of the third sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1)). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (b)  __Senior ROTC Members Appointed in Reserves__  __.—__ 
 
@@ -116,6 +116,10 @@ Source (Statutes at Large)  </td>
   </tr>
 
 </table>
+
+ __References in Text__ 
+
+    Section 6(d)(1) of the Military Selective Service Act, referred to in subsec. (a)(3), was classified to section 456(d)(1) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 3806(d)(1) of Title 50][/us/usc/t50/s3806/d/1].
 
  __Amendments__ 
 
@@ -272,6 +276,7 @@ Source (Statutes at Large)  </td>
 [/us/stat/116/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2651
 [/us/pl/108/136/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs523%2Fa
 [/us/stat/117/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1463
+[/us/usc/t50/s3806/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806%2Fd%2F1
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1

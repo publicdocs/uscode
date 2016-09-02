@@ -571,7 +571,7 @@ Oct. 12, 1949, ch. 681, § 102 (less (g)), 63 Stat. 804.  </td>
 
 [Pub. L. 97–60, § 1][/us/pl/97/60/s1], Oct. 14, 1981, [95 Stat. 989][/us/stat/95/989], provided: 
 
-> “That this Act \[enacting sections 308f, 315, 404a, 411c, 411d, and 411e of this title and sections 4341a and 9341a of Title 10, Armed Forces, amending sections 203, 301, 301a, 301b, 301c, 304, 305a, 308, 308a, 312b, 404, 405a, 406, 407, 411, 411b, 415, and 1006 of this title, sections 2107, 2634, 4342, 5031, 5153, 6011, 6953, 6954, 6956, 7572, and 9342 of Title 10, and section 460 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes under sections 203, 301, 301a, 308, 312, 404, 404a, and 1009 of this title and sections 4341a, 6011, and 7572 of Title 10, and amending a provision set out as a note under [section 7572 of Title 10][/us/usc/t10/s7572]\] may be cited as the ‘Uniformed Services Pay Act of 1981’.”
+> “That this Act \[enacting sections 308f, 315, 404a, 411c, 411d, and 411e of this title and sections 4341a and 9341a of Title 10, Armed Forces, amending sections 203, 301, 301a, 301b, 301c, 304, 305a, 308, 308a, 312b, 404, 405a, 406, 407, 411, 411b, 415, and 1006 of this title, sections 2107, 2634, 4342, 5031, 5153, 6011, 6953, 6954, 6956, 7572, and 9342 of Title 10, and [section 3809 of Title 50][/us/usc/t50/s3809], War and National Defense, enacting provisions set out as notes under sections 203, 301, 301a, 308, 312, 404, 404a, and 1009 of this title and sections 4341a, 6011, and 7572 of Title 10, and amending a provision set out as a note under [section 7572 of Title 10][/us/usc/t10/s7572]\] may be cited as the ‘Uniformed Services Pay Act of 1981’.”
 
  __Short Title of 1980 Amendments__ 
 
@@ -607,7 +607,7 @@ Oct. 12, 1949, ch. 681, § 102 (less (g)), 63 Stat. 804.  </td>
 
 [Pub. L. 88–132, § 1][/us/pl/88/132/s1], Oct. 2, 1963, [77 Stat. 210][/us/stat/77/210], provided: 
 
-> “That this Act \[enacting sections 310 and 427 of this title and [section 1401a of Title 10][/us/usc/t10/s1401a], Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, [section 423 of Title 14][/us/usc/t14/s423], Coast Guard, [section 857a of Title 33][/us/usc/t33/s857a], Navigation and Navigable Waters, and [section 213a of Title 42][/us/usc/t42/s213a], The Public Health and Welfare, repealing [section 6149 of Title 10][/us/usc/t10/s6149] and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, [section 1402 of Title 10][/us/usc/t10/s1402], and section 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
+> “That this Act \[enacting sections 310 and 427 of this title and [section 1401a of Title 10][/us/usc/t10/s1401a], Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, [section 423 of Title 14][/us/usc/t14/s423], Coast Guard, [section 857a of Title 33][/us/usc/t33/s857a], Navigation and Navigable Waters, and [section 213a of Title 42][/us/usc/t42/s213a], The Public Health and Welfare, repealing [section 6149 of Title 10][/us/usc/t10/s6149] and sections 2351 to 2356 of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, [section 1402 of Title 10][/us/usc/t10/s1402], and section 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
 
  __Transfer of Functions__ 
 
@@ -713,6 +713,7 @@ Oct. 12, 1949, ch. 681, § 102 (less (g)), 63 Stat. 804.  </td>
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
 [/us/pl/97/60/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs1
 [/us/stat/95/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F989
+[/us/usc/t50/s3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809
 [/us/usc/t10/s7572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7572
 [/us/pl/96/579/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs1
 [/us/stat/94/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3359

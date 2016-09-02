@@ -181,7 +181,7 @@ Oct. 12, 1949, ch. 681, § 102(g) (less last proviso of last sentence), 63 Sta
 
 [Pub. L. 93–64, title II, § 206][/us/pl/93/64/s206], July 9, 1973, [87 Stat. 149][/us/stat/87/149], provided that: 
 
-> “This Act \[enacting [section 1173 of Title 10][/us/usc/t10/s1173], Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of Title 50, Appendix, War and National Defense\] shall become effective July 1, 1973.”
+> “This Act \[enacting [section 1173 of Title 10][/us/usc/t10/s1173], Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of the former Appendix to Title 50, War and National Defense\] shall become effective July 1, 1973.”
 
 ----------
 

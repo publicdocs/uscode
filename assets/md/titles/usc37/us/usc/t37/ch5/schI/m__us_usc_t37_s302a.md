@@ -101,7 +101,7 @@
 
 [Pub. L. 92–129, title II, § 209][/us/pl/92/129/s209], Sept. 28, 1971, [85 Stat. 359][/us/stat/85/359], provided that: 
 
-> “The foregoing provisions of this title \[enacting this section and [section 428 of this title][/us/usc/t37/s428] and amending sections 203 and 403 of this title and sections 2204 and 2207 of Title 50, Appendix, War and National Defense\] shall become effective on October 1, 1971, except that section 203 \[enacting [section 308a of this title][/us/usc/t37/s308a]\] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 \[amending [section 2203 of Title 50][/us/usc/t50/s2203], Appendix\] shall become effective July 1, 1971.”
+> “The foregoing provisions of this title \[enacting this section and [section 428 of this title][/us/usc/t37/s428] and amending sections 203 and 403 of this title and sections 2204 and 2207 of the former Appendix to Title 50, War and National Defense\] shall become effective on October 1, 1971, except that section 203 \[enacting [section 308a of this title][/us/usc/t37/s308a]\] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 \[amending section 2203 of the former Appendix to Title 50\] shall become effective July 1, 1971.”
 
  __Savings Provision__ 
 
@@ -173,7 +173,6 @@
 [/us/stat/85/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F359
 [/us/usc/t37/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs428
 [/us/usc/t37/s308a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs308a
-[/us/usc/t50/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2203
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510
