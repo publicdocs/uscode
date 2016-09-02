@@ -59,7 +59,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3205" data-uslm-ref="/us/usc/t19/s3205">3205.</a>  </td>
 
-    <td> Impact study by Secretary of Labor.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

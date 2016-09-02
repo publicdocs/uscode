@@ -123,19 +123,7 @@
 
         The designated authorities shall, at least once each year, publish in the Federal Register a list of the names of any producer, manufacturer, supplier, seller, importer, or exporter, whether or not located within the customs territory of the United States or subject to the jurisdiction of the United States, against whom a final administrative determination with respect to the assessment of a civil penalty for a knowing and intentional or a grossly negligent violation has been made under this section.
 
-    (e) __Reports__ 
-
-    In order to enable Congress to engage in active, continuing oversight of this section, the designated authorities shall provide the following:
-
-        (1) __Plan for enforcement__ 
-
-            Within 3 months after November 9, 2000, the designated authorities shall submit to Congress a plan for the enforcement of the provisions of this section, including training and procedures to ensure that United States Government personnel are equipped with state-of-the-art technologies to identify potential dog or cat fur products and to determine the true content of such products.
-
-        (2) __Report on enforcement efforts__ 
-
-            Not later than 1 year after November 9, 2000, and on an annual basis thereafter, the designated authorities shall submit a report to Congress on the efforts of the United States Government to enforce the provisions of this section and the adequacy of the resources to do so. The report shall include an analysis of the training of United States Government personnel to identify dog and cat fur products effectively and to take appropriate action to enforce this section. The report shall include the findings of the designated authorities as to whether any government has engaged in a pattern or practice of support for trade in products the importation of which are prohibited under this section.
-
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 308, as added [Pub. L. 106–476, title I, § 1443(a)][/us/pl/106/476/s1443/a], Nov. 9, 2000, [114 Stat. 2164][/us/stat/114/2164].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 308, as added [Pub. L. 106–476, title I, § 1443(a)][/us/pl/106/476/s1443/a], Nov. 9, 2000, [114 Stat. 2164][/us/stat/114/2164]; amended [Pub. L. 113–188, title X, § 1001(a)][/us/pl/113/188/s1001/a], Nov. 26, 2014, [128 Stat. 2022][/us/stat/128/2022].)
 
  __References in Text__ 
 
@@ -144,6 +132,10 @@
  __Prior Provisions__ 
 
     A prior section 1308, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 308, [46 Stat. 690][/us/stat/46/690]; [June 25, 1938, ch. 679, § 4][/us/act/1938-06-25/ch679/s4], [52 Stat. 1079][/us/stat/52/1079]; [Aug. 8, 1953, ch. 397, § 10(a)(1)][/us/act/1953-08-08/ch397/s10/a/1], (b) to (f), [67 Stat. 512][/us/stat/67/512]; [Aug. 28, 1954, ch. 1045, § 1][/us/act/1954-08-28/ch1045/s1], [68 Stat. 914][/us/stat/68/914]; Aug. 28, 1957, [Pub. L. 85–211, § 3][/us/pl/85/211/s3], [71 Stat. 487][/us/stat/71/487]; Apr. 16, 1958, [Pub. L. 85–379][/us/pl/85/379], [72 Stat. 88][/us/stat/72/88]; May 16, 1958, [Pub. L. 85–414, § 1][/us/pl/85/414/s1], [72 Stat. 118][/us/stat/72/118], prescribed articles for temporary free importation under bond for exportation, prior to repeal by [Pub. L. 87–456, title III, § 301(a)][/us/pl/87/456/s301/a], title V, § 501(a), May 24, 1962, [76 Stat. 75][/us/stat/76/75], 78, effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
+
+ __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–188][/us/pl/113/188] struck out subsec. (e) which related to submissions of a plan for enforcement and annual reports on enforcement efforts.
 
  __Effective Date__ 
 
@@ -202,6 +194,8 @@
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/pl/106/476/s1443/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1443%2Fa
 [/us/stat/114/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2164
+[/us/pl/113/188/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1001%2Fa
+[/us/stat/128/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2022
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F690
@@ -219,6 +213,7 @@
 [/us/stat/72/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F118
 [/us/pl/87/456/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs301%2Fa
 [/us/stat/76/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F75
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/106/476/s1443/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1443%2Fc
 [/us/stat/114/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2167
 [/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69

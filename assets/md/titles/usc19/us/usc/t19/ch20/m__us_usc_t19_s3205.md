@@ -13,11 +13,9 @@
 
 [Previous](./../../../..//us/usc/t19/ch20/m__us_usc_t19_s3204.md) | [Next](./../../../..//us/usc/t19/ch20/m__us_usc_t19_s3206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3205)
 
-## § 3205. Impact study by Secretary of Labor
+## § 3205. Repealed. [Pub. L. 113–188, title XII, § 1201][/us/pl/113/188/s1201], Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023]
 
-    The Secretary of Labor, in consultation with other appropriate Federal agencies, shall undertake a continuing review and analysis of the impact that the implementation of the provisions of this chapter has with respect to United States labor; and shall make an annual written report to Congress on the results of such review and analysis.
-
-([Pub. L. 102–182, title II, § 207][/us/pl/102/182/s207], Dec. 4, 1991, [105 Stat. 1244][/us/stat/105/1244].)
+    Section, [Pub. L. 102–182, title II, § 207][/us/pl/102/182/s207], Dec. 4, 1991, [105 Stat. 1244][/us/stat/105/1244], required impact studies and annual reports from the Secretary of Labor.
 
 ----------
 
@@ -26,6 +24,8 @@
 ----------
 ----------
 
+[/us/pl/113/188/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1201
+[/us/stat/128/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2023
 [/us/pl/102/182/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs207
 [/us/stat/105/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1244
 
