@@ -81,23 +81,7 @@
 
  __Special Rule for the State of Alaska__ 
 
-[Pub. L. 113–4, title IX, § 910][/us/pl/113/4/s910], Mar. 7, 2013, [127 Stat. 126][/us/stat/127/126], provided that:
-
->     “(a)  __Expanded Jurisdiction__  __.—__ 
-
->     In the State of Alaska, the amendments made by sections 904 and 905 \[enacting [section 1304 of Title 25][/us/usc/t25/s1304], Indians, and amending this section, respectively\] shall only apply to the Indian country (as defined in [section 1151 of title 18][/us/usc/t18/s1151], United States Code) of the Metlakatla Indian Community, Annette Island Reserve.
-
->     “(b)  __Retained Jurisdiction__  __.—__ 
-
->     The jurisdiction and authority of each Indian tribe in the State of Alaska under [section 2265(e) of title 18][/us/usc/t18/s2265/e], United States Code (as in effect on the day before the date of enactment of this Act \[Mar. 7, 2013\])—
-
->         “(1) shall remain in full force and effect; and
-
->         “(2) are not limited or diminished by this Act \[see Tables for classification\] or any amendment made by this Act.
-
->     “(c)  __Savings Provision__  __.—__ 
-
->     Nothing in this Act or an amendment made by this Act limits or diminishes the jurisdiction of the State of Alaska, any subdivision of the State of Alaska, or any Indian tribe in the State of Alaska.”
+    [Pub. L. 113–4, title IX, § 910][/us/pl/113/4/s910], Mar. 7, 2013, [127 Stat. 126][/us/stat/127/126], which provided that, in the State of Alaska, the amendments made by sections 904 and 905 of [Pub. L. 113–4][/us/pl/113/4], which related to tribal jurisdiction over crimes of domestic violence and over issuance of protection orders, applied only to the Indian country of the Metlakatla Indian Community, Annette Island Reserve, was repealed by [Pub. L. 113–275][/us/pl/113/275], Dec. 18, 2014, [128 Stat. 2988][/us/stat/128/2988].
 
 ----------
 
@@ -131,8 +115,8 @@
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/pl/113/4/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs910
 [/us/stat/127/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F126
-[/us/usc/t25/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1304
-[/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/usc/t18/s2265/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2265%2Fe
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F275
+[/us/stat/128/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2988
 
 
