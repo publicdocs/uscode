@@ -25,11 +25,11 @@
 
         (3) shall have its principal offices in the Washington, D.C. metropolitan area; and
 
-        (4) shall at all times maintain a designated agent in the District of Columbia authorized to accept service of process for the Foundation.
+        (4) shall at all times maintain a designated agent in the District of Columbia authorized to accept notice or service of process for the Foundation.
 
     (b) __Notice and service of process__ 
 
-        The serving of notice to, or service of process upon, the agent required under this paragraph, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “this section,”. </sup></sup>  or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
+        The serving of notice to, or service of process upon, the agent required by subsection (a)(4) or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
 
     (c) __Seal__ 
 
@@ -63,7 +63,13 @@
 
         (4) Contributions, gifts, and other transfers made to or for the use of the Foundation shall be treated as contributions, gifts, or transfers to an organization exempt from taxation under [section 501(c)(3) of title 26][/us/usc/t26/s501/c/3].
 
-([Pub. L. 101–593, title IV, § 404][/us/pl/101/593/s404], Nov. 16, 1990, [104 Stat. 2971][/us/stat/104/2971].)
+([Pub. L. 101–593, title IV, § 404][/us/pl/101/593/s404], Nov. 16, 1990, [104 Stat. 2971][/us/stat/104/2971]; [Pub. L. 114–54, title II, § 201(c)(1)][/us/pl/114/54/s201/c/1], Sept. 30, 2015, [129 Stat. 516][/us/stat/129/516].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(4). [Pub. L. 114–54, § 201(c)(1)(A)][/us/pl/114/54/s201/c/1/A], inserted “notice or” after “authorized to accept”.
+
+    Subsec. (b). [Pub. L. 114–54, § 201(c)(1)(B)][/us/pl/114/54/s201/c/1/B], substituted “by subsection (a)(4)” for “under this paragraph”.
 
 ----------
 
@@ -75,5 +81,9 @@
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/pl/101/593/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs404
 [/us/stat/104/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2971
+[/us/pl/114/54/s201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs201%2Fc%2F1
+[/us/stat/129/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F516
+[/us/pl/114/54/s201/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs201%2Fc%2F1%2FA
+[/us/pl/114/54/s201/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs201%2Fc%2F1%2FB
 
 
