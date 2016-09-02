@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–273, div. C, title III, § 13206(a)(10)][/us/pl/107/273/s13206/a/10], Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904], substituted “to” for “of” in item 183.
+    2002—[Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(10), Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904], substituted “to” for “of” in item 183.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/107/273/s13206/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F10
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1904
 
 

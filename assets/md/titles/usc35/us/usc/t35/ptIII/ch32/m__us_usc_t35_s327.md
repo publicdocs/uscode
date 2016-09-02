@@ -23,7 +23,7 @@
 
     Any agreement or understanding between the patent owner and a petitioner, including any collateral agreements referred to in such agreement or understanding, made in connection with, or in contemplation of, the termination of a post-grant review under this section shall be in writing, and a true copy of such agreement or understanding shall be filed in the Office before the termination of the post-grant review as between the parties. At the request of a party to the proceeding, the agreement or understanding shall be treated as business confidential information, shall be kept separate from the file of the involved patents, and shall be made available only to Federal Government agencies on written request, or to any person on a showing of good cause.
 
-(Added [Pub. L. 112–29, § 6(d)][/us/pl/112/29/s6/d], Sept. 16, 2011, [125 Stat. 310][/us/stat/125/310].)
+(Added [Pub. L. 112–29][/us/pl/112/29], § 6(d), Sept. 16, 2011, [125 Stat. 310][/us/stat/125/310].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/112/29/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fd
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F310
 [/us/pl/112/29/s3/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fn%2F1
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100

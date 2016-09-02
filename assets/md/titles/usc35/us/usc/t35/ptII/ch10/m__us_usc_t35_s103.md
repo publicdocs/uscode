@@ -17,7 +17,7 @@
 
     A patent for a claimed invention may not be obtained, notwithstanding that the claimed invention is not identically disclosed as set forth in section 102, if the differences between the claimed invention and the prior art are such that the claimed invention as a whole would have been obvious before the effective filing date of the claimed invention to a person having ordinary skill in the art to which the claimed invention pertains. Patentability shall not be negated by the manner in which the invention was made.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 798][/us/stat/66/798]; [Pub. L. 98–622, title I, § 103][/us/pl/98/622/s103], Nov. 8, 1984, [98 Stat. 3384][/us/stat/98/3384]; [Pub. L. 104–41, § 1][/us/pl/104/41/s1], Nov. 1, 1995, [109 Stat. 351][/us/stat/109/351]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4807(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–591; [Pub. L. 108–453, § 2][/us/pl/108/453/s2], Dec. 10, 2004, [118 Stat. 3596][/us/stat/118/3596]; [Pub. L. 112–29][/us/pl/112/29], §§ 3(c), 20(j), Sept. 16, 2011, [125 Stat. 287][/us/stat/125/287], 335.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 798][/us/stat/66/798]; [Pub. L. 98–622, title I][/us/pl/98/622/tI], § 103, Nov. 8, 1984, [98 Stat. 3384][/us/stat/98/3384]; [Pub. L. 104–41][/us/pl/104/41], § 1, Nov. 1, 1995, [109 Stat. 351][/us/stat/109/351]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4807(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–591; [Pub. L. 108–453][/us/pl/108/453], § 2, Dec. 10, 2004, [118 Stat. 3596][/us/stat/118/3596]; [Pub. L. 112–29][/us/pl/112/29], §§ 3(c), 20(j), Sept. 16, 2011, [125 Stat. 287][/us/stat/125/287], 335.)
 
  __Historical and Revision Notes__ 
 
@@ -27,9 +27,9 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–29, § 3(c)][/us/pl/112/29/s3/c], amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) and related to conditions for patentability; non-obvious subject matter.
+    2011—[Pub. L. 112–29][/us/pl/112/29], § 3(c), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) and related to conditions for patentability; non-obvious subject matter.
 
-    Subsecs. (a), (c)(1). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “102”.
+    Subsecs. (a), (c)(1). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “102”.
 
     2004—Subsec. (c). [Pub. L. 108–453][/us/pl/108/453] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of [section 102 of this title][/us/usc/t35/s102], shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.”
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–453, § 3][/us/pl/108/453/s3], Dec. 10, 2004, [118 Stat. 3596][/us/stat/118/3596], provided that:
+[Pub. L. 108–453][/us/pl/108/453], § 3, Dec. 10, 2004, [118 Stat. 3596][/us/stat/118/3596], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -59,19 +59,19 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4807(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–591, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4807(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–591, provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to any application for patent filed on or after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–41, § 3][/us/pl/104/41/s3], Nov. 1, 1995, [109 Stat. 352][/us/stat/109/352], provided that: 
+[Pub. L. 104–41][/us/pl/104/41], § 3, Nov. 1, 1995, [109 Stat. 352][/us/stat/109/352], provided that: 
 
 > “The amendments made by section 1 \[amending this section\] shall apply to any application for patent filed on or after the date of enactment of this Act \[Nov. 1, 1995\] and to any application for patent pending on such date of enactment, including (in either case) an application for the reissuance of a patent.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–622, title I, § 106][/us/pl/98/622/s106], Nov. 8, 1984, [98 Stat. 3385][/us/stat/98/3385], provided that:
+[Pub. L. 98–622, title I][/us/pl/98/622/tI], § 106, Nov. 8, 1984, [98 Stat. 3385][/us/stat/98/3385], provided that:
 
 >     “(a) Subject to subsections (b), (c), (d), and (e) of this section, the amendments made by this Act \[probably should be “this title”, meaning title I of [Pub. L. 98–622][/us/pl/98/622], enacting [section 157 of this title][/us/usc/t35/s157], amending this section and sections 116, 120, 135, and 271 of this title, and enacting a provision set out as a note under [section 157 of this title][/us/usc/t35/s157]\] shall apply to all United States patents granted before, on, or after the date of enactment of this Act \[Nov. 8, 1984\], and to all applications for United States patents pending on or filed after the date of enactment.
 
@@ -92,18 +92,18 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F798
-[/us/pl/98/622/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs103
+[/us/pl/98/622/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtI
 [/us/stat/98/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3384
-[/us/pl/104/41/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F41%2Fs1
+[/us/pl/104/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F41
 [/us/stat/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F351
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/453/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F453%2Fs2
+[/us/pl/108/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F453
 [/us/stat/118/3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3596
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F287
-[/us/pl/112/29/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fc
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/108/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F453
 [/us/usc/t35/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs102
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -116,13 +116,13 @@
 [/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs2
-[/us/pl/108/453/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F453%2Fs3
+[/us/pl/108/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F453
 [/us/stat/118/3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3596
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/104/41/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F41%2Fs3
+[/us/pl/104/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F41
 [/us/stat/109/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F352
-[/us/pl/98/622/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs106
+[/us/pl/98/622/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtI
 [/us/stat/98/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3385
 [/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
 [/us/usc/t35/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs157

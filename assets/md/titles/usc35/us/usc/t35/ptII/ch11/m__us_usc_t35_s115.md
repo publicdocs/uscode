@@ -105,11 +105,11 @@
 
     Any declaration or statement filed pursuant to this section shall contain an acknowledgment that any willful false statement made in such declaration or statement is punishable under [section 1001 of title 18][/us/usc/t18/s1001] by fine or imprisonment of not more than 5 years, or both.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 799][/us/stat/66/799]; [Pub. L. 97–247, § 14(a)][/us/pl/97/247/s14/a], Aug. 27, 1982, [96 Stat. 321][/us/stat/96/321]; [Pub. L. 105–277, div. G, title XXII, § 2222(d)][/us/pl/105/277/s2222/d], Oct. 21, 1998, [112 Stat. 2681–818][/us/stat/112/2681-818]; [Pub. L. 112–29, § 4(a)(1)][/us/pl/112/29/s4/a/1], Sept. 16, 2011, [125 Stat. 293][/us/stat/125/293]; [Pub. L. 112–211, title I, § 102(4)][/us/pl/112/211/s102/4], Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531]; [Pub. L. 112–274, § 1(f)][/us/pl/112/274/s1/f], Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 799][/us/stat/66/799]; [Pub. L. 97–247][/us/pl/97/247], § 14(a), Aug. 27, 1982, [96 Stat. 321][/us/stat/96/321]; [Pub. L. 105–277, div. G, title XXII][/us/pl/105/277/dG/tXXII], § 2222(d), Oct. 21, 1998, [112 Stat. 2681–818][/us/stat/112/2681-818]; [Pub. L. 112–29][/us/pl/112/29], § 4(a)(1), Sept. 16, 2011, [125 Stat. 293][/us/stat/125/293]; [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 102(4), Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531]; [Pub. L. 112–274][/us/pl/112/274], § 1(f), Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456].)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 35 (R.S. 4892, amended (1) [Mar. 3, 1903, ch. 1019, § 2][/us/act/1903-03-03/ch1019/s2], [32 Stat. 1225][/us/stat/32/1225], 1226, (2) [May 23, 1930, ch. 312, § 3][/us/act/1930-05-23/ch312/s3], [46 Stat. 376][/us/stat/46/376]).
+    Based on Title 35, U.S.C., 1946 ed., § 35 (R.S. 4892, amended (1) [Mar. 3, 1903, ch. 1019][/us/act/1903-03-03/ch1019], § 2, [32 Stat. 1225][/us/stat/32/1225], 1226, (2) [May 23, 1930, ch. 312][/us/act/1930-05-23/ch312], § 3, [46 Stat. 376][/us/stat/46/376]).
 
     The expression at the end of the second sentence is added to avoid application of the District of Columbia law to oaths taken outside the District.
 
@@ -117,9 +117,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (f). [Pub. L. 112–274, § 1(f)(1)][/us/pl/112/274/s1/f/1], added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “A notice of allowance under section 151 may be provided to an applicant for patent only if the applicant for patent has filed each required oath or declaration under subsection (a) or has filed a substitute statement under subsection (d) or recorded an assignment meeting the requirements of subsection (e).”
+    2013—Subsec. (f). [Pub. L. 112–274][/us/pl/112/274], § 1(f)(1), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “A notice of allowance under section 151 may be provided to an applicant for patent only if the applicant for patent has filed each required oath or declaration under subsection (a) or has filed a substitute statement under subsection (d) or recorded an assignment meeting the requirements of subsection (e).”
 
-    Subsec. (g)(1). [Pub. L. 112–274, § 1(f)(2)][/us/pl/112/274/s1/f/2], substituted “that claims” for “who claims” in introductory provisions.
+    Subsec. (g)(1). [Pub. L. 112–274][/us/pl/112/274], § 1(f)(2), substituted “that claims” for “who claims” in introductory provisions.
 
     2012—Subsec. (g)(1). [Pub. L. 112–211][/us/pl/112/211] substituted “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)” in introductory provisions.
 
@@ -155,22 +155,22 @@
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F799
-[/us/pl/97/247/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs14%2Fa
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F321
-[/us/pl/105/277/s2222/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2222%2Fd
+[/us/pl/105/277/dG/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXXII
 [/us/stat/112/2681-818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-818
-[/us/pl/112/29/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs4%2Fa%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F293
-[/us/pl/112/211/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F4
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
-[/us/pl/112/274/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Ff
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2456
-[/us/act/1903-03-03/ch1019/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-03-03%2Fch1019%2Fs2
+[/us/act/1903-03-03/ch1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-03-03%2Fch1019
 [/us/stat/32/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F1225
-[/us/act/1930-05-23/ch312/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312%2Fs3
+[/us/act/1930-05-23/ch312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312
 [/us/stat/46/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F376
-[/us/pl/112/274/s1/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Ff%2F1
-[/us/pl/112/274/s1/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Ff%2F2
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t22/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4221

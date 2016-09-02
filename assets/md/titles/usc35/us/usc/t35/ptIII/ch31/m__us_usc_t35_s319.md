@@ -17,7 +17,7 @@
 
     A party dissatisfied with the final written decision of the Patent Trial and Appeal Board under section 318(a) may appeal the decision pursuant to sections 141 through 144. Any party to the inter partes review shall have the right to be a party to the appeal.
 
-(Added [Pub. L. 112–29, § 6(a)][/us/pl/112/29/s6/a], Sept. 16, 2011, [125 Stat. 304][/us/stat/125/304].)
+(Added [Pub. L. 112–29][/us/pl/112/29], § 6(a), Sept. 16, 2011, [125 Stat. 304][/us/stat/125/304].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/29/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F304
 [/us/pl/112/29/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fc%2F2
 [/us/usc/t35/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs311

@@ -23,7 +23,7 @@
 
     In the manner set forth in subsection (a), any patentee or applicant may disclaim or dedicate to the public the entire term, or any terminal part of the term, of the patent granted or to be granted.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 809][/us/stat/66/809]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 112–29, § 20(e)][/us/pl/112/29/s20/e], Sept. 16, 2011, [125 Stat. 334][/us/stat/125/334].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 809][/us/stat/66/809]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 112–29][/us/pl/112/29], § 20(e), Sept. 16, 2011, [125 Stat. 334][/us/stat/125/334].)
 
  __Historical and Revision Notes__ 
 
@@ -58,9 +58,9 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F809
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/112/29/s20/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fe
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F334
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596

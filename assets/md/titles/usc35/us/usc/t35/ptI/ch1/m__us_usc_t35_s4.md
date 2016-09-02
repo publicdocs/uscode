@@ -17,7 +17,7 @@
 
     Officers and employees of the Patent and Trademark Office shall be incapable, during the period of their appointments and for one year thereafter, of applying for a patent and of acquiring, directly or indirectly, except by inheritance or bequest, any patent or any right or interest in any patent, issued or to be issued by the Office. In patents applied for thereafter they shall not be entitled to any priority date earlier than one year after the termination of their appointment.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 793][/us/stat/66/793]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 793][/us/stat/66/793]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949].)
 
  __Historical and Revision Notes__ 
 
@@ -48,7 +48,7 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F793
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596

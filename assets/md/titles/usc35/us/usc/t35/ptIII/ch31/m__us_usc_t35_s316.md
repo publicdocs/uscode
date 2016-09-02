@@ -81,7 +81,7 @@
 
     In an inter partes review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability by a preponderance of the evidence.
 
-(Added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4604(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–569; amended [Pub. L. 107–273, div. C, title III, § 13202(c)(1)][/us/pl/107/273/s13202/c/1], Nov. 2, 2002, [116 Stat. 1902][/us/stat/116/1902]; [Pub. L. 112–29, § 6(a)][/us/pl/112/29/s6/a], Sept. 16, 2011, [125 Stat. 302][/us/stat/125/302].)
+(Added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4604(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–569; amended [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13202(c)(1), Nov. 2, 2002, [116 Stat. 1902][/us/stat/116/1902]; [Pub. L. 112–29][/us/pl/112/29], § 6(a), Sept. 16, 2011, [125 Stat. 302][/us/stat/125/302].)
 
  __Amendments__ 
 
@@ -100,11 +100,11 @@
 ----------
 ----------
 
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fc%2F1
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1902
-[/us/pl/112/29/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F302
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

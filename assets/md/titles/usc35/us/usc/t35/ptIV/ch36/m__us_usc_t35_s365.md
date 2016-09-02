@@ -21,13 +21,13 @@
 
     (c) In accordance with the conditions and requirements of section 120, an international application designating the United States shall be entitled to the benefit of the filing date of a prior national application, a prior international application designating the United States, or a prior international design application as defined in section 381(a)(6) designating the United States, and a national application shall be entitled to the benefit of the filing date of a prior international application designating the United States. If any claim for the benefit of an earlier filing date is based on a prior international application which designated but did not originate in the United States or a prior international design application as defined in section 381(a)(6) which designated but did not originate in the United States, the Director may require the filing in the Patent and Trademark Office of a certified copy of such application together with a translation thereof into the English language, if it was filed in another language.
 
-(Added [Pub. L. 94–131, § 1][/us/pl/94/131/s1], Nov. 14, 1975, [89 Stat. 686][/us/stat/89/686]; amended [Pub. L. 98–622, title IV, § 403(a)][/us/pl/98/622/s403/a], Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392]; [Pub. L. 103–465, title V, § 532(c)(4)][/us/pl/103/465/s532/c/4], Dec. 8, 1994, [108 Stat. 4987][/us/stat/108/4987]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335]; [Pub. L. 112–211, title I, § 102(8)][/us/pl/112/211/s102/8], title II, § 201(c)(2), Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532], 1535.)
+(Added [Pub. L. 94–131][/us/pl/94/131], § 1, Nov. 14, 1975, [89 Stat. 686][/us/stat/89/686]; amended [Pub. L. 98–622, title IV][/us/pl/98/622/tIV], § 403(a), Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 532(c)(4), Dec. 8, 1994, [108 Stat. 4987][/us/stat/108/4987]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], § 20(j), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335]; [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 102(8), title II, § 201(c)(2), Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532], 1535.)
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–211, § 201(c)(2)][/us/pl/112/211/s201/c/2], inserted at end “The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed claim for priority under the treaty and the Regulations, and to accept a priority claim that pertains to an application that was not filed within the priority period specified in the treaty and Regulations, but was filed within the additional 2-month period specified under section 119(a) or the treaty and Regulations.”
+    2012—Subsec. (b). [Pub. L. 112–211][/us/pl/112/211], § 201(c)(2), inserted at end “The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed claim for priority under the treaty and the Regulations, and to accept a priority claim that pertains to an application that was not filed within the priority period specified in the treaty and Regulations, but was filed within the additional 2-month period specified under section 119(a) or the treaty and Regulations.”
 
-    Subsec. (c). [Pub. L. 112–211, § 102(8)][/us/pl/112/211/s102/8], substituted “, a prior international application designating the United States, or a prior international design application as defined in section 381(a)(6) designating the United States” for “or a prior international application designating the United States” and inserted “or a prior international design application as defined in section 381(a)(6) which designated but did not originate in the United States” after “did not originate in the United States”.
+    Subsec. (c). [Pub. L. 112–211][/us/pl/112/211], § 102(8), substituted “, a prior international application designating the United States, or a prior international design application as defined in section 381(a)(6) designating the United States” for “or a prior international application designating the United States” and inserted “or a prior international design application as defined in section 381(a)(6) which designated but did not originate in the United States” after “did not originate in the United States”.
 
     2011—Subsec. (a). [Pub. L. 112–29][/us/pl/112/29] struck out “of this title” after “119”.
 
@@ -39,9 +39,9 @@
 
     1999—Subsec. (c). [Pub. L. 106–113][/us/pl/106/113], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner”.
 
-    1994—Subsec. (a). [Pub. L. 103–465, § 532(c)(4)(A)][/us/pl/103/465/s532/c/4/A], substituted “subsections (a) through (d) of section 119” for “section 119”.
+    1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 532(c)(4)(A), substituted “subsections (a) through (d) of section 119” for “section 119”.
 
-    Subsec. (b). [Pub. L. 103–465, § 532(c)(4)(B)][/us/pl/103/465/s532/c/4/B], substituted “section 119(a)” for “the first paragraph of section 119”.
+    Subsec. (b). [Pub. L. 103–465][/us/pl/103/465], § 532(c)(4)(B), substituted “section 119(a)” for “the first paragraph of section 119”.
 
     1984—Subsec. (c). [Pub. L. 98–622][/us/pl/98/622] substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -74,22 +74,22 @@
 ----------
 ----------
 
-[/us/pl/94/131/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131%2Fs1
+[/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/stat/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F686
-[/us/pl/98/622/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs403%2Fa
+[/us/pl/98/622/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtIV
 [/us/stat/98/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3392
-[/us/pl/103/465/s532/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs532%2Fc%2F4
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4987
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
-[/us/pl/112/211/s102/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F8
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1532
-[/us/pl/112/211/s201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs201%2Fc%2F2
-[/us/pl/112/211/s102/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F8
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
@@ -97,8 +97,8 @@
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/103/465/s532/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs532%2Fc%2F4%2FA
-[/us/pl/103/465/s532/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs532%2Fc%2F4%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
 [/us/pl/112/211/s102/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F8
 [/us/pl/112/211/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs103

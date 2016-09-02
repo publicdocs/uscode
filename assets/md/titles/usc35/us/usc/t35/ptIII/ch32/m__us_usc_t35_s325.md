@@ -61,7 +61,7 @@
 
     A post-grant review may not be instituted under this chapter if the petition requests cancellation of a claim in a reissue patent that is identical to or narrower than a claim in the original patent from which the reissue patent was issued, and the time limitations in section 321(c) would bar filing a petition for a post-grant review for such original patent.
 
-(Added [Pub. L. 112–29, § 6(d)][/us/pl/112/29/s6/d], Sept. 16, 2011, [125 Stat. 307][/us/stat/125/307].)
+(Added [Pub. L. 112–29][/us/pl/112/29], § 6(d), Sept. 16, 2011, [125 Stat. 307][/us/stat/125/307].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t28/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1338
-[/us/pl/112/29/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fd
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F307
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
 [/us/pl/112/29/s3/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fn%2F1

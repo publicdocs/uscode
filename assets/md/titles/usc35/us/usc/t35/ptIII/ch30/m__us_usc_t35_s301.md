@@ -39,7 +39,7 @@
 
     Upon the written request of the person citing prior art or written statements pursuant to subsection (a), that person’s identity shall be excluded from the patent file and kept confidential.
 
-(Added [Pub. L. 96–517, § 1][/us/pl/96/517/s1], Dec. 12, 1980, [94 Stat. 3015][/us/stat/94/3015]; amended [Pub. L. 112–29, § 6(g)(1)][/us/pl/112/29/s6/g/1], Sept. 16, 2011, [125 Stat. 311][/us/stat/125/311].)
+(Added [Pub. L. 96–517][/us/pl/96/517], § 1, Dec. 12, 1980, [94 Stat. 3015][/us/stat/94/3015]; amended [Pub. L. 112–29][/us/pl/112/29], § 6(g)(1), Sept. 16, 2011, [125 Stat. 311][/us/stat/125/311].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 6(g)(3)][/us/pl/112/29/s6/g/3], Sept. 16, 2011, [125 Stat. 312][/us/stat/125/312], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 6(g)(3), Sept. 16, 2011, [125 Stat. 312][/us/stat/125/312], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent issued before, on, or after that effective date.”
 
@@ -62,12 +62,12 @@
 ----------
 ----------
 
-[/us/pl/96/517/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs1
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3015
-[/us/pl/112/29/s6/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fg%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F311
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
-[/us/pl/112/29/s6/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fg%2F3
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F312
 [/us/pl/96/517/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs8%2Fb
 [/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41

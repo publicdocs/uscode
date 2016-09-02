@@ -121,7 +121,7 @@
 
         (4) This subsection shall not apply to any patent issued based on an application which has an effective filing date before September 30, 1996.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 813][/us/stat/66/813]; [Pub. L. 100–418, title IX, § 9004(a)][/us/pl/100/418/s9004/a], Aug. 23, 1988, [102 Stat. 1564][/us/stat/102/1564]; [Pub. L. 103–465, title V, § 533(b)(5)][/us/pl/103/465/s533/b/5], Dec. 8, 1994, [108 Stat. 4989][/us/stat/108/4989]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title VI, § 616\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–67; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4803\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–589; [Pub. L. 112–29][/us/pl/112/29], §§ 3(g)(2), 16(a)(1), 20(i)(4), (j), Sept. 16, 2011, [125 Stat. 288][/us/stat/125/288], 328, 335.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 813][/us/stat/66/813]; [Pub. L. 100–418, title IX][/us/pl/100/418/tIX], § 9004(a), Aug. 23, 1988, [102 Stat. 1564][/us/stat/102/1564]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 533(b)(5), Dec. 8, 1994, [108 Stat. 4989][/us/stat/108/4989]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title VI, § 616\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–67; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4803\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–589; [Pub. L. 112–29][/us/pl/112/29], §§ 3(g)(2), 16(a)(1), 20(i)(4), (j), Sept. 16, 2011, [125 Stat. 288][/us/stat/125/288], 328, 335.)
 
  __Historical and Revision Notes__ 
 
@@ -131,7 +131,7 @@
 
  __References in Text__ 
 
-    Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is [section 9006 of title IX of Pub. L. 100–418][/us/pl/100/418/s9006], which is set out as a note under [section 271 of this title][/us/usc/t35/s271].
+    Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is [section 9006 of title IX of Pub. L. 100–418][/us/pl/100/418/tIX/s9006], which is set out as a note under [section 271 of this title][/us/usc/t35/s271].
 
     The effective date of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(4)(C), is the effective date of title IX of [Pub. L. 100–418][/us/pl/100/418]. See [section 9006 of Pub. L. 100–418][/us/pl/100/418/s9006], set out as a note under [section 271 of this title][/us/usc/t35/s271].
 
@@ -145,29 +145,29 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–29, § 16(a)(1)][/us/pl/112/29/s16/a/1], substituted “or by fixing thereon the word ‘patent’ or the abbreviation ‘pat.’ together with an address of a posting on the Internet, accessible to the public without charge for accessing the address, that associates the patented article with the number of the patent, or when,” for “or when,”.
+    2011—Subsec. (a). [Pub. L. 112–29][/us/pl/112/29], § 16(a)(1), substituted “or by fixing thereon the word ‘patent’ or the abbreviation ‘pat.’ together with an address of a posting on the Internet, accessible to the public without charge for accessing the address, that associates the patented article with the number of the patent, or when,” for “or when,”.
 
-    Subsec. (b)(2). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “271(g)”.
+    Subsec. (b)(2). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “271(g)”.
 
-    Subsec. (c)(1). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “271(a) or (b)” and after “285”.
+    Subsec. (c)(1). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “271(a) or (b)” and after “285”.
 
-    Subsec. (c)(2)(G). [Pub. L. 112–29, § 20(i)(4)][/us/pl/112/29/s20/i/4], substituted “any State” for “any state”.
+    Subsec. (c)(2)(G). [Pub. L. 112–29][/us/pl/112/29], § 20(i)(4), substituted “any State” for “any state”.
 
-    Subsec. (c)(4). [Pub. L. 112–29, § 3(g)(2)][/us/pl/112/29/s3/g/2], substituted “which has an effective filing date before” for “the earliest effective filing date of which is prior to”.
+    Subsec. (c)(4). [Pub. L. 112–29][/us/pl/112/29], § 3(g)(2), substituted “which has an effective filing date before” for “the earliest effective filing date of which is prior to”.
 
     1999—Subsec. (c)(4). [Pub. L. 106–113][/us/pl/106/113] substituted “based on an application the earliest effective filing date of which is prior to September 30, 1996” for “before the date of enactment of this subsection”.
 
     1996—Subsec. (c). [Pub. L. 104–208][/us/pl/104/208] added subsec. (c).
 
-    1994—Subsec. (a). [Pub. L. 103–465, § 533(b)(5)(A)][/us/pl/103/465/s533/b/5/A], substituted “making, offering for sale, or selling within the United States” for “making or selling” and inserted “or importing any patented article into the United States,” after “under them,”.
+    1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 533(b)(5)(A), substituted “making, offering for sale, or selling within the United States” for “making or selling” and inserted “or importing any patented article into the United States,” after “under them,”.
 
-    Subsec. (b)(1)(C). [Pub. L. 103–465, § 533(b)(5)(B)(i)][/us/pl/103/465/s533/b/5/B/i], substituted “use, offer for sale, or sale” for “use, or sale”.
+    Subsec. (b)(1)(C). [Pub. L. 103–465][/us/pl/103/465], § 533(b)(5)(B)(i), substituted “use, offer for sale, or sale” for “use, or sale”.
 
-    Subsec. (b)(4)(A). [Pub. L. 103–465, § 533(b)(5)(B)(ii)][/us/pl/103/465/s533/b/5/B/ii], substituted “sold, offered for sale, or” for “sold or” in introductory provisions.
+    Subsec. (b)(4)(A). [Pub. L. 103–465][/us/pl/103/465], § 533(b)(5)(B)(ii), substituted “sold, offered for sale, or” for “sold or” in introductory provisions.
 
-    Subsec. (b)(4)(A)(ii). [Pub. L. 103–465, § 533(b)(5)(B)(iii)][/us/pl/103/465/s533/b/5/B/iii], substituted “use, offer for sale, or sale” for “use, or sale”.
+    Subsec. (b)(4)(A)(ii). [Pub. L. 103–465][/us/pl/103/465], § 533(b)(5)(B)(iii), substituted “use, offer for sale, or sale” for “use, or sale”.
 
-    Subsec. (b)(4)(C). [Pub. L. 103–465, § 533(b)(5)(B)(iv)][/us/pl/103/465/s533/b/5/B/iv], (v), substituted “have been offered for sale or sold” for “have been sold” and “United States, or imported by the person into the United States, before” for “United States before”.
+    Subsec. (b)(4)(C). [Pub. L. 103–465][/us/pl/103/465], § 533(b)(5)(B)(iv), (v), substituted “have been offered for sale or sold” for “have been sold” and “United States, or imported by the person into the United States, before” for “United States before”.
 
     1988—[Pub. L. 100–418][/us/pl/100/418] inserted “and other remedies” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
@@ -175,7 +175,7 @@
 
     Amendment by [section 3(g)(2) of Pub. L. 112–29][/us/pl/112/29/s3/g/2] effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see [section 3(n) of Pub. L. 112–29][/us/pl/112/29/s3/n], set out as an Effective Date of 2011 Amendment; Savings Provisions note under [section 100 of this title][/us/usc/t35/s100].
 
-[Pub. L. 112–29, § 16(a)(2)][/us/pl/112/29/s16/a/2], Sept. 16, 2011, [125 Stat. 328][/us/stat/125/328], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 16(a)(2), Sept. 16, 2011, [125 Stat. 328][/us/stat/125/328], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to any case that is pending on, or commenced on or after, the date of the enactment of this Act \[Sept. 16, 2011\].”
 
@@ -198,19 +198,19 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F813
-[/us/pl/100/418/s9004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9004%2Fa
+[/us/pl/100/418/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX
 [/us/stat/102/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1564
-[/us/pl/103/465/s533/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F5
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4989
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F288
 [/us/act/1927-02-07/ch67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch67
 [/us/stat/44/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1058
-[/us/pl/100/418/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9006
+[/us/pl/100/418/tIX/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX%2Fs9006
 [/us/usc/t35/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs271
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9006
@@ -227,23 +227,23 @@
 [/us/usc/t42/s263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a
 [/us/usc/t42/s263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a
 [/us/usc/t42/s263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a
-[/us/pl/112/29/s16/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs16%2Fa%2F1
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fi%2F4
-[/us/pl/112/29/s3/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fg%2F2
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/103/465/s533/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F5%2FA
-[/us/pl/103/465/s533/b/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F5%2FB%2Fi
-[/us/pl/103/465/s533/b/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F5%2FB%2Fii
-[/us/pl/103/465/s533/b/5/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F5%2FB%2Fiii
-[/us/pl/103/465/s533/b/5/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F5%2FB%2Fiv
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/112/29/s3/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fg%2F2
 [/us/pl/112/29/s3/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fn
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100
-[/us/pl/112/29/s16/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs16%2Fa%2F2
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F328
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29

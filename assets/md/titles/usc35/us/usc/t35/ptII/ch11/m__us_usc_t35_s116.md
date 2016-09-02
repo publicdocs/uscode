@@ -27,7 +27,7 @@
 
     Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, the Director may permit the application to be amended accordingly, under such terms as he prescribes.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 799][/us/stat/66/799]; [Pub. L. 97–247, § 6(a)][/us/pl/97/247/s6/a], Aug. 27, 1982, [96 Stat. 320][/us/stat/96/320]; [Pub. L. 98–622, title I, § 104(a)][/us/pl/98/622/s104/a], Nov. 8, 1984, [98 Stat. 3384][/us/stat/98/3384]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29, § 20(a)][/us/pl/112/29/s20/a], Sept. 16, 2011, [125 Stat. 333][/us/stat/125/333].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 799][/us/stat/66/799]; [Pub. L. 97–247][/us/pl/97/247], § 6(a), Aug. 27, 1982, [96 Stat. 320][/us/stat/96/320]; [Pub. L. 98–622, title I][/us/pl/98/622/tI], § 104(a), Nov. 8, 1984, [98 Stat. 3384][/us/stat/98/3384]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], § 20(a), Sept. 16, 2011, [125 Stat. 333][/us/stat/125/333].)
 
  __Historical and Revision Notes__ 
 
@@ -70,15 +70,15 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F799
-[/us/pl/97/247/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs6%2Fa
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F320
-[/us/pl/98/622/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs104%2Fa
+[/us/pl/98/622/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtI
 [/us/stat/98/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3384
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
-[/us/pl/112/29/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F333
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

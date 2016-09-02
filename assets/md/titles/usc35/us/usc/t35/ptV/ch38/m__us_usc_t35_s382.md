@@ -37,7 +37,7 @@
 
         (3) with an intergovernmental organization.
 
-(Added [Pub. L. 112–211, title I, § 101(a)][/us/pl/112/211/s101/a], Dec. 18, 2012, [126 Stat. 1528][/us/stat/126/1528].)
+(Added [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 101(a), Dec. 18, 2012, [126 Stat. 1528][/us/stat/126/1528].)
 
  __Effective Date__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/112/211/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs101%2Fa
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1528
 [/us/pl/112/211/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs103
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100

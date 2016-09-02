@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 31, part (R.S. 4886, amended (1) [Mar. 3, 1897, ch. 391, § 1][/us/act/1897-03-03/ch391/s1], [29 Stat. 692][/us/stat/29/692], (2) [May 23, 1930, ch. 312, § 1][/us/act/1930-05-23/ch312/s1], [46 Stat. 376][/us/stat/46/376], (3) [Aug. 5, 1939, ch. 450, § 1][/us/act/1939-08-05/ch450/s1], [53 Stat. 1212][/us/stat/53/1212]).
+    Based on Title 35, U.S.C., 1946 ed., § 31, part (R.S. 4886, amended (1) [Mar. 3, 1897, ch. 391][/us/act/1897-03-03/ch391], § 1, [29 Stat. 692][/us/stat/29/692], (2) [May 23, 1930, ch. 312][/us/act/1930-05-23/ch312], § 1, [46 Stat. 376][/us/stat/46/376], (3) [Aug. 5, 1939, ch. 450][/us/act/1939-08-05/ch450], § 1, [53 Stat. 1212][/us/stat/53/1212]).
 
     The provision relating to plants in the corresponding section of existing statute is made a separate section.
 
@@ -42,11 +42,11 @@
 [/us/stat/66/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F804
 [/us/act/1954-09-03/ch1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1259
 [/us/stat/68/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1190
-[/us/act/1897-03-03/ch391/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391%2Fs1
+[/us/act/1897-03-03/ch391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391
 [/us/stat/29/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F692
-[/us/act/1930-05-23/ch312/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312%2Fs1
+[/us/act/1930-05-23/ch312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312
 [/us/stat/46/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F376
-[/us/act/1939-08-05/ch450/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch450%2Fs1
+[/us/act/1939-08-05/ch450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch450
 [/us/stat/53/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1212
 
 

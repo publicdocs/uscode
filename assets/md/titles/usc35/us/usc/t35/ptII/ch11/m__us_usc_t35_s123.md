@@ -47,7 +47,7 @@
 
     In addition to the limits imposed by this section, the Director may, in the Director’s discretion, impose income limits, annual filing limits, or other limits on who may qualify as a micro entity pursuant to this section if the Director determines that such additional limits are reasonably necessary to avoid an undue impact on other patent applicants or owners or are otherwise reasonably necessary and appropriate. At least 3 months before any limits proposed to be imposed pursuant to this subsection take effect, the Director shall inform the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate of any such proposed limits.
 
-(Added and amended [Pub. L. 112–29][/us/pl/112/29], §§ 10(g)(1), 20(j), Sept. 16, 2011, [125 Stat. 318][/us/stat/125/318], 335; [Pub. L. 112–274, § 1(m)][/us/pl/112/274/s1/m], Jan. 14, 2013, [126 Stat. 2459][/us/stat/126/2459].)
+(Added and amended [Pub. L. 112–29][/us/pl/112/29], §§ 10(g)(1), 20(j), Sept. 16, 2011, [125 Stat. 318][/us/stat/125/318], 335; [Pub. L. 112–274][/us/pl/112/274], § 1(m), Jan. 14, 2013, [126 Stat. 2459][/us/stat/126/2459].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
     2013—Subsec. (a). [Pub. L. 112–274][/us/pl/112/274] inserted “of this title” after “For purposes” in introductory provisions.
 
-    2011—Subsec. (a). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “For purposes” in introductory provisions.
+    2011—Subsec. (a). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “For purposes” in introductory provisions.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -81,11 +81,11 @@
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F318
-[/us/pl/112/274/s1/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fm
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2459
 [/us/usc/t26/s61/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs61%2Fa
 [/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/pl/112/274/s1/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fn
 [/us/usc/t35/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs5

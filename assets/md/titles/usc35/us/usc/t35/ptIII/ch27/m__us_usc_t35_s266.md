@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t35/ptIII/ch27/m__us_usc_t35_ptIII_ch27.md) | [Next](./../../../../..//us/usc/t35/ptIII/ch27/m__us_usc_t35_s267.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs266)
 
-## \[§ 266. Repealed. [Pub. L. 89–83, § 8][/us/pl/89/83/s8], July 24, 1965, [79 Stat. 261][/us/stat/79/261]\]
+## \[§ 266. Repealed. [Pub. L. 89–83][/us/pl/89/83], § 8, July 24, 1965, [79 Stat. 261][/us/stat/79/261]\]
 
-    Section, [act July 19, 1952, ch. 950, § 1][/us/act/1952-07-19/ch950/s1], [66 Stat. 811][/us/stat/66/811], provided for issuance of patents to government employees without fees.
+    Section, [act July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], § 1, [66 Stat. 811][/us/stat/66/811], provided for issuance of patents to government employees without fees.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/89/83/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs8
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
 [/us/stat/79/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F261
-[/us/act/1952-07-19/ch950/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950%2Fs1
+[/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F811
 [/us/pl/89/83/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs7%2Fa
 [/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41

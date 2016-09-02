@@ -21,7 +21,7 @@
 
     (c) If a license to file in a foreign country is refused or if an international application is ordered to be kept secret and a permit refused, the Patent and Trademark Office when acting as a Receiving Office, International Searching Authority, or International Preliminary Examining Authority, may not disclose the contents of such application to anyone not authorized to receive such disclosure.
 
-(Added [Pub. L. 94–131, § 1][/us/pl/94/131/s1], Nov. 14, 1975, [89 Stat. 687][/us/stat/89/687]; amended [Pub. L. 98–622, title IV, § 403(a)][/us/pl/98/622/s403/a], Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392]; [Pub. L. 99–616, § 6][/us/pl/99/616/s6], Nov. 6, 1986, [100 Stat. 3486][/us/stat/100/3486]; [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
+(Added [Pub. L. 94–131][/us/pl/94/131], § 1, Nov. 14, 1975, [89 Stat. 687][/us/stat/89/687]; amended [Pub. L. 98–622, title IV][/us/pl/98/622/tIV], § 403(a), Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392]; [Pub. L. 99–616][/us/pl/99/616], § 6, Nov. 6, 1986, [100 Stat. 3486][/us/stat/100/3486]; [Pub. L. 112–29][/us/pl/112/29], § 20(j), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
 
  __Amendments__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/94/131/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131%2Fs1
+[/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/stat/89/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F687
-[/us/pl/98/622/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs403%2Fa
+[/us/pl/98/622/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtIV
 [/us/stat/98/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3392
-[/us/pl/99/616/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs6
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
 [/us/stat/100/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3486
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616

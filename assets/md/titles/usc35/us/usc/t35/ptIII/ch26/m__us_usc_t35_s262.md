@@ -17,7 +17,7 @@
 
     In the absence of any agreement to the contrary, each of the joint owners of a patent may make, use, offer to sell, or sell the patented invention within the United States, or import the patented invention into the United States, without the consent of and without accounting to the other owners.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 810][/us/stat/66/810]; [Pub. L. 103–465, title V, § 533(b)(3)][/us/pl/103/465/s533/b/3], Dec. 8, 1994, [108 Stat. 4989][/us/stat/108/4989].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 810][/us/stat/66/810]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 533(b)(3), Dec. 8, 1994, [108 Stat. 4989][/us/stat/108/4989].)
 
  __Historical and Revision Notes__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F810
-[/us/pl/103/465/s533/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F3
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4989
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

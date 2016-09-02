@@ -17,11 +17,11 @@
 
     In the case of a plant patent, the grant shall include the right to exclude others from asexually reproducing the plant, and from using, offering for sale, or selling the plant so reproduced, or any of its parts, throughout the United States, or from importing the plant so reproduced, or any parts thereof, into the United States.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 804][/us/stat/66/804]; [Pub. L. 105–289, § 3(a)][/us/pl/105/289/s3/a], Oct. 27, 1998, [112 Stat. 2781][/us/stat/112/2781].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 804][/us/stat/66/804]; [Pub. L. 105–289][/us/pl/105/289], § 3(a), Oct. 27, 1998, [112 Stat. 2781][/us/stat/112/2781].)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 40, part (R.S. 4884, amended [May 23, 1930, ch. 312, § 1][/us/act/1930-05-23/ch312/s1], [46 Stat. 376][/us/stat/46/376]).
+    Based on Title 35, U.S.C., 1946 ed., § 40, part (R.S. 4884, amended [May 23, 1930, ch. 312][/us/act/1930-05-23/ch312], § 1, [46 Stat. 376][/us/stat/46/376]).
 
     This provision is from R.S. 4884 (see section 154) amended in language.
 
@@ -31,13 +31,13 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–289, § 3(b)][/us/pl/105/289/s3/b], Oct. 27, 1998, [112 Stat. 2781][/us/stat/112/2781], provided that: 
+[Pub. L. 105–289][/us/pl/105/289], § 3(b), Oct. 27, 1998, [112 Stat. 2781][/us/stat/112/2781], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any plant patent issued on or after the date of the enactment of this Act \[Oct. 27, 1998\].”
 
  __Findings and Purposes__ 
 
-[Pub. L. 105–289, § 2][/us/pl/105/289/s2], Oct. 27, 1998, [112 Stat. 2780][/us/stat/112/2780], provided that:
+[Pub. L. 105–289][/us/pl/105/289], § 2, Oct. 27, 1998, [112 Stat. 2780][/us/stat/112/2780], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -72,14 +72,14 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F804
-[/us/pl/105/289/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289%2Fs3%2Fa
+[/us/pl/105/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289
 [/us/stat/112/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2781
-[/us/act/1930-05-23/ch312/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312%2Fs1
+[/us/act/1930-05-23/ch312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312
 [/us/stat/46/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F376
 [/us/pl/105/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289
-[/us/pl/105/289/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289%2Fs3%2Fb
+[/us/pl/105/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289
 [/us/stat/112/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2781
-[/us/pl/105/289/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289%2Fs2
+[/us/pl/105/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289
 [/us/stat/112/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2780
 [/us/pl/105/289/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289%2Fs1
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1

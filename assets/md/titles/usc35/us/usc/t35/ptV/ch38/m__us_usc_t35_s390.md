@@ -17,7 +17,7 @@
 
     The publication under the treaty of an international design application designating the United States shall be deemed a publication under section 122(b).
 
-(Added [Pub. L. 112–211, title I, § 101(a)][/us/pl/112/211/s101/a], Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531].)
+(Added [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 101(a), Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/211/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs101%2Fa
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
 [/us/pl/112/211/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs103
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100

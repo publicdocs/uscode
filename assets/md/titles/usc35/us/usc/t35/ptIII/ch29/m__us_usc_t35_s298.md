@@ -17,11 +17,11 @@
 
     The failure of an infringer to obtain the advice of counsel with respect to any allegedly infringed patent, or the failure of the infringer to present such advice to the court or jury, may not be used to prove that the accused infringer willfully infringed the patent or that the infringer intended to induce infringement of the patent.
 
-(Added [Pub. L. 112–29, § 17(a)][/us/pl/112/29/s17/a], Sept. 16, 2011, [125 Stat. 329][/us/stat/125/329].)
+(Added [Pub. L. 112–29][/us/pl/112/29], § 17(a), Sept. 16, 2011, [125 Stat. 329][/us/stat/125/329].)
 
  __Effective Date__ 
 
-[Pub. L. 112–274, § 1(a)][/us/pl/112/274/s1/a], Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456], provided that: 
+[Pub. L. 112–274][/us/pl/112/274], § 1(a), Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456], provided that: 
 
 > “Notwithstanding section 35 of the Leahy-Smith America Invents Act \[[Pub. L. 112–29][/us/pl/112/29]\] ([35 U.S.C. 1][/us/usc/t35/s1] note), [section 298 of title 35][/us/usc/t35/s298], United States Code, shall apply to any civil action commenced on or after the date of the enactment of this Act \[Jan. 14, 2013\].”
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/112/29/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs17%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F329
-[/us/pl/112/274/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fa
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2456
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1

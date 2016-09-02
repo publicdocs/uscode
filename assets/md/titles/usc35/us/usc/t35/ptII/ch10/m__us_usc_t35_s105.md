@@ -19,11 +19,11 @@
 
     (b) Any invention made, used or sold in outer space on a space object or component thereof that is carried on the registry of a foreign state in accordance with the Convention on Registration of Objects Launched into Outer Space, shall be considered to be made, used or sold within the United States for the purposes of this title if specifically so agreed in an international agreement between the United States and the state of registry.
 
-(Added [Pub. L. 101–580, § 1(a)][/us/pl/101/580/s1/a], Nov. 15, 1990, [104 Stat. 2863][/us/stat/104/2863].)
+(Added [Pub. L. 101–580][/us/pl/101/580], § 1(a), Nov. 15, 1990, [104 Stat. 2863][/us/stat/104/2863].)
 
  __Effective Date; Special Rules__ 
 
-[Pub. L. 101–580, § 2][/us/pl/101/580/s2], Nov. 15, 1990, [104 Stat. 2863][/us/stat/104/2863], provided that:
+[Pub. L. 101–580][/us/pl/101/580], § 2, Nov. 15, 1990, [104 Stat. 2863][/us/stat/104/2863], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/101/580/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F580%2Fs1%2Fa
+[/us/pl/101/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F580
 [/us/stat/104/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2863
-[/us/pl/101/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F580%2Fs2
+[/us/pl/101/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F580
 [/us/stat/104/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2863
 
 

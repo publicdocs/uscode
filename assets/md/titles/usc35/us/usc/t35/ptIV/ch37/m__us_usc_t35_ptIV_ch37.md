@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–274, § 1(i)][/us/pl/112/274/s1/i], Jan. 14, 2013, [126 Stat. 2457][/us/stat/126/2457], struck out item 373 “Improper applicant”.
+    2013—[Pub. L. 112–274][/us/pl/112/274], § 1(i), Jan. 14, 2013, [126 Stat. 2457][/us/stat/126/2457], struck out item 373 “Improper applicant”.
 
-    1999—[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4507(12)\], as added by [Pub. L. 107–273, div. C, title III, § 13205(2)(F)][/us/pl/107/273/s13205/2/F], Nov. 2, 2002, [116 Stat. 1903][/us/stat/116/1903], substituted “Publication of international application” for “Publication of international application: Effect” in item 374.
+    1999—[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4507(12)\], as added by [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13205(2)(F), Nov. 2, 2002, [116 Stat. 1903][/us/stat/116/1903], substituted “Publication of international application” for “Publication of international application: Effect” in item 374.
 
 ----------
 
@@ -86,10 +86,10 @@
 ----------
 ----------
 
-[/us/pl/112/274/s1/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fi
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2457
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/107/273/s13205/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13205%2F2%2FF
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1903
 
 

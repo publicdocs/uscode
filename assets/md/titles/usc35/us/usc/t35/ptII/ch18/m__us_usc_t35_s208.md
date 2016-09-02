@@ -17,7 +17,7 @@
 
     The Secretary of Commerce is authorized to promulgate regulations specifying the terms and conditions upon which any federally owned invention, other than inventions owned by the Tennessee Valley Authority, may be licensed on a nonexclusive, partially exclusive, or exclusive basis.
 
-(Added [Pub. L. 96–517, § 6(a)][/us/pl/96/517/s6/a], Dec. 12, 1980, [94 Stat. 3024][/us/stat/94/3024]; amended [Pub. L. 98–620, title V, § 501(12)][/us/pl/98/620/s501/12], Nov. 8, 1984, [98 Stat. 3367][/us/stat/98/3367].)
+(Added [Pub. L. 96–517][/us/pl/96/517], § 6(a), Dec. 12, 1980, [94 Stat. 3024][/us/stat/94/3024]; amended [Pub. L. 98–620, title V][/us/pl/98/620/tV], § 501(12), Nov. 8, 1984, [98 Stat. 3367][/us/stat/98/3367].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/96/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs6%2Fa
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3024
-[/us/pl/98/620/s501/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs501%2F12
+[/us/pl/98/620/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtV
 [/us/stat/98/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3367
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 

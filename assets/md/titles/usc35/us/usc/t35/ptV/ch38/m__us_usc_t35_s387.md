@@ -17,7 +17,7 @@
 
     An applicant’s failure to act within prescribed time limits in connection with requirements pertaining to an international design application may be excused as to the United States upon a showing satisfactory to the Director of unintentional delay and under such conditions, including a requirement for payment of the fee specified in section 41(a)(7), as may be prescribed by the Director.
 
-(Added [Pub. L. 112–211, title I, § 101(a)][/us/pl/112/211/s101/a], Dec. 18, 2012, [126 Stat. 1530][/us/stat/126/1530].)
+(Added [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 101(a), Dec. 18, 2012, [126 Stat. 1530][/us/stat/126/1530].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/211/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs101%2Fa
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1530
 [/us/pl/112/211/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs103
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100

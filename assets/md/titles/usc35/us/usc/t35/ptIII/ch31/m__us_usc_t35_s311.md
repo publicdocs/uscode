@@ -31,7 +31,7 @@
 
         (2) if a post-grant review is instituted under chapter 32, the date of the termination of such post-grant review.
 
-(Added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4604(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–567; amended [Pub. L. 107–273, div. C, title III, § 13202(a)(1)][/us/pl/107/273/s13202/a/1], (c)(1), Nov. 2, 2002, [116 Stat. 1901][/us/stat/116/1901], 1902; [Pub. L. 112–29, § 6(a)][/us/pl/112/29/s6/a], Sept. 16, 2011, [125 Stat. 299][/us/stat/125/299]; [Pub. L. 112–274, § 1(d)(2)][/us/pl/112/274/s1/d/2], Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456].)
+(Added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4604(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–567; amended [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13202(a)(1), (c)(1), Nov. 2, 2002, [116 Stat. 1901][/us/stat/116/1901], 1902; [Pub. L. 112–29][/us/pl/112/29], § 6(a), Sept. 16, 2011, [125 Stat. 299][/us/stat/125/299]; [Pub. L. 112–274][/us/pl/112/274], § 1(d)(2), Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456].)
 
  __Amendments__ 
 
@@ -39,11 +39,11 @@
 
     2011—[Pub. L. 112–29][/us/pl/112/29] amended section generally. Prior to amendment, section related to request for inter partes reexamination.
 
-    2002—[Pub. L. 107–273, § 13202(c)(1)][/us/pl/107/273/s13202/c/1], made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], which enacted this section.
+    2002—[Pub. L. 107–273][/us/pl/107/273], § 13202(c)(1), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], which enacted this section.
 
-    Subsec. (a). [Pub. L. 107–273, § 13202(a)(1)(A)][/us/pl/107/273/s13202/a/1/A], substituted “third-party requester” for “person”.
+    Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 13202(a)(1)(A), substituted “third-party requester” for “person”.
 
-    Subsec. (c). [Pub. L. 107–273, § 13202(a)(1)(B)][/us/pl/107/273/s13202/a/1/B], substituted “The” for “Unless the requesting person is the owner of the patent, the”.
+    Subsec. (c). [Pub. L. 107–273][/us/pl/107/273], § 13202(a)(1)(B), substituted “The” for “Unless the requesting person is the owner of the patent, the”.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 6(c)(2)][/us/pl/112/29/s6/c/2], Sept. 16, 2011, [125 Stat. 304][/us/stat/125/304], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 6(c)(2), Sept. 16, 2011, [125 Stat. 304][/us/stat/125/304], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -67,19 +67,19 @@
 
  __Regulations__ 
 
-[Pub. L. 112–29, § 6(c)(1)][/us/pl/112/29/s6/c/1], Sept. 16, 2011, [125 Stat. 304][/us/stat/125/304], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 6(c)(1), Sept. 16, 2011, [125 Stat. 304][/us/stat/125/304], provided that: 
 
 > “The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] shall, not later than the date that is 1 year after the date of the enactment of this Act \[Sept. 16, 2011\], issue regulations to carry out chapter 31 of title 35, United States Code, as amended by subsection (a) of this section.”
 
  __Applicability of Filing Deadline__ 
 
-[Pub. L. 112–274, § 1(d)(1)][/us/pl/112/274/s1/d/1], Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456], provided that: 
+[Pub. L. 112–274][/us/pl/112/274], § 1(d)(1), Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456], provided that: 
 
 > “[Section 311(c) of title 35][/us/usc/t35/s311/c], United States Code, shall not apply to a petition to institute an inter partes review of a patent that is not a patent described in section 3(n)(1) of the Leahy-Smith America Invents Act \[[Pub. L. 112–29][/us/pl/112/29]\] ([35 U.S.C. 100][/us/usc/t35/s100] note).”
 
  __Report to Congress__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle F, § 4606\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–571, required the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office to submit to Congress a report on possible inequities of certain inter partes reexamination proceedings no later than 5 years after Nov. 29, 1999.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle F, § 4606\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–571, required the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office to submit to Congress a report on possible inequities of certain inter partes reexamination proceedings no later than 5 years after Nov. 29, 1999.
 
 ----------
 
@@ -88,36 +88,36 @@
 ----------
 ----------
 
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fa%2F1
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1901
-[/us/pl/112/29/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F299
-[/us/pl/112/274/s1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fd%2F2
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2456
 [/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
-[/us/pl/107/273/s13202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fc%2F1
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/107/273/s13202/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fa%2F1%2FA
-[/us/pl/107/273/s13202/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fa%2F1%2FB
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/pl/112/274/s1/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fn
 [/us/usc/t35/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs5
-[/us/pl/112/29/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fc%2F2
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F304
 [/us/usc/t35/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs319
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41
-[/us/pl/112/29/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fc%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F304
-[/us/pl/112/274/s1/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fd%2F1
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2456
 [/us/usc/t35/s311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs311%2Fc
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 
 

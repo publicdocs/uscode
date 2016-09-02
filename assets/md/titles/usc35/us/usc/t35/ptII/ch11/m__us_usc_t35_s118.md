@@ -17,7 +17,7 @@
 
     A person to whom the inventor has assigned or is under an obligation to assign the invention may make an application for patent. A person who otherwise shows sufficient proprietary interest in the matter may make an application for patent on behalf of and as agent for the inventor on proof of the pertinent facts and a showing that such action is appropriate to preserve the rights of the parties. If the Director grants a patent on an application filed under this section by a person other than the inventor, the patent shall be granted to the real party in interest and upon such notice to the inventor as the Director considers to be sufficient.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 799][/us/stat/66/799]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29, § 4(b)(1)][/us/pl/112/29/s4/b/1], Sept. 16, 2011, [125 Stat. 296][/us/stat/125/296].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 799][/us/stat/66/799]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], § 4(b)(1), Sept. 16, 2011, [125 Stat. 296][/us/stat/125/296].)
 
  __Historical and Revision Notes__ 
 
@@ -48,11 +48,11 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F799
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
-[/us/pl/112/29/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs4%2Fb%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F296
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

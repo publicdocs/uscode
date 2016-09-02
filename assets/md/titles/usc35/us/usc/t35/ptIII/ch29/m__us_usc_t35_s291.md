@@ -27,15 +27,15 @@
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 66 (R.S. 4918, amended [Mar. 2, 1927, ch. 273, § 12][/us/act/1927-03-02/ch273/s12], [44 Stat. 1337][/us/stat/44/1337]).
+    Based on Title 35, U.S.C., 1946 ed., § 66 (R.S. 4918, amended [Mar. 2, 1927, ch. 273][/us/act/1927-03-02/ch273], § 12, [44 Stat. 1337][/us/stat/44/1337]).
 
     Language is changed.
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “146”.
+    2011—[Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “146”.
 
-    [Pub. L. 112–29, § 3(h)(1)][/us/pl/112/29/s3/h/1], amended section generally. Prior to amendment, text read as follows: “The owner of an interfering patent may have relief against the owner of another by civil action, and the court may adjudge the question of the validity of any of the interfering patents, in whole or in part. The provisions of the second paragraph of section 146 shall apply to actions brought under this section.”
+    [Pub. L. 112–29][/us/pl/112/29], § 3(h)(1), amended section generally. Prior to amendment, text read as follows: “The owner of an interfering patent may have relief against the owner of another by civil action, and the court may adjudge the question of the validity of any of the interfering patents, in whole or in part. The provisions of the second paragraph of section 146 shall apply to actions brought under this section.”
 
  __Effective Date of 2011 Amendment__ 
 
@@ -58,10 +58,10 @@
 [/us/stat/66/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F814
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F288
-[/us/act/1927-03-02/ch273/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-02%2Fch273%2Fs12
+[/us/act/1927-03-02/ch273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-02%2Fch273
 [/us/stat/44/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1337
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s3/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fh%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29/s3/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fh%2F1
 [/us/pl/112/29/s3/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fn
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100

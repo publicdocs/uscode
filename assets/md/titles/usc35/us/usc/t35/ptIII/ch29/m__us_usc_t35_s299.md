@@ -31,7 +31,7 @@
 
     A party that is an accused infringer may waive the limitations set forth in this section with respect to that party.
 
-(Added [Pub. L. 112–29, § 19(d)(1)][/us/pl/112/29/s19/d/1], Sept. 16, 2011, [125 Stat. 332][/us/stat/125/332]; amended [Pub. L. 112–274, § 1(c)][/us/pl/112/274/s1/c], Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456].)
+(Added [Pub. L. 112–29][/us/pl/112/29], § 19(d)(1), Sept. 16, 2011, [125 Stat. 332][/us/stat/125/332]; amended [Pub. L. 112–274][/us/pl/112/274], § 1(c), Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/112/29/s19/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs19%2Fd%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F332
-[/us/pl/112/274/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fc
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2456
 [/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274

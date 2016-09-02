@@ -97,7 +97,7 @@
 
     Nothing in this section shall be construed to nullify, void, cancel, or interrupt any pending request-for-proposal let or contract issued by the General Services Administration for the specific purpose of relocating or leasing space to the United States Patent and Trademark Office.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 792][/us/stat/66/792]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4712\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 107–273, div. C, title III, § 13206(a)(1)][/us/pl/107/273/s13206/a/1], Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904]; [Pub. L. 108–178, § 4(g)][/us/pl/108/178/s4/g], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 111–350, § 5(i)(1)][/us/pl/111/350/s5/i/1], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849]; [Pub. L. 112–29][/us/pl/112/29], §§ 20(j), 21(a), 25, Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335], 337.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 792][/us/stat/66/792]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4712\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572; [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(1), Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904]; [Pub. L. 108–178][/us/pl/108/178], § 4(g), Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 111–350][/us/pl/111/350], § 5(i)(1), Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849]; [Pub. L. 112–29][/us/pl/112/29], §§ 20(j), 21(a), 25, Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335], 337.)
 
  __Historical and Revision Notes__ 
 
@@ -111,13 +111,13 @@
 
  __Amendments__ 
 
-    2011—Subsec. (b)(2)(E). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “41(h)(1)”.
+    2011—Subsec. (b)(2)(E). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “41(h)(1)”.
 
-    Subsec. (b)(2)(G). [Pub. L. 112–29, § 25][/us/pl/112/29/s25], added subpar. (G).
+    Subsec. (b)(2)(G). [Pub. L. 112–29][/us/pl/112/29], § 25, added subpar. (G).
 
     Subsec. (b)(4)(A). [Pub. L. 111–350][/us/pl/111/350] substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)”.
 
-    Subsec. (b)(11). [Pub. L. 112–29, § 21(a)][/us/pl/112/29/s21/a], inserted “, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees” after “world”.
+    Subsec. (b)(11). [Pub. L. 112–29][/us/pl/112/29], § 21(a), inserted “, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees” after “world”.
 
     2003—Subsec. (b)(4)(A). [Pub. L. 108–178][/us/pl/108/178] substituted “subtitle I and chapter 33 of title 40, title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.),” for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.), the Public Buildings Act ([40 U.S.C. 601][/us/usc/t40/s601] et seq.),”.
 
@@ -131,11 +131,11 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–274, § 1(g)][/us/pl/112/274/s1/g], Jan. 14, 2013, [126 Stat. 2457][/us/stat/126/2457], provided that: 
+[Pub. L. 112–274][/us/pl/112/274], § 1(g), Jan. 14, 2013, [126 Stat. 2457][/us/stat/126/2457], provided that: 
 
 > “Notwithstanding section 35 of the Leahy-Smith America Invents Act ([35 U.S.C. 1][/us/usc/t35/s1] note), the amendments made by section 21 of the Leahy-Smith America Invents Act ([Public Law 112–29][/us/pl/112/29]; [125 Stat. 335][/us/stat/125/335]) \[amending this section and [section 3 of this title][/us/usc/t35/s3]\] shall be effective as of September 16, 2011.”
 
-[Pub. L. 112–29, § 20][/us/pl/112/29/s20](l), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 20(l), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 3, 12, 32, 41, 103, 104, 111, 116, 119 to 123, 132, 135, 143, 145, 146, 154, 157, 162, 172, 182 to 186, 202, 207, 209, 210, 251, 253, 256, 257, 267, 282, 284, 287, 288, 291, 294, 302 to 307, 328, 363, 365, 368, and 371 to 375 of this title and repealing sections 155 and 155A of this title\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to proceedings commenced on or after that effective date.”
 
@@ -155,7 +155,7 @@
 
  __USPTO Law School Clinic Certification Program__ 
 
-[Pub. L. 113–227, § 1][/us/pl/113/227/s1], Dec. 16, 2014, [128 Stat. 2114][/us/stat/128/2114], provided that:
+[Pub. L. 113–227][/us/pl/113/227], § 1, Dec. 16, 2014, [128 Stat. 2114][/us/stat/128/2114], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -183,13 +183,13 @@
 
  __Patent Ombudsman Program for Small Business Concerns__ 
 
-[Pub. L. 112–29, § 28][/us/pl/112/29/s28], Sept. 16, 2011, [125 Stat. 339][/us/stat/125/339], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 28, Sept. 16, 2011, [125 Stat. 339][/us/stat/125/339], provided that: 
 
 > “Using available resources, the Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] shall establish and maintain in the \[United States Patent and Trademark\] Office a Patent Ombudsman Program. The duties of the Program’s staff shall include providing support and services relating to patent filings to small business concerns and independent inventors.”
 
  __Pro Bono Programs__ 
 
-[Pub. L. 112–29, § 32][/us/pl/112/29/s32], Sept. 16, 2011, [125 Stat. 340][/us/stat/125/340], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 32, Sept. 16, 2011, [125 Stat. 340][/us/stat/125/340], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -201,7 +201,7 @@
 
  __Electronic Filing and Processing of Patent and Trademark Applications__ 
 
-[Pub. L. 107–273, div. C, title III, § 13103][/us/pl/107/273/s13103], Nov. 2, 2002, [116 Stat. 1899][/us/stat/116/1899], provided that:
+[Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13103, Nov. 2, 2002, [116 Stat. 1899][/us/stat/116/1899], provided that:
 
 >     “(a)  __Electronic Filing and Processing__  __.—__ 
 
@@ -233,28 +233,28 @@
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F792
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
+[/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
-[/us/pl/107/273/s13206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F1
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1904
-[/us/pl/108/178/s4/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fg
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2641
-[/us/pl/111/350/s5/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fi%2F1
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3849
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs25
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
-[/us/pl/112/29/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs21%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
@@ -263,13 +263,13 @@
 [/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
-[/us/pl/112/274/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fg
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2457
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
 [/us/usc/t35/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs3
-[/us/pl/112/29/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
@@ -284,13 +284,13 @@
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/596/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs4
 [/us/usc/t15/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1111
-[/us/pl/113/227/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F227%2Fs1
+[/us/pl/113/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F227
 [/us/stat/128/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2114
-[/us/pl/112/29/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs28
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F339
-[/us/pl/112/29/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs32
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F340
-[/us/pl/107/273/s13103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13103
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1899
 [/us/usc/t35/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs42
 

@@ -17,7 +17,7 @@
 
     The use of any invention in any vessel, aircraft or vehicle of any country which affords similar privileges to vessels, aircraft or vehicles of the United States, entering the United States temporarily or accidentally, shall not constitute infringement of any patent, if the invention is used exclusively for the needs of the vessel, aircraft or vehicle and is not offered for sale or sold in or used for the manufacture of anything to be sold in or exported from the United States.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 812][/us/stat/66/812]; [Pub. L. 103–465, title V, § 533(b)(4)][/us/pl/103/465/s533/b/4], Dec. 8, 1994, [108 Stat. 4989][/us/stat/108/4989].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 812][/us/stat/66/812]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 533(b)(4), Dec. 8, 1994, [108 Stat. 4989][/us/stat/108/4989].)
 
  __Historical and Revision Notes__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F812
-[/us/pl/103/465/s533/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F4
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4989
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

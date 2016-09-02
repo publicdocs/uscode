@@ -19,11 +19,11 @@
 
     The claim in the specification shall be in formal terms to the plant shown and described.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 804][/us/stat/66/804]; [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 804][/us/stat/66/804]; [Pub. L. 112–29][/us/pl/112/29], § 20(j), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 33, part (R.S. 4888, amended (1) [Mar. 3, 1915, ch. 94, § 1][/us/act/1915-03-03/ch94/s1], [38 Stat. 958][/us/stat/38/958], (2) [May 23, 1930, ch. 312, § 2][/us/act/1930-05-23/ch312/s2], [46 Stat. 376][/us/stat/46/376]).
+    Based on Title 35, U.S.C., 1946 ed., § 33, part (R.S. 4888, amended (1) [Mar. 3, 1915, ch. 94][/us/act/1915-03-03/ch94], § 1, [38 Stat. 958][/us/stat/38/958], (2) [May 23, 1930, ch. 312][/us/act/1930-05-23/ch312], § 2, [46 Stat. 376][/us/stat/46/376]).
 
     The first paragraph is the provision in R.S. 4888 (see section 112). The second paragraph is not in the statute but represents the actual practice.
 
@@ -44,11 +44,11 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F804
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
-[/us/act/1915-03-03/ch94/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch94%2Fs1
+[/us/act/1915-03-03/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch94
 [/us/stat/38/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F958
-[/us/act/1930-05-23/ch312/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312%2Fs2
+[/us/act/1930-05-23/ch312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312
 [/us/stat/46/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F376
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29

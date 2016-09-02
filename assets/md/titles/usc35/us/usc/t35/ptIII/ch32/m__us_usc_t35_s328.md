@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    2011—Subsec. (c). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “252”.
+    2011—Subsec. (c). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “252”.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -54,7 +54,7 @@
 
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F310
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs2

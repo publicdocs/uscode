@@ -39,11 +39,11 @@
 
     An element in a claim for a combination may be expressed as a means or step for performing a specified function without the recital of structure, material, or acts in support thereof, and such claim shall be construed to cover the corresponding structure, material, or acts described in the specification and equivalents thereof.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 798][/us/stat/66/798]; [Pub. L. 89–83, § 9][/us/pl/89/83/s9], July 24, 1965, [79 Stat. 261][/us/stat/79/261]; [Pub. L. 94–131, § 7][/us/pl/94/131/s7], Nov. 14, 1975, [89 Stat. 691][/us/stat/89/691]; [Pub. L. 112–29, § 4(c)][/us/pl/112/29/s4/c], Sept. 16, 2011, [125 Stat. 296][/us/stat/125/296].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 798][/us/stat/66/798]; [Pub. L. 89–83][/us/pl/89/83], § 9, July 24, 1965, [79 Stat. 261][/us/stat/79/261]; [Pub. L. 94–131][/us/pl/94/131], § 7, Nov. 14, 1975, [89 Stat. 691][/us/stat/89/691]; [Pub. L. 112–29][/us/pl/112/29], § 4(c), Sept. 16, 2011, [125 Stat. 296][/us/stat/125/296].)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 33 (R.S. 4888, amended (1) [Mar. 3, 1915, ch. 94, § 1][/us/act/1915-03-03/ch94/s1], [38 Stat. 958][/us/stat/38/958]; (2) [May 23, 1930, ch. 312, § 2][/us/act/1930-05-23/ch312/s2], [46 Stat. 376][/us/stat/46/376]).
+    Based on Title 35, U.S.C., 1946 ed., § 33 (R.S. 4888, amended (1) [Mar. 3, 1915, ch. 94][/us/act/1915-03-03/ch94], § 1, [38 Stat. 958][/us/stat/38/958]; (2) [May 23, 1930, ch. 312][/us/act/1930-05-23/ch312], § 2, [46 Stat. 376][/us/stat/46/376]).
 
     The sentence relating to signature of the specification is omitted in view of the general requirement for a signature in section 111.
 
@@ -84,15 +84,15 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F798
-[/us/pl/89/83/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs9
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
 [/us/stat/79/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F261
-[/us/pl/94/131/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131%2Fs7
+[/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/stat/89/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F691
-[/us/pl/112/29/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs4%2Fc
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F296
-[/us/act/1915-03-03/ch94/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch94%2Fs1
+[/us/act/1915-03-03/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch94
 [/us/stat/38/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F958
-[/us/act/1930-05-23/ch312/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312%2Fs2
+[/us/act/1930-05-23/ch312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312
 [/us/stat/46/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F376
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131

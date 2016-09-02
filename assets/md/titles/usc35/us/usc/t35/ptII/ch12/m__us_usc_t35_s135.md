@@ -53,37 +53,37 @@
 
     Parties to a proceeding instituted under subsection (a) may, within such time as may be specified by the Director by regulation, determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Director, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Director from determining the patentability of the claimed inventions involved in the proceeding.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 801][/us/stat/66/801]; [Pub. L. 87–831][/us/pl/87/831], Oct. 15, 1962, [76 Stat. 958][/us/stat/76/958]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 98–622, title I, § 105][/us/pl/98/622/s105], title II, § 202, Nov. 8, 1984, [98 Stat. 3385][/us/stat/98/3385], 3386; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4507(11), 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–566, 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 3(i), 20(j), Sept. 16, 2011, [125 Stat. 289][/us/stat/125/289], 335; [Pub. L. 112–274, § 1(e)(1)][/us/pl/112/274/s1/e/1], (k)(1), Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456], 2457.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 801][/us/stat/66/801]; [Pub. L. 87–831][/us/pl/87/831], Oct. 15, 1962, [76 Stat. 958][/us/stat/76/958]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 98–622, title I][/us/pl/98/622/tI], § 105, title II, § 202, Nov. 8, 1984, [98 Stat. 3385][/us/stat/98/3385], 3386; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, §§ 4507(11), 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–566, 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 3(i), 20(j), Sept. 16, 2011, [125 Stat. 289][/us/stat/125/289], 335; [Pub. L. 112–274][/us/pl/112/274], § 1(e)(1), (k)(1), Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456], 2457.)
 
  __Historical and Revision Notes__ 
 
-    The first paragraph is based on Title 35, U.S.C., 1946 ed., § 52 (R.S. 4904 amended (1) [Mar. 2, 1927, ch. 273, § 4][/us/act/1927-03-02/ch273/s4], [44 Stat. 1335][/us/stat/44/1335], 1336, (2) [Aug. 5, 1939, ch. 451, § 1][/us/act/1939-08-05/ch451/s1], [53 Stat. 1212][/us/stat/53/1212]).
+    The first paragraph is based on Title 35, U.S.C., 1946 ed., § 52 (R.S. 4904 amended (1) [Mar. 2, 1927, ch. 273][/us/act/1927-03-02/ch273], § 4, [44 Stat. 1335][/us/stat/44/1335], 1336, (2) [Aug. 5, 1939, ch. 451][/us/act/1939-08-05/ch451], § 1, [53 Stat. 1212][/us/stat/53/1212]).
 
     The first paragraph states the existing corresponding statute with a few changes in language. An explicit statement that the Office decision on priority constitutes a final refusal by the Office of the claims involved, is added. The last sentence is new and provides that judgment adverse to a patentee constitutes cancellation of the claims of the patent involved after the judgment has become final, the patentee has a right of appeal (sec. 141) and is given a right of review by civil action (sec. 146).
 
-    The second paragraph is based on Title 35, U.S.C., 1946 ed., § 51, (R.S. 4903, amended [Aug. 5, 1939, ch. 452, § 1][/us/act/1939-08-05/ch452/s1], [53 Stat. 1213][/us/stat/53/1213]). Changes in language are made.
+    The second paragraph is based on Title 35, U.S.C., 1946 ed., § 51, (R.S. 4903, amended [Aug. 5, 1939, ch. 452][/us/act/1939-08-05/ch452], § 1, [53 Stat. 1213][/us/stat/53/1213]). Changes in language are made.
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 112–274, § 1(k)(1)][/us/pl/112/274/s1/k/1], amended subsec. (a) generally. Prior to amendment, text read as follows: “An applicant for patent may file a petition to institute a derivation proceeding in the Office. The petition shall set forth with particularity the basis for finding that an inventor named in an earlier application derived the claimed invention from an inventor named in the petitioner’s application and, without authorization, the earlier application claiming such invention was filed. Any such petition may be filed only within the 1-year period beginning on the date of the first publication of a claim to an invention that is the same or substantially the same as the earlier application’s claim to the invention, shall be made under oath, and shall be supported by substantial evidence. Whenever the Director determines that a petition filed under this subsection demonstrates that the standards for instituting a derivation proceeding are met, the Director may institute a derivation proceeding. The determination by the Director whether to institute a derivation proceeding shall be final and nonappealable.”
+    2013—Subsec. (a). [Pub. L. 112–274][/us/pl/112/274], § 1(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “An applicant for patent may file a petition to institute a derivation proceeding in the Office. The petition shall set forth with particularity the basis for finding that an inventor named in an earlier application derived the claimed invention from an inventor named in the petitioner’s application and, without authorization, the earlier application claiming such invention was filed. Any such petition may be filed only within the 1-year period beginning on the date of the first publication of a claim to an invention that is the same or substantially the same as the earlier application’s claim to the invention, shall be made under oath, and shall be supported by substantial evidence. Whenever the Director determines that a petition filed under this subsection demonstrates that the standards for instituting a derivation proceeding are met, the Director may institute a derivation proceeding. The determination by the Director whether to institute a derivation proceeding shall be final and nonappealable.”
 
-    Subsec. (e). [Pub. L. 112–274, § 1(e)(1)][/us/pl/112/274/s1/e/1], substituted “correct inventor” for “correct inventors”.
+    Subsec. (e). [Pub. L. 112–274][/us/pl/112/274], § 1(e)(1), substituted “correct inventor” for “correct inventors”.
 
-    2011—[Pub. L. 112–29, § 3(i)][/us/pl/112/29/s3/i], amended section generally. Prior to amendment, section related to interferences.
+    2011—[Pub. L. 112–29][/us/pl/112/29], § 3(i), amended section generally. Prior to amendment, section related to interferences.
 
-    Subsec. (b)(2). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “122(b)”.
+    Subsec. (b)(2). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “122(b)”.
 
-    2002—Subsecs. (a), (c), (d). [Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment notes below.
+    2002—Subsecs. (a), (c), (d). [Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment notes below.
 
-    1999—Subsec. (a). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner” wherever appearing.
+    1999—Subsec. (a). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner” wherever appearing.
 
-    Subsec. (b). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4507(11)\], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4507(11)\], designated existing provisions as par. (1) and added par. (2).
 
-    Subsecs. (c), (d). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner” wherever appearing.
+    Subsecs. (c), (d). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner” wherever appearing.
 
-    1984—Subsec. (a). [Pub. L. 98–622, § 202][/us/pl/98/622/s202], amended subsec. (a) generally, substituting “, an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be” for “he shall give notice thereof to the applicants, or applicant and patentee, as the case may be” and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
+    1984—Subsec. (a). [Pub. L. 98–622][/us/pl/98/622], § 202, amended subsec. (a) generally, substituting “, an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be” for “he shall give notice thereof to the applicants, or applicant and patentee, as the case may be” and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
 
-    Subsec. (d). [Pub. L. 98–622, § 105][/us/pl/98/622/s105], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–622][/us/pl/98/622], § 105, added subsec. (d).
 
     1975—Subsecs. (a), (c). [Pub. L. 93–596][/us/pl/93/596] substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
 
@@ -91,11 +91,11 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–274, § 1(e)(2)][/us/pl/112/274/s1/e/2], Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456], provided that: 
+[Pub. L. 112–274][/us/pl/112/274], § 1(e)(2), Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall be effective as if included in the amendment made by section 3(i) of the Leahy-Smith America Invents Act \[[Pub. L. 112–29][/us/pl/112/29]\].”
 
-[Pub. L. 112–274, § 1(k)(2)][/us/pl/112/274/s1/k/2], Jan. 14, 2013, [126 Stat. 2458][/us/stat/126/2458], provided that: 
+[Pub. L. 112–274][/us/pl/112/274], § 1(k)(2), Jan. 14, 2013, [126 Stat. 2458][/us/stat/126/2458], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall be effective as if included in the amendment made by section 3(i) of the Leahy-Smith America Invents Act \[[Pub. L. 112–29][/us/pl/112/29]\].”
 
@@ -123,7 +123,7 @@
 
  __Savings Provisions__ 
 
-[Pub. L. 112–274, § 1(k)(3)][/us/pl/112/274/s1/k/3], Jan. 14, 2013, [126 Stat. 2458][/us/stat/126/2458], provided that: 
+[Pub. L. 112–274][/us/pl/112/274], § 1(k)(3), Jan. 14, 2013, [126 Stat. 2458][/us/stat/126/2458], provided that: 
 
 > “The provisions of sections 6 and 141 of title 35, United States Code, and [section 1295(a)(4)(A) of title 28][/us/usc/t28/s1295/a/4/A], United States Code, as in effect on September 15, 2012, shall apply to interference proceedings that are declared after September 15, 2012, under [section 135 of title 35][/us/usc/t35/s135], United States Code, as in effect before the effective date under section 3(n) of the Leahy-Smith America Invents Act \[Pub. L. 112—29, set out as a note under [section 100 of this title][/us/usc/t35/s100]\]. The Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of such interference proceedings.”
 
@@ -140,43 +140,43 @@
 [/us/stat/66/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F801
 [/us/pl/87/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F831
 [/us/stat/76/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F958
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/98/622/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs105
+[/us/pl/98/622/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtI
 [/us/stat/98/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3385
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F289
-[/us/pl/112/274/s1/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fe%2F1
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2456
-[/us/act/1927-03-02/ch273/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-02%2Fch273%2Fs4
+[/us/act/1927-03-02/ch273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-02%2Fch273
 [/us/stat/44/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1335
-[/us/act/1939-08-05/ch451/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch451%2Fs1
+[/us/act/1939-08-05/ch451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch451
 [/us/stat/53/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1212
-[/us/act/1939-08-05/ch452/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch452%2Fs1
+[/us/act/1939-08-05/ch452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch452
 [/us/stat/53/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1213
-[/us/pl/112/274/s1/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fk%2F1
-[/us/pl/112/274/s1/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fe%2F1
-[/us/pl/112/29/s3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fi
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/98/622/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs202
-[/us/pl/98/622/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs105
+[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
+[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/87/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F831
-[/us/pl/112/274/s1/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fe%2F2
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2456
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
-[/us/pl/112/274/s1/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fk%2F2
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2458
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29/s3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fi
@@ -200,7 +200,7 @@
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/596/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs4
 [/us/usc/t15/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1111
-[/us/pl/112/274/s1/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fk%2F3
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2458
 [/us/usc/t28/s1295/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295%2Fa%2F4%2FA
 [/us/usc/t35/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs135

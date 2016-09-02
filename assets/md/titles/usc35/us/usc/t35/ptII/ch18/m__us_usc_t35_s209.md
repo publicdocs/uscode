@@ -71,7 +71,7 @@
 
     No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the person requesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under [section 552 of title 5][/us/usc/t5/s552].
 
-(Added [Pub. L. 96–517, § 6(a)][/us/pl/96/517/s6/a], Dec. 12, 1980, [94 Stat. 3024][/us/stat/94/3024]; amended [Pub. L. 106–404, § 4(a)][/us/pl/106/404/s4/a], Nov. 1, 2000, [114 Stat. 1743][/us/stat/114/1743]; [Pub. L. 107–273, div. C, title III, § 13206(a)(15)][/us/pl/107/273/s13206/a/15], Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905]; [Pub. L. 112–29, § 20(i)(3)][/us/pl/112/29/s20/i/3], Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
+(Added [Pub. L. 96–517][/us/pl/96/517], § 6(a), Dec. 12, 1980, [94 Stat. 3024][/us/stat/94/3024]; amended [Pub. L. 106–404][/us/pl/106/404], § 4(a), Nov. 1, 2000, [114 Stat. 1743][/us/stat/114/1743]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(15), Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905]; [Pub. L. 112–29][/us/pl/112/29], § 20(i)(3), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
 
  __Amendments__ 
 
@@ -95,13 +95,13 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/96/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs6%2Fa
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3024
-[/us/pl/106/404/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs4%2Fa
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1743
-[/us/pl/107/273/s13206/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F15
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1905
-[/us/pl/112/29/s20/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fi%2F3
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

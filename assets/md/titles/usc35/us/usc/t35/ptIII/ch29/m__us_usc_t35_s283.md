@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 70, part (R.S. 4921, amended (1) [Mar. 3, 1897, ch. 391, § 6][/us/act/1897-03-03/ch391/s6], [29 Stat. 694][/us/stat/29/694], (2) [Feb. 18, 1922, ch. 58, § 8][/us/act/1922-02-18/ch58/s8], [42 Stat. 392][/us/stat/42/392], (3) [Aug. 1, 1946, ch. 726, § 1][/us/act/1946-08-01/ch726/s1], [60 Stat. 778][/us/stat/60/778]).
+    Based on Title 35, U.S.C., 1946 ed., § 70, part (R.S. 4921, amended (1) [Mar. 3, 1897, ch. 391][/us/act/1897-03-03/ch391], § 6, [29 Stat. 694][/us/stat/29/694], (2) [Feb. 18, 1922, ch. 58][/us/act/1922-02-18/ch58], § 8, [42 Stat. 392][/us/stat/42/392], (3) [Aug. 1, 1946, ch. 726][/us/act/1946-08-01/ch726], § 1, [60 Stat. 778][/us/stat/60/778]).
 
     This section is the same as the provision which opens R.S. 4921 with minor changes in language.
 
@@ -34,11 +34,11 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F812
-[/us/act/1897-03-03/ch391/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391%2Fs6
+[/us/act/1897-03-03/ch391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391
 [/us/stat/29/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F694
-[/us/act/1922-02-18/ch58/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-18%2Fch58%2Fs8
+[/us/act/1922-02-18/ch58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-18%2Fch58
 [/us/stat/42/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F392
-[/us/act/1946-08-01/ch726/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch726%2Fs1
+[/us/act/1946-08-01/ch726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch726
 [/us/stat/60/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F778
 
 

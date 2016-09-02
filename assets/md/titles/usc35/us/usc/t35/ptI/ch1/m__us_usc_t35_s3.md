@@ -119,11 +119,11 @@
 
             (B) The individual serving as the Assistant Commissioner for Trademarks on the day before the effective date of the Patent and Trademark Office Efficiency Act may serve as the Commissioner for Trademarks until the date on which a Commissioner for Trademarks is appointed under subsection (b).
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 792][/us/stat/66/792]; [Pub. L. 85–933, § 1][/us/pl/85/933/s1], Sept. 6, 1958, [72 Stat. 1793][/us/stat/72/1793]; [Pub. L. 86–370, § 1(a)][/us/pl/86/370/s1/a], Sept. 23, 1959, [73 Stat. 650][/us/stat/73/650]; [Pub. L. 88–426, title III, § 305(26)][/us/pl/88/426/s305/26], Aug. 14, 1964, [78 Stat. 425][/us/stat/78/425]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 93–601, § 1][/us/pl/93/601/s1], Jan. 2, 1975, [88 Stat. 1956][/us/stat/88/1956]; [Pub. L. 97–247, § 4][/us/pl/97/247/s4], Aug. 27, 1982, [96 Stat. 319][/us/stat/96/319]; [Pub. L. 97–366, § 4][/us/pl/97/366/s4], Oct. 25, 1982, [96 Stat. 1760][/us/stat/96/1760]; [Pub. L. 98–622, title IV, § 405][/us/pl/98/622/s405], Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392]; [Pub. L. 105–304, title IV, § 401(a)(1)][/us/pl/105/304/s401/a/1], Oct. 28, 1998, [112 Stat. 2887][/us/stat/112/2887]; [Pub. L. 106–44, § 2(c)][/us/pl/106/44/s2/c], Aug. 5, 1999, [113 Stat. 223][/us/stat/113/223]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4713\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–575; [Pub. L. 107–273, div. C, title III, § 13206(a)(2)][/us/pl/107/273/s13206/a/2], Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904]; [Pub. L. 112–29][/us/pl/112/29], §§ 20(i)(1), 21(b), Sept. 16, 2011, [125 Stat. 334][/us/stat/125/334], 336.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 792][/us/stat/66/792]; [Pub. L. 85–933][/us/pl/85/933], § 1, Sept. 6, 1958, [72 Stat. 1793][/us/stat/72/1793]; [Pub. L. 86–370][/us/pl/86/370], § 1(a), Sept. 23, 1959, [73 Stat. 650][/us/stat/73/650]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(26), Aug. 14, 1964, [78 Stat. 425][/us/stat/78/425]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 93–601][/us/pl/93/601], § 1, Jan. 2, 1975, [88 Stat. 1956][/us/stat/88/1956]; [Pub. L. 97–247][/us/pl/97/247], § 4, Aug. 27, 1982, [96 Stat. 319][/us/stat/96/319]; [Pub. L. 97–366][/us/pl/97/366], § 4, Oct. 25, 1982, [96 Stat. 1760][/us/stat/96/1760]; [Pub. L. 98–622, title IV][/us/pl/98/622/tIV], § 405, Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392]; [Pub. L. 105–304, title IV][/us/pl/105/304/tIV], § 401(a)(1), Oct. 28, 1998, [112 Stat. 2887][/us/stat/112/2887]; [Pub. L. 106–44][/us/pl/106/44], § 2(c), Aug. 5, 1999, [113 Stat. 223][/us/stat/113/223]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4713\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–575; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(2), Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904]; [Pub. L. 112–29][/us/pl/112/29], §§ 20(i)(1), 21(b), Sept. 16, 2011, [125 Stat. 334][/us/stat/125/334], 336.)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 2 (R.S. 476, amended (1) [Feb. 15, 1916, ch. 22, § 1][/us/act/1916-02-15/ch22/s1], [39 Stat. 8][/us/stat/39/8], (2) [Feb. 14, 1927, ch. 139, § 1][/us/act/1927-02-14/ch139/s1], [44 Stat. 1098][/us/stat/44/1098], (3) [Apr. 11, 1930, ch. 132, § 1][/us/act/1930-04-11/ch132/s1], [46 Stat. 155][/us/stat/46/155]).
+    Based on Title 35, U.S.C., 1946 ed., § 2 (R.S. 476, amended (1) [Feb. 15, 1916, ch. 22][/us/act/1916-02-15/ch22], § 1, [39 Stat. 8][/us/stat/39/8], (2) [Feb. 14, 1927, ch. 139][/us/act/1927-02-14/ch139], § 1, [44 Stat. 1098][/us/stat/44/1098], (3) [Apr. 11, 1930, ch. 132][/us/act/1930-04-11/ch132], § 1, [46 Stat. 155][/us/stat/46/155]).
 
     The temporary designation of the assistant commissioner as Commissioner in case of a vacancy in office is added. This will eliminate complications since present applicable general statutes (5 U.S.C., 1946 ed., § 7) permit a vacancy to be temporarily filled only for not more than 30 days.
 
@@ -133,23 +133,23 @@
 
  __References in Text__ 
 
-    The Patent and Trademark Office Efficiency Act, referred to in subsecs. (d) to (f), is [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle G (§ 4701 et seq.)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572. For the effective date of the Act as 4 months after Nov. 29, 1999, see section 1009(a)(9) \[title IV, § 4731\] of [Pub. L. 106–113][/us/pl/106/113], set out as an Effective Date of 1999 Amendment note under [section 1 of this title][/us/usc/t35/s1]. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1 of this title][/us/usc/t35/s1] and Tables.
+    The Patent and Trademark Office Efficiency Act, referred to in subsecs. (d) to (f), is [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle G (§ 4701 et seq.)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572. For the effective date of the Act as 4 months after Nov. 29, 1999, see section 1009(a)(9) \[title IV, § 4731\] of [Pub. L. 106–113][/us/pl/106/113], set out as an Effective Date of 1999 Amendment note under [section 1 of this title][/us/usc/t35/s1]. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1 of this title][/us/usc/t35/s1] and Tables.
 
  __Amendments__ 
 
-    2011—Subsec. (b)(6). [Pub. L. 112–29, § 21(b)][/us/pl/112/29/s21/b], added par. (6).
+    2011—Subsec. (b)(6). [Pub. L. 112–29][/us/pl/112/29], § 21(b), added par. (6).
 
-    Subsec. (e)(2). [Pub. L. 112–29, § 20(i)(1)][/us/pl/112/29/s20/i/1], substituted “that Act,” for “this Act,” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 112–29][/us/pl/112/29], § 20(i)(1), substituted “that Act,” for “this Act,” in introductory provisions.
 
-    2002—Subsec. (a)(2)(B). [Pub. L. 107–273, § 13206(a)(2)(A)][/us/pl/107/273/s13206/a/2/A], struck out “United States Code,” after “title 5,”.
+    2002—Subsec. (a)(2)(B). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(2)(A), struck out “United States Code,” after “title 5,”.
 
-    Subsec. (b)(2)(A). [Pub. L. 107–273, § 13206(a)(2)(B)(i)][/us/pl/107/273/s13206/a/2/B/i], struck out “, United States Code” after “title 5”.
+    Subsec. (b)(2)(A). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(2)(B)(i), struck out “, United States Code” after “title 5”.
 
-    Subsec. (b)(2)(B). [Pub. L. 107–273, § 13206(a)(2)(B)(ii)][/us/pl/107/273/s13206/a/2/B/ii]–(iv), in first sentence, struck out “United States Code,” after “[section 5382 of title 5][/us/usc/t5/s5382],” and “, United States Code” after “[section 5304(h)(2)(C) of title 5][/us/usc/t5/s5304/h/2/C]”, in second sentence, struck out “United States Code,” after “for purposes of [section 207(c)(2)(A) of title 18][/us/usc/t18/s207/c/2/A],” and “, United States Code” after “clause (ii) of [section 207(c)(2)(A) of title 18][/us/usc/t18/s207/c/2/A]”, and in last sentence, struck out “, United States Code” after “title 3”.
+    Subsec. (b)(2)(B). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(2)(B)(ii)–(iv), in first sentence, struck out “United States Code,” after “[section 5382 of title 5][/us/usc/t5/s5382],” and “, United States Code” after “[section 5304(h)(2)(C) of title 5][/us/usc/t5/s5304/h/2/C]”, in second sentence, struck out “United States Code,” after “for purposes of [section 207(c)(2)(A) of title 18][/us/usc/t18/s207/c/2/A],” and “, United States Code” after “clause (ii) of [section 207(c)(2)(A) of title 18][/us/usc/t18/s207/c/2/A]”, and in last sentence, struck out “, United States Code” after “title 3”.
 
-    Subsec. (b)(2)(C). [Pub. L. 107–273, § 13206(a)(2)(B)(v)][/us/pl/107/273/s13206/a/2/B/v], struck out “, United States Code” after “title 5”.
+    Subsec. (b)(2)(C). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(2)(B)(v), struck out “, United States Code” after “title 5”.
 
-    Subsec. (c). [Pub. L. 107–273, § 13206(a)(2)(C)][/us/pl/107/273/s13206/a/2/C], in heading, struck out “, United States Code” before period at end, and in text, struck out “United States Code,” after “title 5,”.
+    Subsec. (c). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(2)(C), in heading, struck out “, United States Code” before period at end, and in text, struck out “United States Code,” after “title 5,”.
 
     1999—[Pub. L. 106–113][/us/pl/106/113] reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -197,7 +197,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–622, title IV, § 406(b)][/us/pl/98/622/s406/b], Nov. 8, 1984, [98 Stat. 3393][/us/stat/98/3393], provided that: 
+[Pub. L. 98–622, title IV][/us/pl/98/622/tIV], § 406(b), Nov. 8, 1984, [98 Stat. 3393][/us/stat/98/3393], provided that: 
 
 > “The amendments made by sections 401, 402, and 405 of this Act \[amending this section and sections 361, 366, 371, 372, and 376 of this title\] shall take effect six months after the date of the enactment of this Act \[Nov. 8, 1984\].”
 
@@ -207,7 +207,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–601, § 4(b)][/us/pl/93/601/s4/b], Jan. 2, 1975, [88 Stat. 1957][/us/stat/88/1957], provided that: 
+[Pub. L. 93–601][/us/pl/93/601], § 4(b), Jan. 2, 1975, [88 Stat. 1957][/us/stat/88/1957], provided that: 
 
 > “This Act \[amending this section and sections 7 and 151 of this title and enacting provisions set out as a note under [section 151 of this title][/us/usc/t35/s151]\] shall be effective upon enactment \[Jan. 2, 1975\]. Examiners-in-chief in office on the date of enactment shall continue in office under and in accordance with their then existing appointments.”
 
@@ -219,15 +219,15 @@
 
  __Effective Date of 1959 Amendment__ 
 
-[Pub. L. 86–370, § 7(b)][/us/pl/86/370/s7/b], Sept. 23, 1959, [73 Stat. 653][/us/stat/73/653], provided that: 
+[Pub. L. 86–370][/us/pl/86/370], § 7(b), Sept. 23, 1959, [73 Stat. 653][/us/stat/73/653], provided that: 
 
 > “Sections 1 \[amending this section, [section 7 of this title][/us/usc/t35/s7], and provisions set out as a note below\], 3 \[amending sections 2205 and 2208 of former Title 5, Executive Departments and Government Officers and Employees\], and 6 \[amending section 1082 of former Title 5 and [section 903 of Title 20][/us/usc/t20/s903], Education\] of this Act shall become effective on the first day of the first pay period which begins after the date of enactment of this Act \[Sept. 23, 1959\].”
 
- Such section 7(b) was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 660][/us/stat/80/660].
+ Such section 7(b) was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 660][/us/stat/80/660].
 
  __Existing Positions, Compensation, and Appointments Unaffected by__  __[__  __Pub. L. 86–370__  __][/us/pl/86/370]__  __Until Action Taken Under Amendments__ 
 
-[Pub. L. 86–370, § 1(c)][/us/pl/86/370/s1/c], Sept. 23, 1959, [73 Stat. 650][/us/stat/73/650], provided that: 
+[Pub. L. 86–370][/us/pl/86/370], § 1(c), Sept. 23, 1959, [73 Stat. 650][/us/stat/73/650], provided that: 
 
 > “The amendments made by this section \[amending sections 1 and 7 of this title\] shall not affect—
 
@@ -254,55 +254,55 @@
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F792
-[/us/pl/85/933/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F933%2Fs1
+[/us/pl/85/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F933
 [/us/stat/72/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1793
-[/us/pl/86/370/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F370%2Fs1%2Fa
+[/us/pl/86/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F370
 [/us/stat/73/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F650
-[/us/pl/88/426/s305/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F26
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F425
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/93/601/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F601%2Fs1
+[/us/pl/93/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F601
 [/us/stat/88/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1956
-[/us/pl/97/247/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs4
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F319
-[/us/pl/97/366/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F366%2Fs4
+[/us/pl/97/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F366
 [/us/stat/96/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1760
-[/us/pl/98/622/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs405
+[/us/pl/98/622/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtIV
 [/us/stat/98/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3392
-[/us/pl/105/304/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs401%2Fa%2F1
+[/us/pl/105/304/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtIV
 [/us/stat/112/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2887
-[/us/pl/106/44/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs2%2Fc
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/stat/113/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F223
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F2
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1904
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F334
-[/us/act/1916-02-15/ch22/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-02-15%2Fch22%2Fs1
+[/us/act/1916-02-15/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-02-15%2Fch22
 [/us/stat/39/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F8
-[/us/act/1927-02-14/ch139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-14%2Fch139%2Fs1
+[/us/act/1927-02-14/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-14%2Fch139
 [/us/stat/44/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1098
-[/us/act/1930-04-11/ch132/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-11%2Fch132%2Fs1
+[/us/act/1930-04-11/ch132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-11%2Fch132
 [/us/stat/46/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F155
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
-[/us/pl/112/29/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs21%2Fb
-[/us/pl/112/29/s20/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fi%2F1
-[/us/pl/107/273/s13206/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F2%2FA
-[/us/pl/107/273/s13206/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F2%2FB%2Fi
-[/us/pl/107/273/s13206/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F2%2FB%2Fii
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s5304/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304%2Fh%2F2%2FC
 [/us/usc/t18/s207/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207%2Fc%2F2%2FA
 [/us/usc/t18/s207/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207%2Fc%2F2%2FA
-[/us/pl/107/273/s13206/a/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F2%2FB%2Fv
-[/us/pl/107/273/s13206/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F2%2FC
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs7
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
@@ -331,12 +331,12 @@
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
-[/us/pl/98/622/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs406%2Fb
+[/us/pl/98/622/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtIV
 [/us/stat/98/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3393
 [/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/pl/97/247/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs17%2Fa
 [/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41
-[/us/pl/93/601/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F601%2Fs4%2Fb
+[/us/pl/93/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F601
 [/us/stat/88/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1957
 [/us/usc/t35/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs151
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
@@ -345,14 +345,14 @@
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/88/426/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fc
 [/us/pl/88/426/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501
-[/us/pl/86/370/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F370%2Fs7%2Fb
+[/us/pl/86/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F370
 [/us/stat/73/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F653
 [/us/usc/t35/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs7
 [/us/usc/t20/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs903
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F660
 [/us/pl/86/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F370
-[/us/pl/86/370/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F370%2Fs1%2Fc
+[/us/pl/86/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F370
 [/us/stat/73/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F650
 
 

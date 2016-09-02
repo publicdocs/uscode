@@ -19,11 +19,11 @@
 
     (b) The Director shall prescribe regulations to provide for the continued examination of applications for patent at the request of the applicant. The Director may establish appropriate fees for such continued examination and shall provide a 50 percent reduction in such fees for small entities that qualify for reduced fees under section 41(h)(1).
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 801][/us/stat/66/801]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4403, 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 801][/us/stat/66/801]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, §§ 4403, 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], § 20(j), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 51 (R.S. 4903, amended [Aug. 5, 1939, ch. 452, § 1][/us/act/1939-08-05/ch452/s1], [53 Stat. 1213][/us/stat/53/1213]).
+    Based on Title 35, U.S.C., 1946 ed., § 51 (R.S. 4903, amended [Aug. 5, 1939, ch. 452][/us/act/1939-08-05/ch452], § 1, [53 Stat. 1213][/us/stat/53/1213]).
 
     The first paragraph of the corresponding section of existing statute is revised in language and amplified to incorporate present practice; the second paragraph of the existing statute is placed in section 135.
 
@@ -33,11 +33,11 @@
 
     2011—Subsec. (b). [Pub. L. 112–29][/us/pl/112/29] struck out “of this title” after “41(h)(1)”.
 
-    2002—[Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
+    2002—[Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-    1999—[Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner”.
+    1999—[Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner”.
 
-    [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4403\], designated existing provisions as subsec. (a) and added subsec. (b).
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4403\], designated existing provisions as subsec. (a) and added subsec. (b).
 
  __Effective Date of 2011 Amendment__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4405(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4405(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, provided that: 
 
 > “The amendments made by section 4403 \[amending this section\]—
 
@@ -64,24 +64,24 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F801
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
-[/us/act/1939-08-05/ch452/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch452%2Fs1
+[/us/act/1939-08-05/ch452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch452
 [/us/stat/53/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1213
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs2
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t35/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs111%2Fa
 [/us/usc/t35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs371

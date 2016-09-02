@@ -99,7 +99,7 @@
 
     (i) As used in this section, an “offer for sale” or an “offer to sell” by a person other than the patentee, or any designee of the patentee, is that in which the sale will occur before the expiration of the term of the patent.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 811][/us/stat/66/811]; [Pub. L. 98–417, title II, § 202][/us/pl/98/417/s202], Sept. 24, 1984, [98 Stat. 1603][/us/stat/98/1603]; [Pub. L. 98–622, title I, § 101(a)][/us/pl/98/622/s101/a], Nov. 8, 1984, [98 Stat. 3383][/us/stat/98/3383]; [Pub. L. 100–418, title IX, § 9003][/us/pl/100/418/s9003], Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563]; [Pub. L. 100–670, title II, § 201(i)][/us/pl/100/670/s201/i], Nov. 16, 1988, [102 Stat. 3988][/us/stat/102/3988]; [Pub. L. 100–703, title II, § 201][/us/pl/100/703/s201], Nov. 19, 1988, [102 Stat. 4676][/us/stat/102/4676]; [Pub. L. 102–560, § 2(a)(1)][/us/pl/102/560/s2/a/1], Oct. 28, 1992, [106 Stat. 4230][/us/stat/106/4230]; [Pub. L. 103–465, title V, § 533(a)][/us/pl/103/465/s533/a], Dec. 8, 1994, [108 Stat. 4988][/us/stat/108/4988]; [Pub. L. 108–173, title XI, § 1101(d)][/us/pl/108/173/s1101/d], Dec. 8, 2003, [117 Stat. 2457][/us/stat/117/2457]; [Pub. L. 111–148, title VII, § 7002(c)(1)][/us/pl/111/148/s7002/c/1], Mar. 23, 2010, [124 Stat. 815][/us/stat/124/815].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 811][/us/stat/66/811]; [Pub. L. 98–417, title II][/us/pl/98/417/tII], § 202, Sept. 24, 1984, [98 Stat. 1603][/us/stat/98/1603]; [Pub. L. 98–622, title I][/us/pl/98/622/tI], § 101(a), Nov. 8, 1984, [98 Stat. 3383][/us/stat/98/3383]; [Pub. L. 100–418, title IX][/us/pl/100/418/tIX], § 9003, Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563]; [Pub. L. 100–670, title II][/us/pl/100/670/tII], § 201(i), Nov. 16, 1988, [102 Stat. 3988][/us/stat/102/3988]; [Pub. L. 100–703, title II][/us/pl/100/703/tII], § 201, Nov. 19, 1988, [102 Stat. 4676][/us/stat/102/4676]; [Pub. L. 102–560][/us/pl/102/560], § 2(a)(1), Oct. 28, 1992, [106 Stat. 4230][/us/stat/106/4230]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 533(a), Dec. 8, 1994, [108 Stat. 4988][/us/stat/108/4988]; [Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1101(d), Dec. 8, 2003, [117 Stat. 2457][/us/stat/117/2457]; [Pub. L. 111–148, title VII][/us/pl/111/148/tVII], § 7002(c)(1), Mar. 23, 2010, [124 Stat. 815][/us/stat/124/815].)
 
  __Historical and Revision Notes__ 
 
@@ -117,45 +117,45 @@
 
  __Amendments__ 
 
-    2010—Subsec. (e)(2). [Pub. L. 111–148, § 7002(c)(1)(A)(iv)][/us/pl/111/148/s7002/c/1/A/iv], substituted “, veterinary biological product, or biological product” for “or veterinary biological product” in concluding provisions.
+    2010—Subsec. (e)(2). [Pub. L. 111–148][/us/pl/111/148], § 7002(c)(1)(A)(iv), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” in concluding provisions.
 
-    Subsec. (e)(2)(C). [Pub. L. 111–148, § 7002(c)(1)(A)(i)][/us/pl/111/148/s7002/c/1/A/i]–(iii), added subpar. (C).
+    Subsec. (e)(2)(C). [Pub. L. 111–148][/us/pl/111/148], § 7002(c)(1)(A)(i)–(iii), added subpar. (C).
 
-    Subsec. (e)(4). [Pub. L. 111–148, § 7002(c)(1)(B)(iv)][/us/pl/111/148/s7002/c/1/B/iv], substituted “(C), and (D)” for “and (C)” in concluding provisions.
+    Subsec. (e)(4). [Pub. L. 111–148][/us/pl/111/148], § 7002(c)(1)(B)(iv), substituted “(C), and (D)” for “and (C)” in concluding provisions.
 
-    Subsec. (e)(4)(B). [Pub. L. 111–148, § 7002(c)(1)(B)(i)][/us/pl/111/148/s7002/c/1/B/i], substituted “, veterinary biological product, or biological product” for “or veterinary biological product” and struck out “and” at end.
+    Subsec. (e)(4)(B). [Pub. L. 111–148][/us/pl/111/148], § 7002(c)(1)(B)(i), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” and struck out “and” at end.
 
-    Subsec. (e)(4)(C). [Pub. L. 111–148, § 7002(c)(1)(B)(ii)][/us/pl/111/148/s7002/c/1/B/ii], substituted “, veterinary biological product, or biological product” for “or veterinary biological product” and “, and” for period at end.
+    Subsec. (e)(4)(C). [Pub. L. 111–148][/us/pl/111/148], § 7002(c)(1)(B)(ii), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” and “, and” for period at end.
 
-    Subsec. (e)(4)(D). [Pub. L. 111–148, § 7002(c)(1)(B)(iii)][/us/pl/111/148/s7002/c/1/B/iii], added subpar. (D).
+    Subsec. (e)(4)(D). [Pub. L. 111–148][/us/pl/111/148], § 7002(c)(1)(B)(iii), added subpar. (D).
 
-    Subsec. (e)(6). [Pub. L. 111–148, § 7002(c)(1)(C)][/us/pl/111/148/s7002/c/1/C], added par. (6).
+    Subsec. (e)(6). [Pub. L. 111–148][/us/pl/111/148], § 7002(c)(1)(C), added par. (6).
 
     2003—Subsec. (e)(5). [Pub. L. 108–173][/us/pl/108/173] added par. (5).
 
-    1994—Subsec. (a). [Pub. L. 103–465, § 533(a)(1)][/us/pl/103/465/s533/a/1], inserted “, offers to sell,” after “uses” and “or imports into the United States any patented invention” after “the United States”.
+    1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into the United States any patented invention” after “the United States”.
 
-    Subsec. (c). [Pub. L. 103–465, § 533(a)(2)][/us/pl/103/465/s533/a/2], substituted “offers to sell or sells within the United States or imports into the United States” for “sells”.
+    Subsec. (c). [Pub. L. 103–465][/us/pl/103/465], § 533(a)(2), substituted “offers to sell or sells within the United States or imports into the United States” for “sells”.
 
-    Subsec. (e)(1). [Pub. L. 103–465, § 533(a)(3)(A)][/us/pl/103/465/s533/a/3/A], substituted “offer to sell, or sell within the United States or import into the United States” for “or sell”.
+    Subsec. (e)(1). [Pub. L. 103–465][/us/pl/103/465], § 533(a)(3)(A), substituted “offer to sell, or sell within the United States or import into the United States” for “or sell”.
 
-    Subsec. (e)(3). [Pub. L. 103–465, § 533(a)(3)(B)][/us/pl/103/465/s533/a/3/B], substituted “offering to sell, or selling within the United States or importing into the United States” for “or selling”.
+    Subsec. (e)(3). [Pub. L. 103–465][/us/pl/103/465], § 533(a)(3)(B), substituted “offering to sell, or selling within the United States or importing into the United States” for “or selling”.
 
-    Subsec. (e)(4)(B), (C). [Pub. L. 103–465, § 533(a)(3)(C)][/us/pl/103/465/s533/a/3/C], (D), substituted “offer to sell, or sale within the United States or importation into the United States” for “or sale”.
+    Subsec. (e)(4)(B), (C). [Pub. L. 103–465][/us/pl/103/465], § 533(a)(3)(C), (D), substituted “offer to sell, or sale within the United States or importation into the United States” for “or sale”.
 
-    Subsec. (g). [Pub. L. 103–465, § 533(a)(4)][/us/pl/103/465/s533/a/4], substituted “offers to sell, sells,” for “sells”, “importation, offer to sell, sale,” for “importation, sale,”, and “other use, offer to sell, or” for “other use or”.
+    Subsec. (g). [Pub. L. 103–465][/us/pl/103/465], § 533(a)(4), substituted “offers to sell, sells,” for “sells”, “importation, offer to sell, sale,” for “importation, sale,”, and “other use, offer to sell, or” for “other use or”.
 
-    Subsec. (i). [Pub. L. 103–465, § 533(a)(5)][/us/pl/103/465/s533/a/5], added subsec. (i).
+    Subsec. (i). [Pub. L. 103–465][/us/pl/103/465], § 533(a)(5), added subsec. (i).
 
     1992—Subsec. (h). [Pub. L. 102–560][/us/pl/102/560] added subsec. (h).
 
     1988—Subsec. (d). [Pub. L. 100–703][/us/pl/100/703] added cls. (4) and (5).
 
-    Subsec. (e)(1). [Pub. L. 100–670, § 201(i)(1)][/us/pl/100/670/s201/i/1], inserted “which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques” after “March 4, 1913)” and “or veterinary biological products” after “sale of drugs”.
+    Subsec. (e)(1). [Pub. L. 100–670][/us/pl/100/670], § 201(i)(1), inserted “which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques” after “March 4, 1913)” and “or veterinary biological products” after “sale of drugs”.
 
-    Subsec. (e)(2). [Pub. L. 100–670, § 201(i)(2)][/us/pl/100/670/s201/i/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “It shall be an act of infringement to submit an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act or described in section 505(b)(2) of such Act for a drug claimed in a patent or the use of which is claimed in a patent, if the purpose of such submission is to obtain approval under such Act to engage in the commercial manufacture, use, or sale of a drug claimed in a patent or the use of which is claimed in a patent before the expiration of such patent.”
+    Subsec. (e)(2). [Pub. L. 100–670][/us/pl/100/670], § 201(i)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “It shall be an act of infringement to submit an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act or described in section 505(b)(2) of such Act for a drug claimed in a patent or the use of which is claimed in a patent, if the purpose of such submission is to obtain approval under such Act to engage in the commercial manufacture, use, or sale of a drug claimed in a patent or the use of which is claimed in a patent before the expiration of such patent.”
 
-    Subsec. (e)(4). [Pub. L. 100–670, § 201(i)(3)][/us/pl/100/670/s201/i/3], inserted “or veterinary biological product” after “drug” in subpars. (A) to (C).
+    Subsec. (e)(4). [Pub. L. 100–670][/us/pl/100/670], § 201(i)(3), inserted “or veterinary biological product” after “drug” in subpars. (A) to (C).
 
     Subsec. (g). [Pub. L. 100–418][/us/pl/100/418] added subsec. (g).
 
@@ -173,11 +173,11 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–703, title II, § 202][/us/pl/100/703/s202], Nov. 19, 1988, [102 Stat. 4676][/us/stat/102/4676], provided that: 
+[Pub. L. 100–703, title II][/us/pl/100/703/tII], § 202, Nov. 19, 1988, [102 Stat. 4676][/us/stat/102/4676], provided that: 
 
 > “The amendment made by this title \[amending this section\] shall apply only to cases filed on or after the date of the enactment of this Act \[Nov. 19, 1988\].”
 
-[Pub. L. 100–418, title IX, § 9006][/us/pl/100/418/s9006], Aug. 23, 1988, [102 Stat. 1566][/us/stat/102/1566], provided that:
+[Pub. L. 100–418, title IX][/us/pl/100/418/tIX], § 9006, Aug. 23, 1988, [102 Stat. 1566][/us/stat/102/1566], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -197,7 +197,7 @@
 
  __Reports to Congress; Effect on Domestic Industries of Process Patent Amendments Act of 1988__ 
 
-    [Pub. L. 100–418, title IX, § 9007][/us/pl/100/418/s9007], Aug. 23, 1988, [102 Stat. 1567][/us/stat/102/1567], provided that the Secretary of Commerce was to make annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§ 9001–9007) of title IX of [Pub. L. 100–418][/us/pl/100/418], enacting [section 295 of this title][/us/usc/t35/s295] and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
+    [Pub. L. 100–418, title IX][/us/pl/100/418/tIX], § 9007, Aug. 23, 1988, [102 Stat. 1567][/us/stat/102/1567], provided that the Secretary of Commerce was to make annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§ 9001–9007) of title IX of [Pub. L. 100–418][/us/pl/100/418], enacting [section 295 of this title][/us/usc/t35/s295] and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
 
 ----------
 
@@ -211,23 +211,23 @@
 [/us/usc/t28/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2201
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F811
-[/us/pl/98/417/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs202
+[/us/pl/98/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2FtII
 [/us/stat/98/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1603
-[/us/pl/98/622/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs101%2Fa
+[/us/pl/98/622/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtI
 [/us/stat/98/3383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3383
-[/us/pl/100/418/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9003
+[/us/pl/100/418/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX
 [/us/stat/102/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1563
-[/us/pl/100/670/s201/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fi
+[/us/pl/100/670/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2FtII
 [/us/stat/102/3988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3988
-[/us/pl/100/703/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703%2Fs201
+[/us/pl/100/703/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703%2FtII
 [/us/stat/102/4676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4676
-[/us/pl/102/560/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560%2Fs2%2Fa%2F1
+[/us/pl/102/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560
 [/us/stat/106/4230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4230
-[/us/pl/103/465/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fa
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4988
-[/us/pl/108/173/s1101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fd
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2457
-[/us/pl/111/148/s7002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fc%2F1
+[/us/pl/111/148/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVII
 [/us/stat/124/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F815
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
@@ -237,26 +237,26 @@
 [/us/stat/37/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F832
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/pl/111/148/s7002/c/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fc%2F1%2FA%2Fiv
-[/us/pl/111/148/s7002/c/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fc%2F1%2FA%2Fi
-[/us/pl/111/148/s7002/c/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fc%2F1%2FB%2Fiv
-[/us/pl/111/148/s7002/c/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fc%2F1%2FB%2Fi
-[/us/pl/111/148/s7002/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fc%2F1%2FB%2Fii
-[/us/pl/111/148/s7002/c/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fc%2F1%2FB%2Fiii
-[/us/pl/111/148/s7002/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fc%2F1%2FC
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
-[/us/pl/103/465/s533/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fa%2F1
-[/us/pl/103/465/s533/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fa%2F2
-[/us/pl/103/465/s533/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fa%2F3%2FA
-[/us/pl/103/465/s533/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fa%2F3%2FB
-[/us/pl/103/465/s533/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fa%2F3%2FC
-[/us/pl/103/465/s533/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fa%2F4
-[/us/pl/103/465/s533/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fa%2F5
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/102/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560
 [/us/pl/100/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703
-[/us/pl/100/670/s201/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fi%2F1
-[/us/pl/100/670/s201/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fi%2F2
-[/us/pl/100/670/s201/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fi%2F3
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
 [/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
@@ -266,9 +266,9 @@
 [/us/pl/102/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560
 [/us/pl/102/560/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560%2Fs4
 [/us/usc/t7/s2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2541
-[/us/pl/100/703/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703%2Fs202
+[/us/pl/100/703/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703%2FtII
 [/us/stat/102/4676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4676
-[/us/pl/100/418/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9006
+[/us/pl/100/418/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX
 [/us/stat/102/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1566
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t35/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs295
@@ -277,7 +277,7 @@
 [/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
 [/us/pl/98/622/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs106%2Fc
 [/us/usc/t35/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs103
-[/us/pl/100/418/s9007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9007
+[/us/pl/100/418/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX
 [/us/stat/102/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1567
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t35/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs295

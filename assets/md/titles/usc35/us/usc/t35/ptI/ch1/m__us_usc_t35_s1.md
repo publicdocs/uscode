@@ -27,7 +27,7 @@
 
     For purposes of this title, the United States Patent and Trademark Office shall also be referred to as the “Office” and the “Patent and Trademark Office”.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 792][/us/stat/66/792]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4711\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 792][/us/stat/66/792]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4711\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572.)
 
  __Historical and Revision Notes__ 
 
@@ -47,19 +47,19 @@
 
  __Change of Name__ 
 
-[Pub. L. 93–596, § 3][/us/pl/93/596/s3], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949], provided that: 
+[Pub. L. 93–596][/us/pl/93/596], § 3, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949], provided that: 
 
 > “The terms ‘Patent Office’ and ‘Commissioner of Patents’ in all laws of the United States shall mean ‘Patent and Trademark Office’ and ‘Commissioner of Patents and Trademarks’, respectively.”
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 35][/us/pl/112/29/s35], Sept. 16, 2011, [125 Stat. 341][/us/stat/125/341], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 35, Sept. 16, 2011, [125 Stat. 341][/us/stat/125/341], provided that: 
 
 > “Except as otherwise provided in this Act \[see Short Title of 2011 Amendment note below\], the provisions of this Act shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent issued on or after that effective date.”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle G, § 4731\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–581, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle G, § 4731\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–581, provided that: 
 
 > “This subtitle \[see Tables for classification\] and the amendments made by this subtitle shall take effect 4 months after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
@@ -69,95 +69,95 @@
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–211, § 1][/us/pl/112/211/s1], Dec. 18, 2012, [126 Stat. 1527][/us/stat/126/1527], provided that: 
+[Pub. L. 112–211][/us/pl/112/211], § 1, Dec. 18, 2012, [126 Stat. 1527][/us/stat/126/1527], provided that: 
 
 > “This Act \[enacting part V and sections 27 and 151 of this title, amending sections 41, 100, 102, 111, 115, 119, 120, 122, 133, 154, 171, 173, 261, 361, 364 to 366, and 371 of this title, repealing [section 151 of this title][/us/usc/t35/s151], and enacting provisions set out as notes under sections 27 and 100 of this title\] may be cited as the ‘Patent Law Treaties Implementation Act of 2012’.”
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 1(a)][/us/pl/112/29/s1/a], Sept. 16, 2011, [125 Stat. 284][/us/stat/125/284], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 1(a), Sept. 16, 2011, [125 Stat. 284][/us/stat/125/284], provided that: 
 
 > “This Act \[enacting chapter 32 and sections 123, 257, 298, 299, and 319 of this title and [section 1454 of Title 28][/us/usc/t28/s1454], Judiciary and Judicial Procedure, amending sections 2, 3, 6, 12, 32, 41, 42, 100, 102 to 104, 111, 112, 115, 116, 118 to 123, 132, 134, 135, 141, 143, 145, 146, 154, 156, 157, 162, 172, 182 to 186, 202, 207, 209, 210, 251, 253, 256, 257, 267, 273, 282, 284, 287, 288, 291 to 294, 301 to 307, 311 to 318, 328, 363, 365, 368, and 371 to 375 of this title, [section 1071 of Title 15][/us/usc/t15/s1071], Commerce and Trade, sections 1295 and 1338 of Title 28, [section 2182 of Title 42][/us/usc/t42/s2182], The Public Health and Welfare, and [section 20135 of Title 51][/us/usc/t51/s20135], National and Commercial Space Programs, repealing sections 155 and 155A of this title, enacting provisions set out as notes under this section, sections 2, 6, 32, 41, 42, 100 to 102, 111, 119, 122, 156, 202, 257, 273, 287, 292, 301, 303, 306, 311, 312, and 321 of this title, [section 1071 of Title 15][/us/usc/t15/s1071], and [section 1295 of Title 28][/us/usc/t28/s1295], and amending provisions set out as a note under [section 41 of this title][/us/usc/t35/s41]\] may be cited as the ‘Leahy-Smith America Invents Act’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–453, § 1][/us/pl/108/453/s1], Dec. 10, 2004, [118 Stat. 3596][/us/stat/118/3596], provided that: 
+[Pub. L. 108–453][/us/pl/108/453], § 1, Dec. 10, 2004, [118 Stat. 3596][/us/stat/118/3596], provided that: 
 
 > “This Act \[amending [section 103 of this title][/us/usc/t35/s103] and enacting provisions set out as a note under [section 103 of this title][/us/usc/t35/s103]\] may be cited as the ‘Cooperative Research and Technology Enhancement (CREATE) Act of 2004’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–273, div. C, title III, § 13201][/us/pl/107/273/s13201], Nov. 2, 2002, [116 Stat. 1901][/us/stat/116/1901], provided that: 
+[Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13201, Nov. 2, 2002, [116 Stat. 1901][/us/stat/116/1901], provided that: 
 
 > “This subtitle \[subtitle B (§§ 13201–13211) of title III of div. C of [Pub. L. 107–273][/us/pl/107/273], see Tables for classification\] may be cited as the ‘Intellectual Property and High Technology Technical Amendments Act of 2002’.”
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[§ 1(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–521, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[§ 1(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–521, provided that: 
 
 > “This Act \[S. 1948, as enacted by [section 1000(a)(9) of Pub. L. 106–113][/us/pl/106/113/s1000/a/9], see Tables for classification\] may be cited as the ‘Intellectual Property and Communications Omnibus Reform Act of 1999’.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4001\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–552, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4001\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–552, provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘American Inventors Protection Act of 1999’.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle A, § 4101\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–552, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle A, § 4101\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–552, provided that: 
 
 > “This subtitle \[enacting [section 297 of this title][/us/usc/t35/s297] and provisions set out as a note under [section 297 of this title][/us/usc/t35/s297]\] may be cited as the ‘Inventors’ Rights Act of 1999’.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle B, § 4201\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–554, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle B, § 4201\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–554, provided that: 
 
 > “This subtitle \[amending sections 41 and 42 of this title and enacting provisions set out as notes under [section 41 of this title][/us/usc/t35/s41] and [section 1113 of Title 15][/us/usc/t15/s1113], Commerce and Trade\] may be cited as the ‘Patent and Trademark Fee Fairness Act of 1999’.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle C, § 4301\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–555, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle C, § 4301\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–555, provided that: 
 
 > “This subtitle \[enacting [section 273 of this title][/us/usc/t35/s273] and provisions set out as a note under [section 273 of this title][/us/usc/t35/s273]\] may be cited as the ‘First Inventor Defense Act of 1999’.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle D, § 4401\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–557, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle D, § 4401\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–557, provided that: 
 
 > “This subtitle \[amending sections 132, 154, 156, and 282 of this title and [section 1295 of Title 28][/us/usc/t28/s1295], Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 132 and 154 of this title\] may be cited as the ‘Patent Term Guarantee Act of 1999’.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle E, § 4501\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–561, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle E, § 4501\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–561, provided that: 
 
 > “This subtitle \[amending sections 11 to 13, 102, 119, 120, 122, 135, 154, 181, 252, 284, and 374 of this title and enacting provisions set out as notes under sections 11, 41, and 122 of this title\] may be cited as the ‘Domestic Publication of Foreign Filed Patent Applications Act of 1999’.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle F, § 4601\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–567, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle F, § 4601\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–567, provided that: 
 
 > “This subtitle \[enacting chapter 31 of this title, amending sections 41, 100, 134, 141, 143, and 145 of this title, and enacting provisions set out as notes under sections 41, 311, and 315 of this title\] may be cited as the ‘Optional Inter Partes Reexamination Procedure Act of 1999’.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle G, § 4701\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle G, § 4701\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572, provided that: 
 
 > “This subtitle \[see Tables for classification\] may be cited as the ‘Patent and Trademark Office Efficiency Act’.”
 
  __Short Title of 1998 Amendments__ 
 
-[Pub. L. 105–358, § 1][/us/pl/105/358/s1], Nov. 10, 1998, [112 Stat. 3272][/us/stat/112/3272], provided that: 
+[Pub. L. 105–358][/us/pl/105/358], § 1, Nov. 10, 1998, [112 Stat. 3272][/us/stat/112/3272], provided that: 
 
 > “This Act \[amending sections 41 and 42 of this title and enacting provisions set out as a note under [section 41 of this title][/us/usc/t35/s41]\] may be cited as the ‘United States Patent and Trademark Office Reauthorization Act, Fiscal Year 1999’.”
 
-[Pub. L. 105–289, § 1][/us/pl/105/289/s1], Oct. 27, 1998, [112 Stat. 2780][/us/stat/112/2780], provided that: 
+[Pub. L. 105–289][/us/pl/105/289], § 1, Oct. 27, 1998, [112 Stat. 2780][/us/stat/112/2780], provided that: 
 
 > “This Act \[amending [section 163 of this title][/us/usc/t35/s163] and enacting provisions set out as notes under sections 41 and 163 of this title\] may be cited as the ‘Plant Patent Amendments Act of 1998’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–418, § 9001][/us/pl/100/418/s9001], Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563], provided that: 
+[Pub. L. 100–418][/us/pl/100/418], § 9001, Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563], provided that: 
 
 > “This subtitle \[subtitle A (§§ 9001–9007) of title IX of [Pub. L. 100–418][/us/pl/100/418], enacting [section 295 of this title][/us/usc/t35/s295], amending sections 154, 271, and 287 of this title, and enacting provisions set out as notes under [section 271 of this title][/us/usc/t35/s271]\] may be cited as the ‘Process Patent Amendments Act of 1988’.”
 
-[Pub. L. 100–418, title IX, § 9101(a)][/us/pl/100/418/s9101/a], Aug. 23, 1988, [102 Stat. 1567][/us/stat/102/1567], provided that: 
+[Pub. L. 100–418, title IX][/us/pl/100/418/tIX], § 9101(a), Aug. 23, 1988, [102 Stat. 1567][/us/stat/102/1567], provided that: 
 
 > “This section \[amending sections 184 to 186 of this title and enacting provisions set out as notes under [section 184 of this title][/us/usc/t35/s184]\] may be cited as the ‘Patent Law Foreign Filing Amendments Act of 1988’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–622, § 1][/us/pl/98/622/s1], Nov. 8, 1984, [98 Stat. 3383][/us/stat/98/3383], provided that: 
+[Pub. L. 98–622][/us/pl/98/622], § 1, Nov. 8, 1984, [98 Stat. 3383][/us/stat/98/3383], provided that: 
 
 > “This Act \[enacting [section 157 of this title][/us/usc/t35/s157], amending sections 3, 7, 41, 103, 104, 116, 120, 134, 135, 141, 145, 146, 271, 305, 351, 361, 362, 365 to 368, 371 to 373, and 376 of this title, [section 1295 of Title 28][/us/usc/t28/s1295], Judiciary and Judicial Procedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 7, 41, 103, 157, and 351 of this title\] may be cited as the ‘Patent Law Amendments Act of 1984’.”
 
  __Transfer of Functions and Assets of Patent and Trademark Office__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle G, chapter 3\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle G, chapter 3\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585, provided that:
 
 > “SEC. 4741. __REFERENCES.__ 
 
@@ -249,7 +249,7 @@
 
  __Satellite Offices__ 
 
-[Pub. L. 112–29, § 23][/us/pl/112/29/s23], Sept. 16, 2011, [125 Stat. 336][/us/stat/125/336], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 23, Sept. 16, 2011, [125 Stat. 336][/us/stat/125/336], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -301,7 +301,7 @@
 
  __Designation of Detroit Satellite Office__ 
 
-[Pub. L. 112–29, § 24][/us/pl/112/29/s24], Sept. 16, 2011, [125 Stat. 337][/us/stat/125/337], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 24, Sept. 16, 2011, [125 Stat. 337][/us/stat/125/337], provided that:
 
 >     “(a)  __Designation__  __.—__ 
 
@@ -313,13 +313,13 @@
 
  __Federal Agency Status for Patent and Trademark Office__ 
 
-[Pub. L. 101–508, title X, § 10102][/us/pl/101/508/s10102], Nov. 5, 1990, [104 Stat. 1388–392][/us/stat/104/1388-392], provided that: 
+[Pub. L. 101–508, title X][/us/pl/101/508/tX], § 10102, Nov. 5, 1990, [104 Stat. 1388–392][/us/stat/104/1388-392], provided that: 
 
 > “For the purposes of Federal law, the Patent and Trademark Office shall be considered a Federal agency. In particular, the Patent and Trademark Office shall be subject to all Federal laws pertaining to the procurement of goods and services that would apply to a Federal agency using appropriated funds, including the Federal Property and Administrative Services Act of 1949 \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] and the Office of Federal Procurement Policy Act \[now division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41\].”
 
  __Definitions__ 
 
-[Pub. L. 112–29, § 2][/us/pl/112/29/s2], Sept. 16, 2011, [125 Stat. 284][/us/stat/125/284], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 2, Sept. 16, 2011, [125 Stat. 284][/us/stat/125/284], provided that: 
 
 > “In this Act \[see Short Title of 2011 Amendment note above\]:
 
@@ -352,25 +352,25 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F792
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
-[/us/pl/93/596/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs3
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/112/29/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs35
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F341
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/596/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs4
 [/us/usc/t15/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1111
-[/us/pl/112/211/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs1
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/stat/126/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1527
 [/us/usc/t35/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs151
-[/us/pl/112/29/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs1%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F284
 [/us/usc/t28/s1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1454
 [/us/usc/t15/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1071
@@ -379,68 +379,68 @@
 [/us/usc/t15/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1071
 [/us/usc/t28/s1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295
 [/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41
-[/us/pl/108/453/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F453%2Fs1
+[/us/pl/108/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F453
 [/us/stat/118/3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3596
 [/us/usc/t35/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs103
 [/us/usc/t35/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs103
-[/us/pl/107/273/s13201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13201
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1901
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t35/s297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs297
 [/us/usc/t35/s297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs297
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41
 [/us/usc/t15/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1113
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t35/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs273
 [/us/usc/t35/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t28/s1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/105/358/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F358%2Fs1
+[/us/pl/105/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F358
 [/us/stat/112/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3272
 [/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41
-[/us/pl/105/289/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289%2Fs1
+[/us/pl/105/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289
 [/us/stat/112/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2780
 [/us/usc/t35/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs163
-[/us/pl/100/418/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9001
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1563
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t35/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs295
 [/us/usc/t35/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs271
-[/us/pl/100/418/s9101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9101%2Fa
+[/us/pl/100/418/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX
 [/us/stat/102/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1567
 [/us/usc/t35/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs184
-[/us/pl/98/622/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs1
+[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
 [/us/stat/98/3383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3383
 [/us/usc/t35/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs157
 [/us/usc/t28/s1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-111
-[/us/pl/112/29/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs23
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F336
-[/us/pl/112/29/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs24
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F337
-[/us/pl/101/508/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10102
+[/us/pl/101/508/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtX
 [/us/stat/104/1388-392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-392
-[/us/pl/112/29/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs2
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F284
 [/us/usc/t35/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs5%2Fa
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051

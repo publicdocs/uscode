@@ -17,11 +17,11 @@
 
     The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to revive an unintentionally abandoned application for patent, accept an unintentionally delayed payment of the fee for issuing each patent, or accept an unintentionally delayed response by the patent owner in a reexamination proceeding, upon petition by the applicant for patent or patent owner.
 
-(Added [Pub. L. 112–211, title II, § 201(b)(1)][/us/pl/112/211/s201/b/1], Dec. 18, 2012, [126 Stat. 1534][/us/stat/126/1534].)
+(Added [Pub. L. 112–211, title II][/us/pl/112/211/tII], § 201(b)(1), Dec. 18, 2012, [126 Stat. 1534][/us/stat/126/1534].)
 
  __Effective Date__ 
 
-[Pub. L. 112–211, title II, § 203][/us/pl/112/211/s203], Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536], provided that:
+[Pub. L. 112–211, title II][/us/pl/112/211/tII], § 203, Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/112/211/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs201%2Fb%2F1
+[/us/pl/112/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtII
 [/us/stat/126/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1534
-[/us/pl/112/211/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs203
+[/us/pl/112/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtII
 [/us/stat/126/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1536
 [/us/usc/t35/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs151
 [/us/usc/t35/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs151

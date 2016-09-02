@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–204, § 5(d)(2)(B)][/us/pl/102/204/s5/d/2/B], (C), Dec. 10, 1991, [105 Stat. 1640][/us/stat/105/1640], inserted “; FUNDING; SEARCH SYSTEMS” after “FEES” in chapter heading, inserted “; patent and trademark search systems” after “fees” in item 41, and substituted “Patent and Trademark Office funding” for “Payment of patent fees; return of excess amounts” in item 42.
+    1991—[Pub. L. 102–204][/us/pl/102/204], § 5(d)(2)(B), (C), Dec. 10, 1991, [105 Stat. 1640][/us/stat/105/1640], inserted “; FUNDING; SEARCH SYSTEMS” after “FEES” in chapter heading, inserted “; patent and trademark search systems” after “fees” in item 41, and substituted “Patent and Trademark Office funding” for “Payment of patent fees; return of excess amounts” in item 42.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/102/204/s5/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fd%2F2%2FB
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1640
 
 

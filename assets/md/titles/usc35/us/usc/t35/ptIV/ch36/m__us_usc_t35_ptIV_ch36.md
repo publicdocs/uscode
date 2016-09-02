@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–616, § 3][/us/pl/99/616/s3], Nov. 6, 1986, [100 Stat. 3485][/us/stat/100/3485], amended item 362 generally.
+    1986—[Pub. L. 99–616][/us/pl/99/616], § 3, Nov. 6, 1986, [100 Stat. 3485][/us/stat/100/3485], amended item 362 generally.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/99/616/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs3
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
 [/us/stat/100/3485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3485
 
 

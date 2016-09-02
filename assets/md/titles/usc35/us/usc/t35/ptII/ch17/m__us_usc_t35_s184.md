@@ -27,11 +27,11 @@
 
     The scope of a license shall permit subsequent modifications, amendments, and supplements containing additional subject matter if the application upon which the request for the license is based is not, or was not, required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not change the general nature of the invention in a manner which would require such application to be made available for inspection under such section 181. In any case in which a license is not, or was not, required in order to file an application in any foreign country, such subsequent modifications, amendments, and supplements may be made, without a license, to the application filed in the foreign country if the United States application was not required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not, or did not, change the general nature of the invention in a manner which would require the United States application to have been made available for inspection under such section 181.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 807][/us/stat/66/807]; [Pub. L. 100–418, title IX, § 9101(b)(1)][/us/pl/100/418/s9101/b/1], Aug. 23, 1988, [102 Stat. 1567][/us/stat/102/1567]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 112–29, § 20(b)][/us/pl/112/29/s20/b], (j), Sept. 16, 2011, [125 Stat. 333][/us/stat/125/333], 335.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 807][/us/stat/66/807]; [Pub. L. 100–418, title IX][/us/pl/100/418/tIX], § 9101(b)(1), Aug. 23, 1988, [102 Stat. 1567][/us/stat/102/1567]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(a)(10)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 112–29][/us/pl/112/29], § 20(b), (j), Sept. 16, 2011, [125 Stat. 333][/us/stat/125/333], 335.)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 154 ([Feb. 1, 1952, ch. 4, § 4][/us/act/1952-02-01/ch4/s4], [66 Stat. 5][/us/stat/66/5]).
+    Based on Title 35, U.S.C., 1946 ed., § 154 ([Feb. 1, 1952, ch. 4][/us/act/1952-02-01/ch4], § 4, [66 Stat. 5][/us/stat/66/5]).
 
     Language is changed.
 
@@ -41,9 +41,9 @@
 
     1999—[Pub. L. 106–113][/us/pl/106/113] substituted “Commissioner of Patents” for “Commissioner” two places in first par.
 
-    1988—[Pub. L. 100–418, § 9101(b)(1)(A)][/us/pl/100/418/s9101/b/1/A], substituted “filed abroad through error and without deceptive intent” for “inadvertently filed abroad” in first par.
+    1988—[Pub. L. 100–418][/us/pl/100/418], § 9101(b)(1)(A), substituted “filed abroad through error and without deceptive intent” for “inadvertently filed abroad” in first par.
 
-    [Pub. L. 100–418, § 9101(b)(1)(B)][/us/pl/100/418/s9101/b/1/B], added third par. relating to scope of a license.
+    [Pub. L. 100–418][/us/pl/100/418], § 9101(b)(1)(B), added third par. relating to scope of a license.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–418, title IX, § 9101(d)][/us/pl/100/418/s9101/d], Aug. 23, 1988, [102 Stat. 1568][/us/stat/102/1568], provided that:
+[Pub. L. 100–418, title IX][/us/pl/100/418/tIX], § 9101(d), Aug. 23, 1988, [102 Stat. 1568][/us/stat/102/1568], provided that:
 
 >     “(1) Subject to paragraphs (2), (3), and (4) of this subsection, the amendments made by this section \[amending sections 184 to 186 of this title\] shall apply to all United States patents granted before, on, or after the date of enactment of this section \[Aug. 23, 1988\], to all applications for United States patents pending on or filed after such date of enactment, and to all licenses under section 184 granted before, on, or after the date of enactment of this section.
 
@@ -75,7 +75,7 @@
 
  __Promulgation of Regulations__ 
 
-    [Pub. L. 100–418, title IX, § 9101(c)][/us/pl/100/418/s9101/c], Aug. 23, 1988, [102 Stat. 1568][/us/stat/102/1568], directed Commissioner of Patents and Trademarks to prescribe such regulations as necessary to implement the amendments made by section 9101 (amending sections 184 to 186 of this title).
+    [Pub. L. 100–418, title IX][/us/pl/100/418/tIX], § 9101(c), Aug. 23, 1988, [102 Stat. 1568][/us/stat/102/1568], directed Commissioner of Patents and Trademarks to prescribe such regulations as necessary to implement the amendments made by section 9101 (amending sections 184 to 186 of this title).
 
 ----------
 
@@ -86,27 +86,27 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F807
-[/us/pl/100/418/s9101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9101%2Fb%2F1
+[/us/pl/100/418/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX
 [/us/stat/102/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1567
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/112/29/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fb
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F333
-[/us/act/1952-02-01/ch4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-02-01%2Fch4%2Fs4
+[/us/act/1952-02-01/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-02-01%2Fch4
 [/us/stat/66/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F5
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/100/418/s9101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9101%2Fb%2F1%2FA
-[/us/pl/100/418/s9101/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9101%2Fb%2F1%2FB
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs2
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
-[/us/pl/100/418/s9101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9101%2Fd
+[/us/pl/100/418/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX
 [/us/stat/102/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1568
-[/us/pl/100/418/s9101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9101%2Fc
+[/us/pl/100/418/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX
 [/us/stat/102/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1568
 
 

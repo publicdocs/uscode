@@ -15,9 +15,9 @@
 
 # Title 35—PATENTS
 
-This title was enacted by [act July 19, 1952, ch. 950, § 1][/us/act/1952-07-19/ch950/s1], [66 Stat. 792][/us/stat/66/792]
+This title was enacted by [act July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], § 1, [66 Stat. 792][/us/stat/66/792]
 
-Current through 114-195
+Current through 114-219
 
 <table>
 
@@ -85,11 +85,11 @@ Current through 114-195
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–211, title I, § 101(b)][/us/pl/112/211/s101/b], Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], added item V.
+    2012—[Pub. L. 112–211, title I][/us/pl/112/211/tI], § 101(b), Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], added item V.
 
-    1999—[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–581, substituted “United States Patent and Trademark Office” for “Patent and Trademark Office” in item I.
+    1999—[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(a)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–581, substituted “United States Patent and Trademark Office” for “Patent and Trademark Office” in item I.
 
-    1984—[Pub. L. 98–622, title IV, § 403(b)][/us/pl/98/622/s403/b], Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392], added item IV.
+    1984—[Pub. L. 98–622, title IV][/us/pl/98/622/tIV], § 403(b), Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392], added item IV.
 
 <table>
 
@@ -1204,13 +1204,13 @@ Section 4 of [act July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 8
 ----------
 ----------
 
-[/us/act/1952-07-19/ch950/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950%2Fs1
+[/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F792
-[/us/pl/112/211/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs101%2Fb
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/98/622/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs403%2Fb
+[/us/pl/98/622/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtIV
 [/us/stat/98/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3392
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F792

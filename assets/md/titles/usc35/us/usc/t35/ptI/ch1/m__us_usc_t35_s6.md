@@ -39,7 +39,7 @@
 
     The Secretary of Commerce may, in the Secretary’s discretion, deem the appointment of an administrative patent judge who, before the date of the enactment of this subsection, held office pursuant to an appointment by the Director to take effect on the date on which the Director initially appointed the administrative patent judge. It shall be a defense to a challenge to the appointment of an administrative patent judge on the basis of the judge’s having been originally appointed by the Director that the administrative patent judge so appointed was acting as a de facto officer.
 
-(Added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4717(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–580; amended [Pub. L. 107–273, div. C, title III, § 13203(a)(2)][/us/pl/107/273/s13203/a/2], Nov. 2, 2002, [116 Stat. 1902][/us/stat/116/1902]; [Pub. L. 110–313, § 1(a)(1)][/us/pl/110/313/s1/a/1], Aug. 12, 2008, [122 Stat. 3014][/us/stat/122/3014]; [Pub. L. 112–29, § 7(a)(1)][/us/pl/112/29/s7/a/1], Sept. 16, 2011, [125 Stat. 313][/us/stat/125/313].)
+(Added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4717(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–580; amended [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13203(a)(2), Nov. 2, 2002, [116 Stat. 1902][/us/stat/116/1902]; [Pub. L. 110–313][/us/pl/110/313], § 1(a)(1), Aug. 12, 2008, [122 Stat. 3014][/us/stat/122/3014]; [Pub. L. 112–29][/us/pl/112/29], § 7(a)(1), Sept. 16, 2011, [125 Stat. 313][/us/stat/125/313].)
 
  __References in Text__ 
 
@@ -47,21 +47,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 6, acts [July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 793][/us/stat/66/793]; [Pub. L. 92–132][/us/pl/92/132], Oct. 5, 1971, [85 Stat. 364][/us/stat/85/364]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 94–131, § 2][/us/pl/94/131/s2], Nov. 14, 1975, [89 Stat. 690][/us/stat/89/690]; [Pub. L. 97–247][/us/pl/97/247], §§ 7, 13, Aug. 27, 1982, [96 Stat. 320][/us/stat/96/320], 321; [Pub. L. 102–204, § 8][/us/pl/102/204/s8], Dec. 10, 1991, [105 Stat. 1641][/us/stat/105/1641], related to duties of Commissioner, prior to repeal by [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4715(a), 4731\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.
+    A prior section 6, acts [July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 793][/us/stat/66/793]; [Pub. L. 92–132][/us/pl/92/132], Oct. 5, 1971, [85 Stat. 364][/us/stat/85/364]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 94–131][/us/pl/94/131], § 2, Nov. 14, 1975, [89 Stat. 690][/us/stat/89/690]; [Pub. L. 97–247][/us/pl/97/247], §§ 7, 13, Aug. 27, 1982, [96 Stat. 320][/us/stat/96/320], 321; [Pub. L. 102–204][/us/pl/102/204], § 8, Dec. 10, 1991, [105 Stat. 1641][/us/stat/105/1641], related to duties of Commissioner, prior to repeal by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, §§ 4715(a), 4731\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.
 
  __Amendments__ 
 
     2011—[Pub. L. 112–29][/us/pl/112/29] amended section generally. Prior to amendment, section related to the establishment, composition, and function of the Board of Patent Appeals and Interferences and to the appointment of administrative patent judges.
 
-    2008—Subsec. (a). [Pub. L. 110–313, § 1(a)(1)(A)][/us/pl/110/313/s1/a/1/A], (B), substituted “Deputy Director” for “Deputy Commissioner” in second sentence and “Secretary of Commerce, in consultation with the Director” for “Director” in last sentence.
+    2008—Subsec. (a). [Pub. L. 110–313][/us/pl/110/313], § 1(a)(1)(A), (B), substituted “Deputy Director” for “Deputy Commissioner” in second sentence and “Secretary of Commerce, in consultation with the Director” for “Director” in last sentence.
 
-    Subsecs. (c), (d). [Pub. L. 110–313, § 1(a)(1)(C)][/us/pl/110/313/s1/a/1/C], which directed addition of subsecs. (c) and (d) at end of subsec. (a), was executed by adding subsecs. (c) and (d) at end of section to reflect the probable intent of Congress.
+    Subsecs. (c), (d). [Pub. L. 110–313][/us/pl/110/313], § 1(a)(1)(C), which directed addition of subsecs. (c) and (d) at end of subsec. (a), was executed by adding subsecs. (c) and (d) at end of section to reflect the probable intent of Congress.
 
     2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], which directed amendment of subsec. (a) by inserting “the Deputy Commissioner,” after “Commissioner,”, was executed by making the insertion after “The Director,” to reflect the probable intent of Congress.
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 7(e)][/us/pl/112/29/s7/e], Sept. 16, 2011, [125 Stat. 315][/us/stat/125/315], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 7(e), Sept. 16, 2011, [125 Stat. 315][/us/stat/125/315], provided that: 
 
 > “The amendments made by this section \[amending this section, sections 134, 141, and 143 of this title, [section 1295 of Title 28][/us/usc/t28/s1295], Judiciary and Judicial Procedure, [section 2182 of Title 42][/us/usc/t42/s2182], The Public Health and Welfare, and [section 20135 of Title 51][/us/usc/t51/s20135], National and Commercial Space Programs\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to proceedings commenced on or after that effective date, except that—
 
@@ -84,34 +84,34 @@
 ----------
 ----------
 
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13203%2Fa%2F2
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1902
-[/us/pl/110/313/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F313%2Fs1%2Fa%2F1
+[/us/pl/110/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F313
 [/us/stat/122/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3014
-[/us/pl/112/29/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs7%2Fa%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F313
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F793
 [/us/pl/92/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F132
 [/us/stat/85/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F364
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/94/131/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131%2Fs2
+[/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/stat/89/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F690
 [/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F320
-[/us/pl/102/204/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs8
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1641
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
-[/us/pl/110/313/s1/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F313%2Fs1%2Fa%2F1%2FA
-[/us/pl/110/313/s1/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F313%2Fs1%2Fa%2F1%2FC
+[/us/pl/110/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F313
+[/us/pl/110/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F313
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/112/29/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs7%2Fe
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F315
 [/us/usc/t28/s1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295
 [/us/usc/t42/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2182

@@ -27,11 +27,11 @@
 
     A petition for a post-grant review may only be filed not later than the date that is 9 months after the date of the grant of the patent or of the issuance of a reissue patent (as the case may be).
 
-(Added [Pub. L. 112–29, § 6(d)][/us/pl/112/29/s6/d], Sept. 16, 2011, [125 Stat. 306][/us/stat/125/306].)
+(Added [Pub. L. 112–29][/us/pl/112/29], § 6(d), Sept. 16, 2011, [125 Stat. 306][/us/stat/125/306].)
 
  __Effective Date__ 
 
-[Pub. L. 112–29, § 6(f)(2)][/us/pl/112/29/s6/f/2], (3), Sept. 16, 2011, [125 Stat. 311][/us/stat/125/311], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 6(f)(2), (3), Sept. 16, 2011, [125 Stat. 311][/us/stat/125/311], provided that:
 
 >     “(2) __Applicability.—__ 
 
@@ -63,13 +63,13 @@
 
  __Regulations__ 
 
-[Pub. L. 112–29, § 6(f)(1)][/us/pl/112/29/s6/f/1], Sept. 16, 2011, [125 Stat. 311][/us/stat/125/311], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 6(f)(1), Sept. 16, 2011, [125 Stat. 311][/us/stat/125/311], provided that: 
 
 > “The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] shall, not later than the date that is 1 year after the date of the enactment of this Act \[Sept. 16, 2011\], issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (d) of this section.”
 
  __Transitional Program for Covered Business Method Patents__ 
 
-[Pub. L. 112–29, § 18][/us/pl/112/29/s18], Sept. 16, 2011, [125 Stat. 329][/us/stat/125/329], as amended by [Pub. L. 112–274, § 1(b)][/us/pl/112/274/s1/b], Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 18, Sept. 16, 2011, [125 Stat. 329][/us/stat/125/329], as amended by [Pub. L. 112–274][/us/pl/112/274], § 1(b), Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456], provided that:
 
 >     “(a) __Transitional Program.—__ 
 
@@ -156,18 +156,18 @@
 ----------
 ----------
 
-[/us/pl/112/29/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fd
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F306
-[/us/pl/112/29/s6/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Ff%2F2
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F311
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
 [/us/usc/t28/s1295/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295%2Fa%2F4%2FA
-[/us/pl/112/29/s6/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Ff%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F311
-[/us/pl/112/29/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs18
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F329
-[/us/pl/112/274/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fb
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2456
 [/us/usc/t35/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs321%2Fc
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100

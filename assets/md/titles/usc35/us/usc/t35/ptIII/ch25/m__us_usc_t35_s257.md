@@ -73,7 +73,7 @@
 
  __Amendments__ 
 
-    2011—Subsec. (c)(2)(B). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “281”.
+    2011—Subsec. (c)(2)(B). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “281”.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -81,7 +81,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 112–29, § 12(c)][/us/pl/112/29/s12/c], Sept. 16, 2011, [125 Stat. 327][/us/stat/125/327], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 12(c), Sept. 16, 2011, [125 Stat. 327][/us/stat/125/327], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent issued before, on, or after that effective date.”
 
@@ -100,11 +100,11 @@
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t29/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs53
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs2
-[/us/pl/112/29/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs12%2Fc
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F327
 
 

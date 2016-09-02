@@ -71,15 +71,15 @@
 
     (e) The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
 
-(Added [Pub. L. 96–517, § 6(a)][/us/pl/96/517/s6/a], Dec. 12, 1980, [94 Stat. 3026][/us/stat/94/3026]; amended [Pub. L. 98–620, title V, § 501(13)][/us/pl/98/620/s501/13], Nov. 8, 1984, [98 Stat. 3367][/us/stat/98/3367]; [Pub. L. 99–502, § 9(c)][/us/pl/99/502/s9/c], Oct. 20, 1986, [100 Stat. 1796][/us/stat/100/1796]; [Pub. L. 103–272, § 5(j)][/us/pl/103/272/s5/j], July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 104–113, § 7][/us/pl/104/113/s7], Mar. 7, 1996, [110 Stat. 779][/us/stat/110/779]; [Pub. L. 105–393, title II, § 220(c)(2)][/us/pl/105/393/s220/c/2], Nov. 13, 1998, [112 Stat. 3625][/us/stat/112/3625]; [Pub. L. 107–273, div. C, title III, § 13206(a)(16)][/us/pl/107/273/s13206/a/16], Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905]; [Pub. L. 109–58, title X, § 1009(a)(2)][/us/pl/109/58/s1009/a/2], Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934]; [Pub. L. 111–314, § 4(c)][/us/pl/111/314/s4/c], Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440]; [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
+(Added [Pub. L. 96–517][/us/pl/96/517], § 6(a), Dec. 12, 1980, [94 Stat. 3026][/us/stat/94/3026]; amended [Pub. L. 98–620, title V][/us/pl/98/620/tV], § 501(13), Nov. 8, 1984, [98 Stat. 3367][/us/stat/98/3367]; [Pub. L. 99–502][/us/pl/99/502], § 9(c), Oct. 20, 1986, [100 Stat. 1796][/us/stat/100/1796]; [Pub. L. 103–272][/us/pl/103/272], § 5(j), July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 104–113][/us/pl/104/113], § 7, Mar. 7, 1996, [110 Stat. 779][/us/stat/110/779]; [Pub. L. 105–393, title II][/us/pl/105/393/tII], § 220(c)(2), Nov. 13, 1998, [112 Stat. 3625][/us/stat/112/3625]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(16), Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(a)(2), Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934]; [Pub. L. 111–314][/us/pl/111/314], § 4(c), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440]; [Pub. L. 112–29][/us/pl/112/29], § 20(j), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
 
  __References in Text__ 
 
     The Act and this Act, referred to in subsec. (a), is [Pub. L. 96–517][/us/pl/96/517], Dec. 12, 1980, [94 Stat. 3015][/us/stat/94/3015], which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, [section 1113 of Title 15][/us/usc/t15/s1113], Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186 and 5908 and former [section 2457 of Title 42][/us/usc/t42/s2457], The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of this title. For complete classification of this Act to the Code, see Tables.
 
-    [Section 30168 of title 49][/us/usc/t49/s30168], referred to in subsec. (a)(4), was repealed by [Pub. L. 112–141, div. C, title I, § 31204(b)(2)(B)][/us/pl/112/141/s31204/b/2/B], July 6, 2012, [126 Stat. 760][/us/stat/126/760].
+    [Section 30168 of title 49][/us/usc/t49/s30168], referred to in subsec. (a)(4), was repealed by [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31204(b)(2)(B), July 6, 2012, [126 Stat. 760][/us/stat/126/760].
 
-    Section 12 of the National Science Foundation Act of 1950 ([42 U.S.C. 1871(a)][/us/usc/t42/s1871/a]; [82 Stat. 360][/us/stat/82/360]), referred to in subsec. (a)(5), was amended by [Pub. L. 99–159, title I, § 109(c)][/us/pl/99/159/s109/c], Nov. 22, 1985, [99 Stat. 889][/us/stat/99/889], by striking out subsec. (b) and designating subsec. (a) as the entire section.
+    Section 12 of the National Science Foundation Act of 1950 ([42 U.S.C. 1871(a)][/us/usc/t42/s1871/a]; [82 Stat. 360][/us/stat/82/360]), referred to in subsec. (a)(5), was amended by [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 109(c), Nov. 22, 1985, [99 Stat. 889][/us/stat/99/889], by striking out subsec. (b) and designating subsec. (a) as the entire section.
 
     [Section 3 of the Act of April 5, 1944][/us/act/1944-04-05/s3] ([30 U.S.C. 323][/us/usc/t30/s323]; [58 Stat. 191][/us/stat/58/191]), referred to in subsec. (a)(13), was omitted from the Code.
 
@@ -87,7 +87,7 @@
 
     The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (a)(20), is [Pub. L. 95–592][/us/pl/95/592], Nov. 4, 1978, [92 Stat. 2529][/us/stat/92/2529], which, as amended by [Pub. L. 98–284][/us/pl/98/284], May 16, 1984, [98 Stat. 181][/us/stat/98/181], is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§ 178 et seq.) of chapter 8A of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 178 of Title 7][/us/usc/t7/s178] and Tables.
 
-    Section 408 of the Water Resources and Development Act of 1978 ([42 U.S.C. 7879][/us/usc/t42/s7879]; [92 Stat. 1360][/us/stat/92/1360]), referred to in subsec. (a)(21), was repealed by [Pub. L. 98–242, title I, § 110(a)][/us/pl/98/242/s110/a], Mar. 22, 1984, [98 Stat. 101][/us/stat/98/101]. See [section 10308 of Title 42][/us/usc/t42/s10308], The Public Health and Welfare.
+    Section 408 of the Water Resources and Development Act of 1978 ([42 U.S.C. 7879][/us/usc/t42/s7879]; [92 Stat. 1360][/us/stat/92/1360]), referred to in subsec. (a)(21), was repealed by [Pub. L. 98–242, title I][/us/pl/98/242/tI], § 110(a), Mar. 22, 1984, [98 Stat. 101][/us/stat/98/101]. See [section 10308 of Title 42][/us/usc/t42/s10308], The Public Health and Welfare.
 
     The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e), is [Pub. L. 96–480][/us/pl/96/480], Oct. 21, 1980, [94 Stat. 2311][/us/stat/94/2311], which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15][/us/usc/t15/s3701] and Tables.
 
@@ -99,11 +99,11 @@
 
     2005—Subsec. (a)(8). [Pub. L. 109–58][/us/pl/109/58] substituted “Coal Research and Development Act of 1960” for “Coal Research Development Act of 1960”.
 
-    2002—Subsec. (a)(11). [Pub. L. 107–273, § 13206(a)(16)(A)(i)][/us/pl/107/273/s13206/a/16/A/i], substituted “5908” for “5901”.
+    2002—Subsec. (a)(11). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(16)(A)(i), substituted “5908” for “5901”.
 
-    Subsec. (a)(20). [Pub. L. 107–273, § 13206(a)(16)(A)(ii)][/us/pl/107/273/s13206/a/16/A/ii], substituted “178j” for “178(j)”.
+    Subsec. (a)(20). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(16)(A)(ii), substituted “178j” for “178(j)”.
 
-    Subsec. (c). [Pub. L. 107–273, § 13206(a)(16)(B)][/us/pl/107/273/s13206/a/16/B], substituted “section 202(c)(4)” for “paragraph 202(c)(4)” and struck out second period after “title”.
+    Subsec. (c). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(16)(B), substituted “section 202(c)(4)” for “paragraph 202(c)(4)” and struck out second period after “title”.
 
     1998—Subsec. (a)(11) to (22). [Pub. L. 105–393][/us/pl/105/393] redesignated pars. (12) to (22) as (11) to (21), respectively, and struck out former par. (11) which read as follows: “subsection (e) of section 302 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 302(e); [79 Stat. 5][/us/stat/79/5]);”.
 
@@ -172,36 +172,36 @@
 [/us/stat/92/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2533
 [/us/usc/t42/s7879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7879
 [/us/stat/92/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1360
-[/us/pl/96/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs6%2Fa
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3026
-[/us/pl/98/620/s501/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs501%2F13
+[/us/pl/98/620/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtV
 [/us/stat/98/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3367
-[/us/pl/99/502/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fc
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1796
-[/us/pl/103/272/s5/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fj
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1375
-[/us/pl/104/113/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs7
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F779
-[/us/pl/105/393/s220/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs220%2Fc%2F2
+[/us/pl/105/393/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtII
 [/us/stat/112/3625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3625
-[/us/pl/107/273/s13206/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F16
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1905
-[/us/pl/109/58/s1009/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fa%2F2
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F934
-[/us/pl/111/314/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fc
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3015
 [/us/usc/t15/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1113
 [/us/usc/t42/s2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2457
 [/us/usc/t49/s30168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30168
-[/us/pl/112/141/s31204/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31204%2Fb%2F2%2FB
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F760
 [/us/usc/t42/s1871/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1871%2Fa
 [/us/stat/82/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F360
-[/us/pl/99/159/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fc
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F889
 [/us/act/1944-04-05/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-04-05%2Fs3
 [/us/usc/t30/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs323
@@ -217,7 +217,7 @@
 [/us/usc/t7/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs178
 [/us/usc/t42/s7879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7879
 [/us/stat/92/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1360
-[/us/pl/98/242/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs110%2Fa
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F101
 [/us/usc/t42/s10308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10308
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
@@ -228,9 +228,9 @@
 [/us/usc/t51/s20135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20135
 [/us/usc/t42/s2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2457
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/107/273/s13206/a/16/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F16%2FA%2Fi
-[/us/pl/107/273/s13206/a/16/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F16%2FA%2Fii
-[/us/pl/107/273/s13206/a/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F16%2FB
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 [/us/stat/79/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F5
 [/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113

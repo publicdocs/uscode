@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be deemed to convey to any person immunity from civil or criminal liability, or to create any defenses to actions, under any antitrust law.
 
-(Added [Pub. L. 96–517, § 6(a)][/us/pl/96/517/s6/a], Dec. 12, 1980, [94 Stat. 3027][/us/stat/94/3027].)
+(Added [Pub. L. 96–517][/us/pl/96/517], § 6(a), Dec. 12, 1980, [94 Stat. 3027][/us/stat/94/3027].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs6%2Fa
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3027
 
 

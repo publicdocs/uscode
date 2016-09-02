@@ -111,13 +111,13 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–29, § 6(b)][/us/pl/112/29/s6/b], (e), Sept. 16, 2011, [125 Stat. 304][/us/stat/125/304], 311, added items for chapters 31 and 32 and struck out former item for chapter 31 “Optional Inter Partes Reexamination of Patents”.
+    2011—[Pub. L. 112–29][/us/pl/112/29], § 6(b), (e), Sept. 16, 2011, [125 Stat. 304][/us/stat/125/304], 311, added items for chapters 31 and 32 and struck out former item for chapter 31 “Optional Inter Partes Reexamination of Patents”.
 
-    2002—[Pub. L. 107–273, div. C, title III, § 13206(a)(17)][/us/pl/107/273/s13206/a/17], Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905], inserted a comma after “Patent” in item for chapter 29.
+    2002—[Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(17), Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905], inserted a comma after “Patent” in item for chapter 29.
 
-    1999—[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4604(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–570, as amended by [Pub. L. 107–273, div. C, title III, § 13202(c)(2)][/us/pl/107/273/s13202/c/2], Nov. 2, 2002, [116 Stat. 1902][/us/stat/116/1902], substituted “Ex Parte Reexamination of Patents” for “Reexamination of Patents” in item for chapter 30 and added item for chapter 31.
+    1999—[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4604(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–570, as amended by [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13202(c)(2), Nov. 2, 2002, [116 Stat. 1902][/us/stat/116/1902], substituted “Ex Parte Reexamination of Patents” for “Reexamination of Patents” in item for chapter 30 and added item for chapter 31.
 
-    1982—[Pub. L. 97–256, title I, § 101(7)][/us/pl/97/256/s101/7], Sept. 8, 1982, [96 Stat. 816][/us/stat/96/816], added item for chapter 30.
+    1982—[Pub. L. 97–256, title I][/us/pl/97/256/tI], § 101(7), Sept. 8, 1982, [96 Stat. 816][/us/stat/96/816], added item for chapter 30.
 
 ----------
 
@@ -126,15 +126,15 @@
 ----------
 ----------
 
-[/us/pl/112/29/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fb
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F304
-[/us/pl/107/273/s13206/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F17
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1905
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fc%2F2
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1902
-[/us/pl/97/256/s101/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2Fs101%2F7
+[/us/pl/97/256/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2FtI
 [/us/stat/96/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F816
 
 

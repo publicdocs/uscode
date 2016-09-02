@@ -17,11 +17,11 @@
 
     The invention disclosed in an application for patent subject to an order made pursuant to section 181 may be held abandoned upon its being established by the Commissioner of Patents that in violation of said order the invention has been published or disclosed or that an application for a patent therefor has been filed in a foreign country by the inventor, his successors, assigns, or legal representatives, or anyone in privity with him or them, without the consent of the Commissioner of Patents. The abandonment shall be held to have occurred as of the time of violation. The consent of the Commissioner of Patents shall not be given without the concurrence of the heads of the departments and the chief officers of the agencies who caused the order to be issued. A holding of abandonment shall constitute forfeiture by the applicant, his successors, assigns, or legal representatives, or anyone in privity with him or them, of all claims against the United States based upon such invention.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 806][/us/stat/66/806]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 806][/us/stat/66/806]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(a)(10)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 112–29][/us/pl/112/29], § 20(j), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 152 ([Feb. 1, 1952, ch. 4, § 2][/us/act/1952-02-01/ch4/s2], [66 Stat. 4][/us/stat/66/4]).
+    Based on Title 35, U.S.C., 1946 ed., § 152 ([Feb. 1, 1952, ch. 4][/us/act/1952-02-01/ch4], § 2, [66 Stat. 4][/us/stat/66/4]).
 
     Language is changed.
 
@@ -48,11 +48,11 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F806
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
-[/us/act/1952-02-01/ch4/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-02-01%2Fch4%2Fs2
+[/us/act/1952-02-01/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-02-01%2Fch4
 [/us/stat/66/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F4
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

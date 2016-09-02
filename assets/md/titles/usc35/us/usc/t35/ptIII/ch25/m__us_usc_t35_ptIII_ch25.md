@@ -83,11 +83,11 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–29, § 12(b)][/us/pl/112/29/s12/b], Sept. 16, 2011, [125 Stat. 327][/us/stat/125/327], added item 257.
+    2011—[Pub. L. 112–29][/us/pl/112/29], § 12(b), Sept. 16, 2011, [125 Stat. 327][/us/stat/125/327], added item 257.
 
-    2002—[Pub. L. 107–273, div. C, title III, § 13206(a)(18)][/us/pl/107/273/s13206/a/18], Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905], substituted “Correction of named inventor” for “Misjoinder of inventor” in item 256.
+    2002—[Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(18), Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905], substituted “Correction of named inventor” for “Misjoinder of inventor” in item 256.
 
-    1975—[Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949], substituted “Patent and Trademark Office” for “Patent Office” in item 254.
+    1975—[Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949], substituted “Patent and Trademark Office” for “Patent Office” in item 254.
 
 ----------
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/112/29/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs12%2Fb
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F327
-[/us/pl/107/273/s13206/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F18
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1905
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
 
 

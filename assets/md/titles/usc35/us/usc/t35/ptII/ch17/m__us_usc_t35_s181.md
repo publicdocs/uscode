@@ -23,25 +23,25 @@
 
     An invention shall not be ordered kept secret and the publication of the application or the grant of a patent withheld for a period of more than one year. The Commissioner of Patents shall renew the order at the end thereof, or at the end of any renewal period, for additional periods of one year upon notification by the head of the department or the chief officer of the agency who caused the order to be issued that an affirmative determination has been made that the national interest continues so to require. An order in effect, or issued, during a time when the United States is at war, shall remain in effect for the duration of hostilities and one year following cessation of hostilities. An order in effect, or issued, during a national emergency declared by the President shall remain in effect for the duration of the national emergency and six months thereafter. The Commissioner of Patents may rescind any order upon notification by the heads of the departments and the chief officers of the agencies who caused the order to be issued that the publication or disclosure of the invention is no longer deemed detrimental to the national security.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 805][/us/stat/66/805]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4507(7), 4732(a)(10)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–566, 1501A–582.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 805][/us/stat/66/805]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, §§ 4507(7), 4732(a)(10)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–566, 1501A–582.)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 151 ([Feb. 1, 1952, ch. 4, § 1][/us/act/1952-02-01/ch4/s1], [66 Stat. 3][/us/stat/66/3], 4).
+    Based on Title 35, U.S.C., 1946 ed., § 151 ([Feb. 1, 1952, ch. 4][/us/act/1952-02-01/ch4], § 1, [66 Stat. 3][/us/stat/66/3], 4).
 
     Language is changed.
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(B)\], substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
+    1999—[Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(B)\], substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
 
-    [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4507(7)(A)\], in first par., inserted “by the publication of an application or” after “disclosure” and “the publication of the application or” after “withhold”.
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4507(7)(A)\], in first par., inserted “by the publication of an application or” after “disclosure” and “the publication of the application or” after “withhold”.
 
-    [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4507(7)(B)\], inserted “by the publication of an application or” after “disclosure of an invention” in second par.
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4507(7)(B)\], inserted “by the publication of an application or” after “disclosure of an invention” in second par.
 
-    [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4507(7)(C)\], in third par., inserted “by the publication of the application or” after “disclosure of the invention” and “the publication of the application or” after “withhold”.
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4507(7)(C)\], in third par., inserted “by the publication of the application or” after “disclosure of the invention” and “the publication of the application or” after “withhold”.
 
-    [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4507(7)(D)\], inserted “the publication of an application or” after “kept secret and” in first sentence of fourth par.
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4507(7)(D)\], inserted “the publication of an application or” after “kept secret and” in first sentence of fourth par.
 
  __Effective Date of 1999 Amendment__ 
 
@@ -66,15 +66,15 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F805
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/act/1952-02-01/ch4/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-02-01%2Fch4%2Fs1
+[/us/act/1952-02-01/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-02-01%2Fch4
 [/us/stat/66/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F3
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs10

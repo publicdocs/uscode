@@ -29,11 +29,11 @@
 
     (b) A determination pursuant to this section or section 202(b)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall not be subject to chapter 71 of title 41. An administrative appeals procedure shall be established by regulations promulgated in accordance with section 206. Additionally, any contractor, inventor, assignee, or exclusive licensee adversely affected by a determination under this section may, at any time within sixty days after the determination is issued, file a petition in the United States Court of Federal Claims, which shall have jurisdiction to determine the appeal on the record and to affirm, reverse, remand or modify, as appropriate, the determination of the Federal agency. In cases described in paragraphs (1) and (3) of subsection (a), the agency’s determination shall be held in abeyance pending the exhaustion of appeals or petitions filed under the preceding sentence.
 
-(Added [Pub. L. 96–517, § 6(a)][/us/pl/96/517/s6/a], Dec. 12, 1980, [94 Stat. 3022][/us/stat/94/3022]; amended [Pub. L. 98–620, title V, § 501(9)][/us/pl/98/620/s501/9], Nov. 8, 1984, [98 Stat. 3367][/us/stat/98/3367]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 107–273, div. C, title III, § 13206(a)(14)][/us/pl/107/273/s13206/a/14], Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905]; [Pub. L. 111–350, § 5(i)(2)][/us/pl/111/350/s5/i/2], Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850].)
+(Added [Pub. L. 96–517][/us/pl/96/517], § 6(a), Dec. 12, 1980, [94 Stat. 3022][/us/stat/94/3022]; amended [Pub. L. 98–620, title V][/us/pl/98/620/tV], § 501(9), Nov. 8, 1984, [98 Stat. 3367][/us/stat/98/3367]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(14), Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905]; [Pub. L. 111–350][/us/pl/111/350], § 5(i)(2), Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850].)
 
  __References in Text__ 
 
-    Section 202(b)(4), referred to in subsec. (b), was redesignated [section 202(b)(3) of this title][/us/usc/t35/s202/b/3] by [Pub. L. 111–8, div. G, title I, § 1301(h)][/us/pl/111/8/s1301/h], Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829].
+    Section 202(b)(4), referred to in subsec. (b), was redesignated [section 202(b)(3) of this title][/us/usc/t35/s202/b/3] by [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1301(h), Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829].
 
  __Amendments__ 
 
@@ -56,18 +56,18 @@
 ----------
 ----------
 
-[/us/pl/96/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs6%2Fa
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3022
-[/us/pl/98/620/s501/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs501%2F9
+[/us/pl/98/620/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtV
 [/us/stat/98/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3367
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/107/273/s13206/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F14
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1905
-[/us/pl/111/350/s5/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fi%2F2
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3850
 [/us/usc/t35/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs202%2Fb%2F3
-[/us/pl/111/8/s1301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1301%2Fh
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F829
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

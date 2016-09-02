@@ -23,7 +23,7 @@
 
     In a suit described in subsection (a) for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any private entity. Such remedies include damages, interest, costs, and treble damages under section 284, attorney fees under section 285, and the additional remedy for infringement of design patents under section 289.
 
-(Added [Pub. L. 102–560, § 2(a)(2)][/us/pl/102/560/s2/a/2], Oct. 28, 1992, [106 Stat. 4230][/us/stat/106/4230].)
+(Added [Pub. L. 102–560][/us/pl/102/560], § 2(a)(2), Oct. 28, 1992, [106 Stat. 4230][/us/stat/106/4230].)
 
  __Constitutionality__ 
 
@@ -40,7 +40,7 @@ For information regarding constitutionality of this section, as added by [sectio
 ----------
 ----------
 
-[/us/pl/102/560/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560%2Fs2%2Fa%2F2
+[/us/pl/102/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560
 [/us/stat/106/4230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4230
 [/us/pl/102/560/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560%2Fs2%2Fa%2F2
 [/us/pl/102/560/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560%2Fs4

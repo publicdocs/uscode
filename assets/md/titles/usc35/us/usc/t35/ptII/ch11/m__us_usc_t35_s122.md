@@ -89,7 +89,7 @@
 
             (C) include a statement by the person making such submission affirming that the submission was made in compliance with this section.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 801][/us/stat/66/801]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4502(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–561; [Pub. L. 112–29][/us/pl/112/29], §§ 8(a), 20(j), Sept. 16, 2011, [125 Stat. 315][/us/stat/125/315], 335; [Pub. L. 112–211, title II, § 202(b)(4)][/us/pl/112/211/s202/b/4], Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 801][/us/stat/66/801]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4502(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–561; [Pub. L. 112–29][/us/pl/112/29], §§ 8(a), 20(j), Sept. 16, 2011, [125 Stat. 315][/us/stat/125/315], 335; [Pub. L. 112–211, title II][/us/pl/112/211/tII], § 202(b)(4), Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536].)
 
  __Historical and Revision Notes__ 
 
@@ -99,15 +99,15 @@
 
     2012—Subsec. (b)(2)(B)(iii). [Pub. L. 112–211][/us/pl/112/211] struck out “, unless it is shown to the satisfaction of the Director that the delay in submitting the notice was unintentional” after “regarded as abandoned”.
 
-    2011—Subsec. (b)(2)(A)(ii). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “181”.
+    2011—Subsec. (b)(2)(A)(ii). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “181”.
 
-    Subsec. (b)(2)(A)(iii). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “111(b)”.
+    Subsec. (b)(2)(A)(iii). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “111(b)”.
 
-    Subsec. (b)(2)(A)(iv). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “16”.
+    Subsec. (b)(2)(A)(iv). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “16”.
 
-    Subsec. (d). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “17”.
+    Subsec. (d). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “17”.
 
-    Subsec. (e). [Pub. L. 112–29, § 8(a)][/us/pl/112/29/s8/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 112–29][/us/pl/112/29], § 8(a), added subsec. (e).
 
     1999—[Pub. L. 106–113][/us/pl/106/113] amended section catchline and text generally. Prior to amendment, text read as follows: “Applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commissioner.”
 
@@ -119,7 +119,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 8(b)][/us/pl/112/29/s8/b], Sept. 16, 2011, [125 Stat. 316][/us/stat/125/316], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 8(b), Sept. 16, 2011, [125 Stat. 316][/us/stat/125/316], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application filed before, on, or after that effective date.”
 
@@ -135,7 +135,7 @@
 
  __Study of Applicants Filing Only in United States__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4502(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–562, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4502(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–562, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -164,26 +164,26 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F801
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F315
-[/us/pl/112/211/s202/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs202%2Fb%2F4
+[/us/pl/112/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtII
 [/us/stat/126/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1536
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs8%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/pl/112/211/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs203
 [/us/usc/t35/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs27
-[/us/pl/112/29/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs8%2Fb
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F316
 [/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
@@ -195,7 +195,7 @@
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/596/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs4
 [/us/usc/t15/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1111
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs10

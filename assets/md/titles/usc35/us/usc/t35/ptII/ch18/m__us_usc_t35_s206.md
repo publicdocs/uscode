@@ -17,7 +17,7 @@
 
     The Secretary of Commerce may issue regulations which may be made applicable to Federal agencies implementing the provisions of sections 202 through 204 of this chapter and shall establish standard funding agreement provisions required under this chapter. The regulations and the standard funding agreement shall be subject to public comment before their issuance.
 
-(Added [Pub. L. 96–517, § 6(a)][/us/pl/96/517/s6/a], Dec. 12, 1980, [94 Stat. 3023][/us/stat/94/3023]; amended [Pub. L. 98–620, title V, § 501(10)][/us/pl/98/620/s501/10], Nov. 8, 1984, [98 Stat. 3367][/us/stat/98/3367].)
+(Added [Pub. L. 96–517][/us/pl/96/517], § 6(a), Dec. 12, 1980, [94 Stat. 3023][/us/stat/94/3023]; amended [Pub. L. 98–620, title V][/us/pl/98/620/tV], § 501(10), Nov. 8, 1984, [98 Stat. 3367][/us/stat/98/3367].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/96/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs6%2Fa
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3023
-[/us/pl/98/620/s501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs501%2F10
+[/us/pl/98/620/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtV
 [/us/stat/98/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3367
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 

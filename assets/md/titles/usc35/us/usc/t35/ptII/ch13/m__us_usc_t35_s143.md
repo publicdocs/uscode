@@ -17,27 +17,27 @@
 
     With respect to an appeal described in section 142, the Director shall transmit to the United States Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office. The court may request that the Director forward the original or certified copies of such documents during pendency of the appeal. In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32. The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 802][/us/stat/66/802]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 97–164, title I, § 163(a)(7)][/us/pl/97/164/s163/a/7], Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 98–620, title IV, § 414(a)][/us/pl/98/620/s414/a], Nov. 8, 1984, [98 Stat. 3363][/us/stat/98/3363]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4605(d), 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–571, 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273], §§ 13202(b)(2), 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1901][/us/stat/116/1901], 1906; [Pub. L. 112–29][/us/pl/112/29], §§ 7(c)(3), 20(j), Sept. 16, 2011, [125 Stat. 314][/us/stat/125/314], 335.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 802][/us/stat/66/802]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 163(a)(7), Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 414(a), Nov. 8, 1984, [98 Stat. 3363][/us/stat/98/3363]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, §§ 4605(d), 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–571, 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], §§ 13202(b)(2), 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1901][/us/stat/116/1901], 1906; [Pub. L. 112–29][/us/pl/112/29], §§ 7(c)(3), 20(j), Sept. 16, 2011, [125 Stat. 314][/us/stat/125/314], 335.)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 61 (R.S. 4913, amended [Mar. 2, 1927, ch. 273, § 10][/us/act/1927-03-02/ch273/s10], [44 Stat. 1336][/us/stat/44/1336]).
+    Based on Title 35, U.S.C., 1946 ed., § 61 (R.S. 4913, amended [Mar. 2, 1927, ch. 273][/us/act/1927-03-02/ch273], § 10, [44 Stat. 1336][/us/stat/44/1336]).
 
     Language is changed. The requirement that the Commissioner notify the parties is omitted and a requirement that the court notify the parties is added. The statement relating to filing the papers and testimony is made more explicit.
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “142”.
+    2011—[Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “142”.
 
-    [Pub. L. 112–29, § 7(c)(3)][/us/pl/112/29/s7/c/3], substituted “In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32.” for “In an ex parte case or any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.” and struck out second occurrence of “The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal.” at the end.
+    [Pub. L. 112–29][/us/pl/112/29], § 7(c)(3), substituted “In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32.” for “In an ex parte case or any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.” and struck out second occurrence of “The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal.” at the end.
 
-    2002—[Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], made technical correction to directory language of [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
+    2002—[Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-    [Pub. L. 107–273, § 13202(b)(2)][/us/pl/107/273/s13202/b/2], amended third sentence generally and added fourth sentence identical to existing fourth (now fifth) sentence. Prior to amendment, third sentence read as follows: “In any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.”
+    [Pub. L. 107–273][/us/pl/107/273], § 13202(b)(2), amended third sentence generally and added fourth sentence identical to existing fourth (now fifth) sentence. Prior to amendment, third sentence read as follows: “In any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.”
 
-    1999—[Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], substituted “Director” for “Commissioner” the first, second, and fourth places appearing.
+    1999—[Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), substituted “Director” for “Commissioner” the first, second, and fourth places appearing.
 
-    [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4605(d)\], amended third sentence generally. Prior to amendment, third sentence read as follows: “In an ex parte case, the Commissioner shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.”
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4605(d)\], amended third sentence generally. Prior to amendment, third sentence read as follows: “In an ex parte case, the Commissioner shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.”
 
     1984—[Pub. L. 98–620][/us/pl/98/620] substituted provisions requiring the Commissioner to transmit to the court a certified list of the documents comprising the record in the Patent and Trademark Office, with respect to an appeal described in [section 142 of this title][/us/usc/t35/s142], for provision which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant and the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
 
@@ -78,28 +78,28 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F802
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/97/164/s163/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs163%2Fa%2F7
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F49
-[/us/pl/98/620/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs414%2Fa
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3363
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1901
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F314
-[/us/act/1927-03-02/ch273/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-02%2Fch273%2Fs10
+[/us/act/1927-03-02/ch273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-02%2Fch273
 [/us/stat/44/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1336
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s7/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs7%2Fc%2F3
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/107/273/s13202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fb%2F2
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/usc/t35/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs142
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164

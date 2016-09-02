@@ -17,7 +17,7 @@
 
     Patents for designs shall be granted for the term of 15 years from the date of grant.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 805][/us/stat/66/805]; [Pub. L. 97–247, § 16][/us/pl/97/247/s16], Aug. 27, 1982, [96 Stat. 321][/us/stat/96/321]; [Pub. L. 103–465, title V, § 532(c)(3)][/us/pl/103/465/s532/c/3], Dec. 8, 1994, [108 Stat. 4987][/us/stat/108/4987]; [Pub. L. 112–211, title I, § 102(7)][/us/pl/112/211/s102/7], Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 805][/us/stat/66/805]; [Pub. L. 97–247][/us/pl/97/247], § 16, Aug. 27, 1982, [96 Stat. 321][/us/stat/96/321]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 532(c)(3), Dec. 8, 1994, [108 Stat. 4987][/us/stat/108/4987]; [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 102(7), Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532].)
 
  __Historical and Revision Notes__ 
 
@@ -52,11 +52,11 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F805
-[/us/pl/97/247/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs16
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F321
-[/us/pl/103/465/s532/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs532%2Fc%2F3
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4987
-[/us/pl/112/211/s102/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F7
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1532
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

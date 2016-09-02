@@ -35,7 +35,7 @@
 
     (i) The term “nonprofit organization” means universities and other institutions of higher education or an organization of the type described in section 501(c)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 501(c)][/us/usc/t26/s501/c]) and exempt from taxation under section 501(a) of the Internal Revenue Code ([26 U.S.C. 501(a)][/us/usc/t26/s501/a]) or any nonprofit scientific or educational organization qualified under a State nonprofit organization statute.
 
-(Added [Pub. L. 96–517, § 6(a)][/us/pl/96/517/s6/a], Dec. 12, 1980, [94 Stat. 3019][/us/stat/94/3019]; amended [Pub. L. 98–620, title V, § 501(1)][/us/pl/98/620/s501/1], (2), Nov. 8, 1984, [98 Stat. 3364][/us/stat/98/3364]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–273, div. C, title III, § 13206(a)(12)][/us/pl/107/273/s13206/a/12], Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904].)
+(Added [Pub. L. 96–517][/us/pl/96/517], § 6(a), Dec. 12, 1980, [94 Stat. 3019][/us/stat/94/3019]; amended [Pub. L. 98–620, title V][/us/pl/98/620/tV], § 501(1), (2), Nov. 8, 1984, [98 Stat. 3364][/us/stat/98/3364]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(12), Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
     1986—Subsec. (i). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1984—Subsec. (d). [Pub. L. 98–620, § 501(1)][/us/pl/98/620/s501/1], inserted “or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act ([7 U.S.C. 2321][/us/usc/t7/s2321] et seq.)” after “title”.
+    1984—Subsec. (d). [Pub. L. 98–620][/us/pl/98/620], § 501(1), inserted “or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act ([7 U.S.C. 2321][/us/usc/t7/s2321] et seq.)” after “title”.
 
-    Subsec. (e). [Pub. L. 98–620, § 501(2)][/us/pl/98/620/s501/2], inserted “: Provided, That in the case of a variety of plant, the date of determination (as defined in section 41(d) of the Plant Variety Protection Act ([7 U.S.C. 2401(d)][/us/usc/t7/s2401/d])) must also occur during the period of contract performance” after “agreement”.
+    Subsec. (e). [Pub. L. 98–620][/us/pl/98/620], § 501(2), inserted “: Provided, That in the case of a variety of plant, the date of determination (as defined in section 41(d) of the Plant Variety Protection Act ([7 U.S.C. 2401(d)][/us/usc/t7/s2401/d])) must also occur during the period of contract performance” after “agreement”.
 
 ----------
 
@@ -68,13 +68,13 @@
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
-[/us/pl/96/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs6%2Fa
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3019
-[/us/pl/98/620/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs501%2F1
+[/us/pl/98/620/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtV
 [/us/stat/98/3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3364
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/107/273/s13206/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F12
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1904
 [/us/pl/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577
 [/us/stat/84/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1542
@@ -84,9 +84,9 @@
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs102
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/620/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs501%2F1
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/usc/t7/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2321
-[/us/pl/98/620/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs501%2F2
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/usc/t7/s2401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2401%2Fd
 
 

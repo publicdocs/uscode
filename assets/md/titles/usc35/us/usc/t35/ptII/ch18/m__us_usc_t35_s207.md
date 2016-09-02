@@ -37,15 +37,15 @@
 
         (3) consult with and advise Federal agencies as to areas of science and technology research and development with potential for commercial utilization.
 
-(Added [Pub. L. 96–517, § 6(a)][/us/pl/96/517/s6/a], Dec. 12, 1980, [94 Stat. 3023][/us/stat/94/3023]; amended [Pub. L. 98–620, title V, § 501(11)][/us/pl/98/620/s501/11], Nov. 8, 1984, [98 Stat. 3367][/us/stat/98/3367]; [Pub. L. 106–404, § 6(2)][/us/pl/106/404/s6/2], Nov. 1, 2000, [114 Stat. 1745][/us/stat/114/1745]; [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
+(Added [Pub. L. 96–517][/us/pl/96/517], § 6(a), Dec. 12, 1980, [94 Stat. 3023][/us/stat/94/3023]; amended [Pub. L. 98–620, title V][/us/pl/98/620/tV], § 501(11), Nov. 8, 1984, [98 Stat. 3367][/us/stat/98/3367]; [Pub. L. 106–404][/us/pl/106/404], § 6(2), Nov. 1, 2000, [114 Stat. 1745][/us/stat/114/1745]; [Pub. L. 112–29][/us/pl/112/29], § 20(j), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335].)
 
  __Amendments__ 
 
     2011—Subsec. (a)(2). [Pub. L. 112–29][/us/pl/112/29] struck out “of this title” after “29”.
 
-    2000—Subsec. (a)(2). [Pub. L. 106–404, § 6(2)(A)][/us/pl/106/404/s6/2/A], substituted “inventions” for “patent applications, patents, or other forms of protection obtained”.
+    2000—Subsec. (a)(2). [Pub. L. 106–404][/us/pl/106/404], § 6(2)(A), substituted “inventions” for “patent applications, patents, or other forms of protection obtained”.
 
-    Subsec. (a)(3). [Pub. L. 106–404, § 6(2)(B)][/us/pl/106/404/s6/2/B], inserted “, including acquiring rights for and administering royalties to the Federal Government in any invention, but only to the extent the party from whom the rights are acquired voluntarily enters into the transaction, to facilitate the licensing of a federally owned invention” after “or through contract”.
+    Subsec. (a)(3). [Pub. L. 106–404][/us/pl/106/404], § 6(2)(B), inserted “, including acquiring rights for and administering royalties to the Federal Government in any invention, but only to the extent the party from whom the rights are acquired voluntarily enters into the transaction, to facilitate the licensing of a federally owned invention” after “or through contract”.
 
     1984—[Pub. L. 98–620][/us/pl/98/620] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -170,17 +170,17 @@
 ----------
 ----------
 
-[/us/pl/96/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs6%2Fa
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3023
-[/us/pl/98/620/s501/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs501%2F11
+[/us/pl/98/620/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtV
 [/us/stat/98/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3367
-[/us/pl/106/404/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs6%2F2
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1745
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
-[/us/pl/106/404/s6/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs6%2F2%2FA
-[/us/pl/106/404/s6/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs6%2F2%2FB
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29

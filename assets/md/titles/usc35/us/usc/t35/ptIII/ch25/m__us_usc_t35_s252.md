@@ -19,7 +19,7 @@
 
     A reissued patent shall not abridge or affect the right of any person or that person’s successors in business who, prior to the grant of a reissue, made, purchased, offered to sell, or used within the United States, or imported into the United States, anything patented by the reissued patent, to continue the use of, to offer to sell, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported unless the making, using, offering for sale, or selling of such thing infringes a valid claim of the reissued patent which was in the original patent. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, used, or imported as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made before the grant of the reissue, and the court may also provide for the continued practice of any process patented by the reissue that is practiced, or for the practice of which substantial preparation was made, before the grant of the reissue, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the grant of the reissue.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 808][/us/stat/66/808]; [Pub. L. 103–465, title V, § 533(b)(2)][/us/pl/103/465/s533/b/2], Dec. 8, 1994, [108 Stat. 4989][/us/stat/108/4989]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4507(8)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–566.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 808][/us/stat/66/808]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 533(b)(2), Dec. 8, 1994, [108 Stat. 4989][/us/stat/108/4989]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4507(8)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–566.)
 
  __Historical and Revision Notes__ 
 
@@ -50,9 +50,9 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F808
-[/us/pl/103/465/s533/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F2
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4989
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/act/1928-05-24/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-24%2Fch730
 [/us/stat/45/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F732

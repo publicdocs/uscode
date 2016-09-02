@@ -83,13 +83,13 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–211, title II, § 201(b)(2)][/us/pl/112/211/s201/b/2], Dec. 18, 2012, [126 Stat. 1534][/us/stat/126/1534], added item 27.
+    2012—[Pub. L. 112–211, title II][/us/pl/112/211/tII], § 201(b)(2), Dec. 18, 2012, [126 Stat. 1534][/us/stat/126/1534], added item 27.
 
-    2002—[Pub. L. 107–273, div. C, title III, § 13206(a)(5)][/us/pl/107/273/s13206/a/5], Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904], substituted “Filing date and day for taking action” for “Day for taking action falling on Saturday, Sunday, or holiday” in item 21.
+    2002—[Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(5), Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904], substituted “Filing date and day for taking action” for “Day for taking action falling on Saturday, Sunday, or holiday” in item 21.
 
-    1975—[Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949], substituted “Patent and Trademark Office” for “Patent Office” in chapter heading and in item 23.
+    1975—[Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949], substituted “Patent and Trademark Office” for “Patent Office” in chapter heading and in item 23.
 
-    1964—[Pub. L. 88–292, § 2][/us/pl/88/292/s2], Mar. 26, 1964, [78 Stat. 171][/us/stat/78/171], added items 25 and 26.
+    1964—[Pub. L. 88–292][/us/pl/88/292], § 2, Mar. 26, 1964, [78 Stat. 171][/us/stat/78/171], added items 25 and 26.
 
 ----------
 
@@ -98,13 +98,13 @@
 ----------
 ----------
 
-[/us/pl/112/211/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs201%2Fb%2F2
+[/us/pl/112/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtII
 [/us/stat/126/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1534
-[/us/pl/107/273/s13206/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F5
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1904
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/88/292/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F292%2Fs2
+[/us/pl/88/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F292
 [/us/stat/78/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F171
 
 

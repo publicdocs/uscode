@@ -73,7 +73,7 @@
 
     In a post-grant review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability by a preponderance of the evidence.
 
-(Added [Pub. L. 112–29, § 6(d)][/us/pl/112/29/s6/d], Sept. 16, 2011, [125 Stat. 308][/us/stat/125/308].)
+(Added [Pub. L. 112–29][/us/pl/112/29], § 6(d), Sept. 16, 2011, [125 Stat. 308][/us/stat/125/308].)
 
  __Effective Date__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/112/29/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fd
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F308
 [/us/pl/112/29/s3/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fn%2F1
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100

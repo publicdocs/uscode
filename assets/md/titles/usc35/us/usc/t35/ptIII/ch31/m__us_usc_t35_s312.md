@@ -39,29 +39,29 @@
 
     As soon as practicable after the receipt of a petition under section 311, the Director shall make the petition available to the public.
 
-(Added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4604(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–568; amended [Pub. L. 107–273, div. C, title III][/us/pl/107/273], §§ 13105(a), 13202(a)(2), (c)(1), Nov. 2, 2002, [116 Stat. 1900–1902][/us/stat/116/1900-1902]; [Pub. L. 112–29, § 6(a)][/us/pl/112/29/s6/a], (c)(3)(A)(i), Sept. 16, 2011, [125 Stat. 300][/us/stat/125/300], 305.)
+(Added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4604(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–568; amended [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], §§ 13105(a), 13202(a)(2), (c)(1), Nov. 2, 2002, [116 Stat. 1900–1902][/us/stat/116/1900-1902]; [Pub. L. 112–29][/us/pl/112/29], § 6(a), (c)(3)(A)(i), Sept. 16, 2011, [125 Stat. 300][/us/stat/125/300], 305.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–29, § 6(a)][/us/pl/112/29/s6/a], amended section generally. Prior to amendment, section related to determination of issue by Director.
+    2011—[Pub. L. 112–29][/us/pl/112/29], § 6(a), amended section generally. Prior to amendment, section related to determination of issue by Director.
 
-    Subsec. (a). [Pub. L. 112–29, § 6(c)(3)(A)(i)(I)][/us/pl/112/29/s6/c/3/A/i/I], substituted “the information presented in the request shows that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request,” for “a substantial new question of patentability affecting any claim of the patent concerned is raised by the request,” and “A showing that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request” for “The existence of a substantial new question of patentability”.
+    Subsec. (a). [Pub. L. 112–29][/us/pl/112/29], § 6(c)(3)(A)(i)(I), substituted “the information presented in the request shows that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request,” for “a substantial new question of patentability affecting any claim of the patent concerned is raised by the request,” and “A showing that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request” for “The existence of a substantial new question of patentability”.
 
-    Subsec. (c). [Pub. L. 112–29, § 6(c)(3)(A)(i)(II)][/us/pl/112/29/s6/c/3/A/i/II], substituted “the showing required by subsection (a) has not been made,” for “no substantial new question of patentability has been raised,”.
+    Subsec. (c). [Pub. L. 112–29][/us/pl/112/29], § 6(c)(3)(A)(i)(II), substituted “the showing required by subsection (a) has not been made,” for “no substantial new question of patentability has been raised,”.
 
-    2002—[Pub. L. 107–273, § 13202(c)(1)][/us/pl/107/273/s13202/c/1], made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], which enacted this section.
+    2002—[Pub. L. 107–273][/us/pl/107/273], § 13202(c)(1), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], which enacted this section.
 
-    Subsec. (a). [Pub. L. 107–273, § 13202(a)(2)(A)][/us/pl/107/273/s13202/a/2/A], struck out second sentence which read as follows: “On the Director’s initiative, and at any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications.”
+    Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 13202(a)(2)(A), struck out second sentence which read as follows: “On the Director’s initiative, and at any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications.”
 
-    [Pub. L. 107–273, § 13105(a)][/us/pl/107/273/s13105/a], inserted at end “The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office.”
+    [Pub. L. 107–273][/us/pl/107/273], § 13105(a), inserted at end “The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office.”
 
-    Subsec. (b). [Pub. L. 107–273, § 13202(a)(2)(B)][/us/pl/107/273/s13202/a/2/B], struck out “, if any” after “third-party requester”.
+    Subsec. (b). [Pub. L. 107–273][/us/pl/107/273], § 13202(a)(2)(B), struck out “, if any” after “third-party requester”.
 
  __Effective Date of 2011 Amendment__ 
 
     Amendment by [section 6(a) of Pub. L. 112–29][/us/pl/112/29/s6/a] effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, see [section 6(c)(2) of Pub. L. 112–29][/us/pl/112/29/s6/c/2], set out as a note under [section 311 of this title][/us/usc/t35/s311].
 
-[Pub. L. 112–29, § 6(c)(3)(B)][/us/pl/112/29/s6/c/3/B], (C), Sept. 16, 2011, [125 Stat. 305][/us/stat/125/305], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 6(c)(3)(B), (C), Sept. 16, 2011, [125 Stat. 305][/us/stat/125/305], provided that:
 
 >     “(B)  __Application__  __.—__ 
 
@@ -86,24 +86,24 @@
 ----------
 ----------
 
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1900-1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1900-1902
-[/us/pl/112/29/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F300
-[/us/pl/112/29/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fa
-[/us/pl/112/29/s6/c/3/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fc%2F3%2FA%2Fi%2FI
-[/us/pl/112/29/s6/c/3/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fc%2F3%2FA%2Fi%2FII
-[/us/pl/107/273/s13202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fc%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/107/273/s13202/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fa%2F2%2FA
-[/us/pl/107/273/s13105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13105%2Fa
-[/us/pl/107/273/s13202/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fa%2F2%2FB
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/112/29/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fa
 [/us/pl/112/29/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fc%2F2
 [/us/usc/t35/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs311
-[/us/pl/112/29/s6/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fc%2F3%2FB
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F305
 [/us/usc/t35/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs313
 [/us/usc/t35/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs311

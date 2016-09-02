@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–29, § 3(b)(3)][/us/pl/112/29/s3/b/3], (d), Sept. 16, 2011, [125 Stat. 287][/us/stat/125/287], substituted in item 102 “Conditions for patentability; novelty” for “Conditions for patentability; novelty and loss of right to patent” and struck out item 104 “Invention made abroad”.
+    2011—[Pub. L. 112–29][/us/pl/112/29], § 3(b)(3), (d), Sept. 16, 2011, [125 Stat. 287][/us/stat/125/287], substituted in item 102 “Conditions for patentability; novelty” for “Conditions for patentability; novelty and loss of right to patent” and struck out item 104 “Invention made abroad”.
 
-    1990—[Pub. L. 101–580, § 1(b)][/us/pl/101/580/s1/b], Nov. 15, 1990, [104 Stat. 2863][/us/stat/104/2863], added item 105.
+    1990—[Pub. L. 101–580][/us/pl/101/580], § 1(b), Nov. 15, 1990, [104 Stat. 2863][/us/stat/104/2863], added item 105.
 
 ----------
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/112/29/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fb%2F3
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F287
-[/us/pl/101/580/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F580%2Fs1%2Fb
+[/us/pl/101/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F580
 [/us/stat/104/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2863
 
 

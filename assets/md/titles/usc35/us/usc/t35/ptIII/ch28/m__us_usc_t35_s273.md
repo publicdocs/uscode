@@ -93,7 +93,7 @@
 
     A patent shall not be deemed to be invalid under section 102 or 103 solely because a defense is raised or established under this section.
 
-(Added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4302(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–555; amended [Pub. L. 112–29, § 5(a)][/us/pl/112/29/s5/a], Sept. 16, 2011, [125 Stat. 297][/us/stat/125/297].)
+(Added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4302(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–555; amended [Pub. L. 112–29][/us/pl/112/29], § 5(a), Sept. 16, 2011, [125 Stat. 297][/us/stat/125/297].)
 
  __Amendments__ 
 
@@ -101,13 +101,13 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 5(c)][/us/pl/112/29/s5/c], Sept. 16, 2011, [125 Stat. 299][/us/stat/125/299], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 5(c), Sept. 16, 2011, [125 Stat. 299][/us/stat/125/299], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to any patent issued on or after the date of the enactment of this Act \[Sept. 16, 2011\].”
 
  __Effective Date__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle C, § 4303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–557, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle C, § 4303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–557, provided that: 
 
 > “This subtitle \[enacting this section and provisions set out as a note under [section 1 of this title][/us/usc/t35/s1]\] and the amendments made by this subtitle shall take effect on the date of the enactment of this Act \[Nov. 29, 1999\], but shall not apply to any action for infringement that is pending on such date of enactment or with respect to any subject matter for which an adjudication of infringement, including a consent judgment, has been made before such date of enactment.”
 
@@ -119,14 +119,14 @@
 ----------
 
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/112/29/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs5%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F297
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
-[/us/pl/112/29/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs5%2Fc
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F299
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
 

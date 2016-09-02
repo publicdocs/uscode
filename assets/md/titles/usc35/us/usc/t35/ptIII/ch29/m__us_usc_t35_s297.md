@@ -75,7 +75,7 @@
 
         The Commissioner of Patents may request complaints relating to invention promotion services from any Federal or State agency and include such complaints in the records maintained under paragraph (1), together with any response of the invention promoters.
 
-(Added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4102(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–552.)
+(Added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4102(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–552.)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle A, § 4103\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–554, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle A, § 4103\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–554, provided that: 
 
 > “This subtitle \[enacting this section and provisions set out as a note under [section 1 of this title][/us/usc/t35/s1]\] and the amendments made by this subtitle shall take effect 60 days after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
@@ -94,10 +94,10 @@
 ----------
 ----------
 
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t26/s170/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fb%2F1%2FA
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
 

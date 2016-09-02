@@ -121,11 +121,11 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–273, div. C, title III, § 13206(a)(6)][/us/pl/107/273/s13206/a/6], Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904], substituted “Examination of Application” for “Examination of Applications” in heading of chapter 12.
+    2002—[Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(6), Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904], substituted “Examination of Application” for “Examination of Applications” in heading of chapter 12.
 
-    1982—[Pub. L. 97–256, title I, § 101(6)][/us/pl/97/256/s101/6], Sept. 8, 1982, [96 Stat. 816][/us/stat/96/816], added item for chapter 18.
+    1982—[Pub. L. 97–256, title I][/us/pl/97/256/tI], § 101(6), Sept. 8, 1982, [96 Stat. 816][/us/stat/96/816], added item for chapter 18.
 
-    1975—[Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949], substituted “Patent and Trademark Office” for “Patent Office” in heading of chapter 13.
+    1975—[Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949], substituted “Patent and Trademark Office” for “Patent Office” in heading of chapter 13.
 
 ----------
 
@@ -134,11 +134,11 @@
 ----------
 ----------
 
-[/us/pl/107/273/s13206/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F6
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1904
-[/us/pl/97/256/s101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2Fs101%2F6
+[/us/pl/97/256/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2FtI
 [/us/stat/96/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F816
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
 
 

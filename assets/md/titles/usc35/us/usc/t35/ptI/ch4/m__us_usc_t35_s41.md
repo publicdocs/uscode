@@ -191,7 +191,7 @@
 
     The fees established in subsections (a) and (b) of this section may be adjusted by the Director on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months in the Consumer Price Index, as determined by the Secretary of Labor. Changes of less than 1 per centum may be ignored.
 
-    \[(g) Repealed. [Pub. L. 112–29, § 11(e)(3)][/us/pl/112/29/s11/e/3], Sept. 16, 2011, [125 Stat. 323][/us/stat/125/323].\]
+    \[(g) Repealed. [Pub. L. 112–29][/us/pl/112/29], § 11(e)(3), Sept. 16, 2011, [125 Stat. 323][/us/stat/125/323].\]
 
     (h) __Fees for Small Entities.—__ 
 
@@ -225,11 +225,11 @@
 
         The Director shall submit to the Congress an annual report on the automated search systems of the Patent and Trademark Office and the access by the public to such systems. The Director shall also publish such report in the Federal Register. The Director shall provide an opportunity for the submission of comments by interested persons on each such report.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 796][/us/stat/66/796]; [Pub. L. 89–83][/us/pl/89/83], §§ 1, 2, July 24, 1965, [79 Stat. 259][/us/stat/79/259]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 94–131, § 3][/us/pl/94/131/s3], Nov. 14, 1975, [89 Stat. 690][/us/stat/89/690]; [Pub. L. 96–517, § 2][/us/pl/96/517/s2], Dec. 12, 1980, [94 Stat. 3017][/us/stat/94/3017]; [Pub. L. 97–247, § 3(a)][/us/pl/97/247/s3/a]–(e), Aug. 27, 1982, [96 Stat. 317–319][/us/stat/96/317-319]; [Pub. L. 97–256, title I, § 101(1)][/us/pl/97/256/s101/1]–(4), Sept. 8, 1982, [96 Stat. 816][/us/stat/96/816]; [Pub. L. 98–622, title II, § 204(a)][/us/pl/98/622/s204/a], Nov. 8, 1984, [98 Stat. 3388][/us/stat/98/3388]; [Pub. L. 99–607, § 1(b)(2)][/us/pl/99/607/s1/b/2], Nov. 6, 1986, [100 Stat. 3470][/us/stat/100/3470]; [Pub. L. 102–204, § 5(a)][/us/pl/102/204/s5/a]–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, [105 Stat. 1637–1639][/us/stat/105/1637-1639]; [Pub. L. 102–444, § 1][/us/pl/102/444/s1], Oct. 23, 1992, [106 Stat. 2245][/us/stat/106/2245]; [Pub. L. 103–465, title V][/us/pl/103/465], §§ 532(b)(2), 533(b)(1), Dec. 8, 1994, [108 Stat. 4986][/us/stat/108/4986], 4988; [Pub. L. 105–358, § 3][/us/pl/105/358/s3], Nov. 10, 1998, [112 Stat. 3272][/us/stat/112/3272]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–554, 1501A–570, 1501A–582, 1501A–589; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 11(a)–(e), 20(j), Sept. 16, 2011, [125 Stat. 320–323][/us/stat/125/320-323], 335; [Pub. L. 112–211, title II, § 202(b)(1)][/us/pl/112/211/s202/b/1], Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 796][/us/stat/66/796]; [Pub. L. 89–83][/us/pl/89/83], §§ 1, 2, July 24, 1965, [79 Stat. 259][/us/stat/79/259]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 94–131][/us/pl/94/131], § 3, Nov. 14, 1975, [89 Stat. 690][/us/stat/89/690]; [Pub. L. 96–517][/us/pl/96/517], § 2, Dec. 12, 1980, [94 Stat. 3017][/us/stat/94/3017]; [Pub. L. 97–247][/us/pl/97/247], § 3(a)–(e), Aug. 27, 1982, [96 Stat. 317–319][/us/stat/96/317-319]; [Pub. L. 97–256, title I][/us/pl/97/256/tI], § 101(1)–(4), Sept. 8, 1982, [96 Stat. 816][/us/stat/96/816]; [Pub. L. 98–622, title II][/us/pl/98/622/tII], § 204(a), Nov. 8, 1984, [98 Stat. 3388][/us/stat/98/3388]; [Pub. L. 99–607][/us/pl/99/607], § 1(b)(2), Nov. 6, 1986, [100 Stat. 3470][/us/stat/100/3470]; [Pub. L. 102–204][/us/pl/102/204], § 5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, [105 Stat. 1637–1639][/us/stat/105/1637-1639]; [Pub. L. 102–444][/us/pl/102/444], § 1, Oct. 23, 1992, [106 Stat. 2245][/us/stat/106/2245]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], §§ 532(b)(2), 533(b)(1), Dec. 8, 1994, [108 Stat. 4986][/us/stat/108/4986], 4988; [Pub. L. 105–358][/us/pl/105/358], § 3, Nov. 10, 1998, [112 Stat. 3272][/us/stat/112/3272]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, §§ 4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–554, 1501A–570, 1501A–582, 1501A–589; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 11(a)–(e), 20(j), Sept. 16, 2011, [125 Stat. 320–323][/us/stat/125/320-323], 335; [Pub. L. 112–211, title II][/us/pl/112/211/tII], § 202(b)(1), Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535].)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 78 (R.S. 4934, amended (1) [May 27, 1908, ch. 200, § 1][/us/act/1908-05-27/ch200/s1] (part), [35 Stat. 317][/us/stat/35/317], 343; (2) [June 25, 1910, ch. 414, § 2][/us/act/1910-06-25/ch414/s2], [35 Stat. 843][/us/stat/35/843]; (3) [Feb. 18, 1922, ch. 58, § 9][/us/act/1922-02-18/ch58/s9], [42 Stat. 389][/us/stat/42/389], 393; (4) [Feb. 14, 1927, ch. 139, § 2][/us/act/1927-02-14/ch139/s2], [44 Stat. 1098][/us/stat/44/1098], 1099; (5) [Mar. 2, 1927, ch. 273, § 13][/us/act/1927-03-02/ch273/s13], [44 Stat. 1335][/us/stat/44/1335], 1337; (6) [April 11, 1930, ch. 132, § 3][/us/act/1930-04-11/ch132/s3], [46 Stat. 155][/us/stat/46/155]; (7) [June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], §§ 308, 309, [47 Stat. 382][/us/stat/47/382], 410; (8) [Aug. 9, 1939, ch. 619, § 3][/us/act/1939-08-09/ch619/s3], [53 Stat. 1293][/us/stat/53/1293]; [July 5, 1946, ch. 541, § 301][/us/act/1946-07-05/ch541/s301] (part), [60 Stat. 446][/us/stat/60/446], 471).
+    Based on Title 35, U.S.C., 1946 ed., § 78 (R.S. 4934, amended (1) [May 27, 1908, ch. 200][/us/act/1908-05-27/ch200], § 1 (part), [35 Stat. 317][/us/stat/35/317], 343; (2) [June 25, 1910, ch. 414][/us/act/1910-06-25/ch414], § 2, [35 Stat. 843][/us/stat/35/843]; (3) [Feb. 18, 1922, ch. 58][/us/act/1922-02-18/ch58], § 9, [42 Stat. 389][/us/stat/42/389], 393; (4) [Feb. 14, 1927, ch. 139][/us/act/1927-02-14/ch139], § 2, [44 Stat. 1098][/us/stat/44/1098], 1099; (5) [Mar. 2, 1927, ch. 273][/us/act/1927-03-02/ch273], § 13, [44 Stat. 1335][/us/stat/44/1335], 1337; (6) [April 11, 1930, ch. 132][/us/act/1930-04-11/ch132], § 3, [46 Stat. 155][/us/stat/46/155]; (7) [June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], §§ 308, 309, [47 Stat. 382][/us/stat/47/382], 410; (8) [Aug. 9, 1939, ch. 619][/us/act/1939-08-09/ch619], § 3, [53 Stat. 1293][/us/stat/53/1293]; [July 5, 1946, ch. 541][/us/act/1946-07-05/ch541], § 301 (part), [60 Stat. 446][/us/stat/60/446], 471).
 
     The items in the schedule of fees are rearranged in a few instances and are numbered for convenient reference.
 
@@ -253,15 +253,15 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(7). [Pub. L. 112–211, § 202(b)(1)(A)][/us/pl/112/211/s202/b/1/A], added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,620, unless the petition is filed under section 133 or 151, in which case the fee shall be $540.”
+    2012—Subsec. (a)(7). [Pub. L. 112–211][/us/pl/112/211], § 202(b)(1)(A), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,620, unless the petition is filed under section 133 or 151, in which case the fee shall be $540.”
 
-    Subsec. (c)(1). [Pub. L. 112–211, § 202(b)(1)(B)][/us/pl/112/211/s202/b/1/B], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Director may accept the payment of any maintenance fee required by subsection (b) of this section which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional, or at any time after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unavoidable. The Director may require the payment of a surcharge as a condition of accepting payment of any maintenance fee after the six-month grace period. If the Director accepts payment of a maintenance fee after the six-month grace period, the patent shall be considered as not having expired at the end of the grace period.”
+    Subsec. (c)(1). [Pub. L. 112–211][/us/pl/112/211], § 202(b)(1)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Director may accept the payment of any maintenance fee required by subsection (b) of this section which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional, or at any time after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unavoidable. The Director may require the payment of a surcharge as a condition of accepting payment of any maintenance fee after the six-month grace period. If the Director accepts payment of a maintenance fee after the six-month grace period, the patent shall be considered as not having expired at the end of the grace period.”
 
-    2011—Subsecs. (a), (b). [Pub. L. 112–29, § 11(a)][/us/pl/112/29/s11/a], amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) required the Director to charge certain fees for filing applications, disclaimers, petitions, and appeal documents, presenting claims, and issuing patents, and to charge certain fees for maintaining in force patents based on applications filed on or after Dec. 12, 1980, respectively.
+    2011—Subsecs. (a), (b). [Pub. L. 112–29][/us/pl/112/29], § 11(a), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) required the Director to charge certain fees for filing applications, disclaimers, petitions, and appeal documents, presenting claims, and issuing patents, and to charge certain fees for maintaining in force patents based on applications filed on or after Dec. 12, 1980, respectively.
 
-    Subsec. (c). [Pub. L. 112–29, § 11(b)][/us/pl/112/29/s11/b], inserted subsec. heading and headings of pars. (1) and (2).
+    Subsec. (c). [Pub. L. 112–29][/us/pl/112/29], § 11(b), inserted subsec. heading and headings of pars. (1) and (2).
 
-    Subsec. (d). [Pub. L. 112–29, § 11(c)][/us/pl/112/29/s11/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
+    Subsec. (d). [Pub. L. 112–29][/us/pl/112/29], § 11(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
 
     “(1) For recording a document affecting title, $40 per property.
 
@@ -271,51 +271,51 @@
 
     The yearly fee for providing a library specified in [section 13 of this title][/us/usc/t35/s13] with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50.”
 
-    Subsec. (e). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “132”.
+    Subsec. (e). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “132”.
 
-    [Pub. L. 112–29, § 11(e)(1)][/us/pl/112/29/s11/e/1], inserted heading.
+    [Pub. L. 112–29][/us/pl/112/29], § 11(e)(1), inserted heading.
 
-    Subsec. (f). [Pub. L. 112–29, § 11(e)(2)][/us/pl/112/29/s11/e/2], inserted heading.
+    Subsec. (f). [Pub. L. 112–29][/us/pl/112/29], § 11(e)(2), inserted heading.
 
-    Subsec. (g). [Pub. L. 112–29, § 11(e)(3)][/us/pl/112/29/s11/e/3], struck out subsec. (g) which read as follows: “No fee established by the Director under this section shall take effect until at least 30 days after notice of the fee has been published in the Federal Register and in the Official Gazette of the Patent and Trademark Office.”
+    Subsec. (g). [Pub. L. 112–29][/us/pl/112/29], § 11(e)(3), struck out subsec. (g) which read as follows: “No fee established by the Director under this section shall take effect until at least 30 days after notice of the fee has been published in the Federal Register and in the Official Gazette of the Patent and Trademark Office.”
 
-    Subsec. (h). [Pub. L. 112–29, § 11(d)][/us/pl/112/29/s11/d], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
+    Subsec. (h). [Pub. L. 112–29][/us/pl/112/29], § 11(d), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 
     “(h)(1) Fees charged under subsection (a) or (b) shall be reduced by 50 percent with respect to their application to any small business concern as defined under section 3 of the Small Business Act, and to any independent inventor or nonprofit organization as defined in regulations issued by the Director.
 
     “(2) With respect to its application to any entity described in paragraph (1), any surcharge or fee charged under subsection (c) or (d) shall not be higher than the surcharge or fee required of any other entity under the same or substantially similar circumstances.”
 
-    Subsec. (i). [Pub. L. 112–29, § 11(e)(4)][/us/pl/112/29/s11/e/4], inserted subsec. heading and headings of pars. (1) to (4).
+    Subsec. (i). [Pub. L. 112–29][/us/pl/112/29], § 11(e)(4), inserted subsec. heading and headings of pars. (1) to (4).
 
-    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-    1999—Subsec. (a). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner” in introductory and concluding provisions.
+    1999—Subsec. (a). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner” in introductory and concluding provisions.
 
-    Subsec. (a)(1)(A), (4)(A). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4202(a), (b)\], substituted “$690” for “$760”.
+    Subsec. (a)(1)(A), (4)(A). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4202(a), (b)\], substituted “$690” for “$760”.
 
-    Subsec. (a)(7). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4605(a)\], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “On filing each petition for the revival of an unintentionally abandoned application for a patent or for the unintentionally delayed payment of the fee for issuing each patent, $1,210, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $110.”
+    Subsec. (a)(7). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4605(a)\], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “On filing each petition for the revival of an unintentionally abandoned application for a patent or for the unintentionally delayed payment of the fee for issuing each patent, $1,210, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $110.”
 
-    Subsec. (a)(8). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], substituted “Director” for “Commissioner” in introductory provisions.
+    Subsec. (a)(8). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], substituted “Director” for “Commissioner” in introductory provisions.
 
-    Subsec. (a)(10). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4202(c)\], substituted “$690” for “$760”.
+    Subsec. (a)(10). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4202(c)\], substituted “$690” for “$760”.
 
-    Subsec. (b). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], substituted “Director” for “Commissioner” in introductory and concluding provisions.
+    Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], substituted “Director” for “Commissioner” in introductory and concluding provisions.
 
-    Subsec. (b)(1). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4202(d)\], substituted “$830” for “$940”.
+    Subsec. (b)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4202(d)\], substituted “$830” for “$940”.
 
-    Subsecs. (c) to (g). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], substituted “Director” for “Commissioner” wherever appearing.
+    Subsecs. (c) to (g). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], substituted “Director” for “Commissioner” wherever appearing.
 
-    Subsec. (h)(1). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(5)\], substituted “Director” for “Commissioner of Patents and Trademarks”.
+    Subsec. (h)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(5)\], substituted “Director” for “Commissioner of Patents and Trademarks”.
 
-    Subsec. (i)(1). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4804(d)(1)\], substituted “paper, microform, or electronic” for “paper or microform”.
+    Subsec. (i)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4804(d)(1)\], substituted “paper, microform, or electronic” for “paper or microform”.
 
-    [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\] substituted “Director” for “Commissioner” in two places.
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\] substituted “Director” for “Commissioner” in two places.
 
-    Subsec. (i)(2) to (4). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], substituted “Director” for “Commissioner” wherever appearing.
+    Subsec. (i)(2) to (4). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], substituted “Director” for “Commissioner” wherever appearing.
 
-    1998—Subsec. (a). [Pub. L. 105–358, § 3(a)][/us/pl/105/358/s3/a], added subsec. (a) and struck out former subsec. (a) which listed fees for patent services.
+    1998—Subsec. (a). [Pub. L. 105–358][/us/pl/105/358], § 3(a), added subsec. (a) and struck out former subsec. (a) which listed fees for patent services.
 
-    Subsec. (b). [Pub. L. 105–358, § 3(b)][/us/pl/105/358/s3/b], added subsec. (b) and struck out former subsec. (b) which read as follows: “The Commissioner shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
+    Subsec. (b). [Pub. L. 105–358][/us/pl/105/358], § 3(b), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Commissioner shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
 
     “(1) 3 years and 6 months after grant, $650.
 
@@ -325,15 +325,15 @@
 
     Unless payment of the applicable maintenance fee is received in the Patent and Trademark Office on or before the date the fee is due or within a grace period of six months thereafter, the patent will expire as of the end of such grace period. The Commissioner may require the payment of a surcharge as a condition of accepting within such six-month grace period the late payment of an applicable maintenance fee. No fee will be established for maintaining a design or plant patent in force.”
 
-    1994—Subsec. (a)(1)(C). [Pub. L. 103–465, § 532(b)(2)][/us/pl/103/465/s532/b/2], added subpar. (C).
+    1994—Subsec. (a)(1)(C). [Pub. L. 103–465][/us/pl/103/465], § 532(b)(2), added subpar. (C).
 
-    Subsec. (c)(2). [Pub. L. 103–465, § 533(b)(1)][/us/pl/103/465/s533/b/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall abridge or affect the right of any person or his successors in business who made, purchased or used after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used. The court before which such matter is in question may provide for the continued manufacture, use or sale of the thing made, purchased, or used as specified, or for the manufacture, use or sale of which substantial preparation was made after the six-month grace period but before the acceptance of a maintenance fee under this subsection, and it may also provide for the continued practice of any process, practiced, or for the practice of which substantial preparation was made, after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the six-month grace period but before the acceptance of a maintenance fee under the subsection.”
+    Subsec. (c)(2). [Pub. L. 103–465][/us/pl/103/465], § 533(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall abridge or affect the right of any person or his successors in business who made, purchased or used after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used. The court before which such matter is in question may provide for the continued manufacture, use or sale of the thing made, purchased, or used as specified, or for the manufacture, use or sale of which substantial preparation was made after the six-month grace period but before the acceptance of a maintenance fee under this subsection, and it may also provide for the continued practice of any process, practiced, or for the practice of which substantial preparation was made, after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the six-month grace period but before the acceptance of a maintenance fee under the subsection.”
 
     1992—Subsec. (c)(1). [Pub. L. 102–444][/us/pl/102/444] inserted after “section” in first sentence “which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Commissioner to have been unintentional, or at any time”.
 
-    1991—[Pub. L. 102–204, § 5(d)(2)(A)][/us/pl/102/204/s5/d/2/A], inserted “; patent and trademark search systems” after “fees” in section catchline.
+    1991—[Pub. L. 102–204][/us/pl/102/204], § 5(d)(2)(A), inserted “; patent and trademark search systems” after “fees” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–204, § 5(a)(1)][/us/pl/102/204/s5/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Commissioner shall charge the following fees:
+    Subsec. (a). [Pub. L. 102–204][/us/pl/102/204], § 5(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Commissioner shall charge the following fees:
 
     “1. On filing each application for an original patent, except in design or plant cases, $300; in addition, on filing or on presentation at any other time, $30 for each claim in independent form which is in excess of three, $10 for each claim (whether independent or dependent) which is in excess of twenty, and $100 for each application containing a multiple dependent claim. For the purpose of computing fees, a multiple dependent claim as referred to in [section 112 of this title][/us/usc/t35/s112] or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made. Errors in payment of the additional fees may be rectified in accordance with regulations of the Commissioner.
 
@@ -365,7 +365,7 @@
 
     “c. On filing a third or subsequent petition, $200.”
 
-    Subsec. (b). [Pub. L. 102–204, § 5(a)(2)][/us/pl/102/204/s5/a/2], substituted “in force all patents based on applications filed on or after December 12, 1980:
+    Subsec. (b). [Pub. L. 102–204][/us/pl/102/204], § 5(a)(2), substituted “in force all patents based on applications filed on or after December 12, 1980:
 
     “(1) 3 years and 6 months after grant, $650.
 
@@ -381,35 +381,35 @@
 
     “3. Eleven years and six months after grant, $1,200.”
 
-    Subsec. (d). [Pub. L. 102–204, § 5(a)(3)][/us/pl/102/204/s5/a/3], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Commissioner will establish fees for all other processing, services, or materials related to patents not specified above to recover the estimated average cost to the Office of such processing, services, or materials. The yearly fee for providing a library specified in [section 13 of this title][/us/usc/t35/s13] with uncertified printed copies of the specifications and drawings for all patents issued in that year will be $50.”
+    Subsec. (d). [Pub. L. 102–204][/us/pl/102/204], § 5(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Commissioner will establish fees for all other processing, services, or materials related to patents not specified above to recover the estimated average cost to the Office of such processing, services, or materials. The yearly fee for providing a library specified in [section 13 of this title][/us/usc/t35/s13] with uncertified printed copies of the specifications and drawings for all patents issued in that year will be $50.”
 
-    Subsec. (f). [Pub. L. 102–204, § 5(b)][/us/pl/102/204/s5/b], substituted “on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months” for “on October 1, 1985, and every third year thereafter, to reflect any fluctuations occurring during the previous three years”.
+    Subsec. (f). [Pub. L. 102–204][/us/pl/102/204], § 5(b), substituted “on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months” for “on October 1, 1985, and every third year thereafter, to reflect any fluctuations occurring during the previous three years”.
 
-    Subsec. (g). [Pub. L. 102–204, § 5(c)(1)][/us/pl/102/204/s5/c/1], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “No fee established by the Commissioner under this section will take effect prior to sixty days following notice in the Federal Register.”
+    Subsec. (g). [Pub. L. 102–204][/us/pl/102/204], § 5(c)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “No fee established by the Commissioner under this section will take effect prior to sixty days following notice in the Federal Register.”
 
-    Subsec. (i). [Pub. L. 102–204, § 5(d)(1)][/us/pl/102/204/s5/d/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–204][/us/pl/102/204], § 5(d)(1), added subsec. (i).
 
     1986—Subsec. (h). [Pub. L. 99–607][/us/pl/99/607] added subsec. (h).
 
     1984—Subsec. (a)(6). [Pub. L. 98–622][/us/pl/98/622] substituted “Patent Appeals and Interferences” for “Appeals” in two places and inserted “in the appeal” after “oral hearing”.
 
-    1982—Subsec. (a). [Pub. L. 97–247, § 3(a)][/us/pl/97/247/s3/a], substituted provisions setting a schedule of fees for provisions which had directed that the Commissioner establish fees for the processing of an application for a patent, from filing through disposition by issuance or abandonment, for maintaining a patent in force, and for providing all other services and materials related to patents and that fee would be established for maintaining a design patent in force.
+    1982—Subsec. (a). [Pub. L. 97–247][/us/pl/97/247], § 3(a), substituted provisions setting a schedule of fees for provisions which had directed that the Commissioner establish fees for the processing of an application for a patent, from filing through disposition by issuance or abandonment, for maintaining a patent in force, and for providing all other services and materials related to patents and that fee would be established for maintaining a design patent in force.
 
-    [Pub. L. 97–256, § 101(1)][/us/pl/97/256/s101/1], struck out “of Patents” after “Commissioner”.
+    [Pub. L. 97–256][/us/pl/97/256], § 101(1), struck out “of Patents” after “Commissioner”.
 
-    Subsec. (b). [Pub. L. 97–247, § 3(b)][/us/pl/97/247/s3/b], substituted provisions setting a fee schedule for maintaining a patent in force for provisions which had directed that, fees for the actual processing of an application for a patent, other than for a design patent, from filing through disposition by issuance or abandonment, were to recover in aggregate 25 per centum of the estimated average cost to the Office of such processing and that fees for the processing of an application for a design patent, from filing through disposition by issuance or abandonment, were to recover in aggregate 50 per centum of the estimated average cost to the Office of such processing.
+    Subsec. (b). [Pub. L. 97–247][/us/pl/97/247], § 3(b), substituted provisions setting a fee schedule for maintaining a patent in force for provisions which had directed that, fees for the actual processing of an application for a patent, other than for a design patent, from filing through disposition by issuance or abandonment, were to recover in aggregate 25 per centum of the estimated average cost to the Office of such processing and that fees for the processing of an application for a design patent, from filing through disposition by issuance or abandonment, were to recover in aggregate 50 per centum of the estimated average cost to the Office of such processing.
 
-    [Pub. L. 97–256, § 101(2)][/us/pl/97/256/s101/2], substituted “October 1, 1982” for “the first day of the first fiscal year beginning on or after one calendar year after enactment of this Act” and “the first day of the first fiscal year beginning on or after one calendar year after enactment”.
+    [Pub. L. 97–256][/us/pl/97/256], § 101(2), substituted “October 1, 1982” for “the first day of the first fiscal year beginning on or after one calendar year after enactment of this Act” and “the first day of the first fiscal year beginning on or after one calendar year after enactment”.
 
-    Subsec. (c). [Pub. L. 97–247, § 3(c)][/us/pl/97/247/s3/c], substituted maintenance provisions for provisions which had directed that fees for maintaining patents in force were to recover 25 per centum of the estimated cost to the Office, for the year in which such maintenance fees were received, of the actual processing all applications for patents, other than for design patents, from filing through disposition by issuance or abandonment, that fees for maintaining a patent in force would be due three years and six months, seven years and six months, and eleven years and six months after the grant of the patent, that unless payment of the applicable maintenance fee was received in the Patent and Trademark Office on or before the date the fee was due or within a grace period of six months thereafter, the patent would expire as of the end of such grace period, and that the Commissioner could require the payment of a surcharge as a condition of accepting within such six-month grace period the late payment of an applicable maintenance fee.
+    Subsec. (c). [Pub. L. 97–247][/us/pl/97/247], § 3(c), substituted maintenance provisions for provisions which had directed that fees for maintaining patents in force were to recover 25 per centum of the estimated cost to the Office, for the year in which such maintenance fees were received, of the actual processing all applications for patents, other than for design patents, from filing through disposition by issuance or abandonment, that fees for maintaining a patent in force would be due three years and six months, seven years and six months, and eleven years and six months after the grant of the patent, that unless payment of the applicable maintenance fee was received in the Patent and Trademark Office on or before the date the fee was due or within a grace period of six months thereafter, the patent would expire as of the end of such grace period, and that the Commissioner could require the payment of a surcharge as a condition of accepting within such six-month grace period the late payment of an applicable maintenance fee.
 
-    [Pub. L. 97–256, § 101(3)][/us/pl/97/256/s101/3], substituted “October 1, 1996” for “the fifteenth fiscal year following the date of enactment of this Act”.
+    [Pub. L. 97–256][/us/pl/97/256], § 101(3), substituted “October 1, 1996” for “the fifteenth fiscal year following the date of enactment of this Act”.
 
-    Subsec. (d). [Pub. L. 97–247, § 3(d)][/us/pl/97/247/s3/d], substituted provisions relating to fees for all other processing services or materials relating to patents not previously specified for provisions directing that fees for all other services or materials related to patents were to recover the estimated average cost to the Office of performing the service or furnishing the material.
+    Subsec. (d). [Pub. L. 97–247][/us/pl/97/247], § 3(d), substituted provisions relating to fees for all other processing services or materials relating to patents not previously specified for provisions directing that fees for all other services or materials related to patents were to recover the estimated average cost to the Office of performing the service or furnishing the material.
 
-    [Pub. L. 97–256, § 101(4)][/us/pl/97/256/s101/4], substituted “October 1, 1982” for “the first day of the first fiscal year beginning on or after one calendar year after enactment”.
+    [Pub. L. 97–256][/us/pl/97/256], § 101(4), substituted “October 1, 1982” for “the first day of the first fiscal year beginning on or after one calendar year after enactment”.
 
-    Subsec. (f). [Pub. L. 97–247, § 3(e)][/us/pl/97/247/s3/e], substituted provisions relating to the adjustment of fees to reflect CPI fluctuations for provisions directing that fees were to be adjusted by the Commissioner to achieve the levels of recovery specified in this section but that no patent application processing fee or fee for maintaining a patent in force was to be adjusted more than once every three years.
+    Subsec. (f). [Pub. L. 97–247][/us/pl/97/247], § 3(e), substituted provisions relating to the adjustment of fees to reflect CPI fluctuations for provisions directing that fees were to be adjusted by the Commissioner to achieve the levels of recovery specified in this section but that no patent application processing fee or fee for maintaining a patent in force was to be adjusted more than once every three years.
 
     1980—[Pub. L. 96–517][/us/pl/96/517] in revising fee provisions by substituting subsecs. (a) to (g) for prior subsecs. (a) to (c), required the Commissioner to establish fees based on recovery of estimated average cost of processing applications, performing miscellaneous services and providing material, required fees for maintenance of patents in force and provided for expiration of patents for nonpayments, prescribed $50 library fee for copies of specifications and drawings, authorized triennial adjustments, prescribed effective date for fees, and incorporated in subsec. (e) waiver provision of former subsec. (c).
 
@@ -417,27 +417,27 @@
 
     Subsec. (b). [Pub. L. 93–596][/us/pl/93/596] substituted “Patent and Trademark Office” for “Patent Office”.
 
-    1965—Subsec. (a)1. [Pub. L. 89–83, § 1][/us/pl/89/83/s1], increased the filing fee for original patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty to $10 for each claim in independent form which is in excess of one and $2 for each claim (whether independent or dependent) which is in excess of ten, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
+    1965—Subsec. (a)1. [Pub. L. 89–83][/us/pl/89/83], § 1, increased the filing fee for original patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty to $10 for each claim in independent form which is in excess of one and $2 for each claim (whether independent or dependent) which is in excess of ten, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
 
-    Subsec. (a)2. [Pub. L. 89–83, § 1][/us/pl/89/83/s1], applied the issue fee to reissue patents as well as to original patents, increased such fee from $30 to $100, and changed the additional fee from $1 for each claim in excess of twenty to $10 for each page (or portion thereof) of specification as printed and $2 for each sheet of drawing.
+    Subsec. (a)2. [Pub. L. 89–83][/us/pl/89/83], § 1, applied the issue fee to reissue patents as well as to original patents, increased such fee from $30 to $100, and changed the additional fee from $1 for each claim in excess of twenty to $10 for each page (or portion thereof) of specification as printed and $2 for each sheet of drawing.
 
-    Subsec. (a)3. [Pub. L. 89–83, § 1][/us/pl/89/83/s1], changed the fee structure applicable to design patents from a filing fee of $10, $15, or $30 for terms of 3½, 7, or 14 years, respectively, to a filing fee of $20 and an issue fee of $10, $20, or $30 for terms of 3½, 7, or 14 years, respectively.
+    Subsec. (a)3. [Pub. L. 89–83][/us/pl/89/83], § 1, changed the fee structure applicable to design patents from a filing fee of $10, $15, or $30 for terms of 3½, 7, or 14 years, respectively, to a filing fee of $20 and an issue fee of $10, $20, or $30 for terms of 3½, 7, or 14 years, respectively.
 
-    Subsec. (a)4. [Pub. L. 89–83, § 1][/us/pl/89/83/s1], increased the filing fee for reissue patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty over and above the number of claims in the original patent to $10 for each claim in independent form which is in excess of the number of independent claims of the original patent and $2 for each claim (whether independent or dependent) which is in excess of ten and also in excess of the number of claims in the original patent, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
+    Subsec. (a)4. [Pub. L. 89–83][/us/pl/89/83], § 1, increased the filing fee for reissue patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty over and above the number of claims in the original patent to $10 for each claim in independent form which is in excess of the number of independent claims of the original patent and $2 for each claim (whether independent or dependent) which is in excess of ten and also in excess of the number of claims in the original patent, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
 
-    Subsec. (a)5. [Pub. L. 89–83, § 1][/us/pl/89/83/s1], increased the fee for filing disclaimers from $10 to $15.
+    Subsec. (a)5. [Pub. L. 89–83][/us/pl/89/83], § 1, increased the fee for filing disclaimers from $10 to $15.
 
-    Subsec. (a)6. [Pub. L. 89–83, § 1][/us/pl/89/83/s1], increased the fee on appeal for the first time from the examiner to the Board of Appeals from $25 to $50, and added the additional $50 fee for filing a brief in support of the appeal.
+    Subsec. (a)6. [Pub. L. 89–83][/us/pl/89/83], § 1, increased the fee on appeal for the first time from the examiner to the Board of Appeals from $25 to $50, and added the additional $50 fee for filing a brief in support of the appeal.
 
-    Subsec. (a)7. [Pub. L. 89–83, § 1][/us/pl/89/83/s1], increased the fee for filing a petition for the revival of an abandoned application or for the delayed payment of the issuance fee from $10 to $15.
+    Subsec. (a)7. [Pub. L. 89–83][/us/pl/89/83], § 1, increased the fee for filing a petition for the revival of an abandoned application or for the delayed payment of the issuance fee from $10 to $15.
 
-    Subsec. (a)8. [Pub. L. 89–83, § 1][/us/pl/89/83/s1], inserted fee for the certificate under [section 256 of this title][/us/usc/t35/s256], and increased the fee for a certificate under [section 255 of this title][/us/usc/t35/s255] from $10 to $15.
+    Subsec. (a)8. [Pub. L. 89–83][/us/pl/89/83], § 1, inserted fee for the certificate under [section 256 of this title][/us/usc/t35/s256], and increased the fee for a certificate under [section 255 of this title][/us/usc/t35/s255] from $10 to $15.
 
-    Subsec. (a)9. [Pub. L. 89–83, § 1][/us/pl/89/83/s1], increased the fee for copies of specifications and drawings of patents (other than design patents) from 25 cents to 50 cents per copy and the fee for copies of specifications and drawings of design patents from 10 cents to 20 cents per copy, and permitted the Commissioner to establish a charge not to exceed $1 per copy for patents in excess of twenty-five pages of drawings and specifications and for plant patents printed in color and to provide applicants, without charge, with copies of specifications and drawings when referred to in a section 132 notice.
+    Subsec. (a)9. [Pub. L. 89–83][/us/pl/89/83], § 1, increased the fee for copies of specifications and drawings of patents (other than design patents) from 25 cents to 50 cents per copy and the fee for copies of specifications and drawings of design patents from 10 cents to 20 cents per copy, and permitted the Commissioner to establish a charge not to exceed $1 per copy for patents in excess of twenty-five pages of drawings and specifications and for plant patents printed in color and to provide applicants, without charge, with copies of specifications and drawings when referred to in a section 132 notice.
 
-    Subsec. (a)10. [Pub. L. 89–83, § 1][/us/pl/89/83/s1], changed the recording fee from $3 for every document not exceeding six pages and $1 for each additional two pages or less to a flat $20 fee for every document, and substituted a $3 fee for each additional item where the document relates to more than one patent or application for a 50 cents additional fee for each additional patent or application included in one writing where more than one is so included.
+    Subsec. (a)10. [Pub. L. 89–83][/us/pl/89/83], § 1, changed the recording fee from $3 for every document not exceeding six pages and $1 for each additional two pages or less to a flat $20 fee for every document, and substituted a $3 fee for each additional item where the document relates to more than one patent or application for a 50 cents additional fee for each additional patent or application included in one writing where more than one is so included.
 
-    Subsec. (c). [Pub. L. 89–83, § 2][/us/pl/89/83/s2], added subsec. (c).
+    Subsec. (c). [Pub. L. 89–83][/us/pl/89/83], § 2, added subsec. (c).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -445,7 +445,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 11(j)][/us/pl/112/29/s11/j], Sept. 16, 2011, [125 Stat. 325][/us/stat/125/325], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 11(j), Sept. 16, 2011, [125 Stat. 325][/us/stat/125/325], provided that: 
 
 > “Except as otherwise provided in this section \[amending this section and enacting and amending provisions set out as notes under this section\], this section and the amendments made by this section shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\].”
 
@@ -453,7 +453,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle B, § 4206\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–555, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle B, § 4206\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–555, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -463,7 +463,7 @@
 
 >     The amendments made by section 4202 \[amending this section\] of this subtitle shall take effect 30 days after the date of the enactment of this Act.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle F, § 4608\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle F, § 4608\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -477,7 +477,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–358, § 5][/us/pl/105/358/s5], Nov. 10, 1998, [112 Stat. 3274][/us/stat/112/3274], provided that: 
+[Pub. L. 105–358][/us/pl/105/358], § 5, Nov. 10, 1998, [112 Stat. 3274][/us/stat/112/3274], provided that: 
 
 > “This Act \[amending this section and [section 42 of this title][/us/usc/t35/s42] and enacting provisions set out as a note under [section 1 of this title][/us/usc/t35/s1]\] and the amendments made by this Act shall take effect on October 1, 1998.”
 
@@ -489,31 +489,31 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–444, § 2][/us/pl/102/444/s2], Oct. 23, 1992, [106 Stat. 2245][/us/stat/106/2245], provided that: 
+[Pub. L. 102–444][/us/pl/102/444], § 2, Oct. 23, 1992, [106 Stat. 2245][/us/stat/106/2245], provided that: 
 
 > “The amendment made by section 1 \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\].”
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–204, § 13][/us/pl/102/204/s13], Dec. 10, 1991, [105 Stat. 1642][/us/stat/105/1642], provided that: 
+[Pub. L. 102–204][/us/pl/102/204], § 13, Dec. 10, 1991, [105 Stat. 1642][/us/stat/105/1642], provided that: 
 
 > “This Act \[amending this section, sections 6, 42, 202, 371, and 376 of this title, and [section 1113 of Title 15][/us/usc/t15/s1113], Commerce and Trade, enacting provisions set out as notes under this section, [section 6 of this title][/us/usc/t35/s6], and [section 1113 of Title 15][/us/usc/t15/s1113], and amending and repealing provisions set out as notes under this section\] takes effect on the date of the enactment of this Act \[Dec. 10, 1991\], except that the fees established by the amendment made by section 5(a) \[amending this section\] shall take effect on or after 1 day after such fees are published in the Federal Register.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–622, title II, § 207][/us/pl/98/622/s207], Nov. 8, 1984, [98 Stat. 3389][/us/stat/98/3389], provided that: 
+[Pub. L. 98–622, title II][/us/pl/98/622/tII], § 207, Nov. 8, 1984, [98 Stat. 3389][/us/stat/98/3389], provided that: 
 
 > “Section 206 of this Act \[[98 Stat. 3388][/us/stat/98/3388]\] and the amendments made by this title \[amending this section, sections 7, 134, 135, 141, 145, 146, and 305 of this title, [section 1295 of Title 28][/us/usc/t28/s1295], Judiciary and Judicial Procedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare\] shall take effect three months after the date of the enactment of this Act \[Nov. 8, 1984\].”
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–247, § 17(a)][/us/pl/97/247/s17/a], Aug. 27, 1982, [96 Stat. 322][/us/stat/96/322], provided that: 
+[Pub. L. 97–247][/us/pl/97/247], § 17(a), Aug. 27, 1982, [96 Stat. 322][/us/stat/96/322], provided that: 
 
 > “Sections 1, 2, 4, 7, and 13 through 15 of this Act \[amending sections 3, 6, 13, 115, and 261 of this title and [section 1061 of Title 15][/us/usc/t15/s1061], Commerce and Trade\] shall take effect on the date of enactment of this Act \[Aug. 27, 1982\]. Sections 3 and 16 of this Act \[amending this section, sections 42 and 173 of this title, and [section 113 of Title 15][/us/usc/t15/s113]\] shall take effect on October 1, 1982. The maintenance fees provided for in section 3(b) of this Act \[amending this section\] shall not apply to patents applied for prior to the date of enactment of this Act. Each patent applied for on or after the date of enactment of this Act shall be subject to the maintenance fees established pursuant to section 3(b) of this Act or to maintenance fees hereafter established by law, as to the amounts paid and the number and timing of the payments.”
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–517, § 8][/us/pl/96/517/s8], Dec. 12, 1980, [94 Stat. 3027][/us/stat/94/3027], provided that:
+[Pub. L. 96–517][/us/pl/96/517], § 8, Dec. 12, 1980, [94 Stat. 3027][/us/stat/94/3027], provided that:
 
 >     “(a) Sections 2, 4, and 5 of this Act \[amending this section, [section 154 of this title][/us/usc/t35/s154], and [section 1113 of Title 15][/us/usc/t15/s1113], Commerce and Trade\] will take effect upon enactment \[Dec. 12, 1980\].
 
@@ -537,7 +537,7 @@
 
  __Effective Date of 1965 Amendment__ 
 
-[Pub. L. 89–83, § 7][/us/pl/89/83/s7], July 24, 1965, [79 Stat. 261][/us/stat/79/261], provided that:
+[Pub. L. 89–83][/us/pl/89/83], § 7, July 24, 1965, [79 Stat. 261][/us/stat/79/261], provided that:
 
 >     “(a) This Act \[amending this section, sections 112, 151, 154, and 282 of this title, and [section 1113 of Title 15][/us/usc/t15/s1113], Commerce and Trade, and repealing [section 266 of this title][/us/usc/t35/s266]\] shall take effect three months after its enactment \[July 24, 1965\].
 
@@ -553,7 +553,7 @@
 
  __Fee Setting Authority__ 
 
-[Pub. L. 112–29, § 10][/us/pl/112/29/s10], Sept. 16, 2011, [125 Stat. 316][/us/stat/125/316], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 10, Sept. 16, 2011, [125 Stat. 316][/us/stat/125/316], provided that:
 
 >     “(a) __Fee Setting.—__ 
 
@@ -667,7 +667,7 @@
 
  __Prioritized Examination Fee__ 
 
-[Pub. L. 112–29, § 11(h)][/us/pl/112/29/s11/h], Sept. 16, 2011, [125 Stat. 324][/us/stat/125/324], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 11(h), Sept. 16, 2011, [125 Stat. 324][/us/stat/125/324], provided that:
 
 >     “(1) __In general.—__ 
 
@@ -715,7 +715,7 @@
 
  __Appropriation Account Transition Fees__ 
 
-[Pub. L. 112–29, § 11(i)][/us/pl/112/29/s11/i], Sept. 16, 2011, [125 Stat. 325][/us/stat/125/325], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 11(i), Sept. 16, 2011, [125 Stat. 325][/us/stat/125/325], provided that:
 
 >     “(1) __Surcharge.—__ 
 
@@ -737,7 +737,7 @@
 
  __Authority of PTO Director To Use Trademark Funds__ 
 
-[Pub. L. 111–45, § 1][/us/pl/111/45/s1], Aug. 7, 2009, [123 Stat. 1968][/us/stat/123/1968], provided that:
+[Pub. L. 111–45][/us/pl/111/45], § 1, Aug. 7, 2009, [123 Stat. 1968][/us/stat/123/1968], provided that:
 
 >     “(a) __Authority.—__ 
 
@@ -773,7 +773,7 @@
 
  __Patent and Trademark Fees in Certain Fiscal Years After 2005__ 
 
-[Pub. L. 108–447, div. B, title VIII][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 2924][/us/stat/118/2924], as amended by [Pub. L. 109–289, div. B, title II, § 20933][/us/pl/109/289/s20933], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 45][/us/stat/121/45]; [Pub. L. 112–29, § 11(f)][/us/pl/112/29/s11/f], (g), Sept. 16, 2011, [125 Stat. 324][/us/stat/125/324], provided that:
+[Pub. L. 108–447, div. B, title VIII][/us/pl/108/447/dB/tVIII], Dec. 8, 2004, [118 Stat. 2924][/us/stat/118/2924], as amended by [Pub. L. 109–289, div. B, title II][/us/pl/109/289/dB/tII], § 20933, as added by [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 45][/us/stat/121/45]; [Pub. L. 112–29][/us/pl/112/29], § 11(f), (g), Sept. 16, 2011, [125 Stat. 324][/us/stat/125/324], provided that:
 
 > “SEC. 801. __FEES FOR PATENT SERVICES.__ 
 
@@ -1015,19 +1015,19 @@
 
 >     “In this title, the term ‘Director’ means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.”
 
-\[[Pub. L. 111–117, div. B, title I][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3116][/us/stat/123/3116], provided in part: 
+\[[Pub. L. 111–117, div. B, title I][/us/pl/111/117/dB/tI], Dec. 16, 2009, [123 Stat. 3116][/us/stat/123/3116], provided in part: 
 
 > “That sections 801, 802, and 803 of division B, [Public Law 108–447][/us/pl/108/447] \[set out above\] shall remain in effect during fiscal year 2010”
 
 .\]
 
-\[[Pub. L. 111–8, div. B, title I][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 564][/us/stat/123/564], provided in part: 
+\[[Pub. L. 111–8, div. B, title I][/us/pl/111/8/dB/tI], Mar. 11, 2009, [123 Stat. 564][/us/stat/123/564], provided in part: 
 
 > “That sections 801, 802, and 803 of division B, [Public Law 108–447][/us/pl/108/447] \[set out above\] shall remain in effect during fiscal year 2009”
 
 .\]
 
-\[[Pub. L. 110–161, div. B, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1888][/us/stat/121/1888], provided in part: 
+\[[Pub. L. 110–161, div. B, title I][/us/pl/110/161/dB/tI], Dec. 26, 2007, [121 Stat. 1888][/us/stat/121/1888], provided in part: 
 
 > “That sections 801, 802, and 803 of division B, [Public Law 108–447][/us/pl/108/447] \[set out above\] shall remain in effect during fiscal year 2008”
 
@@ -1035,25 +1035,25 @@
 
  __Study on Alternative Fee Structures__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4204\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–555, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4204\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–555, provided that: 
 
 > “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall conduct a study of alternative fee structures that could be adopted by the United States Patent and Trademark Office to encourage maximum participation by the inventor community in the United States. The Director shall submit such study to the Committees on the Judiciary of the House of Representatives and the Senate not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
  __Cost Recovery for Publication__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4506\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–565, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4506\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–565, provided that: 
 
 > “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall recover the cost of early publication required by the amendment made by section 4502 \[amending [section 122 of this title][/us/usc/t35/s122]\] by charging a separate publication fee after notice of allowance is given under [section 151 of title 35][/us/usc/t35/s151], United States Code.”
 
  __Continuation of Maintenance__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4804(d)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–590, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4804(d)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–590, provided that: 
 
 > “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall not, pursuant to the amendment made by paragraph (1) \[amending this section\], cease to maintain, for use by the public, paper or microform collections of United States patents, foreign patent documents, and United States trademark registrations, except pursuant to notice and opportunity for public comment and except that the Director shall first submit a report to the Committees on the Judiciary of the Senate and the House of Representatives detailing such plan, including a description of the mechanisms in place to ensure the integrity of such collections and the data contained therein, as well as to ensure prompt public access to the most current available information, and certifying that the implementation of such plan will not negatively impact the public.”
 
  __Access to Electronic Patent Information__ 
 
-[Pub. L. 105–289, § 4][/us/pl/105/289/s4], Oct. 27, 1998, [112 Stat. 2781][/us/stat/112/2781], provided that:
+[Pub. L. 105–289][/us/pl/105/289], § 4, Oct. 27, 1998, [112 Stat. 2781][/us/stat/112/2781], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1065,39 +1065,39 @@
 
  __Waiver of Certain Restrictions__ 
 
-[Pub. L. 102–204, § 2(c)][/us/pl/102/204/s2/c], Dec. 10, 1991, [105 Stat. 1636][/us/stat/105/1636], provided that: 
+[Pub. L. 102–204][/us/pl/102/204], § 2(c), Dec. 10, 1991, [105 Stat. 1636][/us/stat/105/1636], provided that: 
 
 > “Surcharges established for fiscal year 1992 under section 10101(c) of the Omnibus Budget Reconciliation Act of 1990 \[[Pub. L. 101–508][/us/pl/101/508], set out below\] may take effect on or after 1 day after such surcharges are published in the Federal Register. [Section 553 of title 5][/us/usc/t5/s553], United States Code, shall not apply to the establishment of such surcharges for fiscal year 1992.”
 
  __Unspecified Patent Fees for Fiscal Year 1992; Effective Date Contingent Upon Publication in Federal Register__ 
 
-    [Pub. L. 102–204, § 5(c)(2)][/us/pl/102/204/s5/c/2], Dec. 10, 1991, [105 Stat. 1639][/us/stat/105/1639], provided that fees established by the Commissioner of Patents and Trademarks under subsec. (d) of this section during fiscal year 1992 could take effect on or after 1 day after being published in the Federal Register, and that former subsec. (g) of this section and [section 553 of title 5][/us/usc/t5/s553] were not to apply to the establishment of such fees during fiscal year 1992.
+    [Pub. L. 102–204][/us/pl/102/204], § 5(c)(2), Dec. 10, 1991, [105 Stat. 1639][/us/stat/105/1639], provided that fees established by the Commissioner of Patents and Trademarks under subsec. (d) of this section during fiscal year 1992 could take effect on or after 1 day after being published in the Federal Register, and that former subsec. (g) of this section and [section 553 of title 5][/us/usc/t5/s553] were not to apply to the establishment of such fees during fiscal year 1992.
 
  __Patent Information Dissemination__ 
 
-    [Pub. L. 102–204, § 11][/us/pl/102/204/s11], Dec. 10, 1991, [105 Stat. 1641][/us/stat/105/1641], set out definitions, established a patent information demonstration program, stipulated the information to be disseminated, provided for fees for CD-ROM purchase, and required a report to Congress one year after Dec. 10, 1991.
+    [Pub. L. 102–204][/us/pl/102/204], § 11, Dec. 10, 1991, [105 Stat. 1641][/us/stat/105/1641], set out definitions, established a patent information demonstration program, stipulated the information to be disseminated, provided for fees for CD-ROM purchase, and required a report to Congress one year after Dec. 10, 1991.
 
  __Surcharges on Patent Fees__ 
 
-    [Pub. L. 101–508, title X, § 10101(a)][/us/pl/101/508/s10101/a]–(c), Nov. 5, 1990, [104 Stat. 1388–391][/us/stat/104/1388-391], as amended by [Pub. L. 102–204, § 2(b)][/us/pl/102/204/s2/b], Dec. 10, 1991, [105 Stat. 1636][/us/stat/105/1636]; [Pub. L. 103–66, title VIII, § 8001][/us/pl/103/66/s8001], Aug. 10, 1993, [107 Stat. 402][/us/stat/107/402], provided for surcharges for fees under this section during fiscal years 1991 through 1998, and stipulated how surcharges would be used and credited in those fiscal years.
+    [Pub. L. 101–508, title X][/us/pl/101/508/tX], § 10101(a)–(c), Nov. 5, 1990, [104 Stat. 1388–391][/us/stat/104/1388-391], as amended by [Pub. L. 102–204][/us/pl/102/204], § 2(b), Dec. 10, 1991, [105 Stat. 1636][/us/stat/105/1636]; [Pub. L. 103–66, title VIII][/us/pl/103/66/tVIII], § 8001, Aug. 10, 1993, [107 Stat. 402][/us/stat/107/402], provided for surcharges for fees under this section during fiscal years 1991 through 1998, and stipulated how surcharges would be used and credited in those fiscal years.
 
  __Effect on Other Laws__ 
 
-[Pub. L. 101–508, title X, § 10103][/us/pl/101/508/s10103], Nov. 5, 1990, [104 Stat. 1388–392][/us/stat/104/1388-392], provided that: 
+[Pub. L. 101–508, title X][/us/pl/101/508/tX], § 10103, Nov. 5, 1990, [104 Stat. 1388–392][/us/stat/104/1388-392], provided that: 
 
 > “Except for section 10101(d) \[not classified to the Code\], nothing in this subtitle \[subtitle B (§§ 10101–10103) of title X of [Pub. L. 101–508][/us/pl/101/508], enacting provisions set out as notes under this section and [section 1 of this title][/us/usc/t35/s1]\] affects the provisions of [Public Law 100–703][/us/pl/100/703] ([102 Stat. 4674][/us/stat/102/4674] and following) \[see Tables for classification\].”
 
  __Public Access to Patent and Trademark Office Information__ 
 
-    [Pub. L. 100–703, title I, § 104(b)][/us/pl/100/703/s104/b], (c), Nov. 19, 1988, [102 Stat. 4675][/us/stat/102/4675], provided that the Commissioner of Patents and Trademarks maintain patent and trademark collections, search rooms, and libraries for use by the public without fees and authorized establishment of fees for access by the public to automated search systems of the Patent and Trademark Office, prior to repeal by [Pub. L. 102–204, § 9][/us/pl/102/204/s9], Dec. 10, 1991, [105 Stat. 1641][/us/stat/105/1641]. See [section 41(i) of this title][/us/usc/t35/s41/i].
+    [Pub. L. 100–703, title I][/us/pl/100/703/tI], § 104(b), (c), Nov. 19, 1988, [102 Stat. 4675][/us/stat/102/4675], provided that the Commissioner of Patents and Trademarks maintain patent and trademark collections, search rooms, and libraries for use by the public without fees and authorized establishment of fees for access by the public to automated search systems of the Patent and Trademark Office, prior to repeal by [Pub. L. 102–204][/us/pl/102/204], § 9, Dec. 10, 1991, [105 Stat. 1641][/us/stat/105/1641]. See [section 41(i) of this title][/us/usc/t35/s41/i].
 
-    [Pub. L. 99–607, § 4][/us/pl/99/607/s4], Nov. 6, 1986, [100 Stat. 3471][/us/stat/100/3471], provided that the Commissioner of Patents and Trademarks could not impose a fee for use of public patent or trademark search rooms and libraries and that costs of such rooms and libraries should come from amounts appropriated by Congress, prior to repeal by [Pub. L. 100–703, title I, § 104(a)][/us/pl/100/703/s104/a], Nov. 19, 1988, [102 Stat. 4675][/us/stat/102/4675].
+    [Pub. L. 99–607][/us/pl/99/607], § 4, Nov. 6, 1986, [100 Stat. 3471][/us/stat/100/3471], provided that the Commissioner of Patents and Trademarks could not impose a fee for use of public patent or trademark search rooms and libraries and that costs of such rooms and libraries should come from amounts appropriated by Congress, prior to repeal by [Pub. L. 100–703, title I][/us/pl/100/703/tI], § 104(a), Nov. 19, 1988, [102 Stat. 4675][/us/stat/102/4675].
 
  __Patent Fees__ 
 
-    [Pub. L. 100–703, title I, § 103(b)][/us/pl/100/703/s103/b], Nov. 19, 1988, [102 Stat. 4674][/us/stat/102/4674], prohibited Commissioner of Patents and Trademarks, during fiscal years 1989, 1990, and 1991, from increasing fees established under subsec. (d) of this section, except for purposes of making adjustments which in the aggregate did not exceed fluctuations during the previous three years in the Consumer Price Index, and from establishing additional fees under such section during such fiscal years. Similar provisions were contained in [Pub. L. 99–607, § 3(b)][/us/pl/99/607/s3/b], Nov. 6, 1986, [100 Stat. 3471][/us/stat/100/3471].
+    [Pub. L. 100–703, title I][/us/pl/100/703/tI], § 103(b), Nov. 19, 1988, [102 Stat. 4674][/us/stat/102/4674], prohibited Commissioner of Patents and Trademarks, during fiscal years 1989, 1990, and 1991, from increasing fees established under subsec. (d) of this section, except for purposes of making adjustments which in the aggregate did not exceed fluctuations during the previous three years in the Consumer Price Index, and from establishing additional fees under such section during such fiscal years. Similar provisions were contained in [Pub. L. 99–607][/us/pl/99/607], § 3(b), Nov. 6, 1986, [100 Stat. 3471][/us/stat/100/3471].
 
-[Pub. L. 98–622, title IV, § 404][/us/pl/98/622/s404], Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392], provided that:
+[Pub. L. 98–622, title IV][/us/pl/98/622/tIV], § 404, Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392], provided that:
 
 >     “(a) Notwithstanding [section 41 of title 35][/us/usc/t35/s41], United States Code, as in effect before the enactment of [Public Law 97–247][/us/pl/97/247] ([96 Stat. 317][/us/stat/96/317]) \[Aug. 27, 1982\], no fee shall be collected for maintaining a plant patent in force.
 
@@ -1110,147 +1110,147 @@
 ----------
 ----------
 
-[/us/pl/112/29/s11/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fe%2F3
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F323
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F796
 [/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
 [/us/stat/79/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F259
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/94/131/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131%2Fs3
+[/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/stat/89/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F690
-[/us/pl/96/517/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs2
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3017
-[/us/pl/97/247/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs3%2Fa
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/317-319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F317-319
-[/us/pl/97/256/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2Fs101%2F1
+[/us/pl/97/256/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2FtI
 [/us/stat/96/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F816
-[/us/pl/98/622/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs204%2Fa
+[/us/pl/98/622/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtII
 [/us/stat/98/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3388
-[/us/pl/99/607/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F607%2Fs1%2Fb%2F2
+[/us/pl/99/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F607
 [/us/stat/100/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3470
-[/us/pl/102/204/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fa
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1637-1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1637-1639
-[/us/pl/102/444/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F444%2Fs1
+[/us/pl/102/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F444
 [/us/stat/106/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2245
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4986
-[/us/pl/105/358/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F358%2Fs3
+[/us/pl/105/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F358
 [/us/stat/112/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3272
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/320-323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F320-323
-[/us/pl/112/211/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs202%2Fb%2F1
+[/us/pl/112/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtII
 [/us/stat/126/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1535
-[/us/act/1908-05-27/ch200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200%2Fs1
+[/us/act/1908-05-27/ch200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200
 [/us/stat/35/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F317
-[/us/act/1910-06-25/ch414/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch414%2Fs2
+[/us/act/1910-06-25/ch414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch414
 [/us/stat/35/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F843
-[/us/act/1922-02-18/ch58/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-18%2Fch58%2Fs9
+[/us/act/1922-02-18/ch58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-18%2Fch58
 [/us/stat/42/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F389
-[/us/act/1927-02-14/ch139/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-14%2Fch139%2Fs2
+[/us/act/1927-02-14/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-14%2Fch139
 [/us/stat/44/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1098
-[/us/act/1927-03-02/ch273/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-02%2Fch273%2Fs13
+[/us/act/1927-03-02/ch273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-02%2Fch273
 [/us/stat/44/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1335
-[/us/act/1930-04-11/ch132/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-11%2Fch132%2Fs3
+[/us/act/1930-04-11/ch132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-11%2Fch132
 [/us/stat/46/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F155
 [/us/act/1932-06-30/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314
 [/us/stat/47/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F382
-[/us/act/1939-08-09/ch619/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch619%2Fs3
+[/us/act/1939-08-09/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch619
 [/us/stat/53/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1293
-[/us/act/1946-07-05/ch541/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch541%2Fs301
+[/us/act/1946-07-05/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch541
 [/us/stat/60/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F446
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/112/211/s202/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs202%2Fb%2F1%2FA
-[/us/pl/112/211/s202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs202%2Fb%2F1%2FB
-[/us/pl/112/29/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fa
-[/us/pl/112/29/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fb
-[/us/pl/112/29/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fc
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs13
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s11/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fe%2F1
-[/us/pl/112/29/s11/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fe%2F2
-[/us/pl/112/29/s11/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fe%2F3
-[/us/pl/112/29/s11/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fd
-[/us/pl/112/29/s11/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fe%2F4
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/105/358/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F358%2Fs3%2Fa
-[/us/pl/105/358/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F358%2Fs3%2Fb
-[/us/pl/103/465/s532/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs532%2Fb%2F2
-[/us/pl/103/465/s533/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F1
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F358
+[/us/pl/105/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F358
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/102/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F444
-[/us/pl/102/204/s5/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fd%2F2%2FA
-[/us/pl/102/204/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fa%2F1
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/usc/t35/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs112
-[/us/pl/102/204/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fa%2F2
-[/us/pl/102/204/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fa%2F3
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/usc/t35/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs13
-[/us/pl/102/204/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fb
-[/us/pl/102/204/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fc%2F1
-[/us/pl/102/204/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fd%2F1
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/pl/99/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F607
 [/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
-[/us/pl/97/247/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs3%2Fa
-[/us/pl/97/256/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2Fs101%2F1
-[/us/pl/97/247/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs3%2Fb
-[/us/pl/97/256/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2Fs101%2F2
-[/us/pl/97/247/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs3%2Fc
-[/us/pl/97/256/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2Fs101%2F3
-[/us/pl/97/247/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs3%2Fd
-[/us/pl/97/256/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2Fs101%2F4
-[/us/pl/97/247/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs3%2Fe
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
+[/us/pl/97/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
+[/us/pl/97/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
+[/us/pl/97/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
+[/us/pl/97/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/usc/t35/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs112
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
-[/us/pl/89/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs1
-[/us/pl/89/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs1
-[/us/pl/89/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs1
-[/us/pl/89/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs1
-[/us/pl/89/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs1
-[/us/pl/89/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs1
-[/us/pl/89/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs1
-[/us/pl/89/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs1
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
 [/us/usc/t35/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs256
 [/us/usc/t35/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs255
-[/us/pl/89/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs1
-[/us/pl/89/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs1
-[/us/pl/89/83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs2
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/pl/112/211/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs203
 [/us/usc/t35/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs27
-[/us/pl/112/29/s11/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fj
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F325
 [/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs2
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t35/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs42
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
-[/us/pl/105/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F358%2Fs5
+[/us/pl/105/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F358
 [/us/stat/112/3274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3274
 [/us/usc/t35/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs42
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
@@ -1260,22 +1260,22 @@
 [/us/pl/103/465/s533/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F1
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t35/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154
-[/us/pl/102/444/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F444%2Fs2
+[/us/pl/102/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F444
 [/us/stat/106/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2245
-[/us/pl/102/204/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs13
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1642
 [/us/usc/t15/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1113
 [/us/usc/t35/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs6
 [/us/usc/t15/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1113
-[/us/pl/98/622/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs207
+[/us/pl/98/622/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtII
 [/us/stat/98/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3389
 [/us/stat/98/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3388
 [/us/usc/t28/s1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295
-[/us/pl/97/247/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs17%2Fa
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F322
 [/us/usc/t15/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1061
 [/us/usc/t15/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs113
-[/us/pl/96/517/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs8
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3027
 [/us/usc/t35/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154
 [/us/usc/t15/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1113
@@ -1289,7 +1289,7 @@
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/596/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs4
 [/us/usc/t15/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1111
-[/us/pl/89/83/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs7
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
 [/us/stat/79/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F261
 [/us/usc/t15/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1113
 [/us/usc/t35/s266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs266
@@ -1299,7 +1299,7 @@
 [/us/usc/t15/s1062/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1062%2Fc
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/112/29/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs10
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F316
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
 [/us/usc/t35/s41/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41%2Fh%2F1
@@ -1309,29 +1309,29 @@
 [/us/pl/112/29/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs10
 [/us/pl/112/29/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs2
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
-[/us/pl/112/29/s11/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fh
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F324
 [/us/usc/t35/s2/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs2%2Fb%2F2%2FG
 [/us/usc/t35/s41/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41%2Fh%2F1
 [/us/usc/t35/s42/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs42%2Fc%2F3%2FA
 [/us/usc/t35/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs123
-[/us/pl/112/29/s11/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Fi
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F325
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
 [/us/usc/t35/s42/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs42%2Fc%2F3%2FA
 [/us/usc/t35/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs123
-[/us/pl/111/45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F45%2Fs1
+[/us/pl/111/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F45
 [/us/stat/123/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1968
 [/us/usc/t15/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1113
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/usc/t35/s42/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs42%2Fc
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtVIII
 [/us/stat/118/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2924
-[/us/pl/109/289/s20933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs20933
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtII
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F45
-[/us/pl/112/29/s11/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs11%2Ff
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F324
 [/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41
 [/us/usc/t35/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs351%2Fa
@@ -1364,61 +1364,61 @@
 [/us/usc/t35/s111/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs111%2Fa%2F3
 [/us/usc/t35/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs111%2Fa
 [/us/usc/t35/s371/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs371%2Fd
-[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdB%2FtI
 [/us/stat/123/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3116
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdB%2FtI
 [/us/stat/123/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F564
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtI
 [/us/stat/121/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1888
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t35/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs122
 [/us/usc/t35/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs151
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/105/289/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289%2Fs4
+[/us/pl/105/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F289
 [/us/stat/112/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2781
 [/us/usc/t42/s379bb/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs379bb%2Fb
-[/us/pl/102/204/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs2%2Fc
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1636
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/102/204/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fc%2F2
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1639
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/102/204/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs11
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1641
-[/us/pl/101/508/s10101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10101%2Fa
+[/us/pl/101/508/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtX
 [/us/stat/104/1388-391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-391
-[/us/pl/102/204/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs2%2Fb
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1636
-[/us/pl/103/66/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs8001
+[/us/pl/103/66/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVIII
 [/us/stat/107/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F402
-[/us/pl/101/508/s10103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10103
+[/us/pl/101/508/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtX
 [/us/stat/104/1388-392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-392
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
 [/us/pl/100/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703
 [/us/stat/102/4674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4674
-[/us/pl/100/703/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703%2Fs104%2Fb
+[/us/pl/100/703/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703%2FtI
 [/us/stat/102/4675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4675
-[/us/pl/102/204/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs9
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1641
 [/us/usc/t35/s41/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41%2Fi
-[/us/pl/99/607/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F607%2Fs4
+[/us/pl/99/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F607
 [/us/stat/100/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3471
-[/us/pl/100/703/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703%2Fs104%2Fa
+[/us/pl/100/703/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703%2FtI
 [/us/stat/102/4675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4675
-[/us/pl/100/703/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703%2Fs103%2Fb
+[/us/pl/100/703/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F703%2FtI
 [/us/stat/102/4674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4674
-[/us/pl/99/607/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F607%2Fs3%2Fb
+[/us/pl/99/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F607
 [/us/stat/100/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3471
-[/us/pl/98/622/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs404
+[/us/pl/98/622/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtIV
 [/us/stat/98/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3392
 [/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41
 [/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247

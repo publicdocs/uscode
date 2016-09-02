@@ -39,47 +39,47 @@
 
     (f) At the express request of the applicant, the national stage of processing may be commenced at any time at which the application is in order for such purpose and the applicable requirements of subsection (c) of this section have been complied with.
 
-(Added [Pub. L. 94–131, § 1][/us/pl/94/131/s1], Nov. 14, 1975, [89 Stat. 688][/us/stat/89/688]; amended [Pub. L. 98–622, title IV][/us/pl/98/622], §§ 402(a)–(d), 403(a), Nov. 8, 1984, [98 Stat. 3391][/us/stat/98/3391], 3392; [Pub. L. 99–616, § 7][/us/pl/99/616/s7], Nov. 6, 1986, [100 Stat. 3486][/us/stat/100/3486]; [Pub. L. 102–204, § 5(g)(2)][/us/pl/102/204/s5/g/2], Dec. 10, 1991, [105 Stat. 1641][/us/stat/105/1641]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(a)(20)][/us/pl/107/273/s13206/a/20], (b)(1)(B), Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905], 1906; [Pub. L. 112–29, § 20(i)(5)][/us/pl/112/29/s20/i/5], (j), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335]; [Pub. L. 112–211, title II, § 202(b)(9)][/us/pl/112/211/s202/b/9], Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536].)
+(Added [Pub. L. 94–131][/us/pl/94/131], § 1, Nov. 14, 1975, [89 Stat. 688][/us/stat/89/688]; amended [Pub. L. 98–622, title IV][/us/pl/98/622/tIV], §§ 402(a)–(d), 403(a), Nov. 8, 1984, [98 Stat. 3391][/us/stat/98/3391], 3392; [Pub. L. 99–616][/us/pl/99/616], § 7, Nov. 6, 1986, [100 Stat. 3486][/us/stat/100/3486]; [Pub. L. 102–204][/us/pl/102/204], § 5(g)(2), Dec. 10, 1991, [105 Stat. 1641][/us/stat/105/1641]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(20), (b)(1)(B), Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905], 1906; [Pub. L. 112–29][/us/pl/112/29], § 20(i)(5), (j), Sept. 16, 2011, [125 Stat. 335][/us/stat/125/335]; [Pub. L. 112–211, title II][/us/pl/112/211/tII], § 202(b)(9), Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536].)
 
  __Amendments__ 
 
     2012—Subsec. (d). [Pub. L. 112–211][/us/pl/112/211] struck out “, unless it be shown to the satisfaction of the Director that such failure to comply was unavoidable” after “by the parties thereof”.
 
-    2011—Subsec. (b). [Pub. L. 112–29, § 20(i)(5)][/us/pl/112/29/s20/i/5], substituted “of the treaty.” for “of the treaty”.
+    2011—Subsec. (b). [Pub. L. 112–29][/us/pl/112/29], § 20(i)(5), substituted “of the treaty.” for “of the treaty”.
 
-    Subsec. (c)(1). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “41(a)”.
+    Subsec. (c)(1). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “41(a)”.
 
-    Subsec. (c)(4). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “11” and after “115”.
+    Subsec. (c)(4). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “11” and after “115”.
 
-    2002—Subsec. (d). [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113]. See 1999 Amendment note below.
+    2002—Subsec. (d). [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113]. See 1999 Amendment note below.
 
-    [Pub. L. 107–273, § 13206(a)(20)][/us/pl/107/273/s13206/a/20], inserted period at end.
+    [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(20), inserted period at end.
 
-    1999—Subsec. (d). [Pub. L. 106–113][/us/pl/106/113], as amended by [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], substituted “Director” for “Commissioner” wherever appearing.
+    1999—Subsec. (d). [Pub. L. 106–113][/us/pl/106/113], as amended by [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
 
     1991—Subsec. (c)(1). [Pub. L. 102–204][/us/pl/102/204] substituted “provided in [section 41(a) of this title][/us/usc/t35/s41/a]” for “prescribed under section 376(a)(4) of this part”.
 
-    1986—Subsec. (a). [Pub. L. 99–616, § 7(a)][/us/pl/99/616/s7/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Receipt from the International Bureau of copies of international applications with amendments to the claims, if any, and international search reports may be required in the case of all international applications designating the United States.”
+    1986—Subsec. (a). [Pub. L. 99–616][/us/pl/99/616], § 7(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Receipt from the International Bureau of copies of international applications with amendments to the claims, if any, and international search reports may be required in the case of all international applications designating the United States.”
 
-    Subsec. (b). [Pub. L. 99–616, § 7(b)][/us/pl/99/616/s7/b], amended subsec. (b) generally, substituting “, or under article 39(1)(a) of the treaty” for “of the treaty.”
+    Subsec. (b). [Pub. L. 99–616][/us/pl/99/616], § 7(b), amended subsec. (b) generally, substituting “, or under article 39(1)(a) of the treaty” for “of the treaty.”
 
-    Subsec. (c)(4), (5). [Pub. L. 99–616, § 7(c)][/us/pl/99/616/s7/c], (d), substituted a semicolon for a period at end of par. (4) and added par. (5).
+    Subsec. (c)(4), (5). [Pub. L. 99–616][/us/pl/99/616], § 7(c), (d), substituted a semicolon for a period at end of par. (4) and added par. (5).
 
-    Subsec. (d). [Pub. L. 99–616, § 7(e)][/us/pl/99/616/s7/e], inserted “The requirement of subsection (c)(5) shall be complied with at such time as may be fixed by the Commissioner and failure to do so shall be regarded as cancellation of the amendments made under article 34(2)(b) of the treaty” at end.
+    Subsec. (d). [Pub. L. 99–616][/us/pl/99/616], § 7(e), inserted “The requirement of subsection (c)(5) shall be complied with at such time as may be fixed by the Commissioner and failure to do so shall be regarded as cancellation of the amendments made under article 34(2)(b) of the treaty” at end.
 
-    Subsec. (e). [Pub. L. 99–616, § 7(f)][/us/pl/99/616/s7/f], inserted “or article 41” after “article 28”.
+    Subsec. (e). [Pub. L. 99–616][/us/pl/99/616], § 7(f), inserted “or article 41” after “article 28”.
 
-    1984—Subsec. (a). [Pub. L. 98–622, § 402(a)][/us/pl/98/622/s402/a], substituted “may be” for “is” and struck out “, except those filed in the Patent Office” after “United States”, which amendment was executed by striking out “, except those filed in the Patent and Trademark Office” as the probable intent of Congress in view of the amendment by [section 403(a) of Pub. L. 98–622][/us/pl/98/622/s403/a]. See Effective Date of 1984 Amendment note below.
+    1984—Subsec. (a). [Pub. L. 98–622][/us/pl/98/622], § 402(a), substituted “may be” for “is” and struck out “, except those filed in the Patent Office” after “United States”, which amendment was executed by striking out “, except those filed in the Patent and Trademark Office” as the probable intent of Congress in view of the amendment by [section 403(a) of Pub. L. 98–622][/us/pl/98/622/s403/a]. See Effective Date of 1984 Amendment note below.
 
-    [Pub. L. 98–622, § 403(a)][/us/pl/98/622/s403/a], substituted “Patent and Trademark Office” for “Patent Office”.
+    [Pub. L. 98–622][/us/pl/98/622], § 403(a), substituted “Patent and Trademark Office” for “Patent Office”.
 
     Subsec. (b). [Pub. L. 98–622][/us/pl/98/622] struck out “, at which time the applicant shall have complied with the applicable requirements specified in subsection (c) of this section” after “of the treaty”.
 
-    Subsec. (c). [Pub. L. 98–622, § 403(a)][/us/pl/98/622/s403/a], substituted “Patent and Trademark Office” for “Patent Office” in provisions preceding par. (1) and in par. (3).
+    Subsec. (c). [Pub. L. 98–622][/us/pl/98/622], § 403(a), substituted “Patent and Trademark Office” for “Patent Office” in provisions preceding par. (1) and in par. (3).
 
-    Subsec. (c)(2). [Pub. L. 98–622, § 402(c)(1)][/us/pl/98/622/s402/c/1], (2), substituted “communicated by” for “received from” and struck out “verified” before “translation”.
+    Subsec. (c)(2). [Pub. L. 98–622][/us/pl/98/622], § 402(c)(1), (2), substituted “communicated by” for “received from” and struck out “verified” before “translation”.
 
-    Subsec. (d). [Pub. L. 98–622, § 402(d)][/us/pl/98/622/s402/d], substituted provisions setting forth time periods for compliance with the requirements of subsec. (c), payments of surcharges, and the effect of failure to comply for provisions related only to the effect of failure to comply with the requirements of subsec. (c).
+    Subsec. (d). [Pub. L. 98–622][/us/pl/98/622], § 402(d), substituted provisions setting forth time periods for compliance with the requirements of subsec. (c), payments of surcharges, and the effect of failure to comply for provisions related only to the effect of failure to comply with the requirements of subsec. (c).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -114,45 +114,45 @@
 ----------
 ----------
 
-[/us/pl/94/131/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131%2Fs1
+[/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/stat/89/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F688
-[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
+[/us/pl/98/622/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtIV
 [/us/stat/98/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3391
-[/us/pl/99/616/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs7
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
 [/us/stat/100/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3486
-[/us/pl/102/204/s5/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fg%2F2
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1641
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F20
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1905
-[/us/pl/112/29/s20/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fi%2F5
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
-[/us/pl/112/211/s202/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs202%2Fb%2F9
+[/us/pl/112/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtII
 [/us/stat/126/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1536
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
-[/us/pl/112/29/s20/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fi%2F5
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/107/273/s13206/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F20
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/usc/t35/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41%2Fa
-[/us/pl/99/616/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs7%2Fa
-[/us/pl/99/616/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs7%2Fb
-[/us/pl/99/616/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs7%2Fc
-[/us/pl/99/616/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs7%2Fe
-[/us/pl/99/616/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs7%2Ff
-[/us/pl/98/622/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs402%2Fa
-[/us/pl/98/622/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs403%2Fa
-[/us/pl/98/622/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs403%2Fa
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
 [/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
 [/us/pl/98/622/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs403%2Fa
-[/us/pl/98/622/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs402%2Fc%2F1
-[/us/pl/98/622/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs402%2Fd
+[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
+[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
+[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
+[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
+[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/pl/112/211/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs203
 [/us/usc/t35/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs27

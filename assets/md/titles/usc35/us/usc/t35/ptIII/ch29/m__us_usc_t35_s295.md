@@ -23,7 +23,7 @@
 
     the product shall be presumed to have been so made, and the burden of establishing that the product was not made by the process shall be on the party asserting that it was not so made.
 
-(Added [Pub. L. 100–418, title IX, § 9005(a)][/us/pl/100/418/s9005/a], Aug. 23, 1988, [102 Stat. 1566][/us/stat/102/1566]; amended [Pub. L. 103–465, title V, § 533(b)(7)][/us/pl/103/465/s533/b/7], Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990].)
+(Added [Pub. L. 100–418, title IX][/us/pl/100/418/tIX], § 9005(a), Aug. 23, 1988, [102 Stat. 1566][/us/stat/102/1566]; amended [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 533(b)(7), Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/100/418/s9005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9005%2Fa
+[/us/pl/100/418/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX
 [/us/stat/102/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1566
-[/us/pl/103/465/s533/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F7
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4990
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

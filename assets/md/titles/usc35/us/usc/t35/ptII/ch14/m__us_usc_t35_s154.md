@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s153.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s156.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154)
+[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s153.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s155 _us_usc_t35_s155A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154)
 
 ## § 154. Contents and term of patent; provisional rights
 
@@ -171,11 +171,11 @@
 
             The Director may require the applicant to provide a copy of the international application and a translation thereof.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 804][/us/stat/66/804]; [Pub. L. 89–83, § 5][/us/pl/89/83/s5], July 24, 1965, [79 Stat. 261][/us/stat/79/261]; [Pub. L. 96–517, § 4][/us/pl/96/517/s4], Dec. 12, 1980, [94 Stat. 3018][/us/stat/94/3018]; [Pub. L. 100–418, title IX, § 9002][/us/pl/100/418/s9002], Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563]; [Pub. L. 103–465, title V, § 532(a)(1)][/us/pl/103/465/s532/a/1], Dec. 8, 1994, [108 Stat. 4983][/us/stat/108/4983]; [Pub. L. 104–295, § 20(e)(1)][/us/pl/104/295/s20/e/1], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4402(a), 4504\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–557, 1501A–564; [Pub. L. 107–273, div. C, title III][/us/pl/107/273], §§ 13204, 13206(a)(8), Nov. 2, 2002, [116 Stat. 1902][/us/stat/116/1902], 1904; [Pub. L. 112–29][/us/pl/112/29], §§ 3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, [125 Stat. 290][/us/stat/125/290], 316, 335; [Pub. L. 112–211, title I, § 102(6)][/us/pl/112/211/s102/6], Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531]; [Pub. L. 112–274, § 1(h)][/us/pl/112/274/s1/h], Jan. 14, 2013, [126 Stat. 2457][/us/stat/126/2457].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 804][/us/stat/66/804]; [Pub. L. 89–83][/us/pl/89/83], § 5, July 24, 1965, [79 Stat. 261][/us/stat/79/261]; [Pub. L. 96–517][/us/pl/96/517], § 4, Dec. 12, 1980, [94 Stat. 3018][/us/stat/94/3018]; [Pub. L. 100–418, title IX][/us/pl/100/418/tIX], § 9002, Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 532(a)(1), Dec. 8, 1994, [108 Stat. 4983][/us/stat/108/4983]; [Pub. L. 104–295][/us/pl/104/295], § 20(e)(1), Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, §§ 4402(a), 4504\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–557, 1501A–564; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], §§ 13204, 13206(a)(8), Nov. 2, 2002, [116 Stat. 1902][/us/stat/116/1902], 1904; [Pub. L. 112–29][/us/pl/112/29], §§ 3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, [125 Stat. 290][/us/stat/125/290], 316, 335; [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 102(6), Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531]; [Pub. L. 112–274][/us/pl/112/274], § 1(h), Jan. 14, 2013, [126 Stat. 2457][/us/stat/126/2457].)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 40 (R.S. 4884, amended [May 23, 1930, ch. 312, § 1][/us/act/1930-05-23/ch312/s1], [46 Stat. 376][/us/stat/46/376]).
+    Based on Title 35, U.S.C., 1946 ed., § 40 (R.S. 4884, amended [May 23, 1930, ch. 312][/us/act/1930-05-23/ch312], § 1, [46 Stat. 376][/us/stat/46/376]).
 
     The reference to plants is omitted for inclusion in another section and the reference to the title is shortened since the title is of no legal significance.
 
@@ -189,51 +189,51 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1)(A)(i)(II). [Pub. L. 112–274, § 1(h)(1)(A)][/us/pl/112/274/s1/h/1/A], which directed substitution of “of commencement of the national stage under section 371 in an international application” for “on which an international application fulfilled the requirements of [section 371 of this title][/us/usc/t35/s371]”, was executed by making the substitution for “on which an international application fulfilled the requirements of section 371”, to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j]. See 2011 Amendment note below.
+    2013—Subsec. (b)(1)(A)(i)(II). [Pub. L. 112–274][/us/pl/112/274], § 1(h)(1)(A), which directed substitution of “of commencement of the national stage under section 371 in an international application” for “on which an international application fulfilled the requirements of [section 371 of this title][/us/usc/t35/s371]”, was executed by making the substitution for “on which an international application fulfilled the requirements of section 371”, to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 112–29][/us/pl/112/29], § 20(j). See 2011 Amendment note below.
 
-    Subsec. (b)(1)(B). [Pub. L. 112–274, § 1(h)(1)(B)][/us/pl/112/274/s1/h/1/B], substituted “the application under section 111(a) in the United States or, in the case of an international application, the date of commencement of the national stage under section 371 in the international application” for “the application in the United States” in introductory provisions.
+    Subsec. (b)(1)(B). [Pub. L. 112–274][/us/pl/112/274], § 1(h)(1)(B), substituted “the application under section 111(a) in the United States or, in the case of an international application, the date of commencement of the national stage under section 371 in the international application” for “the application in the United States” in introductory provisions.
 
-    Subsec. (b)(3)(B)(i). [Pub. L. 112–274, § 1(h)(2)][/us/pl/112/274/s1/h/2], substituted “no later than the date of issuance of the patent” for “with the written notice of allowance of the application under section 151”.
+    Subsec. (b)(3)(B)(i). [Pub. L. 112–274][/us/pl/112/274], § 1(h)(2), substituted “no later than the date of issuance of the patent” for “with the written notice of allowance of the application under section 151”.
 
-    Subsec. (b)(4)(A). [Pub. L. 112–274, § 1(h)(3)][/us/pl/112/274/s1/h/3], substituted “the Director’s decision on the applicant’s request for reconsideration under paragraph (3)(B)(ii) shall have exclusive remedy” for “a determination made by the Director under paragraph (3) shall have remedy” and “the date of the Director’s decision on the applicant’s request for reconsideration” for “the grant of the patent”.
+    Subsec. (b)(4)(A). [Pub. L. 112–274][/us/pl/112/274], § 1(h)(3), substituted “the Director’s decision on the applicant’s request for reconsideration under paragraph (3)(B)(ii) shall have exclusive remedy” for “a determination made by the Director under paragraph (3) shall have remedy” and “the date of the Director’s decision on the applicant’s request for reconsideration” for “the grant of the patent”.
 
-    2012—Subsec. (a)(2). [Pub. L. 112–211, § 102(6)(A)(i)][/us/pl/112/211/s102/6/A/i], substituted “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
+    2012—Subsec. (a)(2). [Pub. L. 112–211][/us/pl/112/211], § 102(6)(A)(i), substituted “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
 
-    Subsec. (a)(3). [Pub. L. 112–211, § 102(6)(A)(ii)][/us/pl/112/211/s102/6/A/ii], substituted “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”.
+    Subsec. (a)(3). [Pub. L. 112–211][/us/pl/112/211], § 102(6)(A)(ii), substituted “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”.
 
-    Subsec. (d)(1). [Pub. L. 112–211, § 102(6)(B)][/us/pl/112/211/s102/6/B], inserted “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 112–211][/us/pl/112/211], § 102(6)(B), inserted “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty” in introductory provisions.
 
-    2011—Subsec. (a)(2). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “365(c)”.
+    2011—Subsec. (a)(2). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “365(c)”.
 
-    Subsec. (a)(3). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “365(b)”.
+    Subsec. (a)(3). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “365(b)”.
 
-    Subsec. (b)(1)(A)(i). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], in introductory provisions, struck out “of this title” after “132” and after “151”.
+    Subsec. (b)(1)(A)(i). [Pub. L. 112–29][/us/pl/112/29], § 20(j), in introductory provisions, struck out “of this title” after “132” and after “151”.
 
-    Subsec. (b)(1)(A)(i)(I). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “111(a)”.
+    Subsec. (b)(1)(A)(i)(I). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “111(a)”.
 
-    Subsec. (b)(1)(A)(i)(II). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “371”.
+    Subsec. (b)(1)(A)(i)(II). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “371”.
 
-    Subsec. (b)(1)(A)(iii), (B)(ii). [Pub. L. 112–29, § 3(j)(1)][/us/pl/112/29/s3/j/1], substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+    Subsec. (b)(1)(A)(iii), (B)(ii). [Pub. L. 112–29][/us/pl/112/29], § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
 
-    Subsec. (b)(1)(C). [Pub. L. 112–29, § 3(j)(2)(B)][/us/pl/112/29/s3/j/2/B], amended heading generally. Prior to amendment, heading read as follows: “Guarantee or adjustments for delays due to interferences, secrecy orders, and appeals”.
+    Subsec. (b)(1)(C). [Pub. L. 112–29][/us/pl/112/29], § 3(j)(2)(B), amended heading generally. Prior to amendment, heading read as follows: “Guarantee or adjustments for delays due to interferences, secrecy orders, and appeals”.
 
-    Subsec. (b)(1)(C)(iii). [Pub. L. 112–29, § 3(j)(1)][/us/pl/112/29/s3/j/1], substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+    Subsec. (b)(1)(C)(iii). [Pub. L. 112–29][/us/pl/112/29], § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
 
-    Subsec. (b)(4)(A). [Pub. L. 112–29, § 9(a)][/us/pl/112/29/s9/a], substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
+    Subsec. (b)(4)(A). [Pub. L. 112–29][/us/pl/112/29], § 9(a), substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
 
-    Subsec. (c)(2). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], in introductory provisions, struck out “of this title” after “285”.
+    Subsec. (c)(2). [Pub. L. 112–29][/us/pl/112/29], § 20(j), in introductory provisions, struck out “of this title” after “285”.
 
-    Subsec. (c)(3). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “excluded by paragraph (2))”.
+    Subsec. (c)(3). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “excluded by paragraph (2))”.
 
-    2002—Subsec. (b)(4)(A). [Pub. L. 107–273, § 13206(a)(8)][/us/pl/107/273/s13206/a/8], struck out “, United States Code,” after “title 5”.
+    2002—Subsec. (b)(4)(A). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(8), struck out “, United States Code,” after “title 5”.
 
-    Subsec. (d)(4)(A). [Pub. L. 107–273, § 13204][/us/pl/107/273/s13204], amended subsec. (d)(4)(A) as in effect on Nov. 29, 2000, by substituting “the date of” for “the date on which the Patent and Trademark Office receives a copy of the” and “publication in the English language” for “international application in the English language”.
+    Subsec. (d)(4)(A). [Pub. L. 107–273][/us/pl/107/273], § 13204, amended subsec. (d)(4)(A) as in effect on Nov. 29, 2000, by substituting “the date of” for “the date on which the Patent and Trademark Office receives a copy of the” and “publication in the English language” for “international application in the English language”.
 
-    1999—[Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4504(1)\], inserted “; provisional rights” after “patent” in section catchline.
+    1999—[Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4504(1)\], inserted “; provisional rights” after “patent” in section catchline.
 
-    Subsec. (b). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4402(a)\], amended heading and text of subsec. (b) generally. Prior to amendment, text provided for interference delay or secrecy orders, extensions for appellate review, a limitations period, and a maximum period of 5 years duration for all extensions.
+    Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4402(a)\], amended heading and text of subsec. (b) generally. Prior to amendment, text provided for interference delay or secrecy orders, extensions for appellate review, a limitations period, and a maximum period of 5 years duration for all extensions.
 
-    Subsec. (d). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4504(2)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4504(2)\], added subsec. (d).
 
     1996—Subsec. (c)(2). [Pub. L. 104–295][/us/pl/104/295] substituted “acts” for “Acts” in introductory provisions.
 
@@ -263,7 +263,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4405(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4405(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, provided that: 
 
 > “The amendments made by sections 4402 and 4404 \[amending this section, sections 156 and 282 of this title, and [section 1295 of Title 28][/us/usc/t28/s1295], Judiciary and Judicial Procedure\] shall take effect on the date that is 6 months after the date of the enactment of this Act \[Nov. 29, 1999\] and, except for a design patent application filed under chapter 16 of title 35, United States Code, shall apply to any application filed on or after the date that is 6 months after the date of the enactment of this Act.”
 
@@ -271,7 +271,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title V, § 534][/us/pl/103/465/s534], Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990], provided that:
+[Pub. L. 103–465, title V][/us/pl/103/465/tV], § 534, Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -305,75 +305,65 @@
 
  __Regulations__ 
 
-    [Pub. L. 103–465, title V, § 532(a)(2)][/us/pl/103/465/s532/a/2], Dec. 8, 1994, [108 Stat. 4985][/us/stat/108/4985], authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of [section 154(a)(2) of this title][/us/usc/t35/s154/a/2], and to establish appropriate related fees.
-
-\[§§ 155, 155A. __Repealed.__  __[__  __Pub. L. 112–29, § 20(k)__  __][/us/pl/112/29/s20/k]__  __,__  __Sept. 16, 2011__  __,__  __[__  __125 Stat. 335__  __][/us/stat/125/335]__  __\]__ 
-
-    Section 155, added [Pub. L. 97–414, § 11(a)][/us/pl/97/414/s11/a], Jan. 4, 1983, [96 Stat. 2065][/us/stat/96/2065]; amended [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(6), (10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906], related to patent term extension.
-
-    Section 155A, added [Pub. L. 98–127, § 4(a)][/us/pl/98/127/s4/a], Oct. 13, 1983, [97 Stat. 832][/us/stat/97/832]; amended [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(7), (10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906], related to patent term restoration.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of [Pub. L. 112–29][/us/pl/112/29], set out as an Effective Date of 2011 Amendment note under [section 2 of this title][/us/usc/t35/s2].
+    [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 532(a)(2), Dec. 8, 1994, [108 Stat. 4985][/us/stat/108/4985], authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of [section 154(a)(2) of this title][/us/usc/t35/s154/a/2], and to establish appropriate related fees.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s153.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s156.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154)
+[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s153.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s155 _us_usc_t35_s155A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154)
 
 ----------
 ----------
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F804
-[/us/pl/89/83/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs5
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
 [/us/stat/79/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F261
-[/us/pl/96/517/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs4
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3018
-[/us/pl/100/418/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs9002
+[/us/pl/100/418/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIX
 [/us/stat/102/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1563
-[/us/pl/103/465/s532/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs532%2Fa%2F1
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4983
-[/us/pl/104/295/s20/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fe%2F1
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3529
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1902
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F290
-[/us/pl/112/211/s102/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F6
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
-[/us/pl/112/274/s1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fh
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/stat/126/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2457
-[/us/act/1930-05-23/ch312/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312%2Fs1
+[/us/act/1930-05-23/ch312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312
 [/us/stat/46/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F376
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/112/274/s1/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fh%2F1%2FA
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
 [/us/usc/t35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs371
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/274/s1/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fh%2F1%2FB
-[/us/pl/112/274/s1/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fh%2F2
-[/us/pl/112/274/s1/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fh%2F3
-[/us/pl/112/211/s102/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F6%2FA%2Fi
-[/us/pl/112/211/s102/6/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F6%2FA%2Fii
-[/us/pl/112/211/s102/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F6%2FB
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s3/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fj%2F1
-[/us/pl/112/29/s3/j/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fj%2F2%2FB
-[/us/pl/112/29/s3/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fj%2F1
-[/us/pl/112/29/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs9%2Fa
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/107/273/s13206/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F8
-[/us/pl/107/273/s13204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13204
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
+[/us/pl/112/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
@@ -394,13 +384,13 @@
 [/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs2
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t28/s1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs10
-[/us/pl/103/465/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs534
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4990
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t35/s154/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154%2Fa%2F1
@@ -413,24 +403,8 @@
 [/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
 [/us/pl/89/83/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs7%2Fa
 [/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41
-[/us/pl/103/465/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs532%2Fa%2F2
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4985
 [/us/usc/t35/s154/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154%2Fa%2F2
-[/us/pl/112/29/s20/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fk
-[/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
-[/us/pl/97/414/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs11%2Fa
-[/us/stat/96/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2065
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
-[/us/pl/98/127/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F127%2Fs4%2Fa
-[/us/stat/97/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F832
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
-[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
-[/us/usc/t35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs2
 
 

@@ -31,27 +31,27 @@
 
     (b) The amounts of fees specified in subsection (a) of this section, except the international fee and the handling fee, shall be prescribed by the Director. He may refund any sum paid by mistake or in excess of the fees so specified, or if required under the treaty and the Regulations. The Director may also refund any part of the search fee, the national fee, the preliminary examination fee, and any additional fees, where he determines such refund to be warranted.
 
-(Added [Pub. L. 94–131, § 1][/us/pl/94/131/s1], Nov. 14, 1975, [89 Stat. 690][/us/stat/89/690]; amended [Pub. L. 98–622, title IV][/us/pl/98/622], §§ 402(g), 403(a), Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392]; [Pub. L. 99–616, § 8][/us/pl/99/616/s8], Nov. 6, 1986, [100 Stat. 3486][/us/stat/100/3486]; [Pub. L. 102–204, § 5(g)(1)][/us/pl/102/204/s5/g/1], Dec. 10, 1991, [105 Stat. 1640][/us/stat/105/1640]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(a)(21)][/us/pl/107/273/s13206/a/21], (b)(1)(B), Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905], 1906.)
+(Added [Pub. L. 94–131][/us/pl/94/131], § 1, Nov. 14, 1975, [89 Stat. 690][/us/stat/89/690]; amended [Pub. L. 98–622, title IV][/us/pl/98/622/tIV], §§ 402(g), 403(a), Nov. 8, 1984, [98 Stat. 3392][/us/stat/98/3392]; [Pub. L. 99–616][/us/pl/99/616], § 8, Nov. 6, 1986, [100 Stat. 3486][/us/stat/100/3486]; [Pub. L. 102–204][/us/pl/102/204], § 5(g)(1), Dec. 10, 1991, [105 Stat. 1640][/us/stat/105/1640]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(21), (b)(1)(B), Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905], 1906.)
 
  __Amendments__ 
 
-    2002—Subsec. (a)(1) to (3). [Pub. L. 107–273, § 13206(a)(21)][/us/pl/107/273/s13206/a/21], substituted period for semicolon at end.
+    2002—Subsec. (a)(1) to (3). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(21), substituted period for semicolon at end.
 
-    Subsecs. (a)(5), (b). [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113]. See 1999 Amendment note below.
+    Subsecs. (a)(5), (b). [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113]. See 1999 Amendment note below.
 
-    1999—Subsecs. (a)(5), (b). [Pub. L. 106–113][/us/pl/106/113], as amended by [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], substituted “Director” for “Commissioner” wherever appearing.
+    1999—Subsecs. (a)(5), (b). [Pub. L. 106–113][/us/pl/106/113], as amended by [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
 
-    1991—Subsec. (a). [Pub. L. 102–204, § 5(g)(1)(A)][/us/pl/102/204/s5/g/1/A], in introductory provisions inserted “shall charge a national fee as provided in section 41(a), and” after “Office”, redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4), which read as follows: “A national fee (see section 371(c));”.
+    1991—Subsec. (a). [Pub. L. 102–204][/us/pl/102/204], § 5(g)(1)(A), in introductory provisions inserted “shall charge a national fee as provided in section 41(a), and” after “Office”, redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4), which read as follows: “A national fee (see section 371(c));”.
 
-    Subsec. (b). [Pub. L. 102–204, § 5(g)(1)(B)][/us/pl/102/204/s5/g/1/B], substituted “the national fee, the preliminary examination fee,” for “the preliminary examination fee”.
+    Subsec. (b). [Pub. L. 102–204][/us/pl/102/204], § 5(g)(1)(B), substituted “the national fee, the preliminary examination fee,” for “the preliminary examination fee”.
 
-    1986—Subsec. (a). [Pub. L. 99–616, § 8(a)][/us/pl/99/616/s8/a], in introductory provisions, inserted “and the handling fee” and substituted “amounts are” for “amount is”, added par. (5), and redesignated former par. (5) as (6).
+    1986—Subsec. (a). [Pub. L. 99–616][/us/pl/99/616], § 8(a), in introductory provisions, inserted “and the handling fee” and substituted “amounts are” for “amount is”, added par. (5), and redesignated former par. (5) as (6).
 
-    Subsec. (b). [Pub. L. 99–616, § 8(b)][/us/pl/99/616/s8/b], inserted “and the handling fee” and “the preliminary examination fee and any additional fees,”.
+    Subsec. (b). [Pub. L. 99–616][/us/pl/99/616], § 8(b), inserted “and the handling fee” and “the preliminary examination fee and any additional fees,”.
 
-    1984—Subsec. (a). [Pub. L. 98–622, § 403(a)][/us/pl/98/622/s403/a], substituted “Patent and Trademark Office” for “Patent Office” in provision preceding par. (1).
+    1984—Subsec. (a). [Pub. L. 98–622][/us/pl/98/622], § 403(a), substituted “Patent and Trademark Office” for “Patent Office” in provision preceding par. (1).
 
-    Subsec. (a)(5), (6). [Pub. L. 98–622, § 402(g)][/us/pl/98/622/s402/g], redesignated par. (6) as (5). Former par. (5), which read “A special fee (to be paid when required; see section 372(c))”, was struck out.
+    Subsec. (a)(5), (6). [Pub. L. 98–622][/us/pl/98/622], § 402(g), redesignated par. (6) as (5). Former par. (5), which read “A special fee (to be paid when required; see section 372(c))”, was struck out.
 
  __Effective Date of 1999 Amendment__ 
 
@@ -74,29 +74,29 @@
 ----------
 ----------
 
-[/us/pl/94/131/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131%2Fs1
+[/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/stat/89/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F690
-[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
+[/us/pl/98/622/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtIV
 [/us/stat/98/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3392
-[/us/pl/99/616/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs8
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
 [/us/stat/100/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3486
-[/us/pl/102/204/s5/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fg%2F1
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
 [/us/stat/105/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1640
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F21
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1905
-[/us/pl/107/273/s13206/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F21
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/pl/102/204/s5/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fg%2F1%2FA
-[/us/pl/102/204/s5/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204%2Fs5%2Fg%2F1%2FB
-[/us/pl/99/616/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs8%2Fa
-[/us/pl/99/616/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616%2Fs8%2Fb
-[/us/pl/98/622/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs403%2Fa
-[/us/pl/98/622/s402/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs402%2Fg
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
+[/us/pl/102/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F204
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
+[/us/pl/99/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F616
+[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
+[/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1

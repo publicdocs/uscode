@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s154.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s157.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156)
+[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s155 _us_usc_t35_s155A.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s157.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156)
 
 ## § 156. Extension of patent term
 
@@ -339,7 +339,7 @@
 
             (D) the date of issuance of the interim final rule controlling the drug under section 201(j) of the Controlled Substances Act.
 
-(Added [Pub. L. 98–417, title II, § 201(a)][/us/pl/98/417/s201/a], Sept. 24, 1984, [98 Stat. 1598][/us/stat/98/1598]; amended [Pub. L. 100–670, title II, § 201(a)][/us/pl/100/670/s201/a]–(h), Nov. 16, 1988, [102 Stat. 3984–3987][/us/stat/102/3984-3987]; [Pub. L. 103–179][/us/pl/103/179], §§ 5, 6, Dec. 3, 1993, [107 Stat. 2040][/us/stat/107/2040], 2042; [Pub. L. 103–465, title V, § 532(c)(1)][/us/pl/103/465/s532/c/1], Dec. 8, 1994, [108 Stat. 4987][/us/stat/108/4987]; [Pub. L. 105–115, title I, § 125(b)(2)(P)][/us/pl/105/115/s125/b/2/P], Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4404, 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(a)(9)][/us/pl/107/273/s13206/a/9], (b)(1)(B), Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904], 1906; [Pub. L. 112–29, § 37(a)][/us/pl/112/29/s37/a], Sept. 16, 2011, [125 Stat. 341][/us/stat/125/341]; [Pub. L. 114–89, § 2(c)][/us/pl/114/89/s2/c], Nov. 25, 2015, [129 Stat. 700][/us/stat/129/700].)
+(Added [Pub. L. 98–417, title II][/us/pl/98/417/tII], § 201(a), Sept. 24, 1984, [98 Stat. 1598][/us/stat/98/1598]; amended [Pub. L. 100–670, title II][/us/pl/100/670/tII], § 201(a)–(h), Nov. 16, 1988, [102 Stat. 3984–3987][/us/stat/102/3984-3987]; [Pub. L. 103–179][/us/pl/103/179], §§ 5, 6, Dec. 3, 1993, [107 Stat. 2040][/us/stat/107/2040], 2042; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 532(c)(1), Dec. 8, 1994, [108 Stat. 4987][/us/stat/108/4987]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(2)(P), Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, §§ 4404, 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(9), (b)(1)(B), Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904], 1906; [Pub. L. 112–29][/us/pl/112/29], § 37(a), Sept. 16, 2011, [125 Stat. 341][/us/stat/125/341]; [Pub. L. 114–89][/us/pl/114/89], § 2(c), Nov. 25, 2015, [129 Stat. 700][/us/stat/129/700].)
 
  __References in Text__ 
 
@@ -349,7 +349,7 @@
 
     The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i), (f)(2)(A), and (i)(1)(A), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
-    Sections 503, 505, 512, 515, 571, and 572 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B), (g)(1)(B), (3)(B), and (i)(2)(A)(ii), (B), (C), are classified, respectively, to sections 353, 355, 360b, 360e, 360ccc, and 360ccc–1 of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to [section 357 of Title 21][/us/usc/t21/s357], prior to repeal by [Pub. L. 105–115, title I, § 125(b)(1)][/us/pl/105/115/s125/b/1], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
+    Sections 503, 505, 512, 515, 571, and 572 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B), (g)(1)(B), (3)(B), and (i)(2)(A)(ii), (B), (C), are classified, respectively, to sections 353, 355, 360b, 360e, 360ccc, and 360ccc–1 of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to [section 357 of Title 21][/us/usc/t21/s357], prior to repeal by [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(1), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
 
     Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(5), which is classified to [section 321 of Title 21][/us/usc/t21/s321], was subsequently amended, and section 201(y) no longer defines the term “informal hearing”. However, such term is defined elsewhere in that section.
 
@@ -365,53 +365,53 @@
 
  __Amendments__ 
 
-    2015—Subsec. (d)(1). [Pub. L. 114–89, § 2(c)(1)][/us/pl/114/89/s2/c/1], in introductory provisions, inserted “, or in the case of a drug product described in subsection (i), within the sixty-day period beginning on the covered date (as defined in subsection (i))” after “marketing or use”.
+    2015—Subsec. (d)(1). [Pub. L. 114–89][/us/pl/114/89], § 2(c)(1), in introductory provisions, inserted “, or in the case of a drug product described in subsection (i), within the sixty-day period beginning on the covered date (as defined in subsection (i))” after “marketing or use”.
 
-    Subsec. (i). [Pub. L. 114–89, § 2(c)(2)][/us/pl/114/89/s2/c/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 114–89][/us/pl/114/89], § 2(c)(2), added subsec. (i).
 
     2011—Subsec. (d)(1). [Pub. L. 112–29][/us/pl/112/29] inserted concluding provisions.
 
-    2002—Subsec. (b)(3)(B). [Pub. L. 107–273, § 13206(a)(9)(A)][/us/pl/107/273/s13206/a/9/A], substituted “paragraph” for “paragraphs”.
+    2002—Subsec. (b)(3)(B). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(9)(A), substituted “paragraph” for “paragraphs”.
 
-    Subsec. (d). [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], made technical correction to directory language of [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
+    Subsec. (d). [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-    Subsec. (d)(2)(B)(i). [Pub. L. 107–273, § 13206(a)(9)(B)][/us/pl/107/273/s13206/a/9/B], substituted “below the Office” for “below the office”.
+    Subsec. (d)(2)(B)(i). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(9)(B), substituted “below the Office” for “below the office”.
 
-    Subsec. (e). [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], made technical correction to directory language of [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
+    Subsec. (e). [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-    Subsec. (g)(6)(B)(iii). [Pub. L. 107–273, § 13206(a)(9)(C)][/us/pl/107/273/s13206/a/9/C], substituted “submitted” for “submittted”.
+    Subsec. (g)(6)(B)(iii). [Pub. L. 107–273][/us/pl/107/273], § 13206(a)(9)(C), substituted “submitted” for “submittted”.
 
-    Subsec. (h). [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], made technical correction to directory language of [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
+    Subsec. (h). [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-    1999—Subsec. (a). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4404\], in introductory provisions, inserted “, which shall include any patent term adjustment granted under section 154(b),” after “the original expiration date of the patent”.
+    1999—Subsec. (a). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4404\], in introductory provisions, inserted “, which shall include any patent term adjustment granted under section 154(b),” after “the original expiration date of the patent”.
 
-    Subsecs. (d), (e), (h). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], substituted “Director” for “Commissioner” wherever appearing.
+    Subsecs. (d), (e), (h). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
 
-    1997—Subsec. (f)(4)(B). [Pub. L. 105–115, § 125(b)(2)(P)][/us/pl/105/115/s125/b/2/P], struck out “507,” after “505,” in two places.
+    1997—Subsec. (f)(4)(B). [Pub. L. 105–115][/us/pl/105/115], § 125(b)(2)(P), struck out “507,” after “505,” in two places.
 
     1994—Subsec. (a)(2). [Pub. L. 103–465][/us/pl/103/465] inserted “under subsection (e)(1) of this section” after “extended”.
 
-    1993—Subsec. (a)(1). [Pub. L. 103–179, § 6(1)(A)][/us/pl/103/179/s6/1/A], substituted “subsection (d)(1)” for “subsection (d)”.
+    1993—Subsec. (a)(1). [Pub. L. 103–179][/us/pl/103/179], § 6(1)(A), substituted “subsection (d)(1)” for “subsection (d)”.
 
-    Subsec. (a)(3). [Pub. L. 103–179, § 6(1)(B)][/us/pl/103/179/s6/1/B], substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
+    Subsec. (a)(3). [Pub. L. 103–179][/us/pl/103/179], § 6(1)(B), substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
 
-    Subsec. (b). [Pub. L. 103–179, § 6(2)][/us/pl/103/179/s6/2], substituted “Except as provided in subsection (d)(5)(F), the rights” for “The rights” in introductory provisions.
+    Subsec. (b). [Pub. L. 103–179][/us/pl/103/179], § 6(2), substituted “Except as provided in subsection (d)(5)(F), the rights” for “The rights” in introductory provisions.
 
-    Subsec. (c)(4). [Pub. L. 103–179, § 5(1)][/us/pl/103/179/s5/1], substituted “extended under subsection (e)(1)” for “extended”.
+    Subsec. (c)(4). [Pub. L. 103–179][/us/pl/103/179], § 5(1), substituted “extended under subsection (e)(1)” for “extended”.
 
-    Subsec. (d)(1). [Pub. L. 103–179, § 5(2)][/us/pl/103/179/s5/2], substituted “Except as provided in paragraph (5), such” for “Such” in second sentence.
+    Subsec. (d)(1). [Pub. L. 103–179][/us/pl/103/179], § 5(2), substituted “Except as provided in paragraph (5), such” for “Such” in second sentence.
 
-    Subsec. (d)(5). [Pub. L. 103–179, § 5(3)][/us/pl/103/179/s5/3], added par. (5).
+    Subsec. (d)(5). [Pub. L. 103–179][/us/pl/103/179], § 5(3), added par. (5).
 
-    Subsec. (e)(1). [Pub. L. 103–179, § 6(3)(A)][/us/pl/103/179/s6/3/A], substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
+    Subsec. (e)(1). [Pub. L. 103–179][/us/pl/103/179], § 6(3)(A), substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
 
-    Subsec. (e)(2). [Pub. L. 103–179, § 6(3)(B)][/us/pl/103/179/s6/3/B], substituted “subsection (d)(1)” for “subsection (d)”.
+    Subsec. (e)(2). [Pub. L. 103–179][/us/pl/103/179], § 6(3)(B), substituted “subsection (d)(1)” for “subsection (d)”.
 
-    1988—Subsec. (a)(5)(A). [Pub. L. 100–670, § 201(a)(1)][/us/pl/100/670/s201/a/1], inserted “or (C)” after “in subparagraph (B)”.
+    1988—Subsec. (a)(5)(A). [Pub. L. 100–670][/us/pl/100/670], § 201(a)(1), inserted “or (C)” after “in subparagraph (B)”.
 
-    Subsec. (a)(5)(C). [Pub. L. 100–670, § 201(a)(2)][/us/pl/100/670/s201/a/2], (3), added subpar. (C).
+    Subsec. (a)(5)(C). [Pub. L. 100–670][/us/pl/100/670], § 201(a)(2), (3), added subpar. (C).
 
-    Subsec. (b). [Pub. L. 100–670, § 201(b)][/us/pl/100/670/s201/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The rights derived from any patent the term of which is extended under this section shall during the period during which the patent is extended—
+    Subsec. (b). [Pub. L. 100–670][/us/pl/100/670], § 201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The rights derived from any patent the term of which is extended under this section shall during the period during which the patent is extended—
 
     “(1) in the case of a patent which claims a product, be limited to any use approved for the approved product before the expiration of the term of the patent under the provision of law under which the applicable regulatory review occurred;
 
@@ -419,45 +419,45 @@
 
     “(3) in the case of a patent which claims a method of manufacturing a product, be limited to the method of manufacturing as used to make the approved product.”
 
-    Subsec. (c)(2). [Pub. L. 100–670, § 201(c)][/us/pl/100/670/s201/c], substituted “(3)(B)(i), (4)(B)(i), and (5)(B)(i)” for “and (3)(B)(i)”.
+    Subsec. (c)(2). [Pub. L. 100–670][/us/pl/100/670], § 201(c), substituted “(3)(B)(i), (4)(B)(i), and (5)(B)(i)” for “and (3)(B)(i)”.
 
-    Subsec. (d)(1)(C). [Pub. L. 100–670, § 201(d)][/us/pl/100/670/s201/d], inserted “or the Secretary of Agriculture” after “and Human Services”.
+    Subsec. (d)(1)(C). [Pub. L. 100–670][/us/pl/100/670], § 201(d), inserted “or the Secretary of Agriculture” after “and Human Services”.
 
-    Subsec. (d)(2)(A). [Pub. L. 100–670, § 201(e)][/us/pl/100/670/s201/e], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Within sixty days of the submittal of an application for extension of the term of a patent under paragraph (1), the Commissioner shall notify the Secretary of Health and Human Services if the patent claims any human drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additive and if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act, of the extension application and shall submit to the Secretary a copy of the application. Not later than thirty days after the receipt of an application from the Commissioner, the Secretary shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Commissioner of the determination, and shall publish in the Federal Register a notice of such determination.”
+    Subsec. (d)(2)(A). [Pub. L. 100–670][/us/pl/100/670], § 201(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Within sixty days of the submittal of an application for extension of the term of a patent under paragraph (1), the Commissioner shall notify the Secretary of Health and Human Services if the patent claims any human drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additive and if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act, of the extension application and shall submit to the Secretary a copy of the application. Not later than thirty days after the receipt of an application from the Commissioner, the Secretary shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Commissioner of the determination, and shall publish in the Federal Register a notice of such determination.”
 
-    Subsec. (d)(2)(B). [Pub. L. 100–670, § 201(f)][/us/pl/100/670/s201/f], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+    Subsec. (d)(2)(B). [Pub. L. 100–670][/us/pl/100/670], § 201(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
     “(i) If a petition is submitted to the Secretary under subparagraph (A), not later than one hundred and eighty days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary shall, in accordance with regulations promulgated by the Secretary determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary shall make such determination not later than ninety days after the receipt of such a petition. The Secretary may not delegate the authority to make the determination prescribed by this subparagraph to an office below the Office of the Commissioner of Food and Drugs.
 
     “(ii) The Secretary shall notify the Commissioner of the determination and shall publish in the Federal Register a notice of such determination together with the factual and legal basis for such determination. Any interested person may request, within the sixty-day period beginning on the publication of a determination, the Secretary to hold an informal hearing on the determination. If such a request is made within such period, the Secretary shall hold such hearing not later than thirty days after the date of the request, or at the request of the person making the request, not later than sixty days after such date. The Secretary shall provide notice of the hearing to the owner of the patent involved and to any interested person and provide the owner and any interested person an opportunity to participate in the hearing. Within thirty days after the completion of the hearing, the Secretary shall affirm or revise the determination which was the subject of the hearing and notify the Commissioner of any revision of the determination and shall publish any such revision in the Federal Register.”
 
-    Subsec. (f)(1)(A). [Pub. L. 100–670, § 201(g)(1)][/us/pl/100/670/s201/g/1], struck out “human” before “drug product”.
+    Subsec. (f)(1)(A). [Pub. L. 100–670][/us/pl/100/670], § 201(g)(1), struck out “human” before “drug product”.
 
-    Subsec. (f)(2). [Pub. L. 100–670, § 201(g)(1)][/us/pl/100/670/s201/g/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘human drug product’ means the active ingredient of a new drug, antibiotic drug, or human biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act) including any salt or ester of the active ingredient, as a single entity or in combination with another active ingredient.”
+    Subsec. (f)(2). [Pub. L. 100–670][/us/pl/100/670], § 201(g)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘human drug product’ means the active ingredient of a new drug, antibiotic drug, or human biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act) including any salt or ester of the active ingredient, as a single entity or in combination with another active ingredient.”
 
-    Subsec. (f)(4)(B), (C). [Pub. L. 100–670, § 201(g)(2)][/us/pl/100/670/s201/g/2], which directed general amendment of subpars. (B) and (C) of par. (4), was executed by amending subpar. (B) generally, and adding subpar. (C) as probable intent of Congress in light of absence of subpar. (C) in par. (4). Prior to amendment, subpar. (B) read as follows: “Any reference to section 503, 505, 507, or 515 is a reference to section 503, 505, 507, or 515 of the Federal Food, Drug, and Cosmetic Act.”
+    Subsec. (f)(4)(B), (C). [Pub. L. 100–670][/us/pl/100/670], § 201(g)(2), which directed general amendment of subpars. (B) and (C) of par. (4), was executed by amending subpar. (B) generally, and adding subpar. (C) as probable intent of Congress in light of absence of subpar. (C) in par. (4). Prior to amendment, subpar. (B) read as follows: “Any reference to section 503, 505, 507, or 515 is a reference to section 503, 505, 507, or 515 of the Federal Food, Drug, and Cosmetic Act.”
 
-    Subsec. (f)(7), (8). [Pub. L. 100–670, § 201(g)(3)][/us/pl/100/670/s201/g/3], added pars. (7) and (8).
+    Subsec. (f)(7), (8). [Pub. L. 100–670][/us/pl/100/670], § 201(g)(3), added pars. (7) and (8).
 
-    Subsec. (g)(1)(A). [Pub. L. 100–670, § 201(h)(1)(A)][/us/pl/100/670/s201/h/1/A], (2), substituted “new drug, antibiotic drug, or human biological product” for “human drug product” and “paragraph (6)” for “paragraph (4)”.
+    Subsec. (g)(1)(A). [Pub. L. 100–670][/us/pl/100/670], § 201(h)(1)(A), (2), substituted “new drug, antibiotic drug, or human biological product” for “human drug product” and “paragraph (6)” for “paragraph (4)”.
 
-    Subsec. (g)(1)(B). [Pub. L. 100–670, § 201(h)(1)(B)][/us/pl/100/670/s201/h/1/B], substituted “new drug, antibiotic drug, or human biological product” for “human drug product” in introductory provisions and “product” for “human drug product” in cls. (i) and (ii).
+    Subsec. (g)(1)(B). [Pub. L. 100–670][/us/pl/100/670], § 201(h)(1)(B), substituted “new drug, antibiotic drug, or human biological product” for “human drug product” in introductory provisions and “product” for “human drug product” in cls. (i) and (ii).
 
-    Subsec. (g)(2)(A), (3)(A). [Pub. L. 100–670, § 201(h)(3)][/us/pl/100/670/s201/h/3], substituted “paragraph (6)” for “paragraph (4)”.
+    Subsec. (g)(2)(A), (3)(A). [Pub. L. 100–670][/us/pl/100/670], § 201(h)(3), substituted “paragraph (6)” for “paragraph (4)”.
 
-    Subsec. (g)(4), (5). [Pub. L. 100–670, § 201(h)(4)][/us/pl/100/670/s201/h/4], added pars. (4) and (5). Former par. (4) redesignated (6).
+    Subsec. (g)(4), (5). [Pub. L. 100–670][/us/pl/100/670], § 201(h)(4), added pars. (4) and (5). Former par. (4) redesignated (6).
 
-    Subsec. (g)(6). [Pub. L. 100–670, § 201(h)(4)][/us/pl/100/670/s201/h/4], redesignated former par. (4) as (6).
+    Subsec. (g)(6). [Pub. L. 100–670][/us/pl/100/670], § 201(h)(4), redesignated former par. (4) as (6).
 
-    Subsec. (g)(6)(B)(i). [Pub. L. 100–670, § 201(h)(5)(A)][/us/pl/100/670/s201/h/5/A], substituted “paragraph (1)(B) or (4)(B) was submitted and no request for the authority described in paragraph (5)(B) was submitted” for “paragraph (1)(B) was submitted”.
+    Subsec. (g)(6)(B)(i). [Pub. L. 100–670][/us/pl/100/670], § 201(h)(5)(A), substituted “paragraph (1)(B) or (4)(B) was submitted and no request for the authority described in paragraph (5)(B) was submitted” for “paragraph (1)(B) was submitted”.
 
-    Subsec. (g)(6)(B)(ii). [Pub. L. 100–670, § 201(h)(5)(B)][/us/pl/100/670/s201/h/5/B], substituted “paragraph (2)(B) or (4)(B)” for “paragraph (2)”.
+    Subsec. (g)(6)(B)(ii). [Pub. L. 100–670][/us/pl/100/670], § 201(h)(5)(B), substituted “paragraph (2)(B) or (4)(B)” for “paragraph (2)”.
 
-    Subsec. (g)(6)(C). [Pub. L. 100–670, § 201(h)(5)(C)][/us/pl/100/670/s201/h/5/C], inserted “or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years” after “exceed two years”.
+    Subsec. (g)(6)(C). [Pub. L. 100–670][/us/pl/100/670], § 201(h)(5)(C), inserted “or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years” after “exceed two years”.
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 37(b)][/us/pl/112/29/s37/b], Sept. 16, 2011, [125 Stat. 341][/us/stat/125/341], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 37(b), Sept. 16, 2011, [125 Stat. 341][/us/stat/125/341], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any application for extension of a patent term under [section 156 of title 35][/us/usc/t35/s156], United States Code, that is pending on, that is filed after, or as to which a decision regarding the application is subject to judicial review on, the date of the enactment of this Act \[Sept. 16, 2011\].”
 
@@ -473,30 +473,30 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s154.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s157.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156)
+[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s155 _us_usc_t35_s155A.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s157.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156)
 
 ----------
 ----------
 
 [/us/usc/t5/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6103
 [/us/usc/t21/s151–158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151%E2%80%93158
-[/us/pl/98/417/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs201%2Fa
+[/us/pl/98/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2FtII
 [/us/stat/98/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1598
-[/us/pl/100/670/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fa
+[/us/pl/100/670/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2FtII
 [/us/stat/102/3984-3987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3984-3987
 [/us/pl/103/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179
 [/us/stat/107/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2040
-[/us/pl/103/465/s532/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs532%2Fc%2F1
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4987
-[/us/pl/105/115/s125/b/2/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FP
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2326
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F9
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1904
-[/us/pl/112/29/s37/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs37%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F341
-[/us/pl/114/89/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fc
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/stat/129/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F700
 [/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F828
@@ -508,7 +508,7 @@
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
-[/us/pl/105/115/s125/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F1
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
@@ -518,51 +518,51 @@
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811
-[/us/pl/114/89/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fc%2F1
-[/us/pl/114/89/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fc%2F2
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
-[/us/pl/107/273/s13206/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F9%2FA
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/107/273/s13206/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F9%2FB
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/107/273/s13206/a/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F9%2FC
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/pl/105/115/s125/b/2/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FP
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/179/s6/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179%2Fs6%2F1%2FA
-[/us/pl/103/179/s6/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179%2Fs6%2F1%2FB
-[/us/pl/103/179/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179%2Fs6%2F2
-[/us/pl/103/179/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179%2Fs5%2F1
-[/us/pl/103/179/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179%2Fs5%2F2
-[/us/pl/103/179/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179%2Fs5%2F3
-[/us/pl/103/179/s6/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179%2Fs6%2F3%2FA
-[/us/pl/103/179/s6/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179%2Fs6%2F3%2FB
-[/us/pl/100/670/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fa%2F1
-[/us/pl/100/670/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fa%2F2
-[/us/pl/100/670/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fb
-[/us/pl/100/670/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fc
-[/us/pl/100/670/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fd
-[/us/pl/100/670/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fe
-[/us/pl/100/670/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Ff
-[/us/pl/100/670/s201/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fg%2F1
-[/us/pl/100/670/s201/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fg%2F1
-[/us/pl/100/670/s201/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fg%2F2
-[/us/pl/100/670/s201/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fg%2F3
-[/us/pl/100/670/s201/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fh%2F1%2FA
-[/us/pl/100/670/s201/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fh%2F1%2FB
-[/us/pl/100/670/s201/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fh%2F3
-[/us/pl/100/670/s201/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fh%2F4
-[/us/pl/100/670/s201/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fh%2F4
-[/us/pl/100/670/s201/h/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fh%2F5%2FA
-[/us/pl/100/670/s201/h/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fh%2F5%2FB
-[/us/pl/100/670/s201/h/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs201%2Fh%2F5%2FC
-[/us/pl/112/29/s37/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs37%2Fb
+[/us/pl/103/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179
+[/us/pl/103/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179
+[/us/pl/103/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179
+[/us/pl/103/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179
+[/us/pl/103/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179
+[/us/pl/103/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179
+[/us/pl/103/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179
+[/us/pl/103/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F179
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F341
 [/us/usc/t35/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

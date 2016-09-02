@@ -47,7 +47,7 @@
 
     (j) The term “claimed invention” means the subject matter defined by a claim in a patent or an application for a patent.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 797][/us/stat/66/797]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4603\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–567; [Pub. L. 112–29, § 3(a)][/us/pl/112/29/s3/a], Sept. 16, 2011, [125 Stat. 285][/us/stat/125/285]; [Pub. L. 112–211, title I, § 102(1)][/us/pl/112/211/s102/1], Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 797][/us/stat/66/797]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4603\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–567; [Pub. L. 112–29][/us/pl/112/29], § 3(a), Sept. 16, 2011, [125 Stat. 285][/us/stat/125/285]; [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 102(1), Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531].)
 
  __Historical and Revision Notes__ 
 
@@ -61,15 +61,15 @@
 
     2012—Subsec. (i)(1)(B). [Pub. L. 112–211][/us/pl/112/211] substituted “right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)” for “right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c)”.
 
-    2011—Subsec. (e). [Pub. L. 112–29, § 3(a)(1)][/us/pl/112/29/s3/a/1], struck out “or inter partes reexamination under section 311” after “302”.
+    2011—Subsec. (e). [Pub. L. 112–29][/us/pl/112/29], § 3(a)(1), struck out “or inter partes reexamination under section 311” after “302”.
 
-    Subsecs. (f) to (j). [Pub. L. 112–29, § 3(a)(2)][/us/pl/112/29/s3/a/2], added subsecs. (f) to (j).
+    Subsecs. (f) to (j). [Pub. L. 112–29][/us/pl/112/29], § 3(a)(2), added subsecs. (f) to (j).
 
     1999—Subsec. (e). [Pub. L. 106–113][/us/pl/106/113] added subsec. (e).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–211, title I, § 103][/us/pl/112/211/s103], Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532], provided that:
+[Pub. L. 112–211, title I][/us/pl/112/211/tI], § 103, Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -101,7 +101,7 @@
 
  __Effective Date of 2011 Amendment; Savings Provisions__ 
 
-[Pub. L. 112–29, § 3(n)][/us/pl/112/29/s3/n], Sept. 16, 2011, [125 Stat. 293][/us/stat/125/293], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 3(n), Sept. 16, 2011, [125 Stat. 293][/us/stat/125/293], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -132,23 +132,23 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F797
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/112/29/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F285
-[/us/pl/112/211/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F1
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
-[/us/pl/112/29/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fa%2F1
-[/us/pl/112/29/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fa%2F2
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/112/211/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs103
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1532
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100
 [/us/usc/t35/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs381
 [/us/usc/t35/s351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs351%2Fc
-[/us/pl/112/29/s3/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fn
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F293
 [/us/usc/t35/s100/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100%2Fi
 [/us/usc/t35/s100/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100%2Fi

@@ -85,11 +85,11 @@
 
         (2) a copy of the specification and any drawings of the previously filed application are submitted to the Director.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 798][/us/stat/66/798]; [Pub. L. 97–247, § 5][/us/pl/97/247/s5], Aug. 27, 1982, [96 Stat. 319][/us/stat/96/319]; [Pub. L. 103–465, title V, § 532(b)(3)][/us/pl/103/465/s532/b/3], Dec. 8, 1994, [108 Stat. 4986][/us/stat/108/4986]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4732(a)(10)(A), 4801(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582, 1501A–588; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 3(e)(2), 4(a)(3), (d), 20(j), Sept. 16, 2011, [125 Stat. 287][/us/stat/125/287], 295, 296, 335; [Pub. L. 112–211, title I, § 102(3)][/us/pl/112/211/s102/3], title II, § 201(a), Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1533.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 798][/us/stat/66/798]; [Pub. L. 97–247][/us/pl/97/247], § 5, Aug. 27, 1982, [96 Stat. 319][/us/stat/96/319]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 532(b)(3), Dec. 8, 1994, [108 Stat. 4986][/us/stat/108/4986]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, §§ 4732(a)(10)(A), 4801(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582, 1501A–588; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 3(e)(2), 4(a)(3), (d), 20(j), Sept. 16, 2011, [125 Stat. 287][/us/stat/125/287], 295, 296, 335; [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 102(3), title II, § 201(a), Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1533.)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 33 (R.S. 4888, amended (1) [Mar. 3, 1915, ch. 94, § 1][/us/act/1915-03-03/ch94/s1], [38 Stat. 958][/us/stat/38/958]; (2) [May 23, 1930, ch. 312, § 2][/us/act/1930-05-23/ch312/s2], [46 Stat. 376][/us/stat/46/376]).
+    Based on Title 35, U.S.C., 1946 ed., § 33 (R.S. 4888, amended (1) [Mar. 3, 1915, ch. 94][/us/act/1915-03-03/ch94], § 1, [38 Stat. 958][/us/stat/38/958]; (2) [May 23, 1930, ch. 312][/us/act/1930-05-23/ch312], § 2, [46 Stat. 376][/us/stat/46/376]).
 
     The corresponding section of existing statute is divided into an introductory section relating to the application generally (this section) and a section on the specification (sec. 112).
 
@@ -97,49 +97,49 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(3), (4). [Pub. L. 112–211, § 201(a)(1)][/us/pl/112/211/s201/a/1], added pars. (3) and (4) and struck out former pars. (3) and (4) which related to fee and oath or declaration and failure to submit.
+    2012—Subsec. (a)(3), (4). [Pub. L. 112–211][/us/pl/112/211], § 201(a)(1), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to fee and oath or declaration and failure to submit.
 
-    Subsec. (b)(3), (4). [Pub. L. 112–211, § 201(a)(2)][/us/pl/112/211/s201/a/2], added pars. (3) and (4) and struck out former pars. (3) and (4) which related to fee and filing date of a provisional application.
+    Subsec. (b)(3), (4). [Pub. L. 112–211][/us/pl/112/211], § 201(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to fee and filing date of a provisional application.
 
-    Subsec. (b)(7). [Pub. L. 112–211, § 102(3)][/us/pl/112/211/s102/3], substituted “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
+    Subsec. (b)(7). [Pub. L. 112–211][/us/pl/112/211], § 102(3), substituted “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
 
-    Subsec. (c). [Pub. L. 112–211, § 201(a)(3)][/us/pl/112/211/s201/a/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–211][/us/pl/112/211], § 201(a)(3), added subsec. (c).
 
-    2011—Subsec. (a)(2)(A). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “112”.
+    2011—Subsec. (a)(2)(A). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “112”.
 
-    Subsec. (a)(2)(B). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “113”.
+    Subsec. (a)(2)(B). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “113”.
 
-    Subsec. (a)(2)(C). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “115”.
+    Subsec. (a)(2)(C). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “115”.
 
-    [Pub. L. 112–29, § 4(a)(3)(A)][/us/pl/112/29/s4/a/3/A], substituted “or declaration” for “by the applicant”.
+    [Pub. L. 112–29][/us/pl/112/29], § 4(a)(3)(A), substituted “or declaration” for “by the applicant”.
 
-    Subsec. (a)(3). [Pub. L. 112–29, § 4(a)(3)(B)][/us/pl/112/29/s4/a/3/B], (C), inserted “or declaration” after “and oath” in heading and text.
+    Subsec. (a)(3). [Pub. L. 112–29][/us/pl/112/29], § 4(a)(3)(B), (C), inserted “or declaration” after “and oath” in heading and text.
 
-    Subsec. (a)(4). [Pub. L. 112–29, § 4(a)(3)(C)][/us/pl/112/29/s4/a/3/C], inserted “or declaration” after “and oath” in two places.
+    Subsec. (a)(4). [Pub. L. 112–29][/us/pl/112/29], § 4(a)(3)(C), inserted “or declaration” after “and oath” in two places.
 
-    Subsec. (b)(1)(A). [Pub. L. 112–29, § 4(d)(1)][/us/pl/112/29/s4/d/1], substituted “section 112(a)” for “the first paragraph of [section 112 of this title][/us/usc/t35/s112]”.
+    Subsec. (b)(1)(A). [Pub. L. 112–29][/us/pl/112/29], § 4(d)(1), substituted “section 112(a)” for “the first paragraph of [section 112 of this title][/us/usc/t35/s112]”.
 
-    Subsec. (b)(1)(B). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “113”.
+    Subsec. (b)(1)(B). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “113”.
 
-    Subsec. (b)(2). [Pub. L. 112–29, § 4(d)(2)][/us/pl/112/29/s4/d/2], substituted “subsections (b) through (e) of section 112,” for “the second through fifth paragraphs of section 112,”.
+    Subsec. (b)(2). [Pub. L. 112–29][/us/pl/112/29], § 4(d)(2), substituted “subsections (b) through (e) of section 112,” for “the second through fifth paragraphs of section 112,”.
 
-    Subsec. (b)(5). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “119(e)(3)”.
+    Subsec. (b)(5). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “119(e)(3)”.
 
-    Subsec. (b)(6). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “119(e)”.
+    Subsec. (b)(6). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “119(e)”.
 
-    Subsec. (b)(7). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” after “365(a)” and after “365(c)”.
+    Subsec. (b)(7). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” after “365(a)” and after “365(c)”.
 
-    Subsec. (b)(8). [Pub. L. 112–29, § 20(j)][/us/pl/112/29/s20/j], struck out “of this title” before period at end.
+    Subsec. (b)(8). [Pub. L. 112–29][/us/pl/112/29], § 20(j), struck out “of this title” before period at end.
 
-    [Pub. L. 112–29, § 3(e)(2)][/us/pl/112/29/s3/e/2], substituted “sections 131 and 135” for “sections 115, 131, 135, and 157”.
+    [Pub. L. 112–29][/us/pl/112/29], § 3(e)(2), substituted “sections 131 and 135” for “sections 115, 131, 135, and 157”.
 
-    2002—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C), (6). [Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment notes below.
+    2002—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C), (6). [Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment notes below.
 
-    1999—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner”.
+    1999—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner”.
 
-    Subsec. (b)(5). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4801(a)\], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival thereafter.”
+    Subsec. (b)(5). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4801(a)\], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival thereafter.”
 
-    Subsec. (b)(6). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner”.
+    Subsec. (b)(6). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “Director” for “Commissioner”.
 
     1994—[Pub. L. 103–465][/us/pl/103/465] amended section generally. Prior to amendment, section read as follows: “Application for patent shall be made, or authorized to be made, by the inventor, except as otherwise provided in this title, in writing to the Commissioner. Such application shall include (1) a specification as prescribed by [section 112 of this title][/us/usc/t35/s112]; (2) a drawing as prescribed by [section 113 of this title][/us/usc/t35/s113]; and (3) an oath by the applicant as prescribed by [section 115 of this title][/us/usc/t35/s115]. The application must be accompanied by the fee required by law. The fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner. Upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable. The filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.”
 
@@ -153,11 +153,11 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 3(e)(3)][/us/pl/112/29/s3/e/3], Sept. 16, 2011, [125 Stat. 288][/us/stat/125/288], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 3(e)(3), Sept. 16, 2011, [125 Stat. 288][/us/stat/125/288], provided that: 
 
 > “The amendments made by this subsection \[amending this section and repealing [section 157 of this title][/us/usc/t35/s157]\] shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act \[Sept. 16, 2011\], and shall apply to any request for a statutory invention registration filed on or after that effective date.”
 
-[Pub. L. 112–29, § 4(e)][/us/pl/112/29/s4/e], Sept. 16, 2011, [125 Stat. 297][/us/stat/125/297], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 4(e), Sept. 16, 2011, [125 Stat. 297][/us/stat/125/297], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 112, 115, 118, 121, and 251 of this title\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application that is filed on or after that effective date.”
 
@@ -190,47 +190,47 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F798
-[/us/pl/97/247/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs5
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F319
-[/us/pl/103/465/s532/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs532%2Fb%2F3
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4986
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F287
-[/us/pl/112/211/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F3
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
-[/us/act/1915-03-03/ch94/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch94%2Fs1
+[/us/act/1915-03-03/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch94
 [/us/stat/38/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F958
-[/us/act/1930-05-23/ch312/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312%2Fs2
+[/us/act/1930-05-23/ch312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312
 [/us/stat/46/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F376
-[/us/pl/112/211/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs201%2Fa%2F1
-[/us/pl/112/211/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs201%2Fa%2F2
-[/us/pl/112/211/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F3
-[/us/pl/112/211/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs201%2Fa%2F3
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s4/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs4%2Fa%2F3%2FA
-[/us/pl/112/29/s4/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs4%2Fa%2F3%2FB
-[/us/pl/112/29/s4/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs4%2Fa%2F3%2FC
-[/us/pl/112/29/s4/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs4%2Fd%2F1
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
+[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/usc/t35/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs112
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs4%2Fd%2F2
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
-[/us/pl/112/29/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fe%2F2
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t35/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs112
@@ -243,10 +243,10 @@
 [/us/pl/112/211/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs201%2Fa
 [/us/pl/112/211/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs203
 [/us/usc/t35/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs27
-[/us/pl/112/29/s3/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fe%2F3
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F288
 [/us/usc/t35/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs157
-[/us/pl/112/29/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs4%2Fe
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F297
 [/us/pl/112/29/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fj
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29

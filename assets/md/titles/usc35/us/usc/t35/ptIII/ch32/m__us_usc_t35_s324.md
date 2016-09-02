@@ -39,7 +39,7 @@
 
     The determination by the Director whether to institute a post-grant review under this section shall be final and nonappealable.
 
-(Added [Pub. L. 112–29, § 6(d)][/us/pl/112/29/s6/d], Sept. 16, 2011, [125 Stat. 306][/us/stat/125/306].)
+(Added [Pub. L. 112–29][/us/pl/112/29], § 6(d), Sept. 16, 2011, [125 Stat. 306][/us/stat/125/306].)
 
  __Effective Date__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/112/29/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fd
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F306
 [/us/pl/112/29/s3/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fn%2F1
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100

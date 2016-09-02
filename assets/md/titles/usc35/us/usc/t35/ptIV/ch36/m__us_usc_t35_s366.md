@@ -17,7 +17,7 @@
 
     Subject to section 367 of this part, if an international application designating the United States is withdrawn or considered withdrawn, either generally or as to the United States, under the conditions of the treaty and the Regulations, before the applicant has complied with the applicable requirements prescribed by section 371(c) of this part, the designation of the United States shall have no effect after the date of withdrawal, and shall be considered as not having been made, unless a claim for benefit of a prior filing date under section 365(c) of this section was made in a national application, or an international application designating the United States, or a claim for benefit under section 386(c) was made in an international design application designating the United States, filed before the date of such withdrawal. However, such withdrawn international application may serve as the basis for a claim of priority under section 365(a) and (b), or under section 386(a) or (b), if it designated a country other than the United States.
 
-(Added [Pub. L. 94–131, § 1][/us/pl/94/131/s1], Nov. 14, 1975, [89 Stat. 687][/us/stat/89/687]; amended [Pub. L. 98–622, title IV, § 401(b)][/us/pl/98/622/s401/b], Nov. 8, 1984, [98 Stat. 3391][/us/stat/98/3391]; [Pub. L. 112–211, title I, § 102(9)][/us/pl/112/211/s102/9], Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532].)
+(Added [Pub. L. 94–131][/us/pl/94/131], § 1, Nov. 14, 1975, [89 Stat. 687][/us/stat/89/687]; amended [Pub. L. 98–622, title IV][/us/pl/98/622/tIV], § 401(b), Nov. 8, 1984, [98 Stat. 3391][/us/stat/98/3391]; [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 102(9), Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/94/131/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131%2Fs1
+[/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/stat/89/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F687
-[/us/pl/98/622/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs401%2Fb
+[/us/pl/98/622/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtIV
 [/us/stat/98/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3391
-[/us/pl/112/211/s102/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F9
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1532
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/pl/98/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622

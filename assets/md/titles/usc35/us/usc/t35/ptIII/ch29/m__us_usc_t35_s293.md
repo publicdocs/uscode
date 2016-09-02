@@ -17,7 +17,7 @@
 
     Every patentee not residing in the United States may file in the Patent and Trademark Office a written designation stating the name and address of a person residing within the United States on whom may be served process or notice of proceedings affecting the patent or rights thereunder. If the person designated cannot be found at the address given in the last designation, or if no person has been designated, the United States District Court for the Eastern District of Virginia shall have jurisdiction and summons shall be served by publication or otherwise as the court directs. The court shall have the same jurisdiction to take any action respecting the patent or rights thereunder that it would have if the patentee were personally within the jurisdiction of the court.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 814][/us/stat/66/814]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 112–29, § 9(a)][/us/pl/112/29/s9/a], Sept. 16, 2011, [125 Stat. 316][/us/stat/125/316].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 814][/us/stat/66/814]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 112–29][/us/pl/112/29], § 9(a), Sept. 16, 2011, [125 Stat. 316][/us/stat/125/316].)
 
  __Historical and Revision Notes__ 
 
@@ -46,9 +46,9 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F814
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/112/29/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs9%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F316
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596

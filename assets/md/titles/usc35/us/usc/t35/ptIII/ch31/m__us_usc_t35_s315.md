@@ -57,7 +57,7 @@
 
         The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under [section 1338 of title 28][/us/usc/t28/s1338] or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
 
-(Added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4604(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–569; amended [Pub. L. 107–273, div. C, title III][/us/pl/107/273], §§ 13106(a), 13202(a)(4), (c)(1), Nov. 2, 2002, [116 Stat. 1900–1902][/us/stat/116/1900-1902]; [Pub. L. 112–29, § 6(a)][/us/pl/112/29/s6/a], Sept. 16, 2011, [125 Stat. 300][/us/stat/125/300].)
+(Added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4604(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–569; amended [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], §§ 13106(a), 13202(a)(4), (c)(1), Nov. 2, 2002, [116 Stat. 1900–1902][/us/stat/116/1900-1902]; [Pub. L. 112–29][/us/pl/112/29], § 6(a), Sept. 16, 2011, [125 Stat. 300][/us/stat/125/300].)
 
  __References in Text__ 
 
@@ -67,15 +67,15 @@
 
     2011—[Pub. L. 112–29][/us/pl/112/29] amended section generally. Prior to amendment, section related to appeals.
 
-    2002—[Pub. L. 107–273, § 13202(c)(1)][/us/pl/107/273/s13202/c/1], made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], which enacted this section.
+    2002—[Pub. L. 107–273][/us/pl/107/273], § 13202(c)(1), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], which enacted this section.
 
-    Subsec. (b). [Pub. L. 107–273, § 13106(a)][/us/pl/107/273/s13106/a], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A third-party requester may—
+    Subsec. (b). [Pub. L. 107–273][/us/pl/107/273], § 13106(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A third-party requester may—
 
     “(1) appeal under the provisions of section 134 with respect to any final decision favorable to the patentability of any original or proposed amended or new claim of the patent; or
 
     “(2) be a party to any appeal taken by the patent owner under the provisions of section 134, subject to subsection (c).”
 
-    Subsec. (c). [Pub. L. 107–273, § 13202(a)(4)][/us/pl/107/273/s13202/a/4], struck out “United States Code,” after “title 28,”.
+    Subsec. (c). [Pub. L. 107–273][/us/pl/107/273], § 13202(a)(4), struck out “United States Code,” after “title 28,”.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -87,7 +87,7 @@
 
  __Estoppel Effect of Reexamination__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle F, § 4607\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–571, provided for estoppel from challenging certain facts determined during inter partes reexamination under former [section 311 of this title][/us/usc/t35/s311] and contained a severability provision.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, subtitle F, § 4607\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–571, provided for estoppel from challenging certain facts determined during inter partes reexamination under former [section 311 of this title][/us/usc/t35/s311] and contained a severability provision.
 
 ----------
 
@@ -97,25 +97,25 @@
 ----------
 
 [/us/usc/t28/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1338
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1900-1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1900-1902
-[/us/pl/112/29/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F300
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
-[/us/pl/107/273/s13202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fc%2F1
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/107/273/s13106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13106%2Fa
-[/us/pl/107/273/s13202/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13202%2Fa%2F4
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fc%2F2
 [/us/usc/t35/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs311
 [/us/pl/107/273/s13106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13106%2Fa
 [/us/pl/107/273/s13106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13106%2Fd
 [/us/usc/t35/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs134
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t35/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs311
 

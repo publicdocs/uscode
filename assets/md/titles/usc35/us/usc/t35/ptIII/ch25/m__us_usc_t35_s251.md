@@ -31,7 +31,7 @@
 
     No reissued patent shall be granted enlarging the scope of the claims of the original patent unless applied for within two years from the grant of the original patent.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 808][/us/stat/66/808]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 4(b)(2), 20(d), Sept. 16, 2011, [125 Stat. 296][/us/stat/125/296], 333.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 808][/us/stat/66/808]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 4(b)(2), 20(d), Sept. 16, 2011, [125 Stat. 296][/us/stat/125/296], 333.)
 
  __Historical and Revision Notes__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–29, § 20(d)][/us/pl/112/29/s20/d], designated first to fourth pars. as subsecs. (a) to (d), respectively, inserted headings, and, in subsec. (a), struck out “without any deceptive intention” after “error”.
+    2011—[Pub. L. 112–29][/us/pl/112/29], § 20(d), designated first to fourth pars. as subsecs. (a) to (d), respectively, inserted headings, and, in subsec. (a), struck out “without any deceptive intention” after “error”.
 
-    [Pub. L. 112–29, § 4(b)(2)][/us/pl/112/29/s4/b/2], in third par., inserted “or the application for the original patent was filed by the assignee of the entire interest” after “claims of the original patent”.
+    [Pub. L. 112–29][/us/pl/112/29], § 4(b)(2), in third par., inserted “or the application for the original patent was filed by the assignee of the entire interest” after “claims of the original patent”.
 
     2002—[Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113]. See 1999 Amendment note below.
 
@@ -72,16 +72,16 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F808
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F296
 [/us/act/1928-05-24/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-24%2Fch730
 [/us/stat/45/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F732
-[/us/pl/112/29/s20/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fd
-[/us/pl/112/29/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs4%2Fb%2F2
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

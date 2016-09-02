@@ -27,11 +27,11 @@
 
     The filing date of an application for patent for design shall be the date on which the specification as prescribed by section 112 and any required drawings are filed.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 805][/us/stat/66/805]; [Pub. L. 112–211, title II, § 202(a)][/us/pl/112/211/s202/a], Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 805][/us/stat/66/805]; [Pub. L. 112–211, title II][/us/pl/112/211/tII], § 202(a), Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535].)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 73 (R.S. 4929, amended (1) [May 9, 1902, ch. 783][/us/act/1902-05-09/ch783], [32 Stat. 193][/us/stat/32/193], (2) [Aug. 5, 1939, ch. 450, § 1][/us/act/1939-08-05/ch450/s1], [53 Stat. 1212][/us/stat/53/1212]; R.S. 4933).
+    Based on Title 35, U.S.C., 1946 ed., § 73 (R.S. 4929, amended (1) [May 9, 1902, ch. 783][/us/act/1902-05-09/ch783], [32 Stat. 193][/us/stat/32/193], (2) [Aug. 5, 1939, ch. 450][/us/act/1939-08-05/ch450], § 1, [53 Stat. 1212][/us/stat/53/1212]; R.S. 4933).
 
     The list of conditions specified in the corresponding section of existing statute is omitted as unnecessary in view of the general inclusion of all conditions applying to other patents. Language is changed.
 
@@ -52,11 +52,11 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F805
-[/us/pl/112/211/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs202%2Fa
+[/us/pl/112/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtII
 [/us/stat/126/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1535
 [/us/act/1902-05-09/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-05-09%2Fch783
 [/us/stat/32/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F193
-[/us/act/1939-08-05/ch450/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch450%2Fs1
+[/us/act/1939-08-05/ch450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch450
 [/us/stat/53/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1212
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211

@@ -17,7 +17,7 @@
 
     Whoever, not being recognized to practice before the Patent and Trademark Office, holds himself out or permits himself to be held out as so recognized, or as being qualified to prepare or prosecute applications for patent, shall be fined not more than $1,000 for each offense.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 796][/us/stat/66/796]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 796][/us/stat/66/796]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949].)
 
  __Historical and Revision Notes__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F796
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
 [/us/act/1938-05-09/ch188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-09%2Fch188
 [/us/stat/52/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F342

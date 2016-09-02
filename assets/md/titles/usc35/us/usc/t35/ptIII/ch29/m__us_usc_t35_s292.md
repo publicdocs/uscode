@@ -25,7 +25,7 @@
 
     (c) The marking of a product, in a manner described in subsection (a), with matter relating to a patent that covered that product but has expired is not a violation of this section.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 814][/us/stat/66/814]; [Pub. L. 103–465, title V, § 533(b)(6)][/us/pl/103/465/s533/b/6], Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990]; [Pub. L. 112–29, § 16(b)(1)][/us/pl/112/29/s16/b/1]–(3), Sept. 16, 2011, [125 Stat. 329][/us/stat/125/329].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 814][/us/stat/66/814]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 533(b)(6), Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990]; [Pub. L. 112–29][/us/pl/112/29], § 16(b)(1)–(3), Sept. 16, 2011, [125 Stat. 329][/us/stat/125/329].)
 
  __Historical and Revision Notes__ 
 
@@ -35,17 +35,17 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–29, § 16(b)(1)][/us/pl/112/29/s16/b/1], inserted at end “Only the United States may sue for the penalty authorized by this subsection.”
+    2011—Subsec. (a). [Pub. L. 112–29][/us/pl/112/29], § 16(b)(1), inserted at end “Only the United States may sue for the penalty authorized by this subsection.”
 
-    Subsec. (b). [Pub. L. 112–29, § 16(b)(2)][/us/pl/112/29/s16/b/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person may sue for the penalty, in which event one-half shall go to the person suing and the other to the use of the United States.”
+    Subsec. (b). [Pub. L. 112–29][/us/pl/112/29], § 16(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person may sue for the penalty, in which event one-half shall go to the person suing and the other to the use of the United States.”
 
-    Subsec. (c). [Pub. L. 112–29, § 16(b)(3)][/us/pl/112/29/s16/b/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–29][/us/pl/112/29], § 16(b)(3), added subsec. (c).
 
     1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], in first par., substituted “used, offered for sale, or sold by such person within the United States, or imported by the person into the United States” for “used, or sold by him” and “made, offered for sale, sold, or imported into the United States” for “made or sold”.
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 16(b)(4)][/us/pl/112/29/s16/b/4], Sept. 16, 2011, [125 Stat. 329][/us/stat/125/329], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 16(b)(4), Sept. 16, 2011, [125 Stat. 329][/us/stat/125/329], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to all cases, without exception, that are pending on, or commenced on or after, the date of the enactment of this Act \[Sept. 16, 2011\].”
 
@@ -62,15 +62,15 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F814
-[/us/pl/103/465/s533/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs533%2Fb%2F6
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4990
-[/us/pl/112/29/s16/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs16%2Fb%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F329
-[/us/pl/112/29/s16/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs16%2Fb%2F1
-[/us/pl/112/29/s16/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs16%2Fb%2F2
-[/us/pl/112/29/s16/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs16%2Fb%2F3
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/112/29/s16/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs16%2Fb%2F4
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F329
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

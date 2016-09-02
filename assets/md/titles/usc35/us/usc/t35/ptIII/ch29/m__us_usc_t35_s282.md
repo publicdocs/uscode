@@ -47,11 +47,11 @@
 
         to comply with the requirements of such section shall be a defense in any action involving the infringement of a patent during the period of the extension of its term and shall be pleaded. A due diligence determination under section 156(d)(2) is not subject to review in such an action.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 812][/us/stat/66/812]; [Pub. L. 89–83, § 10][/us/pl/89/83/s10], July 24, 1965, [79 Stat. 261][/us/stat/79/261]; [Pub. L. 94–131, § 10][/us/pl/94/131/s10], Nov. 14, 1975, [89 Stat. 692][/us/stat/89/692]; [Pub. L. 97–164, title I, § 161(7)][/us/pl/97/164/s161/7], Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 98–417, title II, § 203][/us/pl/98/417/s203], Sept. 24, 1984, [98 Stat. 1603][/us/stat/98/1603]; [Pub. L. 104–41, § 2][/us/pl/104/41/s2], Nov. 1, 1995, [109 Stat. 352][/us/stat/109/352]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4402(b)(1), 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], (4), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 15(a), 20(g), (j), Sept. 16, 2011, [125 Stat. 328][/us/stat/125/328], 334, 335.)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 812][/us/stat/66/812]; [Pub. L. 89–83][/us/pl/89/83], § 10, July 24, 1965, [79 Stat. 261][/us/stat/79/261]; [Pub. L. 94–131][/us/pl/94/131], § 10, Nov. 14, 1975, [89 Stat. 692][/us/stat/89/692]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 161(7), Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 98–417, title II][/us/pl/98/417/tII], § 203, Sept. 24, 1984, [98 Stat. 1603][/us/stat/98/1603]; [Pub. L. 104–41][/us/pl/104/41], § 2, Nov. 1, 1995, [109 Stat. 352][/us/stat/109/352]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, §§ 4402(b)(1), 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(b)(1)(B), (4), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 15(a), 20(g), (j), Sept. 16, 2011, [125 Stat. 328][/us/stat/125/328], 334, 335.)
 
  __Historical and Revision Notes__ 
 
-    Derived from Title 35, U.S.C., 1946 ed., § 69 (R.S. 4920, amended (1) [Mar. 3, 1897, ch. 391, § 2][/us/act/1897-03-03/ch391/s2], [29 Stat. 692][/us/stat/29/692], (2) [Aug. 5, 1939, ch. 450, § 1][/us/act/1939-08-05/ch450/s1], [53 Stat. 1212][/us/stat/53/1212]).
+    Derived from Title 35, U.S.C., 1946 ed., § 69 (R.S. 4920, amended (1) [Mar. 3, 1897, ch. 391][/us/act/1897-03-03/ch391], § 2, [29 Stat. 692][/us/stat/29/692], (2) [Aug. 5, 1939, ch. 450][/us/act/1939-08-05/ch450], § 1, [53 Stat. 1212][/us/stat/53/1212]).
 
     The first paragraph declares the existing presumption of validity of patents.
 
@@ -61,11 +61,11 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–29, § 20(g)(1)][/us/pl/112/29/s20/g/1], (2)(A), (C), (3), (j), designated first to third pars. as subsecs. (a) to (c), respectively, inserted headings, in subsec. (a), struck out third sentence which read “Notwithstanding the preceding sentence, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1).”, in par. (2) of subsec. (b), struck out “of this title” after “II” and substituted “patentability.” for “patentability,”, and in introductory provisions of subsec. (c), struck out “of this title” after “156” and substituted “In an action involving the validity or infringement of a patent” for “In actions involving the validity or infringement of a patent” and “Court of Federal Claims” for “Claims Court”.
+    2011—[Pub. L. 112–29][/us/pl/112/29], § 20(g)(1), (2)(A), (C), (3), (j), designated first to third pars. as subsecs. (a) to (c), respectively, inserted headings, in subsec. (a), struck out third sentence which read “Notwithstanding the preceding sentence, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1).”, in par. (2) of subsec. (b), struck out “of this title” after “II” and substituted “patentability.” for “patentability,”, and in introductory provisions of subsec. (c), struck out “of this title” after “156” and substituted “In an action involving the validity or infringement of a patent” for “In actions involving the validity or infringement of a patent” and “Court of Federal Claims” for “Claims Court”.
 
-    [Pub. L. 112–29, § 20(g)(2)(B)][/us/pl/112/29/s20/g/2/B], which directed substitution of “unenforceability.” for “uneforceability,” in par. (1) of former second par. which was designated subsec. (b), was executed by making the substitution for “unenforceability,”, to reflect the probable intent of Congress.
+    [Pub. L. 112–29][/us/pl/112/29], § 20(g)(2)(B), which directed substitution of “unenforceability.” for “uneforceability,” in par. (1) of former second par. which was designated subsec. (b), was executed by making the substitution for “unenforceability,”, to reflect the probable intent of Congress.
 
-    [Pub. L. 112–29, § 15(a)][/us/pl/112/29/s15/a], amended second par. by substituting “(3) Invalidity of the patent or any claim in suit for failure to comply with—
+    [Pub. L. 112–29][/us/pl/112/29], § 15(a), amended second par. by substituting “(3) Invalidity of the patent or any claim in suit for failure to comply with—
 
     “(A) any requirement of section 112, except that the failure to disclose the best mode shall not be a basis on which any claim of a patent may be canceled or held invalid or otherwise unenforceable; or
 
@@ -73,13 +73,13 @@
 
     for “(3) Invalidity of the patent or any claim in suit for failure to comply with any requirement of sections 112 or 251 of this title,”.
 
-    2002—Third par. [Pub. L. 107–273, § 13206(b)(4)][/us/pl/107/273/s13206/b/4], made technical correction to directory language of [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4402(b)(1)\]. See 1999 Amendment note below.
+    2002—Third par. [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(4), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4402(b)(1)\]. See 1999 Amendment note below.
 
-    [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], made technical correction to directory language of [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
+    [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), made technical correction to directory language of [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-    1999—Third par. [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], substituted “(2) by the Director,” for “(2) by the Commissioner,”.
+    1999—Third par. [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], as amended by [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(1)(B), substituted “(2) by the Director,” for “(2) by the Commissioner,”.
 
-    [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4402(b)(1)\], as amended by [Pub. L. 107–273, § 13206(b)(4)][/us/pl/107/273/s13206/b/4], substituted “154(b) or 156 of this title” for “156 of this title”.
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4402(b)(1)\], as amended by [Pub. L. 107–273][/us/pl/107/273], § 13206(b)(4), substituted “154(b) or 156 of this title” for “156 of this title”.
 
     1995—First par. [Pub. L. 104–41][/us/pl/104/41] inserted after second sentence “Notwithstanding the preceding sentence, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1).”
 
@@ -124,37 +124,37 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F812
-[/us/pl/89/83/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83%2Fs10
+[/us/pl/89/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F83
 [/us/stat/79/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F261
-[/us/pl/94/131/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131%2Fs10
+[/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/stat/89/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F692
-[/us/pl/97/164/s161/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs161%2F7
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F49
-[/us/pl/98/417/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs203
+[/us/pl/98/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2FtII
 [/us/stat/98/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1603
-[/us/pl/104/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F41%2Fs2
+[/us/pl/104/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F41
 [/us/stat/109/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F352
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F328
-[/us/act/1897-03-03/ch391/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391%2Fs2
+[/us/act/1897-03-03/ch391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391
 [/us/stat/29/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F692
-[/us/act/1939-08-05/ch450/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch450%2Fs1
+[/us/act/1939-08-05/ch450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch450
 [/us/stat/53/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1212
-[/us/pl/112/29/s20/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fg%2F1
-[/us/pl/112/29/s20/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fg%2F2%2FB
-[/us/pl/112/29/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs15%2Fa
-[/us/pl/107/273/s13206/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F4
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/107/273/s13206/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F4
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/104/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F41
 [/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
 [/us/usc/t35/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 158 ([Feb. 1, 1952, ch. 4, § 8][/us/act/1952-02-01/ch4/s8], [66 Stat. 6][/us/stat/66/6]).
+    Based on Title 35, U.S.C., 1946 ed., § 158 ([Feb. 1, 1952, ch. 4][/us/act/1952-02-01/ch4], § 8, [66 Stat. 6][/us/stat/66/6]).
 
     Language is changed.
 
@@ -42,7 +42,7 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F808
-[/us/act/1952-02-01/ch4/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-02-01%2Fch4%2Fs8
+[/us/act/1952-02-01/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-02-01%2Fch4
 [/us/stat/66/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F6
 
 

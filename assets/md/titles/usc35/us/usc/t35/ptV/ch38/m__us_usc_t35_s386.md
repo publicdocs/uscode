@@ -27,7 +27,7 @@
 
     In accordance with the conditions and requirements of section 120, an international design application designating the United States shall be entitled to the benefit of the filing date of a prior national application, a prior international application as defined in section 351(c) designating the United States, or a prior international design application designating the United States, and a national application shall be entitled to the benefit of the filing date of a prior international design application designating the United States. If any claim for the benefit of an earlier filing date is based on a prior international application as defined in section 351(c) which designated but did not originate in the United States or a prior international design application which designated but did not originate in the United States, the Director may require the filing in the Patent and Trademark Office of a certified copy of such application together with a translation thereof into the English language, if it was filed in another language.
 
-(Added [Pub. L. 112–211, title I, § 101(a)][/us/pl/112/211/s101/a], Dec. 18, 2012, [126 Stat. 1529][/us/stat/126/1529].)
+(Added [Pub. L. 112–211, title I][/us/pl/112/211/tI], § 101(a), Dec. 18, 2012, [126 Stat. 1529][/us/stat/126/1529].)
 
  __Effective Date__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/112/211/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs101%2Fa
+[/us/pl/112/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2FtI
 [/us/stat/126/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1529
 [/us/pl/112/211/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs103
 [/us/usc/t35/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs100

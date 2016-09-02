@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 31 (R.S. 4886, amended (1) [Mar. 3, 1897, ch. 391, § 1][/us/act/1897-03-03/ch391/s1], [29 Stat. 692][/us/stat/29/692], (2) [May 23, 1930, ch. 312, § 1][/us/act/1930-05-23/ch312/s1], [46 Stat. 376][/us/stat/46/376], (3) [Aug. 5, 1939, ch. 450, § 1][/us/act/1939-08-05/ch450/s1], [53 Stat. 1212][/us/stat/53/1212]).
+    Based on Title 35, U.S.C., 1946 ed., § 31 (R.S. 4886, amended (1) [Mar. 3, 1897, ch. 391][/us/act/1897-03-03/ch391], § 1, [29 Stat. 692][/us/stat/29/692], (2) [May 23, 1930, ch. 312][/us/act/1930-05-23/ch312], § 1, [46 Stat. 376][/us/stat/46/376], (3) [Aug. 5, 1939, ch. 450][/us/act/1939-08-05/ch450], § 1, [53 Stat. 1212][/us/stat/53/1212]).
 
     The corresponding section of existing statute is split into two sections, section 101 relating to the subject matter for which patents may be obtained, and section 102 defining statutory novelty and stating other conditions for patentability.
 
@@ -29,7 +29,7 @@
 
  __Limitation on Issuance of Patents__ 
 
-[Pub. L. 112–29, § 33][/us/pl/112/29/s33], Sept. 16, 2011, [125 Stat. 340][/us/stat/125/340], provided that:
+[Pub. L. 112–29][/us/pl/112/29], § 33, Sept. 16, 2011, [125 Stat. 340][/us/stat/125/340], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -54,13 +54,13 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F797
-[/us/act/1897-03-03/ch391/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391%2Fs1
+[/us/act/1897-03-03/ch391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391
 [/us/stat/29/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F692
-[/us/act/1930-05-23/ch312/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312%2Fs1
+[/us/act/1930-05-23/ch312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312
 [/us/stat/46/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F376
-[/us/act/1939-08-05/ch450/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch450%2Fs1
+[/us/act/1939-08-05/ch450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch450
 [/us/stat/53/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1212
-[/us/pl/112/29/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs33
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F340
 
 

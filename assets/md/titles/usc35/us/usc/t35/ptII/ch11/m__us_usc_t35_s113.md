@@ -17,11 +17,11 @@
 
     The applicant shall furnish a drawing where necessary for the understanding of the subject matter sought to be patented. When the nature of such subject matter admits of illustration by a drawing and the applicant has not furnished such a drawing, the Director may require its submission within a time period of not less than two months from the sending of a notice thereof. Drawings submitted after the filing date of the application may not be used (i) to overcome any insufficiency of the specification due to lack of an enabling disclosure or otherwise inadequate disclosure therein, or (ii) to supplement the original disclosure thereof for the purpose of interpretation of the scope of any claim.
 
-([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 799][/us/stat/66/799]; [Pub. L. 94–131, § 8][/us/pl/94/131/s8], Nov. 14, 1975, [89 Stat. 691][/us/stat/89/691]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906].)
+([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 799][/us/stat/66/799]; [Pub. L. 94–131][/us/pl/94/131], § 8, Nov. 14, 1975, [89 Stat. 691][/us/stat/89/691]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(b)(1)(B), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906].)
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 34, part (R.S. 4889, amended [Mar. 3, 1915, ch. 94, § 2][/us/act/1915-03-03/ch94/s2], [38 Stat. 958][/us/stat/38/958]).
+    Based on Title 35, U.S.C., 1946 ed., § 34, part (R.S. 4889, amended [Mar. 3, 1915, ch. 94][/us/act/1915-03-03/ch94], § 2, [38 Stat. 958][/us/stat/38/958]).
 
     The requirement for signature in the corresponding section of existing statute is omitted; regulations of the Patent Office can take care of any substitute. A redundant clause is omitted.
 
@@ -50,13 +50,13 @@
 
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F799
-[/us/pl/94/131/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131%2Fs8
+[/us/pl/94/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F131
 [/us/stat/89/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F691
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
-[/us/act/1915-03-03/ch94/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch94%2Fs2
+[/us/act/1915-03-03/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch94
 [/us/stat/38/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F958
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

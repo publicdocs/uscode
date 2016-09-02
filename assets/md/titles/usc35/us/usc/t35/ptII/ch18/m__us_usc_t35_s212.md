@@ -17,7 +17,7 @@
 
     No scholarship, fellowship, training grant, or other funding agreement made by a Federal agency primarily to an awardee for educational purposes will contain any provision giving the Federal agency any rights to inventions made by the awardee.
 
-(Added [Pub. L. 98–620, title V, § 501(14)][/us/pl/98/620/s501/14], Nov. 8, 1984, [98 Stat. 3368][/us/stat/98/3368].)
+(Added [Pub. L. 98–620, title V][/us/pl/98/620/tV], § 501(14), Nov. 8, 1984, [98 Stat. 3368][/us/stat/98/3368].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/620/s501/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs501%2F14
+[/us/pl/98/620/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtV
 [/us/stat/98/3368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3368
 
 
