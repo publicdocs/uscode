@@ -113,13 +113,9 @@
 
  __Discretionary Offsetting Collections__ 
 
-[Pub. L. 113–76, div. G, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 299][/us/stat/128/299], provided in part: 
+[Pub. L. 112–74, div. E, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 996][/us/stat/125/996], provided: 
 
-> “That, in subsequent fiscal years \[after fiscal year 2014\], all amounts collected by the Office of Surface Mining from permit fees pursuant to [section 507 of Public Law 95–87][/us/pl/95/87/s507] ([30 U.S.C. 1257][/us/usc/t30/s1257]) shall be credited to this account \[Office of Surface Mining Reclamation and Enforcement—regulation and technology\] as discretionary offsetting collections, to remain available until expended.”
-
-    Similar provisions were contained in the following prior appropriations act:
-
-    [Pub. L. 112–74, div. E, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 996][/us/stat/125/996].
+> “That, in subsequent fiscal years \[after fiscal year 2012\], all amounts collected by the Office of Surface Mining from permit fees pursuant to [section 507 of Public Law 95–87][/us/pl/95/87/s507] ([30 U.S.C. 1257][/us/usc/t30/s1257]) shall be credited to this account as discretionary offsetting collections, to remain available until expended.”
 
  __Preparation of Cross-Sections, Maps, and Plans of Land By or Under Direction of Qualified Registered Professional Engineers, Geologists, or Land Surveyors__ 
 
@@ -148,12 +144,10 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6014
 [/us/usc/t30/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F299
-[/us/pl/95/87/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs507
-[/us/usc/t30/s1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1257
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F996
+[/us/pl/95/87/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs507
+[/us/usc/t30/s1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1257
 [/us/pl/98/146/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146%2Fs115
 [/us/stat/97/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F938
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private; the Mine Safety and Health Administration is authorized to promote health and safety education and training in the mining community through cooperative programs with States, industry, and safety associations; the Secretary is authorized to recognize the Joseph A. Holmes Safety Association as a principal safety association and, notwithstanding any other provision of law, may provide funds and, with or without reimbursement, personnel, including service of Mine Safety and Health Administration officials as officers in local chapters or in the national organization; and any funds available to the Department of Labor may be used, with the approval of the Secretary, to provide for the costs of mine rescue and survival operations in the event of a major disaster.
 
-([Pub. L. 113–76, div. H, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 357][/us/stat/128/357].)
+([Pub. L. 112–74, div. F, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1060][/us/stat/125/1060].)
 
  __Codification__ 
 
@@ -26,8 +26,6 @@
  __Similar Provisions__ 
 
 Similar provisions were contained in the following prior appropriation acts:
-
-    [Pub. L. 112–74, div. F, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1060][/us/stat/125/1060].
 
     [Pub. L. 111–117, div. D, title I][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3235][/us/stat/123/3235].
 
@@ -100,8 +98,6 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F357
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1060
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117

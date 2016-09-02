@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1308b.md) | [Next](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1309a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1309)
+[Previous](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1308a.md) | [Next](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1309a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1309)
 
 ## § 1309. Certification and training of blasters
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1308b.md) | [Next](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1309a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1309)
+[Previous](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1308a.md) | [Next](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1309a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1309)
 
 ----------
 ----------

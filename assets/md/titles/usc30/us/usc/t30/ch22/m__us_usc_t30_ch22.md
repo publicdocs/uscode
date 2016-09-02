@@ -791,14 +791,6 @@ SUBCHAPTER V—ADMINISTRATIVE PROVISIONS  </td>
 
   </tr>
 
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs966" data-uslm-ref="/us/usc/t30/s966">966.</a>  </td>
-
-    <td> Retention of fees.  </td>
-
-  </tr>
-
 </table>
 
 ----------
