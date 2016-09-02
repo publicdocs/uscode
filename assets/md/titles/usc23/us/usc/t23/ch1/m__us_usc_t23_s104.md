@@ -1135,23 +1135,25 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
     [Pub. L. 105–178, title I, § 1102][/us/pl/105/178/s1102], June 9, 1998, [112 Stat. 115][/us/stat/112/115], as amended by [Pub. L. 105–206, title IX, § 9002(b)][/us/pl/105/206/s9002/b], July 22, 1998, [112 Stat. 834][/us/stat/112/834]; [Pub. L. 106–159, title I, § 103(b)(2)][/us/pl/106/159/s103/b/2], Dec. 9, 1999, [113 Stat. 1753][/us/stat/113/1753].
 
-[Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 583][/us/stat/128/583], provided that: 
+[Pub. L. 113–235, div. K, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2705][/us/stat/128/2705], provided in part that: 
 
-> “Funds available for the implementation or execution of programs of Federal-aid highways and highway safety construction programs authorized under titles 23 and 49, United States Code, and the provisions of [Public Law 112–141][/us/pl/112/141] shall not exceed total obligations of $40,256,000,000 for fiscal year 2014”.
+> “Funds available for the implementation or execution of programs of Federal-aid Highways and highway safety construction programs authorized under titles 23 and 49, United States Code, and the provisions of [Public Law 112–141][/us/pl/112/141] shall not exceed total obligations of $40,256,000,000 for fiscal year 2015”.
 
 Similar provisions for prior fiscal years were contained in the following acts:
 
+    [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 583][/us/stat/128/583].
+
     [Pub. L. 112–55, div. C, title I][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 650][/us/stat/125/650].
 
-[Pub. L. 113–76, div. L, title I, § 120][/us/pl/113/76/s120], Jan. 17, 2014, [128 Stat. 583][/us/stat/128/583], provided that:
+[Pub. L. 113–235, div. K, title I, § 120][/us/pl/113/235/s120], Dec. 16, 2014, [128 Stat. 2705][/us/stat/128/2705], provided that:
 
 >     “(a)
 
->      For fiscal year 2014, the Secretary of Transportation shall—
+>      For fiscal year 2015, the Secretary of Transportation shall—
 
 >         “(1)
 
->          not distribute from the obligation limitation for Federal-aid highways—
+>          not distribute from the obligation limitation for Federal-aid Highways—
 
 >             “(A) amounts authorized for administrative expenses and programs by [section 104(a) of title 23][/us/usc/t23/s104/a], United States Code; and
 
@@ -1159,9 +1161,9 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
 >         “(2)
 
->          not distribute an amount from the obligation limitation for Federal-aid highways that is equal to the unobligated balance of amounts—
+>          not distribute an amount from the obligation limitation for Federal-aid Highways that is equal to the unobligated balance of amounts—
 
->             “(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid highway and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under sections 202 or 204 of title 23, United States Code); and
+>             “(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid Highways and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under section 202 or 204 of title 23, United States Code); and
 
 >             “(B) for which obligation limitation was provided in a previous fiscal year;
 
@@ -1169,13 +1171,13 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
 >          determine the proportion that—
 
->             “(A) the obligation limitation for Federal-aid highways, less the aggregate of amounts not distributed under paragraphs (1) and (2) of this subsection; bears to
+>             “(A) the obligation limitation for Federal-aid Highways, less the aggregate of amounts not distributed under paragraphs (1) and (2) of this subsection; bears to
 
->             “(B) the total of the sums authorized to be appropriated for the Federal-aid highway and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (11) of subsection (b) and sums authorized to be appropriated for [section 119 of title 23][/us/usc/t23/s119], United States Code, equal to the amount referred to in subsection (b)(12) for such fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
+>             “(B) the total of the sums authorized to be appropriated for the Federal-aid Highways and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (12) of subsection (b) and sums authorized to be appropriated for [section 119 of title 23][/us/usc/t23/s119], United States Code, equal to the amount referred to in subsection (b)(13) for such fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
 
 >         “(4)
 
->          distribute the obligation limitation for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2), for each of the programs (other than programs to which paragraph (1) applies) that are allocated by the Secretary under the Moving Ahead for Progress in the 21st Century Act \[[Pub. L. 112–141][/us/pl/112/141], see Tables for classification\] and title 23, United States Code, or apportioned by the Secretary under sections 202 or 204 of that title, by multiplying—
+>          distribute the obligation limitation for Federal-aid Highways, less the aggregate amounts not distributed under paragraphs (1) and (2), for each of the programs (other than programs to which paragraph (1) applies) that are allocated by the Secretary under the Moving Ahead for Progress in the 21st Century Act \[[Pub. L. 112–141][/us/pl/112/141], see Tables for classification\] and title 23, United States Code, or apportioned by the Secretary under sections 202 or 204 of that title, by multiplying—
 
 >             “(A) the proportion determined under paragraph (3); by
 
@@ -1183,7 +1185,7 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
 >         “(5)
 
->          distribute the obligation limitation for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2) and the amounts distributed under paragraph (4), for Federal-aid highway and highway safety construction programs that are apportioned by the Secretary under title 23, United States Code (other than the amounts apportioned for the national highway performance program in [section 119 of title 23][/us/usc/t23/s119], United States Code, that are exempt from the limitation under subsection (b)(12) and the amounts apportioned under sections 202 and 204 of that title) in the proportion that—
+>          distribute the obligation limitation for Federal-aid Highways, less the aggregate amounts not distributed under paragraphs (1) and (2) and the amounts distributed under paragraph (4), for Federal-aid Highways and highway safety construction programs that are apportioned by the Secretary under title 23, United States Code (other than the amounts apportioned for the National Highway Performance Program in [section 119 of title 23][/us/usc/t23/s119], United States Code, that are exempt from the limitation under subsection (b)(13) and the amounts apportioned under sections 202 and 204 of that title) in the proportion that—
 
 >             “(A) amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to each State for such fiscal year; bears to
 
@@ -1191,11 +1193,11 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
 >     “(b)  __Exceptions From Obligation Limitation__  __.—__ 
 
->     The obligation limitation for Federal-aid highways shall not apply to obligations under or for—
+>     The obligation limitation for Federal-aid Highways shall not apply to obligations under or for—
 
 >         “(1) [section 125 of title 23][/us/usc/t23/s125], United States Code;
 
->         “(2) section 147 of the Surface Transportation Assistance Act of 1978 \[[Pub. L. 95–599][/us/pl/95/599]\] (\[formerly\] [23 U.S.C. 144][/us/usc/t23/s144] note; [92 Stat. 2714][/us/stat/92/2714]);
+>         “(2) section 147 of the Surface Transportation Assistance Act of 1978 (\[formerly\] [23 U.S.C. 144][/us/usc/t23/s144] note; [92 Stat. 2714][/us/stat/92/2714]);
 
 >         “(3) section 9 of the Federal-Aid Highway Act of 1981 \[[Pub. L. 97–134][/us/pl/97/134]\] ([95 Stat. 1701][/us/stat/95/1701]);
 
@@ -1209,13 +1211,15 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
 >         “(8) [section 105 of title 23][/us/usc/t23/s105], United States Code (as in effect for fiscal years 1998 through 2004, but only in an amount equal to $639,000,000 for each of those fiscal years);
 
->         “(9) Federal-aid highway programs for which obligation authority was made available under the Transportation Equity Act for the 21st Century \[[Pub. L. 105–178][/us/pl/105/178], see Tables for classification\] ([112 Stat. 107][/us/stat/112/107]) or subsequent Acts for multiple years or to remain available until expended, but only to the extent that the obligation authority has not lapsed or been used;
+>         “(9) Federal-aid Highways programs for which obligation authority was made available under the Transportation Equity Act for the 21st Century ([112 Stat. 107][/us/stat/112/107]) or subsequent Acts for multiple years or to remain available until expended, but only to the extent that the obligation authority has not lapsed or been used;
 
->         “(10) \[former\] [section 105 of title 23][/us/usc/t23/s105], United States Code (but, for each of fiscal years 2005 through 2012, only in an amount equal to $639,000,000 for each of those fiscal years);
+>         “(10) \[former\] [section 105 of title 23][/us/usc/t23/s105], United States Code (as in effect for fiscal years 2005 through 2012, but only in an amount equal to $639,000,000 for each of those fiscal years);
 
->         “(11) section 1603 of SAFETEA–LU \[[Pub. L. 109–59][/us/pl/109/59]\] ([23 U.S.C. 118][/us/usc/t23/s118] note; [119 Stat. 1248][/us/stat/119/1248]), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation; and
+>         “(11) section 1603 of SAFETEA–LU \[[Pub. L. 109–59][/us/pl/109/59]\] ([23 U.S.C. 118][/us/usc/t23/s118] note; [119 Stat. 1248][/us/stat/119/1248]), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation; and \[sic\]
 
->         “(12) [section 119 of title 23][/us/usc/t23/s119], United States Code (but, for fiscal years 2013 and 2014, only in an amount equal to $639,000,000 for each of those fiscal years).
+>         “(12) [section 119 of title 23][/us/usc/t23/s119], United States Code (as in effect for fiscal years 2013 and 2014, but only in an amount equal to $639,000,000 for each of those fiscal years); and
+
+>         “(13) [section 119 of title 23][/us/usc/t23/s119], United States Code (but, for fiscal year 2015, only in an amount equal to $639,000,000).
 
 >     “(c)  __Redistribution of Unused Obligation Authority__  __.—__ 
 
@@ -1223,13 +1227,13 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
 >         “(1) revise a distribution of the obligation limitation made available under subsection (a) if an amount distributed cannot be obligated during that fiscal year; and
 
->         “(2) redistribute sufficient amounts to those States able to obligate amounts in addition to those previously distributed during that fiscal year, giving priority to those States having large unobligated balances of funds apportioned under sections 144 (as in effect on the day before the date of enactment of the Moving Ahead for Progress in the 21st Century Act \[July 6, 2012\]) and 104 of title 23, United States Code.
+>         “(2) redistribute sufficient amounts to those States able to obligate amounts in addition to those previously distributed during that fiscal year, giving priority to those States having large unobligated balances of funds apportioned under sections 144 (as in effect on the day before the date of enactment of [Public Law 112–141][/us/pl/112/141] \[July 6, 2012\]) and 104 of title 23, United States Code.
 
 >     “(d) __Applicability of Obligation Limitations to Transportation Research Programs.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         Except as provided in paragraph (2), the obligation limitation for Federal-aid highways shall apply to contract authority for transportation research programs carried out under—
+>         Except as provided in paragraph (2), the obligation limitation for Federal-aid Highways shall apply to contract authority for transportation research programs carried out under—
 
 >             “(A) chapter 5 of title 23, United States Code; and
 
@@ -1241,7 +1245,7 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
 >             “(A) remain available for a period of 4 fiscal years; and
 
->             “(B) be in addition to the amount of any limitation imposed on obligations for Federal-aid highway and highway safety construction programs for future fiscal years.
+>             “(B) be in addition to the amount of any limitation imposed on obligations for Federal-aid Highways and highway safety construction programs for future fiscal years.
 
 >     “(e) __Redistribution of Certain Authorized Funds.—__ 
 
@@ -1249,7 +1253,7 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
 >         Not later than 30 days after the date of distribution of obligation limitation under subsection (a), the Secretary shall distribute to the States any funds (excluding funds authorized for the program under [section 202 of title 23][/us/usc/t23/s202], United States Code) that—
 
->             “(A) are authorized to be appropriated for such fiscal year for Federal-aid highway programs; and
+>             “(A) are authorized to be appropriated for such fiscal year for Federal-aid Highways programs; and
 
 >             “(B) the Secretary determines will not be allocated to the States (or will not be apportioned to the States under [section 204 of title 23][/us/usc/t23/s204], United States Code), and will not be available for obligation, for such fiscal year because of the imposition of any obligation limitation for such fiscal year.
 
@@ -1262,6 +1266,8 @@ Similar provisions for prior fiscal years were contained in the following acts:
 >         Funds distributed to each State under paragraph (1) shall be available for any purpose described in [section 133(b) of title 23][/us/usc/t23/s133/b], United States Code.”
 
 Similar provisions for prior fiscal years were contained in the following acts:
+
+    [Pub. L. 113–76, div. L, title I, § 120][/us/pl/113/76/s120], Jan. 17, 2014, [128 Stat. 583][/us/stat/128/583].
 
     [Pub. L. 112–55, div. C, title I, § 120][/us/pl/112/55/s120], Nov. 18, 2011, [125 Stat. 651][/us/stat/125/651].
 
@@ -1885,19 +1891,20 @@ Provisions entitling each State, for specific fiscal years, to receive at least 
 [/us/stat/112/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F834
 [/us/pl/106/159/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs103%2Fb%2F2
 [/us/stat/113/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1753
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2705
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F583
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/stat/125/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F650
-[/us/pl/113/76/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs120
-[/us/stat/128/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F583
+[/us/pl/113/235/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs120
+[/us/stat/128/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2705
 [/us/usc/t23/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fa
 [/us/usc/t23/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs119
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs119
 [/us/usc/t23/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs125
-[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
 [/us/usc/t23/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs144
 [/us/stat/92/2714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2714
 [/us/pl/97/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F134
@@ -1910,17 +1917,20 @@ Provisions entitling each State, for specific fiscal years, to receive at least 
 [/us/stat/105/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2027
 [/us/usc/t23/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs157
 [/us/usc/t23/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs105
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/stat/112/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F107
 [/us/usc/t23/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs105
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs118
 [/us/stat/119/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1248
 [/us/usc/t23/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs119
+[/us/usc/t23/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs119
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs202
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
 [/us/usc/t23/s133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133%2Fb
+[/us/pl/113/76/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs120
+[/us/stat/128/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F583
 [/us/pl/112/55/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs120
 [/us/stat/125/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F651
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117

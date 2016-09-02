@@ -183,7 +183,29 @@
 
         A permit issued under paragraph (1) shall expire not later than 120 days after the date of the declaration of emergency under subparagraph (A) of that paragraph.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 902][/us/stat/72/902]; [Pub. L. 86–624, § 17(e)][/us/pl/86/624/s17/e], July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 93–643, § 106][/us/pl/93/643/s106], Jan. 4, 1975, [88 Stat. 2283][/us/stat/88/2283]; [Pub. L. 94–280, title I, § 120][/us/pl/94/280/s120], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 97–424, title I, § 133][/us/pl/97/424/s133], formerly § 133(a), Jan. 6, 1983, [96 Stat. 2123][/us/stat/96/2123], renumbered § 133, [Pub. L. 100–17, title I, § 133(a)(3)][/us/pl/100/17/s133/a/3], Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170]; [Pub. L. 100–17, title I, § 119][/us/pl/100/17/s119], Apr. 2, 1987, [101 Stat. 157][/us/stat/101/157]; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 347(c)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927]; [Pub. L. 102–240, title I, § 1023(a)][/us/pl/102/240/s1023/a], (b), (d), Dec. 18, 1991, [105 Stat. 1951][/us/stat/105/1951], 1952, 1954; [Pub. L. 103–331, title III, § 332][/us/pl/103/331/s332], Sept. 30, 1994, [108 Stat. 2493][/us/stat/108/2493]; [Pub. L. 103–429, § 3(3)][/us/pl/103/429/s3/3], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 104–59, title III, § 312(a)(1)][/us/pl/104/59/s312/a/1], (2), (b), Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–88, title IV][/us/pl/104/88], §§ 404, 405(a)(1), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1106(c)(2)(B), 1212(d)(1), June 9, 1998, [112 Stat. 136][/us/stat/112/136], 194; [Pub. L. 107–107, div. A, title X, § 1064][/us/pl/107/107/s1064], Dec. 28, 2001, [115 Stat. 1233][/us/stat/115/1233]; [Pub. L. 108–447, div. J, title I, § 121][/us/pl/108/447/s121], Dec. 8, 2004, [118 Stat. 3347][/us/stat/118/3347]; [Pub. L. 109–58, title VII, § 756(c)][/us/pl/109/58/s756/c], Aug. 8, 2005, [119 Stat. 832][/us/stat/119/832]; [Pub. L. 109–59, title I, § 1111(b)(3)][/us/pl/109/59/s1111/b/3], Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171]; [Pub. L. 111–117, div. A, title I, § 194(a)][/us/pl/111/117/s194/a], (c), (d), (f), Dec. 16, 2009, [123 Stat. 3072][/us/stat/123/3072], 3073; [Pub. L. 112–55, div. C, title I, § 125][/us/pl/112/55/s125], Nov. 18, 2011, [125 Stat. 655][/us/stat/125/655]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1404(a), 1510, 1511, July 6, 2012, [126 Stat. 557][/us/stat/126/557], 567.)
+    (j)  __Operation of Vehicles on Certain Other Wisconsin Highways__  __.—__ 
+
+    If any segment of the United States Route 41 corridor, as described in section 1105(c)(57) of the Intermodal Surface Transportation Efficiency Act of 1991, is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a).
+
+    (k)  __Operation of Vehicles on Certain Mississippi Highways__  __.—__ 
+
+    If any segment of United States Route 78 in Mississippi from mile marker 0 to mile marker 113 is designated as part of the Interstate System, no limit established under this section may apply to that segment with respect to the operation of any vehicle that could have legally operated on that segment before such designation.
+
+    (l) __Operation of Vehicles on Certain Kentucky Highways.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        If any segment of highway described in paragraph (2) is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a).
+
+        (2)  __Description of highway segments__  __.—__ 
+
+        The highway segments referred to in paragraph (1) are as follows:
+
+            (A) Interstate Route 69 in Kentucky (formerly the Wendell H. Ford (Western Kentucky) Parkway) from the Interstate Route 24 Interchange, near Eddyville, to the Edward T. Breathitt (Pennyrile) Parkway Interchange.
+
+            (B) The Edward T. Breathitt (Pennyrile) Parkway (to be designated as Interstate Route 69) in Kentucky from the Wendell H. Ford (Western Kentucky) Parkway Interchange to near milepost 77, and on new alignment to an interchange on the Audubon Parkway, if the segment is designated as part of the Interstate System.
+
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 902][/us/stat/72/902]; [Pub. L. 86–624, § 17(e)][/us/pl/86/624/s17/e], July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 93–643, § 106][/us/pl/93/643/s106], Jan. 4, 1975, [88 Stat. 2283][/us/stat/88/2283]; [Pub. L. 94–280, title I, § 120][/us/pl/94/280/s120], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 97–424, title I, § 133][/us/pl/97/424/s133], formerly § 133(a), Jan. 6, 1983, [96 Stat. 2123][/us/stat/96/2123], renumbered § 133, [Pub. L. 100–17, title I, § 133(a)(3)][/us/pl/100/17/s133/a/3], Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170]; [Pub. L. 100–17, title I, § 119][/us/pl/100/17/s119], Apr. 2, 1987, [101 Stat. 157][/us/stat/101/157]; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 347(c)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927]; [Pub. L. 102–240, title I, § 1023(a)][/us/pl/102/240/s1023/a], (b), (d), Dec. 18, 1991, [105 Stat. 1951][/us/stat/105/1951], 1952, 1954; [Pub. L. 103–331, title III, § 332][/us/pl/103/331/s332], Sept. 30, 1994, [108 Stat. 2493][/us/stat/108/2493]; [Pub. L. 103–429, § 3(3)][/us/pl/103/429/s3/3], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 104–59, title III, § 312(a)(1)][/us/pl/104/59/s312/a/1], (2), (b), Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–88, title IV][/us/pl/104/88], §§ 404, 405(a)(1), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1106(c)(2)(B), 1212(d)(1), June 9, 1998, [112 Stat. 136][/us/stat/112/136], 194; [Pub. L. 107–107, div. A, title X, § 1064][/us/pl/107/107/s1064], Dec. 28, 2001, [115 Stat. 1233][/us/stat/115/1233]; [Pub. L. 108–447, div. J, title I, § 121][/us/pl/108/447/s121], Dec. 8, 2004, [118 Stat. 3347][/us/stat/118/3347]; [Pub. L. 109–58, title VII, § 756(c)][/us/pl/109/58/s756/c], Aug. 8, 2005, [119 Stat. 832][/us/stat/119/832]; [Pub. L. 109–59, title I, § 1111(b)(3)][/us/pl/109/59/s1111/b/3], Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171]; [Pub. L. 111–117, div. A, title I, § 194(a)][/us/pl/111/117/s194/a], (c), (d), (f), Dec. 16, 2009, [123 Stat. 3072][/us/stat/123/3072], 3073; [Pub. L. 112–55, div. C, title I, § 125][/us/pl/112/55/s125], Nov. 18, 2011, [125 Stat. 655][/us/stat/125/655]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1404(a), 1510, 1511, July 6, 2012, [126 Stat. 557][/us/stat/126/557], 567; [Pub. L. 113–235, div. K, title I, § 125][/us/pl/113/235/s125], Dec. 16, 2014, [128 Stat. 2709][/us/stat/128/2709].)
 
  __References in Text__ 
 
@@ -203,11 +225,15 @@
 
     The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (i)(1)(A), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
 
+    Section 1105(c)(57) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (j), is [section 1105(c)(57) of Pub. L. 102–240][/us/pl/102/240/s1105/c/57], which is not classified to the Code.
+
  __Codification__ 
 
     Amendments by section 194(c), (f) of [Pub. L. 111–117][/us/pl/111/117] were executed as if the amendments by section 194(a), (d) of [Pub. L. 111–117][/us/pl/111/117] were still in effect, notwithstanding section 194(b), (e) of [Pub. L. 111–117][/us/pl/111/117] which provided that the amendments by section 194(a), (d) were only effective during the 1-year period beginning on the date of enactment of [Pub. L. 111–117][/us/pl/111/117]. See 2009 Amendment notes and Effective and Termination Dates of 2009 Amendment notes below.
 
  __Amendments__ 
+
+    2014—Subsecs. (j) to (l). [Pub. L. 113–235][/us/pl/113/235] added subsecs. (j) to (l).
 
     2012—Subsec. (a)(1). [Pub. L. 112–141, § 1404(a)][/us/pl/112/141/s1404/a], substituted “The Secretary shall withhold 50 percent of the apportionment of a State under section 104(b)(1) in any fiscal year in which the State” for “No funds shall be apportioned in any fiscal year under [section 104(b)(1) of this title][/us/usc/t23/s104/b/1] to any State which”.
 
@@ -486,6 +512,8 @@
 [/us/stat/125/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F655
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F557
+[/us/pl/113/235/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs125
+[/us/stat/128/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2709
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/usc/t23/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs118%2Fb
 [/us/pl/112/141/s1519/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5
@@ -497,10 +525,12 @@
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
+[/us/pl/102/240/s1105/c/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1105%2Fc%2F57
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/141/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fa
 [/us/usc/t23/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F1
 [/us/pl/112/141/s1510/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1510%2F1

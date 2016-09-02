@@ -91,11 +91,13 @@
 
  __Buy America Waiver Notification and Annual Reports__ 
 
-[Pub. L. 113–76, div. L, title I, § 122][/us/pl/113/76/s122], Jan. 17, 2014, [128 Stat. 586][/us/stat/128/586], provided that: 
+[Pub. L. 113–235, div. K, title I, § 122][/us/pl/113/235/s122], Dec. 16, 2014, [128 Stat. 2708][/us/stat/128/2708], provided that: 
 
-> “Not less than 15 days prior to waiving, under his statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor:  Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
+> “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid Highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor:  Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. L, title I, § 122][/us/pl/113/76/s122], Jan. 17, 2014, [128 Stat. 586][/us/stat/128/586].
 
     [Pub. L. 112–55, div. C, title I, § 122][/us/pl/112/55/s122], Nov. 18, 2011, [125 Stat. 654][/us/stat/125/654].
 
@@ -183,6 +185,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/113/235/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs122
+[/us/stat/128/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2708
 [/us/pl/113/76/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs122
 [/us/stat/128/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F586
 [/us/pl/112/55/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs122
