@@ -15,7 +15,7 @@
 
 ## § 5701. Findings and declarations
 
-The Congress makes the following findings and declarations:
+    The Congress makes the following findings and declarations:
 
     (1)
 

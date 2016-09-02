@@ -15,7 +15,7 @@
 
 ## § 3141. Congressional findings
 
-The Congress makes the following findings:
+    The Congress makes the following findings:
 
     (1) The United States Government collects substantial amounts of information from foreign owned or controlled business enterprises or affiliates operating in the United States.
 

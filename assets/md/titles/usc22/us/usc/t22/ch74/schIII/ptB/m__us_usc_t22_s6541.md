@@ -15,7 +15,7 @@
 
 ## § 6541. Congressional findings and declaration of purpose
 
-Congress finds that—
+    Congress finds that—
 
     (1) it is the policy of the United States to promote the right of freedom of opinion and expression, including the freedom “to seek, receive, and impart information and ideas through any media and regardless of frontiers”, in accordance with Article 19 of the Universal Declaration of Human Rights;
 

@@ -15,7 +15,7 @@
 
 ## § 6941. Findings
 
-The Congress finds as follows:
+    The Congress finds as follows:
 
     (1) The opening of world markets through the elimination of tariff and nontariff barriers has contributed to a 56-percent increase in exports of United States goods and services since 1992.
 

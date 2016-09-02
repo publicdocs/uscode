@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_ch35_schIV.md) | [Next](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2582, 2583.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2581)
+[Previous](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_ch35_schIV.md) | [Next](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2584.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2581)
 
 ## § 2581. General authority of Secretary of State
 
-In addition to any authorities otherwise available, the Secretary of State in the performance of functions under this chapter is authorized to—
+    In addition to any authorities otherwise available, the Secretary of State in the performance of functions under this chapter is authorized to—
 
     (a) __Utilization of other Federal agencies; transfers of supplies, equipment, and surplus property__ 
 
@@ -131,9 +131,19 @@ In addition to any authorities otherwise available, the Secretary of State in th
 
     \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
+§§ 2582, 2583. __Repealed.__  __[__  __Pub. L. 105–277, div. G__  __][/us/pl/105/277]__  __, subdiv. A, title XII, § 1222,__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2681–768__  __][/us/stat/112/2681-768]__ 
+
+    Section 2582, [Pub. L. 87–297, title IV, § 42][/us/pl/87/297/s42], Sept. 26, 1961, [75 Stat. 636][/us/stat/75/636]; [Pub. L. 96–465, title II, § 2204(a)][/us/pl/96/465/s2204/a], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159], related to appointment or employment of Foreign Service personnel.
+
+    Section 2583, [Pub. L. 87–297, title IV, § 43][/us/pl/87/297/s43], Sept. 26, 1961, [75 Stat. 636][/us/stat/75/636], related to exemption from provisions of law relating to contracts or expenditures of Government funds.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Apr. 1, 1999, see [section 1201 of Pub. L. 105–277][/us/pl/105/277/s1201], set out as an Effective Date note under [section 6511 of this title][/us/usc/t22/s6511].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_ch35_schIV.md) | [Next](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2582, 2583.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2581)
+[Previous](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_ch35_schIV.md) | [Next](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2584.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2581)
 
 ----------
 ----------
@@ -180,5 +190,15 @@ In addition to any authorities otherwise available, the Secretary of State in th
 [/us/usc/t22/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6511
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t22/s2581/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2581%2Fd
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/stat/112/2681-768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-768
+[/us/pl/87/297/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs42
+[/us/stat/75/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F636
+[/us/pl/96/465/s2204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2204%2Fa
+[/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
+[/us/pl/87/297/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs43
+[/us/stat/75/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F636
+[/us/pl/105/277/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1201
+[/us/usc/t22/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6511
 
 

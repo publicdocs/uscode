@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652, 2652a.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652b)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2651a.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652b)
 
 ## § 2652b. Assistant Secretary of State for South Asian Affairs
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652, 2652a.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652b)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2651a.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652b)
 
 ----------
 ----------

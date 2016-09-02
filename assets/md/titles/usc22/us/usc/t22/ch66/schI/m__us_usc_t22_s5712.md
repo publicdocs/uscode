@@ -15,7 +15,7 @@
 
 ## § 5712. Participation in multilateral organizations, rights under international agreements, and trade status
 
-It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, should be the policy of the United States with respect to Hong Kong after June 30, 1997:
+    It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, should be the policy of the United States with respect to Hong Kong after June 30, 1997:
 
     (1) The United States should support Hong Kong’s participation in all appropriate multilateral conferences, agreements, and organizations in which Hong Kong is eligible to participate.
 

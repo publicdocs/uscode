@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch5/m__us_usc_t22_s249 to 250f.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s251.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch6)
+[Previous](./../../../..//us/usc/t22/ch5/m__us_usc_t22_s248.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s251.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch6)
 
 ## CHAPTER 6—FOREIGN DIPLOMATIC AND CONSULAR OFFICERS
 
@@ -139,7 +139,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch5/m__us_usc_t22_s249 to 250f.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s251.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch6)
+[Previous](./../../../..//us/usc/t22/ch5/m__us_usc_t22_s248.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s251.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch6)
 
 ----------
 ----------

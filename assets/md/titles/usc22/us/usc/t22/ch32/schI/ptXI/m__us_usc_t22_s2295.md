@@ -15,7 +15,7 @@
 
 ## § 2295. Assistance for the independent states
 
-The President is authorized to provide assistance to the independent states of the former Soviet Union under this part for the following activities:
+    The President is authorized to provide assistance to the independent states of the former Soviet Union under this part for the following activities:
 
     (1) __Urgent humanitarian needs__ 
 

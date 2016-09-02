@@ -15,55 +15,49 @@
 
 ## § 2191. Congressional statement of purpose; creation and functions of Corporation
 
-To mobilize and facilitate the participation of United States private capital and skills in the economic and social development of less developed countries and areas, and countries in transition from nonmarket to market economies, thereby complementing the development assistance objectives of the United States, there is hereby created the Overseas Private Investment Corporation (hereinafter called the “Corporation”), which shall be an agency of the United States under the policy guidance of the Secretary of State.
+    To mobilize and facilitate the participation of United States private capital and skills in the economic and social development of less developed countries and areas, and countries in transition from nonmarket to market economies, thereby complementing the development assistance objectives of the United States, there is hereby created the Overseas Private Investment Corporation (hereinafter called the “Corporation”), which shall be an agency of the United States under the policy guidance of the Secretary of State.
 
-The Corporation, in determining whether to provide insurance, financing, or reinsurance for a project, shall especially—
+    The Corporation, in determining whether to provide insurance, financing, or reinsurance for a project, shall especially—
 
     (1) be guided by the economic and social development impact and benefits of such a proj­ect and the ways in which such a project complements, or is compatible with, other development assistance programs or projects of the United States or other donors;
 
     (2) give preferential consideration to investment projects in less developed countries that have per capita incomes of $984 or less in 1986 United States dollars, and restrict its activities with respect to investment projects in less developed countries that have per capita incomes of $4,269 or more in 1986 United States dollars (other than countries designated as beneficiary countries under [section 2702 of title 19][/us/usc/t19/s2702], Ireland, and Northern Ireland); and
 
-    (3)
+    (3) ensure that the project is consistent with the provisions of [section 2151p of this title][/us/usc/t22/s2151p], [section 2151p–1 of this title][/us/usc/t22/s2151p–1], and [section 2151q of this title][/us/usc/t22/s2151q] relating to the environment and natural resources of, and tropical forests and endangered species in, developing countries, and consistent with the intent of regulations issued pursuant to [section 2151p of this title][/us/usc/t22/s2151p], [section 2151p–1 of this title][/us/usc/t22/s2151p–1], and [section 2151q of this title][/us/usc/t22/s2151q].
 
-     ensure that the project is consistent with the provisions of [section 2151p of this title][/us/usc/t22/s2151p], [section 2151p–1 of this title][/us/usc/t22/s2151p–1], and [section 2151q of this title][/us/usc/t22/s2151q] relating to the environment and natural resources of, and tropical forests and endangered species in, developing countries, and consistent with the intent of regulations issued pursuant to [section 2151p of this title][/us/usc/t22/s2151p], [section 2151p–1 of this title][/us/usc/t22/s2151p–1], and [section 2151q of this title][/us/usc/t22/s2151q].
+    In carrying out its purpose, the Corporation, utilizing broad criteria, shall undertake—
 
-        In carrying out its purpose, the Corporation, utilizing broad criteria, shall undertake—
+    (a) to conduct financing, insurance, and reinsurance operations on a self-sustaining basis, taking into account in its financing operations the economic and financial soundness of projects;
 
-        (a) to conduct financing, insurance, and reinsurance operations on a self-sustaining basis, taking into account in its financing operations the economic and financial soundness of projects;
+    (b) to utilize private credit and investment institutions and the Corporation’s guaranty authority as the principal means of mobilizing capital investment funds;
 
-        (b) to utilize private credit and investment institutions and the Corporation’s guaranty authority as the principal means of mobilizing capital investment funds;
+    (c) to broaden private participation and revolve its funds through selling its direct investments to private investors whenever it can appropriately do so on satisfactory terms;
 
-        (c) to broaden private participation and revolve its funds through selling its direct investments to private investors whenever it can appropriately do so on satisfactory terms;
+    (d) to conduct its insurance operations with due regard to principles of risk management including efforts to share its insurance and reinsurance risks;
 
-        (d) to conduct its insurance operations with due regard to principles of risk management including efforts to share its insurance and reinsurance risks;
+    (e) to the maximum degree possible consistent with its purposes—
 
-        (e)
+    (1) to give preferential consideration in its investment insurance, reinsurance, and guaranty activities to investment projects sponsored by or involving United States small business; and
 
-         to the maximum degree possible consistent with its purposes—
+    (2) to increase the proportion of projects sponsored by or significantly involving United States small business to at least 30 percent of all projects insured, reinsured, or guaranteed by the Corporation;
 
-            (1) to give preferential consideration in its investment insurance, reinsurance, and guaranty activities to investment projects sponsored by or involving United States small business; and
+    (f) to consider in the conduct of its operations the extent to which less developed country governments are receptive to private enterprise, domestic and foreign, and their willingness and ability to maintain conditions which enable private enterprise to make its full contribution to the development process;
 
-            (2) to increase the proportion of projects sponsored by or significantly involving United States small business to at least 30 percent of all projects insured, reinsured, or guaranteed by the Corporation;
+    (g) to foster private initiative and competition and discourage monopolistic practices;
 
-        (f) to consider in the conduct of its operations the extent to which less developed country governments are receptive to private enterprise, domestic and foreign, and their willingness and ability to maintain conditions which enable private enterprise to make its full contribution to the development process;
+    (h) to further to the greatest degree possible, in a manner consistent with its goals, the balance-of-payments and employment objectives of the United States;
 
-        (g) to foster private initiative and competition and discourage monopolistic practices;
+    (i) to conduct its activities in consonance with the activities of the agency primarily responsible for administering subchapter I of this chapter and the international trade, investment, and financial policies of the United States Government, and to seek to support those developmental projects having positive trade benefits for the United States;
 
-        (h) to further to the greatest degree possible, in a manner consistent with its goals, the balance-of-payments and employment objectives of the United States;
+    (j) to advise and assist, within its field of competence, interested agencies of the United States and other organizations, both public and private, national and international, with respect to projects and programs relating to the development of private enterprise in less developed countries and areas;
 
-        (i) to conduct its activities in consonance with the activities of the agency primarily responsible for administering subchapter I of this chapter and the international trade, investment, and financial policies of the United States Government, and to seek to support those developmental projects having positive trade benefits for the United States;
+    (k)(1) to decline to issue any contract of insurance or reinsurance, or any guaranty, or to enter into any agreement to provide financing for an eligible investor’s proposed investment if the Corporation determines that such investment is likely to cause such investor (or the sponsor of an investment project in which such investor is involved) significantly to reduce the number of his employees in the United States production he is replacing his United States production with production from such investment which involves substantially the same product for substantially the same market as his United States production; and (2) to monitor conformance with the representations of the investor on which the Corporation relied in making the determination required by clause (1);
 
-        (j) to advise and assist, within its field of competence, interested agencies of the United States and other organizations, both public and private, national and international, with respect to projects and programs relating to the development of private enterprise in less developed countries and areas;
+    (l) to decline to issue any contract of insurance or reinsurance, or any guaranty, or to enter into any agreement to provide financing for an eligible investor’s proposed investment if the Corporation determines that such investment is likely to cause a significant reduction in the number of employees in the United States;
 
-        (k)
+    (m) to refuse to insure, reinsure, or finance any investment subject to performance requirements which would reduce substantially the positive trade benefits likely to accrue to the United States from the investment; and
 
-            (1) to decline to issue any contract of insurance or reinsurance, or any guaranty, or to enter into any agreement to provide financing for an eligible investor’s proposed investment if the Corporation determines that such investment is likely to cause such investor (or the sponsor of an investment project in which such investor is involved) significantly to reduce the number of his employees in the United States production he is replacing his United States production with production from such investment which involves substantially the same product for substantially the same market as his United States production; and (2) to monitor conformance with the representations of the investor on which the Corporation relied in making the determination required by clause (1);
-
-        (l) to decline to issue any contract of insurance or reinsurance, or any guaranty, or to enter into any agreement to provide financing for an eligible investor’s proposed investment if the Corporation determines that such investment is likely to cause a significant reduction in the number of employees in the United States;
-
-        (m) to refuse to insure, reinsure, or finance any investment subject to performance requirements which would reduce substantially the positive trade benefits likely to accrue to the United States from the investment; and
-
-        (n) to refuse to insure, reinsure, guarantee, or finance any investment in connection with a project which the Corporation determines will pose an unreasonable or major environmental, health, or safety hazard, or will result in the significant degradation of national parks or similar protected areas.
+    (n) to refuse to insure, reinsure, guarantee, or finance any investment in connection with a project which the Corporation determines will pose an unreasonable or major environmental, health, or safety hazard, or will result in the significant degradation of national parks or similar protected areas.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. I, § 231, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 809][/us/stat/83/809]; amended [Pub. L. 93–390, § 2(1)][/us/pl/93/390/s2/1], Aug. 27, 1974, [88 Stat. 763][/us/stat/88/763]; [Pub. L. 95–268, § 2][/us/pl/95/268/s2], Apr. 24, 1978, [92 Stat. 213][/us/stat/92/213]; [Pub. L. 97–65, § 2][/us/pl/97/65/s2], Oct. 16, 1981, [95 Stat. 1021][/us/stat/95/1021]; [Pub. L. 99–204][/us/pl/99/204], §§ 3, 4(a), Dec. 23, 1985, [99 Stat. 1669][/us/stat/99/1669]; [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 102–549, title I, § 101][/us/pl/102/549/s101], Oct. 28, 1992, [106 Stat. 3651][/us/stat/106/3651]; [Pub. L. 103–392, title I, § 105][/us/pl/103/392/s105], Oct. 22, 1994, [108 Stat. 4099][/us/stat/108/4099].)
 

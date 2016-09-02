@@ -15,7 +15,7 @@
 
 ## § 1641. Definitions
 
-As used in this subchapter the term—
+    As used in this subchapter the term—
 
     (1) “Person” means a natural person, partnership, association, other unincorporated body, corporation, or body politic.
 

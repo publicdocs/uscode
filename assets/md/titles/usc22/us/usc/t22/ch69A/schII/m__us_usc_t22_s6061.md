@@ -15,7 +15,7 @@
 
 ## § 6061. Policy toward transition government and democratically elected government in Cuba
 
-The policy of the United States is as follows:
+    The policy of the United States is as follows:
 
     (1) To support the self-determination of the Cuban people.
 

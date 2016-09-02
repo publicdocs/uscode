@@ -15,7 +15,7 @@
 
 ## § 3811. Operating regulations
 
-The Commission may prescribe, and from time to time amend, regulations governing—
+    The Commission may prescribe, and from time to time amend, regulations governing—
 
     (1) the operation of the Panama Canal;
 

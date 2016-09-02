@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2180, 2180a.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptiii/m__us_usc_t22_s2181.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschI%2FptII%2Fsptiii)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2179.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptiii/m__us_usc_t22_s2181.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschI%2FptII%2Fsptiii)
 
 ##### subpart iii—shelter and other credit guaranty programs
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2180, 2180a.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptiii/m__us_usc_t22_s2181.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschI%2FptII%2Fsptiii)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2179.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptiii/m__us_usc_t22_s2181.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschI%2FptII%2Fsptiii)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 7636. Study on illegal diversions of prescription drugs
 
-Not later than 180 days after May 27, 2003, the Secretary of Health and Human Services, in coordination with other agencies, shall submit a report to the Congress that includes the following:
+    Not later than 180 days after May 27, 2003, the Secretary of Health and Human Services, in coordination with other agencies, shall submit a report to the Congress that includes the following:
 
     (1) A thorough accounting of evidence indicating illegal diversion into the United States of prescription drugs donated or sold for humanitarian efforts, and an estimate of the extent of such diversion.
 

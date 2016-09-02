@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2161, 2162.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2164.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2163)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_ch32_schI_ptII_spti.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2164.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2163)
 
 ## § 2163. Repealed. [Pub. L. 93–189, § 3(b)][/us/pl/93/189/s3/b], Dec. 17, 1973, [87 Stat. 717][/us/stat/87/717]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2161, 2162.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2164.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2163)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_ch32_schI_ptII_spti.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2164.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2163)
 
 ----------
 ----------

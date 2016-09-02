@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2126 to 2129.md) | [Next](./../../../../..//us/usc/t22/ch31/schIV/m__us_usc_t22_s2131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch31%2FschIV)
+[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2125.md) | [Next](./../../../../..//us/usc/t22/ch31/schIV/m__us_usc_t22_s2131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch31%2FschIV)
 
 ### SUBCHAPTER IV—CORPORATION FOR TRAVEL PROMOTION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2126 to 2129.md) | [Next](./../../../../..//us/usc/t22/ch31/schIV/m__us_usc_t22_s2131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch31%2FschIV)
+[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2125.md) | [Next](./../../../../..//us/usc/t22/ch31/schIV/m__us_usc_t22_s2131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch31%2FschIV)
 
 ----------
 ----------

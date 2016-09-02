@@ -11,16 +11,28 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch51/schII/pt2/m__us_usc_t22_s3841 to 3844.md) | [Next](./../../../../../..//us/usc/t22/ch51/schII/pt3/m__us_usc_t22_s3851, 3852.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch51%2FschII%2Fpt3)
+[Previous](./../../../../../..//us/usc/t22/ch51/schII/pt2/m__us_usc_t22_ch51_schII_pt2.md) | [Next](./../../../../../..//us/usc/t22/ch51/schIII/m__us_usc_t22_ch51_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch51%2FschII%2Fpt3)
 
 #### Part 3—Transition Authority
 
+§§ 3851, 3852. __Repealed.__  __[__  __Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4)__  __][/us/pl/104/201/s3546/a/4]__  __,__  __Sept. 23, 1996__  __,__  __[__  __110 Stat. 2868__  __][/us/stat/110/2868]__ 
+
+    Section 3851, [Pub. L. 96–70, title II, § 2401][/us/pl/96/70/s2401], Sept. 27, 1979, [93 Stat. 495][/us/stat/93/495], related to vesting of authority in the President during transition period.
+
+    Section 3852, [Pub. L. 96–70, title II, § 2402][/us/pl/96/70/s2402], Sept. 27, 1979, [93 Stat. 495][/us/stat/93/495], related to commitment of prisoners to custody of Attorney General or Commission.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch51/schII/pt2/m__us_usc_t22_s3841 to 3844.md) | [Next](./../../../../../..//us/usc/t22/ch51/schII/pt3/m__us_usc_t22_s3851, 3852.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch51%2FschII%2Fpt3)
+[Previous](./../../../../../..//us/usc/t22/ch51/schII/pt2/m__us_usc_t22_ch51_schII_pt2.md) | [Next](./../../../../../..//us/usc/t22/ch51/schIII/m__us_usc_t22_ch51_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch51%2FschII%2Fpt3)
 
 ----------
 ----------
 
+[/us/pl/104/201/s3546/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3546%2Fa%2F4
+[/us/stat/110/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2868
+[/us/pl/96/70/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs2401
+[/us/stat/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F495
+[/us/pl/96/70/s2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs2402
+[/us/stat/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F495
 
 

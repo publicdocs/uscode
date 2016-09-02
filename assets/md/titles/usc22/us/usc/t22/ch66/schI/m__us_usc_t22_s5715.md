@@ -15,7 +15,7 @@
 
 ## § 5715. Cultural and educational exchanges
 
-It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, are and should continue after June 30, 1997, to be the policy of the United States with respect to cultural and educational exchanges with Hong Kong:
+    It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, are and should continue after June 30, 1997, to be the policy of the United States with respect to cultural and educational exchanges with Hong Kong:
 
     (1) The United States should seek to maintain and expand United States-Hong Kong relations and exchanges in culture, education, science, and academic research. The United States should encourage American participation in bilateral exchanges with Hong Kong, both official and unofficial.
 

@@ -15,7 +15,7 @@
 
 ## § 6002. Statement of policy
 
-It should be the policy of the United States—
+    It should be the policy of the United States—
 
     (1) to seek a peaceful transition to democracy and a resumption of economic growth in Cuba through the careful application of sanctions directed at the Castro government and support for the Cuban people;
 

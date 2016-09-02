@@ -15,7 +15,7 @@
 
 ## § 5951. Findings on cooperative threat reduction
 
-The Congress finds that it is in the national security interest of the United States for the United States to do the following:
+    The Congress finds that it is in the national security interest of the United States for the United States to do the following:
 
     (1)
 

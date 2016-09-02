@@ -15,7 +15,7 @@
 
 ## § 2656a. Congressional declaration of findings of major significance of modern scientific and technological advances in foreign policy
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the consequences of modern scientific and technological advances are of such major significance in United States foreign policy that understanding and appropriate knowledge of modern science and technology by officers and employees of the United States Government are essential in the conduct of modern diplomacy;
 

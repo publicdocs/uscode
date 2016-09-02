@@ -15,7 +15,7 @@
 
 ## § 6042. Reinstitution of family remittances and travel to Cuba
 
-It is the sense of the Congress that the President should—
+    It is the sense of the Congress that the President should—
 
     (1)
 

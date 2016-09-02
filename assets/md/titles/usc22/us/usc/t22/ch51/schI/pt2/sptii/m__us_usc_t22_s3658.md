@@ -15,7 +15,7 @@
 
 ## § 3658. Benefits based on basic pay
 
-For the purpose of determining—
+    For the purpose of determining—
 
     (1) amounts of compensation for disability or death under chapter 81 of title 5, relating to compensation for work injuries;
 
@@ -29,7 +29,7 @@ For the purpose of determining—
 
     (6) any other benefits related to basic pay;
 
-        the basic pay of each employee shall include the rate of basic pay established for his position under [section 3642 of this title][/us/usc/t22/s3642] plus the amount of any additional compensation provided under section 3657(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
+    the basic pay of each employee shall include the rate of basic pay established for his position under [section 3642 of this title][/us/usc/t22/s3642] plus the amount of any additional compensation provided under section 3657(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
 ([Pub. L. 96–70, title I, § 1218][/us/pl/96/70/s1218], Sept. 27, 1979, [93 Stat. 466][/us/stat/93/466]; [Pub. L. 104–201, div. C, title XXXV, § 3534][/us/pl/104/201/s3534], Sept. 23, 1996, [110 Stat. 2863][/us/stat/110/2863]; [Pub. L. 105–85, div. C, title XXXV, § 3523(c)(2)][/us/pl/105/85/s3523/c/2], Nov. 18, 1997, [111 Stat. 2065][/us/stat/111/2065].)
 

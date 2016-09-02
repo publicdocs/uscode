@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch20/schI/m__us_usc_t22_s1571 to 1584.md) | [Next](./../../../../..//us/usc/t22/ch20/schII/m__us_usc_t22_ch20_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1585)
+[Previous](./../../../../..//us/usc/t22/ch20/schI/m__us_usc_t22_ch20_schI.md) | [Next](./../../../../..//us/usc/t22/ch20/schII/m__us_usc_t22_ch20_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1585)
 
 ## § 1585. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch20/schI/m__us_usc_t22_s1571 to 1584.md) | [Next](./../../../../..//us/usc/t22/ch20/schII/m__us_usc_t22_ch20_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1585)
+[Previous](./../../../../..//us/usc/t22/ch20/schI/m__us_usc_t22_ch20_schI.md) | [Next](./../../../../..//us/usc/t22/ch20/schII/m__us_usc_t22_ch20_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1585)
 
 ----------
 ----------

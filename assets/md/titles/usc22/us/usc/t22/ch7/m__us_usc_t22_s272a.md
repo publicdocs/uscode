@@ -15,7 +15,7 @@
 
 ## § 272a. Authorization of appropriations
 
-There is hereby authorized to be appropriated annually to the Department of State—
+    There is hereby authorized to be appropriated annually to the Department of State—
 
     (a) such sums as may be necessary for the payments by the United States of its share of the expenses of the Organization, but not to exceed 25 per centum of such expenses, as apportioned by the International Labour Conference in accordance with article 13(2)(c) and 13(3) of the constitution of the Organization; and
 

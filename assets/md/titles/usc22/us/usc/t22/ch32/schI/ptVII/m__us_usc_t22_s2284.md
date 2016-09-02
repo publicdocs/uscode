@@ -15,7 +15,7 @@
 
 ## § 2284. Eligible countries
 
-In order for a foreign country to be eligible to participate in a debt-for-nature exchange under this part, the Administrator of the Agency for International Development shall determine that—
+    In order for a foreign country to be eligible to participate in a debt-for-nature exchange under this part, the Administrator of the Agency for International Development shall determine that—
 
     (1) the host country is fully committed to the long-term viability of the program or project that is to be undertaken through the debt-for-nature exchange;
 

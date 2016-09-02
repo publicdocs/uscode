@@ -15,7 +15,7 @@
 
 ## § 2291e. Reallocation of funds withheld from countries which fail to take adequate steps to halt illicit drug production or trafficking
 
-If any funds authorized to be appropriated for any fiscal year for assistance under this chapter are not used for assistance for the country for which those funds were allocated because of the requirements of [section 2291j of this title][/us/usc/t22/s2291j] or any other provision of law requiring the withholding of assistance for countries that have not taken adequate steps to halt illicit drug production or trafficking, the President shall use those funds for additional assistance for those countries which have met their illicit drug eradication targets or have otherwise taken significant steps to halt illicit drug production or trafficking, as follows:
+    If any funds authorized to be appropriated for any fiscal year for assistance under this chapter are not used for assistance for the country for which those funds were allocated because of the requirements of [section 2291j of this title][/us/usc/t22/s2291j] or any other provision of law requiring the withholding of assistance for countries that have not taken adequate steps to halt illicit drug production or trafficking, the President shall use those funds for additional assistance for those countries which have met their illicit drug eradication targets or have otherwise taken significant steps to halt illicit drug production or trafficking, as follows:
 
     (1) __International narcotics control assistance__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286b–1, 286b–2.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286c)
+[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286b.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286c)
 
 ## § 286c. Congressional authorization needed for certain actions
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286b–1, 286b–2.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286c)
+[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286b.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286c)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 3649. Applicability of certain benefits
 
-Chapter 81 of title 5, relating to compensation for work injuries, chapters 83 and 84 of such title 5, relating to retirement, chapter 87 of such title 5, relating to life insurance, and chapter 89 of such title 5, relating to health insurance, are applicable to Commission employees, except any individual—
+    Chapter 81 of title 5, relating to compensation for work injuries, chapters 83 and 84 of such title 5, relating to retirement, chapter 87 of such title 5, relating to life insurance, and chapter 89 of such title 5, relating to health insurance, are applicable to Commission employees, except any individual—
 
     (1) who is not a citizen of the United States;
 

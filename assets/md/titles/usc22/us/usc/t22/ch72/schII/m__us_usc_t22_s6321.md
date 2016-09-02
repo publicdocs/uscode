@@ -15,7 +15,7 @@
 
 ## § 6321. Bilateral and multilateral initiatives
 
-It is the sense of the Congress that in order to maintain and enhance international confidence in the effectiveness of IAEA safeguards and in other multilateral undertakings to halt the global proliferation of nuclear weapons, the United States should seek to negotiate with other nations and groups of nations, including the IAEA Board of Governors and the Nuclear Suppliers Group, to—
+    It is the sense of the Congress that in order to maintain and enhance international confidence in the effectiveness of IAEA safeguards and in other multilateral undertakings to halt the global proliferation of nuclear weapons, the United States should seek to negotiate with other nations and groups of nations, including the IAEA Board of Governors and the Nuclear Suppliers Group, to—
 
     (1) build international support for the principle that nuclear supply relationships must require purchasing nations to agree to full-scope international safeguards;
 

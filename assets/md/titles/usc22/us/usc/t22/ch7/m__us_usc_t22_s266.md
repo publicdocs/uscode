@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s264, 265.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s266a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs266)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s263a.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s266a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs266)
 
 ## § 266. International commission of congresses of navigation; authorization of appropriation for expenses
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s264, 265.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s266a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs266)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s263a.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s266a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs266)
 
 ----------
 ----------

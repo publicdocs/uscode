@@ -21,7 +21,7 @@
 
  __Repeals__ 
 
-Clause (c), except the proviso thereof, repealed by [Pub. L. 94–579, title VII, § 704(a)][/us/pl/94/579/s704/a], Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792], effective on and after Oct. 21, 1976.
+    Clause (c), except the proviso thereof, repealed by [Pub. L. 94–579, title VII, § 704(a)][/us/pl/94/579/s704/a], Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792], effective on and after Oct. 21, 1976.
 
  __Amendments__ 
 

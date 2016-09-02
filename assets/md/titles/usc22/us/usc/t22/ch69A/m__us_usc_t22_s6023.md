@@ -15,7 +15,7 @@
 
 ## § 6023. Definitions
 
-As used in this chapter, the following terms have the following meanings:
+    As used in this chapter, the following terms have the following meanings:
 
     (1) __Agency or instrumentality of a foreign state__ 
 

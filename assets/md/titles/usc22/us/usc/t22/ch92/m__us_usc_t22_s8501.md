@@ -15,7 +15,7 @@
 
 ## § 8501. Findings
 
-Congress makes the following findings:
+    Congress makes the following findings:
 
     (1) The illicit nuclear activities of the Government of Iran, combined with its development of unconventional weapons and ballistic missiles and its support for international terrorism, represent a threat to the security of the United States, its strong ally Israel, and other allies of the United States around the world.
 
@@ -59,7 +59,7 @@ Congress makes the following findings:
 
  __Termination of Section__ 
 
-For termination of section, see [section 8551(a) of this title][/us/usc/t22/s8551/a].
+    For termination of section, see [section 8551(a) of this title][/us/usc/t22/s8551/a].
 
  __References in Text__ 
 

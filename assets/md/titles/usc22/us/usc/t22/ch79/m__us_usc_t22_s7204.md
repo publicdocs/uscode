@@ -15,7 +15,7 @@
 
 ## § 7204. Termination of sanctions
 
-Any unilateral agricultural sanction or unilateral medical sanction that is imposed pursuant to the procedures described in [section 7202(a) of this title][/us/usc/t22/s7202/a] shall terminate not later than 2 years after the date on which the sanction became effective unless—
+    Any unilateral agricultural sanction or unilateral medical sanction that is imposed pursuant to the procedures described in [section 7202(a) of this title][/us/usc/t22/s7202/a] shall terminate not later than 2 years after the date on which the sanction became effective unless—
 
     (1)
 

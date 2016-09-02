@@ -15,7 +15,7 @@
 
 ## § 7602. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __AIDS__ 
 

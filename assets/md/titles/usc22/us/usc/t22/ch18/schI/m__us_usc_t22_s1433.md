@@ -15,7 +15,7 @@
 
 ## § 1433. Definitions
 
-When used in this chapter, the term—
+    When used in this chapter, the term—
 
     (1) “Secretary” means the Secretary of State.
 

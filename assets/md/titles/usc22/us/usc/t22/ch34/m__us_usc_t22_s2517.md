@@ -85,7 +85,9 @@
 
 >         “(4) Senator Paul D. Coverdell was beloved by his colleagues for his civility, bipartisan efforts, and his dedication to public service.
 
->     “(c) __Designation of Paul D. Coverdell Fellows Program.—__ 
+>     “(c) __Designation of Paul D.__ 
+
+>      Coverdell Fellows Program.—
 
 >         “(1) __In general.—__ 
 

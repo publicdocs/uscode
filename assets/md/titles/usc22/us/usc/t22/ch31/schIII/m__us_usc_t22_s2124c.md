@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124a, 2124b.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124c)
+[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124c)
 
 ## § 2124c. Rural Tourism Development Foundation
 
@@ -153,7 +153,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124a, 2124b.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124c)
+[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124c)
 
 ----------
 ----------

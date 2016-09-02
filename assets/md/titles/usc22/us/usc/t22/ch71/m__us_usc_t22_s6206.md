@@ -31,7 +31,7 @@
 
  __References in Text__ 
 
-    Level IV of the Executive Schedule, referred to in subsec. (b)(1), is set out in [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees.
+    Level IV of the Executive Schedule, referred to in subsec. (b), is set out in [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees.
 
  __Amendments__ 
 

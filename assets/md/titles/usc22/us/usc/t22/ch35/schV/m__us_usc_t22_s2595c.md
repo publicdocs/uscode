@@ -15,7 +15,7 @@
 
 ## § 2595c. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “INF Treaty” means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles (signed at Washington, December 8, 1987);
 

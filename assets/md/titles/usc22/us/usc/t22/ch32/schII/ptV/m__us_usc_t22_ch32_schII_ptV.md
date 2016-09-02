@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIV/m__us_usc_t22_s2346e to 2346i.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptV/m__us_usc_t22_s2347.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschII%2FptV)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIV/m__us_usc_t22_s2346d.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptV/m__us_usc_t22_s2347.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschII%2FptV)
 
 #### Part V—International Military Education and Training
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIV/m__us_usc_t22_s2346e to 2346i.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptV/m__us_usc_t22_s2347.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschII%2FptV)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIV/m__us_usc_t22_s2346d.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptV/m__us_usc_t22_s2347.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschII%2FptV)
 
 ----------
 ----------

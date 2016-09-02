@@ -641,7 +641,7 @@
 
 >     “The President shall consult with the appropriate congressional committees on a periodic basis to review the implementation of this subtitle and the Russian Federation’s eligibility for debt reduction pursuant to this subtitle.
 
->     “\[SEC. 1321. Repealed. [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].\]”
+> “\[SEC. 1321. Repealed. [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].\]”
 
  __Plan for Securing Nuclear Weapons, Material, and Expertise of the States of the Former Soviet Union__ 
 
@@ -797,7 +797,9 @@
 
 >         “(2) A detailed cost estimate for a second wing for the facility.
 
->         “(3) A certification that Russia and the United States have signed a verifiable written transparency agreement that ensures that material stored at the facility is of weapons origin.    “\[SEC. 1305. Repealed. [Pub. L. 110–53, title XVIII, § 1811(3)][/us/pl/110/53/s1811/3], Aug. 3, 2007, [121 Stat. 492][/us/stat/121/492], and [Pub. L. 110–181, div. A, title XIII, § 1304(a)(3)][/us/pl/110/181/s1304/a/3], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412].\]”
+>         “(3) A certification that Russia and the United States have signed a verifiable written transparency agreement that ensures that material stored at the facility is of weapons origin.
+
+> “\[SEC. 1305. Repealed. [Pub. L. 110–53, title XVIII, § 1811(3)][/us/pl/110/53/s1811/3], Aug. 3, 2007, [121 Stat. 492][/us/stat/121/492], and [Pub. L. 110–181, div. A, title XIII, § 1304(a)(3)][/us/pl/110/181/s1304/a/3], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412].\]”
 
 Similar provisions were contained in the following prior authorization acts:
 

@@ -317,7 +317,7 @@ Similar provisions were contained in the following appropriation acts:
 
 >     “(2) to the United Nations, if the United Nations grants full membership as a state in the United Nations to any organization or group that does not have the internationally recognized attributes of statehood,
 
->         during any period in which such membership is effective.”
+>     during any period in which such membership is effective.”
 
 [Pub. L. 92–544, title I, § 101][/us/pl/92/544/s101], Oct. 25, 1972, [86 Stat. 1110][/us/stat/86/1110], as amended by [Pub. L. 94–141, title II, § 203][/us/pl/94/141/s203], Nov. 29, 1975, [89 Stat. 762][/us/stat/89/762]; [Pub. L. 103–236, title IV, § 404(b)(3)][/us/pl/103/236/s404/b/3], Apr. 30, 1994, [108 Stat. 447][/us/stat/108/447]; [Pub. L. 107–228, div. A, title IV, § 402(b)][/us/pl/107/228/s402/b], Sept. 30, 2002, [116 Stat. 1389][/us/stat/116/1389], provided that: 
 

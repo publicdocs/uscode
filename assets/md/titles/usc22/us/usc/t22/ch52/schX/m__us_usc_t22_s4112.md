@@ -15,7 +15,7 @@
 
 ## § 4112. Employees represented
 
-The employees of the Department shall constitute a single and separate worldwide bargaining unit, from which there shall be excluded—
+    The employees of the Department shall constitute a single and separate worldwide bargaining unit, from which there shall be excluded—
 
     (1) employees engaged in personnel work in other than a purely clerical capacity; and
 

@@ -15,7 +15,7 @@
 
 ## § 2670. Insurance on motor vehicles in foreign countries; tie lines and teletype equipment; ice and drinking water; excise taxes on negotiable instruments; remains of deceased persons; relief, protection, and burial of seamen; acknowledgement of services of foreign vessels and aircraft; rentals and leases
 
-The Secretary of State is authorized to—
+    The Secretary of State is authorized to—
 
     (a) obtain insurance on official motor vehicles operated by the Department of State in foreign countries, and pay the expenses incident thereto;
 

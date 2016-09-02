@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch60/schV/m__us_usc_t22_s5091 to 5099.md) | [Next](./../../../../..//us/usc/t22/ch60/schV/m__us_usc_t22_s5101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5100)
+[Previous](./../../../../..//us/usc/t22/ch60/schV/m__us_usc_t22_ch60_schV.md) | [Next](./../../../../..//us/usc/t22/ch60/schV/m__us_usc_t22_s5101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5100)
 
 ## § 5100. Repealed. [Pub. L. 102–182, § 4][/us/pl/102/182/s4], Dec. 4, 1991, [105 Stat. 1234][/us/stat/105/1234]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch60/schV/m__us_usc_t22_s5091 to 5099.md) | [Next](./../../../../..//us/usc/t22/ch60/schV/m__us_usc_t22_s5101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5100)
+[Previous](./../../../../..//us/usc/t22/ch60/schV/m__us_usc_t22_ch60_schV.md) | [Next](./../../../../..//us/usc/t22/ch60/schV/m__us_usc_t22_s5101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5100)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 1465ff. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “licensee” has the meaning provided in section 153(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 47;
 
@@ -29,7 +29,7 @@ As used in this subchapter—
 
  __Repeal of Section__ 
 
-Section repealed upon transmittal of determination by President under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that democratically elected government in Cuba is in power, see [section 6037(c) of this title][/us/usc/t22/s6037/c].
+    Section repealed upon transmittal of determination by President under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that democratically elected government in Cuba is in power, see [section 6037(c) of this title][/us/usc/t22/s6037/c].
 
  __References in Text__ 
 

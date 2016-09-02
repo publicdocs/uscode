@@ -15,7 +15,7 @@
 
 ## § 2905. Administrative powers of Commission
 
-In order to carry out its functions under this chapter, the Commission is authorized to—
+    In order to carry out its functions under this chapter, the Commission is authorized to—
 
     (1) prescribe such regulations as it deems necessary governing the manner in which its functions shall be carried out;
 

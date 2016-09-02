@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2653 to 2655.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2655b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2655a)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652c.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2655b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2655a)
 
 ## § 2655a. Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head of Bureau
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2653 to 2655.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2655b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2655a)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652c.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2655b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2655a)
 
 ----------
 ----------

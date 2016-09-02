@@ -149,7 +149,7 @@
 
             </table>
 
-        Special contributions for refunds under subparagraph (B) shall equal the amount of the refund received by the participant.
+            Special contributions for refunds under subparagraph (B) shall equal the amount of the refund received by the participant.
 
         (2) Notwithstanding paragraph (1), a special contribution for prior nondeposit service as a National Guard technician which would be creditable toward retirement under subchapter III of chapter 83 of title 5, and for which a special contribution has not been made, shall be equal to the special contribution for such service computed in accordance with the schedule in paragraph (1) multiplied by the percentage of such service that is creditable under [section 4056 of this title][/us/usc/t22/s4056].
 
@@ -197,7 +197,7 @@
 
  __Amendment of Section__ 
 
-Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title][/us/usc/t22/s4067], provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title][/us/usc/t22/s4055/h] and voluntary contributions under [section 4065(a) of this title][/us/usc/t22/s4065/a] from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under [section 4059 of this title][/us/usc/t22/s4059], as determined by the Secretary of the Treasury.
+    Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title][/us/usc/t22/s4067], provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title][/us/usc/t22/s4055/h] and voluntary contributions under [section 4065(a) of this title][/us/usc/t22/s4065/a] from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under [section 4059 of this title][/us/usc/t22/s4059], as determined by the Secretary of the Treasury.
 
  __References in Text__ 
 
@@ -295,7 +295,7 @@ Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set ou
 
 >     “(2) 8 percent of the basic pay of each participant covered under paragraph (2) or (3) of section 805(a) of such Act participating in the Foreign Service Retirement and Disability System,
 
->         in lieu of the agency contribution otherwise required under section 805(a) of such Act.”
+>     in lieu of the agency contribution otherwise required under section 805(a) of such Act.”
 
 [Pub. L. 105–33, title VII, § 7001(d)(1)][/us/pl/105/33/s7001/d/1]–(2)(B), Aug. 5, 1997, [111 Stat. 659][/us/stat/111/659], 660, as amended by [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 505(d)(1)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–53, provided that:
 

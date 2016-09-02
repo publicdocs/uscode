@@ -15,7 +15,7 @@
 
 ## § 290b. Authorization of appropriations; payment of salaries and expenses
 
-There are hereby authorized to be appropriated to the Department of State for contribution to the working capital fund of the organization the sum of $560,000 and as annual appropriations the following:
+    There are hereby authorized to be appropriated to the Department of State for contribution to the working capital fund of the organization the sum of $560,000 and as annual appropriations the following:
 
     (a) such sums as may be necessary for the payment by the United States of its share of the expenses of the Organization as apportioned by the Health Assembly in accordance with article 56 of the constitution of the Organization, except that payments by the United States for any fiscal year of the Organization after 1958 shall not exceed 33⅓ per centum of the total assessments of active members of the Organization for such fiscal year; and
 

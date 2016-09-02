@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1851, 1852.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1854.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1853)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1842.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1854.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1853)
 
 ## § 1853. Assistance to Yugoslavia
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1851, 1852.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1854.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1853)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1842.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1854.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1853)
 
 ----------
 ----------

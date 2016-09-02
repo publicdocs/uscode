@@ -15,7 +15,7 @@
 
 ## § 7210. Application of the Trade Sanctions Reform and Export Enhancement Act
 
-Nothing in the Trade Sanctions Reform and Export Enhancement Act of 2000 \[22 U.S.C. § 7201 et seq.\] shall limit the application or scope of any law establishing criminal or civil penalties, including any Executive order or regulation promulgated pursuant to such laws (or similar or successor laws), for the unlawful export of any agricultural commodity, medicine, or medical device to—
+    Nothing in the Trade Sanctions Reform and Export Enhancement Act of 2000 \[22 U.S.C. § 7201 et seq.\] shall limit the application or scope of any law establishing criminal or civil penalties, including any Executive order or regulation promulgated pursuant to such laws (or similar or successor laws), for the unlawful export of any agricultural commodity, medicine, or medical device to—
 
     (1) a foreign organization, group, or person designated pursuant to Executive Order No. 12947 of January 23, 1995, as amended;
 

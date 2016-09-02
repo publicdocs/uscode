@@ -15,7 +15,7 @@
 
 ## § 2198. Definitions
 
-As used in this subpart—
+    As used in this subpart—
 
     (a) the term “investment” includes any contribution or commitment of funds, commodities, services, patents, processes, or techniques, in the form of (1) a loan or loans to an approved project, (2) the purchase of a share of ownership in any such project, (3) participation in royalties, earnings, or profits of any such project, and (4) the furnishing of commodities or services pursuant to a lease or other contract;
 

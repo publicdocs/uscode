@@ -15,7 +15,7 @@
 
 ## § 7113. Accountability
 
-All grants awarded by the Attorney General under this title or an Act amended by this title shall be subject to the following accountability provisions:
+    All grants awarded by the Attorney General under this title or an Act amended by this title shall be subject to the following accountability provisions:
 
     (1) __Audit requirement__ 
 

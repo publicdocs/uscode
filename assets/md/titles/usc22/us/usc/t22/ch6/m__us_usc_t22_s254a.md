@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s252 to 254.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s254b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a)
+[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s251.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s254b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a)
 
 ## § 254a. Definitions
 
-As used in this Act—
+    As used in this Act—
 
     (1)
 
@@ -71,7 +71,7 @@ As used in this Act—
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s252 to 254.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s254b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a)
+[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s251.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s254b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a)
 
 ----------
 ----------

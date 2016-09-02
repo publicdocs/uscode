@@ -15,7 +15,7 @@
 
 ## § 7601. Findings
 
-Congress makes the following findings:
+    Congress makes the following findings:
 
     (1) During the last 20 years, HIV/AIDS has assumed pandemic proportions, spreading from the most severely affected regions, sub-Saharan Africa and the Caribbean, to all corners of the world, and leaving an unprecedented path of death and devastation.
 

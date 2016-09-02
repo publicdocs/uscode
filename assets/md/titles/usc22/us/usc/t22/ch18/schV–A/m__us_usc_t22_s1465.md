@@ -15,7 +15,7 @@
 
 ## § 1465. Congressional findings and declaration of purposes
 
-The Congress finds and declares—
+    The Congress finds and declares—
 
     (1) that it is the policy of the United States to support the right of the people of Cuba to seek, receive, and impart information and ideas through any media and regardless of frontiers, in accordance with article 19 of Universal Declaration of Human Rights;
 
@@ -29,7 +29,7 @@ The Congress finds and declares—
 
  __Repeal of Section__ 
 
-Section repealed upon transmittal of determination by President under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that democratically elected government in Cuba is in power, see [section 6037(c) of this title][/us/usc/t22/s6037/c].
+    Section repealed upon transmittal of determination by President under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that democratically elected government in Cuba is in power, see [section 6037(c) of this title][/us/usc/t22/s6037/c].
 
  __Codification__ 
 

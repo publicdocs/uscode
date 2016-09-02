@@ -15,7 +15,7 @@
 
 ## § 3791. Prescription of measurement rules and rates of tolls
 
-The Commission may, subject to the provisions of this chapter, prescribe and from time to time change—
+    The Commission may, subject to the provisions of this chapter, prescribe and from time to time change—
 
     (1) the rules for the measurement of vessels for the Panama Canal; and
 

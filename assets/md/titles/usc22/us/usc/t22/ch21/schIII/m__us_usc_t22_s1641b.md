@@ -15,7 +15,7 @@
 
 ## § 1641b. Claims of nationals of the United States against Bulgaria, Hungary, and Rumania
 
-The Commission shall receive and determine in accordance with applicable substantive law, including international law, the validity and amounts of claims of nationals of the United States against the Governments of Bulgaria, Hungary, and Rumania, or any of them, arising out of the failure to—
+    The Commission shall receive and determine in accordance with applicable substantive law, including international law, the validity and amounts of claims of nationals of the United States against the Governments of Bulgaria, Hungary, and Rumania, or any of them, arising out of the failure to—
 
     (1) restore or pay compensation for property of nationals of the United States as required by article 23 of the treaty of peace with Bulgaria, articles 26 and 27 of the treaty of peace with Hungary, and articles 24 and 25 of the treaty of peace with Rumania. Awards under this paragraph shall be in amounts not to exceed two-thirds of the loss or damage actually sustained;
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptG/m__us_usc_t22_s1026 to 1028.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptH/m__us_usc_t22_s1031.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptH)
+[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptG/m__us_usc_t22_ch14_schVI_ptG.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptH/m__us_usc_t22_s1031.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptH)
 
 #### Part H—Consular Agents
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptG/m__us_usc_t22_s1026 to 1028.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptH/m__us_usc_t22_s1031.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptH)
+[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptG/m__us_usc_t22_ch14_schVI_ptG.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptH/m__us_usc_t22_s1031.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptH)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 4081. Travel and related expenses
 
-The Secretary may pay the travel and related expenses of members of the Service and their families, including costs or expenses incurred for—
+    The Secretary may pay the travel and related expenses of members of the Service and their families, including costs or expenses incurred for—
 
     (1) proceeding to and returning from assigned posts of duty;
 

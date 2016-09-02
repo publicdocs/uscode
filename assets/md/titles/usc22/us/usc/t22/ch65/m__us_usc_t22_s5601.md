@@ -15,7 +15,7 @@
 
 ## § 5601. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to mandate United States sanctions, and to encourage international sanctions, against countries that use chemical or biological weapons in violation of international law or use lethal chemical or biological weapons against their own nationals, and to impose sanctions against companies that aid in the proliferation of chemical and biological weapons;
 

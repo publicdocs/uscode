@@ -15,7 +15,7 @@
 
 ## § 8603. United States actions to assist in the defense of Israel and protect United States interests
 
-It is the sense of Congress that the United States Government should take the following actions to assist in the defense of Israel:
+    It is the sense of Congress that the United States Government should take the following actions to assist in the defense of Israel:
 
     (1) Seek to enhance the capabilities of the Governments of the United States and Israel to address emerging common threats, increase security cooperation, and expand joint military exercises.
 

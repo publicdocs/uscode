@@ -15,7 +15,7 @@
 
 ## § 6324. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “highly enriched uranium” means uranium enriched to 20 percent or more in the isotope U–235;
 

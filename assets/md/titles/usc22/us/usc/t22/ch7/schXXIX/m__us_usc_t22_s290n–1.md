@@ -15,7 +15,7 @@
 
 ## § 290n–1. Duties
 
-It should be the duty of the Commission—
+    It should be the duty of the Commission—
 
     (1) to conduct a comprehensive needs assessment in the United States-Mexico Border Area for the purposes of identifying, evaluating, preventing, and resolving health problems and potential health problems that affect the general population of the area; and
 

@@ -15,7 +15,7 @@
 
 ## § 287e–1. Housing supplement for certain employees assigned to the United States Mission to the United Nations
 
-The Secretary of State may, under such regulations as he shall prescribe, and notwithstanding section 3324(a) and (b) of title 31 and [section 5536 of title 5][/us/usc/t5/s5536]:
+    The Secretary of State may, under such regulations as he shall prescribe, and notwithstanding section 3324(a) and (b) of title 31 and [section 5536 of title 5][/us/usc/t5/s5536]:
 
     (1) Make available to the Representative of the United States to the United Nations and the Deputy Permanent Representative of the United States to the United Nations living quarters leased or rented by the United States (for periods not exceeding ten years) and allowances for unusual expenses incident to the operation and maintenance of such living quarters similar to those and to be considered for all purposes as authorized by [section 5913 of title 5][/us/usc/t5/s5913].
 

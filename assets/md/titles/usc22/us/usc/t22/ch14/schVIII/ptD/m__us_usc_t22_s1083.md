@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schVIII/ptD/m__us_usc_t22_s1081, 1082.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVIII/ptD/m__us_usc_t22_s1084.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1083)
+[Previous](./../../../../../..//us/usc/t22/ch14/schVIII/ptD/m__us_usc_t22_ch14_schVIII_ptD.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVIII/ptD/m__us_usc_t22_s1084.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1083)
 
 ## § 1083. Repealed. [Pub. L. 94–350, title V, § 516][/us/pl/94/350/s516], July 12, 1976, [90 Stat. 845][/us/stat/90/845]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schVIII/ptD/m__us_usc_t22_s1081, 1082.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVIII/ptD/m__us_usc_t22_s1084.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1083)
+[Previous](./../../../../../..//us/usc/t22/ch14/schVIII/ptD/m__us_usc_t22_ch14_schVIII_ptD.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVIII/ptD/m__us_usc_t22_s1084.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1083)
 
 ----------
 ----------

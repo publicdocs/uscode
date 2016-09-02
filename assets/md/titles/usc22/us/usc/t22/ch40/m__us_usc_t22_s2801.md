@@ -15,7 +15,7 @@
 
 ## § 2801. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (a) international expositions, when properly organized, financed, and executed, have a significant impact on the economic growth of the region surrounding the exposition and, under appropriate international sanction, are important instruments of national policy, particularly in the exchange of ideas and the demonstration of cultural achievements between peoples;
 

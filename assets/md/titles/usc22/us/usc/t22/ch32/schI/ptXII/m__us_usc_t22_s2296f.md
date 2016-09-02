@@ -15,7 +15,7 @@
 
 ## § 2296f. Definitions
 
-In this part:
+    In this part:
 
     (1) __Appropriate congressional committees__ 
 

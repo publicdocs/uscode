@@ -15,7 +15,7 @@
 
 ## § 3243. Negotiations
 
-The United States shall seek to negotiate with other nations and groups of nations to—
+    The United States shall seek to negotiate with other nations and groups of nations to—
 
     (1) adopt general principles and procedures, including common international sanctions, to be followed in the event that a nation violates any material obligation with respect to the peaceful use of nuclear materials and equipment or nuclear technology, or in the event that any nation violates the principles of the Treaty, including the detonation by a non-­nuclear-weapon state of a nuclear explosive device; and
 

@@ -15,7 +15,7 @@
 
 ## § 6571. References
 
-Except as otherwise provided in this chapter, any reference in any statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding to the United States International Development Cooperation Agency (IDCA) or to the Director or any other officer or employee of IDCA—
+    Except as otherwise provided in this chapter, any reference in any statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding to the United States International Development Cooperation Agency (IDCA) or to the Director or any other officer or employee of IDCA—
 
     (1) insofar as such reference relates to any function or authority transferred under [section 6562(a) of this title][/us/usc/t22/s6562/a], shall be deemed to refer to the Secretary of State;
 

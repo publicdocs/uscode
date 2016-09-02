@@ -15,7 +15,7 @@
 
 ## § 6501. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1)
 

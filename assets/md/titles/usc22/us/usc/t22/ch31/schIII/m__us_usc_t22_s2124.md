@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_ch31_schIII.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124a, 2124b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124)
+[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_ch31_schIII.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124)
 
 ## § 2124. Tourism Policy Council
 
@@ -99,9 +99,15 @@
 
     For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8][/us/usc/t8/s1551], Aliens and Nationality.
 
+§§ 2124a, 2124b. __Repealed.__  __[__  __Pub. L. 104–288__  __][/us/pl/104/288]__  __, §§ 9(a), 11,__  __Oct. 11, 1996__  __,__  __[__  __110 Stat. 3407__  __][/us/stat/110/3407]__  __, 3408__ 
+
+    Section 2124a, [Pub. L. 87–63, title III, § 302][/us/pl/87/63/s302], as added [Pub. L. 97–63, § 4(c)(2)][/us/pl/97/63/s4/c/2], Oct. 16, 1981, [95 Stat. 1015][/us/stat/95/1015]; amended [Pub. L. 102–372, § 15][/us/pl/102/372/s15], Sept. 30, 1992, [106 Stat. 1181][/us/stat/106/1181], provided for establishment of Tourism Policy Council. See [section 2124 of this title][/us/usc/t22/s2124].
+
+    Section 2124b, [Pub. L. 87–63, title III, § 303][/us/pl/87/63/s303], as added [Pub. L. 97–63, § 4(c)(2)][/us/pl/97/63/s4/c/2], Oct. 16, 1981, [95 Stat. 1017][/us/stat/95/1017]; amended [Pub. L. 102–372, § 16][/us/pl/102/372/s16], Sept. 30, 1992, [106 Stat. 1181][/us/stat/106/1181], provided for establishment of Travel and Tourism Advisory Board.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_ch31_schIII.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124a, 2124b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124)
+[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_ch31_schIII.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124)
 
 ----------
 ----------
@@ -125,5 +131,18 @@
 [/us/stat/110/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3407
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
+[/us/pl/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288
+[/us/stat/110/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3407
+[/us/pl/87/63/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs302
+[/us/pl/97/63/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs4%2Fc%2F2
+[/us/stat/95/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1015
+[/us/pl/102/372/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs15
+[/us/stat/106/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1181
+[/us/usc/t22/s2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124
+[/us/pl/87/63/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs303
+[/us/pl/97/63/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs4%2Fc%2F2
+[/us/stat/95/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1017
+[/us/pl/102/372/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs16
+[/us/stat/106/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1181
 
 

@@ -15,7 +15,7 @@
 
 ## § 8601. Findings
 
-Congress makes the following findings:
+    Congress makes the following findings:
 
     (1) Since 1948, United States Presidents and both houses of Congress, on a bipartisan basis and supported by the American people, have repeatedly reaffirmed the special bond between the United States and Israel, based on shared values and shared interests.
 

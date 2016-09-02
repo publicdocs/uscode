@@ -11,16 +11,41 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch32/schIV/m__us_usc_t22_s2431k.md) | [Next](./../../../../..//us/usc/t22/ch32/schV/m__us_usc_t22_s2441 to 2443.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschV)
+[Previous](./../../../../..//us/usc/t22/ch32/schIV/m__us_usc_t22_s2431k.md) | [Next](./../../../../..//us/usc/t22/ch33/m__us_usc_t22_ch33.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschV)
 
 ### SUBCHAPTER V—MIDDLE EAST ASSISTANCE
 
+§§ 2441 to 2443. __Repealed.__  __[__  __Pub. L. 95–384, § 12(c)(4)__  __][/us/pl/95/384/s12/c/4]__  __,__  __Sept. 26, 1978__  __,__  __[__  __92 Stat. 737__  __][/us/stat/92/737]__ 
+
+    Section 2441, [Pub. L. 87–195][/us/pl/87/195], pt. VI, § 901, as added [Pub. L. 93–559, § 42][/us/pl/93/559/s42], Dec. 30, 1974, [88 Stat. 1812][/us/stat/88/1812]; amended [Pub. L. 94–329, title IV, § 401][/us/pl/94/329/s401], June 30, 1976, [90 Stat. 756][/us/stat/90/756], related to Congressional statement of policy with regard to Middle East assistance.
+
+    Section 2442, [Pub. L. 87–195][/us/pl/87/195], pt. VI, § 902, as added [Pub. L. 93–559, § 42][/us/pl/93/559/s42], Dec. 30, 1974, [88 Stat. 1812][/us/stat/88/1812], related to allocations of funds with regard to Middle East assistance.
+
+    Section 2443, [Pub. L. 87–195][/us/pl/87/195], pt. VI, § 903, as added [Pub. L. 93–559, § 42][/us/pl/93/559/s42], Dec. 30, 1974, [88 Stat. 1812][/us/stat/88/1812]; amended [Pub. L. 94–329, title V, § 502][/us/pl/94/329/s502], June 30, 1976, [90 Stat. 763][/us/stat/90/763]; [Pub. L. 95–92, § 13][/us/pl/95/92/s13], Aug. 4, 1977, [91 Stat. 621][/us/stat/91/621], related to a special requirements fund with regard to Middle East assistance.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch32/schIV/m__us_usc_t22_s2431k.md) | [Next](./../../../../..//us/usc/t22/ch32/schV/m__us_usc_t22_s2441 to 2443.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschV)
+[Previous](./../../../../..//us/usc/t22/ch32/schIV/m__us_usc_t22_s2431k.md) | [Next](./../../../../..//us/usc/t22/ch33/m__us_usc_t22_ch33.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschV)
 
 ----------
 ----------
 
+[/us/pl/95/384/s12/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs12%2Fc%2F4
+[/us/stat/92/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F737
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/pl/93/559/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs42
+[/us/stat/88/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1812
+[/us/pl/94/329/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs401
+[/us/stat/90/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F756
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/pl/93/559/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs42
+[/us/stat/88/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1812
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/pl/93/559/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs42
+[/us/stat/88/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1812
+[/us/pl/94/329/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs502
+[/us/stat/90/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F763
+[/us/pl/95/92/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs13
+[/us/stat/91/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F621
 
 

@@ -15,7 +15,7 @@
 
 ## § 2794. Definitions
 
-For purposes of this chapter, the term—
+    For purposes of this chapter, the term—
 
     (1) “excess defense article” has the meaning provided by [section 2403(g) of this title][/us/usc/t22/s2403/g];
 

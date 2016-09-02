@@ -15,7 +15,7 @@
 
 ## § 8403. Statement of principles
 
-Congress declares that the relationship between the United States and Pakistan should be based on the following principles:
+    Congress declares that the relationship between the United States and Pakistan should be based on the following principles:
 
     (1) Pakistan is a critical friend and ally to the United States, both in times of strife and in times of peace, and the two countries share many common goals, including combating terrorism and violent radicalism, solidifying democracy and rule of law in Pakistan, and promoting the social and economic development of Pakistan.
 

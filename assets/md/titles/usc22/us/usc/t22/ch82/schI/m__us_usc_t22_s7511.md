@@ -15,7 +15,7 @@
 
 ## § 7511. Declaration of policy
 
-Congress makes the following declarations:
+    Congress makes the following declarations:
 
     (1) The United States and the international community should support efforts that advance the development of democratic civil authorities and institutions in Afghanistan and the establishment of a new broad-based, multi-ethnic, gender-sensitive, and fully representative government in Afghanistan.
 

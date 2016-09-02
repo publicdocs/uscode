@@ -15,7 +15,7 @@
 
 ## § 6106. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “agency of the United States Government” includes any agency of the legislative branch and any court of the judicial branch as well as any agency of the executive branch;
 

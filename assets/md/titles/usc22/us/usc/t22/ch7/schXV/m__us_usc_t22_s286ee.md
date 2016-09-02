@@ -15,7 +15,7 @@
 
 ## § 286ee. International cooperation
 
-The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to propose that the Fund adopt the following policies with respect to international lending:
+    The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to propose that the Fund adopt the following policies with respect to international lending:
 
     (1)
 

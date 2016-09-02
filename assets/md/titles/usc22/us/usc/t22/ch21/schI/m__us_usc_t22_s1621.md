@@ -15,7 +15,7 @@
 
 ## § 1621. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) The term “person” shall include an individual, partnership, corporation, or the Government of the United States.
 

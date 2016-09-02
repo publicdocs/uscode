@@ -15,7 +15,7 @@
 
 ## § 3509. Conflict of interest; personnel and activities covered
 
-Members of the Council and Institute Fellows shall avoid any action, in their activities with respect to the Institute, which might result in, or create the appearance of, a conflict of interest, including but not limited to—
+    Members of the Council and Institute Fellows shall avoid any action, in their activities with respect to the Institute, which might result in, or create the appearance of, a conflict of interest, including but not limited to—
 
     (1) using their office or position for private gain;
 

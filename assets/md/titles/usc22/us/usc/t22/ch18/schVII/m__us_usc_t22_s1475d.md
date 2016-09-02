@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_s1475b, 1475c.md) | [Next](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_s1475e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1475d)
+[Previous](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_s1475a.md) | [Next](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_s1475e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1475d)
 
 ## § 1475d. Compensation for disability or death
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_s1475b, 1475c.md) | [Next](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_s1475e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1475d)
+[Previous](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_s1475a.md) | [Next](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_s1475e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1475d)
 
 ----------
 ----------

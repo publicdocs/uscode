@@ -15,7 +15,7 @@
 
 ## § 7801. Findings
 
-Congress makes the following findings:
+    Congress makes the following findings:
 
     (1) According to the Department of State, the Government of North Korea is “a dictatorship under the absolute rule of Kim Jong Il” that continues to commit numerous, serious human rights abuses.
 

@@ -99,11 +99,31 @@
 
  __Delegation of Functions__ 
 
-    Functions of President under this section and [section 580 of Pub. L. 100–461][/us/pl/100/461/s580], see Similar Provisions note below, except those functions relating to determinations of a rate of interest which is less than the market rate, delegated to Secretary of Defense, to be exercised in consultation with Secretary of State and Secretary of the Treasury, by section 1(e) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under [section 2751 of this title][/us/usc/t22/s2751].
+    For delegation of functions of the President under this section and [section 7069 of div. I of Pub. L. 112–74][/us/pl/112/74/s7069], see Similar Provisions note below, with certain conditions and exceptions, see section 1(e) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under [section 2751 of this title][/us/usc/t22/s2751]. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under [section 2751 of this title][/us/usc/t22/s2751] and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
  __Similar Provisions__ 
 
-Provisions similar to those in last sentence of subsec. (a) of this section which were applicable to NATO and major non-NATO allies in addition to Israel and Egypt were contained in the following appropriation acts and were not repeated in subsequent appropriation acts:
+Provisions similar to those in last sentence of subsec. (a) of this section which were applicable to NATO and major non-NATO allies in addition to Israel and Egypt were contained in the following appropriation acts:
+
+    [Pub. L. 112–74, div. I, title VII, § 7069][/us/pl/112/74/s7069], Dec. 23, 2011, [125 Stat. 1253][/us/stat/125/1253].
+
+    [Pub. L. 111–117, div. F, title VII, § 7083][/us/pl/111/117/s7083], Dec. 16, 2009, [123 Stat. 3400][/us/stat/123/3400].
+
+    [Pub. L. 111–8, div. H, title VII, § 7085][/us/pl/111/8/s7085], Mar. 11, 2009, [123 Stat. 912][/us/stat/123/912].
+
+    [Pub. L. 110–161, div. J, title VI, § 610][/us/pl/110/161/s610], Dec. 26, 2007, [121 Stat. 2316][/us/stat/121/2316].
+
+    [Pub. L. 109–102, title V, § 510][/us/pl/109/102/s510], Nov. 14, 2005, [119 Stat. 2198][/us/stat/119/2198].
+
+    [Pub. L. 108–447, div. D, title V, § 510][/us/pl/108/447/s510], Dec. 8, 2004, [118 Stat. 2993][/us/stat/118/2993].
+
+    [Pub. L. 108–199, div. D, title V, § 510][/us/pl/108/199/s510], Jan. 23, 2004, [118 Stat. 170][/us/stat/118/170].
+
+    [Pub. L. 108–7, div. E, title V, § 575][/us/pl/108/7/s575], Feb. 20, 2003, [117 Stat. 210][/us/stat/117/210].
+
+    [Pub. L. 107–115, title V, § 580][/us/pl/107/115/s580], Jan. 10, 2002, [115 Stat. 2170][/us/stat/115/2170].
+
+    [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title V, § 589\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–59.
 
     [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 528\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–90.
 
@@ -172,8 +192,29 @@ Provisions similar to those in last sentence of subsec. (a) of this section whic
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/pl/94/329/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs208%2Fb
 [/us/stat/90/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F739
-[/us/pl/100/461/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs580
+[/us/pl/112/74/s7069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7069
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/pl/112/74/s7069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7069
+[/us/stat/125/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1253
+[/us/pl/111/117/s7083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7083
+[/us/stat/123/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3400
+[/us/pl/111/8/s7085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs7085
+[/us/stat/123/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F912
+[/us/pl/110/161/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs610
+[/us/stat/121/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2316
+[/us/pl/109/102/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs510
+[/us/stat/119/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2198
+[/us/pl/108/447/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs510
+[/us/stat/118/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2993
+[/us/pl/108/199/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs510
+[/us/stat/118/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F170
+[/us/pl/108/7/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs575
+[/us/stat/117/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F210
+[/us/pl/107/115/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2Fs580
+[/us/stat/115/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2170
+[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
 [/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd

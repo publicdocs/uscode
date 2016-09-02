@@ -15,7 +15,7 @@
 
 ## § 5852. Eligibility
 
-Funds may be obligated for a fiscal year for assistance or other programs or activities for an independent state of the former Soviet Union under sections 5853 and 5854 of this title only if the President has certified to the Congress, during that fiscal year, that such independent state is committed to—
+    Funds may be obligated for a fiscal year for assistance or other programs or activities for an independent state of the former Soviet Union under sections 5853 and 5854 of this title only if the President has certified to the Congress, during that fiscal year, that such independent state is committed to—
 
     (1) making a substantial investment of its resources for dismantling or destroying such weapons of mass destruction, if that independent state has an obligation under a treaty or other agreement to destroy or dismantle any such weapons;
 

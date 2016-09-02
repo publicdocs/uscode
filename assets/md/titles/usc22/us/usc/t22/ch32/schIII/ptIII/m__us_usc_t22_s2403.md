@@ -15,7 +15,7 @@
 
 ## § 2403. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) “Agency of the United States Government” includes any agency, department, board, wholly or partly owned corporation, instrumentality, commission, or establishment of the United States Government.
 

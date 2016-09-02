@@ -15,13 +15,13 @@
 
 ## § 6211. The continuing mission of Radio Free Europe and Radio Liberty broadcasts
 
-It is the sense of Congress that Radio Free Europe and Radio Liberty should continue to broadcast to the peoples of Central Europe, Eurasia, and the Persian Gulf until such time as—
+    It is the sense of Congress that Radio Free Europe and Radio Liberty should continue to broadcast to the peoples of Central Europe, Eurasia, and the Persian Gulf until such time as—
 
     (1) a particular nation has clearly demonstrated the successful establishment and consolidation of democratic rule; and
 
     (2) its domestic media which provide balanced, accurate, and comprehensive news and information, is firmly established and widely accessible to the national audience, thus making redundant broadcasts by Radio Free Europe or Radio Liberty.
 
-        At such time as a particular nation meets both of these conditions, RFE/RL should phase out broadcasting to that nation.
+    At such time as a particular nation meets both of these conditions, RFE/RL should phase out broadcasting to that nation.
 
 ([Pub. L. 103–236, title III, § 312][/us/pl/103/236/s312], Apr. 30, 1994, [108 Stat. 444][/us/stat/108/444]; [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title V, § 503\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–451.)
 

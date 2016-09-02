@@ -15,7 +15,7 @@
 
 ## § 5324. Statement of policy
 
-It is the policy of the United States that—
+    It is the policy of the United States that—
 
     (1) increasing growth in the developing world is a major goal of international economic policy;
 

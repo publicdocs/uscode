@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4801.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4803, 4804.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802)
+[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4801.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4805.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802)
 
 ## § 4802. Responsibility of Secretary of State
 
@@ -165,9 +165,19 @@
 
     \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of [Pub. L. 108–458][/us/pl/108/458], set out as a note under [section 3001 of Title 50][/us/usc/t50/s3001], War and National Defense.\]
 
+§§ 4803, 4804. __Repealed.__  __[__  __Pub. L. 103–236, title I, § 162(g)(3)__  __][/us/pl/103/236/s162/g/3]__  __, (4),__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 407__  __][/us/stat/108/407]__ 
+
+    Section 4803, [Pub. L. 99–399, title I, § 104(a)][/us/pl/99/399/s104/a], Aug. 27, 1986, [100 Stat. 856][/us/stat/100/856], established Bureau of Diplomatic Security in Department of State.
+
+    Section 4804, [Pub. L. 99–399, title I, § 105][/us/pl/99/399/s105], Aug. 27, 1986, [100 Stat. 856][/us/stat/100/856], set out responsibilities of Assistant Secretary of State for Diplomatic Security.
+
+ __Effective Date of Repeal__ 
+
+    Repeal applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of [Pub. L. 103–236][/us/pl/103/236] become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see [section 161(b) of Pub. L. 103–236][/us/pl/103/236/s161/b], as amended, set out as an Effective Date of 1994 Amendment note under [section 2651a of this title][/us/usc/t22/s2651a].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4801.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4803, 4804.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802)
+[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4801.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4805.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802)
 
 ----------
 ----------
@@ -209,5 +219,14 @@
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
+[/us/pl/103/236/s162/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fg%2F3
+[/us/stat/108/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F407
+[/us/pl/99/399/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs104%2Fa
+[/us/stat/100/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F856
+[/us/pl/99/399/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs105
+[/us/stat/100/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F856
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb
+[/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 
 

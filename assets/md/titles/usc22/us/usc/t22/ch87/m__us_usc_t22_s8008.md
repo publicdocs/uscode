@@ -15,7 +15,7 @@
 
 ## § 8008. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “Additional Protocol” means a protocol additional to a safeguards agreement with the IAEA, as negotiated between a country and the IAEA based on a Model Additional Protocol as set forth in IAEA information circular (INFCIRC) 540.
 

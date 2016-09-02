@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s276 to 276a–4.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s276c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs276b)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s275a.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s276c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs276b)
 
 ## § 276b. Repealed. [Pub. L. 95–45, § 4(d)(4)][/us/pl/95/45/s4/d/4], June 15, 1977, [91 Stat. 223][/us/stat/91/223]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s276 to 276a–4.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s276c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs276b)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s275a.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s276c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs276b)
 
 ----------
 ----------

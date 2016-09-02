@@ -47,7 +47,7 @@
 
  __Termination of Section__ 
 
-For termination of section, see [section 8795 of this title][/us/usc/t22/s8795].
+    For termination of section, see [section 8795 of this title][/us/usc/t22/s8795].
 
 ----------
 

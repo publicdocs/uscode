@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2165.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2167, 2168.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2166)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2165.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2169.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2166)
 
 ## § 2166. Regional development in Africa
 
@@ -63,9 +63,19 @@
 
     Ex. Ord. No. 12599, June 23, 1987, 52 F.R. 23779, which established the Coordinating Committee for Sub-Saharan Africa and assigned its functions in order to establish procedures for development of a common long-term goal for all United States economic programs and policies in Sub-Saharan Africa, was revoked by Ex. Ord. No. 13118, § 10(3), Mar. 31, 1999, 64 F.R. 16598.
 
+§§ 2167, 2168. __Repealed.__  __[__  __Pub. L. 95–424, title I, § 102(g)(1)(A)__  __][/us/pl/95/424/s102/g/1/A]__  __,__  __Oct. 6, 1978__  __,__  __[__  __92 Stat. 942__  __][/us/stat/92/942]__ 
+
+    Section 2167, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 207, as added [Pub. L. 90–137][/us/pl/90/137], pt. I, § 102(e), Nov. 14, 1967, [81 Stat. 448][/us/stat/81/448], related to placement of emphasis on democratic institutions, agriculture, education, public health and other needs, in the furnishing of development assistance.
+
+    Section 2168, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 208, as added [Pub. L. 90–137][/us/pl/90/137], pt. I, § 102(e), Nov. 14, 1967, [81 Stat. 448][/us/stat/81/448], related to the taking into account, in determining to what extent United States should furnish assistance, of country’s own efforts to aid itself.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Oct. 1, 1978, see [section 605 of Pub. L. 95–424][/us/pl/95/424/s605], set out as an Effective Date of 1978 Amendment note under [section 2151 of this title][/us/usc/t22/s2151].
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2165.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2167, 2168.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2166)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2165.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2169.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2166)
 
 ----------
 ----------
@@ -84,5 +94,15 @@
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/97/113/s734/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F8
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
+[/us/pl/95/424/s102/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F1%2FA
+[/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/stat/81/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F448
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/stat/81/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F448
+[/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
+[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 
 

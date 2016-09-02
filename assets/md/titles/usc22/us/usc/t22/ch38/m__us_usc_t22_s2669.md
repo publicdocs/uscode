@@ -15,7 +15,7 @@
 
 ## § 2669. Printing and binding outside continental United States; settlement and payment of claims by foreign governments; employment of aliens; official functions and courtesies; purchase of uniforms; payment of tort claims; payment of assumed obligations in Germany; telecommunications services; security; special purpose passenger motor vehicles; pay obligations arising under international conventions or contracts; personal service contracts
 
-The Secretary of State may use funds appropriated or otherwise available to the Secretary to—
+    The Secretary of State may use funds appropriated or otherwise available to the Secretary to—
 
     (a) provide for printing and binding outside the States of the United States and the District of Columbia without regard to [section 501 of title 44][/us/usc/t44/s501];
 

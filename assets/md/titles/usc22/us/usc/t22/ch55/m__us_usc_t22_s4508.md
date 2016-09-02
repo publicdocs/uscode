@@ -15,7 +15,7 @@
 
 ## § 4508. Allocation of funds
 
-Of the funds authorized to be appropriated by section 102(1) of this Act—
+    Of the funds authorized to be appropriated by section 102(1) of this Act—
 
     (1) up to $5,000,000 for the fiscal year 1984 shall be available to carry out this chapter; and
 

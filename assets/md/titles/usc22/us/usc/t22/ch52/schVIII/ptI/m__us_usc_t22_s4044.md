@@ -15,7 +15,7 @@
 
 ## § 4044. Definitions
 
-As used in this part, unless otherwise specified, the term—
+    As used in this part, unless otherwise specified, the term—
 
     (1) “annuitant” means any individual, including a former participant or survivor, who meets all requirements for an annuity from the Fund under this chapter or any other Act and who has filed a claim for such annuity;
 
@@ -191,9 +191,13 @@ As used in this part, unless otherwise specified, the term—
 
 >                 “(ii) __Actuarial reduction.—__ 
 
->                          “(I) Rule if the special contribution is paid.—If the full amount of the special contribution under clause (i) is paid, no reduction under this clause shall apply.
+>                          “(I) __Rule if the special contribution is paid.—__ 
 
->                          “(II) Rule if less than the entire amount is paid.—If no special contribution under clause (i) is paid, or if less than the entire amount of such special contribution is paid, the recomputed annuity shall be reduced by an amount sufficient to make up the actuarial present value of the shortfall.
+>                     If the full amount of the special contribution under clause (i) is paid, no reduction under this clause shall apply.
+
+>                          “(II) __Rule if less than the entire amount is paid.—__ 
+
+>                     If no special contribution under clause (i) is paid, or if less than the entire amount of such special contribution is paid, the recomputed annuity shall be reduced by an amount sufficient to make up the actuarial present value of the shortfall.
 
 >     “(c) __Regulations and Notice.—__ 
 

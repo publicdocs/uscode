@@ -15,7 +15,7 @@
 
 ## § 280a. Definitions
 
-When used in this subchapter—
+    When used in this subchapter—
 
     (1) the term “Secretary” means the Secretary of State;
 

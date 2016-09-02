@@ -15,7 +15,7 @@
 
 ## § 2151i. Development and use of cooperatives
 
-In order to strengthen the participation of the rural and urban poor in their country’s development, high priority shall be given to increasing the use of funds made available under this chapter for technical and capital assistance in the development and use of cooperatives in the less developed countries which will enable and encourage greater numbers of the poor to help themselves toward a better life. In meeting the requirement of the preceding sentence, specific priority shall be given to the following:
+    In order to strengthen the participation of the rural and urban poor in their country’s development, high priority shall be given to increasing the use of funds made available under this chapter for technical and capital assistance in the development and use of cooperatives in the less developed countries which will enable and encourage greater numbers of the poor to help themselves toward a better life. In meeting the requirement of the preceding sentence, specific priority shall be given to the following:
 
     (1) __Agriculture__ 
 

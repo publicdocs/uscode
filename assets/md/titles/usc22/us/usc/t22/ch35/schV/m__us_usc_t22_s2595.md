@@ -15,7 +15,7 @@
 
 ## § 2595. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) under this chapter, the Department of State is charged with the “formulation and implementation of United States arms control and disarmament policy in a manner which will promote the national security”;
 

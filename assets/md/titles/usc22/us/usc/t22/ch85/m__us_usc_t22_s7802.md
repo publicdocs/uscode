@@ -15,7 +15,7 @@
 
 ## § 7802. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to promote respect for and protection of fundamental human rights in North Korea;
 

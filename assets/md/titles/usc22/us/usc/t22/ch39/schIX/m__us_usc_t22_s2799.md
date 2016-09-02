@@ -15,7 +15,7 @@
 
 ## § 2799. Purpose
 
-The purpose of this subchapter is to authorize the President to support, consistent with the CFE Treaty, a NATO equipment transfer program that will—
+    The purpose of this subchapter is to authorize the President to support, consistent with the CFE Treaty, a NATO equipment transfer program that will—
 
     (1) enhance NATO’s forces,
 

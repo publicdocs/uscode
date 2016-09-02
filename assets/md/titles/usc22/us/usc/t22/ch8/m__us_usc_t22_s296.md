@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s295a, 295b.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s296a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs296)
+[Previous](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s295.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s296a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs296)
 
 ## § 296. Duties of Secretary of State with respect to commission and properties
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s295a, 295b.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s296a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs296)
+[Previous](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s295.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s296a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs296)
 
 ----------
 ----------

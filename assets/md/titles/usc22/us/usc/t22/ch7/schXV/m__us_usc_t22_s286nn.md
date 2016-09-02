@@ -15,7 +15,7 @@
 
 ## § 286nn. Approval of contributions for debt reductions for the poorest countries
 
-For the purpose of mobilizing the resources of the Fund in order to help reduce poverty and improve the lives of residents of poor countries and, in particular, to allow those poor countries with unsustainable debt burdens to receive deeper, broader, and faster debt relief, without allowing gold to reach the open market or otherwise adversely affecting the market price of gold, the Secretary of the Treasury is authorized to instruct the United States Executive Director of the Fund to vote—
+    For the purpose of mobilizing the resources of the Fund in order to help reduce poverty and improve the lives of residents of poor countries and, in particular, to allow those poor countries with unsustainable debt burdens to receive deeper, broader, and faster debt relief, without allowing gold to reach the open market or otherwise adversely affecting the market price of gold, the Secretary of the Treasury is authorized to instruct the United States Executive Director of the Fund to vote—
 
     (1)
 

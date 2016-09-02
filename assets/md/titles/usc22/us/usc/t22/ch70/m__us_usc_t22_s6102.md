@@ -15,7 +15,7 @@
 
 ## § 6102. Program requirements
 
-The program established under this chapter shall comply with the following requirements:
+    The program established under this chapter shall comply with the following requirements:
 
     (1) United States citizens who are eligible for fellowships under this chapter shall be employees of the Federal Government having at least two years experience in any branch of the Government, a strong career interest in United States-Japan relations, and a demonstrated commitment to further service in the Federal Government, and such other qualifications as are determined by the Center.
 

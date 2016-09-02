@@ -15,7 +15,7 @@
 
 ## § 273. Pan American Institute of Geography and History; authorization of annual appropriations for membership
 
-In order to meet the obligations of the United States as a member of the Pan American Institute of Geography and History, there are authorized to be appropriated to the Department of State—
+    In order to meet the obligations of the United States as a member of the Pan American Institute of Geography and History, there are authorized to be appropriated to the Department of State—
 
     (1) such sums as may be required for the payment by the United States of its share of the expenses of the Institute, as apportioned in accordance with the statutes of the Institute;
 

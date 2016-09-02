@@ -15,7 +15,7 @@
 
 ## § 2101. Statement of purpose
 
-It is the purpose of this chapter—
+    It is the purpose of this chapter—
 
     (1) to advance the status of the health sciences in the United States and thereby the health of the American people through cooperative endeavors with other countries in health research, and research training; and
 

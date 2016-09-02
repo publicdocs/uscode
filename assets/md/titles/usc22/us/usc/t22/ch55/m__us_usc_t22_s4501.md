@@ -15,7 +15,7 @@
 
 ## § 4501. Findings and declarations
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) factual knowledge, independently verified, about the countries of Eastern Europe and the independent states of the former Soviet Union is of the utmost importance for the national security of the United States, for the furtherance of our national interests in the conduct of foreign relations, and for the prudent management of our domestic affairs;
 

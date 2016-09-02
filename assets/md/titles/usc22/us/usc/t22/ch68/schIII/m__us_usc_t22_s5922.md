@@ -15,7 +15,7 @@
 
 ## § 5922. Quarterly reports on programs
 
-Not later than 30 days after the end of the last fiscal year quarter of fiscal year 1992 and not later than 30 days after the end of each fiscal year quarter of fiscal year 1993, the President shall transmit to the Congress a report on the activities carried out under this chapter. Each such report shall set forth, for the preceding fiscal year quarter and cumulatively, the following:
+    Not later than 30 days after the end of the last fiscal year quarter of fiscal year 1992 and not later than 30 days after the end of each fiscal year quarter of fiscal year 1993, the President shall transmit to the Congress a report on the activities carried out under this chapter. Each such report shall set forth, for the preceding fiscal year quarter and cumulatively, the following:
 
     (1) The amounts expended for such activities and the purposes for which they were expended.
 

@@ -15,7 +15,7 @@
 
 ## § 5472. Report on confidence building measures by Poland and Hungary
 
-Not later than 180 days after November 28, 1989, the President shall submit a report to the Congress identifying—
+    Not later than 180 days after November 28, 1989, the President shall submit a report to the Congress identifying—
 
     (1) the confidence building measures Poland and Hungary could undertake to facilitate the negotiation of agreements, including bilateral customs and technology transfer agreements, that would encourage greater direct private sector investment in that country; and
 

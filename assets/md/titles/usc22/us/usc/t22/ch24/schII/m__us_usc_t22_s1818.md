@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1811 to 1817.md) | [Next](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1819.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1818)
+[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_ch24_schII.md) | [Next](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1819.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1818)
 
 ## § 1818. Repealed. [Pub. L. 85–141, § 2(e)][/us/pl/85/141/s2/e], Aug. 14, 1957, [71 Stat. 356][/us/stat/71/356]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1811 to 1817.md) | [Next](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1819.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1818)
+[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_ch24_schII.md) | [Next](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1819.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1818)
 
 ----------
 ----------

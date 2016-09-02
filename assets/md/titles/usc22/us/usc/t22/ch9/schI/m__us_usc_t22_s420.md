@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s411 to 419.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s421.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs420)
+[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s408a.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s421.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs420)
 
 ## § 420. Repealed. [July 25, 1947, ch. 327, § 1][/us/act/1947-07-25/ch327/s1], [61 Stat. 449][/us/stat/61/449]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s411 to 419.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s421.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs420)
+[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s408a.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s421.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs420)
 
 ----------
 ----------

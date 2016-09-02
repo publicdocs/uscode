@@ -15,7 +15,7 @@
 
 ## § 5731. Reporting requirement
 
-Not later than March 31, 1993, March 31, 1995, March 31, 1996, March 31, 1997, March 31, 1998, March 31, 1999, March 31, 2000, March 31, 2001, March 31, 2002, March 31, 2003, March 31, 2004, March 31, 2005, and March 31, 2006 the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992, or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
+    Not later than March 31, 1993, March 31, 1995, March 31, 1996, March 31, 1997, March 31, 1998, March 31, 1999, March 31, 2000, March 31, 2001, March 31, 2002, March 31, 2003, March 31, 2004, March 31, 2005, and March 31, 2006 the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992, or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
 
     (1) significant developments in United States relations with Hong Kong, including a description of agreements that have entered into force between the United States and Hong Kong;
 

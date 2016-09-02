@@ -15,7 +15,7 @@
 
 ## § 5811. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) recent developments in Russia and the other independent states of the former Soviet Union present an historic opportunity for a transition to a peaceful and stable international order and the integration of the independent states of the former Soviet Union into the community of democratic nations;
 

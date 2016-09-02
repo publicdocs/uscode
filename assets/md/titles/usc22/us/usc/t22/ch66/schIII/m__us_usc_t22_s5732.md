@@ -15,7 +15,7 @@
 
 ## § 5732. Separate part of country reports
 
-Whenever a report is transmitted to the Congress on a country-by-country basis there shall be included in such report, where applicable, a separate subreport on Hong Kong under the heading of the state that exercises sovereignty over Hong Kong. The reports to which this section applies include the reports transmitted under—
+    Whenever a report is transmitted to the Congress on a country-by-country basis there shall be included in such report, where applicable, a separate subreport on Hong Kong under the heading of the state that exercises sovereignty over Hong Kong. The reports to which this section applies include the reports transmitted under—
 
     (1) sections 2151n(d) and 2304(b) of this title (relating to human rights);
 

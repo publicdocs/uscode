@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch3/m__us_usc_t22_s191 to 200.md) | [Next](./../../../..//us/usc/t22/ch3/m__us_usc_t22_s202.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs201)
+[Previous](./../../../..//us/usc/t22/ch3/m__us_usc_t22_ch3.md) | [Next](./../../../..//us/usc/t22/ch3/m__us_usc_t22_s202.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs201)
 
 ## § 201. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch3/m__us_usc_t22_s191 to 200.md) | [Next](./../../../..//us/usc/t22/ch3/m__us_usc_t22_s202.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs201)
+[Previous](./../../../..//us/usc/t22/ch3/m__us_usc_t22_ch3.md) | [Next](./../../../..//us/usc/t22/ch3/m__us_usc_t22_s202.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs201)
 
 ----------
 ----------

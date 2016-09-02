@@ -15,7 +15,7 @@
 
 ## § 277d–43. Definitions
 
-In sections 277d–43 to 277d–46 of this title, the following definitions apply:
+    In sections 277d–43 to 277d–46 of this title, the following definitions apply:
 
     (1) __Administrator__ 
 

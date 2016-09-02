@@ -219,11 +219,11 @@
 
  __Amendment of Section__ 
 
-Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title][/us/usc/t22/s4067], provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title][/us/usc/t22/s4055/h] and voluntary contributions under [section 4065(a) of this title][/us/usc/t22/s4065/a] from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under [section 4056(a) of this title][/us/usc/t22/s4056/a] any period of civilian service for which retirement deductions or contributions have not been made under [section 4045(d) of this title][/us/usc/t22/s4045/d] unless—
+    Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title][/us/usc/t22/s4067], provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title][/us/usc/t22/s4055/h] and voluntary contributions under [section 4065(a) of this title][/us/usc/t22/s4065/a] from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under [section 4056(a) of this title][/us/usc/t22/s4056/a] any period of civilian service for which retirement deductions or contributions have not been made under [section 4045(d) of this title][/us/usc/t22/s4045/d] unless—
 
-(1) the participant makes a contribution for such period as provided in such [section 4045(d) of this title][/us/usc/t22/s4045/d]; or
+    (1) the participant makes a contribution for such period as provided in such [section 4045(d) of this title][/us/usc/t22/s4045/d]; or
 
-(2) no contribution is required for such service as provided under [section 4045(f) of this title][/us/usc/t22/s4045/f] as deemed to be amended by this Order, or under any other statute.
+    (2) no contribution is required for such service as provided under [section 4045(f) of this title][/us/usc/t22/s4045/f] as deemed to be amended by this Order, or under any other statute.
 
  __References in Text__ 
 

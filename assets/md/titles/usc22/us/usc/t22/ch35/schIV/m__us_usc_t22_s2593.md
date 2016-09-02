@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2592a, 2592b.md) | [Next](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2593a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2593)
+[Previous](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2592.md) | [Next](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2593a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2593)
 
 ## § 2593. Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1222, Oct. 21, 1998, [112 Stat. 2681–768][/us/stat/112/2681-768]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2592a, 2592b.md) | [Next](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2593a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2593)
+[Previous](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2592.md) | [Next](./../../../../..//us/usc/t22/ch35/schIV/m__us_usc_t22_s2593a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2593)
 
 ----------
 ----------

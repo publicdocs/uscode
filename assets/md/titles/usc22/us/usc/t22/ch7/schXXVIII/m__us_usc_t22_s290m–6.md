@@ -15,7 +15,7 @@
 
 ## § 290m–6. Annual report
 
-The Secretary of the Treasury shall submit annually to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate a written report on the North American Development Bank, which addresses the following issues:
+    The Secretary of the Treasury shall submit annually to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate a written report on the North American Development Bank, which addresses the following issues:
 
     (1) The number and description of the projects that the North American Development Bank has approved. The description shall include the level of market-rate loans, non-market-rate loans, and grants used in an approved project, and a description of whether an approved project is located within 100 kilometers of the international boundary between the United States and Mexico or within 300 kilometers of the international boundary between the United States and Mexico.
 

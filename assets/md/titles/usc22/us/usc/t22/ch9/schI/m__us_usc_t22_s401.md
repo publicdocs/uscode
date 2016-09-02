@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_ch9_schI.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s402 to 405.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401)
+[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_ch9_schI.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s406.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401)
 
 ## § 401. Illegal exportation of war materials
 
@@ -51,9 +51,21 @@ By virtue of the authority vested in me by [section 1 of Title VI of the act of 
 
                               Dwight D. Eisenhower.
 
+§§ 402 to 405. __Repealed.__  __[__  __Aug. 13, 1953, ch. 434, § 2__  __][/us/act/1953-08-13/ch434/s2]__  __,__  __[__  __67 Stat. 577__  __][/us/stat/67/577]__ 
+
+    Section 402, [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, § 2, [40 Stat. 224][/us/stat/40/224], related to issuance of warrant for detention of seized property.
+
+    Section 403, [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, § 3, [40 Stat. 224][/us/stat/40/224], related to filing petition for restoration of seized property.
+
+    Section 404, acts [June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, § 4, [40 Stat. 224][/us/stat/40/224]; [Mar. 1, 1929, ch. 420][/us/act/1929-03-01/ch420], [45 Stat. 1423][/us/stat/45/1423], related to institution of libel proceedings and sale of seized property.
+
+    Section 405, [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, § 5, [40 Stat. 224][/us/stat/40/224], related to method of trial and bond for redelivery.
+
+    For subject matter of sections 402 to 405 of this title, see [section 401 of this title][/us/usc/t22/s401].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_ch9_schI.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s402 to 405.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401)
+[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_ch9_schI.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s406.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401)
 
 ----------
 ----------
@@ -79,5 +91,18 @@ By virtue of the authority vested in me by [section 1 of Title VI of the act of 
 [/us/usc/t22/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401
 [/us/act/1917-06-15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fs1
 [/us/act/1953-08-13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-13%2Fs1
+[/us/act/1953-08-13/ch434/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-13%2Fch434%2Fs2
+[/us/stat/67/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F577
+[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
+[/us/stat/40/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F224
+[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
+[/us/stat/40/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F224
+[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
+[/us/stat/40/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F224
+[/us/act/1929-03-01/ch420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch420
+[/us/stat/45/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1423
+[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
+[/us/stat/40/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F224
+[/us/usc/t22/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401
 
 

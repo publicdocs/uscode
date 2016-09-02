@@ -15,7 +15,7 @@
 
 ## § 8152. Application of national security exclusion to wide-area environmental sampling
 
-In accordance with Article 1(b) of the Additional Protocol, the United States shall not permit any wide-area environmental sampling proposed by the IAEA to be conducted at a specified location in the United States under Article 9 of the Additional Protocol unless the President has determined and reported to the appropriate congressional committees with respect to that proposed use of environmental sampling that—
+    In accordance with Article 1(b) of the Additional Protocol, the United States shall not permit any wide-area environmental sampling proposed by the IAEA to be conducted at a specified location in the United States under Article 9 of the Additional Protocol unless the President has determined and reported to the appropriate congressional committees with respect to that proposed use of environmental sampling that—
 
     (1) the proposed use of wide-area environmental sampling is necessary to increase the capability of the IAEA to detect undeclared nuclear activities in the territory of a non-nuclear-weapon State Party;
 

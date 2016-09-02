@@ -15,7 +15,7 @@
 
 ## § 280k. Authorization of appropriations
 
-There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
+    There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
 
     (a) Such sums as may be necessary for the payment by the United States of its proportionate share of the expenses of the Pan American Railway Congress and its Permanent Commission; and
 

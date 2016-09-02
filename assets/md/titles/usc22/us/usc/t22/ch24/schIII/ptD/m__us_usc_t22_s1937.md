@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1935, 1936.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1938.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1937)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1934.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1938.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1937)
 
 ## § 1937. Irish counterpart account; approval of disposition
 
-Pursuant to section 1513(b)(6)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the disposition within Ireland of the unencumbered balance, in the amount of approximately 6,000,000 Irish pounds, of the special account of Irish funds established under article IV of the Economic Cooperation Agreement between the United States of America and Ireland, dated June 28, 1948, for the purposes of—
+    Pursuant to section 1513(b)(6)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the disposition within Ireland of the unencumbered balance, in the amount of approximately 6,000,000 Irish pounds, of the special account of Irish funds established under article IV of the Economic Cooperation Agreement between the United States of America and Ireland, dated June 28, 1948, for the purposes of—
 
     (1) scholarship exchange between the United States and Ireland;
 
@@ -23,7 +23,7 @@ Pursuant to section 1513(b)(6)  <sup>\[1\]</sup>  <sup><sup> 1 See Reference
 
     (3) development programs and projects in aid of the foregoing objectives,
 
-        is approved, as provided in the agreement between the Government of the United States of America and the Government of Ireland, dated June 17, 1954.
+    is approved, as provided in the agreement between the Government of the United States of America and the Government of Ireland, dated June 17, 1954.
 
 ([Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], ch. II, § 417, [68 Stat. 849][/us/stat/68/849].)
 
@@ -33,7 +33,7 @@ Pursuant to section 1513(b)(6)  <sup>\[1\]</sup>  <sup><sup> 1 See Reference
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1935, 1936.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1938.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1937)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1934.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1938.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1937)
 
 ----------
 ----------

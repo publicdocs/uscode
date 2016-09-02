@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151j.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151l, 2151m.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151k)
+[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151j.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151n.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151k)
 
 ## § 2151k. Integrating women into national economies; report
 
@@ -65,9 +65,19 @@
 
     For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title][/us/usc/t22/s2381].
 
+§§ 2151l, 2151m. __Repealed.__  __[__  __Pub. L. 95–424, title I__  __][/us/pl/95/424]__  __, §§ 102(f), 104(b),__  __Oct. 6, 1978__  __,__  __[__  __92 Stat. 942__  __][/us/stat/92/942]__  __, 947__ 
+
+    Section 2151l, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 114, as added [Pub. L. 93–189, § 2(3)][/us/pl/93/189/s2/3], Dec. 17, 1973, [87 Stat. 716][/us/stat/87/716]; amended [Pub. L. 95–88, title I, § 109][/us/pl/95/88/s109], Aug. 3, 1977, [91 Stat. 536][/us/stat/91/536], prohibited use of funds for performance of abortions or involuntary sterilizations.
+
+    Section 2151m, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 115, as added [Pub. L. 93–559, § 20][/us/pl/93/559/s20], Dec. 30, 1974, [88 Stat. 1800][/us/stat/88/1800]; amended [Pub. L. 95–88, title I, § 110][/us/pl/95/88/s110], Aug. 3, 1977, [91 Stat. 536][/us/stat/91/536], prohibited use of funds available under this part for any countries to which assistance is furnished under part IV of subchapter II of this chapter or under subchapter V of this chapter without specific authorization from Congress.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Oct. 1, 1978, see [section 605 of Pub. L. 95–424][/us/pl/95/424/s605], set out as an Effective Date of 1978 Amendment note under [section 2151 of this title][/us/usc/t22/s2151].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151j.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151l, 2151m.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151k)
+[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151j.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151n.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151k)
 
 ----------
 ----------
@@ -104,5 +114,19 @@
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/pl/93/189/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs2%2F3
+[/us/stat/87/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F716
+[/us/pl/95/88/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs109
+[/us/stat/91/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F536
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/pl/93/559/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs20
+[/us/stat/88/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1800
+[/us/pl/95/88/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs110
+[/us/stat/91/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F536
+[/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
+[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 
 

@@ -15,7 +15,7 @@
 
 ## § 8202. Statement of policy
 
-It is the policy of the United States—
+    It is the policy of the United States—
 
     (1) to promote freedom and democracy in foreign countries as a fundamental component of United States foreign policy, along with other key foreign policy goals;
 

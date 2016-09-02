@@ -15,7 +15,7 @@
 
 ## § 3202. Congressional statement of purpose
 
-It is the purpose of this chapter to promote the policies set forth above by—
+    It is the purpose of this chapter to promote the policies set forth above by—
 
     (a) establishing a more effective framework for international cooperation to meet the energy needs of all nations and to ensure that the worldwide development of peaceful nuclear activities and the export by any nation of nuclear materials and equipment and nuclear technology intended for use in peaceful nuclear activities do not contribute to proliferation;
 

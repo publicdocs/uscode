@@ -15,7 +15,7 @@
 
 ## § 6449. Termination of Presidential actions
 
-Any Presidential action taken under this chapter with respect to a foreign country shall terminate on the earlier of the following dates:
+    Any Presidential action taken under this chapter with respect to a foreign country shall terminate on the earlier of the following dates:
 
     (1) __Termination date__ 
 

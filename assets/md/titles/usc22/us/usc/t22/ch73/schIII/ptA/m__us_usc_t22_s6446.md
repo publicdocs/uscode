@@ -15,7 +15,7 @@
 
 ## § 6446. Effects on existing contracts
 
-The President shall not be required to apply or maintain any Presidential action under this part—
+    The President shall not be required to apply or maintain any Presidential action under this part—
 
     (1)
 

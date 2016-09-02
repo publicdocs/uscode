@@ -15,7 +15,7 @@
 
 ## § 2390. Terms of detail or assignment of personnel
 
-Details or assignments may be made under section 2387 or 2388 of this title or [section 1928 of this title][/us/usc/t22/s1928]—
+    Details or assignments may be made under section 2387 or 2388 of this title or [section 1928 of this title][/us/usc/t22/s1928]—
 
     (1) without reimbursement to the United States Government by the foreign government or international organization;
 

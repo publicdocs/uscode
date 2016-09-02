@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2666, 2667.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2668a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2665a.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2668a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668)
 
 ## § 2668. Requisitions for advances to pay lawful obligations
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2666, 2667.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2668a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2665a.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2668a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668)
 
 ----------
 ----------

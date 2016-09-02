@@ -15,7 +15,7 @@
 
 ## § 290n–2. Other authorized functions
 
-In addition to the duties described in [section 290n–1 of this title][/us/usc/t22/s290n–1], the Commission should be authorized to perform the following functions as the Commission determines to be appropriate—
+    In addition to the duties described in [section 290n–1 of this title][/us/usc/t22/s290n–1], the Commission should be authorized to perform the following functions as the Commission determines to be appropriate—
 
     (1) to conduct or support investigations, research, or studies designed to identify, study, and monitor, on an on-going basis, health problems that affect the general population in the United States-Mexico Border Area;
 

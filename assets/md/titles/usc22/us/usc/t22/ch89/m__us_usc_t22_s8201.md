@@ -15,7 +15,7 @@
 
 ## § 8201. Findings
 
-Congress finds the following:
+    Congress finds the following:
 
     (1) The United States Declaration of Independence, the United States Constitution, and the United Nations Universal Declaration of Human Rights declare that all human beings are created equal and possess certain rights and freedoms, including the fundamental right to participate in the political life and government of their respective countries.
 

@@ -15,7 +15,7 @@
 
 ## § 4101. Congressional findings and policy
 
-The Congress finds that—
+    The Congress finds that—
 
     (1)
 
@@ -31,7 +31,7 @@ The Congress finds that—
 
     (3) the unique conditions of Foreign Service employment require a distinct framework for the development and implementation of modern, constructive, and cooperative relationships between management officials and organizations representing members of the Service.
 
-        Therefore, labor organizations and collective bargaining in the Service are in the public interest and are consistent with the requirement of an effective and efficient Government. The provisions of this subchapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
+    Therefore, labor organizations and collective bargaining in the Service are in the public interest and are consistent with the requirement of an effective and efficient Government. The provisions of this subchapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
 
 ([Pub. L. 96–465, title I, § 1001][/us/pl/96/465/s1001], Oct. 17, 1980, [94 Stat. 2128][/us/stat/94/2128].)
 

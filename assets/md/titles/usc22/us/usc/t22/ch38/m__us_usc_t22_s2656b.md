@@ -15,7 +15,7 @@
 
 ## § 2656b. Congressional declaration of policy regarding consequences of science and technology on conduct of foreign policy
 
-In order to maximize the benefits and to minimize the adverse consequences of science and technology in the conduct of foreign policy, the Congress declares the following to be the policy of the United States:
+    In order to maximize the benefits and to minimize the adverse consequences of science and technology in the conduct of foreign policy, the Congress declares the following to be the policy of the United States:
 
     (1) Technological opportunities, impacts, changes, and threats should be anticipated and assessed, and appropriate measures should be implemented to influence such technological developments in ways beneficial to the United States and other countries.
 

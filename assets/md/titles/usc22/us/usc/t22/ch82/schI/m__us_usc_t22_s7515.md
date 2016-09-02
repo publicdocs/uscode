@@ -15,7 +15,7 @@
 
 ## § 7515. Sense of Congress regarding promoting cooperation in opium producing areas
 
-It is the sense of Congress that the President should—
+    It is the sense of Congress that the President should—
 
     (1) to the extent practicable, under such procedures as the President may prescribe, withhold United States bilateral assistance from, and oppose multilateral assistance to, opium-producing areas of Afghanistan if, within such areas, appropriate cooperation is not provided to the United States, the Government of Afghanistan, and international organizations with respect to the suppression of narcotics cultivation and trafficking, and if withholding such assistance would promote such cooperation;
 

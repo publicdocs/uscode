@@ -15,7 +15,7 @@
 
 ## § 2717. Defense trade controls registration fees
 
-For each fiscal year, 100 percent of the registration fees collected by the Office of Defense Trade Controls of the Department of State shall be credited to a Department of State account, to be available without fiscal year limitation. Fees credited to that account shall be available only for payment of expenses incurred for—
+    For each fiscal year, 100 percent of the registration fees collected by the Office of Defense Trade Controls of the Department of State shall be credited to a Department of State account, to be available without fiscal year limitation. Fees credited to that account shall be available only for payment of expenses incurred for—
 
     (1) contract personnel to assist in the evaluation of defense trade controls license applications, reduction in processing time for license applications, and improved monitoring of compliance with the terms of licenses;
 

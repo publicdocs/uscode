@@ -15,7 +15,7 @@
 
 ## § 8232. Sense of Congress regarding the Internet website of the Department of State
 
-It is the sense of Congress that in order to facilitate access by individuals, nongovernmental organizations, and movements in foreign countries to documents, streaming video and audio, and other media regarding democratic principles, practices, and values, and the promotion and strengthening of democracy, the Secretary should take additional steps to enhance the Internet site for global democracy and human rights of the Department, which should include, where practicable, the following:
+    It is the sense of Congress that in order to facilitate access by individuals, nongovernmental organizations, and movements in foreign countries to documents, streaming video and audio, and other media regarding democratic principles, practices, and values, and the promotion and strengthening of democracy, the Secretary should take additional steps to enhance the Internet site for global democracy and human rights of the Department, which should include, where practicable, the following:
 
     (1) Narratives and histories, published by the United States Government, of significant democratic movements in foreign countries, particularly regarding successful nonviolent campaigns to promote democracy in non-democratic countries and democratic transition countries.
 

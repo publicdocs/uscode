@@ -15,7 +15,7 @@
 
 ## § 2370c. Definitions
 
-In sections 2370c to 2370c–2 of this title:
+    In sections 2370c to 2370c–2 of this title:
 
     (1) __Appropriate congressional committees__ 
 

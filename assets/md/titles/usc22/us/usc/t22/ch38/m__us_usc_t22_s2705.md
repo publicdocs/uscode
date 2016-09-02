@@ -15,7 +15,7 @@
 
 ## § 2705. Documentation of citizenship
 
-The following documents shall have the same force and effect as proof of United States citizenship as certificates of naturalization or of citizenship issued by the Attorney General or by a court having naturalization jurisdiction:
+    The following documents shall have the same force and effect as proof of United States citizenship as certificates of naturalization or of citizenship issued by the Attorney General or by a court having naturalization jurisdiction:
 
     (1) A passport, during its period of validity (if such period is the maximum period authorized by law), issued by the Secretary of State to a citizen of the United States.
 

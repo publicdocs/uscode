@@ -15,7 +15,7 @@
 
 ## § 8203. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Annual Report on Advancing Freedom and Democracy__ 
 

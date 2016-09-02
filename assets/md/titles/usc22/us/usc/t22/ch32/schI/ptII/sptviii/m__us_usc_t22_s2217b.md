@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptviii/m__us_usc_t22_s2217, 2217a.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptix/m__us_usc_t22_ch32_schI_ptII_sptix.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2217b)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptviii/m__us_usc_t22_ch32_schI_ptII_sptviii.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptix/m__us_usc_t22_ch32_schI_ptII_sptix.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2217b)
 
 ## § 2217b. Repealed. [Pub. L. 90–137][/us/pl/90/137], pt. I, § 107, Nov. 14, 1967, [81 Stat. 452][/us/stat/81/452]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptviii/m__us_usc_t22_s2217, 2217a.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptix/m__us_usc_t22_ch32_schI_ptII_sptix.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2217b)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptviii/m__us_usc_t22_ch32_schI_ptII_sptviii.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptix/m__us_usc_t22_ch32_schI_ptII_sptix.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2217b)
 
 ----------
 ----------

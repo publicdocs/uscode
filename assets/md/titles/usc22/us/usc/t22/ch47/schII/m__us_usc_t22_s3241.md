@@ -15,7 +15,7 @@
 
 ## § 3241. Congressional declaration of policy
 
-The United States is committed to continued strong support for the principles of the Treaty on the Non-Proliferation of Nuclear Weapons, to a strengthened and more effective International Atomic Energy Agency and to a comprehensive safeguards system administered by the Agency to deter proliferation. Accordingly, the United States shall seek to act with other nations to—
+    The United States is committed to continued strong support for the principles of the Treaty on the Non-Proliferation of Nuclear Weapons, to a strengthened and more effective International Atomic Energy Agency and to a comprehensive safeguards system administered by the Agency to deter proliferation. Accordingly, the United States shall seek to act with other nations to—
 
     (a) continue to strengthen the safeguards program of the IAEA and, in order to implement this section, contribute funds, technical resources, and other support to assist the IAEA in effectively implementing safeguards;
 

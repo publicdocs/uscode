@@ -15,7 +15,7 @@
 
 ## § 2576. Arms control information
 
-In order to assist the Secretary of State in the performance of his duties with respect to arms control, nonproliferation, and disarmament policy and negotiations, any Government agency preparing any legislative or budgetary proposal for—
+    In order to assist the Secretary of State in the performance of his duties with respect to arms control, nonproliferation, and disarmament policy and negotiations, any Government agency preparing any legislative or budgetary proposal for—
 
     (1) any program of research, development, testing, engineering, construction, deployment, or modernization with respect to nuclear armaments, nuclear implements of war, military facilities or military vehicles designed or intended primarily for the delivery of nuclear weapons,
 
@@ -29,7 +29,7 @@ In order to assist the Secretary of State in the performance of his duties with 
 
     (3) any other program involving technology with potential military application or weapons systems which such Government agency or the Secretary of State believes may have a significant impact on arms control, nonproliferation, and disarmament policy or negotiations,
 
-        shall, on a continuing basis, provide the Secretary of State with full and timely access to detailed information with respect to the nature, scope, and purpose of such proposal.
+    shall, on a continuing basis, provide the Secretary of State with full and timely access to detailed information with respect to the nature, scope, and purpose of such proposal.
 
 ([Pub. L. 87–297, title III, § 305][/us/pl/87/297/s305], formerly § 36, as added [Pub. L. 94–141, title I, § 146][/us/pl/94/141/s146], Nov. 29, 1975, [89 Stat. 758][/us/stat/89/758]; amended [Pub. L. 95–338, § 1][/us/pl/95/338/s1], Aug. 8, 1978, [92 Stat. 458][/us/stat/92/458]; [Pub. L. 103–236, title VII][/us/pl/103/236], §§ 704(1), 719(e), Apr. 30, 1994, [108 Stat. 492][/us/stat/108/492], 501; renumbered § 305 and amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(10), (21), Oct. 21, 1998, [112 Stat. 2681–770][/us/stat/112/2681-770], 2681–772.)
 

@@ -15,7 +15,7 @@
 
 ## § 6544. Report on privatization of RFE/RL, Incorporated
 
-Not later than March 1 of each year, the Broadcasting Board of Governors shall submit to the appropriate congressional committees a report on the progress of the Board and of RFE/RL, Incorporated, on any steps taken to further the policy declared in [section 6211(a) of this title][/us/usc/t22/s6211/a]. The report under this subsection shall include the following:
+    Not later than March 1 of each year, the Broadcasting Board of Governors shall submit to the appropriate congressional committees a report on the progress of the Board and of RFE/RL, Incorporated, on any steps taken to further the policy declared in [section 6211(a) of this title][/us/usc/t22/s6211/a]. The report under this subsection shall include the following:
 
     (1) Efforts by RFE/RL, Incorporated, to terminate individual language services.
 

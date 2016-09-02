@@ -15,9 +15,9 @@
 
 ## § 2551. Congressional statement of purpose
 
-An ultimate goal of the United States is a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. It is the purpose of this chapter to provide impetus toward this goal by addressing the problem of reduction and control of armaments looking toward ultimate world disarmament.
+    An ultimate goal of the United States is a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. It is the purpose of this chapter to provide impetus toward this goal by addressing the problem of reduction and control of armaments looking toward ultimate world disarmament.
 
-The Secretary of State must have the capacity to provide the essential scientific, economic, political, military, psychological, and technological information upon which realistic arms control, nonproliferation, and disarmament policy must be based. The Secretary shall have the authority, under the direction of the President, to carry out the following primary functions:
+    The Secretary of State must have the capacity to provide the essential scientific, economic, political, military, psychological, and technological information upon which realistic arms control, nonproliferation, and disarmament policy must be based. The Secretary shall have the authority, under the direction of the President, to carry out the following primary functions:
 
     (1) The preparation for and management of United States participation in international negotiations and implementation fora in the arms control, nonproliferation, and disarmament field.
 
@@ -195,13 +195,13 @@ The Secretary of State must have the capacity to provide the essential scientifi
 
 [Pub. L. 102–228, title II][/us/pl/102/228], Dec. 12, 1991, [105 Stat. 1693][/us/stat/105/1693], as amended by [Pub. L. 102–484, div. A, title XIV, § 1421(a)(2)][/us/pl/102/484/s1421/a/2], (3), Oct. 23, 1992, [106 Stat. 2565][/us/stat/106/2565]; [Pub. L. 103–236, title I, § 139(17)][/us/pl/103/236/s139/17], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]; [Pub. L. 104–106, div. A, title XII, § 1204][/us/pl/104/106/s1204], Feb. 10, 1996, [110 Stat. 470][/us/stat/110/470]; [Pub. L. 110–53, title XVIII, § 1811(1)][/us/pl/110/53/s1811/1], Aug. 3, 2007, [121 Stat. 492][/us/stat/121/492]; [Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)][/us/pl/110/181/s1304/a/1], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412], provided that:
 
- __“part a—short title__ 
+> “part a— __short title__ 
 
-    “SEC. 201. SHORT TITLE.
+> “SEC. 201. __SHORT TITLE.__ 
 
-    “This title may be cited as the ‘Soviet Nuclear Threat Reduction Act of 1991’.”
+>     “This title may be cited as the ‘Soviet Nuclear Threat Reduction Act of 1991’.”
 
- __“part b—findings and program authority__ 
+“part b—findings and program authority
 
     “\[SEC. 211. Repealed. [Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)(A)][/us/pl/110/181/s1304/a/1/A], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412].\]
 
@@ -211,7 +211,7 @@ The Secretary of State must have the capacity to provide the essential scientifi
 
     “(b) Type of Program.—The program under this section shall be limited to cooperation among the United States, the Soviet Union, its republics, and any successor entities to (1) destroy nuclear weapons, chemical weapons, and other weapons, (2) transport, store, disable, and safeguard weapons in connection with their destruction, and (3) establish verifiable safeguards against the proliferation of such weapons. Such cooperation may involve assistance in planning and in resolving technical problems associated with weapons destruction and proliferation. Such cooperation may also involve the funding of critical short-term requirements related to weapons destruction and should, to the extent feasible, draw upon United States technology and United States technicians.
 
- __“part c—administrative and funding authorities__ 
+“part c—administrative and funding authorities
 
     “SEC. 221. ADMINISTRATION OF NUCLEAR THREAT REDUCTION PROGRAMS.
 
@@ -243,7 +243,7 @@ The Secretary of State must have the capacity to provide the essential scientifi
 
     “It is the sense of the Senate that the committee of conference on House Joint Resolution 157 \[enacted into law as [Pub. L. 102–229][/us/pl/102/229]\] should consider providing the necessary authority in the conference agreement for the President to transfer funds pursuant to this title.
 
- __“part d—reporting requirements__ 
+“part d—reporting requirements
 
     “SEC. 231. PRIOR NOTICE OF OBLIGATIONS TO CONGRESS.
 

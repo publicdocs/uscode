@@ -15,7 +15,7 @@
 
 ## § 5323. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to expand the world trading system and raise the level of exports from the United States to the developing countries in order to reduce the United States trade deficit and foster economic expansion and an increase in the standard of living throughout the world;
 

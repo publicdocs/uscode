@@ -61,7 +61,7 @@
 
  __Repeal of Section__ 
 
-[Pub. L. 104–114, title II, § 204(d)(3)][/us/pl/104/114/s204/d/3], Mar. 12, 1996, [110 Stat. 810][/us/stat/110/810], provided that on date on which President submits determination under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that democratically elected government in Cuba is in power, this section is repealed.
+    [Pub. L. 104–114, title II, § 204(d)(3)][/us/pl/104/114/s204/d/3], Mar. 12, 1996, [110 Stat. 810][/us/stat/110/810], provided that on date on which President submits determination under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that democratically elected government in Cuba is in power, this section is repealed.
 
 ----------
 

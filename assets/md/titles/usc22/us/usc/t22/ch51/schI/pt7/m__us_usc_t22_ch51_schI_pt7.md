@@ -11,16 +11,28 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch51/schI/pt6/m__us_usc_t22_s3795.md) | [Next](./../../../../../..//us/usc/t22/ch51/schI/pt7/m__us_usc_t22_s3801, 3802.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch51%2FschI%2Fpt7)
+[Previous](./../../../../../..//us/usc/t22/ch51/schI/pt6/m__us_usc_t22_s3795.md) | [Next](./../../../../../..//us/usc/t22/ch51/schI/pt8/m__us_usc_t22_ch51_schI_pt8.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch51%2FschI%2Fpt7)
 
 #### Part 7—General Regulations
 
+§§ 3801, 3802. __Repealed.__  __[__  __Pub. L. 104–201, div. C, title XXXV, § 3546(a)(2)__  __][/us/pl/104/201/s3546/a/2]__  __, (3),__  __Sept. 23, 1996__  __,__  __[__  __110 Stat. 2867__  __][/us/stat/110/2867]__ 
+
+    Section 3801, [Pub. L. 96–70, title I, § 1701][/us/pl/96/70/s1701], Sept. 27, 1979, [93 Stat. 492][/us/stat/93/492], related to authority of President to prescribe regulations applicable within areas and installations made available for operation and protection of Panama Canal.
+
+    Section 3802, [Pub. L. 96–70, title I, § 1702][/us/pl/96/70/s1702], Sept. 27, 1979, [93 Stat. 492][/us/stat/93/492], related to authority of Commission to prescribe regulations applicable within areas and installations made available for operation and protection of Panama Canal.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch51/schI/pt6/m__us_usc_t22_s3795.md) | [Next](./../../../../../..//us/usc/t22/ch51/schI/pt7/m__us_usc_t22_s3801, 3802.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch51%2FschI%2Fpt7)
+[Previous](./../../../../../..//us/usc/t22/ch51/schI/pt6/m__us_usc_t22_s3795.md) | [Next](./../../../../../..//us/usc/t22/ch51/schI/pt8/m__us_usc_t22_ch51_schI_pt8.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch51%2FschI%2Fpt7)
 
 ----------
 ----------
 
+[/us/pl/104/201/s3546/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3546%2Fa%2F2
+[/us/stat/110/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2867
+[/us/pl/96/70/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1701
+[/us/stat/93/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F492
+[/us/pl/96/70/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1702
+[/us/stat/93/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F492
 
 

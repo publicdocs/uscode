@@ -15,7 +15,7 @@
 
 ## § 5702. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Hong Kong” means, prior to July 1, 1997, the British Dependent Territory of Hong Kong, and on and after July 1, 1997, the Hong Kong Special Administrative Region of the People’s Republic of China;
 

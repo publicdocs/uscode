@@ -15,7 +15,7 @@
 
 ## § 4704. Guidelines
 
-The scholarship program under this chapter shall be carried out in accordance with the following guidelines:
+    The scholarship program under this chapter shall be carried out in accordance with the following guidelines:
 
     (1) Consistent with section 2460(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, all programs created pursuant to this chapter shall be nonpolitical and balanced, and shall be administered in keeping with the highest standards of academic integrity.
 

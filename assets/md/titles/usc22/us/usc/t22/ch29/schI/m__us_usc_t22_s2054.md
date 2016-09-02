@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2051 to 2053.md) | [Next](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2055.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2054)
+[Previous](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_ch29_schI.md) | [Next](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2055.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2054)
 
 ## § 2054. Statement of purpose
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2051 to 2053.md) | [Next](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2055.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2054)
+[Previous](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_ch29_schI.md) | [Next](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2055.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2054)
 
 ----------
 ----------

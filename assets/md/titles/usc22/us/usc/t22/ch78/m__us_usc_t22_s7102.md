@@ -15,7 +15,7 @@
 
 ## § 7102. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Abuse or threatened abuse of law or legal process__ 
 

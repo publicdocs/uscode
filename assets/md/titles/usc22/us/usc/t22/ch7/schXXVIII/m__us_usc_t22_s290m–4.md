@@ -15,7 +15,7 @@
 
 ## § 290m–4. Authority to agree to certain amendments to the Border Environment Cooperation Agreement
 
-The President may agree to amendments to the Cooperation Agreement that—
+    The President may agree to amendments to the Cooperation Agreement that—
 
     (1) enable the Bank to make grants and nonmarket rate loans out of its paid-in capital resources with the approval of its Board; and
 

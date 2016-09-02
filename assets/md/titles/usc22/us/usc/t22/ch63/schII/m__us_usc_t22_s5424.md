@@ -15,7 +15,7 @@
 
 ## § 5424. Peace Corps programs in Poland and Hungary
 
-There are authorized to be appropriated to carry out programs in Poland and Hungary under the Peace Corps Act \[[22 U.S.C. 2501][/us/usc/t22/s2501] et seq.\], $6,000,000 for the 3-year period beginning October 1, 1989, in addition to amounts otherwise available for such purposes. Such programs shall include the use of Peace Corps volunteers—
+    There are authorized to be appropriated to carry out programs in Poland and Hungary under the Peace Corps Act \[[22 U.S.C. 2501][/us/usc/t22/s2501] et seq.\], $6,000,000 for the 3-year period beginning October 1, 1989, in addition to amounts otherwise available for such purposes. Such programs shall include the use of Peace Corps volunteers—
 
     (1) to provide English language training, and
 

@@ -15,7 +15,7 @@
 
 ## § 290g–3. Specific actions requiring Congressional authorization
 
-Unless Congress by law authorizes such action, neither the President nor any person or agency shall, on behalf of the United States:
+    Unless Congress by law authorizes such action, neither the President nor any person or agency shall, on behalf of the United States:
 
     (a) agree to an increase in the subscription of the United States to the Fund;
 

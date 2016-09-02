@@ -15,7 +15,7 @@
 
 ## § 3902. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “abroad” means all areas not included within the United States;
 

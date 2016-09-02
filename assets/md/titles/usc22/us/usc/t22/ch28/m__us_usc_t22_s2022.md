@@ -21,7 +21,7 @@
 
  __Repeal of Reporting Requirement__ 
 
-[Pub. L. 89–348, § 1(20)][/us/pl/89/348/s1/20], Nov. 8, 1965, [79 Stat. 1311][/us/stat/79/1311], repealed provisions of this section which directed President to report to Congress not less than once each year on activities of International Atomic Energy Agency and on participation of United States therein.
+    [Pub. L. 89–348, § 1(20)][/us/pl/89/348/s1/20], Nov. 8, 1965, [79 Stat. 1311][/us/stat/79/1311], repealed provisions of this section which directed President to report to Congress not less than once each year on activities of International Atomic Energy Agency and on participation of United States therein.
 
  __References in Text__ 
 

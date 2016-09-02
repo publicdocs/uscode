@@ -15,7 +15,7 @@
 
 ## § 4702. Congressional findings and declaration of policy
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) it is in the national interest for the United States Government to provide a stable source of financial support to give students in developing countries the opportunity to study in the United States, in order to improve the range and quality of educational alternatives, increase mutual understanding, and build lasting links between those countries and the United States;
 

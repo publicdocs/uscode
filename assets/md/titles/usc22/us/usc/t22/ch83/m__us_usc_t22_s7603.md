@@ -15,7 +15,7 @@
 
 ## § 7603. Purpose
 
-The purpose of this chapter is to strengthen and enhance United States leadership and the effectiveness of the United States response to the HIV/AIDS, tuberculosis, and malaria pandemics and other related and preventable infectious diseases as part of the overall United States health and development agenda by—
+    The purpose of this chapter is to strengthen and enhance United States leadership and the effectiveness of the United States response to the HIV/AIDS, tuberculosis, and malaria pandemics and other related and preventable infectious diseases as part of the overall United States health and development agenda by—
 
     (1)
 

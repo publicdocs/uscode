@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2341 to 2343.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2344)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_ch32_schII_ptIII.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2344)
 
 ## § 2344. Reimbursements
 
@@ -87,7 +87,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2341 to 2343.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2344)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_ch32_schII_ptIII.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2344)
 
 ----------
 ----------

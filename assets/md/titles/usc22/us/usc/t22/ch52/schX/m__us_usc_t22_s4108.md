@@ -15,7 +15,7 @@
 
 ## § 4108. Functions of General Counsel
 
-The General Counsel may—
+    The General Counsel may—
 
     (1) investigate alleged unfair labor practices under this subchapter,
 

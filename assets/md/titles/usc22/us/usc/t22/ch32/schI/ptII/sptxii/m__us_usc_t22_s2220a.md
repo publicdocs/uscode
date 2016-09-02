@@ -19,7 +19,7 @@
 
     The Congress declares that, in order to achieve the mutual goals among nations of ensuring food security, human health, agricultural growth, trade expansion, and the wise and sustainable use of natural resources, the United States should mobilize the capacities of the United States land-grant universities, other eligible universities, and public and private partners of universities in the United States and other countries, consistent with sections 2151a and 2151a–1 of this title, for: (1) global research on problems affecting food, agriculture, forestry, and fisheries; (2) improved human capacity and institutional resource development for the global application of agricultural and related environmental sciences; (3) agricultural development and trade research and extension services in the United States and other countries to support the entry of rural industries into world markets; and (4) providing for the application of agricultural sciences to solving food, health, nutrition, rural income, and environmental problems, especially such problems in low-income, food deficit countries.
 
-    The Congress so declares because it finds—
+        The Congress so declares because it finds—
 
         (A) that the establishment, endowment, and continuing support of land-grant universities in the United States by Federal, State, and county governments has led to agricultural progress with and through the private sector in this country and to understanding processes of economic development;
 

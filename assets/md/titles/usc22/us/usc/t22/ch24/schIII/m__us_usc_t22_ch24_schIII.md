@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1831 to 1834.md) | [Next](./../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_ch24_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24%2FschIII)
+[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1819.md) | [Next](./../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_ch24_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24%2FschIII)
 
 ### SUBCHAPTER III—ECONOMIC ASSISTANCE
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1831 to 1834.md) | [Next](./../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_ch24_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24%2FschIII)
+[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1819.md) | [Next](./../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_ch24_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24%2FschIII)
 
 ----------
 ----------

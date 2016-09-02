@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch60/schIII/m__us_usc_t22_s5051 to 5072.md) | [Next](./../../../../..//us/usc/t22/ch60/schIII/m__us_usc_t22_s5073.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5072a)
+[Previous](./../../../../..//us/usc/t22/ch60/schIII/m__us_usc_t22_ch60_schIII.md) | [Next](./../../../../..//us/usc/t22/ch60/schIII/m__us_usc_t22_s5073.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5072a)
 
 ## § 5072a. Repealed. [Pub. L. 103–359, title III, § 304][/us/pl/103/359/s304], Oct. 14, 1994, [108 Stat. 3426][/us/stat/108/3426]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch60/schIII/m__us_usc_t22_s5051 to 5072.md) | [Next](./../../../../..//us/usc/t22/ch60/schIII/m__us_usc_t22_s5073.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5072a)
+[Previous](./../../../../..//us/usc/t22/ch60/schIII/m__us_usc_t22_ch60_schIII.md) | [Next](./../../../../..//us/usc/t22/ch60/schIII/m__us_usc_t22_s5073.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5072a)
 
 ----------
 ----------

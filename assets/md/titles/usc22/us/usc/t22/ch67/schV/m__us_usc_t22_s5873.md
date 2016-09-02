@@ -15,7 +15,7 @@
 
 ## § 5873. Report to Congress
 
-Within one year after October 24, 1992, the President shall submit to the designated congressional committees a report describing—
+    Within one year after October 24, 1992, the President shall submit to the designated congressional committees a report describing—
 
     (1) the opportunities for increased space-related trade with the independent states of the former Soviet Union;
 

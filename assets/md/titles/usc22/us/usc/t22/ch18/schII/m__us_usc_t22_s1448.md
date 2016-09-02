@@ -21,7 +21,7 @@
 
  __Partial Repeal__ 
 
-[Pub. L. 87–256, § 111(a)(2)][/us/pl/87/256/s111/a/2], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], repealed this section insofar as it relates to schools. See section 2451 et seq. of this title.
+    [Pub. L. 87–256, § 111(a)(2)][/us/pl/87/256/s111/a/2], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], repealed this section insofar as it relates to schools. See section 2451 et seq. of this title.
 
  __Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions__ 
 

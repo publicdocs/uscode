@@ -15,7 +15,7 @@
 
 ## § 2321c. Definitions
 
-For purposes of sections 2321b and 2314a  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title—
+    For purposes of sections 2321b and 2314a  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title—
 
     (1) “defense article” and “excess defense articles” have the same meanings as given them in subsections (d) and (g), respectively, of [section 2403 of this title][/us/usc/t22/s2403]; and
 

@@ -63,7 +63,7 @@
 
 >     “(5) make recommendations for improvements to achieve an examination free of any bias.
 
->         Not more than 18 months after the date of the enactment of this Act \[Feb. 16, 1990\], the Secretary of State shall prepare and submit a report to the Congress which contains the findings of such review and evaluation, together with the comments of the Secretary and measures which the Secretary has initiated to respond to any adverse findings of such review. Such report shall take into consideration the current efforts by the Department of State to review its Foreign Service examination.”
+>     Not more than 18 months after the date of the enactment of this Act \[Feb. 16, 1990\], the Secretary of State shall prepare and submit a report to the Congress which contains the findings of such review and evaluation, together with the comments of the Secretary and measures which the Secretary has initiated to respond to any adverse findings of such review. Such report shall take into consideration the current efforts by the Department of State to review its Foreign Service examination.”
 
 ----------
 

@@ -15,7 +15,7 @@
 
 ## § 5303. Statement of policy
 
-It is the policy of the United States that—
+    It is the policy of the United States that—
 
     (1) the United States and the other major industrialized countries should take steps to continue the process of coordinating monetary, fiscal, and structural policies initiated in the Plaza Agreement of September 1985;
 

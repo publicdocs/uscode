@@ -15,7 +15,7 @@
 
 ## § 1474. Additional authority of Secretary of State or other Government agency authorized to administer provisions
 
-In carrying out the provisions of this chapter, the Secretary, or any Government agency authorized to administer such provisions, may—
+    In carrying out the provisions of this chapter, the Secretary, or any Government agency authorized to administer such provisions, may—
 
     (1) employ, without regard to the civil service and classification laws, aliens within the United States and abroad for service in the United States relating to the translation or narration of colloquial speech in foreign languages or the preparation and production of foreign language programs when suitably qualified United States citizens are not available when job vacancies occur, and aliens so employed abroad may be admitted to the United States, if otherwise qualified, as nonimmigrants under [section 1101(a)(15) of title 8][/us/usc/t8/s1101/a/15] for such time and under such conditions and procedures as may be established by the Director of the United States Information Agency and the Attorney General;
 

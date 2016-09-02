@@ -71,9 +71,7 @@ Section 1. (a) Section 826(c) of the Foreign Service Act of 1980 ([22 U.S.C. 406
 
 >     “(1)
 
->      The first increase (if any) made under this section to an annuity which is payable from the Fund to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest ⅒ of 1 percent) of—
-
->         “(a) ⅙ of the applicable percent change determined under Subsection (b) of this Section, multiplied by
+>      The first increase (if any) made under this section to an annuity which is payable from the Fund to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest ⅒ of 1 percent) of—    “(a) ⅙ of the applicable percent change determined under Subsection (b) of this Section, multiplied by
 
 >         “(b) the number of full months for which the annuity was payable from the Fund before the effective date of the increase (counting any portion of a month as a full month).”.
 

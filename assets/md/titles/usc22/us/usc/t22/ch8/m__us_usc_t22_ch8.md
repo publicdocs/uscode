@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/schXXXI/m__us_usc_t22_s290p.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s291.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch8)
+[Previous](./../../../..//us/usc/t22/ch7/schXXXII/m__us_usc_t22_s290q.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s291.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch8)
 
 ## CHAPTER 8—FOREIGN SERVICE BUILDINGS
 
@@ -163,7 +163,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/schXXXI/m__us_usc_t22_s290p.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s291.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch8)
+[Previous](./../../../..//us/usc/t22/ch7/schXXXII/m__us_usc_t22_s290q.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s291.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch8)
 
 ----------
 ----------

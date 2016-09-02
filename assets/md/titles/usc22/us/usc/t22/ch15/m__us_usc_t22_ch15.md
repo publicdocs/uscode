@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch14A/m__us_usc_t22_s1221 to 1234.md) | [Next](./../../../..//us/usc/t22/ch15/schI/m__us_usc_t22_ch15_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch15)
+[Previous](./../../../..//us/usc/t22/ch14A/m__us_usc_t22_ch14A.md) | [Next](./../../../..//us/usc/t22/ch15/schI/m__us_usc_t22_ch15_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch15)
 
 ## CHAPTER 15—THE REPUBLIC OF THE PHILIPPINES
 
@@ -411,7 +411,7 @@ SUBCHAPTER VI—MISCELLANEOUS PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch14A/m__us_usc_t22_s1221 to 1234.md) | [Next](./../../../..//us/usc/t22/ch15/schI/m__us_usc_t22_ch15_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch15)
+[Previous](./../../../..//us/usc/t22/ch14A/m__us_usc_t22_ch14A.md) | [Next](./../../../..//us/usc/t22/ch15/schI/m__us_usc_t22_ch15_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch15)
 
 ----------
 ----------

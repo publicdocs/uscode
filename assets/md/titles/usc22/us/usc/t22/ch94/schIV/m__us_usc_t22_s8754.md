@@ -15,7 +15,7 @@
 
 ## § 8754. Comprehensive strategy to promote Internet freedom and access to information in Iran
 
-Not later than 90 days after August 10, 2012, the Secretary of State, in consultation with the Secretary of the Treasury and the heads of other Federal agencies, as appropriate, shall submit to the appropriate congressional committees a comprehensive strategy to—
+    Not later than 90 days after August 10, 2012, the Secretary of State, in consultation with the Secretary of the Treasury and the heads of other Federal agencies, as appropriate, shall submit to the appropriate congressional committees a comprehensive strategy to—
 
     (1) assist the people of Iran to produce, access, and share information freely and safely via the Internet, including in Farsi and regional languages;
 

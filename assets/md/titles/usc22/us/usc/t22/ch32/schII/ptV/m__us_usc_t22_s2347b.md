@@ -15,7 +15,7 @@
 
 ## § 2347b. Congressional declaration of purpose
 
-Education and training activities conducted under this part shall be designed—
+    Education and training activities conducted under this part shall be designed—
 
     (1) to encourage effective and mutually beneficial relations and increased understanding between the United States and foreign countries in furtherance of the goals of international peace and security;
 

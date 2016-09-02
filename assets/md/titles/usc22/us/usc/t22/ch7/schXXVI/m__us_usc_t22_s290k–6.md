@@ -15,7 +15,7 @@
 
 ## § 290k–6. Restrictions
 
-Unless authorized by law, neither the President nor any person or agency shall, on behalf of the United States—
+    Unless authorized by law, neither the President nor any person or agency shall, on behalf of the United States—
 
     (1) subscribe to additional shares of stock of the Agency;
 

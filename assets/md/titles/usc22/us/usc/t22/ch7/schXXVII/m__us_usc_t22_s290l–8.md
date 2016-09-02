@@ -15,7 +15,7 @@
 
 ## § 290l–8. Congressional consultations
 
-During negotiations on the establishment of operational guidelines for the Bank, the Secretary of the Treasury shall—
+    During negotiations on the establishment of operational guidelines for the Bank, the Secretary of the Treasury shall—
 
     (A) consult on a regular and timely basis with the Committee on Banking, Finance and Urban Affairs and the Committee on Appropriations of the House of Representatives, and the Committee on Foreign Relations and the Committee on Appropriations of the Senate;
 

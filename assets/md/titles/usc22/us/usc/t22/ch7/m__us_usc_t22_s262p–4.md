@@ -15,7 +15,7 @@
 
 ## § 262p–4. Instructions to United States Executive Directors; indigenous people in borrowing country; determination of impact; protection of rights; consultation
 
-The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank to initiate discussions with other executive directors of the respective bank and to propose that the bank take such steps as may be necessary—
+    The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank to initiate discussions with other executive directors of the respective bank and to propose that the bank take such steps as may be necessary—
 
     (1) to determine, at the time an initial feasibility study is conducted with respect to a proposed project and to the fullest extent possible, the impact such project would have on indigenous people in the borrowing country;
 

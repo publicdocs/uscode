@@ -15,7 +15,7 @@
 
 ## § 4502. “Institution of higher education” and “Advisory Committee” defined
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “institution of higher education” has the same meaning given such term in [section 1001 of title 20][/us/usc/t20/s1001]; and
 

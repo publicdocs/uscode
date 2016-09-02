@@ -15,7 +15,7 @@
 
 ## § 613. Exemptions
 
-The requirements of [section 612(a) of this title][/us/usc/t22/s612/a] shall not apply to the following agents of foreign principals:
+    The requirements of [section 612(a) of this title][/us/usc/t22/s612/a] shall not apply to the following agents of foreign principals:
 
     (a) __Diplomatic or consular officers__ 
 

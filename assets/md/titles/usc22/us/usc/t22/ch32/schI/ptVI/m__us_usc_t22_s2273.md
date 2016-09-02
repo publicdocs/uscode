@@ -15,7 +15,7 @@
 
 ## § 2273. Peace process in Central America
 
-The Congress—
+    The Congress—
 
     (1) strongly supports the initiatives taken by the Contadora group and the resulting Document of Objectives which has been agreed to by Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua and which sets forth a framework for negotiating a peaceful settlement to the conflict and turmoil in the region; and
 

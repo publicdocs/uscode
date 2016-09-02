@@ -15,7 +15,7 @@
 
 ## § 280i. Authorization of appropriations
 
-There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
+    There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
 
     (a) Not more than $142,000 annually for the payment by the United States of its proportionate share of the expenses of the Commission and its auxiliary and subsidiary bodies, pursuant to article XV of the “agreement for the Establishment of the Caribbean Commission”; and
 

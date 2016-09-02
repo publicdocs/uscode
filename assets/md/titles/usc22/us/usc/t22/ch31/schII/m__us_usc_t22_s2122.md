@@ -15,7 +15,7 @@
 
 ## § 2122. Powers and duties of Secretary of Commerce
 
-In order to carry out the national tourism policy established in [section 2121(b) of this title][/us/usc/t22/s2121/b] and by the United States National Tourism Organization Act of 1996, the Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) shall develop and implement a comprehensive plan to perform critical tourism functions which, in the determination of the Secretary, are not being carried out by the United States National Tourism Organization or other private sector entities or State governments. Such plan may include programs to—
+    In order to carry out the national tourism policy established in [section 2121(b) of this title][/us/usc/t22/s2121/b] and by the United States National Tourism Organization Act of 1996, the Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) shall develop and implement a comprehensive plan to perform critical tourism functions which, in the determination of the Secretary, are not being carried out by the United States National Tourism Organization or other private sector entities or State governments. Such plan may include programs to—
 
     (1) collect and publish comprehensive international travel and tourism statistics and other marketing information;
 
@@ -85,7 +85,7 @@ In order to carry out the national tourism policy established in [section 2121(b
 
 >     “(2) improving the methodology for conducting on-board surveys by (A) enhancing communications, training, and liaison activities in cooperation with participating air carriers, (B) providing for the continuation of needed data bases, and (C) utilizing improved sampling procedures.
 
->         The Secretary of Commerce shall seek to increase the reporting frequency of the data provided by Statistics Canada and the Bank of Mexico on international travel trade between the United States and both Canada and Mexico. The Secretary shall improve the quarterly statistical report on United States international travel receipts and payments published in the Bureau of Economic Analysis document known as ‘The Survey of Current Services’ and heighten its visibility.”
+>     The Secretary of Commerce shall seek to increase the reporting frequency of the data provided by Statistics Canada and the Bank of Mexico on international travel trade between the United States and both Canada and Mexico. The Secretary shall improve the quarterly statistical report on United States international travel receipts and payments published in the Bureau of Economic Analysis document known as ‘The Survey of Current Services’ and heighten its visibility.”
 
  __Report on Tourism and Travel Activities__ 
 

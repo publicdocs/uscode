@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4212 to 4214.md) | [Next](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4216.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4215)
+[Previous](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4211.md) | [Next](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4216.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4215)
 
 ## § 4215. Notarial acts, oaths, affirmations, affidavits, and depositions; fees
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4212 to 4214.md) | [Next](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4216.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4215)
+[Previous](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4211.md) | [Next](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4216.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4215)
 
 ----------
 ----------

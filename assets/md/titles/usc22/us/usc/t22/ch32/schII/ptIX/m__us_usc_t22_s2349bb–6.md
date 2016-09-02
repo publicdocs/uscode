@@ -115,7 +115,11 @@
 
 >                 “(i) An assessment of the effectiveness of efforts undertaken to date by the United States, Libya, Mauritania, Egypt, Algeria, Tunisia, Mali, Morocco, Niger, Chad, the United Nations, the North Atlantic Treaty Organization, and any other country or entity (as determined by the President) to reduce the threat posed to United States citizens and citizens of allies of the United States from man-portable air-defense systems that were in Libya as of March 19, 2011.
 
->                 “(ii) A timeline for future efforts by the United States, Libya, and neighboring countries to—         “(I) secure, remove, or disable any man-portable air-defense systems that remain in Libya;
+>                 “(ii)
+
+>                  A timeline for future efforts by the United States, Libya, and neighboring countries to—
+
+>                          “(I) secure, remove, or disable any man-portable air-defense systems that remain in Libya;
 
 >                          “(II) counter proliferation of man-portable air-defense systems originating from Libya that are in the region; and
 

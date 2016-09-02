@@ -21,7 +21,7 @@
 
  __Repeal of Reporting Requirements__ 
 
-[Pub. L. 89–348, § 1(21)][/us/pl/89/348/s1/21], Nov. 8, 1965, [79 Stat. 1311][/us/stat/79/1311], repealed provisions of this section which required an annual report to the Congress by the National Commission on Educational, Scientific, and Cultural Cooperation and the Secretary of State of the receipts and expenditures of funds and bequests received and disbursed in connection with the United Nations Educational, Scientific, and Cultural Organization.
+    [Pub. L. 89–348, § 1(21)][/us/pl/89/348/s1/21], Nov. 8, 1965, [79 Stat. 1311][/us/stat/79/1311], repealed provisions of this section which required an annual report to the Congress by the National Commission on Educational, Scientific, and Cultural Cooperation and the Secretary of State of the receipts and expenditures of funds and bequests received and disbursed in connection with the United Nations Educational, Scientific, and Cultural Organization.
 
  __References in Text__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptB/m__us_usc_t22_s907 to 911.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptB/m__us_usc_t22_s913.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs912)
+[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptB/m__us_usc_t22_s906.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptB/m__us_usc_t22_s913.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs912)
 
 ## § 912. Repealed. [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159]
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptB/m__us_usc_t22_s907 to 911.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptB/m__us_usc_t22_s913.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs912)
+[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptB/m__us_usc_t22_s906.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptB/m__us_usc_t22_s913.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs912)
 
 ----------
 ----------

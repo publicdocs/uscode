@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2319 to 2321.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321a)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2318.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321a)
 
 ## § 2321a. Repealed. [Pub. L. 94–329, title I, § 106(b)(1)][/us/pl/94/329/s106/b/1], June 30, 1976, [90 Stat. 733][/us/stat/90/733]
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2319 to 2321.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321a)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2318.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321a)
 
 ----------
 ----------

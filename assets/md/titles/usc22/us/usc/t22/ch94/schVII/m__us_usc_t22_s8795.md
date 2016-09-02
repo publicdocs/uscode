@@ -53,6 +53,8 @@
 
 ([Pub. L. 112–158, title VII, § 706][/us/pl/112/158/s706], Aug. 10, 2012, [126 Stat. 1268][/us/stat/126/1268].)
 
+ __References in Text__ 
+
     This subchapter, referred to in subsecs. (a) and (c), was in the original a reference to title VII of [Pub. L. 112–158][/us/pl/112/158], which enacted this subchapter and provisions set out as a note under [section 8701 of this title][/us/usc/t22/s8701].
 
 ----------

@@ -15,7 +15,7 @@
 
 ## § 6322. IAEA internal reforms
 
-In order to promote the early adoption of reforms in the implementation of the safeguards responsibilities of the IAEA, the Congress urges the President to negotiate with other nations and groups of nations, including the IAEA Board of Governors and the Nuclear Suppliers Group, to—
+    In order to promote the early adoption of reforms in the implementation of the safeguards responsibilities of the IAEA, the Congress urges the President to negotiate with other nations and groups of nations, including the IAEA Board of Governors and the Nuclear Suppliers Group, to—
 
     (1) improve the access of the IAEA within nuclear facilities that are capable of producing, processing, or fabricating special nuclear material suitable for use in a nuclear explosive device;
 

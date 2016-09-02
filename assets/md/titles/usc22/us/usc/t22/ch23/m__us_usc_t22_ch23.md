@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch22/schV/m__us_usc_t22_s1711 to 1713.md) | [Next](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1731.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch23)
+[Previous](./../../../..//us/usc/t22/ch22/schV/m__us_usc_t22_ch22_schV.md) | [Next](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1731.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch23)
 
 ## CHAPTER 23—PROTECTION OF CITIZENS ABROAD
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch22/schV/m__us_usc_t22_s1711 to 1713.md) | [Next](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1731.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch23)
+[Previous](./../../../..//us/usc/t22/ch22/schV/m__us_usc_t22_ch22_schV.md) | [Next](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1731.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch23)
 
 ----------
 ----------

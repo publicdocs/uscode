@@ -11,16 +11,34 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptD/m__us_usc_t22_s937 to 939.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptE/m__us_usc_t22_s946, 947.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschV%2FptE)
+[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptD/m__us_usc_t22_s936.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptF/m__us_usc_t22_ch14_schV_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschV%2FptE)
 
 #### Part E—Alien Clerks and Employees
 
+§§ 946, 947. __Repealed.__  __[__  __Pub. L. 96–465, title II, § 2205(1)__  __][/us/pl/96/465/s2205/1]__  __,__  __Oct. 17, 1980__  __,__  __[__  __94 Stat. 2159__  __][/us/stat/94/2159]__ 
+
+    Section 946, [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title V, § 541, [60 Stat. 1011][/us/stat/60/1011], related to appointment of alien clerks and employees.
+
+    Section 947, [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title V, § 542, [60 Stat. 1011][/us/stat/60/1011], related to assignments and transfers of alien clerks and employees.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Feb. 15, 1981, except as otherwise provided, see [section 2403 of Pub. L. 96–465][/us/pl/96/465/s2403], set out as an Effective Date note under [section 3901 of this title][/us/usc/t22/s3901].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptD/m__us_usc_t22_s937 to 939.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptE/m__us_usc_t22_s946, 947.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschV%2FptE)
+[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptD/m__us_usc_t22_s936.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptF/m__us_usc_t22_ch14_schV_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschV%2FptE)
 
 ----------
 ----------
 
+[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
+[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
+[/us/stat/60/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1011
+[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
+[/us/stat/60/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1011
+[/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
+[/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 
 

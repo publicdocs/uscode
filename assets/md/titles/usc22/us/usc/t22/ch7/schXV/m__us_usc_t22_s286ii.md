@@ -15,7 +15,7 @@
 
 ## § 286ii. Limitations on Bank policy based lending; actions required to be taken to oppose excessive policy based lending by Bank
 
-The Secretary of the Treasury shall—
+    The Secretary of the Treasury shall—
 
     (1)
 

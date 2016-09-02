@@ -15,7 +15,7 @@
 
 ## § 6213. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives;
 

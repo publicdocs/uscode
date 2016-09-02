@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXXXI/m__us_usc_t22_ch7_schXXXI.md) | [Next](./../../../../..//us/usc/t22/ch8/m__us_usc_t22_ch8.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290p)
+[Previous](./../../../../..//us/usc/t22/ch7/schXXXI/m__us_usc_t22_ch7_schXXXI.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXXII/m__us_usc_t22_ch7_schXXXII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290p)
 
 ## § 290p. Acceptance of statute and membership
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXXXI/m__us_usc_t22_ch7_schXXXI.md) | [Next](./../../../../..//us/usc/t22/ch8/m__us_usc_t22_ch8.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290p)
+[Previous](./../../../../..//us/usc/t22/ch7/schXXXI/m__us_usc_t22_ch7_schXXXI.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXXII/m__us_usc_t22_ch7_schXXXII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290p)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 4853. Security requirements for contractors
 
-Not later than 90 days after August 27, 1986, the Secretary of State shall issue regulations to—
+    Not later than 90 days after August 27, 1986, the Secretary of State shall issue regulations to—
 
     (1) strengthen the security procedures applicable to contractors and subcontractors involved in any way with any diplomatic construction or design project; and
 

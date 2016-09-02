@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch18/schVI/m__us_usc_t22_s1466 to 1468.md) | [Next](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_ch18_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1469)
+[Previous](./../../../../..//us/usc/t22/ch18/schVI/m__us_usc_t22_ch18_schVI.md) | [Next](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_ch18_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1469)
 
 ## § 1469. United States Advisory Commission on Public Diplomacy
 
@@ -195,7 +195,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch18/schVI/m__us_usc_t22_s1466 to 1468.md) | [Next](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_ch18_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1469)
+[Previous](./../../../../..//us/usc/t22/ch18/schVI/m__us_usc_t22_ch18_schVI.md) | [Next](./../../../../..//us/usc/t22/ch18/schVII/m__us_usc_t22_ch18_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1469)
 
 ----------
 ----------

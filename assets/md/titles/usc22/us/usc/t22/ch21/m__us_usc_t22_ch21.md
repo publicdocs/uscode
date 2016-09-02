@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch20A/schIII/m__us_usc_t22_s1613 to 1613d.md) | [Next](./../../../..//us/usc/t22/ch21/schI/m__us_usc_t22_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch21)
+[Previous](./../../../..//us/usc/t22/ch20A/schIII/m__us_usc_t22_ch20A_schIII.md) | [Next](./../../../..//us/usc/t22/ch21/schI/m__us_usc_t22_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch21)
 
 ## CHAPTER 21—SETTLEMENT OF INTERNATIONAL CLAIMS
 
@@ -955,7 +955,7 @@ SUBCHAPTER VII—CLAIMS AGAINST VIETNAM  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch20A/schIII/m__us_usc_t22_s1613 to 1613d.md) | [Next](./../../../..//us/usc/t22/ch21/schI/m__us_usc_t22_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch21)
+[Previous](./../../../..//us/usc/t22/ch20A/schIII/m__us_usc_t22_ch20A_schIII.md) | [Next](./../../../..//us/usc/t22/ch21/schI/m__us_usc_t22_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch21)
 
 ----------
 ----------

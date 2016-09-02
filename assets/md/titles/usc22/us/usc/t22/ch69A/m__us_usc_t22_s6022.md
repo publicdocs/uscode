@@ -15,7 +15,7 @@
 
 ## § 6022. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to assist the Cuban people in regaining their freedom and prosperity, as well as in joining the community of democratic countries that are flourishing in the Western Hemisphere;
 

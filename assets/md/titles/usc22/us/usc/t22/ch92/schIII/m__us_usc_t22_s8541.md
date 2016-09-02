@@ -15,7 +15,7 @@
 
 ## § 8541. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Allow__ 
 
@@ -87,7 +87,7 @@ In this subchapter:
 
  __Termination of Section__ 
 
-For termination of section, see [section 8551(a) of this title][/us/usc/t22/s8551/a].
+    For termination of section, see [section 8551(a) of this title][/us/usc/t22/s8551/a].
 
 ----------
 

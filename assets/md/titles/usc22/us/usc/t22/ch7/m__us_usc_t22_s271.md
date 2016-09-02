@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s270 to 270g.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s272.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs271)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s269h.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s272.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs271)
 
 ## § 271. International Labor Organization; membership
 
@@ -117,7 +117,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s270 to 270g.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s272.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs271)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s269h.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s272.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs271)
 
 ----------
 ----------

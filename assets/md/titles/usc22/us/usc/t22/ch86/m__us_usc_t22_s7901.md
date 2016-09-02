@@ -15,7 +15,7 @@
 
 ## § 7901. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Carbon sequestration__ 
 

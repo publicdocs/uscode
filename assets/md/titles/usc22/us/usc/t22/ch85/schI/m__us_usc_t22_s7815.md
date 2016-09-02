@@ -15,7 +15,7 @@
 
 ## § 7815. United Nations Commission on Human Rights
 
-It is the sense of Congress that the United Nations has a significant role to play in promoting and improving human rights in North Korea, and that—
+    It is the sense of Congress that the United Nations has a significant role to play in promoting and improving human rights in North Korea, and that—
 
     (1) the United Nations Commission on Human Rights (UNCHR) has taken positive steps by adopting Resolution 2003/10 and Resolution 2004/13 on the situation of human rights in North Korea, and particularly by requesting the appointment of a Special Rapporteur on the situation of human rights in North Korea; and
 

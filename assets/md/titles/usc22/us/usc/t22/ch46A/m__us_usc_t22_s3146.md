@@ -15,7 +15,7 @@
 
 ## § 3146. Definitions
 
-For purposes of this Act—
+    For purposes of this Act—
 
     (1) the terms “foreign”, “direct investment”, “international investment”, “United States”, “business enterprise”, “foreign person”, and “United States person” have the meanings given those terms in [section 3102 of this title][/us/usc/t22/s3102]; and
 

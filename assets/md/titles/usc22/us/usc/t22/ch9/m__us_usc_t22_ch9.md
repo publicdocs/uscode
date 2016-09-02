@@ -295,9 +295,15 @@ SUBCHAPTER III—PREVENTION OF OFFENSES AGAINST NEUTRALITY  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Proclamations Respecting War and Neutrality__ 
+    <td> 
+
+Proclamations Respecting War and Neutrality  </td>
+
+  </tr>
+
+</table>
 
     See notes preceding [section 1 of Title 50][/us/usc/t50/s1], Appendix, War and National Defense.
 

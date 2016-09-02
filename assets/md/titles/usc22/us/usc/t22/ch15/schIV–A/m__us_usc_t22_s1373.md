@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch15/schIV–A/m__us_usc_t22_s1371, 1372.md) | [Next](./../../../../..//us/usc/t22/ch15/schIV–A/m__us_usc_t22_s1374 to 1379.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1373)
+[Previous](./../../../../..//us/usc/t22/ch15/schIV–A/m__us_usc_t22_ch15_schIV–A.md) | [Next](./../../../../..//us/usc/t22/ch15/schV/m__us_usc_t22_ch15_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1373)
 
 ## § 1373. Suspension of Philippine Trade Act of 1946
 
@@ -37,9 +37,25 @@
 
 > “This Act \[enacting this subchapter and amending [section 734 of Title 48][/us/usc/t48/s734], Territories and Insular Possessions\] may be cited as the ‘Philippine Trade Agreement Revision Act of 1955’.”
 
+§§ 1374 to 1379. __Omitted__ 
+
+ __Codification__ 
+
+    Section 1374, [act Aug. 1, 1955, ch. 438][/us/act/1955-08-01/ch438], title III, § 303, [69 Stat. 426][/us/stat/69/426], related to quotas established by article III of the revised agreement. See Codification note for [section 1371 of this title][/us/usc/t22/s1371].
+
+    Section 1375, [act Aug. 1, 1955, ch. 438][/us/act/1955-08-01/ch438], title III, § 304, [69 Stat. 426][/us/stat/69/426], related to suspension of processing tax on coconut oil. See Codification note for [section 1371 of this title][/us/usc/t22/s1371].
+
+    Section 1376, [act Aug. 1, 1955, ch. 438][/us/act/1955-08-01/ch438], title III, § 305, [69 Stat. 426][/us/stat/69/426], provided that prior to July 4, 1974, no trade agreement be entered into with Republic of Philippines that would be inconsistent with this subchapter or revised agreement. See Codification note for [section 1371 of this title][/us/usc/t22/s1371].
+
+    Section 1377, [act Aug. 1, 1955, ch. 438][/us/act/1955-08-01/ch438], title III, § 306, [69 Stat. 426][/us/stat/69/426], related to rights of third countries to benefits granted Philippines by revised agreement. See Codification note for [section 1371 of this title][/us/usc/t22/s1371].
+
+    Section 1378, [act Aug. 1, 1955, ch. 438][/us/act/1955-08-01/ch438], title III, § 307, [69 Stat. 426][/us/stat/69/426], related to administration of revised agreement. See Codification note for [section 1371 of this title][/us/usc/t22/s1371].
+
+    Section 1379, [act Aug. 1, 1955, ch. 438][/us/act/1955-08-01/ch438], title III, § 301(a), [69 Stat. 426][/us/stat/69/426], related to effective date of revised agreement. See Codification note for [section 1371 of this title][/us/usc/t22/s1371].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch15/schIV–A/m__us_usc_t22_s1371, 1372.md) | [Next](./../../../../..//us/usc/t22/ch15/schIV–A/m__us_usc_t22_s1374 to 1379.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1373)
+[Previous](./../../../../..//us/usc/t22/ch15/schIV–A/m__us_usc_t22_ch15_schIV–A.md) | [Next](./../../../../..//us/usc/t22/ch15/schV/m__us_usc_t22_ch15_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1373)
 
 ----------
 ----------
@@ -60,5 +76,23 @@
 [/us/act/1955-08-01/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch438
 [/us/stat/69/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F413
 [/us/usc/t48/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs734
+[/us/act/1955-08-01/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch438
+[/us/stat/69/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F426
+[/us/usc/t22/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1371
+[/us/act/1955-08-01/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch438
+[/us/stat/69/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F426
+[/us/usc/t22/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1371
+[/us/act/1955-08-01/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch438
+[/us/stat/69/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F426
+[/us/usc/t22/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1371
+[/us/act/1955-08-01/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch438
+[/us/stat/69/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F426
+[/us/usc/t22/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1371
+[/us/act/1955-08-01/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch438
+[/us/stat/69/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F426
+[/us/usc/t22/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1371
+[/us/act/1955-08-01/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch438
+[/us/stat/69/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F426
+[/us/usc/t22/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1371
 
 

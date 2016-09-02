@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s1 to 7.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s9.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8)
+[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_ch1.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s9.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8)
 
 ## § 8. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 645][/us/stat/80/645]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s1 to 7.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s9.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8)
+[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_ch1.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s9.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8)
 
 ----------
 ----------

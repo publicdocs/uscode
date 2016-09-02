@@ -621,9 +621,9 @@
 
 >         The requirements specified in subsection (a) shall apply to any amendment other than an amendment that addresses an administrative or technical matter. The requirements in subsection (a) shall not apply to any amendment that solely addresses an administrative or technical matter.
 
->         “(2) __U.S.-UK implementing arrangement.—__ 
+>         “(2) __U.__ 
 
->         In the case of the Implementing Arrangement Pursuant to the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, signed at Washington February 14, 2008, amendments to which the requirements specified in subsection (a) apply shall include—
+>         S.-UK implementing arrangement.—In the case of the Implementing Arrangement Pursuant to the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, signed at Washington February 14, 2008, amendments to which the requirements specified in subsection (a) apply shall include—
 
 >             “(A) any amendment to section 2, paragraphs (1), (2), or (3) that modifies the criteria governing operations, programs, and projects to which the treaty applies;
 
@@ -643,9 +643,9 @@
 
 >             “(I) any amendment to section 11, paragraph (4)(b) that modifies conditions of entry to the United Kingdom community under the treaty.
 
->         “(3) __U.S.-Australia implementing arrangement.—__ 
+>         “(3) __U.__ 
 
->         In the case of the Implementing Arrangement Pursuant to the Treaty Between the Government of the United States of America and the Government of the \[sic\] Australia Concerning Defense Trade Cooperation, signed at Washington March 14, 2008, amendments to which the requirements specified in subsection (a) apply shall include—
+>         S.-Australia implementing arrangement.—In the case of the Implementing Arrangement Pursuant to the Treaty Between the Government of the United States of America and the Government of the \[sic\] Australia Concerning Defense Trade Cooperation, signed at Washington March 14, 2008, amendments to which the requirements specified in subsection (a) apply shall include—
 
 >             “(A) any amendment to section 2, paragraphs (1), (2), or (3) that modifies the criteria governing operations, programs, and projects to which the treaty applies;
 

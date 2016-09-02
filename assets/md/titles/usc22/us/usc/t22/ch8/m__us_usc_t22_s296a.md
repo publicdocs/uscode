@@ -15,7 +15,7 @@
 
 ## § 296a. Maintenance management of overseas prop­erty
 
-The Director of the Office of Foreign Buildings Operations shall—
+    The Director of the Office of Foreign Buildings Operations shall—
 
     (1) direct overseas posts to make annual building condition assessments of buildings and facilities used by the post;
 

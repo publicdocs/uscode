@@ -15,7 +15,7 @@
 
 ## § 3427. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “Multinational Force and Observers” means the Multinational Force and Observers established in accordance with the Protocol between Egypt and Israel signed on August 3, 1981, relating to the implementation of the security arrangements of the Treaty of Peace; and
 

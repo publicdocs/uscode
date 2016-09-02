@@ -15,7 +15,7 @@
 
 ## § 2321d. Considerations in furnishing military assistance
 
-Decisions to furnish military assistance made under subchapter II of this chapter shall take into account whether such assistance will—
+    Decisions to furnish military assistance made under subchapter II of this chapter shall take into account whether such assistance will—
 
     (1) contribute to an arms race;
 

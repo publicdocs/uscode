@@ -15,7 +15,7 @@
 
 ## § 5901. Demilitarization of independent states of former Soviet Union
 
-The Congress finds that it is in the national security interest of the United States—
+    The Congress finds that it is in the national security interest of the United States—
 
     (1)
 

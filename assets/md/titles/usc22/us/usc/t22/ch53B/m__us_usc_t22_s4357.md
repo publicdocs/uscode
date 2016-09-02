@@ -15,7 +15,7 @@
 
 ## § 4357. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Advisory Committee” means the Advisory Committee on Historical Diplomatic Documentation for the Department of State;
 

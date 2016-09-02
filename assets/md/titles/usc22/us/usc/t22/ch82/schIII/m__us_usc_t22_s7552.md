@@ -15,7 +15,7 @@
 
 ## § 7552. Sense of Congress regarding protecting Afghanistan’s President
 
-It is the sense of Congress that—
+    It is the sense of Congress that—
 
     (1) any United States physical protection force provided for the personal security of the President of Afghanistan should be composed of United States diplomatic security, law-enforcement, or military personnel, and should not utilize private contracted personnel to provide actual physical protection services;
 

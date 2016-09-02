@@ -15,7 +15,7 @@
 
 ## § 7701. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to provide United States assistance for global development through the Millennium Challenge Corporation, as described in [section 7703 of this title][/us/usc/t22/s7703]; and
 

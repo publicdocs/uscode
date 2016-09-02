@@ -15,7 +15,7 @@
 
 ## § 5491. Suspension of SEED assistance
 
-The President should suspend all assistance to an East European country pursuant to this chapter if the President determines, and reports to the Congress, that—
+    The President should suspend all assistance to an East European country pursuant to this chapter if the President determines, and reports to the Congress, that—
 
     (1) that country is engaged in international activities directly and fundamentally contrary to United States national security interests;
 

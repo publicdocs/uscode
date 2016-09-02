@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptA/m__us_usc_t22_s900, 901.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptA/m__us_usc_t22_s902.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs901a)
+[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptA/m__us_usc_t22_ch14_schV_ptA.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptA/m__us_usc_t22_s902.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs901a)
 
 ## § 901a. Repealed. [Pub. L. 96–465, title II, § 2205(5)][/us/pl/96/465/s2205/5], Oct. 17, 1980, [94 Stat. 2160][/us/stat/94/2160]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptA/m__us_usc_t22_s900, 901.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptA/m__us_usc_t22_s902.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs901a)
+[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptA/m__us_usc_t22_ch14_schV_ptA.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptA/m__us_usc_t22_s902.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs901a)
 
 ----------
 ----------

@@ -1873,7 +1873,9 @@ SUBCHAPTER X—THE INSTITUTE OF INTER-AMERICAN AFFAIRS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs281" data-uslm-ref="/us/usc/t22/s281">281</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs281" data-uslm-ref="/us/usc/t22/s281">281</a>l. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs281" data-uslm-ref="/us/usc/t22/s281">281</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs281" data-uslm-ref="/us/usc/t22/s281">281</a>l.  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -4874,6 +4876,22 @@ SUBCHAPTER XXXI—INTERNATIONAL RENEWABLE ENERGY AGENCY  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290p" data-uslm-ref="/us/usc/t22/s290p">290p.</a>  </td>
 
     <td> Acceptance of statute and membership.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER XXXII—ORGANIZATION OF AMERICAN STATES  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290q" data-uslm-ref="/us/usc/t22/s290q">290q.</a>  </td>
+
+    <td> Organization of American States revitalization and reform strategy.  </td>
 
   </tr>
 

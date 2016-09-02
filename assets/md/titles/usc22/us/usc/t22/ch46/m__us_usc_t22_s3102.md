@@ -15,7 +15,7 @@
 
 ## § 3102. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “United States”, when used in a geographic sense, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, and all territories and possessions of the United States;
 

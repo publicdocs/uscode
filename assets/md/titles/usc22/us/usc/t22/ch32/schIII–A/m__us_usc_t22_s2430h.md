@@ -15,7 +15,7 @@
 
 ## § 2430h. Enterprise for the Americas Board
 
-For purposes of this subchapter, the Enterprise for the Americas Board shall—
+    For purposes of this subchapter, the Enterprise for the Americas Board shall—
 
     (1) advise the Secretary of State on the negotiations of Americas Framework Agreements;
 

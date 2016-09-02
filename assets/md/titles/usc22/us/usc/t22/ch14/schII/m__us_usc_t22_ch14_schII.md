@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s816, 817.md) | [Next](./../../../../..//us/usc/t22/ch14/schII/ptA/m__us_usc_t22_ch14_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschII)
+[Previous](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s815.md) | [Next](./../../../../..//us/usc/t22/ch14/schII/ptA/m__us_usc_t22_ch14_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschII)
 
 ### SUBCHAPTER II—GOVERNING BODIES OF THE SERVICES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s816, 817.md) | [Next](./../../../../..//us/usc/t22/ch14/schII/ptA/m__us_usc_t22_ch14_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschII)
+[Previous](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s815.md) | [Next](./../../../../..//us/usc/t22/ch14/schII/ptA/m__us_usc_t22_ch14_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschII)
 
 ----------
 ----------

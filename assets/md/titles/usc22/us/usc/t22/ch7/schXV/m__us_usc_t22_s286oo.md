@@ -15,7 +15,7 @@
 
 ## § 286oo. Principles for International Monetary Fund lending
 
-It is the policy of the United States to work to implement reforms in the International Monetary Fund (IMF) to achieve the following goals:
+    It is the policy of the United States to work to implement reforms in the International Monetary Fund (IMF) to achieve the following goals:
 
     (1) __Short-term balance of payments financing__ 
 

@@ -541,13 +541,9 @@
 
 >     The President shall submit any such agreement with Bolivia, Colombia, or Peru to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate at least 15 days before exercising the authority of \[sub\]section (a) with respect to that country.
 
->     “(b) __\[(c)\] Coordination with Multilateral Debt Relief Activities.—__ 
+>     “(b)     \[(c)\] Coordination with Multilateral Debt Relief Activities.—The authority provided in subsection (a) shall be exercised in coordination with multilateral debt relief activities.
 
->     The authority provided in subsection (a) shall be exercised in coordination with multilateral debt relief activities.
-
->     “(c) __\[(d)\] Effective Date.—__ 
-
->     Subsection (a) takes effect on October 1, 1990.”
+>     “(c)     \[(d)\] Effective Date.—Subsection (a) takes effect on October 1, 1990.”
 
  __Additional Assistance to Countries Meeting Drug Eradication Targets or Taking Significant Steps Against Drug Production or Trafficking__ 
 

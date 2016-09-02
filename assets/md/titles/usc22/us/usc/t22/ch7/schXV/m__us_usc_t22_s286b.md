@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286a.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286b–1, 286b–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b)
+[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286a.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b)
 
 ## § 286b. National Advisory Council on International Monetary and Financial Problems
 
@@ -129,9 +129,15 @@
 
     Sec. 7. Functions of the Secretary of State. The Secretary of State shall advise both the Secretary of the Treasury and the appropriate United States representatives to the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development on the development aspects of matters relating to those institutions and their activities.
 
+§§ 286b–1, 286b–2. __Repealed.__  __[__  __Pub. L. 101–240, title V, § 541(d)(1)__  __][/us/pl/101/240/s541/d/1]__  __, (5),__  __Dec. 19, 1989__  __,__  __[__  __103 Stat. 2518__  __][/us/stat/103/2518]__ 
+
+    Section 286b–1, [Pub. L. 91–599][/us/pl/91/599], ch. 3, § 31, Dec. 30, 1970, [84 Stat. 1658][/us/stat/84/1658], related to annual report to Congress of National Advisory Council on International Monetary and Financial Policies.
+
+    Section 286b–2, [act July 31, 1945, ch. 339, § 50][/us/act/1945-07-31/ch339/s50], as added Nov. 30, 1983, [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 813\], [97 Stat. 1276][/us/stat/97/1276], related to reports to Congress by National Advisory Council on International Monetary and Financial Policies and Secretary of the Treasury.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286a.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286b–1, 286b–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b)
+[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286a.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b)
 
 ----------
 ----------
@@ -174,5 +180,12 @@
 [/us/stat/90/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F593
 [/us/usc/t22/s290g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290g%E2%80%931
 [/us/usc/t22/s286f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286f
+[/us/pl/101/240/s541/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F1
+[/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
+[/us/pl/91/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F599
+[/us/stat/84/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1658
+[/us/act/1945-07-31/ch339/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs50
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/stat/97/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1276
 
 

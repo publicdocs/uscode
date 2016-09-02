@@ -15,7 +15,7 @@
 
 ## § 4602. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “Institute” means the United States Institute of Peace established by this chapter; and
 

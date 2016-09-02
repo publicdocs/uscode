@@ -15,7 +15,7 @@
 
 ## § 8602. Statement of policy
 
-It is the policy of the United States:
+    It is the policy of the United States:
 
     (1) To reaffirm our unwavering commitment to the security of the State of Israel as a Jewish state. As President Barack Obama stated on December 16, 2011, “America’s commitment and my commitment to Israel and Israel’s security is unshakeable.” And as President George W. Bush stated before the Israeli Knesset on May 15, 2008, on the 60th anniversary of the founding of the State of Israel, “The alliance between our governments is unbreakable, yet the source of our friendship runs deeper than any treaty.”.
 

@@ -15,7 +15,7 @@
 
 ## § 1972. Action by Secretary of State upon seizure of vessel by foreign country; preconditions
 
-If—
+    If—
 
     (1) any vessel of the United States is seized by a foreign country on the basis of claims to jurisdiction that are not recognized by the United States, or on the basis of claims to jurisdiction recognized by the United States but exercised in a manner inconsistent with international law as recognized by the United States;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “or”. </sup></sup> 
 
@@ -31,13 +31,13 @@ If—
 
         (D) fail to allow fishing vessels of the United States equitable access to fish subject to such country’s exclusive fishery management authority;
 
-        the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1) or (2), as the case may be, shall immediately take such steps as are necessary—
+    the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1) or (2), as the case may be, shall immediately take such steps as are necessary—
 
-        (i) for the protection of such vessel and for the health and welfare of its crew;
+    (i) for the protection of such vessel and for the health and welfare of its crew;
 
-        (ii) to secure the release of such vessel and its crew; and
+    (ii) to secure the release of such vessel and its crew; and
 
-        (iii) to determine the amount of any fine, license, fee, registration fee, or other direct charge reimbursable under [section 1973(a) of this title][/us/usc/t22/s1973/a].
+    (iii) to determine the amount of any fine, license, fee, registration fee, or other direct charge reimbursable under [section 1973(a) of this title][/us/usc/t22/s1973/a].
 
 ([Aug. 27, 1954, ch. 1018, § 2][/us/act/1954-08-27/ch1018/s2], [68 Stat. 883][/us/stat/68/883]; [Pub. L. 92–569, § 1][/us/pl/92/569/s1], Oct. 26, 1972, [86 Stat. 1182][/us/stat/86/1182]; [Pub. L. 94–265, title IV, § 403(a)(1)][/us/pl/94/265/s403/a/1], Apr. 13, 1976, [90 Stat. 360][/us/stat/90/360]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 98–364, title III, § 303(a)][/us/pl/98/364/s303/a], July 17, 1984, [98 Stat. 444][/us/stat/98/444]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
 

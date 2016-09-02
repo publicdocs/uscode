@@ -15,7 +15,7 @@
 
 ## § 8243. Personnel policies at the Department of State
 
-In addition to the awards and other incentives already implemented, the Secretary should increase incentives for members of the Foreign Service and other employees of the Department who take assignments relating to the promotion of democracy and the protection of human rights, including the following:
+    In addition to the awards and other incentives already implemented, the Secretary should increase incentives for members of the Foreign Service and other employees of the Department who take assignments relating to the promotion of democracy and the protection of human rights, including the following:
 
     (1) Providing performance pay under [section 3965 of this title][/us/usc/t22/s3965] to such members and employees who carry out their assignment in an outstanding manner.
 

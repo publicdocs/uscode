@@ -15,7 +15,7 @@
 
 ## § 5306. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1) __Secretary__ 
 

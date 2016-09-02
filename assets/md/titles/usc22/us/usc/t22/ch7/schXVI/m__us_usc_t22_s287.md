@@ -171,7 +171,7 @@
 
 [Pub. L. 93–188][/us/pl/93/188], Dec. 15, 1973, [87 Stat. 713][/us/stat/87/713], provided:
 
->     “\[Sec. 1. Short Title\] That this Act \[enacting this note\] may be cited as the ‘United Nations Environment Program Participation Act of 1973’.
+> “\[Sec. 1. Short Title\] That this Act \[enacting this note\] may be cited as the ‘United Nations Environment Program Participation Act of 1973’.
 
 > “Sec. 2. \[Congressional Declaration of Policy\] It is the policy of the United States to participate in coordinated international efforts to solve environmental problems of global and international concern, and in order to assist the implementation of this policy, to contribute funds to the United Nations Environmental Fund for the support of international measures to protect and improve the environment.
 
@@ -223,7 +223,7 @@
 
     “Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the ‘agreement’), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations on the United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: Provided, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
 
- __“AGREEMENT BETWEEN THE UNITED NATIONS AND THE UNITED STATES OF AMERICA REGARDING THE HEADQUARTERS OF THE UNITED NATIONS__ 
+“AGREEMENT BETWEEN THE UNITED NATIONS AND THE UNITED STATES OF AMERICA REGARDING THE HEADQUARTERS OF THE UNITED NATIONS
 
  __The United Nations and the United States of America:__ 
 
@@ -245,7 +245,7 @@
 
     Who have agreed as follows:
 
- __“Article I—Definitions__ 
+“Article I—Definitions
 
  __section 1__ 
 
@@ -261,7 +261,7 @@
 
     (e) the expression ‘Secretary-General’ means the Secretary-General of the United Nations.
 
- __“Article II—The Headquarters District__ 
+“Article II—The Headquarters District
 
  __section 2__ 
 
@@ -297,7 +297,7 @@
 
     In the event that the United Nations should propose to organize its own postal service, the conditions under which such service shall be set up shall be the subject of a supplemental agreement.
 
- __“Article III—Law and Authority in the Headquarters District__ 
+“Article III—Law and Authority in the Headquarters District
 
  __section 7__ 
 
@@ -323,7 +323,7 @@
 
     The United Nations may expel or exclude persons from the headquarters district for violation of its regulations adopted under Section 8 or for other cause. Persons who violate such regulations shall be subject to other penalties or to detention under arrest only in accordance with the provisions of such laws or regulations as may be adopted by the appropriate American authorities.
 
- __“Article IV—Communications and Transit__ 
+“Article IV—Communications and Transit
 
  __section 11__ 
 
@@ -357,7 +357,7 @@
 
     The Secretary-General and the appropriate American authorities shall, at the request of either of them, consult as to methods of facilitating entrance into the United States, and the use of available means of transportation, by persons coming from abroad who wish to visit the headquarters district and do not enjoy the rights referred to in this Article.
 
- __“Article V—Resident Representatives to the United Nations__ 
+“Article V—Resident Representatives to the United Nations
 
  __section 15__ 
 
@@ -369,7 +369,7 @@
 
     (4) such other principal resident representatives of members to a specialized agency and such resident members of the staffs of representatives to a specialized agency as may be agreed upon between the principal executive officer of the specialized agency, the Government of the United States and the Government of the Member concerned, shall, whether residing inside or outside the headquarters district, be entitled in the territory of the United States to the same privileges and immunities, subject to corresponding conditions and obligations, as it accords to diplomatic envoys accredited to it. In the case of Members whose governments are not recognized by the United States, such privileges and immunities need be extended to such representatives, or persons on the staffs of such representatives, only within the headquarters district, at their residences and offices outside the district, in transit between the district and such residences and offices, and in transit on official business to or from foreign countries.
 
- __“Article VI—Police Protection of the Headquarters District__ 
+“Article VI—Police Protection of the Headquarters District
 
  __section 16__ 
 
@@ -377,7 +377,7 @@
 
     (b) If so requested by the Secretary-General, the appropriate American authorities shall provide a sufficient number of police for the preservation of law and order in the headquarters district, and for the removal therefrom of persons as requested under the authority of the United Nations. The United Nations shall, if requested, enter into arrangements with the appropriate American authorities to reimburse them for the reasonable cost of such services.
 
- __“Article VII—Public Services and Protection of the Headquarters District__ 
+“Article VII—Public Services and Protection of the Headquarters District
 
  __section 17__ 
 
@@ -393,7 +393,7 @@
 
     It is agreed that no form of racial or religious discrimination shall be permitted within the headquarters district.
 
- __“Article VIII—Matters Relating to the Operation of This Agreement__ 
+“Article VIII—Matters Relating to the Operation of This Agreement
 
  __section 20__ 
 
@@ -405,7 +405,7 @@
 
     (b) The Secretary-General or the United States may ask the General Assembly to request of the International Court of Justice an advisory opinion on any legal question arising in the course of such proceedings. Pending the receipt of the opinion of the Court, an interim decision of the arbitral tribunal shall be observed on both parties. Thereafter, the arbitral tribunal shall render a final decision, having regard to the opinion of the Court.
 
- __“Article IX—Miscellaneous Provisions__ 
+“Article IX—Miscellaneous Provisions
 
  __section 22__ 
 
@@ -457,11 +457,11 @@
 
     Secretary-General
 
- __“Annex 1__ 
+“Annex 1
 
     The area referred to in Section 1(a)(1) consists of (a) the premises bounded on the East by the westerly side of Franklin D. Roosevelt Drive, on the West by the easterly side of First Avenue, on the North by the southerly side of East Forty-eighth Street, and on the South by the northerly side of East Forty-second Street, all as proposed to be widened, in the Borough of Manhattan, City and State of New York, and (b) an easement over Franklin D. Roosevelt Drive, above a lower limiting plane to be fixed for the construction and maintenance of an esplanade, together with the structures thereon and foundations and columns to support the same in locations below such limiting plane, the entire area to be more definitely defined by supplemental agreement between the United Nations and the United States of America.
 
- __“Annex 2—Maintenance of Utilities and Underground Construction__ 
+“Annex 2—Maintenance of Utilities and Underground Construction
 
  __section 1__ 
 

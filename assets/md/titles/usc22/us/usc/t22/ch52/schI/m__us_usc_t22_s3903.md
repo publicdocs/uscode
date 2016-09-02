@@ -15,7 +15,7 @@
 
 ## § 3903. Members of Service
 
-The following are the members of the Service:
+    The following are the members of the Service:
 
     (1) Chiefs of mission, appointed under [section 3942(a)(1) of this title][/us/usc/t22/s3942/a/1] or assigned under [section 3982(c) of this title][/us/usc/t22/s3982/c].
 

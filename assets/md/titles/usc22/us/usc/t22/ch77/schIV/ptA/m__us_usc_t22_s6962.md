@@ -15,7 +15,7 @@
 
 ## § 6962. Functions of Task Force
 
-The Task Force shall monitor and promote effective enforcement of and compliance with [section 1307 of title 19][/us/usc/t19/s1307] by performing the following functions:
+    The Task Force shall monitor and promote effective enforcement of and compliance with [section 1307 of title 19][/us/usc/t19/s1307] by performing the following functions:
 
     (1) Coordinate closely with the United States Customs Service to promote maximum effectiveness in the enforcement by the Customs Service of [section 1307 of title 19][/us/usc/t19/s1307] with respect to the products of the People’s Republic of China. In order to assure such coordination, the Customs Service shall keep the Task Force informed, on a regular basis, of the progress of its investigations of allegations that goods are being entered into the United States, or that such entry is being attempted, in violation of the prohibition in [section 1307 of title 19][/us/usc/t19/s1307] on entry into the United States of goods mined, produced, or manufactured wholly or in part in the People’s Republic of China by convict labor, forced labor, or indentured labor under penal sanctions. Such investigations may include visits to foreign sites where goods allegedly are being mined, produced, or manufactured in a manner that would lead to prohibition of their importation into the United States under [section 1307 of title 19][/us/usc/t19/s1307].
 

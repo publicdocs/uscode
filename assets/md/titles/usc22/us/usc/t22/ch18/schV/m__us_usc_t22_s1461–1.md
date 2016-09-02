@@ -15,7 +15,7 @@
 
 ## § 1461–1. Mission of United States Information Agency
 
-The mission of the United States Information Agency shall be to further the national interest by improving United States relations with other countries and peoples through the broadest possible sharing of ideas, information, and educational and cultural activities. In carrying out this mission, the United States Information Agency shall, among other activities—
+    The mission of the United States Information Agency shall be to further the national interest by improving United States relations with other countries and peoples through the broadest possible sharing of ideas, information, and educational and cultural activities. In carrying out this mission, the United States Information Agency shall, among other activities—
 
     (1)
 

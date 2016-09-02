@@ -15,7 +15,7 @@
 
 ## § 2281. “Debt-for-nature exchange” defined
 
-For purpose of this part, the term “debt-for-nature exchange” means the cancellation or redemption of the foreign debt of the government of a country in exchange for—
+    For purpose of this part, the term “debt-for-nature exchange” means the cancellation or redemption of the foreign debt of the government of a country in exchange for—
 
     (1) that government’s making available local currencies (including through the issuance of bonds) which are used only for eligible projects involving the conservation or protection of the environment in that country (as described in [section 2283 of this title][/us/usc/t22/s2283]); or
 

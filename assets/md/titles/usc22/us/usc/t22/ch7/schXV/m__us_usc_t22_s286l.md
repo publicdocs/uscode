@@ -125,9 +125,9 @@
 
                               Fred M. Vinson,   
 
-    Secretary of the Treasury  
+Secretary of the Treasury  
 
-    of the United States of America.
+of the United States of America.
 
     For the Government of the United Kingdom of Great Britain and Northern Ireland:
 

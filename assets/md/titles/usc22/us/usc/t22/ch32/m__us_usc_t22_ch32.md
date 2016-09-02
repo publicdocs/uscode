@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch31A/m__us_usc_t22_s2141e, 2141f.md) | [Next](./../../../..//us/usc/t22/ch32/schI/m__us_usc_t22_ch32_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32)
+[Previous](./../../../..//us/usc/t22/ch31A/m__us_usc_t22_s2141.md) | [Next](./../../../..//us/usc/t22/ch32/schI/m__us_usc_t22_ch32_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32)
 
 ## CHAPTER 32—FOREIGN ASSISTANCE
 
@@ -3195,7 +3195,7 @@ SUBCHAPTER V—MIDDLE EAST ASSISTANCE  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch31A/m__us_usc_t22_s2141e, 2141f.md) | [Next](./../../../..//us/usc/t22/ch32/schI/m__us_usc_t22_ch32_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32)
+[Previous](./../../../..//us/usc/t22/ch31A/m__us_usc_t22_s2141.md) | [Next](./../../../..//us/usc/t22/ch32/schI/m__us_usc_t22_ch32_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32)
 
 ----------
 ----------

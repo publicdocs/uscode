@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch5/m__us_usc_t22_s245j to 245j–19.md) | [Next](./../../../..//us/usc/t22/ch5/m__us_usc_t22_s247.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs246)
+[Previous](./../../../..//us/usc/t22/ch5/m__us_usc_t22_ch5.md) | [Next](./../../../..//us/usc/t22/ch5/m__us_usc_t22_s247.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs246)
 
 ## § 246. Repealed. [June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch5/m__us_usc_t22_s245j to 245j–19.md) | [Next](./../../../..//us/usc/t22/ch5/m__us_usc_t22_s247.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs246)
+[Previous](./../../../..//us/usc/t22/ch5/m__us_usc_t22_ch5.md) | [Next](./../../../..//us/usc/t22/ch5/m__us_usc_t22_s247.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs246)
 
 ----------
 ----------

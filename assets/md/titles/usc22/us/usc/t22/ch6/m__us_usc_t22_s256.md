@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s255a, 255b.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s257.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs256)
+[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s255.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s257.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs256)
 
 ## § 256. Jurisdiction of consular officers in disputes between seamen
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s255a, 255b.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s257.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs256)
+[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s255.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s257.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs256)
 
 ----------
 ----------

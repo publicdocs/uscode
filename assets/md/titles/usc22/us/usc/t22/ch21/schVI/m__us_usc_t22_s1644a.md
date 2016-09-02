@@ -15,13 +15,11 @@
 
 ## § 1644a. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1)
 
-     The term “national of the United States” means—
-
-        (a) a natural person who is a citizen of the United States;
+     The term “national of the United States” means—    (a) a natural person who is a citizen of the United States;
 
         (b) a corporation or other legal entity which is organized under the laws of the United States or of any State, the District of Columbia, or the Commonwealth of Puerto Rico, if natural persons who are citizens of the United States own, directly or indirectly, 50 per centum or more of the outstanding capital stock or other beneficial interest of such corporation or entity. The term does not include aliens.
 

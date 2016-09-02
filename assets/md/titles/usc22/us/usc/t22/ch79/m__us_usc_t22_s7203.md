@@ -15,7 +15,7 @@
 
 ## § 7203. Exceptions
 
-[Section 7202 of this title][/us/usc/t22/s7202] shall not affect any authority or requirement to impose (or continue to impose) a sanction referred to in [section 7202 of this title][/us/usc/t22/s7202]—
+    [Section 7202 of this title][/us/usc/t22/s7202] shall not affect any authority or requirement to impose (or continue to impose) a sanction referred to in [section 7202 of this title][/us/usc/t22/s7202]—
 
     (1)
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1755 to 1759.md) | [Next](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1760.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1759a)
+[Previous](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1754.md) | [Next](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1760.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1759a)
 
 ## § 1759a. Repealed. [Pub. L. 86–108][/us/pl/86/108], ch. IV, § 401(l), July 24, 1959, [73 Stat. 255][/us/stat/73/255]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1755 to 1759.md) | [Next](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1760.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1759a)
+[Previous](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1754.md) | [Next](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1760.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1759a)
 
 ----------
 ----------

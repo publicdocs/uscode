@@ -15,7 +15,7 @@
 
 ## § 290k–3. Opposition to certain guarantees or investment promotions; independent evaluation of guaranteed investments
 
-Consistent with the purposes of [section 290k–2 of this title][/us/usc/t22/s290k–2], the Secretary of the Treasury shall—
+    Consistent with the purposes of [section 290k–2 of this title][/us/usc/t22/s290k–2], the Secretary of the Treasury shall—
 
     (1)
 

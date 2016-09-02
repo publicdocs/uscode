@@ -15,13 +15,13 @@
 
 ## § 5603. United States export controls
 
-The President shall—
+    The President shall—
 
     (1) use the authorities of the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\] to control the export of those defense articles and defense services, and
 
     (2) use the authorities of the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] to control the export of those goods and technology,
 
-        that the President determines would assist the government of any foreign country in acquiring the capability to develop, produce, stockpile, deliver, or use chemical or biological weapons.
+    that the President determines would assist the government of any foreign country in acquiring the capability to develop, produce, stockpile, deliver, or use chemical or biological weapons.
 
 ([Pub. L. 102–182, title III, § 304(a)][/us/pl/102/182/s304/a], Dec. 4, 1991, [105 Stat. 1246][/us/stat/105/1246].)
 

@@ -129,7 +129,7 @@
 
 >     “(3) with respect to Sudan, not to exceed $25,000,000,
 
->         shall be repaid in not less than 20 years, following a grace period of 10 years on repayment of principal.”
+>     shall be repaid in not less than 20 years, following a grace period of 10 years on repayment of principal.”
 
 ----------
 

@@ -15,7 +15,7 @@
 
 ## § 2505. Peace Corps volunteer leaders; number; applicability of chapter; benefits
 
-The President may enroll in the Peace Corps qualified citizens or nationals of the United States whose services are required for supervisory or other special duties or responsibilities in connection with programs under this chapter (referred to in this chapter as “volunteer leaders”). The ratio of the total number of volunteer leaders to the total number of volunteers in service at any one time shall not exceed one to twenty-five. Except as otherwise provided in this chapter, all of the provisions of this chapter applicable to volunteers shall be applicable to volunteer leaders, and the term “volunteers” shall include “volunteer leaders”: Provided, however, That—
+    The President may enroll in the Peace Corps qualified citizens or nationals of the United States whose services are required for supervisory or other special duties or responsibilities in connection with programs under this chapter (referred to in this chapter as “volunteer leaders”). The ratio of the total number of volunteer leaders to the total number of volunteers in service at any one time shall not exceed one to twenty-five. Except as otherwise provided in this chapter, all of the provisions of this chapter applicable to volunteers shall be applicable to volunteer leaders, and the term “volunteers” shall include “volunteer leaders”: Provided, however, That—
 
     (1) volunteer leaders shall be entitled to receive a readjustment allowance at a rate not less than $125 for each month of satisfactory service as determined by the President;
 

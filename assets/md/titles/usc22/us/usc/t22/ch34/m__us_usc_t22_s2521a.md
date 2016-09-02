@@ -15,7 +15,7 @@
 
 ## § 2521a. Nonpartisan appointments
 
-In carrying out this chapter, no political test or political qualification may be used in—
+    In carrying out this chapter, no political test or political qualification may be used in—
 
     (1) selecting any person for enrollment as a volunteer or for appointment to a position at, or for assignment to (or for employment for assignment to), a duty station located abroad, or
 

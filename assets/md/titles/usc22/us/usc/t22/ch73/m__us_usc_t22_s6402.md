@@ -15,7 +15,7 @@
 
 ## § 6402. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Ambassador at Large__ 
 

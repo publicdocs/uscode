@@ -15,7 +15,7 @@
 
 ## § 701. Definitions
 
-As used in this chapter, unless the context clearly requires a different meaning—
+    As used in this chapter, unless the context clearly requires a different meaning—
 
     (a) “Friendly foreign force” means any military, naval, or air force of any friendly foreign state with respect to which this chapter is operative by virtue of a Presidential declaration as provided in [section 706 of this title][/us/usc/t22/s706].
 

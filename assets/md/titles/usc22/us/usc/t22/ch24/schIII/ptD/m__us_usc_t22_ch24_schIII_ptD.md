@@ -11,16 +11,39 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_s1898.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1920, 1921.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24%2FschIII%2FptD)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_s1898.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1922.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24%2FschIII%2FptD)
 
 #### Part D—Special Assistance and Other Programs
 
+§§ 1920, 1921. __Repealed.__  __[__  __Pub. L. 87–195__  __][/us/pl/87/195]__  __, pt. III, § 642(a)(2),__  __Sept. 4, 1961__  __,__  __[__  __75 Stat. 460__  __][/us/stat/75/460]__ 
+
+    Section 1920, [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], ch. II, § 400, as added Aug. 14, 1957, [Pub. L. 85–141, § 8(a)][/us/pl/85/141/s8/a], [71 Stat. 360][/us/stat/71/360]; amended June 30, 1958, [Pub. L. 85–477][/us/pl/85/477], ch. II, § 205(a), [72 Stat. 266][/us/stat/72/266]; July 24, 1959, [Pub. L. 86–108][/us/pl/86/108], ch. II, § 205(a), [73 Stat. 249][/us/stat/73/249]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. II, § 204(a), [74 Stat. 136][/us/stat/74/136], authorized assistance for special programs to maintain political or economic stability, for programs of economic development in Latin America and for schools and libraries abroad. See section 2171 et seq. of this title.
+
+    Section 1921, [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], ch. II, § 401, as added July 24, 1959, [Pub. L. 86–108][/us/pl/86/108], ch. II, § 205(b), [73 Stat. 249][/us/stat/73/249]; amended May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. II, § 204(b), [74 Stat. 136][/us/stat/74/136], authorized contributions to the United Nations Emergency Fund. See [section 2221 of this title][/us/usc/t22/s2221].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_s1898.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1920, 1921.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24%2FschIII%2FptD)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_s1898.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1922.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24%2FschIII%2FptD)
 
 ----------
 ----------
 
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/stat/75/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F460
+[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
+[/us/pl/85/141/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141%2Fs8%2Fa
+[/us/stat/71/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F360
+[/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
+[/us/stat/72/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F266
+[/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
+[/us/stat/73/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F249
+[/us/pl/86/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F472
+[/us/stat/74/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F136
+[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
+[/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
+[/us/stat/73/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F249
+[/us/pl/86/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F472
+[/us/stat/74/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F136
+[/us/usc/t22/s2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2221
 
 

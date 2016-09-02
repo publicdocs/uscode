@@ -15,7 +15,7 @@
 
 ## § 1471. Authority of Secretary of State
 
-In carrying out the purposes of this chapter, the Secretary is authorized, in addition to and not in limitation of the authority otherwise vested in him—
+    In carrying out the purposes of this chapter, the Secretary is authorized, in addition to and not in limitation of the authority otherwise vested in him—
 
     (1) In carrying out subchapter II of this chapter, to make grants of money, services, or materials to State and local governmental institutions in the United States, to governmental institutions in other countries, and to individuals and public or private nonprofit organizations both in the United States and in other countries;
 

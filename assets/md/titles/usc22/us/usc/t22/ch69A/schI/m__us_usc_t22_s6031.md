@@ -15,7 +15,7 @@
 
 ## § 6031. Statement of policy
 
-It is the sense of the Congress that—
+    It is the sense of the Congress that—
 
     (1) the acts of the Castro government, including its massive, systematic, and extraordinary violations of human rights, are a threat to international peace;
 

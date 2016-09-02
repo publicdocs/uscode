@@ -15,7 +15,7 @@
 
 ## § 2799d. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “CFE Treaty” means the Treaty on Conventional Armed Forces in Europe (signed at Paris, November 19, 1990);
 

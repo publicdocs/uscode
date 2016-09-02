@@ -15,7 +15,7 @@
 
 ## § 3774. Delays for which no responsibility is assumed
 
-The Commission is not responsible, and may not consider any claim, for demurrage or delays caused by—
+    The Commission is not responsible, and may not consider any claim, for demurrage or delays caused by—
 
     (1) landslides or other natural causes;
 

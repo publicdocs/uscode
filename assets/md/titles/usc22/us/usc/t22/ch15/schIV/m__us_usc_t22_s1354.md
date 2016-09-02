@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch15/schIV/m__us_usc_t22_s1351 to 1353.md) | [Next](./../../../../..//us/usc/t22/ch15/schIV/m__us_usc_t22_s1355.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1354)
+[Previous](./../../../../..//us/usc/t22/ch15/schIV/m__us_usc_t22_ch15_schIV.md) | [Next](./../../../../..//us/usc/t22/ch15/schIV/m__us_usc_t22_s1355.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1354)
 
 ## § 1354. Quotas on Philippine articles
 
@@ -53,7 +53,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch15/schIV/m__us_usc_t22_s1351 to 1353.md) | [Next](./../../../../..//us/usc/t22/ch15/schIV/m__us_usc_t22_s1355.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1354)
+[Previous](./../../../../..//us/usc/t22/ch15/schIV/m__us_usc_t22_ch15_schIV.md) | [Next](./../../../../..//us/usc/t22/ch15/schIV/m__us_usc_t22_s1355.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1354)
 
 ----------
 ----------

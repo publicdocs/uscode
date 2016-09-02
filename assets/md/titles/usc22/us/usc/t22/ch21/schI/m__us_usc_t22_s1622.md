@@ -25,7 +25,7 @@
 
  __Annual Submission of Report__ 
 
-[Pub. L. 89–348, § 2(7)][/us/pl/89/348/s2/7], Nov. 8, 1965, [79 Stat. 1312][/us/stat/79/1312], modified subsection (c) of this section to require annual submission instead of semiannual submission to the Congress by the Foreign Claims Settlement Commission of its report concerning its operations under the International Claims Settlement Act of 1949.
+    [Pub. L. 89–348, § 2(7)][/us/pl/89/348/s2/7], Nov. 8, 1965, [79 Stat. 1312][/us/stat/79/1312], modified subsection (c) of this section to require annual submission instead of semiannual submission to the Congress by the Foreign Claims Settlement Commission of its report concerning its operations under the International Claims Settlement Act of 1949.
 
  __References to This Subchapter Deemed To Include Section 119 of H.R. 2076__ 
 

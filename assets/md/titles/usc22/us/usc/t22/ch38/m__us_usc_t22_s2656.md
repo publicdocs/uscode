@@ -183,7 +183,11 @@
 
 >              encourage countries—
 
->                 “(i) to criminalize—         “(I) the falsification or counterfeiting of travel documents or breeder documents for any purpose;
+>                 “(i)
+
+>                  to criminalize—
+
+>                          “(I) the falsification or counterfeiting of travel documents or breeder documents for any purpose;
 
 >                          “(II) the use or attempted use of false documents to obtain a visa or cross a border for any purpose;
 
@@ -197,7 +201,11 @@
 
 >                 “(ii) to impose significant penalties to appropriately punish violations and effectively deter the crimes specified in clause (i); and
 
->                 “(iii) to limit the issuance of citizenship papers, passports, identification documents, and similar documents to persons—         “(I) whose identity is proven to the issuing authority;
+>                 “(iii)
+
+>                  to limit the issuance of citizenship papers, passports, identification documents, and similar documents to persons—
+
+>                          “(I) whose identity is proven to the issuing authority;
 
 >                          “(II) who have a bona fide entitlement to or need for such documents; and
 

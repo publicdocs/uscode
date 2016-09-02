@@ -15,7 +15,7 @@
 
 ## § 6081. Findings
 
-The Congress makes the following findings:
+    The Congress makes the following findings:
 
     (1) Individuals enjoy a fundamental right to own and enjoy property which is enshrined in the United States Constitution.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1926, 1927.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1928a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1925.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1928a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928)
 
 ## § 1928. North Atlantic Treaty Organization
 
@@ -1189,7 +1189,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(2) should call on Japan to further increase its defense spending during fiscal years 1984 and 1985;
 
->         in furtherance of increased unity, equitable sharing of the common defense burden, and international sta­bility.”
+>     in furtherance of increased unity, equitable sharing of the common defense burden, and international sta­bility.”
 
     Similar provisions were contained in [Pub. L. 98–473, title I, § 101(e)][/us/pl/98/473/s101/e] \[§ 127\], (h) \[title VIII, § 8105\], Oct. 12, 1984, [98 Stat. 1877][/us/stat/98/1877], 1883, 1904, 1943.
 
@@ -1413,7 +1413,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1926, 1927.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1928a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1925.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1928a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928)
 
 ----------
 ----------

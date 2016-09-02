@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_s1891 to 1896.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_s1896b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1896a)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_ch24_schIII_ptC.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_s1896b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1896a)
 
 ## § 1896a. Restriction on commitments for technical assistance
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_s1891 to 1896.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_s1896b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1896a)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_ch24_schIII_ptC.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptC/m__us_usc_t22_s1896b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1896a)
 
 ----------
 ----------

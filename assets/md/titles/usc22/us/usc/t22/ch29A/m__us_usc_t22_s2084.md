@@ -15,7 +15,7 @@
 
 ## § 2084. Cooperation of other Federal departments, agencies, and instrumentalities
 
-The head of each department, agency, or instrumentality of the Federal Government is authorized—
+    The head of each department, agency, or instrumentality of the Federal Government is authorized—
 
     (1) to cooperate with the head of the designated department or agency with respect to determining the manner in which and the extent to which the United States shall be a participant in and an exhibitor at Interama; and
 

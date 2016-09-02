@@ -15,7 +15,7 @@
 
 ## § 262m. Congressional findings and policies for multilateral development banks respecting environment, public health, natural resources, and indigenous peoples
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) United States assistance to the multilateral development banks should promote sustainable use of natural resources and the protection of the environment, public health, and the status of indigenous peoples in developing countries;
 

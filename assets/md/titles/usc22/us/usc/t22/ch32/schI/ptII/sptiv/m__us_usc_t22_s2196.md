@@ -15,7 +15,7 @@
 
 ## § 2196. Income and revenues
 
-In order to carry out the purposes of the Corporation, all revenues and income transferred to or earned by the Corporation, from whatever source derived, shall be held by the Corporation and shall be available to carry out its purposes, including without limitation—
+    In order to carry out the purposes of the Corporation, all revenues and income transferred to or earned by the Corporation, from whatever source derived, shall be held by the Corporation and shall be available to carry out its purposes, including without limitation—
 
     (a) payment of all expenses of the Corporation, including investment promotion expenses;
 

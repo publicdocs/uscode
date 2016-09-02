@@ -15,7 +15,7 @@
 
 ## § 8402. Findings
 
-Congress finds the following:
+    Congress finds the following:
 
     (1) The people of the Islamic Republic of Pakistan and the United States share a long history of friendship and comity, and the interests of both nations are well-served by strengthening and deepening this friendship.
 

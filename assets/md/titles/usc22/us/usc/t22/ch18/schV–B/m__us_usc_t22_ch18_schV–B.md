@@ -17,7 +17,7 @@
 
  __Repeal of Subchapter__ 
 
-Subchapter repealed upon transmittal of determination by President under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that democratically elected government in Cuba is in power, see [section 6037(c) of this title][/us/usc/t22/s6037/c].
+    Subchapter repealed upon transmittal of determination by President under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that democratically elected government in Cuba is in power, see [section 6037(c) of this title][/us/usc/t22/s6037/c].
 
 ----------
 

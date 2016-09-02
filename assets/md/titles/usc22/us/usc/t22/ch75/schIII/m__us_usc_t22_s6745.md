@@ -15,7 +15,7 @@
 
 ## § 6745. Recordkeeping violations
 
-It shall be unlawful for any person willfully to fail or refuse—
+    It shall be unlawful for any person willfully to fail or refuse—
 
     (1) to establish or maintain any record required by this chapter or any regulation prescribed under this chapter;
 

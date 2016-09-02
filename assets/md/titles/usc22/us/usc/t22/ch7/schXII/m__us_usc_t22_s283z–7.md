@@ -15,7 +15,7 @@
 
 ## § 283z–7. Limitations on policy based lending
 
-The Secretary of the Treasury shall—
+    The Secretary of the Treasury shall—
 
     (1) take all necessary steps to encourage the Bank to limit the aggregate value of the policy based loans made by the Bank (other than policy based loans made to any country which the Bank has determined is economically less developed or has a limited market economy, which are used to purchase sovereign debt of such country or to reduce the debt or debt service burden of such country) during the 4-year period beginning on January 1, 1990, to 25 percent of the aggregate value of all loans made by the Bank during such 4-year period;
 

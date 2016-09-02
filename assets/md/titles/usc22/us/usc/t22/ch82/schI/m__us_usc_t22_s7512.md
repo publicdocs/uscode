@@ -15,7 +15,7 @@
 
 ## § 7512. Purposes of assistance
 
-The purposes of assistance authorized by this subchapter are—
+    The purposes of assistance authorized by this subchapter are—
 
     (1) to help assure the security of the United States and the world by reducing or eliminating the likelihood of violence against United States or allied forces in Afghanistan and to reduce the chance that Afghanistan will again be a source of international terrorism;
 

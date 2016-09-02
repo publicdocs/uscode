@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch51/schI/pt2/spti/m__us_usc_t22_s3646, 3647.md) | [Next](./../../../../../../..//us/usc/t22/ch51/schI/pt2/spti/m__us_usc_t22_s3649.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3648)
+[Previous](./../../../../../../..//us/usc/t22/ch51/schI/pt2/spti/m__us_usc_t22_s3645.md) | [Next](./../../../../../../..//us/usc/t22/ch51/schI/pt2/spti/m__us_usc_t22_s3649.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3648)
 
 ## § 3648. Privileges and immunities of certain employees
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch51/schI/pt2/spti/m__us_usc_t22_s3646, 3647.md) | [Next](./../../../../../../..//us/usc/t22/ch51/schI/pt2/spti/m__us_usc_t22_s3649.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3648)
+[Previous](./../../../../../../..//us/usc/t22/ch51/schI/pt2/spti/m__us_usc_t22_s3645.md) | [Next](./../../../../../../..//us/usc/t22/ch51/schI/pt2/spti/m__us_usc_t22_s3649.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3648)
 
 ----------
 ----------

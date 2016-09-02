@@ -15,7 +15,7 @@
 
 ## § 6001. Findings
 
-The Congress makes the following findings:
+    The Congress makes the following findings:
 
     (1) The government of Fidel Castro has demonstrated consistent disregard for internationally accepted standards of human rights and for democratic values. It restricts the Cuban people’s exercise of freedom of speech, press, assembly, and other rights recognized by the Universal Declaration of Human Rights adopted by the General Assembly of the United Nations on December 10, 1948. It has refused to admit into Cuba the representative of the United Nations Human Rights Commission appointed to investigate human rights violations on the island.
 

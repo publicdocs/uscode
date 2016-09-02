@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151l, 2151m.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151n–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n)
+[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151k.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151n–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n)
 
 ## § 2151n. Human rights and development assistance
 
@@ -347,7 +347,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151l, 2151m.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151n–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n)
+[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151k.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151n–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n)
 
 ----------
 ----------

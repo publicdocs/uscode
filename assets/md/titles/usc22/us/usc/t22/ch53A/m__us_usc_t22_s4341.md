@@ -15,7 +15,7 @@
 
 ## § 4341. Definitions
 
-For purposes of this chapter, the following terms have the following meanings:
+    For purposes of this chapter, the following terms have the following meanings:
 
     (1)
 

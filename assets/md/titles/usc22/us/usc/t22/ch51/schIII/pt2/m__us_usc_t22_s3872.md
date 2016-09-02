@@ -15,7 +15,7 @@
 
 ## § 3872. Notification requirements
 
-The Panama Canal Commission shall provide written advance notification to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Armed Services of the Senate regarding—
+    The Panama Canal Commission shall provide written advance notification to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Armed Services of the Senate regarding—
 
     (1) any proposed change in the rates of tolls for use of the Panama Canal;
 

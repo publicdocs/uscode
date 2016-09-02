@@ -15,7 +15,7 @@
 
 ## § 8421. Purposes of assistance
 
-The purposes of assistance under this subchapter are—
+    The purposes of assistance under this subchapter are—
 
     (1) to support Pakistan’s paramount national security need to fight and win the ongoing counterinsurgency within its borders in accordance with its national security interests;
 

@@ -15,7 +15,7 @@
 
 ## § 6415. Programs and allocations of funds by United States missions abroad
 
-It is the sense of the Congress that—
+    It is the sense of the Congress that—
 
     (1) United States diplomatic missions in countries the governments of which engage in or tolerate violations of the internationally recognized right to freedom of religion should develop, as part of annual program planning, a strategy to promote respect for the internationally recognized right to freedom of religion; and
 

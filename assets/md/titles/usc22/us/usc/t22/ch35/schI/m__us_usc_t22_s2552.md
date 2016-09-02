@@ -15,7 +15,7 @@
 
 ## § 2552. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) The terms “arms control” and “disarmament” mean the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement including the necessary steps taken under such an agreement to establish an effective system of international control, or to create and strengthen international organizations for the maintenance of peace.
 

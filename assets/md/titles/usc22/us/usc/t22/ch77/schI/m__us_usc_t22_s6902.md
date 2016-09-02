@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch77/schI/m__us_usc_t22_s6901.md) | [Next](./../../../../..//us/usc/t22/ch77/schI/m__us_usc_t22_s6903.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6902)
+[Previous](./../../../../..//us/usc/t22/ch77/schI/m__us_usc_t22_s621.md) | [Next](./../../../../..//us/usc/t22/ch77/schI/m__us_usc_t22_s6903.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6902)
 
 ## § 6902. Policy
 
-It is the policy of the United States—
+    It is the policy of the United States—
 
     (1) to develop trade relations that broaden the benefits of trade, and lead to a leveling up, rather than a leveling down, of labor, environmental, commercial rule of law, market access, anticorruption, and other standards across national borders;
 
@@ -55,7 +55,7 @@ It is the policy of the United States—
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch77/schI/m__us_usc_t22_s6901.md) | [Next](./../../../../..//us/usc/t22/ch77/schI/m__us_usc_t22_s6903.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6902)
+[Previous](./../../../../..//us/usc/t22/ch77/schI/m__us_usc_t22_s621.md) | [Next](./../../../../..//us/usc/t22/ch77/schI/m__us_usc_t22_s6903.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6902)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 280b. Authorization of appropriations
 
-There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
+    There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
 
     (a) such  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  sums as may be required annually for the payment by the United States of its proportionate share of the expenses of the Commission and its auxiliary and subsidiary bodies, in accordance with article XIV of the agreement establishing the South Pacific Commission, as amended, except that in no event shall that payment for any fiscal year of the Commission exceed 20 per centum of all expenses apportioned among participating governments of the Commission for that year.
 

@@ -15,7 +15,7 @@
 
 ## § 5302. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the macroeconomic policies, including the exchange rate policies, of the leading industrialized nations require improved coordination and are not consistent with long-term economic growth and financial stability;
 

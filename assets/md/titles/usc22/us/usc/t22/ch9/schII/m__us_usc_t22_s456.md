@@ -15,7 +15,7 @@
 
 ## § 456. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) The term “United States”, when used in a geographical sense, includes the several States and Territories, the insular possessions of the United States, the Canal Zone, and the District of Columbia.
 

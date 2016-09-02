@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch2/m__us_usc_t22_s176 to 181.md) | [Next](./../../../..//us/usc/t22/ch2/m__us_usc_t22_s183.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs182)
+[Previous](./../../../..//us/usc/t22/ch2/m__us_usc_t22_s175.md) | [Next](./../../../..//us/usc/t22/ch2/m__us_usc_t22_s183.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs182)
 
 ## § 182. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch2/m__us_usc_t22_s176 to 181.md) | [Next](./../../../..//us/usc/t22/ch2/m__us_usc_t22_s183.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs182)
+[Previous](./../../../..//us/usc/t22/ch2/m__us_usc_t22_s175.md) | [Next](./../../../..//us/usc/t22/ch2/m__us_usc_t22_s183.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs182)
 
 ----------
 ----------

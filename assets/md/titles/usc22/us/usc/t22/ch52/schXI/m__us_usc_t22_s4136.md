@@ -15,7 +15,7 @@
 
 ## § 4136. Foreign Service Grievance Board procedures
 
-The Board may adopt regulations concerning its organization and procedures. Such regulations shall include provision for the following:
+    The Board may adopt regulations concerning its organization and procedures. Such regulations shall include provision for the following:
 
     (1)
 

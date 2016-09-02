@@ -15,7 +15,7 @@
 
 ## § 3314. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “laws of the United States” includes any statute, rule, regulation, ordinance, order, or judicial rule of decision of the United States or any political subdivision thereof; and
 

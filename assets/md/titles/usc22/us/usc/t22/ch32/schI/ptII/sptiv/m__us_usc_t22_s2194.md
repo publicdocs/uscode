@@ -15,7 +15,7 @@
 
 ## § 2194. Investment insurance and other programs
 
-The Corporation is hereby authorized to do the following:
+    The Corporation is hereby authorized to do the following:
 
     (a) __Investment insurance__ 
 

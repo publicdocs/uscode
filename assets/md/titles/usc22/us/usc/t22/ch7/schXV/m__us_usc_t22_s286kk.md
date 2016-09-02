@@ -15,7 +15,7 @@
 
 ## § 286kk. Discussions to enhance capacity of Fund to alleviate potentially adverse impacts of Fund programs on poor and environment
 
-The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to seek policy changes by the Fund, through formal initiatives and through bilateral discussions, which will result in—
+    The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to seek policy changes by the Fund, through formal initiatives and through bilateral discussions, which will result in—
 
     (1) the initiation of a systematic review of policy prescriptions implemented by the Fund, for the purpose of determining whether the Fund’s objectives were met and the social and environmental impacts of such policy prescriptions; and
 

@@ -15,7 +15,7 @@
 
 ## § 7432. Definitions
 
-As used in this subchapter and in [section 7402 of this title][/us/usc/t22/s7402]:
+    As used in this subchapter and in [section 7402 of this title][/us/usc/t22/s7402]:
 
     (1) __Appropriate congressional committees__ 
 

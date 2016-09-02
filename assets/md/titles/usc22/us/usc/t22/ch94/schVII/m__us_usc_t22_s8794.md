@@ -15,7 +15,7 @@
 
 ## § 8794. Waiver
 
-The President may waive the requirement to include a person on a list required by section 8791, 8792, or 8793 of this title or to impose sanctions pursuant to any such section if the President—
+    The President may waive the requirement to include a person on a list required by section 8791, 8792, or 8793 of this title or to impose sanctions pursuant to any such section if the President—
 
     (1) determines that such a waiver is in the national security interests of the United States; and
 
@@ -25,7 +25,7 @@ The President may waive the requirement to include a person on a list required b
 
  __Termination of Section__ 
 
-For termination of section, see [section 8795 of this title][/us/usc/t22/s8795].
+    For termination of section, see [section 8795 of this title][/us/usc/t22/s8795].
 
 ----------
 

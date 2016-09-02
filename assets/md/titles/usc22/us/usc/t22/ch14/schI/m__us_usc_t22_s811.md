@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s809, 810.md) | [Next](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s811a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs811)
+[Previous](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s808.md) | [Next](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s811a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs811)
 
 ## § 811. Repealed. [May 26, 1949, ch. 143, § 5][/us/act/1949-05-26/ch143/s5], [63 Stat. 111][/us/stat/63/111]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s809, 810.md) | [Next](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s811a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs811)
+[Previous](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s808.md) | [Next](./../../../../..//us/usc/t22/ch14/schI/m__us_usc_t22_s811a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs811)
 
 ----------
 ----------

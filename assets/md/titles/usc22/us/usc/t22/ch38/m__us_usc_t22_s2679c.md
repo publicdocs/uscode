@@ -41,7 +41,7 @@
 
     (c) __Responses to contract solicitations__ 
 
-        (1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensure that any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a) of this section, includes the following clause, in substantially the following form:    “arab league boycott of israel
+        (1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensure that any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a) of this section, includes the following clause, in substantially the following form:“arab league boycott of israel
 
     “(a) __Definitions.—__ 
 
@@ -51,7 +51,9 @@
 
         “(2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.
 
-        “(b) Certification.—By submitting this offer, the Offeror certifies that it is not—
+    “(b) __Certification.—__ 
+
+    By submitting this offer, the Offeror certifies that it is not—
 
         “(1) taking or knowingly agreeing to take any action, with respect to the boycott of Israel by Arab League countries, which section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)) prohibits a United States person from taking; or
 

@@ -15,7 +15,7 @@
 
 ## § 4102. Definitions
 
-As used in this subchapter, the term—
+    As used in this subchapter, the term—
 
     (1) “Authority” means the Federal Labor Relations Authority, described in [section 7104(a) of title 5][/us/usc/t5/s7104/a];
 

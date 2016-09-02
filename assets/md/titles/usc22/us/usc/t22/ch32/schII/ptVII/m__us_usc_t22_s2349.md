@@ -15,7 +15,7 @@
 
 ## § 2349. General authority
 
-The President is authorized—
+    The President is authorized—
 
     (1) to construct such air bases in Israel for the Government of Israel as may be agreed upon between the Government of Israel and the Government of the United States to replace the Israeli air bases located at Etzion and Etam on the Sinai peninsula that are to be evacuated by the Government of Israel; and
 

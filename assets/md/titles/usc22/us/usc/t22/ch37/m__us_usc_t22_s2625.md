@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch37/m__us_usc_t22_s2622 to 2624.md) | [Next](./../../../..//us/usc/t22/ch37/m__us_usc_t22_s2626.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2625)
+[Previous](./../../../..//us/usc/t22/ch37/m__us_usc_t22_s2621.md) | [Next](./../../../..//us/usc/t22/ch37/m__us_usc_t22_s2626.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2625)
 
 ## § 2625. Gifts or decorations on deposit with State Department
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch37/m__us_usc_t22_s2622 to 2624.md) | [Next](./../../../..//us/usc/t22/ch37/m__us_usc_t22_s2626.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2625)
+[Previous](./../../../..//us/usc/t22/ch37/m__us_usc_t22_s2621.md) | [Next](./../../../..//us/usc/t22/ch37/m__us_usc_t22_s2626.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2625)
 
 ----------
 ----------

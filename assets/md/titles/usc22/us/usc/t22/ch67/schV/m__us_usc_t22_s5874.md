@@ -15,7 +15,7 @@
 
 ## § 5874. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “contractor” means a National Aeronautics and Space Administration contractor to the extent that the acquisition of space hardware, space technology, or space services from the independent states of the former Soviet Union may be relevant to the contractor’s responsibilities under the contract; and
 

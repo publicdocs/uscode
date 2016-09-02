@@ -15,7 +15,7 @@
 
 ## § 3904. Functions of Service
 
-Members of the Service shall, under the direction of the Secretary—
+    Members of the Service shall, under the direction of the Secretary—
 
     (1) represent the interests of the United States in relation to foreign countries and international organizations, and perform the functions relevant to their appointments and assignments, including (as appropriate) functions under the Vienna Convention on Diplomatic Relations, the Vienna Convention on Consular Relations, other international agreements to which the United States is a party, the laws of the United States, and orders, regulations, and directives issued pursuant to law;
 

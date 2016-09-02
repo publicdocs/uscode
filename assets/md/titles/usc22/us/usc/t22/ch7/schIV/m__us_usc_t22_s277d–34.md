@@ -15,7 +15,7 @@
 
 ## § 277d–34. American-Mexican Boundary Treaty, authorization for carrying out treaty provisions; investigations; land acquisition, purposes; damages, repair or compensation
 
-In connection with the treaty between the United States of America and the United Mexican States to resolve pending boundary differences and maintain the Rio Grande and the Colorado River as the international boundary between the United States of America and the United Mexican States, signed November 23, 1970, (hereafter in this Act referred to as the “treaty”), the Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States, and Mexico (hereafter in this Act referred to as the “Commissioner”), is authorized—
+    In connection with the treaty between the United States of America and the United Mexican States to resolve pending boundary differences and maintain the Rio Grande and the Colorado River as the international boundary between the United States of America and the United Mexican States, signed November 23, 1970, (hereafter in this Act referred to as the “treaty”), the Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States, and Mexico (hereafter in this Act referred to as the “Commissioner”), is authorized—
 
     (1)
 

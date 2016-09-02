@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptH/m__us_usc_t22_s961 to 966.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptH/m__us_usc_t22_s968.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs967)
+[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptH/m__us_usc_t22_ch14_schV_ptH.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptH/m__us_usc_t22_s968.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs967)
 
 ## § 967. Repealed. [Pub. L. 86–723, § 52(4)][/us/pl/86/723/s52/4], Sept. 8, 1960, [74 Stat. 847][/us/stat/74/847]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptH/m__us_usc_t22_s961 to 966.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptH/m__us_usc_t22_s968.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs967)
+[Previous](./../../../../../..//us/usc/t22/ch14/schV/ptH/m__us_usc_t22_ch14_schV_ptH.md) | [Next](./../../../../../..//us/usc/t22/ch14/schV/ptH/m__us_usc_t22_s968.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs967)
 
 ----------
 ----------

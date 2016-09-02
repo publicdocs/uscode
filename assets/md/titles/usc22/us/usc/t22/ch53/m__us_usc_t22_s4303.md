@@ -15,7 +15,7 @@
 
 ## § 4303. Authorities of Secretary of State
 
-The Secretary shall carry out the following functions:
+    The Secretary shall carry out the following functions:
 
     (1) Assist agencies of Federal, State, and municipal government with regard to ascertaining and according benefits, privileges, and immunities to which a foreign mission may be entitled.
 

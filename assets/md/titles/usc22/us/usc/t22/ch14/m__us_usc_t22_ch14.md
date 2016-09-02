@@ -17,7 +17,7 @@
 
  __Repeal of Chapter__ 
 
-[Pub. L. 96–465, title II, § 2205][/us/pl/96/465/s2205], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159], repealed the Foreign Service Act of 1946 and related and miscellaneous provisions classified to this chapter. Pursuant to [section 2403 of Pub. L. 96–465][/us/pl/96/465/s2403], set out as a note under [section 3901 of this title][/us/usc/t22/s3901], [Pub. L. 96–465][/us/pl/96/465] is effective, except as otherwise provided, on Feb. 15, 1981. Notwithstanding repeal, however, of the provisions of this chapter, [section 4172 of this title][/us/usc/t22/s4172] continues in force and effect the Foreign Service Act of 1946 and any other law repealed, modified, or affected by [Pub. L. 96–465][/us/pl/96/465] for the purposes enumerated in such section 4172.
+    [Pub. L. 96–465, title II, § 2205][/us/pl/96/465/s2205], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159], repealed the Foreign Service Act of 1946 and related and miscellaneous provisions classified to this chapter. Pursuant to [section 2403 of Pub. L. 96–465][/us/pl/96/465/s2403], set out as a note under [section 3901 of this title][/us/usc/t22/s3901], [Pub. L. 96–465][/us/pl/96/465] is effective, except as otherwise provided, on Feb. 15, 1981. Notwithstanding repeal, however, of the provisions of this chapter, [section 4172 of this title][/us/usc/t22/s4172] continues in force and effect the Foreign Service Act of 1946 and any other law repealed, modified, or affected by [Pub. L. 96–465][/us/pl/96/465] for the purposes enumerated in such section 4172.
 
  __Revision of Laws__ 
 

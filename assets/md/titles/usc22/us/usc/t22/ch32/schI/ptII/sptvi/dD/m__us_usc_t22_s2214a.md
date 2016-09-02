@@ -15,7 +15,7 @@
 
 ## § 2214a. Definitions
 
- In this subpart:
+     In this subpart:
 
     (1) __Administrator__ 
 

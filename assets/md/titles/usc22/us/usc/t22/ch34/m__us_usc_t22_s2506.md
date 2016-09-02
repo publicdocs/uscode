@@ -79,8 +79,6 @@
 
     The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title][/us/usc/t22/s3901] and Tables.
 
-    The effective date of this paragraph, referred to in subsec. (a)(4), probably means the effective date of [Pub. L. 96–53][/us/pl/96/53], Aug. 14, 1979, [93 Stat. 359][/us/stat/93/359], section 302 of which added subsec. (a)(4) and which became effective Oct. 1, 1979, see Effective Date of 1979 Amendment note below.
-
  __Codification__ 
 
     Amendment by [Pub. L. 98–473][/us/pl/98/473] is based on section 703 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by [Pub. L. 98–473][/us/pl/98/473].
@@ -179,7 +177,7 @@
 
 >     “(2) each person so appointed who, immediately prior to the effective date of section 4(a) of this Act \[see effective date of 1965 Amendment note above\], held a career or career-conditional appointment at grade 8 or below of the General Schedule established by the Classification Act of 1949, as amended \[see § 5101 et seq. of Title 5, Government Organization and Employees\], shall receive an appointment for the duration of operations under the Peace Corps Act, as amended \[see Short Title note set out under [section 2501 of this title][/us/usc/t22/s2501]\].
 
->         Each person appointed under this subsection shall receive basic compensation at the rate of his class determined by the President to be appropriate, but the rate of basic compensation received by such person immediately prior to the effective date of his appointment under this subsection shall not be reduced by the provisions of this subsection.”
+>     Each person appointed under this subsection shall receive basic compensation at the rate of his class determined by the President to be appropriate, but the rate of basic compensation received by such person immediately prior to the effective date of his appointment under this subsection shall not be reduced by the provisions of this subsection.”
 
     \[Functions of the President conferred by [section 5(b) of Pub. L. 89–134][/us/pl/89/134/s5/b], set out above, to prescribe regulations and make determinations (relating to appointment of Peace Corps Employees in the Foreign Service System) were delegated to the Director of the Peace Corps, by section 1–105 of Ex. Ord. No. 12137, May 16, 1976, 44 F.R. 29023, set out as a note under [section 2501 of this title][/us/usc/t22/s2501]. Such functions were previously transferred from the President to the Director of ACTION \[now Corporation for National and Community Service\] by section 102(c) of Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, set out as a note under [section 2501 of this title][/us/usc/t22/s2501], which was superseded by section 1–707 of Ex. Ord. No. 12137.\]
 
@@ -228,8 +226,6 @@
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
-[/us/stat/93/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F359
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/112/57/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs5%2F1

@@ -15,7 +15,7 @@
 
 ## § 5860. Report on special nuclear materials
 
-Not later than 180 days after October 24, 1992, the Secretary of State shall prepare, in consultation with the Secretary of Defense and the Secretary of Energy, and shall transmit to the Congress a report on the possible alternatives for the ultimate disposition of special nuclear materials of the former Soviet Union. This report shall include—
+    Not later than 180 days after October 24, 1992, the Secretary of State shall prepare, in consultation with the Secretary of Defense and the Secretary of Energy, and shall transmit to the Congress a report on the possible alternatives for the ultimate disposition of special nuclear materials of the former Soviet Union. This report shall include—
 
     (1) a cost-benefit analysis comparing (A) the relative merits of the indefinite storage and safeguarding of such materials in the independent states of the former Soviet Union and (B) its acquisition by the United States by purchase, barter, or other means;
 

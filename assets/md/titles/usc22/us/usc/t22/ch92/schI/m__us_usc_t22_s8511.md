@@ -15,7 +15,7 @@
 
 ## § 8511. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Agricultural commodity__ 
 
@@ -65,7 +65,7 @@ In this subchapter:
 
  __Termination of Section__ 
 
-For termination of section, see [section 8551(a) of this title][/us/usc/t22/s8551/a].
+    For termination of section, see [section 8551(a) of this title][/us/usc/t22/s8551/a].
 
  __References in Text__ 
 

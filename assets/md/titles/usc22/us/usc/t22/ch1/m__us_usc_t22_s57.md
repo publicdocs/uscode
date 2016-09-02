@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s55, 56.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s58.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs57)
+[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s54.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s58.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs57)
 
 ## § 57. Repealed. [Feb. 23, 1931, ch. 276, § 6][/us/act/1931-02-23/ch276/s6], [46 Stat. 1207][/us/stat/46/1207], eff. July 1, 1931
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s55, 56.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s58.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs57)
+[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s54.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s58.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs57)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptIX/m__us_usc_t22_s2292h to 2292q.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptX/m__us_usc_t22_s2293.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschI%2FptX)
+[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptIX/m__us_usc_t22_s2292g.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptX/m__us_usc_t22_s2293.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschI%2FptX)
 
 #### Part X—Development Fund for Africa
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptIX/m__us_usc_t22_s2292h to 2292q.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptX/m__us_usc_t22_s2293.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschI%2FptX)
+[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptIX/m__us_usc_t22_s2292g.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptX/m__us_usc_t22_s2293.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschI%2FptX)
 
 ----------
 ----------

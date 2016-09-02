@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch15/schIV–A/m__us_usc_t22_s1374 to 1379.md) | [Next](./../../../../..//us/usc/t22/ch15/schV/m__us_usc_t22_s1381.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch15%2FschV)
+[Previous](./../../../../..//us/usc/t22/ch15/schIV–A/m__us_usc_t22_s1373.md) | [Next](./../../../../..//us/usc/t22/ch15/schV/m__us_usc_t22_s1381.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch15%2FschV)
 
 ### SUBCHAPTER V—PROPERTY RETAINED BY THE UNITED STATES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch15/schIV–A/m__us_usc_t22_s1374 to 1379.md) | [Next](./../../../../..//us/usc/t22/ch15/schV/m__us_usc_t22_s1381.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch15%2FschV)
+[Previous](./../../../../..//us/usc/t22/ch15/schIV–A/m__us_usc_t22_s1373.md) | [Next](./../../../../..//us/usc/t22/ch15/schV/m__us_usc_t22_s1381.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch15%2FschV)
 
 ----------
 ----------

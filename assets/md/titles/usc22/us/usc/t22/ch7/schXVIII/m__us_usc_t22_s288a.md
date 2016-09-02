@@ -15,7 +15,7 @@
 
 ## § 288a. Privileges, exemptions, and immunities of international organizations
 
-International organizations shall enjoy the status, immunities, exemptions, and privileges set forth in this section, as follows:
+    International organizations shall enjoy the status, immunities, exemptions, and privileges set forth in this section, as follows:
 
     (a)
 

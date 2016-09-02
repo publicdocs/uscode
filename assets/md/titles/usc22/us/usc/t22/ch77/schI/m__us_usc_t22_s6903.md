@@ -15,7 +15,7 @@
 
 ## § 6903. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Dispute Settlement Understanding__ 
 

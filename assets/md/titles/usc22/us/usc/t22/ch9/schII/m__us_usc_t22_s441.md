@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_ch9_schII.md) | [Next](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s442, 443.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441)
+[Previous](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_ch9_schII.md) | [Next](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s444.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441)
 
 ## § 441. Proclamation of state of war between foreign states
 
@@ -49,9 +49,19 @@
 
     “Whereas the United States hereby expressly reserves the right to repeal, change or modify this \[this subchapter\] or any other domestic legislation in the interests of the peace, security or welfare of the United States and its people.”
 
+§§ 442, 443. __Repealed.__  __[__  __Nov. 17, 1941, ch. 473, § 1__  __][/us/act/1941-11-17/ch473/s1]__  __,__  __[__  __55 Stat. 764__  __][/us/stat/55/764]__ 
+
+    Section 442, Joint Res. [Nov. 4, 1939, ch. 2, § 2][/us/act/1939-11-04/ch2/s2], [54 Stat. 4][/us/stat/54/4], related to commerce with states engaged in armed conflict.
+
+    Section 443, Joint Res. [Nov. 4, 1939, ch. 2, § 3][/us/act/1939-11-04/ch2/s3], [54 Stat. 7][/us/stat/54/7], related to combat areas.
+
+ __Definition of Combat Areas__ 
+
+    Proc. No. 2376, Nov. 4, 1939, 3 p.m., 4 F.R. 4495, [54 Stat. 2673][/us/stat/54/2673]; Proc. No. 2394, Apr. 10, 1940, 5 F.R. 1400, [54 Stat. 2693][/us/stat/54/2693]; Proc. No. 2410, June 11, 1940, 5:20 p.m. E.S.T., 5 F.R. 2209, [54 Stat. 2708][/us/stat/54/2708], as modified by Proc. No. 2474, Apr. 10, 1941, 6 F.R. 1905, [55 Stat. 1628][/us/stat/55/1628], defined various combat areas.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_ch9_schII.md) | [Next](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s442, 443.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441)
+[Previous](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_ch9_schII.md) | [Next](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s444.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441)
 
 ----------
 ----------
@@ -69,5 +79,15 @@
 [/us/stat/54/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F12
 [/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F4
+[/us/act/1941-11-17/ch473/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-17%2Fch473%2Fs1
+[/us/stat/55/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F764
+[/us/act/1939-11-04/ch2/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs2
+[/us/stat/54/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F4
+[/us/act/1939-11-04/ch2/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs3
+[/us/stat/54/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F7
+[/us/stat/54/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F2673
+[/us/stat/54/2693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F2693
+[/us/stat/54/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F2708
+[/us/stat/55/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F1628
 
 

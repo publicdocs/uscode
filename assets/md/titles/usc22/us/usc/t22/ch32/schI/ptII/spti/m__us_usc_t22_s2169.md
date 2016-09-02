@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2167, 2168.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_ch32_schI_ptII_sptii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2169)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2166.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_ch32_schI_ptII_sptii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2169)
 
 ## § 2169. Multilateral, regional, and bilateral programs
 
@@ -73,7 +73,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2167, 2168.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_ch32_schI_ptII_sptii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2169)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2166.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_ch32_schI_ptII_sptii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2169)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 8751. Codification of sanctions with respect to grave human rights abuses by the Governments of Iran and Syria using information technology
 
-United States sanctions with respect to Iran and Syria provided for in Executive Order No. 13606 (77 Fed. Reg. 24571), as in effect on the day before August 10, 2012, shall remain in effect—
+    United States sanctions with respect to Iran and Syria provided for in Executive Order No. 13606 (77 Fed. Reg. 24571), as in effect on the day before August 10, 2012, shall remain in effect—
 
     (1) with respect to Iran, until the date that is 30 days after the date on which the President submits to Congress the certification described in [section 8551(a) of this title][/us/usc/t22/s8551/a]; and
 

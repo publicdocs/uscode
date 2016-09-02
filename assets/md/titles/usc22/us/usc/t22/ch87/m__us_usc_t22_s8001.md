@@ -15,7 +15,7 @@
 
 ## § 8001. Sense of Congress
 
-It is the sense of Congress that—
+    It is the sense of Congress that—
 
     (1) preventing the proliferation of nuclear weapons, other weapons of mass destruction, the means to produce them, and the means to deliver them are critical objectives for United States foreign policy;
 
@@ -87,89 +87,119 @@ It is the sense of Congress that—
 
 >     The term ‘appropriate congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
- __“TITLE I—APPROVAL OF UNITED STATES-INDIA AGREEMENT FOR COOPERATION ON PEACEFUL USES OF NUCLEAR ENERGY__ 
+> “TITLE I— __APPROVAL OF UNITED STATES-INDIA AGREEMENT FOR COOPERATION ON PEACEFUL USES OF NUCLEAR ENERGY__ 
 
-    “SEC. 101. APPROVAL OF AGREEMENT.
+> “SEC. 101. __APPROVAL OF AGREEMENT.__ 
 
-    “(a) In General.—Notwithstanding the provisions for congressional consideration and approval of a proposed agreement for cooperation in section 123 b. and d. of the Atomic Energy Act of 1954 ([42 U.S.C. 2153(b)][/us/usc/t42/s2153/b] and (d)), Congress hereby approves the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy, subject to subsection (b).
+>     “(a) __In General.—__ 
 
-    “(b) Applicability of Atomic Energy Act of 1954, Hyde Act, and Other Provisions of Law.—The Agreement shall be subject to the provisions of the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.), the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 ([22 U.S.C. 8001][/us/usc/t22/s8001] et. seq; [Public Law 109–401][/us/pl/109/401]), and any other applicable United States law as if the Agreement had been approved pursuant to the provisions for congressional consideration and approval of a proposed agreement for cooperation in section 123 b. and d. of the Atomic Energy Act of 1954.
+>     Notwithstanding the provisions for congressional consideration and approval of a proposed agreement for cooperation in section 123 b. and d. of the Atomic Energy Act of 1954 ([42 U.S.C. 2153(b)][/us/usc/t42/s2153/b] and (d)), Congress hereby approves the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy, subject to subsection (b).
 
-    “(c) Sunset of Exemption Authority Under Hyde Act.—\[Amended [section 8003 of this title][/us/usc/t22/s8003].\]
+>     “(b) __Applicability of Atomic Energy Act of 1954, Hyde Act, and Other Provisions of Law.—__ 
 
-    “SEC. 102. DECLARATIONS OF POLICY; CERTIFICATION REQUIREMENT; RULE OF CONSTRUCTION.
+>     The Agreement shall be subject to the provisions of the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.), the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 ([22 U.S.C. 8001][/us/usc/t22/s8001] et. seq; [Public Law 109–401][/us/pl/109/401]), and any other applicable United States law as if the Agreement had been approved pursuant to the provisions for congressional consideration and approval of a proposed agreement for cooperation in section 123 b. and d. of the Atomic Energy Act of 1954.
 
-    “(a) Declarations of Policy Relating to Meaning and Legal Effect of Agreement.—Congress declares that it is the understanding of the United States that the provisions of the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy have the meanings conveyed in the authoritative representations provided by the President and his representatives to the Congress and its committees prior to September 20, 2008, regarding the meaning and legal effect of the Agreement.
+>     “(c) __Sunset of Exemption Authority Under Hyde Act.—__ 
 
-    “(b) Declarations of Policy Relating to Transfer of Nuclear Equipment, Materials, and Technology to India.—Congress makes the following declarations of policy:
+>     \[Amended [section 8003 of this title][/us/usc/t22/s8003].\]
 
-    “(1) Pursuant to section 103(a)(6) of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 ([22 U.S.C. 8002(a)(6)][/us/usc/t22/s8002/a/6]), in the event that nuclear transfers to India are suspended or terminated pursuant to title I of such Act ([22 U.S.C. 8001][/us/usc/t22/s8001] et seq.), the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.), or any other United States law, it is the policy of the United States to seek to prevent the transfer to India of nuclear equipment, materials, or technology from other participating governments in the Nuclear Suppliers Group (NSG) or from any other source.
+> “SEC. 102. __DECLARATIONS OF POLICY; CERTIFICATION REQUIREMENT; RULE OF CONSTRUCTION.__ 
 
-    “(2) Pursuant to section 103(b)(10) of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 ([22 U.S.C. 8002(b)(10)][/us/usc/t22/s8002/b/10]), any nuclear power reactor fuel reserve provided to the Government of India for use in safeguarded civilian nuclear facilities should be commensurate with reasonable reactor operating requirements.
+>     “(a) __Declarations of Policy Relating to Meaning and Legal Effect of Agreement.—__ 
 
-    “(c) Certification Requirement.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to Congress that entry into force and implementation of the Agreement pursuant to its terms is consistent with the obligation of the United States under the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the ‘Nuclear Non-Proliferation Treaty’), not in any way to assist, encourage, or induce India to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices.
+>     Congress declares that it is the understanding of the United States that the provisions of the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy have the meanings conveyed in the authoritative representations provided by the President and his representatives to the Congress and its committees prior to September 20, 2008, regarding the meaning and legal effect of the Agreement.
 
-    “(d) Rule of Construction.—Nothing in the Agreement shall be construed to supersede the legal requirements of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 \[[22 U.S.C. 8001][/us/usc/t22/s8001] et seq.\] or the Atomic Energy Act of 1954.
+>     “(b) __Declarations of Policy Relating to Transfer of Nuclear Equipment, Materials, and Technology to India.—__ 
 
-    “SEC. 103. ADDITIONAL PROTOCOL BETWEEN INDIA AND THE IAEA.
+>     Congress makes the following declarations of policy:
 
-    “Congress urges the Government of India to sign and adhere to an Additional Protocol with the International Atomic Energy Agency (IAEA), consistent with IAEA principles, practices, and policies, at the earliest possible date.
+>         “(1) Pursuant to section 103(a)(6) of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 ([22 U.S.C. 8002(a)(6)][/us/usc/t22/s8002/a/6]), in the event that nuclear transfers to India are suspended or terminated pursuant to title I of such Act ([22 U.S.C. 8001][/us/usc/t22/s8001] et seq.), the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.), or any other United States law, it is the policy of the United States to seek to prevent the transfer to India of nuclear equipment, materials, or technology from other participating governments in the Nuclear Suppliers Group (NSG) or from any other source.
 
-    “SEC. 104. IMPLEMENTATION OF SAFEGUARDS AGREEMENT BETWEEN INDIA AND THE IAEA.
+>         “(2) Pursuant to section 103(b)(10) of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 ([22 U.S.C. 8002(b)(10)][/us/usc/t22/s8002/b/10]), any nuclear power reactor fuel reserve provided to the Government of India for use in safeguarded civilian nuclear facilities should be commensurate with reasonable reactor operating requirements.
 
-    “Licenses may be issued by the Nuclear Regulatory Commission for transfers pursuant to the Agreement only after the President determines and certifies to Congress that—
+>     “(c) __Certification Requirement.—__ 
 
-    “(1) the Agreement Between the Government of India and the International Atomic Energy Agency for the Application of Safeguards to Civilian Nuclear Facilities, as approved by the Board of Governors of the International Atomic Energy Agency on August 1, 2008 (the ‘Safeguards Agreement’), has entered into force; and
+>     Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to Congress that entry into force and implementation of the Agreement pursuant to its terms is consistent with the obligation of the United States under the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the ‘Nuclear Non-Proliferation Treaty’), not in any way to assist, encourage, or induce India to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices.
 
-    “(2) the Government of India has filed a declaration of facilities pursuant to paragraph 13 of the Safeguards Agreement that is not materially inconsistent with the facilities and schedule described in paragraph 14 of the separation plan presented in the national parliament of India on May 11, 2006, taking into account the later initiation of safeguards than was anticipated in the separation plan.
+>     “(d) __Rule of Construction.—__ 
 
-    “SEC. 105. MODIFIED REPORTING TO CONGRESS.
+>     Nothing in the Agreement shall be construed to supersede the legal requirements of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 \[[22 U.S.C. 8001][/us/usc/t22/s8001] et seq.\] or the Atomic Energy Act of 1954.
 
-    “\[Amended [section 8003 of this title][/us/usc/t22/s8003].\]
+> “SEC. 103. __ADDITIONAL PROTOCOL BETWEEN INDIA AND THE IAEA.__ 
 
- __“TITLE II—STRENGTHENING UNITED STATES NONPROLIFERATION LAW RELATING TO PEACEFUL NUCLEAR COOPERATION__ 
+>     “Congress urges the Government of India to sign and adhere to an Additional Protocol with the International Atomic Energy Agency (IAEA), consistent with IAEA principles, practices, and policies, at the earliest possible date.
 
-    “SEC. 201. PROCEDURES REGARDING A SUBSEQUENT ARRANGEMENT ON REPROCESSING.
+> “SEC. 104. __IMPLEMENTATION OF SAFEGUARDS AGREEMENT BETWEEN INDIA AND THE IAEA.__ 
 
-    “(a) In General.—Notwithstanding section 131 of the Atomic Energy Act of 1954 ([42 U.S.C. 2160][/us/usc/t42/s2160]), no proposed subsequent arrangement concerning arrangements and procedures regarding reprocessing or other alteration in form or content, as provided for in Article 6 of the Agreement, shall take effect until the requirements specified in subsection (b) are met.
+> “Licenses may be issued by the Nuclear Regulatory Commission for transfers pursuant to the Agreement only after the President determines and certifies to Congress that—
 
-    “(b) Requirements.—The requirements referred to in subsection (a) are the following:
+>     “(1) the Agreement Between the Government of India and the International Atomic Energy Agency for the Application of Safeguards to Civilian Nuclear Facilities, as approved by the Board of Governors of the International Atomic Energy Agency on August 1, 2008 (the ‘Safeguards Agreement’), has entered into force; and
 
-    “(1) The President transmits to the appropriate congressional committees a report containing—
+>     “(2) the Government of India has filed a declaration of facilities pursuant to paragraph 13 of the Safeguards Agreement that is not materially inconsistent with the facilities and schedule described in paragraph 14 of the separation plan presented in the national parliament of India on May 11, 2006, taking into account the later initiation of safeguards than was anticipated in the separation plan.
 
-    “(A) the reasons for entering into such proposed subsequent arrangement;
+> “SEC. 105. __MODIFIED REPORTING TO CONGRESS.__ 
 
-    “(B) a detailed description, including the text, of such proposed subsequent arrangement; and
+>     “\[Amended [section 8003 of this title][/us/usc/t22/s8003].\]
 
-    “(C) a certification that the United States will pursue efforts to ensure that any other nation that permits India to reprocess or otherwise alter in form or content nuclear material that the nation has transferred to India or nuclear material and by-product material used in or produced through the use of nuclear material, non-nuclear material, or equipment that it has transferred to India requires India to do so under similar arrangements and procedures.
+> “TITLE II— __STRENGTHENING UNITED STATES NONPROLIFERATION LAW RELATING TO PEACEFUL NUCLEAR COOPERATION__ 
 
-    “(2) A period of 30 days of continuous session (as defined by section 130 g.(2) of the Atomic Energy Act of 1954 ([42 U.S.C. 2159(g)(2)][/us/usc/t42/s2159/g/2]) has elapsed after transmittal of the report required under paragraph (1).
+> “SEC. 201. __PROCEDURES REGARDING A SUBSEQUENT ARRANGEMENT ON REPROCESSING.__ 
 
-    “(c) Resolution of Disapproval.—Notwithstanding the requirements in subsection (b) having been met, a subsequent arrangement referred to in subsection (a) shall not become effective if during the time specified in subsection (b)(2), Congress adopts, and there is enacted, a joint resolution stating in substance that Congress does not favor such subsequent arrangement. Any such resolution shall be considered pursuant to the procedures set forth in section 130 i. of the Atomic Energy Act of 1954 ([42 U.S.C. 2159(i)][/us/usc/t42/s2159/i]), as amended by section 205 of this Act.
+>     “(a) __In General.—__ 
 
-    “SEC. 202. INITIATIVES AND NEGOTIATIONS RELATING TO AGREEMENTS FOR PEACEFUL NUCLEAR COOPERATION.
+>     Notwithstanding section 131 of the Atomic Energy Act of 1954 ([42 U.S.C. 2160][/us/usc/t42/s2160]), no proposed subsequent arrangement concerning arrangements and procedures regarding reprocessing or other alteration in form or content, as provided for in Article 6 of the Agreement, shall take effect until the requirements specified in subsection (b) are met.
 
-    “\[Amended [section 2153 of Title 42][/us/usc/t42/s2153], The Public Health and Welfare.\]
+>     “(b) __Requirements.—__ 
 
-    “SEC. 203. ACTIONS REQUIRED FOR RESUMPTION OF PEACEFUL NUCLEAR COOPERATION.
+>     The requirements referred to in subsection (a) are the following:
 
-    “\[Amended [section 2158 of Title 42][/us/usc/t42/s2158].\]
+>         “(1)
 
-    “SEC. 204. UNITED STATES GOVERNMENT POLICY AT THE NUCLEAR SUPPLIERS GROUP TO STRENGTHEN THE INTERNATIONAL NUCLEAR NONPROLIFERATION REGIME.
+>          The President transmits to the appropriate congressional committees a report containing—
 
-    “(a) Certification.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to the appropriate congressional committees that it is the policy of the United States to work with members of the Nuclear Suppliers Group (NSG), individually and collectively, to agree to further restrict the transfers of equipment and technology related to the enrichment of uranium and reprocessing of spent nuclear fuel.
+>             “(A) the reasons for entering into such proposed subsequent arrangement;
 
-    “(b) Peaceful Use Assurances for Certain By-Product Material.—The President shall seek to achieve, by the earliest possible date, either within the NSG or with relevant NSG Participating Governments, the adoption of principles, reporting, and exchanges of information as may be appropriate to assure peaceful use and accounting of by-product material in a manner that is substantially equivalent to the relevant provisions of the Agreement.
+>             “(B) a detailed description, including the text, of such proposed subsequent arrangement; and
 
-    “(c) Report.—
+>             “(C) a certification that the United States will pursue efforts to ensure that any other nation that permits India to reprocess or otherwise alter in form or content nuclear material that the nation has transferred to India or nuclear material and by-product material used in or produced through the use of nuclear material, non-nuclear material, or equipment that it has transferred to India requires India to do so under similar arrangements and procedures.
 
-    “(1) In general.—Not later than six months after the date of the enactment of this Act \[Oct. 8, 2008\], and every six months thereafter, the President shall transmit to the appropriate congressional committees a report on efforts by the United States pursuant to subsections (a) and (b).
+>         “(2) A period of 30 days of continuous session (as defined by section 130 g.(2) of the Atomic Energy Act of 1954 ([42 U.S.C. 2159(g)(2)][/us/usc/t42/s2159/g/2]) has elapsed after transmittal of the report required under paragraph (1).
 
-    “(2) Termination.—The requirement to transmit the report under paragraph (1) terminates on the date on which the President transmits a report pursuant to such paragraph stating that the objectives in subsections (a) and (b) have been achieved.
+>     “(c) __Resolution of Disapproval.—__ 
 
-    “SEC. 205. CONFORMING AMENDMENTS.
+>     Notwithstanding the requirements in subsection (b) having been met, a subsequent arrangement referred to in subsection (a) shall not become effective if during the time specified in subsection (b)(2), Congress adopts, and there is enacted, a joint resolution stating in substance that Congress does not favor such subsequent arrangement. Any such resolution shall be considered pursuant to the procedures set forth in section 130 i. of the Atomic Energy Act of 1954 ([42 U.S.C. 2159(i)][/us/usc/t42/s2159/i]), as amended by section 205 of this Act.
 
-    “\[Amended [section 2159 of Title 42][/us/usc/t42/s2159].\]”
+> “SEC. 202. __INITIATIVES AND NEGOTIATIONS RELATING TO AGREEMENTS FOR PEACEFUL NUCLEAR COOPERATION.__ 
+
+>     “\[Amended [section 2153 of Title 42][/us/usc/t42/s2153], The Public Health and Welfare.\]
+
+> “SEC. 203. __ACTIONS REQUIRED FOR RESUMPTION OF PEACEFUL NUCLEAR COOPERATION.__ 
+
+>     “\[Amended [section 2158 of Title 42][/us/usc/t42/s2158].\]
+
+> “SEC. 204. __UNITED STATES GOVERNMENT POLICY AT THE NUCLEAR SUPPLIERS GROUP TO STRENGTHEN THE INTERNATIONAL NUCLEAR NONPROLIFERATION REGIME.__ 
+
+>     “(a) __Certification.—__ 
+
+>     Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to the appropriate congressional committees that it is the policy of the United States to work with members of the Nuclear Suppliers Group (NSG), individually and collectively, to agree to further restrict the transfers of equipment and technology related to the enrichment of uranium and reprocessing of spent nuclear fuel.
+
+>     “(b) __Peaceful Use Assurances for Certain By-Product Material.—__ 
+
+>     The President shall seek to achieve, by the earliest possible date, either within the NSG or with relevant NSG Participating Governments, the adoption of principles, reporting, and exchanges of information as may be appropriate to assure peaceful use and accounting of by-product material in a manner that is substantially equivalent to the relevant provisions of the Agreement.
+
+>     “(c) __Report.—__ 
+
+>         “(1) __In general.—__ 
+
+>         Not later than six months after the date of the enactment of this Act \[Oct. 8, 2008\], and every six months thereafter, the President shall transmit to the appropriate congressional committees a report on efforts by the United States pursuant to subsections (a) and (b).
+
+>         “(2) __Termination.—__ 
+
+>         The requirement to transmit the report under paragraph (1) terminates on the date on which the President transmits a report pursuant to such paragraph stating that the objectives in subsections (a) and (b) have been achieved.
+
+> “SEC. 205. __CONFORMING AMENDMENTS.__ 
+
+>     “\[Amended [section 2159 of Title 42][/us/usc/t42/s2159].\]”
 
     \[Functions of President under [section 201(b) of Pub. L. 110–369][/us/pl/110/369/s201/b], set out above, delegated to Secretary of Energy by Memorandum of President of the United States, May 4, 2010, 75 F.R. 27155.\]
 
