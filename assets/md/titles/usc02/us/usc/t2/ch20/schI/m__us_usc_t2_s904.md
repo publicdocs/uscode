@@ -139,7 +139,7 @@
 
         (1) __Reporting requirement__ 
 
-            On the dates specified in subsection (a) of this section, OMB and CBO shall issue a preview report regarding discretionary, pay-as-you-go, and deficit sequestration based on laws enacted through those dates.
+            On the dates specified in subsection (a), OMB and CBO shall issue a preview report regarding discretionary, pay-as-you-go, and deficit sequestration based on laws enacted through those dates.
 
         (2) __Discretionary sequestration report__ 
 
@@ -177,17 +177,17 @@
 
     (d) __Notification regarding military personnel__ 
 
-        On or before the date specified in subsection (a) of this section, the President shall notify the Congress of the manner in which he intends to exercise flexibility with respect to military personnel accounts under [section 905(f) of this title][/us/usc/t2/s905/f].
+        On or before the date specified in subsection (a), the President shall notify the Congress of the manner in which he intends to exercise flexibility with respect to military personnel accounts under [section 905(f) of this title][/us/usc/t2/s905/f].
 
     (e) __Sequestration update reports__ 
 
-        On the dates specified in subsection (a) of this section, OMB and CBO shall issue a sequestration update report, reflecting laws enacted through those dates, containing all of the information required in the sequestration preview reports. This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.
+        On the dates specified in subsection (a), OMB and CBO shall issue a sequestration update report, reflecting laws enacted through those dates, containing all of the information required in the sequestration preview reports. This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.
 
     (f) __Final sequestration reports__ 
 
         (1) __Reporting requirement__ 
 
-            On the dates specified in subsection (a) of this section, OMB and CBO shall issue a final sequestration report, updated to reflect laws enacted through those dates.
+            On the dates specified in subsection (a), OMB and CBO shall issue a final sequestration report, updated to reflect laws enacted through those dates.
 
         (2) __Discretionary sequestration reports__ 
 
@@ -211,7 +211,7 @@
 
         (5) __Presidential order__ 
 
-            On the date specified in subsection (a) of this section, if in its final sequestration report OMB estimates that any sequestration is required, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
+            On the date specified in subsection (a), if in its final sequestration report OMB estimates that any sequestration is required, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
 
     (g) __Within-session sequestration reports and order__ 
 

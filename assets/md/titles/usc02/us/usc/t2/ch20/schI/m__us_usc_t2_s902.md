@@ -29,17 +29,17 @@
 
         OMB shall calculate the amount of deficit increase or decrease by adding—
 
-            (A) all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d) of this section;
+            (A) all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d);
 
             (B) the estimated amount of savings in direct spending programs applicable to the budget year resulting from the prior year’s sequestration under this section or [section 903 of this title][/us/usc/t2/s903], if any, as published in OMB’s final sequestration report for that prior year; and
 
-            (C) any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) of this section that were not reflected in the final OMB sequestration report for the current year.
+            (C) any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) that were not reflected in the final OMB sequestration report for the current year.
 
     (c) __Eliminating a deficit increase__ 
 
         (1)
 
-         The amount required to be sequestered in a fiscal year under subsection (b) of this section shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
+         The amount required to be sequestered in a fiscal year under subsection (b) shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
 
             (A) __First__ 
 
@@ -83,7 +83,7 @@
 
             (A) full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates; and
 
-            (B) emergency provisions as designated under subsection (e) of this section.
+            (B) emergency provisions as designated under subsection (e).
 
         (5) __Scorekeeping guidelines__ 
 
@@ -95,7 +95,7 @@
 
     (e) __Emergency legislation__ 
 
-        If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
+        If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d). This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
 
 ([Pub. L. 99–177, title II, § 252][/us/pl/99/177/s252], Dec. 12, 1985, [99 Stat. 1072][/us/stat/99/1072]; [Pub. L. 100–119, title I, § 102(a)][/us/pl/100/119/s102/a], Sept. 29, 1987, [101 Stat. 764][/us/stat/101/764]; [Pub. L. 100–203, title VIII, § 8003(e)][/us/pl/100/203/s8003/e], Dec. 22, 1987, [101 Stat. 1330–282][/us/stat/101/1330-282]; [Pub. L. 101–508, title XIII, § 13101(a)][/us/pl/101/508/s13101/a], Nov. 5, 1990, [104 Stat. 1388–581][/us/stat/104/1388-581]; [Pub. L. 103–66, title XIV, § 14003(a)][/us/pl/103/66/s14003/a], Aug. 10, 1993, [107 Stat. 684][/us/stat/107/684]; [Pub. L. 103–354, title I, § 119(d)(2)][/us/pl/103/354/s119/d/2], Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208]; [Pub. L. 105–33, title X, § 10205][/us/pl/105/33/s10205], Aug. 5, 1997, [111 Stat. 702][/us/stat/111/702]; [Pub. L. 113–67, div. A, title I, § 121(1)][/us/pl/113/67/s121/1], (2), Dec. 26, 2013, [127 Stat. 1174][/us/stat/127/1174], 1175.)
 

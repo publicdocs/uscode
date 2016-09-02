@@ -31,7 +31,7 @@
 
     (b) __Exceptions in House__ 
 
-    In the House of Representatives, subsection (a) of this section does not apply—
+    In the House of Representatives, subsection (a) does not apply—
 
         (1)
 

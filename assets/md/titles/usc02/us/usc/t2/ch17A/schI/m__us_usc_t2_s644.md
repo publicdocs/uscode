@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        When the Senate is considering a reconciliation bill or a reconciliation resolution pursuant to [section 641 of this title][/us/usc/t2/s641] (whether that bill or resolution originated in the Senate or the House) or [section 907d of this title][/us/usc/t2/s907d], upon a point of order being made by any Senator against material extraneous to the instructions to a committee which is contained in any title or provision of the bill or resolution or offered as an amendment to the bill or resolution, and the point of order is sustained by the Chair, any part of said title or provision that contains material extraneous to the instructions to said Committee as defined in subsection (b) of this section shall be deemed stricken from the bill and may not be offered as an amendment from the floor.
+        When the Senate is considering a reconciliation bill or a reconciliation resolution pursuant to [section 641 of this title][/us/usc/t2/s641] (whether that bill or resolution originated in the Senate or the House) or [section 907d of this title][/us/usc/t2/s907d], upon a point of order being made by any Senator against material extraneous to the instructions to a committee which is contained in any title or provision of the bill or resolution or offered as an amendment to the bill or resolution, and the point of order is sustained by the Chair, any part of said title or provision that contains material extraneous to the instructions to said Committee as defined in subsection (b) shall be deemed stricken from the bill and may not be offered as an amendment from the floor.
 
     (b) __Extraneous provisions__ 
 
@@ -37,7 +37,7 @@
 
     When the Senate is considering a conference report on, or an amendment between the Houses in relation to, a reconciliation bill or reconciliation resolution pursuant to [section 641 of this title][/us/usc/t2/s641], upon—
 
-        (1) a point of order being made by any Senator against extraneous material meeting the definition of subsections (b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F) of this section, and
+        (1) a point of order being made by any Senator against extraneous material meeting the definition of subsections (b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F), and
 
         (2) such point of order being sustained,
 
@@ -67,7 +67,7 @@
 
     Subsec. (a). [Pub. L. 101–508, § 13214(a)(1)(A)][/us/pl/101/508/s13214/a/1/A], inserted heading “In general”.
 
-    [Pub. L. 101–508, § 13214(b)(4)(B)][/us/pl/101/508/s13214/b/4/B], substituted “subsection (b) of this section” for “subsection (d) of this section”.
+    [Pub. L. 101–508, § 13214(b)(4)(B)][/us/pl/101/508/s13214/b/4/B], substituted “subsection (b)” for “subsection (d)”.
 
     [Pub. L. 101–508, § 13214(b)(4)(A)][/us/pl/101/508/s13214/b/4/A], made technical amendment to reference to [section 641 of this title][/us/usc/t2/s641] to reflect change in reference to corresponding section of original act.
 
@@ -91,7 +91,7 @@
 
     Subsec. (c). [Pub. L. 101–508, § 13214(b)(4)(F)][/us/pl/101/508/s13214/b/4/F], which directed the substitution of “this subsection” for “this resolution” in par. (2), was executed to last sentence of subsec. (c) as the probable intent of Congress.
 
-    [Pub. L. 101–508, § 13214(b)(4)(E)][/us/pl/101/508/s13214/b/4/E], substituted “(b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F) of this section” for “(d)(1)(A) or (d)(1)(D) of section 20001 of the Consolidated Omnibus Budget Reconciliation Act of 1985”.
+    [Pub. L. 101–508, § 13214(b)(4)(E)][/us/pl/101/508/s13214/b/4/E], substituted “(b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F)” for “(d)(1)(A) or (d)(1)(D) of section 20001 of the Consolidated Omnibus Budget Reconciliation Act of 1985”.
 
     [Pub. L. 101–508, § 13214(b)(4)(D)][/us/pl/101/508/s13214/b/4/D], substituted “When” for “when”.
 

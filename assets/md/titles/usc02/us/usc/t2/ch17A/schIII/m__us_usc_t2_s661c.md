@@ -31,7 +31,7 @@
 
     (c) __Exemption for mandatory programs__ 
 
-    Subsections (b) and (e) of this section shall not apply to a direct loan or loan guarantee program that—
+    Subsections (b) and (e) shall not apply to a direct loan or loan guarantee program that—
 
         (1) constitutes an entitlement (such as the guaranteed student loan program or the veterans’ home loan guaranty program); or
 

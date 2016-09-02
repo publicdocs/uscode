@@ -23,15 +23,15 @@
 
         (1) __Referral to committee__ 
 
-            A joint resolution introduced in the Senate under subsection (a) of this section shall not be referred to a committee of the Senate and shall be placed on the calendar pending disposition of such joint resolution in accordance with this subsection.
+            A joint resolution introduced in the Senate under subsection (a) shall not be referred to a committee of the Senate and shall be placed on the calendar pending disposition of such joint resolution in accordance with this subsection.
 
         (2) __Consideration in Senate__ 
 
-            On or after the third calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after a joint resolution is introduced under subsection (a) of this section, notwithstanding any rule or precedent of the Senate, including Rule XXII of the Standing Rules of the Senate, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the Senate to move to proceed to the consideration of the joint resolution. The motion is not in order after the eighth calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after a joint resolution (to which the motion applies) is introduced. The joint resolution is privileged in the Senate. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the Senate shall immediately proceed to consideration of the joint resolution without intervening motion, order, or other business, and the joint resolution shall remain the unfinished business of the Senate until disposed of.
+            On or after the third calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after a joint resolution is introduced under subsection (a), notwithstanding any rule or precedent of the Senate, including Rule XXII of the Standing Rules of the Senate, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the Senate to move to proceed to the consideration of the joint resolution. The motion is not in order after the eighth calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after a joint resolution (to which the motion applies) is introduced. The joint resolution is privileged in the Senate. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the Senate shall immediately proceed to consideration of the joint resolution without intervening motion, order, or other business, and the joint resolution shall remain the unfinished business of the Senate until disposed of.
 
         (3) __Debate in Senate__ 
 
-            (A) In the Senate, debate on a joint resolution introduced under subsection (a) of this section, amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
+            (A) In the Senate, debate on a joint resolution introduced under subsection (a), amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
 
             (B) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the joint resolution is agreed to or disagreed to is not in order, and a motion to recommit the joint resolution is not in order.
 
@@ -43,7 +43,7 @@
 
         (4) __Vote on final passage__ 
 
-            Immediately following the conclusion of the debate on a joint resolution introduced under subsection (a) of this section, a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate, and the disposition of any pending amendments under paragraph (3), the vote on final passage of the joint resolution shall occur.
+            Immediately following the conclusion of the debate on a joint resolution introduced under subsection (a), a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate, and the disposition of any pending amendments under paragraph (3), the vote on final passage of the joint resolution shall occur.
 
         (5) __Appeals__ 
 
@@ -55,13 +55,13 @@
 
         (7) __Resolution from other House__ 
 
-        If, before the passage by the Senate of a joint resolution of the Senate introduced under subsection (a) of this section, the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) of this section, then the following procedures shall apply:
+        If, before the passage by the Senate of a joint resolution of the Senate introduced under subsection (a), the Senate receives from the House of Representatives a joint resolution introduced under subsection (a), then the following procedures shall apply:
 
             (A) The joint resolution of the House of Representatives shall not be referred to a committee and shall be placed on the calendar.
 
             (B)
 
-             With respect to a joint resolution introduced under subsection (a) of this section in the Senate—
+             With respect to a joint resolution introduced under subsection (a) in the Senate—
 
                 (i) the procedure in the Senate shall be the same as if no joint resolution had been received from the House; but
 
@@ -75,7 +75,7 @@
 
         (8) __Senate action on House resolution__ 
 
-            If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) of this section after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
+            If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
 
 ([Pub. L. 99–177, title II, § 258A][/us/pl/99/177/s258A], as added [Pub. L. 101–508, title XIII, § 13101(f)][/us/pl/101/508/s13101/f], Nov. 5, 1990, [104 Stat. 1388–595][/us/stat/104/1388-595].)
 

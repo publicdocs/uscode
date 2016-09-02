@@ -61,7 +61,7 @@
 
         (2) __Limit on debate__ 
 
-            Debate in the Senate on any resolution reported pursuant to subsection (a)(2) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
+            Debate in the Senate on any resolution reported pursuant to subsection (a)(2), and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
 
         (3) __Limitation on amendments__ 
 

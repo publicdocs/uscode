@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        When a committee of authorization of the Senate or the House of Representatives reports a bill or joint resolution of public character that includes any Federal mandate, the report of the committee accompanying the bill or joint resolution shall contain the information required by subsections (c) and (d) of this section.
+        When a committee of authorization of the Senate or the House of Representatives reports a bill or joint resolution of public character that includes any Federal mandate, the report of the committee accompanying the bill or joint resolution shall contain the information required by subsections (c) and (d).
 
     (b) __Submission of bills to Director__ 
 
@@ -25,7 +25,7 @@
 
     (c) __Reports on Federal mandates__ 
 
-    Each report described under subsection (a) of this section shall contain—
+    Each report described under subsection (a) shall contain—
 
         (1) an identification and description of any Federal mandates in the bill or joint resolution, including the direct costs to State, local, and tribal governments, and to the private sector, required to comply with the Federal mandates;
 
@@ -35,7 +35,7 @@
 
     (d) __Intergovernmental mandates__ 
 
-    If any of the Federal mandates in the bill or joint resolution are Federal intergovernmental mandates, the report required under subsection (a) of this section shall also contain—
+    If any of the Federal mandates in the bill or joint resolution are Federal intergovernmental mandates, the report required under subsection (a) shall also contain—
 
         (1)
 

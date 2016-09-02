@@ -55,7 +55,7 @@
 
     (c) __Statewide Congressional Award Councils; establishment, purposes, duties, etc.__ 
 
-        (1) In carrying out its functions with respect to Statewide Congressional Award Councils (hereinafter in this subsection referred to as Statewide Councils) under subsection (b) of this section, the Board shall develop guidelines, criteria, and standards for the formation of Statewide Councils. In order to create a Statewide Council, Members of Congress and Senators from each respective State are encouraged to work jointly with the Board.
+        (1) In carrying out its functions with respect to Statewide Congressional Award Councils (hereinafter in this subsection referred to as Statewide Councils) under subsection (b), the Board shall develop guidelines, criteria, and standards for the formation of Statewide Councils. In order to create a Statewide Council, Members of Congress and Senators from each respective State are encouraged to work jointly with the Board.
 
         (2)
 

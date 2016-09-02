@@ -25,7 +25,7 @@
 
     (c) __Access to data__ 
 
-        For the purposes of subsection (b) of this section, the Office of Management and Budget and the Congressional Budget Office shall have access to all agency data that may facilitate these studies.
+        For the purposes of subsection (b), the Office of Management and Budget and the Congressional Budget Office shall have access to all agency data that may facilitate these studies.
 
 ([Pub. L. 93–344, title V, § 506][/us/pl/93/344/s506], as added [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–614][/us/stat/104/1388-614]; amended [Pub. L. 105–33, title X, § 10117(d)][/us/pl/105/33/s10117/d], Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695].)
 
@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–33][/us/pl/105/33] struck out subsec. (a) designation and heading, redesignated pars. (1) to (3) of former subsec. (a) as subsecs. (a) to (c), respectively, inserted subsec. headings, and substituted “subsection (b) of this section” for “paragraph (2)” in subsec. (c).
+    1997—[Pub. L. 105–33][/us/pl/105/33] struck out subsec. (a) designation and heading, redesignated pars. (1) to (3) of former subsec. (a) as subsecs. (a) to (c), respectively, inserted subsec. headings, and substituted “subsection (b)” for “paragraph (2)” in subsec. (c).
 
 ----------
 

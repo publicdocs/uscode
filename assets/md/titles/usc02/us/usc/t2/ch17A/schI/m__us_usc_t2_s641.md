@@ -41,7 +41,7 @@
 
     (b) __Legislative procedure__ 
 
-    If a concurrent resolution containing directives to one or more committees to determine and recommend changes in laws, bills, or resolutions is agreed to in accordance with subsection (a) of this section, and—
+    If a concurrent resolution containing directives to one or more committees to determine and recommend changes in laws, bills, or resolutions is agreed to in accordance with subsection (a), and—
 
         (1) only one committee of the House or the Senate is directed to determine and recommend changes, that committee shall promptly make such determination and recommendations and report to its House reconciliation legislation containing such recommendations; or
 
@@ -53,7 +53,7 @@
 
         (1)
 
-         Any committee of the House of Representatives or the Senate that is directed, pursuant to a concurrent resolution on the budget, to determine and recommend changes of the type described in paragraphs (1) and (2) of subsection (a) of this section with respect to laws within its jurisdiction, shall be deemed to have complied with such directions—
+         Any committee of the House of Representatives or the Senate that is directed, pursuant to a concurrent resolution on the budget, to determine and recommend changes of the type described in paragraphs (1) and (2) of subsection (a) with respect to laws within its jurisdiction, shall be deemed to have complied with such directions—
 
             (A)
 
@@ -101,9 +101,9 @@
 
     (e) __Procedure in Senate__ 
 
-        (1) Except as provided in paragraph (2), the provisions of [section 636 of this title][/us/usc/t2/s636] for the consideration in the Senate of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration in the Senate of reconciliation bills reported under subsection (b) of this section and conference reports thereon.
+        (1) Except as provided in paragraph (2), the provisions of [section 636 of this title][/us/usc/t2/s636] for the consideration in the Senate of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration in the Senate of reconciliation bills reported under subsection (b) and conference reports thereon.
 
-        (2) Debate in the Senate on any reconciliation bill reported under subsection (b) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
+        (2) Debate in the Senate on any reconciliation bill reported under subsection (b), and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
 
     (f) __Completion of reconciliation process__ 
 

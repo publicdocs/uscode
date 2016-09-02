@@ -41,7 +41,7 @@
 
         (1)
 
-         Subsections (a) and (b) of this section shall not apply to new authority described in those subsections if outlays from that new authority will flow—
+         Subsections (a) and (b) shall not apply to new authority described in those subsections if outlays from that new authority will flow—
 
             (A) from a trust fund established by the Social Security Act (as in effect on July 12, 1974) \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\]; or
 
@@ -49,7 +49,7 @@
 
         (2)
 
-         Subsections (a) and (b) of this section shall not apply to new authority described in those subsections to the extent that—
+         Subsections (a) and (b) shall not apply to new authority described in those subsections to the extent that—
 
             (A) the outlays resulting therefrom are made by an organization which is (i) a mixed-ownership Government corporation (as defined in [section 9101(2) of title 31][/us/usc/t31/s9101/2]), or (ii) a wholly owned Government corporation (as defined in [section 9101(3) of title 31][/us/usc/t31/s9101/3]) which is specifically exempted by law from compliance with any or all of the provisions of chapter 91 of title 31, as of December 12, 1985; or
 

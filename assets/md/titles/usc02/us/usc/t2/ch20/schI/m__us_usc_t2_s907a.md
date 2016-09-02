@@ -57,7 +57,7 @@
 
     (b) __Suspension of sequestration procedures__ 
 
-    Upon the enactment of a declaration of war or a joint resolution described in subsection (a) of this section—
+    Upon the enactment of a declaration of war or a joint resolution described in subsection (a)—
 
         (1) the subsequent issuance of any sequestration report or any sequestration order is precluded;
 
@@ -67,9 +67,9 @@
 
     (c) __Restoration of sequestration procedures__ 
 
-        (1) In the event of a suspension of sequestration procedures due to a declaration of war, then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) of this section triggered by that declaration of war are no longer effective.
+        (1) In the event of a suspension of sequestration procedures due to a declaration of war, then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) triggered by that declaration of war are no longer effective.
 
-        (2) In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a) of this section, then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) of this section triggered by that resolution are no longer effective.
+        (2) In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a), then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) triggered by that resolution are no longer effective.
 
 ([Pub. L. 99–177, title II, § 258][/us/pl/99/177/s258], as added [Pub. L. 101–508, title XIII, § 13101(f)][/us/pl/101/508/s13101/f], Nov. 5, 1990, [104 Stat. 1388–593][/us/stat/104/1388-593]; amended [Pub. L. 113–67, div. A, title I, § 121(10)][/us/pl/113/67/s121/10], Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 

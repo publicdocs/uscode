@@ -135,7 +135,7 @@
 
         (2) __Transfer__ 
 
-            Subsection (g) of this section shall only apply to amounts which remain unexpended on and after the date the Board certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
+            Subsection (g) shall only apply to amounts which remain unexpended on and after the date the Board certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
 
     (j)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. No subsec. (i) has been enacted.__  __ </sup></sup> __  __Eligible foreign state defined__ 
 

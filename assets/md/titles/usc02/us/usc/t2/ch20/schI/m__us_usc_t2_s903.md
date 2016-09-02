@@ -27,7 +27,7 @@
 
         (2) the amounts for that year designated as emergency direct spending or receipts legislation under [section 902(e) of this title][/us/usc/t2/s902/e]; and
 
-        (3) for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimate for that year, if any, calculated under subsection (h) of this section.
+        (3) for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimate for that year, if any, calculated under subsection (h).
 
         The “margin” for fiscal year 1992 or 1993 is zero and for fiscal year 1994 or 1995 is $15,000,000,000.
 
@@ -37,7 +37,7 @@
 
     (d) __Defense__ 
 
-        Each non-exempt defense account shall be reduced by a dollar amount calculated by multiplying the level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to carry out subsection (c) of this section, except that, if any military personnel are exempt, adjustments shall be made under the procedure set forth in [section 901(a)(3) of this title][/us/usc/t2/s901/a/3].
+        Each non-exempt defense account shall be reduced by a dollar amount calculated by multiplying the level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to carry out subsection (c), except that, if any military personnel are exempt, adjustments shall be made under the procedure set forth in [section 901(a)(3) of this title][/us/usc/t2/s901/a/3].
 
     (e) __Non-defense__ 
 
@@ -55,7 +55,7 @@
 
             (A)
 
-             If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c) of this section, except that—
+             If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c), except that—
 
                 (i) the medicare program specified in [section 906(d) of this title][/us/usc/t2/s906/d] shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under [section 902 of this title][/us/usc/t2/s902] or, if it has been reduced by 2 percent or more under [section 902 of this title][/us/usc/t2/s902], it may not be further reduced under this section; and
 
@@ -69,11 +69,11 @@
 
         (1) __Budget assumptions__ 
 
-            For purposes of subsections (b), (c), (d), and (e) of this section, accounts shall be assumed to be at the level in the baseline minus any reductions required to be made under sections 901 and 902 of this title.
+            For purposes of subsections (b), (c), (d), and (e), accounts shall be assumed to be at the level in the baseline minus any reductions required to be made under sections 901 and 902 of this title.
 
         (2) __Part-year appropriations__ 
 
-        If, on the date specified in subsection (a) of this section, there is in effect an Act making or continuing appropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e) of this section, as applicable, shall be subtracted from—
+        If, on the date specified in subsection (a), there is in effect an Act making or continuing appropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e), as applicable, shall be subtracted from—
 
             (A) the annualized amount otherwise available by law in that account under that or a subsequent part-year appropriation; and
 

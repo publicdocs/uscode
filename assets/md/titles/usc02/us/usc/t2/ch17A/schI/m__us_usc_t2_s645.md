@@ -21,7 +21,7 @@
 
     (b) __Application of adjustments__ 
 
-    The adjustments made pursuant to subsection (a) of this section for legislation shall—
+    The adjustments made pursuant to subsection (a) for legislation shall—
 
         (1) apply while that legislation is under consideration;
 
@@ -31,7 +31,7 @@
 
     (c) __Reporting revised suballocations__ 
 
-        Following any adjustment made under subsection (a) of this section, the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under [section 633(b) of this title][/us/usc/t2/s633/b] to carry out this section.
+        Following any adjustment made under subsection (a), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under [section 633(b) of this title][/us/usc/t2/s633/b] to carry out this section.
 
     (d) __Emergencies in the House of Representatives__ 
 

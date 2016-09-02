@@ -67,7 +67,7 @@
 
     (c) __Legislation falling below direct costs thresholds__ 
 
-        If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and (b) of this section, the Director shall so state and shall briefly explain the basis of the estimate.
+        If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and (b), the Director shall so state and shall briefly explain the basis of the estimate.
 
     (d) __Amended bills and joint resolutions; conference reports__ 
 

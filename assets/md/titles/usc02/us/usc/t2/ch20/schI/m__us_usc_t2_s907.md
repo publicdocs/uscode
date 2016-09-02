@@ -47,7 +47,7 @@
 
     (c) __Discretionary appropriations__ 
 
-    For the budget year and each outyear, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b) of this section:
+    For the budget year and each outyear, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b):
 
         (1) __Inflation of current-year appropriations__ 
 
