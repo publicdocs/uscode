@@ -153,6 +153,34 @@
 
     Amendment by [Pub. L. 93–596][/us/pl/93/596] effective Jan. 2, 1975, see [section 4 of Pub. L. 93–596][/us/pl/93/596/s4], set out as a note under [section 1111 of Title 15][/us/usc/t15/s1111], Commerce and Trade.
 
+ __USPTO Law School Clinic Certification Program__ 
+
+[Pub. L. 113–227][/us/pl/113/227], Dec. 16, 2014, [128 Stat. 2114][/us/stat/128/2114], provided that:
+
+>     “(a)  __Establishment__  __.—__ 
+
+>     The Law School Clinic Certification Program of the United States Patent and Trademark Office, as implemented by the Office, is established as a program entitled the ‘Law School Clinic Certification Program’. The Program shall allow students enrolled in a participating law school’s clinic to practice patent and trademark law before the Office by drafting, filing, and prosecuting patent or trademark applications, or both, on a pro-bono basis for clients that qualify for assistance from the law school’s clinic. The Director shall establish regulations and procedures for application to and participation in the Program. All law schools accredited by the American Bar Association are eligible for participation in the Program, and shall be examined for acceptance using identical criteria established by the Director. The Program shall be in effect for the 10-year period beginning on the date of the enactment of this Act \[Dec. 16, 2014\].
+
+>     “(b)  __Report on the Program__  __.—__ 
+
+>     The Director shall, not later than the last day of the 2-year period beginning on the date of the enactment of this Act, submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the Program, describing the number of law schools and law students participating in the Program, the work done through the Program, the benefits of the Program, and any recommendations of the Director for modifications to the Program.
+
+>     “(c)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Office__  __.—__ 
+
+>         The term ‘Office’ means the United States Patent and Trademark Office.
+
+>         “(2)  __Program__  __.—__ 
+
+>         The term ‘Program’ means the Law School Clinic Certification Program established in subsection (a).
+
+>         “(3)  __Director__  __.—__ 
+
+>         The term ‘Director’ means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.”
+
  __Patent Ombudsman Program for Small Business Concerns__ 
 
 [Pub. L. 112–29, § 28][/us/pl/112/29/s28], Sept. 16, 2011, [125 Stat. 339][/us/stat/125/339], provided that: 
@@ -256,6 +284,8 @@
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/596/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs4
 [/us/usc/t15/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1111
+[/us/pl/113/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F227
+[/us/stat/128/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2114
 [/us/pl/112/29/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs28
 [/us/stat/125/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F339
 [/us/pl/112/29/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs32

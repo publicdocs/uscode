@@ -27,7 +27,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on Title 35, U.S.C., 1946 ed., § 47 (R.S. 4898, amended (1) [Mar. 3, 1897, ch. 391, § 5][/us/act/1897-03-03/ch391/s5], [29 Stat. 93][/us/stat/29/93], (2) [Feb. 18, 1922, ch. 58, § 6][/us/act/1922-02-18/ch58/s6], [42 Stat. 391][/us/stat/42/391], (3) [Aug. 18, 1941, ch. 370][/us/act/1941-08-18/ch370], [55 Stat. 634][/us/stat/55/634]).
+    Based on Title 35, U.S.C., 1946 ed., § 47 (R.S. 4898, amended (1) [Mar. 3, 1897, ch. 391, § 5][/us/act/1897-03-03/ch391/s5], [29 Stat. 93][/us/stat/29/93] \[[29 Stat. 693][/us/stat/29/693]\], (2) [Feb. 18, 1922, ch. 58, § 6][/us/act/1922-02-18/ch58/s6], [42 Stat. 391][/us/stat/42/391], (3) [Aug. 18, 1941, ch. 370][/us/act/1941-08-18/ch370], [55 Stat. 634][/us/stat/55/634]).
 
     The first paragraph is new but is declaratory only. The second paragraph is the same as in the corresponding section of existing statute. The third paragraph is from the existing statute, a specific reference to another statute is omitted. The fourth paragraph is the same as the existing statute but language has been changed.
 
@@ -68,6 +68,7 @@
 [/us/stat/126/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1535
 [/us/act/1897-03-03/ch391/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391%2Fs5
 [/us/stat/29/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F93
+[/us/stat/29/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F693
 [/us/act/1922-02-18/ch58/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-18%2Fch58%2Fs6
 [/us/stat/42/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F391
 [/us/act/1941-08-18/ch370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch370

@@ -107,7 +107,7 @@
 
 >             “(A)  __In general__  __.—__ 
 
->             This subsection, and the regulations issued under this subsection, are repealed effective upon the expiration of the 8-year period beginning on the date that the regulations issued under to \[sic\] paragraph (1) take effect.
+>             This subsection, and the regulations issued under this subsection, are repealed effective upon the expiration of the 8-year period beginning on the date that the regulations issued under to \[sic\] paragraph (1) take effect \[Regulations effective Sept. 16, 2012, see 77 F.R. 48680.\].
 
 >             “(B)  __Applicability__  __.—__ 
 
