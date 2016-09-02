@@ -15,7 +15,7 @@
 
 ## § 1101. Unauthorized fixation and trafficking in sound recordings and music videos
 
-    (a) __Unauthorized Acts.—__ 
+    (a)  __Unauthorized Acts__  __.—__ 
 
     Anyone who, without the consent of the performer or performers involved—
 
@@ -27,15 +27,15 @@
 
         shall be subject to the remedies provided in sections 502 through 505, to the same extent as an infringer of copyright.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     In this section, the term “traffic” has the same meaning as in section 2320(e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 18.
 
-    (c) __Applicability.—__ 
+    (c)  __Applicability__  __.—__ 
 
     This section shall apply to any act or acts that occur on or after the date of the enactment of the Uruguay Round Agreements Act.
 
-    (d) __State Law Not Preempted.—__ 
+    (d)  __State Law Not Preempted__  __.—__ 
 
     Nothing in this section may be construed to annul or limit any rights or remedies under the common law or statutes of any State.
 

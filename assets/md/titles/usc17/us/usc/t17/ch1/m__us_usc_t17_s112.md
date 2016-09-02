@@ -57,7 +57,7 @@
 
         (3) the governmental body or nonprofit organization permitting any use of any such copy or phonorecord by any governmental body or nonprofit organization under this subsection does not make any charge for such use.
 
-    (e) __Statutory License.—__ 
+    (e)  __Statutory License__  __.—__ 
 
         (1)
 

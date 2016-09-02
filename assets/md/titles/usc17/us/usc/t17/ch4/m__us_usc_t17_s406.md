@@ -15,7 +15,7 @@
 
 ## § 406. Notice of copyright: Error in name or date on certain copies and phonorecords
 
-    (a) __Error in Name.—__ 
+    (a)  __Error in Name__  __.—__ 
 
     With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where the person named in the copyright notice on copies or phonorecords publicly distributed by authority of the copyright owner is not the owner of copyright, the validity and ownership of the copyright are not affected. In such a case, however, any person who innocently begins an undertaking that infringes the copyright has a complete defense to any action for such infringement if such person proves that he or she was misled by the notice and began the undertaking in good faith under a purported transfer or license from the person named therein, unless before the undertaking was begun—
 
@@ -25,11 +25,11 @@
 
         The person named in the notice is liable to account to the copyright owner for all receipts from transfers or licenses purportedly made under the copyright by the person named in the notice.
 
-    (b) __Error in Date.—__ 
+    (b)  __Error in Date__  __.—__ 
 
     When the year date in the notice on copies or phonorecords distributed before the effective date of the Berne Convention Implementation Act of 1988 by authority of the copyright owner is earlier than the year in which publication first occurred, any period computed from the year of first publication under section 302 is to be computed from the year in the notice. Where the year date is more than one year later than the year in which publication first occurred, the work is considered to have been published without any notice and is governed by the provisions of section 405.
 
-    (c) __Omission of Name or Date.—__ 
+    (c)  __Omission of Name or Date__  __.—__ 
 
     Where copies or phonorecords publicly distributed before the effective date of the Berne Convention Implementation Act of 1988 by authority of the copyright owner contain no name or no date that could reasonably be considered a part of the notice, the work is considered to have been published without any notice and is governed by the provisions of section 405 as in effect on the day before the effective date of the Berne Convention Implementation Act of 1988.
 

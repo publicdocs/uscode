@@ -15,11 +15,11 @@
 
 ## § 104. Subject matter of copyright: National origin
 
-    (a) __Unpublished Works.—__ 
+    (a)  __Unpublished Works__  __.—__ 
 
     The works specified by sections 102 and 103, while unpublished, are subject to protection under this title without regard to the nationality or domicile of the author.
 
-    (b) __Published Works.—__ 
+    (b)  __Published Works__  __.—__ 
 
     The works specified by sections 102 and 103, when published, are subject to protection under this title if—
 
@@ -37,11 +37,11 @@
 
         For purposes of paragraph (2), a work that is published in the United States or a treaty party within 30 days after publication in a foreign nation that is not a treaty party shall be considered to be first published in the United States or such treaty party, as the case may be.
 
-    (c) __Effect of Berne Convention.—__ 
+    (c)  __Effect of Berne Convention__  __.—__ 
 
     No right or interest in a work eligible for protection under this title may be claimed by virtue of, or in reliance upon, the provisions of the Berne Convention, or the adherence of the United States thereto. Any rights in a work eligible for protection under this title that derive from this title, other Federal or State statutes, or the common law, shall not be expanded or reduced by virtue of, or in reliance upon, the provisions of the Berne Convention, or the adherence of the United States thereto.
 
-    (d) __Effect of Phonograms Treaties.—__ 
+    (d)  __Effect of Phonograms Treaties__  __.—__ 
 
     Notwithstanding the provisions of subsection (b), no works other than sound recordings shall be eligible for protection under this title solely by virtue of the adherence of the United States to the Geneva Phonograms Convention or the WIPO Performances and Phonograms Treaty.
 

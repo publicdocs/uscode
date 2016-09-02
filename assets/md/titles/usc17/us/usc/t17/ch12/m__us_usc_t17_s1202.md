@@ -15,7 +15,7 @@
 
 ## § 1202. Integrity of copyright management information
 
-    (a) __False Copyright Management Information.—__ 
+    (a)  __False Copyright Management Information__  __.—__ 
 
     No person shall knowingly and with the intent to induce, enable, facilitate, or conceal infringement—
 
@@ -23,7 +23,7 @@
 
         (2) distribute or import for distribution copyright management information that is false.
 
-    (b) __Removal or Alteration of Copyright Management Information.—__ 
+    (b)  __Removal or Alteration of Copyright Management Information__  __.—__ 
 
     No person shall, without the authority of the copyright owner or the law—
 
@@ -35,7 +35,7 @@
 
         knowing, or, with respect to civil remedies under section 1203, having reasonable grounds to know, that it will induce, enable, facilitate, or conceal an infringement of any right under this title.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     As used in this section, the term “copyright management information” means any of the following information conveyed in connection with copies or phonorecords of a work or performances or displays of a work, including in digital form, except that such term does not include any personally identifying information about a user of a work or of a copy, phonorecord, performance, or display of a work:
 
@@ -55,13 +55,13 @@
 
         (8) Such other information as the Register of Copyrights may prescribe by regulation, except that the Register of Copyrights may not require the provision of any information concerning the user of a copyrighted work.
 
-    (d) __Law Enforcement, Intelligence, and Other Government Activities.—__ 
+    (d)  __Law Enforcement, Intelligence, and Other Government Activities__  __.—__ 
 
     This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term “information security” means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network.
 
     (e) __Limitations on Liability.—__ 
 
-        (1) __Analog transmissions.—__ 
+        (1)  __Analog transmissions__  __.—__ 
 
         In the case of an analog transmission, a person who is making transmissions in its capacity as a broadcast station, or as a cable system, or someone who provides programming to such station or system, shall not be liable for a violation of subsection (b) if—
 
@@ -95,7 +95,7 @@
 
                     (III) an applicable industry-wide standard relating to the transmission of information in a digital signal that was adopted in a voluntary, consensus standards-setting process open to participation by a representative cross-section of broadcast stations or cable systems and copyright owners of a category of works that are intended for public performance by such stations or systems.
 
-        (3) __Definitions.—__ 
+        (3)  __Definitions__  __.—__ 
 
         As used in this subsection—
 

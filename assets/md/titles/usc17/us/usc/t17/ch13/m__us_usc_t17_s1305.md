@@ -15,15 +15,15 @@
 
 ## § 1305. Term of protection
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to subsection (b), the protection provided under this chapter for a design shall continue for a term of 10 years beginning on the date of the commencement of protection under section 1304.
 
-    (b) __Expiration.—__ 
+    (b)  __Expiration__  __.—__ 
 
     All terms of protection provided in this section shall run to the end of the calendar year in which they would otherwise expire.
 
-    (c) __Termination of Rights.—__ 
+    (c)  __Termination of Rights__  __.—__ 
 
     Upon expiration or termination of protection in a particular design under this chapter, all rights under this chapter in the design shall terminate, regardless of the number of different articles in which the design may have been used during the term of its protection.
 

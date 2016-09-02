@@ -15,7 +15,7 @@
 
 ## § 111. Limitations on exclusive rights: Secondary transmissions of broadcast programming by cable
 
-    (a) __Certain Secondary Transmissions Exempted.—__ 
+    (a)  __Certain Secondary Transmissions Exempted__  __.—__ 
 
     The secondary transmission of a performance or display of a work embodied in a primary transmission is not an infringement of copyright if—
 
@@ -29,7 +29,7 @@
 
         (5) the secondary transmission is not made by a cable system but is made by a governmental body, or other nonprofit organization, without any purpose of direct or indirect commercial advantage, and without charge to the recipients of the secondary transmission other than assessments necessary to defray the actual and reasonable costs of maintaining and operating the secondary transmission service.
 
-    (b) __Secondary Transmission of Primary Transmission to Controlled Group.—__ 
+    (b)  __Secondary Transmission of Primary Transmission to Controlled Group__  __.—__ 
 
     Notwithstanding the provisions of subsections (a) and (c), the secondary transmission to the public of a performance or display of a work embodied in a primary transmission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if the primary transmission is not made for reception by the public at large but is controlled and limited to reception by particular members of the public: Provided, however, That such secondary transmission is not actionable as an act of infringement if—
 
@@ -57,7 +57,7 @@
 
     (d) __Statutory License for Secondary Transmissions by Cable Systems.—__ 
 
-        (1) __Statement of account and royalty fees.—__ 
+        (1)  __Statement of account and royalty fees__  __.—__ 
 
         Subject to paragraph (5), a cable system whose secondary transmissions have been subject to statutory licensing under subsection (c) shall, on a semiannual basis, deposit with the Register of Copyrights, in accordance with requirements that the Register shall prescribe by regulation the following:
 
@@ -111,11 +111,11 @@
 
             (G) A filing fee, as determined by the Register of Copyrights pursuant to section 708(a).
 
-        (2) __Handling of fees.—__ 
+        (2)  __Handling of fees__  __.—__ 
 
         The Register of Copyrights shall receive all fees (including the filing fee specified in paragraph (1)(G)) deposited under this section and, after deducting the reasonable costs incurred by the Copyright Office under this section, shall deposit the balance in the Treasury of the United States, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Librarian of Congress upon authorization by the Copyright Royalty Judges.
 
-        (3) __Distribution of royalty fees to copyright owners.—__ 
+        (3)  __Distribution of royalty fees to copyright owners__  __.—__ 
 
         The royalty fees thus deposited shall, in accordance with the procedures provided by clause (4), be distributed to those among the following copyright owners who claim that their works were the subject of secondary transmissions by cable systems during the relevant semiannual period:
 
@@ -125,7 +125,7 @@
 
             (C) Any such owner whose work was included in non-network programming consisting exclusively of aural signals carried by a cable system in whole or in part beyond the local service area of the primary transmitter of such programs.
 
-        (4) __Procedures for royalty fee distribution.—__ 
+        (4)  __Procedures for royalty fee distribution__  __.—__ 
 
         The royalty fees thus deposited shall be distributed in accordance with the following procedures:
 
@@ -135,11 +135,11 @@
 
             (C) During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall have the discretion to authorize the Librarian of Congress to proceed to distribute any amounts that are not in controversy.
 
-        (5) __3.75 percent rate and syndicated exclusivity surcharge not applicable to multicast streams.—__ 
+        (5) __3.75__  __percent rate and syndicated exclusivity surcharge not applicable to multicast streams__  __.—__ 
 
         The royalty rates specified in sections 256.2(c) and 256.2(d) of title 37, Code of Federal Regulations (commonly referred to as the “3.75 percent rate” and the “syndicated exclusivity surcharge”, respectively), as in effect on the date of the enactment of the Satellite Television Extension and Localism Act of 2010, as such rates may be adjusted, or such sections redesignated, thereafter by the Copyright Royalty Judges, shall not apply to the secondary transmission of a multicast stream.
 
-        (6) __Verification of accounts and fee payments.—__ 
+        (6)  __Verification of accounts and fee payments__  __.—__ 
 
         The Register of Copyrights shall issue regulations to provide for the confidential verification by copyright owners whose works were embodied in the secondary transmissions of primary transmissions pursuant to this section of the information reported on the semiannual statements of account filed under this subsection for accounting periods beginning on or after January 1, 2010, in order that the auditor designated under subparagraph (A) is able to confirm the correctness of the calculations and royalty payments reported therein. The regulations shall—
 
@@ -165,7 +165,7 @@
 
             (E) permit requests for verification of a statement of account to be made only within 3 years after the last day of the year in which the statement of account is filed.
 
-        (7) __Acceptance of additional deposits.—__ 
+        (7)  __Acceptance of additional deposits__  __.—__ 
 
         Any royalty fee payments received by the Copyright Office from cable systems for the secondary transmission of primary transmissions that are in addition to the payments calculated and deposited in accordance with this subsection shall be deemed to have been deposited for the particular accounting period for which they are received and shall be distributed as specified under this subsection.
 
@@ -201,29 +201,29 @@
 
         (4) As used in this subsection, the term “videotape” means the reproduction of the images and sounds of a program or programs broadcast by a television broadcast station licensed by the Federal Communications Commission, regardless of the nature of the material objects, such as tapes or films, in which the reproduction is embodied.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     As used in this section, the following terms mean the following:
 
-        (1) __Primary transmission.—__ 
+        (1)  __Primary transmission__  __.—__ 
 
         A “primary transmission” is a transmission made to the public by a transmitting facility whose signals are being received and further transmitted by a secondary transmission service, regardless of where or when the performance or display was first transmitted. In the case of a television broadcast station, the primary stream and any multicast streams transmitted by the station constitute primary transmissions.
 
-        (2) __Secondary transmission.—__ 
+        (2)  __Secondary transmission__  __.—__ 
 
         A “secondary transmission” is the further transmitting of a primary transmission simultaneously with the primary transmission, or nonsimultaneously with the primary transmission if by a cable system not located in whole or in part within the boundary of the forty-eight contiguous States, Hawaii, or Puerto Rico: Provided, however, That a nonsimultaneous further transmission by a cable system located in Hawaii of a primary transmission shall be deemed to be a secondary transmission if the carriage of the television broadcast signal comprising such further transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission.
 
-        (3) __Cable system.—__ 
+        (3)  __Cable system__  __.—__ 
 
         A “cable system” is a facility, located in any State, territory, trust territory, or possession of the United States, that in whole or in part receives signals transmitted or programs broadcast by one or more television broadcast stations licensed by the Federal Communications Commission, and makes secondary transmissions of such signals or programs by wires, cables, microwave, or other communications channels to subscribing members of the public who pay for such service. For purposes of determining the royalty fee under subsection (d)(1), two or more cable systems in contiguous communities under common ownership or control or operating from one headend shall be considered as one system.
 
-        (4) __Local service area of a primary transmitter.—__ 
+        (4)  __Local service area of a primary transmitter__  __.—__ 
 
         The “local service area of a primary transmitter”, in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted upon its signal being retransmitted by a cable system pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, or such station’s television market as defined in section 76.55(e) of title 47, Code of Federal Regulations (as in effect on September 18, 1993), or any modifications to such television market made, on or after September 18, 1993, pursuant to section 76.55(e) or 76.59 of title 47, Code of Federal Regulations, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations, or in the case of a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico, the area in which it would be entitled to insist upon its signal being retransmitted if it were a television broadcast station subject to such rules, regulations, and authorizations. In the case of a low power television station, the “local service area of a primary transmitter” comprises the area within 35 miles of the transmitter site, except that in the case of such a station located in a standard metropolitan statistical area which has one of the 50 largest populations of all standard metropolitan statistical areas (based on the 1980 decennial census of population taken by the Secretary of Commerce), the number of miles shall be 20 miles. The “local service area of a primary transmitter”, in the case of a radio broadcast station, comprises the primary service area of such station, pursuant to the rules and regulations of the Federal Communications Commission.
 
         (5) __Distant signal equivalent.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided under subparagraph (B), a “distant signal equivalent”—
 
@@ -231,7 +231,7 @@
 
                 (ii) is computed by assigning a value of one to each primary stream and to each multicast stream (other than a simulcast) that is an independent station, and by assigning a value of one-quarter to each primary stream and to each multicast stream (other than a simulcast) that is a network station or a noncommercial educational station.
 
-            (B) __Exceptions.—__ 
+            (B)  __Exceptions__  __.—__ 
 
             The values for independent, network, and noncommercial educational stations specified in subparagraph (A) are subject to the following:
 
@@ -245,11 +245,11 @@
 
         (6) __Network station.—__ 
 
-            (A) __Treatment of primary stream.—__ 
+            (A)  __Treatment of primary stream__  __.—__ 
 
             The term “network station” shall be applied to a primary stream of a television broadcast station that is owned or operated by, or affiliated with, one or more of the television networks in the United States providing nationwide transmissions, and that transmits a substantial part of the programming supplied by such networks for a substantial part of the primary stream’s typical broadcast day.
 
-            (B) __Treatment of multicast streams.—__ 
+            (B)  __Treatment of multicast streams__  __.—__ 
 
             The term “network station” shall be applied to a multicast stream on which a television broadcast station transmits all or substantially all of the programming of an interconnected program service that—
 
@@ -257,15 +257,15 @@
 
                 (ii) offers programming on a regular basis for 15 or more hours per week to at least 25 of the affiliated television licensees of the interconnected program service in 10 or more States.
 
-        (7) __Independent station.—__ 
+        (7)  __Independent station__  __.—__ 
 
         The term “independent station” shall be applied to the primary stream or a multicast stream of a television broadcast station that is not a network station or a noncommercial educational station.
 
-        (8) __Noncommercial educational station.—__ 
+        (8)  __Noncommercial educational station__  __.—__ 
 
         The term “noncommercial educational station” shall be applied to the primary stream or a multicast stream of a television broadcast station that is a noncommercial educational broadcast station as defined in section 397 of the Communications Act of 1934, as in effect on the date of the enactment of the Satellite Television Extension and Localism Act of 2010.
 
-        (9) __Primary stream.—__ 
+        (9)  __Primary stream__  __.—__ 
 
         A “primary stream” is—
 
@@ -273,25 +273,25 @@
 
             (B) if there is no stream described in subparagraph (A), then the single digital stream of programming transmitted by the television broadcast station for the longest period of time.
 
-        (10) __Primary transmitter.—__ 
+        (10)  __Primary transmitter__  __.—__ 
 
         A “primary transmitter” is a television or radio broadcast station licensed by the Federal Communications Commission, or by an appropriate governmental authority of Canada or Mexico, that makes primary transmissions to the public.
 
-        (11) __Multicast stream.—__ 
+        (11)  __Multicast stream__  __.—__ 
 
         A “multicast stream” is a digital stream of programming that is transmitted by a television broadcast station and is not the station’s primary stream.
 
-        (12) __Simulcast.—__ 
+        (12)  __Simulcast__  __.—__ 
 
         A “simulcast” is a multicast stream of a television broadcast station that duplicates the programming transmitted by the primary stream or another multicast stream of such station.
 
         (13) __Subscriber; subscribe.—__ 
 
-            (A) __Subscriber.—__ 
+            (A)  __Subscriber__  __.—__ 
 
             The term “subscriber” means a person or entity that receives a secondary transmission service from a cable system and pays a fee for the service, directly or indirectly, to the cable system.
 
-            (B) __Subscribe.—__ 
+            (B)  __Subscribe__  __.—__ 
 
             The term “subscribe” means to elect to become a subscriber.
 
@@ -595,35 +595,35 @@
 
 [Pub. L. 111–175, title I, § 104(h)][/us/pl/111/175/s104/h], May 27, 2010, [124 Stat. 1238][/us/stat/124/1238], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraphs (2) and (3), the amendments made by this section \[amending this section and [section 804 of this title][/us/usc/t17/s804]\], to the extent such amendments assign a distant signal equivalent value to the secondary transmission of the multicast stream of a primary transmitter, shall take effect on the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see [section 307(a) of Pub. L. 111–175][/us/pl/111/175/s307/a], set out as a note below\].
 
 >     “(2) __Delayed applicability.—__ 
 
->         “(A) __Secondary transmissions of a multicast stream beyond the local service area of its primary transmitter before 2010 act.—__ 
+>         “(A)  __Secondary transmissions of a multicast stream beyond the local service area of its primary transmitter before__  __2010__  __act__  __.—__ 
 
 >         In any case in which a cable system was making secondary transmissions of a multicast stream beyond the local service area of its primary transmitter before the date of the enactment of this Act, a distant signal equivalent value (referred to in paragraph (1)) shall not be assigned to secondary transmissions of such multicast stream that are made on or before June 30, 2010.
 
->         “(B) __Multicast streams subject to preexisting written agreements for the secondary transmission of such streams.—__ 
+>         “(B)  __Multicast streams subject to preexisting written agreements for the secondary transmission of such streams__  __.—__ 
 
 >         In any case in which the secondary transmission of a multicast stream of a primary transmitter is the subject of a written agreement entered into on or before June 30, 2009, between a cable system or an association representing the cable system and a primary transmitter or an association representing the primary transmitter, a distant signal equivalent value (referred to in paragraph (1)) shall not be assigned to secondary transmissions of such multicast stream beyond the local service area of its primary transmitter that are made on or before the date on which such written agreement expires.
 
->         “(C) __No refunds or offsets for prior statements of account.—__ 
+>         “(C)  __No refunds or offsets for prior statements of account__  __.—__ 
 
 >         A cable system that has reported secondary transmissions of a multicast stream beyond the local service area of its primary transmitter on a statement of account deposited under [section 111 of title 17][/us/usc/t17/s111], United States Code, before the date of the enactment of this Act shall not be entitled to any refund, or offset, of royalty fees paid on account of such secondary transmissions of such multicast stream.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     In this subsection, the terms ‘cable system’, ‘secondary transmission’, ‘multicast stream’, and ‘local service area of a primary transmitter’ have the meanings given those terms in [section 111(f) of title 17][/us/usc/t17/s111/f], United States Code, as amended by this section.”
 
 [Pub. L. 111–175, title III, § 307][/us/pl/111/175/s307], May 27, 2010, [124 Stat. 1257][/us/stat/124/1257], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Unless specifically provided otherwise, this Act \[see Short Title of 2010 Amendment note set out under [section 101 of this title][/us/usc/t17/s101]\], and the amendments made by this Act, shall take effect on February 27, 2010, and with the exception of the reference in subsection (b), all references to the date of enactment of this Act shall be deemed to refer to February 27, 2010, unless otherwise specified.
 
->     “(b) __Noninfringement of Copyright.—__ 
+>     “(b)  __Noninfringement of Copyright__  __.—__ 
 
 >     The secondary transmission of a performance or display of a work embodied in a primary transmission is not an infringement of copyright if it was made by a satellite carrier on or after February 27, 2010, and prior to enactment of this Act \[May 27, 2010\], and was in compliance with the law as in existence on February 27, 2010.”
 
@@ -631,11 +631,11 @@
 
 [Pub. L. 109–303, § 6][/us/pl/109/303/s6], Oct. 6, 2006, [120 Stat. 1483][/us/stat/120/1483], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided under subsection (b), this Act \[see Short Title of 2006 Amendment note set out under [section 101 of this title][/us/usc/t17/s101]\] and the amendments made by this Act shall be effective as if included in the Copyright Royalty and Distribution Reform Act of 2004 \[[Pub. L. 108–419][/us/pl/108/419]\].
 
->     “(b) __Partial Distribution of Royalty Fees.—__ 
+>     “(b)  __Partial Distribution of Royalty Fees__  __.—__ 
 
 >     Section 5 \[amending [section 801 of this title][/us/usc/t17/s801]\] shall take effect on the date of enactment of this Act \[Oct. 6, 2006\].”
 
@@ -655,15 +655,15 @@
 
 [Pub. L. 103–198, § 7][/us/pl/103/198/s7], Dec. 17, 1993, [107 Stat. 2313][/us/stat/107/2313], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This Act \[see Short Title of 1993 Amendment note set out under [section 101 of this title][/us/usc/t17/s101]\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Dec. 17, 1993\].
 
->     “(b) __Effectiveness of Existing Rates and Distributions.—__ 
+>     “(b)  __Effectiveness of Existing Rates and Distributions__  __.—__ 
 
 >     All royalty rates and all determinations with respect to the proportionate division of compulsory license fees among copyright claimants, whether made by the Copyright Royalty Tribunal, or by voluntary agreement, before the effective date set forth in subsection (a) shall remain in effect until modified by voluntary agreement or pursuant to the amendments made by this Act.
 
->     “(c) __Transfer of Appropriations.—__ 
+>     “(c)  __Transfer of Appropriations__  __.—__ 
 
 >     All unexpended balances of appropriations made to the Copyright Royalty Tribunal, as of the effective date of this Act, are transferred on such effective date to the Copyright Office for use by the Copyright Office for the purposes for which such appropriations were made.”
 
@@ -681,11 +681,11 @@
 
 [Pub. L. 111–175, title III, § 306][/us/pl/111/175/s306], May 27, 2010, [124 Stat. 1257][/us/stat/124/1257], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in this Act \[see Short Title of 2010 Amendment note set out under [section 101 of this title][/us/usc/t17/s101]\], title 17, United States Code, the Communications Act of 1934 \[[47 U.S.C. 151][/us/usc/t47/s151] et seq.\], regulations promulgated by the Register of Copyrights under this title or title 17, United States Code, or regulations promulgated by the Federal Communications Commission under this Act or the Communications Act of 1934 shall be construed to prevent a multichannel video programming distributor from retransmitting a performance or display of a work pursuant to an authorization granted by the copyright owner or, if within the scope of its authorization, its licensee.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     Nothing in subsection (a) shall be construed to affect any obligation of a multichannel video programming distributor under section 325(b) of the Communications Act of 1934 \[[47 U.S.C. 325(b)][/us/usc/t47/s325/b]\] to obtain the authority of a television broadcast station before retransmitting that station’s signal.”
 

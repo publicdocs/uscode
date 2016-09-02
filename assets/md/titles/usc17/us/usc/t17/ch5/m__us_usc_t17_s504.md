@@ -15,7 +15,7 @@
 
 ## § 504. Remedies for infringement: Damages and profits
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as otherwise provided by this title, an infringer of copyright is liable for either—
 
@@ -23,7 +23,7 @@
 
         (2) statutory damages, as provided by subsection (c).
 
-    (b) __Actual Damages and Profits.—__ 
+    (b)  __Actual Damages and Profits__  __.—__ 
 
     The copyright owner is entitled to recover the actual damages suffered by him or her as a result of the infringement, and any profits of the infringer that are attributable to the infringement and are not taken into account in computing the actual damages. In establishing the infringer’s profits, the copyright owner is required to present proof only of the infringer’s gross revenue, and the infringer is required to prove his or her deductible expenses and the elements of profit attributable to factors other than the copyrighted work.
 
@@ -41,7 +41,7 @@
 
             (C) For purposes of this paragraph, the term “domain name” has the meaning given that term in section 45 of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes” approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946”; [15 U.S.C. 1127][/us/usc/t15/s1127]).
 
-    (d) __Additional Damages in Certain Cases.—__ 
+    (d)  __Additional Damages in Certain Cases__  __.—__ 
 
     In any case in which the court finds that a defendant proprietor of an establishment who claims as a defense that its activities were exempt under section 110(5) did not have reasonable grounds to believe that its use of a copyrighted work was exempt under such section, the plaintiff shall be entitled to, in addition to any award of damages under this section, an additional award of two times the amount of the license fee that the proprietor of the establishment concerned should have paid the plaintiff for such use during the preceding period of up to 3 years.
 

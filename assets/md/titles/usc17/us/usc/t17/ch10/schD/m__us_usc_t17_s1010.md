@@ -15,23 +15,23 @@
 
 ## § 1010. Determination of certain disputes
 
-    (a) __Scope of Determination.—__ 
+    (a)  __Scope of Determination__  __.—__ 
 
     Before the date of first distribution in the United States of a digital audio recording device or a digital audio interface device, any party manufacturing, importing, or distributing such device, and any interested copyright party may mutually agree to petition the Copyright Royalty Judges to determine whether such device is subject to section 1002, or the basis on which royalty payments for such device are to be made under section 1003.
 
-    (b) __Initiation of Proceedings.—__ 
+    (b)  __Initiation of Proceedings__  __.—__ 
 
     The parties under subsection (a) shall file the petition with the Copyright Royalty Judges requesting the commencement of a proceeding. Within 2 weeks after receiving such a petition, the Chief Copyright Royalty Judge shall cause notice to be published in the Federal Register of the initiation of the proceeding.
 
-    (c) __Stay of Judicial Proceedings.—__ 
+    (c)  __Stay of Judicial Proceedings__  __.—__ 
 
     Any civil action brought under section 1009 against a party to a proceeding under this section shall, on application of one of the parties to the proceeding, be stayed until completion of the proceeding.
 
-    (d) __Proceeding.—__ 
+    (d)  __Proceeding__  __.—__ 
 
     The Copyright Royalty Judges shall conduct a proceeding with respect to the matter concerned, in accordance with such procedures as the Copyright Royalty Judges may adopt. The Copyright Royalty Judges shall act on the basis of a fully documented written record. Any party to the proceeding may submit relevant information and proposals to the Copyright Royalty Judges. The parties to the proceeding shall each bear their respective costs of participation.
 
-    (e) __Judicial Review.—__ 
+    (e)  __Judicial Review__  __.—__ 
 
     Any determination of the Copyright Royalty Judges under subsection (d) may be appealed, by a party to the proceeding, in accordance with [section 803(d) of this title][/us/usc/t17/s803/d]. The pendency of an appeal under this subsection shall not stay the determination of the Copyright Royalty Judges. If the court modifies the determination of the Copyright Royalty Judges, the court shall have jurisdiction to enter its own decision in accordance with its final judgment. The court may further vacate the determination of the Copyright Royalty Judges and remand the case for proceedings as provided in this section.
 

@@ -15,15 +15,15 @@
 
 ## § 201. Ownership of copyright
 
-    (a) __Initial Ownership.—__ 
+    (a)  __Initial Ownership__  __.—__ 
 
     Copyright in a work protected under this title vests initially in the author or authors of the work. The authors of a joint work are coowners of copyright in the work.
 
-    (b) __Works Made for Hire.—__ 
+    (b)  __Works Made for Hire__  __.—__ 
 
     In the case of a work made for hire, the employer or other person for whom the work was prepared is considered the author for purposes of this title, and, unless the parties have expressly agreed otherwise in a written instrument signed by them, owns all of the rights comprised in the copyright.
 
-    (c) __Contributions to Collective Works.—__ 
+    (c)  __Contributions to Collective Works__  __.—__ 
 
     Copyright in each separate contribution to a collective work is distinct from copyright in the collective work as a whole, and vests initially in the author of the contribution. In the absence of an express transfer of the copyright or of any rights under it, the owner of copyright in the collective work is presumed to have acquired only the privilege of reproducing and distributing the contribution as part of that particular collective work, any revision of that collective work, and any later collective work in the same series.
 
@@ -33,7 +33,7 @@
 
         (2) Any of the exclusive rights comprised in a copyright, including any subdivision of any of the rights specified by section 106, may be transferred as provided by clause (1) and owned separately. The owner of any particular exclusive right is entitled, to the extent of that right, to all of the protection and remedies accorded to the copyright owner by this title.
 
-    (e) __Involuntary Transfer.—__ 
+    (e)  __Involuntary Transfer__  __.—__ 
 
     When an individual author’s ownership of a copyright, or of any of the exclusive rights under a copyright, has not previously been transferred voluntarily by that individual author, no action by any governmental body or other official or organization purporting to seize, expropriate, transfer, or exercise rights of ownership with respect to the copyright, or any of the exclusive rights under a copyright, shall be given effect under this title, except as provided under title 11.
 

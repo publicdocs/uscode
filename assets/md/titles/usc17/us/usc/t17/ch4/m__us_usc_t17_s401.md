@@ -15,11 +15,11 @@
 
 ## § 401. Notice of copyright: Visually perceptible copies
 
-    (a) __General Provisions.—__ 
+    (a)  __General Provisions__  __.—__ 
 
     Whenever a work protected under this title is published in the United States or elsewhere by authority of the copyright owner, a notice of copyright as provided by this section may be placed on publicly distributed copies from which the work can be visually perceived, either directly or with the aid of a machine or device.
 
-    (b) __Form of Notice.—__ 
+    (b)  __Form of Notice__  __.—__ 
 
     If a notice appears on the copies, it shall consist of the following three elements:
 
@@ -29,11 +29,11 @@
 
         (3) the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner.
 
-    (c) __Position of Notice.—__ 
+    (c)  __Position of Notice__  __.—__ 
 
     The notice shall be affixed to the copies in such manner and location as to give reasonable notice of the claim of copyright. The Register of Copyrights shall prescribe by regulation, as examples, specific methods of affixation and positions of the notice on various types of works that will satisfy this requirement, but these specifications shall not be considered exhaustive.
 
-    (d) __Evidentiary Weight of Notice.—__ 
+    (d)  __Evidentiary Weight of Notice__  __.—__ 
 
     If a notice of copyright in the form and position specified by this section appears on the published copy or copies to which a defendant in a copyright infringement suit had access, then no weight shall be given to such a defendant’s interposition of a defense based on innocent infringement in mitigation of actual or statutory damages, except as provided in the last sentence of section 504(c)(2).
 

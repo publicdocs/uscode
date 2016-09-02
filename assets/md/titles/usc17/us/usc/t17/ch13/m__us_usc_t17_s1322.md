@@ -15,11 +15,11 @@
 
 ## § 1322. Injunctions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A court having jurisdiction over actions under this chapter may grant injunctions in accordance with the principles of equity to prevent infringement of a design under this chapter, including, in its discretion, prompt relief by temporary restraining orders and preliminary injunctions.
 
-    (b) __Damages for Injunctive Relief Wrongfully Obtained.—__ 
+    (b)  __Damages for Injunctive Relief Wrongfully Obtained__  __.—__ 
 
     A seller or distributor who suffers damage by reason of injunctive relief wrongfully obtained under this section has a cause of action against the applicant for such injunctive relief and may recover such relief as may be appropriate, including damages for lost profits, cost of materials, loss of good will, and punitive damages in instances where the injunctive relief was sought in bad faith, and, unless the court finds extenuating circumstances, reasonable attorney’s fees.
 

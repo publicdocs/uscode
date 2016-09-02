@@ -17,7 +17,7 @@
 
     (a) __Secondary Transmissions Into Local Markets.—__ 
 
-        (1) __Secondary transmissions of television broadcast stations within a local market.—__ 
+        (1)  __Secondary transmissions of television broadcast stations within a local market__  __.—__ 
 
         A secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station into the station’s local market shall be subject to statutory licensing under this section if—
 
@@ -35,41 +35,41 @@
 
         (2) __Significantly viewed stations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall be subject to statutory licensing under this paragraph if the secondary transmission is of the primary transmission of a network station or a non-network station to a subscriber who resides outside the station’s local market but within a community in which the signal has been determined by the Federal Communications Commission to be significantly viewed in such community, pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, applicable to determining with respect to a cable system whether signals are significantly viewed in a community.
 
-            (B) __Waiver.—__ 
+            (B)  __Waiver__  __.—__ 
 
             A subscriber who is denied the secondary transmission of the primary transmission of a network station or a non-network station under subparagraph (A) may request a waiver from such denial by submitting a request, through the subscriber’s satellite carrier, to the network station or non-network station in the local market affiliated with the same network or non-network where the subscriber is located. The network station or non-network station shall accept or reject the subscriber’s request for a waiver within 30 days after receipt of the request. If the network station or non-network station fails to accept or reject the subscriber’s request for a waiver within that 30-day period, that network station or non-network station shall be deemed to agree to the waiver request.
 
         (3) __Secondary transmission of low power programming.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraphs (B) and (C), a secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall be subject to statutory licensing under this paragraph if the secondary transmission is of the primary transmission of a television broadcast station that is licensed as a low power television station, to a subscriber who resides within the same designated market area as the station that originates the transmission.
 
-            (B) __No applicability to repeaters and translators.—__ 
+            (B)  __No applicability to repeaters and translators__  __.—__ 
 
             Secondary transmissions provided for in subparagraph (A) shall not apply to any low power television station that retransmits the programs and signals of another television station for more than 2 hours each day.
 
-            (C) __No impact on other secondary transmissions obligations.—__ 
+            (C)  __No impact on other secondary transmissions obligations__  __.—__ 
 
             A satellite carrier that makes secondary transmissions of a primary transmission of a low power television station under a statutory license provided under this section is not required, by reason of such secondary transmissions, to make any other secondary transmissions.
 
-        (4) __Special exceptions.—__ 
+        (4)  __Special exceptions__  __.—__ 
 
         A secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall, if the secondary transmission is made by a satellite carrier that complies with the requirements of paragraph (1), be subject to statutory licensing under this paragraph as follows:
 
-            (A) __States with single full-power network station.—__ 
+            (A)  __States with single full-power network station__  __.—__ 
 
             In a State in which there is licensed by the Federal Communications Commission a single full-power station that was a network station on January 1, 1995, the statutory license provided for in this paragraph shall apply to the secondary transmission by a satellite carrier of the primary transmission of that station to any subscriber in a community that is located within that State and that is not within the first 50 television markets as listed in the regulations of the Commission as in effect on such date (47 C.F.R. 76.51).
 
-            (B) __States with all network stations and non-network stations in same local market.—__ 
+            (B)  __States with all network stations and non-network stations in same local market__  __.—__ 
 
             In a State in which all network stations and non-network stations licensed by the Federal Communications Commission within that State as of January 1, 1995, are assigned to the same local market and that local market does not encompass all counties of that State, the statutory license provided under this paragraph shall apply to the secondary transmission by a satellite carrier of the primary transmissions of such station to all subscribers in the State who reside in a local market that is within the first 50 major television markets as listed in the regulations of the Commission as in effect on such date (section 76.51 of title 47, Code of Federal Regulations).
 
-            (C) __Additional stations.—__ 
+            (C)  __Additional stations__  __.—__ 
 
             In the case of that State in which are located 4 counties that—
 
@@ -79,7 +79,7 @@
 
                 the statutory license provided under this paragraph shall apply to secondary transmissions by a satellite carrier to subscribers in any such county of the primary transmissions of any network station located in that State, if the satellite carrier was making such secondary transmissions to any subscribers in that county on January 1, 2004.
 
-            (D) __Certain additional stations.—__ 
+            (D)  __Certain additional stations__  __.—__ 
 
             If 2 adjacent counties in a single State are in a local market comprised principally of counties located in another State, the statutory license provided for in this paragraph shall apply to the secondary transmission by a satellite carrier to subscribers in those 2 counties of the primary transmissions of any network station located in the capital of the State in which such 2 counties are located, if—
 
@@ -87,17 +87,17 @@
 
                 (ii) the total number of television households in the 2 counties combined did not exceed 10,000 for the year 2003 according to Nielsen Media Research.
 
-            (E) __Networks of noncommercial educational broadcast stations.—__ 
+            (E)  __Networks of noncommercial educational broadcast stations__  __.—__ 
 
             In the case of a system of three or more noncommercial educational broadcast stations licensed to a single State, public agency, or political, educational, or special purpose subdivision of a State, the statutory license provided for in this paragraph shall apply to the secondary transmission of the primary transmission of such system to any subscriber in any county or county equivalent within such State, if such subscriber is located in a designated market area that is not otherwise eligible to receive the secondary transmission of the primary transmission of a noncommercial educational broadcast station located within the State pursuant to paragraph (1).
 
-        (5) __Applicability of royalty rates and procedures.—__ 
+        (5)  __Applicability of royalty rates and procedures__  __.—__ 
 
         The royalty rates and procedures under section 119(b) shall apply to the secondary transmissions to which the statutory license under paragraph (4) applies.
 
     (b) __Reporting Requirements.—__ 
 
-        (1) __Initial lists.—__ 
+        (1)  __Initial lists__  __.—__ 
 
         A satellite carrier that makes secondary transmissions of a primary transmission made by a network station under subsection (a) shall, within 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station—
 
@@ -105,7 +105,7 @@
 
             (B) a separate list, aggregated by designated market area (by name and address, including street or rural route number, city, State, and 9-digit zip code), which shall indicate those subscribers being served pursuant to paragraph (2) of subsection (a).
 
-        (2) __Subsequent lists.—__ 
+        (2)  __Subsequent lists__  __.—__ 
 
         After the list is submitted under paragraph (1), the satellite carrier shall, on the 15th of each month, submit to the network—
 
@@ -113,29 +113,29 @@
 
             (B) a separate list, aggregated by designated market area (by name and street address, including street or rural route number, city, State, and 9-digit zip code), identifying those subscribers whose service pursuant to paragraph (2) of subsection (a) has been added or dropped since the last submission under this subsection.
 
-        (3) __Use of subscriber information.—__ 
+        (3)  __Use of subscriber information__  __.—__ 
 
         Subscriber information submitted by a satellite carrier under this subsection may be used only for the purposes of monitoring compliance by the satellite carrier with this section.
 
-        (4) __Requirements of networks.—__ 
+        (4)  __Requirements of networks__  __.—__ 
 
         The submission requirements of this subsection shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register of Copyrights shall maintain for public inspection a file of all such documents.
 
-    (c) __No Royalty Fee Required for Certain Secondary Transmissions.—__ 
+    (c)  __No Royalty Fee Required for Certain Secondary Transmissions__  __.—__ 
 
     A satellite carrier whose secondary transmissions are subject to statutory licensing under paragraphs (1), (2), and (3) of subsection (a) shall have no royalty obligation for such secondary transmissions.
 
-    (d) __Noncompliance With Reporting and Regulatory Requirements.—__ 
+    (d)  __Noncompliance With Reporting and Regulatory Requirements__  __.—__ 
 
     Notwithstanding subsection (a), the willful or repeated secondary transmission to the public by a satellite carrier into the local market of a television broadcast station of a primary transmission embodying a performance or display of a work made by that television broadcast station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided under sections 502 through 506, if the satellite carrier has not complied with the reporting requirements of subsection (b) or with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast signals.
 
-    (e) __Willful Alterations.—__ 
+    (e)  __Willful Alterations__  __.—__ 
 
     Notwithstanding subsection (a), the secondary transmission to the public by a satellite carrier into the local market of a television broadcast station of a performance or display of a work embodied in a primary transmission made by that television broadcast station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and section 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcement transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the satellite carrier through changes, deletions, or additions, or is combined with programming from any other broadcast signal.
 
     (f) __Violation of Territorial Restrictions on Statutory License for Television Broadcast Stations.—__ 
 
-        (1) __Individual violations.—__ 
+        (1)  __Individual violations__  __.—__ 
 
         The willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a television broadcast station to a subscriber who does not reside in that station’s local market, and is not subject to statutory licensing under section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to a private licensing agreement, is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506, except that—
 
@@ -143,7 +143,7 @@
 
             (B) any statutory damages shall not exceed $250 for such subscriber for each month during which the violation occurred.
 
-        (2) __Pattern of violations.—__ 
+        (2)  __Pattern of violations__  __.—__ 
 
         If a satellite carrier engages in a willful or repeated pattern or practice of secondarily transmitting to the public a primary transmission embodying a performance or display of a work made by a television broadcast station to subscribers who do not reside in that station’s local market, and are not subject to statutory licensing under section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to a private licensing agreement, then in addition to the remedies under paragraph (1)—
 
@@ -163,29 +163,29 @@
 
                 (ii) may order statutory damages not exceeding $2,500,000 for each 6-month period during which the pattern or practice was carried out.
 
-    (g) __Burden of Proof.—__ 
+    (g)  __Burden of Proof__  __.—__ 
 
     In any action brought under subsection (f), the satellite carrier shall have the burden of proving that its secondary transmission of a primary transmission by a television broadcast station is made only to subscribers located within that station’s local market or subscribers being served in compliance with section 119, paragraph (2)(A), (3), or (4) of subsection (a), or a private licensing agreement.
 
-    (h) __Geographic Limitations on Secondary Transmissions.—__ 
+    (h)  __Geographic Limitations on Secondary Transmissions__  __.—__ 
 
     The statutory license created by this section shall apply to secondary transmissions to locations in the United States.
 
-    (i) __Exclusivity With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public.—__ 
+    (i)  __Exclusivity With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public__  __.—__ 
 
     No provision of section 111 or any other law (other than this section and section 119) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carriers of programming contained in a primary transmission made by a television broadcast station may be made without obtaining the consent of the copyright owner.
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section—
 
-        (1) __Distributor.—__ 
+        (1)  __Distributor__  __.—__ 
 
         The term “distributor” means an entity that contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through other program distribution entities.
 
         (2) __Local market.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “local market”, in the case of both commercial and noncommercial television broadcast stations, means the designated market area in which a station is located, and—
 
@@ -193,35 +193,35 @@
 
                 (ii) in the case of a noncommercial educational television broadcast station, the market includes any station that is licensed to a community within the same designated market area as the noncommercial educational television broadcast station.
 
-            (B) __County of license.—__ 
+            (B)  __County of license__  __.—__ 
 
             In addition to the area described in subparagraph (A), a station’s local market includes the county in which the station’s community of license is located.
 
-            (C) __Designated market area.—__ 
+            (C)  __Designated market area__  __.—__ 
 
             For purposes of subparagraph (A), the term “designated market area” means a designated market area, as determined by Nielsen Media Research and published in the 1999–2000 Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication.
 
-            (D) __Certain areas outside of any designated market area.—__ 
+            (D)  __Certain areas outside of any designated market area__  __.—__ 
 
             Any census area, borough, or other area in the State of Alaska that is outside of a designated market area, as determined by Nielsen Media Research, shall be deemed to be part of one of the local markets in the State of Alaska. A satellite carrier may determine which local market in the State of Alaska will be deemed to be the relevant local market in connection with each subscriber in such census area, borough, or other area.
 
-        (3) __Low power television station.—__ 
+        (3)  __Low power television station__  __.—__ 
 
         The term “low power television station” means a low power TV station as defined in section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
 
-        (4) __Network station; non-network station; satellite carrier; secondary transmission.—__ 
+        (4)  __Network station; non-network station; satellite carrier; secondary transmission__  __.—__ 
 
         The terms “network station”, “non-network station”, “satellite carrier”, and “secondary transmission” have the meanings given such terms under section 119(d).
 
-        (5) __Noncommercial educational broadcast station.—__ 
+        (5)  __Noncommercial educational broadcast station__  __.—__ 
 
         The term “noncommercial educational broadcast station” means a television broadcast station that is a noncommercial educational broadcast station as defined in section 397 of the Communications Act of 1934, as in effect on the date of the enactment of the Satellite Television Extension and Localism Act of 2010.
 
-        (6) __Subscriber.—__ 
+        (6)  __Subscriber__  __.—__ 
 
         The term “subscriber” means a person or entity that receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.
 
-        (7) __Television broadcast station.—__ 
+        (7)  __Television broadcast station__  __.—__ 
 
         The term “television broadcast station”—
 

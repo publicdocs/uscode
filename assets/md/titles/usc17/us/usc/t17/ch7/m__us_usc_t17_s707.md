@@ -15,15 +15,15 @@
 
 ## § 707. Copyright Office forms and publications
 
-    (a) __Catalog of Copyright Entries.—__ 
+    (a)  __Catalog of Copyright Entries__  __.—__ 
 
     The Register of Copyrights shall compile and publish at periodic intervals catalogs of all copyright registrations. These catalogs shall be divided into parts in accordance with the various classes of works, and the Register has discretion to determine, on the basis of practicability and usefulness, the form and frequency of publication of each particular part.
 
-    (b) __Other Publications.—__ 
+    (b)  __Other Publications__  __.—__ 
 
     The Register shall furnish, free of charge upon request, application forms for copyright registration and general informational material in connection with the functions of the Copyright Office. The Register also has the authority to publish compilations of information, bibliographies, and other material he or she considers to be of value to the public.
 
-    (c) __Distribution of Publications.—__ 
+    (c)  __Distribution of Publications__  __.—__ 
 
     All publications of the Copyright Office shall be furnished to depository libraries as specified under [section 1905 of title 44][/us/usc/t44/s1905], and, aside from those furnished free of charge, shall be offered for sale to the public at prices based on the cost of reproduction and distribution.
 

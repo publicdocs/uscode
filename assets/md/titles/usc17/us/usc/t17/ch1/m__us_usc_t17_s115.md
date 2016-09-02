@@ -91,7 +91,7 @@
 
         (6) If the copyright owner does not receive the monthly payment and the monthly and annual statements of account when due, the owner may give written notice to the licensee that, unless the default is remedied within thirty days from the date of the notice, the compulsory license will be automatically terminated. Such termination renders either the making or the distribution, or both, of all phonorecords for which the royalty has not been paid, actionable as acts of infringement under section 501 and fully subject to the remedies provided by sections 502 through 506.
 
-    (d) __Definition.—__ 
+    (d)  __Definition__  __.—__ 
 
     As used in this section, the following term has the following meaning: A “digital phonorecord delivery” is each individual delivery of a phonorecord by digital transmission of a sound recording which results in a specifically identifiable reproduction by or for any transmission recipient of a phonorecord of that sound recording, regardless of whether the digital transmission is also a public performance of the sound recording or any nondramatic musical work embodied therein. A digital phonorecord delivery does not result from a real-time, non-interactive subscription transmission of a sound recording where no reproduction of the sound recording or the musical work embodied therein is made from the inception of the transmission through to its receipt by the transmission recipient in order to make the sound recording audible.
 

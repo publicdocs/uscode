@@ -15,7 +15,7 @@
 
 ## § 1204. Criminal offenses and penalties
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Any person who violates section 1201 or 1202 willfully and for purposes of commercial advantage or private financial gain—
 
@@ -23,11 +23,11 @@
 
         (2) shall be fined not more than $1,000,000 or imprisoned for not more than 10 years, or both, for any subsequent offense.
 
-    (b) __Limitation for Nonprofit Library, Archives, Educational Institution, or Public Broadcasting Entity.—__ 
+    (b)  __Limitation for Nonprofit Library, Archives, Educational Institution, or Public Broadcasting Entity__  __.—__ 
 
     Subsection (a) shall not apply to a nonprofit library, archives, educational institution, or public broadcasting entity (as defined under section 118(f)).
 
-    (c) __Statute of Limitations.—__ 
+    (c)  __Statute of Limitations__  __.—__ 
 
     No criminal proceeding shall be brought under this section unless such proceeding is commenced within 5 years after the cause of action arose.
 

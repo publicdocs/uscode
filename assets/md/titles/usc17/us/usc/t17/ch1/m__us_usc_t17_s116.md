@@ -15,25 +15,25 @@
 
 ## § 116. Negotiated licenses for public performances by means of coin-operated phonorecord players
 
-    (a) __Applicability of Section.—__ 
+    (a)  __Applicability of Section__  __.—__ 
 
     This section applies to any nondramatic musical work embodied in a phonorecord.
 
     (b) __Negotiated Licenses.—__ 
 
-        (1) __Authority for negotiations.—__ 
+        (1)  __Authority for negotiations__  __.—__ 
 
         Any owners of copyright in works to which this section applies and any operators of coin-operated phonorecord players may negotiate and agree upon the terms and rates of royalty payments for the performance of such works and the proportionate division of fees paid among copyright owners, and may designate common agents to negotiate, agree to, pay, or receive such royalty payments.
 
-        (2) __Chapter 8 proceeding.—__ 
+        (2)  __Chapter 8 proceeding__  __.—__ 
 
         Parties not subject to such a negotiation may have the terms and rates and the division of fees described in paragraph (1) determined in a proceeding in accordance with the provisions of chapter 8.
 
-    (c) __License Agreements Superior to Determinations by Copyright Royalty Judges.—__ 
+    (c)  __License Agreements Superior to Determinations by Copyright Royalty Judges__  __.—__ 
 
     License agreements between one or more copyright owners and one or more operators of coin-operated phonorecord players, which are negotiated in accordance with subsection (b), shall be given effect in lieu of any otherwise applicable determination by the Copyright Royalty Judges.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     As used in this section, the following terms mean the following:
 

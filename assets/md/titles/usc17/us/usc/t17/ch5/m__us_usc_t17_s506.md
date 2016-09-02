@@ -17,7 +17,7 @@
 
     (a) __Criminal Infringement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any person who willfully infringes a copyright shall be punished as provided under [section 2319 of title 18][/us/usc/t18/s2319], if the infringement was committed—
 
@@ -27,11 +27,11 @@
 
             (C) by the distribution of a work being prepared for commercial distribution, by making it available on a computer network accessible to members of the public, if such person knew or should have known that the work was intended for commercial distribution.
 
-        (2) __Evidence.—__ 
+        (2)  __Evidence__  __.—__ 
 
         For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement of a copyright.
 
-        (3) __Definition.—__ 
+        (3)  __Definition__  __.—__ 
 
         In this subsection, the term “work being prepared for commercial distribution” means—
 
@@ -51,23 +51,23 @@
 
                 (ii) has not been made available in copies for sale to the general public in the United States in a format intended to permit viewing outside a motion picture exhibition facility.
 
-    (b) __Forfeiture, Destruction, and Restitution.—__ 
+    (b)  __Forfeiture, Destruction, and Restitution__  __.—__ 
 
     Forfeiture, destruction, and restitution relating to this section shall be subject to [section 2323 of title 18][/us/usc/t18/s2323], to the extent provided in that section, in addition to any other similar remedies provided by law.
 
-    (c) __Fraudulent Copyright Notice.—__ 
+    (c)  __Fraudulent Copyright Notice__  __.—__ 
 
     Any person who, with fraudulent intent, places on any article a notice of copyright or words of the same purport that such person knows to be false, or who, with fraudulent intent, publicly distributes or imports for public distribution any article bearing such notice or words that such person knows to be false, shall be fined not more than $2,500.
 
-    (d) __Fraudulent Removal of Copyright Notice.—__ 
+    (d)  __Fraudulent Removal of Copyright Notice__  __.—__ 
 
     Any person who, with fraudulent intent, removes or alters any notice of copyright appearing on a copy of a copyrighted work shall be fined not more than $2,500.
 
-    (e) __False Representation.—__ 
+    (e)  __False Representation__  __.—__ 
 
     Any person who knowingly makes a false representation of a material fact in the application for copyright registration provided for by section 409, or in any written statement filed in connection with the application, shall be fined not more than $2,500.
 
-    (f) __Rights of Attribution and Integrity.—__ 
+    (f)  __Rights of Attribution and Integrity__  __.—__ 
 
     Nothing in this section applies to infringement of the rights conferred by section 106A(a).
 

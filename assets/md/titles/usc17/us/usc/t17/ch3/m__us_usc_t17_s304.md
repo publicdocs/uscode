@@ -15,7 +15,7 @@
 
 ## § 304. Duration of copyright: Subsisting copyrights
 
-    (a) __Copyrights in Their First Term on__  __January 1, 1978__  __.—__ 
+    (a)  __Copyrights in Their First Term on January__  __1, 1978.—__ 
 
         (1)
 
@@ -81,11 +81,11 @@
 
             (B) If an application to register a claim to the renewed and extended term of copyright in a work is made within 1 year before its expiration, and the claim is registered, the certificate of such registration shall constitute prima facie evidence as to the validity of the copyright during its renewed and extended term and of the facts stated in the certificate. The evidentiary weight to be accorded the certificates of a registration of a renewed and extended term of copyright made after the end of that 1-year period shall be within the discretion of the court.
 
-    (b) __Copyrights in Their Renewal Term at the Time of the Effective Date of the Sonny Bono Copyright Term Extension Act.—__ 
+    (b)  __Copyrights in Their Renewal Term at the Time of the Effective Date of the Sonny Bono Copyright Term Extension Act__  __.—__ 
 
     Any copyright still in its renewal term at the time that the Sonny Bono Copyright Term Extension Act becomes effective shall have a copyright term of 95 years from the date copyright was originally secured.
 
-    (c) __Termination of Transfers and Licenses Covering Extended Renewal Term.—__ 
+    (c)  __Termination of Transfers and Licenses Covering Extended Renewal Term__  __.—__ 
 
     In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:
 
@@ -131,7 +131,7 @@
 
             (F) Unless and until termination is effected under this subsection, the grant, if it does not provide otherwise, continues in effect for the remainder of the extended renewal term.
 
-    (d) __Termination Rights Provided in Subsection (c) Which Have Expired on or Before the Effective Date of the Sonny Bono Copyright Term Extension Act.—__ 
+    (d)  __Termination Rights Provided in Subsection__  __(c)__  __Which Have Expired on or Before the Effective Date of the Sonny Bono Copyright Term Extension Act__  __.—__ 
 
     In the case of any copyright other than a work made for hire, subsisting in its renewal term on the effective date of the Sonny Bono Copyright Term Extension Act for which the termination right provided in subsection (c) has expired by such date, where the author or owner of the termination right has not previously exercised such termination right, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated in subsection (a)(1)(C) of this section, other than by will, is subject to termination under the following conditions:
 

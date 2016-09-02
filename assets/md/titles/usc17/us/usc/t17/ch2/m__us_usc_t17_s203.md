@@ -15,7 +15,7 @@
 
 ## § 203. Termination of transfers and licenses granted by the author
 
-    (a) __Conditions for Termination.—__ 
+    (a)  __Conditions for Termination__  __.—__ 
 
     In the case of any work other than a work made for hire, the exclusive or nonexclusive grant of a transfer or license of copyright or of any right under a copyright, executed by the author on or after January 1, 1978, otherwise than by will, is subject to termination under the following conditions:
 
@@ -45,7 +45,7 @@
 
         (5) Termination of the grant may be effected notwithstanding any agreement to the contrary, including an agreement to make a will or to make any future grant.
 
-    (b) __Effect of Termination.—__ 
+    (b)  __Effect of Termination__  __.—__ 
 
     Upon the effective date of termination, all rights under this title that were covered by the terminated grants revert to the author, authors, and other persons owning termination interests under clauses (1) and (2) of subsection (a), including those owners who did not join in signing the notice of termination under clause (4) of subsection (a), but with the following limitations:
 

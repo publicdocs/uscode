@@ -77,7 +77,7 @@
 
 [Pub. L. 102–64, § 2][/us/pl/102/64/s2], June 28, 1991, [105 Stat. 320][/us/stat/105/320], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -89,7 +89,7 @@
 
 >         “(4) bilateral and multilateral relationships regarding the protection of mask works should be directed toward the international protection of mask works in an effective, consistent, and harmonious manner, and the existing bilateral authority of the Secretary of Commerce under chapter 9 of title 17, United States Code, should be extended to facilitate the continued development of protection for mask works.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[amending this section and enacting provisions set out as a note under [section 901 of this title][/us/usc/t17/s901]\] are—
 
@@ -99,7 +99,7 @@
 
 [Pub. L. 100–159, § 1][/us/pl/100/159/s1], Nov. 9, 1987, [101 Stat. 899][/us/stat/101/899], as amended by [Pub. L. 105–80, § 12(b)(1)][/us/pl/105/80/s12/b/1], Nov. 13, 1997, [111 Stat. 1536][/us/stat/111/1536], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -113,7 +113,7 @@
 
 >         “(5) it is inherent in [section 902 of title 17][/us/usc/t17/s902], United States Code, that the President has the authority to revise, suspend, or revoke, as well as issue, proclamations extending mask work protection to nationals, domiciliaries, and sovereign authorities of other countries, if conditions warrant.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[amending this section and [section 902 of this title][/us/usc/t17/s902]\] are—
 

@@ -15,25 +15,25 @@
 
 ## § 1003. Obligation to make royalty payments
 
-    (a) __Prohibition on Importation and Manufacture.—__ 
+    (a)  __Prohibition on Importation and Manufacture__  __.—__ 
 
     No person shall import into and distribute, or manufacture and distribute, any digital audio recording device or digital audio recording medium unless such person records the notice specified by this section and subsequently deposits the statements of account and applicable royalty payments for such device or medium specified in section 1004.
 
-    (b) __Filing of Notice.—__ 
+    (b)  __Filing of Notice__  __.—__ 
 
     The importer or manufacturer of any digital audio recording device or digital audio recording medium, within a product category or utilizing a technology with respect to which such manufacturer or importer has not previously filed a notice under this subsection, shall file with the Register of Copyrights a notice with respect to such device or medium, in such form and content as the Register shall prescribe by regulation.
 
     (c) __Filing of Quarterly and Annual Statements of Account.—__ 
 
-        (1) __Generally.—__ 
+        (1)  __Generally__  __.—__ 
 
         Any importer or manufacturer that distributes any digital audio recording device or digital audio recording medium that it manufactured or imported shall file with the Register of Copyrights, in such form and content as the Register shall prescribe by regulation, such quarterly and annual statements of account with respect to such distribution as the Register shall prescribe by regulation.
 
-        (2) __Certification, verification, and confidentiality.—__ 
+        (2)  __Certification, verification, and confidentiality__  __.—__ 
 
         Each such statement shall be certified as accurate by an authorized officer or principal of the importer or manufacturer. The Register shall issue regulations to provide for the verification and audit of such statements and to protect the confidentiality of the information contained in such statements. Such regulations shall provide for the disclosure, in confidence, of such statements to interested copyright parties.
 
-        (3) __Royalty payments.—__ 
+        (3)  __Royalty payments__  __.—__ 
 
         Each such statement shall be accompanied by the royalty payments specified in section 1004.
 

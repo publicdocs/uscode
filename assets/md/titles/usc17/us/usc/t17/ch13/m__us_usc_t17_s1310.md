@@ -15,19 +15,19 @@
 
 ## § 1310. Application for registration
 
-    (a) __Time Limit for Application for Registration.—__ 
+    (a)  __Time Limit for Application for Registration__  __.—__ 
 
     Protection under this chapter shall be lost if application for registration of the design is not made within 2 years after the date on which the design is first made public.
 
-    (b) __When Design is Made Public.—__ 
+    (b)  __When Design is Made Public__  __.—__ 
 
     A design is made public when an existing useful article embodying the design is anywhere publicly exhibited, publicly distributed, or offered for sale or sold to the public by the owner of the design or with the owner’s consent.
 
-    (c) __Application by Owner of Design.—__ 
+    (c)  __Application by Owner of Design__  __.—__ 
 
     Application for registration may be made by the owner of the design.
 
-    (d) __Contents of Application.—__ 
+    (d)  __Contents of Application__  __.—__ 
 
     The application for registration shall be made to the Administrator and shall state—
 
@@ -45,7 +45,7 @@
 
         The application for registration may include a description setting forth the salient features of the design, but the absence of such a description shall not prevent registration under this chapter.
 
-    (e) __Sworn Statement.—__ 
+    (e)  __Sworn Statement__  __.—__ 
 
     The application for registration shall be accompanied by a statement under oath by the applicant or the applicant’s duly authorized agent or representative, setting forth, to the best of the applicant’s knowledge and belief—
 
@@ -57,25 +57,25 @@
 
         If the design has been made public with the design notice prescribed in section 1306, the statement shall also describe the exact form and position of the design notice.
 
-    (f) __Effect of Errors.—__ 
+    (f)  __Effect of Errors__  __.—__ 
 
         (1) Error in any statement or assertion as to the utility of the useful article named in the application under this section, the design of which is sought to be registered, shall not affect the protection secured under this chapter.
 
         (2) Errors in omitting a joint designer or in naming an alleged joint designer shall not affect the validity of the registration, or the actual ownership or the protection of the design, unless it is shown that the error occurred with deceptive intent.
 
-    (g) __Design Made in Scope of Employment.—__ 
+    (g)  __Design Made in Scope of Employment__  __.—__ 
 
     In a case in which the design was made within the regular scope of the designer’s employment and individual authorship of the design is difficult or impossible to ascribe and the application so states, the name and address of the employer for whom the design was made may be stated instead of that of the individual designer.
 
-    (h) __Pictorial Representation of Design.—__ 
+    (h)  __Pictorial Representation of Design__  __.—__ 
 
     The application for registration shall be accompanied by two copies of a drawing or other pictorial representation of the useful article embodying the design, having one or more views, adequate to show the design, in a form and style suitable for reproduction, which shall be deemed a part of the application.
 
-    (i) __Design in More Than One Useful Article.—__ 
+    (i)  __Design in More Than One Useful Article__  __.—__ 
 
     If the distinguishing elements of a design are in substantially the same form in different useful articles, the design shall be protected as to all such useful articles when protected as to one of them, but not more than one registration shall be required for the design.
 
-    (j) __Application for More Than One Design.—__ 
+    (j)  __Application for More Than One Design__  __.—__ 
 
     More than one design may be included in the same application under such conditions as may be prescribed by the Administrator. For each design included in an application the fee prescribed for a single design shall be paid.
 

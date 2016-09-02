@@ -15,11 +15,11 @@
 
 ## § 801. Copyright Royalty Judges; appointment and functions
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
     The Librarian of Congress shall appoint 3 full-time Copyright Royalty Judges, and shall appoint 1 of the 3 as the Chief Copyright Royalty Judge. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights.
 
-    (b) __Functions.—__ 
+    (b)  __Functions__  __.—__ 
 
     Subject to the provisions of this chapter, the functions of the Copyright Royalty Judges shall be as follows:
 
@@ -109,19 +109,19 @@
 
         (8) To perform other duties, as assigned by the Register of Copyrights within the Library of Congress, except as provided in section 802(g), at times when Copyright Royalty Judges are not engaged in performing the other duties set forth in this section.
 
-    (c) __Rulings.—__ 
+    (c)  __Rulings__  __.—__ 
 
     The Copyright Royalty Judges may make any necessary procedural or evidentiary rulings in any proceeding under this chapter and may, before commencing a proceeding under this chapter, make any such rulings that would apply to the proceedings conducted by the Copyright Royalty Judges.
 
-    (d) __Administrative Support.—__ 
+    (d)  __Administrative Support__  __.—__ 
 
     The Librarian of Congress shall provide the Copyright Royalty Judges with the necessary administrative services related to proceedings under this chapter.
 
-    (e) __Location in Library of Congress.—__ 
+    (e)  __Location in Library of Congress__  __.—__ 
 
     The offices of the Copyright Royalty Judges and staff shall be in the Library of Congress.
 
-    (f) __Effective Date of Actions.—__ 
+    (f)  __Effective Date of Actions__  __.—__ 
 
     On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
 
@@ -155,29 +155,29 @@
 
 [Pub. L. 108–419, § 6][/us/pl/108/419/s6], Nov. 30, 2004, [118 Stat. 2369][/us/stat/118/2369], as amended by [Pub. L. 109–303, § 4(h)][/us/pl/109/303/s4/h], Oct. 6, 2006, [120 Stat. 1483][/us/stat/120/1483], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This Act \[see Short Title of 2004 Amendment note set out under [section 101 of this title][/us/usc/t17/s101]\] and the amendments made by this Act shall take effect 6 months after the date of enactment of this Act \[Nov. 30, 2004\], except that the Librarian of Congress shall appoint 1 or more interim Copyright Royalty Judges under [section 802(d) of title 17][/us/usc/t17/s802/d], United States Code, as amended by this Act, within 90 days after such date of enactment to carry out the functions of the Copyright Royalty Judges under title 17, United States Code, to the extent that Copyright Royalty Judges provided for in [section 801(a) of title 17][/us/usc/t17/s801/a], United States Code, as amended by this Act, have not been appointed before the end of that 90-day period.
 
 >     “(b) __Transition Provisions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraphs (2) and (3), the amendments made by this Act shall not affect any proceedings commenced, petitions filed, or voluntary agreements entered into before the effective date provided in subsection (a) under the provisions of title 17, United States Code, as amended by this Act, and pending on such effective date. Such proceedings shall continue, determinations made in such proceedings, and appeals taken therefrom, as if this Act had not been enacted, and shall continue in effect until modified under title 17, United States Code, as amended by this Act. Such petitions filed and voluntary agreements entered into shall remain in effect as if this Act had not been enacted. For purposes of this paragraph, the Librarian of Congress may determine whether a proceeding has commenced. The Librarian of Congress may terminate any proceeding commenced before the effective date provided in subsection (a) pursuant to chapter 8 of title 17, United States Code, and any proceeding so terminated shall become null and void. In such cases, the Copyright Royalty Judges may initiate a new proceeding in accordance with regulations adopted pursuant to [section 803(b)(6) of title 17][/us/usc/t17/s803/b/6], United States Code.
 
->         “(2) __Certain royalty rate proceedings.—__ 
+>         “(2)  __Certain royalty rate proceedings__  __.—__ 
 
 >         Notwithstanding paragraph (1), the amendments made by this Act shall not affect proceedings to determine royalty rates pursuant to [section 119(c) of title 17][/us/usc/t17/s119/c], United States Code, that are commenced before January 31, 2006.
 
->         “(3) __Pending proceedings.—__ 
+>         “(3)  __Pending proceedings__  __.—__ 
 
 >         Notwithstanding paragraph (1), any proceedings to establish or adjust rates and terms for the statutory licenses under section 114(f)(2) or 112(e) of title 17, United States Code, for a statutory period commencing on or after January 1, 2005, shall be terminated upon the date of enactment of this Act and shall be null and void. The rates and terms in effect under section 114(f)(2) or 112(e) of title 17, United States Code, on December 31, 2004, for new subscription services, eligible nonsubscription services, and services exempt under section 114(d)(1)(C)(iv) of such title, and the rates and terms published in the Federal Register under the authority of the Small Webcaster Settlement Act of 2002 ([17 U.S.C. 114][/us/usc/t17/s114] note; [Public Law 107–321][/us/pl/107/321]) (including the amendments made by that Act) for the years 2003 through 2004, as well as any notice and recordkeeping provisions adopted pursuant thereto, shall remain in effect until the later of the first applicable effective date for successor terms and rates specified in section 804(b) (2) or (3)(A) of title 17, United States Code, or such later date as the parties may agree or the Copyright Royalty Judges may establish. For the period commencing January 1, 2005, an eligible small webcaster or a noncommercial webcaster, as defined in the regulations published by the Register of Copyrights pursuant to the Small Webcaster Settlement Act of 2002 ([17 U.S.C. 114][/us/usc/t17/s114] note; [Public Law 107–321][/us/pl/107/321]) (including the amendments made by that Act) \[amending [section 114 of this title][/us/usc/t17/s114] and enacting provisions set out as notes under sections 101 and 114 of this title\], may elect to be subject to the rates and terms published in those regulations by complying with the procedures governing the election process set forth in those regulations not later than the first date on which the webcaster would be obligated to make a royalty payment for such period. Until successor terms and rates have been established for the period commencing January 1, 2006, licensees shall continue to make royalty payments at the rates and on the terms previously in effect, subject to retroactive adjustment when successor rates and terms for such services are established.
 
->         “(4) __Interim proceedings.—__ 
+>         “(4)  __Interim proceedings__  __.—__ 
 
 >         Notwithstanding subsection (a), as soon as practicable after the date of enactment of this Act, the Copyright Royalty Judges or interim Copyright Royalty Judges shall publish the notice described in [section 803(b)(1)(A) of title 17][/us/usc/t17/s803/b/1/A], United States Code, as amended by this Act, to initiate a proceeding to establish or adjust rates and terms for the statutory licenses under section 114(f)(2) or 112(e) of title 17, United States Code, for new subscription services and eligible nonsubscription services for the period commencing January 1, 2006. The Copyright Royalty Judges or Interim Copyright Royalty Judges are authorized to cause that proceeding to take place as provided in subsection (b) of section 803 of that title within the time periods set forth in that subsection. Notwithstanding section 803(c)(1) of that title, the Copyright Royalty Judges shall not be required to issue their determination in that proceeding before the expiration of the statutory rates and terms in effect on December 31, 2004.
 
->     “(c) __Existing Appropriations.—__ 
+>     “(c)  __Existing Appropriations__  __.—__ 
 
 >     Any funds made available in an appropriations Act to carry out chapter 8 of title 17, United States Code, shall be available to the extent necessary to carry out this section.”
 

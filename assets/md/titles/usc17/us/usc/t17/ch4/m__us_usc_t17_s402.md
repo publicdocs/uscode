@@ -15,11 +15,11 @@
 
 ## § 402. Notice of copyright: Phonorecords of sound recordings
 
-    (a) __General Provisions.—__ 
+    (a)  __General Provisions__  __.—__ 
 
     Whenever a sound recording protected under this title is published in the United States or elsewhere by authority of the copyright owner, a notice of copyright as provided by this section may be placed on publicly distributed phonorecords of the sound recording.
 
-    (b) __Form of Notice.—__ 
+    (b)  __Form of Notice__  __.—__ 
 
     If a notice appears on the phonorecords, it shall consist of the following three elements:
 
@@ -29,11 +29,11 @@
 
         (3) the name of the owner of copyright in the sound recording, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner; if the producer of the sound recording is named on the phonorecord labels or containers, and if no other name appears in conjunction with the notice, the producer’s name shall be considered a part of the notice.
 
-    (c) __Position of Notice.—__ 
+    (c)  __Position of Notice__  __.—__ 
 
     The notice shall be placed on the surface of the phonorecord, or on the phonorecord label or container, in such manner and location as to give reasonable notice of the claim of copyright.
 
-    (d) __Evidentiary Weight of Notice.—__ 
+    (d)  __Evidentiary Weight of Notice__  __.—__ 
 
     If a notice of copyright in the form and position specified by this section appears on the published phonorecord or phonorecords to which a defendant in a copyright infringement suit had access, then no weight shall be given to such a defendant’s interposition of a defense based on innocent infringement in mitigation of actual or statutory damages, except as provided in the last sentence of section 504(c)(2).
 

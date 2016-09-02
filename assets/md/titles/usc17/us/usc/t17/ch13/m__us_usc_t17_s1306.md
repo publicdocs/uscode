@@ -15,7 +15,7 @@
 
 ## § 1306. Design notice
 
-    (a) __Contents of Design Notice.—__ 
+    (a)  __Contents of Design Notice__  __.—__ 
 
         (1)
 
@@ -31,11 +31,11 @@
 
         (2) After registration, the registration number may be used instead of the elements specified in subparagraphs (B) and (C) of paragraph (1).
 
-    (b) __Location of Notice.—__ 
+    (b)  __Location of Notice__  __.—__ 
 
     The design notice shall be so located and applied as to give reasonable notice of design protection while the useful article embodying the design is passing through its normal channels of commerce.
 
-    (c) __Subsequent Removal of Notice.—__ 
+    (c)  __Subsequent Removal of Notice__  __.—__ 
 
     When the owner of a design has complied with the provisions of this section, protection under this chapter shall not be affected by the removal, destruction, or obliteration by others of the design notice on an article.
 

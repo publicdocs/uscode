@@ -17,19 +17,19 @@
 
     (a) __Filing of Claims and Negotiations.—__ 
 
-        (1) __Filing of claims.—__ 
+        (1)  __Filing of claims__  __.—__ 
 
         During the first 2 months of each calendar year, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Copyright Royalty Judges a claim for payments collected during the preceding year in such form and manner as the Copyright Royalty Judges shall prescribe by regulation.
 
-        (2) __Negotiations.—__ 
+        (2)  __Negotiations__  __.—__ 
 
         Notwithstanding any provision of the antitrust laws, for purposes of this section interested copyright parties within each group specified in section 1006(b) may agree among themselves to the proportionate division of royalty payments, may lump their claims together and file them jointly or as a single claim, or may designate a common agent, including any organization described in section 1001(7)(D), to negotiate or receive payment on their behalf; except that no agreement under this subsection may modify the allocation of royalties specified in section 1006(b).
 
-    (b) __Distribution of Payments in the Absence of a Dispute.—__ 
+    (b)  __Distribution of Payments in the Absence of a Dispute__  __.—__ 
 
     After the period established for the filing of claims under subsection (a), in each year, the Copyright Royalty Judges shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Copyright Royalty Judges determine that no such controversy exists, the Copyright Royalty Judges shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a). The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section.
 
-    (c) __Resolution of Disputes.—__ 
+    (c)  __Resolution of Disputes__  __.—__ 
 
     If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty payments. During the pendency of such a proceeding, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section.
 

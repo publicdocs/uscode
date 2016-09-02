@@ -293,11 +293,11 @@
 
 [Pub. L. 105–304, title I, § 105][/us/pl/105/304/s105], Oct. 28, 1998, [112 Stat. 2877][/us/stat/112/2877], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this title \[see [section 101 of Pub. L. 105–304][/us/pl/105/304/s101], set out as a Short Title of 1998 Amendment note below\], this title and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\].
 
->     “(b) __Amendments Relating to Certain International Agreements.—__ 
+>     “(b)  __Amendments Relating to Certain International Agreements__  __.—__ 
 
 >         (1)
 
@@ -363,11 +363,11 @@
 
 [Pub. L. 100–568, § 13][/us/pl/100/568/s13], Oct. 31, 1988, [102 Stat. 2861][/us/stat/102/2861], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This Act and the amendments made by this Act \[enacting [section 116A of this title][/us/usc/t17/s116A], amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] take effect on the date on which the Berne Convention (as defined in [section 101 of title 17][/us/usc/t17/s101], United States Code) enters into force with respect to the United States \[Mar. 1, 1989\]. \[The Berne Convention entered into force with respect to the United States on Mar. 1, 1989.\]
 
->     “(b) __Effect on Pending Cases.—__ 
+>     “(b)  __Effect on Pending Cases__  __.—__ 
 
 >     Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
 
@@ -615,7 +615,7 @@
 
 [Pub. L. 100–568, § 3][/us/pl/100/568/s3], Oct. 31, 1988, [102 Stat. 2853][/us/stat/102/2853], provided that:
 
->     “(a) __Relationship With Domestic Law.—__ 
+>     “(a)  __Relationship With Domestic Law__  __.—__ 
 
 >     The provisions of the Berne Convention—
 
@@ -623,7 +623,7 @@
 
 >         “(2) shall not be enforceable in any action brought pursuant to the provisions of the Berne Convention itself.
 
->     “(b) __Certain Rights Not Affected.—__ 
+>     “(b)  __Certain Rights Not Affected__  __.—__ 
 
 >     The provisions of the Berne Convention, the adherence of the United States thereto, and satisfaction of United States obligations thereunder, do not expand or reduce any right of an author of a work, whether claimed under Federal, State, or the common law—
 

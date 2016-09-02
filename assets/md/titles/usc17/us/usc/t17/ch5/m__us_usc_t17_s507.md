@@ -15,11 +15,11 @@
 
 ## § 507. Limitations on actions
 
-    (a) __Criminal Proceedings.—__ 
+    (a)  __Criminal Proceedings__  __.—__ 
 
     Except as expressly provided otherwise in this title, no criminal proceeding shall be maintained under the provisions of this title unless it is commenced within 5 years after the cause of action arose.
 
-    (b) __Civil Actions.—__ 
+    (b)  __Civil Actions__  __.—__ 
 
     No civil action shall be maintained under the provisions of this title unless it is commenced within three years after the claim accrued.
 

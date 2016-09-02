@@ -15,11 +15,11 @@
 
 ## § 511. Liability of States, instrumentalities of States, and State officials for infringement of copyright
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity, shall not be immune, under the Eleventh Amendment of the Constitution of the United States or under any other doctrine of sovereign immunity, from suit in Federal court by any person, including any governmental or nongovernmental entity, for a violation of any of the exclusive rights of a copyright owner provided by sections 106 through 122, for importing copies of phonorecords in violation of section 602, or for any other violation under this title.
 
-    (b) __Remedies.—__ 
+    (b)  __Remedies__  __.—__ 
 
     In a suit described in subsection (a) for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any public or private entity other than a State, instrumentality of a State, or officer or employee of a State acting in his or her official capacity. Such remedies include impounding and disposition of infringing articles under section 503, actual damages and profits and statutory damages under section 504, costs and attorney’s fees under section 505, and the remedies provided in section 510.
 

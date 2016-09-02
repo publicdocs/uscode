@@ -57,11 +57,11 @@
 
 [Pub. L. 101–319, § 5][/us/pl/101/319/s5], July 3, 1990, [104 Stat. 291][/us/stat/104/291], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     The amendments made by this Act \[amending this section and [section 802 of this title][/us/usc/t17/s802] and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under [section 101 of this title][/us/usc/t17/s101]\] shall take effect on the date of the enactment of this Act \[July 3, 1990\].
 
->     “(b) __Budget Act.—__ 
+>     “(b)  __Budget Act__  __.—__ 
 
 >     Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[[2 U.S.C. 651][/us/usc/t2/s651]\]) which is provided under this Act shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriations Acts.”
 

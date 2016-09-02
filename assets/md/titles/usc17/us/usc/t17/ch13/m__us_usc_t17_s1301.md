@@ -17,19 +17,19 @@
 
     (a) __Designs Protected.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The designer or other owner of an original design of a useful article which makes the article attractive or distinctive in appearance to the purchasing or using public may secure the protection provided by this chapter upon complying with and subject to this chapter.
 
-        (2) __Vessel features.—__ 
+        (2)  __Vessel features__  __.—__ 
 
         The design of a vessel hull, deck, or combination of a hull and deck, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).
 
-        (3) __Exceptions.—__ 
+        (3)  __Exceptions__  __.—__ 
 
         Department of Defense rights in a registered design under this chapter, including the right to build to such registered design, shall be determined solely by operation of [section 2320 of title 10][/us/usc/t10/s2320] or by the instrument under which the design was developed for the United States Government.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     For the purpose of this chapter, the following terms have the following meanings:
 
@@ -79,11 +79,11 @@
 
 [Pub. L. 105–304, title V, § 504][/us/pl/105/304/s504], Oct. 28, 1998, [112 Stat. 2917][/us/stat/112/2917], as amended by [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4741(b)(1), title V, § 5005(a)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–586, 1501A–593, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than November 1, 2003, the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a joint report evaluating the effect of the amendments made by this title \[enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\].
 
->     “(b) __Elements for Consideration.—__ 
+>     “(b)  __Elements for Consideration__  __.—__ 
 
 >     In carrying out subsection (a), the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall consider—
 

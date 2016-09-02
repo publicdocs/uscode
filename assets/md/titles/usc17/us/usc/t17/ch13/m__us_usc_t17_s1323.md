@@ -15,23 +15,23 @@
 
 ## § 1323. Recovery for infringement
 
-    (a) __Damages.—__ 
+    (a)  __Damages__  __.—__ 
 
     Upon a finding for the claimant in an action for infringement under this chapter, the court shall award the claimant damages adequate to compensate for the infringement. In addition, the court may increase the damages to such amount, not exceeding $50,000 or $1 per copy, whichever is greater, as the court determines to be just. The damages awarded shall constitute compensation and not a penalty. The court may receive expert testimony as an aid to the determination of damages.
 
-    (b) __Infringer’s Profits.—__ 
+    (b)  __Infringer’s Profits__  __.—__ 
 
     As an alternative to the remedies provided in subsection (a), the court may award the claimant the infringer’s profits resulting from the sale of the copies if the court finds that the infringer’s sales are reasonably related to the use of the claimant’s design. In such a case, the claimant shall be required to prove only the amount of the infringer’s sales and the infringer shall be required to prove its expenses against such sales.
 
-    (c) __Statute of Limitations.—__ 
+    (c)  __Statute of Limitations__  __.—__ 
 
     No recovery under subsection (a) or (b) shall be had for any infringement committed more than 3 years before the date on which the complaint is filed.
 
-    (d) __Attorney’s Fees.—__ 
+    (d)  __Attorney’s Fees__  __.—__ 
 
     In an action for infringement under this chapter, the court may award reasonable attorney’s fees to the prevailing party.
 
-    (e) __Disposition of Infringing and Other Articles.—__ 
+    (e)  __Disposition of Infringing and Other Articles__  __.—__ 
 
     The court may order that all infringing articles, and any plates, molds, patterns, models, or other means specifically adapted for making the articles, be delivered up for destruction or other disposition as the court may direct.
 

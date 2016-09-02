@@ -15,19 +15,19 @@
 
 ## § 1320. Ownership and transfer
 
-    (a) __Property Right in Design.—__ 
+    (a)  __Property Right in Design__  __.—__ 
 
     The property right in a design subject to protection under this chapter shall vest in the designer, the legal representatives of a deceased designer or of one under legal incapacity, the employer for whom the designer created the design in the case of a design made within the regular scope of the designer’s employment, or a person to whom the rights of the designer or of such employer have been transferred. The person in whom the property right is vested shall be considered the owner of the design.
 
-    (b) __Transfer of Property Right.—__ 
+    (b)  __Transfer of Property Right__  __.—__ 
 
     The property right in a registered design, or a design for which an application for registration has been or may be filed, may be assigned, granted, conveyed, or mortgaged by an instrument in writing, signed by the owner, or may be bequeathed by will.
 
-    (c) __Oath or Acknowledgment of Transfer.—__ 
+    (c)  __Oath or Acknowledgment of Transfer__  __.—__ 
 
     An oath or acknowledgment under section 1312 shall be prima facie evidence of the execution of an assignment, grant, conveyance, or mortgage under subsection (b).
 
-    (d) __Recordation of Transfer.—__ 
+    (d)  __Recordation of Transfer__  __.—__ 
 
     An assignment, grant, conveyance, or mortgage under subsection (b) shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, unless it is recorded in the Office of the Administrator within 3 months after its date of execution or before the date of such subsequent purchase or mortgage.
 

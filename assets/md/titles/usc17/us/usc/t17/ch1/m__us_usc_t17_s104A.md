@@ -23,25 +23,25 @@
 
             (B) Any work in which copyright is restored under this section shall subsist for the remainder of the term of copyright that the work would have otherwise been granted in the United States if the work never entered the public domain in the United States.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Any work in which the copyright was ever owned or administered by the Alien Property Custodian and in which the restored copyright would be owned by a government or instrumentality thereof, is not a restored work.
 
-    (b) __Ownership of Restored Copyright.—__ 
+    (b)  __Ownership of Restored Copyright__  __.—__ 
 
     A restored work vests initially in the author or initial rightholder of the work as determined by the law of the source country of the work.
 
-    (c) __Filing of Notice of Intent to Enforce Restored Copyright Against Reliance Parties.—__ 
+    (c)  __Filing of Notice of Intent to Enforce Restored Copyright Against Reliance Parties__  __.—__ 
 
     On or after the date of restoration, any person who owns a copyright in a restored work or an exclusive right therein may file with the Copyright Office a notice of intent to enforce that person’s copyright or exclusive right or may serve such a notice directly on a reliance party. Acceptance of a notice by the Copyright Office is effective as to any reliance parties but shall not create a presumption of the validity of any of the facts stated therein. Service on a reliance party is effective as to that reliance party and any other reliance parties with actual knowledge of such service and of the contents of that notice.
 
     (d) __Remedies for Infringement of Restored Copyrights.—__ 
 
-        (1) __Enforcement of copyright in restored works in the absence of a reliance party.—__ 
+        (1)  __Enforcement of copyright in restored works in the absence of a reliance party__  __.—__ 
 
         As against any party who is not a reliance party, the remedies provided in chapter 5 of this title shall be available on or after the date of restoration of a restored copyright with respect to an act of infringement of the restored copyright that is commenced on or after the date of restoration.
 
-        (2) __Enforcement of copyright in restored works as against reliance parties.—__ 
+        (2)  __Enforcement of copyright in restored works as against reliance parties__  __.—__ 
 
         As against a reliance party, except to the extent provided in paragraphs (3) and (4), the remedies provided in chapter 5 of this title shall be available, with respect to an act of infringement of a restored copyright, on or after the date of restoration of the restored copyright if the requirements of either of the following subparagraphs are met:
 
@@ -71,7 +71,7 @@
 
             In the event that notice is provided under both subparagraphs (A) and (B), the 12-month period referred to in such subparagraphs shall run from the earlier of publication or service of notice.
 
-        (3) __Existing derivative works.—__ 
+        (3)  __Existing derivative works__  __.—__ 
 
             (A)
 
@@ -85,13 +85,13 @@
 
             (B) In the absence of an agreement between the parties, the amount of such compensation shall be determined by an action in United States district court, and shall reflect any harm to the actual or potential market for or value of the restored work from the reliance party’s continued exploitation of the work, as well as compensation for the relative contributions of expression of the author of the restored work and the reliance party to the derivative work.
 
-        (4) __Commencement of infringement for reliance parties.—__ 
+        (4)  __Commencement of infringement for reliance parties__  __.—__ 
 
         For purposes of section 412, in the case of reliance parties, infringement shall be deemed to have commenced before registration when acts which would have constituted infringement had the restored work been subject to copyright were commenced before the date of restoration.
 
     (e) __Notices of Intent To Enforce a Restored Copyright.—__ 
 
-        (1) __Notices of intent filed with the copyright office.—__ 
+        (1)  __Notices of intent filed with the copyright office__  __.—__ 
 
             (A)
 
@@ -115,27 +115,27 @@
 
                 (ii) Such regulations shall permit owners of restored copyrights to file simultaneously for registration of the restored copyright.
 
-        (2) __Notices of intent served on a reliance party.—__ 
+        (2)  __Notices of intent served on a reliance party__  __.—__ 
 
             (A) Notices of intent to enforce a restored copyright may be served on a reliance party at any time after the date of restoration of the restored copyright.
 
             (B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner’s agent, shall identify the restored work and the work in which the restored work is used, if any, in detail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
 
-        (3) __Effect of material false statements.—__ 
+        (3)  __Effect of material false statements__  __.—__ 
 
         Any material false statement knowingly made with respect to any restored copyright identified in any notice of intent shall make void all claims and assertions made with respect to such restored copyright.
 
     (f) __Immunity From Warranty and Related Liability.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any person who warrants, promises, or guarantees that a work does not violate an exclusive right granted in section 106 shall not be liable for legal, equitable, arbitral, or administrative relief if the warranty, promise, or guarantee is breached by virtue of the restoration of copyright under this section, if such warranty, promise, or guarantee is made before January 1, 1995.
 
-        (2) __Performances.—__ 
+        (2)  __Performances__  __.—__ 
 
         No person shall be required to perform any act if such performance is made infringing by virtue of the restoration of copyright under the provisions of this section, if the obligation to perform was undertaken before January 1, 1995.
 
-    (g) __Proclamation of Copyright Restoration.—__ 
+    (g)  __Proclamation of Copyright Restoration__  __.—__ 
 
     Whenever the President finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States, restored copyright protection on substantially the same basis as provided under this section, the President may by proclamation extend restored protection provided under this section to any work—
 
@@ -145,7 +145,7 @@
 
         The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under such a proclamation.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     For purposes of this section and section 109(a):
 

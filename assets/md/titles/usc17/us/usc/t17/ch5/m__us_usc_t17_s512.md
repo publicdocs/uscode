@@ -15,7 +15,7 @@
 
 ## § 512. Limitations on liability relating to material online
 
-    (a) __Transitory Digital Network Communications.—__ 
+    (a)  __Transitory Digital Network Communications__  __.—__ 
 
     A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider’s transmitting, routing, or providing connections for, material through a system or network controlled or operated by or for the service provider, or by reason of the intermediate and transient storage of that material in the course of such transmitting, routing, or providing connections, if—
 
@@ -31,7 +31,7 @@
 
     (b) __System Caching.—__ 
 
-        (1) __Limitation on liability.—__ 
+        (1)  __Limitation on liability__  __.—__ 
 
         A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the intermediate and temporary storage of material on a system or network controlled or operated by or for the service provider in a case in which—
 
@@ -43,7 +43,7 @@
 
             if the conditions set forth in paragraph (2) are met.
 
-        (2) __Conditions.—__ 
+        (2)  __Conditions__  __.—__ 
 
         The conditions referred to in paragraph (1) are that—
 
@@ -73,7 +73,7 @@
 
     (c) __Information Residing on Systems or Networks At Direction of Users.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the storage at the direction of a user of material that resides on a system or network controlled or operated by or for the service provider, if the service provider—
 
@@ -89,7 +89,7 @@
 
             (C) upon notification of claimed infringement as described in paragraph (3), responds expeditiously to remove, or disable access to, the material that is claimed to be infringing or to be the subject of infringing activity.
 
-        (2) __Designated agent.—__ 
+        (2)  __Designated agent__  __.—__ 
 
         The limitations on liability established in this subsection apply to a service provider only if the service provider has designated an agent to receive notifications of claimed infringement described in paragraph (3), by making available through its service, including on its website in a location accessible to the public, and by providing to the Copyright Office, substantially the following information:
 
@@ -123,7 +123,7 @@
 
                 (ii) In a case in which the notification that is provided to the service provider’s designated agent fails to comply substantially with all the provisions of subparagraph (A) but substantially complies with clauses (ii), (iii), and (iv) of subparagraph (A), clause (i) of this subparagraph applies only if the service provider promptly attempts to contact the person making the notification or takes other reasonable steps to assist in the receipt of notification that substantially complies with all the provisions of subparagraph (A).
 
-    (d) __Information Location Tools.—__ 
+    (d)  __Information Location Tools__  __.—__ 
 
     A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider referring or linking users to an online location containing infringing material or infringing activity, by using information location tools, including a directory, index, reference, pointer, or hypertext link, if the service provider—
 
@@ -139,7 +139,7 @@
 
         (3) upon notification of claimed infringement as described in subsection (c)(3), responds expeditiously to remove, or disable access to, the material that is claimed to be infringing or to be the subject of infringing activity, except that, for purposes of this paragraph, the information described in subsection (c)(3)(A)(iii) shall be identification of the reference or link, to material or activity claimed to be infringing, that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate that reference or link.
 
-    (e) __Limitation on Liability of Nonprofit Educational Institutions.—__ 
+    (e)  __Limitation on Liability of Nonprofit Educational Institutions__  __.—__ 
 
         (1)
 
@@ -153,7 +153,7 @@
 
         (2) For the purposes of this subsection, the limitations on injunctive relief contained in subsections (j)(2) and (j)(3), but not those in (j)(1), shall apply.
 
-    (f) __Misrepresentations.—__ 
+    (f)  __Misrepresentations__  __.—__ 
 
     Any person who knowingly materially misrepresents under this section—
 
@@ -165,11 +165,11 @@
 
     (g) __Replacement of Removed or Disabled Material and Limitation on Other Liability.—__ 
 
-        (1) __No liability for taking down generally.—__ 
+        (1)  __No liability for taking down generally__  __.—__ 
 
         Subject to paragraph (2), a service provider shall not be liable to any person for any claim based on the service provider’s good faith disabling of access to, or removal of, material or activity claimed to be infringing or based on facts or circumstances from which infringing activity is apparent, regardless of whether the material or activity is ultimately determined to be infringing.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Paragraph (1) shall not apply with respect to material residing at the direction of a subscriber of the service provider on a system or network controlled or operated by or for the service provider that is removed, or to which access is disabled by the service provider, pursuant to a notice provided under subsection (c)(1)(C), unless the service provider—
 
@@ -179,7 +179,7 @@
 
             (C) replaces the removed material and ceases disabling access to it not less than 10, nor more than 14, business days following receipt of the counter notice, unless its designated agent first receives notice from the person who submitted the notification under subsection (c)(1)(C) that such person has filed an action seeking a court order to restrain the subscriber from engaging in infringing activity relating to the material on the service provider’s system or network.
 
-        (3) __Contents of counter notification.—__ 
+        (3)  __Contents of counter notification__  __.—__ 
 
         To be effective under this subsection, a counter notification must be a written communication provided to the service provider’s designated agent that includes substantially the following:
 
@@ -191,17 +191,17 @@
 
             (D) The subscriber’s name, address, and telephone number, and a statement that the subscriber consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the subscriber’s address is outside of the United States, for any judicial district in which the service provider may be found, and that the subscriber will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person.
 
-        (4) __Limitation on other liability.—__ 
+        (4)  __Limitation on other liability__  __.—__ 
 
         A service provider’s compliance with paragraph (2) shall not subject the service provider to liability for copyright infringement with respect to the material identified in the notice provided under subsection (c)(1)(C).
 
     (h) __Subpoena To Identify Infringer.—__ 
 
-        (1) __Request.—__ 
+        (1)  __Request__  __.—__ 
 
         A copyright owner or a person authorized to act on the owner’s behalf may request the clerk of any United States district court to issue a subpoena to a service provider for identification of an alleged infringer in accordance with this subsection.
 
-        (2) __Contents of request.—__ 
+        (2)  __Contents of request__  __.—__ 
 
         The request may be made by filing with the clerk—
 
@@ -211,25 +211,25 @@
 
             (C) a sworn declaration to the effect that the purpose for which the subpoena is sought is to obtain the identity of an alleged infringer and that such information will only be used for the purpose of protecting rights under this title.
 
-        (3) __Contents of subpoena.—__ 
+        (3)  __Contents of subpoena__  __.—__ 
 
         The subpoena shall authorize and order the service provider receiving the notification and the subpoena to expeditiously disclose to the copyright owner or person authorized by the copyright owner information sufficient to identify the alleged infringer of the material described in the notification to the extent such information is available to the service provider.
 
-        (4) __Basis for granting subpoena.—__ 
+        (4)  __Basis for granting subpoena__  __.—__ 
 
         If the notification filed satisfies the provisions of subsection (c)(3)(A), the proposed subpoena is in proper form, and the accompanying declaration is properly executed, the clerk shall expeditiously issue and sign the proposed subpoena and return it to the requester for delivery to the service provider.
 
-        (5) __Actions of service provider receiving subpoena.—__ 
+        (5)  __Actions of service provider receiving subpoena__  __.—__ 
 
         Upon receipt of the issued subpoena, either accompanying or subsequent to the receipt of a notification described in subsection (c)(3)(A), the service provider shall expeditiously disclose to the copyright owner or person authorized by the copyright owner the information required by the subpoena, notwithstanding any other provision of law and regardless of whether the service provider responds to the notification.
 
-        (6) __Rules applicable to subpoena.—__ 
+        (6)  __Rules applicable to subpoena__  __.—__ 
 
         Unless otherwise provided by this section or by applicable rules of the court, the procedure for issuance and delivery of the subpoena, and the remedies for noncompliance with the subpoena, shall be governed to the greatest extent practicable by those provisions of the Federal Rules of Civil Procedure governing the issuance, service, and enforcement of a subpoena duces tecum.
 
     (i) __Conditions for Eligibility.—__ 
 
-        (1) __Accommodation of technology.—__ 
+        (1)  __Accommodation of technology__  __.—__ 
 
         The limitations on liability established by this section shall apply to a service provider only if the service provider—
 
@@ -237,7 +237,7 @@
 
             (B) accommodates and does not interfere with standard technical measures.
 
-        (2) __Definition.—__ 
+        (2)  __Definition__  __.—__ 
 
         As used in this subsection, the term “standard technical measures” means technical measures that are used by copyright owners to identify or protect copyrighted works and—
 
@@ -247,11 +247,11 @@
 
             (C) do not impose substantial costs on service providers or substantial burdens on their systems or networks.
 
-    (j) __Injunctions.—__ 
+    (j)  __Injunctions__  __.—__ 
 
     The following rules shall apply in the case of any application for an injunction under section 502 against a service provider that is not subject to monetary remedies under this section:
 
-        (1) __Scope of relief.—__ 
+        (1)  __Scope of relief__  __.—__ 
 
             (A)
 
@@ -271,7 +271,7 @@
 
                 (ii) An order restraining the service provider from providing access, by taking reasonable steps specified in the order to block access, to a specific, identified, online location outside the United States.
 
-        (2) __Considerations.—__ 
+        (2)  __Considerations__  __.—__ 
 
         The court, in considering the relevant criteria for injunctive relief under applicable law, shall consider—
 
@@ -283,27 +283,27 @@
 
             (D) whether other less burdensome and comparably effective means of preventing or restraining access to the infringing material are available.
 
-        (3) __Notice and ex parte orders.—__ 
+        (3)  __Notice and ex parte orders__  __.—__ 
 
         Injunctive relief under this subsection shall be available only after notice to the service provider and an opportunity for the service provider to appear are provided, except for orders ensuring the preservation of evidence or other orders having no material adverse effect on the operation of the service provider’s communications network.
 
     (k) __Definitions.—__ 
 
-        (1) __Service provider.—__ 
+        (1)  __Service provider__  __.—__ 
 
             (A) As used in subsection (a), the term “service provider” means an entity offering the transmission, routing, or providing of connections for digital online communications, between or among points specified by a user, of material of the user’s choosing, without modification to the content of the material as sent or received.
 
             (B) As used in this section, other than subsection (a), the term “service provider” means a provider of online services or network access, or the operator of facilities therefor, and includes an entity described in subparagraph (A).
 
-        (2) __Monetary relief.—__ 
+        (2)  __Monetary relief__  __.—__ 
 
         As used in this section, the term “monetary relief” means damages, costs, attorneys’ fees, and any other form of monetary payment.
 
-    (l) __Other Defenses Not Affected.—__ 
+    (l)  __Other Defenses Not Affected__  __.—__ 
 
     The failure of a service provider’s conduct to qualify for limitation of liability under this section shall not bear adversely upon the consideration of a defense by the service provider that the service provider’s conduct is not infringing under this title or any other defense.
 
-    (m) __Protection of Privacy.—__ 
+    (m)  __Protection of Privacy__  __.—__ 
 
     Nothing in this section shall be construed to condition the applicability of subsections (a) through (d) on—
 
@@ -311,7 +311,7 @@
 
         (2) a service provider gaining access to, removing, or disabling access to material in cases in which such conduct is prohibited by law.
 
-    (n) __Construction.—__ 
+    (n)  __Construction__  __.—__ 
 
     Subsections (a), (b), (c), and (d) describe separate and distinct functions for purposes of applying this section. Whether a service provider qualifies for the limitation on liability in any one of those subsections shall be based solely on the criteria in that subsection, and shall not affect a determination of whether that service provider qualifies for the limitations on liability under any other such subsection.
 

@@ -15,7 +15,7 @@
 
 ## § 1328. Enforcement by Treasury and Postal Service
 
-    (a) __Regulations.—__ 
+    (a)  __Regulations__  __.—__ 
 
     The Secretary of the Treasury and the United States Postal Service shall separately or jointly issue regulations for the enforcement of the rights set forth in section 1308 with respect to importation. Such regulations may require, as a condition for the exclusion of articles from the United States, that the person seeking exclusion take any one or more of the following actions:
 
@@ -25,7 +25,7 @@
 
         (3) Post a surety bond for any injury that may result if the detention or exclusion of the articles proves to be unjustified.
 
-    (b) __Seizure and Forfeiture.—__ 
+    (b)  __Seizure and Forfeiture__  __.—__ 
 
     Articles imported in violation of the rights set forth in section 1308 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
 

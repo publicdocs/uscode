@@ -15,7 +15,7 @@
 
 ## § 1312. Oaths and acknowledgments
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Oaths and acknowledgments required by this chapter—
 
@@ -29,7 +29,7 @@
 
         (2) shall be valid if they comply with the laws of the State or country where made.
 
-    (b) __Written Declaration in Lieu of Oath.—__ 
+    (b)  __Written Declaration in Lieu of Oath__  __.—__ 
 
         (1) The Administrator may by rule prescribe that any document which is to be filed under this chapter in the Office of the Administrator and which is required by any law, rule, or other regulation to be under oath, may be subscribed to by a written declaration in such form as the Administrator may prescribe, and such declaration shall be in lieu of the oath otherwise required.
 

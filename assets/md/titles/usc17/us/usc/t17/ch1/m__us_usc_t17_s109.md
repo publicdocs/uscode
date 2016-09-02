@@ -125,15 +125,15 @@
 
 [Pub. L. 101–650, title VIII, § 804][/us/pl/101/650/s804], Dec. 1, 1990, [104 Stat. 5136][/us/stat/104/5136], as amended by [Pub. L. 103–465, title V, § 511][/us/pl/103/465/s511], Dec. 8, 1994, [108 Stat. 4974][/us/stat/108/4974], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), this title \[amending this section and enacting provisions set out as notes under sections 101 and 205 of this title\] and the amendments made in section 802 \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 1, 1990\]. The amendment made by section 803 \[amending this section\] shall take effect one year after such date of enactment.
 
->     “(b) __Prospective Application.—__ 
+>     “(b)  __Prospective Application__  __.—__ 
 
 >     [Section 109(b) of title 17][/us/usc/t17/s109/b], United States Code, as amended by section 802 of this Act, shall not affect the right of a person in possession of a particular copy of a computer program, who acquired such copy before the date of the enactment of this Act \[Dec. 1, 1990\], to dispose of the possession of that copy on or after such date of enactment in any manner permitted by [section 109 of title 17][/us/usc/t17/s109], United States Code, as in effect on the day before such date of enactment.
 
->     “(c) __Termination.—__ 
+>     “(c)  __Termination__  __.—__ 
 
 >     The amendments made by section 803 shall not apply to public performances or displays that occur on or after October 1, 1995.”
 
@@ -151,7 +151,7 @@
 
 [Pub. L. 105–304, title I, § 104][/us/pl/105/304/s104], Oct. 28, 1998, [112 Stat. 2876][/us/stat/112/2876], provided that:
 
->     “(a) __Evaluation by the Register of Copyrights and the Assistant Secretary for Communications and Information.—__ 
+>     “(a)  __Evaluation by the Register of Copyrights and the Assistant Secretary for Communications and Information__  __.—__ 
 
 >     The Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall jointly evaluate—
 
@@ -159,7 +159,7 @@
 
 >         “(2) the relationship between existing and emergent technology and the operation of sections 109 and 117 of title 17, United States Code.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     The Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall, not later than 24 months after the date of the enactment of this Act \[Oct. 28, 1998\], submit to the Congress a joint report on the evaluation conducted under subsection (a), including any legislative recommendations the Register and the Assistant Secretary may have.”
 

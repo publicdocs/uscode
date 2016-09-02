@@ -15,15 +15,15 @@
 
 ## § 205. Recordation of transfers and other documents
 
-    (a) __Conditions for Recordation.—__ 
+    (a)  __Conditions for Recordation__  __.—__ 
 
     Any transfer of copyright ownership or other document pertaining to a copyright may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the person who executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document. A sworn or official certification may be submitted to the Copyright Office electronically, pursuant to regulations established by the Register of Copyrights.
 
-    (b) __Certificate of Recordation.—__ 
+    (b)  __Certificate of Recordation__  __.—__ 
 
     The Register of Copyrights shall, upon receipt of a document as provided by subsection (a) and of the fee provided by section 708, record the document and return it with a certificate of recordation.
 
-    (c) __Recordation as Constructive Notice.—__ 
+    (c)  __Recordation as Constructive Notice__  __.—__ 
 
     Recordation of a document in the Copyright Office gives all persons constructive notice of the facts stated in the recorded document, but only if—
 
@@ -31,11 +31,11 @@
 
         (2) registration has been made for the work.
 
-    (d) __Priority Between Conflicting Transfers.—__ 
+    (d)  __Priority Between Conflicting Transfers__  __.—__ 
 
     As between two conflicting transfers, the one executed first prevails if it is recorded, in the manner required to give constructive notice under subsection (c), within one month after its execution in the United States or within two months after its execution outside the United States, or at any time before recordation in such manner of the later transfer. Otherwise the later transfer prevails if recorded first in such manner, and if taken in good faith, for valuable consideration or on the basis of a binding promise to pay royalties, and without notice of the earlier transfer.
 
-    (e) __Priority Between Conflicting Transfer of Ownership and Nonexclusive License.—__ 
+    (e)  __Priority Between Conflicting Transfer of Ownership and Nonexclusive License__  __.—__ 
 
     A nonexclusive license, whether recorded or not, prevails over a conflicting transfer of copyright ownership if the license is evidenced by a written instrument signed by the owner of the rights licensed or such owner’s duly authorized agent, and if—
 
@@ -69,19 +69,19 @@
 
 [Pub. L. 101–650, title VIII, § 805][/us/pl/101/650/s805], Dec. 1, 1990, [104 Stat. 5136][/us/stat/104/5136], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Register of Copyrights is authorized, upon receipt of any document designated as pertaining to computer shareware and the fee prescribed by [section 708 of title 17][/us/usc/t17/s708], United States Code, to record the document and return it with a certificate of recordation.
 
->     “(b) __Maintenance of Records; Publication of Information.—__ 
+>     “(b)  __Maintenance of Records; Publication of Information__  __.—__ 
 
 >     The Register of Copyrights is authorized to maintain current, separate records relating to the recordation of documents under subsection (a), and to compile and publish at periodic intervals information relating to such recordations. Such publications shall be offered for sale to the public at prices based on the cost of reproduction and distribution.
 
->     “(c) __Deposit of Copies in Library of Congress.—__ 
+>     “(c)  __Deposit of Copies in Library of Congress__  __.—__ 
 
 >     In the case of public domain computer software, at the election of the person recording a document under subsection (a), 2 complete copies of the best edition (as defined in [section 101 of title 17][/us/usc/t17/s101], United States Code) of the computer software as embodied in machine-readable form may be deposited for the benefit of the Machine-Readable Collections Reading Room of the Library of Congress.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Register of Copyrights is authorized to establish regulations not inconsistent with law for the administration of the functions of the Register under this section. All regulations established by the Register are subject to the approval of the Librarian of Congress.”
 

@@ -15,11 +15,11 @@
 
 ## § 408. Copyright registration in general
 
-    (a) __Registration Permissive.—__ 
+    (a)  __Registration Permissive__  __.—__ 
 
     At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date, the owner of copyright or of any exclusive right in the work may obtain registration of the copyright claim by delivering to the Copyright Office the deposit specified by this section, together with the application and fee specified by sections 409 and 708. Such registration is not a condition of copyright protection.
 
-    (b) __Deposit for Copyright Registration.—__ 
+    (b)  __Deposit for Copyright Registration__  __.—__ 
 
     Except as provided by subsection (c), the material deposited for registration shall include—
 
@@ -57,25 +57,25 @@
 
             (D) the renewal application identifies each work separately, including the periodical containing it and its date of first publication.
 
-    (d) __Corrections and Amplifications.—__ 
+    (d)  __Corrections and Amplifications__  __.—__ 
 
     The Register may also establish, by regulation, formal procedures for the filing of an application for supplementary registration, to correct an error in a copyright registration or to amplify the information given in a registration. Such application shall be accompanied by the fee provided by section 708, and shall clearly identify the registration to be corrected or amplified. The information contained in a supplementary registration augments but does not supersede that contained in the earlier registration.
 
-    (e) __Published Edition of Previously Registered Work.—__ 
+    (e)  __Published Edition of Previously Registered Work__  __.—__ 
 
     Registration for the first published edition of a work previously registered in unpublished form may be made even though the work as published is substantially the same as the unpublished version.
 
     (f) __Preregistration of Works Being Prepared for Commercial Distribution.—__ 
 
-        (1) __Rulemaking.—__ 
+        (1)  __Rulemaking__  __.—__ 
 
         Not later than 180 days after the date of enactment of this subsection, the Register of Copyrights shall issue regulations to establish procedures for preregistration of a work that is being prepared for commercial distribution and has not been published.
 
-        (2) __Class of works.—__ 
+        (2)  __Class of works__  __.—__ 
 
         The regulations established under paragraph (1) shall permit preregistration for any work that is in a class of works that the Register determines has had a history of infringement prior to authorized commercial distribution.
 
-        (3) __Application for registration.—__ 
+        (3)  __Application for registration__  __.—__ 
 
         Not later than 3 months after the first publication of a work preregistered under this subsection, the applicant shall submit to the Copyright Office—
 
@@ -85,7 +85,7 @@
 
             (C) the applicable fee.
 
-        (4) __Effect of untimely application.—__ 
+        (4)  __Effect of untimely application__  __.—__ 
 
         An action under this chapter for infringement of a work preregistered under this subsection, in a case in which the infringement commenced no later than 2 months after the first publication of the work, shall be dismissed if the items described in paragraph (3) are not submitted to the Copyright Office in proper form within the earlier of—
 

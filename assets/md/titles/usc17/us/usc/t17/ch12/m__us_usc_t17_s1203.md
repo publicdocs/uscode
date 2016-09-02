@@ -15,11 +15,11 @@
 
 ## § 1203. Civil remedies
 
-    (a) __Civil Actions.—__ 
+    (a)  __Civil Actions__  __.—__ 
 
     Any person injured by a violation of section 1201 or 1202 may bring a civil action in an appropriate United States district court for such violation.
 
-    (b) __Powers of the Court.—__ 
+    (b)  __Powers of the Court__  __.—__ 
 
     In an action brought under subsection (a), the court—
 
@@ -37,7 +37,7 @@
 
     (c) __Award of Damages.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as otherwise provided in this title, a person committing a violation of section 1201 or 1202 is liable for either—
 
@@ -45,33 +45,33 @@
 
             (B) statutory damages, as provided in paragraph (3).
 
-        (2) __Actual damages.—__ 
+        (2)  __Actual damages__  __.—__ 
 
         The court shall award to the complaining party the actual damages suffered by the party as a result of the violation, and any profits of the violator that are attributable to the violation and are not taken into account in computing the actual damages, if the complaining party elects such damages at any time before final judgment is entered.
 
-        (3) __Statutory damages.—__ 
+        (3)  __Statutory damages__  __.—__ 
 
             (A) At any time before final judgment is entered, a complaining party may elect to recover an award of statutory damages for each violation of section 1201 in the sum of not less than $200 or more than $2,500 per act of circumvention, device, product, component, offer, or performance of service, as the court considers just.
 
             (B) At any time before final judgment is entered, a complaining party may elect to recover an award of statutory damages for each violation of section 1202 in the sum of not less than $2,500 or more than $25,000.
 
-        (4) __Repeated violations.—__ 
+        (4)  __Repeated violations__  __.—__ 
 
         In any case in which the injured party sustains the burden of proving, and the court finds, that a person has violated section 1201 or 1202 within 3 years after a final judgment was entered against the person for another such violation, the court may increase the award of damages up to triple the amount that would otherwise be awarded, as the court considers just.
 
         (5) __Innocent violations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The court in its discretion may reduce or remit the total award of damages in any case in which the violator sustains the burden of proving, and the court finds, that the violator was not aware and had no reason to believe that its acts constituted a violation.
 
             (B) __Nonprofit library, archives, educational institutions, or public broadcasting entities.—__ 
 
-                (i) __Definition.—__ 
+                (i)  __Definition__  __.—__ 
 
                 In this subparagraph, the term “public broadcasting entity” has the meaning given such term under section 118(f).
 
-                (ii) __In general.—__ 
+                (ii)  __In general__  __.—__ 
 
                 In the case of a nonprofit library, archives, educational institution, or public broadcasting entity, the court shall remit damages in any case in which the library, archives, educational institution, or public broadcasting entity sustains the burden of proving, and the court finds, that the library, archives, educational institution, or public broadcasting entity was not aware and had no reason to believe that its acts constituted a violation.
 

@@ -17,11 +17,11 @@
 
     (a) __Digital Audio Recording Devices.—__ 
 
-        (1) __Amount of payment.—__ 
+        (1)  __Amount of payment__  __.—__ 
 
         The royalty payment due under section 1003 for each digital audio recording device imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 2 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such device shall be required to pay the royalty with respect to such device.
 
-        (2) __Calculation for devices distributed with other devices.—__ 
+        (2)  __Calculation for devices distributed with other devices__  __.—__ 
 
         With respect to a digital audio recording device first distributed in combination with one or more devices, either as a physically integrated unit or as separate components, the royalty payment shall be calculated as follows:
 
@@ -31,11 +31,11 @@
 
             (C) If the digital audio recording device is not part of a physically integrated unit and substantially similar devices have not been distributed separately at any time during the preceding 4 calendar quarters, the royalty payment shall be based on a constructed price reflecting the proportional value of such device to the combination as a whole.
 
-        (3) __Limits on royalties.—__ 
+        (3)  __Limits on royalties__  __.—__ 
 
         Notwithstanding paragraph (1) or (2), the amount of the royalty payment for each digital audio recording device shall not be less than $1 nor more than the royalty maximum. The royalty maximum shall be $8 per device, except that in the case of a physically integrated unit containing more than 1 digital audio recording device, the royalty maximum for such unit shall be $12. During the 6th year after the effective date of this chapter, and not more than once each year thereafter, any interested copyright party may petition the Copyright Royalty Judges to increase the royalty maximum and, if more than 20 percent of the royalty payments are at the relevant royalty maximum, the Copyright Royalty Judges shall prospectively increase such royalty maximum with the goal of having no more than 10 percent of such payments at the new royalty maximum; however the amount of any such increase as a percentage of the royalty maximum shall in no event exceed the percentage increase in the Consumer Price Index during the period under review.
 
-    (b) __Digital Audio Recording Media.—__ 
+    (b)  __Digital Audio Recording Media__  __.—__ 
 
     The royalty payment due under section 1003 for each digital audio recording medium imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 3 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such medium shall be required to pay the royalty with respect to such medium.
 

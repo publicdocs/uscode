@@ -15,11 +15,11 @@
 
 ## § 1315. Publication of announcements and indexes
 
-    (a) __Publications of the Administrator.—__ 
+    (a)  __Publications of the Administrator__  __.—__ 
 
     The Administrator shall publish lists and indexes of registered designs and cancellations of designs and may also publish the drawings or other pictorial representations of registered designs for sale or other distribution.
 
-    (b) __File of Representatives of Registered Designs.—__ 
+    (b)  __File of Representatives of Registered Designs__  __.—__ 
 
     The Administrator shall establish and maintain a file of the drawings or other pictorial representations of registered designs. The file shall be available for use by the public under such conditions as the Administrator may prescribe.
 

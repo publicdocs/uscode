@@ -21,11 +21,11 @@
 
     (c) This section does not limit or impair the exclusive right to perform publicly, by means of a phonorecord, any of the works specified by section 106(4).
 
-    (d) __Limitations on Exclusive Right.—__ 
+    (d)  __Limitations on Exclusive Right__  __.—__ 
 
     Notwithstanding the provisions of section 106(6)—
 
-        (1) __Exempt transmissions and retransmissions.—__ 
+        (1)  __Exempt transmissions and retransmissions__  __.—__ 
 
         The performance of a sound recording publicly by means of a digital audio transmission, other than as a part of an interactive service, is not an infringement of section 106(6) if the performance is part of—
 
@@ -69,7 +69,7 @@
 
                 (iv) a transmission to a business establishment for use in the ordinary course of its business: Provided, That the business recipient does not retransmit the transmission outside of its premises or the immediately surrounding vicinity, and that the transmission does not exceed the sound recording performance complement. Nothing in this clause shall limit the scope of the exemption in clause (ii).
 
-        (2) __Statutory licensing of certain transmissions.—__ 
+        (2)  __Statutory licensing of certain transmissions__  __.—__ 
 
         The performance of a sound recording publicly by means of a subscription digital audio transmission not exempt under paragraph (1), an eligible nonsubscription transmission, or a transmission not exempt under paragraph (1) that is made by a preexisting satellite digital audio radio service shall be subject to statutory licensing, in accordance with subsection (f) if—
 
@@ -317,11 +317,11 @@
 
             (B) an entity to perform publicly up to 45 seconds of the sound recording and the sole purpose of the performance is to promote the distribution or performance of that sound recording.
 
-    (i) __No Effect on Royalties for Underlying Works.—__ 
+    (i)  __No Effect on Royalties for Underlying Works__  __.—__ 
 
     License fees payable for the public performance of sound recordings under section 106(6) shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners of musical works for the public performance of their works. It is the intent of Congress that royalties payable to copyright owners of musical works for the public performance of their works shall not be diminished in any respect as a result of the rights granted by section 106(6).
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     As used in this section, the following terms have the following meanings:
 
@@ -601,21 +601,21 @@
 
 >     “(a) __Noncommercial Webcasters.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The payments to be made by noncommercial webcasters for the digital performance of sound recordings under [section 114 of title 17][/us/usc/t17/s114], United States Code, and the making of ephemeral phonorecords under [section 112 of title 17][/us/usc/t17/s112], United States Code, during the period beginning on October 28, 1998, and ending on May 31, 2003, which have not already been paid, shall not be due until June 20, 2003.
 
->         “(2) __Definition.—__ 
+>         “(2)  __Definition__  __.—__ 
 
 >         In this subsection, the term ‘noncommercial webcaster’ has the meaning given that term in [section 114(f)(5)(E)(i) of title 17][/us/usc/t17/s114/f/5/E/i], United States Code, as added by section 4 of this Act.
 
 >     “(b) __Small Commercial Webcasters.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The receiving agent may, in a writing signed by an authorized representative thereof, delay the obligation of any 1 or more small commercial webcasters to make payments pursuant to sections 112 and 114 of title 17, United States Code, for a period determined by such entity to allow negotiations as permitted in section 4 of this Act \[amending this section\], except that any such period shall end no later than December 15, 2002. The duration and terms of any such delay shall be as set forth in such writing.
 
->         “(2) __Definitions.—__ 
+>         “(2)  __Definitions__  __.—__ 
 
 >         In this subsection—
 

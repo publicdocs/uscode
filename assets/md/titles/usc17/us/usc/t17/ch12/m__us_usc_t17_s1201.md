@@ -15,7 +15,7 @@
 
 ## § 1201. Circumvention of copyright protection systems
 
-    (a) __Violations Regarding Circumvention of Technological Measures.—__ 
+    (a)  __Violations Regarding Circumvention of Technological Measures__  __.—__ 
 
         (1)
 
@@ -59,7 +59,7 @@
 
             (B) a technological measure “effectively controls access to a work” if the measure, in the ordinary course of its operation, requires the application of information, or a process or a treatment, with the authority of the copyright owner, to gain access to the work.
 
-    (b) __Additional Violations.—__ 
+    (b)  __Additional Violations__  __.—__ 
 
         (1)
 
@@ -79,9 +79,9 @@
 
             (B) a technological measure “effectively protects a right of a copyright owner under this title” if the measure, in the ordinary course of its operation, prevents, restricts, or otherwise limits the exercise of a right of a copyright owner under this title.
 
-    (c) __Other Rights, Etc.__ 
+    (c)  __Other Rights, Etc., Not Affected__  __.—__ 
 
-    , Not Affected.—(1) Nothing in this section shall affect rights, remedies, limitations, or defenses to copyright infringement, including fair use, under this title.
+        (1) Nothing in this section shall affect rights, remedies, limitations, or defenses to copyright infringement, including fair use, under this title.
 
         (2) Nothing in this section shall enlarge or diminish vicarious or contributory liability for copyright infringement in connection with any technology, product, service, device, component, or part thereof.
 
@@ -89,7 +89,7 @@
 
         (4) Nothing in this section shall enlarge or diminish any rights of free speech or the press for activities using consumer electronics, telecommunications, or computing products.
 
-    (d) __Exemption for Nonprofit Libraries, Archives, and Educational Institutions.—__ 
+    (d)  __Exemption for Nonprofit Libraries, Archives, and Educational Institutions__  __.—__ 
 
         (1)
 
@@ -119,11 +119,11 @@
 
             (B) available not only to researchers affiliated with the library or archives or with the institution of which it is a part, but also to other persons doing research in a specialized field.
 
-    (e) __Law Enforcement, Intelligence, and Other Government Activities.—__ 
+    (e)  __Law Enforcement, Intelligence, and Other Government Activities__  __.—__ 
 
     This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term “information security” means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network.
 
-    (f) __Reverse Engineering.—__ 
+    (f)  __Reverse Engineering__  __.—__ 
 
         (1) Notwithstanding the provisions of subsection (a)(1)(A), a person who has lawfully obtained the right to use a copy of a computer program may circumvent a technological measure that effectively controls access to a particular portion of that program for the sole purpose of identifying and analyzing those elements of the program that are necessary to achieve interoperability of an independently created computer program with other programs, and that have not previously been readily available to the person engaging in the circumvention, to the extent any such acts of identification and analysis do not constitute infringement under this title.
 
@@ -135,7 +135,7 @@
 
     (g) __Encryption Research.—__ 
 
-        (1) __Definitions.—__ 
+        (1)  __Definitions__  __.—__ 
 
         For purposes of this subsection—
 
@@ -143,7 +143,7 @@
 
             (B) the term “encryption technology” means the scrambling and descrambling of information using mathematical formulas or algorithms.
 
-        (2) __Permissible acts of encryption research.—__ 
+        (2)  __Permissible acts of encryption research__  __.—__ 
 
         Notwithstanding the provisions of subsection (a)(1)(A), it is not a violation of that subsection for a person to circumvent a technological measure as applied to a copy, phonorecord, performance, or display of a published work in the course of an act of good faith encryption research if—
 
@@ -155,7 +155,7 @@
 
             (D) such act does not constitute infringement under this title or a violation of applicable law other than this section, including [section 1030 of title 18][/us/usc/t18/s1030] and those provisions of title 18 amended by the Computer Fraud and Abuse Act of 1986.
 
-        (3) __Factors in determining exemption.—__ 
+        (3)  __Factors in determining exemption__  __.—__ 
 
         In determining whether a person qualifies for the exemption under paragraph (2), the factors to be considered shall include—
 
@@ -165,7 +165,7 @@
 
             (C) whether the person provides the copyright owner of the work to which the technological measure is applied with notice of the findings and documentation of the research, and the time when such notice is provided.
 
-        (4) __Use of technological means for research activities.—__ 
+        (4)  __Use of technological means for research activities__  __.—__ 
 
         Notwithstanding the provisions of subsection (a)(2), it is not a violation of that subsection for a person to—
 
@@ -173,7 +173,7 @@
 
             (B) provide the technological means to another person with whom he or she is working collaboratively for the purpose of conducting the acts of good faith encryption research described in paragraph (2) or for the purpose of having that other person verify his or her acts of good faith encryption research described in paragraph (2).
 
-        (5) __Report to congress.—__ 
+        (5)  __Report to congress__  __.—__ 
 
         Not later than 1 year after the date of the enactment of this chapter, the Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall jointly report to the Congress on the effect this subsection has had on—
 
@@ -185,7 +185,7 @@
 
             The report shall include legislative recommendations, if any.
 
-    (h) __Exceptions Regarding Minors.—__ 
+    (h)  __Exceptions Regarding Minors__  __.—__ 
 
     In applying subsection (a) to a component or part, the court may consider the necessity for its intended and actual incorporation in a technology, product, service, or device, which—
 
@@ -195,7 +195,7 @@
 
     (i) __Protection of Personally Identifying Information.—__ 
 
-        (1) __Circumvention permitted.—__ 
+        (1)  __Circumvention permitted__  __.—__ 
 
         Notwithstanding the provisions of subsection (a)(1)(A), it is not a violation of that subsection for a person to circumvent a technological measure that effectively controls access to a work protected under this title, if—
 
@@ -207,21 +207,21 @@
 
             (D) the act of circumvention is carried out solely for the purpose of preventing the collection or dissemination of personally identifying information about a natural person who seeks to gain access to the work protected, and is not in violation of any other law.
 
-        (2) __Inapplicability to certain technological measures.—__ 
+        (2)  __Inapplicability to certain technological measures__  __.—__ 
 
         This subsection does not apply to a technological measure, or a work it protects, that does not collect or disseminate personally identifying information and that is disclosed to a user as not having or using such capability.
 
     (j) __Security Testing.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         For purposes of this subsection, the term “security testing” means accessing a computer, computer system, or computer network, solely for the purpose of good faith testing, investigating, or correcting, a security flaw or vulnerability, with the authorization of the owner or operator of such computer, computer system, or computer network.
 
-        (2) __Permissible acts of security testing.—__ 
+        (2)  __Permissible acts of security testing__  __.—__ 
 
         Notwithstanding the provisions of subsection (a)(1)(A), it is not a violation of that subsection for a person to engage in an act of security testing, if such act does not constitute infringement under this title or a violation of applicable law other than this section, including [section 1030 of title 18][/us/usc/t18/s1030] and those provisions of title 18 amended by the Computer Fraud and Abuse Act of 1986.
 
-        (3) __Factors in determining exemption.—__ 
+        (3)  __Factors in determining exemption__  __.—__ 
 
         In determining whether a person qualifies for the exemption under paragraph (2), the factors to be considered shall include—
 
@@ -229,7 +229,7 @@
 
             (B) whether the information derived from the security testing was used or maintained in a manner that does not facilitate infringement under this title or a violation of applicable law other than this section, including a violation of privacy or breach of security.
 
-        (4) __Use of technological means for security testing.—__ 
+        (4)  __Use of technological means for security testing__  __.—__ 
 
         Notwithstanding the provisions of subsection (a)(2), it is not a violation of that subsection for a person to develop, produce, distribute or employ technological means for the sole purpose of performing the acts of security testing described in subsection (2), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(a)(2),”. </sup></sup>  provided such technological means does not otherwise violate section  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subsection”. </sup></sup>  (a)(2).
 
@@ -261,7 +261,7 @@
 
                 Manufacturers that have not previously manufactured or sold a VHS format analog video cassette recorder, or an 8mm format analog cassette recorder, shall be required to conform to the four-line colorstripe copy control technology in the initial model of any such recorder manufactured after the date of the enactment of this chapter, and thereafter to continue conforming to the four-line colorstripe copy control technology. For purposes of this subparagraph, an analog video cassette recorder “conforms to” the four-line colorstripe copy control technology if it records a signal that, when played back by the playback function of that recorder in the normal viewing mode, exhibits, on a reference display device, a display containing distracting visible lines through portions of the viewable picture.
 
-        (2) __Certain encoding restrictions.—__ 
+        (2)  __Certain encoding restrictions__  __.—__ 
 
         No person shall apply the automatic gain control copy control technology or colorstripe copy control technology to prevent or limit consumer copying except such copying—
 
@@ -275,7 +275,7 @@
 
             In the event that a transmission meets both the conditions set forth in subparagraph (A) and those set forth in subparagraph (B), the transmission shall be treated as a transmission described in subparagraph (A).
 
-        (3) __Inapplicability.—__ 
+        (3)  __Inapplicability__  __.—__ 
 
         This subsection shall not—
 
@@ -285,7 +285,7 @@
 
             (C) apply to the offer for sale or provision of, or other trafficking in, any previously owned analog video cassette recorder, if such recorder was legally manufactured and sold when new and not subsequently modified in violation of paragraph (1)(B).
 
-        (4) __Definitions.—__ 
+        (4)  __Definitions__  __.—__ 
 
         For purposes of this subsection:
 
@@ -305,7 +305,7 @@
 
             (E) The terms “VHS format”, “8mm format”, “Beta format”, “automatic gain control copy control technology”, “colorstripe copy control technology”, “four-line version of the colorstripe copy control technology”, and “NTSC” have the meanings that are commonly understood in the consumer electronics and motion picture industries as of the date of the enactment of this chapter.
 
-        (5) __Violations.—__ 
+        (5)  __Violations__  __.—__ 
 
         Any violation of paragraph (1) of this subsection shall be treated as a violation of subsection (b)(1) of this section. Any violation of paragraph (2) of this subsection shall be deemed an “act of circumvention” for the purposes of section 1203(c)(3)(A) of this chapter.
 
@@ -320,6 +320,64 @@
  __Amendments__ 
 
     1999—Subsec. (a)(1)(C). [Pub. L. 106–113][/us/pl/106/113] struck out “on the record” after “determination in a rulemaking proceeding” in first sentence.
+
+ __Unlocking Consumer Choice and Wireless Competition__ 
+
+[Pub. L. 113–144][/us/pl/113/144], Aug. 1, 2014, [128 Stat. 1751][/us/stat/128/1751], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Unlocking Consumer Choice and Wireless Competition Act’.
+
+> “SEC. 2. __REPEAL OF EXISTING RULE AND ADDITIONAL RULEMAKING BY LIBRARIAN OF CONGRESS.__ 
+
+>     “(a)  __Repeal and Replace__  __.—__ 
+
+>     As of the date of the enactment of this Act \[Aug. 1, 2014\], paragraph (3) of section 201.40(b) of title 37, Code of Federal Regulations, as amended and revised by the Librarian of Congress on October 28, 2012, pursuant to the Librarian’s authority under [section 1201(a) of title 17][/us/usc/t17/s1201/a], United States Code, shall have no force and effect, and such paragraph shall read, and shall be in effect, as such paragraph was in effect on July 27, 2010.
+
+>     “(b)  __Rulemaking__  __.—__ 
+
+>     The Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall determine, consistent with the requirements set forth under [section 1201(a)(1) of title 17][/us/usc/t17/s1201/a/1], United States Code, whether to extend the exemption for the class of works described in section 201.40(b)(3) of title 37, Code of Federal Regulations, as amended by subsection (a), to include any other category of wireless devices in addition to wireless telephone handsets. The determination shall be made in the first rulemaking under [section 1201(a)(1)(C) of title 17][/us/usc/t17/s1201/a/1/C], United States Code, that begins on or after the date of enactment of this Act \[Aug. 1, 2014\].
+
+>     “(c)  __Unlocking at Direction of Owner__  __.—__ 
+
+>     Circumvention of a technological measure that restricts wireless telephone handsets or other wireless devices from connecting to a wireless telecommunications network—
+
+>         “(1)
+
+>             (A) as authorized by paragraph (3) of section 201.40(b) of title 37, Code of Federal Regulations, as made effective by subsection (a); and
+
+>             “(B) as may be extended to other wireless devices pursuant to a determination in the rulemaking conducted under subsection (b); or
+
+>         “(2) as authorized by an exemption adopted by the Librarian of Congress pursuant to a determination made on or after the date of enactment of this Act \[Aug. 1, 2014\] under [section 1201(a)(1)(C) of title 17][/us/usc/t17/s1201/a/1/C], United States Code,
+
+>         may be initiated by the owner of any such handset or other device, by another person at the direction of the owner, or by a provider of a commercial mobile radio service or a commercial mobile data service at the direction of such owner or other person, solely in order to enable such owner or a family member of such owner to connect to a wireless telecommunications network, when such connection is authorized by the operator of such network.
+
+>     “(d) __Rule of Construction.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Except as expressly provided herein, nothing in this Act shall be construed to alter the scope of any party’s rights under existing law.
+
+>         “(2)  __Librarian of congress__  __.—__ 
+
+>         Nothing in this Act alters, or shall be construed to alter, the authority of the Librarian of Congress under [section 1201(a)(1) of title 17][/us/usc/t17/s1201/a/1], United States Code.
+
+>     “(e)  __Definitions__  __.—__ 
+
+>     In this Act:
+
+>         “(1)  __Commercial mobile data service; commercial mobile radio service__  __.—__ 
+
+>         The terms ‘commercial mobile data service’ and ‘commercial mobile radio service’ have the respective meanings given those terms in section 20.3 of title 47, Code of Federal Regulations, as in effect on the date of the enactment of this Act \[Aug. 1, 2014\].
+
+>         “(2)  __Wireless telecommunications network__  __.—__ 
+
+>         The term ‘wireless telecommunications network’ means a network used to provide a commercial mobile radio service or a commercial mobile data service.
+
+>         “(3)  __Wireless telephone handsets; wireless devices__  __.—__ 
+
+>         The terms ‘wireless telephone handset’ and ‘wireless device’ mean a handset or other device that operates on a wireless telecommunications network.”
 
 ----------
 
@@ -341,5 +399,12 @@
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/113/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F144
+[/us/stat/128/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1751
+[/us/usc/t17/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs1201%2Fa
+[/us/usc/t17/s1201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs1201%2Fa%2F1
+[/us/usc/t17/s1201/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs1201%2Fa%2F1%2FC
+[/us/usc/t17/s1201/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs1201%2Fa%2F1%2FC
+[/us/usc/t17/s1201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs1201%2Fa%2F1
 
 

@@ -17,39 +17,39 @@
 
     (a) __Qualifications of Copyright Royalty Judges.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each Copyright Royalty Judge shall be an attorney who has at least 7 years of legal experience. The Chief Copyright Royalty Judge shall have at least 5 years of experience in adjudications, arbitrations, or court trials. Of the other 2 Copyright Royalty Judges, 1 shall have significant knowledge of copyright law, and the other shall have significant knowledge of economics. An individual may serve as a Copyright Royalty Judge only if the individual is free of any financial conflict of interest under subsection (h).
 
-        (2) __Definition.—__ 
+        (2)  __Definition__  __.—__ 
 
         In this subsection, the term “adjudication” has the meaning given that term in [section 551 of title 5][/us/usc/t5/s551], but does not include mediation.
 
-    (b) __Staff.—__ 
+    (b)  __Staff__  __.—__ 
 
     The Chief Copyright Royalty Judge shall hire 3 full-time staff members to assist the Copyright Royalty Judges in performing their functions.
 
-    (c) __Terms.—__ 
+    (c)  __Terms__  __.—__ 
 
     The individual first appointed as the Chief Copyright Royalty Judge shall be appointed to a term of 6 years, and of the remaining individuals first appointed as Copyright Royalty Judges, 1 shall be appointed to a term of 4 years, and the other shall be appointed to a term of 2 years. Thereafter, the terms of succeeding Copyright Royalty Judges shall each be 6 years. An individual serving as a Copyright Royalty Judge may be reappointed to subsequent terms. The term of a Copyright Royalty Judge shall begin when the term of the predecessor of that Copyright Royalty Judge ends. When the term of office of a Copyright Royalty Judge ends, the individual serving that term may continue to serve until a successor is selected.
 
     (d) __Vacancies or Incapacity.—__ 
 
-        (1) __Vacancies.—__ 
+        (1)  __Vacancies__  __.—__ 
 
         If a vacancy should occur in the position of Copyright Royalty Judge, the Librarian of Congress shall act expeditiously to fill the vacancy, and may appoint an interim Copyright Royalty Judge to serve until another Copyright Royalty Judge is appointed under this section. An individual appointed to fill the vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed shall be appointed for the remainder of that term.
 
-        (2) __Incapacity.—__ 
+        (2)  __Incapacity__  __.—__ 
 
         In the case in which a Copyright Royalty Judge is temporarily unable to perform his or her duties, the Librarian of Congress may appoint an interim Copyright Royalty Judge to perform such duties during the period of such incapacity.
 
     (e) __Compensation.—__ 
 
-        (1) __Judges.—__ 
+        (1)  __Judges__  __.—__ 
 
         The Chief Copyright Royalty Judge shall receive compensation at the rate of basic pay payable for level AL–1 for administrative law judges pursuant to [section 5372(b) of title 5][/us/usc/t5/s5372/b], and each of the other two Copyright Royalty Judges shall receive compensation at the rate of basic pay payable for level AL–2 for administrative law judges pursuant to such section. The compensation of the Copyright Royalty Judges shall not be subject to any regulations adopted by the Office of Personnel Management pursuant to its authority under [section 5376(b)(1) of title 5][/us/usc/t5/s5376/b/1].
 
-        (2) __Staff members.—__ 
+        (2)  __Staff members__  __.—__ 
 
         Of the staff members appointed under subsection (b)—
 
@@ -59,7 +59,7 @@
 
             (C) the rate of pay for the third staff member shall be not less than the basic rate of pay payable for GS–8 of the General Schedule and not more than the basic rate of pay payable for level 10 of GS–11 of such Schedule.
 
-        (3) __Locality pay.—__ 
+        (3)  __Locality pay__  __.—__ 
 
         All rates of pay referred to under this subsection shall include locality pay.
 
@@ -67,49 +67,49 @@
 
         (1) __In making determinations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
                 (i) Subject to subparagraph (B) and clause (ii) of this subparagraph, the Copyright Royalty Judges shall have full independence in making determinations concerning adjustments and determinations of copyright royalty rates and terms, the distribution of copyright royalties, the acceptance or rejection of royalty claims, rate adjustment petitions, and petitions to participate, and in issuing other rulings under this title, except that the Copyright Royalty Judges may consult with the Register of Copyrights on any matter other than a question of fact.
 
                 (ii) One or more Copyright Royalty Judges may, or by motion to the Copyright Royalty Judges, any participant in a proceeding may, request from the Register of Copyrights an interpretation of any material questions of substantive law that relate to the construction of provisions of this title and arise in the course of the proceeding. Any request for a written interpretation shall be in writing and on the record, and reasonable provision shall be made to permit participants in the proceeding to comment on the material questions of substantive law in a manner that minimizes duplication and delay. Except as provided in subparagraph (B), the Register of Copyrights shall deliver to the Copyright Royalty Judges a written response within 14 days after the receipt of all briefs and comments from the participants. The Copyright Royalty Judges shall apply the legal interpretation embodied in the response of the Register of Copyrights if it is timely delivered, and the response shall be included in the record that accompanies the final determination. The authority under this clause shall not be construed to authorize the Register of Copyrights to provide an interpretation of questions of procedure before the Copyright Royalty Judges, the ultimate adjustments and determinations of copyright royalty rates and terms, the ultimate distribution of copyright royalties, or the acceptance or rejection of royalty claims, rate adjustment petitions, or petitions to participate in a proceeding.
 
-            (B) __Novel questions.—__ 
+            (B)  __Novel questions__  __.—__ 
 
                 (i) In any case in which a novel material question of substantive law concerning an interpretation of those provisions of this title that are the subject of the proceeding is presented, the Copyright Royalty Judges shall request a decision of the Register of Copyrights, in writing, to resolve such novel question. Reasonable provision shall be made for comment on such request by the participants in the proceeding, in such a way as to minimize duplication and delay. The Register of Copyrights shall transmit his or her decision to the Copyright Royalty Judges within 30 days after the Register of Copyrights receives all of the briefs or comments of the participants. Such decision shall be in writing and included by the Copyright Royalty Judges in the record that accompanies their final determination. If such a decision is timely delivered to the Copyright Royalty Judges, the Copyright Royalty Judges shall apply the legal determinations embodied in the decision of the Register of Copyrights in resolving material questions of substantive law.
 
                 (ii) In clause (i), a “novel question of law” is a question of law that has not been determined in prior decisions, determinations, and rulings described in section 803(a).
 
-            (C) __Consultation.—__ 
+            (C)  __Consultation__  __.—__ 
 
             Notwithstanding the provisions of subparagraph (A), the Copyright Royalty Judges shall consult with the Register of Copyrights with respect to any determination or ruling that would require that any act be performed by the Copyright Office, and any such determination or ruling shall not be binding upon the Register of Copyrights.
 
-            (D) __Review of legal conclusions by the register of copyrights.—__ 
+            (D)  __Review of legal conclusions by the register of copyrights__  __.—__ 
 
             The Register of Copyrights may review for legal error the resolution by the Copyright Royalty Judges of a material question of substantive law under this title that underlies or is contained in a final determination of the Copyright Royalty Judges. If the Register of Copyrights concludes, after taking into consideration the views of the participants in the proceeding, that any resolution reached by the Copyright Royalty Judges was in material error, the Register of Copyrights shall issue a written decision correcting such legal error, which shall be made part of the record of the proceeding. The Register of Copyrights shall issue such written decision not later than 60 days after the date on which the final determination by the Copyright Royalty Judges is issued. Additionally, the Register of Copyrights shall cause to be published in the Federal Register such written decision, together with a specific identification of the legal conclusion of the Copyright Royalty Judges that is determined to be erroneous. As to conclusions of substantive law involving an interpretation of the statutory provisions of this title, the decision of the Register of Copyrights shall be binding as precedent upon the Copyright Royalty Judges in subsequent proceedings under this chapter. When a decision has been rendered pursuant to this subparagraph, the Register of Copyrights may, on the basis of and in accordance with such decision, intervene as of right in any appeal of a final determination of the Copyright Royalty Judges pursuant to section 803(d) in the United States Court of Appeals for the District of Columbia Circuit. If, prior to intervening in such an appeal, the Register of Copyrights gives notification to, and undertakes to consult with, the Attorney General with respect to such intervention, and the Attorney General fails, within a reasonable period after receiving such notification, to intervene in such appeal, the Register of Copyrights may intervene in such appeal in his or her own name by any attorney designated by the Register of Copyrights for such purpose. Intervention by the Register of Copyrights in his or her own name shall not preclude the Attorney General from intervening on behalf of the United States in such an appeal as may be otherwise provided or required by law.
 
-            (E) __Effect on judicial review.—__ 
+            (E)  __Effect on judicial review__  __.—__ 
 
             Nothing in this section shall be interpreted to alter the standard applied by a court in reviewing legal determinations involving an interpretation or construction of the provisions of this title or to affect the extent to which any construction or interpretation of the provisions of this title shall be accorded deference by a reviewing court.
 
         (2) __Performance appraisals.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding any other provision of law or any regulation of the Library of Congress, and subject to subparagraph (B), the Copyright Royalty Judges shall not receive performance appraisals.
 
-            (B) __Relating to sanction or removal.—__ 
+            (B)  __Relating to sanction or removal__  __.—__ 
 
             To the extent that the Librarian of Congress adopts regulations under subsection (h) relating to the sanction or removal of a Copyright Royalty Judge and such regulations require documentation to establish the cause of such sanction or removal, the Copyright Royalty Judge may receive an appraisal related specifically to the cause of the sanction or removal.
 
-    (g) __Inconsistent Duties Barred.—__ 
+    (g)  __Inconsistent Duties Barred__  __.—__ 
 
     No Copyright Royalty Judge may undertake duties that conflict with his or her duties and responsibilities as a Copyright Royalty Judge.
 
-    (h) __Standards of Conduct.—__ 
+    (h)  __Standards of Conduct__  __.—__ 
 
     The Librarian of Congress shall adopt regulations regarding the standards of conduct, including financial conflict of interest and restrictions against ex parte communications, which shall govern the Copyright Royalty Judges and the proceedings under this chapter.
 
-    (i) __Removal or Sanction.—__ 
+    (i)  __Removal or Sanction__  __.—__ 
 
     The Librarian of Congress may sanction or remove a Copyright Royalty Judge for violation of the standards of conduct adopted under subsection (h), misconduct, neglect of duty, or any disqualifying physical or mental disability. Any such sanction or removal may be made only after notice and opportunity for a hearing, but the Librarian of Congress may suspend the Copyright Royalty Judge during the pendency of such hearing. The Librarian shall appoint an interim Copyright Royalty Judge during the period of any such suspension.
 

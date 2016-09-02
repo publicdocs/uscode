@@ -15,7 +15,7 @@
 
 ## § 708. Copyright Office fees
 
-    (a) __Fees.—__ 
+    (a)  __Fees__  __.—__ 
 
     Fees shall be paid to the Register of Copyrights—
 
@@ -43,7 +43,7 @@
 
         The Register is authorized to fix fees for other services, including the cost of preparing copies of Copyright Office records, whether or not such copies are certified, based on the cost of providing the service. Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the collection and administration of the statements of account and any royalty fees deposited with such statements.
 
-    (b) __Adjustment of Fees.—__ 
+    (b)  __Adjustment of Fees__  __.—__ 
 
     The Register of Copyrights may, by regulation, adjust the fees for the services specified in paragraphs (1) through (9) of subsection (a) in the following manner:
 
@@ -165,7 +165,7 @@
 
 [Pub. L. 101–318, § 2(d)][/us/pl/101/318/s2/d], July 3, 1990, [104 Stat. 288][/us/stat/104/288], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 704 of this title][/us/usc/t17/s704]\] shall take effect 6 months after the date of the enactment of this Act \[July 3, 1990\] and shall apply to—
 
@@ -173,7 +173,7 @@
 
 >         “(B) other requests for services received on or after such effective date, or received before such effective date for services not yet rendered as of such date.
 
->     “(2) __Prior claims.—__ 
+>     “(2)  __Prior claims__  __.—__ 
 
 >     Claims to original, supplementary, and renewal copyright received for registration and items received for recordation in acceptable form in the Copyright Office before the effective date set forth in paragraph (1), and requests for services which are rendered before such effective date shall be governed by [section 708 of title 17][/us/usc/t17/s708], United States Code, as in effect before such effective date.”
 

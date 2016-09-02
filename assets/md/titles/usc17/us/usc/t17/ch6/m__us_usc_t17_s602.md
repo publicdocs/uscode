@@ -17,15 +17,15 @@
 
     (a) __Infringing Importation or Exportation.—__ 
 
-        (1) __Importation.—__ 
+        (1)  __Importation__  __.—__ 
 
         Importation into the United States, without the authority of the owner of copyright under this title, of copies or phonorecords of a work that have been acquired outside the United States is an infringement of the exclusive right to distribute copies or phonorecords under section 106, actionable under section 501.
 
-        (2) __Importation or exportation of infringing items.—__ 
+        (2)  __Importation or exportation of infringing items__  __.—__ 
 
         Importation into the United States or exportation from the United States, without the authority of the owner of copyright under this title, of copies or phonorecords, the making of which either constituted an infringement of copyright, or which would have constituted an infringement of copyright if this title had been applicable, is an infringement of the exclusive right to distribute copies or phonorecords under section 106, actionable under sections 501 and 506.
 
-        (3) __Exceptions.—__ 
+        (3)  __Exceptions__  __.—__ 
 
         This subsection does not apply to—
 
@@ -35,7 +35,7 @@
 
             (C) importation by or for an organization operated for scholarly, educational, or religious purposes and not for private gain, with respect to no more than one copy of an audiovisual work solely for its archival purposes, and no more than five copies or phonorecords of any other work for its library lending or archival purposes, unless the importation of such copies or phonorecords is part of an activity consisting of systematic reproduction or distribution, engaged in by such organization in violation of the provisions of section 108(g)(2).
 
-    (b) __Import Prohibition.—__ 
+    (b)  __Import Prohibition__  __.—__ 
 
     In a case where the making of the copies or phonorecords would have constituted an infringement of copyright if this title had been applicable, their importation is prohibited. In a case where the copies or phonorecords were lawfully made, United States Customs and Border Protection has no authority to prevent their importation. In either case, the Secretary of the Treasury is authorized to prescribe, by regulation, a procedure under which any person claiming an interest in the copyright in a particular work may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of articles that appear to be copies or phonorecords of the work.
 

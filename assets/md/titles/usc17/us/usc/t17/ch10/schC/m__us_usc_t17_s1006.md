@@ -15,7 +15,7 @@
 
 ## § 1006. Entitlement to royalty payments
 
-    (a) __Interested Copyright Parties.—__ 
+    (a)  __Interested Copyright Parties__  __.—__ 
 
     The royalty payments deposited pursuant to section 1005 shall, in accordance with the procedures specified in section 1007, be distributed to any interested copyright party—
 
@@ -29,11 +29,11 @@
 
         (2) who has filed a claim under section 1007.
 
-    (b) __Allocation of Royalty Payments to Groups.—__ 
+    (b)  __Allocation of Royalty Payments to Groups__  __.—__ 
 
     The royalty payments shall be divided into 2 funds as follows:
 
-        (1) __The sound recordings fund.—__ 
+        (1)  __The sound recordings fund__  __.—__ 
 
         66⅔ percent of the royalty payments shall be allocated to the Sound Recordings Fund. 2⅝ percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 1⅜ percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A).
 
@@ -47,7 +47,7 @@
 
                 (ii) Writers shall be entitled to the other 50 percent of the royalty payments allocated to the Musical Works Fund.
 
-    (c) __Allocation of Royalty Payments Within Groups.—__ 
+    (c)  __Allocation of Royalty Payments Within Groups__  __.—__ 
 
     If all interested copyright parties within a group specified in subsection (b) do not agree on a voluntary proposal for the distribution of the royalty payments within each group, the Copyright Royalty Judges shall, pursuant to the procedures specified under section 1007(c), allocate royalty payments under this section based on the extent to which, during the relevant period—
 

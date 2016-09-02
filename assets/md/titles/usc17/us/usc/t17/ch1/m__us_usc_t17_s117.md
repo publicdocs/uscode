@@ -15,7 +15,7 @@
 
 ## § 117. Limitations on exclusive rights: Computer programs
 
-    (a) __Making of Additional Copy or Adaptation by Owner of Copy.—__ 
+    (a)  __Making of Additional Copy or Adaptation by Owner of Copy__  __.—__ 
 
     Notwithstanding the provisions of section 106, it is not an infringement for the owner of a copy of a computer program to make or authorize the making of another copy or adaptation of that computer program provided:
 
@@ -23,11 +23,11 @@
 
         (2) that such new copy or adaptation is for archival purposes only and that all archival copies are destroyed in the event that continued possession of the computer program should cease to be rightful.
 
-    (b) __Lease, Sale, or Other Transfer of Additional Copy or Adaptation.—__ 
+    (b)  __Lease, Sale, or Other Transfer of Additional Copy or Adaptation__  __.—__ 
 
     Any exact copies prepared in accordance with the provisions of this section may be leased, sold, or otherwise transferred, along with the copy from which such copies were prepared, only as part of the lease, sale, or other transfer of all rights in the program. Adaptations so prepared may be transferred only with the authorization of the copyright owner.
 
-    (c) __Machine Maintenance or Repair.—__ 
+    (c)  __Machine Maintenance or Repair__  __.—__ 
 
     Notwithstanding the provisions of section 106, it is not an infringement for the owner or lessee of a machine to make or authorize the making of a copy of a computer program if such copy is made solely by virtue of the activation of a machine that lawfully contains an authorized copy of the computer program, for purposes only of maintenance or repair of that machine, if—
 
@@ -35,7 +35,7 @@
 
         (2) with respect to any computer program or part thereof that is not necessary for that machine to be activated, such program or part thereof is not accessed or used other than to make such new copy by virtue of the activation of the machine.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
