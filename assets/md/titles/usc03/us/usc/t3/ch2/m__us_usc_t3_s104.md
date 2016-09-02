@@ -61,13 +61,13 @@
 
  __Effective Date of 1982 Amendment__ 
 
-    Amendment by [Pub. L. 97–257][/us/pl/97/257] effective in the case of compensation payable for months after December 1981, see [section 105(c) of Pub. L. 97–257][/us/pl/97/257/s105/c], set out as a note under [section 60c–1 of Title 2][/us/usc/t2/s60c–1], The Congress.
+    Amendment by [Pub. L. 97–257][/us/pl/97/257] effective in the case of compensation payable for months after December 1981, see [section 105(c) of Pub. L. 97–257][/us/pl/97/257/s105/c], set out as a note under [section 4591 of Title 2][/us/usc/t2/s4591], The Congress.
 
  __Effective Date of 1969 Amendment__ 
 
 [Pub. L. 91–67, § 3][/us/pl/91/67/s3], Sept. 15, 1969, [83 Stat. 107][/us/stat/83/107], provided that: 
 
-> “The amendments made by this Act \[amending this section and [section 31 of Title 2][/us/usc/t2/s31], The Congress\] shall become effective on March 1, 1969.”
+> “The amendments made by this Act \[amending this section and [section 4501 of Title 2][/us/usc/t2/s4501], The Congress\] shall become effective on March 1, 1969.”
 
  __Effective Date of 1964 Amendment__ 
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1955 Amendment__ 
 
-    Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of that act, set out as a note under [section 31 of Title 2][/us/usc/t2/s31], The Congress.
+    Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of that act, set out as a note under [section 4501 of Title 2][/us/usc/t2/s4501], The Congress.
 
  __Effective Date of 1949 Amendment__ 
 
@@ -139,14 +139,14 @@
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/pl/97/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257
 [/us/pl/97/257/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2Fs105%2Fc
-[/us/usc/t2/s60c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%931
+[/us/usc/t2/s4591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4591
 [/us/pl/91/67/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F67%2Fs3
 [/us/stat/83/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F107
-[/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
+[/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/88/426/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fc
 [/us/pl/88/426/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs504
-[/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
+[/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318

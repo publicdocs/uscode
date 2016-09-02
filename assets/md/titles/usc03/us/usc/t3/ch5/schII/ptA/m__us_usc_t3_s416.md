@@ -17,7 +17,7 @@
 
     (a) __Employment and Reemployment Rights of Members of the Uniformed Services.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         It shall be unlawful for an employing office to—
 
@@ -27,21 +27,21 @@
 
             (C) deny to an eligible employee benefits within the meaning of sections 4316, 4317, and 4318 of title 38.
 
-        (2) __Definition.—__ 
+        (2)  __Definition__  __.—__ 
 
         For purposes of this section, the term “eligible employee” means a covered employee performing service in the uniformed services, within the meaning of [section 4303(13) of title 38][/us/usc/t38/s4303/13], whose service has not been terminated upon the occurrence of any of the events enumerated in section 4304 of such title.
 
-    (b) __Remedy.—__ 
+    (b)  __Remedy__  __.—__ 
 
     The remedy for a violation of subsection (a) shall be such damages as would be appropriate if awarded under [section 4323(d) of title 38][/us/usc/t38/s4323/d].
 
     (c) __Regulations To Implement Section.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The President, or the designee of the President, shall issue regulations to implement this section.
 
-        (2) __Agency regulations.—__ 
+        (2)  __Agency regulations__  __.—__ 
 
         The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b)—
 
@@ -55,7 +55,7 @@
 
                 (ii) would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government.
 
-    (d) __Effective Date.—__ 
+    (d)  __Effective Date__  __.—__ 
 
     Subsections (a) and (b) shall take effect on the earlier of—
 

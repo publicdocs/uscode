@@ -17,13 +17,13 @@
 
     (a) __Worker Adjustment and Retraining Notification Rights.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), no employing office shall be closed or mass layoff ordered within the meaning of section 3 of the Worker Adjustment and Retraining Notification Act until the end of a 60-day period after the employing office serves written notice of such prospective closing or layoff to representatives of covered employees or, if there are no representatives, to covered employees.
 
         (2) __Exception.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In the event that a President (hereinafter in this paragraph referred to as the “previous President”) is not elected to a successive term in office as a result of the election of a new President—
 
@@ -31,7 +31,7 @@
 
                 (ii) if any individual is separated from service, or begins a period of leave under the Family and Medical Leave Act of 1993, before such term commences, nothing in this chapter shall require reinstatement or restoration to employment of the individual after such term commences.
 
-            (B) __Description of individuals.—__ 
+            (B)  __Description of individuals__  __.—__ 
 
             An individual described in this subparagraph is any covered employee serving pursuant to an appointment made during—
 
@@ -39,21 +39,21 @@
 
                 (ii) any term, earlier than the term referred to in clause (i), during which such previous President served as President or Vice President.
 
-    (b) __Remedy.—__ 
+    (b)  __Remedy__  __.—__ 
 
     The remedy for a violation of subsection (a) shall be such damages as would be appropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act.
 
     (c) __Regulations To Implement Section.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The President, or the designee of the President, shall issue regulations to implement this section.
 
-        (2) __Agency regulations.—__ 
+        (2)  __Agency regulations__  __.—__ 
 
         The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
-    (d) __Effective Date.—__ 
+    (d)  __Effective Date__  __.—__ 
 
     Subsections (a) and (b) shall take effect on the earlier of—
 

@@ -15,7 +15,7 @@
 
 ## § 411. Rights and protections under title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Rehabilitation Act of 1973, and title I of the Americans with Disabilities Act of 1990
 
-    (a) __Discriminatory Practices Prohibited.—__ 
+    (a)  __Discriminatory Practices Prohibited__  __.—__ 
 
     All personnel actions affecting covered employees shall be made free from any discrimination based on—
 
@@ -27,7 +27,7 @@
 
     (b) __Remedy.—__ 
 
-        (1) __Civil rights.—__ 
+        (1)  __Civil rights__  __.—__ 
 
         The remedy for a violation of subsection (a)(1) shall be—
 
@@ -35,7 +35,7 @@
 
             (B) such compensatory damages as would be appropriate if awarded under section 1977 of the Revised Statutes, or as would be appropriate if awarded under sections 1977A(a)(1), 1977A(b)(2), and, irrespective of the size of the employing office, 1977A(b)(3)(D) of the Revised Statutes.
 
-        (2) __Age discrimination.—__ 
+        (2)  __Age discrimination__  __.—__ 
 
         The remedy for a violation of subsection (a)(2) shall be—
 
@@ -45,7 +45,7 @@
 
             In addition, the waiver provisions of section 7(f) of such Act shall apply to covered employees.
 
-        (3) __Disabilities discrimination.—__ 
+        (3)  __Disabilities discrimination__  __.—__ 
 
         The remedy for a violation of subsection (a)(3) shall be—
 
@@ -53,11 +53,11 @@
 
             (B) such compensatory damages as would be appropriate if awarded under sections 1977A(a)(2), 1977A(a)(3), 1977A(b)(2), and, irrespective of the size of the employing office, 1977A(b)(3)(D) of the Revised Statutes.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     Except as otherwise specifically provided in this section, as used in this section:
 
-        (1) __Covered employee.—__ 
+        (1)  __Covered employee__  __.—__ 
 
         The term “covered employee” means any employee of a unit of the executive branch, including the Executive Office of the President, whether appointed by the President or by any other appointing authority in the executive branch, who is not otherwise entitled to bring an action under any of the statutes referred to in subsection (a), but does not include any individual—
 
@@ -67,17 +67,17 @@
 
             (C) who is a member of the uniformed services.
 
-        (2) __Employing office.—__ 
+        (2)  __Employing office__  __.—__ 
 
         The term “employing office”, with respect to a covered employee, means the office, agency, or other entity in which the covered employee is employed (or sought employment or was employed in the case of an applicant or former employee, respectively).
 
     (d) __Regulations To Implement Section.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The President, or the designee of the President, shall issue regulations to implement paragraphs (1) and (3) of subsection (a) and paragraphs (1) and (3) of subsection (b).
 
-        (2) __Agency regulations.—__ 
+        (2)  __Agency regulations__  __.—__ 
 
         The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the appropriate officer of an executive agency to implement the statutory provisions referred to in paragraphs (1) and (3) of subsection (a) and paragraphs (1) and (3) of subsection (b)—
 
@@ -91,11 +91,11 @@
 
                 (ii) would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government.
 
-    (e) __Applicability.—__ 
+    (e)  __Applicability__  __.—__ 
 
     Subsections (a) through (c), and section 417 (to the extent that it relates to any matter under this section), shall apply with respect to violations occurring on or after the effective date of this chapter.
 
-    (f) __Effective Date.—__ 
+    (f)  __Effective Date__  __.—__ 
 
     This section shall take effect on October 1, 1997.
 

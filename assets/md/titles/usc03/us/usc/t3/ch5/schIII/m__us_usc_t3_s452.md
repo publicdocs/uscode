@@ -15,11 +15,11 @@
 
 ## § 452. Counseling and mediation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The President, or the designee of the President, shall by regulation establish procedures substantially similar to those under sections 402 and 403 of the Congressional Accountability Act of 1995 for the counseling and mediation of alleged violations of a law made applicable under part A of subchapter II.
 
-    (b) __Exhaustion Requirement.—__ 
+    (b)  __Exhaustion Requirement__  __.—__ 
 
     A covered employee who has not exhausted counseling and mediation under subsection (a) shall be ineligible to make any election under section 453 or otherwise pursue any further form of relief under this subchapter.
 

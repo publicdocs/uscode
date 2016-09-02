@@ -15,23 +15,23 @@
 
 ## § 401. Definitions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as otherwise specifically provided in this chapter, as used in this chapter:
 
-        (1) __Board.—__ 
+        (1)  __Board__  __.—__ 
 
         The term “Board” means the Merit Systems Protection Board under chapter 12 of title 5.
 
-        (2) __Covered employee.—__ 
+        (2)  __Covered employee__  __.—__ 
 
         The term “covered employee” means any employee of an employing office.
 
-        (3) __Employee.—__ 
+        (3)  __Employee__  __.—__ 
 
         The term “employee” includes an applicant for employment and a former employee.
 
-        (4) __Employing office.—__ 
+        (4)  __Employing office__  __.—__ 
 
         The term “employing office” means—
 
@@ -41,7 +41,7 @@
 
             (C) the official residence (temporary or otherwise) of the Vice President.
 
-    (b) __Definitions Relating to Certain Matters.—__ 
+    (b)  __Definitions Relating to Certain Matters__  __.—__ 
 
     For purposes of applying this chapter with respect to any practice or other matter—
 
@@ -69,17 +69,17 @@
 
 [Pub. L. 104–331, § 4][/us/pl/104/331/s4], Oct. 26, 1996, [110 Stat. 4071][/us/stat/110/4071], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each provision of Federal law that is made applicable to the legislative branch under section 102 of the Congressional Accountability Act of 1995 ([2 U.S.C. 1302][/us/usc/t2/s1302]), and that is enacted later than 12 months after the date of the enactment of this Act \[Oct. 26, 1996\], shall be deemed to apply with respect to ‘employing offices’ and ‘covered employees’ (within the meaning of [section 401 of title 3][/us/usc/t3/s401], United States Code, as added by this Act), unless such law specifically provides otherwise and expressly cites this section.
 
 >     “(b) __Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President, or the designee of the President, shall issue regulations to implement such provision.
 
->         “(2) __Agency regulations.—__ 
+>         “(2)  __Agency regulations__  __.—__ 
 
 >         The regulations issued under paragraph (1) to implement a provision shall be the same as substantive regulations promulgated by the head of the appropriate executive agency to implement the provision, except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under the section.”
 

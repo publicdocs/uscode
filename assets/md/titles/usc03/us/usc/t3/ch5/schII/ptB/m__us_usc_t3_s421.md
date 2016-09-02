@@ -15,25 +15,25 @@
 
 ## § 421. Rights and protections under the Americans with Disabilities Act of 1990
 
-    (a) __Rights and Protections.—__ 
+    (a)  __Rights and Protections__  __.—__ 
 
     The rights and protections against discrimination in the provision of public services and accommodations established by sections 201, 202, and 204, and sections 302, 303, and 309, of the Americans with Disabilities Act of 1990 shall apply, to the extent that public services, programs, or activities are provided, with respect to the White House and its appurtenant grounds and gardens, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
 
-    (b) __Remedy.—__ 
+    (b)  __Remedy__  __.—__ 
 
     The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under section 203 or 308 of the Americans with Disabilities Act of 1990, as the case may be, except that, with respect to any claim of employment discrimination, the exclusive remedy shall be under [section 411 of this title][/us/usc/t3/s411]. A remedy under the preceding sentence shall be enforced in accordance with applicable provisions of such section 203 or 308, as the case may be.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     For purposes of the application under this section of the Americans with Disabilities Act of 1990, the term “public entity” as used in such Act, means, to the extent that public services, programs, or activities are provided, the White House and its appurtenant grounds and gardens, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
 
     (d) __Regulations To Implement Section.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The President, or the designee of the President, shall issue regulations to implement this section.
 
-        (2) __Agency regulations.—__ 
+        (2)  __Agency regulations__  __.—__ 
 
         The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the appropriate officer of an executive agency to implement the statutory provisions referred to in subsections (a) and (b)—
 
@@ -47,7 +47,7 @@
 
                 (ii) would promote uniformity in the application of Federal law to agencies of the executive branch of the Federal Government.
 
-    (e) __Effective Date.—__ 
+    (e)  __Effective Date__  __.—__ 
 
     Subsections (a), (b), and (c) shall take effect on the earlier of—
 

@@ -55,11 +55,11 @@
 
 [Pub. L. 103–270, § 6][/us/pl/103/270/s6], June 30, 1994, [108 Stat. 737][/us/stat/108/737], provided that:
 
->     “(a) __Submission of Report.—__ 
+>     “(a)  __Submission of Report__  __.—__ 
 
 >     On July 1 of each year, the President shall submit a report described in subsection (b) to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Operations of the House of Representatives.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     A report under subsection (a) shall, except as provided in subsection (c), include—
 
@@ -81,7 +81,7 @@
 
 >             “(C) annual rate of pay.
 
->     “(c) __Exclusion From Report.—__ 
+>     “(c)  __Exclusion From Report__  __.—__ 
 
 >     If the President determines that disclosure of any item of information described in subsection (b) with respect to any particular individual would not be in the interest of the national defense or foreign policy of the United States—
 

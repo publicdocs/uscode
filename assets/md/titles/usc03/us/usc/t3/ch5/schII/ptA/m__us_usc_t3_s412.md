@@ -17,11 +17,11 @@
 
     (a) __Family and Medical Leave Rights and Protections Provided.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The rights and protections established by sections 101 through 105 of the Family and Medical Leave Act of 1993 shall apply to covered employees.
 
-        (2) __Definitions.—__ 
+        (2)  __Definitions__  __.—__ 
 
         For purposes of the application described in paragraph (1)—
 
@@ -29,17 +29,17 @@
 
             (B) the term “eligible employee” as used in the Family and Medical Leave Act of 1993 means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.
 
-    (b) __Remedy.—__ 
+    (b)  __Remedy__  __.—__ 
 
     The remedy for a violation of subsection (a) shall be such remedy, including liquidated damages, as would be appropriate if awarded under paragraph (1) of section 107(a) of the Family and Medical Leave Act of 1993.
 
     (c) __Regulations To Implement Section.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The President, or the designee of the President, shall issue regulations to implement this section.
 
-        (2) __Agency regulations.—__ 
+        (2)  __Agency regulations__  __.—__ 
 
         The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b)—
 
@@ -53,7 +53,7 @@
 
                 (ii) would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government.
 
-    (d) __Effective Date.—__ 
+    (d)  __Effective Date__  __.—__ 
 
     Subsections (a) and (b) shall take effect on the earlier of—
 

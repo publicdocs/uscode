@@ -15,25 +15,25 @@
 
 ## § 414. Rights and protections under the Employee Polygraph Protection Act of 1988
 
-    (a) __Polygraph Practices Prohibited.—__ 
+    (a)  __Polygraph Practices Prohibited__  __.—__ 
 
     No employing office may require a covered employee to take a lie detector test where such a test would be prohibited if required by an employer under paragraph (1), (2), or (3) of section 3 of the Employee Polygraph Protection Act of 1988. In addition, the waiver provisions of section 6(d) of such Act shall apply to covered employees.
 
-    (b) __Remedy.—__ 
+    (b)  __Remedy__  __.—__ 
 
     The remedy for a violation of subsection (a) shall be such damages as would be appropriate if awarded under section 6(c)(1) of the Employee Polygraph Protection Act of 1988.
 
     (c) __Regulations To Implement Section.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The President, or the designee of the President, shall issue regulations to implement this section.
 
-        (2) __Agency regulations.—__ 
+        (2)  __Agency regulations__  __.—__ 
 
         The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
-    (d) __Effective Date.—__ 
+    (d)  __Effective Date__  __.—__ 
 
     Subsections (a) and (b) shall take effect on the earlier of—
 

@@ -27,7 +27,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-    Amendment by [Pub. L. 108–7][/us/pl/108/7] applicable to fiscal year 2003 and each fiscal year thereafter, see [section 1(f) of Pub. L. 108–7][/us/pl/108/7/s1/f], set out as a note under [section 31a–1 of Title 2][/us/usc/t2/s31a–1], The Congress.
+    Amendment by [Pub. L. 108–7][/us/pl/108/7] applicable to fiscal year 2003 and each fiscal year thereafter, see [section 1(f) of Pub. L. 108–7][/us/pl/108/7/s1/f], set out as a note under [section 6102 of Title 2][/us/usc/t2/s6102], The Congress.
 
  __Effective Date of 1951 Amendment__ 
 
@@ -91,7 +91,7 @@
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1%2Ff
-[/us/usc/t2/s31a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31a%E2%80%931
+[/us/usc/t2/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6102
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/pl/93/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F346
 [/us/stat/88/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F340

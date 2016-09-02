@@ -15,11 +15,11 @@
 
 ## § 456. Confidentiality
 
-    (a) __Counseling.—__ 
+    (a)  __Counseling__  __.—__ 
 
     All counseling under section 452 shall be strictly confidential, except that, with the consent of the covered employee, the employing office may be notified.
 
-    (b) __Mediation.—__ 
+    (b)  __Mediation__  __.—__ 
 
     All mediation under section 452 shall be strictly confidential.
 

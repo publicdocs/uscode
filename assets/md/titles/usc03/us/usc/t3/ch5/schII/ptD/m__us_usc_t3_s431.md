@@ -15,21 +15,21 @@
 
 ## § 431. Application of chapter 71 of title 5, relating to Federal service labor-management relations; procedures for remedy of violations
 
-    (a) __Labor-Management Rights.—__ 
+    (a)  __Labor-Management Rights__  __.—__ 
 
     Subject to subsection (d), chapter 71 of title 5 shall apply to employing offices and to covered employees and representatives of those employees, except that covered employees shall not have a right to reinstatement pursuant to section 7118(a)(7)(C) or 7123 of title 5.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     For purposes of the application under this section of chapter 71 of title 5, the term “agency” as used in such chapter means an employing office.
 
     (c) __Regulations To Implement Section.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Federal Labor Relations Authority shall issue regulations to implement this section.
 
-        (2) __Agency regulations.—__ 
+        (2)  __Agency regulations__  __.—__ 
 
         Except as provided in subsection (d), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Authority to implement the statutory provisions referred to in subsection (a), except—
 
@@ -39,7 +39,7 @@
 
     (d) __Specific Regulations Regarding Applications to Certain Employing Offices.—__ 
 
-        (1) __Regulations required.—__ 
+        (1)  __Regulations required__  __.—__ 
 
         The Authority shall issue regulations on the manner and the extent to which the requirements and exemptions of chapter 71 of title 5 should apply to covered employees who are employed in the offices listed in paragraph (2). The regulations shall, to the greatest extent practicable, be consistent with the provisions and purposes of chapter 71 of title 5 and of this chapter, and shall be the same as the substantive regulations issued by the Authority under such chapter, except—
 
@@ -53,7 +53,7 @@
 
                 (ii) the President’s or Vice President’s constitutional responsibilities.
 
-        (2) __Offices referred to.—__ 
+        (2)  __Offices referred to__  __.—__ 
 
         The offices referred to in paragraph (1) include—
 
@@ -75,7 +75,7 @@
 
     (e) __Effective Date.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), subsections (a) and (b) shall take effect on the earlier of—
 
@@ -83,7 +83,7 @@
 
             (B) October 1, 1998.
 
-        (2) __Certain employing offices.—__ 
+        (2)  __Certain employing offices__  __.—__ 
 
         Subsections (a) and (b) shall take effect, with respect to employing offices, and employees of employing offices, referred to in subsection (d)(2), on the earlier of—
 

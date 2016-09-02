@@ -55,7 +55,7 @@
 
 [Act Oct. 20, 1951, ch. 521][/us/act/1951-10-20/ch521], title VI, § 619(e), [65 Stat. 570][/us/stat/65/570], provided that: 
 
-> “The amendments made by subsections (a) and (b) of this section \[amending this section and [section 111 of this title][/us/usc/t3/s111]\] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) \[amending sections 31a and 31b of Title 2, The Congress\] shall become effective at noon on January 3, 1953.”
+> “The amendments made by subsections (a) and (b) of this section \[amending this section and [section 111 of this title][/us/usc/t3/s111]\] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) \[amending sections 31a and 5121 of Title 2, The Congress\] shall become effective at noon on January 3, 1953.”
 
  __Effective Date of 1949 Amendment__ 
 
@@ -65,7 +65,7 @@
 
 [Pub. L. 111–283, § 3][/us/pl/111/283/s3], Oct. 15, 2010, [124 Stat. 3048][/us/stat/124/3048], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President of the United States, or the President’s delegate, may take such actions as the President determines necessary and appropriate to plan and coordinate activities by the Executive branch of the Federal Government to facilitate an efficient transfer of power to a successor President, including—
 
@@ -87,11 +87,11 @@
 
 >     “(b) __Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President of the United States, or the President’s delegate, shall provide to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and the Executive Departments and agencies to prepare for the transfer of power to a new President.
 
->         “(2) __Timing.—__ 
+>         “(2)  __Timing__  __.—__ 
 
 >         The reports under paragraph (1) shall be provided six months and three months before the date of the general election for the Office of President of the United States.”
 
@@ -99,7 +99,7 @@
 
 [Pub. L. 100–398, § 5][/us/pl/100/398/s5], Aug. 17, 1988, [102 Stat. 987][/us/stat/102/987], provided that:
 
->     “(a) __Disclosure as Condition of Receipt of Funds.—__ 
+>     “(a)  __Disclosure as Condition of Receipt of Funds__  __.—__ 
 
 >     The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1) of the Presidential Transition Act of 1963 \[[Pub. L. 88–277][/us/pl/88/277]\] ([3 U.S.C. 102][/us/usc/t3/s102] note) shall provide an estimate to the Administrator of General Services of the aggregate value of in-kind contributions made during the period beginning on November 9, 1988, through January 20, 1989, received for transition activities for—
 
@@ -111,7 +111,7 @@
 
 >         “(4) furniture, furnishings, office machines and equipment, and office supplies.
 
->     “(b) __Form and Availability of Estimates.—__ 
+>     “(b)  __Form and Availability of Estimates__  __.—__ 
 
 >     The estimates made under subsection (a) shall be—
 
@@ -265,11 +265,11 @@
 
 >                  The eligible candidate may—
 
->                     “(I) transfer to any separate fund established under subparagraph (A) contributions (within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 431(8)][/us/usc/t2/s431/8])) the candidate received for the general election for President or Vice-President or payments from the Presidential Election Campaign Fund under chapter 95 of the Internal Revenue Code of 1986 \[[26 U.S.C. 9001][/us/usc/t26/s9001] et seq.\] the candidate received for the general election; and
+>                     “(I) transfer to any separate fund established under subparagraph (A) contributions (within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 431(8)][/us/usc/t2/s431/8]) \[now [52 U.S.C. 30101(8)][/us/usc/t52/s30101/8]\]) the candidate received for the general election for President or Vice-President or payments from the Presidential Election Campaign Fund under chapter 95 of the Internal Revenue Code of 1986 \[[26 U.S.C. 9001][/us/usc/t26/s9001] et seq.\] the candidate received for the general election; and
 
 >                     “(II) solicit and accept amounts for receipt by such separate fund.
 
->                 “(ii) Any expenditures from the separate fund that are made from such contributions or payments described in clause (i)(I) shall be treated as expenditures (within the meaning of section 301(9) of such Act ([2 U.S.C. 431(9)][/us/usc/t2/s431/9])) or qualified campaign expenses (within the meaning of section 9002(11) of such Code \[[26 U.S.C. 9002(11)][/us/usc/t26/s9002/11]\]), whichever is applicable.
+>                 “(ii) Any expenditures from the separate fund that are made from such contributions or payments described in clause (i)(I) shall be treated as expenditures (within the meaning of section 301(9) of such Act ([2 U.S.C. 431(9)][/us/usc/t2/s431/9]) \[now [52 U.S.C. 30101(9)][/us/usc/t52/s30101/9]\]) or qualified campaign expenses (within the meaning of section 9002(11) of such Code \[[26 U.S.C. 9002(11)][/us/usc/t26/s9002/11]\]), whichever is applicable.
 
 >                 “(iii) An eligible candidate establishing a separate fund under subparagraph (A) shall (as a condition for receiving services and facilities described in paragraph (2)) comply with all requirements and limitations of section 5 in soliciting or expending amounts in the same manner as the President-elect or Vice-President-elect, including reporting on the transfer and expenditure of amounts described in subparagraph (B)(i) in the disclosures required by section 5.
 
@@ -552,8 +552,10 @@ Provisions prohibiting expenditure of funds made available for official expenses
 [/us/usc/t26/s9002/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002%2F6
 [/us/usc/t26/s501/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F4
 [/us/usc/t2/s431/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F8
+[/us/usc/t52/s30101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F8
 [/us/usc/t26/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9001
 [/us/usc/t2/s431/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F9
+[/us/usc/t52/s30101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F9
 [/us/usc/t26/s9002/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002%2F11
 [/us/usc/t26/s9002/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002%2F10
 [/us/usc/t26/s9002/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002%2F6

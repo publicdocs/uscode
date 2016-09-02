@@ -155,7 +155,7 @@
 
 [Pub. L. 103–329, title VI, § 632][/us/pl/103/329/s632], Sept. 30, 1994, [108 Stat. 2425][/us/stat/108/2425], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Hereafter, the employment of any individual within the Executive Office of the President shall be placed on leave without pay status if the individual—
 
@@ -163,7 +163,7 @@
 
 >         “(2) has not, within 6 months of commencing such employment or by October 31, 1994 (whichever occurs later), had his or her background investigation, if completed, forwarded by the counsel to the President to the United States Secret Service for issuance of the appropriate access pass.
 
->     “(b) __Exemption.—__ 
+>     “(b)  __Exemption__  __.—__ 
 
 >     Subsection (a) shall not apply to any individual specifically exempted from such subsection by the President or his designee.”
 
@@ -753,10 +753,6 @@ By the authority vested in me as President by the Constitution and laws of the U
 
                               Barack Obama.
 
-    \[Ex. Ord. No. 13640, Apr. 5, 2013, 78 F.R. 21211, provided for the extension of the President’s Advisory Council on Faith-Based and Neighborhood Partnerships and its termination 2 years from Apr. 5, 2013.\]
-
-    \[For extension of the President’s Advisory Council on Faith-Based and Neighborhood Partnerships and its termination 2 years from Apr. 5, 2011, see section 5 of Ex. Ord. No. 13569, set out below.\]
-
  __Ex. Ord. No. 13503. Establishment of the White House Office of Urban Affairs__ 
 
     Ex. Ord. No. 13503, Feb. 19, 2009, 74 F.R. 8139, provided:
@@ -844,6 +840,28 @@ By the authority vested in me as President by the Constitution and laws of the U
     Sec. 7. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
                               Barack Obama.
+
+ __Extension of Term of President’s Advisory Council on Faith-Based and Neighborhood Partnerships__ 
+
+    Ex. Ord. No. 13640, Apr. 5, 2013, 78 F.R. 21211, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+
+    Section 1. Continuing the President’s Advisory Council on Faith-Based and Neighborhood Partnerships. The President’s Advisory Council on Faith-Based and Neighborhood Partnerships, as set forth under the provisions of Executive Order 13498 of February 5, 2009, and reestablished by section 5 of Executive Order 13569 of April 5, 2011, is hereby extended and shall terminate 2 years from the date of this order unless further extended by the President.
+
+    Sec. 2. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+    (1) the authority granted by law to an executive department, agency, or the head thereof; or
+
+    (2) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+    (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+    (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+                              Barack Obama.
+
+    Term of President’s Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
  __White House Task Force on Middle-Class Working Families__ 
 

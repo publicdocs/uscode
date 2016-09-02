@@ -39,7 +39,7 @@
 
 [Pub. L. 100–461, title V, § 590][/us/pl/100/461/s590], Oct. 1, 1988, [102 Stat. 2268–52][/us/stat/102/2268-52], as amended by [Pub. L. 106–92, § 2][/us/pl/106/92/s2], Nov. 9, 1999, [113 Stat. 1309][/us/stat/113/1309], provided that:
 
->     “(a) __Acceptance of Gifts of Money and Property.—__ 
+>     “(a)  __Acceptance of Gifts of Money and Property__  __.—__ 
 
 >     The Director of the Office of Administration is authorized to—
 
@@ -49,15 +49,15 @@
 
 >         for the purpose of aiding, benefiting, or facilitating the work of preservation, restoration, renovation, rehabilitation, or historic furnishing of the Dwight D. Eisenhower Executive Office Building and the grounds thereof.
 
->     “(b) __Establishment of Fund.—__ 
+>     “(b)  __Establishment of Fund__  __.—__ 
 
 >     There is established in the Treasury a fund for use in accordance with the provisions of this section. Amounts of money and proceeds from the sale of property accepted under subsection (a) shall be deposited in the fund, which shall be available to the Director of the Office of Administration. Such funds shall be held in trust by the Secretary of the Treasury.
 
->     “(c) __Use of Fund.—__ 
+>     “(c)  __Use of Fund__  __.—__ 
 
 >     Property accepted pursuant to this section or the proceeds from the sale thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest. Any use or sale of property accepted pursuant to this section, and any use of proceeds from such sale, shall be subject to the disapproval of the Administrator of General Services within 30 days after the Administrator receives notice of such use or sale. The Director of the Office of Administration shall not accept any gift under this section that is expressly conditioned on any expenditure not to be met from the gift itself unless such expenditure has been approved by an Act of Congress.
 
->     “(d) __Taxes.—__ 
+>     “(d)  __Taxes__  __.—__ 
 
 >     For the purpose of the Federal income, estate, and gift tax laws, property accepted under this section shall be considered as a gift, bequest, or devise to the United States.”
 
