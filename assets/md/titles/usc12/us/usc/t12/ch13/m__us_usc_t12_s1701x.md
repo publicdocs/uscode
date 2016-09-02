@@ -313,7 +313,7 @@
 
             (C) __Coordination with emergency homeownership counseling program__ 
 
-                The Secretary may coordinate the provision of assistance under subsection (c) of this section with the demonstration program under this subsection.
+                The Secretary may coordinate the provision of assistance under subsection (c) with the demonstration program under this subsection.
 
             (D) __Eligibility for counseling__ 
 
@@ -433,7 +433,7 @@
 
         (2) __Standards and examination__ 
 
-        The Secretary shall, by regulation, establish standards and procedures for testing and certifying counselors and for certifying organizations. Such standards and procedures shall require, for certification of an organization, that each individual through which the organization provides counseling shall demonstrate, and, for certification of an individual, that the individual shall demonstrate, by written examination (as provided under subsection (f)(4) of this section), competence to provide counseling in each of the following areas:
+        The Secretary shall, by regulation, establish standards and procedures for testing and certifying counselors and for certifying organizations. Such standards and procedures shall require, for certification of an organization, that each individual through which the organization provides counseling shall demonstrate, and, for certification of an individual, that the individual shall demonstrate, by written examination (as provided under subsection (f)(4)), competence to provide counseling in each of the following areas:
 
             (A) Financial management.
 
@@ -463,7 +463,7 @@
 
         (1) __Establishment__ 
 
-            To the extent amounts are provided in appropriations Acts under paragraph (7), the Secretary shall contract with an appropriate entity (which may be a nonprofit organization) to carry out a program under this subsection to train individuals to provide homeownership and rental counseling and to administer the examination under subsection (e)(2) of this section and certify individuals under such subsection.
+            To the extent amounts are provided in appropriations Acts under paragraph (7), the Secretary shall contract with an appropriate entity (which may be a nonprofit organization) to carry out a program under this subsection to train individuals to provide homeownership and rental counseling and to administer the examination under subsection (e)(2) and certify individuals under such subsection.
 
         (2) __Eligibility and selection__ 
 
@@ -483,15 +483,15 @@
 
         (3) __Training__ 
 
-            The Secretary shall require that training of counselors under the program under this subsection be designed and coordinated to prepare individuals for successful completion of the examination for certification under subsection (e)(2) of this section. The Secretary, in consultation with the entity selected under paragraph (2)(B), shall establish the curriculum and standards for training counselors under the program.
+            The Secretary shall require that training of counselors under the program under this subsection be designed and coordinated to prepare individuals for successful completion of the examination for certification under subsection (e)(2). The Secretary, in consultation with the entity selected under paragraph (2)(B), shall establish the curriculum and standards for training counselors under the program.
 
         (4) __Certification__ 
 
-            The entity selected under paragraph (2)(B) shall administer the examination under subsection (e)(2) of this section and, on behalf of the Secretary, certify individuals successfully completing the examination. The Secretary, in consultation with such entity, shall establish the content and format of the examination.
+            The entity selected under paragraph (2)(B) shall administer the examination under subsection (e)(2) and, on behalf of the Secretary, certify individuals successfully completing the examination. The Secretary, in consultation with such entity, shall establish the content and format of the examination.
 
         (5) __Fees__ 
 
-            Subject to the approval of the Secretary, the entity selected under paragraph (2)(B) may establish and impose reasonable fees for participation in the training provided under the program and for examination and certification under subsection (e)(2) of this section, in an amount sufficient to cover any costs of such activities not covered with amounts provided under paragraph (7).
+            Subject to the approval of the Secretary, the entity selected under paragraph (2)(B) may establish and impose reasonable fees for participation in the training provided under the program and for examination and certification under subsection (e)(2), in an amount sufficient to cover any costs of such activities not covered with amounts provided under paragraph (7).
 
         (6) __Timing__ 
 

@@ -35,11 +35,11 @@
 
          In addition to the mortgages eligible for assistance under paragraph (1) of this subsection, the Secretary is authorized to make periodic assistance payments on behalf of cooperative members of middle income. Such assistance payments shall be accomplished through interest subsidy payments to the investor with respect to mortgages insured (subsequent to July 24, 1970) under [section 1715e of this title][/us/usc/t12/s1715e] which are executed by cooperatives, the membership in which is limited to middle-income families. For purposes of this paragraph—
 
-            (A) the term “mortgagor”, when used in subsection (b) of this section in the case of a mortgage covering a cooperative housing proj­ect, means a member of the cooperative;
+            (A) the term “mortgagor”, when used in subsection (b) in the case of a mortgage covering a cooperative housing proj­ect, means a member of the cooperative;
 
-            (B) the term “acquisition of the property”, when used in subsection (b) of this section, means the family’s application for a dwelling unit; and
+            (B) the term “acquisition of the property”, when used in subsection (b), means the family’s application for a dwelling unit; and
 
-            (C) in the case of a cooperative mortgagor, subsection (c) of this section shall not apply and the interest subsidy payments shall cease when the mortgage is no longer held by the investor or the cooperative fails to limit membership to families whose incomes at the time of their application for a dwelling unit meets such requirements as are laid down by the Secretary pursuant to subsection (b) of this section.
+            (C) in the case of a cooperative mortgagor, subsection (c) shall not apply and the interest subsidy payments shall cease when the mortgage is no longer held by the investor or the cooperative fails to limit membership to families whose incomes at the time of their application for a dwelling unit meets such requirements as are laid down by the Secretary pursuant to subsection (b).
 
     (e) __Amount of interest subsidy payments__ 
 
@@ -47,7 +47,7 @@
 
     (f) __Adoption of procedures for recertifications of mortgagor’s income__ 
 
-        Procedures shall be adopted by the Secretary for recertifications of the mortgagor’s income at intervals of two years (or at shorter intervals where the Secretary deems it desirable) for the purpose of adjusting the amount of the mortgagor’s payments pursuant to subsection (d) of this section.
+        Procedures shall be adopted by the Secretary for recertifications of the mortgagor’s income at intervals of two years (or at shorter intervals where the Secretary deems it desirable) for the purpose of adjusting the amount of the mortgagor’s payments pursuant to subsection (d).
 
     (g) __Regulations to assure that sales price or other consideration paid is not increased above appraised value__ 
 
@@ -65,7 +65,7 @@
 
     (j) __Insurance of mortgages executed by mortgagors meeting eligibility requirements for assistance payments; issuance of commitment; eligibility requirements for insurance__ 
 
-        (1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b) of this section. Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
+        (1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b). Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
 
         (2) To be eligible for insurance under this subsection, a mortgage shall meet the requirements of section 1715l(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: Provided, however, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
 

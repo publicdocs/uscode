@@ -19,7 +19,7 @@
 
     (b)
 
-     For purposes of subsection (a) of this section, the term “federally related mortgage loan” means any loan which—
+     For purposes of subsection (a), the term “federally related mortgage loan” means any loan which—
 
         (1) is secured by residential real property designed principally for the occupancy of from one to four families; and
 

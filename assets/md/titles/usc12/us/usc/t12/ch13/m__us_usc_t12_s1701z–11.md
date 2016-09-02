@@ -119,7 +119,7 @@
 
         (1) __Disposition to purchasers__ 
 
-        In carrying out this section, the Secretary may dispose of a multifamily housing project owned by the Secretary on a negotiated, competitive bid, or other basis, on such terms as the Secretary deems appropriate considering the low-income character of the project and consistent with the goals in subsection (a) of this section, only to a purchaser determined by the Secretary to be capable of—
+        In carrying out this section, the Secretary may dispose of a multifamily housing project owned by the Secretary on a negotiated, competitive bid, or other basis, on such terms as the Secretary deems appropriate considering the low-income character of the project and consistent with the goals in subsection (a), only to a purchaser determined by the Secretary to be capable of—
 
             (A) satisfying the conditions of the disposition plan developed under paragraph (2) for the project;
 
@@ -139,7 +139,7 @@
 
             (B) __Market-wide plans__ 
 
-                In developing the initial disposition plan under this subsection for a multifamily housing project located in a market area in which at least 1 other multifamily housing project owned by the Secretary is located, the Secretary may coordinate the disposition of all such multifamily housing projects located within the same market area to the extent and in such manner as the Secretary determines appropriate to carry out the goals under subsection (a) of this section.
+                In developing the initial disposition plan under this subsection for a multifamily housing project located in a market area in which at least 1 other multifamily housing project owned by the Secretary is located, the Secretary may coordinate the disposition of all such multifamily housing projects located within the same market area to the extent and in such manner as the Secretary determines appropriate to carry out the goals under subsection (a).
 
             (C) __Sales price__ 
 
@@ -201,7 +201,7 @@
 
     (e) __Required assistance__ 
 
-    In disposing of multifamily housing property under this section, consistent with the goal of subsection (a)(3)(A) of this section, the Secretary shall take, separately or in combination with other actions under this subsection or subsection (f) of this section, one or more of the following actions:
+    In disposing of multifamily housing property under this section, consistent with the goal of subsection (a)(3)(A), the Secretary shall take, separately or in combination with other actions under this subsection or subsection (f), one or more of the following actions:
 
         (1) __Contract with owner for project-based assistance__ 
 
@@ -209,9 +209,9 @@
 
             (A) __Subsidized or formerly subsidized projects receiving mortgage-related assistance__ 
 
-            In the case of a subsidized or formerly subsidized project referred to in subparagraphs (A) through (C) of subsection (b)(2) of this section—
+            In the case of a subsidized or formerly subsidized project referred to in subparagraphs (A) through (C) of subsection (b)(2)—
 
-                (i) the contract shall be sufficient to assist at least all units covered by an assistance contract under any of the authorities referred to in subsection (b)(2)(D) of this section before acquisition or foreclosure, unless the Secretary acts pursuant to the provisions of subparagraph (C);
+                (i) the contract shall be sufficient to assist at least all units covered by an assistance contract under any of the authorities referred to in subsection (b)(2)(D) before acquisition or foreclosure, unless the Secretary acts pursuant to the provisions of subparagraph (C);
 
                 (ii) the contract shall provide that, when a vacancy occurs in any unit in the project requiring project-based rental assistance pursuant to this subparagraph that is occupied by a family who is not eligible for assistance under such section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], the owner shall lease the available unit to a family eligible for assistance under such section 8; and
 
@@ -219,7 +219,7 @@
 
             (B) __Subsidized or formerly subsidized projects receiving rental assistance__ 
 
-            In the case of a subsidized or formerly subsidized project referred to in subsection (b)(2)(D) of this section that is not subject to subparagraph (A)—
+            In the case of a subsidized or formerly subsidized project referred to in subsection (b)(2)(D) that is not subject to subparagraph (A)—
 
                 (i) the contract shall be sufficient to assist at least all units in the project that are covered, or were covered immediately before foreclosure on or acquisition of the project by the Secretary, by an assistance contract under any of the provisions referred to in such subsection, unless the Secretary acts pursuant to provisions of subparagraph (C); and
 
@@ -285,7 +285,7 @@
 
             (A) __In general__ 
 
-            In accordance with the authority provided under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], the Secretary may provide other assistance pursuant to subsection (f) of this section to the owners of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure, or after sale by the Secretary, on terms that ensure that—
+            In accordance with the authority provided under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], the Secretary may provide other assistance pursuant to subsection (f) to the owners of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure, or after sale by the Secretary, on terms that ensure that—
 
                 (i) at least the units in the project otherwise required to receive project-based assistance pursuant to subparagraphs (A), (B), or (D) of paragraph (1) are available to and affordable by low-income persons; and
 
@@ -297,7 +297,7 @@
 
     (f) __Discretionary assistance__ 
 
-    In addition to the actions required under subsection (e) of this section for a subsidized, formerly subsidized, or unsubsidized multifamily housing project, the Secretary may, pursuant to the disposition plan and the goals in subsection (a) of this section, take one or more of the following actions:
+    In addition to the actions required under subsection (e) for a subsidized, formerly subsidized, or unsubsidized multifamily housing project, the Secretary may, pursuant to the disposition plan and the goals in subsection (a), take one or more of the following actions:
 
         (1) __Discounted sales price__ 
 
@@ -321,7 +321,7 @@
 
         (4) __Up-front grants__ 
 
-            If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2) of this section, the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants for the necessary cost of rehabilitation and other related development costs. This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.
+            If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2), the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants for the necessary cost of rehabilitation and other related development costs. This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.
 
         (5) __Tenant-based assistance__ 
 
@@ -349,7 +349,7 @@
 
             (A) __In general__ 
 
-            Notwithstanding the provisions of subsection (e) of this section, the Secretary may, pursuant to an agreement under subparagraph (B), transfer a multifamily housing project—
+            Notwithstanding the provisions of subsection (e), the Secretary may, pursuant to an agreement under subparagraph (B), transfer a multifamily housing project—
 
                 (i) to a public housing agency for use of the project as public housing; or
 
@@ -375,7 +375,7 @@
 
             (D) the rebuilding is a part of a local neighborhood revitalization plan approved by the unit of general local government.
 
-            The provisions of subsection (j)(2) of this section shall apply to any tenants of the project who are displaced.
+            The provisions of subsection (j)(2) shall apply to any tenants of the project who are displaced.
 
         (9) __Emergency assistance funds__ 
 
@@ -517,7 +517,7 @@
 
         (13) a description of any of the functions performed in connection with this section that are contracted out to public or private entities or to States; and
 
-        (14) a description of the activities carried out under subsection (i) of this section during the preceding year.
+        (14) a description of the activities carried out under subsection (i) during the preceding year.
 
 ([Pub. L. 95–557, title II, § 203][/us/pl/95/557/s203], Oct. 31, 1978, [92 Stat. 2088][/us/stat/92/2088]; [Pub. L. 96–153, title II, § 208][/us/pl/96/153/s208], Dec. 21, 1979, [93 Stat. 1109][/us/stat/93/1109]; [Pub. L. 96–399, title II, § 213][/us/pl/96/399/s213], Oct. 8, 1980, [94 Stat. 1636][/us/stat/94/1636]; [Pub. L. 100–242, title I, § 181][/us/pl/100/242/s181], Feb. 5, 1988, [101 Stat. 1868][/us/stat/101/1868]; [Pub. L. 100–628, title X, § 1010][/us/pl/100/628/s1010], Nov. 7, 1988, [102 Stat. 3266][/us/stat/102/3266]; [Pub. L. 101–235, title II, § 204(a)][/us/pl/101/235/s204/a], Dec. 15, 1989, [103 Stat. 2039][/us/stat/103/2039]; [Pub. L. 101–625, title V, § 579][/us/pl/101/625/s579], Nov. 28, 1990, [104 Stat. 4245][/us/stat/104/4245]; [Pub. L. 103–120, § 6(c)(2)][/us/pl/103/120/s6/c/2], Oct. 27, 1993, [107 Stat. 1149][/us/stat/107/1149]; [Pub. L. 103–233, title I, § 101(b)][/us/pl/103/233/s101/b], Apr. 11, 1994, [108 Stat. 343][/us/stat/108/343]; [Pub. L. 105–276, title V, § 514(b)(2)(C)][/us/pl/105/276/s514/b/2/C], Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548]; [Pub. L. 109–171, title II, § 2003(b)][/us/pl/109/171/s2003/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9].)
 

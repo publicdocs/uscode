@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
+        Subject to subsection (b), Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
 
     (b) __Membership field__ 
 
@@ -33,7 +33,7 @@
 
             (A) each of which has (within the group) a common bond of occupation or association; and
 
-            (B) the number of members, each of which (at the time the group is first included within the field of membership of a credit union described in this paragraph) does not exceed any numerical limitation applicable under subsection (d) of this section.
+            (B) the number of members, each of which (at the time the group is first included within the field of membership of a credit union described in this paragraph) does not exceed any numerical limitation applicable under subsection (d).
 
         (3) __Community credit union__ 
 
@@ -45,7 +45,7 @@
 
             (A) __In general__ 
 
-            Notwithstanding subsection (b) of this section—
+            Notwithstanding subsection (b)—
 
                 (i) any person or organization that is a member of any Federal credit union as of August 7, 1998, may remain a member of the credit union after August 7, 1998; and
 
@@ -57,7 +57,7 @@
 
         (2) __Exception for underserved areas__ 
 
-        Notwithstanding subsection (b) of this section, in the case of a Federal credit union, the field of membership category of which is described in subsection (b)(2) of this section, the Board may allow the membership of the credit union to include any person or organization within a local community, neighborhood, or rural district if—
+        Notwithstanding subsection (b), in the case of a Federal credit union, the field of membership category of which is described in subsection (b)(2), the Board may allow the membership of the credit union to include any person or organization within a local community, neighborhood, or rural district if—
 
             (A)
 
@@ -73,15 +73,15 @@
 
         (1) __Numerical limitation__ 
 
-            Except as provided in paragraph (2), only a group with fewer than 3,000 members shall be eligible to be included in the field of membership category of a credit union described in subsection (b)(2) of this section.
+            Except as provided in paragraph (2), only a group with fewer than 3,000 members shall be eligible to be included in the field of membership category of a credit union described in subsection (b)(2).
 
         (2) __Exceptions__ 
 
-        In the case of any Federal credit union, the field of membership category of which is described in subsection (b)(2) of this section, the numerical limitation in paragraph (1) of this subsection shall not apply with respect to—
+        In the case of any Federal credit union, the field of membership category of which is described in subsection (b)(2), the numerical limitation in paragraph (1) of this subsection shall not apply with respect to—
 
             (A)
 
-             any group that the Board determines, in writing and in accordance with the guidelines and regulations issued under paragraph (3), could not feasibly or reasonably establish a new single common-bond credit union, the field of membership category of which is described in subsection (b)(1) of this section because—
+             any group that the Board determines, in writing and in accordance with the guidelines and regulations issued under paragraph (3), could not feasibly or reasonably establish a new single common-bond credit union, the field of membership category of which is described in subsection (b)(1) because—
 
                 (i) the group lacks sufficient volunteer and other resources to support the efficient and effective operation of a credit union;
 
@@ -101,7 +101,7 @@
 
         (3) __Regulations and guidelines__ 
 
-            The Board shall issue guidelines or regulations, after notice and opportunity for comment, setting forth the criteria that the Board will apply in determining under this subsection whether or not an additional group may be included within the field of membership category of an existing credit union described in subsection (b)(2) of this section.
+            The Board shall issue guidelines or regulations, after notice and opportunity for comment, setting forth the criteria that the Board will apply in determining under this subsection whether or not an additional group may be included within the field of membership category of an existing credit union described in subsection (b)(2).
 
     (e) __Additional membership eligibility provisions__ 
 
@@ -125,7 +125,7 @@
 
         (2) __Approval criteria__ 
 
-        The Board may not approve any application by a Federal credit union, the field of membership category of which is described in subsection (b)(2) of this section to include any additional group within the field of membership of the credit union (or an application by a Federal credit union described in subsection (b)(1) of this section to include an additional group and become a credit union described in subsection (b)(2) of this section), unless the Board determines, in writing, that—
+        The Board may not approve any application by a Federal credit union, the field of membership category of which is described in subsection (b)(2) to include any additional group within the field of membership of the credit union (or an application by a Federal credit union described in subsection (b)(1) to include an additional group and become a credit union described in subsection (b)(2)), unless the Board determines, in writing, that—
 
             (A) the credit union has not engaged in any unsafe or unsound practice (as defined in [section 1786(b) of this title][/us/usc/t12/s1786/b]) that is material during the 1-year period preceding the date of filing of the application;
 
@@ -143,7 +143,7 @@
 
         The Board shall prescribe, by regulation, a definition for the term “well-defined local community, neighborhood, or rural district” for purposes of—
 
-            (A) making any determination with regard to the field of membership of a credit union described in subsection (b)(3) of this section; and
+            (A) making any determination with regard to the field of membership of a credit union described in subsection (b)(3); and
 
             (B) establishing the criteria applicable with respect to any such determination.
 
@@ -157,7 +157,7 @@
 
     2006—Subsec. (c)(2)(A)(i). [Pub. L. 109–351][/us/pl/109/351] made technical amendment to reference in original act which appears in text as reference to [section 4702(16) of this title][/us/usc/t12/s4702/16].
 
-    1998—Subsec. (a). [Pub. L. 105–219, § 101(1)(A)][/us/pl/105/219/s101/1/A], designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b) of this section,” before “Federal credit union membership shall consist of”.
+    1998—Subsec. (a). [Pub. L. 105–219, § 101(1)(A)][/us/pl/105/219/s101/1/A], designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b),” before “Federal credit union membership shall consist of”.
 
     [Pub. L. 105–219, § 101(1)(B)][/us/pl/105/219/s101/1/B], which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
 

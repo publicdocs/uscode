@@ -17,7 +17,7 @@
 
     (a) __Grant authority__ 
 
-    The Secretary of Housing and Urban Development may make grants in accordance with this section to owners of eligible projects described in subsection (b) of this section for one or both of the following activities:
+    The Secretary of Housing and Urban Development may make grants in accordance with this section to owners of eligible projects described in subsection (b) for one or both of the following activities:
 
         (1) __Repairs__ 
 

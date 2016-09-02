@@ -33,7 +33,7 @@
 
         (4) __Guarantee Fund__ 
 
-            The term “Guarantee Fund” means the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j) of this section.
+            The term “Guarantee Fund” means the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j).
 
         (5) __Hawaiian Home Lands__ 
 
@@ -65,7 +65,7 @@
 
     (b) __Authority__ 
 
-        To provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets, the Secretary may guarantee an amount not to exceed 100 percent of the unpaid principal and interest that is due on an eligible loan under subsection (c) of this section.
+        To provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets, the Secretary may guarantee an amount not to exceed 100 percent of the unpaid principal and interest that is due on an eligible loan under subsection (c).
 
     (c) __Eligible loans__ 
 
@@ -125,7 +125,7 @@
 
             (A) be made for a term not exceeding 30 years;
 
-            (B) bear interest (exclusive of the guarantee fee under subsection (e) of this section and service charges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, but not to exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
+            (B) bear interest (exclusive of the guarantee fee under subsection (e) and service charges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, but not to exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
 
             (C)
 
@@ -197,7 +197,7 @@
 
         (3) __Deposit__ 
 
-            The Secretary shall deposit any fees collected under this subsection in the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j) of this section.
+            The Secretary shall deposit any fees collected under this subsection in the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j).
 
     (f) __Liability under guarantee__ 
 
@@ -213,7 +213,7 @@
 
             (A) __Grounds for action__ 
 
-            The Secretary may take action under subparagraph (B) if the Secretary determines that any lender or holder of a guarantee certificate under subsection (d) of this section—
+            The Secretary may take action under subparagraph (B) if the Secretary determines that any lender or holder of a guarantee certificate under subsection (d)—
 
                 (i)
 
@@ -229,7 +229,7 @@
 
             (B) __Actions__ 
 
-            Upon a determination by the Secretary that a holder of a guarantee certificate under subsection (d) of this section has failed to carry out an activity described in subparagraph (A)(i) or has engaged in practices described in subparagraph (A)(ii), the Secretary may—
+            Upon a determination by the Secretary that a holder of a guarantee certificate under subsection (d) has failed to carry out an activity described in subparagraph (A)(i) or has engaged in practices described in subparagraph (A)(ii), the Secretary may—
 
                 (i) refuse, either temporarily or permanently, to guarantee any further loans made by such lender or holder;
 
@@ -241,7 +241,7 @@
 
             (A) __In general__ 
 
-            The Secretary may impose a civil monetary penalty on a lender or holder of a guarantee certificate under subsection (d) of this section if the Secretary determines that the holder or lender has intentionally failed—
+            The Secretary may impose a civil monetary penalty on a lender or holder of a guarantee certificate under subsection (d) if the Secretary determines that the holder or lender has intentionally failed—
 
                 (i) to maintain adequate accounting records;
 
@@ -279,7 +279,7 @@
 
                         (bb) __Payment__ 
 
-                            Upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (f) of this section) plus reasonable fees and expenses as approved by the Secretary.
+                            Upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (f)) plus reasonable fees and expenses as approved by the Secretary.
 
                         (cc) __Subrogation__ 
 
@@ -293,7 +293,7 @@
 
                         (bb) __Payment__ 
 
-                            Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (f) of this section).
+                            Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (f)).
 
                         (cc) __Subrogation__ 
 
@@ -327,7 +327,7 @@
 
             (B) any amounts appropriated pursuant to paragraph (7);
 
-            (C) any guarantee fees collected under subsection (e) of this section; and
+            (C) any guarantee fees collected under subsection (e); and
 
             (D) any interest or earnings on amounts invested under paragraph (4).
 

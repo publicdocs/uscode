@@ -51,7 +51,7 @@
 
     (f) __Authorization for fund to borrow from Central Liquidity Facility__ 
 
-        In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d) of this section, if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.
+        In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d), if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.
 
 ([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 203, as added [Pub. L. 91–468, § 1(3)][/us/pl/91/468/s1/3], Oct. 19, 1970, [84 Stat. 999][/us/stat/84/999]; amended [Pub. L. 94–273, § 2(4)][/us/pl/94/273/s2/4], Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 97–320, title V, § 530][/us/pl/97/320/s530], Oct. 15, 1982, [96 Stat. 1535][/us/stat/96/1535]; [Pub. L. 98–369, div. B, title VIII, § 2811][/us/pl/98/369/s2811], July 18, 1984, [98 Stat. 1206][/us/stat/98/1206]; [Pub. L. 111–22, div. A, title II, § 204(c)(2)][/us/pl/111/22/s204/c/2], (3), May 20, 2009, [123 Stat. 1650][/us/stat/123/1650].)
 

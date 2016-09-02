@@ -85,7 +85,7 @@
 
                 (i) it has a net worth ratio of not less than 7 percent; and
 
-                (ii) it meets any applicable risk-based net worth requirement under subsection (d) of this section.
+                (ii) it meets any applicable risk-based net worth requirement under subsection (d).
 
             (B) __Adequately capitalized__ 
 
@@ -93,7 +93,7 @@
 
                 (i) it has a net worth ratio of not less than 6 percent; and
 
-                (ii) it meets any applicable risk-based net worth requirement under subsection (d) of this section.
+                (ii) it meets any applicable risk-based net worth requirement under subsection (d).
 
             (C) __Undercapitalized__ 
 
@@ -101,7 +101,7 @@
 
                 (i) it has a net worth ratio of less than 6 percent; or
 
-                (ii) it fails to meet any applicable risk-based net worth requirement under subsection (d) of this section.
+                (ii) it fails to meet any applicable risk-based net worth requirement under subsection (d).
 
             (D) __Significantly undercapitalized__ 
 
@@ -119,7 +119,7 @@
 
                      it—
 
-                        (aa) fails to submit an acceptable net worth restoration plan within the time allowed under subsection (f) of this section; or
+                        (aa) fails to submit an acceptable net worth restoration plan within the time allowed under subsection (f); or
 
                         (bb) materially fails to implement a net worth restoration plan accepted by the Board.
 
@@ -149,7 +149,7 @@
 
         (1) __In general__ 
 
-            The regulations required under subsection (b)(1) of this section shall include a risk-based net worth requirement for insured credit unions that are complex, as defined by the Board based on the portfolios of assets and liabilities of credit unions.
+            The regulations required under subsection (b)(1) shall include a risk-based net worth requirement for insured credit unions that are complex, as defined by the Board based on the portfolios of assets and liabilities of credit unions.
 
         (2) __Standard__ 
 

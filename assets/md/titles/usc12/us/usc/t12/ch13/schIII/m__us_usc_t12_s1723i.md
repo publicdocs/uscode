@@ -19,17 +19,17 @@
 
         (1) __Authority__ 
 
-            Whenever an issuer or custodian approved under [section 1721(g) of this title][/us/usc/t12/s1721/g] knowingly and materially violates any provisions of subsection (b) of this section, the Secretary of Housing and Urban Development may impose a civil money penalty on the issuer or the custodian in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary imposes other administrative sanctions.
+            Whenever an issuer or custodian approved under [section 1721(g) of this title][/us/usc/t12/s1721/g] knowingly and materially violates any provisions of subsection (b), the Secretary of Housing and Urban Development may impose a civil money penalty on the issuer or the custodian in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary imposes other administrative sanctions.
 
         (2) __Amount of penalty__ 
 
-            The amount of the penalty, as determined by the Secretary, may not exceed $5,000 for each violation, except that the maximum penalty for all violations by a particular issuer or custodian during any one-year period shall not exceed $1,000,000. Each violation of a provision of subsection (b)(1) of this section shall constitute a separate violation with respect to each pool of mortgages. In the case of a continuing violation, as determined by the Secretary, each day shall constitute a separate violation.
+            The amount of the penalty, as determined by the Secretary, may not exceed $5,000 for each violation, except that the maximum penalty for all violations by a particular issuer or custodian during any one-year period shall not exceed $1,000,000. Each violation of a provision of subsection (b)(1) shall constitute a separate violation with respect to each pool of mortgages. In the case of a continuing violation, as determined by the Secretary, each day shall constitute a separate violation.
 
     (b) __Violations for which penalty may be imposed__ 
 
         (1) __Violations__ 
 
-        The violations by an issuer or a custodian for which the Secretary may impose a civil money penalty under subsection (a) of this section are the following:
+        The violations by an issuer or a custodian for which the Secretary may impose a civil money penalty under subsection (a) are the following:
 
             (A) Failure to make timely payments of principal and interest to holders of securities guaranteed under [section 1721(g) of this title][/us/usc/t12/s1721/g].
 
@@ -61,7 +61,7 @@
 
         (1) __Establishment__ 
 
-        The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (a) of this section. The standards and procedures—
+        The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (a). The standards and procedures—
 
             (A) shall provide for the Secretary to make the determination to impose the penalty;
 
@@ -75,21 +75,21 @@
 
         (3) __Factors in determining amount of penalty__ 
 
-            In determining the amount of a penalty under subsection (a) of this section, consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including offenses occurring before December 15, 1989), ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine by regulations.
+            In determining the amount of a penalty under subsection (a), consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including offenses occurring before December 15, 1989), ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine by regulations.
 
         (4) __Reviewability of imposition of penalty__ 
 
-            The Secretary’s determination or order imposing a penalty under subsection (a) of this section shall not be subject to review, except as provided in subsection (d) of this section.
+            The Secretary’s determination or order imposing a penalty under subsection (a) shall not be subject to review, except as provided in subsection (d).
 
     (d) __Judicial review of agency determination__ 
 
         (1) __In general__ 
 
-            After exhausting all administrative remedies established by the Secretary under subsection (c)(1) of this section, an issuer or a custodian against which the Secretary has imposed a civil money penalty under subsection (a) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice provided under subsection (c)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary’s order or determination be modified or be set aside in whole or in part.
+            After exhausting all administrative remedies established by the Secretary under subsection (c)(1), an issuer or a custodian against which the Secretary has imposed a civil money penalty under subsection (a) may obtain a review of the penalty and such ancillary issues as may be addressed in the notice provided under subsection (c)(1)(A) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary’s order or determination be modified or be set aside in whole or in part.
 
         (2) __Objections not raised in hearing__ 
 
-            A court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (c)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence, which was not presented at such hearing, is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+            A court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (c)(1) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence, which was not presented at such hearing, is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
         (3) __Scope of review__ 
 
@@ -101,7 +101,7 @@
 
     (e) __Action to collect penalty__ 
 
-        If any issuer or custodian fails to comply with the Secretary’s determination or order imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the issuer or custodian and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s determination or order imposing the penalty shall not be subject to review.
+        If any issuer or custodian fails to comply with the Secretary’s determination or order imposing a civil money penalty under subsection (a), after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the issuer or custodian and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s determination or order imposing the penalty shall not be subject to review.
 
     (f) __Settlement by Secretary__ 
 

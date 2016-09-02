@@ -55,9 +55,9 @@
 
         The provisions of [section 1713(k) of this title][/us/usc/t12/s1713/k] shall be applicable to mortgages insured under this section, except that, as applied to such mortgages, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
 
-    (g) __Mortgages in connection with sale of property under subchapter I, II, VIII, or X of this chapter__ 
+    (g) __Mortgages in connection with sale of property under subchapter I, II, VIII, or X__ 
 
-        The Secretary shall also have power to insure under this subchapter or subchapter I, II, VIII, or X of this chapter any mortgage executed in connection with the sale by him of any property acquired under any of such subchapters without regard to limitations upon eligibility, time, or aggregate amount contained therein.
+        The Secretary shall also have power to insure under this subchapter or subchapter I, II, VIII, or X any mortgage executed in connection with the sale by him of any property acquired under any of such subchapters without regard to limitations upon eligibility, time, or aggregate amount contained therein.
 
 ([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 608, as added [May 26, 1942, ch. 319, § 11][/us/act/1942-05-26/ch319/s11], [56 Stat. 303][/us/stat/56/303]; amended [Mar. 31, 1945, ch. 48, § 2][/us/act/1945-03-31/ch48/s2], [59 Stat. 47][/us/stat/59/47]; [May 22, 1946, ch. 268, § 10(f)][/us/act/1946-05-22/ch268/s10/f], (g), [60 Stat. 214][/us/stat/60/214]; [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(b), (c), [62 Stat. 1269][/us/stat/62/1269]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 206, [65 Stat. 303][/us/stat/65/303]; [Pub. L. 89–117, title XI, § 1108(q)][/us/pl/89/117/s1108/q], Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], (4), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 

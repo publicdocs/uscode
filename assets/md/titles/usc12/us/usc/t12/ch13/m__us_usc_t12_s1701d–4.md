@@ -23,7 +23,7 @@
 
         (2) accept from international organizations, foreign countries, and private nonprofit foundations, funds, services, facilities, materials, and other donations to be utilized jointly in carrying out activities under this section.
 
-    (b) International programs and activities carried out by the Secretary under the authority provided in subsection (a) of this section shall be subject to the approval of the Secretary of State for the purpose of assuring that such authority shall be exercised in a manner consistent with the foreign policy of the United States.
+    (b) International programs and activities carried out by the Secretary under the authority provided in subsection (a) shall be subject to the approval of the Secretary of State for the purpose of assuring that such authority shall be exercised in a manner consistent with the foreign policy of the United States.
 
 ([Pub. L. 85–104, title VI, § 604][/us/pl/85/104/s604], July 12, 1957, [71 Stat. 305][/us/stat/71/305]; [Pub. L. 90–19, § 14(b)][/us/pl/90/19/s14/b], May 25, 1967, [81 Stat. 24][/us/stat/81/24]; [Pub. L. 90–448, title XVII, § 1709][/us/pl/90/448/s1709], Aug. 1, 1968, [82 Stat. 606][/us/stat/82/606].)
 

@@ -33,7 +33,7 @@
 
     (e) __Limitation on amounts available for research__ 
 
-        In addition to any other contract or loan authority which the Secretary may utilize under subsection (c) of this section, not more than $10,000,000 from amounts approved in appropriation Acts shall be available for research under this section.
+        In addition to any other contract or loan authority which the Secretary may utilize under subsection (c), not more than $10,000,000 from amounts approved in appropriation Acts shall be available for research under this section.
 
 ([Pub. L. 91–609, title V, § 507][/us/pl/91/609/s507], as added [Pub. L. 93–383, title VIII, § 815][/us/pl/93/383/s815], Aug. 22, 1974, [88 Stat. 738][/us/stat/88/738].)
 

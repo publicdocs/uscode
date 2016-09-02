@@ -101,11 +101,11 @@
 
         (1) __In general__ 
 
-            The exemption for critical access hospitals under subsection (b)(1)(B) of this section shall have no effect after July 31, 2016.
+            The exemption for critical access hospitals under subsection (b)(1)(B) shall have no effect after July 31, 2016.
 
         (2) __Report to Congress__ 
 
-        Not later than 3 years after July 31, 2003, the Secretary shall submit a report to Congress detailing the effects of the exemption of critical access hospitals from the provisions of subsection (b)(1)(B) of this section on—
+        Not later than 3 years after July 31, 2003, the Secretary shall submit a report to Congress detailing the effects of the exemption of critical access hospitals from the provisions of subsection (b)(1)(B) on—
 
             (A) the provision of mortgage insurance to hospitals under this section; and
 

@@ -25,13 +25,13 @@
 
     (b) __Disapproval by Board__ 
 
-        An insured credit union may not add any individual to the board of directors or employ any individual as a senior executive officer if the Board issues a notice of disapproval of such addition or employment before the end of the 30-day period beginning on the date the agency receives notice of the proposed action pursuant to subsection (a) of this section.
+        An insured credit union may not add any individual to the board of directors or employ any individual as a senior executive officer if the Board issues a notice of disapproval of such addition or employment before the end of the 30-day period beginning on the date the agency receives notice of the proposed action pursuant to subsection (a).
 
     (c) __Exception in extraordinary circumstances__ 
 
         (1) __In general__ 
 
-            The Board may prescribe by regulation conditions under which the prior notice requirement of subsection (a) of this section may be waived in the event of extraordinary circumstances.
+            The Board may prescribe by regulation conditions under which the prior notice requirement of subsection (a) may be waived in the event of extraordinary circumstances.
 
         (2) __No effect on disapproval authority of Board__ 
 
@@ -39,7 +39,7 @@
 
     (d) __Additional information__ 
 
-    Any notice submitted to the Board by any insured credit union pursuant to subsection (a) of this section shall include—
+    Any notice submitted to the Board by any insured credit union pursuant to subsection (a) shall include—
 
         (1) the information described in [section 1817(j)(6)(A) of this title][/us/usc/t12/s1817/j/6/A] about the individual; and
 
@@ -47,11 +47,11 @@
 
     (e) __Standard for disapproval__ 
 
-        The Board shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) of this section if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the insured credit union or in the best interests of the public to permit the individual to be employed by, or associated with, such insured credit union.
+        The Board shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the insured credit union or in the best interests of the public to permit the individual to be employed by, or associated with, such insured credit union.
 
     (f) __Definition regulations__ 
 
-        The Board shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a) of this section.
+        The Board shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a).
 
 ([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 212, as added [Pub. L. 101–73, title IX, § 914(b)][/us/pl/101/73/s914/b], Aug. 9, 1989, [103 Stat. 485][/us/stat/103/485].)
 

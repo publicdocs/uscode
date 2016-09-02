@@ -31,7 +31,7 @@
 
         (1)
 
-         The Secretary may insure under this subsection a mortgage that meets the requirements of subsection (a) of this section, except that the effective rate of interest—
+         The Secretary may insure under this subsection a mortgage that meets the requirements of subsection (a), except that the effective rate of interest—
 
             (A) shall be fixed for a period of not less than the first 3 years of the mortgage term;
 
@@ -39,7 +39,7 @@
 
             (C) in the case of the initial interest rate adjustment, is subject to the 1 percent limitation only if the interest rate remained fixed for 3 or fewer years.
 
-        (2) The disclosure required under subsection (b) of this section shall be required for a mortgage insured under this subsection.
+        (2) The disclosure required under subsection (b) shall be required for a mortgage insured under this subsection.
 
 ([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 251, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 443\], Nov. 30, 1983, [97 Stat. 1225][/us/stat/97/1225]; amended [Pub. L. 100–242, title IV, § 415(a)][/us/pl/100/242/s415/a], Feb. 5, 1988, [101 Stat. 1907][/us/stat/101/1907]; [Pub. L. 107–73, title II, § 206][/us/pl/107/73/s206], Nov. 26, 2001, [115 Stat. 674][/us/stat/115/674]; [Pub. L. 108–186, title III, § 301(a)][/us/pl/108/186/s301/a], Dec. 16, 2003, [117 Stat. 2692][/us/stat/117/2692].)
 

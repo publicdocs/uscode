@@ -27,7 +27,7 @@
 
     (c) __Contracts, agreements, and financial undertakings with mortgagor__ 
 
-        The Secretary may enter into such contracts, agreements, and financial undertakings with the mortgagor and others as he deems necessary or desirable to carry out the purposes of this section, and may expend available funds for such purposes, including the correction (when he determines it necessary to protect the occupants), at any time subsequent to insurance of a mortgage, of defects or failures in the dwellings which the Secretary finds are caused by or related to the advanced housing technology utilized in their design or construction or experimental property standards. Any authority which the Secretary may exercise in connection with a mortgage, or property covered by a mortgage, insured under any other section of this subchapter (including payments to reduce rentals for, or to facilitate homeownership by, lower income families) may be exercised in connection with a mortgage, or property covered by a mortgage, meeting the requirements of such other section (except as specified in subsection (b) of this section), which is insured under this section to the same extent and in the same manner as if the mortgage insured under this section was insured under such other section.
+        The Secretary may enter into such contracts, agreements, and financial undertakings with the mortgagor and others as he deems necessary or desirable to carry out the purposes of this section, and may expend available funds for such purposes, including the correction (when he determines it necessary to protect the occupants), at any time subsequent to insurance of a mortgage, of defects or failures in the dwellings which the Secretary finds are caused by or related to the advanced housing technology utilized in their design or construction or experimental property standards. Any authority which the Secretary may exercise in connection with a mortgage, or property covered by a mortgage, insured under any other section of this subchapter (including payments to reduce rentals for, or to facilitate homeownership by, lower income families) may be exercised in connection with a mortgage, or property covered by a mortgage, meeting the requirements of such other section (except as specified in subsection (b)), which is insured under this section to the same extent and in the same manner as if the mortgage insured under this section was insured under such other section.
 
     (d) __Investigations and analysis of data; publication and distribution of reports__ 
 
@@ -35,7 +35,7 @@
 
     (e) __Entitlement to insurance benefits__ 
 
-        Any mortgagee or lender under a mortgage insured under subsection (b) of this section shall be entitled to insurance benefits determined in the same manner as such benefits would be determined if such mortgage or loan were insured under the section or subchapter of this chapter for which it otherwise would have been eligible except for the experimental feature of the property involved.
+        Any mortgagee or lender under a mortgage insured under subsection (b) shall be entitled to insurance benefits determined in the same manner as such benefits would be determined if such mortgage or loan were insured under the section or subchapter of this chapter for which it otherwise would have been eligible except for the experimental feature of the property involved.
 
     (f) __Defaults; payment in cash or debentures; acquisition of mortgage__ 
 

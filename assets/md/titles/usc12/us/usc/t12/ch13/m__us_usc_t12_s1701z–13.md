@@ -27,7 +27,7 @@
 
     (c) __Matters considered__ 
 
-        In carrying out subsection (b) of this section, the Secretary shall take such steps as may be necessary to encourage the installation of cost-effective and economically feasible solar energy systems in housing assisted under the programs and activities referred to in such subsection taking into account the interests of low-income homeowners and renters, including the implementation of a plan of action to publicize the availability and feasibility of solar energy systems to current or potential recipients of assistance under such programs and activities.
+        In carrying out subsection (b), the Secretary shall take such steps as may be necessary to encourage the installation of cost-effective and economically feasible solar energy systems in housing assisted under the programs and activities referred to in such subsection taking into account the interests of low-income homeowners and renters, including the implementation of a plan of action to publicize the availability and feasibility of solar energy systems to current or potential recipients of assistance under such programs and activities.
 
     (d) __Report to Congress__ 
 
@@ -35,7 +35,7 @@
 
         (1) the number of solar units which were contracted for or installed or which are on order under the provisions of subsection (b)(1) of this section during the first twelve full calendar months after October 31, 1978; and
 
-        (2) an analysis of any problems and benefits related to encouraging the use of solar energy systems in the programs and activities referred to in subsection (b) of this section.
+        (2) an analysis of any problems and benefits related to encouraging the use of solar energy systems in the programs and activities referred to in subsection (b).
 
 ([Pub. L. 95–557, title II, § 209][/us/pl/95/557/s209], Oct. 31, 1978, [92 Stat. 2095][/us/stat/92/2095]; [Pub. L. 98–479, title II, § 204(n)(3)][/us/pl/98/479/s204/n/3], Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234].)
 

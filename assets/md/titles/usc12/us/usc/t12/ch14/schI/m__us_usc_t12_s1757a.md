@@ -25,7 +25,7 @@
 
     (b) __Exceptions__ 
 
-    Subsection (a) of this section does not apply in the case of—
+    Subsection (a) does not apply in the case of—
 
         (1) an insured credit union chartered for the purpose of making, or that has a history of primarily making, member business loans to its members, as determined by the Board; or
 
@@ -79,7 +79,7 @@
 
     (d) __Effect on existing loans__ 
 
-        An insured credit union that has, on August 7, 1998, a total amount of outstanding member business loans that exceeds the amount permitted under subsection (a) of this section shall, not later than 3 years after August 7, 1998, reduce the total amount of outstanding member business loans to an amount that is not greater than the amount permitted under subsection (a) of this section.
+        An insured credit union that has, on August 7, 1998, a total amount of outstanding member business loans that exceeds the amount permitted under subsection (a) shall, not later than 3 years after August 7, 1998, reduce the total amount of outstanding member business loans to an amount that is not greater than the amount permitted under subsection (a).
 
     (e) __Consultation and cooperation with State credit union supervisors__ 
 

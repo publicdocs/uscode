@@ -87,7 +87,7 @@
 
         (4) __Assessment; etc.__ 
 
-            Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Board in the manner provided in subsection (b) of this section (for penalties imposed under such subsection) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such subsection.
+            Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Board in the manner provided in subsection (b) (for penalties imposed under such subsection) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such subsection.
 
         (5) __Hearing__ 
 

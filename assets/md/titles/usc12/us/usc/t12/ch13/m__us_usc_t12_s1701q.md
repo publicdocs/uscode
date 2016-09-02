@@ -25,13 +25,13 @@
 
     (b) __General authority__ 
 
-        The Secretary is authorized to provide assistance to private nonprofit organizations and consumer cooperatives to expand the supply of supportive housing for the elderly. Such assistance shall be provided as (1) capital advances in accordance with subsection (c)(1) of this section, and (2) contracts for project rental assistance in accordance with subsection (c)(2) of this section. Such assistance may be used to finance the construction, reconstruction, or moderate or substantial rehabilitation of a structure or a portion of a structure, or the acquisition of a structure, to be used as supportive housing for the elderly in accordance with this section. Assistance may also cover the cost of real property acquisition, site improvement, conversion, demolition, relocation, and other expenses that the Secretary determines are necessary to expand the supply of supportive housing for the elderly.
+        The Secretary is authorized to provide assistance to private nonprofit organizations and consumer cooperatives to expand the supply of supportive housing for the elderly. Such assistance shall be provided as (1) capital advances in accordance with subsection (c)(1), and (2) contracts for project rental assistance in accordance with subsection (c)(2). Such assistance may be used to finance the construction, reconstruction, or moderate or substantial rehabilitation of a structure or a portion of a structure, or the acquisition of a structure, to be used as supportive housing for the elderly in accordance with this section. Assistance may also cover the cost of real property acquisition, site improvement, conversion, demolition, relocation, and other expenses that the Secretary determines are necessary to expand the supply of supportive housing for the elderly.
 
     (c) __Forms of assistance__ 
 
         (1) __Capital advances__ 
 
-            A capital advance provided under this section shall bear no interest and its repayment shall not be required so long as the housing remains available for very low-income elderly persons in accordance with this section. Such advance shall be in an amount calculated in accordance with the development cost limitation established in subsection (h) of this section.
+            A capital advance provided under this section shall bear no interest and its repayment shall not be required so long as the housing remains available for very low-income elderly persons in accordance with this section. Such advance shall be in an amount calculated in accordance with the development cost limitation established in subsection (h).
 
         (2) __Project rental assistance__ 
 
@@ -49,7 +49,7 @@
 
         (2) __Contract terms__ 
 
-            The initial term of a contract entered into under subsection (c)(2) of this section shall be 240 months. The Secretary shall, to the extent approved in appropriation Acts, extend any expiring contract for a term of not less than 60 months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
+            The initial term of a contract entered into under subsection (c)(2) shall be 240 months. The Secretary shall, to the extent approved in appropriation Acts, extend any expiring contract for a term of not less than 60 months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
 
     (e) __Applications__ 
 
@@ -59,7 +59,7 @@
 
         (2) a description of the assistance the applicant seeks under this section;
 
-        (3) a description of the resources that are expected to be made available in compliance with subsection (h) of this section;
+        (3) a description of the resources that are expected to be made available in compliance with subsection (h);
 
         (4) a description of (A) the category or categories of elderly persons the housing is intended to serve; (B) the supportive services, if any, to be provided to the persons occupying such housing; (C) the manner in which such services will be provided to such persons, including, in the case of frail elderly persons, evidence of such residential supervision as the Secretary determines is necessary to facilitate the adequate provision of such services; and (D) the public or private sources of assistance that can reasonably be expected to fund or provide such services;
 
@@ -83,7 +83,7 @@
 
             (D) the extent to which the proposed design of the housing will meet the special physical needs of elderly persons;
 
-            (E) the extent to which the applicant has demonstrated that the supportive services identified in subsection (e)(4) of this section will be provided on a consistent, long-term basis;
+            (E) the extent to which the applicant has demonstrated that the supportive services identified in subsection (e)(4) will be provided on a consistent, long-term basis;
 
             (F) the extent to which the applicant has ensured that a service coordinator will be employed or otherwise retained for the housing, who has the managerial capacity and responsibility for carrying out the actions described in subparagraphs (A) and (B) of subsection (g)(2);
 
@@ -139,11 +139,11 @@
 
             (C) seek on a continuous basis new sources of assistance to ensure the long-term provision of supportive services.
 
-            Any cost associated with this subsection shall be an eligible cost under subsection (c)(2) of this section.
+            Any cost associated with this subsection shall be an eligible cost under subsection (c)(2).
 
         (3) __Service coordinators__ 
 
-            Any cost associated with employing or otherwise retaining a service coordinator in housing assisted under this section shall be considered an eligible cost under subsection (c)(2) of this section. If a project is receiving congregate housing services assistance under [section 8011 of title 42][/us/usc/t42/s8011], the amount of costs provided under subsection (c)(2) of this section for the project service coordinator may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such [section 8011 of title 42][/us/usc/t42/s8011]. To the extent that amounts are available pursuant to subsection (c)(2) of this section for the costs of carrying out this paragraph within a project, an owner of housing assisted under this section shall provide a service coordinator for the housing to coordinate the provision of services under this subsection within the housing.
+            Any cost associated with employing or otherwise retaining a service coordinator in housing assisted under this section shall be considered an eligible cost under subsection (c)(2). If a project is receiving congregate housing services assistance under [section 8011 of title 42][/us/usc/t42/s8011], the amount of costs provided under subsection (c)(2) for the project service coordinator may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such [section 8011 of title 42][/us/usc/t42/s8011]. To the extent that amounts are available pursuant to subsection (c)(2) for the costs of carrying out this paragraph within a project, an owner of housing assisted under this section shall provide a service coordinator for the housing to coordinate the provision of services under this subsection within the housing.
 
     (h) __Development cost limitations__ 
 
@@ -323,11 +323,11 @@
 
         (1) __Capital advances__ 
 
-            Of any amounts made available for assistance under this section, such sums as may be necessary shall be available for funding capital advances in accordance with subsection (c)(1) of this section. Such amounts, the repayments from such advances, and the proceeds from notes or obligations issued under this section prior to November 28, 1990, shall constitute a revolving fund to be used by the Secretary in carrying out this section.
+            Of any amounts made available for assistance under this section, such sums as may be necessary shall be available for funding capital advances in accordance with subsection (c)(1). Such amounts, the repayments from such advances, and the proceeds from notes or obligations issued under this section prior to November 28, 1990, shall constitute a revolving fund to be used by the Secretary in carrying out this section.
 
         (2) __Project rental assistance__ 
 
-            Of any amounts made available for assistance under this section, such sums as may be necessary shall be available for funding project rental assistance in accordance with subsection (c)(2) of this section.
+            Of any amounts made available for assistance under this section, such sums as may be necessary shall be available for funding project rental assistance in accordance with subsection (c)(2).
 
         (3) __Nonmetropolitan allocation__ 
 

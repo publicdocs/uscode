@@ -17,7 +17,7 @@
 
     (a) The provisions of the constitution of any State expressly limiting the rate or amount of interest, discount points, or other charges which may be charged, taken, received, or reserved by lenders and the provisions of any State law expressly limiting the rate or amount of interest, discount points, or other charges which may be charged, taken, received, or reserved shall not apply to any loan, mortgage, or advance which is insured under subchapter I or II of this chapter.
 
-    (b) The provisions of subsection (a) of this section shall apply to loans, mortgages, or advances made or executed in any State until the effective date (after December 21, 1979) of a provision of law of that State limiting the rate or amount of interest, discount points, or other charges on any such loan, mortgage, or advance.
+    (b) The provisions of subsection (a) shall apply to loans, mortgages, or advances made or executed in any State until the effective date (after December 21, 1979) of a provision of law of that State limiting the rate or amount of interest, discount points, or other charges on any such loan, mortgage, or advance.
 
 ([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 529, as added [Pub. L. 96–153, title III, § 308][/us/pl/96/153/s308], Dec. 21, 1979, [93 Stat. 1113][/us/stat/93/1113].)
 

@@ -103,7 +103,7 @@
 
             (A) __In general__ 
 
-                For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured credit union with total assets of $50,000,000 or more, an insured credit union shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c) of this section.
+                For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured credit union with total assets of $50,000,000 or more, an insured credit union shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c).
 
             (B) __Exception for newly insured credit union__ 
 
@@ -205,7 +205,7 @@
 
             (C)  __Calculation based on certified statements__  __.—__ 
 
-            In calculating the Fund’s equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) of this section for the final reporting period of the calendar year referred to in subparagraph (A).
+            In calculating the Fund’s equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) for the final reporting period of the calendar year referred to in subparagraph (A).
 
         (4)  __Timeliness and accuracy of data__  __.—__ 
 
@@ -221,7 +221,7 @@
 
             Any insured credit union which—
 
-                (i) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit any certified statement under subsection (b)(1) of this section within the period of time required or submits a false or misleading certified statement under such subsection; or
+                (i) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit any certified statement under subsection (b)(1) within the period of time required or submits a false or misleading certified statement under such subsection; or
 
                 (ii) submits the statement at a time which is minimally after the time required,
 
@@ -231,7 +231,7 @@
 
             Any insured credit union which—
 
-                (i) fails to submit any certified statement under subsection (b)(1) of this section within the period of time required or submits a false or misleading certified statement in a manner not described in subparagraph (A); or
+                (i) fails to submit any certified statement under subsection (b)(1) within the period of time required or submits a false or misleading certified statement in a manner not described in subparagraph (A); or
 
                 (ii) fails or refuses to pay any deposit or premium for insurance required under this subchapter,
 
@@ -239,7 +239,7 @@
 
             (C)  __Third tier__  __.—__ 
 
-            Notwithstanding subparagraphs (A) and (B), if any insured credit union knowingly or with reckless disregard for the accuracy of any certified statement under subsection (b)(1) of this section submits a false or misleading certified statement under such subsection, the Board may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the credit union, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
+            Notwithstanding subparagraphs (A) and (B), if any insured credit union knowingly or with reckless disregard for the accuracy of any certified statement under subsection (b)(1) submits a false or misleading certified statement under such subsection, the Board may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the credit union, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
 
             (D)  __Assessment procedure__  __.—__ 
 
@@ -347,7 +347,7 @@
 
     “(3) the term ‘insured shares’ when applied to this section includes share, share draft, share certificate and other similar accounts as determined by the Board, but does not include amounts in excess of the insured account limit set forth in [section 1787(c)(1) of this title][/us/usc/t12/s1787/c/1].”
 
-    1992—Subsec. (d)(2). [Pub. L. 102–550][/us/pl/102/550], in subpar. (C), substituted “insured credit union” for “insured depository institution”, struck out “or” after “subsection (b)(1) of this section”, and substituted “Board” for “Corporation” and “assets of the credit union” for “assets of the institution”, in subpar. (D), substituted “Board” for “Corporation”, and in subpar. (E), substituted “insured credit union” for “insured depository institution” and “if the credit union” for “if the institution”.
+    1992—Subsec. (d)(2). [Pub. L. 102–550][/us/pl/102/550], in subpar. (C), substituted “insured credit union” for “insured depository institution”, struck out “or” after “subsection (b)(1)”, and substituted “Board” for “Corporation” and “assets of the credit union” for “assets of the institution”, in subpar. (D), substituted “Board” for “Corporation”, and in subpar. (E), substituted “insured credit union” for “insured depository institution” and “if the credit union” for “if the institution”.
 
     1991—Subsec. (d)(2). [Pub. L. 102–242][/us/pl/102/242] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any insured credit union which willfully fails or refuses to file any certified statement or to pay its deposit or any premium charge for insurance required under this subchapter shall be subject to a penalty of not more than $100 for each day that such violation continues, which penalty the Board may recover for its use. The provisions of this paragraph shall not be applicable in any case in which the refusal to pay its deposit or the premium charge for insurance is due to a dispute between the insured credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.”
 

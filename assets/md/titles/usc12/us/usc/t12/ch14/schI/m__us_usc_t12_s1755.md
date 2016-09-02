@@ -33,11 +33,11 @@
 
     (e) __Investment of annual operating fees not needed for current operations__ 
 
-        (1) Upon request of the Board, the Secretary of the Treasury shall invest and reinvest such portions of the annual operating fees deposited under subsection (d) of this section as the Board determines are not needed for current operations.
+        (1) Upon request of the Board, the Secretary of the Treasury shall invest and reinvest such portions of the annual operating fees deposited under subsection (d) as the Board determines are not needed for current operations.
 
         (2) Such investments may be made only in interest bearing securities of the United States with maturities requested by the Board bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
-        (3) All income derived from such investments and reinvestments shall be deposited to the account of the Administration described in subsection (d) of this section.
+        (3) All income derived from such investments and reinvestments shall be deposited to the account of the Administration described in subsection (d).
 
 ([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 105, formerly § 5, [48 Stat. 1217][/us/stat/48/1217]; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; [Apr. 17, 1952, ch. 214, § 1][/us/act/1952-04-17/ch214/s1], [66 Stat. 63][/us/stat/66/63]; renumbered § 6 and amended [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 629][/us/stat/73/629]; [Pub. L. 91–206, § 2(1)][/us/pl/91/206/s2/1], (3), Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 105, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–630, title V, § 507][/us/pl/95/630/s507], Nov. 10, 1978, [92 Stat. 3682][/us/stat/92/3682]; [Pub. L. 97–320, title V, § 505][/us/pl/97/320/s505], Oct. 15, 1982, [96 Stat. 1528][/us/stat/96/1528].)
 

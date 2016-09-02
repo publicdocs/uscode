@@ -69,7 +69,7 @@
 
         (1) __Establishment__ 
 
-        The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsections (b) and (c) of this section. These standards and procedures—
+        The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsections (b) and (c). These standards and procedures—
 
             (A) shall provide for the Secretary or other department official (such as the Assistant Secretary for Housing) to make the determination to impose a penalty;
 
@@ -83,21 +83,21 @@
 
         (3) __Factors in determining amount of penalty__ 
 
-            In determining the amount of a penalty under subsection (b) or (c) of this section, consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including offenses occurring before December 15, 1989), ability to pay the penalty, injury to the tenants, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
+            In determining the amount of a penalty under subsection (b) or (c), consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including offenses occurring before December 15, 1989), ability to pay the penalty, injury to the tenants, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
 
         (4) __Reviewability of imposition of penalty__ 
 
-            The Secretary’s determination or order imposing a penalty under subsection (b) or (c) of this section shall not be subject to review, except as provided in subsection (e) of this section.
+            The Secretary’s determination or order imposing a penalty under subsection (b) or (c) shall not be subject to review, except as provided in subsection (e).
 
     (e) __Judicial review of agency determination__ 
 
         (1) __In general__ 
 
-            After exhausting all administrative remedies established by the Secretary under subsection (d)(1) of this section, a mortgagor against whom the Secretary has imposed a civil money penalty under subsection (b) or (c) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (d)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary’s order or determination be modified or be set aside in whole or in part.
+            After exhausting all administrative remedies established by the Secretary under subsection (d)(1), a mortgagor against whom the Secretary has imposed a civil money penalty under subsection (b) or (c) may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (d)(1)(A) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary’s order or determination be modified or be set aside in whole or in part.
 
         (2) __Objections not raised in hearing__ 
 
-            The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+            The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
         (3) __Scope of review__ 
 
@@ -109,7 +109,7 @@
 
     (f) __Action to collect penalty__ 
 
-        If a mortgagor fails to comply with the Secretary’s determination or order imposing a civil money penalty under subsection (b) or (c) of this section, after the determination or order is no longer subject to review as provided by subsections (d)(1) and (e) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagor and such other relief as may be available. The monetary judgment may, in the court’s discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s determination or order imposing the penalty shall not be subject to review.
+        If a mortgagor fails to comply with the Secretary’s determination or order imposing a civil money penalty under subsection (b) or (c), after the determination or order is no longer subject to review as provided by subsections (d)(1) and (e), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagor and such other relief as may be available. The monetary judgment may, in the court’s discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s determination or order imposing the penalty shall not be subject to review.
 
     (g) __Settlement by Secretary__ 
 

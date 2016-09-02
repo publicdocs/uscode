@@ -23,7 +23,7 @@
 
         (1) __Transfer authority__ 
 
-            Notwithstanding the authority under subsection (a) of this section and the last sentence of [section 1710(g) of this title][/us/usc/t12/s1710/g], the Secretary of Housing and Urban Development shall transfer ownership of any qualified HUD property, subject to the requirements of this section, to a unit of general local government having jurisdiction for the area in which the property is located or to a community development corporation which operates within such a unit of general local government in accordance with this subsection, but only to the extent that units of general local government and community development corporations consent to transfer and the Secretary determines that such transfer is practicable.
+            Notwithstanding the authority under subsection (a) and the last sentence of [section 1710(g) of this title][/us/usc/t12/s1710/g], the Secretary of Housing and Urban Development shall transfer ownership of any qualified HUD property, subject to the requirements of this section, to a unit of general local government having jurisdiction for the area in which the property is located or to a community development corporation which operates within such a unit of general local government in accordance with this subsection, but only to the extent that units of general local government and community development corporations consent to transfer and the Secretary determines that such transfer is practicable.
 
         (2) __Qualified HUD properties__ 
 

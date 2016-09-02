@@ -873,7 +873,7 @@
 
                     <td> 
 
-                For the following period:  </td>
+                 For the following period:  </td>
 
                     <td> 
 

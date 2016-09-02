@@ -41,7 +41,7 @@
 
     (d) __Authorization to insure loans for improvements or additions; terms and conditions; limitation on amount__ 
 
-        Notwithstanding the foregoing, the Secretary may insure a loan for improvements or additions to a multifamily housing project, or a group practice or medical practice facility or hospital or other health facility approved by the Secretary, which is not covered by a mortgage insured under this chapter, if he finds that such a loan would assist in preserving, expanding, or improving housing opportunities, or in providing protection against fire or other hazards. Such loans shall have a maturity satisfactory to the Secretary and shall meet such other conditions as the Secretary may prescribe. In no event shall such a loan be insured if it is for an amount in excess of the maximum amount which could be approved if the outstanding indebtedness, if any, covering the property were a mortgage insured under this chapter. At any sale under foreclosure of a mortgage on a project or facility which is not insured under this chapter but which is senior to a loan assigned to the Secretary pursuant to subsection (c) of this section, the Secretary is authorized to bid, in addition to amounts authorized under [section 1713(k) of this title][/us/usc/t12/s1713/k], any sum up to but not in excess of the total unpaid indebtedness secured by such senior mortgage, plus taxes, insurance, foreclosure costs, fees, and other expenses. In the event that, pursuant to subsection (c) of this section, the Secretary acquires title to, or is assigned, a loan covering a project or facility which is subject to a mortgage which is not insured under this chapter, the Secretary is authorized to make payments from the General Insurance Fund on the debt secured by such mortgage, and to take such other steps as the Secretary may deem appropriate to preserve or protect the Secretary’s interest in the project or facility.
+        Notwithstanding the foregoing, the Secretary may insure a loan for improvements or additions to a multifamily housing project, or a group practice or medical practice facility or hospital or other health facility approved by the Secretary, which is not covered by a mortgage insured under this chapter, if he finds that such a loan would assist in preserving, expanding, or improving housing opportunities, or in providing protection against fire or other hazards. Such loans shall have a maturity satisfactory to the Secretary and shall meet such other conditions as the Secretary may prescribe. In no event shall such a loan be insured if it is for an amount in excess of the maximum amount which could be approved if the outstanding indebtedness, if any, covering the property were a mortgage insured under this chapter. At any sale under foreclosure of a mortgage on a project or facility which is not insured under this chapter but which is senior to a loan assigned to the Secretary pursuant to subsection (c), the Secretary is authorized to bid, in addition to amounts authorized under [section 1713(k) of this title][/us/usc/t12/s1713/k], any sum up to but not in excess of the total unpaid indebtedness secured by such senior mortgage, plus taxes, insurance, foreclosure costs, fees, and other expenses. In the event that, pursuant to subsection (c), the Secretary acquires title to, or is assigned, a loan covering a project or facility which is subject to a mortgage which is not insured under this chapter, the Secretary is authorized to make payments from the General Insurance Fund on the debt secured by such mortgage, and to take such other steps as the Secretary may deem appropriate to preserve or protect the Secretary’s interest in the project or facility.
 
     (e) __Loan insurance for energy conserving improvements and solar energy systems__ 
 
@@ -49,7 +49,7 @@
 
         (2)
 
-         Notwithstanding the provisions of subsection (b) of this section, a loan insured under this subsection shall—
+         Notwithstanding the provisions of subsection (b), a loan insured under this subsection shall—
 
             (A) not exceed an amount which the Secretary determines is necessary for the purchase and installation of individual utility meters plus an amount which the Secretary deems appropriate taking into account amounts which will be saved in operation costs over the period of repayment of the loan by reducing the energy requirements of the project as a result of the installation of energy conserving improvements or a solar energy system therein;
 
@@ -67,7 +67,7 @@
 
             (H) contain such other terms, conditions, and restrictions as the Secretary may prescribe.
 
-        (3) The provisions of subsection (c) of this section shall apply to loans insured under this subsection.
+        (3) The provisions of subsection (c) shall apply to loans insured under this subsection.
 
         (4) The Secretary shall provide that any person obligated on the note for any loan insured under this section be regulated or restricted, until the termination of all obligations of the Secretary under the insurance, by the Secretary as to rents or sales, charges, capital structure, rate of return, and methods of operations of the multifamily project to such an extent and in such manner as to provide reasonable rentals to tenants and a reasonable return on the investment.
 

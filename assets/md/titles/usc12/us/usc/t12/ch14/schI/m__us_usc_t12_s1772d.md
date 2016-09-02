@@ -37,7 +37,7 @@
 
     (b) __Factors to be considered__ 
 
-    In determining whether a franchise shall be forfeited under subsection (a) of this section, the Board shall take into account the following factors:
+    In determining whether a franchise shall be forfeited under subsection (a), the Board shall take into account the following factors:
 
         (1) The extent to which directors, committee members, or senior executive officers (as defined by the Board in regulations which the Board shall prescribe) of the credit union knew of, or were involved in, the commission of the money laundering offense of which the credit union was found guilty.
 
@@ -51,7 +51,7 @@
 
     (c) __Successor liability__ 
 
-        This section shall not apply to a successor to the interests of, or a person who acquires, a credit union that violated a provision of law described in subsection (a) of this section, if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this section or regulations prescribed under this section.
+        This section shall not apply to a successor to the interests of, or a person who acquires, a credit union that violated a provision of law described in subsection (a), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this section or regulations prescribed under this section.
 
 ([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 131, as added [Pub. L. 102–550, title XV, § 1502(c)][/us/pl/102/550/s1502/c], Oct. 28, 1992, [106 Stat. 4047][/us/stat/106/4047]; amended [Pub. L. 103–325, title IV, § 411(c)(2)(B)][/us/pl/103/325/s411/c/2/B], Sept. 23, 1994, [108 Stat. 2253][/us/stat/108/2253].)
 
