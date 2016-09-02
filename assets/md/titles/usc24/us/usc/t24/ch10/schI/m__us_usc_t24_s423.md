@@ -37,7 +37,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “[section 302904 of title 54][/us/usc/t54/s302904]” substituted for “[section 470a(e)(3) of title 16][/us/usc/t16/s470a/e/3]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b), “[section 302904 of title 54][/us/usc/t54/s302904]” substituted for “section 101(e)(3) of the National Historic Preservation Act ([16 U.S.C. 470a(e)(3)][/us/usc/t16/s470a/e/3])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
