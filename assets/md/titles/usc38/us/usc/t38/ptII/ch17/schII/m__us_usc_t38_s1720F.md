@@ -117,6 +117,28 @@
 
     Subsec. (j)(3). [Pub. L. 112–239, § 730(a)(3)][/us/pl/112/239/s730/a/3], added par. (3).
 
+ __Collaboration on Suicide Prevention Efforts Between Department of Veterans Affairs and Non-Profit Mental Health Organizations__ 
+
+[Pub. L. 114–2, § 6][/us/pl/114/2/s6], Feb. 12, 2015, [129 Stat. 36][/us/stat/129/36], provided that:
+
+>     “(a)  __Collaboration__  __.—__ 
+
+>     The Secretary of Veterans Affairs may collaborate with non-profit mental health organizations to prevent suicide among veterans as follows:
+
+>         “(1) To improve the efficiency and effectiveness of suicide prevention efforts carried out by the Secretary and non-profit mental health organizations.
+
+>         “(2) To assist non-profit mental health organizations with the suicide prevention efforts of such organizations through the use of the expertise of employees of the Department of Veterans Affairs.
+
+>         “(3) To jointly carry out suicide prevention efforts.
+
+>     “(b)  __Exchange of Resources__  __.—__ 
+
+>     In carrying out any collaboration under subsection (a), the Secretary and any non-profit mental health organization with which the Secretary is collaborating under such subsection shall exchange training sessions and best practices to help with the suicide prevention efforts of the Department and such organization.
+
+>     “(c)  __Director of Suicide Prevention Coordination__  __.—__ 
+
+>     The Secretary shall select within the Department a Director of Suicide Prevention Coordination to undertake any collaboration with non-profit mental health organizations under this section or any other provision of law.”
+
  __Deadline for Commencement of Program__ 
 
 [Pub. L. 112–239, div. A, title VII, § 730(a)(4)][/us/pl/112/239/s730/a/4], Jan. 2, 2013, [126 Stat. 1814][/us/stat/126/1814], provided that: 
@@ -154,6 +176,8 @@
 [/us/pl/112/239/s730/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fa%2F2
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/pl/112/239/s730/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fa%2F3
+[/us/pl/114/2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs6
+[/us/stat/129/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F36
 [/us/pl/112/239/s730/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fa%2F4
 [/us/stat/126/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1814
 [/us/usc/t38/s1720F/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720F%2Fj

@@ -313,6 +313,112 @@
 
     Section effective Oct. 1, 1979, see [section 107 of Pub. L. 96–22][/us/pl/96/22/s107], set out as an Effective Date of 1979 Amendment note under [section 1701 of this title][/us/usc/t38/s1701].
 
+ __Publication of Internet Website To Provide Information Regarding Mental Health Care Services__ 
+
+[Pub. L. 114–2, § 3][/us/pl/114/2/s3], Feb. 12, 2015, [129 Stat. 31][/us/stat/129/31], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Using funds made available to the Secretary of Veterans Affairs to publish the Internet websites of the Department of Veterans Affairs, the Secretary shall survey the existing Internet websites and information resources of the Department to publish an Internet website that serves as a centralized source to provide veterans with information regarding all of the mental health care services provided by the Secretary.
+
+>     “(b)  __Elements__  __.—__ 
+
+>     The Internet website published under subsection (a) shall provide to veterans information regarding all of the mental health care services available in the Veteran Integrated Service Network that the veteran is seeking such services, including, with respect to each medical center, Vet Center (as defined in [section 1712A of title 38][/us/usc/t38/s1712A], United States Code), and community-based outpatient center in the Veterans Integrated Service Network—
+
+>         “(1) the name and contact information of each social work office;
+
+>         “(2) the name and contact information of each mental health clinic;
+
+>         “(3) a list of appropriate staff; and
+
+>         “(4) any other information the Secretary determines appropriate.
+
+>     “(c)  __Updated Information__  __.—__ 
+
+>     The Secretary shall ensure that the information described in subsection (b) that is published on the Internet website under subsection (a) is updated not less than once every 90 days.
+
+>     “(d)  __Outreach__  __.—__ 
+
+>     In carrying out this section, the Secretary shall ensure that the outreach conducted under [section 1720F(i) of title 38][/us/usc/t38/s1720F/i], United States Code, includes information regarding the Internet website published under subsection (a).”
+
+ __Pilot Program on Community Outreach__ 
+
+[Pub. L. 114–2, § 5][/us/pl/114/2/s5], Feb. 12, 2015, [129 Stat. 34][/us/stat/129/34], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary of Veterans Affairs shall establish a pilot program to assist veterans transitioning from serving on active duty and to improve the access of veterans to mental health services.
+
+>     “(b)  __Locations__  __.—__ 
+
+>     The Secretary shall carry out the pilot program under subsection (a) at not less than five Veterans Integrated Service Networks that have a large population of veterans who—
+
+>         “(1) served in the reserve components of the Armed Forces; or
+
+>         “(2) are transitioning into communities with an established population of veterans after having recently separated from the Armed Forces.
+
+>     “(c)  __Functions__  __.—__ 
+
+>     The pilot program at each Veterans Integrated Service Network described in subsection (b) shall include the following:
+
+>         “(1)
+
+>          A community oriented veteran peer support network, carried out in partnership with an appropriate entity with experience in peer support programs, that—
+
+>             “(A) establishes peer support training guidelines;
+
+>             “(B) develops a network of veteran peer support counselors to meet the demands of the communities in the Veterans Integrated Service Network;
+
+>             “(C) conducts training of veteran peer support counselors;
+
+>             “(D)
+
+>              with respect to one medical center selected by the Secretary in each such Veterans Integrated Service Network, has—
+
+>                 “(i) a designated peer support specialist who acts as a liaison to the community oriented veteran peer network; and
+
+>                 “(ii) a certified mental health professional designated as the community oriented veteran peer network mentor; and
+
+>             “(E) is readily available to veterans, including pursuant to the Veterans Integrated Service Network cooperating and working with State and local governments and appropriate entities.
+
+>         “(2)
+
+>          A community outreach team for each medical center selected by the Secretary pursuant to paragraph (1)(D) that—
+
+>             “(A) assists veterans transitioning into communities;
+
+>             “(B) establishes a veteran transition advisory group to facilitate outreach activities;
+
+>             “(C) includes the participation of appropriate community organizations, State and local governments, colleges and universities, chambers of commerce and other local business organizations, and organizations that provide legal aid or advice; and
+
+>             “(D) coordinates with the Veterans Integrated Service Network regarding the Veterans Integrated Service Network carrying out an annual mental health summit to assess the status of veteran mental health care in the community and to develop new or innovative means to provide mental health services to veterans.
+
+>     “(d) __Reports.—__ 
+
+>         “(1)  __Initial report__  __.—__ 
+
+>         Not later than 18 months after the date on which the pilot program under subsection (a) commences, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the pilot program. With respect to each Veterans Integrated Service Network described in subsection (b), the report shall include—
+
+>             “(A) a full description of the peer support model implemented under the pilot program, participation data, and data pertaining to past and current mental health related hospitalizations and fatalities;
+
+>             “(B) recommendations on implementing peer support networks throughout the Department;
+
+>             “(C) whether the mental health resources made available under the pilot program for members of the reserve components of the Armed Forces is effective; and
+
+>             “(D) a full description of the activities and effectiveness of community outreach coordinating teams under the pilot program, including partnerships that have been established with appropriate entities.
+
+>         “(2)  __Final report__  __.—__ 
+
+>         Not later than 90 days before the date on which the pilot program terminates under subsection (e), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an update to the report submitted under paragraph (1).
+
+>     “(e)  __Construction__  __.—__ 
+
+>     This section may not be construed to authorize the Secretary to hire additional employees of the Department to carry out the pilot program under subsection (a).
+
+>     “(f)  __Termination__  __.—__ 
+
+>     The authority of the Secretary to carry out the pilot program under subsection (a) shall terminate on the date that is 3 years after the date on which the pilot program commences.”
+
  __Participation of Members of the Armed Forces in Peer Support Counseling Programs of the Department of Veterans Affairs__ 
 
 [Pub. L. 112–239, div. A, title VII, § 724][/us/pl/112/239/s724], Jan. 2, 2013, [126 Stat. 1805][/us/stat/126/1805], provided that:
@@ -1425,6 +1531,12 @@
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
 [/us/pl/96/22/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs107
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
+[/us/pl/114/2/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs3
+[/us/stat/129/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F31
+[/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
+[/us/usc/t38/s1720F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720F%2Fi
+[/us/pl/114/2/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs5
+[/us/stat/129/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F34
 [/us/pl/112/239/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs724
 [/us/stat/126/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1805
 [/us/usc/t38/s1720F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720F

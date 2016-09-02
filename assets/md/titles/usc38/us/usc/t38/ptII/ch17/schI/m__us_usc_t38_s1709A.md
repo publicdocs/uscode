@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schII/m__us_usc_t38_ptII_ch17_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1709A)
+[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709B.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1709A)
 
 ## § 1709A. Teleconsultation
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schII/m__us_usc_t38_ptII_ch17_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1709A)
+[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709B.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1709A)
 
 ----------
 ----------

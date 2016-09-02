@@ -435,6 +435,12 @@
 
     Amendment by [Pub. L. 89–311][/us/pl/89/311] effective first day of second calendar month following Oct. 31, 1965, see [section 9 of Pub. L. 89–311][/us/pl/89/311/s9], set out as a note under [section 1114 of this title][/us/usc/t38/s1114].
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–2, § 1][/us/pl/114/2/s1], Feb. 12, 2015, [129 Stat. 30][/us/stat/129/30], provided that: 
+
+> “This Act \[enacting [section 1709B of this title][/us/usc/t38/s1709B], amending [section 1710 of this title][/us/usc/t38/s1710], and enacting provisions set out as notes under sections 1712A, 1720F, and 7681 of this title\] may be cited as the ‘Clay Hunt Suicide Prevention for American Veterans Act’ or the ‘Clay Hunt SAV Act’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–257, § 1][/us/pl/113/257/s1], Dec. 18, 2014, [128 Stat. 2924][/us/stat/128/2924], provided that: 
@@ -1550,6 +1556,10 @@
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/89/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs9
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/114/2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs1
+[/us/stat/129/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F30
+[/us/usc/t38/s1709B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1709B
+[/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
 [/us/pl/113/257/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F257%2Fs1
 [/us/stat/128/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2924
 [/us/usc/t38/s1710C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710C

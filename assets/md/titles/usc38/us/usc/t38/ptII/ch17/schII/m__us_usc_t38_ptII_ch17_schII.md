@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709A.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schII/m__us_usc_t38_s1710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch17%2FschII)
+[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709B.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schII/m__us_usc_t38_s1710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch17%2FschII)
 
 #### SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMENT
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709A.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schII/m__us_usc_t38_s1710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch17%2FschII)
+[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709B.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schII/m__us_usc_t38_s1710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch17%2FschII)
 
 ----------
 ----------

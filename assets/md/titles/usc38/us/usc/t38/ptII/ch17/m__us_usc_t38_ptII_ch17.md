@@ -113,6 +113,14 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1709B" data-uslm-ref="/us/usc/t38/s1709B">1709B.</a>  </td>
+
+    <td> Evaluations of mental health care and suicide prevention programs.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMENT  </td>
@@ -675,6 +683,8 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–2, § 2(a)(2)][/us/pl/114/2/s2/a/2], Feb. 12, 2015, [129 Stat. 31][/us/stat/129/31], added item 1709B.
+
     2012—[Pub. L. 112–154, title I][/us/pl/112/154], §§ 102(b)(2), 103(b), 106(b), 108(a)(2), Aug. 6, 2012, [126 Stat. 1168][/us/stat/126/1168], 1169, 1173, 1174, added items 1709, 1709A, 1722B, and 1787.
 
     2010—[Pub. L. 111–163, title I][/us/pl/111/163], §§ 101(a)(2), 103(c), title II, § 206(b), title V, § 511(b), May 5, 2010, [124 Stat. 1137][/us/stat/124/1137], 1140, 1146, 1164, added items 1720G, 1730A, 1782, and 1786 and struck out former item 1782 “Counseling, training, and mental health services for immediate family members”.
@@ -770,6 +780,8 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 ----------
 ----------
 
+[/us/pl/114/2/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs2%2Fa%2F2
+[/us/stat/129/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F31
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/stat/126/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1168
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
