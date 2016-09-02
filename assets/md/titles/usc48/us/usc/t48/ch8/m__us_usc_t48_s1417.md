@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5576 derived from [act Aug. 18, 1856, ch. 164, § 6][/us/act/1856-08-18/ch164/s6], [11 Stat. 120][/us/stat/11/120].
+    R.S. § 5576 derived from [act Aug. 18, 1856, ch. 164][/us/act/1856-08-18/ch164], § 6, [11 Stat. 120][/us/stat/11/120].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t48/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1411
-[/us/act/1856-08-18/ch164/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch164%2Fs6
+[/us/act/1856-08-18/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch164
 [/us/stat/11/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F120
 
 

@@ -17,7 +17,7 @@
 
     Upon request of the Government of Palau, the Secretary of the Interior shall provide assistance to the Government of Palau to develop and promulgate regulations for the effective expenditure of funds received pursuant to this joint resolution, Public Laws 99–658 \[[48 U.S.C. 1931][/us/usc/t48/s1931] et seq.\] and 99–239 \[[48 U.S.C. 1901][/us/usc/t48/s1901] et seq., 2001 et seq.\], or any other Act of Congress.
 
-([Pub. L. 101–219, title I, § 102][/us/pl/101/219/s102], Dec. 12, 1989, [103 Stat. 1870][/us/stat/103/1870].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 102, Dec. 12, 1989, [103 Stat. 1870][/us/stat/103/1870].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
-[/us/pl/101/219/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs102
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1870
 [/us/pl/101/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219
 [/us/stat/103/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1870

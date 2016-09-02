@@ -17,7 +17,7 @@
 
     The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, the text of which is as follows, is hereby approved.
 
-([Pub. L. 94–241, § 1][/us/pl/94/241/s1], Mar. 24, 1976, [90 Stat. 263][/us/stat/90/263].)
+([Pub. L. 94–241][/us/pl/94/241], § 1, Mar. 24, 1976, [90 Stat. 263][/us/stat/90/263].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Authorization of Appropriations for Transition of Mariana Islands District to Commonwealth Status__ 
 
-    [Pub. L. 94–27, § 2][/us/pl/94/27/s2], May 28, 1975, [89 Stat. 95][/us/stat/89/95], authorized appropriation of $1,500,000 to aid in transition of Mariana Islands District to a new Commonwealth status as a territory of United States and provided that no part could be obligated or expended until Congress approved final agreement between Marianas Political Status Commission and United States.
+    [Pub. L. 94–27][/us/pl/94/27], § 2, May 28, 1975, [89 Stat. 95][/us/stat/89/95], authorized appropriation of $1,500,000 to aid in transition of Mariana Islands District to a new Commonwealth status as a territory of United States and provided that no part could be obligated or expended until Congress approved final agreement between Marianas Political Status Commission and United States.
 
  __Recital Clauses__ 
 
@@ -53,7 +53,7 @@
 
  __Text of Covenant__ 
 
-    [Pub. L. 94–241, § 1][/us/pl/94/241/s1], Mar. 24, 1976, [90 Stat. 263][/us/stat/90/263], as amended by [Pub. L. 98–213, § 9][/us/pl/98/213/s9], Dec. 8, 1983, [97 Stat. 1461][/us/stat/97/1461]; [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–196; [Pub. L. 110–229, title VII, § 702(g)(1)][/us/pl/110/229/s702/g/1], May 8, 2008, [122 Stat. 864][/us/stat/122/864], contained the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America as follows:
+    [Pub. L. 94–241][/us/pl/94/241], § 1, Mar. 24, 1976, [90 Stat. 263][/us/stat/90/263], as amended by [Pub. L. 98–213][/us/pl/98/213], § 9, Dec. 8, 1983, [97 Stat. 1461][/us/stat/97/1461]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–196; [Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(g)(1), May 8, 2008, [122 Stat. 864][/us/stat/122/864], contained the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America as follows:
 
 “Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America
 
@@ -157,13 +157,13 @@
 
     “(a) except as otherwise provided in Subsection (b) of Section 502, the coastwise laws of the United States and any prohibition in the laws of the United States against foreign vessels landing fish or unfinished fish products in the United States; and
 
-    “(b) the minimum wage provisions of Section 6, Act of June 25, 1938, [52 Stat. 1062][/us/stat/52/1062], as amended. (As amended [Pub. L. 110–229, title VII, § 702(g)(1)(A)][/us/pl/110/229/s702/g/1/A], May 8, 2008, [122 Stat. 864][/us/stat/122/864].)
+    “(b) the minimum wage provisions of Section 6, Act of June 25, 1938, [52 Stat. 1062][/us/stat/52/1062], as amended. (As amended [Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(g)(1)(A), May 8, 2008, [122 Stat. 864][/us/stat/122/864].)
 
     “Section 504. The President will appoint a Commission on Federal Laws to survey the laws of the United States and to make recommendations to the United States Congress as to which laws of the United States not applicable to the Northern Mariana Islands should be made applicable and to what extent and in what manner, and which applicable laws should be made inapplicable and to what extent and in what manner. The Commission will consist of seven persons (at least four of whom will be citizens of the Trust Territory of the Pacific Islands who are and have been for at least five years domiciled continuously in the Northern Mariana Islands at the time of their appointments) who will be representative of the federal, local, private and public interests in the applicability of laws of the United States to the Northern Mariana Islands. The Commission will make its final report and recommendations to the Congress within one year after the termination of the Trusteeship Agreement, and before that time will make such interim reports and recommendations to the Congress as it considers appropriate to facilitate the transition of the Northern Mariana Islands to its new political status. In formulating its recommendations the Commission will take into consideration the potential effect of each law on local conditions within the Northern Mariana Islands, the policies embodied in the law and the provisions and purposes of this Covenant. The United States will bear the cost of the work of the Commission.
 
     “Section 505. The laws of the Trust Territory of the Pacific Islands, of the Mariana Islands District and its local municipalities, and all other Executive and District orders of a local nature applicable to the Northern Mariana Islands on the effective date of this Section and not inconsistent with this Covenant or with those provisions of the Constitution, treaties or laws of the United States applicable to the Northern Mariana Islands will remain in force and effect until and unless altered by the Government of the Northern Mariana Islands.
 
-    “Section 506. \[Repealed. [Pub. L. 110–229, title VII, § 702(g)(1)(B)][/us/pl/110/229/s702/g/1/B], May 8, 2008, [122 Stat. 864][/us/stat/122/864].\]
+    “Section 506. \[Repealed. [Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(g)(1)(B), May 8, 2008, [122 Stat. 864][/us/stat/122/864].\]
 
 “Article VI
 
@@ -193,7 +193,7 @@
 
     “Section 606. (a) Not later than at the time this Covenant is approved, that portion of the Trust Territory Social Security Retirement Fund attributable to the Northern Mariana Islands will be transferred to the Treasury of the United States, to be held in trust as a separate fund to be known as the ‘Northern Mariana Islands Social Security Retirement Fund’. This fund will be administered by the United States in accordance with the social security laws of the Trust Territory of the Pacific Islands in effect at the time of such transfer, which may be modified by the Government of the Northern Mariana Islands only in a manner which does not create any additional differences between the social security laws of the Trust Territory of the Pacific Islands and the laws described in Subsection (b). The United States will supplement such fund if necessary to assure that persons receive benefits therefrom comparable to those they would have received from the Trust Territory Social Security Retirement Fund under the laws applicable thereto on the day preceding the establishment of the Northern Mariana Islands Social Security Retirement Fund, so long as the rate of contributions thereto also remains comparable.
 
-    “(b) Those laws of the United States which impose excise and self-employment taxes to support or which provide benefits from the United States Social Security System will on January 1 of the first calendar year following the termination of the Trusteeship Agreement or upon such earlier date as may be agreed to by the Government of the Northern Mariana Islands and the Government of the United States become applicable to the Northern Mariana Islands as they apply to Guam. (As amended [Pub. L. 98–213, § 9][/us/pl/98/213/s9], Dec. 8, 1983, [97 Stat. 1461][/us/stat/97/1461].)
+    “(b) Those laws of the United States which impose excise and self-employment taxes to support or which provide benefits from the United States Social Security System will on January 1 of the first calendar year following the termination of the Trusteeship Agreement or upon such earlier date as may be agreed to by the Government of the Northern Mariana Islands and the Government of the United States become applicable to the Northern Mariana Islands as they apply to Guam. (As amended [Pub. L. 98–213][/us/pl/98/213], § 9, Dec. 8, 1983, [97 Stat. 1461][/us/stat/97/1461].)
 
     “(c) At such time as the laws described in Subsection (b) become applicable to the Northern Mariana Islands:
 
@@ -221,9 +221,9 @@
 
     “(c) $1.75 million for an economic development loan fund, of which $500,000 each year will be reserved for small loans to farmers and fishermen and to agricultural and marine cooperatives, and of which $250,000 each year will be reserved for a special program of low interest housing loans for low income families.
 
-    “Section 703. (a) The United States will make available to the Northern Mariana Islands the full range of federal programs and services available to the territories of the United States. Funds provided under Section 702 will be considered to be local revenues when used as the local share required to obtain federal programs and services. (As amended [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–196.)
+    “Section 703. (a) The United States will make available to the Northern Mariana Islands the full range of federal programs and services available to the territories of the United States. Funds provided under Section 702 will be considered to be local revenues when used as the local share required to obtain federal programs and services. (As amended [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–196.)
 
-    “(b) There will be paid into the Treasury of the Government of the Northern Mariana Islands, to be expended to the benefit of the people thereof as that Government may by law prescribe, the proceeds of all customs duties and federal income taxes derived from the Northern Mariana Islands, the proceeds of all taxes collected under the internal revenue laws of the United States on articles produced in the Northern Mariana Islands and transported to the United States, its territories or possessions, or consumed in the Northern Mariana Islands, the proceeds of any other taxes which may be levied by the Congress on the inhabitants of the Northern Mariana Islands, and all quarantine and passport fees collected in the Northern Mariana Islands, except that nothing in this Section shall be construed to apply to any tax imposed by Chapters 2 or 21 of Title 26, United States Code. (As amended [Pub. L. 110–229, title VII, § 702(g)(1)(C)][/us/pl/110/229/s702/g/1/C], May 8, 2008, [122 Stat. 864][/us/stat/122/864].)
+    “(b) There will be paid into the Treasury of the Government of the Northern Mariana Islands, to be expended to the benefit of the people thereof as that Government may by law prescribe, the proceeds of all customs duties and federal income taxes derived from the Northern Mariana Islands, the proceeds of all taxes collected under the internal revenue laws of the United States on articles produced in the Northern Mariana Islands and transported to the United States, its territories or possessions, or consumed in the Northern Mariana Islands, the proceeds of any other taxes which may be levied by the Congress on the inhabitants of the Northern Mariana Islands, and all quarantine and passport fees collected in the Northern Mariana Islands, except that nothing in this Section shall be construed to apply to any tax imposed by Chapters 2 or 21 of Title 26, United States Code. (As amended [Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(g)(1)(C), May 8, 2008, [122 Stat. 864][/us/stat/122/864].)
 
     “Section 704. (a) Funds provided under Section 702 not obligated or expended by the Government of the Northern Mariana Islands during any fiscal year will remain available for obligation or expenditure by that Government in subsequent fiscal years for the purposes for which the funds were appropriated.
 
@@ -381,7 +381,7 @@ President of the United States.
 
            Pedro A. Tenorio.”
 
-\[[Pub. L. 110–229, title VII, § 702(g)(2)][/us/pl/110/229/s702/g/2], May 8, 2008, [122 Stat. 864][/us/stat/122/864], provided that: 
+\[[Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(g)(2), May 8, 2008, [122 Stat. 864][/us/stat/122/864], provided that: 
 
 > “The amendments made by paragraph (1) \[amending Covenant set out above\] shall take effect on the transition program effective date described in [section 6 of Public Law 94–241][/us/pl/94/241/s6] \[[48 U.S.C. 1806][/us/usc/t48/s1806]\] (as added by subsection (a)).”
 
@@ -486,7 +486,7 @@ NOW, THEREFORE, I, RONALD REAGAN, by the authority vested in me as President by 
 ----------
 ----------
 
-[/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
+[/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
@@ -495,30 +495,30 @@ NOW, THEREFORE, I, RONALD REAGAN, by the authority vested in me as President by 
 [/us/stat/97/1463-1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1463-1466
 [/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
-[/us/pl/94/27/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F27%2Fs2
+[/us/pl/94/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F27
 [/us/stat/89/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F95
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
-[/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
+[/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
-[/us/pl/98/213/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs9
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1461
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
-[/us/pl/110/229/s702/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fg%2F1
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F864
 [/us/stat/52/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1062
-[/us/pl/110/229/s702/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fg%2F1%2FA
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F864
-[/us/pl/110/229/s702/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fg%2F1%2FB
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F864
 [/us/usc/t26/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs935
-[/us/pl/98/213/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs9
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1461
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
-[/us/pl/110/229/s702/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fg%2F1%2FC
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F864
-[/us/pl/110/229/s702/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fg%2F2
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F864
 [/us/pl/94/241/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs6
 [/us/usc/t48/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1806

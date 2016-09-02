@@ -109,7 +109,7 @@
 
         (3) To the extent not prohibited under the Constitution of Palau, upon written request of the President of Palau, the Drug Enforcement Administration, the Federal Bureau of Investigation, the Secret Service, the Immigration and Naturalization Service, and the Customs Service are authorized to investigate any United States criminal laws which are applicable in Palau in cooperation with law enforcement agencies of Palau.
 
-([Pub. L. 99–570, title V, § 5004][/us/pl/99/570/s5004], Oct. 27, 1986, [100 Stat. 3207–155][/us/stat/100/3207-155]; [Pub. L. 100–690, title IX][/us/pl/100/690], §§ 9302–9305, 9306(b), 9307, Nov. 18, 1988, [102 Stat. 4536–4538][/us/stat/102/4536-4538].)
+([Pub. L. 99–570, title V][/us/pl/99/570/tV], § 5004, Oct. 27, 1986, [100 Stat. 3207–155][/us/stat/100/3207-155]; [Pub. L. 100–690, title IX][/us/pl/100/690/tIX], §§ 9302–9305, 9306(b), 9307, Nov. 18, 1988, [102 Stat. 4536–4538][/us/stat/102/4536-4538].)
 
  __References in Text__ 
 
@@ -119,23 +119,23 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a)(2). [Pub. L. 100–690, § 9302(1)][/us/pl/100/690/s9302/1], substituted “Secretaries of Education and” for “Secretary of” and inserted “, as appropriate,” after “States”, “and, upon request of the Government of American Samoa, shall” after “are authorized to”, “and other personnel” after “officers”, and “or other substance” after “drug”.
+    1988—Subsec. (a)(2). [Pub. L. 100–690][/us/pl/100/690], § 9302(1), substituted “Secretaries of Education and” for “Secretary of” and inserted “, as appropriate,” after “States”, “and, upon request of the Government of American Samoa, shall” after “are authorized to”, “and other personnel” after “officers”, and “or other substance” after “drug”.
 
-    Subsec. (a)(3). [Pub. L. 100–690, § 9302(2)][/us/pl/100/690/s9302/2], substituted “$350,000 for fiscal year 1989 and annually thereafter for grants to the Government of American Samoa to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services” for “$700,000” and “sections 1494 to 1494c of this title” for “this subsection”.
+    Subsec. (a)(3). [Pub. L. 100–690][/us/pl/100/690], § 9302(2), substituted “$350,000 for fiscal year 1989 and annually thereafter for grants to the Government of American Samoa to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services” for “$700,000” and “sections 1494 to 1494c of this title” for “this subsection”.
 
-    Subsec. (a)(4). [Pub. L. 100–690, § 9302(3)][/us/pl/100/690/s9302/3], added par. (4).
+    Subsec. (a)(4). [Pub. L. 100–690][/us/pl/100/690], § 9302(3), added par. (4).
 
-    Subsec. (b)(1). [Pub. L. 100–690, § 9303(1)][/us/pl/100/690/s9303/1], substituted “Secretaries of Education and” for “Secretary of” and inserted “and, upon request of the Government of Guam, shall provide appropriate training,” after “may provide” and “or other substance” after “drug”.
+    Subsec. (b)(1). [Pub. L. 100–690][/us/pl/100/690], § 9303(1), substituted “Secretaries of Education and” for “Secretary of” and inserted “and, upon request of the Government of Guam, shall provide appropriate training,” after “may provide” and “or other substance” after “drug”.
 
-    Subsec. (b)(2). [Pub. L. 100–690, § 9303(2)][/us/pl/100/690/s9303/2], substituted “$500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Guam to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to carry out the purposes of sections 1494 to 1494c of this title, to” for “$1,000,000 to carry out paragraph (1). Funds appropriated under this paragraph shall”.
+    Subsec. (b)(2). [Pub. L. 100–690][/us/pl/100/690], § 9303(2), substituted “$500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Guam to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to carry out the purposes of sections 1494 to 1494c of this title, to” for “$1,000,000 to carry out paragraph (1). Funds appropriated under this paragraph shall”.
 
-    Subsec. (b)(3). [Pub. L. 100–690, § 9303(3)][/us/pl/100/690/s9303/3], added par. (3).
+    Subsec. (b)(3). [Pub. L. 100–690][/us/pl/100/690], § 9303(3), added par. (3).
 
-    Subsec. (c)(2). [Pub. L. 100–690, § 9304(1)][/us/pl/100/690/s9304/1], substituted “The Attorney General and the Secretaries of Education and Health and Human Services of the United States, as appropriate, are authorized to and, upon request of the Government of the Northern Mariana Islands, shall” for “The Attorney General of the United States and the Secretary of Health and Human Services, as appropriate, are authorized to” in introductory provisions, inserted “and other personnel” after “officers” in subpar. (A), and inserted “or other substance” after “drug” in subpar. (B).
+    Subsec. (c)(2). [Pub. L. 100–690][/us/pl/100/690], § 9304(1), substituted “The Attorney General and the Secretaries of Education and Health and Human Services of the United States, as appropriate, are authorized to and, upon request of the Government of the Northern Mariana Islands, shall” for “The Attorney General of the United States and the Secretary of Health and Human Services, as appropriate, are authorized to” in introductory provisions, inserted “and other personnel” after “officers” in subpar. (A), and inserted “or other substance” after “drug” in subpar. (B).
 
-    Subsec. (c)(3). [Pub. L. 100–690, § 9304(2)][/us/pl/100/690/s9304/2], substituted “$125,000 for fiscal year 1989 and annually thereafter for grants to the Government of the Northern Mariana Islands to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services” for “$250,000” and “sections 1494 to 1494c of this title” for “this subsection”.
+    Subsec. (c)(3). [Pub. L. 100–690][/us/pl/100/690], § 9304(2), substituted “$125,000 for fiscal year 1989 and annually thereafter for grants to the Government of the Northern Mariana Islands to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services” for “$250,000” and “sections 1494 to 1494c of this title” for “this subsection”.
 
-    Subsec. (d)(1). [Pub. L. 100–690, § 9305(1)][/us/pl/100/690/s9305/1], substituted “Puerto Rico $7,000,000 for fiscal year 1989 and $2,000,000 annually thereafter for grants to the Government of Puerto Rico to carry out the purposes of sections 1494 to 1494c of this title to be expended in accordance with a plan approved by the Executive Director of the White House Task Force on Puerto Rico in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.” for “Puerto Rico—
+    Subsec. (d)(1). [Pub. L. 100–690][/us/pl/100/690], § 9305(1), substituted “Puerto Rico $7,000,000 for fiscal year 1989 and $2,000,000 annually thereafter for grants to the Government of Puerto Rico to carry out the purposes of sections 1494 to 1494c of this title to be expended in accordance with a plan approved by the Executive Director of the White House Task Force on Puerto Rico in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.” for “Puerto Rico—
 
     “(A) $3,300,000 for the purchase of 2 helicopters;
 
@@ -145,21 +145,21 @@
 
     Sums appropriated under this paragraph shall remain available until expended.”
 
-    Subsec. (d)(4)(A). [Pub. L. 100–690, § 9305(2)][/us/pl/100/690/s9305/2], substituted “Secretaries of Education and” for “Secretary of” and inserted “and, upon request of the Government of Puerto Rico, shall provide appropriate training,” after “may provide” and “or other substance” after “drug”.
+    Subsec. (d)(4)(A). [Pub. L. 100–690][/us/pl/100/690], § 9305(2), substituted “Secretaries of Education and” for “Secretary of” and inserted “and, upon request of the Government of Puerto Rico, shall provide appropriate training,” after “may provide” and “or other substance” after “drug”.
 
-    Subsec. (e)(1). [Pub. L. 100–690, § 9306(b)(1)][/us/pl/100/690/s9306/b/1], substituted “Virgin Islands, $2,000,000 for fiscal year 1990 and annually thereafter to carry out the purposes of sections 1494 to 1494c of this title to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.” for “Virgin Islands—
+    Subsec. (e)(1). [Pub. L. 100–690][/us/pl/100/690], § 9306(b)(1), substituted “Virgin Islands, $2,000,000 for fiscal year 1990 and annually thereafter to carry out the purposes of sections 1494 to 1494c of this title to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.” for “Virgin Islands—
 
     “(A) $3,000,000 for 2 patrol vessels, tracking equipment, supplies, and agents, and
 
     “(B) $1,000,000 for programs to prevent and treat narcotics abuse, such sums to remain available until expended.”
 
-    Subsec. (e)(2). [Pub. L. 100–690, § 9306(b)(2)][/us/pl/100/690/s9306/b/2], substituted “shall” for “should”.
+    Subsec. (e)(2). [Pub. L. 100–690][/us/pl/100/690], § 9306(b)(2), substituted “shall” for “should”.
 
-    Subsec. (e)(3)(A). [Pub. L. 100–690, § 9306(b)(3)][/us/pl/100/690/s9306/b/3], substituted “Secretaries of Education and” for “Secretary of” and inserted “and, upon request of the Government of the Virgin Islands, shall provide appropriate training,” after “may provide” and “or other substance” after “drug”.
+    Subsec. (e)(3)(A). [Pub. L. 100–690][/us/pl/100/690], § 9306(b)(3), substituted “Secretaries of Education and” for “Secretary of” and inserted “and, upon request of the Government of the Virgin Islands, shall provide appropriate training,” after “may provide” and “or other substance” after “drug”.
 
-    Subsec. (e)(4), (5). [Pub. L. 100–690, § 9306(b)(4)][/us/pl/100/690/s9306/b/4], added pars. (4) and (5).
+    Subsec. (e)(4), (5). [Pub. L. 100–690][/us/pl/100/690], § 9306(b)(4), added pars. (4) and (5).
 
-    Subsec. (f). [Pub. L. 100–690, § 9307][/us/pl/100/690/s9307], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–690][/us/pl/100/690], § 9307, added subsec. (f).
 
  __Transfer of Functions__ 
 
@@ -183,30 +183,30 @@
 [/us/usc/t21/s951–970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951%E2%80%93970
 [/us/usc/t21/s951–970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951%E2%80%93970
 [/us/usc/t48/s1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1617
-[/us/pl/99/570/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs5004
+[/us/pl/99/570/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtV
 [/us/stat/100/3207-155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-155
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIX
 [/us/stat/102/4536-4538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4536-4538
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1285
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t48/s1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1494
-[/us/pl/100/690/s9302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9302%2F1
-[/us/pl/100/690/s9302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9302%2F2
-[/us/pl/100/690/s9302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9302%2F3
-[/us/pl/100/690/s9303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9303%2F1
-[/us/pl/100/690/s9303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9303%2F2
-[/us/pl/100/690/s9303/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9303%2F3
-[/us/pl/100/690/s9304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9304%2F1
-[/us/pl/100/690/s9304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9304%2F2
-[/us/pl/100/690/s9305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9305%2F1
-[/us/pl/100/690/s9305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9305%2F2
-[/us/pl/100/690/s9306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9306%2Fb%2F1
-[/us/pl/100/690/s9306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9306%2Fb%2F2
-[/us/pl/100/690/s9306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9306%2Fb%2F3
-[/us/pl/100/690/s9306/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9306%2Fb%2F4
-[/us/pl/100/690/s9307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9307
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

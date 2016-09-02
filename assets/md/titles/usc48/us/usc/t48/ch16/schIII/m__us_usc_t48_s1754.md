@@ -17,7 +17,7 @@
 
     Acting pursuant to legislation enacted in accordance with the Constitution of the Commonwealth of the Northern Mariana Islands, the Government of the Commonwealth of the Northern Mariana Islands may determine the order of names on the ballot for election of Delegate, the method by which a special election to fill a permanent vacancy in the office of Delegate shall be conducted, the method by which ties between candidates for the office of Delegate shall be resolved, and all other matters of local application pertaining to the election and the office of Delegate not otherwise expressly provided for in this subchapter.
 
-([Pub. L. 110–229, title VII, § 714][/us/pl/110/229/s714], May 8, 2008, [122 Stat. 869][/us/stat/122/869].)
+([Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 714, May 8, 2008, [122 Stat. 869][/us/stat/122/869].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/229/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs714
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F869
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/stat/122/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F868

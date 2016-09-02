@@ -21,7 +21,7 @@
 
     (2) upon expiration of 30 days, in which either the House of Representatives or the Senate of the United States is in session, after the President notifies the Committees on Interior and Insular Affairs and Foreign Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate of the effective date of the Compact.
 
-([Pub. L. 101–219, title I, § 101][/us/pl/101/219/s101], Dec. 12, 1989, [103 Stat. 1870][/us/stat/103/1870].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 101, Dec. 12, 1989, [103 Stat. 1870][/us/stat/103/1870].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/stat/100/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3673
 [/us/usc/t48/s1931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931%2Fa
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
-[/us/pl/101/219/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs101
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1870
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658

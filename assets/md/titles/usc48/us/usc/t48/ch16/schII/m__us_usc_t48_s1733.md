@@ -25,7 +25,7 @@
 
     (d) not be, on the date of the election, a candidate for any other office.
 
-([Pub. L. 95–556, § 3][/us/pl/95/556/s3], Oct. 31, 1978, [92 Stat. 2078][/us/stat/92/2078]; [Pub. L. 95–584, § 3][/us/pl/95/584/s3], Nov. 2, 1978, [92 Stat. 2483][/us/stat/92/2483].)
+([Pub. L. 95–556][/us/pl/95/556], § 3, Oct. 31, 1978, [92 Stat. 2078][/us/stat/92/2078]; [Pub. L. 95–584][/us/pl/95/584], § 3, Nov. 2, 1978, [92 Stat. 2483][/us/stat/92/2483].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/95/556/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F556%2Fs3
+[/us/pl/95/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F556
 [/us/stat/92/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2078
-[/us/pl/95/584/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F584%2Fs3
+[/us/pl/95/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F584
 [/us/stat/92/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2483
 [/us/pl/95/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F584
 

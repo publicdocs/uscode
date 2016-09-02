@@ -17,7 +17,7 @@
 
     The proceeds of the bond issues or other obligations herein authorized shall be expended only for the public improvements set forth in [section 1403 of this title][/us/usc/t48/s1403], or for the reduction of the debt created by such bond issue or obligation, unless otherwise authorized by the Congress.
 
-([Oct. 27, 1949, ch. 769, § 2][/us/act/1949-10-27/ch769/s2], [63 Stat. 941][/us/stat/63/941].)
+([Oct. 27, 1949, ch. 769][/us/act/1949-10-27/ch769], § 2, [63 Stat. 941][/us/stat/63/941].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t48/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1403
-[/us/act/1949-10-27/ch769/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-27%2Fch769%2Fs2
+[/us/act/1949-10-27/ch769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-27%2Fch769
 [/us/stat/63/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F941
 
 

@@ -19,7 +19,7 @@
 
     “I solemnly swear (or affirm) in the presence of Almighty God that I will well and faithfully support the Constitution of the United States, the laws of the United States applicable to Guam and the laws of Guam, and that I will conscientiously and impartially discharge my duties as a member of the Guam Legislature (or as an officer of the government of Guam).”
 
-([Aug. 1, 1950, ch. 512, § 14][/us/act/1950-08-01/ch512/s14], [64 Stat. 388][/us/stat/64/388].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 14, [64 Stat. 388][/us/stat/64/388].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs14
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F388
 
 

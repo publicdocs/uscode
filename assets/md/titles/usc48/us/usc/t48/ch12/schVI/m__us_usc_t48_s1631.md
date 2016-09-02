@@ -25,7 +25,7 @@
 
     (d) reliable accounting results to serve as the basis for preparation and support of the government’s request for the approval of the President or his designated representative for the obligation and expenditure of the internal revenue collections as provided in section 26, the Governor’s budget request to the legislature, and for controlling the execution of the said budget.
 
-([July 22, 1954, ch. 558, § 18][/us/act/1954-07-22/ch558/s18], [68 Stat. 505][/us/stat/68/505].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 18, [68 Stat. 505][/us/stat/68/505].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Agreement Regarding Financial Accountability and Performance Standards__ 
 
-[Pub. L. 106–84, § 2][/us/pl/106/84/s2], Oct. 28, 1999, [113 Stat. 1295][/us/stat/113/1295], provided that:
+[Pub. L. 106–84][/us/pl/106/84], § 2, Oct. 28, 1999, [113 Stat. 1295][/us/stat/113/1295], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs18
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F505
 [/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F497
 [/us/usc/t26/s7652/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7652%2Fb%2F3
 [/us/usc/t26/s7852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7852%2Fb
-[/us/pl/106/84/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F84%2Fs2
+[/us/pl/106/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F84
 [/us/stat/113/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1295
 
 

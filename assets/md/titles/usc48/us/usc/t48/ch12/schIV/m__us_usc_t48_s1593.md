@@ -65,7 +65,7 @@
 
         (2) “voter” means a registered voter who is eligible to vote on the issue or for the office involved.
 
-([July 22, 1954, ch. 558, § 12][/us/act/1954-07-22/ch558/s12], [68 Stat. 503][/us/stat/68/503]; [Pub. L. 90–496, § 5][/us/pl/90/496/s5], Aug. 23, 1968, [82 Stat. 838][/us/stat/82/838]; [Pub. L. 99–396, § 1][/us/pl/99/396/s1], Aug. 27, 1986, [100 Stat. 837][/us/stat/100/837].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 12, [68 Stat. 503][/us/stat/68/503]; [Pub. L. 90–496][/us/pl/90/496], § 5, Aug. 23, 1968, [82 Stat. 838][/us/stat/82/838]; [Pub. L. 99–396][/us/pl/99/396], § 1, Aug. 27, 1986, [100 Stat. 837][/us/stat/100/837].)
 
  __Amendments__ 
 
@@ -84,11 +84,11 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs12
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F503
-[/us/pl/90/496/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs5
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F838
-[/us/pl/99/396/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs1
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F837
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496

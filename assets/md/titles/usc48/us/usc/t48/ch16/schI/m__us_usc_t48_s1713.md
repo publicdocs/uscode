@@ -25,7 +25,7 @@
 
     (d) not be, on the date of the election, a candidate for any other office.
 
-([Pub. L. 92–271, § 3][/us/pl/92/271/s3], Apr. 10, 1972, [86 Stat. 119][/us/stat/86/119].)
+([Pub. L. 92–271][/us/pl/92/271], § 3, Apr. 10, 1972, [86 Stat. 119][/us/stat/86/119].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/92/271/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F271%2Fs3
+[/us/pl/92/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F271
 [/us/stat/86/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F119
 
 

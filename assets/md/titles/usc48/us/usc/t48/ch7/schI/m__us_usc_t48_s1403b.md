@@ -17,7 +17,7 @@
 
     Bonds or other obligations issued pursuant to sections 1403 to 1403b of this title shall not be a debt of the United States, nor shall the United States be liable thereon.
 
-([Oct. 27, 1949, ch. 769, § 3][/us/act/1949-10-27/ch769/s3], [63 Stat. 941][/us/stat/63/941].)
+([Oct. 27, 1949, ch. 769][/us/act/1949-10-27/ch769], § 3, [63 Stat. 941][/us/stat/63/941].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-10-27/ch769/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-27%2Fch769%2Fs3
+[/us/act/1949-10-27/ch769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-27%2Fch769
 [/us/stat/63/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F941
 
 

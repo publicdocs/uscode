@@ -37,7 +37,7 @@
 
         Funding provided in [Public Law 101–121][/us/pl/101/121] under the “Trust Territory of the Pacific Islands” appropriation account shall remain available until expended.
 
-([Pub. L. 101–219, title I, § 111][/us/pl/101/219/s111], Dec. 12, 1989, [103 Stat. 1873][/us/stat/103/1873].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 111, Dec. 12, 1989, [103 Stat. 1873][/us/stat/103/1873].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Palau Road Maintenance__ 
 
-[Pub. L. 110–229, title VIII, § 808][/us/pl/110/229/s808], May 8, 2008, [122 Stat. 874][/us/stat/122/874], provided that:
+[Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 808, May 8, 2008, [122 Stat. 874][/us/stat/122/874], provided that:
 
 >     “The Government of the Republic of Palau may deposit the payment otherwise payable to the Government of the United States under [section 111 of Public Law 101–219][/us/pl/101/219/s111] ([48 U.S.C. 1960][/us/usc/t48/s1960]) into a trust fund if—
 
@@ -76,7 +76,7 @@
 [/us/pl/99/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
 [/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121
-[/us/pl/101/219/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs111
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1873
 [/us/pl/99/658/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs201
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
@@ -92,7 +92,7 @@
 [/us/stat/103/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F701
 [/us/stat/103/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F717
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/110/229/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs808
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F874
 [/us/pl/101/219/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs111
 [/us/usc/t48/s1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1960

@@ -19,7 +19,7 @@
 
     No suit for the purpose of restraining the assessment or collection of any tax imposed by the laws of Puerto Rico shall be maintained in the United States District Court for the District of Puerto Rico.
 
-([Mar. 2, 1927, ch. 145, § 48][/us/act/1927-03-02/ch145/s48], [39 Stat. 967][/us/stat/39/967]; [Mar. 4, 1927, ch. 503, § 7][/us/act/1927-03-04/ch503/s7], [44 Stat. 1421][/us/stat/44/1421]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Mar. 2, 1927, ch. 145][/us/act/1927-03-02/ch145], § 48, [39 Stat. 967][/us/stat/39/967]; [Mar. 4, 1927, ch. 503][/us/act/1927-03-04/ch503], § 7, [44 Stat. 1421][/us/stat/44/1421]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/act/1927-03-02/ch145/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-02%2Fch145%2Fs48
+[/us/act/1927-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-02%2Fch145
 [/us/stat/39/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F967
-[/us/act/1927-03-04/ch503/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch503%2Fs7
+[/us/act/1927-03-04/ch503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch503
 [/us/stat/44/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1421
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

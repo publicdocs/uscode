@@ -19,7 +19,7 @@
 
     (b) For the purpose of this section the words “territory or possession” include the Trust Territory of the Pacific Islands and any area not within the boundaries of the several States over which the United States claims or exercises sovereignty.
 
-([Pub. L. 96–205, title VI, § 605][/us/pl/96/205/s605], Mar. 12, 1980, [94 Stat. 90][/us/stat/94/90].)
+([Pub. L. 96–205, title VI][/us/pl/96/205/tVI], § 605, Mar. 12, 1980, [94 Stat. 90][/us/stat/94/90].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/205/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs605
+[/us/pl/96/205/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtVI
 [/us/stat/94/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F90
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

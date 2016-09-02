@@ -67,7 +67,7 @@
 
         (5) The jurisdiction conferred upon the District Court of Guam by this subsection shall not be subject to transfer to any other court by the legislature, notwithstanding [section 1424(a) of this title][/us/usc/t48/s1424/a].
 
-([Aug. 1, 1950, ch. 512, § 31][/us/act/1950-08-01/ch512/s31], [64 Stat. 392][/us/stat/64/392]; [Pub. L. 85–688, § 1][/us/pl/85/688/s1], Aug. 20, 1958, [72 Stat. 681][/us/stat/72/681]; [Pub. L. 92–606, § 1(d)][/us/pl/92/606/s1/d], Oct. 31, 1972, [86 Stat. 1497][/us/stat/86/1497]; [Pub. L. 95–134, title II, § 203(c)][/us/pl/95/134/s203/c], Oct. 15, 1977, [91 Stat. 1162][/us/stat/91/1162]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–212, § 2(a)][/us/pl/107/212/s2/a], Aug. 21, 2002, [116 Stat. 1051][/us/stat/116/1051].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 31, [64 Stat. 392][/us/stat/64/392]; [Pub. L. 85–688][/us/pl/85/688], § 1, Aug. 20, 1958, [72 Stat. 681][/us/stat/72/681]; [Pub. L. 92–606][/us/pl/92/606], § 1(d), Oct. 31, 1972, [86 Stat. 1497][/us/stat/86/1497]; [Pub. L. 95–134, title II][/us/pl/95/134/tII], § 203(c), Oct. 15, 1977, [91 Stat. 1162][/us/stat/91/1162]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–212][/us/pl/107/212], § 2(a), Aug. 21, 2002, [116 Stat. 1051][/us/stat/116/1051].)
 
  __References in Text__ 
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–212, § 2(b)][/us/pl/107/212/s2/b], Aug. 21, 2002, [116 Stat. 1051][/us/stat/116/1051], provided that: 
+[Pub. L. 107–212][/us/pl/107/212], § 2(b), Aug. 21, 2002, [116 Stat. 1051][/us/stat/116/1051], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after the date of the enactment of the Act \[Aug. 21, 2002\].”
 
@@ -111,7 +111,7 @@
 
  __Ratification of Assessments and Collections Made Before__  __August 20, 1958__ 
 
-    [Pub. L. 85–688, § 2][/us/pl/85/688/s2], Aug. 20, 1958, [72 Stat. 683][/us/stat/72/683], provided that income taxes assessed prior to Aug. 20, 1958, by the authorities of the government of Guam pursuant to, or under color of, this section, the collection of such taxes, and all acts done to effectuate such assessment and collection were legalized, ratified and confirmed as fully, to all intents and purposes, as if subsecs. (b) to (h) of this section, had then been in full force and effect.
+    [Pub. L. 85–688][/us/pl/85/688], § 2, Aug. 20, 1958, [72 Stat. 683][/us/stat/72/683], provided that income taxes assessed prior to Aug. 20, 1958, by the authorities of the government of Guam pursuant to, or under color of, this section, the collection of such taxes, and all acts done to effectuate such assessment and collection were legalized, ratified and confirmed as fully, to all intents and purposes, as if subsecs. (b) to (h) of this section, had then been in full force and effect.
 
 ----------
 
@@ -131,17 +131,17 @@
 [/us/usc/t26/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7201
 [/us/usc/t48/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424
 [/us/usc/t48/s1424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424%2Fa
-[/us/act/1950-08-01/ch512/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs31
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F392
-[/us/pl/85/688/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F688%2Fs1
+[/us/pl/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F688
 [/us/stat/72/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F681
-[/us/pl/92/606/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606%2Fs1%2Fd
+[/us/pl/92/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606
 [/us/stat/86/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1497
-[/us/pl/95/134/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs203%2Fc
+[/us/pl/95/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2FtII
 [/us/stat/91/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1162
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/107/212/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F212%2Fs2%2Fa
+[/us/pl/107/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F212
 [/us/stat/116/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1051
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s7852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7852%2Fb
@@ -151,14 +151,14 @@
 [/us/pl/92/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606
 [/us/pl/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F688
 [/us/pl/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F688
-[/us/pl/107/212/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F212%2Fs2%2Fb
+[/us/pl/107/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F212
 [/us/stat/116/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1051
 [/us/pl/92/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606
 [/us/pl/92/606/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606%2Fs2
 [/us/usc/t26/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs931
 [/us/pl/99/514/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1271
 [/us/usc/t26/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs931
-[/us/pl/85/688/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F688%2Fs2
+[/us/pl/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F688
 [/us/stat/72/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F683
 
 

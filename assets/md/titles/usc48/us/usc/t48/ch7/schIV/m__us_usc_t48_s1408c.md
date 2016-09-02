@@ -17,7 +17,7 @@
 
     Notwithstanding the limitation contained in the last sentence of section 110(d) \[[42 U.S.C. 1460(d)][/us/usc/t42/s1460/d]\] or in any other provision of title I \[[42 U.S.C. 1450][/us/usc/t42/s1450] et seq.\] of the Housing Act of 1949 (Public Law 171, Eighty-first Congress), as amended, the Secretary of Housing and Urban Development is authorized to allow and credit to such authority as may be created for the Virgin Islands under this Act, as amended, (1) such local grants-in-aid as are otherwise approvable pursuant to the first sentence of said section 110(d) with respect to any slum clearance and urban redevelopment or urban renewal project or projects undertaken by such authority with Federal assistance made available under title I of the Housing Act of 1949, as amended, and (2) such grants-in-aid made or assistance given to the local community by any Federal department or agency pursuant to authority of law other than the Housing Act of 1949 \[[42 U.S.C. 1441][/us/usc/t42/s1441] et seq.\] which would, if made or given by a State or local community, be approvable pursuant to said first sentence of section 110(d) with respect to any such project or projects so undertaken.
 
-([July 18, 1950, ch. 466][/us/act/1950-07-18/ch466], title III, § 304, [64 Stat. 347][/us/stat/64/347]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 107(6)–(9), [69 Stat. 638][/us/stat/69/638]; [Pub. L. 90–19, § 9][/us/pl/90/19/s9], May 25, 1967, [81 Stat. 22][/us/stat/81/22].)
+([July 18, 1950, ch. 466][/us/act/1950-07-18/ch466], title III, § 304, [64 Stat. 347][/us/stat/64/347]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 107(6)–(9), [69 Stat. 638][/us/stat/69/638]; [Pub. L. 90–19][/us/pl/90/19], § 9, May 25, 1967, [81 Stat. 22][/us/stat/81/22].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/stat/64/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F347
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F638
-[/us/pl/90/19/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs9
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F22
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413

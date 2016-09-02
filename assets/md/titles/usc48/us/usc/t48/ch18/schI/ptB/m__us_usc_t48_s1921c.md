@@ -179,7 +179,7 @@
 
         In furtherance of the provisions of Title Three, Article IV, Section 341 of the U.S.-FSM and the U.S.-RMI Compacts, the purpose of which is to establish the privilege to volunteer for service in the U.S. Armed Forces, it is the sense of Congress that, to facilitate eligibility of FSM and RMI secondary school students to qualify for such service, the Department of Defense may extend the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program (STP) and the ASVAB Career Exploration Program to selected secondary Schools in the FSM and the RMI to the extent such programs are available to Department of Defense Dependent Schools located in foreign jurisdictions.
 
-([Pub. L. 108–188, title I, § 104][/us/pl/108/188/s104], Dec. 17, 2003, [117 Stat. 2737][/us/stat/117/2737]; [Pub. L. 110–229, title VIII, § 806(a)(2)][/us/pl/110/229/s806/a/2], May 8, 2008, [122 Stat. 871][/us/stat/122/871]; [Pub. L. 111–68, div. A, title I, § 1501(c)][/us/pl/111/68/s1501/c], Oct. 1, 2009, [123 Stat. 2041][/us/stat/123/2041].)
+([Pub. L. 108–188, title I][/us/pl/108/188/tI], § 104, Dec. 17, 2003, [117 Stat. 2737][/us/stat/117/2737]; [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(a)(2), May 8, 2008, [122 Stat. 871][/us/stat/122/871]; [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1501(c), Oct. 1, 2009, [123 Stat. 2041][/us/stat/123/2041].)
 
  __References in Text__ 
 
@@ -203,15 +203,15 @@
 
     2009—Subsec. (h)(3). [Pub. L. 111–68][/us/pl/111/68] struck out par. (3). Text read as follows: “Not later than the date that is three years after December 17, 2003, and every 5 years thereafter, the Comptroller General of the United States shall submit to Congress a report on the Federated States of Micronesia and the Republic of the Marshall Islands including the topics set forth in paragraphs (1) (A) through (E) above, and on the effectiveness of administrative oversight by the United States.”
 
-    2008—Subsec. (b)(1). [Pub. L. 110–229, § 806(a)(2)(A)][/us/pl/110/229/s806/a/2/A], inserted “the” before “U.S.-RMI Compact,”.
+    2008—Subsec. (b)(1). [Pub. L. 110–229][/us/pl/110/229], § 806(a)(2)(A), inserted “the” before “U.S.-RMI Compact,”.
 
-    Subsec. (e)(8). [Pub. L. 110–229, § 806(a)(2)(B)(i)][/us/pl/110/229/s806/a/2/B/i], substituted “and include” for “to include” in introductory provisions.
+    Subsec. (e)(8). [Pub. L. 110–229][/us/pl/110/229], § 806(a)(2)(B)(i), substituted “and include” for “to include” in introductory provisions.
 
-    Subsec. (e)(9)(A). [Pub. L. 110–229, § 806(a)(2)(B)(ii)][/us/pl/110/229/s806/a/2/B/ii], inserted a comma after “impact expenses, may”.
+    Subsec. (e)(9)(A). [Pub. L. 110–229][/us/pl/110/229], § 806(a)(2)(B)(ii), inserted a comma after “impact expenses, may”.
 
-    Subsec. (e)(10). [Pub. L. 110–229, § 806(a)(2)(B)(iii)][/us/pl/110/229/s806/a/2/B/iii], substituted “related to such services” for “related to service”.
+    Subsec. (e)(10). [Pub. L. 110–229][/us/pl/110/229], § 806(a)(2)(B)(iii), substituted “related to such services” for “related to service”.
 
-    Subsec. (j). [Pub. L. 110–229, § 806(a)(2)(C)][/us/pl/110/229/s806/a/2/C], inserted “the” before “Interior),”.
+    Subsec. (j). [Pub. L. 110–229][/us/pl/110/229], § 806(a)(2)(C), inserted “the” before “Interior),”.
 
  __Change of Name__ 
 
@@ -239,11 +239,11 @@
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1101/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F33
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
-[/us/pl/108/188/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs104
+[/us/pl/108/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2FtI
 [/us/stat/117/2737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2737
-[/us/pl/110/229/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fa%2F2
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F871
-[/us/pl/111/68/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1501%2Fc
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2041
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -264,11 +264,11 @@
 [/us/usc/t48/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921
 [/us/pl/108/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
-[/us/pl/110/229/s806/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fa%2F2%2FA
-[/us/pl/110/229/s806/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fa%2F2%2FB%2Fi
-[/us/pl/110/229/s806/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fa%2F2%2FB%2Fii
-[/us/pl/110/229/s806/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fa%2F2%2FB%2Fiii
-[/us/pl/110/229/s806/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fa%2F2%2FC
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/108/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188
 [/us/usc/t48/s1921c/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921c%2Fh

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch1/m__us_usc_t48_s3.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch2)
+[Previous](./../../../..//us/usc/t48/ch1/m__us_usc_t48_s4 _us_usc_t48_s5.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s21...27.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch2)
 
 ## CHAPTER 2—ALASKA
 
@@ -77,7 +77,7 @@
 
 > “Sec. 4. __\[Compact with United States; disclaimer of right and title to lands or other property; taxation.\]__ 
 
->  As a compact with the United States said State and its people do agree and declare that they forever disclaim all right and title to any lands or other property not granted or confirmed to the State or its political subdivisions by or under the authority of this Act, the right or title to which is held by the United States or is subject to disposition by the United States, and to any lands or other property (including fishing rights), the right or title to which may be held by any Indians, Eskimos, or Aleuts (hereinafter called natives) or is held by the United States in trust for said natives; that all such lands or other property (including fishing rights), the right or title to which may be held by said natives or is held by the United States in trust for said natives, shall be and remain under the absolute jurisdiction and control of the United States until disposed of under its authority, except to such extent as the Congress has prescribed or may hereafter prescribe, and except when held by individual natives in fee without restrictions on alienation: Provided, That nothing contained in this Act shall recognize, deny, enlarge, impair, or otherwise affect any claim against the United States, and any such claim shall be governed by the laws of the United States applicable thereto; and nothing in this Act is intended or shall be construed as a finding, interpretation, or construction by the Congress that any law applicable thereto authorizes, establishes, recognizes, or confirms the validity or invalidity of any such claim, and the determination of the applicability or effect of any law to any such claim shall be unaffected by anything in this Act: And provided further, That no taxes shall be imposed by said State upon any lands or other property now owned or hereafter acquired by the United States or which, as hereinabove set forth, may belong to said natives, except to such extent as the Congress has prescribed or may hereafter prescribe, and except when held by individual natives in fee without restrictions on alienation. (As amended [Pub. L. 86–70, § 2(a)][/us/pl/86/70/s2/a], June 25, 1959, [73 Stat. 141][/us/stat/73/141].)
+>  As a compact with the United States said State and its people do agree and declare that they forever disclaim all right and title to any lands or other property not granted or confirmed to the State or its political subdivisions by or under the authority of this Act, the right or title to which is held by the United States or is subject to disposition by the United States, and to any lands or other property (including fishing rights), the right or title to which may be held by any Indians, Eskimos, or Aleuts (hereinafter called natives) or is held by the United States in trust for said natives; that all such lands or other property (including fishing rights), the right or title to which may be held by said natives or is held by the United States in trust for said natives, shall be and remain under the absolute jurisdiction and control of the United States until disposed of under its authority, except to such extent as the Congress has prescribed or may hereafter prescribe, and except when held by individual natives in fee without restrictions on alienation: Provided, That nothing contained in this Act shall recognize, deny, enlarge, impair, or otherwise affect any claim against the United States, and any such claim shall be governed by the laws of the United States applicable thereto; and nothing in this Act is intended or shall be construed as a finding, interpretation, or construction by the Congress that any law applicable thereto authorizes, establishes, recognizes, or confirms the validity or invalidity of any such claim, and the determination of the applicability or effect of any law to any such claim shall be unaffected by anything in this Act: And provided further, That no taxes shall be imposed by said State upon any lands or other property now owned or hereafter acquired by the United States or which, as hereinabove set forth, may belong to said natives, except to such extent as the Congress has prescribed or may hereafter prescribe, and except when held by individual natives in fee without restrictions on alienation. (As amended [Pub. L. 86–70][/us/pl/86/70], § 2(a), June 25, 1959, [73 Stat. 141][/us/stat/73/141].)
 
 > “Sec. 5. __\[Title to property.\]__ 
 
@@ -253,7 +253,7 @@
 
 >         “(4) Conversion of a selection under paragraph (1) shall not increase the survey obligation of the United States with respect to the land converted.
 
->     “(p) All selection applications of the State of Alaska that are on file with the Secretary of the Interior under the public domain provisions of subsection (a) on the date of enactment of this subsection \[Dec. 10, 2004\] and any selection applications that are converted to a subsection (a) selection under subsection (o)(1) are approved as suitable for community or recreational purposes. (As amended [Pub. L. 86–70, § 2(b)][/us/pl/86/70/s2/b], June 25, 1959, [73 Stat. 141][/us/stat/73/141]; [Pub. L. 86–173][/us/pl/86/173], Aug. 18, 1959, [73 Stat. 395][/us/stat/73/395]; [Pub. L. 86–786][/us/pl/86/786], §§ 3, 4, Sept. 14, 1960, [74 Stat. 1025][/us/stat/74/1025]; [Pub. L. 88–135][/us/pl/88/135], Oct. 8, 1963, [77 Stat. 223][/us/stat/77/223]; [Pub. L. 88–289][/us/pl/88/289], Mar. 25, 1964, [78 Stat. 169][/us/stat/78/169]; [Pub. L. 89–702, title IV, § 408(b)][/us/pl/89/702/s408/b], Nov. 2, 1966, [80 Stat. 1098][/us/stat/80/1098]; [Pub. L. 96–487, title IX, § 906(a)][/us/pl/96/487/s906/a], (f)(3), Dec. 2, 1980, [94 Stat. 2437][/us/stat/94/2437], 2440; [Pub. L. 108–452, title I, § 101][/us/pl/108/452/s101], Dec. 10, 2004, [118 Stat. 3576][/us/stat/118/3576].)
+>     “(p) All selection applications of the State of Alaska that are on file with the Secretary of the Interior under the public domain provisions of subsection (a) on the date of enactment of this subsection \[Dec. 10, 2004\] and any selection applications that are converted to a subsection (a) selection under subsection (o)(1) are approved as suitable for community or recreational purposes. (As amended [Pub. L. 86–70][/us/pl/86/70], § 2(b), June 25, 1959, [73 Stat. 141][/us/stat/73/141]; [Pub. L. 86–173][/us/pl/86/173], Aug. 18, 1959, [73 Stat. 395][/us/stat/73/395]; [Pub. L. 86–786][/us/pl/86/786], §§ 3, 4, Sept. 14, 1960, [74 Stat. 1025][/us/stat/74/1025]; [Pub. L. 88–135][/us/pl/88/135], Oct. 8, 1963, [77 Stat. 223][/us/stat/77/223]; [Pub. L. 88–289][/us/pl/88/289], Mar. 25, 1964, [78 Stat. 169][/us/stat/78/169]; [Pub. L. 89–702, title IV][/us/pl/89/702/tIV], § 408(b), Nov. 2, 1966, [80 Stat. 1098][/us/stat/80/1098]; [Pub. L. 96–487, title IX][/us/pl/96/487/tIX], § 906(a), (f)(3), Dec. 2, 1980, [94 Stat. 2437][/us/stat/94/2437], 2440; [Pub. L. 108–452, title I][/us/pl/108/452/tI], § 101, Dec. 10, 2004, [118 Stat. 3576][/us/stat/118/3576].)
 
 > “Sec. 7. __\[Certification by President; proclamation for elections.\]__ 
 
@@ -307,13 +307,13 @@
 
 >         “(7) The United States District Court for the District of Alaska shall have original jurisdiction, without regard to the sum or value of any matter in controversy, over all civil actions arising within such withdrawals under the laws made applicable thereto by this subsection, as well as over all offenses committed within the withdrawals.
 
->     “(e) Nothing contained in subsection (d) of this section shall be construed as limiting the exclusive jurisdiction established in the United States by subsection (c) of this section or the authority of the Congress to implement such exclusive jurisdiction by appropriate legislation, or as denying to persons now or hereafter residing within any portion of the areas described in subsection (b) of this section the right to vote at all elections held within the political subdivisions as prescribed by the State of Alaska where they respectively reside, or as limiting the jurisdiction conferred on the United States District Court for the District of Alaska by any other provision of law, or as continuing in effect laws relating to the Legislature of the Territory of Alaska. Nothing contained in this section shall be construed as limiting any authority otherwise vested in the Congress or the President. (As amended [Pub. L. 90–578, title IV, § 402(b)(2)][/us/pl/90/578/s402/b/2], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+>     “(e) Nothing contained in subsection (d) of this section shall be construed as limiting the exclusive jurisdiction established in the United States by subsection (c) of this section or the authority of the Congress to implement such exclusive jurisdiction by appropriate legislation, or as denying to persons now or hereafter residing within any portion of the areas described in subsection (b) of this section the right to vote at all elections held within the political subdivisions as prescribed by the State of Alaska where they respectively reside, or as limiting the jurisdiction conferred on the United States District Court for the District of Alaska by any other provision of law, or as continuing in effect laws relating to the Legislature of the Territory of Alaska. Nothing contained in this section shall be construed as limiting any authority otherwise vested in the Congress or the President. (As amended [Pub. L. 90–578, title IV][/us/pl/90/578/tIV], § 402(b)(2), Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
 > “Sec. 11. __\[Denali National Park; military and naval lands; civil and criminal jurisdiction.\]__ 
 
 >      (a) Nothing in this Act shall affect the establishment, or the right, ownership, and authority of the United States in Denali National Park, as now or hereafter constituted; but exclusive jurisdiction, in all cases, shall be exercised by the United States for the national park, as now or hereafter constituted; saving, however, to the State of Alaska the right to serve civil or criminal process within the limits of the aforesaid park in suits or prosecutions for or on account of rights acquired, obligations incurred, or crimes committed in said State, but outside of said park; and saving further to the said State the right to tax persons and corporations, their franchises and property on the lands included in said park; and saving also to the persons residing now or hereafter in such area the right to vote at all elections held within the respective political subdivisions of their residence in which the park is situated.
 
->     “(b) Notwithstanding the admission of the State of Alaska into the Union, authority is reserved in the United States, subject to the proviso hereinafter set forth, for the exercise by the Congress of the United States of the power of exclusive legislation, as provided by article I, section 8, clause 17, of the Constitution of the United States, in all cases whatsoever over such tracts or parcels of land as, immediately prior to the admission of said State, are owned by the United States and held for military, naval, Air Force, or Coast Guard purposes, including naval petroleum reserve numbered 4, whether such lands were acquired by cession and transfer to the United States by Russia and set aside by Act of Congress or by Executive order or proclamation of the President or the Governor of Alaska for the use of the United States, or were acquired by the United States by purchase, condemnation, donation, exchange, or otherwise: Provided, (i) That the State of Alaska shall always have the right to serve civil or criminal process within the said tracts or parcels of land in suits or prosecutions for or on account of rights acquired, obligations incurred, or crimes committed within the said State but outside of the said tracts or parcels of land; (ii) that the reservation of authority in the United States for the exercise by the Congress of the United States of the power of exclusive legislation over the lands aforesaid shall not operate to prevent such lands from being a part of the State of Alaska, or to prevent the said State from exercising over or upon such lands, concurrently with the United States, any jurisdiction whatsoever which it would have in the absence of such reservation of authority and which is consistent with the laws hereafter enacted by the Congress pursuant to such reservation of authority; and (iii) that such power of exclusive legislation shall rest and remain in the United States only so long as the particular tract or parcel of land involved is owned by the United States and used for military, naval, Air Force, or Coast Guard purposes. The provisions of this subsection shall not apply to lands within such special national defense withdrawal or withdrawals as may be established pursuant to section 10 of this Act until such lands cease to be subject to the exclusive jurisdiction reserved to the United States by that section. (As amended [Pub. L. 96–487, title II, § 202(3)(a)][/us/pl/96/487/s202/3/a], Dec. 2, 1980, [94 Stat. 2382][/us/stat/94/2382].)
+>     “(b) Notwithstanding the admission of the State of Alaska into the Union, authority is reserved in the United States, subject to the proviso hereinafter set forth, for the exercise by the Congress of the United States of the power of exclusive legislation, as provided by article I, section 8, clause 17, of the Constitution of the United States, in all cases whatsoever over such tracts or parcels of land as, immediately prior to the admission of said State, are owned by the United States and held for military, naval, Air Force, or Coast Guard purposes, including naval petroleum reserve numbered 4, whether such lands were acquired by cession and transfer to the United States by Russia and set aside by Act of Congress or by Executive order or proclamation of the President or the Governor of Alaska for the use of the United States, or were acquired by the United States by purchase, condemnation, donation, exchange, or otherwise: Provided, (i) That the State of Alaska shall always have the right to serve civil or criminal process within the said tracts or parcels of land in suits or prosecutions for or on account of rights acquired, obligations incurred, or crimes committed within the said State but outside of the said tracts or parcels of land; (ii) that the reservation of authority in the United States for the exercise by the Congress of the United States of the power of exclusive legislation over the lands aforesaid shall not operate to prevent such lands from being a part of the State of Alaska, or to prevent the said State from exercising over or upon such lands, concurrently with the United States, any jurisdiction whatsoever which it would have in the absence of such reservation of authority and which is consistent with the laws hereafter enacted by the Congress pursuant to such reservation of authority; and (iii) that such power of exclusive legislation shall rest and remain in the United States only so long as the particular tract or parcel of land involved is owned by the United States and used for military, naval, Air Force, or Coast Guard purposes. The provisions of this subsection shall not apply to lands within such special national defense withdrawal or withdrawals as may be established pursuant to section 10 of this Act until such lands cease to be subject to the exclusive jurisdiction reserved to the United States by that section. (As amended [Pub. L. 96–487, title II][/us/pl/96/487/tII], § 202(3)(a), Dec. 2, 1980, [94 Stat. 2382][/us/stat/94/2382].)
 
 > “Sec. 12. __\[Judicial and criminal provisions; amendment.\]__ 
 
@@ -621,7 +621,7 @@
 
 >         “(4) Title 23, United States Code, section 120(a), is amended by deleting the phrase ‘subsection (d) and (h)’ and by inserting in lieu thereof the phrase ‘subsection (d)’.
 
->     “(f) Notwithstanding the limitation contained in subsection (f) of [section 120 of Title 23][/us/usc/t23/s120], United States Code, the Secretary of Transportation is authorized to make expenditures from the emergency fund under section 125 of such title for the repair or reconstruction of highways on the Federal-aid highway systems of Alaska which have been damaged or destroyed by the 1964 earthquake and subsequent seismic waves, in accordance with the Federal share payable under subsection (a) of section 120 of such title. The increase in expenditures resulting from the difference between the Federal share authorized by this subsection and that authorized by subsection (f) of section 120 of such title shall be reimbursed to the emergency fund by an appropriation from the general fund of the Treasury: Provided, That such increase in expenditures shall not exceed $15,000,000 in the aggregate. (As amended [Pub. L. 88–451, § 3][/us/pl/88/451/s3], Aug. 19, 1964, [78 Stat. 505][/us/stat/78/505]; [Pub. L. 97–449, § 2(a)][/us/pl/97/449/s2/a], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439].)
+>     “(f) Notwithstanding the limitation contained in subsection (f) of [section 120 of Title 23][/us/usc/t23/s120], United States Code, the Secretary of Transportation is authorized to make expenditures from the emergency fund under section 125 of such title for the repair or reconstruction of highways on the Federal-aid highway systems of Alaska which have been damaged or destroyed by the 1964 earthquake and subsequent seismic waves, in accordance with the Federal share payable under subsection (a) of section 120 of such title. The increase in expenditures resulting from the difference between the Federal share authorized by this subsection and that authorized by subsection (f) of section 120 of such title shall be reimbursed to the emergency fund by an appropriation from the general fund of the Treasury: Provided, That such increase in expenditures shall not exceed $15,000,000 in the aggregate. (As amended [Pub. L. 88–451][/us/pl/88/451], § 3, Aug. 19, 1964, [78 Stat. 505][/us/stat/78/505]; [Pub. L. 97–449][/us/pl/97/449], § 2(a), Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439].)
 
 > “Sec. 22. __\[Internal Revenue.\]__ 
 
@@ -641,7 +641,7 @@
 
 >     “(h) Section 7701(a)(10) of the Internal Revenue Code of 1986 (relating to definition of State) is amended by striking out ‘Territories’ and inserting in lieu thereof ‘Territory of Hawaii’.
 
->     “(i) The amendments contained in subsections (a) through (h) of this section shall be effective as of January 3, 1959. (As amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+>     “(i) The amendments contained in subsections (a) through (h) of this section shall be effective as of January 3, 1959. (As amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
 > “Sec. 23. __\[Courts.\]__ 
 
@@ -741,11 +741,11 @@
 
 > “Sec. 33. __\[Congressional Record.\]__ 
 
- [Section 73 of the Act of January 12, 1895][/us/act/1895-01-12/s73], as amended (44 U.S.C., supp. V, sec. 183), is further amended by striking out the word ‘Alaska,’ \[Repealed by [Pub. L. 90–620, § 3][/us/pl/90/620/s3], Oct. 22, 1968, [82 Stat. 1310][/us/stat/82/1310]\].
+ [Section 73 of the Act of January 12, 1895][/us/act/1895-01-12/s73], as amended (44 U.S.C., supp. V, sec. 183), is further amended by striking out the word ‘Alaska,’ \[Repealed by [Pub. L. 90–620][/us/pl/90/620], § 3, Oct. 22, 1968, [82 Stat. 1310][/us/stat/82/1310]\].
 
 > “Sec. 34. __\[Federal Register.\]__ 
 
->  Section 8 of the Federal Register Act ([44 U.S.C. 308][/us/usc/t44/s308]) is amended by striking out the parenthetical phrase ‘(not including Alaska)’ and inserting in lieu thereof the parenthetical phrase ‘(including Alaska)’ \[Repealed by [Pub. L. 90–620, § 3][/us/pl/90/620/s3], Oct. 22, 1968, [82 Stat. 1310][/us/stat/82/1310]\].
+>  Section 8 of the Federal Register Act ([44 U.S.C. 308][/us/usc/t44/s308]) is amended by striking out the parenthetical phrase ‘(not including Alaska)’ and inserting in lieu thereof the parenthetical phrase ‘(including Alaska)’ \[Repealed by [Pub. L. 90–620][/us/pl/90/620], § 3, Oct. 22, 1968, [82 Stat. 1310][/us/stat/82/1310]\].
 
 > “Sec. 35. __\[Airports.\]__ 
 
@@ -791,7 +791,7 @@
 
 > “Sec. 43. __\[Buy American Act; amendment.\]__ 
 
- [Section 1(b) of Title III of the Act of March 3, 1933][/us/act/1933-03-03/s1/b] (\[former\] [41 U.S.C. 10c(b)][/us/usc/t41/s10c/b]) \[now [41 U.S.C. 8301(1)][/us/usc/t41/s8301/1]\], is amended by striking out the word ‘Alaska,’.
+ [Section 1(b) of Title III of the Act of March 3, 1933][/us/act/1933-03-03/tIII/s1/b] (\[former\] [41 U.S.C. 10c(b)][/us/usc/t41/s10c/b]) \[now [41 U.S.C. 8301(1)][/us/usc/t41/s8301/1]\], is amended by striking out the word ‘Alaska,’.
 
 > “Sec. 44. __\[Transitional grants.\]__ 
 
@@ -805,7 +805,7 @@
 
 >      (a) If the President determines that any function performed by the Federal Government in Alaska has been terminated or curtailed by the Federal Government and that performance of such function or substantially the same function has been or will be assumed by the State of Alaska, the President may, until July 1, 1966, in his discretion, transfer and convey to the State of Alaska, without reimbursement, any property or interest in property, real or personal, situated in Alaska which is owned or held by the United States in connection with such function, the assumption of which function is pursuant to this Act or the Act of July 7, 1958 ([72 Stat. 339][/us/stat/72/339]) \[set out as a note above\].
 
->     “(b) Structures and improvements of block 32 of the city of Juneau granted to the State of Alaska by section 6(c) of the Act providing for the admission of Alaska into the Union ([72 Stat. 339][/us/stat/72/339], 340), shall include all furnishings and equipment in the structure known as the Governor’s mansion, or used in the operation or maintenance thereof. (As amended [Pub. L. 88–311, § 2][/us/pl/88/311/s2], May 27, 1964, [78 Stat. 201][/us/stat/78/201].)
+>     “(b) Structures and improvements of block 32 of the city of Juneau granted to the State of Alaska by section 6(c) of the Act providing for the admission of Alaska into the Union ([72 Stat. 339][/us/stat/72/339], 340), shall include all furnishings and equipment in the structure known as the Governor’s mansion, or used in the operation or maintenance thereof. (As amended [Pub. L. 88–311][/us/pl/88/311], § 2, May 27, 1964, [78 Stat. 201][/us/stat/78/201].)
 
 > “Sec. 46. __\[Claims Commission.\]__ 
 
@@ -823,7 +823,7 @@
 
 >     “(b) The amendments made by paragraphs (1) and (3) of subsection (a) of section 18 shall be applicable, in the case of allotments under section 302(b) or 502 of the National Defense Education Act of 1958 \[[20 U.S.C. 442(b)][/us/usc/t20/s442/b] or 482\], for fiscal years beginning July 1, 1959, and in the case of allotments under section 302(a) of such Act, in the case of allotments based on allotment ratios, promulgated under such section 302(a), to which the amendment made by paragraph (2) of subsection (a) of section 18 of this Act is applicable.
 
->     “(c) __\[Repealed.__  __[__  __Pub. L. 86–624, § 47(g)(4)__  __][/us/pl/86/624/s47/g/4]__  __,__  __July 12, 1960__  __,__  __[__  __74 Stat. 424__  __][/us/stat/74/424]__  __.\]__ 
+>     “(c) __\[Repealed.__  __[__  __Pub. L. 86–624__  __][/us/pl/86/624]__  __, § 47(g)(4),__  __July 12, 1960__  __,__  __[__  __74 Stat. 424__  __][/us/stat/74/424]__  __.\]__ 
 
 >     “(d) The amendments made by paragraphs (2) and (3) of subsection (b), by subsection (c), and by paragraph (4) of subsection (d) of section 18; by subsection (a) of section 24; by subsection (b) of section 28; by subsection (a), by subparagraphs (2), (3), and (4) of subsection (b), and by paragraph (2) of subsection (c) of section 31; by paragraph (2) of subsection (c) and by subsection (d) of section 32; and, except as provided in subsection (b) of this section by paragraph (1) of subsection (a) of section 18, shall be effective on January 3, 1959.
 
@@ -831,7 +831,7 @@
 
 >     “(f) The amendments made by paragraph (1) of subsection (b) and paragraphs (1), (2), and (3) of subsection (d) of section 18 shall be applicable for fiscal years beginning July 1, 1959.
 
->     “(g) The amendments in sections 40 and 42 shall take effect when enacted: Provided, however, That with respect to injuries or deaths occurring on or after January 3, 1959, and prior to the effective date of these amendments, claims filed by employees engaged in the State of Alaska in any of the employments covered by the Defense Base Act \[[42 U.S.C. 1651][/us/usc/t42/s1651] et seq.\] (and their dependents) may be adjudicated under the Workmen’s Compensation Act of Alaska instead of the Defense Base Act. (As amended [Pub. L. 86–624, § 47(g)(4)][/us/pl/86/624/s47/g/4], July 12, 1960, [74 Stat. 424][/us/stat/74/424].)
+>     “(g) The amendments in sections 40 and 42 shall take effect when enacted: Provided, however, That with respect to injuries or deaths occurring on or after January 3, 1959, and prior to the effective date of these amendments, claims filed by employees engaged in the State of Alaska in any of the employments covered by the Defense Base Act \[[42 U.S.C. 1651][/us/usc/t42/s1651] et seq.\] (and their dependents) may be adjudicated under the Workmen’s Compensation Act of Alaska instead of the Defense Base Act. (As amended [Pub. L. 86–624][/us/pl/86/624], § 47(g)(4), July 12, 1960, [74 Stat. 424][/us/stat/74/424].)
 
 > “Sec. 48. __\[Definition of ‘Continental United States’.\]__ 
 
@@ -849,33 +849,33 @@
 
 >      (a) The Secretary of Agriculture is authorized to compromise or release such portion of a borrower’s indebtedness under programs administered by the Farmers Home Administration in Alaska as he finds necessary because of loss resulting from the 1964 earthquake and subsequent seismic waves, and he may refinance outstanding indebtedness of applicants in Alaska for loans under section 502 of the Housing Act of 1949 \[[42 U.S.C. 1472][/us/usc/t42/s1472]\] for the repair, reconstruction, or replacement of dwellings or farm buildings lost, destroyed, or damaged by such causes and securing such outstanding indebtedness. Such loans may also provide for the purchase of building sites, when the original sites cannot be utilized.
 
->     “(b) The Secretary of Agriculture is authorized to compromise or release such portion of a borrower’s indebtedness under programs administered by the Rural Electrification Administration in Alaska as he finds necessary because of loss, destruction, or damage of property resulting from the 1964 earthquake and subsequent seismic waves. (Added [Pub. L. 88–451, § 4][/us/pl/88/451/s4], Aug. 19, 1964, [78 Stat. 505][/us/stat/78/505].)
+>     “(b) The Secretary of Agriculture is authorized to compromise or release such portion of a borrower’s indebtedness under programs administered by the Rural Electrification Administration in Alaska as he finds necessary because of loss, destruction, or damage of property resulting from the 1964 earthquake and subsequent seismic waves. (Added [Pub. L. 88–451][/us/pl/88/451], § 4, Aug. 19, 1964, [78 Stat. 505][/us/stat/78/505].)
 
 > “Sec. 52. __\[Compromise or Release of Notes or Other Obligations.\]__ 
 
->  The Secretary of Housing and Urban Development is authorized to compromise or release such portion of any note or other obligation held by him with respect to property in Alaska pursuant to Title II of the Housing Amendments of 1955 \[[42 U.S.C. 1491–149][/us/usc/t42/s1491–149]7\] or included within the revolving fund for liquidating programs established by the Independent Offices Appropriation Act of 1955, as he finds necessary because of loss, destruction, or damage to facilities securing such obligations by the 1964 earthquake and subsequent seismic waves. (Added [Pub. L. 88–451, § 4][/us/pl/88/451/s4], Aug. 19, 1964, [78 Stat. 506][/us/stat/78/506], and amended [Pub. L. 90–19, § 15(a)][/us/pl/90/19/s15/a], May 25, 1967, [81 Stat. 24][/us/stat/81/24].)
+>  The Secretary of Housing and Urban Development is authorized to compromise or release such portion of any note or other obligation held by him with respect to property in Alaska pursuant to Title II of the Housing Amendments of 1955 \[[42 U.S.C. 1491–149][/us/usc/t42/s1491–149]7\] or included within the revolving fund for liquidating programs established by the Independent Offices Appropriation Act of 1955, as he finds necessary because of loss, destruction, or damage to facilities securing such obligations by the 1964 earthquake and subsequent seismic waves. (Added [Pub. L. 88–451][/us/pl/88/451], § 4, Aug. 19, 1964, [78 Stat. 506][/us/stat/78/506], and amended [Pub. L. 90–19][/us/pl/90/19], § 15(a), May 25, 1967, [81 Stat. 24][/us/stat/81/24].)
 
 > “Sec. 53. __\[Urban Renewal.\]__ 
 
->  The Secretary of Housing and Urban Development is authorized to enter into contracts for grants not exceeding $25,000,000 for urban renewal projects in Alaska, including open land projects, under section 111 of the Housing Act of 1949 \[[42 U.S.C. 1462][/us/usc/t42/s1462]\], which he determines will aid the communities in which they are located in reconstruction and redevelopment made necessary by the 1964 earthquake and subsequent seismic waves. Such authorization shall be in addition to and separate from any grant authorization contained in section 103(b) of said Act \[[42 U.S.C. 1453(b)][/us/usc/t42/s1453/b]\].    “The Secretary may increase the capital grant for a project assisted under this section to not more than 90 per centum of net project cost where he determines that a major portion of the project area has either been rendered unusable as a result of the 1964 earthquake and subsequent seismic waves or is needed in order adequately to provide, in accordance with the urban renewal plan for the project, new locations for persons, businesses, and facilities displaced by the earthquake. (Added [Pub. L. 88–451, § 4][/us/pl/88/451/s4], Aug. 19, 1964, [78 Stat. 506][/us/stat/78/506], and amended [Pub. L. 90–19, § 15][/us/pl/90/19/s15], May 25, 1967, [81 Stat. 24][/us/stat/81/24].)
+>  The Secretary of Housing and Urban Development is authorized to enter into contracts for grants not exceeding $25,000,000 for urban renewal projects in Alaska, including open land projects, under section 111 of the Housing Act of 1949 \[[42 U.S.C. 1462][/us/usc/t42/s1462]\], which he determines will aid the communities in which they are located in reconstruction and redevelopment made necessary by the 1964 earthquake and subsequent seismic waves. Such authorization shall be in addition to and separate from any grant authorization contained in section 103(b) of said Act \[[42 U.S.C. 1453(b)][/us/usc/t42/s1453/b]\].    “The Secretary may increase the capital grant for a project assisted under this section to not more than 90 per centum of net project cost where he determines that a major portion of the project area has either been rendered unusable as a result of the 1964 earthquake and subsequent seismic waves or is needed in order adequately to provide, in accordance with the urban renewal plan for the project, new locations for persons, businesses, and facilities displaced by the earthquake. (Added [Pub. L. 88–451][/us/pl/88/451], § 4, Aug. 19, 1964, [78 Stat. 506][/us/stat/78/506], and amended [Pub. L. 90–19][/us/pl/90/19], § 15, May 25, 1967, [81 Stat. 24][/us/stat/81/24].)
 
 > “Sec. 54. __\[Extension of Term of Home Disaster Loans.\]__ 
 
->  Loans made pursuant to paragraph (1) of section 7(b) of the Small Business Act ([72 Stat. 387][/us/stat/72/387]), as amended ([15 U.S.C. 636(b)][/us/usc/t15/s636/b]), for the purpose of replacing, reconstructing, or repairing dwellings in Alaska damaged or destroyed by the 1964 earthquake and subsequent seismic waves, may have a maturity of up to thirty years: Provided, That the provisions of section 7(c) of said Act \[[15 U.S.C. 636(c)][/us/usc/t15/s636/c]\] shall not be applicable to such loans. (Added [Pub. L. 88–451, § 4][/us/pl/88/451/s4], Aug. 19, 1964, [78 Stat. 506][/us/stat/78/506].)
+>  Loans made pursuant to paragraph (1) of section 7(b) of the Small Business Act ([72 Stat. 387][/us/stat/72/387]), as amended ([15 U.S.C. 636(b)][/us/usc/t15/s636/b]), for the purpose of replacing, reconstructing, or repairing dwellings in Alaska damaged or destroyed by the 1964 earthquake and subsequent seismic waves, may have a maturity of up to thirty years: Provided, That the provisions of section 7(c) of said Act \[[15 U.S.C. 636(c)][/us/usc/t15/s636/c]\] shall not be applicable to such loans. (Added [Pub. L. 88–451][/us/pl/88/451], § 4, Aug. 19, 1964, [78 Stat. 506][/us/stat/78/506].)
 
 > “Sec. 55. __\[Modification of Civil Works Projects.\]__ 
 
->  The Chief of Engineers, under the direction of the Secretary of the Army, is hereby authorized to make such modifications to previously authorized civil works projects in Alaska adversely affected by the 1964 earthquake and subsequent seismic waves as he finds necessary to meet changed conditions and to provide for current and reasonably prospective requirements of the communities they serve, at an estimated cost of $10,000,000. (Added [Pub. L. 88–451, § 4][/us/pl/88/451/s4], Aug. 19, 1964, [78 Stat. 506][/us/stat/78/506].)
+>  The Chief of Engineers, under the direction of the Secretary of the Army, is hereby authorized to make such modifications to previously authorized civil works projects in Alaska adversely affected by the 1964 earthquake and subsequent seismic waves as he finds necessary to meet changed conditions and to provide for current and reasonably prospective requirements of the communities they serve, at an estimated cost of $10,000,000. (Added [Pub. L. 88–451][/us/pl/88/451], § 4, Aug. 19, 1964, [78 Stat. 506][/us/stat/78/506].)
 
 > “Sec. 56. __\[Purchase of Alaska State Bonds.\]__ 
 
->  The Secretary of Housing and Urban Development is authorized to purchase, in accordance with the provisions of sections 202(b), 203, and 204 of Title II of the Housing Amendments of 1955 \[[42 U.S.C. 1492(b)][/us/usc/t42/s1492/b], 1493, and 1494\], the securities and obligations of, or make loans to, the State of Alaska to finance any part of the programs needed to carry out the reconstruction activities in Alaska related to the 1964 earthquake and subsequent seismic waves or to complete capital improvements begun prior to the earthquake: Provided, That the aggregate amount of such purchase or loan shall not exceed $25,000,000. (Added [Pub. L. 88–451, § 4][/us/pl/88/451/s4], Aug. 19, 1964, [78 Stat. 506][/us/stat/78/506], and amended [Pub. L. 90–19, § 15(a)][/us/pl/90/19/s15/a], May 25, 1967, [81 Stat. 24][/us/stat/81/24].)
+>  The Secretary of Housing and Urban Development is authorized to purchase, in accordance with the provisions of sections 202(b), 203, and 204 of Title II of the Housing Amendments of 1955 \[[42 U.S.C. 1492(b)][/us/usc/t42/s1492/b], 1493, and 1494\], the securities and obligations of, or make loans to, the State of Alaska to finance any part of the programs needed to carry out the reconstruction activities in Alaska related to the 1964 earthquake and subsequent seismic waves or to complete capital improvements begun prior to the earthquake: Provided, That the aggregate amount of such purchase or loan shall not exceed $25,000,000. (Added [Pub. L. 88–451][/us/pl/88/451], § 4, Aug. 19, 1964, [78 Stat. 506][/us/stat/78/506], and amended [Pub. L. 90–19][/us/pl/90/19], § 15(a), May 25, 1967, [81 Stat. 24][/us/stat/81/24].)
 
 > “Sec. 57. __\[Retirement or Adjustment of Outstanding Mortgage Obligation.\]__ 
 
 >  For the purpose of enabling the State of Alaska to retire or adjust outstanding home mortgage obligations or other real property liens secured by one to four family homes which were severely damaged or destroyed in the March 1964 earthquake and subsequent seismic waves, the President is authorized to make additional grants to the State of Alaska in an amount not to exceed a total of $5,500,000 to match, on a fifty-fifty basis, any funds provided by the State to pay the costs of retiring or adjusting such mortgage obligations. In order to be approved, a State application for a grant for carrying out the purpose of this section must: (1) be in accordance with a plan submitted by the State, to be approved by the President, for the implementation of the purpose of this section; (2) designate the State agency for retiring or adjusting said mortgage obligations; (3) provide that the mortgagor shall be required to absorb the damage loss to the entire extent of his equity interest in the property and also agree to pay at least $1,000 of the outstanding mortgage balance; (4) provide that no payments for retiring or adjusting mortgage obligations on a single property shall exceed $30,000; (5) provide regulations to assure equitable treatment among home owners and to prevent unjustified payments or gains to the State, mortgagees or mortgagors; and (6) provide that the State agency will make such reports, in such form and containing such information as the President may from time to time require, and give the President, upon demand, access to the records on which such reports are based.”
 
- (Added [Pub. L. 88–451, § 4][/us/pl/88/451/s4], Aug. 19, 1964, [78 Stat. 507][/us/stat/78/507].)
+ (Added [Pub. L. 88–451][/us/pl/88/451], § 4, Aug. 19, 1964, [78 Stat. 507][/us/stat/78/507].)
 
  __Assistance to Alaska for Reconstruction of Areas Damaged by Earthquake__ 
 
@@ -893,7 +893,7 @@
 
 > “Sec. 5. __\[Authorization of Appropriations.\]__ 
 
->  There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act, which shall be available for obligation until June 30, 1967, except that any sums so appropriated to carry out section 53 of the Alaska Omnibus Act \[set out above\] shall be available after such date for obligation in connection with one or more of the following urban renewal projects authorized for execution prior to June 30, 1967; Alaska R–8, Westchester; Alaska R–19, Kodiak; Alaska R–20, downtown Anchorage; Alaska R–21, Seward; Alaska R–22, Valdez; Alaska R–25, Mineral Creek; Alaska R–26, Seldovia; Alaska R–28, Cordova. There is also authorized to be appropriated such sums as may be necessary for the expenses of such advisory commissions or committees as the President may establish in connection with the reconstruction and development planning of the State of Alaska. The total amount authorized to be appropriated pursuant to this section shall not exceed $55,650,000. (As amended [Pub. L. 91–367, § 1][/us/pl/91/367/s1], July 31, 1970, [84 Stat. 691][/us/stat/84/691].)
+>  There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act, which shall be available for obligation until June 30, 1967, except that any sums so appropriated to carry out section 53 of the Alaska Omnibus Act \[set out above\] shall be available after such date for obligation in connection with one or more of the following urban renewal projects authorized for execution prior to June 30, 1967; Alaska R–8, Westchester; Alaska R–19, Kodiak; Alaska R–20, downtown Anchorage; Alaska R–21, Seward; Alaska R–22, Valdez; Alaska R–25, Mineral Creek; Alaska R–26, Seldovia; Alaska R–28, Cordova. There is also authorized to be appropriated such sums as may be necessary for the expenses of such advisory commissions or committees as the President may establish in connection with the reconstruction and development planning of the State of Alaska. The total amount authorized to be appropriated pursuant to this section shall not exceed $55,650,000. (As amended [Pub. L. 91–367][/us/pl/91/367], § 1, July 31, 1970, [84 Stat. 691][/us/stat/84/691].)
 
 > “Sec. 6. __\[Termination Date.\]__ 
 
@@ -903,7 +903,7 @@
 
 >     “(2) the payment of expenditures for any obligation or commitment entered into under this Act prior to June 30, 1967.
 
-    (As amended [Pub. L. 91–367, § 2][/us/pl/91/367/s2], July 31, 1970, [84 Stat. 691][/us/stat/84/691].)
+    (As amended [Pub. L. 91–367][/us/pl/91/367], § 2, July 31, 1970, [84 Stat. 691][/us/stat/84/691].)
 
     “Sec. 7. \[Report to the Congress.\] The President shall report semiannually during the term of this Act to the President of the Senate and the Speaker of the House on the actions taken under this Act by the various Federal agencies. The first such report shall be submitted not later than February 1, 1965, and shall cover the period ending December 31, 1964.”
 
@@ -963,29 +963,9 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 
                               Dwight D. Eisenhower.
 
-§§ 21 to 27. __Omitted__ 
-
- __Codification__ 
-
-    Sections 21 to 27, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.
-
-    Section 21, [act Aug. 24, 1912, ch. 387, § 1][/us/act/1912-08-24/ch387/s1], [37 Stat. 512][/us/stat/37/512], provided for organization and administration of Territory of Alaska.
-
-    Section 22, [act Aug. 24, 1912, ch. 387, § 2][/us/act/1912-08-24/ch387/s2], [37 Stat. 512][/us/stat/37/512], directed that Capital of Territory be at Juneau.
-
-    Section 23, [act Aug. 24, 1912, ch. 387, § 3][/us/act/1912-08-24/ch387/s3], [37 Stat. 512][/us/stat/37/512], extended Constitution and laws of United States to Territory.
-
-    Section 24, acts [Aug. 24, 1912, ch. 387, § 3][/us/act/1912-08-24/ch387/s3], [37 Stat. 512][/us/stat/37/512]; [July 28, 1956, ch. 772][/us/act/1956-07-28/ch772], title III, § 301(c), [70 Stat. 713][/us/stat/70/713], limited authority of Territorial legislature to repeal or amend existing laws.
-
-    Section 25, [act June 6, 1900, ch. 786, § 30][/us/act/1900-06-06/ch786/s30], [31 Stat. 332][/us/stat/31/332], empowered Attorney General to prescribe fees of officers not otherwise compensated.
-
-    Section 26, [act June 6, 1900, ch. 786, § 2][/us/act/1900-06-06/ch786/s2], [31 Stat. 321][/us/stat/31/321], authorized governor to appoint notaries public.
-
-    Section 27, [act June 6, 1900, ch. 786, § 2][/us/act/1900-06-06/ch786/s2], [31 Stat. 321][/us/stat/31/321], validated appointments of notaries public made prior to June 6, 1900.
-
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch1/m__us_usc_t48_s3.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch2)
+[Previous](./../../../..//us/usc/t48/ch1/m__us_usc_t48_s4 _us_usc_t48_s5.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s21...27.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch2)
 
 ----------
 ----------
@@ -994,7 +974,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
-[/us/pl/86/70/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs2%2Fa
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F141
 [/us/stat/57/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F301
 [/us/stat/34/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F478
@@ -1020,7 +1000,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 [/us/stat/9/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F520
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
 [/us/stat/67/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F29
-[/us/pl/86/70/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs2%2Fb
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F141
 [/us/pl/86/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F173
 [/us/stat/73/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F395
@@ -1030,19 +1010,19 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 [/us/stat/77/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F223
 [/us/pl/88/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F289
 [/us/stat/78/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F169
-[/us/pl/89/702/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs408%2Fb
+[/us/pl/89/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtIV
 [/us/stat/80/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1098
-[/us/pl/96/487/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs906%2Fa
+[/us/pl/96/487/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtIX
 [/us/stat/94/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2437
-[/us/pl/108/452/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F452%2Fs101
+[/us/pl/108/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F452%2FtI
 [/us/stat/118/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3576
 [/us/stat/37/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F13
 [/us/stat/55/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F761
-[/us/pl/90/578/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402%2Fb%2F2
+[/us/pl/90/578/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIV
 [/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/96/487/s202/3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs202%2F3%2Fa
+[/us/pl/96/487/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtII
 [/us/stat/94/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2382
 [/us/usc/t28/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs133
 [/us/usc/t28/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs373
@@ -1120,11 +1100,11 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 [/us/usc/t48/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs321%2Fa
 [/us/usc/t23/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs116%2Fb
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
-[/us/pl/88/451/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451%2Fs3
+[/us/pl/88/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451
 [/us/stat/78/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F505
-[/us/pl/97/449/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2%2Fa
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/act/1900-06-06/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fs30
 [/us/usc/t48/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs25
@@ -1141,10 +1121,10 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 [/us/stat/72/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1013
 [/us/usc/t42/s410/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410%2Fh
 [/us/act/1895-01-12/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fs73
-[/us/pl/90/620/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs3
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1310
 [/us/usc/t44/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs308
-[/us/pl/90/620/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs3
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1310
 [/us/usc/t48/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs485
 [/us/usc/t48/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs485
@@ -1164,7 +1144,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 [/us/usc/t42/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1701
 [/us/usc/t42/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1704
 [/us/usc/t42/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1711
-[/us/act/1933-03-03/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fs1%2Fb
+[/us/act/1933-03-03/tIII/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2FtIII%2Fs1%2Fb
 [/us/usc/t41/s10c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10c%2Fb
 [/us/usc/t41/s8301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8301%2F1
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
@@ -1172,43 +1152,43 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 [/us/stat/78/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F201
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
-[/us/pl/88/311/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F311%2Fs2
+[/us/pl/88/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F311
 [/us/stat/78/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F201
 [/us/act/1958-07-07/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1958-07-07%2Fs6%2Fe
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
 [/us/usc/t20/s442/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs442%2Fb
-[/us/pl/86/624/s47/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs47%2Fg%2F4
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F424
 [/us/usc/t42/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1651
-[/us/pl/86/624/s47/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs47%2Fg%2F4
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F424
 [/us/usc/t42/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1472
-[/us/pl/88/451/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451%2Fs4
+[/us/pl/88/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451
 [/us/stat/78/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F505
 [/us/usc/t42/s1491–149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1491%E2%80%93149
-[/us/pl/88/451/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451%2Fs4
+[/us/pl/88/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451
 [/us/stat/78/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F506
-[/us/pl/90/19/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs15%2Fa
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F24
 [/us/usc/t42/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1462
 [/us/usc/t42/s1453/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1453%2Fb
-[/us/pl/88/451/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451%2Fs4
+[/us/pl/88/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451
 [/us/stat/78/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F506
-[/us/pl/90/19/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs15
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F24
 [/us/stat/72/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F387
 [/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
 [/us/usc/t15/s636/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fc
-[/us/pl/88/451/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451%2Fs4
+[/us/pl/88/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451
 [/us/stat/78/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F506
-[/us/pl/88/451/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451%2Fs4
+[/us/pl/88/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451
 [/us/stat/78/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F506
 [/us/usc/t42/s1492/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1492%2Fb
-[/us/pl/88/451/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451%2Fs4
+[/us/pl/88/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451
 [/us/stat/78/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F506
-[/us/pl/90/19/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs15%2Fa
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F24
-[/us/pl/88/451/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451%2Fs4
+[/us/pl/88/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451
 [/us/stat/78/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F507
 [/us/pl/88/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F451
 [/us/stat/78/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F505
@@ -1216,9 +1196,9 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 [/us/stat/73/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F141
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F141
-[/us/pl/91/367/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F367%2Fs1
+[/us/pl/91/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F367
 [/us/stat/84/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F691
-[/us/pl/91/367/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F367%2Fs2
+[/us/pl/91/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F367
 [/us/stat/84/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F691
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t28/s81A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs81A
@@ -1233,21 +1213,5 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 [/us/stat/57/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F301
 [/us/stat/34/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F478
 [/us/stat/43/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F465
-[/us/act/1912-08-24/ch387/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch387%2Fs1
-[/us/stat/37/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F512
-[/us/act/1912-08-24/ch387/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch387%2Fs2
-[/us/stat/37/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F512
-[/us/act/1912-08-24/ch387/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch387%2Fs3
-[/us/stat/37/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F512
-[/us/act/1912-08-24/ch387/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch387%2Fs3
-[/us/stat/37/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F512
-[/us/act/1956-07-28/ch772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-28%2Fch772
-[/us/stat/70/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F713
-[/us/act/1900-06-06/ch786/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch786%2Fs30
-[/us/stat/31/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F332
-[/us/act/1900-06-06/ch786/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch786%2Fs2
-[/us/stat/31/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F321
-[/us/act/1900-06-06/ch786/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch786%2Fs2
-[/us/stat/31/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F321
 
 

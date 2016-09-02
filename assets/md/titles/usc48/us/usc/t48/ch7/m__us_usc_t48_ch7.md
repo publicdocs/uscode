@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1383.md) | [Next](./../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_ch7_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch7)
+[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1384...1387.md) | [Next](./../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_ch7_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch7)
 
 ## CHAPTER 7—VIRGIN ISLANDS
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406" data-uslm-ref="/us/usc/t48/s1406">1406</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406l" data-uslm-ref="/us/usc/t48/s1406l">1406l.</a>  </td>
 
     <td> Effective date.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER VI—AGRICULTURAL PROGRAM  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1409m" data-uslm-ref="/us/usc/t48/s1409m">1409m</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1409" data-uslm-ref="/us/usc/t48/s1409">1409</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1409m" data-uslm-ref="/us/usc/t48/s1409m">1409m</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1409o" data-uslm-ref="/us/usc/t48/s1409o">1409o</a>.  </td>
 
     <td> Repealed.  </td>
 
@@ -347,7 +347,7 @@ SUBCHAPTER VI—AGRICULTURAL PROGRAM  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1383.md) | [Next](./../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_ch7_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch7)
+[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1384...1387.md) | [Next](./../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_ch7_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch7)
 
 ----------
 ----------

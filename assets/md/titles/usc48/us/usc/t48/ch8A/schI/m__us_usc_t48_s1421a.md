@@ -17,7 +17,7 @@
 
     Guam is declared to be an unincorporated territory of the United States and the capital and seat of government thereof shall be located at the city of Agana, Guam. The government of Guam shall have the powers set forth in this chapter, shall have power to sue by such name, and, with the consent of the legislature evidenced by enacted law, may be sued upon any contract entered into with respect to, or any tort committed incident to, the exercise by the government of Guam of any of its lawful powers. The government of Guam shall consist of three branches, executive, legislative, and judicial, and its relations with the Federal Government in all matters not the program responsibility of another Federal department or agency, shall be under the general administrative supervision of the Secretary of the Interior.
 
-([Aug. 1, 1950, ch. 512, § 3][/us/act/1950-08-01/ch512/s3], [64 Stat. 384][/us/stat/64/384]; [Pub. L. 86–316][/us/pl/86/316], Sept. 21, 1959, [73 Stat. 588][/us/stat/73/588]; [Pub. L. 90–497, § 12(a)][/us/pl/90/497/s12/a], Sept. 11, 1968, [82 Stat. 847][/us/stat/82/847].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 3, [64 Stat. 384][/us/stat/64/384]; [Pub. L. 86–316][/us/pl/86/316], Sept. 21, 1959, [73 Stat. 588][/us/stat/73/588]; [Pub. L. 90–497][/us/pl/90/497], § 12(a), Sept. 11, 1968, [82 Stat. 847][/us/stat/82/847].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs3
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F384
 [/us/pl/86/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F316
 [/us/stat/73/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F588
-[/us/pl/90/497/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497%2Fs12%2Fa
+[/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/stat/82/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F847
 [/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/pl/86/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F316

@@ -85,7 +85,7 @@
 
         (5) No agreement between the United States and the Government of Palau which would amend, change, or terminate any subsidiary or related agreement, or portion thereof, other than those set forth in subsection (d)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be subsection “(c)”. </sup></sup>  of this section or paragraph (4) of this subsection, shall take effect until the President has transmitted such an agreement to the President of the Senate and the Speaker of the House of Representatives, together with an explanation of the agreement and the reasons therefor.
 
-([Pub. L. 99–658, title I, § 101][/us/pl/99/658/s101], Nov. 14, 1986, [100 Stat. 3673][/us/stat/100/3673].)
+([Pub. L. 99–658, title I][/us/pl/99/658/tI], § 101, Nov. 14, 1986, [100 Stat. 3673][/us/stat/100/3673].)
 
  __References in Text__ 
 
@@ -133,11 +133,13 @@
 
  __Compact of Free Association__ 
 
-[Pub. L. 99–658, title II, § 201][/us/pl/99/658/s201], Nov. 14, 1986, [100 Stat. 3678][/us/stat/100/3678], provided that: 
+[Pub. L. 99–658, title II][/us/pl/99/658/tII], § 201, Nov. 14, 1986, [100 Stat. 3678][/us/stat/100/3678], provided that: 
 
 > “Compact of Free Association is as follows:
 
 >  __“COMPACT OF FREE ASSOCIATION__ 
+
+>  __“preamble__ 
 
 >  __“the government of the united states of america and the government of palau__ 
 
@@ -739,9 +741,25 @@
 
 >  __“done at \_\_\_\_\_\_\_\_\_\_, this \_\_\_ day__ 
 
+>  __“of \_\_, one thousand nine hundred eighty-five__ 
+
+>  __“for the government__ 
+
+>  __“of__ 
+
 >  __“the united states of america__ 
 
 >  __“\_\_\_\_\_\_\_\_\_\_\_\___ 
+
+>  __“done at \_\_\_\_\_\_\_\_\_\_, this \_\_\_ day__ 
+
+>  __“of \_\_, one thousand nine hundred eighty-five__ 
+
+>  __“for the government__ 
+
+>  __“of__ 
+
+>  __“the republic of palau__ 
 
 >  __“\_\_\_\_\_\_\_\_\_\_\_\_”.__ 
 
@@ -789,7 +807,7 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 [/us/usc/t48/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1902
 [/us/usc/t48/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1902
 [/us/pl/94/329/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb
-[/us/pl/99/658/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs101
+[/us/pl/99/658/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2FtI
 [/us/stat/100/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3673
 [/us/pl/99/658/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs201
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
@@ -803,7 +821,7 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
-[/us/pl/99/658/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs201
+[/us/pl/99/658/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2FtII
 [/us/stat/100/3678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3678
 [/us/usc/t22/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4021
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151

@@ -17,7 +17,7 @@
 
     To the extent practicable, services, facilities, and equipment of agencies and instrumentalities of the United States Government may be made available, on a reimbursable basis, to the governments of the territories and possessions of the United States and the Trust Territory of the Pacific Islands. Reimbursements may be credited to the appropriation or fund of the agency or instrumentality through which the services, facilities, and equipment are provided. If otherwise authorized by law, such services, facilities, and equipment may be made available without reimbursement.
 
-([Pub. L. 96–205, title VI, § 603][/us/pl/96/205/s603], Mar. 12, 1980, [94 Stat. 90][/us/stat/94/90].)
+([Pub. L. 96–205, title VI][/us/pl/96/205/tVI], § 603, Mar. 12, 1980, [94 Stat. 90][/us/stat/94/90].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/205/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs603
+[/us/pl/96/205/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtVI
 [/us/stat/94/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F90
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

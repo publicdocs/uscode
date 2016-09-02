@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1323a.md) | [Next](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1323c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1323b)
 
-## § 1323b. Repealed. [Pub. L. 87–845, § 26(b)][/us/pl/87/845/s26/b], Oct. 18, 1962, [76A Stat. 701][/us/stat/76A/701]
+## § 1323b. Repealed. [Pub. L. 87–845][/us/pl/87/845], § 26(b), Oct. 18, 1962, [76A Stat. 701][/us/stat/76A/701]
 
-    Section, [act June 13, 1940, ch. 358, § 2][/us/act/1940-06-13/ch358/s2], [54 Stat. 389][/us/stat/54/389], related to postal-savings deposits.
+    Section, [act June 13, 1940, ch. 358][/us/act/1940-06-13/ch358], § 2, [54 Stat. 389][/us/stat/54/389], related to postal-savings deposits.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/87/845/s26/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845%2Fs26%2Fb
+[/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845
 [/us/stat/76A/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76A%2F701
-[/us/act/1940-06-13/ch358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-13%2Fch358%2Fs2
+[/us/act/1940-06-13/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-13%2Fch358
 [/us/stat/54/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F389
 
 

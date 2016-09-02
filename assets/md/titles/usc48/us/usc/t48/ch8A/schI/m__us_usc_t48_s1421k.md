@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be construed as limiting the authority of the President to designate parts of Guam as naval or military reservations, nor to restrict his authority to treat Guam as a closed port with respect to the vessels and aircraft of foreign nations.
 
-([Aug. 1, 1950, ch. 512, § 33][/us/act/1950-08-01/ch512/s33], [64 Stat. 393][/us/stat/64/393].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 33, [64 Stat. 393][/us/stat/64/393].)
 
  __Submerged Lands, Conveyance to Territory__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs33
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F393
 
 

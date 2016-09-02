@@ -237,7 +237,7 @@
 
             Without limiting the authority that the United States Government may otherwise have under applicable law, the United States Government may, but shall not be obligated to, provide financial, technical, or other assistance directly or indirectly to the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands for the purpose of establishing and operating a trust fund or other legal entity that will solicit bids from, and enter into contracts with, parties willing to serve in such capacities as trustee, depositary, money manager, or investment advisor, with the intention that the contracts will ultimately be assumed by and assigned to a trust fund established pursuant to a Trust Fund Agreement.
 
-([Pub. L. 108–188, title I, § 105][/us/pl/108/188/s105], Dec. 17, 2003, [117 Stat. 2744][/us/stat/117/2744]; [Pub. L. 109–270, § 2][/us/pl/109/270/s2](l), Aug. 12, 2006, [120 Stat. 749][/us/stat/120/749]; [Pub. L. 110–161, div. F, title I, § 124][/us/pl/110/161/s124], Dec. 26, 2007, [121 Stat. 2121][/us/stat/121/2121]; [Pub. L. 110–229, title VIII][/us/pl/110/229], §§ 803(a), 804, 805, 806(a)(3), May 8, 2008, [122 Stat. 870][/us/stat/122/870], 871; [Pub. L. 113–128, title V, § 512(g)(1)][/us/pl/113/128/s512/g/1], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708]; [Pub. L. 113–287, § 5][/us/pl/113/287/s5](o)(2), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
+([Pub. L. 108–188, title I][/us/pl/108/188/tI], § 105, Dec. 17, 2003, [117 Stat. 2744][/us/stat/117/2744]; [Pub. L. 109–270][/us/pl/109/270], § 2(l), Aug. 12, 2006, [120 Stat. 749][/us/stat/120/749]; [Pub. L. 110–161, div. F, title I][/us/pl/110/161/dF/tI], § 124, Dec. 26, 2007, [121 Stat. 2121][/us/stat/121/2121]; [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], §§ 803(a), 804, 805, 806(a)(3), May 8, 2008, [122 Stat. 870][/us/stat/122/870], 871; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(g)(1), July 22, 2014, [128 Stat. 1708][/us/stat/128/1708]; [Pub. L. 113–287][/us/pl/113/287], § 5(o)(2), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
 
  __References in Text__ 
 
@@ -257,7 +257,7 @@
 
     The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(1)(B)(iii), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle C of title I of the Act is classified generally to part C (§ 3191 et seq.) of subchapter I of chapter 32 of Title 29. Chapter II of the Act is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
-    Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f)(1)(B)(iii), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683]. Title I of the Act is classified generally to subchapter I (§ 2321 et seq.) of chapter 44 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
+    Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f)(1)(B)(iii), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683]. Title I of the Act is classified generally to subchapter I (§ 2321 et seq.) of chapter 44 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
 
     The Head Start Act, referred to in subsec. (f)(1)(B)(iii), (v), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
 
@@ -267,17 +267,17 @@
 
     Subsec. (j). [Pub. L. 113–287][/us/pl/113/287] substituted “division A of subtitle III of title 54” for “the National Historic Preservation Act ([80 Stat. 915][/us/stat/80/915]; [16 U.S.C. 470–470t][/us/usc/t16/s470–470t])”.
 
-    2008—Subsec. (b)(1). [Pub. L. 110–229, § 806(a)(3)][/us/pl/110/229/s806/a/3], substituted “Trust Funds)” for “Trust Fund)”.
+    2008—Subsec. (b)(1). [Pub. L. 110–229][/us/pl/110/229], § 806(a)(3), substituted “Trust Funds)” for “Trust Fund)”.
 
-    Subsec. (f)(1)(A). [Pub. L. 110–229, § 803(a)][/us/pl/110/229/s803/a], amended subpar. (A) generally. Prior to amendment, subpar. (A) related to the continuing availability of programs and services of the Department of Homeland Security, Federal Emergency Management Agency.
+    Subsec. (f)(1)(A). [Pub. L. 110–229][/us/pl/110/229], § 803(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to the continuing availability of programs and services of the Department of Homeland Security, Federal Emergency Management Agency.
 
-    Subsec. (f)(1)(B)(ii)(II). [Pub. L. 110–229, § 804(1)][/us/pl/110/229/s804/1], substituted “, its territories, and the Republic of Palau” for “and its territories”.
+    Subsec. (f)(1)(B)(ii)(II). [Pub. L. 110–229][/us/pl/110/229], § 804(1), substituted “, its territories, and the Republic of Palau” for “and its territories”.
 
-    Subsec. (f)(1)(B)(iii). [Pub. L. 110–229, § 804(2)][/us/pl/110/229/s804/2], which directed the substitution of “, the Republic of the Marshall Islands, or the Republic of Palau” for “, or the Republic of the Marshall Islands”, in subcl. (II) of cl. (iii), was executed by making the substitution in the concluding provisions of cl. (iii), to reflect the probable intent of Congress.
+    Subsec. (f)(1)(B)(iii). [Pub. L. 110–229][/us/pl/110/229], § 804(2), which directed the substitution of “, the Republic of the Marshall Islands, or the Republic of Palau” for “, or the Republic of the Marshall Islands”, in subcl. (II) of cl. (iii), was executed by making the substitution in the concluding provisions of cl. (iii), to reflect the probable intent of Congress.
 
-    Subsec. (f)(1)(B)(ix). [Pub. L. 110–229, § 804(3)][/us/pl/110/229/s804/3], which directed substitution of “government, institutions, and people” for “Republic” in two places and substitution of “2009” for “2007” and “were” for “was”, could not be executed because of the prior identical amendments by [Pub. L. 110–161][/us/pl/110/161]. See 2007 Amendment note below.
+    Subsec. (f)(1)(B)(ix). [Pub. L. 110–229][/us/pl/110/229], § 804(3), which directed substitution of “government, institutions, and people” for “Republic” in two places and substitution of “2009” for “2007” and “were” for “was”, could not be executed because of the prior identical amendments by [Pub. L. 110–161][/us/pl/110/161]. See 2007 Amendment note below.
 
-    Subsec. (f)(1)(C). [Pub. L. 110–229, § 805][/us/pl/110/229/s805], inserted before period at end “, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions)”.
+    Subsec. (f)(1)(C). [Pub. L. 110–229][/us/pl/110/229], § 805, inserted before period at end “, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions)”.
 
     2007—Subsec. (f)(1)(B)(ix). [Pub. L. 110–161][/us/pl/110/161] substituted “government, institutions, and people” for “Republic” in two places, “2009” for “2007”, and “were” for “was”.
 
@@ -289,29 +289,29 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–229, title VIII, § 803(b)][/us/pl/110/229/s803/b], May 8, 2008, [122 Stat. 870][/us/stat/122/870], provided that: 
+[Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 803(b), May 8, 2008, [122 Stat. 870][/us/stat/122/870], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall be effective as of the date that is 180 days after the date of enactment of this Act \[May 8, 2008\].”
 
  __Continued Applicability of Subsection (f)(1)(B)(ix)__ 
 
-[Pub. L. 114–113, div. H, title III, § 306][/us/pl/114/113/s306], Dec. 18, 2015, [129 Stat. 2637][/us/stat/129/2637], provided that: 
+[Pub. L. 114–113, div. H, title III][/us/pl/114/113/dH/tIII], § 306, Dec. 18, 2015, [129 Stat. 2637][/us/stat/129/2637], provided that: 
 
 > “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)][/us/usc/t48/s1921d/f/1/B/ix]) shall be applied by substituting ‘2016’ for ‘2009’.”
 
-[Pub. L. 113–235, div. G, title III, § 306][/us/pl/113/235/s306], Dec. 16, 2014, [128 Stat. 2504][/us/stat/128/2504], provided that: 
+[Pub. L. 113–235, div. G, title III][/us/pl/113/235/dG/tIII], § 306, Dec. 16, 2014, [128 Stat. 2504][/us/stat/128/2504], provided that: 
 
 > “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)][/us/usc/t48/s1921d/f/1/B/ix]) shall be applied by substituting ‘2015’ for ‘2009’.”
 
-[Pub. L. 113–76, div. H, title III, § 306][/us/pl/113/76/s306], Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399], provided that: 
+[Pub. L. 113–76, div. H, title III][/us/pl/113/76/dH/tIII], § 306, Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399], provided that: 
 
 > “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)][/us/usc/t48/s1921d/f/1/B/ix]) shall be applied by substituting ‘2014’ for ‘2009’.”
 
-[Pub. L. 112–74, div. F, title III, § 306][/us/pl/112/74/s306], Dec. 23, 2011, [125 Stat. 1099][/us/stat/125/1099], provided that: 
+[Pub. L. 112–74, div. F, title III][/us/pl/112/74/dF/tIII], § 306, Dec. 23, 2011, [125 Stat. 1099][/us/stat/125/1099], provided that: 
 
 > “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)][/us/usc/t48/s1921d/f/1/B/ix]) shall be applied by substituting ‘2012’ for ‘2009’.”
 
-[Pub. L. 111–117, div. D, title III, § 309][/us/pl/111/117/s309], Dec. 16, 2009, [123 Stat. 3272][/us/stat/123/3272], provided that: 
+[Pub. L. 111–117, div. D, title III][/us/pl/111/117/dD/tIII], § 309, Dec. 16, 2009, [123 Stat. 3272][/us/stat/123/3272], provided that: 
 
 > “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)][/us/usc/t48/s1921d/f/1/B/ix]) shall be applied by substituting ‘2010’ for ‘2009’.”
 
@@ -337,17 +337,17 @@
 [/us/usc/t20/s1070b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070b
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
-[/us/pl/108/188/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs105
+[/us/pl/108/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2FtI
 [/us/stat/117/2744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2744
-[/us/pl/109/270/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs2
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F749
-[/us/pl/110/161/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs124
+[/us/pl/110/161/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdF%2FtI
 [/us/stat/121/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2121
-[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F870
-[/us/pl/113/128/s512/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fg%2F1
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
-[/us/pl/113/287/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/108/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188
 [/us/stat/117/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2720
@@ -375,7 +375,7 @@
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F683
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -388,33 +388,33 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
 [/us/usc/t16/s470–470t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%E2%80%93470t
-[/us/pl/110/229/s806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fa%2F3
-[/us/pl/110/229/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs803%2Fa
-[/us/pl/110/229/s804/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs804%2F1
-[/us/pl/110/229/s804/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs804%2F2
-[/us/pl/110/229/s804/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs804%2F3
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/110/229/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs805
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/110/229/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs803%2Fb
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F870
-[/us/pl/114/113/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs306
+[/us/pl/114/113/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtIII
 [/us/stat/129/2637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2637
 [/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix
-[/us/pl/113/235/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs306
+[/us/pl/113/235/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtIII
 [/us/stat/128/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2504
 [/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix
-[/us/pl/113/76/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs306
+[/us/pl/113/76/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtIII
 [/us/stat/128/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F399
 [/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix
-[/us/pl/112/74/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs306
+[/us/pl/112/74/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtIII
 [/us/stat/125/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1099
 [/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix
-[/us/pl/111/117/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs309
+[/us/pl/111/117/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdD%2FtIII
 [/us/stat/123/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3272
 [/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix
 

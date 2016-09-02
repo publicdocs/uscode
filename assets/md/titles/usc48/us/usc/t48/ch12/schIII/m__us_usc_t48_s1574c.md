@@ -17,7 +17,7 @@
 
     Each issue of bonds or other obligations issued under subsection (a) of [section 1574a of this title][/us/usc/t48/s1574a] shall have a parity lien with every other issue of bonds or other obligations issued for payment of principal and interest out of revenues received under [section 7652(b)(3) of title 26][/us/usc/t26/s7652/b/3], except that issues guaranteed under [section 1574b of this title][/us/usc/t48/s1574b] shall have priority, according to the date of issue, over issues not so guaranteed and the revenues received under [section 7652(b)(3) of title 26][/us/usc/t26/s7652/b/3] shall be pledged for the payment of such bonds or other obligations.
 
-([Pub. L. 94–392, § 3][/us/pl/94/392/s3], Aug. 19, 1976, [90 Stat. 1195][/us/stat/90/1195]; [Pub. L. 105–83, title I, § 124(a)][/us/pl/105/83/s124/a], Nov. 14, 1997, [111 Stat. 1567][/us/stat/111/1567].)
+([Pub. L. 94–392][/us/pl/94/392], § 3, Aug. 19, 1976, [90 Stat. 1195][/us/stat/90/1195]; [Pub. L. 105–83, title I][/us/pl/105/83/tI], § 124(a), Nov. 14, 1997, [111 Stat. 1567][/us/stat/111/1567].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–83, title I, § 124(b)][/us/pl/105/83/s124/b], Nov. 14, 1997, [111 Stat. 1567][/us/stat/111/1567], provided that: 
+[Pub. L. 105–83, title I][/us/pl/105/83/tI], § 124(b), Nov. 14, 1997, [111 Stat. 1567][/us/stat/111/1567], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to obligations issued on or after the date of enactment of this section \[Nov. 14, 1997\].”
 
@@ -46,15 +46,15 @@
 [/us/usc/t26/s7652/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7652%2Fb%2F3
 [/us/usc/t48/s1574b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1574b
 [/us/usc/t26/s7652/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7652%2Fb%2F3
-[/us/pl/94/392/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392%2Fs3
+[/us/pl/94/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392
 [/us/stat/90/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1195
-[/us/pl/105/83/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs124%2Fa
+[/us/pl/105/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtI
 [/us/stat/111/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1567
 [/us/usc/t26/s7652/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7652%2Fb%2F3
 [/us/stat/68/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F508
 [/us/usc/t26/s7852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7852%2Fb
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
-[/us/pl/105/83/s124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs124%2Fb
+[/us/pl/105/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtI
 [/us/stat/111/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1567
 
 

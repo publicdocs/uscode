@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the Organic Act of the Virgin Islands of the United States.
 
-([June 22, 1936, ch. 699, § 41][/us/act/1936-06-22/ch699/s41], [49 Stat. 1817][/us/stat/49/1817].)
+([June 22, 1936, ch. 699][/us/act/1936-06-22/ch699], § 41, [49 Stat. 1817][/us/stat/49/1817].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-22/ch699/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs41
+[/us/act/1936-06-22/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699
 [/us/stat/49/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1817
 
 

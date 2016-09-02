@@ -29,7 +29,7 @@
 
         (3) a specific description of the technical assistance, training, and equipment to be provided to Palau by the United States necessary to implement the plan.
 
-([Pub. L. 101–219, title I, § 103][/us/pl/101/219/s103], Dec. 12, 1989, [103 Stat. 1870][/us/stat/103/1870].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 103, Dec. 12, 1989, [103 Stat. 1870][/us/stat/103/1870].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/101/219/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs103
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1870
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

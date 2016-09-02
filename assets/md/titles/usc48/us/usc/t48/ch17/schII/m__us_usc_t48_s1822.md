@@ -19,7 +19,7 @@
 
     (b) The district court shall have original jurisdiction in all causes in the Northern Mariana Islands not described in subsection (a) jurisdiction over which is not vested by the Constitution or laws of the Northern Mariana Islands in a court or courts of the Northern Mariana Islands. In causes brought in the district court solely on the basis of this subsection, the district court shall be considered a court of the Northern Mariana Islands for the purposes of determining the requirements of indictment by grand jury or trial by jury.
 
-([Pub. L. 95–157, § 2][/us/pl/95/157/s2], Nov. 8, 1977, [91 Stat. 1266][/us/stat/91/1266]; [Pub. L. 98–454, title IX, § 902][/us/pl/98/454/s902], Oct. 5, 1984, [98 Stat. 1744][/us/stat/98/1744].)
+([Pub. L. 95–157][/us/pl/95/157], § 2, Nov. 8, 1977, [91 Stat. 1266][/us/stat/91/1266]; [Pub. L. 98–454, title IX][/us/pl/98/454/tIX], § 902, Oct. 5, 1984, [98 Stat. 1744][/us/stat/98/1744].)
 
  __Codification__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t28/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1332
-[/us/pl/95/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157%2Fs2
+[/us/pl/95/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157
 [/us/stat/91/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1266
-[/us/pl/98/454/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs902
+[/us/pl/98/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtIX
 [/us/stat/98/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1744
 [/us/usc/t48/s1694a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1694a
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454

@@ -207,7 +207,7 @@
 
             (B) the term “1982 Territorial Energy Assessment” means the comprehensive energy plan prepared by the Secretary of Energy pursuant to subsection (c).
 
-([Pub. L. 96–597, title VI, § 604][/us/pl/96/597/s604], Dec. 24, 1980, [94 Stat. 3480][/us/stat/94/3480]; [Pub. L. 98–213, § 7][/us/pl/98/213/s7], Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460]; [Pub. L. 102–486, title XXVII, § 2701][/us/pl/102/486/s2701], Oct. 24, 1992, [106 Stat. 3118][/us/stat/106/3118]; [Pub. L. 109–58, title II, § 251][/us/pl/109/58/s251], Aug. 8, 2005, [119 Stat. 679][/us/stat/119/679].)
+([Pub. L. 96–597, title VI][/us/pl/96/597/tVI], § 604, Dec. 24, 1980, [94 Stat. 3480][/us/stat/94/3480]; [Pub. L. 98–213][/us/pl/98/213], § 7, Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460]; [Pub. L. 102–486, title XXVII][/us/pl/102/486/tXXVII], § 2701, Oct. 24, 1992, [106 Stat. 3118][/us/stat/106/3118]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 251, Aug. 8, 2005, [119 Stat. 679][/us/stat/119/679].)
 
  __References in Text__ 
 
@@ -215,11 +215,11 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(5), (6). [Pub. L. 109–58, § 251(1)][/us/pl/109/58/s251/1], (2), added pars. (5) and (6).
+    2005—Subsec. (a)(5), (6). [Pub. L. 109–58][/us/pl/109/58], § 251(1), (2), added pars. (5) and (6).
 
-    Subsec. (e). [Pub. L. 109–58, § 251(3)][/us/pl/109/58/s251/3], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Within two years from December 24, 1980, the Secretary of Energy or any administrative official who may succeed him shall submit the comprehensive energy plan for each insular area to the Congress.”
+    Subsec. (e). [Pub. L. 109–58][/us/pl/109/58], § 251(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Within two years from December 24, 1980, the Secretary of Energy or any administrative official who may succeed him shall submit the comprehensive energy plan for each insular area to the Congress.”
 
-    Subsec. (g)(4). [Pub. L. 109–58, § 251(4)][/us/pl/109/58/s251/4], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding the requirements of [section 1469a(d) of this title][/us/usc/t48/s1469a/d], the Secretary shall require at least 20 percent of the costs of any project under this subsection to be provided from non-Federal sources. Such cost sharing may be in the form of in-kind services, donated equipment, or any combination thereof.”
+    Subsec. (g)(4). [Pub. L. 109–58][/us/pl/109/58], § 251(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding the requirements of [section 1469a(d) of this title][/us/usc/t48/s1469a/d], the Secretary shall require at least 20 percent of the costs of any project under this subsection to be provided from non-Federal sources. Such cost sharing may be in the form of in-kind services, donated equipment, or any combination thereof.”
 
     1992—Subsec. (g). [Pub. L. 102–486][/us/pl/102/486] added subsec. (g).
 
@@ -236,18 +236,18 @@
 ----------
 ----------
 
-[/us/pl/96/597/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2Fs604
+[/us/pl/96/597/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2FtVI
 [/us/stat/94/3480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3480
-[/us/pl/98/213/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs7
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1460
-[/us/pl/102/486/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2701
+[/us/pl/102/486/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXVII
 [/us/stat/106/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3118
-[/us/pl/109/58/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs251
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F679
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/109/58/s251/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs251%2F1
-[/us/pl/109/58/s251/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs251%2F3
-[/us/pl/109/58/s251/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs251%2F4
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t48/s1469a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469a%2Fd
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213

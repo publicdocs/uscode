@@ -27,7 +27,7 @@
 
         To the maximum extent practicable and consistent with the satisfactory performance of assigned duties under applicable law, the Attorney General, Secretary of Homeland Security, and the Secretary of Labor shall recruit and hire personnel from among qualified United States citizens and national applicants residing in the Commonwealth to serve as staff in carrying out operations described in paragraph (1).
 
-([Pub. L. 110–229, title VII, § 702(f)][/us/pl/110/229/s702/f], May 8, 2008, [122 Stat. 863][/us/stat/122/863].)
+([Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(f), May 8, 2008, [122 Stat. 863][/us/stat/122/863].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t48/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1806
-[/us/pl/110/229/s702/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Ff
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F863
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

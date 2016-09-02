@@ -17,7 +17,7 @@
 
     Acting pursuant to legislation enacted in accordance with section 9, article II of the American Samoan Revised Constitution, the territorial government will determine the order of names on the ballot for election of Delegate, the method by which a special election to fill a vacancy in the office of Delegate shall be conducted, the method by which ties between candidates for the office of Delegate shall be resolved, and all other matters of local application pertaining to the election and the office of Delegate not otherwise expressly provided for herein.
 
-([Pub. L. 95–556, § 4][/us/pl/95/556/s4], Oct. 31, 1978, [92 Stat. 2078][/us/stat/92/2078].)
+([Pub. L. 95–556][/us/pl/95/556], § 4, Oct. 31, 1978, [92 Stat. 2078][/us/stat/92/2078].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/556/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F556%2Fs4
+[/us/pl/95/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F556
 [/us/stat/92/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2078
 
 

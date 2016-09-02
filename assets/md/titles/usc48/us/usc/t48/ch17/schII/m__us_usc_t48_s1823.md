@@ -27,7 +27,7 @@
 
         The United States Court of Appeals for the Ninth Circuit shall have jurisdiction of appeals from all final decisions of the appellate division of the district court. The United States Court of Appeals for the Ninth Circuit shall have jurisdiction to promulgate rules necessary to carry out the provisions of this subsection.
 
-([Pub. L. 95–157, § 3][/us/pl/95/157/s3], Nov. 8, 1977, [91 Stat. 1266][/us/stat/91/1266]; [Pub. L. 98–454, title IX, § 903][/us/pl/98/454/s903], Oct. 5, 1984, [98 Stat. 1744][/us/stat/98/1744].)
+([Pub. L. 95–157][/us/pl/95/157], § 3, Nov. 8, 1977, [91 Stat. 1266][/us/stat/91/1266]; [Pub. L. 98–454, title IX][/us/pl/98/454/tIX], § 903, Oct. 5, 1984, [98 Stat. 1744][/us/stat/98/1744].)
 
  __References in Text__ 
 
@@ -58,9 +58,9 @@
 
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
 [/us/usc/t48/s1821/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1821%2Fb%2F2
-[/us/pl/95/157/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157%2Fs3
+[/us/pl/95/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157
 [/us/stat/91/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1266
-[/us/pl/98/454/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs903
+[/us/pl/98/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtIX
 [/us/stat/98/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1744
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

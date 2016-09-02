@@ -27,7 +27,7 @@
 
     (5) not be, on the date of the election, a candidate for any other office.
 
-([Pub. L. 110–229, title VII, § 713][/us/pl/110/229/s713], May 8, 2008, [122 Stat. 868][/us/stat/122/868].)
+([Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 713, May 8, 2008, [122 Stat. 868][/us/stat/122/868].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/229/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs713
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F868
 
 

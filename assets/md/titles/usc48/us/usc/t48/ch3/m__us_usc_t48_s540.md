@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Apr. 30, 1900, ch. 339, § 75][/us/act/1900-04-30/ch339/s75], [31 Stat. 155][/us/stat/31/155], which prescribed powers and duties of superintendent of public works, was omitted in view of admission of Hawaii into the Union.
+    Section, [act Apr. 30, 1900, ch. 339][/us/act/1900-04-30/ch339], § 75, [31 Stat. 155][/us/stat/31/155], which prescribed powers and duties of superintendent of public works, was omitted in view of admission of Hawaii into the Union.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1900-04-30/ch339/s75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs75
+[/us/act/1900-04-30/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339
 [/us/stat/31/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F155
 
 

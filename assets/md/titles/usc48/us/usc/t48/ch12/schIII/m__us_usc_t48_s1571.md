@@ -23,7 +23,7 @@
 
         The legislature shall be composed of members to be known as senators. The number of such senators shall be determined by the laws of the Virgin Islands. The apportionment of the legislature shall be as provided by the laws of the Virgin Islands: Provided, That such apportionment shall not deny to any person in the Virgin Islands the equal protection of the law: And provided further, That every voter in any district election or at large election shall be permitted to vote for the whole number of persons to be elected in that district election or at large election as the case may be. Until the legislature shall provide otherwise, four members shall be elected at large, five shall be elected from the District of Saint Thomas, five from the District of Saint Croix, and one from the District of Saint John, as those Districts were constituted on July 22, 1954,
 
-([July 22, 1954, ch. 558, § 5][/us/act/1954-07-22/ch558/s5], [68 Stat. 498][/us/stat/68/498]; [Pub. L. 89–548, § 1][/us/pl/89/548/s1], Aug. 30, 1966, [80 Stat. 371][/us/stat/80/371]; [Pub. L. 106–364, § 1][/us/pl/106/364/s1], Oct. 27, 2000, [114 Stat. 1408][/us/stat/114/1408].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 5, [68 Stat. 498][/us/stat/68/498]; [Pub. L. 89–548][/us/pl/89/548], § 1, Aug. 30, 1966, [80 Stat. 371][/us/stat/80/371]; [Pub. L. 106–364][/us/pl/106/364], § 1, Oct. 27, 2000, [114 Stat. 1408][/us/stat/114/1408].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–548, § 2][/us/pl/89/548/s2], Aug. 30, 1966, [80 Stat. 371][/us/stat/80/371], provided that: 
+[Pub. L. 89–548][/us/pl/89/548], § 2, Aug. 30, 1966, [80 Stat. 371][/us/stat/80/371], provided that: 
 
 > “This Act \[amending this section\] shall be effective with respect to the legislature to be elected at the regular general election in November 1966, and thereafter.”
 
@@ -44,15 +44,15 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs5
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F498
-[/us/pl/89/548/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F548%2Fs1
+[/us/pl/89/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F548
 [/us/stat/80/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F371
-[/us/pl/106/364/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F364%2Fs1
+[/us/pl/106/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F364
 [/us/stat/114/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1408
 [/us/pl/106/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F364
 [/us/pl/89/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F548
-[/us/pl/89/548/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F548%2Fs2
+[/us/pl/89/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F548
 [/us/stat/80/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F371
 
 

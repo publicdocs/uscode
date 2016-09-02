@@ -29,7 +29,7 @@
 
         The relations between such government and the Federal Government in all matters not the program responsibility of another Federal department or agency shall be under the general administrative supervision of the Secretary of the Interior.
 
-([July 22, 1954, ch. 558, § 2][/us/act/1954-07-22/ch558/s2], [68 Stat. 497][/us/stat/68/497]; [Pub. L. 90–496, § 13][/us/pl/90/496/s13], Aug. 23, 1968, [82 Stat. 842][/us/stat/82/842].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 2, [68 Stat. 497][/us/stat/68/497]; [Pub. L. 90–496][/us/pl/90/496], § 13, Aug. 23, 1968, [82 Stat. 842][/us/stat/82/842].)
 
  __References in Text__ 
 
@@ -45,31 +45,31 @@
 
  __Effective Date__ 
 
-[Act July 22, 1954, ch. 558, § 34][/us/act/1954-07-22/ch558/s34], [68 Stat. 510][/us/stat/68/510], provided that: 
+[Act July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 34, [68 Stat. 510][/us/stat/68/510], provided that: 
 
 > “This Act \[see Short Title note below\] shall take effect upon its approval \[July 22, 1954\], but until its provisions shall severally become operative as herein provided, the corresponding legislative, executive, and judicial functions of the existing government shall continue to be exercised as now provided by law or ordinance, and the incumbents of all offices under the government of the Virgin Islands shall continue in office until their successors are appointed and have qualified unless sooner removed by competent authority. The enactment of this Act shall not affect the term of office of the judge of the District Court of the Virgin Islands in office on the date of its enactment \[July 22, 1954\].”
 
  __Short Title of 1968 Amendment__ 
 
-[Pub. L. 90–496, § 17][/us/pl/90/496/s17], Aug. 23, 1968, [82 Stat. 842][/us/stat/82/842], provided that: 
+[Pub. L. 90–496][/us/pl/90/496], § 17, Aug. 23, 1968, [82 Stat. 842][/us/stat/82/842], provided that: 
 
 > “This Act \[enacting [section 336 of Title 10][/us/usc/t10/s336], Armed Forces, amending this section and sections 1561, 1572, 1573, 1574, 1575, 1591, 1593, 1595, 1597, 1599, and 1641 of this title, repealing sections 1594, 1596, and 1632 of this title, and enacting provisions set out as a note under [section 1591 of this title][/us/usc/t48/s1591]\] may be cited as the ‘Virgin Islands Elective Governor Act’.”
 
  __Short Title of 1959 Amendment__ 
 
-[Pub. L. 86–289, § 1][/us/pl/86/289/s1], Sept. 16, 1959, [73 Stat. 568][/us/stat/73/568], provided: 
+[Pub. L. 86–289][/us/pl/86/289], § 1, Sept. 16, 1959, [73 Stat. 568][/us/stat/73/568], provided: 
 
 > “That this Act \[amending sections 1573, 1597, and 1617 of this title\] may be cited as the ‘Virgin Islands Organic Act Amendments of 1959’.”
 
  __Short Title__ 
 
-[Act July 22, 1954, ch. 558, § 1][/us/act/1954-07-22/ch558/s1], [68 Stat. 497][/us/stat/68/497], provided that: 
+[Act July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 1, [68 Stat. 497][/us/stat/68/497], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 104 and 111 of Title 21, Food and Drugs, and sections 3350 of former Title 26, Internal Revenue Code (see [section 7652(b)(3) of Title 26][/us/usc/t26/s7652/b/3]), and enacting provisions set out as notes under this section\] may be cited as the ‘Revised Organic Act of the Virgin Islands’.”
 
  __Separability__ 
 
-[Act July 22, 1954, ch. 558, § 36][/us/act/1954-07-22/ch558/s36], [68 Stat. 510][/us/stat/68/510], provided that: 
+[Act July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 36, [68 Stat. 510][/us/stat/68/510], provided that: 
 
 > “If any clause, sentence, paragraph, or part of this Act \[see Short Title note above\], or the application thereof to any person, or circumstances, is held invalid, the application thereof to other persons, or circumstances, and the remainder of the Act, shall not be affected thereby.”
 
@@ -89,9 +89,9 @@
 ----------
 
 [/us/stat/39/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1706
-[/us/act/1954-07-22/ch558/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs2
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F497
-[/us/pl/90/496/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs13
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F842
 [/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F497
@@ -100,18 +100,18 @@
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/pl/90/496/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs16
 [/us/usc/t48/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1591
-[/us/act/1954-07-22/ch558/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs34
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F510
-[/us/pl/90/496/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs17
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F842
 [/us/usc/t10/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs336
 [/us/usc/t48/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1591
-[/us/pl/86/289/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289%2Fs1
+[/us/pl/86/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289
 [/us/stat/73/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F568
-[/us/act/1954-07-22/ch558/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs1
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F497
 [/us/usc/t26/s7652/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7652%2Fb%2F3
-[/us/act/1954-07-22/ch558/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs36
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F510
 [/us/pl/97/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F21
 [/us/stat/95/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F105

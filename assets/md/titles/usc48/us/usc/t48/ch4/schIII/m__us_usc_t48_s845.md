@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s823a.md) | [Next](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_ch4_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs845)
+[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s824...844.md) | [Next](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_ch4_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs845)
 
 ## § 845. Income tax laws; modification or repeal by legislature
 
@@ -27,7 +27,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act June 2, 1924, ch. 234, § 261][/us/act/1924-06-02/ch234/s261], [43 Stat. 294][/us/stat/43/294], prior to repeal by section 1200 of act Feb. 26, 1926, to take effect Jan. 1, 1925.
+    Provisions similar to those in this section were contained in [act June 2, 1924, ch. 234][/us/act/1924-06-02/ch234], § 261, [43 Stat. 294][/us/stat/43/294], prior to repeal by section 1200 of act Feb. 26, 1926, to take effect Jan. 1, 1925.
 
  __Change of Name__ 
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s823a.md) | [Next](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_ch4_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs845)
+[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s824...844.md) | [Next](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_ch4_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs845)
 
 ----------
 ----------
@@ -45,7 +45,7 @@
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
 [/us/usc/t48/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1055
-[/us/act/1924-06-02/ch234/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-02%2Fch234%2Fs261
+[/us/act/1924-06-02/ch234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-02%2Fch234
 [/us/stat/43/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F294
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a
 

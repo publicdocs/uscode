@@ -17,7 +17,7 @@
 
     The Territory of American Samoa shall be represented in the United States Congress by a nonvoting Delegate to the House of Representatives, elected as hereinafter provided.
 
-([Pub. L. 95–556, § 1][/us/pl/95/556/s1], Oct. 31, 1978, [92 Stat. 2078][/us/stat/92/2078].)
+([Pub. L. 95–556][/us/pl/95/556], § 1, Oct. 31, 1978, [92 Stat. 2078][/us/stat/92/2078].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/556/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F556%2Fs1
+[/us/pl/95/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F556
 [/us/stat/92/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2078
 
 

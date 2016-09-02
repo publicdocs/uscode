@@ -31,11 +31,11 @@
 
         Effective October 1, 1981, there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
-([Pub. L. 96–597, title VI, § 601][/us/pl/96/597/s601], Dec. 24, 1980, [94 Stat. 3479][/us/stat/94/3479]; [Pub. L. 103–437, § 17(a)(2)][/us/pl/103/437/s17/a/2], Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595].)
+([Pub. L. 96–597, title VI][/us/pl/96/597/tVI], § 601, Dec. 24, 1980, [94 Stat. 3479][/us/stat/94/3479]; [Pub. L. 103–437][/us/pl/103/437], § 17(a)(2), Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595].)
 
  __Codification__ 
 
-    In subsec. (a), “sections 1535 and 1536 of title 31” substituted in text for “the Economy Act ([31 U.S.C. 686][/us/usc/t31/s686])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “sections 1535 and 1536 of title 31” substituted in text for “the Economy Act ([31 U.S.C. 686][/us/usc/t31/s686])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/96/597/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2Fs601
+[/us/pl/96/597/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2FtVI
 [/us/stat/94/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3479
-[/us/pl/103/437/s17/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs17%2Fa%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4595
 [/us/usc/t31/s686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs686
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

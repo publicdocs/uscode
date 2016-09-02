@@ -17,11 +17,11 @@
 
     All articles coming into the United States from the Virgin Islands shall be subject to or exempt from duty as provided for in section 1301a  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 19 and subject to internal-revenue taxes as provided for in [section 7652(b) of title 26][/us/usc/t26/s7652/b].
 
-([July 22, 1954, ch. 558, § 28(d)][/us/act/1954-07-22/ch558/s28/d], [68 Stat. 509][/us/stat/68/509]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title IV, § 402(a), [68 Stat. 1140][/us/stat/68/1140]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 28(d), [68 Stat. 509][/us/stat/68/509]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title IV, § 402(a), [68 Stat. 1140][/us/stat/68/1140]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
-    [Section 1301a of title 19][/us/usc/t19/s1301a], referred to in text, was repealed by [Pub. L. 87–456, title III, § 301(a)][/us/pl/87/456/s301/a], May 24, 1962, [76 Stat. 75][/us/stat/76/75]. See General Headnote 3(a) under [section 1202 of Title 19][/us/usc/t19/s1202], Customs Duties.
+    [Section 1301a of title 19][/us/usc/t19/s1301a], referred to in text, was repealed by [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 301(a), May 24, 1962, [76 Stat. 75][/us/stat/76/75]. See General Headnote 3(a) under [section 1202 of Title 19][/us/usc/t19/s1202], Customs Duties.
 
  __Codification__ 
 
@@ -45,14 +45,14 @@
 ----------
 
 [/us/usc/t26/s7652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7652%2Fb
-[/us/act/1954-07-22/ch558/s28/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs28%2Fd
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F509
 [/us/act/1954-09-01/ch1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1213
 [/us/stat/68/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1140
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t19/s1301a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1301a
-[/us/pl/87/456/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs301%2Fa
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F75
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

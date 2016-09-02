@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Mar. 24, 1934, ch. 84, § 16][/us/act/1934-03-24/ch84/s16], [48 Stat. 464][/us/stat/48/464], was a saving clause, and has been transferred to a Separability note set out under [section 1391 of Title 22][/us/usc/t22/s1391], Foreign Relations and Intercourse.
+    Section, [act Mar. 24, 1934, ch. 84][/us/act/1934-03-24/ch84], § 16, [48 Stat. 464][/us/stat/48/464], was a saving clause, and has been transferred to a Separability note set out under [section 1391 of Title 22][/us/usc/t22/s1391], Foreign Relations and Intercourse.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-03-24/ch84/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84%2Fs16
+[/us/act/1934-03-24/ch84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84
 [/us/stat/48/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F464
 [/us/usc/t22/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1391
 

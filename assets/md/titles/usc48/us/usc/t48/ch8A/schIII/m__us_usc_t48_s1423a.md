@@ -27,11 +27,11 @@
 
     the Federal Financing Bank shall purchase such Guam Power Authority obligations if such Guam Power Authority obligations are issued to refinance the principal amount scheduled to mature on December 31, 1990. Should such second refinancing occur, (1) the independent rate-making authority to be established by the Government of Guam, or in its absence, the Board of Directors of the Guam Power Authority, shall establish rates sufficient to satisfy all financial obligations and future capital investment needs of the Guam Power Authority that shall be consistent with generally accepted rate-making practices of public utilities, and (2) the Government of Guam shall not modify the requirements of such refinancing agreement without agreement of the Secretary. There are authorized to be appropriated to the Secretary of the Interior for payment to the Federal Financing Bank such sums as are necessary to pay (1) the repurchase payment required under the fifth paragraph of the December 31, 1980, note from the Guam Power Authority to the Federal Financing Bank and any subsequent repurchase payments required under the second refinancing agreement, and (2) the interest rate differential between the seven per centum to be paid by the Guam Power Authority and the second refinancing agreement and the interest rate that would otherwise be determined in accordance with the above cited [section 2285 of title 12][/us/usc/t12/s2285]. Should the Guam Power Authority fail to pay in full any installment of interest or principal when due on the bonds or other obligations guaranteed under this section, the Secretary of the Treasury, upon notice from the Secretary shall deduct and pay to the Federal Financing Bank or the Secretary, according to their respective interests, such unpaid amounts from sums collected and payable pursuant to [section 1421h of this title][/us/usc/t48/s1421h]. Notwithstanding any other provision of law, Acts making appropriations may provide for the withholding of any payments from the United States to the government of Guam which may be or may become due pursuant to any law and offset the amount of such withheld payments against any claim the United States may have against the government of Guam or the Guam Power Authority pursuant to this guarantee. For the purpose of this chapter, under [section 3713(a) of title 31][/us/usc/t31/s3713/a] the term “person” includes the government of Guam and the Guam Power Authority. The Secretary may place such stipulations as he deems appropriate on the bonds or other obligations he guarantees.
 
-([Aug. 1, 1950, ch. 512, § 11][/us/act/1950-08-01/ch512/s11], [64 Stat. 387][/us/stat/64/387]; [Pub. L. 94–395][/us/pl/94/395], Sept. 3, 1976, [90 Stat. 1199][/us/stat/90/1199]; [Pub. L. 96–205, title III, § 303][/us/pl/96/205/s303], Mar. 12, 1980, [94 Stat. 88][/us/stat/94/88]; [Pub. L. 98–454, title II, § 203][/us/pl/98/454/s203], Oct. 5, 1984, [98 Stat. 1733][/us/stat/98/1733]; [Pub. L. 105–291, § 4][/us/pl/105/291/s4], Oct. 27, 1998, [112 Stat. 2786][/us/stat/112/2786].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 11, [64 Stat. 387][/us/stat/64/387]; [Pub. L. 94–395][/us/pl/94/395], Sept. 3, 1976, [90 Stat. 1199][/us/stat/90/1199]; [Pub. L. 96–205, title III][/us/pl/96/205/tIII], § 303, Mar. 12, 1980, [94 Stat. 88][/us/stat/94/88]; [Pub. L. 98–454, title II][/us/pl/98/454/tII], § 203, Oct. 5, 1984, [98 Stat. 1733][/us/stat/98/1733]; [Pub. L. 105–291][/us/pl/105/291], § 4, Oct. 27, 1998, [112 Stat. 2786][/us/stat/112/2786].)
 
  __Codification__ 
 
-    “[Section 3713(a) of title 31][/us/usc/t31/s3713/a]” substituted in text for “section 3466 of the Revised Statutes ([31 U.S.C. 191][/us/usc/t31/s191])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    “[Section 3713(a) of title 31][/us/usc/t31/s3713/a]” substituted in text for “section 3466 of the Revised Statutes ([31 U.S.C. 191][/us/usc/t31/s191])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -54,19 +54,19 @@
 [/us/usc/t12/s2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2285
 [/us/usc/t48/s1421h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421h
 [/us/usc/t31/s3713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3713%2Fa
-[/us/act/1950-08-01/ch512/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs11
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F387
 [/us/pl/94/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F395
 [/us/stat/90/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1199
-[/us/pl/96/205/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs303
+[/us/pl/96/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtIII
 [/us/stat/94/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F88
-[/us/pl/98/454/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs203
+[/us/pl/98/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtII
 [/us/stat/98/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1733
-[/us/pl/105/291/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F291%2Fs4
+[/us/pl/105/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F291
 [/us/stat/112/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2786
 [/us/usc/t31/s3713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3713%2Fa
 [/us/usc/t31/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs191
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/105/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F291
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454

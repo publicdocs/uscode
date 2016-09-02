@@ -89,7 +89,7 @@
 
         (5) No agreement between the United States and the Government of either the Federated States of Micronesia or the Marshall Islands which would amend, change, or terminate any subsidiary agreement or portion thereof, other than those set forth in subsection (d) of this section or paragraph (4) of this subsection shall take effect until the President has transmitted such agreement to the President of the Senate and the Speaker of the House of Representatives together with an explanation of the agreement and the reasons therefore.
 
-([Pub. L. 99–239, title I, § 101][/us/pl/99/239/s101], Jan. 14, 1986, [99 Stat. 1773][/us/stat/99/1773].)
+([Pub. L. 99–239, title I][/us/pl/99/239/tI], § 101, Jan. 14, 1986, [99 Stat. 1773][/us/stat/99/1773].)
 
  __References in Text__ 
 
@@ -107,31 +107,31 @@
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–149, § 1][/us/pl/112/149/s1], July 26, 2012, [126 Stat. 1144][/us/stat/126/1144], provided that: 
+[Pub. L. 112–149][/us/pl/112/149], § 1, July 26, 2012, [126 Stat. 1144][/us/stat/126/1144], provided that: 
 
 > “This Act \[amending [section 1921b of this title][/us/usc/t48/s1921b] and [section 297 of Title 28][/us/usc/t28/s297], Judiciary and Judicial Procedure, and amending provisions set out as notes under [section 206 of Title 29][/us/usc/t29/s206], Labor\] may be cited as the ‘Insular Areas Act of 2011’.”
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–188, § 1(a)][/us/pl/108/188/s1/a], Dec. 17, 2003, [117 Stat. 2721][/us/stat/117/2721], provided that: 
+[Pub. L. 108–188][/us/pl/108/188], § 1(a), Dec. 17, 2003, [117 Stat. 2721][/us/stat/117/2721], provided that: 
 
 > “This joint resolution \[enacting part B of this subchapter and provisions set out as notes under [section 1921 of this title][/us/usc/t48/s1921] and amending provisions set out as a note under [section 3101 of Title 5][/us/usc/t5/s3101], Government Organization and Employees\], together with the table of contents in subsection (b) of this section \[[117 Stat. 2721][/us/stat/117/2721]\], may be cited as the ‘Compact of Free Association Amendments Act of 2003’.”
 
  __Short Title__ 
 
-[Pub. L. 99–239, § 1(a)][/us/pl/99/239/s1/a], Jan. 14, 1986, [99 Stat. 1770][/us/stat/99/1770], provided that: 
+[Pub. L. 99–239][/us/pl/99/239], § 1(a), Jan. 14, 1986, [99 Stat. 1770][/us/stat/99/1770], provided that: 
 
 > “This joint resolution \[enacting this part, chapter 19 (§ 2001 et seq.) of this title, and provisions set out below\], together with the Table of Contents in subsection (b) of this section \[[99 Stat. 1770][/us/stat/99/1770]\], may be cited as the ‘Compact of Free Association Act of 1985’.”
 
  __Application of Federal Programs Under the Compacts of Free Association__ 
 
-[Pub. L. 106–504, § 3(a)][/us/pl/106/504/s3/a], Nov. 13, 2000, [114 Stat. 2312][/us/stat/114/2312], provided that: 
+[Pub. L. 106–504][/us/pl/106/504], § 3(a), Nov. 13, 2000, [114 Stat. 2312][/us/stat/114/2312], provided that: 
 
 > “The freely associated states of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, respectively, and citizens thereof, shall remain eligible for all Federal programs, grant assistance, and services of the United States, to the extent that such programs, grant assistance, and services are provided to States and local governments of the United States and residents of such States, for which a freely associated State or its citizens were eligible on October 1, 1999. This eligibility shall continue through the period of negotiations referred to in section 231 of the Compact of Free Association with the Republic of the Marshall Islands and the Federated States of Micronesia, approved in [Public Law 99–239][/us/pl/99/239] \[set out below\], and during consideration by the Congress of legislation submitted by an Executive branch agency as a result of such negotiations.”
 
  __Regulations Regarding Habitual Residence__ 
 
-    [Pub. L. 104–208, div. C, title VI, § 643][/us/pl/104/208/s643], Sept. 30, 1996, [110 Stat. 3009–708][/us/stat/110/3009-708], provided that, not later than 6 months after Sept. 30, 1996, the Commissioner of Immigration and Naturalization was to issue regulations governing rights of “habitual residence” in the United States under the terms of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia and the Compact of Free Association between the Government of the United States and the Government of Palau.
+    [Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 643, Sept. 30, 1996, [110 Stat. 3009–708][/us/stat/110/3009-708], provided that, not later than 6 months after Sept. 30, 1996, the Commissioner of Immigration and Naturalization was to issue regulations governing rights of “habitual residence” in the United States under the terms of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia and the Compact of Free Association between the Government of the United States and the Government of Palau.
 
  __Ratification of Certain Agreements Between United States and Governments of Republic of Marshall Islands and Federated States of Micronesia__ 
 
@@ -159,7 +159,7 @@
 
  __Compact of Free Association__ 
 
-[Pub. L. 99–239, title II, § 201][/us/pl/99/239/s201], Jan. 14, 1986, [99 Stat. 1800][/us/stat/99/1800], as amended by [Pub. L. 108–108, title I][/us/pl/108/108], Nov. 10, 2003, [117 Stat. 1261][/us/stat/117/1261], provided that: 
+[Pub. L. 99–239, title II][/us/pl/99/239/tII], § 201, Jan. 14, 1986, [99 Stat. 1800][/us/stat/99/1800], as amended by [Pub. L. 108–108, title I][/us/pl/108/108/tI], Nov. 10, 2003, [117 Stat. 1261][/us/stat/117/1261], provided that: 
 
 > “The Compact of Free Association is as follows:
 
@@ -541,7 +541,7 @@
 
 > “Article III __“Administrative Provisions__ 
 
-> “Section 231    “Upon the thirteenth anniversary of the effective date of this Compact, the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia shall commence negotiations regarding those provisions of this Compact which expire on the fifteenth anniversary of its effective date. The period for the enactment of legislation approving the agreements resulting from such negotiations shall extend through the earlier of the date of the enactment of such legislation or September 30, 2004, during which time the provisions of this Compact, including Title Three, shall remain in full force and effect. \[As amended [Pub. L. 108–108, title I][/us/pl/108/108], Nov. 10, 2003, [117 Stat. 1261][/us/stat/117/1261].\]
+> “Section 231    “Upon the thirteenth anniversary of the effective date of this Compact, the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia shall commence negotiations regarding those provisions of this Compact which expire on the fifteenth anniversary of its effective date. The period for the enactment of legislation approving the agreements resulting from such negotiations shall extend through the earlier of the date of the enactment of such legislation or September 30, 2004, during which time the provisions of this Compact, including Title Three, shall remain in full force and effect. \[As amended [Pub. L. 108–108, title I][/us/pl/108/108/tI], Nov. 10, 2003, [117 Stat. 1261][/us/stat/117/1261].\]
 
 > “Section 232    “The specific nature, extent and contractual arrangements of the services and programs provided for in Section 221 as well as the legal status of agencies of the Government of the United States, their civilian employees and contractors, and the dependents of such personnel while present in the Marshall Islands or the Federated States of Micronesia, and other arrangements in connection with a service or program furnished by the Government of the United States, are set forth in separate agreements which shall come into effect simultaneously with this Compact.
 
@@ -909,6 +909,12 @@
 
 >  __“done at honolulu, hawaii, this 1st day of__ 
 
+>  __“october, one thousand, nine hundred eighty-two__ 
+
+>  __“for the government__ 
+
+>  __“of__ 
+
 >  __“the united states of america__ 
 
 >     “ambassador fred m. zeder, ii
@@ -918,6 +924,12 @@
 >     “for micronesian status negotiations
 
 >  __“done at honolulu, hawaii, this 1st day of__ 
+
+>  __“october, one thousand, nine hundred eighty-two__ 
+
+>  __“for the government__ 
+
+>  __“of__ 
 
 >  __“the federated states of micronesia__ 
 
@@ -929,6 +941,12 @@
 
 >  __“done at majuro, marshall islands, this 25th day__ 
 
+>  __“of june, one thousand, nine hundred, eighty-three__ 
+
+>  __“for the government__ 
+
+>  __“of__ 
+
 >  __“the united states of america__ 
 
 >     “ambassador fred m. zeder, ii
@@ -939,6 +957,12 @@
 
 >  __“done at majuro, marshall islands, this 25th day__ 
 
+>  __“of june, one thousand, nine hundred eighty-three__ 
+
+>  __“for the government__ 
+
+>  __“of__ 
+
 >  __“the marshall islands__ 
 
 >     “president amata kabua
@@ -947,7 +971,7 @@
 
 >     “of the marshall islands”.
 
-    \[[Pub. L. 108–108, title I][/us/pl/108/108], Nov. 10, 2003, [117 Stat. 1261][/us/stat/117/1261], which directed amendment of [section 231 of Pub. L. 99–239][/us/pl/99/239/s231], was executed by amending section 231 of the Compact of Free Association, set out above, to reflect the probable intent of Congress. [Pub. L. 99–239][/us/pl/99/239], which sets out the Compact, does not contain a section 231.\]
+    \[[Pub. L. 108–108, title I][/us/pl/108/108/tI], Nov. 10, 2003, [117 Stat. 1261][/us/stat/117/1261], which directed amendment of [section 231 of Pub. L. 99–239][/us/pl/99/239/s231], was executed by amending section 231 of the Compact of Free Association, set out above, to reflect the probable intent of Congress. [Pub. L. 99–239][/us/pl/99/239], which sets out the Compact, does not contain a section 231.\]
 
     \[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8][/us/usc/t8/s1551], Aliens and Nationality.\]
 
@@ -1033,7 +1057,7 @@ Title IV of [Pub. L. 99–239][/us/pl/99/239] provided that:
 
 >     “(2) shall report the results of such study before October 1, 1987, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
->     \[The due date for the report referred to in [section 407 of Pub. L. 99–239][/us/pl/99/239/s407], set out above, was extended to Jan. 1, 1991 by [Pub. L. 101–508, title XI, § 11831(b)][/us/pl/101/508/s11831/b], Nov. 5, 1990, [104 Stat. 1388–559][/us/stat/104/1388-559].\]
+>     \[The due date for the report referred to in [section 407 of Pub. L. 99–239][/us/pl/99/239/s407], set out above, was extended to Jan. 1, 1991 by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11831(b), Nov. 5, 1990, [104 Stat. 1388–559][/us/stat/104/1388-559].\]
 
 > “SEC. 408. __COORDINATION WITH OTHER PROVISIONS.__ 
 
@@ -1105,7 +1129,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/usc/t48/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1902
 [/us/usc/t48/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1903
 [/us/pl/94/329/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb
-[/us/pl/99/239/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs101
+[/us/pl/99/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtI
 [/us/stat/99/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1773
 [/us/pl/99/239/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs201
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
@@ -1115,32 +1139,32 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/pl/94/329/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb
 [/us/stat/90/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F765
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/112/149/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F149%2Fs1
+[/us/pl/112/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F149
 [/us/stat/126/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1144
 [/us/usc/t48/s1921b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921b
 [/us/usc/t28/s297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs297
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
-[/us/pl/108/188/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs1%2Fa
+[/us/pl/108/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188
 [/us/stat/117/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2721
 [/us/usc/t48/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921
 [/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
 [/us/stat/117/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2721
-[/us/pl/99/239/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs1%2Fa
+[/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/stat/99/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1770
 [/us/stat/99/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1770
-[/us/pl/106/504/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504%2Fs3%2Fa
+[/us/pl/106/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504
 [/us/stat/114/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2312
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
-[/us/pl/104/208/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs643
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-708
 [/us/pl/101/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F62
 [/us/stat/103/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F162
 [/us/pl/99/239/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs101%2Fd
 [/us/usc/t48/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901%2Fd
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
-[/us/pl/99/239/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs201
+[/us/pl/99/239/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtII
 [/us/stat/99/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1800
-[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1261
 [/us/usc/t22/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4021
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
@@ -1174,14 +1198,14 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1261
 [/us/usc/t28/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1502
 [/us/usc/t14/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs195
 [/us/usc/t46/s51304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51304
 [/us/usc/t46/s51304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51304%2Fb%2F2
 [/us/stat/61/3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F3301
-[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1261
 [/us/pl/99/239/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs231
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
@@ -1197,7 +1221,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/usc/t26/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs911
 [/us/usc/t26/s274/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs274%2Fh%2F3%2FA
 [/us/pl/99/239/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs407
-[/us/pl/101/508/s11831/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11831%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-559
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/usc/t48/s1905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1905%2Fb%2F1

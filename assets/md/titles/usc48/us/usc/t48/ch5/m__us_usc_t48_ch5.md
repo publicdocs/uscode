@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch4/schVII/m__us_usc_t48_s916.md) | [Next](./../../../..//us/usc/t48/ch5/m__us_usc_t48_s1009.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch5)
+[Previous](./../../../..//us/usc/t48/ch4/schVII/m__us_usc_t48_s916.md) | [Next](./../../../..//us/usc/t48/ch5/m__us_usc_t48_s1001...1008.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch5)
 
 ## CHAPTER 5—PHILIPPINE ISLANDS
 
@@ -19,57 +19,14 @@
 
     Independence of Philippine Islands recognized and American sovereignty withdrawn by Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352], issued pursuant to [section 1394 of Title 22][/us/usc/t22/s1394], Foreign Relations and Intercourse, and set out under that section.
 
-§§ 1001 to 1008. __Omitted__ 
-
- __Codification__ 
-
-    Sections 1001 to 1008 were omitted in view of recognition of Philippine independence.
-
-    Section 1001, act Aug. 29, 1916, § 1, [39 Stat. 545][/us/stat/39/545], defined Philippine Islands.
-
-    Section 1002, [act Aug. 29, 1916, ch. 416, § 2][/us/act/1916-08-29/ch416/s2], [39 Stat. 546][/us/stat/39/546], related to Philippine citizenship.
-
-    Section 1003, [act Aug. 29, 1916, ch. 416, § 5][/us/act/1916-08-29/ch416/s5], [39 Stat. 547][/us/stat/39/547], related to application of statutory law of United States.
-
-    Section 1004, [act Aug. 29, 1916, ch. 416, § 6][/us/act/1916-08-29/ch416/s6], [39 Stat. 547][/us/stat/39/547], related to continuing force and effect of Philippine laws.
-
-    Section 1005, [act Aug. 29, 1916, ch. 416, § 7][/us/act/1916-08-29/ch416/s7], [39 Stat. 547][/us/stat/39/547], related to power of Philippine Legislature to modify, repeal, etc., laws.
-
-    Section 1006, [act Aug. 29, 1916, ch. 416, § 31][/us/act/1916-08-29/ch416/s31], [39 Stat. 556][/us/stat/39/556], related to laws continued in force.
-
-    Section 1007, [act Aug. 29, 1916, ch. 416, § 4][/us/act/1916-08-29/ch416/s4], [39 Stat. 547][/us/stat/39/547], related to payment of expenses of Philippine government.
-
-    Section 1007a, acts [Sept. 1, 1937, ch. 898][/us/act/1937-09-01/ch898], title V, § 503, [50 Stat. 915][/us/stat/50/915]; [Oct. 15, 1940, ch. 887][/us/act/1940-10-15/ch887], [54 Stat. 1178][/us/stat/54/1178], related to appropriations for financing program of economic adjustment.
-
-    Section 1008, [act Aug. 29, 1916, ch. 416, § 3][/us/act/1916-08-29/ch416/s3], [39 Stat. 546][/us/stat/39/546], related to a bill of rights and restrictions for Philippine Islands.
-
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch4/schVII/m__us_usc_t48_s916.md) | [Next](./../../../..//us/usc/t48/ch5/m__us_usc_t48_s1009.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch5)
+[Previous](./../../../..//us/usc/t48/ch4/schVII/m__us_usc_t48_s916.md) | [Next](./../../../..//us/usc/t48/ch5/m__us_usc_t48_s1001...1008.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch5)
 
 ----------
 ----------
 
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
-[/us/stat/39/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F545
-[/us/act/1916-08-29/ch416/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch416%2Fs2
-[/us/stat/39/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F546
-[/us/act/1916-08-29/ch416/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch416%2Fs5
-[/us/stat/39/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F547
-[/us/act/1916-08-29/ch416/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch416%2Fs6
-[/us/stat/39/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F547
-[/us/act/1916-08-29/ch416/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch416%2Fs7
-[/us/stat/39/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F547
-[/us/act/1916-08-29/ch416/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch416%2Fs31
-[/us/stat/39/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F556
-[/us/act/1916-08-29/ch416/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch416%2Fs4
-[/us/stat/39/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F547
-[/us/act/1937-09-01/ch898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch898
-[/us/stat/50/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F915
-[/us/act/1940-10-15/ch887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-15%2Fch887
-[/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
-[/us/act/1916-08-29/ch416/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch416%2Fs3
-[/us/stat/39/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F546
 
 

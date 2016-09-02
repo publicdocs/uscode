@@ -17,7 +17,7 @@
 
     Should the Secretary of the Interior believe that the performance standards of the agreement identified in [section 1803 of this title][/us/usc/t48/s1803] are not being met, he shall notify the Government of the Northern Mariana Islands in writing with the intent to resolve such issue in a mutually agreeable and expeditious manner and notify the Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. Should the issue not be resolved within thirty days after the notification is received by the Government of the Northern Mariana Islands, the Secretary of the Interior may request authority from Congress to withhold payment of an appropriate amount of the operations funds identified in the schedule of payments in paragraph 2 of part II of the Agreement of the Special Representatives for a period of less than one year but no funds shall be withheld except by Act of Congress.
 
-([Pub. L. 94–241, § 5][/us/pl/94/241/s5], as added [Pub. L. 99–396, § 10][/us/pl/99/396/s10], Aug. 27, 1986, [100 Stat. 841][/us/stat/100/841].)
+([Pub. L. 94–241][/us/pl/94/241], § 5, as added [Pub. L. 99–396][/us/pl/99/396], § 10, Aug. 27, 1986, [100 Stat. 841][/us/stat/100/841].)
 
  __Codification__ 
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t48/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1803
-[/us/pl/94/241/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs5
-[/us/pl/99/396/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs10
+[/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F841
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

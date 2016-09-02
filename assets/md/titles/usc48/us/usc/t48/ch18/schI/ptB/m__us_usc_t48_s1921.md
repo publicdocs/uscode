@@ -61,7 +61,7 @@
 
         No agreement between the United States and the government of either the Federated States of Micronesia or the Republic of the Marshall Islands which would amend, change, or terminate any subsidiary agreement or portion thereof, other than those set forth in subsection (d) of this section shall enter into force until 90 days after the President has transmitted such agreement to the President of the Senate and the Speaker of the House of Representatives together with an explanation of the agreement and the reasons therefor. In the case of the agreement referred to in section 462(b)(3) of the U.S.-FSM Compact and the U.S.-RMI Compact, such transmittal shall include a specific statement by the Secretary of Labor as to the necessity of such amendment, change, or termination, and the impact thereof.
 
-([Pub. L. 108–188, title I, § 101][/us/pl/108/188/s101], Dec. 17, 2003, [117 Stat. 2723][/us/stat/117/2723]; [Pub. L. 110–229, title VIII, § 801(a)][/us/pl/110/229/s801/a], May 8, 2008, [122 Stat. 869][/us/stat/122/869].)
+([Pub. L. 108–188, title I][/us/pl/108/188/tI], § 101, Dec. 17, 2003, [117 Stat. 2723][/us/stat/117/2723]; [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 801(a), May 8, 2008, [122 Stat. 869][/us/stat/122/869].)
 
  __References in Text__ 
 
@@ -73,19 +73,19 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–229, § 801(a)(1)][/us/pl/110/229/s801/a/1], inserted before period at end of first sentence “, including Article X of the Federal Programs and Services Agreement Between the Government of the United States and the Government of the Federated States of Micronesia, as amended under the Agreement to Amend Article X that was signed by those two Governments on June 30, 2004, which shall serve as the authority to implement the provisions thereof”.
+    2008—Subsec. (a). [Pub. L. 110–229][/us/pl/110/229], § 801(a)(1), inserted before period at end of first sentence “, including Article X of the Federal Programs and Services Agreement Between the Government of the United States and the Government of the Federated States of Micronesia, as amended under the Agreement to Amend Article X that was signed by those two Governments on June 30, 2004, which shall serve as the authority to implement the provisions thereof”.
 
-    Subsec. (b). [Pub. L. 110–229, § 801(a)(2)][/us/pl/110/229/s801/a/2], inserted before period at end of first sentence “, including Article X of the Federal Programs and Services Agreement Between the Government of the United States and the Government of the Republic of the Marshall Islands, as amended under the Agreement to Amend Article X that was signed by those two Governments on June 18, 2004, which shall serve as the authority to implement the provisions thereof”.
+    Subsec. (b). [Pub. L. 110–229][/us/pl/110/229], § 801(a)(2), inserted before period at end of first sentence “, including Article X of the Federal Programs and Services Agreement Between the Government of the United States and the Government of the Republic of the Marshall Islands, as amended under the Agreement to Amend Article X that was signed by those two Governments on June 18, 2004, which shall serve as the authority to implement the provisions thereof”.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–229, title VIII, § 801(b)][/us/pl/110/229/s801/b], May 8, 2008, [122 Stat. 870][/us/stat/122/870], provided that: 
+[Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 801(b), May 8, 2008, [122 Stat. 870][/us/stat/122/870], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall be effective as of the date that is 180 days after the date of enactment of this Act \[May 8, 2008\].”
 
  __Clarification of Tax-Free Status of Trust Funds__ 
 
-[Pub. L. 110–229, title VIII, § 809][/us/pl/110/229/s809], May 8, 2008, [122 Stat. 874][/us/stat/122/874], provided that: 
+[Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 809, May 8, 2008, [122 Stat. 874][/us/stat/122/874], provided that: 
 
 > “In the U.S.–RMI Compact \[[section 201(b) of Pub. L. 108–188][/us/pl/108/188/s201/b], set out below\], the U.S.–FSM Compact \[[section 201(a) of Pub. L. 108–188][/us/pl/108/188/s201/a], set out below\], and their respective trust fund subsidiary agreements, for the purposes of taxation by the United States or its subsidiary jurisdictions, the term ‘State’ means ‘State, territory, or the District of Columbia’.”
 
@@ -103,7 +103,7 @@
 
  __Compact of Free Association, as Amended, Between the Government of the United States of America and the Government of the Federated States of Micronesia__ 
 
-[Pub. L. 108–188, title II, § 201(a)][/us/pl/108/188/s201/a], Dec. 17, 2003, [117 Stat. 2757][/us/stat/117/2757], as amended by [Pub. L. 110–229, title VIII, § 806(b)(1)][/us/pl/110/229/s806/b/1], May 8, 2008, [122 Stat. 871][/us/stat/122/871], provided that: 
+[Pub. L. 108–188, title II][/us/pl/108/188/tII], § 201(a), Dec. 17, 2003, [117 Stat. 2757][/us/stat/117/2757], as amended by [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1), May 8, 2008, [122 Stat. 871][/us/stat/122/871], provided that: 
 
 > “The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia is as follows:
 
@@ -337,7 +337,7 @@
 
 >     “(c) Any claim not referred to in section 174(b) and arising from an act or omission of the Government of the Trust Territory of the Pacific Islands or the Government of the United States prior to the effective date of the Compact shall be adjudicated in the same manner as a claim adjudicated according to section 174(d). In any claim against the Government of the Trust Territory of the Pacific Islands, the Government of the United States shall stand in the place of the Government of the Trust Territory of the Pacific Islands. A judgment on any claim referred to in section 174(b) or this subsection, not otherwise satisfied by the Government of the United States, may be presented for certification to the United States Court of Appeals for the Federal Circuit, or its successor courts, which shall have jurisdiction therefore, notwithstanding the provisions of [28 U.S.C. 1502][/us/usc/t28/s1502], and which court’s decisions shall be reviewable as provided by the laws of the United States. The United States Court of Appeals for the Federal Circuit shall certify such judgment, and order payment thereof, unless it finds, after a hearing, that such judgment is manifestly erroneous as to law or fact, or manifestly excessive. In either of such cases the United States Court of Appeals for the Federal Circuit shall have jurisdiction to modify such judgment.
 
->     “(d) The Government of the Federated States of Micronesia shall not be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall not be immune from the jurisdiction of the courts of the Federated States of Micronesia in any civil case in which an exception to foreign state immunity is set forth in the Foreign Sovereign Immunities Act ([28 U.S.C. 1602][/us/usc/t28/s1602] et seq.) or its successor statutes. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(A)][/us/pl/110/229/s806/b/1/A], May 8, 2008, [122 Stat. 871][/us/stat/122/871].\]
+>     “(d) The Government of the Federated States of Micronesia shall not be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall not be immune from the jurisdiction of the courts of the Federated States of Micronesia in any civil case in which an exception to foreign state immunity is set forth in the Foreign Sovereign Immunities Act ([28 U.S.C. 1602][/us/usc/t28/s1602] et seq.) or its successor statutes. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(A), May 8, 2008, [122 Stat. 871][/us/stat/122/871].\]
 
 > “Section 175
 
@@ -355,7 +355,7 @@
 
 >     “ ‘(c) The Government of the United States shall provide to the Government of the Marshall Islands, on a grant basis, the amount of $150 million to be paid and distributed in accordance with the separate agreement referred to in this Section, and shall provide the services and programs set forth in this separate agreement, the language of which is incorporated into this Compact.’.
 
->     “The Compact, as amended, makes no changes to, and has no effect upon, Section 177 of the Compact, nor does the Compact, as amended, change or affect the separate agreement referred to in Section 177 of the Compact including Articles IX and X of that separate agreement, and measures taken by the parties thereunder. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(B)][/us/pl/110/229/s806/b/1/B], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
+>     “The Compact, as amended, makes no changes to, and has no effect upon, Section 177 of the Compact, nor does the Compact, as amended, change or affect the separate agreement referred to in Section 177 of the Compact including Articles IX and X of that separate agreement, and measures taken by the parties thereunder. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(B), May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
 > “Section 178
 
@@ -379,7 +379,7 @@
 
 >     “(a) The courts of the Federated States of Micronesia shall not exercise criminal jurisdiction over the Government of the United States, or its instrumentalities.
 
->     “(b) The courts of the Federated States of Micronesia shall not exercise criminal jurisdiction over any person if the Government of the United States provides notification to the Government of the Federated States of Micronesia that such person was acting on behalf of the Government of the United States, for actions taken in furtherance of section 221 or 224 of this Compact, as amended,, \[sic\] or any other provision of law authorizing financial, program, or service assistance to the Federated States of Micronesia. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(C)][/us/pl/110/229/s806/b/1/C], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
+>     “(b) The courts of the Federated States of Micronesia shall not exercise criminal jurisdiction over any person if the Government of the United States provides notification to the Government of the Federated States of Micronesia that such person was acting on behalf of the Government of the United States, for actions taken in furtherance of section 221 or 224 of this Compact, as amended,, \[sic\] or any other provision of law authorizing financial, program, or service assistance to the Federated States of Micronesia. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(C), May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
 > “TITLE TWO __“ECONOMIC RELATIONS__ 
 
@@ -431,7 +431,7 @@
 
 >     “(d)  __Disaster Assistance Emergency Fund__  __.—__ 
 
->     An amount of two hundred thousand dollars ($200,000) shall be provided annually, with an equal contribution from the Government of the Federated States of Micronesia, as a contribution to a ‘Disaster Assistance Emergency Fund (DAEF).’ Any funds from the DAEF may be used only for assistance and rehabilitation resulting from disasters and emergencies. The funds will be accessed upon declaration by the Government of the Federated States of Micronesia, with the concurrence of the United States Chief of Mission to the Federated States of Micronesia. The Administration of the DAEF shall be governed by the Fiscal Procedures Agreement and the Federal Programs and Services Agreement referred to in section 231. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(D)][/us/pl/110/229/s806/b/1/D], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
+>     An amount of two hundred thousand dollars ($200,000) shall be provided annually, with an equal contribution from the Government of the Federated States of Micronesia, as a contribution to a ‘Disaster Assistance Emergency Fund (DAEF).’ Any funds from the DAEF may be used only for assistance and rehabilitation resulting from disasters and emergencies. The funds will be accessed upon declaration by the Government of the Federated States of Micronesia, with the concurrence of the United States Chief of Mission to the Federated States of Micronesia. The Administration of the DAEF shall be governed by the Fiscal Procedures Agreement and the Federal Programs and Services Agreement referred to in section 231. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(D), May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
 > “Section 212
 
@@ -453,7 +453,7 @@
 
 >     “(b) The United States contribution into the Trust Fund described in subsection (a) of this section is conditioned on the Government of the Federated States of Micronesia contributing to the Trust Fund at least $30 million, prior to September 30, 2004. Any funds received by the Federated States of Micronesia under [section 111(d) of Public Law 99–239][/us/pl/99/239/s111/d] (January 14, 1986), or successor provisions, would be contributed to the Trust Fund as a Federated States of Micronesia contribution.
 
->     “(c) The terms regarding the investment and management of funds and use of the income of the Trust Fund shall be set forth in the separate Trust Fund Agreement described in subsection (a) of this section. Funds derived from United States investment shall not be subject to Federal or state taxes in the United States or the Federated States of Micronesia. The Trust Fund Agreement shall also provide for annual reports to the Government of the United States and to the Government of the Federated States of Micronesia. The Trust Fund Agreement shall provide for appropriate distributions of trust fund proceeds to the Federated States of Micronesia and for appropriate remedies for the failure of the Federated States of Micronesia to use income of the Trust Fund for the annual grant purposes set forth in section 211. These remedies may include the return to the United States of the present market value of its contributions to the Trust Fund and the present market value of any undistributed income on the contributions of the United States. If this Compact, as amended, is terminated, the provisions of sections 451 through 453 of this Compact, as amended, shall govern treatment of any U.S. contributions to the Trust Fund or accrued interest thereon. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(E)][/us/pl/110/229/s806/b/1/E], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
+>     “(c) The terms regarding the investment and management of funds and use of the income of the Trust Fund shall be set forth in the separate Trust Fund Agreement described in subsection (a) of this section. Funds derived from United States investment shall not be subject to Federal or state taxes in the United States or the Federated States of Micronesia. The Trust Fund Agreement shall also provide for annual reports to the Government of the United States and to the Government of the Federated States of Micronesia. The Trust Fund Agreement shall provide for appropriate distributions of trust fund proceeds to the Federated States of Micronesia and for appropriate remedies for the failure of the Federated States of Micronesia to use income of the Trust Fund for the annual grant purposes set forth in section 211. These remedies may include the return to the United States of the present market value of its contributions to the Trust Fund and the present market value of any undistributed income on the contributions of the United States. If this Compact, as amended, is terminated, the provisions of sections 451 through 453 of this Compact, as amended, shall govern treatment of any U.S. contributions to the Trust Fund or accrued interest thereon. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(E), May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
 > “Section 216 - Sector Grant Funding and Trust Fund Contributions    “The funds described in sections 211, 212(b) and 215 shall be made available as follows:
 
@@ -1055,9 +1055,9 @@
 
 >     “(d) Except as provided elsewhere in this Compact, as amended, under any separate agreement entered into under this Compact, as amended, or otherwise under U.S. law, all Federal domestic programs extended to or operating in the Federated States of Micronesia shall be subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicable to such programs and services when operating in the United States.
 
->     “(e) The Government of the United States shall make available to the Federated States of Micronesia alternate energy development projects, studies, and conservation measures to the extent provided for the Freely Associated States in the laws of the United States. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(F)][/us/pl/110/229/s806/b/1/F], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
+>     “(e) The Government of the United States shall make available to the Federated States of Micronesia alternate energy development projects, studies, and conservation measures to the extent provided for the Freely Associated States in the laws of the United States. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(F), May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
-> “Section 222    “The Government of the United States and the Government of the Federated States of Micronesia may agree from time to time to extend to the Federated States of Micronesia additional United States grant assistance, services and programs, as provided under the laws of the United States. Unless inconsistent with such laws, or otherwise specifically precluded by the Government of the United States at the time such additional grant assistance, services, or programs are extended, the Federal Programs and Services Agreement referred to in section 231 shall apply to any such assistance, services or programs. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(G)][/us/pl/110/229/s806/b/1/G], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
+> “Section 222    “The Government of the United States and the Government of the Federated States of Micronesia may agree from time to time to extend to the Federated States of Micronesia additional United States grant assistance, services and programs, as provided under the laws of the United States. Unless inconsistent with such laws, or otherwise specifically precluded by the Government of the United States at the time such additional grant assistance, services, or programs are extended, the Federal Programs and Services Agreement referred to in section 231 shall apply to any such assistance, services or programs. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(G), May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
 > “Section 223    “The Government of the Federated States of Micronesia shall make available to the Government of the United States at no cost such land as may be necessary for the operations of the services and programs provided pursuant to this Article, and such facilities as are provided by the Government of the Federated States of Micronesia at no cost to the Government of the United States as of the effective date of this Compact, as amended, or as may be mutually agreed thereafter.
 
@@ -1067,7 +1067,7 @@
 
 > “Section 231    “The specific nature, extent and contractual arrangements of the services and programs provided for in section 221 of this Compact, as amended, as well as the legal status of agencies of the Government of the United States, their civilian employees and contractors, and the dependents of such personnel while present in the Federated States of Micronesia, and other arrangements in connection with the assistance, services, or programs furnished by the Government of the United States, are set forth in a Federal Programs and Services Agreement which shall come into effect simultaneously with this Compact, as amended.
 
-> “Section 232    “The Government of the United States, in consultation with the Government of the Federated States of Micronesia, shall determine and implement procedures for the periodic audit of all grants and other assistance made under Article I of this Title and of all funds expended for the services and programs provided under Article II of this Title. Further, in accordance with the Fiscal Procedures Agreement described in subsection (a) of section 211, the Comptroller General of the United States shall have such powers and authorities as described in [section 102(b) of Public Law 108–188][/us/pl/108/188/s102/b], [117 Stat. 2726][/us/stat/117/2726], December 17, 2003. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(H)][/us/pl/110/229/s806/b/1/H], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
+> “Section 232    “The Government of the United States, in consultation with the Government of the Federated States of Micronesia, shall determine and implement procedures for the periodic audit of all grants and other assistance made under Article I of this Title and of all funds expended for the services and programs provided under Article II of this Title. Further, in accordance with the Fiscal Procedures Agreement described in subsection (a) of section 211, the Comptroller General of the United States shall have such powers and authorities as described in [section 102(b) of Public Law 108–188][/us/pl/108/188/s102/b], [117 Stat. 2726][/us/stat/117/2726], December 17, 2003. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(H), May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
 > “Section 233    “Approval of this Compact, as amended, by the Government of the United States, in accordance with its constitutional processes, shall constitute a pledge by the United States that the sums and amounts specified as sector grants in section 211 of this Compact, as amended, shall be appropriated and paid to the Federated States of Micronesia for such period as those provisions of this Compact, as amended, remain in force, subject to the terms and conditions of this Title and related subsidiary agreements.
 
@@ -1113,7 +1113,7 @@
 
 > “Section 251    “The currency of the United States is the official circulating legal tender of the Federated States of Micronesia. Should the Government of the Federated States of Micronesia act to institute another currency, the terms of an appropriate currency transitional period shall be as agreed with the Government of the United States.
 
-> “Section 252    “The Government of the Federated States of Micronesia may, with respect to United States persons, tax income derived from sources within its respective jurisdiction, property situated therein, including transfers of such property by gift or at death, and products consumed therein, in such manner as the Government of the Federated States of Micronesia deems appropriate. The determination of the source of any income, or the situs of any property, shall for purposes of this Compact, as amended, be made according to the United States Internal Revenue Code. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(I)][/us/pl/110/229/s806/b/1/I], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
+> “Section 252    “The Government of the Federated States of Micronesia may, with respect to United States persons, tax income derived from sources within its respective jurisdiction, property situated therein, including transfers of such property by gift or at death, and products consumed therein, in such manner as the Government of the Federated States of Micronesia deems appropriate. The determination of the source of any income, or the situs of any property, shall for purposes of this Compact, as amended, be made according to the United States Internal Revenue Code. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(I), May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
 > “Section 253    “A citizen of the Federated States of Micronesia, domiciled therein, shall be exempt from estate, gift, and generation-skipping transfer taxes imposed by the Government of the United States, provided that such citizen of the Federated States of Micronesia is neither a citizen nor a resident of the United States.
 
@@ -1205,7 +1205,7 @@
 
 > “Article IV __“Service in Armed Forces of the United States__ 
 
-> “Section 341    “Any person entitled to the privileges set forth in section 141 (with the exception of any person described in section 141(a)(5) who is not a citizen of the Federated States of Micronesia) shall be eligible to volunteer for service in the Armed Forces of the United States, but shall not be subject to involuntary induction into military service of the United States as long as such person has resided in the United States for a period of less than one year, provided that no time shall count towards this one year while a person admitted to the United States under the Compact, or the Compact, as amended, is engaged in full-time study in the United States. Any person described in section 141(a)(5) who is not a citizen of the Federated States of Micronesia shall be subject to United States laws relating to selective service. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(J)][/us/pl/110/229/s806/b/1/J], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
+> “Section 341    “Any person entitled to the privileges set forth in section 141 (with the exception of any person described in section 141(a)(5) who is not a citizen of the Federated States of Micronesia) shall be eligible to volunteer for service in the Armed Forces of the United States, but shall not be subject to involuntary induction into military service of the United States as long as such person has resided in the United States for a period of less than one year, provided that no time shall count towards this one year while a person admitted to the United States under the Compact, or the Compact, as amended, is engaged in full-time study in the United States. Any person described in section 141(a)(5) who is not a citizen of the Federated States of Micronesia shall be subject to United States laws relating to selective service. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(J), May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
 > “Section 342
 
@@ -1213,7 +1213,7 @@
 
 >     “(a) The United States Coast Guard Academy pursuant to [section 195 of title 14][/us/usc/t14/s195], United States Code.
 
->     “(b) The United States Merchant Marine Academy pursuant to section 1303(b)(6) of the Merchant Marine Act, 1936 (\[former\] 46 U.S.C. \[App.\] 1295b(b)(6)) \[see [46 U.S.C. 51304][/us/usc/t46/s51304]\], provided that the provisions of section 1303(b)(6)(C) of that Act \[now [46 U.S.C. 51304(b)(2)][/us/usc/t46/s51304/b/2]\] shall not apply to the enrollment of students pursuant to section 342(b) of this Compact, as amended. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(K)][/us/pl/110/229/s806/b/1/K], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
+>     “(b) The United States Merchant Marine Academy pursuant to section 1303(b)(6) of the Merchant Marine Act, 1936 (\[former\] 46 U.S.C. \[App.\] 1295b(b)(6)) \[see [46 U.S.C. 51304][/us/usc/t46/s51304]\], provided that the provisions of section 1303(b)(6)(C) of that Act \[now [46 U.S.C. 51304(b)(2)][/us/usc/t46/s51304/b/2]\] shall not apply to the enrollment of students pursuant to section 342(b) of this Compact, as amended. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(K), May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
 > “Article V __“General Provisions__ 
 
@@ -1249,7 +1249,7 @@
 
 >     “(b) The Government of the United States recognizes, in view of the special relationship between the Government of the United States and the Government of the Federated States of Micronesia, and in view of the existence of the separate agreement regarding mutual security concluded with the Government of the Federated States of Micronesia pursuant to sections 321 and 323, that, even if this Title should terminate, any attack on the Federated States of Micronesia during the period in which such separate agreement is in effect, would constitute a threat to the peace and security of the entire region and a danger to the United States. In the event of such an attack, the Government of the United States would take action to meet the danger to the United States and to the Federated States of Micronesia in accordance with its constitutional processes.
 
->     “(c) As reflected in Article 21(1)(b) of the Trust Fund Agreement, the Government of the United States and the Government of the Federated States of Micronesia further recognize, in view of the special relationship between their countries, that even if this Title should terminate, the Government of the Federated States of Micronesia shall refrain from actions which the Government of the United States determines, after appropriate consultation with that Government, to be incompatible with its authority and responsibility for security and defense matters in or relating to the Federated States of Micronesia or the Republic of the Marshall Islands. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(L)][/us/pl/110/229/s806/b/1/L], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
+>     “(c) As reflected in Article 21(1)(b) of the Trust Fund Agreement, the Government of the United States and the Government of the Federated States of Micronesia further recognize, in view of the special relationship between their countries, that even if this Title should terminate, the Government of the Federated States of Micronesia shall refrain from actions which the Government of the United States determines, after appropriate consultation with that Government, to be incompatible with its authority and responsibility for security and defense matters in or relating to the Federated States of Micronesia or the Republic of the Marshall Islands. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(L), May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
 > “TITLE FOUR __“GENERAL PROVISIONS__ 
 
@@ -1399,7 +1399,7 @@
 
 >     “(j) ‘Tariff Schedules of the United States’ means the Tariff Schedules of the United States as amended from time to time and as promulgated pursuant to United States law and includes the Tariff Schedules of the United States Annotated (TSUSA), as amended.
 
->     “(k) ‘Vienna Convention on Diplomatic Relations’ means the Vienna Convention on Diplomatic Relations, done April 18, 1961, 23 U.S.T. 3227, T.I.A.S. 7502, 500 U.N.T.S. 95. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(M)][/us/pl/110/229/s806/b/1/M], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
+>     “(k) ‘Vienna Convention on Diplomatic Relations’ means the Vienna Convention on Diplomatic Relations, done April 18, 1961, 23 U.S.T. 3227, T.I.A.S. 7502, 500 U.N.T.S. 95. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(M), May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
 > “Section 462
 
@@ -1445,13 +1445,13 @@
 
 >         “(6) Agreement Regarding the Military Use and Operating Rights of the Government of the United States in the Federated States of Micronesia Concluded Pursuant to Sections 211(b), 321 and 323 of the Compact of Free Association, as Amended; and the
 
->         “(7) Status of Forces Agreement Between the Government of the United States of America and the Government of the Federated States of Micronesia Concluded Pursuant to Section 323 of the Compact of Free Association, as Amended. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(N)][/us/pl/110/229/s806/b/1/N], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
+>         “(7) Status of Forces Agreement Between the Government of the United States of America and the Government of the Federated States of Micronesia Concluded Pursuant to Section 323 of the Compact of Free Association, as Amended. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(N), May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
 > “Section 463
 
 >     “(a) Except as set forth in subsection (b) of this section, any reference in this Compact, as amended, to a provision of the United States Code or the Statutes at Large of the United States constitutes the incorporation of the language of such provision into this Compact, as amended, as such provision was in force on the effective date of this Compact, as amended.
 
->     “(b) Any reference in Article IV and Article VI of Title One and Sections 174, 175, 178 and 342 to a provision of the United States Code or the Statutes at Large of the United States or to the Privacy Act, the Freedom of Information Act, the Administrative Procedure Act or the Immigration and Nationality Act constitutes the incorporation of the language of such provision into this Compact, as amended, as such provision was in force on the effective date of this Compact, as amended, or as it may be amended thereafter on a non-discriminatory basis according to the constitutional processes of the United States. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(O)][/us/pl/110/229/s806/b/1/O], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
+>     “(b) Any reference in Article IV and Article VI of Title One and Sections 174, 175, 178 and 342 to a provision of the United States Code or the Statutes at Large of the United States or to the Privacy Act, the Freedom of Information Act, the Administrative Procedure Act or the Immigration and Nationality Act constitutes the incorporation of the language of such provision into this Compact, as amended, as such provision was in force on the effective date of this Compact, as amended, or as it may be amended thereafter on a non-discriminatory basis according to the constitutional processes of the United States. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(1)(O), May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
 > “Article VII __“Concluding Provisions__ 
 
@@ -1489,7 +1489,7 @@
 
  __Compact of Free Association, as Amended, Between the Government of the United States of America and the Government of the Republic of the Marshall Islands__ 
 
-[Pub. L. 108–188, title II, § 201(b)][/us/pl/108/188/s201/b], Dec. 17, 2003, [117 Stat. 2795][/us/stat/117/2795], as amended by [Pub. L. 110–229, title VIII, § 806(b)(2)][/us/pl/110/229/s806/b/2], May 8, 2008, [122 Stat. 873][/us/stat/122/873], provided that: 
+[Pub. L. 108–188, title II][/us/pl/108/188/tII], § 201(b), Dec. 17, 2003, [117 Stat. 2795][/us/stat/117/2795], as amended by [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2), May 8, 2008, [122 Stat. 873][/us/stat/122/873], provided that: 
 
 > “The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands is as follows:
 
@@ -1723,7 +1723,7 @@
 
 >     “(c) Any claim not referred to in section 174(b) and arising from an act or omission of the Government of the Trust Territory of the Pacific Islands or the Government of the United States prior to the effective date of the Compact shall be adjudicated in the same manner as a claim adjudicated according to section 174(d). In any claim against the Government of the Trust Territory of the Pacific Islands, the Government of the United States shall stand in the place of the Government of the Trust Territory of the Pacific Islands. A judgment on any claim referred to in section 174(b) or this subsection, not otherwise satisfied by the Government of the United States, may be presented for certification to the United States Court of Appeals for the Federal Circuit, or its successor courts, which shall have jurisdiction therefore, notwithstanding the provisions of [28 U.S.C. 1502][/us/usc/t28/s1502], and which court’s decisions shall be reviewable as provided by the laws of the United States. The United States Court of Appeals for the Federal Circuit shall certify such judgment, and order payment thereof, unless it finds, after a hearing, that such judgment is manifestly erroneous as to law or fact, or manifestly excessive. In either of such cases the United States Court of Appeals for the Federal Circuit shall have jurisdiction to modify such judgment.
 
->     “(d) The Government of the Republic of the Marshall Islands shall not be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall not be immune from the jurisdiction of the courts of the Republic of the Marshall Islands in any civil case in which an exception to foreign state immunity is set forth in the Foreign Sovereign Immunities Act ([28 U.S.C. 1602][/us/usc/t28/s1602] et seq.) or its successor statutes. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(A)][/us/pl/110/229/s806/b/2/A], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
+>     “(d) The Government of the Republic of the Marshall Islands shall not be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall not be immune from the jurisdiction of the courts of the Republic of the Marshall Islands in any civil case in which an exception to foreign state immunity is set forth in the Foreign Sovereign Immunities Act ([28 U.S.C. 1602][/us/usc/t28/s1602] et seq.) or its successor statutes. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(A), May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
 > “Section 175
 
@@ -1741,7 +1741,7 @@
 
 >     “ ‘(c) The Government of the United States shall provide to the Government of the Marshall Islands, on a grant basis, the amount of $150 million to be paid and distributed in accordance with the separate agreement referred to in this Section, and shall provide the services and programs set forth in this separate agreement, the language of which is incorporated into this Compact.’.
 
->     The Compact, as amended, makes no changes to, and has no effect upon, Section 177 of the Compact, nor does the Compact, as amended, change or affect the separate agreement referred to in Section 177 of the Compact including Articles IX and X of that separate agreement, and measures taken by the parties thereunder. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(B)][/us/pl/110/229/s806/b/2/B], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
+>     The Compact, as amended, makes no changes to, and has no effect upon, Section 177 of the Compact, nor does the Compact, as amended, change or affect the separate agreement referred to in Section 177 of the Compact including Articles IX and X of that separate agreement, and measures taken by the parties thereunder. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(B), May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
 > “Section 178
 
@@ -1765,7 +1765,7 @@
 
 >     “(a) The courts of the Republic of the Marshall Islands shall not exercise criminal jurisdiction over the Government of the United States, or its instrumentalities.
 
->     “(b) The courts of the Republic of the Marshall Islands shall not exercise criminal jurisdiction over any person if the Government of the United States provides notification to the Government of the Republic of the Marshall Islands that such person was acting on behalf of the Government of the United States, for actions taken in furtherance of section 221 or 224 of this Compact, as amended, or any other provision of law authorizing financial, program, or service assistance to the Republic of the Marshall Islands. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(C)][/us/pl/110/229/s806/b/2/C], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
+>     “(b) The courts of the Republic of the Marshall Islands shall not exercise criminal jurisdiction over any person if the Government of the United States provides notification to the Government of the Republic of the Marshall Islands that such person was acting on behalf of the Government of the United States, for actions taken in furtherance of section 221 or 224 of this Compact, as amended, or any other provision of law authorizing financial, program, or service assistance to the Republic of the Marshall Islands. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(C), May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
 > “TITLE TWO __“ECONOMIC RELATIONS__ 
 
@@ -1825,7 +1825,7 @@
 
 >     “(f)  __Budget and Investment Framework__  __.—__ 
 
->     The Government of the Republic of the Marshall Islands shall prepare and maintain an official medium-term budget and investment framework. The framework shall be strategic in nature, shall be continuously reviewed and updated through the annual budget process, and shall make projections on a multi-year rolling basis. Each of the sectors and areas named in subsections (a), (b), and (d) of this section, or other sectors and areas as mutually agreed, shall be accorded specific treatment in the framework. Those portions of the framework that contemplate the use of United States grant funds shall require the concurrence of both the Government of the United States and the Government of the Republic of the Marshall Islands. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(D)][/us/pl/110/229/s806/b/2/D], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
+>     The Government of the Republic of the Marshall Islands shall prepare and maintain an official medium-term budget and investment framework. The framework shall be strategic in nature, shall be continuously reviewed and updated through the annual budget process, and shall make projections on a multi-year rolling basis. Each of the sectors and areas named in subsections (a), (b), and (d) of this section, or other sectors and areas as mutually agreed, shall be accorded specific treatment in the framework. Those portions of the framework that contemplate the use of United States grant funds shall require the concurrence of both the Government of the United States and the Government of the Republic of the Marshall Islands. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(D), May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
 > “Section 212 - Kwajalein Impact and Use    “The Government of the United States shall provide to the Government of the Republic of the Marshall Islands in conjunction with section 321(a) of the Compact, as amended, and the agreement between the Government of the United States and the Government of the Republic of the Marshall Islands regarding military use and operating rights, a payment in fiscal year 2004 of $15,000,000, with no adjustment for inflation. In fiscal year 2005 and through fiscal year 2013, the annual payment will be the fiscal year 2004 amount ($15,000,000) with an inflation adjustment as provided under section 218. In fiscal year 2014, the annual payment will be $18,000,000 (with no adjustment for inflation) or the fiscal year 2013 amount with an inflation adjustment under section 218, whichever is greater. For fiscal year 2015 through fiscal year 2023 (and thereafter in accordance with the Agreement between the Government of the United States and the Government of the Republic of the Marshall Islands Regarding Military Use and Operating Rights) the annual payment will be the fiscal year 2014 amount, with an inflation adjustment as provided under section 218.
 
@@ -2533,7 +2533,7 @@
 
 >     “(d) Except as provided elsewhere in this Compact, as amended, under any separate agreement entered into under this Compact, as amended, or otherwise under U.S. law, all Federal domestic programs extended to or operating in the Republic of the Marshall Islands shall be subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicable to such programs and services when operating in the United States.
 
->     “(e) The Government of the United States shall make available to the Republic of the Marshall Islands alternate energy development projects, studies, and conservation measures to the extent provided for the Freely Associated States in the laws of the United States. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(E)][/us/pl/110/229/s806/b/2/E], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
+>     “(e) The Government of the United States shall make available to the Republic of the Marshall Islands alternate energy development projects, studies, and conservation measures to the extent provided for the Freely Associated States in the laws of the United States. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(E), May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
 > “Section 222    “The Government of the United States and the Government of the Republic of the Marshall Islands may agree from time to time to extend to the Republic of the Marshall Islands additional United States grant assistance, services and programs, as provided under the laws of the United States. Unless inconsistent with such laws, or otherwise specifically precluded by the Government of the United States at the time such additional grant assistance, services, or programs are extended, the Federal Programs and Services Agreement shall apply to any such assistance, services or programs.
 
@@ -2545,7 +2545,7 @@
 
 > “Section 231    “The specific nature, extent and contractual arrangements of the services and programs provided for in section 221 of this Compact, as amended, as well as the legal status of agencies of the Government of the United States, their civilian employees and contractors, and the dependents of such personnel while present in the Republic of the Marshall Islands, and other arrangements in connection with the assistance, services, or programs furnished by the Government of the United States, are set forth in a Federal Programs and Services Agreement which shall come into effect simultaneously with this Compact, as amended.
 
-> “Section 232    “The Government of the United States, in consultation with the Government of the Republic of the Marshall Islands, shall determine and implement procedures for the periodic audit of all grants and other assistance made under Article I of this Title and of all funds expended for the services and programs provided under Article II of this Title. Further, in accordance with the Fiscal Procedures Agreement described in subsection (a) of section 211, the Comptroller General of the United States shall have such powers and authorities as described in [section 103(k) of Public Law 108–188][/us/pl/108/188/s103/k], [117 Stat. 2734][/us/stat/117/2734], December 17, 2003. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(F)][/us/pl/110/229/s806/b/2/F], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
+> “Section 232    “The Government of the United States, in consultation with the Government of the Republic of the Marshall Islands, shall determine and implement procedures for the periodic audit of all grants and other assistance made under Article I of this Title and of all funds expended for the services and programs provided under Article II of this Title. Further, in accordance with the Fiscal Procedures Agreement described in subsection (a) of section 211, the Comptroller General of the United States shall have such powers and authorities as described in [section 103(k) of Public Law 108–188][/us/pl/108/188/s103/k], [117 Stat. 2734][/us/stat/117/2734], December 17, 2003. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(F), May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
 > “Section 233    “Approval of this Compact, as amended, by the Government of the United States, in accordance with its constitutional processes, shall constitute a pledge by the United States that the sums and amounts specified as grants in section 211 of this Compact, as amended, shall be appropriated and paid to the Republic of the Marshall Islands for such period as those provisions of this Compact, as amended, remain in force, provided that the Republic of the Marshall Islands complies with the terms and conditions of this Title and related subsidiary agreements.
 
@@ -2683,7 +2683,7 @@
 
 > “Article IV __“Service in Armed Forces of the United States__ 
 
-> “Section 341    “Any person entitled to the privileges set forth in section 141 (with the exception of any person described in section 141(a)(5) who is not a citizen of the Republic of the Marshall Islands) shall be eligible to volunteer for service in the Armed Forces of the United States, but shall not be subject to involuntary induction into military service of the United States as long as such person has resided in the United States for a period of less than one year, provided that no time shall count towards this one year while a person admitted to the United States under the Compact, or the Compact, as amended, is engaged in full-time study in the United States. Any person described in section 141(a)(5) who is not a citizen of the Republic of the Marshall Islands shall be subject to United States laws relating to selective service. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(G)][/us/pl/110/229/s806/b/2/G], May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
+> “Section 341    “Any person entitled to the privileges set forth in section 141 (with the exception of any person described in section 141(a)(5) who is not a citizen of the Republic of the Marshall Islands) shall be eligible to volunteer for service in the Armed Forces of the United States, but shall not be subject to involuntary induction into military service of the United States as long as such person has resided in the United States for a period of less than one year, provided that no time shall count towards this one year while a person admitted to the United States under the Compact, or the Compact, as amended, is engaged in full-time study in the United States. Any person described in section 141(a)(5) who is not a citizen of the Republic of the Marshall Islands shall be subject to United States laws relating to selective service. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(G), May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
 
 > “Section 342
 
@@ -2691,7 +2691,7 @@
 
 >     “(a) The United States Coast Guard Academy pursuant to [section 195 of title 14][/us/usc/t14/s195], United States Code.
 
->     “(b) The United States Merchant Marine Academy pursuant to section 1303(b)(6) of the Merchant Marine Act, 1936 (\[former\] 46 U.S.C. \[App.\] 1295b(b)(6)) \[see [46 U.S.C. 51304][/us/usc/t46/s51304]\], provided that the provisions of section 1303(b)(6)(C) of that Act \[now [46 U.S.C. 51304(b)(2)][/us/usc/t46/s51304/b/2]\] shall not apply to the enrollment of students pursuant to section 342(b) of this Compact, as amended. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(H)][/us/pl/110/229/s806/b/2/H], May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
+>     “(b) The United States Merchant Marine Academy pursuant to section 1303(b)(6) of the Merchant Marine Act, 1936 (\[former\] 46 U.S.C. \[App.\] 1295b(b)(6)) \[see [46 U.S.C. 51304][/us/usc/t46/s51304]\], provided that the provisions of section 1303(b)(6)(C) of that Act \[now [46 U.S.C. 51304(b)(2)][/us/usc/t46/s51304/b/2]\] shall not apply to the enrollment of students pursuant to section 342(b) of this Compact, as amended. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(H), May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
 
 > “Article V __“General Provisions__ 
 
@@ -2727,7 +2727,7 @@
 
 >     “(b) The Government of the United States recognizes, in view of the special relationship between the Government of the United States and the Government of the Republic of the Marshall Islands, and in view of the existence of the separate agreement regarding mutual security concluded with the Government of the Republic of the Marshall Islands pursuant to sections 321 and 323, that, even if this Title should terminate, any attack on the Republic of the Marshall Islands during the period in which such separate agreement is in effect, would constitute a threat to the peace and security of the entire region and a danger to the United States. In the event of such an attack, the Government of the United States would take action to meet the danger to the United States and to the Republic of the Marshall Islands in accordance with its constitutional processes.
 
->     “(c) As reflected in Article 21(1)(b) of the Trust Fund Agreement, the Government of the United States and the Government of the Republic of the Marshall Islands further recognize, in view of the special relationship between their countries, that even if this Title should terminate, the Government of Republic of the Marshall Islands shall refrain from actions which the Government of the United States determines, after appropriate consultation with that Government, to be incompatible with its authority and responsibility for security and defense matters in or relating to the Republic of the Marshall Islands or the Federated States of Micronesia. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(I)][/us/pl/110/229/s806/b/2/I], May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
+>     “(c) As reflected in Article 21(1)(b) of the Trust Fund Agreement, the Government of the United States and the Government of the Republic of the Marshall Islands further recognize, in view of the special relationship between their countries, that even if this Title should terminate, the Government of Republic of the Marshall Islands shall refrain from actions which the Government of the United States determines, after appropriate consultation with that Government, to be incompatible with its authority and responsibility for security and defense matters in or relating to the Republic of the Marshall Islands or the Federated States of Micronesia. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(I), May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
 
 > “TITLE FOUR __“GENERAL PROVISIONS__ 
 
@@ -2773,7 +2773,7 @@
 
 > “Section 442    “Subject to section 452, this Compact, as amended, may be terminated by the Government of the United States in accordance with its constitutional processes. Such termination shall be effective on the date specified in the notice of termination by the Government of the United States but not earlier than six months following delivery of such notice. The time specified in the notice of termination may be extended. Such termination of this Compact, as amended, shall be without prejudice to the continued application of section 452 of this Compact, as amended, and the provisions of the Compact, as amended, set forth therein.
 
-> “Section 443    “This Compact, as amended, shall be terminated by the Government of the Republic of the Marshall Islands, pursuant to its constitutional processes, subject to section 453 if the people represented by that Government vote in a plebiscite to terminate the Compact, as amended.. \[sic\] The Government of the Republic of the Marshall Islands shall notify the Government of the United States of its intention to call such a plebiscite, which shall take place not earlier than three months after delivery of such notice. The plebiscite shall be administered by the Government of the Republic of the Marshall Islands in accordance with its constitutional and legislative processes, but the Government of the United States may send its own observers and invite observers from a mutually agreed party. If a majority of the valid ballots cast in the plebiscite favors termination, the Government of the Republic of the Marshall Islands shall, upon certification of the results of the plebiscite, give notice of termination to the Government of the United States, such termination to be effective on the date specified in such notice but not earlier than three months following the date of delivery of such notice. The time specified in the notice of termination may be extended. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(J)][/us/pl/110/229/s806/b/2/J], May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
+> “Section 443    “This Compact, as amended, shall be terminated by the Government of the Republic of the Marshall Islands, pursuant to its constitutional processes, subject to section 453 if the people represented by that Government vote in a plebiscite to terminate the Compact, as amended.. \[sic\] The Government of the Republic of the Marshall Islands shall notify the Government of the United States of its intention to call such a plebiscite, which shall take place not earlier than three months after delivery of such notice. The plebiscite shall be administered by the Government of the Republic of the Marshall Islands in accordance with its constitutional and legislative processes, but the Government of the United States may send its own observers and invite observers from a mutually agreed party. If a majority of the valid ballots cast in the plebiscite favors termination, the Government of the Republic of the Marshall Islands shall, upon certification of the results of the plebiscite, give notice of termination to the Government of the United States, such termination to be effective on the date specified in such notice but not earlier than three months following the date of delivery of such notice. The time specified in the notice of termination may be extended. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(J), May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
 
 > “Article V __“Survivability__ 
 
@@ -2877,7 +2877,7 @@
 
 >     “(j) ‘Tariff Schedules of the United States’ means the Tariff Schedules of the United States as amended from time to time and as promulgated pursuant to United States law and includes the Tariff Schedules of the United States Annotated (TSUSA), as amended.
 
->     “(k) ‘Vienna Convention on Diplomatic Relations’ means the Vienna Convention on Diplomatic Relations, done April 18, 1961, 23 U.S.T. 3227, T.I.A.S. 7502, 500 U.N.T.S. 95. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(K)][/us/pl/110/229/s806/b/2/K], May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
+>     “(k) ‘Vienna Convention on Diplomatic Relations’ means the Vienna Convention on Diplomatic Relations, done April 18, 1961, 23 U.S.T. 3227, T.I.A.S. 7502, 500 U.N.T.S. 95. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(K), May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
 
 > “Section 462
 
@@ -2931,7 +2931,7 @@
 
 >     “(a) Except as set forth in subsection (b) of this section, any reference in this Compact, as amended, to a provision of the United States Code or the Statutes at Large of the United States constitutes the incorporation of the language of such provision into this Compact, as amended, as such provision was in force on the effective date of this Compact, as amended.
 
->     “(b) Any reference in Articles IV and VI of Title One, and Sections 174, 175, 178 and 342 to a provision of the United States Code or the Statutes at Large of the United States or to the Privacy Act, the Freedom of Information Act, the Administrative Procedure Act or the Immigration and Nationality Act constitutes the incorporation of the language of such provision into this Compact, as amended, as such provision was in force on the effective date of this Compact, as amended, or as it may be amended thereafter on a non-discriminatory basis according to the constitutional processes of the United States. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(L)][/us/pl/110/229/s806/b/2/L], May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
+>     “(b) Any reference in Articles IV and VI of Title One, and Sections 174, 175, 178 and 342 to a provision of the United States Code or the Statutes at Large of the United States or to the Privacy Act, the Freedom of Information Act, the Administrative Procedure Act or the Immigration and Nationality Act constitutes the incorporation of the language of such provision into this Compact, as amended, as such provision was in force on the effective date of this Compact, as amended, or as it may be amended thereafter on a non-discriminatory basis according to the constitutional processes of the United States. \[As amended [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(L), May 8, 2008, [122 Stat. 874][/us/stat/122/874].\]
 
 > “Article VII __“Concluding Provisions__ 
 
@@ -2967,7 +2967,7 @@
 
 >     Plenipotentiary”
 
-    \[[Pub. L. 110–229, title VIII, § 806(b)(2)(D)(ii)][/us/pl/110/229/s806/b/2/D/ii], May 8, 2008, [122 Stat. 873][/us/stat/122/873], which directed substitution of “Agreement Regarding the Military Use and Operating Rights of the Government of the United States in the Republic of the Marshall Islands concluded Pursuant to Sections 321 and 323 of the Compact of Free Association, as Amended (Agreement between the Government of the United States and the Government of the Republic of the Marshall Islands Regarding Military Use and Operating Rights)” for “Agreement between the Government of the United States and the Government of the Republic of the Marshall Islands Regarding Miliary Use and Operating Rights” in the first sentence of subsection (b) in section 211 of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, set out above, was executed by making the substitution for “Agreement between the Government of the United States and the Government of the Republic of the Marshall Islands Regarding Military Use and Operating Rights” to reflect the probable intent of Congress.\]
+    \[[Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(b)(2)(D)(ii), May 8, 2008, [122 Stat. 873][/us/stat/122/873], which directed substitution of “Agreement Regarding the Military Use and Operating Rights of the Government of the United States in the Republic of the Marshall Islands concluded Pursuant to Sections 321 and 323 of the Compact of Free Association, as Amended (Agreement between the Government of the United States and the Government of the Republic of the Marshall Islands Regarding Military Use and Operating Rights)” for “Agreement between the Government of the United States and the Government of the Republic of the Marshall Islands Regarding Miliary Use and Operating Rights” in the first sentence of subsection (b) in section 211 of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, set out above, was executed by making the substitution for “Agreement between the Government of the United States and the Government of the Republic of the Marshall Islands Regarding Military Use and Operating Rights” to reflect the probable intent of Congress.\]
 
 ----------
 
@@ -2978,9 +2978,9 @@
 
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/stat/99/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1770
-[/us/pl/108/188/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs101
+[/us/pl/108/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2FtI
 [/us/stat/117/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2723
-[/us/pl/110/229/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs801%2Fa
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F869
 [/us/pl/108/188/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs201%2Fa
 [/us/pl/108/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188
@@ -2989,11 +2989,11 @@
 [/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
 [/us/pl/108/188/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs201%2Fb
-[/us/pl/110/229/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs801%2Fa%2F1
-[/us/pl/110/229/s801/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs801%2Fa%2F2
-[/us/pl/110/229/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs801%2Fb
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F870
-[/us/pl/110/229/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs809
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F874
 [/us/pl/108/188/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs201%2Fb
 [/us/pl/108/188/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs201%2Fa
@@ -3003,9 +3003,9 @@
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/stat/99/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1770
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
-[/us/pl/108/188/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs201%2Fa
+[/us/pl/108/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2FtII
 [/us/stat/117/2757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2757
-[/us/pl/110/229/s806/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F871
 [/us/usc/t8/s1182/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F5
 [/us/pl/99/239/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs104
@@ -3031,54 +3031,54 @@
 [/us/usc/t5/s701–706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs701%E2%80%93706
 [/us/usc/t28/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1502
 [/us/usc/t28/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1602
-[/us/pl/110/229/s806/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FA
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F871
 [/us/usc/t18/s3184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3184
 [/us/usc/t18/s4100–15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4100%E2%80%9315
-[/us/pl/110/229/s806/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FB
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F872
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/110/229/s806/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FC
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F872
-[/us/pl/110/229/s806/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FD
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F872
 [/us/pl/99/239/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs111%2Fd
-[/us/pl/110/229/s806/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FE
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F872
-[/us/pl/110/229/s806/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FF
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F872
-[/us/pl/110/229/s806/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FG
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F872
 [/us/pl/108/188/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs102%2Fb
 [/us/stat/117/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2726
-[/us/pl/110/229/s806/b/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FH
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F872
 [/us/usc/t19/s2463/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463%2Fb
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
-[/us/pl/110/229/s806/b/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FI
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F872
-[/us/pl/110/229/s806/b/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FJ
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F872
 [/us/usc/t14/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs195
 [/us/usc/t46/s51304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51304
 [/us/usc/t46/s51304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51304%2Fb%2F2
-[/us/pl/110/229/s806/b/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FK
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F872
-[/us/pl/110/229/s806/b/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FL
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
 [/us/stat/61/3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F3301
 [/us/pl/99/239/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs201
-[/us/pl/110/229/s806/b/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FM
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
-[/us/pl/110/229/s806/b/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FN
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
-[/us/pl/110/229/s806/b/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F1%2FO
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
-[/us/pl/108/188/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs201%2Fb
+[/us/pl/108/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2FtII
 [/us/stat/117/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2795
-[/us/pl/110/229/s806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
 [/us/usc/t8/s1182/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F5
 [/us/pl/99/239/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs104
@@ -3102,46 +3102,46 @@
 [/us/usc/t5/s701–706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs701%E2%80%93706
 [/us/usc/t28/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1502
 [/us/usc/t28/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1602
-[/us/pl/110/229/s806/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FA
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
 [/us/usc/t18/s3184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3184
 [/us/usc/t18/s4100–15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4100%E2%80%9315
-[/us/pl/110/229/s806/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FB
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/110/229/s806/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FC
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
-[/us/pl/110/229/s806/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FD
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
 [/us/pl/99/239/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs111%2Fd
-[/us/pl/110/229/s806/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FE
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
 [/us/pl/108/188/s103/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs103%2Fk
 [/us/stat/117/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2734
-[/us/pl/110/229/s806/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FF
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
 [/us/usc/t19/s2463/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463%2Fb
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
-[/us/pl/110/229/s806/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FG
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F874
 [/us/usc/t14/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs195
 [/us/usc/t46/s51304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51304
 [/us/usc/t46/s51304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51304%2Fb%2F2
-[/us/pl/110/229/s806/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FH
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F874
-[/us/pl/110/229/s806/b/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FI
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F874
-[/us/pl/110/229/s806/b/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FJ
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F874
 [/us/stat/61/3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F3301
 [/us/pl/99/239/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs201
-[/us/pl/110/229/s806/b/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FK
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F874
-[/us/pl/110/229/s806/b/2/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FL
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F874
-[/us/pl/110/229/s806/b/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fb%2F2%2FD%2Fii
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F873
 
 

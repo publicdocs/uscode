@@ -17,7 +17,7 @@
 
     No provision of this subchapter shall be construed to alter, amend, or abrogate any provision of the covenant referred to in [section 1751 of this title][/us/usc/t48/s1751] except section 901 of the covenant.
 
-([Pub. L. 110–229, title VII, § 716][/us/pl/110/229/s716], May 8, 2008, [122 Stat. 869][/us/stat/122/869].)
+([Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 716, May 8, 2008, [122 Stat. 869][/us/stat/122/869].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t48/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1751
-[/us/pl/110/229/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs716
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F869
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/stat/122/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F868

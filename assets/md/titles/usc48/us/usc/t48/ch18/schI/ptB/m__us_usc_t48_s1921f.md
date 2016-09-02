@@ -17,7 +17,7 @@
 
     All laws governing conflicts of interest and post-employment of Federal employees shall apply to the implementation of this Act.
 
-([Pub. L. 108–188, title I, § 107][/us/pl/108/188/s107], Dec. 17, 2003, [117 Stat. 2755][/us/stat/117/2755].)
+([Pub. L. 108–188, title I][/us/pl/108/188/tI], § 107, Dec. 17, 2003, [117 Stat. 2755][/us/stat/117/2755].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/188/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs107
+[/us/pl/108/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2FtI
 [/us/stat/117/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2755
 [/us/pl/108/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188
 [/us/stat/117/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2720

@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of section 1421o of this title. Sums appropriated in pursuance of sections 1421o and 1421p of this title may be allocated to such agencies of the Department as are concerned with the administration of the program in Guam.
 
-([Pub. L. 93–421, § 2][/us/pl/93/421/s2], Sept. 19, 1974, [88 Stat. 1154][/us/stat/88/1154].)
+([Pub. L. 93–421][/us/pl/93/421], § 2, Sept. 19, 1974, [88 Stat. 1154][/us/stat/88/1154].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/421/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F421%2Fs2
+[/us/pl/93/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F421
 [/us/stat/88/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1154
 
 

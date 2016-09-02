@@ -17,7 +17,7 @@
 
     The plan provided for in [section 1689 of this title][/us/usc/t48/s1689] shall set forth such fiscal control and accounting procedures as may be necessary to assure proper disbursement, repayment, and accounting for such funds.
 
-([Pub. L. 92–257, § 4][/us/pl/92/257/s4], Mar. 21, 1972, [86 Stat. 88][/us/stat/86/88].)
+([Pub. L. 92–257][/us/pl/92/257], § 4, Mar. 21, 1972, [86 Stat. 88][/us/stat/86/88].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t48/s1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1689
-[/us/pl/92/257/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F257%2Fs4
+[/us/pl/92/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F257
 [/us/stat/86/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F88
 
 

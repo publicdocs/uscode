@@ -57,7 +57,7 @@
 
         (2) The conveyance of mineral deposits under paragraph (1) of this subsection shall be subject to any existing lease, permit, or other interest granted by the United States prior to the date of such conveyance. All rentals, royalties, or fees which accrue after such date of conveyance in connection with any such lease, permit, or other interest shall be payable to the government of the territory to which such mineral deposits are conveyed.
 
-([Pub. L. 93–435, § 1][/us/pl/93/435/s1], Oct. 5, 1974, [88 Stat. 1210][/us/stat/88/1210]; [Pub. L. 96–205, title VI, § 607][/us/pl/96/205/s607], Mar. 12, 1980, [94 Stat. 91][/us/stat/94/91]; [Pub. L. 103–437, § 17(b)][/us/pl/103/437/s17/b], Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595]; [Pub. L. 113–34, § 1(a)][/us/pl/113/34/s1/a], Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518].)
+([Pub. L. 93–435][/us/pl/93/435], § 1, Oct. 5, 1974, [88 Stat. 1210][/us/stat/88/1210]; [Pub. L. 96–205, title VI][/us/pl/96/205/tVI], § 607, Mar. 12, 1980, [94 Stat. 91][/us/stat/94/91]; [Pub. L. 103–437][/us/pl/103/437], § 17(b), Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595]; [Pub. L. 113–34][/us/pl/113/34], § 1(a), Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518].)
 
  __References in Text__ 
 
@@ -77,13 +77,13 @@
 
     1994—Subsec. (c). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the House of Representatives and the Senate”.
 
-    1980—Subsec. (c). [Pub. L. 96–205, § 607(b)][/us/pl/96/205/s607/b], inserted “subsection (a) or (b) of” before “this section”.
+    1980—Subsec. (c). [Pub. L. 96–205][/us/pl/96/205], § 607(b), inserted “subsection (a) or (b) of” before “this section”.
 
-    Subsec. (d). [Pub. L. 96–205, § 607(a)][/us/pl/96/205/s607/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 96–205][/us/pl/96/205], § 607(a), added subsec. (d).
 
  __References to “Date of Enactment”__ 
 
-[Pub. L. 113–34, § 1(b)][/us/pl/113/34/s1/b], Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518], provided that: 
+[Pub. L. 113–34][/us/pl/113/34], § 1(b), Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518], provided that: 
 
 > “For the purposes of the amendment made by subsection (a) \[amending this section and [section 1706 of this title][/us/usc/t48/s1706]\], each reference in [Public Law 93–435][/us/pl/93/435] \[see Tables for classification\] to the ‘date of enactment’ shall be considered to be a reference to the date of the enactment of this section \[Sept. 18, 2013\].”
 
@@ -153,13 +153,13 @@ NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by v
 [/us/stat/84/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1204
 [/us/stat/86/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1135
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/93/435/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs1
+[/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435
 [/us/stat/88/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1210
-[/us/pl/96/205/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs607
+[/us/pl/96/205/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtVI
 [/us/stat/94/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F91
-[/us/pl/103/437/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs17%2Fb
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4595
-[/us/pl/113/34/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs1%2Fa
+[/us/pl/113/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34
 [/us/stat/127/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F518
 [/us/stat/84/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1204
 [/us/stat/86/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1135
@@ -182,9 +182,9 @@ NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by v
 [/us/pl/96/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205
 [/us/pl/113/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/96/205/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs607%2Fb
-[/us/pl/96/205/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs607%2Fa
-[/us/pl/113/34/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs1%2Fb
+[/us/pl/96/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205
+[/us/pl/96/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205
+[/us/pl/113/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34
 [/us/stat/127/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F518
 [/us/usc/t48/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1706
 [/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435

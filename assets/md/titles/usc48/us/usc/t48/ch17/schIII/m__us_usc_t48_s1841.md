@@ -39,7 +39,7 @@
 
         (3) As part of the administration of taxes required by this subsection, the Secretary or his delegate shall establish, at no cost to the Northern Marianas government, a taxpayers information service to provide such information and assistance to citizens of the Northern Mariana Islands (as so defined) as may be necessary for the filing of returns and the payment of such taxes.
 
-([Pub. L. 95–348, § 3][/us/pl/95/348/s3], Aug. 18, 1978, [92 Stat. 489][/us/stat/92/489]; [Pub. L. 96–205, title II, § 204(a)][/us/pl/96/205/s204/a], Mar. 12, 1980, [94 Stat. 86][/us/stat/94/86]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(HH), May 22, 2008, [122 Stat. 1095][/us/stat/122/1095], 1096, 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(HH), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
+([Pub. L. 95–348][/us/pl/95/348], § 3, Aug. 18, 1978, [92 Stat. 489][/us/stat/92/489]; [Pub. L. 96–205, title II][/us/pl/96/205/tII], § 204(a), Mar. 12, 1980, [94 Stat. 86][/us/stat/94/86]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(A), (B), (2)(HH), May 22, 2008, [122 Stat. 1095][/us/stat/122/1095], 1096, 1098; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(HH), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(HH), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
+    2008—Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (B), (2)(HH), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
 
     1980—Subsec. (d). [Pub. L. 96–205][/us/pl/96/205] designated existing provisions as par. (1), inserted “or upon receipt of a resolution adopted by both houses of the legislature of the Northern Mariana Islands accompanied by a letter of request from either the Governor or the Lieutenant Governor of the Northern Mariana Islands,” after “Constitution of the Northern Mariana Islands,” the first place appearing, and added pars. (2) and (3).
 
@@ -77,7 +77,7 @@
 
  __Commonwealth of the Northern Mariana Islands Pilot Program__ 
 
-[Pub. L. 113–79, title IV, § 4031][/us/pl/113/79/s4031], Feb. 7, 2014, [128 Stat. 816][/us/stat/128/816], provided that:
+[Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4031, Feb. 7, 2014, [128 Stat. 816][/us/stat/128/816], provided that:
 
 >     “(a) __Study.—__ 
 
@@ -155,13 +155,13 @@
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/stat/90/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F265
-[/us/pl/95/348/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs3
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F489
-[/us/pl/96/205/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs204%2Fa
+[/us/pl/96/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtII
 [/us/stat/94/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F86
-[/us/pl/110/234/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FA
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F487
@@ -185,7 +185,7 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/96/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/96/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -195,7 +195,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4407
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
-[/us/pl/113/79/s4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4031
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F816
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012

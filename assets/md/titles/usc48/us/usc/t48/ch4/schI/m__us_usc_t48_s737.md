@@ -17,7 +17,7 @@
 
     The rights, privileges, and immunities of citizens of the United States shall be respected in Puerto Rico to the same extent as though Puerto Rico were a State of the Union and subject to the provisions of paragraph 1 of section 2 of article IV of the Constitution of the United States.
 
-([Mar. 2, 1917, ch. 145, § 2][/us/act/1917-03-02/ch145/s2], [39 Stat. 951][/us/stat/39/951]; [Feb. 3, 1921, ch. 34, § 1][/us/act/1921-02-03/ch34/s1], [41 Stat. 1096][/us/stat/41/1096]; [Mar. 2, 1934, ch. 37, § 1][/us/act/1934-03-02/ch37/s1], [48 Stat. 361][/us/stat/48/361]; [Aug. 5, 1947, ch. 490, § 7][/us/act/1947-08-05/ch490/s7], [61 Stat. 772][/us/stat/61/772]; [July 3, 1950, ch. 446, § 5(1)][/us/act/1950-07-03/ch446/s5/1], [64 Stat. 320][/us/stat/64/320].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 2, [39 Stat. 951][/us/stat/39/951]; [Feb. 3, 1921, ch. 34][/us/act/1921-02-03/ch34], § 1, [41 Stat. 1096][/us/stat/41/1096]; [Mar. 2, 1934, ch. 37][/us/act/1934-03-02/ch37], § 1, [48 Stat. 361][/us/stat/48/361]; [Aug. 5, 1947, ch. 490][/us/act/1947-08-05/ch490], § 7, [61 Stat. 772][/us/stat/61/772]; [July 3, 1950, ch. 446][/us/act/1950-07-03/ch446], § 5(1), [64 Stat. 320][/us/stat/64/320].)
 
  __Amendments__ 
 
@@ -38,15 +38,15 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs2
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F951
-[/us/act/1921-02-03/ch34/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-02-03%2Fch34%2Fs1
+[/us/act/1921-02-03/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-02-03%2Fch34
 [/us/stat/41/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1096
-[/us/act/1934-03-02/ch37/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch37%2Fs1
+[/us/act/1934-03-02/ch37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch37
 [/us/stat/48/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F361
-[/us/act/1947-08-05/ch490/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch490%2Fs7
+[/us/act/1947-08-05/ch490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch490
 [/us/stat/61/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F772
-[/us/act/1950-07-03/ch446/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-03%2Fch446%2Fs5%2F1
+[/us/act/1950-07-03/ch446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-03%2Fch446
 [/us/stat/64/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F320
 [/us/usc/t48/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs732
 

@@ -47,7 +47,7 @@
 
         The Legislature of the Virgin Islands shall by law provide the procedure for filling any vacancy in the office of member of the legislature.
 
-([July 22, 1954, ch. 558, § 6][/us/act/1954-07-22/ch558/s6], [68 Stat. 499][/us/stat/68/499]; [Pub. L. 86–289, § 2(a)][/us/pl/86/289/s2/a], (b), Sept. 16, 1959, [73 Stat. 568][/us/stat/73/568]; [Pub. L. 89–98][/us/pl/89/98], July 30, 1965, [79 Stat. 423][/us/stat/79/423]; [Pub. L. 90–496, § 8(b)][/us/pl/90/496/s8/b], Aug. 23, 1968, [82 Stat. 839][/us/stat/82/839]; [Pub. L. 92–389][/us/pl/92/389], Aug. 17, 1972, [86 Stat. 563][/us/stat/86/563]; [Pub. L. 93–130, § 1][/us/pl/93/130/s1], Oct. 19, 1973, [87 Stat. 460][/us/stat/87/460].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 6, [68 Stat. 499][/us/stat/68/499]; [Pub. L. 86–289][/us/pl/86/289], § 2(a), (b), Sept. 16, 1959, [73 Stat. 568][/us/stat/73/568]; [Pub. L. 89–98][/us/pl/89/98], July 30, 1965, [79 Stat. 423][/us/stat/79/423]; [Pub. L. 90–496][/us/pl/90/496], § 8(b), Aug. 23, 1968, [82 Stat. 839][/us/stat/82/839]; [Pub. L. 92–389][/us/pl/92/389], Aug. 17, 1972, [86 Stat. 563][/us/stat/86/563]; [Pub. L. 93–130][/us/pl/93/130], § 1, Oct. 19, 1973, [87 Stat. 460][/us/stat/87/460].)
 
  __References in Text__ 
 
@@ -63,13 +63,13 @@
 
     1965—Subsec. (e). [Pub. L. 89–98][/us/pl/89/98] substituted provisions empowering the government of the Virgin Islands to fix and pay legislative salaries and expenses for provisions which specifically fixed these salaries and expenses and which required the United States Government to pay them.
 
-    1959—Subsec. (a). [Pub. L. 86–289, § 2(a)][/us/pl/86/289/s2/a], substituted, in second sentence, “January” for “April”, before “following his election”, and substituted, in proviso, “1958” for “1954”, “April 1959” for “January 1955”, and “1961, and the term of office of each member elected in November 1960 shall commence on the second Monday in April 1961 and continue until the second Monday in January 1963” for “1957”.
+    1959—Subsec. (a). [Pub. L. 86–289][/us/pl/86/289], § 2(a), substituted, in second sentence, “January” for “April”, before “following his election”, and substituted, in proviso, “1958” for “1954”, “April 1959” for “January 1955”, and “1961, and the term of office of each member elected in November 1960 shall commence on the second Monday in April 1961 and continue until the second Monday in January 1963” for “1957”.
 
-    Subsec. (e). [Pub. L. 86–289, § 2(b)][/us/pl/86/289/s2/b], changed the date of payment of salaries, increased the per diem from $10 to $20, and provided that the per diem paid to members of the legislature for official travel outside the Virgin Islands should not be at rates in excess of those paid Federal Government employees.
+    Subsec. (e). [Pub. L. 86–289][/us/pl/86/289], § 2(b), changed the date of payment of salaries, increased the per diem from $10 to $20, and provided that the per diem paid to members of the legislature for official travel outside the Virgin Islands should not be at rates in excess of those paid Federal Government employees.
 
  __Effective Date of 1973 Amendment__ 
 
-[Pub. L. 93–130, § 2][/us/pl/93/130/s2], Oct. 19, 1973, [87 Stat. 460][/us/stat/87/460], provided that: 
+[Pub. L. 93–130][/us/pl/93/130], § 2, Oct. 19, 1973, [87 Stat. 460][/us/stat/87/460], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to vacancies occurring on or after the date of enactment of this Act \[Oct. 19, 1973\].”
 
@@ -84,17 +84,17 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs6
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F499
-[/us/pl/86/289/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289%2Fs2%2Fa
+[/us/pl/86/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289
 [/us/stat/73/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F568
 [/us/pl/89/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F98
 [/us/stat/79/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F423
-[/us/pl/90/496/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs8%2Fb
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F839
 [/us/pl/92/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F389
 [/us/stat/86/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F563
-[/us/pl/93/130/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F130%2Fs1
+[/us/pl/93/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F130
 [/us/stat/87/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F460
 [/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F497
@@ -103,9 +103,9 @@
 [/us/pl/92/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F389
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/pl/89/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F98
-[/us/pl/86/289/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289%2Fs2%2Fa
-[/us/pl/86/289/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289%2Fs2%2Fb
-[/us/pl/93/130/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F130%2Fs2
+[/us/pl/86/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289
+[/us/pl/86/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289
+[/us/pl/93/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F130
 [/us/stat/87/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F460
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/pl/90/496/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs16

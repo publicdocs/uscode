@@ -17,7 +17,7 @@
 
     The Resident Commissioner shall receive a salary payable monthly by the United States. He shall be allowed the same sum for stationery and for the pay of necessary clerk hire as is allowed Members of the House of Representatives of the United States. He shall be allowed the franking privilege granted Members of Congress.
 
-([Mar. 2, 1917, ch. 145, § 36][/us/act/1917-03-02/ch145/s36], [39 Stat. 963][/us/stat/39/963]; [Mar. 4, 1925, ch. 549, § 4][/us/act/1925-03-04/ch549/s4], [43 Stat. 1301][/us/stat/43/1301].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 36, [39 Stat. 963][/us/stat/39/963]; [Mar. 4, 1925, ch. 549][/us/act/1925-03-04/ch549], § 4, [43 Stat. 1301][/us/stat/43/1301].)
 
  __Codification__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs36
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F963
-[/us/act/1925-03-04/ch549/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch549%2Fs4
+[/us/act/1925-03-04/ch549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch549
 [/us/stat/43/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1301
 [/us/usc/t48/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs891
 

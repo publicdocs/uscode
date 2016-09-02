@@ -25,7 +25,7 @@
 
  __Transfer of Personal Property to Government of American Samoa__ 
 
-[Pub. L. 96–597, title I, § 101][/us/pl/96/597/s101], Dec. 24, 1980, [94 Stat. 3477][/us/stat/94/3477], provided that: 
+[Pub. L. 96–597, title I][/us/pl/96/597/tI], § 101, Dec. 24, 1980, [94 Stat. 3477][/us/stat/94/3477], provided that: 
 
 > “Notwithstanding any other provision of law and subject to valid existing rights, all right, title, and interest of the Government of the United States in personal property situated in American Samoa shall be transferred, without reimbursement, to the American Samoa government on October 1, 1981, unless the agency of the Government of the United States having administrative responsibility for the property advises the Secretary of the Interior in writing before the date of transfer that it has a continuing requirement for such property.”
 
@@ -63,7 +63,7 @@
 [/us/act/1925-03-04/ch563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch563
 [/us/stat/43/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1357
 [/us/usc/t48/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1431
-[/us/pl/96/597/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2Fs101
+[/us/pl/96/597/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2FtI
 [/us/stat/94/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3477
 [/us/pl/87/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F158
 [/us/stat/75/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F392

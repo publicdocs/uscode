@@ -23,11 +23,11 @@
 
         Effective upon the date of the termination of the Trust Territory of the Pacific Islands with respect to Palau, the Office for Micronesian Status Negotiations is abolished and no department, agency, or instrumentality of the United States shall thereafter contribute funds for the support of such Office.
 
-([Pub. L. 99–239, title I, § 107][/us/pl/99/239/s107], Jan. 14, 1986, [99 Stat. 1797][/us/stat/99/1797].)
+([Pub. L. 99–239, title I][/us/pl/99/239/tI], § 107, Jan. 14, 1986, [99 Stat. 1797][/us/stat/99/1797].)
 
  __References in Text__ 
 
-    [Section 207 of title 18][/us/usc/t18/s207], referred to in subsec. (a), was amended generally by [Pub. L. 101–194, title I, § 101(a)][/us/pl/101/194/s101/a], Nov. 30, 1989, [103 Stat. 1716][/us/stat/103/1716], and, as so amended, subsec. (b) of that section no longer contains cls. (i) and (ii). For text of [section 207 of Title 18][/us/usc/t18/s207], Crimes and Criminal Procedure, as it appeared prior to amendment by [Pub. L. 101–194][/us/pl/101/194], see Effective Date of 1989 Amendment; Effect on Employment note set out under [section 207 of Title 18][/us/usc/t18/s207].
+    [Section 207 of title 18][/us/usc/t18/s207], referred to in subsec. (a), was amended generally by [Pub. L. 101–194, title I][/us/pl/101/194/tI], § 101(a), Nov. 30, 1989, [103 Stat. 1716][/us/stat/103/1716], and, as so amended, subsec. (b) of that section no longer contains cls. (i) and (ii). For text of [section 207 of Title 18][/us/usc/t18/s207], Crimes and Criminal Procedure, as it appeared prior to amendment by [Pub. L. 101–194][/us/pl/101/194], see Effective Date of 1989 Amendment; Effect on Employment note set out under [section 207 of Title 18][/us/usc/t18/s207].
 
  __Codification__ 
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/99/239/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs107
+[/us/pl/99/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtI
 [/us/stat/99/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1797
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
-[/us/pl/101/194/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs101%2Fa
+[/us/pl/101/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtI
 [/us/stat/103/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1716
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194

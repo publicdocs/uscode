@@ -29,7 +29,7 @@
 
     There is hereby established the office of Lieutenant Governor of Guam. The Lieutenant Governor shall have such executive powers and perform such duties as may be assigned to him by the Governor or prescribed by this chapter or under the laws of Guam.
 
-([Aug. 1, 1950, ch. 512, § 6][/us/act/1950-08-01/ch512/s6], [64 Stat. 386][/us/stat/64/386]; [Pub. L. 90–497, § 1][/us/pl/90/497/s1], Sept. 11, 1968, [82 Stat. 842][/us/stat/82/842]; [Pub. L. 97–357, title I, § 104(a)][/us/pl/97/357/s104/a], Oct. 19, 1982, [96 Stat. 1705][/us/stat/96/1705]; [Pub. L. 105–362, title IX, § 901(m)][/us/pl/105/362/s901/m], Nov. 10, 1998, [112 Stat. 3290][/us/stat/112/3290].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 6, [64 Stat. 386][/us/stat/64/386]; [Pub. L. 90–497][/us/pl/90/497], § 1, Sept. 11, 1968, [82 Stat. 842][/us/stat/82/842]; [Pub. L. 97–357, title I][/us/pl/97/357/tI], § 104(a), Oct. 19, 1982, [96 Stat. 1705][/us/stat/96/1705]; [Pub. L. 105–362, title IX][/us/pl/105/362/tIX], § 901(m), Nov. 10, 1998, [112 Stat. 3290][/us/stat/112/3290].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–497, § 13][/us/pl/90/497/s13], Sept. 11, 1968, [82 Stat. 848][/us/stat/82/848], provided that: 
+[Pub. L. 90–497][/us/pl/90/497], § 13, Sept. 11, 1968, [82 Stat. 848][/us/stat/82/848], provided that: 
 
 > “Those provisions necessary to authorize the holding of an election for Governor and Lieutenant Governor on November 3, 1970, shall be effective on January 1, 1970. All other provisions of this Act \[see Short Title of 1968 Amendment note set out under [section 1421 of this title][/us/usc/t48/s1421]\], unless otherwise expressly provided herein, shall be effective January 4, 1971.”
 
@@ -60,18 +60,18 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs6
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F386
-[/us/pl/90/497/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497%2Fs1
+[/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/stat/82/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F842
-[/us/pl/97/357/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs104%2Fa
+[/us/pl/97/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtI
 [/us/stat/96/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1705
-[/us/pl/105/362/s901/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs901%2Fm
+[/us/pl/105/362/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIX
 [/us/stat/112/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3290
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/97/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357
 [/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
-[/us/pl/90/497/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497%2Fs13
+[/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/stat/82/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F848
 [/us/usc/t48/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

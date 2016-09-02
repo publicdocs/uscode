@@ -31,7 +31,7 @@
 
  __Urban Renewal Activities__ 
 
-    [Act Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 107(4), [69 Stat. 638][/us/stat/69/638], amended the heading of title III of the Territorial Enabling Act of 1950, this subchapter, to insert the words “urban renewal” in order to make financial assistance available for urban renewal projects.
+    [Act Aug. 11, 1955, ch. 783, title I][/us/act/1955-08-11/ch783/tI], § 107(4), [69 Stat. 638][/us/stat/69/638], amended the heading of title III of the Territorial Enabling Act of 1950, this subchapter, to insert the words “urban renewal” in order to make financial assistance available for urban renewal projects.
 
 ----------
 
@@ -50,7 +50,7 @@
 [/us/usc/t42/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441
 [/us/act/1950-07-18/ch466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-18%2Fch466
 [/us/stat/64/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F344
-[/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
+[/us/act/1955-08-11/ch783/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783%2FtI
 [/us/stat/69/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F638
 
 

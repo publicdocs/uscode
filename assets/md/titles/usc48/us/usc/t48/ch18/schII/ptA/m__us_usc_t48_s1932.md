@@ -19,7 +19,7 @@
 
     (b) The provisions of [section 1905 of this title][/us/usc/t48/s1905], except for subsection (i), [section 1906 of this title][/us/usc/t48/s1906], [section 1910 of this title][/us/usc/t48/s1910], and section 1911(a) and (d) of this title shall apply to Palau in the same manner and to the same extent as such sections apply to the Marshall Islands.
 
-([Pub. L. 99–658, title I, § 102][/us/pl/99/658/s102], Nov. 14, 1986, [100 Stat. 3675][/us/stat/100/3675].)
+([Pub. L. 99–658, title I][/us/pl/99/658/tI], § 102, Nov. 14, 1986, [100 Stat. 3675][/us/stat/100/3675].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 [/us/usc/t48/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1905
 [/us/usc/t48/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1906
 [/us/usc/t48/s1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1910
-[/us/pl/99/658/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs102
+[/us/pl/99/658/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2FtI
 [/us/stat/100/3675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3675
 [/us/pl/99/658/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs201
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931

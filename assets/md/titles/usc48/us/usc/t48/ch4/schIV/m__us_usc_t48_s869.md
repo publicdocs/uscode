@@ -17,7 +17,7 @@
 
     Such fees and expenses as are payable by the United States if earned or incurred in connection with a district court of the United States shall be paid from the revenue of Puerto Rico if earned or incurred in connection with the United States District Court for the District of Puerto Rico.
 
-([Mar. 2, 1901, ch. 812, § 2][/us/act/1901-03-02/ch812/s2], [31 Stat. 953][/us/stat/31/953]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Mar. 2, 1901, ch. 812][/us/act/1901-03-02/ch812], § 2, [31 Stat. 953][/us/stat/31/953]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@ As originally enacted, so much of section 2 of act Mar. 2, 1901, as is pertinent
 ----------
 ----------
 
-[/us/act/1901-03-02/ch812/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-02%2Fch812%2Fs2
+[/us/act/1901-03-02/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-02%2Fch812
 [/us/stat/31/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F953
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

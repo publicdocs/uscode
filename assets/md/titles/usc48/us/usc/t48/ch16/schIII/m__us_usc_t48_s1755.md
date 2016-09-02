@@ -17,7 +17,7 @@
 
     Until the Rules of the House of Representatives are amended to provide otherwise, the Delegate from the Commonwealth of the Northern Mariana Islands shall receive the same compensation, allowances, and benefits as a Member of the House of Representatives, and shall be entitled to whatever privileges and immunities are, or hereinafter may be, granted to any other nonvoting Delegate to the House of Representatives.
 
-([Pub. L. 110–229, title VII, § 715][/us/pl/110/229/s715], May 8, 2008, [122 Stat. 869][/us/stat/122/869].)
+([Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 715, May 8, 2008, [122 Stat. 869][/us/stat/122/869].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/229/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs715
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F869
 
 

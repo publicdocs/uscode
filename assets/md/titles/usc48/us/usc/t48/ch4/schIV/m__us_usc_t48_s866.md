@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Apr. 12, 1900, ch. 191, § 35][/us/act/1900-04-12/ch191/s35], [31 Stat. 85][/us/stat/31/85], provided that all proceedings in Supreme Court of United States to review decisions of Supreme Court of Puerto Rico and the District Court of the United States for Puerto Rico, should be conducted in the English language.
+    Section, [act Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], § 35, [31 Stat. 85][/us/stat/31/85], provided that all proceedings in Supreme Court of United States to review decisions of Supreme Court of Puerto Rico and the District Court of the United States for Puerto Rico, should be conducted in the English language.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1900-04-12/ch191/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191%2Fs35
+[/us/act/1900-04-12/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191
 [/us/stat/31/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F85
 
 

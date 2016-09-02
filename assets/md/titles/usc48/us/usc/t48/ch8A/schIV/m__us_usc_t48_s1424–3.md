@@ -31,13 +31,13 @@
 
         Upon the establishment of the appellate court provided for in [section 1424–1(a) of this title][/us/usc/t48/s1424–1/a], which is known as the Supreme Court of Guam, all appeals from the decisions of the local courts not previously taken must be taken to such appellate court. The establishment of that appellate court shall not result in the loss of jurisdiction of the appellate division of the district court over any appeal then pending in it. The rulings of the appellate division of the district court on such appeals may be reviewed in the United States Court of Appeals for the Ninth Circuit and in the Supreme Court notwithstanding the establishment of the appellate court.
 
-([Aug. 1, 1950, ch. 512, § 22C][/us/act/1950-08-01/ch512/s22C], as added [Pub. L. 98–454, title VIII, § 801][/us/pl/98/454/s801], Oct. 5, 1984, [98 Stat. 1742][/us/stat/98/1742]; amended [Pub. L. 108–378, § 1(c)][/us/pl/108/378/s1/c], Oct. 30, 2004, [118 Stat. 2207][/us/stat/118/2207].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 22C, as added [Pub. L. 98–454, title VIII][/us/pl/98/454/tVIII], § 801, Oct. 5, 1984, [98 Stat. 1742][/us/stat/98/1742]; amended [Pub. L. 108–378][/us/pl/108/378], § 1(c), Oct. 30, 2004, [118 Stat. 2207][/us/stat/118/2207].)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–378, § 1(c)(1)][/us/pl/108/378/s1/c/1], inserted “which is known as the Supreme Court of Guam,” after “appellate court authorized by [section 1424–1(a) of this title][/us/usc/t48/s1424–1/a],”.
+    2004—Subsec. (a). [Pub. L. 108–378][/us/pl/108/378], § 1(c)(1), inserted “which is known as the Supreme Court of Guam,” after “appellate court authorized by [section 1424–1(a) of this title][/us/usc/t48/s1424–1/a],”.
 
-    Subsec. (d). [Pub. L. 108–378, § 1(c)(2)][/us/pl/108/378/s1/c/2], inserted “, which is known as the Supreme Court of Guam,” after “appellate court provided for in [section 1424–1(a) of this title][/us/usc/t48/s1424–1/a]” and substituted “taken to such appellate court” for “taken to the appellate court”.
+    Subsec. (d). [Pub. L. 108–378][/us/pl/108/378], § 1(c)(2), inserted “, which is known as the Supreme Court of Guam,” after “appellate court provided for in [section 1424–1(a) of this title][/us/usc/t48/s1424–1/a]” and substituted “taken to such appellate court” for “taken to the appellate court”.
 
  __Effective Date__ 
 
@@ -53,14 +53,14 @@
 [/us/usc/t48/s1424–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424%E2%80%931%2Fa
 [/us/usc/t48/s1424b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424b
 [/us/usc/t48/s1424–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424%E2%80%931%2Fa
-[/us/act/1950-08-01/ch512/s22C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs22C
-[/us/pl/98/454/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs801
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
+[/us/pl/98/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVIII
 [/us/stat/98/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1742
-[/us/pl/108/378/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378%2Fs1%2Fc
+[/us/pl/108/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378
 [/us/stat/118/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2207
-[/us/pl/108/378/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378%2Fs1%2Fc%2F1
+[/us/pl/108/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378
 [/us/usc/t48/s1424–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424%E2%80%931%2Fa
-[/us/pl/108/378/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378%2Fs1%2Fc%2F2
+[/us/pl/108/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378
 [/us/usc/t48/s1424–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424%E2%80%931%2Fa
 [/us/pl/98/454/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1005
 [/us/usc/t48/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424

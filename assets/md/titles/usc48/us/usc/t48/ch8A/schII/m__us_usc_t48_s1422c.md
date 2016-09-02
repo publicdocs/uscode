@@ -31,15 +31,15 @@
 
         All persons holding office in Guam on August 1, 1950 may, except as otherwise provided in this chapter, continue to hold their respective offices until their successors are appointed and qualified.
 
-([Aug. 1, 1950, ch. 512, § 9][/us/act/1950-08-01/ch512/s9], [64 Stat. 387][/us/stat/64/387]; [Pub. L. 90–497, § 4][/us/pl/90/497/s4], Sept. 11, 1968, [82 Stat. 845][/us/stat/82/845]; [Pub. L. 99–396, § 18(a)][/us/pl/99/396/s18/a], Aug. 27, 1986, [100 Stat. 843][/us/stat/100/843].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 9, [64 Stat. 387][/us/stat/64/387]; [Pub. L. 90–497][/us/pl/90/497], § 4, Sept. 11, 1968, [82 Stat. 845][/us/stat/82/845]; [Pub. L. 99–396][/us/pl/99/396], § 18(a), Aug. 27, 1986, [100 Stat. 843][/us/stat/100/843].)
 
  __Amendments__ 
 
     1986—Subsec. (a). [Pub. L. 99–396][/us/pl/99/396] inserted provisions authorizing establishment of Civil Service Commission and removal of commission members as provided by laws of Guam.
 
-    1968—Subsec. (a). [Pub. L. 90–497, § 4(a)][/us/pl/90/497/s4/a], struck out requirement that, in making appointments, preference be given persons of Guamanian ancestry and that opportunities for higher education and use of service training facilities be provided to qualified persons of Guamanian ancestry.
+    1968—Subsec. (a). [Pub. L. 90–497][/us/pl/90/497], § 4(a), struck out requirement that, in making appointments, preference be given persons of Guamanian ancestry and that opportunities for higher education and use of service training facilities be provided to qualified persons of Guamanian ancestry.
 
-    Subsec. (b). [Pub. L. 90–497, § 4(b)][/us/pl/90/497/s4/b], struck out provision authorizing the Governor to appoint or remove any officer whose appointment or removal is not otherwise provided for.
+    Subsec. (b). [Pub. L. 90–497][/us/pl/90/497], § 4(b), struck out provision authorizing the Governor to appoint or remove any officer whose appointment or removal is not otherwise provided for.
 
  __Effective Date of 1968 Amendment__ 
 
@@ -54,15 +54,15 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs9
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F387
-[/us/pl/90/497/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497%2Fs4
+[/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/stat/82/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F845
-[/us/pl/99/396/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs18%2Fa
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F843
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
-[/us/pl/90/497/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497%2Fs4%2Fa
-[/us/pl/90/497/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497%2Fs4%2Fb
+[/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
+[/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/stat/82/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F845
 [/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497

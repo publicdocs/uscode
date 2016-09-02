@@ -39,7 +39,7 @@
 
         Within the amounts allocated for infrastructure pursuant to this section, and subject to the specific allocations made in subsection (c), additional contributions may be made, as set forth in appropriations Acts, to assist in the resettlement of Rongelap Atoll: Provided, That the total of all contributions from any Federal source after April 26, 1996, may not exceed $32,000,000 and shall be contingent upon an agreement, satisfactory to the President, that such contributions are a full and final settlement of all obligations of the United States to assist in the resettlement of Rongelop  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “Rongelap”. </sup></sup>  Atoll and that such funds will be expended solely on resettlement activities and will be properly audited and accounted for. In order to provide such contributions in a timely manner, each Federal agency providing assistance or services, or conducting activities, in the Republic of the Marshall Islands, is authorized to make funds available through the Secretary of the Interior, to assist in the resettlement of Rongelap. Nothing in this subsection shall be construed to limit the provision of ex gratia assistance pursuant to [section 1905(c)(2) of this title][/us/usc/t48/s1905/c/2] including for individuals choosing not to resettle at Rongelap, except that no such assistance for such individuals may be provided until the Secretary notifies the Congress that the full amount of all funds necessary for resettlement at Rongelap has been provided.
 
-([Pub. L. 94–241, § 4][/us/pl/94/241/s4], as added [Pub. L. 99–396, § 10][/us/pl/99/396/s10], Aug. 27, 1986, [100 Stat. 841][/us/stat/100/841]; amended [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title I, § 118\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–178; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–152; [Pub. L. 110–229, title VII, § 703][/us/pl/110/229/s703], May 8, 2008, [122 Stat. 867][/us/stat/122/867].)
+([Pub. L. 94–241][/us/pl/94/241], § 4, as added [Pub. L. 99–396][/us/pl/99/396], § 10, Aug. 27, 1986, [100 Stat. 841][/us/stat/100/841]; amended [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title I, § 118\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–178; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–152; [Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 703, May 8, 2008, [122 Stat. 867][/us/stat/122/867].)
 
  __References in Text__ 
 
@@ -75,16 +75,16 @@
 [/us/usc/t48/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1803
 [/us/usc/t48/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1803
 [/us/usc/t48/s1905/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1905%2Fc%2F2
-[/us/pl/94/241/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs4
-[/us/pl/99/396/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs10
+[/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F841
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/110/229/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs703
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F867
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

@@ -17,7 +17,7 @@
 
     The legislature may authorize such authorities to issue bonds or other obligations with such security as the legislature may provide and may provide for the disposition of the proceeds of such bonds and all receipts and revenues of such authorities.
 
-([June 25, 1938, ch. 703, § 4][/us/act/1938-06-25/ch703/s4], [52 Stat. 1203][/us/stat/52/1203].)
+([June 25, 1938, ch. 703][/us/act/1938-06-25/ch703], § 4, [52 Stat. 1203][/us/stat/52/1203].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch703/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch703%2Fs4
+[/us/act/1938-06-25/ch703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch703
 [/us/stat/52/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1203
 
 

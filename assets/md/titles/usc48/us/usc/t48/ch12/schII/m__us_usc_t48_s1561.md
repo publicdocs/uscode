@@ -63,7 +63,7 @@
 
     All laws enacted by Congress with respect to the Virgin Islands and all laws enacted by the territorial legislature of the Virgin Islands which are inconsistent with the provisions of this subsection 2 are repealed to the extent of such inconsistency.
 
-([July 22, 1954, ch. 558, § 3][/us/act/1954-07-22/ch558/s3], [68 Stat. 497][/us/stat/68/497]; [Pub. L. 85–851, § 1][/us/pl/85/851/s1], Aug. 28, 1958, [72 Stat. 1094][/us/stat/72/1094]; [Pub. L. 90–496, § 11][/us/pl/90/496/s11], Aug. 23, 1968, [82 Stat. 841][/us/stat/82/841]; [Pub. L. 98–213, § 5(d)][/us/pl/98/213/s5/d], Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460]; [Pub. L. 98–454, title VII, § 701][/us/pl/98/454/s701], Oct. 5, 1984, [98 Stat. 1737][/us/stat/98/1737].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 3, [68 Stat. 497][/us/stat/68/497]; [Pub. L. 85–851][/us/pl/85/851], § 1, Aug. 28, 1958, [72 Stat. 1094][/us/stat/72/1094]; [Pub. L. 90–496][/us/pl/90/496], § 11, Aug. 23, 1968, [82 Stat. 841][/us/stat/82/841]; [Pub. L. 98–213][/us/pl/98/213], § 5(d), Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460]; [Pub. L. 98–454, title VII][/us/pl/98/454/tVII], § 701, Oct. 5, 1984, [98 Stat. 1737][/us/stat/98/1737].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 1968 Amendment__ 
 
-    [Pub. L. 90–496, § 11][/us/pl/90/496/s11], Aug. 23, 1968, [82 Stat. 841][/us/stat/82/841], provided that the amendment made by that section is effective on the date of enactment of [Pub. L. 90–496][/us/pl/90/496], which was approved Aug. 23, 1968.
+    [Pub. L. 90–496][/us/pl/90/496], § 11, Aug. 23, 1968, [82 Stat. 841][/us/stat/82/841], provided that the amendment made by that section is effective on the date of enactment of [Pub. L. 90–496][/us/pl/90/496], which was approved Aug. 23, 1968.
 
 ----------
 
@@ -95,15 +95,15 @@
 ----------
 
 [/us/usc/t48/s1612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1612%2Fb
-[/us/act/1954-07-22/ch558/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs3
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F497
-[/us/pl/85/851/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851%2Fs1
+[/us/pl/85/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851
 [/us/stat/72/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1094
-[/us/pl/90/496/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs11
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F841
-[/us/pl/98/213/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs5%2Fd
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1460
-[/us/pl/98/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs701
+[/us/pl/98/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVII
 [/us/stat/98/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1737
 [/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F497
@@ -116,7 +116,7 @@
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 [/us/pl/98/454/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1005
 [/us/usc/t48/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424
-[/us/pl/90/496/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs11
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F841
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 

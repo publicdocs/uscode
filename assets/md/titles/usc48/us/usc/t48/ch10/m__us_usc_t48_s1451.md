@@ -17,7 +17,7 @@
 
     Nothing in title 23 of the Revised Statutes shall be construed to impair the rights of person or property pertaining to the Indians in any Territory, so long as such rights remain unextinguished by treaty between the United States and such Indians, or to include any Territory which, by treaty with any Indian tribe, is not, without the consent of such tribe, embraced within the territorial limits or jurisdiction of any State or Territory; but all such territory shall be excepted out of the boundaries, and constitute no part of any Territory now or hereafter organized until such tribe signifies its assent to the President to be embraced within a particular Territory. As used herein, the term “Territory” does not include the Virgin Islands, Puerto Rico, American Samoa, Guam, or the Northern Mariana Islands.
 
-(R.S. § 1839; [Pub. L. 98–213, § 15(a)][/us/pl/98/213/s15/a], Dec. 8, 1983, [97 Stat. 1462][/us/stat/97/1462].)
+(R.S. § 1839; [Pub. L. 98–213][/us/pl/98/213], § 15(a), Dec. 8, 1983, [97 Stat. 1462][/us/stat/97/1462].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 1839 derived from N.M., [act Sept. 9, 1850, ch. 49, § 2][/us/act/1850-09-09/ch49/s2], [9 Stat. 447][/us/stat/9/447]. Utah, [act Sept. 9, 1850, ch. 51, § 1][/us/act/1850-09-09/ch51/s1], [9 Stat. 453][/us/stat/9/453]. Wash., [act Mar. 2, 1853, ch. 90, § 1][/us/act/1853-03-02/ch90/s1], [10 Stat. 172][/us/stat/10/172]. Colo., [act Feb. 28, 1861, ch. 59, § 1][/us/act/1861-02-28/ch59/s1], [12 Stat. 172][/us/stat/12/172]. Dak., [act Mar. 2, 1861, ch. 86, § 1][/us/act/1861-03-02/ch86/s1], [12 Stat. 239][/us/stat/12/239]. Ariz., [act Feb. 24, 1863, ch. 56, § 1][/us/act/1863-02-24/ch56/s1], [12 Stat. 664][/us/stat/12/664]. Idaho, [act Mar. 3, 1863, ch. 117, § 1][/us/act/1863-03-03/ch117/s1], [12 Stat. 808][/us/stat/12/808]. Mont., [act May 26, 1864, ch. 95, § 1][/us/act/1864-05-26/ch95/s1], [13 Stat. 85][/us/stat/13/85]. Wyo., [act July 25, 1868, ch. 235, § 1][/us/act/1868-07-25/ch235/s1], [15 Stat. 178][/us/stat/15/178].
+    R.S. § 1839 derived from N.M., [act Sept. 9, 1850, ch. 49][/us/act/1850-09-09/ch49], § 2, [9 Stat. 447][/us/stat/9/447]. Utah, [act Sept. 9, 1850, ch. 51][/us/act/1850-09-09/ch51], § 1, [9 Stat. 453][/us/stat/9/453]. Wash., [act Mar. 2, 1853, ch. 90][/us/act/1853-03-02/ch90], § 1, [10 Stat. 172][/us/stat/10/172]. Colo., [act Feb. 28, 1861, ch. 59][/us/act/1861-02-28/ch59], § 1, [12 Stat. 172][/us/stat/12/172]. Dak., [act Mar. 2, 1861, ch. 86][/us/act/1861-03-02/ch86], § 1, [12 Stat. 239][/us/stat/12/239]. Ariz., [act Feb. 24, 1863, ch. 56][/us/act/1863-02-24/ch56], § 1, [12 Stat. 664][/us/stat/12/664]. Idaho, [act Mar. 3, 1863, ch. 117][/us/act/1863-03-03/ch117], § 1, [12 Stat. 808][/us/stat/12/808]. Mont., [act May 26, 1864, ch. 95][/us/act/1864-05-26/ch95], § 1, [13 Stat. 85][/us/stat/13/85]. Wyo., [act July 25, 1868, ch. 235][/us/act/1868-07-25/ch235], § 1, [15 Stat. 178][/us/stat/15/178].
 
  __Amendments__ 
 
@@ -38,25 +38,25 @@
 ----------
 ----------
 
-[/us/pl/98/213/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs15%2Fa
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1462
-[/us/act/1850-09-09/ch49/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1850-09-09%2Fch49%2Fs2
+[/us/act/1850-09-09/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1850-09-09%2Fch49
 [/us/stat/9/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F447
-[/us/act/1850-09-09/ch51/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1850-09-09%2Fch51%2Fs1
+[/us/act/1850-09-09/ch51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1850-09-09%2Fch51
 [/us/stat/9/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F453
-[/us/act/1853-03-02/ch90/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1853-03-02%2Fch90%2Fs1
+[/us/act/1853-03-02/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1853-03-02%2Fch90
 [/us/stat/10/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F10%2F172
-[/us/act/1861-02-28/ch59/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-02-28%2Fch59%2Fs1
+[/us/act/1861-02-28/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-02-28%2Fch59
 [/us/stat/12/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F172
-[/us/act/1861-03-02/ch86/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-03-02%2Fch86%2Fs1
+[/us/act/1861-03-02/ch86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-03-02%2Fch86
 [/us/stat/12/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F239
-[/us/act/1863-02-24/ch56/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1863-02-24%2Fch56%2Fs1
+[/us/act/1863-02-24/ch56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1863-02-24%2Fch56
 [/us/stat/12/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F664
-[/us/act/1863-03-03/ch117/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1863-03-03%2Fch117%2Fs1
+[/us/act/1863-03-03/ch117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1863-03-03%2Fch117
 [/us/stat/12/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F808
-[/us/act/1864-05-26/ch95/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-05-26%2Fch95%2Fs1
+[/us/act/1864-05-26/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-05-26%2Fch95
 [/us/stat/13/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F85
-[/us/act/1868-07-25/ch235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-25%2Fch235%2Fs1
+[/us/act/1868-07-25/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-25%2Fch235
 [/us/stat/15/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F178
 [/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 

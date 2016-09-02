@@ -17,7 +17,7 @@
 
     The Comptroller General of the United States, or any of his duly authorized representatives, shall have access, for the purpose of audit and examination, to the books, documents, papers, and records of the agency, or agencies, of the government of Guam administering the plan that are pertinent to the funds received under this subchapter.
 
-([Pub. L. 90–601, § 7][/us/pl/90/601/s7], Oct. 17, 1968, [82 Stat. 1173][/us/stat/82/1173].)
+([Pub. L. 90–601][/us/pl/90/601], § 7, Oct. 17, 1968, [82 Stat. 1173][/us/stat/82/1173].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/601/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F601%2Fs7
+[/us/pl/90/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F601
 [/us/stat/82/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1173
 
 

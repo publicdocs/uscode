@@ -17,7 +17,7 @@
 
     The proceeds of customs duties, the proceeds of the United States income tax, the proceeds of any taxes levied by the Congress on the inhabitants of the Virgin Islands, and the proceeds of all quarantine, passport, immigration, and naturalization fees collected in the Virgin Islands, (less the cost of collecting such duties, taxes and fees as may be directly attributable (as certified by the Comptroller of the Virgin Islands) to the importation of petroleum products until January 1, 1982: Provided, That any other retained costs not heretofore remitted pursuant to the Act of August 18, 1978, shall be immediately remitted to the Treasury of the Virgin Islands notwithstanding any other provision of law) shall be covered into the treasury of the Virgin Islands, and shall be available for expenditure as the Legislature of the Virgin Islands may provide: Provided, That the term “inhabitants of the Virgin Islands” as used in this section shall include all persons whose permanent residence is in the Virgin Islands, and such persons shall satisfy their income tax obligations under applicable taxing statutes of the United States by paying their tax on income derived from all sources both within and outside the Virgin Islands into the treasury of the Virgin Islands: Provided further, That nothing in this chapter shall be construed to apply to any tax specified in section 3811 of the Internal Revenue Code.
 
-([July 22, 1954, ch. 558, § 28(a)][/us/act/1954-07-22/ch558/s28/a], [68 Stat. 508][/us/stat/68/508]; [Pub. L. 95–348, § 4(c)(3)][/us/pl/95/348/s4/c/3], Aug. 18, 1978, [92 Stat. 491][/us/stat/92/491]; [Pub. L. 96–205, title IV, § 403(a)][/us/pl/96/205/s403/a], Mar. 12, 1980, [94 Stat. 89][/us/stat/94/89].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 28(a), [68 Stat. 508][/us/stat/68/508]; [Pub. L. 95–348][/us/pl/95/348], § 4(c)(3), Aug. 18, 1978, [92 Stat. 491][/us/stat/92/491]; [Pub. L. 96–205, title IV][/us/pl/96/205/tIV], § 403(a), Mar. 12, 1980, [94 Stat. 89][/us/stat/94/89].)
 
  __References in Text__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs28%2Fa
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F508
-[/us/pl/95/348/s4/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs4%2Fc%2F3
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F491
-[/us/pl/96/205/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs403%2Fa
+[/us/pl/96/205/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtIV
 [/us/stat/94/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F89
 [/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F487

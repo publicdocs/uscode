@@ -17,7 +17,7 @@
 
     The duties and taxes collected in pursuance of sections 1394 and 1395 of this title shall not be covered into the general fund of the Treasury of the United States, but shall be used and expended for the government and benefit of the Virgin Islands, under such rules and regulations as the President may prescribe.
 
-([Mar. 3, 1917, ch. 171, § 5][/us/act/1917-03-03/ch171/s5], [39 Stat. 1133][/us/stat/39/1133].)
+([Mar. 3, 1917, ch. 171][/us/act/1917-03-03/ch171], § 5, [39 Stat. 1133][/us/stat/39/1133].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1917-03-03/ch171/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch171%2Fs5
+[/us/act/1917-03-03/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch171
 [/us/stat/39/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1133
 
 

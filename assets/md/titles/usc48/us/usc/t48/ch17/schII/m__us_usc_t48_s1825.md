@@ -17,7 +17,7 @@
 
     This subchapter shall come into force upon its approval or at the time proclaimed by the President for the Constitution of the Northern Mariana Islands to become effective, whichever is the later date.
 
-([Pub. L. 95–157, § 5][/us/pl/95/157/s5], Nov. 8, 1977, [91 Stat. 1267][/us/stat/91/1267].)
+([Pub. L. 95–157][/us/pl/95/157], § 5, Nov. 8, 1977, [91 Stat. 1267][/us/stat/91/1267].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/157/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157%2Fs5
+[/us/pl/95/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157
 [/us/stat/91/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1267
 [/us/usc/t48/s1694d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1694d
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

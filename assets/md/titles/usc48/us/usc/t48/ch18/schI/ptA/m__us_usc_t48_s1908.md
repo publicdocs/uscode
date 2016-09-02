@@ -23,11 +23,11 @@
 
         The provisions of this section shall cease to be effective when section 301 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States ([Public Law 94–241][/us/pl/94/241]) becomes effective pursuant to section 1003(c) of the Covenant.
 
-([Pub. L. 99–239, title I, § 108][/us/pl/99/239/s108], Jan. 14, 1986, [99 Stat. 1798][/us/stat/99/1798].)
+([Pub. L. 99–239, title I][/us/pl/99/239/tI], § 108, Jan. 14, 1986, [99 Stat. 1798][/us/stat/99/1798].)
 
  __References in Text__ 
 
-    [Section 24(b) of the Act of December 8, 1983][/us/act/1983-12-08/s24/b], referred to in subsec. (a), is [Pub. L. 98–213, § 24(b)][/us/pl/98/213/s24/b], Dec. 8, 1983, [97 Stat. 1465][/us/stat/97/1465], which was formerly set out as a note under [section 1801 of this title][/us/usc/t48/s1801].
+    [Section 24(b) of the Act of December 8, 1983][/us/act/1983-12-08/s24/b], referred to in subsec. (a), is [Pub. L. 98–213][/us/pl/98/213], § 24(b), Dec. 8, 1983, [97 Stat. 1465][/us/stat/97/1465], which was formerly set out as a note under [section 1801 of this title][/us/usc/t48/s1801].
 
     The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States, referred to in subsec. (b), is contained in [section 1 of Pub. L. 94–241][/us/pl/94/241/s1], as amended, set out as a note under [section 1801 of this title][/us/usc/t48/s1801]. For November 4, 1986, as the effective date of section 301 of the Covenant, see Proc. No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under [section 1801 of this title][/us/usc/t48/s1801].
 
@@ -47,10 +47,10 @@
 [/us/act/1983-12-08/s24/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1983-12-08%2Fs24%2Fb
 [/us/stat/97/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1465
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
-[/us/pl/99/239/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs108
+[/us/pl/99/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtI
 [/us/stat/99/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1798
 [/us/act/1983-12-08/s24/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1983-12-08%2Fs24%2Fb
-[/us/pl/98/213/s24/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs24%2Fb
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1465
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1

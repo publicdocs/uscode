@@ -19,7 +19,7 @@
 
     (b) The term of the Delegate shall commence on the third day of January following the date of the election.
 
-([Pub. L. 92–271, § 2][/us/pl/92/271/s2], Apr. 10, 1972, [86 Stat. 119][/us/stat/86/119]; [Pub. L. 105–209, § 1][/us/pl/105/209/s1], July 29, 1998, [112 Stat. 880][/us/stat/112/880].)
+([Pub. L. 92–271][/us/pl/92/271], § 2, Apr. 10, 1972, [86 Stat. 119][/us/stat/86/119]; [Pub. L. 105–209][/us/pl/105/209], § 1, July 29, 1998, [112 Stat. 880][/us/stat/112/880].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/92/271/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F271%2Fs2
+[/us/pl/92/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F271
 [/us/stat/86/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F119
-[/us/pl/105/209/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F209%2Fs1
+[/us/pl/105/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F209
 [/us/stat/112/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F880
 [/us/pl/105/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F209
 

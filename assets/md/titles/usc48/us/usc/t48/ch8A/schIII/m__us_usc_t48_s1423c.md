@@ -19,7 +19,7 @@
 
     (b) No member of the legislature shall be held to answer before any tribunal other than the legislature itself for any speech or debate in the legislature.
 
-([Aug. 1, 1950, ch. 512, § 13][/us/act/1950-08-01/ch512/s13], [64 Stat. 388][/us/stat/64/388].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 13, [64 Stat. 388][/us/stat/64/388].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs13
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F388
 
 

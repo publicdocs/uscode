@@ -185,7 +185,7 @@
 
         Any person in the Federated States of Micronesia or the Marshall Islands shall be liable for user fees, if any, for services provided in the Federated States of Micronesia or the Marshall Islands by the Government of the United States to the same extent as any person in the United States would be liable for fees, if any, for such services in the United States.
 
-([Pub. L. 99–239, title I, § 105][/us/pl/99/239/s105], Jan. 14, 1986, [99 Stat. 1791][/us/stat/99/1791]; [Pub. L. 99–396, § 20(a)][/us/pl/99/396/s20/a], Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844]; [Pub. L. 99–658, title I, § 104(c)][/us/pl/99/658/s104/c], Nov. 14, 1986, [100 Stat. 3676][/us/stat/100/3676]; [Pub. L. 100–369, § 9][/us/pl/100/369/s9], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–486, title XXVII, § 2704][/us/pl/102/486/s2704], Oct. 24, 1992, [106 Stat. 3120][/us/stat/106/3120]; [Pub. L. 113–287, § 5][/us/pl/113/287/s5](o)(1), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
+([Pub. L. 99–239, title I][/us/pl/99/239/tI], § 105, Jan. 14, 1986, [99 Stat. 1791][/us/stat/99/1791]; [Pub. L. 99–396][/us/pl/99/396], § 20(a), Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844]; [Pub. L. 99–658, title I][/us/pl/99/658/tI], § 104(c), Nov. 14, 1986, [100 Stat. 3676][/us/stat/100/3676]; [Pub. L. 100–369][/us/pl/100/369], § 9, July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–486, title XXVII][/us/pl/102/486/tXXVII], § 2704, Oct. 24, 1992, [106 Stat. 3120][/us/stat/106/3120]; [Pub. L. 113–287][/us/pl/113/287], § 5(o)(1), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
 
  __References in Text__ 
 
@@ -239,7 +239,7 @@
 
  __Federated States of Micronesia and Marshall Islands; Programs and Services Provided on Nonreimbursable Basis__ 
 
-[Pub. L. 99–396, § 20(b)][/us/pl/99/396/s20/b], Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844], provided that: 
+[Pub. L. 99–396][/us/pl/99/396], § 20(b), Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844], provided that: 
 
 > “The programs and services specified in section 105(h)(1), sections \[sic\] 105(i)(1) and (2), section 111(a) \[[48 U.S.C. 1905(h)(1)][/us/usc/t48/s1905/h/1], (i)(1), (2), 1911(a)\], the services of the National Health Service Corps pursuant to section 105(k), and the Technical Assistance and National Historic Preservation Act \[probably means the National Historic Preservation Act, see [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.\] grants pursuant to section 105(l), of [Public Law 99–239][/us/pl/99/239] shall be provided on a nonreimbursable basis.”
 
@@ -260,17 +260,17 @@
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
-[/us/pl/99/239/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs105
+[/us/pl/99/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtI
 [/us/stat/99/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1791
-[/us/pl/99/396/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs20%2Fa
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F844
-[/us/pl/99/658/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs104%2Fc
+[/us/pl/99/658/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2FtI
 [/us/stat/100/3676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3676
-[/us/pl/100/369/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs9
+[/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
 [/us/stat/102/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F837
-[/us/pl/102/486/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2704
+[/us/pl/102/486/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXVII
 [/us/stat/106/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3120
-[/us/pl/113/287/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/stat/99/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1770
@@ -317,7 +317,7 @@
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/99/396/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs20%2Fb
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F844
 [/us/usc/t48/s1905/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1905%2Fh%2F1
 [/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101

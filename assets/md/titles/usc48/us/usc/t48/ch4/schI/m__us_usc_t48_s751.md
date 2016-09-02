@@ -17,7 +17,7 @@
 
     Subtitle IV of title 49, and the Safety Appliance Acts and the several amendments made or to be made thereto, shall not apply to Puerto Rico.
 
-([Mar. 2, 1917, ch. 145, § 38][/us/act/1917-03-02/ch145/s38], [39 Stat. 964][/us/stat/39/964]; [Mar. 4, 1927, ch. 503, § 6][/us/act/1927-03-04/ch503/s6], [44 Stat. 1421][/us/stat/44/1421]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 38, [39 Stat. 964][/us/stat/39/964]; [Mar. 4, 1927, ch. 503][/us/act/1927-03-04/ch503], § 6, [44 Stat. 1421][/us/stat/44/1421]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    “Subtitle IV of title 49” substituted in text for “The Interstate Commerce Act and the several amendments made or to be made thereto \[[49 U.S.C. 1][/us/usc/t49/s1] et seq.\]” and “the Act of Congress entitled ‘An Act to amend an Act entitled “An Act to regulate commerce,” approved February 4, 1887, and all Acts amendatory thereof, by providing for a valuation of the several classes of property of carriers subject thereto and securing information concerning their stocks, bonds, and other securities,’ approved March 1, 1913 \[[49 U.S.C. 19a][/us/usc/t49/s19a]\]” on authority of [Pub. L. 95–473, § 3(b)][/us/pl/95/473/s3/b], Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49, Transportation.
+    “Subtitle IV of title 49” substituted in text for “The Interstate Commerce Act and the several amendments made or to be made thereto \[[49 U.S.C. 1][/us/usc/t49/s1] et seq.\]” and “the Act of Congress entitled ‘An Act to amend an Act entitled “An Act to regulate commerce,” approved February 4, 1887, and all Acts amendatory thereof, by providing for a valuation of the several classes of property of carriers subject thereto and securing information concerning their stocks, bonds, and other securities,’ approved March 1, 1913 \[[49 U.S.C. 19a][/us/usc/t49/s19a]\]” on authority of [Pub. L. 95–473][/us/pl/95/473], § 3(b), Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49, Transportation.
 
     Section is comprised of second paragraph of section 38 of act Mar. 2, 1917. The first and third paragraphs of section 38 were classified to sections 750 and 753, respectively, of this title.
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs38
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F964
-[/us/act/1927-03-04/ch503/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch503%2Fs6
+[/us/act/1927-03-04/ch503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch503
 [/us/stat/44/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1421
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
@@ -64,7 +64,7 @@
 [/us/stat/96/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2413
 [/us/usc/t49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1
 [/us/usc/t49/s19a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs19a
-[/us/pl/95/473/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs3%2Fb
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1466
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a
 

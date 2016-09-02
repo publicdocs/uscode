@@ -59,7 +59,7 @@
 
         The qualifications and duties of the justices and judges of the Supreme Court of Guam, the Superior Court of Guam, and all other local courts established by the laws of Guam shall be governed by the laws of Guam and the rules of such courts.
 
-([Aug. 1, 1950, ch. 512, § 22A][/us/act/1950-08-01/ch512/s22A], as added [Pub. L. 98–454, title VIII, § 801][/us/pl/98/454/s801], Oct. 5, 1984, [98 Stat. 1742][/us/stat/98/1742]; amended [Pub. L. 108–378, § 1(b)][/us/pl/108/378/s1/b], Oct. 30, 2004, [118 Stat. 2206][/us/stat/118/2206].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 22A, as added [Pub. L. 98–454, title VIII][/us/pl/98/454/tVIII], § 801, Oct. 5, 1984, [98 Stat. 1742][/us/stat/98/1742]; amended [Pub. L. 108–378][/us/pl/108/378], § 1(b), Oct. 30, 2004, [118 Stat. 2206][/us/stat/118/2206].)
 
  __Amendments__ 
 
@@ -77,10 +77,10 @@
 ----------
 
 [/us/usc/t48/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424
-[/us/act/1950-08-01/ch512/s22A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs22A
-[/us/pl/98/454/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs801
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
+[/us/pl/98/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVIII
 [/us/stat/98/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1742
-[/us/pl/108/378/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378%2Fs1%2Fb
+[/us/pl/108/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378
 [/us/stat/118/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2206
 [/us/pl/108/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378
 [/us/pl/98/454/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1005

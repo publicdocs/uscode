@@ -17,7 +17,7 @@
 
     The Legislature of Puerto Rico may create public corporate authorities to undertake slum clearance and projects to provide dwelling accommodations for families of low income.
 
-([June 25, 1938, ch. 703, § 1][/us/act/1938-06-25/ch703/s1], [52 Stat. 1203][/us/stat/52/1203].)
+([June 25, 1938, ch. 703][/us/act/1938-06-25/ch703], § 1, [52 Stat. 1203][/us/stat/52/1203].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch703/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch703%2Fs1
+[/us/act/1938-06-25/ch703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch703
 [/us/stat/52/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1203
 
 

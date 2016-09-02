@@ -17,7 +17,7 @@
 
     [Section 1124 of title 15][/us/usc/t15/s1124], and [section 1526 of title 19][/us/usc/t19/s1526], shall not apply to importations into the Virgin Islands of genuine foreign merchandise bearing a genuine foreign trade-mark, but shall remain applicable to importations of such merchandise from the Virgin Islands into the United States or its possessions; and the dealing in or possession of any such merchandise in the Virgin Islands shall not constitute a violation of any registrant’s right under the Trade Mark Act \[[15 U.S.C. 1051][/us/usc/t15/s1051] et seq.\].
 
-([July 22, 1954, ch. 558, § 28(c)][/us/act/1954-07-22/ch558/s28/c], [68 Stat. 509][/us/stat/68/509].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 28(c), [68 Stat. 509][/us/stat/68/509].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t15/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1124
 [/us/usc/t19/s1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1526
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/act/1954-07-22/ch558/s28/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs28%2Fc
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F509
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427

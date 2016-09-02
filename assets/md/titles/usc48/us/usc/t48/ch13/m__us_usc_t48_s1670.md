@@ -33,11 +33,11 @@
 
         For exclusion of interest for purposes of Federal income taxation, see [section 103 of title 26][/us/usc/t26/s103].
 
-([Pub. L. 98–454, title II, § 202][/us/pl/98/454/s202], Oct. 5, 1984, [98 Stat. 1733][/us/stat/98/1733]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 108–326, § 1(a)][/us/pl/108/326/s1/a], Oct. 16, 2004, [118 Stat. 1270][/us/stat/118/1270].)
+([Pub. L. 98–454, title II][/us/pl/98/454/tII], § 202, Oct. 5, 1984, [98 Stat. 1733][/us/stat/98/1733]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 108–326][/us/pl/108/326], § 1(a), Oct. 16, 2004, [118 Stat. 1270][/us/stat/118/1270].)
 
  __References in Text__ 
 
-    Section 103, referred to in subsec. (a), which related to interest on certain governmental obligations was amended generally by [Pub. L. 99–514, title XIII, § 1301(a)][/us/pl/99/514/s1301/a], Oct. 22, 1986, [100 Stat. 2602][/us/stat/100/2602], and as so amended relates to interest on State and local bonds. Section 103(b)(2), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
+    Section 103, referred to in subsec. (a), which related to interest on certain governmental obligations was amended generally by [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(a), Oct. 22, 1986, [100 Stat. 2602][/us/stat/100/2602], and as so amended relates to interest on State and local bonds. Section 103(b)(2), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–326, § 2][/us/pl/108/326/s2], Oct. 16, 2004, [118 Stat. 1270][/us/stat/118/1270], provided that: 
+[Pub. L. 108–326][/us/pl/108/326], § 2, Oct. 16, 2004, [118 Stat. 1270][/us/stat/118/1270], provided that: 
 
 > “This Act \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 16, 2004\].”
 
@@ -59,17 +59,17 @@
 ----------
 
 [/us/usc/t26/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs103
-[/us/pl/98/454/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs202
+[/us/pl/98/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtII
 [/us/stat/98/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1733
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/108/326/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F326%2Fs1%2Fa
+[/us/pl/108/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F326
 [/us/stat/118/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1270
-[/us/pl/99/514/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fa
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2602
 [/us/pl/108/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F326
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/108/326/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F326%2Fs2
+[/us/pl/108/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F326
 [/us/stat/118/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1270
 
 

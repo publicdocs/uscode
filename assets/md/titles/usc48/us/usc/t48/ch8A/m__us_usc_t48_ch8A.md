@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421" data-uslm-ref="/us/usc/t48/s1421">1421</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421o" data-uslm-ref="/us/usc/t48/s1421o">1421o.</a>  </td>
 
     <td> Federal assistance for fire control, watershed protection, and reforestation.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423" data-uslm-ref="/us/usc/t48/s1423">1423</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423l" data-uslm-ref="/us/usc/t48/s1423l">1423l.</a>  </td>
 
     <td> Omitted.  </td>
 

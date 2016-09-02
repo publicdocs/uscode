@@ -19,7 +19,7 @@
 
     (b) Those portions of title 28 which apply to Guam or the District Court of Guam shall be applicable to the Northern Mariana Islands or the District Court for the Northern Mariana Islands, respectively, except as otherwise provided in article IV of the covenant. The district court established by this subchapter shall be a district court as that term is used in [section 3006A of title 18][/us/usc/t18/s3006A].
 
-([Pub. L. 95–157, § 4][/us/pl/95/157/s4], Nov. 8, 1977, [91 Stat. 1266][/us/stat/91/1266]; [Pub. L. 98–454, title IX, § 904][/us/pl/98/454/s904], Oct. 5, 1984, [98 Stat. 1745][/us/stat/98/1745].)
+([Pub. L. 95–157][/us/pl/95/157], § 4, Nov. 8, 1977, [91 Stat. 1266][/us/stat/91/1266]; [Pub. L. 98–454, title IX][/us/pl/98/454/tIX], § 904, Oct. 5, 1984, [98 Stat. 1745][/us/stat/98/1745].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t48/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1823
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
-[/us/pl/95/157/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157%2Fs4
+[/us/pl/95/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157
 [/us/stat/91/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1266
-[/us/pl/98/454/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs904
+[/us/pl/98/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtIX
 [/us/stat/98/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1745
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

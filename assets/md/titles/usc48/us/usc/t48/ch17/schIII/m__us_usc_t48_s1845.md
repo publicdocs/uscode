@@ -19,7 +19,7 @@
 
     (b) Such studies shall include appropriate consideration of the needs for flood protection; wise use of flood plain lands; navigation facilities; hydroelectric power generation; regional water supply and waste water management facilities systems; general recreational facilities; enhancement and control of water quality; enhancement and conservation of fish and wildlife; and other measures for environment improvement and economic and human resources development. Such studies shall also be compatible with comprehensive development plans formulated by local planning agencies and other interested Federal agencies.
 
-([Pub. L. 98–213, § 13][/us/pl/98/213/s13], Dec. 8, 1983, [97 Stat. 1462][/us/stat/97/1462].)
+([Pub. L. 98–213][/us/pl/98/213], § 13, Dec. 8, 1983, [97 Stat. 1462][/us/stat/97/1462].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/98/213/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs13
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1462
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

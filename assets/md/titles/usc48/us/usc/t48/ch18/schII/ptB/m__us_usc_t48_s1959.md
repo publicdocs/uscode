@@ -27,7 +27,7 @@
 
         Funding to implement the provisions of this part, and for assistance to the central health care facility and the prison in Palau, and the offices of Public Auditor and Special Prosecutor as proposed in the agreement entitled “Agreement Concerning Special Programs related to the Entry into Force of the Compact of Free Association Between the Government of the United States and the Government of the Republic of Palau” signed on May 26, 1989, shall be available pursuant to the authorization in [section 105(c) of Public Law 99–239][/us/pl/99/239/s105/c] \[[48 U.S.C. 1905(c)][/us/usc/t48/s1905/c]\] as referenced by [section 102(b) of Public Law 99–658][/us/pl/99/658/s102/b] \[[48 U.S.C. 1932(b)][/us/usc/t48/s1932/b]\] or from funds appropriated for technical assistance to the Secretary of the Interior.
 
-([Pub. L. 101–219, title I, § 110][/us/pl/101/219/s110], Dec. 12, 1989, [103 Stat. 1872][/us/stat/103/1872].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 110, Dec. 12, 1989, [103 Stat. 1872][/us/stat/103/1872].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t48/s1905/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1905%2Fc
 [/us/pl/99/658/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs102%2Fb
 [/us/usc/t48/s1932/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1932%2Fb
-[/us/pl/101/219/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs110
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1872
 [/us/pl/101/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F62
 [/us/pl/101/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F62

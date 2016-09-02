@@ -17,7 +17,7 @@
 
     The relations between the courts established by the Constitution or laws of the United States and the courts established by local law with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus, and other matters or proceedings shall be governed by the laws of the United States pertaining to the relations between the courts of the United States, including the Supreme Court of the United States, and the courts of the several States in such matters and proceedings.
 
-([July 22, 1954, ch. 558, § 23][/us/act/1954-07-22/ch558/s23], [68 Stat. 506][/us/stat/68/506]; [Pub. L. 98–454, title VII, § 704][/us/pl/98/454/s704], Oct. 5, 1984, [98 Stat. 1739][/us/stat/98/1739]; [Pub. L. 103–437, § 17(a)(4)][/us/pl/103/437/s17/a/4], Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595]; [Pub. L. 112–226, § 1][/us/pl/112/226/s1], Dec. 28, 2012, [126 Stat. 1606][/us/stat/126/1606].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 23, [68 Stat. 506][/us/stat/68/506]; [Pub. L. 98–454, title VII][/us/pl/98/454/tVII], § 704, Oct. 5, 1984, [98 Stat. 1739][/us/stat/98/1739]; [Pub. L. 103–437][/us/pl/103/437], § 17(a)(4), Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595]; [Pub. L. 112–226][/us/pl/112/226], § 1, Dec. 28, 2012, [126 Stat. 1606][/us/stat/126/1606].)
 
  __Amendments__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs23
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F506
-[/us/pl/98/454/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs704
+[/us/pl/98/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVII
 [/us/stat/98/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1739
-[/us/pl/103/437/s17/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs17%2Fa%2F4
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4595
-[/us/pl/112/226/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F226%2Fs1
+[/us/pl/112/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F226
 [/us/stat/126/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1606
 [/us/pl/112/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F226
 [/us/usc/t48/s1611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1611%2Fa

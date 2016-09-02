@@ -17,7 +17,7 @@
 
     Any appointment made on or after May 10, 1967, to the office of the High Commissioner of the Trust Territory of the Pacific Islands shall be made by the President by and with the advice and consent of the Senate.
 
-([Pub. L. 90–16, § 2][/us/pl/90/16/s2], May 10, 1967, [81 Stat. 15][/us/stat/81/15].)
+([Pub. L. 90–16][/us/pl/90/16], § 2, May 10, 1967, [81 Stat. 15][/us/stat/81/15].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/16/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F16%2Fs2
+[/us/pl/90/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F16
 [/us/stat/81/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F15
 
 

@@ -17,7 +17,7 @@
 
     All bonds issued by the Government of Puerto Rico, or by its authority, shall be exempt from taxation by the Government of the United States, or by the Government of Puerto Rico or of any political or municipal subdivision thereof, or by any State, Territory, or possession, or by any county, municipality, or other municipal subdivision of any State, Territory, or possession of the United States, or by the District of Columbia.
 
-([Mar. 2, 1917, ch. 145, § 3][/us/act/1917-03-02/ch145/s3], [39 Stat. 953][/us/stat/39/953]; [Feb. 3, 1921, ch. 34, § 2][/us/act/1921-02-03/ch34/s2], [41 Stat. 1096][/us/stat/41/1096]; [Mar. 4, 1927, ch. 503, § 1][/us/act/1927-03-04/ch503/s1], [44 Stat. 1418][/us/stat/44/1418]; [Aug. 26, 1937, ch. 831][/us/act/1937-08-26/ch831], [50 Stat. 844][/us/stat/50/844]; [Aug. 17, 1950, ch. 731][/us/act/1950-08-17/ch731], [64 Stat. 458][/us/stat/64/458]; [Pub. L. 87–121, § 1][/us/pl/87/121/s1], Aug. 3, 1961, [75 Stat. 245][/us/stat/75/245].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 3, [39 Stat. 953][/us/stat/39/953]; [Feb. 3, 1921, ch. 34][/us/act/1921-02-03/ch34], § 2, [41 Stat. 1096][/us/stat/41/1096]; [Mar. 4, 1927, ch. 503][/us/act/1927-03-04/ch503], § 1, [44 Stat. 1418][/us/stat/44/1418]; [Aug. 26, 1937, ch. 831][/us/act/1937-08-26/ch831], [50 Stat. 844][/us/stat/50/844]; [Aug. 17, 1950, ch. 731][/us/act/1950-08-17/ch731], [64 Stat. 458][/us/stat/64/458]; [Pub. L. 87–121][/us/pl/87/121], § 1, Aug. 3, 1961, [75 Stat. 245][/us/stat/75/245].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Apr. 12, 1900, ch. 191, § 38][/us/act/1900-04-12/ch191/s38], [31 Stat. 86][/us/stat/31/86].
+    Provisions similar to those in this section were contained in [act Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], § 38, [31 Stat. 86][/us/stat/31/86].
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–121, § 2][/us/pl/87/121/s2], Aug. 3, 1961, [75 Stat. 245][/us/stat/75/245], provided that: 
+[Pub. L. 87–121][/us/pl/87/121], § 2, Aug. 3, 1961, [75 Stat. 245][/us/stat/75/245], provided that: 
 
 > “Section 1 of this Act \[amending this section\] shall take effect upon a majority of the qualified electors of Puerto Rico having voted in a referendum pursuant to section 1 of article VII of the constitution of the Commonwealth of Puerto Rico, to include provisions in the Commonwealth constitution, in lieu of the provisions of section 3 of the Puerto Rican Federal Relations Act \[this section\] specified herein, limiting the debt-incurring capacity of the Commonwealth and of its municipalities (as proposed in the concurrent resolution of the legislative assembly of the Commonwealth).”
 
@@ -54,22 +54,22 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs3
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F953
-[/us/act/1921-02-03/ch34/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-02-03%2Fch34%2Fs2
+[/us/act/1921-02-03/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-02-03%2Fch34
 [/us/stat/41/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1096
-[/us/act/1927-03-04/ch503/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch503%2Fs1
+[/us/act/1927-03-04/ch503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch503
 [/us/stat/44/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1418
 [/us/act/1937-08-26/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-26%2Fch831
 [/us/stat/50/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F844
 [/us/act/1950-08-17/ch731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch731
 [/us/stat/64/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F458
-[/us/pl/87/121/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F121%2Fs1
+[/us/pl/87/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F121
 [/us/stat/75/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F245
-[/us/act/1900-04-12/ch191/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191%2Fs38
+[/us/act/1900-04-12/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191
 [/us/stat/31/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F86
 [/us/pl/87/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F121
-[/us/pl/87/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F121%2Fs2
+[/us/pl/87/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F121
 [/us/stat/75/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F245
 
 

@@ -65,7 +65,7 @@
 
         The Departments of Energy and Interior are directed to provide the Committees on Appropriations of the House and Senate with a report by December 1 of each fiscal year detailing how funds were spent during the previous fiscal year for the special medical care and logistical support program for Rongelap and Utrik and for the agriculture and food programs for Eniwetok and Bikini as referenced in [Section 103(h) of Public Law 99–239][/us/pl/99/239/s103/h] \[[48 U.S.C. 1903(h)][/us/usc/t48/s1903/h]\]. The report shall also specify the anticipated needs during the current and following fiscal years in order to meet the radiological health care and logistical support program for Rongelap and Utrik and the planting, agricultural maintenance, and food programs for Eniwetok and Bikini. It is the sense of the Congress that the special medical care and logistical support program for Rongelap and Utrik and for the agriculture and food programs for Eniwetok and Bikini described in [section 103(h) of Public Law 99–239][/us/pl/99/239/s103/h] represent special and continuing moral commitments of the United States which will be annually funded to the extent of the need of the populations of such atolls for such assistance.
 
-([Pub. L. 99–658, title I, § 104][/us/pl/99/658/s104], Nov. 14, 1986, [100 Stat. 3675][/us/stat/100/3675]; [Pub. L. 101–219, title I, § 105][/us/pl/101/219/s105], Dec. 12, 1989, [103 Stat. 1871][/us/stat/103/1871]; [Pub. L. 110–181, div. A, title XII, § 1253][/us/pl/110/181/s1253], Jan. 28, 2008, [122 Stat. 402][/us/stat/122/402].)
+([Pub. L. 99–658, title I][/us/pl/99/658/tI], § 104, Nov. 14, 1986, [100 Stat. 3675][/us/stat/100/3675]; [Pub. L. 101–219, title I][/us/pl/101/219/tI], § 105, Dec. 12, 1989, [103 Stat. 1871][/us/stat/103/1871]; [Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1253, Jan. 28, 2008, [122 Stat. 402][/us/stat/122/402].)
 
  __References in Text__ 
 
@@ -120,11 +120,11 @@
 [/us/pl/99/239/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs103%2Fh
 [/us/usc/t48/s1903/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1903%2Fh
 [/us/pl/99/239/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs103%2Fh
-[/us/pl/99/658/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs104
+[/us/pl/99/658/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2FtI
 [/us/stat/100/3675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3675
-[/us/pl/101/219/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs105
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1871
-[/us/pl/110/181/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1253
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F402
 [/us/pl/99/658/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs201
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931

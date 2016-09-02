@@ -11,97 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_ch3.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s518a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs504)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s491...503.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s505...518.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs504)
 
 ## § 504. Repealed. [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 403(a)(6), [66 Stat. 279][/us/stat/66/279]
 
-    Section, [act Apr. 30, 1900, ch. 339, § 10][/us/act/1900-04-30/ch339/s10], [31 Stat. 143][/us/stat/31/143], related to applicability of immigration contract labor law. See section 1151 et seq. of Title 8, Aliens and Nationality.
-
-§§ 505 to 518. __Omitted__ 
-
- __Codification__ 
-
-    Sections 505 to 518, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.
-
-    Section 505, [act Apr. 30, 1900, ch. 339, § 11][/us/act/1900-04-30/ch339/s11], [31 Stat. 144][/us/stat/31/144], prescribed the style of process in courts.
-
-    Section 506, [act Apr. 30, 1900, ch. 339][/us/act/1900-04-30/ch339], §§ 95, 96, [31 Stat. 160][/us/stat/31/160], made certain fisheries free to United States citizens subject to vested rights.
-
-    Section 507, [act Apr. 30, 1900, ch. 339, § 96][/us/act/1900-04-30/ch339/s96], [31 Stat. 160][/us/stat/31/160], provided for condemnation of private fishing rights.
-
-    Section 508, acts [Apr. 30, 1900, ch. 339, § 97][/us/act/1900-04-30/ch339/s97], [31 Stat. 160][/us/stat/31/160]; [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 913, formerly title VI, § 611, [58 Stat. 714][/us/stat/58/714], provided that jurisdiction of health laws remain under the control of Territory of Hawaii.
-
-    Section 509, [act Apr. 30, 1900, ch. 339, § 98][/us/act/1900-04-30/ch339/s98], [31 Stat. 161][/us/stat/31/161], allowed American registry of Hawaiian-registered vessels.
-
-    Section 510, acts [Apr. 30, 1900, ch. 339, § 89][/us/act/1900-04-30/ch339/s89], [31 Stat. 159][/us/stat/31/159]; [Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], §§ 1, 20, [63 Stat. 496][/us/stat/63/496], 561; [June 29, 1954, ch. 418][/us/act/1954-06-29/ch418], [68 Stat. 323][/us/stat/68/323], placed control of wharves and landings under Territory of Hawaii.
-
-    Section 511, acts [Apr. 30, 1900, ch. 339, § 91][/us/act/1900-04-30/ch339/s91], [31 Stat. 159][/us/stat/31/159]; [May 27, 1910, ch. 258, § 7][/us/act/1910-05-27/ch258/s7], [36 Stat. 447][/us/stat/36/447]; [June 19, 1930, ch. 546][/us/act/1930-06-19/ch546], [46 Stat. 789][/us/stat/46/789]; Aug. 21, 1958, [Pub. L. 85–719, § 1][/us/pl/85/719/s1], [72 Stat. 709][/us/stat/72/709], gave to Territory of Hawaii control of public property ceded to United States by Republic of Hawaii and allowed transfer of title to political subdivisions of Territory.
-
-    Section 512, [act May 26, 1906, ch. 2561][/us/act/1906-05-26/ch2561], [34 Stat. 204][/us/stat/34/204], made provision for sale, lease, or disposal of personal or movable property ceded to the United States.
-
-    Section 513, [act Jan. 14, 1903, ch. 186][/us/act/1903-01-14/ch186], §§ 1, 2, [32 Stat. 770][/us/stat/32/770], called for recoinage of Hawaiian silver coins into subsidiary silver coins of the United States.
-
-    Section 514, [act Jan. 14, 1903, ch. 186, § 3][/us/act/1903-01-14/ch186/s3], [32 Stat. 771][/us/stat/32/771], allowed any collector of customs or internal revenue to exchange United States coins in his custody for Hawaiian coins under regulations of Secretary of the Treasury.
-
-    Section 515, [act Jan. 14, 1903, ch. 186, § 4][/us/act/1903-01-14/ch186/s4], [32 Stat. 771][/us/stat/32/771], allowed recoinage of mutilated or abraded Hawaiian coins into subsidiary coinage of the United States by any mint of the United States.
-
-    Section 516, [act Jan. 14, 1903, ch. 186, § 6][/us/act/1903-01-14/ch186/s6], [32 Stat. 771][/us/stat/32/771], made unlawful circulation as money of any silver certificate issued by government of Hawaiian Islands prior to Jan. 14, 1903.
-
-    Section 517, [act Jan. 14, 1903, ch. 186, § 7][/us/act/1903-01-14/ch186/s7], [32 Stat. 771][/us/stat/32/771], limited redemption of Hawaiian silver certificates or silver coin to redemption in manner and upon conditions set for recoinage of Hawaiian silver.
-
-    Section 518, [act Apr. 30, 1900, ch. 3390, § 105][/us/act/1900-04-30/ch3390/s105], as added [July 9, 1921, ch. 42, § 315][/us/act/1921-07-09/ch42/s315], [42 Stat. 120][/us/stat/42/120], prohibited employment as a mechanic or laborer on any public work of persons not citizens of the United States or eligible for such citizenship.
+    Section, [act Apr. 30, 1900, ch. 339][/us/act/1900-04-30/ch339], § 10, [31 Stat. 143][/us/stat/31/143], related to applicability of immigration contract labor law. See section 1151 et seq. of Title 8, Aliens and Nationality.
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_ch3.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s518a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs504)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s491...503.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s505...518.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs504)
 
 ----------
 ----------
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F279
-[/us/act/1900-04-30/ch339/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs10
-[/us/stat/31/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F143
-[/us/act/1900-04-30/ch339/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs11
-[/us/stat/31/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F144
 [/us/act/1900-04-30/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339
-[/us/stat/31/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F160
-[/us/act/1900-04-30/ch339/s96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs96
-[/us/stat/31/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F160
-[/us/act/1900-04-30/ch339/s97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs97
-[/us/stat/31/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F160
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/stat/58/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F714
-[/us/act/1900-04-30/ch339/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs98
-[/us/stat/31/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F161
-[/us/act/1900-04-30/ch339/s89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs89
-[/us/stat/31/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F159
-[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
-[/us/stat/63/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F496
-[/us/act/1954-06-29/ch418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch418
-[/us/stat/68/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F323
-[/us/act/1900-04-30/ch339/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs91
-[/us/stat/31/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F159
-[/us/act/1910-05-27/ch258/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-05-27%2Fch258%2Fs7
-[/us/stat/36/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F447
-[/us/act/1930-06-19/ch546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-19%2Fch546
-[/us/stat/46/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F789
-[/us/pl/85/719/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F719%2Fs1
-[/us/stat/72/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F709
-[/us/act/1906-05-26/ch2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-26%2Fch2561
-[/us/stat/34/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F204
-[/us/act/1903-01-14/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-01-14%2Fch186
-[/us/stat/32/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F770
-[/us/act/1903-01-14/ch186/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-01-14%2Fch186%2Fs3
-[/us/stat/32/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F771
-[/us/act/1903-01-14/ch186/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-01-14%2Fch186%2Fs4
-[/us/stat/32/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F771
-[/us/act/1903-01-14/ch186/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-01-14%2Fch186%2Fs6
-[/us/stat/32/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F771
-[/us/act/1903-01-14/ch186/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-01-14%2Fch186%2Fs7
-[/us/stat/32/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F771
-[/us/act/1900-04-30/ch3390/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch3390%2Fs105
-[/us/act/1921-07-09/ch42/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-09%2Fch42%2Fs315
-[/us/stat/42/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F120
+[/us/stat/31/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F143
 
 

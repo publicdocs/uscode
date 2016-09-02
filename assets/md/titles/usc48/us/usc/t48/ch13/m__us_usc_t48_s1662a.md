@@ -17,7 +17,7 @@
 
     Amendments of, or modifications to, the constitution of American Samoa, as approved by the Secretary of the Interior pursuant to Executive Order 10264 as in effect January 1, 1983, may be made only by Act of Congress.
 
-([Pub. L. 98–213, § 12][/us/pl/98/213/s12], Dec. 8, 1983, [97 Stat. 1462][/us/stat/97/1462].)
+([Pub. L. 98–213][/us/pl/98/213], § 12, Dec. 8, 1983, [97 Stat. 1462][/us/stat/97/1462].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/213/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs12
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1462
 [/us/usc/t48/s1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1662
 

@@ -35,7 +35,7 @@
 
         In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for American Samoa relating to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
-([Pub. L. 96–205, title V, § 501][/us/pl/96/205/s501], as added [Pub. L. 97–357, title IV, § 402][/us/pl/97/357/s402], Oct. 19, 1982, [96 Stat. 1711][/us/stat/96/1711]; amended [Pub. L. 105–362, title IX, § 901][/us/pl/105/362/s901](o), Nov. 10, 1998, [112 Stat. 3291][/us/stat/112/3291].)
+([Pub. L. 96–205, title V][/us/pl/96/205/tV], § 501, as added [Pub. L. 97–357, title IV][/us/pl/97/357/tIV], § 402, Oct. 19, 1982, [96 Stat. 1711][/us/stat/96/1711]; amended [Pub. L. 105–362, title IX][/us/pl/105/362/tIX], § 901(o), Nov. 10, 1998, [112 Stat. 3291][/us/stat/112/3291].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1668, [Pub. L. 96–205, title V, § 501][/us/pl/96/205/s501], Mar. 12, 1980, [94 Stat. 90][/us/stat/94/90], mandated payment of salary and expenses of the government comptroller for American Samoa from funds appropriated to the Department of the Interior, prior to repeal by [Pub. L. 97–357, § 402][/us/pl/97/357/s402].
+    A prior section 1668, [Pub. L. 96–205, title V][/us/pl/96/205/tV], § 501, Mar. 12, 1980, [94 Stat. 90][/us/stat/94/90], mandated payment of salary and expenses of the government comptroller for American Samoa from funds appropriated to the Department of the Interior, prior to repeal by [Pub. L. 97–357][/us/pl/97/357], § 402.
 
  __Amendments__ 
 
@@ -61,16 +61,16 @@
 ----------
 
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/96/205/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs501
-[/us/pl/97/357/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs402
+[/us/pl/96/205/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtV
+[/us/pl/97/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtIV
 [/us/stat/96/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1711
-[/us/pl/105/362/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs901
+[/us/pl/105/362/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIX
 [/us/stat/112/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3291
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/96/205/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs501
+[/us/pl/96/205/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtV
 [/us/stat/94/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F90
-[/us/pl/97/357/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs402
+[/us/pl/97/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

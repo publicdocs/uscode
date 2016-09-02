@@ -31,7 +31,7 @@
 
         In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for the Virgin Islands related to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
-([July 22, 1954, ch. 558, § 17][/us/act/1954-07-22/ch558/s17], as added [Pub. L. 97–357, title III, § 309(b)][/us/pl/97/357/s309/b], Oct. 19, 1982, [96 Stat. 1710][/us/stat/96/1710].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 17, as added [Pub. L. 97–357, title III][/us/pl/97/357/tIII], § 309(b), Oct. 19, 1982, [96 Stat. 1710][/us/stat/96/1710].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1599, acts [July 22, 1954, ch. 558, § 17][/us/act/1954-07-22/ch558/s17], [68 Stat. 505][/us/stat/68/505]; Aug. 28, 1958, [Pub. L. 85–851][/us/pl/85/851], §§ 4, 5, [72 Stat. 1094][/us/stat/72/1094], 1095; Mar. 20, 1962, [Pub. L. 87–421][/us/pl/87/421], [76 Stat. 43][/us/stat/76/43]; Aug. 23, 1968, [Pub. L. 90–496, § 9][/us/pl/90/496/s9], [82 Stat. 840][/us/stat/82/840]; Oct. 15, 1977, [Pub. L. 95–134, title III, § 301(a)][/us/pl/95/134/s301/a], [91 Stat. 1162][/us/stat/91/1162], related to appointment, status, and duties of the government comptroller for the Virgin Islands, prior to repeal by [Pub. L. 97–357, § 309(b)][/us/pl/97/357/s309/b].
+    A prior section 1599, acts [July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 17, [68 Stat. 505][/us/stat/68/505]; Aug. 28, 1958, [Pub. L. 85–851][/us/pl/85/851], §§ 4, 5, [72 Stat. 1094][/us/stat/72/1094], 1095; Mar. 20, 1962, [Pub. L. 87–421][/us/pl/87/421], [76 Stat. 43][/us/stat/76/43]; Aug. 23, 1968, [Pub. L. 90–496][/us/pl/90/496], § 9, [82 Stat. 840][/us/stat/82/840]; Oct. 15, 1977, [Pub. L. 95–134, title III][/us/pl/95/134/tIII], § 301(a), [91 Stat. 1162][/us/stat/91/1162], related to appointment, status, and duties of the government comptroller for the Virgin Islands, prior to repeal by [Pub. L. 97–357][/us/pl/97/357], § 309(b).
 
 ----------
 
@@ -49,21 +49,21 @@
 ----------
 
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/act/1954-07-22/ch558/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs17
-[/us/pl/97/357/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs309%2Fb
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
+[/us/pl/97/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtIII
 [/us/stat/96/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1710
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/act/1954-07-22/ch558/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs17
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F505
 [/us/pl/85/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851
 [/us/stat/72/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1094
 [/us/pl/87/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F421
 [/us/stat/76/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F43
-[/us/pl/90/496/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs9
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F840
-[/us/pl/95/134/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs301%2Fa
+[/us/pl/95/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2FtIII
 [/us/stat/91/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1162
-[/us/pl/97/357/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs309%2Fb
+[/us/pl/97/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357
 
 

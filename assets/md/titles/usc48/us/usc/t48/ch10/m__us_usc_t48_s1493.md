@@ -23,7 +23,7 @@
 
     (c) an adverse decision, judgment, or order of an appellate court.
 
-([Pub. L. 98–454, title X, § 1003][/us/pl/98/454/s1003], Oct. 5, 1984, [98 Stat. 1746][/us/stat/98/1746].)
+([Pub. L. 98–454, title X][/us/pl/98/454/tX], § 1003, Oct. 5, 1984, [98 Stat. 1746][/us/stat/98/1746].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/454/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1003
+[/us/pl/98/454/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtX
 [/us/stat/98/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1746
 [/us/pl/98/454/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1005
 [/us/usc/t48/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424

@@ -17,7 +17,7 @@
 
     The internal-revenue taxes levied by the Legislature of Puerto Rico in pursuance of the authority granted by this chapter on articles, goods, wares, or merchandise may be levied and collected as such legislature may direct, on the articles subject to said tax, as soon as the same are manufactured, sold, used, or brought into the island: Provided, That no discrimination be made between the articles imported from the United States or foreign countries and similar articles produced or manufactured in Puerto Rico. The officials of the Customs and Postal Services of the United States are directed to assist the appropriate officials of the Puerto Rican government in the collection of these taxes.
 
-([Mar. 2, 1917, ch. 145, § 3][/us/act/1917-03-02/ch145/s3], [39 Stat. 953][/us/stat/39/953]; [Mar. 4, 1927, ch. 503, § 1][/us/act/1927-03-04/ch503/s1], [44 Stat. 1418][/us/stat/44/1418]; [Aug. 26, 1937, ch. 831][/us/act/1937-08-26/ch831], [50 Stat. 844][/us/stat/50/844].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 3, [39 Stat. 953][/us/stat/39/953]; [Mar. 4, 1927, ch. 503][/us/act/1927-03-04/ch503], § 1, [44 Stat. 1418][/us/stat/44/1418]; [Aug. 26, 1937, ch. 831][/us/act/1937-08-26/ch831], [50 Stat. 844][/us/stat/50/844].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs3
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F953
-[/us/act/1927-03-04/ch503/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch503%2Fs1
+[/us/act/1927-03-04/ch503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch503
 [/us/stat/44/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1418
 [/us/act/1937-08-26/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-26%2Fch831
 [/us/stat/50/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F844

@@ -37,7 +37,7 @@
 
         For the provision of technical assistance or support under this paragraph (other than that required to pay the salaries and expenses of Federal personnel), the Secretary of the Interior shall require a non-Federal matching contribution of 10 percent.
 
-([Pub. L. 110–229, title VII, § 702(e)][/us/pl/110/229/s702/e], May 8, 2008, [122 Stat. 863][/us/stat/122/863].)
+([Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(e), May 8, 2008, [122 Stat. 863][/us/stat/122/863].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t48/s1806/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1806%2Fa%2F4
-[/us/pl/110/229/s702/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fe
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F863
 [/us/usc/t48/s1806/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1806%2Fa%2F4
 [/us/usc/t48/s1806/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1806%2Fa%2F5

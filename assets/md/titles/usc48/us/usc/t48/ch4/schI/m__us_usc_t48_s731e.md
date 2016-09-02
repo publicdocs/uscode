@@ -17,7 +17,7 @@
 
     This chapter is continued in force and effect.
 
-([July 3, 1950, ch. 446, § 4][/us/act/1950-07-03/ch446/s4], [64 Stat. 319][/us/stat/64/319].)
+([July 3, 1950, ch. 446][/us/act/1950-07-03/ch446], § 4, [64 Stat. 319][/us/stat/64/319].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1950-07-03/ch446/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-03%2Fch446%2Fs4
+[/us/act/1950-07-03/ch446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-03%2Fch446
 [/us/stat/64/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F319
 [/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F951

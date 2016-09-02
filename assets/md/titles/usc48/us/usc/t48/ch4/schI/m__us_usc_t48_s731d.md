@@ -19,7 +19,7 @@
 
     Upon approval by the Congress the constitution shall become effective in accordance with its terms.
 
-([July 3, 1950, ch. 446, § 3][/us/act/1950-07-03/ch446/s3], [64 Stat. 319][/us/stat/64/319].)
+([July 3, 1950, ch. 446][/us/act/1950-07-03/ch446], § 3, [64 Stat. 319][/us/stat/64/319].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1950-07-03/ch446/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-03%2Fch446%2Fs3
+[/us/act/1950-07-03/ch446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-03%2Fch446
 [/us/stat/64/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F319
 [/us/act/1952-07-03/ch567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch567
 [/us/stat/66/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F327

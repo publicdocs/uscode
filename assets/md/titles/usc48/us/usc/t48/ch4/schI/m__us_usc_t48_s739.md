@@ -17,7 +17,7 @@
 
     The same tariffs, customs, and duties shall be levied, collected, and paid upon all articles imported into Puerto Rico from ports other than those of the United States which are required by law to be collected upon articles imported into the United States from foreign countries. All books and pamphlets printed in the English language shall be admitted into Puerto Rico free of duty when imported from the United States.
 
-([Apr. 12, 1900, ch. 191, § 2][/us/act/1900-04-12/ch191/s2], [31 Stat. 77][/us/stat/31/77]; [Aug. 5, 1909, ch. 6, § 1][/us/act/1909-08-05/ch6/s1], [36 Stat. 71][/us/stat/36/71], 74; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], § 2, [31 Stat. 77][/us/stat/31/77]; [Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 1, [36 Stat. 71][/us/stat/36/71], 74; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __Codification__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1900-04-12/ch191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191%2Fs2
+[/us/act/1900-04-12/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191
 [/us/stat/31/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F77
-[/us/act/1909-08-05/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs1
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F71
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

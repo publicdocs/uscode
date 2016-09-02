@@ -17,7 +17,7 @@
 
     All merchandise and articles coming into the United States from Puerto Rico and coming into Puerto Rico from the United States shall be entered at the several ports of entry free of duty and in no event shall any tariff duties be collected on said merchandise or articles.
 
-([Apr. 12, 1900, ch. 191, § 3][/us/act/1900-04-12/ch191/s3], [31 Stat. 77][/us/stat/31/77]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], § 3, [31 Stat. 77][/us/stat/31/77]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1900-04-12/ch191/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191%2Fs3
+[/us/act/1900-04-12/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191
 [/us/stat/31/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F77
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

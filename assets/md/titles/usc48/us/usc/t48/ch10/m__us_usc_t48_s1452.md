@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1451.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1456.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1452)
+[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1451.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1453...1455.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1452)
 
 ## § 1452. Regulation of Indians
 
     Nor shall anything in title 23 of the Revised Statutes be construed to affect the authority of the United States to make any regulations respecting the Indians of any Territory, their lands, property, or rights, by treaty, law, or otherwise, in the same manner as might be made if no temporary government existed, or is hereafter established, in any such Territory. As used herein, the term “Territory” does not include the Virgin Islands, Puerto Rico, American Samoa, Guam, or the Northern Mariana Islands.
 
-(R.S. § 1840; [Pub. L. 98–213, § 15(b)][/us/pl/98/213/s15/b], Dec. 8, 1983, [97 Stat. 1462][/us/stat/97/1462].)
+(R.S. § 1840; [Pub. L. 98–213][/us/pl/98/213], § 15(b), Dec. 8, 1983, [97 Stat. 1462][/us/stat/97/1462].)
 
  __References in Text__ 
 
@@ -25,51 +25,39 @@
 
  __Codification__ 
 
-    R.S. § 1840 derived from N.M., [act Sept. 9, 1850, ch. 49, § 2][/us/act/1850-09-09/ch49/s2], [9 Stat. 447][/us/stat/9/447]. Utah, [act Sept. 9, 1850, ch. 51, § 1][/us/act/1850-09-09/ch51/s1], [9 Stat. 453][/us/stat/9/453]. Wash., [act Mar. 2, 1853, ch. 90, § 1][/us/act/1853-03-02/ch90/s1], [10 Stat. 172][/us/stat/10/172]. Colo., [act Feb. 28, 1861, ch. 59, § 1][/us/act/1861-02-28/ch59/s1], [12 Stat. 172][/us/stat/12/172]. Dak., [act Mar. 2, 1861, ch. 86, § 1][/us/act/1861-03-02/ch86/s1], [12 Stat. 239][/us/stat/12/239]. Ariz., [act Feb. 24, 1863, ch. 56, § 1][/us/act/1863-02-24/ch56/s1], [12 Stat. 664][/us/stat/12/664]. Idaho, [act Mar. 3, 1863, ch. 117, § 1][/us/act/1863-03-03/ch117/s1], [12 Stat. 808][/us/stat/12/808]. Mont., [act May 26, 1864, ch. 95, § 1][/us/act/1864-05-26/ch95/s1], [13 Stat. 85][/us/stat/13/85]. Wyo., [act July 25, 1868, ch. 235, § 1][/us/act/1868-07-25/ch235/s1], [15 Stat. 178][/us/stat/15/178].
+    R.S. § 1840 derived from N.M., [act Sept. 9, 1850, ch. 49][/us/act/1850-09-09/ch49], § 2, [9 Stat. 447][/us/stat/9/447]. Utah, [act Sept. 9, 1850, ch. 51][/us/act/1850-09-09/ch51], § 1, [9 Stat. 453][/us/stat/9/453]. Wash., [act Mar. 2, 1853, ch. 90][/us/act/1853-03-02/ch90], § 1, [10 Stat. 172][/us/stat/10/172]. Colo., [act Feb. 28, 1861, ch. 59][/us/act/1861-02-28/ch59], § 1, [12 Stat. 172][/us/stat/12/172]. Dak., [act Mar. 2, 1861, ch. 86][/us/act/1861-03-02/ch86], § 1, [12 Stat. 239][/us/stat/12/239]. Ariz., [act Feb. 24, 1863, ch. 56][/us/act/1863-02-24/ch56], § 1, [12 Stat. 664][/us/stat/12/664]. Idaho, [act Mar. 3, 1863, ch. 117][/us/act/1863-03-03/ch117], § 1, [12 Stat. 808][/us/stat/12/808]. Mont., [act May 26, 1864, ch. 95][/us/act/1864-05-26/ch95], § 1, [13 Stat. 85][/us/stat/13/85]. Wyo., [act July 25, 1868, ch. 235][/us/act/1868-07-25/ch235], § 1, [15 Stat. 178][/us/stat/15/178].
 
  __Amendments__ 
 
     1983—[Pub. L. 98–213][/us/pl/98/213] inserted provisions excluding from the term “Territory” the Virgin Islands, Puerto Rico, American Samoa, Guam, or the Northern Mariana Islands.
 
-§§ 1453 to 1455. __Repealed.__  __[__  __Pub. L. 98–213, § 16(c)__  __][/us/pl/98/213/s16/c]__  __–(f),__  __Dec. 8, 1983__  __,__  __[__  __97 Stat. 1462__  __][/us/stat/97/1462]__ 
-
-    Section 1453, R.S. § 1841, related to powers, duties and term of office of governor of each Territory, in whom the executive power was vested.
-
-    Section 1453a, R.S. § 1873, related to temporary definition by proclamation, by governor, of judicial districts of such Territory, and assignment of judges appointed for such Territory to several districts as well as fixing of times and places for holding courts.
-
-    Section 1454, R.S. § 1843, related to appointment and term of office of Secretary appointed for each Territory, and duties in case of death, removal, resignation or absence of governor from Territory.
-
-    Section 1455, R.S. § 1844, related to duties of secretary regarding recordation, preservation, and publication of all laws and proceedings of legislative assembly and governor in executive department.
-
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1451.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1456.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1452)
+[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1451.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1453...1455.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1452)
 
 ----------
 ----------
 
-[/us/pl/98/213/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs15%2Fb
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1462
-[/us/act/1850-09-09/ch49/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1850-09-09%2Fch49%2Fs2
+[/us/act/1850-09-09/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1850-09-09%2Fch49
 [/us/stat/9/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F447
-[/us/act/1850-09-09/ch51/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1850-09-09%2Fch51%2Fs1
+[/us/act/1850-09-09/ch51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1850-09-09%2Fch51
 [/us/stat/9/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F453
-[/us/act/1853-03-02/ch90/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1853-03-02%2Fch90%2Fs1
+[/us/act/1853-03-02/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1853-03-02%2Fch90
 [/us/stat/10/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F10%2F172
-[/us/act/1861-02-28/ch59/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-02-28%2Fch59%2Fs1
+[/us/act/1861-02-28/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-02-28%2Fch59
 [/us/stat/12/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F172
-[/us/act/1861-03-02/ch86/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-03-02%2Fch86%2Fs1
+[/us/act/1861-03-02/ch86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-03-02%2Fch86
 [/us/stat/12/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F239
-[/us/act/1863-02-24/ch56/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1863-02-24%2Fch56%2Fs1
+[/us/act/1863-02-24/ch56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1863-02-24%2Fch56
 [/us/stat/12/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F664
-[/us/act/1863-03-03/ch117/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1863-03-03%2Fch117%2Fs1
+[/us/act/1863-03-03/ch117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1863-03-03%2Fch117
 [/us/stat/12/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F808
-[/us/act/1864-05-26/ch95/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-05-26%2Fch95%2Fs1
+[/us/act/1864-05-26/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-05-26%2Fch95
 [/us/stat/13/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F85
-[/us/act/1868-07-25/ch235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-25%2Fch235%2Fs1
+[/us/act/1868-07-25/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-25%2Fch235
 [/us/stat/15/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F178
 [/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
-[/us/pl/98/213/s16/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs16%2Fc
-[/us/stat/97/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1462
 
 

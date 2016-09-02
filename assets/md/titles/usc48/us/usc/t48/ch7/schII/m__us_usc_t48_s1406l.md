@@ -17,7 +17,7 @@
 
     This subchapter shall take effect June 22, 1936, but until its provisions shall severally become operative as herein provided, the corresponding legislative, executive, and judicial functions of the existing government shall continue to be exercised as now provided by law or ordinance, and the present incumbents of all offices under the Government of the Virgin Islands shall continue in office until their successors are appointed and have qualified unless sooner removed by competent authority.
 
-([June 22, 1936, ch. 699, § 40][/us/act/1936-06-22/ch699/s40], [49 Stat. 1817][/us/stat/49/1817].)
+([June 22, 1936, ch. 699][/us/act/1936-06-22/ch699], § 40, [49 Stat. 1817][/us/stat/49/1817].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-22/ch699/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs40
+[/us/act/1936-06-22/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699
 [/us/stat/49/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1817
 
 

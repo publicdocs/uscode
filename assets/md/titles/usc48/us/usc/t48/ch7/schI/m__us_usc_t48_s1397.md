@@ -17,7 +17,7 @@
 
     The income-tax laws in force in the United States of America and those which may hereafter be enacted shall be held to be likewise in force in the Virgin Islands of the United States, except that the proceeds of such taxes shall be paid into the treasuries of said islands: Provided further, That, notwithstanding any other provision of law, the Legislature of the Virgin Islands is authorized to levy a surtax on all taxpayers in an amount not to exceed 10 per centum of their annual income tax obligation to the government of the Virgin Islands.
 
-([July 12, 1921, ch. 44, § 1][/us/act/1921-07-12/ch44/s1], [42 Stat. 123][/us/stat/42/123]; [Pub. L. 94–392, § 5][/us/pl/94/392/s5], Aug. 19, 1976, [90 Stat. 1195][/us/stat/90/1195].)
+([July 12, 1921, ch. 44][/us/act/1921-07-12/ch44], § 1, [42 Stat. 123][/us/stat/42/123]; [Pub. L. 94–392][/us/pl/94/392], § 5, Aug. 19, 1976, [90 Stat. 1195][/us/stat/90/1195].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Application of Western Hemisphere Trade Corporation Provision Under the Virgin Islands Tax Laws__ 
 
-    [Pub. L. 92–178, title III, § 307][/us/pl/92/178/s307], Dec. 10, 1971, [85 Stat. 524][/us/stat/85/524], provided that for purposes of applying the income tax laws of the United States with respect to the Virgin Islands under this section, subpart C of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1954 \[former [26 U.S.C. 921][/us/usc/t26/s921], 922\] (relating to Western Hemisphere Trade Corporations) shall be treated as having been repealed effective with respect to taxable years beginning after Dec. 10, 1971.
+    [Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 307, Dec. 10, 1971, [85 Stat. 524][/us/stat/85/524], provided that for purposes of applying the income tax laws of the United States with respect to the Virgin Islands under this section, subpart C of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1954 \[former [26 U.S.C. 921][/us/usc/t26/s921], 922\] (relating to Western Hemisphere Trade Corporations) shall be treated as having been repealed effective with respect to taxable years beginning after Dec. 10, 1971.
 
 ----------
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/act/1921-07-12/ch44/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-12%2Fch44%2Fs1
+[/us/act/1921-07-12/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-12%2Fch44
 [/us/stat/42/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F123
-[/us/pl/94/392/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392%2Fs5
+[/us/pl/94/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392
 [/us/stat/90/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1195
 [/us/pl/94/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392
-[/us/pl/92/178/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs307
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F524
 [/us/usc/t26/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs921
 

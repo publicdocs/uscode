@@ -31,7 +31,7 @@
 
         General elections to the legislature shall be held on the Tuesday next after the first Monday in November, biennially in even-numbered years. The legislature in all respects shall be organized and shall sit according to the laws of Guam.
 
-([Aug. 1, 1950, ch. 512, § 10][/us/act/1950-08-01/ch512/s10], [64 Stat. 387][/us/stat/64/387]; [Pub. L. 89–552, § 1][/us/pl/89/552/s1], Sept. 2, 1966, [80 Stat. 375][/us/stat/80/375]; [Pub. L. 98–213, § 5(b)][/us/pl/98/213/s5/b], Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 10, [64 Stat. 387][/us/stat/64/387]; [Pub. L. 89–552][/us/pl/89/552], § 1, Sept. 2, 1966, [80 Stat. 375][/us/stat/80/375]; [Pub. L. 98–213][/us/pl/98/213], § 5(b), Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Amendment of Laws of Guam To Conform to Changes Made by__  __[__  __Pub. L. 89–552__  __][/us/pl/89/552]__ 
 
-[Pub. L. 89–552, § 2][/us/pl/89/552/s2], Sept. 2, 1966, [80 Stat. 376][/us/stat/80/376], provided that: 
+[Pub. L. 89–552][/us/pl/89/552], § 2, Sept. 2, 1966, [80 Stat. 376][/us/stat/80/376], provided that: 
 
 > “As soon as practicable after enactment of this Act \[Sept. 2, 1966\], and subject to the conditions and requirements of section 10 of the Organic Act of Guam, as amended by section 1 hereof \[this section\], the laws of Guam shall be amended to make provision for the manner of the election of members of the legislature. Until the laws of Guam shall make such provision the method of electing the legislature shall remain as it is upon the date of enactment of this Act.”
 
@@ -52,16 +52,16 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs10
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F387
-[/us/pl/89/552/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F552%2Fs1
+[/us/pl/89/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F552
 [/us/stat/80/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F375
-[/us/pl/98/213/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs5%2Fb
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1460
 [/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/pl/89/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F552
 [/us/pl/89/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F552
-[/us/pl/89/552/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F552%2Fs2
+[/us/pl/89/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F552
 [/us/stat/80/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F376
 
 

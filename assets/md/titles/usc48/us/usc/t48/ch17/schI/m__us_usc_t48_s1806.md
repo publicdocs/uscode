@@ -149,7 +149,7 @@
 
         (5) such recommendations to the Congress, as the Secretary may deem appropriate, related to whether or not the Congress should consider permitting lawfully admitted guest workers lawfully residing in the Commonwealth on May 8, 2008, to apply for long-term status under the immigration and nationality laws of the United States.
 
-([Pub. L. 94–241, § 6][/us/pl/94/241/s6], as added [Pub. L. 110–229, title VII, § 702(a)][/us/pl/110/229/s702/a], May 8, 2008, [122 Stat. 854][/us/stat/122/854]; amended [Pub. L. 113–235, § 10][/us/pl/113/235/s10], Dec. 16, 2014, [128 Stat. 2134][/us/stat/128/2134].)
+([Pub. L. 94–241][/us/pl/94/241], § 6, as added [Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(a), May 8, 2008, [122 Stat. 854][/us/stat/122/854]; amended [Pub. L. 113–235][/us/pl/113/235], § 10, Dec. 16, 2014, [128 Stat. 2134][/us/stat/128/2134].)
 
  __References in Text__ 
 
@@ -159,15 +159,15 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2). [Pub. L. 113–235, § 10(1)][/us/pl/113/235/s10/1], substituted “December 31, 2019” for “December 31, 2014, except as provided in subsections (b) and (d)”.
+    2014—Subsec. (a)(2). [Pub. L. 113–235][/us/pl/113/235], § 10(1), substituted “December 31, 2019” for “December 31, 2014, except as provided in subsections (b) and (d)”.
 
-    Subsec. (d)(2). [Pub. L. 113–235, § 10(2)(A)][/us/pl/113/235/s10/2/A], substituted “ ‘ending on December 31, 2019’ ” for “not to extend beyond December 31, 2014, unless extended pursuant to paragraph 5 of this subsection”.
+    Subsec. (d)(2). [Pub. L. 113–235][/us/pl/113/235], § 10(2)(A), substituted “ ‘ending on December 31, 2019’ ” for “not to extend beyond December 31, 2014, unless extended pursuant to paragraph 5 of this subsection”.
 
-    Subsec. (d)(5), (6). [Pub. L. 113–235, § 10(2)(B)][/us/pl/113/235/s10/2/B], (C), redesignated par. (6) as (5), and struck out former par. (5), which related to ascertaining current and anticipated labor needs of the Commonwealth, determination whether an extension of up to 5 years of provisions of subsection is necessary, publication of notice of such extension, and factors in determining whether alien workers are necessary to ensure adequate number of workers.
+    Subsec. (d)(5), (6). [Pub. L. 113–235][/us/pl/113/235], § 10(2)(B), (C), redesignated par. (6) as (5), and struck out former par. (5), which related to ascertaining current and anticipated labor needs of the Commonwealth, determination whether an extension of up to 5 years of provisions of subsection is necessary, publication of notice of such extension, and factors in determining whether alien workers are necessary to ensure adequate number of workers.
 
  __Effective Date__ 
 
-[Pub. L. 110–229, title VII, § 705][/us/pl/110/229/s705], May 8, 2008, [122 Stat. 867][/us/stat/122/867], as amended by [Pub. L. 113–4, title VIII, § 809][/us/pl/113/4/s809], Mar. 7, 2013, [127 Stat. 117][/us/stat/127/117], provided that:
+[Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 705, May 8, 2008, [122 Stat. 867][/us/stat/122/867], as amended by [Pub. L. 113–4, title VIII][/us/pl/113/4/tVIII], § 809, Mar. 7, 2013, [127 Stat. 117][/us/stat/127/117], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -187,7 +187,7 @@
 
  __Congressional Intent__ 
 
-[Pub. L. 110–229, title VII, § 701][/us/pl/110/229/s701], May 8, 2008, [122 Stat. 853][/us/stat/122/853], provided that:
+[Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 701, May 8, 2008, [122 Stat. 853][/us/stat/122/853], provided that:
 
 >     “(a)  __Immigration and Growth__  __.—__ 
 
@@ -221,7 +221,7 @@
 
  __Reports__ 
 
-[Pub. L. 110–229, title VII, § 702(h)(1)][/us/pl/110/229/s702/h/1], (2), May 8, 2008, [122 Stat. 864][/us/stat/122/864], provided that:
+[Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(h)(1), (2), May 8, 2008, [122 Stat. 864][/us/stat/122/864], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -231,7 +231,7 @@
 
 >     In addition to other topics otherwise required to be included under this subtitle \[subtitle A (§§ 701–705) of title VII of [Pub. L. 110–229][/us/pl/110/229], see Effective Date note set out above\] or the amendments made by this subtitle, each report submitted under paragraph (1) shall include a description of the efforts that have been undertaken during the period covered by the report to diversify and strengthen the local economy of the Commonwealth, including efforts to promote the Commonwealth as a tourist destination. The report by the President shall include an estimate for the numbers of nonimmigrant workers described under section 101(a)(15)(H) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)][/us/usc/t8/s1101/a/15/H]) necessary to avoid adverse economic effects in Guam and the Commonwealth.”
 
-[Pub. L. 110–229, title VII, § 702(h)(4)][/us/pl/110/229/s702/h/4], May 8, 2008, [122 Stat. 865][/us/stat/122/865], provided that:
+[Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(h)(4), May 8, 2008, [122 Stat. 865][/us/stat/122/865], provided that:
 
 >     “(4)  __Reports by the local government__  __.—__ 
 
@@ -239,7 +239,7 @@
 
  __Required Actions Prior to Transition Program Effective Date__ 
 
-[Pub. L. 110–229, title VII, § 702(i)][/us/pl/110/229/s702/i], May 8, 2008, [122 Stat. 866][/us/stat/122/866], provided that:
+[Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(i), May 8, 2008, [122 Stat. 866][/us/stat/122/866], provided that:
 
 >     “During the period beginning on the date of enactment of this Act \[May 8, 2008\] and ending on the transition program effective date described in [section 6 of Public Law 94–241][/us/pl/94/241/s6] \[[48 U.S.C. 1806][/us/usc/t48/s1806]\] (as added by subsection (a)), the Government of the Commonwealth shall—
 
@@ -278,10 +278,10 @@
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1101/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F17
 [/us/usc/t8/s1182/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F9%2FB
-[/us/pl/94/241/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs6
-[/us/pl/110/229/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fa
+[/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F854
-[/us/pl/113/235/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs10
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2134
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -289,12 +289,12 @@
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/stat/122/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F754
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/113/235/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs10%2F1
-[/us/pl/113/235/s10/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs10%2F2%2FA
-[/us/pl/113/235/s10/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs10%2F2%2FB
-[/us/pl/110/229/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs705
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F867
-[/us/pl/113/4/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs809
+[/us/pl/113/4/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVIII
 [/us/stat/127/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F117
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/usc/t48/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1804
@@ -310,21 +310,21 @@
 [/us/usc/t8/s1101/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F20
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/usc/t8/s1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1255
-[/us/pl/110/229/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs701
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F853
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/usc/t8/s1101/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F17
-[/us/pl/110/229/s702/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fh%2F1
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F864
 [/us/usc/t48/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1806
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/usc/t8/s1101/a/15/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FH
-[/us/pl/110/229/s702/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fh%2F4
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F865
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
-[/us/pl/110/229/s702/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fi
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F866
 [/us/pl/94/241/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs6
 [/us/usc/t48/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1806

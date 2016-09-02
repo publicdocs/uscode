@@ -25,7 +25,7 @@
 
         (2) The governments of the Federated States of Micronesia and the Republic of the Marshall Islands may each submit no more than one report or request for further compensation under section 111 of the joint resolution of January 14, 1986 ([Public Law 99–239][/us/pl/99/239]) and any such report or request must be submitted by September 30, 2009. Only adverse economic effects occurring during the initial 15-year term of the Compact may be considered for compensation under section 111 of the joint resolution of January 14, 1986 ([Public Law 99–239][/us/pl/99/239]).
 
-([Pub. L. 108–188, title I, § 108][/us/pl/108/188/s108], Dec. 17, 2003, [117 Stat. 2755][/us/stat/117/2755]; [Pub. L. 113–128, title V, § 512(g)(2)][/us/pl/113/128/s512/g/2], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
+([Pub. L. 108–188, title I][/us/pl/108/188/tI], § 108, Dec. 17, 2003, [117 Stat. 2755][/us/stat/117/2755]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(g)(2), July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–128, § 512(g)(2)][/us/pl/113/128/s512/g/2], substituted “subtitle C of title I of the Workforce Innovation and Opportunity Act (relating to Job Corps)” for “subtitle C of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.; relating to Job Corps)”.
+    2014—Subsec. (a). [Pub. L. 113–128][/us/pl/113/128], § 512(g)(2), substituted “subtitle C of title I of the Workforce Innovation and Opportunity Act (relating to Job Corps)” for “subtitle C of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.; relating to Job Corps)”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -55,9 +55,9 @@
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
-[/us/pl/108/188/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs108
+[/us/pl/108/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2FtI
 [/us/stat/117/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2755
-[/us/pl/113/128/s512/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fg%2F2
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
@@ -67,7 +67,7 @@
 [/us/stat/99/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1770
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
-[/us/pl/113/128/s512/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fg%2F2
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2881
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506

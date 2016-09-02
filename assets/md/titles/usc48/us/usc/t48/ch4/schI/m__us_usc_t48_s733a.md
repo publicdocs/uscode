@@ -17,7 +17,7 @@
 
     All citizens of the United States who have resided or who shall after March 4, 1927, reside in the island for one year shall be citizens of Puerto Rico.
 
-([Mar. 2, 1917, ch. 145, § 5a][/us/act/1917-03-02/ch145/s5a], as added [Mar. 4, 1927, ch. 503, § 2][/us/act/1927-03-04/ch503/s2], [44 Stat. 1418][/us/stat/44/1418]; amended [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 5a, as added [Mar. 4, 1927, ch. 503][/us/act/1927-03-04/ch503], § 2, [44 Stat. 1418][/us/stat/44/1418]; amended [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __Codification__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs5a
-[/us/act/1927-03-04/ch503/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch503%2Fs2
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
+[/us/act/1927-03-04/ch503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch503
 [/us/stat/44/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1418
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

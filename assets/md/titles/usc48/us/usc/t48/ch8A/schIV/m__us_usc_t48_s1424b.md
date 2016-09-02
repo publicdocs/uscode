@@ -19,15 +19,15 @@
 
     (b) The President shall appoint, by and with the advice and consent of the Senate, a United States attorney and United States marshal for Guam to whose offices the provisions of chapters 35 and 37 of title 28, respectively, shall apply.
 
-([Aug. 1, 1950, ch. 512, § 24][/us/act/1950-08-01/ch512/s24], [64 Stat. 390][/us/stat/64/390]; [Oct. 31, 1951, ch. 655, § 55(a)][/us/act/1951-10-31/ch655/s55/a], [65 Stat. 728][/us/stat/65/728]; [Pub. L. 85–444, § 3][/us/pl/85/444/s3], June 4, 1958, [72 Stat. 179][/us/stat/72/179]; [Pub. L. 98–454, title VIII, § 802][/us/pl/98/454/s802], Oct. 5, 1984, [98 Stat. 1743][/us/stat/98/1743].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 24, [64 Stat. 390][/us/stat/64/390]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 55(a), [65 Stat. 728][/us/stat/65/728]; [Pub. L. 85–444][/us/pl/85/444], § 3, June 4, 1958, [72 Stat. 179][/us/stat/72/179]; [Pub. L. 98–454, title VIII][/us/pl/98/454/tVIII], § 802, Oct. 5, 1984, [98 Stat. 1743][/us/stat/98/1743].)
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–454, § 802(a)][/us/pl/98/454/s802/a]–(c), substituted “for the term of ten years” for “for a term of eight years” in first par., and, in second par., substituted “a local court of record” for “the Island Court of Guam” and inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “ninth circuit”.
+    1984—Subsec. (a). [Pub. L. 98–454][/us/pl/98/454], § 802(a)–(c), substituted “for the term of ten years” for “for a term of eight years” in first par., and, in second par., substituted “a local court of record” for “the Island Court of Guam” and inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “ninth circuit”.
 
-    Subsec. (b). [Pub. L. 98–454, § 802(d)][/us/pl/98/454/s802/d], substituted “35” and “37” for “31” and “33” respectively.
+    Subsec. (b). [Pub. L. 98–454][/us/pl/98/454], § 802(d), substituted “35” and “37” for “31” and “33” respectively.
 
-    Subsec. (c). [Pub. L. 98–454, § 802(e)][/us/pl/98/454/s802/e], struck out subsec. (c) which provided that chapters 43 and 49 of title 28 shall apply to the District Court of Guam.
+    Subsec. (c). [Pub. L. 98–454][/us/pl/98/454], § 802(e), struck out subsec. (c) which provided that chapters 43 and 49 of title 28 shall apply to the District Court of Guam.
 
     1958—Subsec. (a). [Pub. L. 85–444][/us/pl/85/444] increased the term of office from four to eight years, substituted provisions requiring the salary of the judge to be at the rate prescribed for judges of the United States district courts for provisions which required the salary of the judge to be the same as salary of the Governor of Guam, and inserted provisions permitting the Chief Judge of the Ninth Circuit to make temporary assignments.
 
@@ -45,7 +45,7 @@
 
  __Extension of Term of District Judges; Applicability; Effective Date__ 
 
-[Pub. L. 98–454, title X, § 1004][/us/pl/98/454/s1004], Oct. 5, 1984, [98 Stat. 1746][/us/stat/98/1746], provided that: 
+[Pub. L. 98–454, title X][/us/pl/98/454/tX], § 1004, Oct. 5, 1984, [98 Stat. 1746][/us/stat/98/1746], provided that: 
 
 > “The provisions of sections 706(a), 802(a), and 901(a) of this Act \[amending sections 1614, 1424b, and 1821, respectively, of this title\] extending the terms of district court judges of the Virgin Islands, Guam, and the Northern Mariana Islands, respectively, from eight to ten years shall be applicable to the judges of those courts holding office on the effective date of this Act \[Oct. 5, 1984\].”
 
@@ -56,24 +56,24 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs24
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F390
-[/us/act/1951-10-31/ch655/s55/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs55%2Fa
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F728
-[/us/pl/85/444/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F444%2Fs3
+[/us/pl/85/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F444
 [/us/stat/72/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F179
-[/us/pl/98/454/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs802
+[/us/pl/98/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVIII
 [/us/stat/98/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1743
-[/us/pl/98/454/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs802%2Fa
-[/us/pl/98/454/s802/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs802%2Fd
-[/us/pl/98/454/s802/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs802%2Fe
+[/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
+[/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
+[/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 [/us/pl/85/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F444
 [/us/usc/t28/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs373
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 [/us/pl/98/454/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1005
 [/us/usc/t48/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/98/454/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1004
+[/us/pl/98/454/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtX
 [/us/stat/98/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1746
 
 

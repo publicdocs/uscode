@@ -17,7 +17,7 @@
 
     The relations between the courts established by the Constitution or laws of the United States and the local courts of Guam with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus, and other matters or proceedings shall be governed by the laws of the United States pertaining to the relations between the courts of the United States, including the Supreme Court of the United States, and the courts of the several States in such matters and proceedings.
 
-([Aug. 1, 1950, ch. 512, § 22B][/us/act/1950-08-01/ch512/s22B], as added [Pub. L. 98–454, title VIII, § 801][/us/pl/98/454/s801], Oct. 5, 1984, [98 Stat. 1742][/us/stat/98/1742]; amended [Pub. L. 103–437, § 17(a)(1)][/us/pl/103/437/s17/a/1], Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595]; [Pub. L. 108–378, § 2][/us/pl/108/378/s2], Oct. 30, 2004, [118 Stat. 2208][/us/stat/118/2208].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 22B, as added [Pub. L. 98–454, title VIII][/us/pl/98/454/tVIII], § 801, Oct. 5, 1984, [98 Stat. 1742][/us/stat/98/1742]; amended [Pub. L. 103–437][/us/pl/103/437], § 17(a)(1), Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595]; [Pub. L. 108–378][/us/pl/108/378], § 2, Oct. 30, 2004, [118 Stat. 2208][/us/stat/118/2208].)
 
  __Amendments__ 
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s22B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs22B
-[/us/pl/98/454/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs801
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
+[/us/pl/98/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVIII
 [/us/stat/98/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1742
-[/us/pl/103/437/s17/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs17%2Fa%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4595
-[/us/pl/108/378/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378%2Fs2
+[/us/pl/108/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378
 [/us/stat/118/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2208
 [/us/pl/108/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F378
 [/us/usc/t48/s1424–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424%E2%80%931%2Fa

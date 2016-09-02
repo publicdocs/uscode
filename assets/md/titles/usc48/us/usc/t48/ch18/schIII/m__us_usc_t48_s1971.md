@@ -27,7 +27,7 @@
 
         If no government exists in Palau on December 24, 1980, that is capable of receiving title to such property in its own name, the government of the Trust Territory of the Pacific Islands shall hold such property in trust for the prospective government of Palau until such government is established.
 
-([Pub. L. 96–597, title IV, § 402][/us/pl/96/597/s402], Dec. 24, 1980, [94 Stat. 3478][/us/stat/94/3478]; [Pub. L. 97–357, title II, § 201][/us/pl/97/357/s201], Oct. 19, 1982, [96 Stat. 1706][/us/stat/96/1706].)
+([Pub. L. 96–597, title IV][/us/pl/96/597/tIV], § 402, Dec. 24, 1980, [94 Stat. 3478][/us/stat/94/3478]; [Pub. L. 97–357, title II][/us/pl/97/357/tII], § 201, Oct. 19, 1982, [96 Stat. 1706][/us/stat/96/1706].)
 
  __Codification__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/96/597/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2Fs402
+[/us/pl/96/597/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2FtIV
 [/us/stat/94/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3478
-[/us/pl/97/357/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs201
+[/us/pl/97/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtII
 [/us/stat/96/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1706
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/97/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357

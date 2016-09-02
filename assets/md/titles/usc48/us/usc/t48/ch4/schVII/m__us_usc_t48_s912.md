@@ -17,7 +17,7 @@
 
     The Legislature of Puerto Rico may provide for the appointment and terms of the commissioners of such authorities, and for the powers of such authorities, except that such authorities shall be given no power of taxation, and may authorize the commissioners of such authorities to fix the salaries of employees.
 
-([June 25, 1938, ch. 703, § 2][/us/act/1938-06-25/ch703/s2], [52 Stat. 1203][/us/stat/52/1203].)
+([June 25, 1938, ch. 703][/us/act/1938-06-25/ch703], § 2, [52 Stat. 1203][/us/stat/52/1203].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch703/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch703%2Fs2
+[/us/act/1938-06-25/ch703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch703
 [/us/stat/52/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1203
 
 

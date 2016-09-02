@@ -17,7 +17,7 @@
 
     Each and every part of [Public Law 6–135][/us/pl/6/135], approved December 18, 1962, heretofore enacted by the Legislature of Guam dealing with any part of the subject matter of sections 1425a to 1425e of this title and not inconsistent therewith is ratified and confirmed.
 
-([Pub. L. 88–171, § 4][/us/pl/88/171/s4], Nov. 4, 1963, [77 Stat. 304][/us/stat/77/304].)
+([Pub. L. 88–171][/us/pl/88/171], § 4, Nov. 4, 1963, [77 Stat. 304][/us/stat/77/304].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/pl/6/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F6%2F135
-[/us/pl/88/171/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F171%2Fs4
+[/us/pl/88/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F171
 [/us/stat/77/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F304
 
 

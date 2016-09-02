@@ -17,7 +17,7 @@
 
     The chief officer of any agency conducting an audit pursuant to paragraph (1) of sections 1902(c) and 1903(m) of this title and [section 1931(d)(1)(C) of this title][/us/usc/t48/s1931/d/1/C] shall certify that audit.
 
-([Pub. L. 101–219, title I, § 106][/us/pl/101/219/s106], Dec. 12, 1989, [103 Stat. 1871][/us/stat/103/1871].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 106, Dec. 12, 1989, [103 Stat. 1871][/us/stat/103/1871].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t48/s1931/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931%2Fd%2F1%2FC
-[/us/pl/101/219/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs106
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1871
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

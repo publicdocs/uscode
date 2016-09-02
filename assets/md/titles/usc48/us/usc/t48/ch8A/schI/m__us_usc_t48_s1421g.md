@@ -39,17 +39,17 @@
 
             (B) by a special election held no sooner than 3 months after such vacancy occurs and no later than 6 months before a general election for Attorney General of Guam, and by appointment by the Governor of Guam pending a special election under this subparagraph.
 
-([Aug. 1, 1950, ch. 512, § 29][/us/act/1950-08-01/ch512/s29], [64 Stat. 392][/us/stat/64/392]; [Pub. L. 99–396][/us/pl/99/396], §§ 5, 13, Aug. 27, 1986, [100 Stat. 839][/us/stat/100/839], 842; [Pub. L. 105–291, § 2][/us/pl/105/291/s2], Oct. 27, 1998, [112 Stat. 2785][/us/stat/112/2785].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 29, [64 Stat. 392][/us/stat/64/392]; [Pub. L. 99–396][/us/pl/99/396], §§ 5, 13, Aug. 27, 1986, [100 Stat. 839][/us/stat/100/839], 842; [Pub. L. 105–291][/us/pl/105/291], § 2, Oct. 27, 1998, [112 Stat. 2785][/us/stat/112/2785].)
 
  __Amendments__ 
 
     1998—Subsec. (d). [Pub. L. 105–291][/us/pl/105/291] added subsec. (d).
 
-    1986—Subsec. (b). [Pub. L. 99–396, § 13(a)(1)][/us/pl/99/396/s13/a/1], substituted “according to the laws of Guam” for “at such places in Guam as may be necessary”.
+    1986—Subsec. (b). [Pub. L. 99–396][/us/pl/99/396], § 13(a)(1), substituted “according to the laws of Guam” for “at such places in Guam as may be necessary”.
 
-    [Pub. L. 99–396, § 5][/us/pl/99/396/s5], substituted “Government of Guam” for “Governor”.
+    [Pub. L. 99–396][/us/pl/99/396], § 5, substituted “Government of Guam” for “Governor”.
 
-    Subsec. (c). [Pub. L. 99–396, § 13(a)(2)][/us/pl/99/396/s13/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 99–396][/us/pl/99/396], § 13(a)(2), added subsec. (c).
 
 ----------
 
@@ -59,15 +59,15 @@
 ----------
 
 [/us/usc/t48/s1422d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1422d
-[/us/act/1950-08-01/ch512/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs29
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F392
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F839
-[/us/pl/105/291/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F291%2Fs2
+[/us/pl/105/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F291
 [/us/stat/112/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2785
 [/us/pl/105/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F291
-[/us/pl/99/396/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs13%2Fa%2F1
-[/us/pl/99/396/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs5
-[/us/pl/99/396/s13/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs13%2Fa%2F2
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 
 

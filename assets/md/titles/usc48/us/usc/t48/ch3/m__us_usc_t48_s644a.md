@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s541.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s645.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644a)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s641...644.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s645.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644a)
 
 ## § 644a. Jurisdiction of district court of cases arising on or within Midway, Wake, Johnston, Sand, etc., Islands; laws applicable to jury trials
 
@@ -19,7 +19,7 @@
 
     The laws of the United States relating to juries and jury trials shall be applicable to the trial of such cases before said district court.
 
-([June 15, 1950, ch. 253][/us/act/1950-06-15/ch253], [64 Stat. 217][/us/stat/64/217]; [Pub. L. 86–3, § 14(j)][/us/pl/86/3/s14/j], Mar. 18, 1959, [73 Stat. 11][/us/stat/73/11]; [Pub. L. 86–624, § 19][/us/pl/86/624/s19], July 12, 1960, [74 Stat. 416][/us/stat/74/416].)
+([June 15, 1950, ch. 253][/us/act/1950-06-15/ch253], [64 Stat. 217][/us/stat/64/217]; [Pub. L. 86–3][/us/pl/86/3], § 14(j), Mar. 18, 1959, [73 Stat. 11][/us/stat/73/11]; [Pub. L. 86–624][/us/pl/86/624], § 19, July 12, 1960, [74 Stat. 416][/us/stat/74/416].)
 
  __Amendments__ 
 
@@ -37,16 +37,16 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s541.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s645.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644a)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s641...644.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s645.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644a)
 
 ----------
 ----------
 
 [/us/act/1950-06-15/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-15%2Fch253
 [/us/stat/64/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F217
-[/us/pl/86/3/s14/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs14%2Fj
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F11
-[/us/pl/86/624/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs19
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F416
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3

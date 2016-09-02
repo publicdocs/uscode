@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s484e.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s504.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch3)
+[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s488...488f.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s491...503.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch3)
 
 ## CHAPTER 3—HAWAII
 
@@ -105,7 +105,7 @@ DISTRICT COURT  </td>
 
 >     “(h) All laws of the United States reserving to the United States the free use or enjoyment of property which vests in or is conveyed to the State of Hawaii or its political subdivisions pursuant to subsection (a), (b), or (e) of this section or reserving the right to alter, amend, or repeal laws relating thereto shall cease to be effective upon the admission of the State of Hawaii into the Union.
 
->     “(i) The Submerged Lands Act of 1953 (Public Law 31, Eighty-third Congress, first session; [67 Stat. 29][/us/stat/67/29]) and the Outer Continental Shelf Lands Act of 1953 (Public Law 212, Eighty-third Congress, first session, [67 Stat. 462][/us/stat/67/462]) shall be applicable to the State of Hawaii, and the said State shall have the same rights as do existing States thereunder. (As amended [Pub. L. 86–624, § 41][/us/pl/86/624/s41], July 12, 1960, [74 Stat. 422][/us/stat/74/422].)
+>     “(i) The Submerged Lands Act of 1953 (Public Law 31, Eighty-third Congress, first session; [67 Stat. 29][/us/stat/67/29]) and the Outer Continental Shelf Lands Act of 1953 (Public Law 212, Eighty-third Congress, first session, [67 Stat. 462][/us/stat/67/462]) shall be applicable to the State of Hawaii, and the said State shall have the same rights as do existing States thereunder. (As amended [Pub. L. 86–624][/us/pl/86/624], § 41, July 12, 1960, [74 Stat. 422][/us/stat/74/422].)
 
 > “Sec. 6. __\[Certification by President; proclamation for elections.\]__ 
 
@@ -217,7 +217,7 @@ DISTRICT COURT  </td>
 
 >         “(2) section 605(a) of the Merchant Marine Act, 1936, as amended (46 U.S.C. \[App.\], sec. 1175\[(a)\]) \[now [46 U.S.C. 53101][/us/usc/t46/s53101] note\], is amended by inserting before the words ‘an island possession or island territory’, the words ‘the State of Hawaii, or’; and
 
->         “(3) the second paragraph of section 714 of the Merchant Marine Act, 1936, as amended (46 U.S.C. \[App.\], sec. 1204) \[now [46 U.S.C. 57531][/us/usc/t46/s57531]\], is amended by inserting before the words ‘an island possession or island territory’ the words ‘the State of Hawaii, or’. (As amended [Pub. L. 86–624, § 46][/us/pl/86/624/s46], July 12, 1960, [74 Stat. 423][/us/stat/74/423].)
+>         “(3) the second paragraph of section 714 of the Merchant Marine Act, 1936, as amended (46 U.S.C. \[App.\], sec. 1204) \[now [46 U.S.C. 57531][/us/usc/t46/s57531]\], is amended by inserting before the words ‘an island possession or island territory’ the words ‘the State of Hawaii, or’. (As amended [Pub. L. 86–624][/us/pl/86/624], § 46, July 12, 1960, [74 Stat. 423][/us/stat/74/423].)
 
 > “Sec. 19. __\[United States Nationality.\]__ 
 
@@ -247,7 +247,7 @@ DISTRICT COURT  </td>
 
  __Hawaiian Home Lands Recovery__ 
 
-[Pub. L. 104–42, title II][/us/pl/104/42], Nov. 2, 1995, [109 Stat. 357][/us/stat/109/357], provided that:
+[Pub. L. 104–42, title II][/us/pl/104/42/tII], Nov. 2, 1995, [109 Stat. 357][/us/stat/109/357], provided that:
 
 > “SEC. 201. __SHORT TITLE__ 
 
@@ -797,7 +797,7 @@ DISTRICT COURT  </td>
 
 >     “(j) Section 7701(a)(10) of the Internal Revenue Code of 1986 (relating to definition of ‘State’) is amended by striking out ‘the Territory of Hawaii and’.
 
->     “(k) The amendments contained in subsections (a) through (j) of this section shall be effective as of August 21, 1959. (As amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+>     “(k) The amendments contained in subsections (a) through (j) of this section shall be effective as of August 21, 1959. (As amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
 > “Sec. 19. __\[Courts; Kure Island.\]__ 
 
@@ -875,7 +875,7 @@ DISTRICT COURT  </td>
 
 > “Sec. 28. __\[Buy American Act; amendment.\]__ 
 
- [Section 1(b) of title III of the Act of March 3, 1933][/us/act/1933-03-03/s1/b] ([47 Stat. 1520][/us/stat/47/1520]) \[now [41 U.S.C. 8301(1)][/us/usc/t41/s8301/1]\], as amended, is amended by striking out the word ‘Hawaii,’.
+ [Section 1(b) of title III of the Act of March 3, 1933][/us/act/1933-03-03/tIII/s1/b] ([47 Stat. 1520][/us/stat/47/1520]) \[now [41 U.S.C. 8301(1)][/us/usc/t41/s8301/1]\], as amended, is amended by striking out the word ‘Hawaii,’.
 
 > “Sec. 29. __\[Public Health Service Act; amendment.\]__ 
 
@@ -941,11 +941,11 @@ DISTRICT COURT  </td>
 
 > “Sec. 32. __\[Congressional Record.\]__ 
 
- [Section 73 of the Act of January 12, 1895][/us/act/1895-01-12/s73] ([28 Stat. 617][/us/stat/28/617]), amended, is further amended by striking out the word ‘Hawaii,’ \[Repealed by [Pub. L. 90–620, § 3][/us/pl/90/620/s3], Oct. 22, 1968, 82 Stat 1310\].
+ [Section 73 of the Act of January 12, 1895][/us/act/1895-01-12/s73] ([28 Stat. 617][/us/stat/28/617]), amended, is further amended by striking out the word ‘Hawaii,’ \[Repealed by [Pub. L. 90–620][/us/pl/90/620], § 3, Oct. 22, 1968, 82 Stat 1310\].
 
 > “Sec. 33. __\[Federal Register.\]__ 
 
->  Section 8 of the Federal Register Act ([49 Stat. 502][/us/stat/49/502]), as amended, is further amended by striking out the words ‘continental United States (including Alaska)’ and inserting in lieu thereof the words ‘States of the Union and the District of Columbia’ \[Repealed by [Pub. L. 90–620, § 3][/us/pl/90/620/s3], Oct. 22, 1968, [82 Stat. 1310][/us/stat/82/1310]\].
+>  Section 8 of the Federal Register Act ([49 Stat. 502][/us/stat/49/502]), as amended, is further amended by striking out the words ‘continental United States (including Alaska)’ and inserting in lieu thereof the words ‘States of the Union and the District of Columbia’ \[Repealed by [Pub. L. 90–620][/us/pl/90/620], § 3, Oct. 22, 1968, [82 Stat. 1310][/us/stat/82/1310]\].
 
 > “Sec. 34. __\[Home Port of Vessels.\]__ 
 
@@ -1141,41 +1141,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
     Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447, under which the functions of the President under section 5(e) of the Hawaii Statehood Act of Mar. 18, 1959, \[set out above\], were delegated to the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\], was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out under [section 301 of Title 3][/us/usc/t3/s301], The President.
 
-§§ 491 to 503. __Omitted__ 
-
- __Codification__ 
-
-    Sections 491 to 503, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.
-
-    Section 491, [act Apr. 30, 1900, ch. 339, § 2][/us/act/1900-04-30/ch339/s2], [31 Stat. 141][/us/stat/31/141], gave name Territory of Hawaii to Hawaiian Islands.
-
-    Section 492, [act Apr. 30, 1900, ch. 339, § 3][/us/act/1900-04-30/ch339/s3], [31 Stat. 141][/us/stat/31/141], established a Territorial government with its capital at Honolulu.
-
-    Section 493, [act Apr. 30, 1900, ch. 339, § 1][/us/act/1900-04-30/ch339/s1], [31 Stat. 141][/us/stat/31/141], defined “the laws of Hawaii” as used in this chapter.
-
-    Section 494, [act Apr. 30, 1900, ch. 339, § 4][/us/act/1900-04-30/ch339/s4], [31 Stat. 141][/us/stat/31/141], granted United States citizenship to citizens of former Republic of Hawaii and Territorial citizenship to United States citizens resident in Territory under certain conditions.
-
-    Section 495, acts [Apr. 30, 1900, ch. 339, § 5][/us/act/1900-04-30/ch339/s5], [31 Stat. 141][/us/stat/31/141]; [May 27, 1910, ch. 258, § 1][/us/act/1910-05-27/ch258/s1], [36 Stat. 443][/us/stat/36/443]; [Apr. 12, 1930, ch. 136, § 1(a)][/us/act/1930-04-12/ch136/s1/a], [46 Stat. 160][/us/stat/46/160]; [June 6, 1932, ch. 209, § 116(b)][/us/act/1932-06-06/ch209/s116/b], [47 Stat. 205][/us/stat/47/205], made applicable to Territory the United States Constitution and all other laws of the United States including laws carrying general appropriations.
-
-    Section 496, [act Apr. 30, 1900, ch. 339, § 6][/us/act/1900-04-30/ch339/s6], [31 Stat. 142][/us/stat/31/142], continued in force laws of Hawaii not inconsistent with the Constitution or laws of the United States.
-
-    Section 497, [act Apr. 30, 1900, ch. 339, § 74][/us/act/1900-04-30/ch339/s74], [31 Stat. 155][/us/stat/31/155], continued in force laws of Hawaii relating to agriculture and forestry subject to modification by Congress or the Legislature.
-
-    Section 498, [act Apr. 30, 1900, ch. 339, § 102][/us/act/1900-04-30/ch339/s102], [31 Stat. 161][/us/stat/31/161], related to abolishment of laws related to postal savings banks.
-
-    Section 499, Joint Res. July 7, 1898, No. 55, § 1, [30 Stat. 751][/us/stat/30/751], provided for assumption of public debt of Hawaii existing on July 7, 1898, not to exceed $4,000,000.
-
-    Section 500, [act Apr. 30, 1900, ch. 339, § 9][/us/act/1900-04-30/ch339/s9], [31 Stat. 143][/us/stat/31/143], amended the laws of Hawaii to read “Governor of the Territory” or “Territory” as the context required whenever reference was made to “President of the Republic” or “Republic” in the laws.
-
-    Section 501, [act Apr. 30, 1900, ch. 339, § 10][/us/act/1900-04-30/ch339/s10], [31 Stat. 143][/us/stat/31/143], continued in effect and transferred to Territory of Hawaii prior rights in favor and against the former Republic of Hawaii and preserved all criminal proceedings.
-
-    Section 502, [act Apr. 30, 1900, ch. 339, § 10][/us/act/1900-04-30/ch339/s10], [31 Stat. 143][/us/stat/31/143], prohibited suits for specific performance of personal labor contracts.
-
-    Section 503, [act Apr. 30, 1900, ch. 339, § 10][/us/act/1900-04-30/ch339/s10], [31 Stat. 143][/us/stat/31/143], provided that contracts made between Apr. 12, 1898, and Apr. 30, 1900, providing for service for a definite term, should be null and void.
-
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s484e.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s504.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch3)
+[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s488...488f.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s491...503.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch3)
 
 ----------
 ----------
@@ -1187,7 +1155,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/30/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F750
 [/us/stat/67/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F29
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
-[/us/pl/86/624/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs41
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F422
 [/us/stat/37/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F13
 [/us/stat/55/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F761
@@ -1215,7 +1183,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t46/s53101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53101
 [/us/usc/t46/s53101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53101
 [/us/usc/t46/s57531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs57531
-[/us/pl/86/624/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs46
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F423
 [/us/stat/66/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F170
 [/us/stat/66/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F188
@@ -1226,7 +1194,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/66/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F237
 [/us/usc/t8/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1405
 [/us/stat/71/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F629
-[/us/pl/104/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F42
+[/us/pl/104/42/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F42%2FtII
 [/us/stat/109/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F357
 [/us/usc/t48/s692/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs692%2F7
 [/us/usc/t48/s693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs693
@@ -1283,7 +1251,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t23/s104/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F5
 [/us/usc/t23/s104/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F5
 [/us/usc/t23/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs127
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/stat/64/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F217
 [/us/act/1933-06-06/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fs3%2Fb
@@ -1292,15 +1260,15 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/70/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F988
 [/us/act/1931-03-03/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fs1
 [/us/stat/46/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1494
-[/us/act/1933-03-03/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fs1%2Fb
+[/us/act/1933-03-03/tIII/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2FtIII%2Fs1%2Fb
 [/us/stat/47/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1520
 [/us/usc/t41/s8301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8301%2F1
 [/us/stat/70/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1044
 [/us/act/1895-01-12/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fs73
 [/us/stat/28/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F617
-[/us/pl/90/620/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs3
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/49/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F502
-[/us/pl/90/620/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs3
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1310
 [/us/act/1925-02-16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-16%2Fs1
 [/us/stat/43/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F947
@@ -1339,36 +1307,5 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t48/s644a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644a
 [/us/usc/t48/s644a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644a
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/act/1900-04-30/ch339/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs2
-[/us/stat/31/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F141
-[/us/act/1900-04-30/ch339/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs3
-[/us/stat/31/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F141
-[/us/act/1900-04-30/ch339/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs1
-[/us/stat/31/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F141
-[/us/act/1900-04-30/ch339/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs4
-[/us/stat/31/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F141
-[/us/act/1900-04-30/ch339/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs5
-[/us/stat/31/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F141
-[/us/act/1910-05-27/ch258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-05-27%2Fch258%2Fs1
-[/us/stat/36/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F443
-[/us/act/1930-04-12/ch136/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-12%2Fch136%2Fs1%2Fa
-[/us/stat/46/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F160
-[/us/act/1932-06-06/ch209/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-06%2Fch209%2Fs116%2Fb
-[/us/stat/47/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F205
-[/us/act/1900-04-30/ch339/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs6
-[/us/stat/31/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F142
-[/us/act/1900-04-30/ch339/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs74
-[/us/stat/31/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F155
-[/us/act/1900-04-30/ch339/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs102
-[/us/stat/31/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F161
-[/us/stat/30/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F751
-[/us/act/1900-04-30/ch339/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs9
-[/us/stat/31/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F143
-[/us/act/1900-04-30/ch339/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs10
-[/us/stat/31/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F143
-[/us/act/1900-04-30/ch339/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs10
-[/us/stat/31/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F143
-[/us/act/1900-04-30/ch339/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs10
-[/us/stat/31/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F143
 
 

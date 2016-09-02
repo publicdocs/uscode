@@ -41,7 +41,7 @@
 
         The term of the Delegate shall commence on the 3d day of January following the date of the election.
 
-([Pub. L. 110–229, title VII, § 712][/us/pl/110/229/s712], May 8, 2008, [122 Stat. 868][/us/stat/122/868].)
+([Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 712, May 8, 2008, [122 Stat. 868][/us/stat/122/868].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/229/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs712
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F868
 
 

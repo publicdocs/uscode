@@ -31,7 +31,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to cover any additional costs incurred by the Government of the Federated States of Micronesia or the Republic of the Marshall Islands if such Governments, pursuant to an agreement entered into with the United States, apply a preference on the award of contracts to United States firms, provided that the amount of such preference does not exceed 10 percent of the amount of the lowest qualified bid from a non-United States firm for such contract.
 
-([Pub. L. 99–239, title I, § 106][/us/pl/99/239/s106], Jan. 14, 1986, [99 Stat. 1797][/us/stat/99/1797].)
+([Pub. L. 99–239, title I][/us/pl/99/239/tI], § 106, Jan. 14, 1986, [99 Stat. 1797][/us/stat/99/1797].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/99/239/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs106
+[/us/pl/99/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtI
 [/us/stat/99/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1797
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

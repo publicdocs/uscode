@@ -245,7 +245,7 @@
 
             The President is authorized to make loans and grants to the Government of the Marshall Islands to address the special needs of the community at Ebeye, Kwajalein Atoll, and other Marshallese communities within the Kwajalein Atoll, pursuant to development plans adopted in accordance with applicable laws of the Marshall Islands. The loans and grants shall be subject to such other terms and conditions as the President, in the discretion of the President, may determine are appropriate.
 
-([Pub. L. 108–188, title I, § 103][/us/pl/108/188/s103], Dec. 17, 2003, [117 Stat. 2727][/us/stat/117/2727]; [Pub. L. 110–229, title VIII, § 806(a)(1)][/us/pl/110/229/s806/a/1], May 8, 2008, [122 Stat. 871][/us/stat/122/871]; [Pub. L. 112–149, § 2][/us/pl/112/149/s2], July 26, 2012, [126 Stat. 1144][/us/stat/126/1144].)
+([Pub. L. 108–188, title I][/us/pl/108/188/tI], § 103, Dec. 17, 2003, [117 Stat. 2727][/us/stat/117/2727]; [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 806(a)(1), May 8, 2008, [122 Stat. 871][/us/stat/122/871]; [Pub. L. 112–149][/us/pl/112/149], § 2, July 26, 2012, [126 Stat. 1144][/us/stat/126/1144].)
 
  __References in Text__ 
 
@@ -308,11 +308,11 @@
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/usc/t48/s1921d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Fe
-[/us/pl/108/188/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs103
+[/us/pl/108/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2FtI
 [/us/stat/117/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2727
-[/us/pl/110/229/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fa%2F1
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F871
-[/us/pl/112/149/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F149%2Fs2
+[/us/pl/112/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F149
 [/us/stat/126/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1144
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239

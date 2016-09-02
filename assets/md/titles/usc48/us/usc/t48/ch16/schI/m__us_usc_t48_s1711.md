@@ -17,7 +17,7 @@
 
     The territory of Guam and the territory of the Virgin Islands each shall be represented in the United States Congress by a nonvoting Delegate to the House of Representatives, elected as hereinafter provided.
 
-([Pub. L. 92–271, § 1][/us/pl/92/271/s1], Apr. 10, 1972, [86 Stat. 118][/us/stat/86/118].)
+([Pub. L. 92–271][/us/pl/92/271], § 1, Apr. 10, 1972, [86 Stat. 118][/us/stat/86/118].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/271/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F271%2Fs1
+[/us/pl/92/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F271
 [/us/stat/86/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F118
 
 

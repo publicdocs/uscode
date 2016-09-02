@@ -17,7 +17,7 @@
 
     Real property owned by the Commonwealth of the Northern Mariana Islands in the capital of the United States and used by the Resident Representative thereof in the discharge of his representative duties under the Covenant shall be exempt from assessment and taxation.
 
-([Pub. L. 101–219, title II, § 208][/us/pl/101/219/s208], Dec. 12, 1989, [103 Stat. 1875][/us/stat/103/1875].)
+([Pub. L. 101–219, title II][/us/pl/101/219/tII], § 208, Dec. 12, 1989, [103 Stat. 1875][/us/stat/103/1875].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/101/219/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs208
+[/us/pl/101/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtII
 [/us/stat/103/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1875
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

@@ -17,7 +17,7 @@
 
     The chief executives of the governments of the Marshall Islands, the Federated States of Micronesia, Palau, and the Northern Mariana Islands shall prepare, publish, and submit to the Congress and the Secretary of the Interior a comprehensive annual financial report in conformance with the standards of the National Council on Governmental Accounting within one hundred and twenty days after the close of the fiscal year. The comprehensive annual financial report shall include statistical data as set forth in the standards of the National Council on Governmental Accounting relating to the physical, economic, social, and political characteristics of the government, and any other information required by the Congress. The chief executives shall also make such other reports at such other times as may be required by the Congress or under applicable Federal laws. This section is not subject to termination under section 502(a)(3) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ([90 Stat. 263][/us/stat/90/263], 268).
 
-([Pub. L. 92–257, § 5][/us/pl/92/257/s5], Mar. 21, 1972, [86 Stat. 88][/us/stat/86/88]; [Pub. L. 97–357, title II, § 203(a)][/us/pl/97/357/s203/a], Oct. 19, 1982, [96 Stat. 1707][/us/stat/96/1707]; [Pub. L. 105–362, title IX, § 901(p)][/us/pl/105/362/s901/p], Nov. 10, 1998, [112 Stat. 3291][/us/stat/112/3291].)
+([Pub. L. 92–257][/us/pl/92/257], § 5, Mar. 21, 1972, [86 Stat. 88][/us/stat/86/88]; [Pub. L. 97–357, title II][/us/pl/97/357/tII], § 203(a), Oct. 19, 1982, [96 Stat. 1707][/us/stat/96/1707]; [Pub. L. 105–362, title IX][/us/pl/105/362/tIX], § 901(p), Nov. 10, 1998, [112 Stat. 3291][/us/stat/112/3291].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Exception to Requirement that Statement be Submitted to High Commissioner of Trust Territory of the Pacific Islands__ 
 
-[Pub. L. 97–357, title II, § 203(e)][/us/pl/97/357/s203/e], Oct. 19, 1982, [96 Stat. 1708][/us/stat/96/1708], provided that: 
+[Pub. L. 97–357, title II][/us/pl/97/357/tII], § 203(e), Oct. 19, 1982, [96 Stat. 1708][/us/stat/96/1708], provided that: 
 
 > “Nothing in this section \[adding [section 1681b of this title][/us/usc/t48/s1681b], amending this section, and repealing [section 1681c of this title][/us/usc/t48/s1681c]\] shall be construed as requiring the Governor of the Northern Mariana Islands to submit any statement or report to the High Commissioner of the Trust Territory of the Pacific Islands.”
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
-[/us/pl/92/257/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F257%2Fs5
+[/us/pl/92/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F257
 [/us/stat/86/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F88
-[/us/pl/97/357/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs203%2Fa
+[/us/pl/97/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtII
 [/us/stat/96/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1707
-[/us/pl/105/362/s901/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs901%2Fp
+[/us/pl/105/362/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIX
 [/us/stat/112/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3291
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
@@ -59,7 +59,7 @@
 [/us/pl/97/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/97/357/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs203%2Fe
+[/us/pl/97/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtII
 [/us/stat/96/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1708
 [/us/usc/t48/s1681b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681b
 [/us/usc/t48/s1681c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681c

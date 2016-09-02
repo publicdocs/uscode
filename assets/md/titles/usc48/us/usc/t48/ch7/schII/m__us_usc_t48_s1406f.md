@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405y.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1406g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1406f)
+[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405z...1406e.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1406g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1406f)
 
 ## § 1406f. Judicial process; title of criminal prosecutions
 
     All judicial process shall run in the name of “United States of America, scilicet, the President of the United States”, and all penal or criminal prosecutions in the local courts shall be conducted in the name of and by authority of “the People of the Virgin Islands of the United States.”
 
-([June 22, 1936, ch. 699, § 37][/us/act/1936-06-22/ch699/s37], [49 Stat. 1817][/us/stat/49/1817].)
+([June 22, 1936, ch. 699][/us/act/1936-06-22/ch699], § 37, [49 Stat. 1817][/us/stat/49/1817].)
 
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405y.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1406g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1406f)
+[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405z...1406e.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1406g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1406f)
 
 ----------
 ----------
 
-[/us/act/1936-06-22/ch699/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs37
+[/us/act/1936-06-22/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699
 [/us/stat/49/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1817
 
 

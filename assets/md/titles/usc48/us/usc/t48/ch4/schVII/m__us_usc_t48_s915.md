@@ -17,7 +17,7 @@
 
     Such bonds shall not be a debt of Puerto Rico or any municipality, and shall not constitute a public indebtedness within the meaning of [section 745 of this title][/us/usc/t48/s745].
 
-([June 25, 1938, ch. 703, § 5][/us/act/1938-06-25/ch703/s5], [52 Stat. 1203][/us/stat/52/1203].)
+([June 25, 1938, ch. 703][/us/act/1938-06-25/ch703], § 5, [52 Stat. 1203][/us/stat/52/1203].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t48/s745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs745
-[/us/act/1938-06-25/ch703/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch703%2Fs5
+[/us/act/1938-06-25/ch703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch703
 [/us/stat/52/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1203
 
 

@@ -27,7 +27,7 @@
 
  __Prior Provisions__ 
 
-    Similar provisions were contained in the Interior Department Appropriation Act, 1953, [act July 9, 1952, ch. 597][/us/act/1952-07-09/ch597], title I, [66 Stat. 458][/us/stat/66/458].
+    Similar provisions were contained in the Interior Department Appropriation Act, 1953, [act July 9, 1952, ch. 597, title I][/us/act/1952-07-09/ch597/tI], [66 Stat. 458][/us/stat/66/458].
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/act/1953-07-31/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-31%2Fch298
 [/us/stat/67/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F273
 [/us/usc/t48/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1437
-[/us/act/1952-07-09/ch597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-09%2Fch597
+[/us/act/1952-07-09/ch597/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-09%2Fch597%2FtI
 [/us/stat/66/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F458
 
 

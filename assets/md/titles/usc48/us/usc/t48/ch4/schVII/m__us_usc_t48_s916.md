@@ -17,7 +17,7 @@
 
     All legislation heretofore enacted by the Legislature of Puerto Rico dealing with the subject matter of sections 911 to 916 of this title and not inconsistent herewith is ratified and confirmed.
 
-([June 25, 1938, ch. 703, § 6][/us/act/1938-06-25/ch703/s6], [52 Stat. 1203][/us/stat/52/1203].)
+([June 25, 1938, ch. 703][/us/act/1938-06-25/ch703], § 6, [52 Stat. 1203][/us/stat/52/1203].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch703/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch703%2Fs6
+[/us/act/1938-06-25/ch703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch703
 [/us/stat/52/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1203
 
 

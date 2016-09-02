@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 22, 1954, ch. 558, § 20(b)][/us/act/1954-07-22/ch558/s20/b], [68 Stat. 505][/us/stat/68/505], which related to compensation of the Government Secretary, department heads, and staffs of the Governor and Government Secretary, was superseded by [section 10 of Pub. L. 90–496][/us/pl/90/496/s10], Aug. 23, 1968, [82 Stat. 841][/us/stat/82/841], which amended [section 1641 of this title][/us/usc/t48/s1641]. See Codification note set out under [section 1641 of this title][/us/usc/t48/s1641].
+    Section, [act July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 20(b), [68 Stat. 505][/us/stat/68/505], which related to compensation of the Government Secretary, department heads, and staffs of the Governor and Government Secretary, was superseded by [section 10 of Pub. L. 90–496][/us/pl/90/496/s10], Aug. 23, 1968, [82 Stat. 841][/us/stat/82/841], which amended [section 1641 of this title][/us/usc/t48/s1641]. See Codification note set out under [section 1641 of this title][/us/usc/t48/s1641].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs20%2Fb
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F505
 [/us/pl/90/496/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs10
 [/us/stat/82/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F841

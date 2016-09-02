@@ -17,7 +17,7 @@
 
     To assist in the enforcement of the controlled substances laws of the United States in coordination with law enforcement officers in insular areas in the eastern Caribbean and in the central and western Pacific, the Administrator of the Drug Enforcement Administration shall assign appropriate personnel and other resources to the Virgin Islands and Guam.
 
-([Pub. L. 99–570, title V, § 5005][/us/pl/99/570/s5005], as added [Pub. L. 100–690, title IX, § 9310][/us/pl/100/690/s9310], Nov. 18, 1988, [102 Stat. 4539][/us/stat/102/4539].)
+([Pub. L. 99–570, title V][/us/pl/99/570/tV], § 5005, as added [Pub. L. 100–690, title IX][/us/pl/100/690/tIX], § 9310, Nov. 18, 1988, [102 Stat. 4539][/us/stat/102/4539].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/99/570/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs5005
-[/us/pl/100/690/s9310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9310
+[/us/pl/99/570/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtV
+[/us/pl/100/690/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIX
 [/us/stat/102/4539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4539
 
 

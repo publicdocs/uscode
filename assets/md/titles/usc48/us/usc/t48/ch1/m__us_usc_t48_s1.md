@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 1, 1902, ch. 1369, § 87][/us/act/1902-07-01/ch1369/s87], [32 Stat. 712][/us/stat/32/712], provided that the Division of Insular Affairs of the War Department should be known as the Bureau of Insular Affairs and prescribed its business.
+    Section, [act July 1, 1902, ch. 1369][/us/act/1902-07-01/ch1369], § 87, [32 Stat. 712][/us/stat/32/712], provided that the Division of Insular Affairs of the War Department should be known as the Bureau of Insular Affairs and prescribed its business.
 
     By Ex. Ord. No. 6726, eff. May 29, 1934, the Division of Territories and Island Possessions was established in the Department of the Interior, and the functions of the Bureau pertaining to the administration of the Government of Puerto Rico, together with the personnel, equipment and funds, were transferred thereto.
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1902-07-01/ch1369/s87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-07-01%2Fch1369%2Fs87
+[/us/act/1902-07-01/ch1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-07-01%2Fch1369
 [/us/stat/32/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F712
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/act/1920-06-04/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-04%2Fch227

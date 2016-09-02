@@ -27,7 +27,7 @@
 
         All property owned by the United States in Guam, the title to which is not transferred to the government of Guam by subsection (a) hereof, or which is not placed under the control of the government of Guam by subsection (b) hereof, is transferred to the administrative supervision of the Secretary of the Interior, except as the President may from time to time otherwise prescribe: Provided, That the Secretary of the Interior shall be authorized to lease or to sell, on such terms as he may deem in the public interest, any property, real and personal, of the United States under his administrative supervision in Guam not needed for public purposes.
 
-([Aug. 1, 1950, ch. 512, § 28][/us/act/1950-08-01/ch512/s28], [64 Stat. 392][/us/stat/64/392]; [Pub. L. 90–497, § 12(b)][/us/pl/90/497/s12/b], Sept. 11, 1968, [82 Stat. 848][/us/stat/82/848].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 28, [64 Stat. 392][/us/stat/64/392]; [Pub. L. 90–497][/us/pl/90/497], § 12(b), Sept. 11, 1968, [82 Stat. 848][/us/stat/82/848].)
 
  __Amendments__ 
 
@@ -794,9 +794,9 @@ Fena River Reservoir.  </td>
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs28
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F392
-[/us/pl/90/497/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497%2Fs12%2Fb
+[/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/stat/82/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F848
 [/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/usc/t48/s1421a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421a

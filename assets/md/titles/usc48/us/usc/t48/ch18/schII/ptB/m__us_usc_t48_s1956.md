@@ -21,7 +21,7 @@
 
     (2) consent to an extension of the time set forth in a subsidiary agreement to such article in which the Government of Palau is required to make such land available to the United States.
 
-([Pub. L. 101–219, title I, § 107][/us/pl/101/219/s107], Dec. 12, 1989, [103 Stat. 1872][/us/stat/103/1872].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 107, Dec. 12, 1989, [103 Stat. 1872][/us/stat/103/1872].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/101/219/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs107
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1872
 [/us/pl/99/658/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs201
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931

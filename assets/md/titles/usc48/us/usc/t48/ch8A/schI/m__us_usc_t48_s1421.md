@@ -17,7 +17,7 @@
 
     The territory ceded to the United States in accordance with the provisions of the Treaty of Peace between the United States and Spain, signed at Paris, December 10, 1898, and proclaimed April 11, 1899, and known as the island of Guam in the Marianas Islands, shall continue to be known as Guam.
 
-([Aug. 1, 1950, ch. 512, § 2][/us/act/1950-08-01/ch512/s2], [64 Stat. 384][/us/stat/64/384].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 2, [64 Stat. 384][/us/stat/64/384].)
 
  __Effective Date; Continuation of Federal Administration__ 
 
@@ -25,29 +25,29 @@
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–212, § 1][/us/pl/107/212/s1], Aug. 21, 2002, [116 Stat. 1051][/us/stat/116/1051], provided that: 
+[Pub. L. 107–212][/us/pl/107/212], § 1, Aug. 21, 2002, [116 Stat. 1051][/us/stat/116/1051], provided that: 
 
 > “This Act \[amending [section 1421i of this title][/us/usc/t48/s1421i] and enacting provisions set out as a note under [section 1421i of this title][/us/usc/t48/s1421i]\] may be cited as the ‘Guam Foreign Investment Equity Act’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–291, § 1][/us/pl/105/291/s1], Oct. 27, 1998, [112 Stat. 2785][/us/stat/112/2785], provided that: 
+[Pub. L. 105–291][/us/pl/105/291], § 1, Oct. 27, 1998, [112 Stat. 2785][/us/stat/112/2785], provided that: 
 
 > “This Act \[amending sections 1421g, 1423a, and 1423b of this title\] may be cited as the ‘Guam Organic Act Amendments of 1998’.”
 
  __Short Title of 1968 Amendments__ 
 
-[Pub. L. 90–601, § 1][/us/pl/90/601/s1], Oct. 17, 1968, [82 Stat. 1172][/us/stat/82/1172], provided that: 
+[Pub. L. 90–601][/us/pl/90/601], § 1, Oct. 17, 1968, [82 Stat. 1172][/us/stat/82/1172], provided that: 
 
 > “This Act \[enacting sections 1428 to 1428e of this title\] may be cited as the ‘Guam Development Fund Act of 1968’.”
 
-[Pub. L. 90–497, § 14][/us/pl/90/497/s14], Sept. 11, 1968, [82 Stat. 848][/us/stat/82/848], provided that: 
+[Pub. L. 90–497][/us/pl/90/497], § 14, Sept. 11, 1968, [82 Stat. 848][/us/stat/82/848], provided that: 
 
 > “This Act \[enacting [section 1422d of this title][/us/usc/t48/s1422d] and [section 335 of Title 10][/us/usc/t10/s335], Armed Forces, amending sections 1421a, 1421b, 1421c, 1421d, 1421f, 1422, 1422a, 1422b, 1422c, 1423b, 1423h, and 1423i of this title, and enacting provisions set out as notes under this section and [section 1422 of this title][/us/usc/t48/s1422]\] may be cited as the ‘Guam Elective Governor Act’.”
 
  __Short Title__ 
 
-[Act Aug. 1, 1950, ch. 512, § 1][/us/act/1950-08-01/ch512/s1], [64 Stat. 384][/us/stat/64/384], provided that: 
+[Act Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 1, [64 Stat. 384][/us/stat/64/384], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 703 of Title 8][/us/usc/t8/s703], Aliens and Nationality\] may be cited as the ‘Organic Act of Guam’.”
 
@@ -57,7 +57,7 @@
 
  __Analysis of Capital Infrastructure Needs of Guam for 1985 to 1990 Timeframe; Report to Congress; Contents__ 
 
-    [Pub. L. 95–348, § 1(a)(6)][/us/pl/95/348/s1/a/6], Aug. 18, 1978, [92 Stat. 487][/us/stat/92/487], provided that the Secretary prepare and transmit to the Congress no later than July 1, 1979, an analysis of the capital infrastructure needs of Guam for the 1985 to 1990 timeframe.
+    [Pub. L. 95–348][/us/pl/95/348], § 1(a)(6), Aug. 18, 1978, [92 Stat. 487][/us/stat/92/487], provided that the Secretary prepare and transmit to the Congress no later than July 1, 1979, an analysis of the capital infrastructure needs of Guam for the 1985 to 1990 timeframe.
 
  __Submerged Lands, Conveyance to Territory__ 
 
@@ -84,26 +84,26 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs2
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F384
-[/us/pl/107/212/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F212%2Fs1
+[/us/pl/107/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F212
 [/us/stat/116/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1051
 [/us/usc/t48/s1421i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421i
 [/us/usc/t48/s1421i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421i
-[/us/pl/105/291/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F291%2Fs1
+[/us/pl/105/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F291
 [/us/stat/112/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2785
-[/us/pl/90/601/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F601%2Fs1
+[/us/pl/90/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F601
 [/us/stat/82/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1172
-[/us/pl/90/497/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497%2Fs14
+[/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/stat/82/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F848
 [/us/usc/t48/s1422d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1422d
 [/us/usc/t10/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs335
 [/us/usc/t48/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1422
-[/us/act/1950-08-01/ch512/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs1
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F384
 [/us/usc/t8/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs703
 [/us/usc/t48/s1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1844
-[/us/pl/95/348/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs1%2Fa%2F6
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F487
 
 

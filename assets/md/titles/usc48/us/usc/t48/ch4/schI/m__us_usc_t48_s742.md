@@ -17,7 +17,7 @@
 
     Deeds and other instruments affecting land situate in the District of Columbia, or any other territory or possession of the United States, may be acknowledged in Puerto Rico before any notary public appointed therein by proper authority, or any officer therein who has ex officio the powers of a notary public. The certificate by such notary shall be accompanied by the certificate of the executive secretary of Puerto Rico to the effect that the notary taking such acknowledgment is in fact such notarial officer.
 
-([Mar. 2, 1917, ch. 145, § 54][/us/act/1917-03-02/ch145/s54], [39 Stat. 968][/us/stat/39/968]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 54, [39 Stat. 968][/us/stat/39/968]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs54
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F968
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

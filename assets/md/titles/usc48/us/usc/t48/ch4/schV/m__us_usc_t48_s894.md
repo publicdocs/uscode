@@ -17,7 +17,7 @@
 
     The salary and traveling expenses of the Resident Commissioner from Puerto Rico to the United States shall be paid by the Chief Administrative Officer of the House of Representatives in the same manner as the salaries of the members of the House of Representatives are paid.
 
-([June 22, 1906, ch. 3514, § 1][/us/act/1906-06-22/ch3514/s1], [34 Stat. 417][/us/stat/34/417]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [Pub. L. 104–186, title II, § 224(1)][/us/pl/104/186/s224/1], Aug. 20, 1996, [110 Stat. 1752][/us/stat/110/1752].)
+([June 22, 1906, ch. 3514][/us/act/1906-06-22/ch3514], § 1, [34 Stat. 417][/us/stat/34/417]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 224(1), Aug. 20, 1996, [110 Stat. 1752][/us/stat/110/1752].)
 
  __Codification__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/act/1906-06-22/ch3514/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-22%2Fch3514%2Fs1
+[/us/act/1906-06-22/ch3514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-22%2Fch3514
 [/us/stat/34/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F417
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
-[/us/pl/104/186/s224/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs224%2F1
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1752
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a

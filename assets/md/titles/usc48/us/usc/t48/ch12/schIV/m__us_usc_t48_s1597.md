@@ -27,7 +27,7 @@
 
         The heads of the executive departments created by this chapter shall be appointed by the Governor, with the advice and consent of the legislature. Each shall hold office during the continuance in office of the Governor by whom he is appointed and until his successor is appointed and qualified, unless sooner removed by the Governor. Each shall have such powers and duties as may be prescribed by the legislature. The chairman and members of any board, authority, or commission established by the laws of the Virgin Islands shall, if the laws of the Virgin Islands hereafter provide, also be appointed by the Governor with the advice and consent of the legislature, if such board, authority, or commission has quasi-judicial functions: Provided, That no law of the Virgin Islands dealing with the chairmanship, membership, or chairmanship and membership of any such board, authority, or commission, and requiring an appointment or appointments to be made with the advice and consent of the legislature, shall relate to more than one such board, authority, or commission, nor shall it relate to any other legislative matter.
 
-([July 22, 1954, ch. 558, § 16][/us/act/1954-07-22/ch558/s16], [68 Stat. 504][/us/stat/68/504]; [Pub. L. 85–224][/us/pl/85/224], Aug. 30, 1957, [71 Stat. 510][/us/stat/71/510]; [Pub. L. 86–289, § 3][/us/pl/86/289/s3], Sept. 16, 1959, [73 Stat. 569][/us/stat/73/569]; [Pub. L. 90–496, § 8(a)][/us/pl/90/496/s8/a], Aug. 23, 1968, [82 Stat. 839][/us/stat/82/839].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 16, [68 Stat. 504][/us/stat/68/504]; [Pub. L. 85–224][/us/pl/85/224], Aug. 30, 1957, [71 Stat. 510][/us/stat/71/510]; [Pub. L. 86–289][/us/pl/86/289], § 3, Sept. 16, 1959, [73 Stat. 569][/us/stat/73/569]; [Pub. L. 90–496][/us/pl/90/496], § 8(a), Aug. 23, 1968, [82 Stat. 839][/us/stat/82/839].)
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs16
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F504
 [/us/pl/85/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F224
 [/us/stat/71/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F510
-[/us/pl/86/289/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289%2Fs3
+[/us/pl/86/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289
 [/us/stat/73/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F569
-[/us/pl/90/496/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs8%2Fa
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F839
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/pl/86/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289

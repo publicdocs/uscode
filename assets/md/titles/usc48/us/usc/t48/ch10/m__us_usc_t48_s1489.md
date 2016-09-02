@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1486.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1490.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1489)
+[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1487 _us_usc_t48_s1488.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1490.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1489)
 
 ## § 1489. Loss of title of United States to lands in territories through adverse possession or prescription forbidden
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1486.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1490.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1489)
+[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1487 _us_usc_t48_s1488.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1490.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1489)
 
 ----------
 ----------

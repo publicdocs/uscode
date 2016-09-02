@@ -17,7 +17,7 @@
 
     The legislature or any person or group of persons in Guam shall have the unrestricted right of petition. It shall be the duty of all officers of the government to receive and without delay to act upon or forward, as the case may require, any such petition.
 
-([Aug. 1, 1950, ch. 512, § 21][/us/act/1950-08-01/ch512/s21], [64 Stat. 389][/us/stat/64/389].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 21, [64 Stat. 389][/us/stat/64/389].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs21
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F389
 
 

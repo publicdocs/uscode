@@ -17,7 +17,7 @@
 
     The next general election in the Virgin Islands shall be held on November 2, 1954. At such time there shall be chosen the entire membership of the legislature as herein provided. Thereafter the general elections shall be held on the first Tuesday after the first Monday in November, beginning with the year 1956, and every two years thereafter. The Municipal Council of Saint Thomas and Saint John, and the Municipal Council of Saint Croix, existing on July 22, 1954, shall continue to function until January 10, 1955, at which time all of the functions, property, personnel, records, and unexpended balances of appropriations and funds of the governments of the municipality of Saint Thomas and Saint John and the municipality of Saint Croix shall be transferred to the government of the Virgin Islands.
 
-([July 22, 1954, ch. 558, § 10][/us/act/1954-07-22/ch558/s10], [68 Stat. 502][/us/stat/68/502].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 10, [68 Stat. 502][/us/stat/68/502].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs10
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F502
 
 

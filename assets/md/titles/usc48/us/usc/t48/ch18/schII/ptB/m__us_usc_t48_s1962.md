@@ -17,7 +17,7 @@
 
     For the purposes of applying [section 1905(c)(2) of this title][/us/usc/t48/s1905/c/2] to Palau, the terms “fiscal year 1987”, “fiscal year 1988”, and “fiscal year 1989” in [section 104(c) of Public Law 99–658][/us/pl/99/658/s104/c] shall be deemed to be the first, second, and third fiscal years, respectively, beginning after the effective date of the Compact.
 
-([Pub. L. 101–219, title I, § 113][/us/pl/101/219/s113], Dec. 12, 1989, [103 Stat. 1873][/us/stat/103/1873].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 113, Dec. 12, 1989, [103 Stat. 1873][/us/stat/103/1873].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t48/s1905/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1905%2Fc%2F2
 [/us/pl/99/658/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs104%2Fc
-[/us/pl/101/219/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs113
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1873
 [/us/pl/99/658/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs104%2Fc
 [/us/pl/99/658/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs104%2Fc

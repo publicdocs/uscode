@@ -17,7 +17,7 @@
 
     The laws of the United States which are made applicable to the Northern Mariana Islands by the provisions of section 502(a)(1) of H.J. Res. 549, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as approved by the House of Representatives and the Senate, except for section 228 of title II \[[42 U.S.C. 428][/us/usc/t42/s428]\] and title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] as it applies to the several States and the Micronesia Claims Act as it applies to the Trust Territory of the Pacific Islands, shall be made applicable to Guam on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
 
-([Pub. L. 94–255, § 2][/us/pl/94/255/s2], Apr. 1, 1976, [90 Stat. 300][/us/stat/90/300].)
+([Pub. L. 94–255][/us/pl/94/255], § 2, Apr. 1, 1976, [90 Stat. 300][/us/stat/90/300].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t42/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs428
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
-[/us/pl/94/255/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F255%2Fs2
+[/us/pl/94/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F255
 [/us/stat/90/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F300
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

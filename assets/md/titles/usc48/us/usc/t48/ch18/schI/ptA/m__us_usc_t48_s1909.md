@@ -17,7 +17,7 @@
 
     No payment may be made pursuant to the Compact nor under any provision of this joint resolution prior to October 1, 1985.
 
-([Pub. L. 99–239, title I, § 109][/us/pl/99/239/s109], Jan. 14, 1986, [99 Stat. 1798][/us/stat/99/1798].)
+([Pub. L. 99–239, title I][/us/pl/99/239/tI], § 109, Jan. 14, 1986, [99 Stat. 1798][/us/stat/99/1798].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/99/239/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs109
+[/us/pl/99/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtI
 [/us/stat/99/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1798
 [/us/pl/99/239/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs201
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901

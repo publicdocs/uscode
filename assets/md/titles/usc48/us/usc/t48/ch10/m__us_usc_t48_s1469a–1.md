@@ -17,7 +17,7 @@
 
     Pursuant to the terms of the Organic Act of Guam ([64 Stat. 384][/us/stat/64/384]), as amended \[[48 U.S.C. 1421][/us/usc/t48/s1421] et seq.\]; the Joint resolution to Approve the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America ([90 Stat. 263][/us/stat/90/263]), as amended \[[48 U.S.C. 1801][/us/usc/t48/s1801] et seq.\]; the Puerto Rican Federal Relations Act ([64 Stat. 319][/us/stat/64/319]), as amended and supplemented \[[48 U.S.C. 731][/us/usc/t48/s731] et seq.\]; and the Revised Organic Act of the Virgin Islands (86  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “68”. </sup></sup>  Stat. 497), as amended and supplemented \[[48 U.S.C. 1541][/us/usc/t48/s1541] et seq.\] and an Act to authorize appropriations for certain insular areas of the United States, and for other purposes ([92 Stat. 487][/us/stat/92/487]), as amended; there shall be paid into the treasuries of Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands respectively the full amounts which are to be covered into the treasuries of said islands or paid pursuant to said laws as amended and supplemented and such amounts shall not be reduced, notwithstanding [Public Law 99–177][/us/pl/99/177], [Public Law 99–366][/us/pl/99/366], or any other provision of law.
 
-([Pub. L. 99–396, § 19(b)][/us/pl/99/396/s19/b], Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844].)
+([Pub. L. 99–396][/us/pl/99/396], § 19(b), Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 [/us/stat/92/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F487
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F366
-[/us/pl/99/396/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs19%2Fb
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F844
 [/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F384

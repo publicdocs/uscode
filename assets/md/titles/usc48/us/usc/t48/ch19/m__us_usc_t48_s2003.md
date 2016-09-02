@@ -27,7 +27,7 @@
 
         The Secretary of the Interior shall afford participants in the conference an opportunity to submit written comments for inclusion in the reports required under [section 2002 of this title][/us/usc/t48/s2002].
 
-([Pub. L. 99–239, title III, § 303][/us/pl/99/239/s303], Jan. 14, 1986, [99 Stat. 1837][/us/stat/99/1837].)
+([Pub. L. 99–239, title III][/us/pl/99/239/tIII], § 303, Jan. 14, 1986, [99 Stat. 1837][/us/stat/99/1837].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t48/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs2002%2Fb
 [/us/usc/t48/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs2002
-[/us/pl/99/239/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs303
+[/us/pl/99/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtIII
 [/us/stat/99/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1837
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

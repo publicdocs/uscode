@@ -17,7 +17,7 @@
 
     No loan or loan guarantee shall be made under sections 1688 to 1693 of this title to any applicant who does not satisfy the territorial administering agency that financing is otherwise unavailable on reasonable terms and conditions. No loan or loan guarantee shall exceed (1) the amount which can reasonably be expected to be repaid, (2) the minimum amount necessary to accomplish the purposes of sections 1688 to 1693 of this title, or 25 per centum of the funds appropriated pursuant to [section 1688 of this title][/us/usc/t48/s1688]. No loan guarantee shall guarantee more than 90 per centum of the outstanding amount of any loan, and the reserves maintained to guarantee the loan shall not be less than 25 per centum of the guarantee.
 
-([Pub. L. 92–257, § 3][/us/pl/92/257/s3], Mar. 21, 1972, [86 Stat. 87][/us/stat/86/87].)
+([Pub. L. 92–257][/us/pl/92/257], § 3, Mar. 21, 1972, [86 Stat. 87][/us/stat/86/87].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t48/s1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1688
-[/us/pl/92/257/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F257%2Fs3
+[/us/pl/92/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F257
 [/us/stat/86/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F87
 
 

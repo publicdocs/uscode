@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated to the Departments, agencies, and instrumentalities named in paragraphs (1) and (3) through (6) of section 221(a) of the U.S.-FSM Compact and paragraphs (1) and (3) through (5) of section 221(a) of the U.S.-RMI Compact, such sums as are necessary to carry out the purposes of sections 221(a) of the U.S.-FSM Compact and the U.S.-RMI Compact, to remain available until expended.
 
-([Pub. L. 108–188, title I, § 109][/us/pl/108/188/s109], Dec. 17, 2003, [117 Stat. 2756][/us/stat/117/2756].)
+([Pub. L. 108–188, title I][/us/pl/108/188/tI], § 109, Dec. 17, 2003, [117 Stat. 2756][/us/stat/117/2756].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/108/188/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs109
+[/us/pl/108/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2FtI
 [/us/stat/117/2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2756
 
 

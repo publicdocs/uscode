@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch15/m__us_usc_t48_ch15.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1705.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1704)
+[Previous](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1701...1703.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1705.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1704)
 
 ## § 1704. Concurrent jurisdiction; exceptions for national defense purposes
 
@@ -19,7 +19,7 @@
 
     (b) Notwithstanding the provisions of subsection (a) of this section, the President may from time to time exclude from the concurrent jurisdiction of the government of Guam persons found, acts performed, and offenses committed on the property of the United States which is under the control of the Secretary of Defense to such extent and in such circumstances as he finds required in the interest of the national defense.
 
-([Pub. L. 88–183, § 4][/us/pl/88/183/s4], Nov. 20, 1963, [77 Stat. 339][/us/stat/77/339]; [Pub. L. 99–396, § 3][/us/pl/99/396/s3], Aug. 27, 1986, [100 Stat. 839][/us/stat/100/839].)
+([Pub. L. 88–183][/us/pl/88/183], § 4, Nov. 20, 1963, [77 Stat. 339][/us/stat/77/339]; [Pub. L. 99–396][/us/pl/99/396], § 3, Aug. 27, 1986, [100 Stat. 839][/us/stat/100/839].)
 
  __References in Text__ 
 
@@ -31,14 +31,14 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch15/m__us_usc_t48_ch15.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1705.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1704)
+[Previous](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1701...1703.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1705.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1704)
 
 ----------
 ----------
 
-[/us/pl/88/183/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F183%2Fs4
+[/us/pl/88/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F183
 [/us/stat/77/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F339
-[/us/pl/99/396/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs3
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F839
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 

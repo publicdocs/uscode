@@ -37,7 +37,7 @@
 
         (E) to attain the international obligations of the United States.
 
-([Pub. L. 99–239, title III, § 301][/us/pl/99/239/s301], Jan. 14, 1986, [99 Stat. 1836][/us/stat/99/1836].)
+([Pub. L. 99–239, title III][/us/pl/99/239/tIII], § 301, Jan. 14, 1986, [99 Stat. 1836][/us/stat/99/1836].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/99/239/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs301
+[/us/pl/99/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtIII
 [/us/stat/99/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1836
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

@@ -17,7 +17,7 @@
 
     The legislature of each territory may determine the order of names on the ballot for election of Delegate, the method by which a special election to fill a vacancy in the office of Delegate shall be conducted, the method by which ties between candidates for the office of Delegate shall be resolved, and all other matters of local application pertaining to the election and the office of Delegate not otherwise expressly provided for herein.
 
-([Pub. L. 92–271, § 4][/us/pl/92/271/s4], Apr. 10, 1972, [86 Stat. 119][/us/stat/86/119].)
+([Pub. L. 92–271][/us/pl/92/271], § 4, Apr. 10, 1972, [86 Stat. 119][/us/stat/86/119].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/271/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F271%2Fs4
+[/us/pl/92/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F271
 [/us/stat/86/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F119
 
 

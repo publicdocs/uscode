@@ -17,7 +17,7 @@
 
     The President may, from time to time, in his discretion, convey to the people of Puerto Rico, such lands, buildings, or interests in lands, or other property now owned by the United States, and within the territorial limits of Puerto Rico as in his opinion are no longer needed for purposes of the United States. And he may from time to time accept by legislative grant from Puerto Rico any lands, buildings, or other interests or property which may be needed for public purposes by the United States.
 
-([Mar. 2, 1917, ch. 145, § 7][/us/act/1917-03-02/ch145/s7], [39 Stat. 954][/us/stat/39/954]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 7, [39 Stat. 954][/us/stat/39/954]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs7
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F954
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

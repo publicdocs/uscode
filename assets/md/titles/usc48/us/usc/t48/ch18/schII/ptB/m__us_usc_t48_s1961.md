@@ -17,7 +17,7 @@
 
     Any agreement concluded with the Government of Palau pursuant to this joint resolution including the agreement entitled “Agreement Concerning Special Programs related to the Entry into Force of the Compact of Free Association Between the Government of the United States and the Government of the Republic of Palau” signed on May 26, 1989, and any agreement which would amend, change, or terminate any such agreement, or portion thereof, shall be submitted to the Congress and may not take effect until after 30 days after the date on which such agreement is so submitted. An amendment or agreement substituting or in addition to the subsidiary agreement negotiated under section 212(a) of the Compact or its annex shall take effect only when approved by an Act of Congress.
 
-([Pub. L. 101–219, title I, § 112][/us/pl/101/219/s112], Dec. 12, 1989, [103 Stat. 1873][/us/stat/103/1873].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 112, Dec. 12, 1989, [103 Stat. 1873][/us/stat/103/1873].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/219/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs112
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1873
 [/us/pl/101/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219
 [/us/stat/103/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1870

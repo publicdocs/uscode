@@ -17,7 +17,7 @@
 
     It is the sense of the Congress that pursuant to section 902 of the foregoing Covenant, and in any case within ten years from March 24, 1976, the President of the United States should request, on behalf of the United States, the designation of special representatives to meet and to consider in good faith such issues affecting the relationship between the Northern Mariana Islands and the United States as may be designated by either Government and to make a report and recommendations with respect thereto.
 
-([Pub. L. 94–241, § 2][/us/pl/94/241/s2], Mar. 24, 1976, [90 Stat. 279][/us/stat/90/279].)
+([Pub. L. 94–241][/us/pl/94/241], § 2, Mar. 24, 1976, [90 Stat. 279][/us/stat/90/279].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/94/241/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs2
+[/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/stat/90/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F279
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

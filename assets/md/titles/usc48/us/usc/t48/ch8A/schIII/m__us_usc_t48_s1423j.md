@@ -21,7 +21,7 @@
 
     (c) All appropriations made prior to August 1, 1950 shall be available to the government of Guam.
 
-([Aug. 1, 1950, ch. 512, § 20][/us/act/1950-08-01/ch512/s20], [64 Stat. 389][/us/stat/64/389].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 20, [64 Stat. 389][/us/stat/64/389].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs20
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F389
 
 

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5572 derived from [act Apr. 2, 1872, ch. 81, § 1][/us/act/1872-04-02/ch81/s1], [17 Stat. 48][/us/stat/17/48].
+    R.S. § 5572 derived from [act Apr. 2, 1872, ch. 81][/us/act/1872-04-02/ch81], § 1, [17 Stat. 48][/us/stat/17/48].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t48/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1412
-[/us/act/1872-04-02/ch81/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-04-02%2Fch81%2Fs1
+[/us/act/1872-04-02/ch81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-04-02%2Fch81
 [/us/stat/17/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F48
 
 

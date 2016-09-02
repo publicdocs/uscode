@@ -17,7 +17,7 @@
 
     The laws of the United States relating to copyrights, and to the enforcement of rights arising thereunder, shall have the same force and effect in Guam as in the continental United States.
 
-([Aug. 1, 1956, ch. 852, § 24][/us/act/1956-08-01/ch852/s24], [70 Stat. 911][/us/stat/70/911].)
+([Aug. 1, 1956, ch. 852][/us/act/1956-08-01/ch852], § 24, [70 Stat. 911][/us/stat/70/911].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-01/ch852/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852%2Fs24
+[/us/act/1956-08-01/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852
 [/us/stat/70/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F911
 
 

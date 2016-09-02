@@ -17,7 +17,7 @@
 
     The Secretary shall take such steps as are necessary to ensure that the proceeds of taxes collected under the provisions of sections 601, 602, 603, and 604 of the Covenant ([Public Law 94–241][/us/pl/94/241]) are covered directly upon collection into the treasury of the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 96–205, title II, § 204(b)][/us/pl/96/205/s204/b], Mar. 12, 1980, [94 Stat. 87][/us/stat/94/87].)
+([Pub. L. 96–205, title II][/us/pl/96/205/tII], § 204(b), Mar. 12, 1980, [94 Stat. 87][/us/stat/94/87].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
-[/us/pl/96/205/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs204%2Fb
+[/us/pl/96/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtII
 [/us/stat/94/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F87
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated annually by the Congress of the United States such sums as may be necessary and appropriate to carry out the provisions and purposes of this chapter.
 
-([July 22, 1954, ch. 558, § 35][/us/act/1954-07-22/ch558/s35], [68 Stat. 510][/us/stat/68/510].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 35, [68 Stat. 510][/us/stat/68/510].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs35
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F510
 
 

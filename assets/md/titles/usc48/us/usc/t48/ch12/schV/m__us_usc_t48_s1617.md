@@ -17,7 +17,7 @@
 
     The President shall, by and with the advice and consent of the Senate, appoint a United States attorney for the Virgin Islands to whose office the provisions of chapter 35 of title 28, shall apply. Except as otherwise provided by law it shall be the duty of the United States attorney to prosecute all offenses against the United States and to conduct all legal proceedings, civil and criminal, to which the Government of the United States is a party in the district court and in the courts established by local law. He shall also prosecute in the district court in the name of the government of the Virgin Islands all offenses against the laws of the Virgin Islands which are cognizable by that court unless, at his request or with his consent, the prosecution of any such case is conducted by the attorney general of the Virgin Islands. The United States attorney may, when requested by the Governor or the attorney general of the Virgin Islands, conduct any other legal proceedings to which the government of the Virgin Islands is a party in the district court or the courts established by local law.
 
-([July 22, 1954, ch. 558, § 27][/us/act/1954-07-22/ch558/s27], [68 Stat. 507][/us/stat/68/507]; [Pub. L. 85–851, § 9][/us/pl/85/851/s9], Aug. 28, 1958, [72 Stat. 1095][/us/stat/72/1095]; [Pub. L. 86–289, § 4][/us/pl/86/289/s4], Sept. 16, 1959, [73 Stat. 569][/us/stat/73/569]; [Pub. L. 92–24][/us/pl/92/24], June 2, 1971, [85 Stat. 76][/us/stat/85/76]; [Pub. L. 98–454, title VII, § 708][/us/pl/98/454/s708], Oct. 5, 1984, [98 Stat. 1741][/us/stat/98/1741].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 27, [68 Stat. 507][/us/stat/68/507]; [Pub. L. 85–851][/us/pl/85/851], § 9, Aug. 28, 1958, [72 Stat. 1095][/us/stat/72/1095]; [Pub. L. 86–289][/us/pl/86/289], § 4, Sept. 16, 1959, [73 Stat. 569][/us/stat/73/569]; [Pub. L. 92–24][/us/pl/92/24], June 2, 1971, [85 Stat. 76][/us/stat/85/76]; [Pub. L. 98–454, title VII][/us/pl/98/454/tVII], § 708, Oct. 5, 1984, [98 Stat. 1741][/us/stat/98/1741].)
 
  __Amendments__ 
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs27
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F507
-[/us/pl/85/851/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851%2Fs9
+[/us/pl/85/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851
 [/us/stat/72/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1095
-[/us/pl/86/289/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289%2Fs4
+[/us/pl/86/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289
 [/us/stat/73/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F569
 [/us/pl/92/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F24
 [/us/stat/85/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F76
-[/us/pl/98/454/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs708
+[/us/pl/98/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVII
 [/us/stat/98/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1741
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 [/us/pl/92/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F24

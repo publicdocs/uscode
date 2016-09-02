@@ -17,7 +17,7 @@
 
     Powers granted herein shall be in addition to, and not in derogation of, any powers granted by other law to, or for the benefit or assistance of, any public corporate authority.
 
-([Pub. L. 88–171, § 5][/us/pl/88/171/s5], Nov. 4, 1963, [77 Stat. 304][/us/stat/77/304].)
+([Pub. L. 88–171][/us/pl/88/171], § 5, Nov. 4, 1963, [77 Stat. 304][/us/stat/77/304].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/171/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F171%2Fs5
+[/us/pl/88/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F171
 [/us/stat/77/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F304
 
 

@@ -111,7 +111,7 @@
 
             The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
-([Pub. L. 99–239, title I, § 102][/us/pl/99/239/s102], Jan. 14, 1986, [99 Stat. 1775][/us/stat/99/1775].)
+([Pub. L. 99–239, title I][/us/pl/99/239/tI], § 102, Jan. 14, 1986, [99 Stat. 1775][/us/stat/99/1775].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 
     This joint resolution, referred to in subsecs. (a)(3) and (c)(6), is [Pub. L. 99–239][/us/pl/99/239], Jan. 14, 1986, [99 Stat. 1770][/us/stat/99/1770], as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this part and chapter 19 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title][/us/usc/t48/s1901] and Tables.
 
-    [Section 2291(e) of title 22][/us/usc/t22/s2291/e], referred to in subsec. (a)(4), was repealed and [section 2291(i) of title 22][/us/usc/t22/s2291/i], relating to definitions, was redesignated section 2291(e) by [Pub. L. 102–583, § 6(b)(2)][/us/pl/102/583/s6/b/2], (3), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]. See sections 2291h and 2291i of Title 22, Foreign Relations and Intercourse.
+    [Section 2291(e) of title 22][/us/usc/t22/s2291/e], referred to in subsec. (a)(4), was repealed and [section 2291(i) of title 22][/us/usc/t22/s2291/i], relating to definitions, was redesignated section 2291(e) by [Pub. L. 102–583][/us/pl/102/583], § 6(b)(2), (3), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]. See sections 2291h and 2291i of Title 22, Foreign Relations and Intercourse.
 
     For Oct. 21, 1986, as the effective date of the Compact of Free Association with the Marshall Islands, and Nov. 3, 1986, as the effective date of the Compact of Free Association with the Federated States of Micronesia, referred to in subsec. (b)(1), see Proc. No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under [section 1801 of this title][/us/usc/t48/s1801].
 
@@ -140,7 +140,7 @@
 
 [/us/usc/t21/s802/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F6
 [/us/usc/t48/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901%2Fa
-[/us/pl/99/239/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs102
+[/us/pl/99/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtI
 [/us/stat/99/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1775
 [/us/pl/99/239/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs201
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
@@ -149,7 +149,7 @@
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
 [/us/usc/t22/s2291/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fe
 [/us/usc/t22/s2291/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fi
-[/us/pl/102/583/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F2
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4932
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

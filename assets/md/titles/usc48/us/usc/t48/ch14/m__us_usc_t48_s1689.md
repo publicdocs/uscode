@@ -17,7 +17,7 @@
 
     The grant authorized by [section 1688 of this title][/us/usc/t48/s1688] shall be made only after the government of the Trust Territory of the Pacific Islands has submitted to the Secretary of the Interior a plan for the use of the grant, and the plan has been approved by the Secretary. The plan shall provide among other things for a revolving fund to make loans or to guarantee loans to private enterprise. The term of any loan made pursuant to the plan shall not exceed twenty-five years.
 
-([Pub. L. 92–257, § 2][/us/pl/92/257/s2], Mar. 21, 1972, [86 Stat. 87][/us/stat/86/87].)
+([Pub. L. 92–257][/us/pl/92/257], § 2, Mar. 21, 1972, [86 Stat. 87][/us/stat/86/87].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t48/s1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1688
-[/us/pl/92/257/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F257%2Fs2
+[/us/pl/92/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F257
 [/us/stat/86/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F87
 
 

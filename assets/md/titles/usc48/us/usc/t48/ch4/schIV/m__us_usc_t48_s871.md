@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Mar. 2, 1917, ch. 145, § 47][/us/act/1917-03-02/ch145/s47], [39 Stat. 967][/us/stat/39/967]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158], which related to fees and mileage of jurors and witnesses, was superseded by sections 1821, 1825 and 1871 of Title 28, Judiciary and Judicial Procedure.
+    Section, acts [Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 47, [39 Stat. 967][/us/stat/39/967]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158], which related to fees and mileage of jurors and witnesses, was superseded by sections 1821, 1825 and 1871 of Title 28, Judiciary and Judicial Procedure.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs47
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F967
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

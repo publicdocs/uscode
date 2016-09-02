@@ -17,7 +17,7 @@
 
     The Legislature of Guam may by law assist such authority by furnishing, or authorizing the furnishing of, cash donations, loans, conveyances of real and personal property, facilities, and services, and otherwise, and may by law take other action in aid of urban renewal or housing or related activities.
 
-([Pub. L. 88–171, § 3][/us/pl/88/171/s3], Nov. 4, 1963, [77 Stat. 304][/us/stat/77/304].)
+([Pub. L. 88–171][/us/pl/88/171], § 3, Nov. 4, 1963, [77 Stat. 304][/us/stat/77/304].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/171/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F171%2Fs3
+[/us/pl/88/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F171
 [/us/stat/77/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F304
 
 

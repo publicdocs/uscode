@@ -15,7 +15,7 @@
 
 ## § 1426. Repealed. [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title II, § 205, [68 Stat. 622][/us/stat/68/622]
 
-    Section, acts [Apr. 23, 1949, ch. 89, § 2(b)][/us/act/1949-04-23/ch89/s2/b], [63 Stat. 58][/us/stat/63/58]; [June 30, 1953, ch. 170, § 25(b)][/us/act/1953-06-30/ch170/s25/b], [67 Stat. 128][/us/stat/67/128], related to purchase of insured mortgage loans by the Federal National Mortgage Association, with respect to property in Guam. Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
+    Section, acts [Apr. 23, 1949, ch. 89][/us/act/1949-04-23/ch89], § 2(b), [63 Stat. 58][/us/stat/63/58]; [June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 25(b), [67 Stat. 128][/us/stat/67/128], related to purchase of insured mortgage loans by the Federal National Mortgage Association, with respect to property in Guam. Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
 
 ----------
 
@@ -26,9 +26,9 @@
 
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F622
-[/us/act/1949-04-23/ch89/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-04-23%2Fch89%2Fs2%2Fb
+[/us/act/1949-04-23/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-04-23%2Fch89
 [/us/stat/63/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F58
-[/us/act/1953-06-30/ch170/s25/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs25%2Fb
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F128
 
 

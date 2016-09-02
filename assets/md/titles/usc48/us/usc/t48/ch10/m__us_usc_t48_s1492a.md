@@ -37,7 +37,7 @@
 
         (5) __Secretary__ 
 
-            The term “Secretary” means the Secretary of the Interior.
+            The term “Secretary” means the Secretary of the Interior, except that, with respect to Puerto Rico, the term means, the Secretary of Energy.
 
         (6) __Team__ 
 
@@ -45,7 +45,7 @@
 
     (b) __Establishment__ 
 
-    Not later than 180 days after December 16, 2014, the Secretary shall, within the Empowering Insular Communities activity, establish a team of technical, policy, and financial experts—
+    Not later than 180 days after December 16, 2014 (except in the case of Puerto Rico, in which case not later than 270 days after June 30, 2016), the Secretary shall, within the Empowering Insular Communities activity (except in the case of Puerto Rico), establish a team of technical, policy, and financial experts—
 
         (1) to develop an energy action plan addressing the energy needs of each of the insular areas and Freely Associated States; and
 
@@ -87,11 +87,17 @@
 
         The energy action plan shall not be implemented until the Secretary approves the energy action plan.
 
-([Pub. L. 113–235, § 9][/us/pl/113/235/s9], Dec. 16, 2014, [128 Stat. 2133][/us/stat/128/2133].)
+([Pub. L. 113–235][/us/pl/113/235], § 9, Dec. 16, 2014, [128 Stat. 2133][/us/stat/128/2133]; [Pub. L. 114–187, title V][/us/pl/114/187/tV], § 505(d), June 30, 2016, [130 Stat. 602][/us/stat/130/602].)
 
  __Codification__ 
 
     Section is from the Consolidated and Further Continuing Appropriations Act, 2015.
+
+ __Amendments__ 
+
+    2016—Subsec. (a)(5). [Pub. L. 114–187][/us/pl/114/187], § 505(d)(1), inserted “, except that, with respect to Puerto Rico, the term means, the Secretary of Energy” after “Secretary of the Interior”.
+
+    Subsec. (b). [Pub. L. 114–187][/us/pl/114/187], § 505(d)(2), in introductory provisions, inserted “(except in the case of Puerto Rico, in which case not later than 270 days after June 30, 2016)” after “December 16, 2014” and “(except in the case of Puerto Rico)” after “Empowering Insular Communities activity”.
 
 ----------
 
@@ -101,7 +107,11 @@
 ----------
 
 [/us/usc/t48/s1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1492
-[/us/pl/113/235/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs9
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2133
+[/us/pl/114/187/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F187%2FtV
+[/us/stat/130/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F602
+[/us/pl/114/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F187
+[/us/pl/114/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F187
 
 

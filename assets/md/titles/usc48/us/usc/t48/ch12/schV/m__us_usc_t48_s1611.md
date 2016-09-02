@@ -27,7 +27,7 @@
 
         The rules governing the practice and procedure of the courts established by local law and those prescribing the qualifications and duties of the judges and officers thereof, oaths and bonds, and the times and places of holding court shall be governed by local law or the rules promulgated by those courts.
 
-([July 22, 1954, ch. 558, § 21][/us/act/1954-07-22/ch558/s21], [68 Stat. 506][/us/stat/68/506]; [Pub. L. 98–454, title VII, § 702][/us/pl/98/454/s702], Oct. 5, 1984, [98 Stat. 1737][/us/stat/98/1737].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 21, [68 Stat. 506][/us/stat/68/506]; [Pub. L. 98–454, title VII][/us/pl/98/454/tVII], § 702, Oct. 5, 1984, [98 Stat. 1737][/us/stat/98/1737].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs21
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F506
-[/us/pl/98/454/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs702
+[/us/pl/98/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVII
 [/us/stat/98/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1737
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454

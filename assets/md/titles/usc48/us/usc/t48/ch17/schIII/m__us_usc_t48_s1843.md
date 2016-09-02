@@ -27,7 +27,7 @@
 
         As provided in section 602  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of [Public Law 94–241][/us/pl/94/241] ([90 Stat. 263][/us/stat/90/263], 270) the term “rebate of any taxes” shall, effective January 1, 1985, apply only to the extent taxes have actually been paid pursuant to section 601  <sup>\[1\]</sup>  of said Act, shall not exceed the amount of tax actually paid for any tax year, and may only be paid following the close of the tax year involved. Notwithstanding any other provision of law, effective January 1, 1985, the Commonwealth of the Northern Mariana Islands shall maintain, as a matter of public record, the name and address of each person receiving such a rebate, together with the amount of the rebate, and the year for which such rebate was made.
 
-([Pub. L. 96–205, title II, § 205][/us/pl/96/205/s205], Mar. 12, 1980, [94 Stat. 87][/us/stat/94/87]; [Pub. L. 96–597, title III, § 303(a)][/us/pl/96/597/s303/a], Dec. 24, 1980, [94 Stat. 3478][/us/stat/94/3478]; [Pub. L. 98–213, § 3(a)][/us/pl/98/213/s3/a], (b), Dec. 8, 1983, [97 Stat. 1459][/us/stat/97/1459].)
+([Pub. L. 96–205, title II][/us/pl/96/205/tII], § 205, Mar. 12, 1980, [94 Stat. 87][/us/stat/94/87]; [Pub. L. 96–597, title III][/us/pl/96/597/tIII], § 303(a), Dec. 24, 1980, [94 Stat. 3478][/us/stat/94/3478]; [Pub. L. 98–213][/us/pl/98/213], § 3(a), (b), Dec. 8, 1983, [97 Stat. 1459][/us/stat/97/1459].)
 
  __References in Text__ 
 
@@ -43,15 +43,15 @@
 
  __Amendments__ 
 
-    1983—Subsec. (a). [Pub. L. 98–213, § 3(a)][/us/pl/98/213/s3/a], substituted “1985” for “1983”.
+    1983—Subsec. (a). [Pub. L. 98–213][/us/pl/98/213], § 3(a), substituted “1985” for “1983”.
 
-    Subsec. (c). [Pub. L. 98–213, § 3(b)][/us/pl/98/213/s3/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “It is the sense of Congress that the term ‘rebate’ as used in [section 602 of Public Law 94–241][/us/pl/94/241/s602] does not permit the abatement of taxes.”
+    Subsec. (c). [Pub. L. 98–213][/us/pl/98/213], § 3(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “It is the sense of Congress that the term ‘rebate’ as used in [section 602 of Public Law 94–241][/us/pl/94/241/s602] does not permit the abatement of taxes.”
 
     1980—Subsec. (a). [Pub. L. 96–597][/us/pl/96/597] substituted “until, but not after, January 1, 1983.” for “and before January 1, 1981.”.
 
  __Suspension of Prohibition of Abatement of Taxation in Commonwealth of Northern Mariana Islands__ 
 
-    [Pub. L. 96–597, title III, § 303(b)][/us/pl/96/597/s303/b], Dec. 24, 1980, [94 Stat. 3478][/us/stat/94/3478], provided that provisions of subsec. (c) of this section were suspended and were of no force or effect until Jan. 1, 1983.
+    [Pub. L. 96–597, title III][/us/pl/96/597/tIII], § 303(b), Dec. 24, 1980, [94 Stat. 3478][/us/stat/94/3478], provided that provisions of subsec. (c) of this section were suspended and were of no force or effect until Jan. 1, 1983.
 
 ----------
 
@@ -65,11 +65,11 @@
 [/us/pl/1/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F1%2F30
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
-[/us/pl/96/205/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs205
+[/us/pl/96/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtII
 [/us/stat/94/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F87
-[/us/pl/96/597/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2Fs303%2Fa
+[/us/pl/96/597/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2FtIII
 [/us/stat/94/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3478
-[/us/pl/98/213/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs3%2Fa
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1459
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
@@ -79,11 +79,11 @@
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/98/213/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs3%2Fa
-[/us/pl/98/213/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs3%2Fb
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/pl/94/241/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs602
 [/us/pl/96/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597
-[/us/pl/96/597/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2Fs303%2Fb
+[/us/pl/96/597/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2FtIII
 [/us/stat/94/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3478
 
 

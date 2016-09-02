@@ -27,7 +27,7 @@
 
         Except to the extent inconsistent with the provisions of this Act, the provisions of [section 1574(b)(ii) of this title][/us/usc/t48/s1574/b/ii] (other than the limitation contained in the proviso to the first sentence of subparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a).
 
-([Pub. L. 94–392, § 1][/us/pl/94/392/s1], Aug. 19, 1976, [90 Stat. 1193][/us/stat/90/1193]; [Pub. L. 105–83, title I, § 124(c)][/us/pl/105/83/s124/c], Nov. 14, 1997, [111 Stat. 1567][/us/stat/111/1567]; [Pub. L. 106–84, § 1(b)(3)][/us/pl/106/84/s1/b/3], Oct. 28, 1999, [113 Stat. 1295][/us/stat/113/1295].)
+([Pub. L. 94–392][/us/pl/94/392], § 1, Aug. 19, 1976, [90 Stat. 1193][/us/stat/90/1193]; [Pub. L. 105–83, title I][/us/pl/105/83/tI], § 124(c), Nov. 14, 1997, [111 Stat. 1567][/us/stat/111/1567]; [Pub. L. 106–84][/us/pl/106/84], § 1(b)(3), Oct. 28, 1999, [113 Stat. 1295][/us/stat/113/1295].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 94–392, § 6][/us/pl/94/392/s6], Aug. 19, 1976, [90 Stat. 1195][/us/stat/90/1195], provided that: 
+[Pub. L. 94–392][/us/pl/94/392], § 6, Aug. 19, 1976, [90 Stat. 1195][/us/stat/90/1195], provided that: 
 
 > “There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[enacting this section and sections 1574b to 1574d of this title and amending [section 1397 of this title][/us/usc/t48/s1397]\].”
 
@@ -62,11 +62,11 @@
 [/us/usc/t26/s7652/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7652%2Fb%2F3
 [/us/usc/t48/s1574b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1574b
 [/us/usc/t48/s1574/b/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1574%2Fb%2Fii
-[/us/pl/94/392/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392%2Fs1
+[/us/pl/94/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392
 [/us/stat/90/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1193
-[/us/pl/105/83/s124/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs124%2Fc
+[/us/pl/105/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtI
 [/us/stat/111/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1567
-[/us/pl/106/84/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F84%2Fs1%2Fb%2F3
+[/us/pl/106/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F84
 [/us/stat/113/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1295
 [/us/pl/94/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392
 [/us/stat/90/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1193
@@ -77,7 +77,7 @@
 [/us/usc/t26/s7852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7852%2Fb
 [/us/pl/106/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F84
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
-[/us/pl/94/392/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392%2Fs6
+[/us/pl/94/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392
 [/us/stat/90/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1195
 [/us/usc/t48/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1397
 

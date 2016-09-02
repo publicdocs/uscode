@@ -17,7 +17,7 @@
 
     All customs duties and Federal income taxes derived from Guam, the proceeds of all taxes collected under the internal-revenue laws of the United States on articles produced in Guam and transported to the United States, its Territories, or possessions, or consumed in Guam, and the proceeds of any other taxes which may be levied by the Congress on the inhabitants of Guam (including, but not limited to, compensation paid to members of the Armed Forces and pensions paid to retired civilians and military employees of the United States, or their survivors, who are residents of, or who are domiciled in, Guam), and all quarantine, passport, immigration, and naturalization fees collected in Guam shall be covered into the treasury of Guam and held in account for the government of Guam, and shall be expended for the benefit and government of Guam in accordance with the annual budgets; except that nothing in this chapter shall be construed to apply to any tax imposed by chapter 2 or 21 of the Internal Revenue Code of 1986 \[[26 U.S.C. 1401][/us/usc/t26/s1401] et seq., 3101 et seq.\]. Beginning as soon as the government of Guam enacts legislation establishing a fiscal year commencing on October 1 and ending on September 30, the Secretary of the Treasury, prior to the commencement of any fiscal year, shall remit to the government of Guam the amount of duties, taxes, and fees which the governor of Guam, with the concurrence of the government comptroller of Guam, has estimated will be collected in or derived from Guam under this section during the next fiscal year, except for those sums covered directly upon collection into the treasury of Guam. The Secretary of the Treasury shall deduct from or add to the amounts so remitted the difference between the amount of duties, taxes, and fees actually collected during the prior fiscal year and the amount of such duties, taxes, and fees as estimated and remitted at the beginning of that prior fiscal year, including any deductions which may be required as a result of the operation of [Public Law 94–395][/us/pl/94/395] ([90 Stat. 1199][/us/stat/90/1199]) or [Public Law 88–170][/us/pl/88/170], as amended ([82 Stat. 863][/us/stat/82/863]).
 
-([Aug. 1, 1950, ch. 512, § 30][/us/act/1950-08-01/ch512/s30], [64 Stat. 392][/us/stat/64/392]; [Pub. L. 86–778, title I, § 103(u)][/us/pl/86/778/s103/u], Sept. 13, 1960, [74 Stat. 941][/us/stat/74/941]; [Pub. L. 95–348, § 1(c)][/us/pl/95/348/s1/c], Aug. 18, 1978, [92 Stat. 488][/us/stat/92/488]; [Pub. L. 98–454, title VI, § 601(h)][/us/pl/98/454/s601/h], Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 30, [64 Stat. 392][/us/stat/64/392]; [Pub. L. 86–778, title I][/us/pl/86/778/tI], § 103(u), Sept. 13, 1960, [74 Stat. 941][/us/stat/74/941]; [Pub. L. 95–348][/us/pl/95/348], § 1(c), Aug. 18, 1978, [92 Stat. 488][/us/stat/92/488]; [Pub. L. 98–454, title VI][/us/pl/98/454/tVI], § 601(h), Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -49,15 +49,15 @@
 [/us/stat/90/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1199
 [/us/pl/88/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F170
 [/us/stat/82/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F863
-[/us/act/1950-08-01/ch512/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs30
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F392
-[/us/pl/86/778/s103/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs103%2Fu
+[/us/pl/86/778/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtI
 [/us/stat/74/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F941
-[/us/pl/95/348/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs1%2Fc
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F488
-[/us/pl/98/454/s601/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs601%2Fh
+[/us/pl/98/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVI
 [/us/stat/98/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1736
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/94/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F395
 [/us/stat/90/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1199

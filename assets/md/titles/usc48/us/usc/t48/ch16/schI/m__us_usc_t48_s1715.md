@@ -17,7 +17,7 @@
 
     The Delegate from Guam and the Delegate from the Virgin Islands shall have such privileges in the House of Representatives as may be afforded him under the Rules of the House of Representatives. Until the Rules of the House of Representatives are amended to provide otherwise, the Delegate from each territory shall receive the same compensation, allowances, and benefits as a Member of the House of Representatives, and shall be entitled to whatever privileges and immunities are, or hereinafter may be, granted to the Resident Commissioner for Puerto Rico: Provided, That the right to vote in committee shall be as provided by the Rules of the House of Representatives.
 
-([Pub. L. 92–271, § 5][/us/pl/92/271/s5], Apr. 10, 1972, [86 Stat. 119][/us/stat/86/119]; [Pub. L. 104–186, title II, § 224(4)][/us/pl/104/186/s224/4], Aug. 20, 1996, [110 Stat. 1752][/us/stat/110/1752].)
+([Pub. L. 92–271][/us/pl/92/271], § 5, Apr. 10, 1972, [86 Stat. 119][/us/stat/86/119]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 224(4), Aug. 20, 1996, [110 Stat. 1752][/us/stat/110/1752].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/92/271/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F271%2Fs5
+[/us/pl/92/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F271
 [/us/stat/86/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F119
-[/us/pl/104/186/s224/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs224%2F4
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1752
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/usc/t2/s43b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs43b

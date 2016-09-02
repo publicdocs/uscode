@@ -17,7 +17,7 @@
 
     All criminal cases originating in the district court shall be tried by jury upon demand by the defendant or by the Government. If no jury is demanded the case shall be tried by the judge of the district court without a jury, except that the judge may, on his own motion, order a jury for the trial of any criminal action. The legislature may provide for trial in misdemeanor cases by a jury of six qualified persons.
 
-([July 22, 1954, ch. 558, § 26][/us/act/1954-07-22/ch558/s26], [68 Stat. 507][/us/stat/68/507]; [Pub. L. 85–851, § 8][/us/pl/85/851/s8], Aug. 28, 1958, [72 Stat. 1095][/us/stat/72/1095].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 26, [68 Stat. 507][/us/stat/68/507]; [Pub. L. 85–851][/us/pl/85/851], § 8, Aug. 28, 1958, [72 Stat. 1095][/us/stat/72/1095].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs26
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F507
-[/us/pl/85/851/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851%2Fs8
+[/us/pl/85/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851
 [/us/stat/72/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1095
 [/us/pl/85/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851
 

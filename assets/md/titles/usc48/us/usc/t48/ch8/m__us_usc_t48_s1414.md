@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5573 derived from [act Aug. 18, 1856, ch. 164, § 2][/us/act/1856-08-18/ch164/s2], [11 Stat. 119][/us/stat/11/119].
+    R.S. § 5573 derived from [act Aug. 18, 1856, ch. 164][/us/act/1856-08-18/ch164], § 2, [11 Stat. 119][/us/stat/11/119].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1856-08-18/ch164/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch164%2Fs2
+[/us/act/1856-08-18/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch164
 [/us/stat/11/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F119
 
 

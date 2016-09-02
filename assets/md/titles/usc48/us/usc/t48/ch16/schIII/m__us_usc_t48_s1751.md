@@ -17,7 +17,7 @@
 
     The Commonwealth of the Northern Mariana Islands shall be represented in the United States Congress by the Resident Representative to the United States authorized by section 901 of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (approved by [Public Law 94–241][/us/pl/94/241] ([48 U.S.C. 1801][/us/usc/t48/s1801] et seq.)). The Resident Representative shall be a nonvoting Delegate to the House of Representatives, elected as provided in this subchapter.
 
-([Pub. L. 110–229, title VII, § 711][/us/pl/110/229/s711], May 8, 2008, [122 Stat. 868][/us/stat/122/868].)
+([Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 711, May 8, 2008, [122 Stat. 868][/us/stat/122/868].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
-[/us/pl/110/229/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs711
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F868
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

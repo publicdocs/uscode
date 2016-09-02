@@ -25,7 +25,7 @@
 
     There is hereby established the office of Lieutenant Governor of the Virgin Islands. The Lieutenant Governor shall have such executive powers and perform such duties as may be assigned to him by the Governor or prescribed by this chapter or under the laws of the Virgin Islands.
 
-([July 22, 1954, ch. 558, § 11][/us/act/1954-07-22/ch558/s11], [68 Stat. 503][/us/stat/68/503]; [Pub. L. 90–496, § 4][/us/pl/90/496/s4], Aug. 23, 1968, [82 Stat. 837][/us/stat/82/837]; [Pub. L. 97–357, title III, § 309(a)][/us/pl/97/357/s309/a], Oct. 19, 1982, [96 Stat. 1710][/us/stat/96/1710]; [Pub. L. 98–454, title V, § 502][/us/pl/98/454/s502], Oct. 5, 1984, [98 Stat. 1735][/us/stat/98/1735]; [Pub. L. 105–362, title IX, § 901(n)][/us/pl/105/362/s901/n], Nov. 10, 1998, [112 Stat. 3290][/us/stat/112/3290].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 11, [68 Stat. 503][/us/stat/68/503]; [Pub. L. 90–496][/us/pl/90/496], § 4, Aug. 23, 1968, [82 Stat. 837][/us/stat/82/837]; [Pub. L. 97–357, title III][/us/pl/97/357/tIII], § 309(a), Oct. 19, 1982, [96 Stat. 1710][/us/stat/96/1710]; [Pub. L. 98–454, title V][/us/pl/98/454/tV], § 502, Oct. 5, 1984, [98 Stat. 1735][/us/stat/98/1735]; [Pub. L. 105–362, title IX][/us/pl/105/362/tIX], § 901(n), Nov. 10, 1998, [112 Stat. 3290][/us/stat/112/3290].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–496, § 16][/us/pl/90/496/s16], Aug. 23, 1968, [82 Stat. 842][/us/stat/82/842], provided that: 
+[Pub. L. 90–496][/us/pl/90/496], § 16, Aug. 23, 1968, [82 Stat. 842][/us/stat/82/842], provided that: 
 
 > “Those provisions of this Act \[see Short Title note set out under [section 1541 of this title][/us/usc/t48/s1541]\] necessary to authorize the holding of an election for Governor and Lieutenant Governor on November 3, 1970, shall be effective January 1, 1970. All other provisions of this Act, unless otherwise expressly provided herein, shall be effective January 4, 1971.”
 
@@ -62,15 +62,15 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs11
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F503
-[/us/pl/90/496/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs4
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F837
-[/us/pl/97/357/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs309%2Fa
+[/us/pl/97/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtIII
 [/us/stat/96/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1710
-[/us/pl/98/454/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs502
+[/us/pl/98/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtV
 [/us/stat/98/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1735
-[/us/pl/105/362/s901/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs901%2Fn
+[/us/pl/105/362/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIX
 [/us/stat/112/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3290
 [/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F497
@@ -79,7 +79,7 @@
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 [/us/pl/97/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
-[/us/pl/90/496/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs16
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F842
 [/us/usc/t48/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1541
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

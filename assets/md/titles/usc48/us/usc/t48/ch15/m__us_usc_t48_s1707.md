@@ -17,7 +17,7 @@
 
     On and after the date of enactment of this Act, all rents, royalties, or fees from leases, permits, or use rights, issued prior to such date of enactment by the United States with respect to the land conveyed by this Act, or by the amendment made by this Act, and rights of action for damages for trespass occupancies of such lands shall accrue and belong to the appropriate local government under whose jurisdiction the land is located.
 
-([Pub. L. 93–435, § 4][/us/pl/93/435/s4], Oct. 5, 1974, [88 Stat. 1212][/us/stat/88/1212].)
+([Pub. L. 93–435][/us/pl/93/435], § 4, Oct. 5, 1974, [88 Stat. 1212][/us/stat/88/1212].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/93/435/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs4
+[/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435
 [/us/stat/88/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1212
 [/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435
 [/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435

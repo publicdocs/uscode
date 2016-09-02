@@ -17,7 +17,7 @@
 
     The Governor of Guam shall include in the annual report to Congress required pursuant to [section 1422 of this title][/us/usc/t48/s1422] a report on the administration of this subchapter.
 
-([Pub. L. 90–601, § 6][/us/pl/90/601/s6], Oct. 17, 1968, [82 Stat. 1173][/us/stat/82/1173]; [Pub. L. 96–470, title II, § 206(c)][/us/pl/96/470/s206/c], Oct. 19, 1980, [94 Stat. 2244][/us/stat/94/2244].)
+([Pub. L. 90–601][/us/pl/90/601], § 6, Oct. 17, 1968, [82 Stat. 1173][/us/stat/82/1173]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 206(c), Oct. 19, 1980, [94 Stat. 2244][/us/stat/94/2244].)
 
  __Codification__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t48/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1422
-[/us/pl/90/601/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F601%2Fs6
+[/us/pl/90/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F601
 [/us/stat/82/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1173
-[/us/pl/96/470/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs206%2Fc
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2244
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
 [/us/usc/t48/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1422

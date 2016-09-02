@@ -17,7 +17,7 @@
 
     All reports required by law to be made by the Governor to any official of the United States shall hereafter be made to the Secretary of the Interior, and the President is authorized to place all matters pertaining to the government of the Virgin Islands under the jurisdiction of the Secretary of the Interior, except matters relating to the judicial branch of said government which on July 22, 1954 are under the supervision of the Director of the Administrative Office of the United States Courts, and the matters relating to the United States Attorney and the United States Marshal which on July 22, 1954 are under the supervision of the Attorney General.
 
-([July 22, 1954, ch. 558, § 30][/us/act/1954-07-22/ch558/s30], [68 Stat. 509][/us/stat/68/509].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 30, [68 Stat. 509][/us/stat/68/509].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs30
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F509
 
 

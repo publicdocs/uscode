@@ -39,7 +39,7 @@
 
         No additional compensation shall be paid to any person acting as Governor or Lieutenant Governor who does not also assume the office of Governor or Lieutenant Governor under the provisions of this chapter.
 
-([July 22, 1954, ch. 558, § 14][/us/act/1954-07-22/ch558/s14], [68 Stat. 504][/us/stat/68/504]; [Pub. L. 90–496, § 7(a)][/us/pl/90/496/s7/a], Aug. 23, 1968, [82 Stat. 839][/us/stat/82/839].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 14, [68 Stat. 504][/us/stat/68/504]; [Pub. L. 90–496][/us/pl/90/496], § 7(a), Aug. 23, 1968, [82 Stat. 839][/us/stat/82/839].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs14
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F504
-[/us/pl/90/496/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs7%2Fa
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F839
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496

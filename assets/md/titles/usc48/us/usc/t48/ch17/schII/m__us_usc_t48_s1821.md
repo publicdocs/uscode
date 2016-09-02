@@ -33,7 +33,7 @@
 
         Where appropriate, and except as otherwise provided in articles IV and V of the Covenant approved by the Act of March 24, 1976 ([90 Stat. 263][/us/stat/90/263]), the provisions of part II of title 18 and of titles  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  28, the rules of practice and procedure heretofore or hereafter promulgated and made effective by the Congress or the Supreme Court of the United States pursuant to titles 11, 18, and 28 shall apply to the District Court for the Northern Mariana Islands and appeals therefrom; except that the terms “Attorney for the government” and “United States attorney”, as used in the Federal Rules of Criminal Procedure, shall, when applicable to cases arising under the laws of the Northern Mariana Islands, include the Attorney General of the Northern Mariana Islands or such other person or persons as may be authorized by the laws of the Northern Mariana Islands to act therein.
 
-([Pub. L. 95–157, § 1][/us/pl/95/157/s1], Nov. 8, 1977, [91 Stat. 1265][/us/stat/91/1265]; [Pub. L. 98–454, title IX, § 901][/us/pl/98/454/s901], Oct. 5, 1984, [98 Stat. 1744][/us/stat/98/1744].)
+([Pub. L. 95–157][/us/pl/95/157], § 1, Nov. 8, 1977, [91 Stat. 1265][/us/stat/91/1265]; [Pub. L. 98–454, title IX][/us/pl/98/454/tIX], § 901, Oct. 5, 1984, [98 Stat. 1744][/us/stat/98/1744].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 
  __Amendments__ 
 
-    1984—Subsec. (b)(1). [Pub. L. 98–454, § 901(a)][/us/pl/98/454/s901/a], substituted “for a term of ten years” for “for a term of eight years”.
+    1984—Subsec. (b)(1). [Pub. L. 98–454][/us/pl/98/454], § 901(a), substituted “for a term of ten years” for “for a term of eight years”.
 
-    Subsec. (b)(2). [Pub. L. 98–454, § 901(b)][/us/pl/98/454/s901/b], inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “President” in first sentence.
+    Subsec. (b)(2). [Pub. L. 98–454][/us/pl/98/454], § 901(b), inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “President” in first sentence.
 
-    Subsec. (c). [Pub. L. 98–454, § 901(c)][/us/pl/98/454/s901/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The provisions of chapters 43 and 49 of title 28, and the rules heretofore or hereafter promulgated and made effective by the Congress or the Supreme Court of the United States pursuant to titles 11, 18, and 28 shall apply to the District Court for the Northern Mariana Islands and appeals therefrom where appropriate, except as otherwise provided in articles IV and V of the covenant provided by the Act of March 24, 1976 ([90 Stat. 263][/us/stat/90/263]). The terms ‘attorney for the government’ and ‘United States attorney’ as used in the Federal Rules of Criminal Procedure (rule 54(c)) shall, when applicable to cases arising under the laws of the Northern Mariana Islands, include the attorney general of the Northern Mariana Islands or any other person or persons as may be authorized by the laws of the Northern Marianas to act therein.”
+    Subsec. (c). [Pub. L. 98–454][/us/pl/98/454], § 901(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The provisions of chapters 43 and 49 of title 28, and the rules heretofore or hereafter promulgated and made effective by the Congress or the Supreme Court of the United States pursuant to titles 11, 18, and 28 shall apply to the District Court for the Northern Mariana Islands and appeals therefrom where appropriate, except as otherwise provided in articles IV and V of the covenant provided by the Act of March 24, 1976 ([90 Stat. 263][/us/stat/90/263]). The terms ‘attorney for the government’ and ‘United States attorney’ as used in the Federal Rules of Criminal Procedure (rule 54(c)) shall, when applicable to cases arising under the laws of the Northern Mariana Islands, include the attorney general of the Northern Mariana Islands or any other person or persons as may be authorized by the laws of the Northern Marianas to act therein.”
 
  __Effective Date of 1984 Amendment__ 
 
@@ -79,18 +79,18 @@
 ----------
 
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
-[/us/pl/95/157/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157%2Fs1
+[/us/pl/95/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157
 [/us/stat/91/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1265
-[/us/pl/98/454/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs901
+[/us/pl/98/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtIX
 [/us/stat/98/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1744
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
 [/us/usc/t48/s1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1694
-[/us/pl/98/454/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs901%2Fa
-[/us/pl/98/454/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs901%2Fb
-[/us/pl/98/454/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs901%2Fc
+[/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
+[/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
+[/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 [/us/pl/98/454/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1005

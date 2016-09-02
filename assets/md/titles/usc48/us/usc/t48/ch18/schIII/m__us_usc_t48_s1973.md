@@ -19,7 +19,7 @@
 
     (b) The term “Freely Associated State Air Carrier” shall apply exclusively to a carrier referred to in Article IX(5)(b) of the Federal Programs and Services Agreement concluded pursuant to Article II of Title Two and Section 232 of the Compact of Free Association.
 
-([Pub. L. 102–247, title III, § 303][/us/pl/102/247/s303], Feb. 24, 1992, [106 Stat. 39][/us/stat/106/39].)
+([Pub. L. 102–247, title III][/us/pl/102/247/tIII], § 303, Feb. 24, 1992, [106 Stat. 39][/us/stat/106/39].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
-[/us/pl/102/247/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2Fs303
+[/us/pl/102/247/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2FtIII
 [/us/stat/106/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F39
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/stat/99/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1770

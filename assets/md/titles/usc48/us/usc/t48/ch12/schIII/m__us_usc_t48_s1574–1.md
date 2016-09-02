@@ -17,7 +17,7 @@
 
     Effective on the date when section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, approved by joint resolution approved on March 24, 1976 ([90 Stat. 263][/us/stat/90/263]) goes into force those laws which are referred to in section 502(a)(1) of said Covenant, except for any laws administered by the Social Security Administration, except for medicaid which is now administered by the Centers for Medicare & Medicaid Services, and except the Micronesian Claims Act of 1971 ([85 Stat. 96][/us/stat/85/96]) shall be applicable to the territories of Guam and the Virgin Islands on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
 
-([Pub. L. 95–134, title IV, § 403][/us/pl/95/134/s403], Oct. 15, 1977, [91 Stat. 1163][/us/stat/91/1163]; [Pub. L. 95–135, § 1][/us/pl/95/135/s1], Oct. 15, 1977, [91 Stat. 1166][/us/stat/91/1166]; [Pub. L. 108–173, title IX, § 900(e)(7)][/us/pl/108/173/s900/e/7], Dec. 8, 2003, [117 Stat. 2374][/us/stat/117/2374].)
+([Pub. L. 95–134, title IV][/us/pl/95/134/tIV], § 403, Oct. 15, 1977, [91 Stat. 1163][/us/stat/91/1163]; [Pub. L. 95–135][/us/pl/95/135], § 1, Oct. 15, 1977, [91 Stat. 1166][/us/stat/91/1166]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(7), Dec. 8, 2003, [117 Stat. 2374][/us/stat/117/2374].)
 
  __References in Text__ 
 
@@ -54,11 +54,11 @@
 
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
 [/us/stat/85/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F96
-[/us/pl/95/134/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs403
+[/us/pl/95/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2FtIV
 [/us/stat/91/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1163
-[/us/pl/95/135/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F135%2Fs1
+[/us/pl/95/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F135
 [/us/stat/91/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1166
-[/us/pl/108/173/s900/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F7
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2374
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

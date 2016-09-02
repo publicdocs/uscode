@@ -17,7 +17,7 @@
 
     The statutory laws of the United States not locally inapplicable, except as hereinbefore or hereinafter otherwise provided, shall have the same force and effect in Puerto Rico as in the United States, except the internal revenue laws other than those contained in the Philippine Trade Act of 1946 \[[22 U.S.C. 1251][/us/usc/t22/s1251] et seq.\] or the Philippine Trade Agreement Revision Act of 1955 \[[22 U.S.C. 1371][/us/usc/t22/s1371] et seq.\]: Provided, however, That after May 1, 1946, all taxes collected under the internal revenue laws of the United States on articles produced in Puerto Rico and transported to the United States, or consumed in the island shall be covered into the treasury of Puerto Rico.
 
-([Mar. 2, 1917, ch. 145, § 9][/us/act/1917-03-02/ch145/s9], [39 Stat. 954][/us/stat/39/954]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title V, § 513, [60 Stat. 158][/us/stat/60/158]; [Aug. 1, 1955, ch. 438][/us/act/1955-08-01/ch438], title III, § 308, [69 Stat. 427][/us/stat/69/427].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 9, [39 Stat. 954][/us/stat/39/954]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title V, § 513, [60 Stat. 158][/us/stat/60/158]; [Aug. 1, 1955, ch. 438][/us/act/1955-08-01/ch438], title III, § 308, [69 Stat. 427][/us/stat/69/427].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Apr. 12, 1900, ch. 191, § 14][/us/act/1900-04-12/ch191/s14], [31 Stat. 80][/us/stat/31/80], except that the words “which, in view of the provisions of section three, shall not have force and effect in Porto Rico” were contained in lieu of the proviso. As to section 3 of act Apr. 12, 1900, see [section 738 of this title][/us/usc/t48/s738] and notes thereunder.
+    Provisions similar to those in this section were contained in [act Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], § 14, [31 Stat. 80][/us/stat/31/80], except that the words “which, in view of the provisions of section three, shall not have force and effect in Porto Rico” were contained in lieu of the proviso. As to section 3 of act Apr. 12, 1900, see [section 738 of this title][/us/usc/t48/s738] and notes thereunder.
 
  __Amendments__ 
 
@@ -108,7 +108,7 @@ WHEREAS section 49b(3) of the said Act, which was added by [section 6 of the act
 
 [/us/usc/t22/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1251
 [/us/usc/t22/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1371
-[/us/act/1917-03-02/ch145/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs9
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F954
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
@@ -122,7 +122,7 @@ WHEREAS section 49b(3) of the said Act, which was added by [section 6 of the act
 [/us/act/1955-08-01/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch438
 [/us/stat/69/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F413
 [/us/usc/t22/s1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1373
-[/us/act/1900-04-12/ch191/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191%2Fs14
+[/us/act/1900-04-12/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191
 [/us/stat/31/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F80
 [/us/usc/t48/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs738
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a

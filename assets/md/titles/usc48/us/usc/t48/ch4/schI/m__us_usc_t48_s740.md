@@ -17,7 +17,7 @@
 
     The duties and taxes collected in Puerto Rico in pursuance of the provisions of this Act, less the cost of collecting the same, and the gross amount of all collections of duties and taxes in the United States upon articles of merchandise coming from Puerto Rico, shall be paid into the treasury of Puerto Rico to be expended as required by law for the government and benefit thereof, and the Secretary of the Treasury shall designate the several ports and subports of entry in Puerto Rico and shall make such rules and regulations and appoint such agents as may be necessary to collect the duties and taxes authorized to be levied, collected, and paid in Puerto Rico by the provisions of this Act, and he shall fix the compensation and provide for the payment thereof of all such officers, agents, and assistants as he may find it necessary to employ to carry out the provisions of law.
 
-([Apr. 12, 1900, ch. 191, § 4][/us/act/1900-04-12/ch191/s4], [31 Stat. 78][/us/stat/31/78]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], § 4, [31 Stat. 78][/us/stat/31/78]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/act/1900-04-12/ch191/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191%2Fs4
+[/us/act/1900-04-12/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191
 [/us/stat/31/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F78
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

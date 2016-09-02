@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t48/ch8A/schI/m__us_usc_t48_s1421l.md) | [Next](./../../../../..//us/usc/t48/ch8A/schI/m__us_usc_t48_s1421n.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421m)
 
-## § 1421m. Repealed. [Pub. L. 91–513, title III, § 1101(a)(8)][/us/pl/91/513/s1101/a/8], Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]
+## § 1421m. Repealed. [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1101(a)(8), Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]
 
-    Section, [act Aug. 1, 1956, ch. 852, § 15][/us/act/1956-08-01/ch852/s15], [70 Stat. 910][/us/stat/70/910], prohibited production, manufacture, compounding, possession, sale, dispensation, administration, or transportation of marihuana in Guam. See section 801 et seq. of Title 21, Food and Drugs. Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
+    Section, [act Aug. 1, 1956, ch. 852][/us/act/1956-08-01/ch852], § 15, [70 Stat. 910][/us/stat/70/910], prohibited production, manufacture, compounding, possession, sale, dispensation, administration, or transportation of marihuana in Guam. See section 801 et seq. of Title 21, Food and Drugs. Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
 
  __Effective Date of Repeal__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/91/513/s1101/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1101%2Fa%2F8
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1292
-[/us/act/1956-08-01/ch852/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852%2Fs15
+[/us/act/1956-08-01/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852
 [/us/stat/70/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F910
 [/us/pl/91/513/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1105%2Fa
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951

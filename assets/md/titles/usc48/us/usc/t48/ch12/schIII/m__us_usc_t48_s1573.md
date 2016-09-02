@@ -19,7 +19,7 @@
 
     (b) Sessions of the legislature shall be held in the capital of the Virgin Islands at Charlotte Amalie, Saint Thomas.
 
-([July 22, 1954, ch. 558, § 7][/us/act/1954-07-22/ch558/s7], [68 Stat. 500][/us/stat/68/500]; [Pub. L. 86–289, § 2(c)][/us/pl/86/289/s2/c], Sept. 16, 1959, [73 Stat. 569][/us/stat/73/569]; [Pub. L. 90–496, § 1][/us/pl/90/496/s1], Aug. 23, 1968, [82 Stat. 837][/us/stat/82/837].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 7, [68 Stat. 500][/us/stat/68/500]; [Pub. L. 86–289][/us/pl/86/289], § 2(c), Sept. 16, 1959, [73 Stat. 569][/us/stat/73/569]; [Pub. L. 90–496][/us/pl/90/496], § 1, Aug. 23, 1968, [82 Stat. 837][/us/stat/82/837].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1968 Amendment__ 
 
-    [Pub. L. 90–496, § 1][/us/pl/90/496/s1], Aug. 23, 1968, [82 Stat. 837][/us/stat/82/837], provided that the amendment made by that section is effective on date of enactment of [Pub. L. 90–496][/us/pl/90/496], which was approved Aug. 23, 1968.
+    [Pub. L. 90–496][/us/pl/90/496], § 1, Aug. 23, 1968, [82 Stat. 837][/us/stat/82/837], provided that the amendment made by that section is effective on date of enactment of [Pub. L. 90–496][/us/pl/90/496], which was approved Aug. 23, 1968.
 
 ----------
 
@@ -38,15 +38,15 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs7
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F500
-[/us/pl/86/289/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289%2Fs2%2Fc
+[/us/pl/86/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289
 [/us/stat/73/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F569
-[/us/pl/90/496/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs1
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F837
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/pl/86/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F289
-[/us/pl/90/496/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs1
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F837
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 

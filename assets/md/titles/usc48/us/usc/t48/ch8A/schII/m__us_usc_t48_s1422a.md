@@ -19,7 +19,7 @@
 
     (b) Any Governor, Lieutenant Governor, or member of the legislature of Guam may be removed from office by a referendum election in which at least two-thirds of the number of persons voting for such official in the last preceding general election at which such official was elected vote in favor of recall and in which those so voting constitute a majority of all those participating in such referendum election. The referendum election shall be initiated by the legislature of Guam following (a) a two-thirds vote of the members of the legislature in favor of a referendum, or (b) petition for such a referendum to the legislature by registered voters equal in number to at least 50 per centum of the whole number of votes cast at the last general election at which such official was elected preceding the filing of the petition.
 
-([Aug. 1, 1950, ch. 512, § 7][/us/act/1950-08-01/ch512/s7], [64 Stat. 387][/us/stat/64/387]; [Pub. L. 90–497, § 2][/us/pl/90/497/s2], Sept. 11, 1968, [82 Stat. 844][/us/stat/82/844]; [Pub. L. 97–357, title I, § 101][/us/pl/97/357/s101], Oct. 19, 1982, [96 Stat. 1705][/us/stat/96/1705].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 7, [64 Stat. 387][/us/stat/64/387]; [Pub. L. 90–497][/us/pl/90/497], § 2, Sept. 11, 1968, [82 Stat. 844][/us/stat/82/844]; [Pub. L. 97–357, title I][/us/pl/97/357/tI], § 101, Oct. 19, 1982, [96 Stat. 1705][/us/stat/96/1705].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs7
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F387
-[/us/pl/90/497/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497%2Fs2
+[/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/stat/82/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F844
-[/us/pl/97/357/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs101
+[/us/pl/97/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtI
 [/us/stat/96/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1705
 [/us/pl/97/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357
 [/us/pl/97/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357

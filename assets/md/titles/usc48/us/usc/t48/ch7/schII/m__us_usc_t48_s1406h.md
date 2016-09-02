@@ -17,7 +17,7 @@
 
     All taxes, duties, fees, and public revenues collected in the municipality of Saint Croix shall be covered into the treasury of the Virgin Islands and held in account for said municipality and all taxes, duties, fees, and public revenues collected in the municipality of Saint Thomas and Saint John shall be covered into said treasury of the Virgin Islands and held in account for said municipality: Provided, That the proceeds of customs duties, less the cost of collection, and the proceeds of the United States income tax, and the proceeds of any taxes levied by the Congress on the inhabitants of the Virgin Islands, and all quarantine, passport, immigration, and naturalization fees collected in the Virgin Islands shall be covered into the treasury of the Virgin Islands and held in account for the respective municipalities, and shall be expended for the benefit and government of said municipalities in accordance with the annual municipal budgets. The Municipal Council of Saint Croix may make appropriations for the purposes of said municipality from, and to be paid out of, the funds credited to its account in the treasury of the Virgin Islands; and the Municipal Council of Saint Thomas and Saint John may make appropriations for the purposes of said municipality from, and to be paid out of, the funds credited to its account in said treasury.
 
-([June 22, 1936, ch. 699, § 35][/us/act/1936-06-22/ch699/s35], [49 Stat. 1816][/us/stat/49/1816].)
+([June 22, 1936, ch. 699][/us/act/1936-06-22/ch699], § 35, [49 Stat. 1816][/us/stat/49/1816].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-22/ch699/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs35
+[/us/act/1936-06-22/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699
 [/us/stat/49/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1816
 
 

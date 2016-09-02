@@ -17,7 +17,7 @@
 
     No loan or loan guarantee shall be made under this subchapter to any applicant who does not satisfy the agency or agencies administering the plan that financing is otherwise unavailable on reasonable terms and conditions. The maximum participation in the funds made available under [section 1428 of this title][/us/usc/t48/s1428] shall be limited (a) so that not more than 25 per centum of the funds actually appropriated by the Congress may be devoted to any single project (b) to 90 per centum of loan guarantee, and (c) with respect to all loans, to that decree of participation prudent under the circumstances of individual loans but directly related to the minimum essential participation necessary to accomplish the purposes of this subchapter: Provided, That, with respect to loan guarantees, the reserves maintained by the agency or agencies for the guarantees shall not be less than 25 per centum of the guarantee.
 
-([Pub. L. 90–601, § 4][/us/pl/90/601/s4], Oct. 17, 1968, [82 Stat. 1172][/us/stat/82/1172].)
+([Pub. L. 90–601][/us/pl/90/601], § 4, Oct. 17, 1968, [82 Stat. 1172][/us/stat/82/1172].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t48/s1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1428
-[/us/pl/90/601/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F601%2Fs4
+[/us/pl/90/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F601
 [/us/stat/82/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1172
 
 

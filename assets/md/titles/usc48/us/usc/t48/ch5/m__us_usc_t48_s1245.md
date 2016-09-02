@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Jan. 17, 1933, ch. 11, § 15][/us/act/1933-01-17/ch11/s15], [47 Stat. 769][/us/stat/47/769]; [Mar. 24, 1934, ch. 84, § 15][/us/act/1934-03-24/ch84/s15], [48 Stat. 464][/us/stat/48/464], related to statutes continued in force, and was omitted in view of recognition of Philippine independence.
+    Section, acts [Jan. 17, 1933, ch. 11][/us/act/1933-01-17/ch11], § 15, [47 Stat. 769][/us/stat/47/769]; [Mar. 24, 1934, ch. 84][/us/act/1934-03-24/ch84], § 15, [48 Stat. 464][/us/stat/48/464], related to statutes continued in force, and was omitted in view of recognition of Philippine independence.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/act/1933-01-17/ch11/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-01-17%2Fch11%2Fs15
+[/us/act/1933-01-17/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-01-17%2Fch11
 [/us/stat/47/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F769
-[/us/act/1934-03-24/ch84/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84%2Fs15
+[/us/act/1934-03-24/ch84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84
 [/us/stat/48/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F464
 
 

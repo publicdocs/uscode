@@ -31,7 +31,7 @@
 
         Nothing in this Act shall affect the status of lands beyond the three-mile limit described in [section 1705 of this title][/us/usc/t48/s1705].
 
-([Pub. L. 93–435, § 2][/us/pl/93/435/s2], Oct. 5, 1974, [88 Stat. 1211][/us/stat/88/1211]; [Pub. L. 113–34, § 1(a)][/us/pl/113/34/s1/a], Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518].)
+([Pub. L. 93–435][/us/pl/93/435], § 2, Oct. 5, 1974, [88 Stat. 1211][/us/stat/88/1211]; [Pub. L. 113–34][/us/pl/113/34], § 1(a), Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518].)
 
  __References in Text__ 
 
@@ -52,9 +52,9 @@
 [/us/usc/t48/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1705
 [/us/usc/t48/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1705
 [/us/usc/t48/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1705
-[/us/pl/93/435/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs2
+[/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435
 [/us/stat/88/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1211
-[/us/pl/113/34/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs1%2Fa
+[/us/pl/113/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34
 [/us/stat/127/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F518
 [/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435
 [/us/stat/88/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1210

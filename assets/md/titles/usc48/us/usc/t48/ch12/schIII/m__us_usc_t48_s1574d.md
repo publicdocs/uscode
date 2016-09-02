@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t48/ch12/schIII/m__us_usc_t48_s1574c.md) | [Next](./../../../../..//us/usc/t48/ch12/schIII/m__us_usc_t48_s1575.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1574d)
 
-## § 1574d. Repealed. [Pub. L. 97–357, title III, § 308(g)][/us/pl/97/357/s308/g], Oct. 19, 1982, [96 Stat. 1710][/us/stat/96/1710]
+## § 1574d. Repealed. [Pub. L. 97–357, title III][/us/pl/97/357/tIII], § 308(g), Oct. 19, 1982, [96 Stat. 1710][/us/stat/96/1710]
 
-    Section, [Pub. L. 94–392, § 4][/us/pl/94/392/s4], Aug. 19, 1976, [90 Stat. 1195][/us/stat/90/1195], related to grants to government of Virgin Islands for operation of such government and limitation on amount of such grants.
+    Section, [Pub. L. 94–392][/us/pl/94/392], § 4, Aug. 19, 1976, [90 Stat. 1195][/us/stat/90/1195], related to grants to government of Virgin Islands for operation of such government and limitation on amount of such grants.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/97/357/s308/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs308%2Fg
+[/us/pl/97/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtIII
 [/us/stat/96/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1710
-[/us/pl/94/392/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392%2Fs4
+[/us/pl/94/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F392
 [/us/stat/90/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1195
 
 

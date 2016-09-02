@@ -17,11 +17,11 @@
 
     All reports required by law to be made by the governor or heads of departments to any official of the United States shall be made to an executive department of the Government of the United States to be designated by the President, and the President is authorized to place all matters pertaining to the government of Puerto Rico in the jurisdiction of such department.
 
-([Mar. 2, 1917, ch. 145, § 11][/us/act/1917-03-02/ch145/s11], [39 Stat. 955][/us/stat/39/955]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 11, [39 Stat. 955][/us/stat/39/955]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act July 15, 1909, ch. 4, § 2][/us/act/1909-07-15/ch4/s2], [36 Stat. 11][/us/stat/36/11].
+    Provisions similar to those in this section were contained in [act July 15, 1909, ch. 4][/us/act/1909-07-15/ch4], § 2, [36 Stat. 11][/us/stat/36/11].
 
  __Change of Name__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs11
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F955
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
-[/us/act/1909-07-15/ch4/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-07-15%2Fch4%2Fs2
+[/us/act/1909-07-15/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-07-15%2Fch4
 [/us/stat/36/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F11
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a
 

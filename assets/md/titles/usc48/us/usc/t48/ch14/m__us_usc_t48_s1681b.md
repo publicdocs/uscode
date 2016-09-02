@@ -31,7 +31,7 @@
 
         In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for Guam related to its audit function, with respect to the government of the Trust Territory of the Pacific Islands and the government of the Northern Mariana Islands are hereby transferred to the Office of Inspector General, Department of the Interior.
 
-([June 30, 1954, ch. 423, § 4][/us/act/1954-06-30/ch423/s4], as added [Pub. L. 97–357, title II, § 203(b)][/us/pl/97/357/s203/b], Oct. 19, 1982, [96 Stat. 1707][/us/stat/96/1707].)
+([June 30, 1954, ch. 423][/us/act/1954-06-30/ch423], § 4, as added [Pub. L. 97–357, title II][/us/pl/97/357/tII], § 203(b), Oct. 19, 1982, [96 Stat. 1707][/us/stat/96/1707].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1681b, acts [June 30, 1954, ch. 423, § 4][/us/act/1954-06-30/ch423/s4], as added Sept. 21, 1973, [Pub. L. 93–111, § 2][/us/pl/93/111/s2], [87 Stat. 354][/us/stat/87/354]; amended Oct. 15, 1977, [Pub. L. 95–134, title II, § 203(b)][/us/pl/95/134/s203/b], [91 Stat. 1162][/us/stat/91/1162]; Mar. 12, 1980, [Pub. L. 96–205, title II, § 201(b)][/us/pl/96/205/s201/b], [94 Stat. 85][/us/stat/94/85], related to duties of government comptroller for Guam in addition to those imposed by Organic Act of Guam, prior to repeal by [Pub. L. 97–357, § 203(b)][/us/pl/97/357/s203/b].
+    A prior section 1681b, acts [June 30, 1954, ch. 423][/us/act/1954-06-30/ch423], § 4, as added Sept. 21, 1973, [Pub. L. 93–111][/us/pl/93/111], § 2, [87 Stat. 354][/us/stat/87/354]; amended Oct. 15, 1977, [Pub. L. 95–134, title II][/us/pl/95/134/tII], § 203(b), [91 Stat. 1162][/us/stat/91/1162]; Mar. 12, 1980, [Pub. L. 96–205, title II][/us/pl/96/205/tII], § 201(b), [94 Stat. 85][/us/stat/94/85], related to duties of government comptroller for Guam in addition to those imposed by Organic Act of Guam, prior to repeal by [Pub. L. 97–357][/us/pl/97/357], § 203(b).
 
 ----------
 
@@ -52,20 +52,20 @@
 
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
-[/us/act/1954-06-30/ch423/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch423%2Fs4
-[/us/pl/97/357/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs203%2Fb
+[/us/act/1954-06-30/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch423
+[/us/pl/97/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtII
 [/us/stat/96/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1707
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/94/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs1
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
-[/us/act/1954-06-30/ch423/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch423%2Fs4
-[/us/pl/93/111/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F111%2Fs2
+[/us/act/1954-06-30/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch423
+[/us/pl/93/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F111
 [/us/stat/87/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F354
-[/us/pl/95/134/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs203%2Fb
+[/us/pl/95/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2FtII
 [/us/stat/91/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1162
-[/us/pl/96/205/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs201%2Fb
+[/us/pl/96/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtII
 [/us/stat/94/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F85
-[/us/pl/97/357/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs203%2Fb
+[/us/pl/97/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357
 
 

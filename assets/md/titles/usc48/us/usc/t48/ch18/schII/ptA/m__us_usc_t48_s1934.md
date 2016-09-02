@@ -31,13 +31,13 @@
 
         (3) The District Court of Guam may appoint one or more magistrate judges for the defense sites in Palau. Such Magistrate Judges shall have the power and the status of Magistrate Judges appointed pursuant to chapter 43, title 28: Provided however, That such Magistrate Judges shall have the power to try persons accused of, and sentence persons convicted of, petty offenses, as defined in section 1(3), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  title 18, including violations of regulations for the maintenance of peace, order, and health issued by the Commanding Officer on such defense sites, without being subject to the restrictions provided for in section 3401(b), title 18.
 
-([Pub. L. 99–658, title II, § 202][/us/pl/99/658/s202], Nov. 14, 1986, [100 Stat. 3704][/us/stat/100/3704]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([Pub. L. 99–658, title II][/us/pl/99/658/tII], § 202, Nov. 14, 1986, [100 Stat. 3704][/us/stat/100/3704]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __References in Text__ 
 
     The Compact of Free Association, referred to in subsecs. (a) and (b), is the Compact of Free Association between the United States and the Government of Palau, which is contained in [section 201 of Pub. L. 99–658][/us/pl/99/658/s201], set out as a note under [section 1931 of this title][/us/usc/t48/s1931].
 
-    [Section 1 of title 18][/us/usc/t18/s1], referred to in subsec. (c)(3), was repealed by [Pub. L. 98–473, title II, § 218(a)(1)][/us/pl/98/473/s218/a/1], Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027].
+    [Section 1 of title 18][/us/usc/t18/s1], referred to in subsec. (c)(3), was repealed by [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 218(a)(1), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027].
 
  __Codification__ 
 
@@ -56,14 +56,14 @@
 ----------
 ----------
 
-[/us/pl/99/658/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs202
+[/us/pl/99/658/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2FtII
 [/us/stat/100/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3704
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/99/658/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs201
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
-[/us/pl/98/473/s218/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs218%2Fa%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658

@@ -25,7 +25,7 @@
 
     Whenever any discrepancy exists or arises between the benefits available for either said territory or Commonwealth under any policies or programs authorized by law (including, but not limited to, any formulas for matching grants-in-aid or comparable programs or benefits), the most favorable terms available to either said territory or Commonwealth shall be deemed applicable to said unified area after the effective date of unification.
 
-([Pub. L. 96–597, title VI, § 602][/us/pl/96/597/s602], Dec. 24, 1981, [94 Stat. 3480][/us/stat/94/3480].)
+([Pub. L. 96–597, title VI][/us/pl/96/597/tVI], § 602, Dec. 24, 1981, [94 Stat. 3480][/us/stat/94/3480].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/597/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2Fs602
+[/us/pl/96/597/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2FtVI
 [/us/stat/94/3480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3480
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

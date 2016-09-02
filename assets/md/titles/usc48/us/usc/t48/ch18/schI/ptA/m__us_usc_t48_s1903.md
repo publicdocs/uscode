@@ -235,7 +235,7 @@
 
             The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
-([Pub. L. 99–239, title I, § 103][/us/pl/99/239/s103], Jan. 14, 1986, [99 Stat. 1778][/us/stat/99/1778]; [Pub. L. 100–446, title I, § 115][/us/pl/100/446/s115], Sept. 27, 1988, [102 Stat. 1802][/us/stat/102/1802]; [Pub. L. 102–247, title III, § 304][/us/pl/102/247/s304], Feb. 24, 1992, [106 Stat. 39][/us/stat/106/39]; [Pub. L. 105–209, § 2][/us/pl/105/209/s2], July 29, 1998, [112 Stat. 880][/us/stat/112/880].)
+([Pub. L. 99–239, title I][/us/pl/99/239/tI], § 103, Jan. 14, 1986, [99 Stat. 1778][/us/stat/99/1778]; [Pub. L. 100–446, title I][/us/pl/100/446/tI], § 115, Sept. 27, 1988, [102 Stat. 1802][/us/stat/102/1802]; [Pub. L. 102–247, title III][/us/pl/102/247/tIII], § 304, Feb. 24, 1992, [106 Stat. 39][/us/stat/106/39]; [Pub. L. 105–209][/us/pl/105/209], § 2, July 29, 1998, [112 Stat. 880][/us/stat/112/880].)
 
  __References in Text__ 
 
@@ -243,7 +243,7 @@
 
     This joint resolution, referred to in subsecs. (a)(3), (e)(5), (k), and (m)(6), is [Pub. L. 99–239][/us/pl/99/239], Jan. 14, 1986, [99 Stat. 1770][/us/stat/99/1770], as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this part and chapter 19 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title][/us/usc/t48/s1901] and Tables.
 
-    [Section 2291(e) of title 22][/us/usc/t22/s2291/e], referred to in subsec. (a)(4), was repealed and [section 2291(i) of title 22][/us/usc/t22/s2291/i], relating to definitions, was redesignated section 2291(e) by [Pub. L. 102–583, § 6(b)(2)][/us/pl/102/583/s6/b/2], (3), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]. See sections 2291h and 2291i of Title 22, Foreign Relations and Intercourse.
+    [Section 2291(e) of title 22][/us/usc/t22/s2291/e], referred to in subsec. (a)(4), was repealed and [section 2291(i) of title 22][/us/usc/t22/s2291/i], relating to definitions, was redesignated section 2291(e) by [Pub. L. 102–583][/us/pl/102/583], § 6(b)(2), (3), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]. See sections 2291h and 2291i of Title 22, Foreign Relations and Intercourse.
 
     For Oct. 21, 1986, as the effective date of the Compact of Free Association with the Marshall Islands, and Nov. 3, 1986, as the effective date of the Compact of Free Association with the Federated States of Micronesia, referred to in subsecs. (b)(1), (e)(4), (h)(2), and (j)(2), (3), see Proc. No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under [section 1801 of this title][/us/usc/t48/s1801].
 
@@ -257,9 +257,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (h)(2). [Pub. L. 105–209, § 2(1)][/us/pl/105/209/s2/1], substituted “fifteen years” for “ten years” in introductory provisions.
+    1998—Subsec. (h)(2). [Pub. L. 105–209][/us/pl/105/209], § 2(1), substituted “fifteen years” for “ten years” in introductory provisions.
 
-    Subsec. (h)(2)(B). [Pub. L. 105–209, § 2(2)][/us/pl/105/209/s2/2], inserted at end “The President shall ensure the assistance provided under these programs reflects the changes in the population since the inception of such programs.”
+    Subsec. (h)(2)(B). [Pub. L. 105–209][/us/pl/105/209], § 2(2), inserted at end “The President shall ensure the assistance provided under these programs reflects the changes in the population since the inception of such programs.”
 
     1992—Subsec. (h)(2). [Pub. L. 102–247][/us/pl/102/247] substituted “ten years” for “five years” in introductory provisions.
 
@@ -271,7 +271,7 @@
 
  __Tax Exemption for Enjebi Community Trust Fund__ 
 
-[Pub. L. 100–647, title VI, § 6136][/us/pl/100/647/s6136], Nov. 10, 1988, [102 Stat. 3723][/us/stat/102/3723], provided that:
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6136, Nov. 10, 1988, [102 Stat. 3723][/us/stat/102/3723], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -283,7 +283,7 @@
 
  __Medical Care and Treatment and Environmental Research and Monitoring Program for Inhabitants of Bikini, etc., Atolls for Injury, Illness, or Condition Resulting From Nuclear Weapons Testing by United States; Implementation Plan and Report__ 
 
-[Pub. L. 95–134, title I, § 106][/us/pl/95/134/s106], as added by [Pub. L. 96–205, title I, § 102][/us/pl/96/205/s102], Mar. 12, 1980, [94 Stat. 84][/us/stat/94/84]; amended by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], provided that:
+[Pub. L. 95–134, title I][/us/pl/95/134/tI], § 106, as added by [Pub. L. 96–205, title I][/us/pl/96/205/tI], § 102, Mar. 12, 1980, [94 Stat. 84][/us/stat/94/84]; amended by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], provided that:
 
 >     “(a)
 
@@ -305,7 +305,7 @@
 
 >     “(c) The Secretary shall report to the appropriate committees of the Congress, and to the people of the affected atolls annually, or more frequently if necessary, on the implementation of the plan. Each such report shall include a description of the health status of the individuals examined and treated under the plan, an evaluation by the scientific advisory committee, and any recommendations for improvement of the plan. The first such report shall be submitted not later than January 1, 1982.”
 
-[Pub. L. 98–213, § 8][/us/pl/98/213/s8], Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460], provided that: 
+[Pub. L. 98–213][/us/pl/98/213], § 8, Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460], provided that: 
 
 > “The Secretary of the Interior is directed to implement the health care program required by [section 106 of Public Law 95–134][/us/pl/95/134/s106] ([91 Stat. 1159][/us/stat/91/1159]) \[set out above\] for the populations of the four atolls in the Marshall Islands identified in such section immediately upon enactment of this section and shall promptly notify the Committee on Interior and Insular Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate if he finds that the populations of other atolls should be included in the program setting forth the basis for his finding and the estimated cost of extension of the program. The Secretary of Energy shall transmit annually to the Committees on Interior and Insular Affairs \[now Committee on Natural Resources\] and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate together with the proposed budget for the next fiscal year, a description of the program and the estimated costs for implementation together with any recommendations which he may have for improvements in such program.”
 
@@ -321,13 +321,13 @@
 [/us/usc/t48/s1905/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1905%2Fg%2F2
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
 [/us/pl/96/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205
-[/us/pl/99/239/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs103
+[/us/pl/99/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtI
 [/us/stat/99/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1778
-[/us/pl/100/446/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2Fs115
+[/us/pl/100/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2FtI
 [/us/stat/102/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1802
-[/us/pl/102/247/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2Fs304
+[/us/pl/102/247/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2FtIII
 [/us/stat/106/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F39
-[/us/pl/105/209/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F209%2Fs2
+[/us/pl/105/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F209
 [/us/stat/112/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F880
 [/us/pl/99/239/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs201
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
@@ -336,7 +336,7 @@
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
 [/us/usc/t22/s2291/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fe
 [/us/usc/t22/s2291/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fi
-[/us/pl/102/583/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F2
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4932
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
@@ -346,21 +346,21 @@
 [/us/pl/96/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205
 [/us/stat/94/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F84
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/105/209/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F209%2Fs2%2F1
-[/us/pl/105/209/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F209%2Fs2%2F2
+[/us/pl/105/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F209
+[/us/pl/105/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F209
 [/us/pl/102/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/100/647/s6136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6136
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3723
 [/us/usc/t48/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1903
-[/us/pl/95/134/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs106
-[/us/pl/96/205/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs102
+[/us/pl/95/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2FtI
+[/us/pl/96/205/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtI
 [/us/stat/94/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F84
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/98/213/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs8
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1460
 [/us/pl/95/134/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs106
 [/us/stat/91/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1159

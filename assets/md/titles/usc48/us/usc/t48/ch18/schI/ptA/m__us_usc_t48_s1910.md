@@ -29,7 +29,7 @@
 
         The Comptroller General of the United States shall have the authority to conduct the audits referred to in sections 1902(c)(1) and 1903(m)(1) of this title.
 
-([Pub. L. 99–239, title I, § 110][/us/pl/99/239/s110], Jan. 14, 1986, [99 Stat. 1798][/us/stat/99/1798].)
+([Pub. L. 99–239, title I][/us/pl/99/239/tI], § 110, Jan. 14, 1986, [99 Stat. 1798][/us/stat/99/1798].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/99/239/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs110
+[/us/pl/99/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtI
 [/us/stat/99/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1798
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

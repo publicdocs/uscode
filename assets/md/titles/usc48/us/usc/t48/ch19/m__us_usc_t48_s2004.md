@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch19/m__us_usc_t48_s2003.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs2004)
+[Previous](./../../../..//us/usc/t48/ch19/m__us_usc_t48_s2003.md) | [Next](./../../../..//us/usc/t48/ch20/m__us_usc_t48_ch20.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs2004)
 
 ## § 2004. Administrative matters
 
@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 99–239, title III, § 304][/us/pl/99/239/s304], Jan. 14, 1986, [99 Stat. 1837][/us/stat/99/1837].)
+([Pub. L. 99–239, title III][/us/pl/99/239/tIII], § 304, Jan. 14, 1986, [99 Stat. 1837][/us/stat/99/1837].)
 
  __Codification__ 
 
@@ -31,12 +31,12 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch19/m__us_usc_t48_s2003.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs2004)
+[Previous](./../../../..//us/usc/t48/ch19/m__us_usc_t48_s2003.md) | [Next](./../../../..//us/usc/t48/ch20/m__us_usc_t48_ch20.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs2004)
 
 ----------
 ----------
 
-[/us/pl/99/239/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs304
+[/us/pl/99/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtIII
 [/us/stat/99/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1837
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

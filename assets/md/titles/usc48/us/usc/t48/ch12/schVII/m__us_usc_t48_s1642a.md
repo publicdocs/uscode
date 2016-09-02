@@ -17,11 +17,11 @@
 
     Notwithstanding any other provision of law, the proceeds of customs duties collected in the Virgin Islands less the cost of collecting all said duties shall, effective for fiscal years beginning after September 30, 1979, be covered into the Treasury of the Virgin Islands, and shall be available for expenditure as the Legislator  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Legislature”. </sup></sup>  of the Virgin Islands may provide.
 
-([Pub. L. 96–304, title I, § 100][/us/pl/96/304/s100], July 8, 1980, [94 Stat. 907][/us/stat/94/907].)
+([Pub. L. 96–304, title I][/us/pl/96/304/tI], § 100, July 8, 1980, [94 Stat. 907][/us/stat/94/907].)
 
  __Prior Provisions__ 
 
-    A prior section 1642a, [Pub. L. 96–38, title I][/us/pl/96/38], July 25, 1979, [93 Stat. 122][/us/stat/93/122], related to availability of collected customs duties for expenditures as the Virgin Islands Legislature may provide, prior to repeal by [Pub. L. 96–205, title IV, § 403(b)][/us/pl/96/205/s403/b], Mar. 12, 1980, [94 Stat. 89][/us/stat/94/89].
+    A prior section 1642a, [Pub. L. 96–38, title I][/us/pl/96/38/tI], July 25, 1979, [93 Stat. 122][/us/stat/93/122], related to availability of collected customs duties for expenditures as the Virgin Islands Legislature may provide, prior to repeal by [Pub. L. 96–205, title IV][/us/pl/96/205/tIV], § 403(b), Mar. 12, 1980, [94 Stat. 89][/us/stat/94/89].
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/96/304/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs100
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F907
-[/us/pl/96/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38
+[/us/pl/96/38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2FtI
 [/us/stat/93/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F122
-[/us/pl/96/205/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs403%2Fb
+[/us/pl/96/205/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtIV
 [/us/stat/94/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F89
 
 

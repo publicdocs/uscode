@@ -17,7 +17,7 @@
 
     All members of the Legislature of the Virgin Islands, the Governor, the Lieutenant Governor, all judges and all officials of the government of the Virgin Islands who report directly to the Governor shall be citizens of the United States.
 
-([July 22, 1954, ch. 558, § 29][/us/act/1954-07-22/ch558/s29], [68 Stat. 509][/us/stat/68/509]; [Pub. L. 98–213, § 5(a)][/us/pl/98/213/s5/a], Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 29, [68 Stat. 509][/us/stat/68/509]; [Pub. L. 98–213][/us/pl/98/213], § 5(a), Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs29
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F509
-[/us/pl/98/213/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs5%2Fa
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1460
 [/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 

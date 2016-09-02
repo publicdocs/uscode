@@ -31,7 +31,7 @@
 
         In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for Guam related to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
-([Aug. 1, 1950, ch. 512, § 9][/us/act/1950-08-01/ch512/s9]–A, as added [Pub. L. 97–357, title I, § 104(b)][/us/pl/97/357/s104/b], Oct. 19, 1982, [96 Stat. 1706][/us/stat/96/1706].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 9–A, as added [Pub. L. 97–357, title I][/us/pl/97/357/tI], § 104(b), Oct. 19, 1982, [96 Stat. 1706][/us/stat/96/1706].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1422d, [act Aug. 1, 1950, ch. 512, § 9][/us/act/1950-08-01/ch512/s9]–A, as added Sept. 11, 1968, [Pub. L. 90–497, § 5][/us/pl/90/497/s5], [82 Stat. 845][/us/stat/82/845]; amended Oct. 15, 1977, [Pub. L. 95–134, title II, § 203(a)][/us/pl/95/134/s203/a], [91 Stat. 1161][/us/stat/91/1161], related to the creation, auditing function, and reporting duty of the office of a government comptroller for Guam, prior to repeal by [Pub. L. 97–357, § 104(b)][/us/pl/97/357/s104/b].
+    A prior section 1422d, [act Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 9–A, as added Sept. 11, 1968, [Pub. L. 90–497][/us/pl/90/497], § 5, [82 Stat. 845][/us/stat/82/845]; amended Oct. 15, 1977, [Pub. L. 95–134, title II][/us/pl/95/134/tII], § 203(a), [91 Stat. 1161][/us/stat/91/1161], related to the creation, auditing function, and reporting duty of the office of a government comptroller for Guam, prior to repeal by [Pub. L. 97–357][/us/pl/97/357], § 104(b).
 
 ----------
 
@@ -49,16 +49,16 @@
 ----------
 
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/act/1950-08-01/ch512/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs9
-[/us/pl/97/357/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs104%2Fb
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
+[/us/pl/97/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtI
 [/us/stat/96/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1706
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/act/1950-08-01/ch512/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs9
-[/us/pl/90/497/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497%2Fs5
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
+[/us/pl/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F497
 [/us/stat/82/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F845
-[/us/pl/95/134/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs203%2Fa
+[/us/pl/95/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2FtII
 [/us/stat/91/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1161
-[/us/pl/97/357/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs104%2Fb
+[/us/pl/97/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357
 
 

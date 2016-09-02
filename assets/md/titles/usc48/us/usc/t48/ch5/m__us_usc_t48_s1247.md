@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Jan. 17, 1933, ch. 11, § 17][/us/act/1933-01-17/ch11/s17], [47 Stat. 770][/us/stat/47/770]; [Mar. 24, 1934, ch. 84, § 17][/us/act/1934-03-24/ch84/s17], [48 Stat. 465][/us/stat/48/465], related to effective date, and was omitted in view of recognition of Philippine independence.
+    Section, acts [Jan. 17, 1933, ch. 11][/us/act/1933-01-17/ch11], § 17, [47 Stat. 770][/us/stat/47/770]; [Mar. 24, 1934, ch. 84][/us/act/1934-03-24/ch84], § 17, [48 Stat. 465][/us/stat/48/465], related to effective date, and was omitted in view of recognition of Philippine independence.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/act/1933-01-17/ch11/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-01-17%2Fch11%2Fs17
+[/us/act/1933-01-17/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-01-17%2Fch11
 [/us/stat/47/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F770
-[/us/act/1934-03-24/ch84/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84%2Fs17
+[/us/act/1934-03-24/ch84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84
 [/us/stat/48/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F465
 
 

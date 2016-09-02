@@ -17,7 +17,7 @@
 
     The coasting trade between Puerto Rico and the United States shall be regulated in accordance with the provisions of law applicable to such trade between any two great coasting districts of the United States.
 
-([Apr. 12, 1900, ch. 191, § 9][/us/act/1900-04-12/ch191/s9], [31 Stat. 79][/us/stat/31/79]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], § 9, [31 Stat. 79][/us/stat/31/79]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1900-04-12/ch191/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191%2Fs9
+[/us/act/1900-04-12/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191
 [/us/stat/31/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F79
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

@@ -17,11 +17,11 @@
 
     All articles coming into the United States from Guam shall be subject to or exempt from duty as provided for in section 1301a  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 19.
 
-([Aug. 1, 1950, ch. 512, § 27][/us/act/1950-08-01/ch512/s27], [64 Stat. 392][/us/stat/64/392]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title IV, § 402(b), [68 Stat. 1140][/us/stat/68/1140].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 27, [64 Stat. 392][/us/stat/64/392]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title IV, § 402(b), [68 Stat. 1140][/us/stat/68/1140].)
 
  __References in Text__ 
 
-    [Section 1301a of title 19][/us/usc/t19/s1301a], referred to in text, was repealed by [Pub. L. 87–456, title III, § 301(a)][/us/pl/87/456/s301/a], May 24, 1962, [76 Stat. 75][/us/stat/76/75]. See General Headnote 3(a) under [section 1202 of Title 19][/us/usc/t19/s1202], Customs Duties.
+    [Section 1301a of title 19][/us/usc/t19/s1301a], referred to in text, was repealed by [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 301(a), May 24, 1962, [76 Stat. 75][/us/stat/76/75]. See General Headnote 3(a) under [section 1202 of Title 19][/us/usc/t19/s1202], Customs Duties.
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1954 Amendment__ 
 
-[Act Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title VI, § 601, [68 Stat. 1141][/us/stat/68/1141], provided that: 
+[Act Sept. 1, 1954, ch. 1213, title VI][/us/act/1954-09-01/ch1213/tVI], § 601, [68 Stat. 1141][/us/stat/68/1141], provided that: 
 
 > “Titles II, III, IV, and VI of this Act \[enacting [section 1301a of Title 19][/us/usc/t19/s1301a], Customs Duties, amending sections 1421e and 1644 of this title and sections 160, 161, 1001, and 1201 of Title 19\] shall be effective on and after the thirtieth day following the date of the enactment of this Act \[Sept. 1, 1954\]”.
 
@@ -40,16 +40,16 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs27
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F392
 [/us/act/1954-09-01/ch1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1213
 [/us/stat/68/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1140
 [/us/usc/t19/s1301a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1301a
-[/us/pl/87/456/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs301%2Fa
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F75
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s1301a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1301a
-[/us/act/1954-09-01/ch1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1213
+[/us/act/1954-09-01/ch1213/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1213%2FtVI
 [/us/stat/68/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1141
 [/us/usc/t19/s1301a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1301a
 

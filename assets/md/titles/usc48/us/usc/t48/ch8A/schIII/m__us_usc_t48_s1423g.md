@@ -17,7 +17,7 @@
 
     Vacancies occurring in the legislature shall be filled as the legislature shall provide, except that no person filling a vacancy shall hold office longer than for the remainder of the term for which his predecessor was elected.
 
-([Aug. 1, 1950, ch. 512, § 17][/us/act/1950-08-01/ch512/s17], [64 Stat. 388][/us/stat/64/388].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 17, [64 Stat. 388][/us/stat/64/388].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs17
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F388
 
 

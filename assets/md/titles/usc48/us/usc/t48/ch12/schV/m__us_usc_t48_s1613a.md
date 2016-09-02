@@ -31,7 +31,7 @@
 
         Upon the establishment of the appellate court provided for in [section 1611(a) of this title][/us/usc/t48/s1611/a] all appeals from the decisions of the courts of the Virgin Islands established by local law not previously taken must be taken to that appellate court. The establishment of the appellate court shall not result in the loss of jurisdiction of the district court over any appeal then pending in it. The rulings of the district court on such appeals may be reviewed in the United States Court of Appeals for the Third Circuit and in the Supreme Court notwithstanding the establishment of the appellate court.
 
-([July 22, 1954, ch. 558, § 23A][/us/act/1954-07-22/ch558/s23A], as added [Pub. L. 98–454, title VII, § 705][/us/pl/98/454/s705], Oct. 5, 1984, [98 Stat. 1739][/us/stat/98/1739].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 23A, as added [Pub. L. 98–454, title VII][/us/pl/98/454/tVII], § 705, Oct. 5, 1984, [98 Stat. 1739][/us/stat/98/1739].)
 
  __References in Text__ 
 
@@ -53,8 +53,8 @@
 [/us/usc/t48/s1611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1611%2Fa
 [/us/usc/t48/s1614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1614%2Fa
 [/us/usc/t48/s1611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1611%2Fa
-[/us/act/1954-07-22/ch558/s23A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs23A
-[/us/pl/98/454/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs705
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
+[/us/pl/98/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVII
 [/us/stat/98/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1739
 [/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F497

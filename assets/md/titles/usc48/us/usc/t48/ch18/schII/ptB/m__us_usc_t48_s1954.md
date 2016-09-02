@@ -23,7 +23,7 @@
 
         (2) an attorney or investigator, as determined by the special prosecutor, for the office of special prosecutor.
 
-([Pub. L. 101–219, title I, § 104][/us/pl/101/219/s104], Dec. 12, 1989, [103 Stat. 1871][/us/stat/103/1871].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 104, Dec. 12, 1989, [103 Stat. 1871][/us/stat/103/1871].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/219/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs104
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1871
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

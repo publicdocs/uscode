@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall provide such sums as may be necessary for a further referendum on approval of the Compact, if one is required, or other appropriate costs associated with the approval process in Palau.
 
-([Pub. L. 101–219, title I, § 109][/us/pl/101/219/s109], Dec. 12, 1989, [103 Stat. 1872][/us/stat/103/1872].)
+([Pub. L. 101–219, title I][/us/pl/101/219/tI], § 109, Dec. 12, 1989, [103 Stat. 1872][/us/stat/103/1872].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/101/219/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs109
+[/us/pl/101/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtI
 [/us/stat/103/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1872
 [/us/pl/99/658/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs201
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931

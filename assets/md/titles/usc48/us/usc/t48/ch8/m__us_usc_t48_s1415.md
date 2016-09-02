@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5574 derived from acts [Aug. 18, 1856, ch. 164, § 2][/us/act/1856-08-18/ch164/s2], [11 Stat. 119][/us/stat/11/119]; [July 28, 1866, ch. 298, § 3][/us/act/1866-07-28/ch298/s3], [14 Stat. 328][/us/stat/14/328]; [Apr. 2, 1872, ch. 81, § 1][/us/act/1872-04-02/ch81/s1], [17 Stat. 48][/us/stat/17/48].
+    R.S. § 5574 derived from acts [Aug. 18, 1856, ch. 164][/us/act/1856-08-18/ch164], § 2, [11 Stat. 119][/us/stat/11/119]; [July 28, 1866, ch. 298][/us/act/1866-07-28/ch298], § 3, [14 Stat. 328][/us/stat/14/328]; [Apr. 2, 1872, ch. 81][/us/act/1872-04-02/ch81], § 1, [17 Stat. 48][/us/stat/17/48].
 
     An additional provision of R.S. § 5574 suspending this section for 5 years from and after July 14, 1872, in relation to all persons who had complied with the provisions of that title of the Revised Statutes, was omitted as temporary.
 
@@ -33,11 +33,11 @@
 ----------
 
 [/us/usc/t48/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1411
-[/us/act/1856-08-18/ch164/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch164%2Fs2
+[/us/act/1856-08-18/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch164
 [/us/stat/11/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F119
-[/us/act/1866-07-28/ch298/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-28%2Fch298%2Fs3
+[/us/act/1866-07-28/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-28%2Fch298
 [/us/stat/14/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F328
-[/us/act/1872-04-02/ch81/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-04-02%2Fch81%2Fs1
+[/us/act/1872-04-02/ch81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-04-02%2Fch81
 [/us/stat/17/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F48
 
 

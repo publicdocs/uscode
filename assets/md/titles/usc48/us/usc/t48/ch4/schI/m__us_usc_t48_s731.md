@@ -17,7 +17,7 @@
 
     The provisions of this chapter shall apply to the island of Puerto Rico and to the adjacent islands belonging to the United States and waters of those islands; and the name Puerto Rico, as used in this chapter, shall be held to include not only the island of that name, but all the adjacent islands as aforesaid.
 
-([Mar. 2, 1917, ch. 145, § 1][/us/act/1917-03-02/ch145/s1], [39 Stat. 951][/us/stat/39/951]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 1, [39 Stat. 951][/us/stat/39/951]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-    [Act July 3, 1950, ch. 446, § 4][/us/act/1950-07-03/ch446/s4], [64 Stat. 319][/us/stat/64/319], provided, in part, that the [act of Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], [39 Stat. 951][/us/stat/39/951] \[enacting this chapter, [section 1019 of this title][/us/usc/t48/s1019], [section 46 of Title 2][/us/usc/t2/s46], The Congress, and [section 358 of Title 8][/us/usc/t8/s358], Aliens and Nationality, and amending sections 325, 327, and 328 of former Title 39, Postal Service\], may be cited as the “Puerto Rican Federal Relations Act”. The act of Mar. 2, 1917, is also popularly known as the “Jones Act”.
+    [Act July 3, 1950, ch. 446][/us/act/1950-07-03/ch446], § 4, [64 Stat. 319][/us/stat/64/319], provided, in part, that the [act of Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], [39 Stat. 951][/us/stat/39/951] \[enacting this chapter, [section 1019 of this title][/us/usc/t48/s1019], [section 46 of Title 2][/us/usc/t2/s46], The Congress, and [section 358 of Title 8][/us/usc/t8/s358], Aliens and Nationality, and amending sections 325, 327, and 328 of former Title 39, Postal Service\], may be cited as the “Puerto Rican Federal Relations Act”. The act of Mar. 2, 1917, is also popularly known as the “Jones Act”.
 
  __United States-Puerto Rico Commission on the Status of Puerto Rico__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/act/1917-03-02/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs1
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F951
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
@@ -76,7 +76,7 @@
 [/us/stat/31/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F77
 [/us/stat/30/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1754
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a
-[/us/act/1950-07-03/ch446/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-03%2Fch446%2Fs4
+[/us/act/1950-07-03/ch446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-03%2Fch446
 [/us/stat/64/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F319
 [/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F951

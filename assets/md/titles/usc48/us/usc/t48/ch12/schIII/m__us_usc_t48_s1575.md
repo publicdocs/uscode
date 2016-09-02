@@ -43,7 +43,7 @@
 
         A listing of all laws enacted by the legislature each year shall be transmitted with the annual report to Congress required pursuant to [section 1591 of this title][/us/usc/t48/s1591].
 
-([July 22, 1954, ch. 558, § 9][/us/act/1954-07-22/ch558/s9], [68 Stat. 501][/us/stat/68/501]; [Pub. L. 90–496][/us/pl/90/496], §§ 2, 3, Aug. 23, 1968, [82 Stat. 837][/us/stat/82/837]; [Pub. L. 95–134, title III, § 301(b)][/us/pl/95/134/s301/b], Oct. 15, 1977, [91 Stat. 1163][/us/stat/91/1163]; [Pub. L. 95–348, § 4(c)(1)][/us/pl/95/348/s4/c/1], Aug. 18, 1978, [92 Stat. 490][/us/stat/92/490]; [Pub. L. 96–470, title II, § 206(d)][/us/pl/96/470/s206/d], Oct. 19, 1980, [94 Stat. 2244][/us/stat/94/2244]; [Pub. L. 106–364, § 2][/us/pl/106/364/s2], Oct. 27, 2000, [114 Stat. 1408][/us/stat/114/1408].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 9, [68 Stat. 501][/us/stat/68/501]; [Pub. L. 90–496][/us/pl/90/496], §§ 2, 3, Aug. 23, 1968, [82 Stat. 837][/us/stat/82/837]; [Pub. L. 95–134, title III][/us/pl/95/134/tIII], § 301(b), Oct. 15, 1977, [91 Stat. 1163][/us/stat/91/1163]; [Pub. L. 95–348][/us/pl/95/348], § 4(c)(1), Aug. 18, 1978, [92 Stat. 490][/us/stat/92/490]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 206(d), Oct. 19, 1980, [94 Stat. 2244][/us/stat/94/2244]; [Pub. L. 106–364][/us/pl/106/364], § 2, Oct. 27, 2000, [114 Stat. 1408][/us/stat/114/1408].)
 
  __Amendments__ 
 
@@ -55,13 +55,13 @@
 
     1977—Subsec. (d). [Pub. L. 95–134][/us/pl/95/134] inserted “, unless the legislature, after reconsideration upon motion of a member thereof, passes such items, parts, or portions so objected to by a vote of two-thirds of all the members of the legislature” after “shall not take effect”.
 
-    1968—Subsec. (a). [Pub. L. 90–496, § 2][/us/pl/90/496/s2], increased the quorum requirement from seven to eight members.
+    1968—Subsec. (a). [Pub. L. 90–496][/us/pl/90/496], § 2, increased the quorum requirement from seven to eight members.
 
-    Subsec. (d). [Pub. L. 90–496, § 3][/us/pl/90/496/s3], inserted requirement that when a bill is returned by the Governor to the legislature, a motion of a member of the legislature is necessary for the legislature to reconsider the bill, and substituted provisions that if, after reconsideration by the legislature, two-thirds of all the members of the legislature pass a bill returned by the Governor, it shall be a law for provisions that if, after reconsideration by the legislature, two-thirds of all the members of the legislature agree to pass the bill, it shall be presented anew to the Governor for his approval, provisions that if the Governor does not approve the bill, the bill shall be sent to the President of the United States for his approval, provisions that if the President disapproves the bill, the bill shall be returned to the Governor, stating the President’s disapproval, and it shall not be a law, and provisions that if the President neither approves nor disapproves the bill within 90 days after it was sent to him by the Governor, the bill shall be a law as if the President had signed it.
+    Subsec. (d). [Pub. L. 90–496][/us/pl/90/496], § 3, inserted requirement that when a bill is returned by the Governor to the legislature, a motion of a member of the legislature is necessary for the legislature to reconsider the bill, and substituted provisions that if, after reconsideration by the legislature, two-thirds of all the members of the legislature pass a bill returned by the Governor, it shall be a law for provisions that if, after reconsideration by the legislature, two-thirds of all the members of the legislature agree to pass the bill, it shall be presented anew to the Governor for his approval, provisions that if the Governor does not approve the bill, the bill shall be sent to the President of the United States for his approval, provisions that if the President disapproves the bill, the bill shall be returned to the Governor, stating the President’s disapproval, and it shall not be a law, and provisions that if the President neither approves nor disapproves the bill within 90 days after it was sent to him by the Governor, the bill shall be a law as if the President had signed it.
 
  __Effective Date of 1968 Amendment__ 
 
-    [Pub. L. 90–496, § 2][/us/pl/90/496/s2], Aug. 23, 1968, [82 Stat. 837][/us/stat/82/837], provided that the amendment made by section 2 is effective on the date of enactment of [Pub. L. 90–496][/us/pl/90/496], which was approved Aug. 23, 1968.
+    [Pub. L. 90–496][/us/pl/90/496], § 2, Aug. 23, 1968, [82 Stat. 837][/us/stat/82/837], provided that the amendment made by section 2 is effective on the date of enactment of [Pub. L. 90–496][/us/pl/90/496], which was approved Aug. 23, 1968.
 
     Amendment of provisions of section necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by [Pub. L. 90–496][/us/pl/90/496], effective Jan. 4, 1971, see [section 16 of Pub. L. 90–496][/us/pl/90/496/s16], set out as a note under [section 1591 of this title][/us/usc/t48/s1591].
 
@@ -73,26 +73,26 @@
 ----------
 
 [/us/usc/t48/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1591
-[/us/act/1954-07-22/ch558/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs9
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F501
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F837
-[/us/pl/95/134/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs301%2Fb
+[/us/pl/95/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2FtIII
 [/us/stat/91/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1163
-[/us/pl/95/348/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs4%2Fc%2F1
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F490
-[/us/pl/96/470/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs206%2Fd
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2244
-[/us/pl/106/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F364%2Fs2
+[/us/pl/106/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F364
 [/us/stat/114/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1408
 [/us/pl/106/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F364
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
 [/us/usc/t48/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1591
 [/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
-[/us/pl/90/496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs2
-[/us/pl/90/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs3
-[/us/pl/90/496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs2
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F837
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496

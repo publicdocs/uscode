@@ -17,7 +17,7 @@
 
     No member of the legislature shall, during the term for which he was elected or during the year following the expiration of such term, be appointed to any office which has been created, or the salary or emoluments of which have been increased during such term.
 
-([Aug. 1, 1950, ch. 512, § 15][/us/act/1950-08-01/ch512/s15], [64 Stat. 388][/us/stat/64/388].)
+([Aug. 1, 1950, ch. 512][/us/act/1950-08-01/ch512], § 15, [64 Stat. 388][/us/stat/64/388].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-01/ch512/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512%2Fs15
+[/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F388
 
 

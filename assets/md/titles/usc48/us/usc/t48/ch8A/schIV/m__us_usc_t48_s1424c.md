@@ -43,7 +43,7 @@
 
         All agencies and departments of the United States Government shall, upon request, deliver to the court any documents, records, and writings which are pertinent to any claim under review.
 
-([Pub. L. 95–134, title II, § 204][/us/pl/95/134/s204], Oct. 15, 1977, [91 Stat. 1162][/us/stat/91/1162]; [Pub. L. 96–205, title III, § 301(a)][/us/pl/96/205/s301/a], Mar. 12, 1980, [94 Stat. 87][/us/stat/94/87].)
+([Pub. L. 95–134, title II][/us/pl/95/134/tII], § 204, Oct. 15, 1977, [91 Stat. 1162][/us/stat/91/1162]; [Pub. L. 96–205, title III][/us/pl/96/205/tIII], § 301(a), Mar. 12, 1980, [94 Stat. 87][/us/stat/94/87].)
 
  __References in Text__ 
 
@@ -59,13 +59,13 @@
 
  __Treatment of Certain Awards by District Court of Guam__ 
 
-[Pub. L. 100–647, title VI, § 6140][/us/pl/100/647/s6140], Nov. 10, 1988, [102 Stat. 3724][/us/stat/102/3724], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6140, Nov. 10, 1988, [102 Stat. 3724][/us/stat/102/3724], provided that: 
 
 > “For purposes of the internal revenue laws of the United States and Guam, gross income shall not include any amount received pursuant to any claim over which the District Court of Guam has jurisdiction by reason of [section 204 of Public Law 95–134][/us/pl/95/134/s204] \[this section\] (commonly referred to as the Omnibus Territories Act of 1977). This section shall be effective for taxable years beginning after December 31, 1985.”
 
  __Commencement of Civil Actions Before April 1, 1982__ 
 
-[Pub. L. 96–205, title III, § 301(b)][/us/pl/96/205/s301/b], Mar. 12, 1980, [94 Stat. 87][/us/stat/94/87], provided that: 
+[Pub. L. 96–205, title III][/us/pl/96/205/tIII], § 301(b), Mar. 12, 1980, [94 Stat. 87][/us/stat/94/87], provided that: 
 
 > “Any civil action under section 204 of the Omnibus Territories Act of 1977 ([91 Stat. 1162][/us/stat/91/1162]) \[this section\] shall be barred unless it is commenced not later than April 1, 1982.”
 
@@ -76,17 +76,17 @@
 ----------
 ----------
 
-[/us/pl/95/134/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs204
+[/us/pl/95/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2FtII
 [/us/stat/91/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1162
-[/us/pl/96/205/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs301%2Fa
+[/us/pl/96/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtIII
 [/us/stat/94/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F87
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
 [/us/stat/91/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1159
 [/us/pl/96/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205
-[/us/pl/100/647/s6140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6140
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3724
 [/us/pl/95/134/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs204
-[/us/pl/96/205/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs301%2Fb
+[/us/pl/96/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtIII
 [/us/stat/94/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F87
 [/us/stat/91/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1162
 

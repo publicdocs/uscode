@@ -17,7 +17,7 @@
 
     No person shall be denied access to, or any of the benefits accruing from, the lands conveyed by this Act, or by the amendment made by this Act, on the basis of race, religion, creed, color, sex, national origin, or ancestry: Provided, however, That this section shall not be construed in derogation of any of the provisions of the April 17, 1900 cession of Tutuila and Aunuu or the July 16, 1904 cession of the Manu’s Islands, as ratified by the Act of February 20, 1929 ([45 Stat. 1253][/us/stat/45/1253]) and the Act of May 22, 1929 ([46 Stat. 4][/us/stat/46/4]).
 
-([Pub. L. 93–435, § 6][/us/pl/93/435/s6], Oct. 5, 1974, [88 Stat. 1212][/us/stat/88/1212].)
+([Pub. L. 93–435][/us/pl/93/435], § 6, Oct. 5, 1974, [88 Stat. 1212][/us/stat/88/1212].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/stat/45/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1253
 [/us/stat/46/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F4
-[/us/pl/93/435/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs6
+[/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435
 [/us/stat/88/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1212
 [/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435
 [/us/stat/88/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1210

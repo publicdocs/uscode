@@ -17,7 +17,7 @@
 
     The salaries and travel allowances of the Governor, Lieutenant Governor, the heads of the executive departments, other officers and employees of the government of the Virgin Islands, and the members of the legislature shall be paid by the government of the Virgin Islands at rates prescribed by the laws of the Virgin Islands.
 
-([July 22, 1954, ch. 558, § 20][/us/act/1954-07-22/ch558/s20], formerly § 20(c), [68 Stat. 506][/us/stat/68/506]; [Pub. L. 85–851, § 6(a)][/us/pl/85/851/s6/a], Aug. 28, 1958, [72 Stat. 1095][/us/stat/72/1095]; [Pub. L. 90–496, § 10][/us/pl/90/496/s10], Aug. 23, 1968, [82 Stat. 841][/us/stat/82/841].)
+([July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], § 20, formerly § 20(c), [68 Stat. 506][/us/stat/68/506]; [Pub. L. 85–851][/us/pl/85/851], § 6(a), Aug. 28, 1958, [72 Stat. 1095][/us/stat/72/1095]; [Pub. L. 90–496][/us/pl/90/496], § 10, Aug. 23, 1968, [82 Stat. 841][/us/stat/82/841].)
 
  __Codification__ 
 
@@ -35,13 +35,13 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–851, § 6(b)][/us/pl/85/851/s6/b], Aug. 28, 1958, [72 Stat. 1095][/us/stat/72/1095], provided that: 
+[Pub. L. 85–851][/us/pl/85/851], § 6(b), Aug. 28, 1958, [72 Stat. 1095][/us/stat/72/1095], provided that: 
 
 > “This section 6 \[amending this section\] shall become effective on July 1, 1959.”
 
  __Elimination of General Fund Deficits of Guam and Virgin Islands__ 
 
-[Pub. L. 96–597, title VI, § 607][/us/pl/96/597/s607], Dec. 24, 1980, [94 Stat. 3483][/us/stat/94/3483], as amended by [Pub. L. 97–357, title VI, § 601][/us/pl/97/357/s601], Oct. 19, 1982, [96 Stat. 1712][/us/stat/96/1712], provided that:
+[Pub. L. 96–597, title VI][/us/pl/96/597/tVI], § 607, Dec. 24, 1980, [94 Stat. 3483][/us/stat/94/3483], as amended by [Pub. L. 97–357, title VI][/us/pl/97/357/tVI], § 601, Oct. 19, 1982, [96 Stat. 1712][/us/stat/96/1712], provided that:
 
 >     “(a) In order to assist the governments of Guam and the Virgin Islands in eliminating general fund deficits, there is authorized to be appropriated to the Secretary of the Interior for payment to Guam not to exceed $15,000,000 for fiscal year 1982, and $11,000,000 for fiscal year 1983, $7,500,000 for fiscal year 1984, and $4,000,000 for fiscal year 1985; and for payment to the Virgin Islands not to exceed $12,000,000 for fiscal year 1982, $9,000,000 for fiscal year 1983, $6,000,000 for fiscal year 1984, and $3,000,000 for fiscal year 1985.
 
@@ -61,7 +61,7 @@
 
  __Authorization of Appropriations for Grants for Anticipated Deficits During Fiscal Years 1979 Through 1981; Terms and Conditions; Report on Financial Condition; Contents__ 
 
-    [Pub. L. 95–348, § 4(d)][/us/pl/95/348/s4/d], Aug. 18, 1978, [92 Stat. 491][/us/stat/92/491], authorized appropriations for fiscal years 1979 to 1981 for grants for anticipated deficits in such years, and required a report respecting financial conditions and activities, prior to repeal by [Pub. L. 96–205, title IV, § 404][/us/pl/96/205/s404], Mar. 12, 1980, [94 Stat. 89][/us/stat/94/89].
+    [Pub. L. 95–348][/us/pl/95/348], § 4(d), Aug. 18, 1978, [92 Stat. 491][/us/stat/92/491], authorized appropriations for fiscal years 1979 to 1981 for grants for anticipated deficits in such years, and required a report respecting financial conditions and activities, prior to repeal by [Pub. L. 96–205, title IV][/us/pl/96/205/tIV], § 404, Mar. 12, 1980, [94 Stat. 89][/us/stat/94/89].
 
 ----------
 
@@ -70,11 +70,11 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch558/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs20
+[/us/act/1954-07-22/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558
 [/us/stat/68/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F506
-[/us/pl/85/851/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851%2Fs6%2Fa
+[/us/pl/85/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851
 [/us/stat/72/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1095
-[/us/pl/90/496/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs10
+[/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/stat/82/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F841
 [/us/pl/90/496/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs10
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
@@ -82,15 +82,15 @@
 [/us/pl/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496
 [/us/pl/90/496/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F496%2Fs16
 [/us/usc/t48/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1591
-[/us/pl/85/851/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851%2Fs6%2Fb
+[/us/pl/85/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851
 [/us/stat/72/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1095
-[/us/pl/96/597/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2Fs607
+[/us/pl/96/597/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F597%2FtVI
 [/us/stat/94/3483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3483
-[/us/pl/97/357/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs601
+[/us/pl/97/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtVI
 [/us/stat/96/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1712
-[/us/pl/95/348/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs4%2Fd
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F491
-[/us/pl/96/205/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs404
+[/us/pl/96/205/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2FtIV
 [/us/stat/94/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F89
 
 

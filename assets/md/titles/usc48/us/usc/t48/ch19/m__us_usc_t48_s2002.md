@@ -39,7 +39,7 @@
 
         (4) actions which may be needed to facilitate the economic and social health and development of the noncontiguous Pacific areas, consistent with their self-determined objectives.
 
-([Pub. L. 99–239, title III, § 302][/us/pl/99/239/s302], Jan. 14, 1986, [99 Stat. 1837][/us/stat/99/1837].)
+([Pub. L. 99–239, title III][/us/pl/99/239/tIII], § 302, Jan. 14, 1986, [99 Stat. 1837][/us/stat/99/1837].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/99/239/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs302
+[/us/pl/99/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2FtIII
 [/us/stat/99/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1837
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
