@@ -1,0 +1,32 @@
+---
+---
+
+# 24 U.S.C., USLM ref /us/usc/t24/s153
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t24/ch3/schV/m__us_usc_t24_s152.md) | [Next](./../../../../..//us/usc/t24/ch3/schV/m__us_usc_t24_s154.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs153)
+
+## § 153. Perfecting bona fide claims to lands; exchange of private lands
+
+    In all cases of unperfected bona fide claims lying within the said boundaries of said reserve, which claims have been properly initiated prior to September 2, 1902, said claims may be perfected upon compliance with the requirements of the laws respecting settlement, residence, improvements, and so forth, in the same manner in all respects as claims are perfected to other Government lands: Provided, That to the extent that the lands within said reserve are held in private ownership the Secretary of the Interior is authorized in his discretion to exchange therefor public lands of like area and value, which are surveyed, vacant, unappropriated, not mineral, not timbered, and not required for reservoir sites or other public uses or purposes. The private owners must, at their expense and by appropriate instruments of conveyance, surrender to the Government a full and unencumbered right and title to the private lands included in any exchange before patents are issued for or any rights attached to the public lands included therein, and no charge of any kind shall be made for issuing such patents. Upon completion of any exchange the lands surrendered to the Government shall become a part of said reserve in a like manner as if they had been public lands at the time of the establishment of said reserve. Nothing contained in this section shall be construed to authorize the issuance of any land scrip, and the State of South Dakota is granted the privilege of selecting from the public lands in said State an equal quantity of land in lieu of such portions of section sixteen included within said reserve as have not been sold or disposed of by said State and are not covered by an unperfected bona fide claim as above mentioned.
+
+([Mar. 22, 1906, ch. 1127, § 3][/us/act/1906-03-22/ch1127/s3], [34 Stat. 83][/us/stat/34/83].)
+
+----------
+
+[Previous](./../../../../..//us/usc/t24/ch3/schV/m__us_usc_t24_s152.md) | [Next](./../../../../..//us/usc/t24/ch3/schV/m__us_usc_t24_s154.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs153)
+
+----------
+----------
+
+[/us/act/1906-03-22/ch1127/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-22%2Fch1127%2Fs3
+[/us/stat/34/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F83
+
+
