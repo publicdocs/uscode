@@ -771,7 +771,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft52%2Fs21141" data-uslm-ref="/us/usc/t52/s21141">21141.</a>  </td>
 
-    <td> State defined.  </td>
+    <td> “State” defined.  </td>
 
   </tr>
 

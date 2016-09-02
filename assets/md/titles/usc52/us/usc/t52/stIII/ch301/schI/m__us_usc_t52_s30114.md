@@ -103,7 +103,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 313 of Pub. L. 92–225][/us/pl/92/225/s313] was classified to [section 439a of Title 2][/us/usc/t2/s439a], The Congress and also related to use of contributed amounts for certain purposes, prior to repeal by [Pub. L. 107–155, title III, § 301][/us/pl/107/155/s301], Mar. 27, 2002, [116 Stat. 95][/us/stat/116/95].
+    A prior [section 313 of Pub. L. 92–225][/us/pl/92/225/s313] was classified to [section 439a of Title 2][/us/usc/t2/s439a], The Congress, and also related to use of contributed amounts for certain purposes, prior to repeal by [Pub. L. 107–155, title III, § 301][/us/pl/107/155/s301], Mar. 27, 2002, [116 Stat. 95][/us/stat/116/95].
 
     Another prior [section 313 of Pub. L. 92–225][/us/pl/92/225/s313] was renumbered section 309, and is classified to [section 30109 of this title][/us/usc/t52/s30109].
 

@@ -337,13 +337,13 @@
 
     Subsec. (o) to (q). [Pub. L. 94–283, § 102(g)(3)][/us/pl/94/283/s102/g/3], added subsecs. (o) to (q).
 
-    1974—[Pub. L. 93–443, § 201(a)][/us/pl/93/443/s201/a] (1), inserted introductory reference to title IV of this Act, which for purposes of codification is translated as subchapter II of this chapter.
+    1974—[Pub. L. 93–443, § 201(a)(1)][/us/pl/93/443/s201/a/1], inserted introductory reference to title IV of this Act, which for purposes of codification is translated as subchapter II of this chapter.
 
     Subsec. (a)(5). [Pub. L. 93–443, § 201(a)(2)][/us/pl/93/443/s201/a/2], struck out from definition of “election” the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States.
 
     Subsec. (d). [Pub. L. 93–443, § 201(a)(3)][/us/pl/93/443/s201/a/3], inserted reference to “club,” before “association” and substituted “other group of persons” and “receives” for “organization” and “accepts”.
 
-    Subsec. (e). [Pub. L. 93–443, § 201(a)(4)][/us/pl/93/443/s201/a/4], transferred the word “means” after introductory word “contribution” to become the initial word in pars. (1) to (4); in par. (1), incorporated existing provisions in provisions designated subpars. (A) and (B), and deleted former provisions respecting contributions for the purpose of influencing the nomination for election, or election, of any person as a presidential election or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States; in par. (2), provided for express or implied transactions; in par. (3), substitution of “funds received by a political committee which are transferred to such committee from another political committee or other source” for “a transfer of funds between political committees”; inserted at end of par. (4) the word “but”; and added par. (5.)
+    Subsec. (e). [Pub. L. 93–443, § 201(a)(4)][/us/pl/93/443/s201/a/4], transferred the word “means” after introductory word “contribution” to become the initial word in pars. (1) to (4); in par. (1), incorporated existing provisions in provisions designated subpars. (A) and (B), and deleted former provisions respecting contributions for the purpose of influencing the nomination for election, or election, of any person as a presidential election or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States; in par. (2), provided for express or implied transactions; in par. (3), substitution of “funds received by a political committee which are transferred to such committee from another political committee or other source” for “a transfer of funds between political committees”; inserted at end of par. (4) the word “but”; and added par. (5).
 
     Subsec. (f). [Pub. L. 93–443, § 201(a)(5)][/us/pl/93/443/s201/a/5], transferred the word “means” following introductory word “expenditure” to become the initial word in pars. (1) to (3); in par. (1), incorporated existing provisions in provisions designated subpars. (A) to (C) and deleted end text reading “, or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States”; in par. (2), provided for express or implied transactions; in par. (3), substituted “the transfer of funds by a political committee to another political committee; but” for “a transfer of funds between political committees”; and added par. (4).
 
@@ -528,7 +528,7 @@
 [/us/pl/94/283/s115/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs115%2Fh
 [/us/usc/t52/s432/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs432%2Ff%2F1
 [/us/pl/94/283/s102/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs102%2Fg%2F3
-[/us/pl/93/443/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs201%2Fa
+[/us/pl/93/443/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs201%2Fa%2F1
 [/us/pl/93/443/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs201%2Fa%2F2
 [/us/pl/93/443/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs201%2Fa%2F3
 [/us/pl/93/443/s201/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs201%2Fa%2F4

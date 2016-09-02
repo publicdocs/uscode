@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t52/stII/ch209/schVII/m__us_usc_t52_stII_ch209_schVII.md) | [Next](./../../../../../..//us/usc/t52/stII/ch209/schVII/m__us_usc_t52_s21142.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21141)
 
-## § 21141. State defined
+## § 21141. “State” defined
 
     In this chapter, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, and the United States Virgin Islands.
 

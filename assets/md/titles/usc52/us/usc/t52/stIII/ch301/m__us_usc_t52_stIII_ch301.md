@@ -179,7 +179,7 @@ SUBCHAPTER I—DISCLOSURE OF FEDERAL CAMPAIGN FUNDS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft52%2Fs30119" data-uslm-ref="/us/usc/t52/s30119">30119.</a>  </td>
 
-    <td> Contributions by government contractors.  </td>
+    <td> Contributions by Government contractors.  </td>
 
   </tr>
 
