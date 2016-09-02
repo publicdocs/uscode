@@ -53,7 +53,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 501 of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, as added [Pub. L. 96–450, title IV, § 407(b)(1)][/us/pl/96/450/s407/b/1], Oct. 14, 1980, [94 Stat. 1981][/us/stat/94/1981], related to Congressional oversight of intelligence activities, prior to repeal by [Pub. L. 102–88, § 602(a)(2)][/us/pl/102/88/s602/a/2].
+    A prior section 501 of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, as added [Pub. L. 96–450, title IV, § 407(b)(1)][/us/pl/96/450/s407/b/1], Oct. 14, 1980, [94 Stat. 1981][/us/stat/94/1981], related to congressional oversight of intelligence activities, prior to repeal by [Pub. L. 102–88, § 602(a)(2)][/us/pl/102/88/s602/a/2].
 
  __Amendments__ 
 

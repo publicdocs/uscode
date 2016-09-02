@@ -4517,6 +4517,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13405 were contained in the following:
 
+    Notice of President of the United States, dated June 10, 2014, 79 F.R. 33847.
+
     Notice of President of the United States, dated June 13, 2013, 78 F.R. 36081.
 
     Notice of President of the United States, dated June 14, 2012, 77 F.R. 36113.
@@ -5267,6 +5269,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13466 were contained in the following:
 
+    Notice of President of the United States, dated June 20, 2014, 79 F.R. 35909.
+
     Notice of President of the United States, dated June 21, 2013, 78 F.R. 38193.
 
     Notice of President of the United States, dated June 18, 2012, 77 F.R. 37263.
@@ -5323,7 +5327,9 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Ex. Ord. No. 13617, June 25, 2012, 77 F.R. 38459.
 
-    Continuation of national emergency declared by Ex. Ord. No. 13617 was contained in the following:
+    Continuations of national emergency declared by Ex. Ord. No. 13617 were contained in the following:
+
+    Notice of President of the United States, dated June 19, 2014, 79 F.R. 35679.
 
     Notice of President of the United States, dated June 20, 2013, 78 F.R. 37925.
 
@@ -5520,6 +5526,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13219, June 26, 2001, 66 F.R. 34777, as amended by Ex. Ord. No. 13304, May 28, 2003, 68 F.R. 32315.
 
     Continuations of national emergency declared by Ex. Ord. No. 13219 were contained in the following:
+
+    Notice of President of the United States, dated June 23, 2014, 79 F.R. 36181.
 
     Notice of President of the United States, dated June 17, 2013, 78 F.R. 37099.
 

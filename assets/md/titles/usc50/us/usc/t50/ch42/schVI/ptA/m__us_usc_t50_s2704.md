@@ -93,7 +93,11 @@
 
             (C) was operated for national security purposes.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], formerly [Pub. L. 102–484, div. C, title XXXI, § 3161][/us/pl/102/484/s3161], Oct. 23, 1992, [106 Stat. 2644][/us/stat/106/2644]; [Pub. L. 103–337, div. A, title X, § 1070(c)(2)][/us/pl/103/337/s1070/c/2], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 107–107, div. A, title X, § 1048(h)(1)][/us/pl/107/107/s1048/h/1], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(5)][/us/pl/108/136/s3141/i/5], Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183], 2185, 2193; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(4)][/us/pl/113/66/s3146/g/4], Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079].)
+([Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], formerly [Pub. L. 102–484, div. C, title XXXI, § 3161][/us/pl/102/484/s3161], Oct. 23, 1992, [106 Stat. 2644][/us/stat/106/2644]; [Pub. L. 103–337, div. A, title X, § 1070(c)(2)][/us/pl/103/337/s1070/c/2], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 107–107, div. A, title X, § 1048(h)(1)][/us/pl/107/107/s1048/h/1], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(5)][/us/pl/108/136/s3141/i/5], Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183], 2185, 2193; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(4)][/us/pl/113/66/s3146/g/4], Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079]; [Pub. L. 113–128, title V, § 512(d)][/us/pl/113/128/s512/d], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706].)
+
+ __Amendment of Subsection (c)(6)(A)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(d), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1706, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(6)(A) of this section is amended by striking “programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “programs carried out by the Secretary of Labor under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -112,6 +116,8 @@
     Section was formerly classified to [section 7274h of Title 42][/us/usc/t42/s7274h], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(6)(A). [Pub. L. 113–128][/us/pl/113/128], which directed amendment of subpar. (A) by substituting “programs carried out by the Secretary of Labor under title I of the Workforce Innovation and Opportunity Act” for “programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”, was executed by making the substitution for “programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(6)(A)\]. See 1998 Amendment note below.
 
     2013—Subsec. (b)(1). [Pub. L. 112–239, § 3134(b)(1)(A)][/us/pl/112/239/s3134/b/1/A], struck out “and any updates of the plan under subsection (e)” after “plan referred to in subsection (a)”.
 
@@ -153,6 +159,10 @@
 
     Subsec. (d). [Pub. L. 103–337, § 1070(c)(2)(A)][/us/pl/103/337/s1070/c/2/A], substituted “workforce” for “work force”.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
  __Effective Date of 1998 Amendment__ 
 
     Amendment by section 101(f) \[title VIII, § 405(d)(7)(A)\] of [Pub. L. 105–277][/us/pl/105/277] effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, § 405(f)(6)(A)\] of [Pub. L. 105–277][/us/pl/105/277] effective July 1, 2000, see section 101(f) \[title VIII, § 405(g)(1), (2)(B)\] of [Pub. L. 105–277][/us/pl/105/277], set out as a note under [section 3502 of Title 5][/us/usc/t5/s3502], Government Organization and Employees.
@@ -191,6 +201,11 @@
 [/us/stat/126/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2183
 [/us/pl/113/66/s3146/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F4
 [/us/stat/127/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1079
+[/us/pl/113/128/s512/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fd
+[/us/stat/128/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1706
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/101/189/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3152
 [/us/stat/103/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1682
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
@@ -205,6 +220,10 @@
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
 [/us/usc/t42/s7274h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274h
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/112/239/s3134/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3134%2Fb%2F1%2FA
 [/us/pl/113/66/s3146/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F4%2FA
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
@@ -229,6 +248,9 @@
 [/us/pl/103/337/s1070/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fc%2F2%2FA
 [/us/pl/103/337/s1070/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fc%2F2%2FC
 [/us/pl/103/337/s1070/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fc%2F2%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

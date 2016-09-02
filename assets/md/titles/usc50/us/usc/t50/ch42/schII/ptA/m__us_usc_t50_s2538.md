@@ -85,7 +85,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 3146(c)(10)(A)][/us/pl/113/66/s3146/c/10/A], (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to Congressional findings concerning safety and reliability of the nuclear weapons stockpile.
+    2013—Subsec. (a). [Pub. L. 113–66, § 3146(c)(10)(A)][/us/pl/113/66/s3146/c/10/A], (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to congressional findings concerning safety and reliability of the nuclear weapons stockpile.
 
     Subsec. (a)(9). [Pub. L. 112–239, § 3164(b)(1)][/us/pl/112/239/s3164/b/1], (3), substituted “national security laboratories” for “nuclear weapons laboratories” and “nuclear weapons production facilities” for “nuclear weapons production plants”.
 

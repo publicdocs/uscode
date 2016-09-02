@@ -25,7 +25,7 @@
 
         (2) Paragraph (1) shall not apply (A) in the case of a person who acted in the course of a pattern of activities intended to identify and expose covert agents and with reason to believe that such activities would impair or impede the foreign intelligence activities of the United States, or (B) in the case of a person who has authorized access to classified information.
 
-    (c) __Disclosure to select Congressional committees on intelligence__ 
+    (c) __Disclosure to select congressional committees on intelligence__ 
 
         It shall not be an offense under [section 3121 of this title][/us/usc/t50/s3121] to transmit information described in such section directly to either congressional intelligence committee.
 

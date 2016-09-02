@@ -17,7 +17,7 @@
 
 §§ 301 to 303. __Repealed.__  __[__  __Aug. 9, 1955, ch. 656__  __][/us/act/1955-08-09/ch656]__  __, title III, § 307,__  __[__  __69 Stat. 589__  __][/us/stat/69/589]__ 
 
-    Section 301, acts [Sept. 16, 1942, ch. 561][/us/act/1942-09-16/ch561], title I, § 1, [56 Stat. 753][/us/stat/56/753]; [July 1, 1943, ch. 187][/us/act/1943-07-01/ch187], §§ 1, 5, [57 Stat. 371][/us/stat/57/371], granted absentee members of land or naval forces of the United States the right to vote in Presidential, Vice Presidential, and Congressional elections. See section 1973ff et seq. of Title 42, The Public Health and Welfare.
+    Section 301, acts [Sept. 16, 1942, ch. 561][/us/act/1942-09-16/ch561], title I, § 1, [56 Stat. 753][/us/stat/56/753]; [July 1, 1943, ch. 187][/us/act/1943-07-01/ch187], §§ 1, 5, [57 Stat. 371][/us/stat/57/371], granted absentee members of land or naval forces of the United States the right to vote in Presidential, Vice Presidential, and Congressional elections. See section 20301 et seq. of Title 52, Voting and Elections.
 
     Section 302, [act Sept. 16, 1942, ch. 561][/us/act/1942-09-16/ch561], title I, § 2, [56 Stat. 753][/us/stat/56/753], exempted persons in military service in time of war from paying poll taxes or other taxes as a condition of voting in any election for President, Vice President, electors for President or Vice President, or for Senator or Member of the House of Representatives.
 

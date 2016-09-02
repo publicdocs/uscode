@@ -15,7 +15,7 @@
 
 # Title 50—WAR AND NATIONAL DEFENSE
 
-Current through 113-145not128u1
+Current through 113–163not159
 
 <table>
 
@@ -1083,7 +1083,7 @@ New Classification  </td>
 
     <td> 
 
-402 note (Pub.L. 86–36, § 6, May 29, 1959, 73 Stat. 64)  </td>
+402 note (Pub. L. 86–36, § 6, May 29, 1959, 73 Stat. 64)  </td>
 
     <td> 
 
