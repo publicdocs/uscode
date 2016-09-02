@@ -93,11 +93,11 @@
 
 >     “(a) __Notice.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Oct. 27, 2004\], the Secretary shall notify Indian tribes and owners of trust or restricted lands of the amendments made by this Act \[see Short Title of 2004 Amendment note below\].
 
->         “(2) __Specifications.—__ 
+>         “(2)  __Specifications__  __.—__ 
 
 >         The notice required under paragraph (1) shall be designed to inform Indian owners of trust or restricted land of—
 
@@ -109,7 +109,7 @@
 
 >             “(D) a toll-free telephone number to be used for obtaining information regarding the provisions of this Act and any trust assets of such owners.
 
->         “(3) __Requirements.—__ 
+>         “(3)  __Requirements__  __.—__ 
 
 >         The Secretary shall provide the notice required under paragraph (1)—
 
@@ -121,7 +121,7 @@
 
 >             “(D) through any other means determined appropriate by the Secretary.
 
->         “(4) __Certification.—__ 
+>         “(4)  __Certification__  __.—__ 
 
 >         After providing notice under this subsection, the Secretary shall—
 
@@ -131,11 +131,11 @@
 
 >     “(b) __Effective Dates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the amendments made by this Act \[see Short Title of 2004 Amendment note below\] apply on and after the date that is 1 year after the date on which the Secretary makes the certification required under subsection (a)(4) \[such certification made June 20, 2005, see 70 F.R. 37107\].
 
->         “(2) __Exceptions.—__ 
+>         “(2)  __Exceptions__  __.—__ 
 
 >         The following provisions of law apply as of the date of enactment of this Act \[Oct. 27, 2004\]:
 

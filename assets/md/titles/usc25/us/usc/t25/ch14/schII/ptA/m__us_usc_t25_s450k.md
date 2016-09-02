@@ -69,6 +69,8 @@
 
  __References in Text__ 
 
+    This subchapter, referred to in subsecs. (a), (b), (d)(2)(A), (D), and (e), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
+
     The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec. (d)(2)(C), is title I of [Pub. L. 103–413][/us/pl/103/413], Oct. 25, 1994, [108 Stat. 4250][/us/stat/108/4250], which enacted section 450l of this title, amended this section and sections 450b, 450c, 450e, 450f, 450j, 450j–1, 450m, and 450m–1 of this title, and enacted provisions set out as a note under [section 450 of this title][/us/usc/t25/s450]. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
  __Codification__ 
@@ -153,6 +155,9 @@
 [/us/stat/110/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1320
 [/us/pl/104/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fe
 [/us/stat/110/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3399
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
+[/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/103/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413
 [/us/stat/108/4250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4250
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450

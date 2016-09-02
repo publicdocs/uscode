@@ -101,6 +101,10 @@
 
 ([Pub. L. 93–638, title V, § 506][/us/pl/93/638/s506], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 717][/us/stat/114/717].)
 
+ __References in Text__ 
+
+    Part A of this subchapter, referred to in subsec. (g)(2), (3), was in the original “title I”, meaning title I of [Pub. L. 93–638][/us/pl/93/638], known as the Indian Self-Determination Act, which is classified principally to part A (§ 450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t25/ch14/schII/ptE/m__us_usc_t25_s458aaa–4.md) | [Next](./../../../../../..//us/usc/t25/ch14/schII/ptE/m__us_usc_t25_s458aaa–6.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%935)
@@ -115,5 +119,7 @@
 [/us/pl/93/638/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs506
 [/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
 [/us/stat/114/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F717
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 
 

@@ -175,7 +175,7 @@
 
 [Pub. L. 101–630, title V, § 506(a)][/us/pl/101/630/s506/a], (b), Nov. 28, 1990, [104 Stat. 4566][/us/stat/104/4566], provided that:
 
->     “(a) __Survey.—__ 
+>     “(a)  __Survey__  __.—__ 
 
 >     The Secretary shall conduct a survey of all facilities used by contractors under title V of the Indian Health Care Improvement Act \[[25 U.S.C. 1651][/us/usc/t25/s1651] et seq.\] and shall submit a report to the Congress on such survey not later than one year after the date of enactment of this Act \[Nov. 28, 1990\]. The report shall, at a minimum, contain the following information for each location:
 
@@ -189,7 +189,7 @@
 
 >         “(5) An assessment of the deficiencies of the facility.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The report shall contain general recommendations for addressing the deficiencies of facilities in which programs funded under title V of the Indian Health Care Improvement Act \[[25 U.S.C. 1651][/us/usc/t25/s1651] et seq.\] are located and shall propose specific policies for accomplishing those recommendations.”
 

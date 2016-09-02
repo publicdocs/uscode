@@ -39,6 +39,8 @@
 
  __References in Text__ 
 
+    This subchapter, referred to in subsec. (a), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
+
     The Equal Access to Justice Act, referred to in subsec. (c), is [Pub. L. 96–481, title II][/us/pl/96/481], Oct. 21, 1980, [94 Stat. 2325][/us/stat/94/2325]. For complete classification of this Act to the Code, see Short Title note set out under [section 504 of Title 5][/us/usc/t5/s504], Government Organization and Employees, and Tables.
 
     The Interior Board of Contract Appeals established pursuant to section 8 of such Act ([41 U.S.C. 607][/us/usc/t41/s607]), referred to in subsec. (d), terminated effective 1 year after Jan. 6, 2006, pursuant to [section 847(g) of Pub. L. 109–163][/us/pl/109/163/s847/g], set out as an Effective Date of 2006 Amendment note under [section 5372a of Title 5][/us/usc/t5/s5372a], Government Organization and Employees. Any reference to such Board to be treated as referring to the Civilian Board of Contract Appeals pursuant to [Pub. L. 109–163, div. A, title VIII, § 847(e)][/us/pl/109/163/s847/e], Jan. 6, 2006, [119 Stat. 3394][/us/stat/119/3394], formerly set out in a note under section 607 of former Title 41, Public Contracts. The Civilian Board of Contract Appeals was established by [section 42 of Pub. L. 93–400][/us/pl/93/400/s42] which was classified to section 438 of former Title 41 prior to being repealed and restated as [section 7105(b) of Title 41][/us/usc/t41/s7105/b], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855.
@@ -94,6 +96,9 @@
 [/us/stat/104/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F206
 [/us/pl/103/413/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs104%2F2
 [/us/stat/108/4268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4268
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
+[/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
 [/us/stat/94/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2325
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504

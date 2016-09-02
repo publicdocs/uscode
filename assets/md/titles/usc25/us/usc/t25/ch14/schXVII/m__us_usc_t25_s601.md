@@ -31,11 +31,11 @@
 
 [Pub. L. 103–435, § 17][/us/pl/103/435/s17], Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573], provided that:
 
->     “(a) __Redesignation.—__ 
+>     “(a)  __Redesignation__  __.—__ 
 
 >     The Confederated Tribes and Bands of the Yakima Indian Nation shall be known and designated as the ‘Confederated Tribes and Bands of the Yakama Indian Nation’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in a law (including any regulation), map, document, paper, or other record of the United States to Confederated Tribes and Bands of the Yakima Indian Nation referred to in subsection (a) shall be deemed to be a reference to the ‘Confederated Tribes and Bands of the Yakama Indian Nation’.”
 

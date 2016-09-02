@@ -107,7 +107,7 @@
 
     Act of August 5, 1954, referred to in subsec. (a)(1)(C), is [act Aug. 5, 1954, ch. 658][/us/act/1954-08-05/ch658], [68 Stat. 674][/us/stat/68/674], as amended, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-    This subchapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§ 450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
+    This subchapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
     The Federal Tort Claims Act, referred to in subsec. (c)(1), is title IV of [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], [60 Stat. 842][/us/stat/60/842], which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 992][/us/stat/62/992], the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
@@ -163,29 +163,29 @@
 
 > “SEC. 601. __DEFINITIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In this title, the Secretary may apply the definitions contained in title V \[[25 U.S.C. 458aaa][/us/usc/t25/s458aaa] et seq.\].
 
->     “(b) __Other Definitions.—__ 
+>     “(b)  __Other Definitions__  __.—__ 
 
 >     In this title:
 
->         “(1) __Agency.—__ 
+>         “(1)  __Agency__  __.—__ 
 
 >         The term ‘agency’ means any agency or other organizational unit of the Department of Health and Human Services, other than the Indian Health Service.
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.
 
 > “SEC. 602. __DEMONSTRATION PROJECT FEASIBILITY.__ 
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary shall conduct a study to determine the feasibility of a tribal self-governance demonstration project for appropriate programs, services, functions, and activities (or portions thereof) of the agency.
 
->     “(b) __Considerations.—__ 
+>     “(b)  __Considerations__  __.—__ 
 
 >     In conducting the study, the Secretary shall consider—
 
@@ -201,7 +201,7 @@
 
 >         “(6) such other issues that may be determined by the Secretary or developed through consultation pursuant to section 603.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this title \[Aug. 18, 2000\], the Secretary shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives. The report shall contain—
 
@@ -219,11 +219,11 @@
 
 >     “(a) __Study Protocol.—__ 
 
->         “(1) __Consultation with indian tribes.—__ 
+>         “(1)  __Consultation with indian tribes__  __.—__ 
 
 >         The Secretary shall consult with Indian tribes to determine a protocol for consultation under subsection (b) prior to consultation under such subsection with the other entities described in such subsection.
 
->         “(2) __Requirements for protocol.—__ 
+>         “(2)  __Requirements for protocol__  __.—__ 
 
 >         The protocol shall require, at a minimum, that—
 
@@ -233,7 +233,7 @@
 
 >             “(C) the consultation process allows for separate and direct recommendations from the Indian tribes and other entities described in subsection (b).
 
->     “(b) __Conducting Study.—__ 
+>     “(b)  __Conducting Study__  __.—__ 
 
 >     In conducting the study under this title, the Secretary shall consult with Indian tribes, States, counties, municipalities, program beneficiaries, and interested public interest groups, and may consult with other entities as appropriate.
 

@@ -203,31 +203,31 @@
 
     This Act, referred to in subsec. (d)(1), probably means title II of [Pub. L. 90–284][/us/pl/90/284], Apr. 11, 1968, [82 Stat. 77][/us/stat/82/77], popularly known as the Indian Civil Rights Act of 1968, which is classified generally to this subchapter.
 
- __Effective Dates; Pilot Project.__ 
+ __Effective Dates; Pilot Project__ 
 
 [Pub. L. 113–4, title IX, § 908][/us/pl/113/4/s908], Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125], provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as provided in section 4 \[[18 U.S.C. 2261][/us/usc/t18/s2261] note\] and subsection (b) of this section, the amendments made by this title \[see Tables for classification\] shall take effect on the date of enactment of this Act \[Mar. 7, 2013\].
 
 >     “(b) __Effective Date for Special Domestic-violence Criminal Jurisdiction.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), subsections (b) through (d) of [section 204 of Public Law 90–284][/us/pl/90/284/s204] \[[25 U.S.C. 1304(b)][/us/usc/t25/s1304/b]–(d)\] (as added by section 904) shall take effect on the date that is 2 years after the date of enactment of this Act \[Mar. 7, 2013\].
 
 >         “(2) __Pilot project.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             At any time during the 2-year period beginning on the date of enactment of this Act, an Indian tribe may ask the Attorney General to designate the tribe as a participating tribe under [section 204(a) of Public Law 90–284][/us/pl/90/284/s204/a] \[[25 U.S.C. 1304(a)][/us/usc/t25/s1304/a]\] on an accelerated basis.
 
->             “(B) __Procedure.—__ 
+>             “(B)  __Procedure__  __.—__ 
 
 >             The Attorney General may grant a request under subparagraph (A) after coordinating with the Secretary of the Interior, consulting with affected Indian tribes, and concluding that the criminal justice system of the requesting tribe has adequate safeguards in place to protect defendants’ rights, consistent with [section 204 of Public Law 90–284][/us/pl/90/284/s204] \[[25 U.S.C. 1304][/us/usc/t25/s1304]\].
 
->             “(C) __Effective dates for pilot projects.—__ 
+>             “(C)  __Effective dates for pilot projects__  __.—__ 
 
 >             An Indian tribe designated as a participating tribe under this paragraph may commence exercising special domestic violence criminal jurisdiction pursuant to subsections (b) through (d) of [section 204 of Public Law 90–284][/us/pl/90/284/s204] on a date established by the Attorney General, after consultation with that Indian tribe, but in no event later than the date that is 2 years after the date of enactment of this Act.”
 

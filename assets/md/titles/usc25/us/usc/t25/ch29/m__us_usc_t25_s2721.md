@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 100–497][/us/pl/100/497], Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467], known as the Indian Gaming Regulatory Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t25/s2701] and Tables.
+    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 100–497][/us/pl/100/497], Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467], known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t25/s2701] and Tables.
 
 ----------
 

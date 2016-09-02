@@ -69,7 +69,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (b), was in the original “this title”, meaning title IV of [Pub. L. 101–630][/us/pl/101/630], Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544], which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note below and Tables.
+    This chapter, referred to in subsec. (b), was in the original “this title”, meaning title IV of [Pub. L. 101–630][/us/pl/101/630], Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544], known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note below and Tables.
 
  __Short Title__ 
 

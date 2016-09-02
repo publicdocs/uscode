@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2502.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2504.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2503)
+[Previous](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2502a.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2504.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2503)
 
 ## § 2503. Composition of grants
 
@@ -147,7 +147,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2502.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2504.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2503)
+[Previous](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2502a.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2504.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2503)
 
 ----------
 ----------

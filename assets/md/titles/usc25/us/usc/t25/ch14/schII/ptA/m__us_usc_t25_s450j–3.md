@@ -25,6 +25,10 @@
 
     This title, referred to in text, is title I of the Department of the Interior and Related Agencies Appropriations Act, 2000, as enacted by [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–135. For complete classification of this title to the Code, see Tables.
 
+ __Codification__ 
+
+    Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2000, and not as part of the Indian Self-Determination and Education Assistance Act which comprises this subchapter.
+
  __Similar Provisions__ 
 
     Similar provisions were contained in [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 114\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–255.

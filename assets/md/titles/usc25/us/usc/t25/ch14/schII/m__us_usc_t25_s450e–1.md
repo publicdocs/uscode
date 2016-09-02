@@ -21,6 +21,8 @@
 
  __References in Text__ 
 
+    This subchapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
+
     [Section 450g of this title][/us/usc/t25/s450g], referred to in text, was in the original “section 103 of this Act”, meaning [section 103 of Pub. L. 93–638][/us/pl/93/638/s103], the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of [section 103(c) of Pub. L. 93–638][/us/pl/93/638/s103/c], were repealed, and the remainder of [section 103(c) of Pub. L. 93–638][/us/pl/93/638/s103/c], was redesignated as [section 102(d) of Pub. L. 93–638][/us/pl/93/638/s102/d] ([section 450f(d) of this title][/us/usc/t25/s450f/d]), by [Pub. L. 100–472, title II, § 201(b)(1)][/us/pl/100/472/s201/b/1], Oct. 5, 1988, [102 Stat. 2289][/us/stat/102/2289]. [Section 104 of Pub. L. 93–638][/us/pl/93/638/s104] was renumbered as [section 103 of Pub. L. 93–638][/us/pl/93/638/s103] by [section 202(a) of Pub. L. 100–472][/us/pl/100/472/s202/a], and is classified to [section 450h of this title][/us/usc/t25/s450h].
 
  __Amendments__ 
@@ -39,6 +41,9 @@
 [/us/stat/98/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F118
 [/us/pl/101/301/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs2%2Fa%2F5
 [/us/stat/104/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F206
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
+[/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450g
 [/us/pl/93/638/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs103
 [/us/pl/93/638/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs103%2Fc

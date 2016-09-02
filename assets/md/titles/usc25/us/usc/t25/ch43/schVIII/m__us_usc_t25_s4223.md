@@ -33,15 +33,15 @@
 
          contain, with respect to the 5-year period beginning with the fiscal year for which the plan is submitted, the following information:
 
-            (A) __Mission statement.—__ 
+            (A)  __Mission statement__  __.—__ 
 
             A general statement of the mission of the Department of Hawaiian Home Lands to serve the needs of the low-income families to be served by the Department.
 
-            (B) __Goals and objectives.—__ 
+            (B)  __Goals and objectives__  __.—__ 
 
             A statement of the goals and objectives of the Department of Hawaiian Home Lands to enable the Department to serve the needs identified in subparagraph (A) during the period.
 
-            (C) __Activities plans.—__ 
+            (C)  __Activities plans__  __.—__ 
 
             An overview of the activities planned during the period including an analysis of the manner in which the activities will enable the Department to meet its mission, goals, and objectives.
 
@@ -55,11 +55,11 @@
 
          contain the following information relating to the fiscal year for which the assistance under this subchapter is to be made available:
 
-            (A) __Goals and objectives.—__ 
+            (A)  __Goals and objectives__  __.—__ 
 
             A statement of the goals and objectives to be accomplished during the period covered by the plan.
 
-            (B) __Statement of needs.—__ 
+            (B)  __Statement of needs__  __.—__ 
 
             A statement of the housing needs of the low-income families served by the Department and the means by which those needs will be addressed during the period covered by the plan, including—
 
@@ -73,7 +73,7 @@
 
                 (ii) a description of the estimated housing needs for all families to be served by the Department.
 
-            (C) __Financial resources.—__ 
+            (C)  __Financial resources__  __.—__ 
 
             An operating budget for the Department of Hawaiian Home Lands, in a form prescribed by the Secretary, that includes—
 
@@ -87,7 +87,7 @@
 
                     (II) administrative expenses.
 
-            (D) __Affordable housing resources.—__ 
+            (D)  __Affordable housing resources__  __.—__ 
 
             A statement of the affordable housing resources currently available at the time of the submittal of the plan and to be made available during the period covered by the plan, including—
 
@@ -175,7 +175,7 @@
 
                 (xi) a description of the entities that will carry out the activities under the plan, including the organizational capacity and key personnel of the entities.
 
-            (E) __Certification of compliance.—__ 
+            (E)  __Certification of compliance__  __.—__ 
 
             Evidence of compliance that shall include, as appropriate—
 

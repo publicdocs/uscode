@@ -185,6 +185,10 @@
 
 ([Pub. L. 93–638, title I, § 106][/us/pl/93/638/s106], as added [Pub. L. 100–472, title II, § 205][/us/pl/100/472/s205], Oct. 5, 1988, [102 Stat. 2292][/us/stat/102/2292]; amended [Pub. L. 101–301, § 2(a)(8)][/us/pl/101/301/s2/a/8], (9), May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 101–644, title II, § 203(a)][/us/pl/101/644/s203/a], Nov. 29, 1990, [104 Stat. 4666][/us/stat/104/4666]; [Pub. L. 103–413, title I, § 102(14)][/us/pl/103/413/s102/14]–(19), Oct. 25, 1994, [108 Stat. 4257–4259][/us/stat/108/4257-4259]; [Pub. L. 105–362, title VIII, § 801(g)][/us/pl/105/362/s801/g], Nov. 10, 1998, [112 Stat. 3288][/us/stat/112/3288]; [Pub. L. 106–260, § 9][/us/pl/106/260/s9], Aug. 18, 2000, [114 Stat. 733][/us/stat/114/733].)
 
+ __References in Text__ 
+
+    This subchapter, referred to in subsecs. (a)(1), (3), (b), (c), (k)(11), and (n), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
+
  __Prior Provisions__ 
 
     A prior [section 106 of Pub. L. 93–638][/us/pl/93/638/s106] was renumbered section 105 by [Pub. L. 100–472][/us/pl/100/472] and is classified to [section 450j of this title][/us/usc/t25/s450j].
@@ -249,6 +253,9 @@
 [/us/stat/112/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3288
 [/us/pl/106/260/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs9
 [/us/stat/114/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F733
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
+[/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/93/638/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs106
 [/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
 [/us/usc/t25/s450j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j

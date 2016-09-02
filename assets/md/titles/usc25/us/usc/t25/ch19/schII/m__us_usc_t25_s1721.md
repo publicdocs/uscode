@@ -71,7 +71,7 @@
 
 > “SEC. 2. __CONGRESSIONAL FINDINGS AND DECLARATION OF POLICY.__ 
 
->     “(a) __Findings and Policy.—__ 
+>     “(a)  __Findings and Policy__  __.—__ 
 
 >     Congress hereby finds and declares that:
 
@@ -87,7 +87,7 @@
 
 >         “(6) Since 1820, the State of Maine has provided special services to the Indians residing within its borders, including the members of the Aroostook Band of Micmacs. During this same period, the United States provided few special services to the Band and repeatedly denied that it had jurisdiction over or responsibility for the Indian groups in Maine. In view of this provision of special services by the State of Maine, requiring substantial expenditures by the State of Maine and made by the State of Maine without being required to do so by Federal law, it is the intent of Congress that the State of Maine not be required further to contribute directly to this settlement.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this Act to—
 
@@ -123,11 +123,11 @@
 
 > “SEC. 4. __AROOSTOOK BAND OF MICMACS LAND ACQUISITION AND PROPERTY TAX FUNDS.__ 
 
->     “(a) __Land Acquisition Fund.—__ 
+>     “(a)  __Land Acquisition Fund__  __.—__ 
 
 >     There is hereby established in the Treasury of the United States a fund to be known as the Aroostook Band of Micmacs Land Acquisition Fund, into which $900,000 shall be deposited by the Secretary following the appropriation of sums authorized by section 10.
 
->     “(b) __Band Tax Fund.—__ 
+>     “(b)  __Band Tax Fund__  __.—__ 
 
 >         (1) There is hereby established in the Treasury of the United States a fund to be known as the Aroostook Band of Micmacs Tax Fund, into which shall be deposited $50,000 in accordance with the provisions of this Act.
 
@@ -147,7 +147,7 @@
 
 >             “(C) which have been certified by the Commissioner of Finance in the State of Maine as valid claims that meet the requirements of this paragraph.
 
->     “(c) __Source for Certain Payments.—__ 
+>     “(c)  __Source for Certain Payments__  __.—__ 
 
 >     Notwithstanding any other provision of law, if—
 
@@ -157,17 +157,17 @@
 
 >         the deficiency shall be paid by the Band only from income-producing property owned by the Band which is not held in trust for the Band by the United States and the Band shall not be required to pay such tax, payment, or fee (or any interest or penalty thereon) from any other source.
 
->     “(d) __Procedure for Filing and Payment of Claims.—__ 
+>     “(d)  __Procedure for Filing and Payment of Claims__  __.—__ 
 
 >     The Secretary shall, after consultation with the Commissioner of Finance of the State of Maine, and the Band, prescribe written procedures governing the filing and payment of claims under this section.
 
 > “SEC. 5. __AROOSTOOK BAND TRUST LANDS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to the provisions of section 4, the Secretary is authorized and directed to expend, at the request of the Band, the principal of, and income accruing on, the Land Acquisition Fund for the purposes of acquiring land or natural resources for the Band and for no other purposes. Land or natural resources acquired within the State of Maine with funds expended under the authority of this subsection shall be held in trust by the United States for the benefit of the Band.
 
->     “(b) __Alienation.—__ 
+>     “(b)  __Alienation__  __.—__ 
 
 >         (1)
 
@@ -199,13 +199,13 @@
 
 >             “(F) sold, only if at the time of sale the Secretary has entered into an option agreement or contract of sale to purchase other lands of approximate equal value.
 
->     “(c) __Condemnation by State of Maine and Political Subdivisions Thereof.—__ 
+>     “(c)  __Condemnation by State of Maine and Political Subdivisions Thereof__  __.—__ 
 
 >         (1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Band may be condemned for public purposes by the State of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreed upon in writing between the State and such Band after the date of enactment of this Act \[Nov. 26, 1991\].
 
 >         “(2) The consent of the United States is hereby given to the State of Maine to further amend the Micmac Settlement Act for the purpose of embodying the agreement described in paragraph (1).
 
->     “(d) __Acquisition.—__ 
+>     “(d)  __Acquisition__  __.—__ 
 
 >         (1)
 
@@ -233,29 +233,29 @@
 
 > “SEC. 6. __LAWS APPLICABLE.__ 
 
->     “(a) __Federal Recognition.—__ 
+>     “(a)  __Federal Recognition__  __.—__ 
 
 >     Federal recognition is hereby extended to the Aroostook Band of Micmacs. The Band shall be eligible to receive all of the financial benefits which the United States provides to Indians and Indian tribes to the same extent, and subject to the same eligibility criteria, generally applicable to other federally recognized Indians and Indian tribes.
 
->     “(b) __Application of Federal Law.—__ 
+>     “(b)  __Application of Federal Law__  __.—__ 
 
 >     For the purposes of application of Federal law, the Band and its lands shall have the same status as other tribes and their lands accorded Federal recognition under the terms of the Maine Indian Claims Settlement Act of 1980 \[[25 U.S.C. 1721][/us/usc/t25/s1721] et seq.\].
 
->     “(c) __Eligibility for Special Services.—__ 
+>     “(c)  __Eligibility for Special Services__  __.—__ 
 
 >     Notwithstanding any other provision of law authorizing the provision of special programs and services by the United States to Indians because of their status as Indians, any member of the Band in Aroostook County, Maine, shall be eligible for such services without regard to the existence of a reservation or the residence of members of the Band on or near a reservation.
 
->     “(d) __Agreements With State Regarding Jurisdiction.—__ 
+>     “(d)  __Agreements With State Regarding Jurisdiction__  __.—__ 
 
 >     The State of Maine and the Band are authorized to execute agreements regarding the jurisdiction of the State of Maine over lands owned by, or held in trust for the benefit of, the Band or any member of the Band. The consent of the United States is hereby given to the State of Maine to amend the Micmac Settlement Act for this purpose: Provided, That such amendment is made with the agreement of the Aroostook Band of Micmacs.
 
 > “SEC. 7. __TRIBAL ORGANIZATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Band may organize for its common welfare and adopt an appropriate instrument in writing to govern the affairs of the Band when acting in its governmental capacity. Such instrument and any amendments thereto must be consistent with the terms of this Act. The Band shall file with the Secretary a copy of its organic governing document and any amendments thereto.
 
->     “(b) __Members.—__ 
+>     “(b)  __Members__  __.—__ 
 
 >     For purposes of benefits provided by reason of this Act, only persons who are citizens of the United States may be considered members of the Band except persons who, as of the date of enactment of this Act \[Nov. 26, 1991\], are enrolled members on the Band’s existing membership roll, and direct lineal descendants of such members. Membership in the Band shall be subject to such further qualifications as may be provided by the Band in its organic governing document, or amendments thereto, subject to approval by the Secretary.
 
@@ -265,11 +265,11 @@
 
 > “SEC. 9. __FEDERAL FINANCIAL AID PROGRAMS UNAFFECTED BY PAYMENTS UNDER THIS ACT.__ 
 
->     “(a) __State of Maine.—__ 
+>     “(a)  __State of Maine__  __.—__ 
 
 >     No payments to be made for the benefit of the Band pursuant to this Act shall be considered by any agency or department of the United States in determining or computing the eligibility of the State of Maine for participation in any financial aid program of the United States.
 
->     “(b) __Band and Members of the Band.—__ 
+>     “(b)  __Band and Members of the Band__  __.—__ 
 
 >         (1) The eligibility for, or receipt of, payments from the State of Maine by the Band or any of its members shall not be considered by any department or agency of the United States in determining the eligibility of, or computing payments to, the Band or any of the members of the Band under any Federal financial aid program.
 

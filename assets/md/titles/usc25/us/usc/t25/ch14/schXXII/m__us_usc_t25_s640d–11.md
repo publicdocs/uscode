@@ -41,7 +41,7 @@
 
             (A) all powers and duties of the Bureau of Indian Affairs derived from [Public Law 99–190][/us/pl/99/190] (99 Stat. at 1236) that relate to the relocation of members of the Navajo Tribe from lands partitioned to the Hopi Tribe, and
 
-            (B) all funds appropriated for activities relating to such relocation pursuant to [Public Law 99–190][/us/pl/99/190] (99 Stat. at 1236): Provided, That such funds shall be used by the Commissioner for the purpose for which such funds were appropriated to the Bureau of Indian Affairs. (B)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period followed by the designation “(B)” probably should not appear. </sup></sup>  : Provided further, That for administrative purposes such funds shall be maintained in a separate account.
+            (B) all funds appropriated for activities relating to such relocation pursuant to [Public Law 99–190][/us/pl/99/190] (99 Stat. at 1236): Provided, That such funds shall be used by the Commissioner for the purpose for which such funds were appropriated to the Bureau of Indian Affairs. (B)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period and designation “(B)” probably should not appear. </sup></sup>  : Provided further, That for administrative purposes such funds shall be maintained in a separate account.
 
     (d) __Powers of Commissioner__ 
 

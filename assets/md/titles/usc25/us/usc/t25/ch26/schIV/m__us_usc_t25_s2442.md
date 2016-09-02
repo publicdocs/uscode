@@ -31,7 +31,7 @@
 
         (2) The Secretary shall ensure that tribal efforts under this subsection are coordinated with appropriate Federal law enforcement agencies, including the United States Customs and Border Protection, the Bureau of Immigration and Customs Enforcement, and the Drug Enforcement Administration.
 
-        (3) __Authorization of appropriations.—__ 
+        (3)  __Authorization of appropriations__  __.—__ 
 
         There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2011 through 2015.
 

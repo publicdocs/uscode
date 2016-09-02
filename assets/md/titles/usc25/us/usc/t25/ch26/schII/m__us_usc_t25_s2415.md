@@ -51,7 +51,7 @@
 
 [Pub. L. 101–630, title V, § 509(b)][/us/pl/101/630/s509/b], (c), Nov. 28, 1990, [104 Stat. 4567][/us/stat/104/4567], provided that:
 
->     “(b) __Lease of Facilities.—__ 
+>     “(b)  __Lease of Facilities__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting under section 4209(c) and 4227(b) of the Indian Alcohol and Substance Abuse Prevention and Treatment Act \[of 1986, [25 U.S.C. 2415(c)][/us/usc/t25/s2415/c], 2474(b)\], may—
 
@@ -59,7 +59,7 @@
 
 >         “(2) if the Secretary enters into a lease under paragraph (1) for at least 40 years, renovate the facilities to the extent needed.
 
->     “(c) __Self-Determination Contracts for Staffing and Operation.—__ 
+>     “(c)  __Self-Determination Contracts for Staffing and Operation__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting under section 102 of the Indian Self-Determination and Education Assistance Act \[[25 U.S.C. 450f][/us/usc/t25/s450f]\], may contract with the Tanana Chiefs Conference to staff and operate the facilities leased under subsection (b), without a request of an Indian tribe, and without regard to the definition and proviso in section 4(l) of that Act \[[25 U.S.C. 450b][/us/usc/t25/s450b](l)\].”
 

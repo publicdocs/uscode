@@ -55,11 +55,11 @@
 
 [Pub. L. 106–568, title VI, § 611][/us/pl/106/568/s611], Dec. 27, 2000, [114 Stat. 2912][/us/stat/114/2912], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided by subsection (b), this title \[see Short Title note below\] shall take effect on the date of the enactment of this Act \[Dec. 27, 2000\].
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Sections 4, 5, 6, 7, and 8 \[probably means sections 604 to 608 of title VI of [Pub. L. 106–568][/us/pl/106/568], which are classified to sections 1778b to 1778f of this title\] shall take effect on the date on which the Secretary determines the following conditions have been met:
 

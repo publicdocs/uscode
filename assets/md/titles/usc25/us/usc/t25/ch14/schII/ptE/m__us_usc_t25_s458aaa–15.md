@@ -29,6 +29,8 @@
 
     [Section 314 of Pub. L. 101–512][/us/pl/101/512/s314], referred to in subsec. (a), is [section 314 of Pub. L. 101–512][/us/pl/101/512/s314], as amended, which is set out as a note under [section 450f of this title][/us/usc/t25/s450f].
 
+    Part A of this subchapter, referred to in subsec. (b), was in the original “title I”, meaning title I of [Pub. L. 93–638][/us/pl/93/638], known as the Indian Self-Determination Act, which is classified principally to part A (§ 450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t25/ch14/schII/ptE/m__us_usc_t25_s458aaa–14.md) | [Next](./../../../../../..//us/usc/t25/ch14/schII/ptE/m__us_usc_t25_s458aaa–16.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%9315)
@@ -43,5 +45,7 @@
 [/us/pl/101/512/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs314
 [/us/pl/101/512/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs314
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 
 

@@ -59,6 +59,8 @@
 
  __References in Text__ 
 
+    This subchapter, referred to in subsecs. (a)(1) and (f)(1), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
+
     [Section 450j–1(a)(3) of this title][/us/usc/t25/s450j–1/a/3], referred to in subsec. (d), was repealed and a new subsec. (a)(3) of section 450j–1 was added by [Pub. L. 103–413, title I, § 102(14)(C)][/us/pl/103/413/s102/14/C], Oct. 25, 1994, [108 Stat. 4257][/us/stat/108/4257]. See [section 450j–1(a)(4) of this title][/us/usc/t25/s450j–1/a/4].
 
  __Amendments__ 
@@ -97,6 +99,9 @@
 [/us/stat/104/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4665
 [/us/pl/103/413/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F2
 [/us/stat/108/4250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4250
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
+[/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s450j–1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%E2%80%931%2Fa%2F3
 [/us/pl/103/413/s102/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F413%2Fs102%2F14%2FC
 [/us/stat/108/4257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4257
