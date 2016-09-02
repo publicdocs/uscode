@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s857a, 858.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s860.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs859)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s857–20.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s860.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs859)
 
 ## § 859. Repealed. [June 16, 1942, ch. 413, § 19][/us/act/1942-06-16/ch413/s19], [56 Stat. 369][/us/stat/56/369], eff. June 1, 1942
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s857a, 858.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s860.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs859)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s857–20.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s860.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs859)
 
 ----------
 ----------

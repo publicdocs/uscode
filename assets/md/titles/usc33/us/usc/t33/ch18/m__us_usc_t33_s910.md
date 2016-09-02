@@ -15,7 +15,7 @@
 
 ## § 910. Determination of pay
 
-Except as otherwise provided in this chapter, the average weekly wage of the injured employee at the time of the injury shall be taken as the basis upon which to compute compensation and shall be determined as follows:
+    Except as otherwise provided in this chapter, the average weekly wage of the injured employee at the time of the injury shall be taken as the basis upon which to compute compensation and shall be determined as follows:
 
     (a) If the injured employee shall have worked in the employment in which he was working at the time of the injury, whether for the same or another employer, during substantially the whole of the year immediately preceding his injury, his average annual earnings shall consist of three hundred times the average daily wage or salary for a six-day worker and two hundred and sixty times the average daily wage or salary for a five-day worker, which he shall have earned in such employment during the days when so employed.
 

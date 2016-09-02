@@ -15,7 +15,7 @@
 
 ## § 1475. Consultation procedure
 
-Before taking any measure under [section 1474 of this title][/us/usc/t33/s1474], the Secretary shall—
+    Before taking any measure under [section 1474 of this title][/us/usc/t33/s1474], the Secretary shall—
 
     (1) consult, through the Secretary of State, with other countries affected by the marine casualty, and particularly with the flag country of any ship involved;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch37/m__us_usc_t33_s2401 to 2410.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch38)
+[Previous](./../../../..//us/usc/t33/ch37/m__us_usc_t33_ch37.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch38)
 
 ## CHAPTER 38—DUMPING OF MEDICAL WASTE BY PUBLIC VESSELS
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2501" data-uslm-ref="/us/usc/t33/s2501">2501.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2502" data-uslm-ref="/us/usc/t33/s2502">2502.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2503" data-uslm-ref="/us/usc/t33/s2503">2503.</a>  </td>
 
     <td> Prohibition.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2504" data-uslm-ref="/us/usc/t33/s2504">2504.</a>  </td>
 
     <td> Guidance.  </td>
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch37/m__us_usc_t33_s2401 to 2410.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch38)
+[Previous](./../../../..//us/usc/t33/ch37/m__us_usc_t33_ch37.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch38)
 
 ----------
 ----------

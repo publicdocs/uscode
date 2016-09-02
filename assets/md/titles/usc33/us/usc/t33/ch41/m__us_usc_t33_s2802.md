@@ -15,7 +15,7 @@
 
 ## § 2802. Definitions
 
-For the purposes of this chapter, the term—
+    For the purposes of this chapter, the term—
 
     (1) “Administrator” means the Administrator of the Environmental Protection Agency;
 

@@ -15,7 +15,7 @@
 
 ## § 892d. Authorization of appropriations
 
-There are authorized to be appropriated to the Administrator the following:
+    There are authorized to be appropriated to the Administrator the following:
 
     (1)
 

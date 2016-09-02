@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s741, 742.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s744.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs743)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s736.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s744.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs743)
 
 ## § 743. Lighthouse districts
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s741, 742.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s744.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs743)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s736.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s744.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs743)
 
 ----------
 ----------

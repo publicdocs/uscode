@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s711 to 715.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s717.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs716)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_ch16.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s717.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs716)
 
 ## § 716. Repealed. [Aug. 4, 1949, ch. 393, § 20][/us/act/1949-08-04/ch393/s20], [63 Stat. 561][/us/stat/63/561]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s711 to 715.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s717.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs716)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_ch16.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s717.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs716)
 
 ----------
 ----------

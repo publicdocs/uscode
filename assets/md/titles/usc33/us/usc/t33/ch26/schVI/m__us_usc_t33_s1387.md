@@ -15,7 +15,7 @@
 
 ## § 1387. Authorization of appropriations
 
-There is authorized to be appropriated to carry out the purposes of this subchapter the following sums:
+    There is authorized to be appropriated to carry out the purposes of this subchapter the following sums:
 
     (1) $1,200,000,000 per fiscal year for each of fiscal years 1989 and 1990;
 

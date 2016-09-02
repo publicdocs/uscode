@@ -1165,11 +1165,17 @@
 
                     (III) __Limitation on transfers__ 
 
-                        (aa) Grants to nongovernmental entities    In the case of funds transferred to a Federal or State agency under subclause (II), the agency shall not make 1 or more grants or cooperative agreements to a nongovernmental entity if the total amount provided to the entity would equal or exceed 10 percent of the total amount provided to the agency for that particular project or program, unless the 1 or more grants have been reported in accordance with item (bb).
+                        (aa) __Grants to nongovernmental entities__ 
 
-                        (bb) Reporting of grantees    At least 30 days prior to making a grant or entering into a cooperative agreement described in item (aa), the name of each grantee, including the amount and purpose of each grant or cooperative agreement, shall be published in the Federal Register and delivered to the congressional committees listed in subparagraph (C)(vii)(VII)(ff).
+                            In the case of funds transferred to a Federal or State agency under subclause (II), the agency shall not make 1 or more grants or cooperative agreements to a nongovernmental entity if the total amount provided to the entity would equal or exceed 10 percent of the total amount provided to the agency for that particular project or program, unless the 1 or more grants have been reported in accordance with item (bb).
 
-                        (cc) Annual reporting of grantees    Annually, the name of each grantee, including the amount and purposes of each grant or cooperative agreement, shall be published in the Federal Register and delivered to Congress as part of the report submitted pursuant to subparagraph (C)(vii)(VII).
+                        (bb) __Reporting of grantees__ 
+
+                            At least 30 days prior to making a grant or entering into a cooperative agreement described in item (aa), the name of each grantee, including the amount and purpose of each grant or cooperative agreement, shall be published in the Federal Register and delivered to the congressional committees listed in subparagraph (C)(vii)(VII)(ff).
+
+                        (cc) __Annual reporting of grantees__ 
+
+                            Annually, the name of each grantee, including the amount and purposes of each grant or cooperative agreement, shall be published in the Federal Register and delivered to Congress as part of the report submitted pursuant to subparagraph (C)(vii)(VII).
 
                     (IV) __Project and program limitation__ 
 

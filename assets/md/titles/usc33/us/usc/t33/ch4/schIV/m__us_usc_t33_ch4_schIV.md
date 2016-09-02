@@ -11,16 +11,82 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch4/schIII/m__us_usc_t33_s271, 272.md) | [Next](./../../../../..//us/usc/t33/ch4/schIV/m__us_usc_t33_s281 to 293.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch4%2FschIV)
+[Previous](./../../../../..//us/usc/t33/ch4/schIII/m__us_usc_t33_ch4_schIII.md) | [Next](./../../../../..//us/usc/t33/ch4/schV/m__us_usc_t33_ch4_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch4%2FschIV)
 
 ### SUBCHAPTER IV—STEERING AND SAILING RULES
 
+§§ 281 to 293. __Repealed.__  __[__  __Pub. L. 96–591, § 8(b)__  __][/us/pl/96/591/s8/b]__  __,__  __Dec. 24, 1980__  __,__  __[__  __94 Stat. 3435__  __][/us/stat/94/3435]__ 
+
+    Section 281, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 648][/us/stat/28/648], related to steering and sailing rules for sailing vessels approaching one another.
+
+    Section 282, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 648][/us/stat/28/648], related to steam vessels meeting end on.
+
+    Section 283, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 648][/us/stat/28/648], related to steam vessels crossing.
+
+    Section 284, acts [Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 648][/us/stat/28/648]; Nov. 5, 1966, [Pub. L. 89–764, § 3][/us/pl/89/764/s3], [80 Stat. 1313][/us/stat/80/1313], related to steam and sailing vessels meeting.
+
+    Section 285, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 649][/us/stat/28/649], related to maintenance of course and speed by vessel having right-of-way.
+
+    Section 286, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 649][/us/stat/28/649], related to duty of steam vessel to slacken speed.
+
+    Section 287, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 649][/us/stat/28/649], related to duty of overtaking vessel to keep out of the way.
+
+    Section 288, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 649][/us/stat/28/649], related to whistle signals of steam vessels to indicate course.
+
+    Section 289, acts [Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 649][/us/stat/28/649]; Nov. 5, 1966, [Pub. L. 89–764, § 4][/us/pl/89/764/s4], [80 Stat. 1313][/us/stat/80/1313], related to right-of-way when steam vessels meet in narrow channels having current and certain rivers, etc.
+
+    Section 290, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 649][/us/stat/28/649], related to steam vessels passing in narrow channels and slackening speed when meeting in narrow channels.
+
+    Section 291, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 649][/us/stat/28/649], related to dissent to or misunderstanding of signal given and duty to reduce speed.
+
+    Section 292, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 649][/us/stat/28/649], related to departure from rules to avert immediate danger.
+
+    Section 293, [act Feb. 8, 1895, ch. 64, § 1][/us/act/1895-02-08/ch64/s1], [28 Stat. 649][/us/stat/28/649], related to usual additional precautions generally required.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Mar. 1, 1983, pursuant to 47 F.R. 15135, Apr. 8, 1982, see [section 7 of Pub. L. 96–591][/us/pl/96/591/s7], set out as an Effective Date of 1980 Amendment note under [section 1604 of this title][/us/usc/t33/s1604].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch4/schIII/m__us_usc_t33_s271, 272.md) | [Next](./../../../../..//us/usc/t33/ch4/schIV/m__us_usc_t33_s281 to 293.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch4%2FschIV)
+[Previous](./../../../../..//us/usc/t33/ch4/schIII/m__us_usc_t33_ch4_schIII.md) | [Next](./../../../../..//us/usc/t33/ch4/schV/m__us_usc_t33_ch4_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch4%2FschIV)
 
 ----------
 ----------
 
+[/us/pl/96/591/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591%2Fs8%2Fb
+[/us/stat/94/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3435
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F648
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F648
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F648
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F648
+[/us/pl/89/764/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F764%2Fs3
+[/us/stat/80/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1313
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F649
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F649
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F649
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F649
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F649
+[/us/pl/89/764/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F764%2Fs4
+[/us/stat/80/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1313
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F649
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F649
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F649
+[/us/act/1895-02-08/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64%2Fs1
+[/us/stat/28/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F649
+[/us/pl/96/591/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591%2Fs7
+[/us/usc/t33/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1604
 
 

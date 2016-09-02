@@ -15,7 +15,7 @@
 
 ## § 1601. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) “vessel” means every description of watercraft, including nondisplacement craft and seaplanes, used or capable of being used as a means of transportation on water; and
 

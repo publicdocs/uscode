@@ -15,7 +15,7 @@
 
 ## § 909. Compensation for death
 
-If the injury causes death, the compensation therefore shall be known as a death benefit and shall be payable in the amount and to or for the benefit of the persons following:
+    If the injury causes death, the compensation therefore shall be known as a death benefit and shall be payable in the amount and to or for the benefit of the persons following:
 
     (a) Reasonable funeral expenses not exceeding $3,000.
 

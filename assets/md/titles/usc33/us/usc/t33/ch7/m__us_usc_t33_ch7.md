@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch6/m__us_usc_t33_s361 to 368.md) | [Next](./../../../..//us/usc/t33/ch7/m__us_usc_t33_s381.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch7)
+[Previous](./../../../..//us/usc/t33/ch6/m__us_usc_t33_ch6.md) | [Next](./../../../..//us/usc/t33/ch7/m__us_usc_t33_s381.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch7)
 
 ## CHAPTER 7—REGULATIONS FOR THE SUPPRESSION OF PIRACY
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs381" data-uslm-ref="/us/usc/t33/s381">381.</a>  </td>
 
     <td> Use of public vessels to suppress piracy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs382" data-uslm-ref="/us/usc/t33/s382">382.</a>  </td>
 
     <td> Seizure of piratical vessels generally.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs383" data-uslm-ref="/us/usc/t33/s383">383.</a>  </td>
 
     <td> Resistance of pirates by merchant vessels.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs384" data-uslm-ref="/us/usc/t33/s384">384.</a>  </td>
 
     <td> Condemnation of piratical vessels.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs385" data-uslm-ref="/us/usc/t33/s385">385.</a>  </td>
 
     <td> Seizure and condemnation of vessels fitted out for piracy.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs386" data-uslm-ref="/us/usc/t33/s386">386.</a>  </td>
 
     <td> Commissioning private vessels for seizure of piratical vessels.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 387.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs387" data-uslm-ref="/us/usc/t33/s387">387.</a>  </td>
 
     <td> Duties of officers of customs and marshals as to seizure.  </td>
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch6/m__us_usc_t33_s361 to 368.md) | [Next](./../../../..//us/usc/t33/ch7/m__us_usc_t33_s381.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch7)
+[Previous](./../../../..//us/usc/t33/ch6/m__us_usc_t33_ch6.md) | [Next](./../../../..//us/usc/t33/ch7/m__us_usc_t33_s381.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch7)
 
 ----------
 ----------

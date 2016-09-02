@@ -15,7 +15,7 @@
 
 ## § 2701. Definitions
 
-For the purposes of this Act, the term—
+    For the purposes of this Act, the term—
 
     (1) “act of God” means an unanticipated grave natural disaster or other natural phenomenon of an exceptional, inevitable, and irresistible character the effects of which could not have been prevented or avoided by the exercise of due care or foresight;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch21/m__us_usc_t33_s1051 to 1053, 1061 to 1094.md) | [Next](./../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_ch22_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch22)
+[Previous](./../../../..//us/usc/t33/ch21/m__us_usc_t33_ch21.md) | [Next](./../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_ch22_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch22)
 
 ## CHAPTER 22—SEA GRANT COLLEGES AND MARINE SCIENCE DEVELOPMENT
 
@@ -33,7 +33,7 @@ SUBCHAPTER I—MARINE RESOURCES AND ENGINEERING DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1101" data-uslm-ref="/us/usc/t33/s1101">1101.</a>  </td>
 
     <td> Congressional declaration of policy and objectives.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—MARINE RESOURCES AND ENGINEERING DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1102" data-uslm-ref="/us/usc/t33/s1102">1102.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—MARINE RESOURCES AND ENGINEERING DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 1103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1103" data-uslm-ref="/us/usc/t33/s1103">1103.</a>  </td>
 
     <td> Executive responsibilities; utilization of staff, interagency, and non-Government advisory arrangements; consultation with agencies; solicitation of views of non-Federal agencies.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—MARINE RESOURCES AND ENGINEERING DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 1104, 1105.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1104" data-uslm-ref="/us/usc/t33/s1104">1104</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1105" data-uslm-ref="/us/usc/t33/s1105">1105.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—MARINE RESOURCES AND ENGINEERING DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 1106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1106" data-uslm-ref="/us/usc/t33/s1106">1106.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—MARINE RESOURCES AND ENGINEERING DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 1107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1107" data-uslm-ref="/us/usc/t33/s1107">1107.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—MARINE RESOURCES AND ENGINEERING DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 1108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1108" data-uslm-ref="/us/usc/t33/s1108">1108.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1121" data-uslm-ref="/us/usc/t33/s1121">1121.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1122" data-uslm-ref="/us/usc/t33/s1122">1122.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1123" data-uslm-ref="/us/usc/t33/s1123">1123.</a>  </td>
 
     <td> National sea grant college program.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1124" data-uslm-ref="/us/usc/t33/s1124">1124.</a>  </td>
 
     <td> Program or project grants and contracts.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1124a, 1125.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1124a" data-uslm-ref="/us/usc/t33/s1124a">1124a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1125" data-uslm-ref="/us/usc/t33/s1125">1125.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1126" data-uslm-ref="/us/usc/t33/s1126">1126.</a>  </td>
 
     <td> Sea grant colleges and sea grant institutes.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1127" data-uslm-ref="/us/usc/t33/s1127">1127.</a>  </td>
 
     <td> Fellowships.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1128" data-uslm-ref="/us/usc/t33/s1128">1128.</a>  </td>
 
     <td> National Sea Grant Advisory Board.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1129.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1129" data-uslm-ref="/us/usc/t33/s1129">1129.</a>  </td>
 
     <td> Interagency cooperation.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1130.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1130" data-uslm-ref="/us/usc/t33/s1130">1130.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
   <tr>
 
-    <td> 1131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1131" data-uslm-ref="/us/usc/t33/s1131">1131.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -187,7 +187,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch21/m__us_usc_t33_s1051 to 1053, 1061 to 1094.md) | [Next](./../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_ch22_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch22)
+[Previous](./../../../..//us/usc/t33/ch21/m__us_usc_t33_ch21.md) | [Next](./../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_ch22_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch22)
 
 ----------
 ----------

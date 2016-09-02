@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2301, 2302.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2304.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2303)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2300.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2304.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2303)
 
 ## § 2303. Historical properties
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2301, 2302.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2304.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2303)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2300.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2304.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2303)
 
 ----------
 ----------

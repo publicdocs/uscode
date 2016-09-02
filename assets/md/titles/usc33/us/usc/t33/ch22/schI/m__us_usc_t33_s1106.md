@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_s1104, 1105.md) | [Next](./../../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_s1107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1106)
+[Previous](./../../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_s1103.md) | [Next](./../../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_s1107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1106)
 
 ## § 1106. Reports to Congress
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_s1104, 1105.md) | [Next](./../../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_s1107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1106)
+[Previous](./../../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_s1103.md) | [Next](./../../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_s1107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1106)
 
 ----------
 ----------

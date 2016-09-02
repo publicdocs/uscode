@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854a–1.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854b, 854c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a%E2%80%932)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854a–1.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s855.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a%E2%80%932)
 
 ## § 854a–2. Pay and allowances; date of acceptance of promotion
 
@@ -29,9 +29,15 @@
 
     Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318], set out as a note under [section 851 of this title][/us/usc/t33/s851]. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director of Survey. Subsequently, Environmental Science Services Administration abolished, National Oceanic and Atmospheric Administration established, and Commissioned Officer Corps of ESSA redesignated Commissioned Officer Corps of NOAA by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090], set out in the Appendix to Title 5, Government Organization and Employees. For further details, see note set out under [section 851 of this title][/us/usc/t33/s851].
 
+§§ 854b, 854c. __Repealed.__  __[__  __June 3, 1948, ch. 390, § 22(a)__  __][/us/act/1948-06-03/ch390/s22/a]__  __, formerly § 21(a),__  __[__  __62 Stat. 300__  __][/us/stat/62/300]__  __; renumbered § 22(a),__  __Sept. 14, 1961__  __,__  __[__  __Pub. L. 87–233, § 1(f)__  __][/us/pl/87/233/s1/f]__  __,__  __[__  __75 Stat. 506__  __][/us/stat/75/506]__ 
+
+    Section 854b, [act Jan. 19, 1942, ch. 6, § 3][/us/act/1942-01-19/ch6/s3], [56 Stat. 7][/us/stat/56/7], related to composition, powers and duties of a Personnel Board.
+
+    Section 854c, [act Jan. 19, 1942, ch. 6, § 4][/us/act/1942-01-19/ch6/s4], [56 Stat. 7][/us/stat/56/7], related to submission of reports of the Personnel Boards to the President.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854a–1.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854b, 854c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a%E2%80%932)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854a–1.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s855.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a%E2%80%932)
 
 ----------
 ----------
@@ -49,5 +55,13 @@
 [/us/usc/t33/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs851
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t33/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs851
+[/us/act/1948-06-03/ch390/s22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch390%2Fs22%2Fa
+[/us/stat/62/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F300
+[/us/pl/87/233/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F233%2Fs1%2Ff
+[/us/stat/75/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F506
+[/us/act/1942-01-19/ch6/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-19%2Fch6%2Fs3
+[/us/stat/56/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F7
+[/us/act/1942-01-19/ch6/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-19%2Fch6%2Fs4
+[/us/stat/56/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F7
 
 

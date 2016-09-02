@@ -199,11 +199,9 @@
 
             Disapproval of an application for a modification under subsection (g) of this section shall not stay the requirement that the person seeking such modification comply with all applicable effluent limitations under this chapter.
 
-        (4) __Deadline for subsection__ 
+        (4) __Deadline for subsection (g) decision.—__ 
 
-            (g) __decision.—__ 
-
-            An application for a modification with respect to a pollutant filed under subsection (g) of this section must be approved or disapproved not later than 365 days after the date of such filing; except that in any case in which a petition for listing such pollutant as a pollutant for which modifications are authorized under such subsection is approved, such application must be approved or disapproved not later than 365 days after the date of approval of such petition.
+        An application for a modification with respect to a pollutant filed under subsection (g) of this section must be approved or disapproved not later than 365 days after the date of such filing; except that in any case in which a petition for listing such pollutant as a pollutant for which modifications are authorized under such subsection is approved, such application must be approved or disapproved not later than 365 days after the date of approval of such petition.
 
         (5) __Extension of application deadline.—__ 
 

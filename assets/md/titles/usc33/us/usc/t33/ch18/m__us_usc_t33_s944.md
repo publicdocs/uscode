@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s943.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s945 to 947.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944)
+[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s943.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s948.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944)
 
 ## § 944. Special fund
 
@@ -153,9 +153,21 @@
 
     For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, [64 Stat. 1280][/us/stat/64/1280], 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
 
+§§ 945 to 947. __Repealed.__  __[__  __Pub. L. 98–426, § 25__  __][/us/pl/98/426/s25]__  __,__  __Sept. 28, 1984__  __,__  __[__  __98 Stat. 1654__  __][/us/stat/98/1654]__ 
+
+    Section 945, [act Mar. 4, 1927, ch. 509, § 45][/us/act/1927-03-04/ch509/s45], [44 Stat. 1445][/us/stat/44/1445], provided for creation of a fund to provide for payment of all expenses connected with administration of this chapter. See [section 944 of this title][/us/usc/t33/s944].
+
+    Section 946, [act Mar. 4, 1927, ch. 509, § 46][/us/act/1927-03-04/ch509/s46], [44 Stat. 1445][/us/stat/44/1445], appropriated $250,000 to be available for expenses of administration of this chapter for fiscal years ending June 30, 1927, and June 30, 1928.
+
+    Section 947, [act Mar. 4, 1927, ch. 509, § 47][/us/act/1927-03-04/ch509/s47], [44 Stat. 1445][/us/stat/44/1445], provided for availability of appropriations for salaries and contingent expenses in administration of this chapter.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 28, 1984, see [section 28(e)(1) of Pub. L. 98–426][/us/pl/98/426/s28/e/1], set out as an Effective Date of 1984 Amendment note under [section 901 of this title][/us/usc/t33/s901].
+
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s943.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s945 to 947.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944)
+[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s943.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s948.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944)
 
 ----------
 ----------
@@ -215,5 +227,16 @@
 [/us/pl/92/576/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs22
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
+[/us/pl/98/426/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs25
+[/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
+[/us/act/1927-03-04/ch509/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs45
+[/us/stat/44/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1445
+[/us/usc/t33/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944
+[/us/act/1927-03-04/ch509/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs46
+[/us/stat/44/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1445
+[/us/act/1927-03-04/ch509/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs47
+[/us/stat/44/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1445
+[/us/pl/98/426/s28/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs28%2Fe%2F1
+[/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
 
 

@@ -15,7 +15,7 @@
 
 ## § 3304. Limitations on statutory construction
 
-Nothing in this chapter shall be construed as—
+    Nothing in this chapter shall be construed as—
 
     (1) creating any liability of the United States or its officers or employees for the recovery of damages caused by an action or failure to act; or
 

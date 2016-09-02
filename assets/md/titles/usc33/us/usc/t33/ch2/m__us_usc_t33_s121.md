@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch2/m__us_usc_t33_s101 to 113.md) | [Next](./../../../..//us/usc/t33/ch2/m__us_usc_t33_s131.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs121)
+[Previous](./../../../..//us/usc/t33/ch2/m__us_usc_t33_ch2.md) | [Next](./../../../..//us/usc/t33/ch2/m__us_usc_t33_s131.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs121)
 
 ## § 121. Repealed. [Oct. 11, 1951, ch. 495, § 5][/us/act/1951-10-11/ch495/s5], [65 Stat. 407][/us/stat/65/407]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch2/m__us_usc_t33_s101 to 113.md) | [Next](./../../../..//us/usc/t33/ch2/m__us_usc_t33_s131.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs121)
+[Previous](./../../../..//us/usc/t33/ch2/m__us_usc_t33_ch2.md) | [Next](./../../../..//us/usc/t33/ch2/m__us_usc_t33_s131.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs121)
 
 ----------
 ----------

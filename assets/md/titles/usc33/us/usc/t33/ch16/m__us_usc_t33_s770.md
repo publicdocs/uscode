@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s767 to 769.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s771.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs770)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s766.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s771.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs770)
 
 ## § 770. Regulations for expenditure of moneys accruing from commutation of rations and provisions
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s767 to 769.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s771.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs770)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s766.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s771.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs770)
 
 ----------
 ----------

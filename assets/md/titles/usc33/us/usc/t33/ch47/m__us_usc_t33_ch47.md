@@ -33,7 +33,7 @@ SUBCHAPTER I—EXPLORATION  </td>
 
   <tr>
 
-    <td> 3401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3401" data-uslm-ref="/us/usc/t33/s3401">3401.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—EXPLORATION  </td>
 
   <tr>
 
-    <td> 3402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3402" data-uslm-ref="/us/usc/t33/s3402">3402.</a>  </td>
 
     <td> Program established.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—EXPLORATION  </td>
 
   <tr>
 
-    <td> 3403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3403" data-uslm-ref="/us/usc/t33/s3403">3403.</a>  </td>
 
     <td> Powers and duties of the Administrator.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—EXPLORATION  </td>
 
   <tr>
 
-    <td> 3404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3404" data-uslm-ref="/us/usc/t33/s3404">3404.</a>  </td>
 
     <td> Ocean exploration and undersea research technology and infrastructure task force.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—EXPLORATION  </td>
 
   <tr>
 
-    <td> 3405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3405" data-uslm-ref="/us/usc/t33/s3405">3405.</a>  </td>
 
     <td> Ocean Exploration Advisory Board.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—EXPLORATION  </td>
 
   <tr>
 
-    <td> 3406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3406" data-uslm-ref="/us/usc/t33/s3406">3406.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—NOAA UNDERSEA RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 3421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3421" data-uslm-ref="/us/usc/t33/s3421">3421.</a>  </td>
 
     <td> Program established.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—NOAA UNDERSEA RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 3422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3422" data-uslm-ref="/us/usc/t33/s3422">3422.</a>  </td>
 
     <td> Powers of program Director.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—NOAA UNDERSEA RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 3423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3423" data-uslm-ref="/us/usc/t33/s3423">3423.</a>  </td>
 
     <td> Administrative structure.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—NOAA UNDERSEA RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 3424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3424" data-uslm-ref="/us/usc/t33/s3424">3424.</a>  </td>
 
     <td> Research, exploration, education, and technology programs.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—NOAA UNDERSEA RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 3425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3425" data-uslm-ref="/us/usc/t33/s3425">3425.</a>  </td>
 
     <td> Competitiveness.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—NOAA UNDERSEA RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 3426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3426" data-uslm-ref="/us/usc/t33/s3426">3426.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 2601. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “Administrator” means the Administrator of the Environmental Protection Agency.
 

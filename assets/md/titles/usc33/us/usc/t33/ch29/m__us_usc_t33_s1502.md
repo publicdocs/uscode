@@ -15,7 +15,7 @@
 
 ## § 1502. Definitions
 
-As used in this chapter, unless the context otherwise requires, the term—
+    As used in this chapter, unless the context otherwise requires, the term—
 
     (1) “adjacent coastal State” means any coastal State which (A) would be directly connected by pipeline to a deepwater port, as proposed in an application; (B) would be located within 15 miles of any such proposed deepwater port; or (C) is designated by the Secretary in accordance with [section 1508(a)(2) of this title][/us/usc/t33/s1508/a/2];
 

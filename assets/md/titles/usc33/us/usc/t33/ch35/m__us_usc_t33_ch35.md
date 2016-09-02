@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2101" data-uslm-ref="/us/usc/t33/s2101">2101.</a>  </td>
 
     <td> Congressional statement of findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2102" data-uslm-ref="/us/usc/t33/s2102">2102.</a>  </td>
 
     <td> Establishment of standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2103" data-uslm-ref="/us/usc/t33/s2103">2103.</a>  </td>
 
     <td> National artificial reef plan.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2104" data-uslm-ref="/us/usc/t33/s2104">2104.</a>  </td>
 
     <td> Permits for construction and management of artificial reefs.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2105" data-uslm-ref="/us/usc/t33/s2105">2105.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2106" data-uslm-ref="/us/usc/t33/s2106">2106.</a>  </td>
 
     <td> Savings clauses.  </td>
 

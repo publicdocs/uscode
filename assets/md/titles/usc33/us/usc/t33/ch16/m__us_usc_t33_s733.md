@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s731, 732.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s734.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs733)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s730a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s734.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs733)
 
 ## § 733. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s731, 732.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s734.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs733)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s730a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s734.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs733)
 
 ----------
 ----------

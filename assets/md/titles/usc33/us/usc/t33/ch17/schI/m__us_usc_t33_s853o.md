@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853m, 853n.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853o)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853o)
 
 ## § 853o. Repealed. [Pub. L. 107–372, title II, § 271(1)][/us/pl/107/372/s271/1], Dec. 19, 2002, [116 Stat. 3094][/us/stat/116/3094]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853m, 853n.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853o)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853o)
 
 ----------
 ----------

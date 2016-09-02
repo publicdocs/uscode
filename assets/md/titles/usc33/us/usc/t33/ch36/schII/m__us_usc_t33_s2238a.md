@@ -15,7 +15,7 @@
 
 ## § 2238a. Estimate of harbor maintenance needs
 
-For fiscal year 2014 and each fiscal year thereafter, the President’s budget request submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, shall include—
+    For fiscal year 2014 and each fiscal year thereafter, the President’s budget request submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, shall include—
 
     (1) an estimate of the nationwide average availability, expressed as a percentage, of the authorized depth and authorized width of all navigation channels authorized to be maintained using appropriations from the Harbor Maintenance Trust Fund that would result from harbor maintenance activities to be funded by the budget request; and
 

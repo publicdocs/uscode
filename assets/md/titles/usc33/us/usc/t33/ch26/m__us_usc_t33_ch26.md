@@ -33,7 +33,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1251" data-uslm-ref="/us/usc/t33/s1251">1251.</a>  </td>
 
     <td> Congressional declaration of goals and policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1252" data-uslm-ref="/us/usc/t33/s1252">1252.</a>  </td>
 
     <td> Comprehensive programs for water pollution control.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1252a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1252a" data-uslm-ref="/us/usc/t33/s1252a">1252a.</a>  </td>
 
     <td> Reservoir projects, water storage; modification; storage for other than for water quality, opinion of Federal agency, committee resolutions of approval; provisions inapplicable to projects with certain prescribed water quality benefits in relation to total project benefits.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1253" data-uslm-ref="/us/usc/t33/s1253">1253.</a>  </td>
 
     <td> Interstate cooperation and uniform laws.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1254" data-uslm-ref="/us/usc/t33/s1254">1254.</a>  </td>
 
     <td> Research, investigations, training, and information.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1254a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1254a" data-uslm-ref="/us/usc/t33/s1254a">1254a.</a>  </td>
 
     <td> Research on effects of pollutants.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1255" data-uslm-ref="/us/usc/t33/s1255">1255.</a>  </td>
 
     <td> Grants for research and development.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1256" data-uslm-ref="/us/usc/t33/s1256">1256.</a>  </td>
 
     <td> Grants for pollution control programs.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1257" data-uslm-ref="/us/usc/t33/s1257">1257.</a>  </td>
 
     <td> Mine water pollution control demonstrations.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1257a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1257a" data-uslm-ref="/us/usc/t33/s1257a">1257a.</a>  </td>
 
     <td> State demonstration programs for cleanup of abandoned mines for use as waste disposal sites; authorization of appropriations.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1258" data-uslm-ref="/us/usc/t33/s1258">1258.</a>  </td>
 
     <td> Pollution control in the Great Lakes.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1259.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1259" data-uslm-ref="/us/usc/t33/s1259">1259.</a>  </td>
 
     <td> Training grants and contracts.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1260.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1260" data-uslm-ref="/us/usc/t33/s1260">1260.</a>  </td>
 
     <td> Applications; allocation.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1261" data-uslm-ref="/us/usc/t33/s1261">1261.</a>  </td>
 
     <td> Scholarships.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1262" data-uslm-ref="/us/usc/t33/s1262">1262.</a>  </td>
 
     <td> Definitions and authorizations.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1263" data-uslm-ref="/us/usc/t33/s1263">1263.</a>  </td>
 
     <td> Alaska village demonstration projects.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1263a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1263a" data-uslm-ref="/us/usc/t33/s1263a">1263a.</a>  </td>
 
     <td> Grants to Alaska to improve sanitation in rural and Native villages.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1264.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1264" data-uslm-ref="/us/usc/t33/s1264">1264.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1265.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1265" data-uslm-ref="/us/usc/t33/s1265">1265.</a>  </td>
 
     <td> In-place toxic pollutants.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1266.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1266" data-uslm-ref="/us/usc/t33/s1266">1266.</a>  </td>
 
     <td> Hudson River reclamation demonstration project.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1267.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1267" data-uslm-ref="/us/usc/t33/s1267">1267.</a>  </td>
 
     <td> Chesapeake Bay.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1268.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1268" data-uslm-ref="/us/usc/t33/s1268">1268.</a>  </td>
 
     <td> Great Lakes.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1269.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1269" data-uslm-ref="/us/usc/t33/s1269">1269.</a>  </td>
 
     <td> Long Island Sound.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1270.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1270" data-uslm-ref="/us/usc/t33/s1270">1270.</a>  </td>
 
     <td> Lake Champlain Basin Program.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1271" data-uslm-ref="/us/usc/t33/s1271">1271.</a>  </td>
 
     <td> Sediment survey and monitoring.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1271a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1271a" data-uslm-ref="/us/usc/t33/s1271a">1271a.</a>  </td>
 
     <td> Research and development program.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1272" data-uslm-ref="/us/usc/t33/s1272">1272.</a>  </td>
 
     <td> Environmental dredging.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1273" data-uslm-ref="/us/usc/t33/s1273">1273.</a>  </td>
 
     <td> Lake Pontchartrain Basin.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
   <tr>
 
-    <td> 1274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1274" data-uslm-ref="/us/usc/t33/s1274">1274.</a>  </td>
 
     <td> Wet weather watershed pilot projects.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1281" data-uslm-ref="/us/usc/t33/s1281">1281.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1281a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1281a" data-uslm-ref="/us/usc/t33/s1281a">1281a.</a>  </td>
 
     <td> Total treatment system funding.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1281b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1281b" data-uslm-ref="/us/usc/t33/s1281b">1281b.</a>  </td>
 
     <td> Availability of Farmers Home Administration funds for non-Federal share.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1282.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1282" data-uslm-ref="/us/usc/t33/s1282">1282.</a>  </td>
 
     <td> Federal share.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1283" data-uslm-ref="/us/usc/t33/s1283">1283.</a>  </td>
 
     <td> Plans, specifications, estimates, and payments.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1284.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1284" data-uslm-ref="/us/usc/t33/s1284">1284.</a>  </td>
 
     <td> Limitations and conditions.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1285" data-uslm-ref="/us/usc/t33/s1285">1285.</a>  </td>
 
     <td> Allotment of grant funds.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1286.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1286" data-uslm-ref="/us/usc/t33/s1286">1286.</a>  </td>
 
     <td> Reimbursement and advanced construction.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1287.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1287" data-uslm-ref="/us/usc/t33/s1287">1287.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1288.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1288" data-uslm-ref="/us/usc/t33/s1288">1288.</a>  </td>
 
     <td> Areawide waste treatment management.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1289.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1289" data-uslm-ref="/us/usc/t33/s1289">1289.</a>  </td>
 
     <td> Basin planning.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1290.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1290" data-uslm-ref="/us/usc/t33/s1290">1290.</a>  </td>
 
     <td> Annual survey.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1291" data-uslm-ref="/us/usc/t33/s1291">1291.</a>  </td>
 
     <td> Sewage collection systems.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1292" data-uslm-ref="/us/usc/t33/s1292">1292.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1293" data-uslm-ref="/us/usc/t33/s1293">1293.</a>  </td>
 
     <td> Loan guarantees.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1293a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1293a" data-uslm-ref="/us/usc/t33/s1293a">1293a.</a>  </td>
 
     <td> Contained spoil disposal facilities.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1294" data-uslm-ref="/us/usc/t33/s1294">1294.</a>  </td>
 
     <td> Public information and education on recycling and reuse of wastewater, use of land treatment, and reduction of wastewater volume.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1295" data-uslm-ref="/us/usc/t33/s1295">1295.</a>  </td>
 
     <td> Requirements for American materials.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1296.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1296" data-uslm-ref="/us/usc/t33/s1296">1296.</a>  </td>
 
     <td> Determination of priority of projects.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1297" data-uslm-ref="/us/usc/t33/s1297">1297.</a>  </td>
 
     <td> Guidelines for cost-effectiveness analysis.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1298.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1298" data-uslm-ref="/us/usc/t33/s1298">1298.</a>  </td>
 
     <td> Cost effectiveness.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1299.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1299" data-uslm-ref="/us/usc/t33/s1299">1299.</a>  </td>
 
     <td> State certification of projects.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1300.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1300" data-uslm-ref="/us/usc/t33/s1300">1300.</a>  </td>
 
     <td> Pilot program for alternative water source projects.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS  </td>
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1301" data-uslm-ref="/us/usc/t33/s1301">1301.</a>  </td>
 
     <td> Sewer overflow control grants.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1311" data-uslm-ref="/us/usc/t33/s1311">1311.</a>  </td>
 
     <td> Effluent limitations.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1312" data-uslm-ref="/us/usc/t33/s1312">1312.</a>  </td>
 
     <td> Water quality related effluent limitations.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1313" data-uslm-ref="/us/usc/t33/s1313">1313.</a>  </td>
 
     <td> Water quality standards and implementation plans.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1313a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1313a" data-uslm-ref="/us/usc/t33/s1313a">1313a.</a>  </td>
 
     <td> Revised water quality standards.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1314" data-uslm-ref="/us/usc/t33/s1314">1314.</a>  </td>
 
     <td> Information and guidelines  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1315" data-uslm-ref="/us/usc/t33/s1315">1315.</a>  </td>
 
     <td> State reports on water quality.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1316" data-uslm-ref="/us/usc/t33/s1316">1316.</a>  </td>
 
     <td> National standards of performance.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1317" data-uslm-ref="/us/usc/t33/s1317">1317.</a>  </td>
 
     <td> Toxic and pretreatment effluent standards.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1318" data-uslm-ref="/us/usc/t33/s1318">1318.</a>  </td>
 
     <td> Records and reports; inspections.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1319" data-uslm-ref="/us/usc/t33/s1319">1319.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1320" data-uslm-ref="/us/usc/t33/s1320">1320.</a>  </td>
 
     <td> International pollution abatement.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1321" data-uslm-ref="/us/usc/t33/s1321">1321.</a>  </td>
 
     <td> Oil and hazardous substance liability.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1321a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1321a" data-uslm-ref="/us/usc/t33/s1321a">1321a.</a>  </td>
 
     <td> Prevention of small oil spills.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1321b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1321b" data-uslm-ref="/us/usc/t33/s1321b">1321b.</a>  </td>
 
     <td> Improved coordination with tribal governments.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1321c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1321c" data-uslm-ref="/us/usc/t33/s1321c">1321c.</a>  </td>
 
     <td> International efforts on enforcement.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1322" data-uslm-ref="/us/usc/t33/s1322">1322.</a>  </td>
 
     <td> Marine sanitation devices.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1323" data-uslm-ref="/us/usc/t33/s1323">1323.</a>  </td>
 
     <td> Federal facilities pollution control.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1324" data-uslm-ref="/us/usc/t33/s1324">1324.</a>  </td>
 
     <td> Clean lakes.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1325" data-uslm-ref="/us/usc/t33/s1325">1325.</a>  </td>
 
     <td> National Study Commission.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1326" data-uslm-ref="/us/usc/t33/s1326">1326.</a>  </td>
 
     <td> Thermal discharges.  </td>
 
@@ -633,7 +633,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1327" data-uslm-ref="/us/usc/t33/s1327">1327.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -641,7 +641,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1328" data-uslm-ref="/us/usc/t33/s1328">1328.</a>  </td>
 
     <td> Aquaculture.  </td>
 
@@ -649,7 +649,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1329" data-uslm-ref="/us/usc/t33/s1329">1329.</a>  </td>
 
     <td> Nonpoint source management programs.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER III—STANDARDS AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1330" data-uslm-ref="/us/usc/t33/s1330">1330.</a>  </td>
 
     <td> National estuary program.  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER IV—PERMITS AND LICENSES  </td>
 
   <tr>
 
-    <td> 1341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1341" data-uslm-ref="/us/usc/t33/s1341">1341.</a>  </td>
 
     <td> Certification.  </td>
 
@@ -681,7 +681,7 @@ SUBCHAPTER IV—PERMITS AND LICENSES  </td>
 
   <tr>
 
-    <td> 1342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1342" data-uslm-ref="/us/usc/t33/s1342">1342.</a>  </td>
 
     <td> National pollutant discharge elimination system.  </td>
 
@@ -689,7 +689,7 @@ SUBCHAPTER IV—PERMITS AND LICENSES  </td>
 
   <tr>
 
-    <td> 1343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1343" data-uslm-ref="/us/usc/t33/s1343">1343.</a>  </td>
 
     <td> Ocean discharge criteria.  </td>
 
@@ -697,7 +697,7 @@ SUBCHAPTER IV—PERMITS AND LICENSES  </td>
 
   <tr>
 
-    <td> 1344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1344" data-uslm-ref="/us/usc/t33/s1344">1344.</a>  </td>
 
     <td> Permits for dredged or fill material.  </td>
 
@@ -705,7 +705,7 @@ SUBCHAPTER IV—PERMITS AND LICENSES  </td>
 
   <tr>
 
-    <td> 1345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1345" data-uslm-ref="/us/usc/t33/s1345">1345.</a>  </td>
 
     <td> Disposal or use of sewage sludge.  </td>
 
@@ -713,7 +713,7 @@ SUBCHAPTER IV—PERMITS AND LICENSES  </td>
 
   <tr>
 
-    <td> 1346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1346" data-uslm-ref="/us/usc/t33/s1346">1346.</a>  </td>
 
     <td> Coastal recreation water quality monitoring and notification.  </td>
 
@@ -729,7 +729,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1361" data-uslm-ref="/us/usc/t33/s1361">1361.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -737,7 +737,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1362" data-uslm-ref="/us/usc/t33/s1362">1362.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -745,7 +745,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1363" data-uslm-ref="/us/usc/t33/s1363">1363.</a>  </td>
 
     <td> Water Pollution Control Advisory Board.  </td>
 
@@ -753,7 +753,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1364" data-uslm-ref="/us/usc/t33/s1364">1364.</a>  </td>
 
     <td> Emergency powers.  </td>
 
@@ -761,7 +761,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1365" data-uslm-ref="/us/usc/t33/s1365">1365.</a>  </td>
 
     <td> Citizen suits.  </td>
 
@@ -769,7 +769,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1366" data-uslm-ref="/us/usc/t33/s1366">1366.</a>  </td>
 
     <td> Appearance.  </td>
 
@@ -777,7 +777,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1367" data-uslm-ref="/us/usc/t33/s1367">1367.</a>  </td>
 
     <td> Employee protection.  </td>
 
@@ -785,7 +785,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1368" data-uslm-ref="/us/usc/t33/s1368">1368.</a>  </td>
 
     <td> Federal procurement.  </td>
 
@@ -793,7 +793,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1369.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1369" data-uslm-ref="/us/usc/t33/s1369">1369.</a>  </td>
 
     <td> Administrative procedure and judicial review.  </td>
 
@@ -801,7 +801,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1370.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1370" data-uslm-ref="/us/usc/t33/s1370">1370.</a>  </td>
 
     <td> State authority.  </td>
 
@@ -809,7 +809,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1371" data-uslm-ref="/us/usc/t33/s1371">1371.</a>  </td>
 
     <td> Authority under other laws and regulations.  </td>
 
@@ -817,7 +817,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1372" data-uslm-ref="/us/usc/t33/s1372">1372.</a>  </td>
 
     <td> Labor standards.  </td>
 
@@ -825,7 +825,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1373" data-uslm-ref="/us/usc/t33/s1373">1373.</a>  </td>
 
     <td> Public health agency coordination.  </td>
 
@@ -833,7 +833,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1374" data-uslm-ref="/us/usc/t33/s1374">1374.</a>  </td>
 
     <td> Effluent Standards and Water Quality Information Advisory Committee.  </td>
 
@@ -841,7 +841,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1375" data-uslm-ref="/us/usc/t33/s1375">1375.</a>  </td>
 
     <td> Reports to Congress; detailed estimates and comprehensive study on costs; State estimates.  </td>
 
@@ -849,7 +849,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1375a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1375a" data-uslm-ref="/us/usc/t33/s1375a">1375a.</a>  </td>
 
     <td> Report on coastal recreation waters.  </td>
 
@@ -857,7 +857,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1376" data-uslm-ref="/us/usc/t33/s1376">1376.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -865,7 +865,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1377" data-uslm-ref="/us/usc/t33/s1377">1377.</a>  </td>
 
     <td> Indian tribes.  </td>
 
@@ -881,7 +881,7 @@ SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS  </td>
 
   <tr>
 
-    <td> 1381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1381" data-uslm-ref="/us/usc/t33/s1381">1381.</a>  </td>
 
     <td> Grants to States for establishment of revolving funds.  </td>
 
@@ -889,7 +889,7 @@ SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS  </td>
 
   <tr>
 
-    <td> 1382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1382" data-uslm-ref="/us/usc/t33/s1382">1382.</a>  </td>
 
     <td> Capitalization grant agreements.  </td>
 
@@ -897,7 +897,7 @@ SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS  </td>
 
   <tr>
 
-    <td> 1383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1383" data-uslm-ref="/us/usc/t33/s1383">1383.</a>  </td>
 
     <td> Water pollution control revolving loan funds.  </td>
 
@@ -905,7 +905,7 @@ SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS  </td>
 
   <tr>
 
-    <td> 1384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1384" data-uslm-ref="/us/usc/t33/s1384">1384.</a>  </td>
 
     <td> Allotment of funds.  </td>
 
@@ -913,7 +913,7 @@ SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS  </td>
 
   <tr>
 
-    <td> 1385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1385" data-uslm-ref="/us/usc/t33/s1385">1385.</a>  </td>
 
     <td> Corrective action.  </td>
 
@@ -921,7 +921,7 @@ SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS  </td>
 
   <tr>
 
-    <td> 1386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1386" data-uslm-ref="/us/usc/t33/s1386">1386.</a>  </td>
 
     <td> Audits, reports, and fiscal controls; intended use plan.  </td>
 
@@ -929,7 +929,7 @@ SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS  </td>
 
   <tr>
 
-    <td> 1387.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1387" data-uslm-ref="/us/usc/t33/s1387">1387.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

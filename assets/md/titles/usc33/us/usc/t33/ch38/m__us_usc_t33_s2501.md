@@ -15,7 +15,7 @@
 
 ## § 2501. Findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) The washing ashore of potentially infectious medical wastes from public vessels of the United States may pose serious and widespread risks to public health and to the welfare of coastal communities.
 

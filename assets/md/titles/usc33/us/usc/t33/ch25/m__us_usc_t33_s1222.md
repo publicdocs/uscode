@@ -15,7 +15,7 @@
 
 ## § 1222. Definitions
 
-As used in this chapter, unless the context otherwise requires—
+    As used in this chapter, unless the context otherwise requires—
 
     (1) “Marine environment” means the navigable waters of the United States and the land and resources therein and thereunder; the waters and fishery resources of any area over which the United States asserts exclusive fishery management authority; the seabed and subsoil of the Outer Continental Shelf of the United States, the resources thereof and the waters superjacent thereto; and the recreational, economic, and scenic values of such waters and resources.
 

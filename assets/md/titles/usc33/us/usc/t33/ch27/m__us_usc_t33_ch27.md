@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1401" data-uslm-ref="/us/usc/t33/s1401">1401.</a>  </td>
 
     <td> Congressional finding, policy, and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1402" data-uslm-ref="/us/usc/t33/s1402">1402.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1411" data-uslm-ref="/us/usc/t33/s1411">1411.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1412" data-uslm-ref="/us/usc/t33/s1412">1412.</a>  </td>
 
     <td> Dumping permit program.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1412a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1412a" data-uslm-ref="/us/usc/t33/s1412a">1412a.</a>  </td>
 
     <td> Emergency dumping of industrial waste.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1413" data-uslm-ref="/us/usc/t33/s1413">1413.</a>  </td>
 
     <td> Dumping permit program for dredged material.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1414" data-uslm-ref="/us/usc/t33/s1414">1414.</a>  </td>
 
     <td> Permit conditions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1414a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1414a" data-uslm-ref="/us/usc/t33/s1414a">1414a.</a>  </td>
 
     <td> Special provisions regarding certain dumping sites.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1414b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1414b" data-uslm-ref="/us/usc/t33/s1414b">1414b.</a>  </td>
 
     <td> Ocean dumping of sewage sludge and industrial waste.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1414c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1414c" data-uslm-ref="/us/usc/t33/s1414c">1414c.</a>  </td>
 
     <td> Prohibition on disposal of sewage sludge at landfills on Staten Island.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1415" data-uslm-ref="/us/usc/t33/s1415">1415.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1416" data-uslm-ref="/us/usc/t33/s1416">1416.</a>  </td>
 
     <td> Relationship to other laws.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1417" data-uslm-ref="/us/usc/t33/s1417">1417.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1418" data-uslm-ref="/us/usc/t33/s1418">1418.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1419" data-uslm-ref="/us/usc/t33/s1419">1419.</a>  </td>
 
     <td> International cooperation.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1420.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1420" data-uslm-ref="/us/usc/t33/s1420">1420.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—REGULATION  </td>
 
   <tr>
 
-    <td> 1421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1421" data-uslm-ref="/us/usc/t33/s1421">1421.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—RESEARCH  </td>
 
   <tr>
 
-    <td> 1441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1441" data-uslm-ref="/us/usc/t33/s1441">1441.</a>  </td>
 
     <td> Monitoring and research program.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—RESEARCH  </td>
 
   <tr>
 
-    <td> 1442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1442" data-uslm-ref="/us/usc/t33/s1442">1442.</a>  </td>
 
     <td> Research program respecting possible long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—RESEARCH  </td>
 
   <tr>
 
-    <td> 1443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1443" data-uslm-ref="/us/usc/t33/s1443">1443.</a>  </td>
 
     <td> Research program respecting ocean dumping and other methods of waste disposal.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—RESEARCH  </td>
 
   <tr>
 
-    <td> 1444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1444" data-uslm-ref="/us/usc/t33/s1444">1444.</a>  </td>
 
     <td> Annual reports.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—RESEARCH  </td>
 
   <tr>
 
-    <td> 1445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1445" data-uslm-ref="/us/usc/t33/s1445">1445.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

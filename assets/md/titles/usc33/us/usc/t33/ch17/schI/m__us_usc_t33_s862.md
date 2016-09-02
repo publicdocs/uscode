@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s861b, 861c.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s862a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs862)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s861a.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s862a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs862)
 
 ## § 862. Repealed. [Pub. L. 87–649, § 14b][/us/pl/87/649/s14b], Sept. 7, 1962, [76 Stat. 498][/us/stat/76/498]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s861b, 861c.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s862a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs862)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s861a.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s862a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs862)
 
 ----------
 ----------

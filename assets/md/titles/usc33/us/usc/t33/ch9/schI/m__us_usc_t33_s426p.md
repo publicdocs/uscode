@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s426o–2.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s427 to 430.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426p)
+[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s426o–2.md) | [Next](./../../../../..//us/usc/t33/ch9/schII/m__us_usc_t33_ch9_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426p)
 
 ## § 426p. Corps of Engineers
 
@@ -121,9 +121,19 @@
 
 >     The term ‘Great Lakes State’ means Minnesota, Wisconsin, Illinois, Ohio, Michigan, Indiana, Pennsylvania, and New York.”
 
+§§ 427 to 430. __Repealed.__  __[__  __July 31, 1945, ch. 334, § 5__  __][/us/act/1945-07-31/ch334/s5]__  __,__  __[__  __59 Stat. 508__  __][/us/stat/59/508]__ 
+
+    Section 427, [act June 26, 1936, ch. 849, § 1][/us/act/1936-06-26/ch849/s1], [49 Stat. 1982][/us/stat/49/1982], related to improvement and protection of beaches and defined “beach”.
+
+    Section 428, [act June 26, 1936, ch. 849, § 2][/us/act/1936-06-26/ch849/s2], [49 Stat. 1982][/us/stat/49/1982], related to investigations by Beach Erosion Board and duties of Board. See [section 426–1 of this title][/us/usc/t33/s426–1].
+
+    Section 429, [act June 26, 1936, ch. 849, § 3][/us/act/1936-06-26/ch849/s3], [49 Stat. 1983][/us/stat/49/1983], related to investigative reports by Beach Erosion Board. See [section 426–1 of this title][/us/usc/t33/s426–1].
+
+    Section 430, [act June 26, 1936, ch. 849, § 4][/us/act/1936-06-26/ch849/s4], [49 Stat. 1983][/us/stat/49/1983], related to payment of expenses incident to investigations by Board. See [section 426–1 of this title][/us/usc/t33/s426–1].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s426o–2.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s427 to 430.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426p)
+[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s426o–2.md) | [Next](./../../../../..//us/usc/t33/ch9/schII/m__us_usc_t33_ch9_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426p)
 
 ----------
 ----------
@@ -142,5 +152,18 @@
 [/us/stat/102/4715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4715
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
+[/us/act/1945-07-31/ch334/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch334%2Fs5
+[/us/stat/59/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F508
+[/us/act/1936-06-26/ch849/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch849%2Fs1
+[/us/stat/49/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1982
+[/us/act/1936-06-26/ch849/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch849%2Fs2
+[/us/stat/49/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1982
+[/us/usc/t33/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%931
+[/us/act/1936-06-26/ch849/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch849%2Fs3
+[/us/stat/49/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1983
+[/us/usc/t33/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%931
+[/us/act/1936-06-26/ch849/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch849%2Fs4
+[/us/stat/49/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1983
+[/us/usc/t33/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%931
 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1501" data-uslm-ref="/us/usc/t33/s1501">1501.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1502" data-uslm-ref="/us/usc/t33/s1502">1502.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1503" data-uslm-ref="/us/usc/t33/s1503">1503.</a>  </td>
 
     <td> License for ownership, construction, and operation of deepwater port.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1504" data-uslm-ref="/us/usc/t33/s1504">1504.</a>  </td>
 
     <td> Procedure.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1505" data-uslm-ref="/us/usc/t33/s1505">1505.</a>  </td>
 
     <td> Environmental review criteria.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1506" data-uslm-ref="/us/usc/t33/s1506">1506.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1507" data-uslm-ref="/us/usc/t33/s1507">1507.</a>  </td>
 
     <td> Common carrier status.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1508" data-uslm-ref="/us/usc/t33/s1508">1508.</a>  </td>
 
     <td> Adjacent coastal States.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1509" data-uslm-ref="/us/usc/t33/s1509">1509.</a>  </td>
 
     <td> Marine environmental protection and navigational safety.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1510" data-uslm-ref="/us/usc/t33/s1510">1510.</a>  </td>
 
     <td> International agreements.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1511" data-uslm-ref="/us/usc/t33/s1511">1511.</a>  </td>
 
     <td> Suspension or termination of licenses.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1512" data-uslm-ref="/us/usc/t33/s1512">1512.</a>  </td>
 
     <td> Recordkeeping and inspection.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1513" data-uslm-ref="/us/usc/t33/s1513">1513.</a>  </td>
 
     <td> Public access to information.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1514" data-uslm-ref="/us/usc/t33/s1514">1514.</a>  </td>
 
     <td> Remedies.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1515" data-uslm-ref="/us/usc/t33/s1515">1515.</a>  </td>
 
     <td> Citizen civil action.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1516" data-uslm-ref="/us/usc/t33/s1516">1516.</a>  </td>
 
     <td> Judicial review; persons aggrieved; jurisdiction of courts of appeal.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1517, 1517a.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1517" data-uslm-ref="/us/usc/t33/s1517">1517</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1517a" data-uslm-ref="/us/usc/t33/s1517a">1517a.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1518" data-uslm-ref="/us/usc/t33/s1518">1518.</a>  </td>
 
     <td> Relationship to other laws.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1519" data-uslm-ref="/us/usc/t33/s1519">1519.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1520" data-uslm-ref="/us/usc/t33/s1520">1520.</a>  </td>
 
     <td> Pipeline safety and operation.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1521" data-uslm-ref="/us/usc/t33/s1521">1521.</a>  </td>
 
     <td> Negotiations with Canada and Mexico; report to Congress.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1522" data-uslm-ref="/us/usc/t33/s1522">1522.</a>  </td>
 
     <td> Limitations on export provisions of <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs185%2Fu" data-uslm-ref="/us/usc/t30/s185/u">section 185(u) of title 30</a> unaffected.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1523" data-uslm-ref="/us/usc/t33/s1523">1523.</a>  </td>
 
     <td> General procedures; issuance and enforcement of orders; scope of authority; evidentiary matters.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 1524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1524" data-uslm-ref="/us/usc/t33/s1524">1524.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

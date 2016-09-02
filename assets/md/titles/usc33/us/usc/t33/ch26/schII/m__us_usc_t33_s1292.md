@@ -15,7 +15,7 @@
 
 ## § 1292. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) The term “construction” means any one or more of the following: preliminary planning to determine the feasibility of treatment works, engineering, architectural, legal, fiscal, or economic investigations or studies, surveys, designs, plans, working drawings, specifications, procedures, field testing of innovative or alternative waste water treatment processes and techniques meeting guidelines promulgated under [section 1314(d)(3) of this title][/us/usc/t33/s1314/d/3], or other necessary actions, erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works, or the inspection or supervision of any of the foregoing items.
 

@@ -15,7 +15,7 @@
 
 ## § 3601. Purposes
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1)
 

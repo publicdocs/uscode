@@ -15,7 +15,7 @@
 
 ## § 2502. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (1) __Potentially infectious medical waste__ 
 

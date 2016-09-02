@@ -147,7 +147,7 @@
 
 >     “(2) those publicly owned treatment works the owner or operator of which has submitted an application for authority to revise pretreatment requirements under such section 307(b)(1) which application is pending on such date of enactment and is approved before August 31, 1987.
 
->         The Administrator shall not authorize any other removal credits under such Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] until the Administrator issues the regulations required by paragraph (2)(A)(ii) of section 405(d) of such Act, as amended by subsection (a) of this section.”
+>     The Administrator shall not authorize any other removal credits under such Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] until the Administrator issues the regulations required by paragraph (2)(A)(ii) of section 405(d) of such Act, as amended by subsection (a) of this section.”
 
 ----------
 

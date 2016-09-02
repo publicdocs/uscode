@@ -15,7 +15,7 @@
 
 ## § 3702. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Ocean acidification__ 
 

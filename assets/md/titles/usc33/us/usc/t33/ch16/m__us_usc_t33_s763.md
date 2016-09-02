@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s755 to 762.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s763–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s754a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s763–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763)
 
 ## § 763. Retirement for age of officers and employees generally; retirement pay; waiver of retirement pay
 
@@ -97,7 +97,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s755 to 762.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s763–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s754a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s763–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763)
 
 ----------
 ----------

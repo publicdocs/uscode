@@ -15,7 +15,7 @@
 
 ## § 902. Definitions
 
-When used in this chapter—
+    When used in this chapter—
 
     (1) The term “person” means individual, partnership, corporation, or association.
 

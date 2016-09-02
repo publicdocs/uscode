@@ -15,7 +15,7 @@
 
 ## § 451b. Waters included within subchapter
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) The term “harbor of New York” means the tidal waters of the harbor of New York, its adjacent and tributary waters, and those of Long Island Sound.
 

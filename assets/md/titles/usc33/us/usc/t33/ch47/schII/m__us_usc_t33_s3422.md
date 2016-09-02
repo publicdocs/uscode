@@ -15,7 +15,7 @@
 
 ## § 3422. Powers of program Director
 
-The Director of the program, in carrying out the program, shall—
+    The Director of the program, in carrying out the program, shall—
 
     (1) cooperate with institutions of higher education and other educational marine and ocean science organizations, and shall make available undersea research facilities, equipment, technologies, information, and expertise to support undersea research efforts by these organizations;
 

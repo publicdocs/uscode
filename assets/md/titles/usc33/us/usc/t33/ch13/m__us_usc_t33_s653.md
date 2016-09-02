@@ -15,7 +15,7 @@
 
 ## § 653. Extension of jurisdiction of Mississippi River Commission
 
-The jurisdiction of the Mississippi River Commission (established by the Act of June 29, 1879  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  ([33 U.S.C. 641][/us/usc/t33/s641])) is extended to include—
+    The jurisdiction of the Mississippi River Commission (established by the Act of June 29, 1879  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  ([33 U.S.C. 641][/us/usc/t33/s641])) is extended to include—
 
     (1) Terrebonne Parish, Louisiana; and
 

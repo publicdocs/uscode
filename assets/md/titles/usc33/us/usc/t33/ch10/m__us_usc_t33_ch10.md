@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs471" data-uslm-ref="/us/usc/t33/s471">471.</a>  </td>
 
     <td> Establishment by Secretary of Homeland Security of anchorage grounds and regulations generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs472" data-uslm-ref="/us/usc/t33/s472">472.</a>  </td>
 
     <td> Marking anchorage grounds by Commandant of the Coast Guard.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs473" data-uslm-ref="/us/usc/t33/s473">473.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs474" data-uslm-ref="/us/usc/t33/s474">474.</a>  </td>
 
     <td> Anchorage and general regulations for St. Marys River.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs475" data-uslm-ref="/us/usc/t33/s475">475.</a>  </td>
 
     <td> Regulations for Pearl Harbor, Hawaii.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs476" data-uslm-ref="/us/usc/t33/s476">476.</a>  </td>
 
     <td> Restrictions on tanker traffic in Puget Sound and adjacent waters.  </td>
 

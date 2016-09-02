@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853t to 854.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853s.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a)
 
 ## § 854a. Service credit as deck officer or junior engineer for promotion purposes
 
@@ -39,7 +39,7 @@ Section 533(a) of act Oct. 12, 1949, provided that:
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853t to 854.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s853s.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a)
 
 ----------
 ----------

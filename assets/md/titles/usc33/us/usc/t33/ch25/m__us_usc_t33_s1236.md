@@ -15,7 +15,7 @@
 
 ## § 1236. Penalties for violations of regulations
 
-For any violation of regulations issued pursuant to sections 1233 to 1235 of this title the following penalties shall be incurred:
+    For any violation of regulations issued pursuant to sections 1233 to 1235 of this title the following penalties shall be incurred:
 
     (a) A licensed officer shall be liable to suspension or revocation of license in the manner now prescribed by law for incompetency or misconduct.
 

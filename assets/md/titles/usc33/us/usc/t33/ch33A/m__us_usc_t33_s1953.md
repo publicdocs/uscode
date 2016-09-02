@@ -15,7 +15,7 @@
 
 ## § 1953. Coast Guard program
 
-The Commandant of the Coast Guard, in consultation with the Interagency Committee, shall—
+    The Commandant of the Coast Guard, in consultation with the Interagency Committee, shall—
 
     (1) take actions to reduce violations of and improve implementation of MARPOL Annex V and the Act to Prevent Pollution from Ships ([33 U.S.C. 1901][/us/usc/t33/s1901] et seq.) with respect to the discard of plastics and other garbage from vessels;
 

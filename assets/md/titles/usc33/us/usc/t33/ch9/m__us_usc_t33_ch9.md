@@ -33,7 +33,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs401" data-uslm-ref="/us/usc/t33/s401">401.</a>  </td>
 
     <td> Construction of bridges, causeways, dams or dikes generally; exemptions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs402" data-uslm-ref="/us/usc/t33/s402">402.</a>  </td>
 
     <td> Construction of bridges, etc., over Illinois and Mississippi Canal.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs403" data-uslm-ref="/us/usc/t33/s403">403.</a>  </td>
 
     <td> Obstruction of navigable waters generally; wharves; piers, etc.; excavations and filling in.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 403a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs403a" data-uslm-ref="/us/usc/t33/s403a">403a.</a>  </td>
 
     <td> Creation or continuance of obstruction of navigable waters.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 403b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs403b" data-uslm-ref="/us/usc/t33/s403b">403b.</a>  </td>
 
     <td> Lighting at docks and boat launching facilities.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs404" data-uslm-ref="/us/usc/t33/s404">404.</a>  </td>
 
     <td> Establishment of harbor lines; conditions to grants for extension of piers, etc.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs405" data-uslm-ref="/us/usc/t33/s405">405.</a>  </td>
 
     <td> Establishment and modification of harbor lines on Potomac and Anacostia Rivers.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs406" data-uslm-ref="/us/usc/t33/s406">406.</a>  </td>
 
     <td> Penalty for wrongful construction of bridges, piers, etc.; removal of structures.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs407" data-uslm-ref="/us/usc/t33/s407">407.</a>  </td>
 
     <td> Deposit of refuse in navigable waters generally.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 407a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs407a" data-uslm-ref="/us/usc/t33/s407a">407a.</a>  </td>
 
     <td> Deposit of debris of mines and stamp works.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs408" data-uslm-ref="/us/usc/t33/s408">408.</a>  </td>
 
     <td> Taking possession of, use of, or injury to harbor or river improvements.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs409" data-uslm-ref="/us/usc/t33/s409">409.</a>  </td>
 
     <td> Obstruction of navigable waters by vessels; floating timber; marking and removal of sunken vessels.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs410" data-uslm-ref="/us/usc/t33/s410">410.</a>  </td>
 
     <td> Exception as to floating loose timber, sack rafts, etc.; violation of regulations; penalty.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs411" data-uslm-ref="/us/usc/t33/s411">411.</a>  </td>
 
     <td> Penalty for wrongful deposit of refuse; use of or injury to harbor improvements, and obstruction of navigable waters generally.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs412" data-uslm-ref="/us/usc/t33/s412">412.</a>  </td>
 
     <td> Liability of masters, pilots, etc., and of vessels engaged in violations.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs413" data-uslm-ref="/us/usc/t33/s413">413.</a>  </td>
 
     <td> Duty of United States attorneys and other Federal officers in enforcement of provisions; arrest of offenders.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs414" data-uslm-ref="/us/usc/t33/s414">414.</a>  </td>
 
     <td> Removal by Secretary of the Army of sunken water craft generally; liability of owner, lessee, or operator.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs415" data-uslm-ref="/us/usc/t33/s415">415.</a>  </td>
 
     <td> Summary removal of water craft obstructing navigation; liability of owner, lessee, or operator.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs416" data-uslm-ref="/us/usc/t33/s416">416.</a>  </td>
 
     <td> Appropriations for removal of sunken water craft.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs417" data-uslm-ref="/us/usc/t33/s417">417.</a>  </td>
 
     <td> Expenses of investigations by Department of the Army.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs418" data-uslm-ref="/us/usc/t33/s418">418.</a>  </td>
 
     <td> Provisions for protection of New York Harbor unaffected.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs419" data-uslm-ref="/us/usc/t33/s419">419.</a>  </td>
 
     <td> Regulation by Secretary governing transportation and dumping of dredgings, refuse, etc., into navigable waters; oyster lands; appropriations.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 419a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs419a" data-uslm-ref="/us/usc/t33/s419a">419a.</a>  </td>
 
     <td> Management practices to extend capacity and useful life of dredged material disposal areas.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 420.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs420" data-uslm-ref="/us/usc/t33/s420">420.</a>  </td>
 
     <td> Piers and cribs on Mississippi and St. Croix Rivers.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs421" data-uslm-ref="/us/usc/t33/s421">421.</a>  </td>
 
     <td> Deposit of refuse, etc., in Lake Michigan near Chicago.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs422" data-uslm-ref="/us/usc/t33/s422">422.</a>  </td>
 
     <td> Modification and extension of harbor lines at Chicago.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs423" data-uslm-ref="/us/usc/t33/s423">423.</a>  </td>
 
     <td> Establishment of pierhead and bulkhead lines in Wilmington Harbor, California.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs424" data-uslm-ref="/us/usc/t33/s424">424.</a>  </td>
 
     <td> Establishment of pierhead or bulkhead lines in Newport Harbor, California.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 424a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs424a" data-uslm-ref="/us/usc/t33/s424a">424a.</a>  </td>
 
     <td> Modification of harbor lines in Newport Harbor, California.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs425" data-uslm-ref="/us/usc/t33/s425">425.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426" data-uslm-ref="/us/usc/t33/s426">426.</a>  </td>
 
     <td> Investigations concerning erosion of shores of coastal and lake waters.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%931" data-uslm-ref="/us/usc/t33/s426–1">426–1.</a>  </td>
 
     <td> Coastal Engineering Research Center; establishment; powers and functions.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%932" data-uslm-ref="/us/usc/t33/s426–2">426–2.</a>  </td>
 
     <td> Board on Coastal Engineering Research.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%933" data-uslm-ref="/us/usc/t33/s426–3">426–3.</a>  </td>
 
     <td> Transfer of functions of Beach Erosion Board.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426a" data-uslm-ref="/us/usc/t33/s426a">426a.</a>  </td>
 
     <td> Additional investigations concerning erosion of shores of coastal and lake waters; payment of costs; “shores” defined.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426b" data-uslm-ref="/us/usc/t33/s426b">426b.</a>  </td>
 
     <td> Applicability of existing laws; projects referred to Board of Engineers for Rivers and Harbors.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426c" data-uslm-ref="/us/usc/t33/s426c">426c.</a>  </td>
 
     <td> Report by Coastal Engineering Research Center.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426d" data-uslm-ref="/us/usc/t33/s426d">426d.</a>  </td>
 
     <td> Payment of expenses.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426e" data-uslm-ref="/us/usc/t33/s426e">426e.</a>  </td>
 
     <td> Federal aid in protection of shores.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426e–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426e%E2%80%931" data-uslm-ref="/us/usc/t33/s426e–1">426e–1.</a>  </td>
 
     <td> Shore protection projects.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426f" data-uslm-ref="/us/usc/t33/s426f">426f.</a>  </td>
 
     <td> Reimbursements.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426g" data-uslm-ref="/us/usc/t33/s426g">426g.</a>  </td>
 
     <td> Storm and hurricane restoration and impact minimization program.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426g–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426g%E2%80%931" data-uslm-ref="/us/usc/t33/s426g–1">426g–1.</a>  </td>
 
     <td> State and regional plans.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426h" data-uslm-ref="/us/usc/t33/s426h">426h.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426h–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426h%E2%80%931" data-uslm-ref="/us/usc/t33/s426h–1">426h–1.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426i" data-uslm-ref="/us/usc/t33/s426i">426i.</a>  </td>
 
     <td> Shore damage prevention or mitigation.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426i–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426i%E2%80%931" data-uslm-ref="/us/usc/t33/s426i–1">426i–1.</a>  </td>
 
     <td> Construction of shoreline protection projects by non-Federal interests.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426i–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426i%E2%80%932" data-uslm-ref="/us/usc/t33/s426i–2">426i–2.</a>  </td>
 
     <td> National coastal data bank.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426j" data-uslm-ref="/us/usc/t33/s426j">426j.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426k" data-uslm-ref="/us/usc/t33/s426k">426k.</a>  </td>
 
     <td> Five year demonstration program to temporarily increase diversion of water from Lake Michigan at Chicago, Illinois.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426" data-uslm-ref="/us/usc/t33/s426">426</a>l.  </td>
 
     <td> Protection of Lake Ontario.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426m" data-uslm-ref="/us/usc/t33/s426m">426m.</a>  </td>
 
     <td> Collection and removal of drift and debris from publicly maintained commercial boat harbors and adjacent land and water areas.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426n" data-uslm-ref="/us/usc/t33/s426n">426n.</a>  </td>
 
     <td> Technical assistance to States and local governments; cost sharing.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426" data-uslm-ref="/us/usc/t33/s426">426</a>o.  </td>
 
     <td> Great Lakes material disposal.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426" data-uslm-ref="/us/usc/t33/s426">426</a>o–1.  </td>
 
     <td> Great Lakes dredging levels adjustment.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426o–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426" data-uslm-ref="/us/usc/t33/s426">426</a>o–2.  </td>
 
     <td> Great Lakes navigation and protection.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 426p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426p" data-uslm-ref="/us/usc/t33/s426p">426p.</a>  </td>
 
     <td> Corps of Engineers.  </td>
 
@@ -489,7 +489,9 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 427 to 430. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs427" data-uslm-ref="/us/usc/t33/s427">427</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs430" data-uslm-ref="/us/usc/t33/s430">430.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -503,7 +505,9 @@ SUBCHAPTER II—OIL POLLUTION OF COASTAL WATERS  </td>
 
   <tr>
 
-    <td> 431 to 437. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs431" data-uslm-ref="/us/usc/t33/s431">431</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs437" data-uslm-ref="/us/usc/t33/s437">437.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -517,7 +521,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs441" data-uslm-ref="/us/usc/t33/s441">441.</a>  </td>
 
     <td> Deposit of refuse prohibited; penalty.  </td>
 
@@ -525,7 +529,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs442" data-uslm-ref="/us/usc/t33/s442">442.</a>  </td>
 
     <td> Liability of officers of towing vessel.  </td>
 
@@ -533,7 +537,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs443" data-uslm-ref="/us/usc/t33/s443">443.</a>  </td>
 
     <td> Permit for dumping; penalty for taking or towing boat or scow without permit.  </td>
 
@@ -541,7 +545,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs444" data-uslm-ref="/us/usc/t33/s444">444.</a>  </td>
 
     <td> Dumping at other place than designated dumping grounds; penalty; person liable; excuses for deviation.  </td>
 
@@ -549,7 +553,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs445" data-uslm-ref="/us/usc/t33/s445">445.</a>  </td>
 
     <td> Equipment and marking of boats or scows.  </td>
 
@@ -557,7 +561,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs446" data-uslm-ref="/us/usc/t33/s446">446.</a>  </td>
 
     <td> Inspectors; appointment, powers, and duties.  </td>
 
@@ -565,7 +569,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs447" data-uslm-ref="/us/usc/t33/s447">447.</a>  </td>
 
     <td> Bribery of inspector; penalty.  </td>
 
@@ -573,7 +577,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 448.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs448" data-uslm-ref="/us/usc/t33/s448">448.</a>  </td>
 
     <td> Return of permit; penalty for failure to return.  </td>
 
@@ -581,7 +585,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 449.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs449" data-uslm-ref="/us/usc/t33/s449">449.</a>  </td>
 
     <td> Disposition of dredged matter; persons liable; penalty.  </td>
 
@@ -589,7 +593,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 450.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs450" data-uslm-ref="/us/usc/t33/s450">450.</a>  </td>
 
     <td> Liability of vessel.  </td>
 
@@ -597,7 +601,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs451" data-uslm-ref="/us/usc/t33/s451">451.</a>  </td>
 
     <td> Supervisor of harbor; appointment and duties.  </td>
 
@@ -605,7 +609,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 451a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs451a" data-uslm-ref="/us/usc/t33/s451a">451a.</a>  </td>
 
     <td> Harbors subject to this subchapter.  </td>
 
@@ -613,7 +617,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 451b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs451b" data-uslm-ref="/us/usc/t33/s451b">451b.</a>  </td>
 
     <td> Waters included within subchapter.  </td>
 
@@ -621,7 +625,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs452" data-uslm-ref="/us/usc/t33/s452">452.</a>  </td>
 
     <td> Taking shellfish or otherwise interfering with navigation in New York Harbor channels; penalty; arrest and procedure.  </td>
 
@@ -629,7 +633,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs453" data-uslm-ref="/us/usc/t33/s453">453.</a>  </td>
 
     <td> Regulations for navigation of Ambrose Channel; exclusion of tows and sailing vessels.  </td>
 
@@ -637,7 +641,7 @@ SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMO
 
   <tr>
 
-    <td> 454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs454" data-uslm-ref="/us/usc/t33/s454">454.</a>  </td>
 
     <td> Consent of Congress to obstruction of waters by New York City.  </td>
 
@@ -653,7 +657,9 @@ SUBCHAPTER IV—POTOMAC RIVER AND TRIBUTARIES IN DISTRICT OF COLUMBIA  </td>
 
   <tr>
 
-    <td> 461 to 464. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs461" data-uslm-ref="/us/usc/t33/s461">461</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs464" data-uslm-ref="/us/usc/t33/s464">464.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -667,7 +673,7 @@ SUBCHAPTER V—NAVIGABLE WATERS OF MARYLAND  </td>
 
   <tr>
 
-    <td> 465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs465" data-uslm-ref="/us/usc/t33/s465">465.</a>  </td>
 
     <td> Authority to dredge; riparian rights of United States.  </td>
 
@@ -683,7 +689,7 @@ SUBCHAPTER VI—WATER POLLUTION CONTROL  </td>
 
   <tr>
 
-    <td> 466 to 466g.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs466" data-uslm-ref="/us/usc/t33/s466">466</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs466g" data-uslm-ref="/us/usc/t33/s466g">466g.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -691,7 +697,7 @@ SUBCHAPTER VI—WATER POLLUTION CONTROL  </td>
 
   <tr>
 
-    <td> 466g–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs466g%E2%80%931" data-uslm-ref="/us/usc/t33/s466g–1">466g–1.</a>  </td>
 
     <td> Controversies involving construction or application of interstate compacts and pollution of waters.  </td>
 
@@ -699,7 +705,9 @@ SUBCHAPTER VI—WATER POLLUTION CONTROL  </td>
 
   <tr>
 
-    <td> 466h to 466n. Transferred or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs466h" data-uslm-ref="/us/usc/t33/s466h">466h</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs466n" data-uslm-ref="/us/usc/t33/s466n">466n.</a>  </td>
+
+    <td> Transferred or Repealed.  </td>
 
   </tr>
 
@@ -713,7 +721,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467" data-uslm-ref="/us/usc/t33/s467">467.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -721,7 +729,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467a" data-uslm-ref="/us/usc/t33/s467a">467a.</a>  </td>
 
     <td> Inspection of dams.  </td>
 
@@ -729,7 +737,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467b" data-uslm-ref="/us/usc/t33/s467b">467b.</a>  </td>
 
     <td> Investigation reports to Governors.  </td>
 
@@ -737,7 +745,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467c" data-uslm-ref="/us/usc/t33/s467c">467c.</a>  </td>
 
     <td> Determination of danger to human life and property.  </td>
 
@@ -745,7 +753,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467d" data-uslm-ref="/us/usc/t33/s467d">467d.</a>  </td>
 
     <td> National dam inventory.  </td>
 
@@ -753,7 +761,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467e" data-uslm-ref="/us/usc/t33/s467e">467e.</a>  </td>
 
     <td> Interagency Committee on Dam Safety.  </td>
 
@@ -761,7 +769,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467f" data-uslm-ref="/us/usc/t33/s467f">467f.</a>  </td>
 
     <td> National dam safety program.  </td>
 
@@ -769,7 +777,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467f–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467f%E2%80%931" data-uslm-ref="/us/usc/t33/s467f–1">467f–1.</a>  </td>
 
     <td> Lock and dam security.  </td>
 
@@ -777,7 +785,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467g" data-uslm-ref="/us/usc/t33/s467g">467g.</a>  </td>
 
     <td> Research.  </td>
 
@@ -785,7 +793,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467g–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467g%E2%80%931" data-uslm-ref="/us/usc/t33/s467g–1">467g–1.</a>  </td>
 
     <td> Dam safety training.  </td>
 
@@ -793,7 +801,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467h" data-uslm-ref="/us/usc/t33/s467h">467h.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -801,7 +809,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467i" data-uslm-ref="/us/usc/t33/s467i">467i.</a>  </td>
 
     <td> Statutory construction.  </td>
 
@@ -809,7 +817,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467j" data-uslm-ref="/us/usc/t33/s467j">467j.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -817,7 +825,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467k to 467m.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467k" data-uslm-ref="/us/usc/t33/s467k">467k</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467m" data-uslm-ref="/us/usc/t33/s467m">467m.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -825,7 +833,7 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 467n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467n" data-uslm-ref="/us/usc/t33/s467n">467n.</a>  </td>
 
     <td> Recovery of dam modification costs required for safety purposes.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 908. Compensation for disability
 
-Compensation for disability shall be paid to the employee as follows:
+    Compensation for disability shall be paid to the employee as follows:
 
     (a) Permanent total disability: In case of total disability adjudged to be permanent 66⅔ per centum of the average weekly wages shall be paid to the employee during the continuance of such total disability. Loss of both hands, or both arms, or both feet, or both legs, or both eyes, or of any two thereof shall, in the absence of conclusive proof to the contrary, constitute permanent total disability. In all other cases permanent total disability shall be determined in accordance with the facts.
 

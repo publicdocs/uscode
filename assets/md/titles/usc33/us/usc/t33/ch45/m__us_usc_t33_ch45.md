@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3201" data-uslm-ref="/us/usc/t33/s3201">3201.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3202" data-uslm-ref="/us/usc/t33/s3202">3202.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3203" data-uslm-ref="/us/usc/t33/s3203">3203.</a>  </td>
 
     <td> Tsunami forecasting and warning program.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3204" data-uslm-ref="/us/usc/t33/s3204">3204.</a>  </td>
 
     <td> National tsunami hazard mitigation program.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3205" data-uslm-ref="/us/usc/t33/s3205">3205.</a>  </td>
 
     <td> Tsunami research program.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3206" data-uslm-ref="/us/usc/t33/s3206">3206.</a>  </td>
 
     <td> Global tsunami warning and mitigation network.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3207" data-uslm-ref="/us/usc/t33/s3207">3207.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 3205. Tsunami research program
 
-The Administrator shall, in consultation with other agencies and academic institutions, and with the coordinating committee established under [section 3204(b) of this title][/us/usc/t33/s3204/b], establish or maintain a tsunami research program to develop detection, forecast, communication, and mitigation science and technology, including advanced sensing techniques, information and communication technology, data collection, analysis, and assessment for tsunami tracking and numerical forecast modeling. Such research program shall—
+    The Administrator shall, in consultation with other agencies and academic institutions, and with the coordinating committee established under [section 3204(b) of this title][/us/usc/t33/s3204/b], establish or maintain a tsunami research program to develop detection, forecast, communication, and mitigation science and technology, including advanced sensing techniques, information and communication technology, data collection, analysis, and assessment for tsunami tracking and numerical forecast modeling. Such research program shall—
 
     (1) consider other appropriate research to mitigate the impact of tsunami;
 

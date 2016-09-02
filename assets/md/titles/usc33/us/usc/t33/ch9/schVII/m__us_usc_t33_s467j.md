@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467i.md) | [Next](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467k to 467m.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467j)
+[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467i.md) | [Next](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467n.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467j)
 
 ## § 467j. Authorization of appropriations
 
@@ -101,9 +101,17 @@
 
     For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+§§ 467k to 467m. __Repealed.__  __[__  __Pub. L. 104–303, title II, § 215(c)(2)__  __][/us/pl/104/303/s215/c/2]__  __,__  __Oct. 12, 1996__  __,__  __[__  __110 Stat. 3685__  __][/us/stat/110/3685]__ 
+
+    Section 467k, [Pub. L. 92–367, § 12][/us/pl/92/367/s12], as added [Pub. L. 99–662, title XII, § 1201(b)][/us/pl/99/662/s1201/b], Nov. 17, 1986, [100 Stat. 4262][/us/stat/100/4262]; amended [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–580, title II, § 209(c)][/us/pl/102/580/s209/c], Oct. 31, 1992, [106 Stat. 4830][/us/stat/106/4830], related to development of improved dam inspection techniques.
+
+    Section 467l, [Pub. L. 92–367, § 13][/us/pl/92/367/s13], as added [Pub. L. 99–662, title XII, § 1201(b)][/us/pl/99/662/s1201/b], Nov. 17, 1986, [100 Stat. 4262][/us/stat/100/4262]; amended [Pub. L. 102–580, title II, § 209(d)][/us/pl/102/580/s209/d], Oct. 31, 1992, [106 Stat. 4830][/us/stat/106/4830], related to dam inventory updates.
+
+    Section 467m, [Pub. L. 92–367, § 14][/us/pl/92/367/s14], as added [Pub. L. 99–662, title XII, § 1201(b)][/us/pl/99/662/s1201/b], Nov. 17, 1986, [100 Stat. 4263][/us/stat/100/4263], provided that inspection funds were not to be used for repair or construction of any dam.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467i.md) | [Next](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467k to 467m.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467j)
+[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467i.md) | [Next](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467n.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467j)
 
 ----------
 ----------
@@ -146,5 +154,22 @@
 [/us/pl/107/310/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F310%2Fs7%2Fc
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/104/303/s215/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs215%2Fc%2F2
+[/us/stat/110/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3685
+[/us/pl/92/367/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs12
+[/us/pl/99/662/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1201%2Fb
+[/us/stat/100/4262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4262
+[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
+[/us/pl/102/580/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs209%2Fc
+[/us/stat/106/4830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4830
+[/us/pl/92/367/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs13
+[/us/pl/99/662/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1201%2Fb
+[/us/stat/100/4262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4262
+[/us/pl/102/580/s209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs209%2Fd
+[/us/stat/106/4830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4830
+[/us/pl/92/367/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs14
+[/us/pl/99/662/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1201%2Fb
+[/us/stat/100/4263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4263
 
 

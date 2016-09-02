@@ -103,9 +103,7 @@
 
             (C)
 
-             For purposes of this subsection—
-
-                (1) continuity of session of the Congress is broken only by an adjournment sine die;
+             For purposes of this subsection—    (1) continuity of session of the Congress is broken only by an adjournment sine die;
 
                 (2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the 90 day calendar period.
 

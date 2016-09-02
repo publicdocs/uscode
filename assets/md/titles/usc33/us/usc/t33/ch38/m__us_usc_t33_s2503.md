@@ -15,7 +15,7 @@
 
 ## § 2503. Prohibition
 
-After 6 months after November 18, 1988, no public vessel shall dispose of potentially infectious medical waste into ocean waters unless—
+    After 6 months after November 18, 1988, no public vessel shall dispose of potentially infectious medical waste into ocean waters unless—
 
     (1)
 

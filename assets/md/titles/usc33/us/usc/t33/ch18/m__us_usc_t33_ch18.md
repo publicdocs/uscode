@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs901" data-uslm-ref="/us/usc/t33/s901">901.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs902" data-uslm-ref="/us/usc/t33/s902">902.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs903" data-uslm-ref="/us/usc/t33/s903">903.</a>  </td>
 
     <td> Coverage.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs904" data-uslm-ref="/us/usc/t33/s904">904.</a>  </td>
 
     <td> Liability for compensation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs905" data-uslm-ref="/us/usc/t33/s905">905.</a>  </td>
 
     <td> Exclusiveness of liability.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs906" data-uslm-ref="/us/usc/t33/s906">906.</a>  </td>
 
     <td> Compensation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs907" data-uslm-ref="/us/usc/t33/s907">907.</a>  </td>
 
     <td> Medical services and supplies.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs908" data-uslm-ref="/us/usc/t33/s908">908.</a>  </td>
 
     <td> Compensation for disability.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs909" data-uslm-ref="/us/usc/t33/s909">909.</a>  </td>
 
     <td> Compensation for death.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs910" data-uslm-ref="/us/usc/t33/s910">910.</a>  </td>
 
     <td> Determination of pay.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs911" data-uslm-ref="/us/usc/t33/s911">911.</a>  </td>
 
     <td> Guardian for minor or incompetent.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs912" data-uslm-ref="/us/usc/t33/s912">912.</a>  </td>
 
     <td> Notice of injury or death.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs913" data-uslm-ref="/us/usc/t33/s913">913.</a>  </td>
 
     <td> Filing of claims.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs914" data-uslm-ref="/us/usc/t33/s914">914.</a>  </td>
 
     <td> Payment of compensation.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs915" data-uslm-ref="/us/usc/t33/s915">915.</a>  </td>
 
     <td> Invalid agreements.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs916" data-uslm-ref="/us/usc/t33/s916">916.</a>  </td>
 
     <td> Assignment and exemption from claims of creditors.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs917" data-uslm-ref="/us/usc/t33/s917">917.</a>  </td>
 
     <td> Lien against compensation.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs918" data-uslm-ref="/us/usc/t33/s918">918.</a>  </td>
 
     <td> Collection of defaulted payments; special fund.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs919" data-uslm-ref="/us/usc/t33/s919">919.</a>  </td>
 
     <td> Procedure in respect of claims.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 920.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs920" data-uslm-ref="/us/usc/t33/s920">920.</a>  </td>
 
     <td> Presumptions.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs921" data-uslm-ref="/us/usc/t33/s921">921.</a>  </td>
 
     <td> Review of compensation orders.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 921a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs921a" data-uslm-ref="/us/usc/t33/s921a">921a.</a>  </td>
 
     <td> Appearance of attorneys for Secretary, deputy commissioner, or Board.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs922" data-uslm-ref="/us/usc/t33/s922">922.</a>  </td>
 
     <td> Modification of awards.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs923" data-uslm-ref="/us/usc/t33/s923">923.</a>  </td>
 
     <td> Procedure before deputy commissioner or Board.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs924" data-uslm-ref="/us/usc/t33/s924">924.</a>  </td>
 
     <td> Witnesses.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs925" data-uslm-ref="/us/usc/t33/s925">925.</a>  </td>
 
     <td> Witness fees.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs926" data-uslm-ref="/us/usc/t33/s926">926.</a>  </td>
 
     <td> Costs in proceedings brought without reasonable grounds.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 927.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs927" data-uslm-ref="/us/usc/t33/s927">927.</a>  </td>
 
     <td> Powers of deputy commissioners or Board.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 928.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs928" data-uslm-ref="/us/usc/t33/s928">928.</a>  </td>
 
     <td> Fees for services.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 929.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs929" data-uslm-ref="/us/usc/t33/s929">929.</a>  </td>
 
     <td> Record of injury or death.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 930.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs930" data-uslm-ref="/us/usc/t33/s930">930.</a>  </td>
 
     <td> Reports to Secretary.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs931" data-uslm-ref="/us/usc/t33/s931">931.</a>  </td>
 
     <td> Penalty for misrepresentation.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs932" data-uslm-ref="/us/usc/t33/s932">932.</a>  </td>
 
     <td> Security for compensation.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs933" data-uslm-ref="/us/usc/t33/s933">933.</a>  </td>
 
     <td> Compensation for injuries where third persons are liable.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs934" data-uslm-ref="/us/usc/t33/s934">934.</a>  </td>
 
     <td> Compensation notice.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 935.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs935" data-uslm-ref="/us/usc/t33/s935">935.</a>  </td>
 
     <td> Substitution of carrier for employer.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 936.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs936" data-uslm-ref="/us/usc/t33/s936">936.</a>  </td>
 
     <td> Insurance policies.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs937" data-uslm-ref="/us/usc/t33/s937">937.</a>  </td>
 
     <td> Certificate of compliance with chapter.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 938.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs938" data-uslm-ref="/us/usc/t33/s938">938.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 939.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs939" data-uslm-ref="/us/usc/t33/s939">939.</a>  </td>
 
     <td> Administration by Secretary.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 940.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs940" data-uslm-ref="/us/usc/t33/s940">940.</a>  </td>
 
     <td> Deputy commissioners.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs941" data-uslm-ref="/us/usc/t33/s941">941.</a>  </td>
 
     <td> Safety rules and regulations.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs942" data-uslm-ref="/us/usc/t33/s942">942.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs943" data-uslm-ref="/us/usc/t33/s943">943.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 944.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs944" data-uslm-ref="/us/usc/t33/s944">944.</a>  </td>
 
     <td> Special fund.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 945 to 947.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs945" data-uslm-ref="/us/usc/t33/s945">945</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs947" data-uslm-ref="/us/usc/t33/s947">947.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 948.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs948" data-uslm-ref="/us/usc/t33/s948">948.</a>  </td>
 
     <td> Laws inapplicable.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> 948a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs948a" data-uslm-ref="/us/usc/t33/s948a">948a.</a>  </td>
 
     <td> Discrimination against employees who bring proceedings; penalties; deposit of payments in special fund; civil actions; entitlement to restoration of employment and compensation, qualifications requirement; liability of employer for penalties and payments; insurance policy exemption from liability.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> 949.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs949" data-uslm-ref="/us/usc/t33/s949">949.</a>  </td>
 
     <td> Effect of unconstitutionality.  </td>
 
@@ -417,7 +417,7 @@
 
   <tr>
 
-    <td> 950.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs950" data-uslm-ref="/us/usc/t33/s950">950.</a>  </td>
 
     <td> Separability.  </td>
 

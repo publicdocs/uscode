@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s864b, 864c.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s864e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs864d)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s864a.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s864e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs864d)
 
 ## § 864d. Repealed. [Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 531(b)(31), [63 Stat. 839][/us/stat/63/839], eff. Oct. 1, 1949
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s864b, 864c.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s864e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs864d)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s864a.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s864e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs864d)
 
 ----------
 ----------

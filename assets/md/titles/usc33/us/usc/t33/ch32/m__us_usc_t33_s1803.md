@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1801, 1802.md) | [Next](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1804.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1803)
+[Previous](./../../../..//us/usc/t33/ch32/m__us_usc_t33_ch32.md) | [Next](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1804.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1803)
 
 ## § 1803. Study with respect to inland waterway user taxes and charges
 
@@ -147,7 +147,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1801, 1802.md) | [Next](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1804.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1803)
+[Previous](./../../../..//us/usc/t33/ch32/m__us_usc_t33_ch32.md) | [Next](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1804.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1803)
 
 ----------
 ----------

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1601" data-uslm-ref="/us/usc/t33/s1601">1601.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1602" data-uslm-ref="/us/usc/t33/s1602">1602.</a>  </td>
 
     <td> International Regulations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1603" data-uslm-ref="/us/usc/t33/s1603">1603.</a>  </td>
 
     <td> Vessels subject to International Regulations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1604" data-uslm-ref="/us/usc/t33/s1604">1604.</a>  </td>
 
     <td> Vessels not subject to International Regulations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1605" data-uslm-ref="/us/usc/t33/s1605">1605.</a>  </td>
 
     <td> Navy and Coast Guard vessels of special construction or purpose.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1606" data-uslm-ref="/us/usc/t33/s1606">1606.</a>  </td>
 
     <td> Special rules for ships of war, vessels proceeding under convoy, and fishing vessels engaged in fishing as a fleet.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1607" data-uslm-ref="/us/usc/t33/s1607">1607.</a>  </td>
 
     <td> Implementation by rules and regulations; authority to promulgate.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1608" data-uslm-ref="/us/usc/t33/s1608">1608.</a>  </td>
 
     <td> Civil penalties.  </td>
 

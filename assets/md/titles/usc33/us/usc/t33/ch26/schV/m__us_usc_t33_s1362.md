@@ -15,7 +15,7 @@
 
 ## § 1362. Definitions
 
-Except as otherwise specifically provided, when used in this chapter:
+    Except as otherwise specifically provided, when used in this chapter:
 
     (1) The term “State water pollution control agency” means the State agency designated by the Governor having responsibility for enforcing State laws relating to the abatement of pollution.
 

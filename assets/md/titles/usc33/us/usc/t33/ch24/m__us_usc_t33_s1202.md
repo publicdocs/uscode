@@ -15,7 +15,7 @@
 
 ## § 1202. Definitions
 
-For the purpose of this chapter—
+    For the purpose of this chapter—
 
     (1) “Secretary” means the Secretary of the Department in which the Coast Guard is operating;
 

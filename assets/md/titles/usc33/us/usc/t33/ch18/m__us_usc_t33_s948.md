@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s945 to 947.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s948a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs948)
+[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s944.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s948a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs948)
 
 ## § 948. Laws inapplicable
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s945 to 947.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s948a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs948)
+[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s944.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s948a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs948)
 
 ----------
 ----------

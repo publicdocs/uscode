@@ -13,9 +13,9 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t33/ch1/m__us_usc_t33_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33)
 
-# 
+# Title 33—NAVIGATION AND NAVIGABLE WATERS
 
-Title 33—NAVIGATION AND NAVIGABLE WATERS
+Current through 113–44
 
 <table>
 
@@ -31,521 +31,521 @@ Title 33—NAVIGATION AND NAVIGABLE WATERS
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch1" data-uslm-ref="/us/usc/t33/ch1">1.</a>  </td>
 
     <td> Navigable Waters Generally  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1" data-uslm-ref="/us/usc/t33/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch2" data-uslm-ref="/us/usc/t33/ch2">2.</a>  </td>
 
     <td> International Rules for Navigation at Sea [Repealed]  </td>
 
-    <td> 61  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs61" data-uslm-ref="/us/usc/t33/s61">61</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch3" data-uslm-ref="/us/usc/t33/ch3">3.</a>  </td>
 
     <td> Navigation Rules for Harbors, Rivers, and Inland Waters Generally  </td>
 
-    <td> 151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs151" data-uslm-ref="/us/usc/t33/s151">151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch4" data-uslm-ref="/us/usc/t33/ch4">4.</a>  </td>
 
     <td> Navigation Rules for Great Lakes and Their Connecting and Tributary Waters [Repealed]  </td>
 
-    <td> 241  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs241" data-uslm-ref="/us/usc/t33/s241">241</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch5" data-uslm-ref="/us/usc/t33/ch5">5.</a>  </td>
 
     <td> Navigation Rules for Red River of the North and Rivers Emptying Into Gulf of Mexico and Tributaries [Repealed]  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs301" data-uslm-ref="/us/usc/t33/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch5A" data-uslm-ref="/us/usc/t33/ch5A">5A.</a>  </td>
 
     <td> Exemption of Navy or Coast Guard Vessels From Certain Navigation Rules [Repealed]  </td>
 
-    <td> 360  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs360" data-uslm-ref="/us/usc/t33/s360">360</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch6" data-uslm-ref="/us/usc/t33/ch6">6.</a>  </td>
 
     <td> General Duties of Ship Officers and Owners After Collision or Other Accident [Repealed]  </td>
 
-    <td> 361  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs361" data-uslm-ref="/us/usc/t33/s361">361</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch7" data-uslm-ref="/us/usc/t33/ch7">7.</a>  </td>
 
     <td> Regulations for the Suppression of Piracy  </td>
 
-    <td> 381  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs381" data-uslm-ref="/us/usc/t33/s381">381</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch8" data-uslm-ref="/us/usc/t33/ch8">8.</a>  </td>
 
     <td> Summary Trials for Certain Offenses Against Navigation Laws  </td>
 
-    <td> 391  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs391" data-uslm-ref="/us/usc/t33/s391">391</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch9" data-uslm-ref="/us/usc/t33/ch9">9.</a>  </td>
 
     <td> Protection of Navigable Waters and of Harbor and River Improvements Generally  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs401" data-uslm-ref="/us/usc/t33/s401">401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch10" data-uslm-ref="/us/usc/t33/ch10">10.</a>  </td>
 
     <td> Anchorage Grounds and Harbor Regulations Generally  </td>
 
-    <td> 471  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs471" data-uslm-ref="/us/usc/t33/s471">471</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch11" data-uslm-ref="/us/usc/t33/ch11">11.</a>  </td>
 
     <td> Bridges Over Navigable Waters  </td>
 
-    <td> 491  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs491" data-uslm-ref="/us/usc/t33/s491">491</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch12" data-uslm-ref="/us/usc/t33/ch12">12.</a>  </td>
 
     <td> River and Harbor Improvements Generally  </td>
 
-    <td> 540  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs540" data-uslm-ref="/us/usc/t33/s540">540</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch13" data-uslm-ref="/us/usc/t33/ch13">13.</a>  </td>
 
     <td> Mississippi River Commission  </td>
 
-    <td> 641  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs641" data-uslm-ref="/us/usc/t33/s641">641</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch14" data-uslm-ref="/us/usc/t33/ch14">14.</a>  </td>
 
     <td> California Debris Commission  </td>
 
-    <td> 661  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs661" data-uslm-ref="/us/usc/t33/s661">661</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch15" data-uslm-ref="/us/usc/t33/ch15">15.</a>  </td>
 
     <td> Flood Control  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701" data-uslm-ref="/us/usc/t33/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch16" data-uslm-ref="/us/usc/t33/ch16">16.</a>  </td>
 
     <td> Lighthouses  </td>
 
-    <td> 711  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs711" data-uslm-ref="/us/usc/t33/s711">711</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch17" data-uslm-ref="/us/usc/t33/ch17">17.</a>  </td>
 
     <td> National Oceanic and Atmospheric Administration  </td>
 
-    <td> 851  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs851" data-uslm-ref="/us/usc/t33/s851">851</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch18" data-uslm-ref="/us/usc/t33/ch18">18.</a>  </td>
 
     <td> Longshore and Harbor Workers’ Compensation  </td>
 
-    <td> 901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs901" data-uslm-ref="/us/usc/t33/s901">901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch19" data-uslm-ref="/us/usc/t33/ch19">19.</a>  </td>
 
     <td> Saint Lawrence Seaway  </td>
 
-    <td> 981  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs981" data-uslm-ref="/us/usc/t33/s981">981</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch20" data-uslm-ref="/us/usc/t33/ch20">20.</a>  </td>
 
     <td> Pollution of the Sea by Oil [Repealed]  </td>
 
-    <td> 1001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1001" data-uslm-ref="/us/usc/t33/s1001">1001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch21" data-uslm-ref="/us/usc/t33/ch21">21.</a>  </td>
 
     <td> International Regulations for Preventing Collisions at Sea [Repealed]  </td>
 
-    <td> 1051  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1051" data-uslm-ref="/us/usc/t33/s1051">1051</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch22" data-uslm-ref="/us/usc/t33/ch22">22.</a>  </td>
 
     <td> Sea Grant Colleges and Marine Science Development  </td>
 
-    <td> 1101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1101" data-uslm-ref="/us/usc/t33/s1101">1101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch23" data-uslm-ref="/us/usc/t33/ch23">23.</a>  </td>
 
     <td> Pollution Control of Navigable Waters [Omitted or Transferred]  </td>
 
-    <td> 1151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1151" data-uslm-ref="/us/usc/t33/s1151">1151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch24" data-uslm-ref="/us/usc/t33/ch24">24.</a>  </td>
 
     <td> Vessel Bridge-to-Bridge Communication  </td>
 
-    <td> 1201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1201" data-uslm-ref="/us/usc/t33/s1201">1201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch25" data-uslm-ref="/us/usc/t33/ch25">25.</a>  </td>
 
     <td> Ports and Waterways Safety Program  </td>
 
-    <td> 1221  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1221" data-uslm-ref="/us/usc/t33/s1221">1221</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch26" data-uslm-ref="/us/usc/t33/ch26">26.</a>  </td>
 
     <td> Water Pollution Prevention and Control  </td>
 
-    <td> 1251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1251" data-uslm-ref="/us/usc/t33/s1251">1251</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch27" data-uslm-ref="/us/usc/t33/ch27">27.</a>  </td>
 
     <td> Ocean Dumping  </td>
 
-    <td> 1401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1401" data-uslm-ref="/us/usc/t33/s1401">1401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 28.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch28" data-uslm-ref="/us/usc/t33/ch28">28.</a>  </td>
 
     <td> Pollution Casualties on the High Seas: United States Intervention  </td>
 
-    <td> 1471  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1471" data-uslm-ref="/us/usc/t33/s1471">1471</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch29" data-uslm-ref="/us/usc/t33/ch29">29.</a>  </td>
 
     <td> Deepwater Ports  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1501" data-uslm-ref="/us/usc/t33/s1501">1501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 30.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch30" data-uslm-ref="/us/usc/t33/ch30">30.</a>  </td>
 
     <td> International Regulations for Preventing Collisions at Sea  </td>
 
-    <td> 1601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1601" data-uslm-ref="/us/usc/t33/s1601">1601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch31" data-uslm-ref="/us/usc/t33/ch31">31.</a>  </td>
 
     <td> Ocean Pollution Research and Development and Monitoring Planning [Repealed]  </td>
 
-    <td> 1701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1701" data-uslm-ref="/us/usc/t33/s1701">1701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch32" data-uslm-ref="/us/usc/t33/ch32">32.</a>  </td>
 
     <td> Inland Waterways Trust Fund  </td>
 
-    <td> 1801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1801" data-uslm-ref="/us/usc/t33/s1801">1801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch33" data-uslm-ref="/us/usc/t33/ch33">33.</a>  </td>
 
     <td> Prevention of Pollution From Ships  </td>
 
-    <td> 1901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1901" data-uslm-ref="/us/usc/t33/s1901">1901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch34" data-uslm-ref="/us/usc/t33/ch34">34.</a>  </td>
 
     <td> Inland Navigational Rules  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2001" data-uslm-ref="/us/usc/t33/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch35" data-uslm-ref="/us/usc/t33/ch35">35.</a>  </td>
 
     <td> Artificial Reefs  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2101" data-uslm-ref="/us/usc/t33/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch36" data-uslm-ref="/us/usc/t33/ch36">36.</a>  </td>
 
     <td> Water Resources Development  </td>
 
-    <td> 2201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2201" data-uslm-ref="/us/usc/t33/s2201">2201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch37" data-uslm-ref="/us/usc/t33/ch37">37.</a>  </td>
 
     <td> Organotin Antifouling Paint Control [Repealed]  </td>
 
-    <td> 2401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2401" data-uslm-ref="/us/usc/t33/s2401">2401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch38" data-uslm-ref="/us/usc/t33/ch38">38.</a>  </td>
 
     <td> Dumping of Medical Waste by Public Vessels  </td>
 
-    <td> 2501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2501" data-uslm-ref="/us/usc/t33/s2501">2501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch39" data-uslm-ref="/us/usc/t33/ch39">39.</a>  </td>
 
     <td> Shore Protection from Municipal or Commercial Waste  </td>
 
-    <td> 2601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2601" data-uslm-ref="/us/usc/t33/s2601">2601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 40.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch40" data-uslm-ref="/us/usc/t33/ch40">40.</a>  </td>
 
     <td> Oil Pollution  </td>
 
-    <td> 2701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2701" data-uslm-ref="/us/usc/t33/s2701">2701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch41" data-uslm-ref="/us/usc/t33/ch41">41.</a>  </td>
 
     <td> National Coastal Monitoring  </td>
 
-    <td> 2801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2801" data-uslm-ref="/us/usc/t33/s2801">2801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch42" data-uslm-ref="/us/usc/t33/ch42">42.</a>  </td>
 
     <td> Estuary Restoration  </td>
 
-    <td> 2901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2901" data-uslm-ref="/us/usc/t33/s2901">2901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch43" data-uslm-ref="/us/usc/t33/ch43">43.</a>  </td>
 
     <td> National Oceanic and Atmospheric Administration Commissioned Officer Corps  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3001" data-uslm-ref="/us/usc/t33/s3001">3001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch44" data-uslm-ref="/us/usc/t33/ch44">44.</a>  </td>
 
     <td> Oceans and Human Health  </td>
 
-    <td> 3101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3101" data-uslm-ref="/us/usc/t33/s3101">3101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch45" data-uslm-ref="/us/usc/t33/ch45">45.</a>  </td>
 
     <td> Tsunami Warning and Education  </td>
 
-    <td> 3201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3201" data-uslm-ref="/us/usc/t33/s3201">3201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch46" data-uslm-ref="/us/usc/t33/ch46">46.</a>  </td>
 
     <td> National Levee Safety Program  </td>
 
-    <td> 3301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3301" data-uslm-ref="/us/usc/t33/s3301">3301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch47" data-uslm-ref="/us/usc/t33/ch47">47.</a>  </td>
 
     <td> Ocean Exploration  </td>
 
-    <td> 3401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3401" data-uslm-ref="/us/usc/t33/s3401">3401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 48.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch48" data-uslm-ref="/us/usc/t33/ch48">48.</a>  </td>
 
     <td> Ocean and Coastal Mapping Integration  </td>
 
-    <td> 3501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3501" data-uslm-ref="/us/usc/t33/s3501">3501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch49" data-uslm-ref="/us/usc/t33/ch49">49.</a>  </td>
 
     <td> Integrated Coastal and Ocean Observation System  </td>
 
-    <td> 3601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3601" data-uslm-ref="/us/usc/t33/s3601">3601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch50" data-uslm-ref="/us/usc/t33/ch50">50.</a>  </td>
 
     <td> Federal Ocean Acidification Research and Monitoring  </td>
 
-    <td> 3701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3701" data-uslm-ref="/us/usc/t33/s3701">3701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch51" data-uslm-ref="/us/usc/t33/ch51">51.</a>  </td>
 
     <td> Clean Hulls  </td>
 
-    <td> 3801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3801" data-uslm-ref="/us/usc/t33/s3801">3801</a>  </td>
 
   </tr>
 

@@ -15,7 +15,7 @@
 
 ## § 3005. Number of authorized commissioned officers
 
-Effective October 1, 2009, the total number of authorized commissioned officers on the lineal list of the commissioned corps of the National Oceanic and Atmospheric Administration shall be increased from 321 to 379 if—
+    Effective October 1, 2009, the total number of authorized commissioned officers on the lineal list of the commissioned corps of the National Oceanic and Atmospheric Administration shall be increased from 321 to 379 if—
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 550. Report on water terminal and transfer facilities
 
-The Chief of Engineers, United States Army, shall indicate in his annual reports the character of the terminal and transfer facilities existing on every harbor or waterway under maintenance or improvement by the United States, and state whether they are considered adequate for existing commerce. He shall also submit one or more special reports on this subject, as soon as possible after January 18, 1918, including, among other things, the following:
+    The Chief of Engineers, United States Army, shall indicate in his annual reports the character of the terminal and transfer facilities existing on every harbor or waterway under maintenance or improvement by the United States, and state whether they are considered adequate for existing commerce. He shall also submit one or more special reports on this subject, as soon as possible after January 18, 1918, including, among other things, the following:
 
     (a) A brief description of such water terminals, including location and the suitability of such terminals to the existing traffic conditions, and whether such terminals are publicly or privately owned, and the terms and conditions under which they may be subjected to public use.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701l, 701l–1.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701n.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701m)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701k.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701n.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701m)
 
 ## § 701m. Insufficient Congressional authorization; preparations for and modification of project
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701l, 701l–1.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701n.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701m)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701k.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701n.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701m)
 
 ----------
 ----------

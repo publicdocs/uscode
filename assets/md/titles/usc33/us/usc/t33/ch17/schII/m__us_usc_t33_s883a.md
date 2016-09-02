@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s881 to 883.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s883b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a)
+[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_ch17_schII.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s883b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a)
 
 ## § 883a. Surveys and other activities
 
-To provide charts and related information for the safe navigation of marine and air commerce, and to provide basic data for engineering and scientific purposes and for other commercial and industrial needs, the Secretary of Commerce, is authorized to conduct the following activities:
+    To provide charts and related information for the safe navigation of marine and air commerce, and to provide basic data for engineering and scientific purposes and for other commercial and industrial needs, the Secretary of Commerce, is authorized to conduct the following activities:
 
     (1) Hydrographic and topographic surveys;
 
@@ -151,7 +151,7 @@ To provide charts and related information for the safe navigation of marine and 
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s881 to 883.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s883b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a)
+[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_ch17_schII.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s883b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s867, 868.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s869.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs868a)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s866.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s869.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs868a)
 
 ## § 868a. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s867, 868.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s869.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs868a)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s866.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s869.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs868a)
 
 ----------
 ----------

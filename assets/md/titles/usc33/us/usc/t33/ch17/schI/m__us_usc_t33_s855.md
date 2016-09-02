@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854b, 854c.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s855a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs855)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854a–2.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s855a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs855)
 
 ## § 855. Repealed. [Pub. L. 107–372, title II, § 271(4)][/us/pl/107/372/s271/4], Dec. 19, 2002, [116 Stat. 3094][/us/stat/116/3094]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854b, 854c.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s855a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs855)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s854a–2.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s855a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs855)
 
 ----------
 ----------

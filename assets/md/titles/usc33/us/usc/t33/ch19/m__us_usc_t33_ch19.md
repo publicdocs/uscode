@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs981" data-uslm-ref="/us/usc/t33/s981">981.</a>  </td>
 
     <td> Creation of Saint Lawrence Seaway Development Corporation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 982.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs982" data-uslm-ref="/us/usc/t33/s982">982.</a>  </td>
 
     <td> Management of Corporation; appointment of Administrator; terms; vacancy; Advisory Board; establishment; membership; meetings; duties; compensation and expenses  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 983.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs983" data-uslm-ref="/us/usc/t33/s983">983.</a>  </td>
 
     <td> Functions of Corporation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 984.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs984" data-uslm-ref="/us/usc/t33/s984">984.</a>  </td>
 
     <td> General powers of Corporation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 984a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs984a" data-uslm-ref="/us/usc/t33/s984a">984a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 985.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs985" data-uslm-ref="/us/usc/t33/s985">985.</a>  </td>
 
     <td> Bonds; issuance; maturity; redemption; interest; purchase of obligations by Secretary of the Treasury.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 985a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs985a" data-uslm-ref="/us/usc/t33/s985a">985a.</a>  </td>
 
     <td> Cancellation of bonds issued under section 985.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 986.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs986" data-uslm-ref="/us/usc/t33/s986">986.</a>  </td>
 
     <td> Payments to States and local governments in lieu of taxes; tax exemption of Corporation.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 987.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs987" data-uslm-ref="/us/usc/t33/s987">987.</a>  </td>
 
     <td> Services and facilities of other agencies.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 988.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs988" data-uslm-ref="/us/usc/t33/s988">988.</a>  </td>
 
     <td> Rates of charges or tolls.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 988a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs988a" data-uslm-ref="/us/usc/t33/s988a">988a.</a>  </td>
 
     <td> Waiver of collection of charges or tolls.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 989.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs989" data-uslm-ref="/us/usc/t33/s989">989.</a>  </td>
 
     <td> Special reports.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 990.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs990" data-uslm-ref="/us/usc/t33/s990">990.</a>  </td>
 
     <td> Offenses and penalties.  </td>
 

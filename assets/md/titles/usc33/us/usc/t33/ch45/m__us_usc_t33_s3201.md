@@ -15,7 +15,7 @@
 
 ## § 3201. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “Administration” means the National Oceanic and Atmospheric Administration.
 

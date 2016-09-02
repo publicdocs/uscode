@@ -15,7 +15,7 @@
 
 ## § 1224. Considerations by Secretary
 
-In carrying out his duties and responsibilities under [section 1223 of this title][/us/usc/t33/s1223], the Secretary shall—
+    In carrying out his duties and responsibilities under [section 1223 of this title][/us/usc/t33/s1223], the Secretary shall—
 
     (a)
 

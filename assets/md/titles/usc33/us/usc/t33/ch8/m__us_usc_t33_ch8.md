@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs391" data-uslm-ref="/us/usc/t33/s391">391.</a>  </td>
 
     <td> Summary trials authorized.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs392" data-uslm-ref="/us/usc/t33/s392">392.</a>  </td>
 
     <td> Complaint and answer; jury trial.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs393" data-uslm-ref="/us/usc/t33/s393">393.</a>  </td>
 
     <td> Amendments of complaint and adjournments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs394" data-uslm-ref="/us/usc/t33/s394">394.</a>  </td>
 
     <td> Challenge to jurors.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs395" data-uslm-ref="/us/usc/t33/s395">395.</a>  </td>
 
     <td> Limit of sentence.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs396" data-uslm-ref="/us/usc/t33/s396">396.</a>  </td>
 
     <td> Recovery of penalties and forfeitures generally.  </td>
 

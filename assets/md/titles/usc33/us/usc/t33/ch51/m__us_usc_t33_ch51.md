@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3801" data-uslm-ref="/us/usc/t33/s3801">3801.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3802" data-uslm-ref="/us/usc/t33/s3802">3802.</a>  </td>
 
     <td> Covered vessels.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3803" data-uslm-ref="/us/usc/t33/s3803">3803.</a>  </td>
 
     <td> Administration and enforcement.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3804" data-uslm-ref="/us/usc/t33/s3804">3804.</a>  </td>
 
     <td> Compliance with international law.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3805" data-uslm-ref="/us/usc/t33/s3805">3805.</a>  </td>
 
     <td> Utilization of personnel, facilities or equipment of other Federal departments and agencies.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—IMPLEMENTATION OF THE CONVENTION  </td>
 
   <tr>
 
-    <td> 3821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3821" data-uslm-ref="/us/usc/t33/s3821">3821.</a>  </td>
 
     <td> Certificates.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—IMPLEMENTATION OF THE CONVENTION  </td>
 
   <tr>
 
-    <td> 3822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3822" data-uslm-ref="/us/usc/t33/s3822">3822.</a>  </td>
 
     <td> Declaration.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—IMPLEMENTATION OF THE CONVENTION  </td>
 
   <tr>
 
-    <td> 3823.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3823" data-uslm-ref="/us/usc/t33/s3823">3823.</a>  </td>
 
     <td> Other compliance documentation.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—IMPLEMENTATION OF THE CONVENTION  </td>
 
   <tr>
 
-    <td> 3824.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3824" data-uslm-ref="/us/usc/t33/s3824">3824.</a>  </td>
 
     <td> Process for considering additional controls.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—IMPLEMENTATION OF THE CONVENTION  </td>
 
   <tr>
 
-    <td> 3825.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3825" data-uslm-ref="/us/usc/t33/s3825">3825.</a>  </td>
 
     <td> Scientific and technical research and monitoring; communication and information.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—IMPLEMENTATION OF THE CONVENTION  </td>
 
   <tr>
 
-    <td> 3826.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3826" data-uslm-ref="/us/usc/t33/s3826">3826.</a>  </td>
 
     <td> Communication and exchange of information.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—PROHIBITIONS AND ENFORCEMENT AUTHORITY  </td>
 
   <tr>
 
-    <td> 3841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3841" data-uslm-ref="/us/usc/t33/s3841">3841.</a>  </td>
 
     <td> Prohibitions.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—PROHIBITIONS AND ENFORCEMENT AUTHORITY  </td>
 
   <tr>
 
-    <td> 3842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3842" data-uslm-ref="/us/usc/t33/s3842">3842.</a>  </td>
 
     <td> Investigations and inspections by Secretary.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—PROHIBITIONS AND ENFORCEMENT AUTHORITY  </td>
 
   <tr>
 
-    <td> 3843.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3843" data-uslm-ref="/us/usc/t33/s3843">3843.</a>  </td>
 
     <td> EPA enforcement.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—PROHIBITIONS AND ENFORCEMENT AUTHORITY  </td>
 
   <tr>
 
-    <td> 3844.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3844" data-uslm-ref="/us/usc/t33/s3844">3844.</a>  </td>
 
     <td> Additional authority of the Administrator.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—ACTION ON VIOLATION, PENALTIES, and REFERRALS  </td>
 
   <tr>
 
-    <td> 3851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3851" data-uslm-ref="/us/usc/t33/s3851">3851.</a>  </td>
 
     <td> Criminal enforcement.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—ACTION ON VIOLATION, PENALTIES, and REFERRALS  </td>
 
   <tr>
 
-    <td> 3852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3852" data-uslm-ref="/us/usc/t33/s3852">3852.</a>  </td>
 
     <td> Civil enforcement.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—ACTION ON VIOLATION, PENALTIES, and REFERRALS  </td>
 
   <tr>
 
-    <td> 3853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3853" data-uslm-ref="/us/usc/t33/s3853">3853.</a>  </td>
 
     <td> Liability in rem.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—ACTION ON VIOLATION, PENALTIES, and REFERRALS  </td>
 
   <tr>
 
-    <td> 3854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3854" data-uslm-ref="/us/usc/t33/s3854">3854.</a>  </td>
 
     <td> Vessel clearance or permits; refusal or revocation; bond or other surety.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—ACTION ON VIOLATION, PENALTIES, and REFERRALS  </td>
 
   <tr>
 
-    <td> 3855.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3855" data-uslm-ref="/us/usc/t33/s3855">3855.</a>  </td>
 
     <td> Warnings, detentions, dismissals, exclusion.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—ACTION ON VIOLATION, PENALTIES, and REFERRALS  </td>
 
   <tr>
 
-    <td> 3856.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3856" data-uslm-ref="/us/usc/t33/s3856">3856.</a>  </td>
 
     <td> Referrals for appropriate action by foreign country.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—ACTION ON VIOLATION, PENALTIES, and REFERRALS  </td>
 
   <tr>
 
-    <td> 3857.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3857" data-uslm-ref="/us/usc/t33/s3857">3857.</a>  </td>
 
     <td> Remedies not affected.  </td>
 

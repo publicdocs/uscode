@@ -15,7 +15,7 @@
 
 ## § 2327. Definition of rehabilitation for inland waterway projects
 
-For purposes of laws relating to navigation on inland and intracoastal waterways of the United States, the term “rehabilitation” means—
+    For purposes of laws relating to navigation on inland and intracoastal waterways of the United States, the term “rehabilitation” means—
 
     (1)
 
@@ -43,7 +43,7 @@ For purposes of laws relating to navigation on inland and intracoastal waterways
 
         (B) which will require at least $1,000,000 in capital outlays.
 
-        Such term does not include routine or deferred maintenance. The dollar amounts referred to in paragraphs (1) and (2) shall be adjusted annually according to the economic assumption published each year as guidance in the Annual Program and Budget Request for Civil Works Activities of the Corps of Engineers.
+    Such term does not include routine or deferred maintenance. The dollar amounts referred to in paragraphs (1) and (2) shall be adjusted annually according to the economic assumption published each year as guidance in the Annual Program and Budget Request for Civil Works Activities of the Corps of Engineers.
 
 ([Pub. L. 102–580, title II, § 205][/us/pl/102/580/s205], Oct. 31, 1992, [106 Stat. 4827][/us/stat/106/4827].)
 

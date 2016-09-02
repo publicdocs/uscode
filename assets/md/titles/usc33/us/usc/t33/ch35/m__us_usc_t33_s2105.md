@@ -15,7 +15,7 @@
 
 ## § 2105. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “artificial reef” means a structure which is constructed or placed in waters covered under this chapter for the purpose of enhancing fishery resources and commercial and recreational fishing opportunities.
 

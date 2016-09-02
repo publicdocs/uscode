@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s747, 747a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s748.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs747b)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s745a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s748.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs747b)
 
 ## § 747b. Lighthouse keepers; traveling expenses incurred in obtaining medical attention
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s747, 747a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s748.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs747b)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s745a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s748.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs747b)
 
 ----------
 ----------

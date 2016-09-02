@@ -15,7 +15,7 @@
 
 ## § 920. Presumptions
 
-In any proceeding for the enforcement of a claim for compensation under this chapter it shall be presumed, in the absence of substantial evidence to the contrary—
+    In any proceeding for the enforcement of a claim for compensation under this chapter it shall be presumed, in the absence of substantial evidence to the contrary—
 
     (a) That the claim comes within the provisions of this chapter.
 

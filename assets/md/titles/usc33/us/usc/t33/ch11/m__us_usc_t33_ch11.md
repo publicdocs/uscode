@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs491" data-uslm-ref="/us/usc/t33/s491">491.</a>  </td>
 
     <td> Approval of and deviation from plans; exemptions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs492" data-uslm-ref="/us/usc/t33/s492">492.</a>  </td>
 
     <td> Bridge as post route; limitation as to charges against Government; telegraph and telephone lines.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs493" data-uslm-ref="/us/usc/t33/s493">493.</a>  </td>
 
     <td> Use of railroad bridges by other railroad companies.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs494" data-uslm-ref="/us/usc/t33/s494">494.</a>  </td>
 
     <td> Obstruction of navigation; alterations and removals; lights and signals; draws.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 494a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs494a" data-uslm-ref="/us/usc/t33/s494a">494a.</a>  </td>
 
     <td> Study of bridges over navigable waters.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs495" data-uslm-ref="/us/usc/t33/s495">495.</a>  </td>
 
     <td> Violations of orders respecting bridges and accessory works.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 496.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs496" data-uslm-ref="/us/usc/t33/s496">496.</a>  </td>
 
     <td> Time for commencement and completion of bridge.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 497.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs497" data-uslm-ref="/us/usc/t33/s497">497.</a>  </td>
 
     <td> “Persons” defined.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 498.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs498" data-uslm-ref="/us/usc/t33/s498">498.</a>  </td>
 
     <td> Reservation of right to alter or repeal.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 498a, 498b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs498a" data-uslm-ref="/us/usc/t33/s498a">498a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs498b" data-uslm-ref="/us/usc/t33/s498b">498b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 499.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs499" data-uslm-ref="/us/usc/t33/s499">499.</a>  </td>
 
     <td> Regulations for drawbridges.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 500.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs500" data-uslm-ref="/us/usc/t33/s500">500.</a>  </td>
 
     <td> Deflection of current; liability to riparian owners.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs501" data-uslm-ref="/us/usc/t33/s501">501.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs502" data-uslm-ref="/us/usc/t33/s502">502.</a>  </td>
 
     <td> Alteration, removal, or repair of bridge or accessory obstructions to navigation.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 503 to 507.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs503" data-uslm-ref="/us/usc/t33/s503">503</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs507" data-uslm-ref="/us/usc/t33/s507">507.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs508" data-uslm-ref="/us/usc/t33/s508">508.</a>  </td>
 
     <td> Amount of tolls.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs511" data-uslm-ref="/us/usc/t33/s511">511.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs512" data-uslm-ref="/us/usc/t33/s512">512.</a>  </td>
 
     <td> Obstruction of navigation.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs513" data-uslm-ref="/us/usc/t33/s513">513.</a>  </td>
 
     <td> Notice, hearings, and findings.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs514" data-uslm-ref="/us/usc/t33/s514">514.</a>  </td>
 
     <td> Submission and approval of general plans and specifications.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs515" data-uslm-ref="/us/usc/t33/s515">515.</a>  </td>
 
     <td> Contracts for project; guaranty of cost.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs516" data-uslm-ref="/us/usc/t33/s516">516.</a>  </td>
 
     <td> Apportionment of cost.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs517" data-uslm-ref="/us/usc/t33/s517">517.</a>  </td>
 
     <td> Payment of share of United States.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs518" data-uslm-ref="/us/usc/t33/s518">518.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs519" data-uslm-ref="/us/usc/t33/s519">519.</a>  </td>
 
     <td> Noncompliance with orders; penalties; removal of bridge.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs520" data-uslm-ref="/us/usc/t33/s520">520.</a>  </td>
 
     <td> Review of findings and orders.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs521" data-uslm-ref="/us/usc/t33/s521">521.</a>  </td>
 
     <td> Regulations and orders.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs522" data-uslm-ref="/us/usc/t33/s522">522.</a>  </td>
 
     <td> Existing provisions of law.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs523" data-uslm-ref="/us/usc/t33/s523">523.</a>  </td>
 
     <td> Relocation of bridges.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—ALTERATION OF BRIDGES  </td>
 
   <tr>
 
-    <td> 524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs524" data-uslm-ref="/us/usc/t33/s524">524.</a>  </td>
 
     <td> Applicability of administrative procedure provisions.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—GENERAL BRIDGE AUTHORITY  </td>
 
   <tr>
 
-    <td> 525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs525" data-uslm-ref="/us/usc/t33/s525">525.</a>  </td>
 
     <td> Construction and operation of bridges.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—GENERAL BRIDGE AUTHORITY  </td>
 
   <tr>
 
-    <td> 526, 526a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs526" data-uslm-ref="/us/usc/t33/s526">526</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs526a" data-uslm-ref="/us/usc/t33/s526a">526a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—GENERAL BRIDGE AUTHORITY  </td>
 
   <tr>
 
-    <td> 527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs527" data-uslm-ref="/us/usc/t33/s527">527.</a>  </td>
 
     <td> Acquisition of interstate bridges by public agencies; amount of damages.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—GENERAL BRIDGE AUTHORITY  </td>
 
   <tr>
 
-    <td> 528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs528" data-uslm-ref="/us/usc/t33/s528">528.</a>  </td>
 
     <td> Statement of construction costs of privately owned interstate bridges; investigation of costs; conclusiveness of findings; review.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—GENERAL BRIDGE AUTHORITY  </td>
 
   <tr>
 
-    <td> 529.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs529" data-uslm-ref="/us/usc/t33/s529">529.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—GENERAL BRIDGE AUTHORITY  </td>
 
   <tr>
 
-    <td> 530.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs530" data-uslm-ref="/us/usc/t33/s530">530.</a>  </td>
 
     <td> Bridges included and excluded.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—GENERAL BRIDGE AUTHORITY  </td>
 
   <tr>
 
-    <td> 531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs531" data-uslm-ref="/us/usc/t33/s531">531.</a>  </td>
 
     <td> International bridges.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—GENERAL BRIDGE AUTHORITY  </td>
 
   <tr>
 
-    <td> 532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs532" data-uslm-ref="/us/usc/t33/s532">532.</a>  </td>
 
     <td> Eminent domain.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER III—GENERAL BRIDGE AUTHORITY  </td>
 
   <tr>
 
-    <td> 533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs533" data-uslm-ref="/us/usc/t33/s533">533.</a>  </td>
 
     <td> Penalties for violations.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—GENERAL BRIDGE AUTHORITY  </td>
 
   <tr>
 
-    <td> 534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs534" data-uslm-ref="/us/usc/t33/s534">534.</a>  </td>
 
     <td> Conveyance of right, title, and interest of United States in bridges transferred to States or political subdivisions; terms and conditions.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
   <tr>
 
-    <td> 535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535" data-uslm-ref="/us/usc/t33/s535">535.</a>  </td>
 
     <td> Congressional consent to construction, maintenance, and operation of international bridges; conditions of consent.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
   <tr>
 
-    <td> 535a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535a" data-uslm-ref="/us/usc/t33/s535a">535a.</a>  </td>
 
     <td> Congressional consent to State agreements with Canada and Mexico; Secretary of State’s approval of agreements.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
   <tr>
 
-    <td> 535b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535b" data-uslm-ref="/us/usc/t33/s535b">535b.</a>  </td>
 
     <td> Presidential approval; recommendations of Federal officials.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
   <tr>
 
-    <td> 535c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535c" data-uslm-ref="/us/usc/t33/s535c">535c.</a>  </td>
 
     <td> Secretary of Transportation’s approval; commencement and completion requirements; extension of time limits.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
   <tr>
 
-    <td> 535d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535d" data-uslm-ref="/us/usc/t33/s535d">535d.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
   <tr>
 
-    <td> 535e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535e" data-uslm-ref="/us/usc/t33/s535e">535e.</a>  </td>
 
     <td> Ownership.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
   <tr>
 
-    <td> 535f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535f" data-uslm-ref="/us/usc/t33/s535f">535f.</a>  </td>
 
     <td> Applicability of provisions.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
   <tr>
 
-    <td> 535g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535g" data-uslm-ref="/us/usc/t33/s535g">535g.</a>  </td>
 
     <td> Federal navigable waters and commerce jurisdiction unaffected.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
   <tr>
 
-    <td> 535h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535h" data-uslm-ref="/us/usc/t33/s535h">535h.</a>  </td>
 
     <td> Report of Secretary of Transportation’s approval during fiscal year.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
   <tr>
 
-    <td> 535i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535i" data-uslm-ref="/us/usc/t33/s535i">535i.</a>  </td>
 
     <td> Reservation of right to alter or repeal.  </td>
 

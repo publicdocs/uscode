@@ -15,7 +15,7 @@
 
 ## § 883b. Dissemination of data; further activities
 
-In order that full public benefit may be derived from the operations of the National Ocean Survey by the dissemination of data resulting from the activities herein authorized and of related data from other sources, the Secretary of Commerce is authorized to conduct the following activities:
+    In order that full public benefit may be derived from the operations of the National Ocean Survey by the dissemination of data resulting from the activities herein authorized and of related data from other sources, the Secretary of Commerce is authorized to conduct the following activities:
 
     (1) Analysis and prediction of tide and current data;
 

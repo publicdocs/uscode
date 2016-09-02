@@ -15,7 +15,7 @@
 
 ## § 3202. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to improve tsunami detection, forecasting, warnings, notification, outreach, and mitigation to protect life and property in the United States;
 

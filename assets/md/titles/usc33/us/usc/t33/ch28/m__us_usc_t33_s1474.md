@@ -15,7 +15,7 @@
 
 ## § 1474. Federal intervention actions
 
-Upon a determination under [section 1472 of this title][/us/usc/t33/s1472] of a grave and imminent danger to the coastline or related interests of the United States, the Secretary may—
+    Upon a determination under [section 1472 of this title][/us/usc/t33/s1472] of a grave and imminent danger to the coastline or related interests of the United States, the Secretary may—
 
     (1) coordinate and direct all public and private efforts directed at the removal or elimination of the threatened pollution damage;
 

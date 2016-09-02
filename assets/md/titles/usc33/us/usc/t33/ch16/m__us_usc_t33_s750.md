@@ -11,15 +11,27 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s749.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s751 to 752a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs750)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s749.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s752b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs750)
 
 ## § 750. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 642][/us/stat/80/642]
 
     Section, [act Aug. 1, 1914, ch. 223, § 1][/us/act/1914-08-01/ch223/s1], [38 Stat. 658][/us/stat/38/658], related to leaves of absence to employees of Lighthouse Service.
 
+§§ 751 to 752a. __Repealed.__  __[__  __Aug. 4, 1949, ch. 393, § 20__  __][/us/act/1949-08-04/ch393/s20]__  __,__  __[__  __63 Stat. 561__  __][/us/stat/63/561]__ 
+
+    Section 751, [act Mar. 3, 1915, ch. 81, § 4][/us/act/1915-03-03/ch81/s4], [38 Stat. 927][/us/stat/38/927], related to leave of absence to employees of Lighthouse Service. See section 6301 et seq. of Title 5, Government Organization and Employees.
+
+    Section 752, acts [Mar. 4, 1913, ch. 168][/us/act/1913-03-04/ch168], [37 Stat. 1019][/us/stat/37/1019]; [Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736], related to sale of condemned supplies, etc., and land not used; disposition of funds. See [section 93 of Title 14][/us/usc/t14/s93], Coast Guard.
+
+    Section 752a, [act May 22, 1926, ch. 371, § 5][/us/act/1926-05-22/ch371/s5], [44 Stat. 626][/us/stat/44/626], related to sale of equipment; disposition of receipts. See [section 641 of Title 14][/us/usc/t14/s641].
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
+
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s749.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s751 to 752a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs750)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s749.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s752b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs750)
 
 ----------
 ----------
@@ -28,5 +40,17 @@
 [/us/stat/80/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F642
 [/us/act/1914-08-01/ch223/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch223%2Fs1
 [/us/stat/38/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F658
+[/us/act/1949-08-04/ch393/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs20
+[/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
+[/us/act/1915-03-03/ch81/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch81%2Fs4
+[/us/stat/38/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F927
+[/us/act/1913-03-04/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch168
+[/us/stat/37/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F1019
+[/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
+[/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
+[/us/usc/t14/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs93
+[/us/act/1926-05-22/ch371/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-22%2Fch371%2Fs5
+[/us/stat/44/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F626
+[/us/usc/t14/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs641
 
 

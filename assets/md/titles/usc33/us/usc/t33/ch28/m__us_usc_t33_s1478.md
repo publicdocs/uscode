@@ -15,7 +15,7 @@
 
 ## § 1478. Personal, flag state, and foreign state considerations
 
-In the direction and conduct of measures under this chapter the Secretary shall use his best endeavors to—
+    In the direction and conduct of measures under this chapter the Secretary shall use his best endeavors to—
 
     (1) assure the avoidance of risk to human life;
 

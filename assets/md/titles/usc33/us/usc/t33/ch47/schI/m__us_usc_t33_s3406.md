@@ -15,7 +15,7 @@
 
 ## § 3406. Authorization of appropriations
 
-There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this subchapter—
+    There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this subchapter—
 
     (1) $33,550,000 for fiscal year 2009;
 

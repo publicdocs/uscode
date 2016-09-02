@@ -21,9 +21,13 @@
 
         (1) __Liberty Landing. \[Omitted\]__ 
 
-        (2) __Marina Towers and World Trade Center—Pier 25 North. \[Omitted\]__ 
+        (2) __Marina Towers and World Trade Center—__ 
 
-        (3) __Marine Trade Center—Pier 24 North. \[Omitted\]__ 
+        Pier 25 North. \[Omitted\]
+
+        (3) __Marine Trade Center—__ 
+
+        Pier 24 North. \[Omitted\]
 
         (4) __National Sugar Company “Sugar House”. \[Omitted\]__ 
 

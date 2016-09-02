@@ -15,7 +15,7 @@
 
 ## § 3426. Authorization of appropriations
 
-There are authorized to be appropriated to the National Oceanic and Atmospheric Administration—
+    There are authorized to be appropriated to the National Oceanic and Atmospheric Administration—
 
     (1)
 

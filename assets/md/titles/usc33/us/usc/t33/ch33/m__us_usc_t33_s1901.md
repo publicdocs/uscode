@@ -37,9 +37,7 @@
 
         (9)
 
-         “operator” means—
-
-            (a) in the case of a ship, a charterer by demise or any other person, except the owner, who is responsible for the operation, manning, victualing, and supplying of the vessel, or
+         “operator” means—    (a) in the case of a ship, a charterer by demise or any other person, except the owner, who is responsible for the operation, manning, victualing, and supplying of the vessel, or
 
             (b) in the case of a terminal, any person, except the owner, responsible for the operation of the terminal by agreement with the owner;
 
@@ -445,9 +443,7 @@
 
 >     “(11) __Waters of the Alexander Archipelago.—__ 
 
->     The term ‘waters of the Alexander Archipelago’ means all waters under the sovereignty of the United States within or near Southeast Alaska, beginning at a point 58°11′41′′N, 136°39′25′′W \[near Cape Spencer Light\], thence southeasterly along a line three nautical miles seaward of the baseline from which the breadth of the territorial sea is measured in the Pacific Ocean and the Dixon Entrance, except where this line intersects geodesics connecting the following five pairs of points:
-
->         “(1) 58°05′17′′N, 136°33′49′′W and 58°11′41′′N, 136°39′25′′W \[Cross Sound\].
+>     The term ‘waters of the Alexander Archipelago’ means all waters under the sovereignty of the United States within or near Southeast Alaska, beginning at a point 58°11′41′′N, 136°39′25′′W \[near Cape Spencer Light\], thence southeasterly along a line three nautical miles seaward of the baseline from which the breadth of the territorial sea is measured in the Pacific Ocean and the Dixon Entrance, except where this line intersects geodesics connecting the following five pairs of points:    “(1) 58°05′17′′N, 136°33′49′′W and 58°11′41′′N, 136°39′25′′W \[Cross Sound\].
 
 >         “(2) 56°09′40′′N, 134°40′00′′W and 55°49′15′′N, 134°17′40′′W \[Chatham Strait\].
 

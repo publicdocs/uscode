@@ -15,7 +15,7 @@
 
 ## § 1958. Authorization of appropriations
 
-There are authorized to be appropriated for each fiscal year 2006 through 2010—
+    There are authorized to be appropriated for each fiscal year 2006 through 2010—
 
     (1) to the Administrator for carrying out sections 1952 and 1955 of this title, $10,000,000, of which no more than 10 percent may be for administrative costs; and
 

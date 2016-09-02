@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s886, 887.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s889, 890.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs888)
+[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s885.md) | [Next](./../../../../..//us/usc/t33/ch17/schIII/m__us_usc_t33_ch17_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs888)
 
 ## § 888. Omitted
 
@@ -19,9 +19,15 @@
 
     Section, R.S. §§ 264, 4690; acts [Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], §§ 4, 10, [32 Stat. 826][/us/stat/32/826], 829; [Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736]; [June 5, 1920, ch. 235, § 1][/us/act/1920-06-05/ch235/s1], [41 Stat. 929][/us/stat/41/929], relating to an annual statement on coast surveys by the Coast and Geodetic Survey \[now the National Ocean Survey\], was partially repealed by acts [May 29, 1928, ch. 901, § 1(104)][/us/act/1928-05-29/ch901/s1/104], [45 Stat. 994][/us/stat/45/994]; [Aug. 7, 1946, ch. 770, § 1(5)][/us/act/1946-08-07/ch770/s1/5], [60 Stat. 866][/us/stat/60/866]; and [Aug. 30, 1954, ch. 1076, § 1(13)][/us/act/1954-08-30/ch1076/s1/13], [68 Stat. 967][/us/stat/68/967].
 
+§§ 889, 890. __Repealed.__  __[__  __June 21, 1955, ch. 172, § 5(5)__  __][/us/act/1955-06-21/ch172/s5/5]__  __,__  __[__  __69 Stat. 170__  __][/us/stat/69/170]__ 
+
+    Section 889, acts [Mar. 4, 1909, ch. 313, § 1][/us/act/1909-03-04/ch313/s1], [35 Stat. 1064][/us/stat/35/1064]; [Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736], authorized cooperation with North Carolina State Fish Commission in survey of waters of State.
+
+    Section 890, acts [Mar. 4, 1909, ch. 313, § 2][/us/act/1909-03-04/ch313/s2], [35 Stat. 1065][/us/stat/35/1065]; [Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736], provided for marking triangulation points of North Carolina survey.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s886, 887.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s889, 890.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs888)
+[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s885.md) | [Next](./../../../../..//us/usc/t33/ch17/schIII/m__us_usc_t33_ch17_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs888)
 
 ----------
 ----------
@@ -38,5 +44,15 @@
 [/us/stat/60/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F866
 [/us/act/1954-08-30/ch1076/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F13
 [/us/stat/68/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F967
+[/us/act/1955-06-21/ch172/s5/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-21%2Fch172%2Fs5%2F5
+[/us/stat/69/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F170
+[/us/act/1909-03-04/ch313/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch313%2Fs1
+[/us/stat/35/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1064
+[/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
+[/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
+[/us/act/1909-03-04/ch313/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch313%2Fs2
+[/us/stat/35/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1065
+[/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
+[/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
 
 

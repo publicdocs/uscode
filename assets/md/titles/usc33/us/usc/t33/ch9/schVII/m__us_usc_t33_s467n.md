@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467k to 467m.md) | [Next](./../../../../..//us/usc/t33/ch10/m__us_usc_t33_ch10.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467n)
+[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467j.md) | [Next](./../../../../..//us/usc/t33/ch10/m__us_usc_t33_ch10.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467n)
 
 ## § 467n. Recovery of dam modification costs required for safety purposes
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467k to 467m.md) | [Next](./../../../../..//us/usc/t33/ch10/m__us_usc_t33_ch10.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467n)
+[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467j.md) | [Next](./../../../../..//us/usc/t33/ch10/m__us_usc_t33_ch10.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467n)
 
 ----------
 ----------

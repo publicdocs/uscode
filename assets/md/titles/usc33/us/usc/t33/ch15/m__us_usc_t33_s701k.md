@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701j.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701l, 701l–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701k)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701j.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701k)
 
 ## § 701k. Crediting reimbursements for lost, stolen, or damaged property
 
@@ -27,9 +27,15 @@
 
     Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
+§§ 701l, 701l–1. __Repealed.__  __[__  __Pub. L. 89–554, § 8(a)__  __][/us/pl/89/554/s8/a]__  __,__  __Sept. 6, 1966__  __,__  __[__  __80 Stat. 650__  __][/us/stat/80/650]__  __, 656__ 
+
+    Section 701l, [act June 20, 1938, ch. 535, § 5][/us/act/1938-06-20/ch535/s5], [52 Stat. 805][/us/stat/52/805], related to employment of retired civil service employees. See [section 3323 of Title 5][/us/usc/t5/s3323], Government Organization and Employees.
+
+    Section 701l–1, [act May 17, 1950, ch. 188][/us/act/1950-05-17/ch188], title II, § 214, [64 Stat. 184][/us/stat/64/184], provided that section 947 of former Title 5, Executive Departments and Government Officers and Employees, should not be construed to prevent employment of additional personnel.
+
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701j.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701l, 701l–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701k)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701j.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701k)
 
 ----------
 ----------
@@ -43,5 +49,12 @@
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
+[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/stat/80/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F650
+[/us/act/1938-06-20/ch535/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch535%2Fs5
+[/us/stat/52/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F805
+[/us/usc/t5/s3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3323
+[/us/act/1950-05-17/ch188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-17%2Fch188
+[/us/stat/64/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F184
 
 

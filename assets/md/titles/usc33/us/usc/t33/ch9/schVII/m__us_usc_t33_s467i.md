@@ -15,7 +15,7 @@
 
 ## § 467i. Statutory construction
 
-Nothing in this subchapter and no action or failure to act under this subchapter shall—
+    Nothing in this subchapter and no action or failure to act under this subchapter shall—
 
     (1) create any liability in the United States or its officers or employees for the recovery of damages caused by such action or failure to act;
 

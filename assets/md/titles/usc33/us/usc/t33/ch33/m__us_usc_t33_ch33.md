@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1901" data-uslm-ref="/us/usc/t33/s1901">1901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1902" data-uslm-ref="/us/usc/t33/s1902">1902.</a>  </td>
 
     <td> Ships subject to preventive measures.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1902a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1902a" data-uslm-ref="/us/usc/t33/s1902a">1902a.</a>  </td>
 
     <td> Discharge of agricultural cargo residue.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1903" data-uslm-ref="/us/usc/t33/s1903">1903.</a>  </td>
 
     <td> Administration and enforcement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1904" data-uslm-ref="/us/usc/t33/s1904">1904.</a>  </td>
 
     <td> Certificates.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1905" data-uslm-ref="/us/usc/t33/s1905">1905.</a>  </td>
 
     <td> Pollution reception facilities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1906" data-uslm-ref="/us/usc/t33/s1906">1906.</a>  </td>
 
     <td> Incidents involving ships.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1907" data-uslm-ref="/us/usc/t33/s1907">1907.</a>  </td>
 
     <td> Violations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1908" data-uslm-ref="/us/usc/t33/s1908">1908.</a>  </td>
 
     <td> Penalties for violations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1909" data-uslm-ref="/us/usc/t33/s1909">1909.</a>  </td>
 
     <td> MARPOL Protocol; proposed amendments.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1910" data-uslm-ref="/us/usc/t33/s1910">1910.</a>  </td>
 
     <td> Legal actions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1911" data-uslm-ref="/us/usc/t33/s1911">1911.</a>  </td>
 
     <td> Effect on other laws.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1912" data-uslm-ref="/us/usc/t33/s1912">1912.</a>  </td>
 
     <td> International law.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1913" data-uslm-ref="/us/usc/t33/s1913">1913.</a>  </td>
 
     <td> Compliance reports.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1914" data-uslm-ref="/us/usc/t33/s1914">1914.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1915" data-uslm-ref="/us/usc/t33/s1915">1915.</a>  </td>
 
     <td> Repealed.  </td>
 

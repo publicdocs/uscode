@@ -15,7 +15,7 @@
 
 ## § 1402. Definitions
 
-For the purposes of this Act the term—
+    For the purposes of this Act the term—
 
     (a) “Administrator” means the Administrator of the Environmental Protection Agency.
 

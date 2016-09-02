@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1471" data-uslm-ref="/us/usc/t33/s1471">1471.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1472" data-uslm-ref="/us/usc/t33/s1472">1472.</a>  </td>
 
     <td> Grave and imminent danger from oil pollution casualties to coastline or related interests of United States; Federal nonliability for Federal preventive measures on the high seas.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1473" data-uslm-ref="/us/usc/t33/s1473">1473.</a>  </td>
 
     <td> Consultations and determinations respecting creation of hazards to human health, etc.; criteria for determinations respecting grave and imminent dangers of major harmful consequences to United States coastline or related interests.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1474" data-uslm-ref="/us/usc/t33/s1474">1474.</a>  </td>
 
     <td> Federal intervention actions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1475" data-uslm-ref="/us/usc/t33/s1475">1475.</a>  </td>
 
     <td> Consultation procedure.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1476" data-uslm-ref="/us/usc/t33/s1476">1476.</a>  </td>
 
     <td> Emergencies.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1477" data-uslm-ref="/us/usc/t33/s1477">1477.</a>  </td>
 
     <td> Reasonable measures; considerations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1478" data-uslm-ref="/us/usc/t33/s1478">1478.</a>  </td>
 
     <td> Personal, flag state, and foreign state considerations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1479" data-uslm-ref="/us/usc/t33/s1479">1479.</a>  </td>
 
     <td> Federal liability for unreasonable damages.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1480" data-uslm-ref="/us/usc/t33/s1480">1480.</a>  </td>
 
     <td> Notification by Secretary of State.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1481" data-uslm-ref="/us/usc/t33/s1481">1481.</a>  </td>
 
     <td> Violations; penalties.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1482" data-uslm-ref="/us/usc/t33/s1482">1482.</a>  </td>
 
     <td> Consultation for nomination and nomination of experts, negotiators, etc.; proposal of amendments to list of substances other than convention oil; Presidential acceptance of amendments.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1483" data-uslm-ref="/us/usc/t33/s1483">1483.</a>  </td>
 
     <td> Foreign government ships; immunity.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1484" data-uslm-ref="/us/usc/t33/s1484">1484.</a>  </td>
 
     <td> Interpretation and administration; other right, duty, privilege, or immunity and other remedy unaffected.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1485" data-uslm-ref="/us/usc/t33/s1485">1485.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1486" data-uslm-ref="/us/usc/t33/s1486">1486.</a>  </td>
 
     <td> Oil Spill Liability Trust Fund.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1487.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1487" data-uslm-ref="/us/usc/t33/s1487">1487.</a>  </td>
 
     <td> Effective date.  </td>
 

@@ -27,7 +27,9 @@ SUBCHAPTER I—RULES  </td>
 
   <tr>
 
-    <td> 2001 to 2038. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2001" data-uslm-ref="/us/usc/t33/s2001">2001</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2038" data-uslm-ref="/us/usc/t33/s2038">2038.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -41,7 +43,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2071.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2071" data-uslm-ref="/us/usc/t33/s2071">2071.</a>  </td>
 
     <td> Inland navigation rules.  </td>
 
@@ -49,7 +51,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2072.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2072" data-uslm-ref="/us/usc/t33/s2072">2072.</a>  </td>
 
     <td> Violations of Inland Navigational Rules.  </td>
 
@@ -57,7 +59,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2073.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2073" data-uslm-ref="/us/usc/t33/s2073">2073.</a>  </td>
 
     <td> Navigation Safety Advisory Council.  </td>
 
