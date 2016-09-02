@@ -109,7 +109,7 @@
 
 [Pub. L. 108–159, title II, § 214(b)][/us/pl/108/159/s214/b], Dec. 4, 2003, [117 Stat. 1982][/us/stat/117/1982], as amended by [Pub. L. 111–203, title X, § 1088(b)(3)][/us/pl/111/203/s1088/b/3], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Regulations to carry out section 624 of the Fair Credit Reporting Act ([15 U.S.C. 1681s–3][/us/usc/t15/s1681s–3]), shall be prescribed, as described in paragraph (2), by—
 
@@ -119,11 +119,11 @@
 
 >         “(C) the Bureau, with respect to other entities subject to this Act \[see Short Title of 2003 Amendment note set out under [section 1601 of this title][/us/usc/t15/s1601]\].
 
->     “(2)  __Coordination__  __.—__ 
+>     “(2) __Coordination.—__ 
 
 >     Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
 
->     “(3)  __Considerations__  __.—__ 
+>     “(3) __Considerations.—__ 
 
 >     In promulgating regulations under this subsection, each agency referred to in paragraph (1) shall—
 
@@ -133,7 +133,7 @@
 
 >         “(C) ensure that notices and disclosures may be coordinated and consolidated, as provided in subsection (b) of that section 624.
 
->     “(4)  __Timing__  __.—__ 
+>     “(4) __Timing.—__ 
 
 >     Regulations required by this subsection shall—
 
@@ -147,11 +147,11 @@
 
 [Pub. L. 108–159, title II, § 214(e)][/us/pl/108/159/s214/e], Dec. 4, 2003, [117 Stat. 1983][/us/stat/117/1983], as amended by [Pub. L. 111–203, title X, § 1088(b)(4)][/us/pl/111/203/s1088/b/4], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Federal banking agencies, the National Credit Union Administration, and the Bureau shall jointly conduct regular studies of the consumer information sharing practices by financial institutions and other persons that are creditors or users of consumer reports with their affiliates.
 
->     “(2)  __Matters for study__  __.—__ 
+>     “(2) __Matters for study.—__ 
 
 >     In conducting the studies required by paragraph (1), the agencies described in paragraph (1) shall—
 
@@ -177,11 +177,11 @@
 
 >     “(3) __Reports.—__ 
 
->         “(A)  __Initial report__  __.—__ 
+>         “(A) __Initial report.—__ 
 
 >         Not later than 3 years after the date of enactment of this Act \[Dec. 4, 2003\], the Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly submit a report to the Congress on the results of the initial study conducted in accordance with this subsection, together with any recommendations for legislative or regulatory action.
 
->         “(B)  __Followup reports__  __.—__ 
+>         “(B) __Followup reports.—__ 
 
 >         The Federal banking agencies, the National Credit Union Administration, and the Commission shall, not less frequently than once every 3 years following the date of submission of the initial report under subparagraph (A), jointly submit a report to the Congress that, together with any recommendations for legislative or regulatory action—
 

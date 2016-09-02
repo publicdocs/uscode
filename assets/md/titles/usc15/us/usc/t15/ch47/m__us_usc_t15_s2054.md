@@ -71,11 +71,11 @@
 
 > “SECTION 1. __SHORT TITLE; FINDINGS.__ 
 
->     “(a)  __Short Title__  __.—__ 
+>     “(a) __Short Title.—__ 
 
 >     This Act may be cited as the ‘Fire Safe Cigarette Act of 1990’.
 
->     “(b)  __Findings__  __.—__ 
+>     “(b) __Findings.—__ 
 
 >     The Congress finds that—
 
@@ -93,7 +93,7 @@
 
 > “SEC. 2. __COMPLETION OF FIRE SAFETY RESEARCH.__ 
 
->     “(a)  __Center for Fire Research__  __.—__ 
+>     “(a) __Center for Fire Research.—__ 
 
 >     At the request of the Consumer Product Safety Commission, the National Institute for Standards and Technology’s Center for Fire Research shall—
 
@@ -105,7 +105,7 @@
 
 >         The Commission shall make such request not later than the expiration of 30 days after the date of the enactment of this Act \[Aug. 10, 1990\].
 
->     “(b)  __Commission__  __.—__ 
+>     “(b) __Commission.—__ 
 
 >     The Consumer Product Safety Commission shall—
 
@@ -113,17 +113,17 @@
 
 >         “(2) develop information on societal costs of cigarette-ignited fires.
 
->     “(c)  __Health and Human Services__  __.—__ 
+>     “(c) __Health and Human Services.—__ 
 
 >     The Consumer Product Safety Commission, in consultation with the Secretary of Health and Human Services, shall develop information on changes in the toxicity of smoke and resultant health effects from cigarette prototypes. The Commission shall not obligate more than $50,000 to develop such information.
 
 > “SEC. 3. __ADVISORY GROUP.__ 
 
->     “(a)  __Establishment__  __.—__ 
+>     “(a) __Establishment.—__ 
 
 >     There is established the Technical Advisory Group to advise and work with the Consumer Product Safety Commission and National Institute for Standards and Technology’s Center for Fire Research on the implementation of this Act. The Technical Advisory Group may hold hearings to de­velop information to carry out its functions. The Technical Advisory Group shall terminate 1 month after the submission of the final report of the Chairman of the Consumer Product Safety Commission under section 4.
 
->     “(b)  __Members__  __.—__ 
+>     “(b) __Members.—__ 
 
 >     The Technical Advisory Group shall consist of the same individuals appointed to the Technical Study Group on Cigarette and Little Cigar Fire Safety under section 3(a) of the Cigarette Safety Act of 1984 \[set out below\]. If such an individual is unavailable to serve on the Technical Advisory Group, the entity which such individual represented on such Technical Study Group shall submit to the Chairman of the Consumer Product Safety Commission the name of another individual to be appointed by the Chairman to represent such group on the Technical Advisory Group.
 
@@ -133,11 +133,11 @@
 
 > “SEC. 5. __CONFIDENTIALITY.__ 
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Any information provided to the National Institute for Standards and Technology’s Center for Fire Research, to the Consumer Product Safety Commission, or to the Technical Advisory Group under section 2 which is designated as trade secret or confidential information shall be treated as trade secret or confidential information subject to [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4], United States Code, and [section 1905 of title 18][/us/usc/t18/s1905], United States Code, and shall not be revealed, except as provided under subsection (b). No member or employee of the Center for Fire Research, the Consumer Product Safety Commission, or the Technical Advisory Group and no person assigned to or consulting with the Center for Fire Research, the Consumer Product Safety Commission, or the Technical Advisory Group, shall disclose any such information to any person who is not a member or employee of, assigned to, or consulting with, the Center for Fire Research, Consumer Product Safety Commission, or the Technical Advisory Group unless the person submitting such information specifically and in writing authorizes such disclosure.
 
->     “(b)  __Construction__  __.—__ 
+>     “(b) __Construction.—__ 
 
 >     Subsection (a) does not authorize the withholding of any information from any duly authorized subcommittee or committee of the Congress, except that if a subcommittee or committee of the Congress requests the Consumer Product Safety Commission, the National Institute for Standards and Technology’s Center for Fire Research, or the Technical Advisory Group to provide such information, the Commission, the Center for Fire Research, or Technical Advisory Group shall notify the person who provided the information of such a request in writing.”
 

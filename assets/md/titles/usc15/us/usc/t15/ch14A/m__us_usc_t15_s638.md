@@ -2029,7 +2029,7 @@
 
 >     “(c) __Rulemaking To Ensure That Firms That Are Majority-Owned by Multiple Venture Capital Operating Companies, Hedge Funds, Or Private Equity Firms Are Able To Participate in a Portion of the SBIR Program.—__ 
 
->         “(1)  __Statement of congressional intent__  __.—__ 
+>         “(1) __Statement of congressional intent.—__ 
 
 >         It is the stated intent of Congress that the Administrator should promulgate regulations to carry out the authority under section 9(dd) of the Small Business Act \[[15 U.S.C. 638(dd)][/us/usc/t15/s638/dd]\], as added by this section, that—
 
@@ -2041,17 +2041,17 @@
 
 >         “(2) __Rulemaking required.—__ 
 
->             “(A)  __Proposed regulations__  __.—__ 
+>             “(A) __Proposed regulations.—__ 
 
 >             Not later than 120 days after the date of enactment of this Act \[Dec. 31, 2011\], the Administrator shall issue proposed regulations to amend section 121.103 (relating to determinations of affiliation applicable to the SBIR program) and section 121.702 (relating to ownership and control standards and size standards applicable to the SBIR program) of title 13, Code of Federal Regulations, for firms that are majority-owned by multiple venture capital operating companies, hedge funds, or private equity firms and participating in the SBIR program solely under the authority under section 9(dd) of the Small Business Act \[[15 U.S.C. 638(dd)][/us/usc/t15/s638/dd]\], as added by this section.
 
->             “(B)  __Final regulations__  __.—__ 
+>             “(B) __Final regulations.—__ 
 
 >             Not later than 1 year after the date of enactment of this Act, and after providing notice of and opportunity for comment on the proposed regulations issued under subparagraph (A), the Administrator shall issue final or interim final regulations under this subsection.
 
 >         “(3) __Contents.—__ 
 
->             “(A)  __In general__  __.—__ 
+>             “(A) __In general.—__ 
 
 >             The regulations issued under this subsection shall permit the participation of applicants majority-owned by multiple venture capital operating companies, hedge funds, or private equity firms in the SBIR program in accordance with section 9(dd) of the Small Business Act \[[15 U.S.C. 638(dd)][/us/usc/t15/s638/dd]\], as added by this section, unless the Administrator determines—
 
@@ -2071,11 +2071,11 @@
 
 >                          “(II) is majority-owned or controlled by a foreign-owned business, foreign entity, or person who is not a citizen of the United States or alien lawfully admitted for permanent residence.
 
->             “(B)  __Size standards__  __.—__ 
+>             “(B) __Size standards.—__ 
 
 >             Under the authority to establish size standards under paragraphs (2) and (3) of section 3(a) of the Small Business Act ([15 U.S.C. 632(a)][/us/usc/t15/s632/a]), the Administrator shall, in accordance with paragraph (1) of this subsection, establish size standards for applicants seeking to participate in the SBIR program solely under the authority under section 9(dd) of the Small Business Act \[[15 U.S.C. 638(dd)][/us/usc/t15/s638/dd]\], as added by this section.
 
->             “(C)  __Criteria for determining foreign ownership__  __.—__ 
+>             “(C) __Criteria for determining foreign ownership.—__ 
 
 >             The Administrator shall establish criteria for determining whether an applicant meets the requirements under subparagraph (A)(ii), and, in establishing the criteria, shall consider whether the criteria should include—
 
@@ -2091,7 +2091,7 @@
 
 >                          “(II) in the aggregate, entities that are direct or indirect subsidiaries of foreign-owned entities own more than 49 percent of the applicant.
 
->             “(D)  __Criteria for determining affiliation__  __.—__ 
+>             “(D) __Criteria for determining affiliation.—__ 
 
 >             The Administrator shall establish criteria, in accordance with paragraph (1), for determining whether an applicant is affiliated with a venture capital operating company, hedge fund, private equity firm, or any other business that the venture capital operating company, hedge fund, or private equity firm has financed and, in establishing the criteria, shall specify that—
 
@@ -2109,17 +2109,17 @@
 
 >                 “(iv) subject to clauses (i), (ii), and (iii), the Administrator retains the authority to determine whether a portfolio company of a venture capital operating company, hedge fund, or private equity firm is affiliated with an applicant based on factors independent of whether there is a shared investor, such as whether there are contractual obligations between the portfolio company and the applicant.
 
->         “(4)  __Enforcement__  __.—__ 
+>         “(4) __Enforcement.—__ 
 
 >         If the Administrator does not issue final or interim final regulations under this subsection on or before the date that is 1 year after the date of enactment of this Act \[Dec. 31, 2011\], the Administrator may not carry out or establish any pilot program until the date on which the Administrator issues the final or interim final regulations under this subsection.
 
->         “(5)  __Definition__  __.—__ 
+>         “(5) __Definition.—__ 
 
 >         In this subsection, the terms ‘venture capital operating company’, ‘hedge fund’, and ‘private equity firm’ have the same meaning as in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]), as amended by this section.
 
 >     “(d) __Assistance for Determining Affiliates.—__ 
 
->         “(1)  __Clear explanation required__  __.—__ 
+>         “(1) __Clear explanation required.—__ 
 
 >         Not later than 30 days after the date of enactment of this Act \[Dec. 31, 2011\], the Administrator shall post on the Web site of the Administration (with a direct link displayed on the homepage of the Web site of the Administration or the SBIR and STTR Web sites of the Administration)—
 
@@ -2133,7 +2133,7 @@
 
 >                 “(ii) shall respond to a request under clause (i) not later than 20 business days after the date on which the request is received.
 
->         “(2)  __Inclusion of affiliation rules for certain small business concerns__  __.—__ 
+>         “(2) __Inclusion of affiliation rules for certain small business concerns.—__ 
 
 >         On and after the date on which the final regulations under subsection (c) are issued, the Administrator shall post on the Web site of the Administration information relating to the regulations, in accordance with paragraph (1).”
 
@@ -2143,7 +2143,7 @@
 
 [Pub. L. 112–81, div. E, title LI, § 5136][/us/pl/112/81/s5136], Dec. 31, 2011, [125 Stat. 1849][/us/stat/125/1849], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 31, 2011\], and every year thereafter until the date that is 5 years after the date of enactment of this Act, the Comptroller General of the United States shall—
 
@@ -2161,7 +2161,7 @@
 
 >         “(2) submit a report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives regarding the audit conducted under paragraph (1), including the assessments required under subparagraph (B) and the determinations made under subparagraph (D) of paragraph (1).
 
->     “(b)  __Definition of Applicable Period__  __.—__ 
+>     “(b) __Definition of Applicable Period.—__ 
 
 >     In this section, the term ‘applicable period’ means—
 
@@ -2187,11 +2187,11 @@
 
 [Pub. L. 112–81, div. E, title LI, § 5151][/us/pl/112/81/s5151], Dec. 31, 2011, [125 Stat. 1857][/us/stat/125/1857], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Dec. 31, 2011\], the Administrator shall promulgate amendments to the SBIR Policy Directive and the STTR Policy Directive to conform such directives to this title \[enacting sections 638a and 638b of this title, amending this section and [section 632 of this title][/us/usc/t15/s632], and enacting and amending provisions set out as notes under this section\] and the amendments made by this title.
 
->     “(b)  __Publishing SBIR Policy Directive and the STTR Policy Directive in the Federal Register__  __.—__ 
+>     “(b) __Publishing SBIR Policy Directive and the STTR Policy Directive in the Federal Register.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act, the Administrator shall publish the amended SBIR Policy Directive and the amended STTR Policy Directive in the Federal Register.”
 
@@ -2201,15 +2201,15 @@
 
 [Pub. L. 112–81, div. E, title LI, § 5168][/us/pl/112/81/s5168], Dec. 31, 2011, [125 Stat. 1862][/us/stat/125/1862], provided that:
 
->     “(a)  __Coordination Required__  __.—__ 
+>     “(a) __Coordination Required.—__ 
 
 >     The head of a Federal agency that participates in the SBIR program and the Experimental Program to Stimulate Competitive Research or the Institutional Development Award Program shall coordinate, to the extent possible, the initiatives of the agency with respect to such programs.
 
->     “(b)  __Coordination Report__  __.—__ 
+>     “(b) __Coordination Report.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 31, 2011\], the head of each Federal agency that participates in the SBIR program and the Experimental Program to Stimulate Competitive Research or the Institutional Development Award Program shall submit to the Administrator, the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate a report describing the actions taken during the preceding 1-year period to increase coordination between such programs to maximize existing resources.
 
->     “(c)  __Participation Report__  __.—__ 
+>     “(c) __Participation Report.—__ 
 
 >     Not later than 3 years after the date of enactment of this Act \[Dec. 31, 2011\], the head of each Federal agency that participates in the SBIR program and the Experimental Program to Stimulate Competitive Research or the Institutional Development Award Program shall submit to the Administrator, the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate a report analyzing whether actions taken to increase the coordination of such programs have been successful in attracting entrepreneurs into the SBIR program and increasing the participation of States with respect to which a low level of SBIR awards have historically been awarded.”
 
@@ -2241,7 +2241,7 @@
 
 [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 108\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–671, as amended by [Pub. L. 112–81, div. E, title LI, § 5137][/us/pl/112/81/s5137], Dec. 31, 2011, [125 Stat. 1850][/us/stat/125/1850], provided that:
 
->     “(a)  __Study and Recommendations__  __.—__ 
+>     “(a) __Study and Recommendations.—__ 
 
 >     The head of each agency with a budget of more than $50,000,000 for its SBIR program for fiscal year 1999, in consultation with the Small Business Administration, shall, not later than 6 months after the date of the enactment of this Act \[Dec. 21, 2000\], cooperatively enter into an agreement with the National Academy of Sciences for the National Research Council to—
 
@@ -2275,7 +2275,7 @@
 
 >     “(b) __Participation by Small Business.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         In a manner consistent with law and with National Research Council study guidelines and procedures, knowledgeable individuals from the small business community with experience in the SBIR program shall be included—
 
@@ -2283,15 +2283,15 @@
 
 >             “(B) among those who are asked by the National Research Council to peer review the study.
 
->         “(2)  __Consultation__  __.—__ 
+>         “(2) __Consultation.—__ 
 
 >         To ensure that the concerns of small business are appropriately considered under this subsection, the National Research Council shall consult with and consider the views of the Office of Technology and the Office of Advocacy of the Small Business Administration and other interested parties, including entities, organizations, and individuals actively engaged in enhancing or developing the technological capabilities of small business concerns.
 
->     “(c)  __Progress Reports__  __.—__ 
+>     “(c) __Progress Reports.—__ 
 
 >     The National Research Council shall provide semiannual progress reports on the study conducted under this section to the Committee on Science \[now Committee on Science, Space, and Technology\] and the Committee on Small Business of the House of Representatives, and to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate.
 
->     “(d)  __Report__  __.—__ 
+>     “(d) __Report.—__ 
 
 >     The National Research Council shall transmit to the heads of agencies entering into an agreement under this section and to the Committee on Science \[now Committee on Science, Space, and Technology\] and the Committee on Small Business of the House of Representatives, and to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate—
 
@@ -2301,7 +2301,7 @@
 
 >     “(e) __Extensions and Enhancements of Authority.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Not later than 6 months after the date of enactment of the SBIR/STTR Reauthorization Act of 2011 \[div. E of [Pub. L. 112–81][/us/pl/112/81], approved Dec. 31, 2011\], the head of each agency described in subsection (a), in consultation with the Small Business Administration, shall cooperatively enter into an agreement with the National Academy of Sciences for the National Research Council to, not later than 4 years after the date of enactment of the SBIR/STTR Reauthorization Act of 2011, and every 4 years thereafter—
 
@@ -2327,11 +2327,11 @@
 
 >             “(D) estimate, to the extent practicable, the number of jobs created by the SBIR program or STTR program of the agency.
 
->         “(2)  __Consultation__  __.—__ 
+>         “(2) __Consultation.—__ 
 
 >         An agreement under paragraph (1) shall require the National Research Council to ensure that there is participation by and consultation with the small business community, the Administration, and other interested parties as described in subsection (b).
 
->         “(3)  __Reporting__  __.—__ 
+>         “(3) __Reporting.—__ 
 
 >         An agreement under paragraph (1) shall require that not later than 4 years after the date of enactment of the SBIR/STTR Reauthorization Act of 2011 \[div. E of [Pub. L. 112–81][/us/pl/112/81], approved Dec. 31, 2011\], and every 4 years thereafter, the National Research Council shall submit to the head of the agency entering into the agreement, the Committee on Small Business and Entrepreneurship of the Senate, and the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, a report regarding the study conducted under paragraph (1) and containing the recommendations described in paragraph (1).”
 
@@ -2339,7 +2339,7 @@
 
 [Pub. L. 102–564, title I, § 102][/us/pl/102/564/s102], Oct. 28, 1992, [106 Stat. 4249][/us/stat/106/4249], provided that:
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     The Congress finds that—
 
@@ -2361,7 +2361,7 @@
 
 >         “(9) although the participating Federal agencies have successfully implemented most aspects of the small business innovation research program, additional outreach efforts are necessary to stimulate increased participation of socially and economically disadvantaged small business concerns.
 
->     “(b)  __Purposes__  __.—__ 
+>     “(b) __Purposes.—__ 
 
 >     The purposes of this title \[see Short Title of 1992 Amendments note set out under [section 631 of this title][/us/usc/t15/s631]\] are—
 
@@ -2375,7 +2375,9 @@
 
  __Recommendations of Secretary of Defense__ 
 
-    [Pub. L. 102–564, title I, § 106][/us/pl/102/564/s106], Oct. 28, 1992, [106 Stat. 4256][/us/stat/106/4256], required the Secretary of Defense, by Mar. 31, 1996, to submit a recommendation to Congress addressing whether there was a demonstrable reduction in the quality of research performed under the Small Business Innovation Research Program since the beginning of fiscal year 1993, such that increasing the percentage in fiscal years after 1996 under former [15 U.S.C. 638(f)(1)(C)][/us/usc/t15/s638/f/1/C] would adversely affect the performance of the research programs of the Department of Defense.
+[Pub. L. 102–564, title I, § 106][/us/pl/102/564/s106], Oct. 28, 1992, [106 Stat. 4256][/us/stat/106/4256], provided that: 
+
+> “Not later than March 31, 1996, the Secretary of Defense shall submit a recommendation to the Congress addressing whether there has been a demonstrable reduction in the quality of research performed under the SBIR program since the beginning of fiscal year 1993, such that increasing the percentage under section 9(f)(1)(C) of the Small Business Act \[[15 U.S.C. 638(f)(1)(C)][/us/usc/t15/s638/f/1/C]\] (as amended by section 103 of this Act) would adversely affect the performance of the research programs of the Department of Defense.”
 
  __Timing of Issuance of Policy Directive__ 
 
@@ -2391,11 +2393,11 @@
 
 [Pub. L. 102–564, title III, § 306][/us/pl/102/564/s306], Oct. 28, 1992, [106 Stat. 4263][/us/stat/106/4263], provided that:
 
->     “(a)  __Purchase of American-Made Equipment and Products__  __.—__ 
+>     “(a) __Purchase of American-Made Equipment and Products.—__ 
 
 >     It is the sense of the Congress that an entity that is awarded a funding agreement under the SBIR program of a Federal agency under section 9 of the Small Business Act \[[15 U.S.C. 638][/us/usc/t15/s638]\] should, when purchasing any equipment or a product with funds provided through the funding agreement, purchase only American-made equipment and products, to the extent possible in keeping with the overall purposes of that program.
 
->     “(b)  __Notice to SBIR Awardees__  __.—__ 
+>     “(b) __Notice to SBIR Awardees.—__ 
 
 >     Each Federal agency that awards funding agreements under the SBIR program shall provide to each recipient of such an award a notice describing the sense of the Congress, as set forth in subsection (a).”
 
@@ -2403,11 +2405,11 @@
 
 [Pub. L. 102–484, div. D, title XLII, § 4237][/us/pl/102/484/s4237], Oct. 23, 1992, [106 Stat. 2691][/us/stat/106/2691], provided that:
 
->     “(a)  __Extension of Program__  __.—__ 
+>     “(a) __Extension of Program.—__ 
 
 >     \[Amended [section 5 of Pub. L. 97–219][/us/pl/97/219/s5], formerly set out as a note above.\]
 
->     “(b)  __Limitation on Program Awards__  __.—__ 
+>     “(b) __Limitation on Program Awards.—__ 
 
 >     Amounts paid to a small business concern by the Department of Defense under the Small Business Innovation Research Program for a project—
 
@@ -2415,15 +2417,15 @@
 
 >         “(2) in phase II under the program may not exceed $750,000.
 
->     “(c)  __Commercial Applications Strategy__  __.—__ 
+>     “(c) __Commercial Applications Strategy.—__ 
 
 >     Not later than 270 days after the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense, in consultation with the Administrator of the Small Business Administration, shall develop and issue a strategy for effectuating the transition of successful projects under the Small Business Innovation Research Program from phase II under the program into phase III under the program.
 
->     “(d)  __Repeal of Exclusion of Certain Activities__  __.—__ 
+>     “(d) __Repeal of Exclusion of Certain Activities.—__ 
 
 >     \[Amended this section.\]
 
->     “(e)  __Percentage of Required Expenditures for SBIR Contracts__  __.—__ 
+>     “(e) __Percentage of Required Expenditures for SBIR Contracts.—__ 
 
 >         (1) The Small Business Innovation Research Program shall apply to the Department of Defense (including the military departments) as if the percentage specified in section 9(f)(1) of the Small Business Act ([15 U.S.C. 638(f)(1)][/us/usc/t15/s638/f/1]) with respect to fiscal years after fiscal year 1982 were determined in accordance with the table set forth in paragraph (2) (rather than 1.25 percent).
 
@@ -2541,7 +2543,7 @@
 
 >             “(E) The results of each determination under subparagraph (C) shall be transmitted to the Congress not later than June 30, 1996.
 
->     “(f)  __Definitions__  __.—__ 
+>     “(f) __Definitions.—__ 
 
 >     In this section:
 
@@ -2559,11 +2561,11 @@
 
 >         “(4) The term ‘phase III’, with respect to the Small Business Innovation Research Program, means the third phase described in subsection (e)(4)(C) of such section.
 
->     “(g)  __Effective Date__  __.—__ 
+>     “(g) __Effective Date.—__ 
 
 >     Subject to subsection (h), this section, and the amendments made by this section, shall take effect on October 1, 1992, and shall apply with respect to fiscal years after fiscal year 1992.
 
->     “(h)  __Effectiveness of Section Conditional on Failure to Enact Other Legislation__  __.—__ 
+>     “(h) __Effectiveness of Section Conditional on Failure to Enact Other Legislation.—__ 
 
 >         (1) In the event of the enactment of H.R. 4400 or S. 2941 \[S. 2941 was enacted into law as [Pub. L. 102–564][/us/pl/102/564] on Oct. 28, 1992\], 102d Congress, on or before the date of the enactment of this Act \[Oct. 23, 1992\], then this section and the amendments made by this section shall not take effect.
 
@@ -2627,11 +2629,113 @@
 
  __Reports of Comptroller General__ 
 
-    [Pub. L. 102–564, title I, § 105][/us/pl/102/564/s105], Oct. 28, 1992, [106 Stat. 4254][/us/stat/106/4254], required the Comptroller General to submit to Congress an interim report, by Mar. 31, 1995, concerning the quality of research performed under Small Business Innovation Research Program funding agreements entered into during fiscal year 1993 and thereafter and a final report, no later than 5 years after Oct. 28, 1992, concerning various aspects of the Small Business Innovation Research Program.
+[Pub. L. 102–564, title I, § 105][/us/pl/102/564/s105], Oct. 28, 1992, [106 Stat. 4254][/us/stat/106/4254], provided that:
 
-    [Pub. L. 102–564, title II, § 202(e)][/us/pl/102/564/s202/e], Oct. 28, 1992, [106 Stat. 4260][/us/stat/106/4260], required the Comptroller General to submit a report to Congress and the head of each agency required to make expenditures under the Small Business Technology Transfer Program setting forth the Comptroller General’s assessment of various aspects of the program and with the agencies’ compliance with procedural requirements.
+>     “(a) __Interim Report.—__ 
 
-    [Pub. L. 97–219, § 6][/us/pl/97/219/s6], July 22, 1982, [96 Stat. 221][/us/stat/96/221], as amended by [Pub. L. 99–443, § 3][/us/pl/99/443/s3], Oct. 6, 1986, [100 Stat. 1120][/us/stat/100/1120]; [Pub. L. 100–418, title VIII, § 8008][/us/pl/100/418/s8008], Aug. 23, 1988, [102 Stat. 1561][/us/stat/102/1561]; [Pub. L. 100–647, title IX, § 9003][/us/pl/100/647/s9003], Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808], required the Comptroller General, by Dec. 31, 1988, to transmit a report to appropriate Congressional committees evaluating the effectiveness of the initial phases of the Small Business Innovation Research Program, by Dec. 31, 1991, to transmit to such committees an update of the earlier report, and by July 1, 1989, to transmit to such committees recommendations as to the advisability of certain amendments to the Small Business Innovation Research Program.
+>         “(1) __In general.—__ 
+
+>         The Comptroller General of the United States shall submit to the Congress an interim report concerning the quality of research performed under SBIR program funding agreements entered into during fiscal year 1993 and thereafter. Copies of the interim report shall be furnished to each agency that has participated in the SBIR program in fiscal year 1993 or thereafter.
+
+>         “(2) __Contents of report.—__ 
+
+>         The Comptroller General shall include in the interim report required under paragraph (1)—
+
+>             “(A)
+
+>              an assessment of the quality of the research performed under the SBIR program funding agreements entered into by each agency that has participated in the SBIR program beginning in fiscal year 1993 or thereafter, specifically addressing—
+
+>                 “(i) with respect to each such agency, whether or not there has been a demonstrable reduction in research quality; and
+
+>                 “(ii) in the case of such reduction, whether an increase in each such agency’s required SBIR participation in accordance with section 9(f)(1) of the Small Business Act \[[15 U.S.C. 638(f)(1)][/us/usc/t15/s638/f/1]\] (as amended by subsection (b) of this section \[probably should be section 103(b) of this Act\]) would adversely affect the performance of the agency’s research programs;
+
+>             “(B)
+
+>              an analysis of the program authorized by section 301 of the Small Business Research and Development Enhancement Act of 1992 \[amending this section\], considering, among other things—
+
+>                 “(i) the extent to which each SBIR agency has implemented the program and the extent to which the program has improved the quality of agency-sponsored research and development;
+
+>                 “(ii) the effect of the program on recipient companies’ ability to develop and commercialize technology;
+
+>                 “(iii) the cost of the program and the average cost per recipient company; and
+
+>                 “(iv) the extent to which SBIR companies continue to use the service after completion of the program; and
+
+>             “(C) such other factors as the Comptroller General may deem appropriate.
+
+>     “(b) __Final Report.—__ 
+
+>     The Comptroller General of the United States shall transmit to the Congress a final report containing—
+
+>         “(1) a review of the progress made by Federal agencies in meeting the requirements of section 9(f) of the Small Business Act \[[15 U.S.C. 638(f)][/us/usc/t15/s638/f]\] (as amended by this Act), including increases in expenditures required by that subsection;
+
+>         “(2) an analysis of participation by small business concerns in the third phase of SBIR programs, including a systematic evaluation of the techniques adopted by Federal agencies to foster commercialization;
+
+>         “(3) an analysis of the extent to which awards under SBIR programs are made pursuant to section 9(l) of the Small Business Act (as added by section 103(h)) in cases in which a program solicitation receives only 1 proposal;
+
+>         “(4)
+
+>          an analysis of the extent to which awards in the first phase of the SBIR program are made to small business concerns that have received more than 15 second phase awards under the SBIR program in the preceding 5 fiscal years, considering—
+
+>             “(A) the extent to which such concerns were able to secure Federal or private sector follow-on funding;
+
+>             “(B) the extent to which the research developed under such awards was commercialized; and
+
+>             “(C) the amount of commercialization of research developed under such awards, as compared to the amount of commercialization of SBIR research for the entire SBIR program;
+
+>         “(5) the results of periodic random audits of the extramural budget of each such Federal agency;
+
+>         “(6) a review of the extent to which the purposes of this title \[see Short Title of 1992 Amendments note set out under [section 631 of this title][/us/usc/t15/s631]\] and the Small Business Innovation Development Act of 1982 \[see Short Title of 1982 Amendment note set out under [section 631 of this title][/us/usc/t15/s631]\] have been met with regard to fostering and encouraging the participation of women-owned small business concerns and socially and economically disadvantaged small business concerns (as defined in the Small Business Act \[[15 U.S.C. 631][/us/usc/t15/s631] et seq.\]) in technological innovation, in general, and the SBIR program, in particular;
+
+>         “(7) an analysis of the effectiveness of the SBIR program in promoting the development of the critical technologies identified by the Secretary of Defense and the National Critical Technologies Panel (or its successor), as described in subparagraph 9(j)(2)(E) of the Small Business Act;
+
+>         “(8) an analysis of the impact of agency application review periods and funding cycles on SBIR program awardees’ financial status and ability to commercialize; and
+
+>         “(9) recommendations to the Congress for tracking the extent to which foreign firms, or United States firms with substantial foreign ownership interests, benefit from technology or products developed as a direct result of SBIR research or research and development.
+
+>     “(c) __Dates of Submission.—__ 
+
+>     The report required—
+
+>         “(1) under subsection (a), shall be submitted to the Congress not later than March 31, 1995; and
+
+>         “(2) under subsection (b), shall be submitted to the Congress not later than 5 years after the date of enactment of this title \[Oct. 28, 1992\].”
+
+[Pub. L. 102–564, title II, § 202(e)][/us/pl/102/564/s202/e], Oct. 28, 1992, [106 Stat. 4260][/us/stat/106/4260], provided that: 
+
+> “Not later than March 31, 1996, the Comptroller General of the United States shall submit a report to the Congress and the head of each agency that is required to make expenditures under the STTR program that—
+
+>     “(1)
+
+>      sets forth the Comptroller General’s assessment, with respect to each such agency, of—
+
+>         “(A) the quality of research performed under funding agreements awarded by that agency under the STTR program since the beginning of the program;
+
+>         “(B) whether or not the STTR program has affected the performance of that agency’s research programs; and
+
+>         “(C) the commercial potential of research conducted under the STTR program, if sufficient data is available;
+
+>     “(2) contains the Comptroller General’s assessment as to the effects of the STTR program, if any, on the research quality and goals of the SBIR program; and
+
+>     “(3) determines the agencies and the federally-funded research and development centers’ compliance with the procedures developed under section 9(g)(10) of the Small Business Act \[probably 9(o)(10); [15 U.S.C. 638][/us/usc/t15/s638](o)(10)\], as amended by this section.”
+
+[Pub. L. 97–219, § 6][/us/pl/97/219/s6], July 22, 1982, [96 Stat. 221][/us/stat/96/221], as amended by [Pub. L. 99–443, § 3][/us/pl/99/443/s3], Oct. 6, 1986, [100 Stat. 1120][/us/stat/100/1120]; [Pub. L. 100–418, title VIII, § 8008][/us/pl/100/418/s8008], Aug. 23, 1988, [102 Stat. 1561][/us/stat/102/1561]; [Pub. L. 100–647, title IX, § 9003][/us/pl/100/647/s9003], Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808], provided that:
+
+>     “(a) The Comptroller General, no later than December 31, 1988, shall transmit a report to the appropriate committees of the House of Representatives and of the Senate evaluating the effectiveness to date of phase one and phase two of the SBIR Program as set out in section 9(e)(4) of the Small Business Act \[[15 U.S.C. 638(e)(4)][/us/usc/t15/s638/e/4]\]. Such report shall examine the quality of the research supported by the SBIR Program compared to that traditionally supported by the affected agencies, and the extent to which the goals of the SBIR Program are being met. Such report shall also include the judgments of the heads of departments and agencies as to the effect of this Act \[amending this section\] on research programs.
+
+>     “(b) The Comptroller General, no later than December 31, 1991, shall transmit to such committees an update of the report mandated under subsection (a). Such report, in addition, shall include an evaluation of phase three of the SBIR Program including a discussion of the aggregate commercial trends for products which are then currently in or have completed phase three of the program.
+
+>     “(c)
+
+>      Not later than July 1, 1989, the Comptroller General shall transmit to the appropriate committees of the House of Representatives and the Senate recommendations as to the advisability of amending the Small Business Innovation Research program to—
+
+>         “(1) increase each agency’s share of research and development expenditures devoted to it by 0.25 percent per year, until it is 3 percent of the total extramural research and development funds, and targeting a portion of the increment at products with commercialization or export potential;
+
+>         “(2) make the Small Business Innovation Research program permanent with a formal congressional review every 10 years, beginning in 1993;
+
+>         “(3) allocate a modest but appropriate share of each agency’s Small Business Innovation Research fund for administrative purposes for effective management, quality maintenance, and the elimination of program delays; and
+
+>         “(4) include within the Small Business Innovation and Research program all agencies expending between $20,000,000 and $100,000,000 in extramural research and development funds annually.”
 
  __Ex. Ord. No. 13329. Encouraging Innovation in Manufacturing__ 
 
@@ -3063,8 +3167,14 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/96/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F217
 [/us/pl/102/564/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs105
 [/us/stat/106/4254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4254
+[/us/usc/t15/s638/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Ff%2F1
+[/us/usc/t15/s638/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Ff
+[/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/102/564/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs202%2Fe
 [/us/stat/106/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4260
+[/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/pl/97/219/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219%2Fs6
 [/us/stat/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F221
 [/us/pl/99/443/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F443%2Fs3
@@ -3073,6 +3183,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/102/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1561
 [/us/pl/100/647/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9003
 [/us/stat/102/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3808
+[/us/usc/t15/s638/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fe%2F4
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s638/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fe%2F4
 [/us/usc/t15/s638/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fe%2F6

@@ -33,7 +33,7 @@
 
         (1)
 
-            (A) Any substance or mixture of substances which (i) is toxic, (ii) is corrosive, (iii) is an irritant, (iv) is a strong sensitizer, (v) is flammable or combustible, or (vi) generates pressure through decomposition, heat, or other means, if such substance or mixture of substances may cause substantial personal injury or substantial illness during or as a proximate result of any customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion by children.
+            (A) Any substance or mixture of substances which (i) is toxic, (ii) is corrosive, (iii) is an irritant, (iv) is a strong sensitizer, (v) is flammable or combustible, or (vi) generates pressure through decomposition, heat, or other means, if such substances or mixture of substances may cause substantial personal injury or substantial illness during or as a proximate result of any customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion by children.
 
             (B) Any substances which the Commission by regulation finds, pursuant to the provisions of [section 1262(a) of this title][/us/usc/t15/s1262/a], meet the requirements of subparagraph (1)(A) of this paragraph.
 
@@ -85,7 +85,7 @@
 
         (2) on which any statements required under subparagraph (1) of this paragraph are located prominently and are in the English language in conspicuous and legible type in contrast by typography, layout, or color with other printed matter on the label.
 
-        The term “misbranded hazardous substance” also includes a household substance as defined in section 1471(2)(D)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title if it is a substance described in paragraph (1) of subsection (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
+        The term “misbranded hazardous substance” also includes a household substance as defined in [section 1471(2)(d) of this title][/us/usc/t15/s1471/2/d] if it is a substance described in paragraph (1) of subsection (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
 
     (q)
 
@@ -95,7 +95,7 @@
 
     (r) An article may be determined to present an electrical hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture may cause personal injury or illness by electric shock.
 
-    (s) An article may be determined to present a mechanical hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness (1) from fracture, fragmentation, or disassembly of the article, (2) from propulsion of the article (or any part or accessory thereof), (3) from points or other protrusions, surfaces, edges, openings, or closures, (4) from moving parts, (5) from lack or insufficiency of controls to reduce or stop motion, (6) as a result of self-adhering characteristics of the article, (7) because the article (or any part or accessory thereof) may be aspirated or ingested, (8) because of instability, or (9) because of any other aspect of the article’s design or manufacture.
+    (s) An article may be determined to present a mechanical hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness (1) from fracture, fragmentation, or disassembly of the article, (2) from propulsion of the article (or any part or accessory thereof), (3) from points or other protrusions, surfaces, edges, openings, or closures, (4) from moving parts, (5) from lack of insufficiency of controls to reduce or stop motion, (6) as a result of self-adhering characteristics of the article, (7) because the article (or any part or accessory thereof) may be aspirated or ingested, (8) because of instability, or (9) because of any other aspect of the article’s design or manufacture.
 
     (t) An article may be determined to present a thermal hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness because of heat as from heated parts, substances, or surfaces.
 
@@ -111,9 +111,7 @@
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(2), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-    The Atomic Energy Act of 1954, as amended, referred to in subsec. (f)(3), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
-
-    [Section 1471(2)(D) of this title][/us/usc/t15/s1471/2/D], referred to in subsec. (p), was redesignated section 1471(2)(C) by [Pub. L. 94–284, § 3(a)(2)][/us/pl/94/284/s3/a/2], May 11, 1976, [90 Stat. 503][/us/stat/90/503].
+    The Atomic Energy Act of 1954, as amended, referred to in subsec. (f)(3), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 921][/us/stat/68/921], and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
  __Amendments__ 
 
@@ -215,7 +213,7 @@
 
 [Pub. L. 86–613, § 1][/us/pl/86/613/s1], July 12, 1960, [74 Stat. 372][/us/stat/74/372], as amended by [Pub. L. 89–756, § 5][/us/pl/89/756/s5], Nov. 3, 1966, [80 Stat. 1305][/us/stat/80/1305], provided: 
 
-> “This Act \[enacting this chapter, repealing sections 401 to 411 of this title, and enacting notes set out under this section\] may be cited as the ‘Federal Hazardous Substances Act’.”
+> “This Act \[enacting this chapter, repealing sections 401 to 411 of this title, and enacting notes set out under this section\], may be cited as the ‘Federal Hazardous Substances Act’.”
 
  __Separability__ 
 
@@ -291,6 +289,7 @@
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t15/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262
 [/us/usc/t15/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262
+[/us/usc/t15/s1471/2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1471%2F2%2Fd
 [/us/usc/t15/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262
 [/us/pl/86/613/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs2
 [/us/stat/74/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F372
@@ -323,11 +322,8 @@
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
-[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/stat/68/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F921
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/usc/t15/s1471/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1471%2F2%2FD
-[/us/pl/94/284/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs3%2Fa%2F2
-[/us/stat/90/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F503
 [/us/pl/110/314/s204/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FA
 [/us/pl/110/314/s204/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FA
 [/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB

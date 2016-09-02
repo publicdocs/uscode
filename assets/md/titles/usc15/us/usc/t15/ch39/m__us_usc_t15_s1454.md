@@ -45,7 +45,7 @@
 
         If (1) after one year after the date on which the Secretary of Commerce first makes the request of manufacturers, packers, and distributors to participate in the development of a voluntary product standard as provided in subsection (d) of this section, he determines that such a standard will not be published pursuant to the provisions of such subsection (d), or (2) if such a standard is published and the Secretary of Commerce determines that it has not been observed, he shall promptly report such determination to the Congress with a statement of the efforts that have been made under the voluntary standards program and his recommendation as to whether Congress should enact legislation providing regulatory authority to deal with the situation in question.
 
-([Pub. L. 89–755, § 5][/us/pl/89/755/s5], Nov. 3, 1966, [80 Stat. 1298][/us/stat/80/1298]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–245, title I, § 107(a)(1)][/us/pl/102/245/s107/a/1], (2), Feb. 14, 1992, [106 Stat. 13][/us/stat/106/13]; [Pub. L. 102–329][/us/pl/102/329], §§ 1(1), (2), 3, Aug. 3, 1992, [106 Stat. 847][/us/stat/106/847], 848.)
+([Pub. L. 89–755, § 5][/us/pl/89/755/s5], Nov. 3, 1966, [80 Stat. 1298][/us/stat/80/1298]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–245, title I, § 107(a)(1)][/us/pl/102/245/s107/a/1], (2), Feb. 14, 1992, [106 Stat. 13][/us/stat/106/13]; [Pub. L. 102–329][/us/pl/102/329], §§ 1(1), (2), 3, Aug. 3, 1991, [106 Stat. 847][/us/stat/106/847], 848.)
 
  __Amendments__ 
 

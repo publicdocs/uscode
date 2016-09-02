@@ -77,21 +77,21 @@
 
 [Pub. L. 101–220, § 2][/us/pl/101/220/s2], Dec. 12, 1989, [103 Stat. 1876][/us/stat/103/1876], provided that:
 
->     “(a)  __Commissaries__  __.—__ 
+>     “(a) __Commissaries.—__ 
 
 >     During each of fiscal years 1990, 1991, and 1992, the Commodity Credit Corporation shall, in carrying out the export enhancement program established pursuant to section 5(f) of the Commodity Credit Corporation Charter Act ([15 U.S.C. 714c(f)][/us/usc/t15/s714c/f]), promote the export of United States meat, including poultry products, to commissaries on military installations in the European Community.
 
 >     “(b) __Funding.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Except as provided in paragraph (2), of the amounts made available by the Commodity Credit Corporation to exporters, processors, and foreign importers under the authority of section 5(f) of the Commodity Credit Corporation Charter Act ([15 U.S.C. 714c(f)][/us/usc/t15/s714c/f]) in commodities of the Commodity Credit Corporation to enhance the export of United States commodities by making the price of such commodities competitive in the world market, the Commodity Credit Corporation shall make available to carry out subsection (a) not less than $14,000,000 in funds or commodities for fiscal year 1990, not less than $9,300,000 in funds or commodities for fiscal year 1991, and not less than $4,600,000 in funds or commodities for fiscal year 1992.
 
->         “(2)  __Transportation costs__  __.—__ 
+>         “(2) __Transportation costs.—__ 
 
 >         Funds or commodities shall be made available under this section only to the extent that funds are made available by the Department of Defense for the costs of transporting the meat to the commissaries.
 
->     “(c)  __Reimbursement of Corporation__  __.—__ 
+>     “(c) __Reimbursement of Corporation.—__ 
 
 >     [Section 4 of the Act of July 16, 1943][/us/act/1943-07-16/s4] ([57 Stat. 566][/us/stat/57/566], chapter 241; [15 U.S.C. 713a][/us/usc/t15/s713a] \[[15 U.S.C. 713a–9][/us/usc/t15/s713a–9]\]) shall not apply to services performed, losses sustained, operating costs incurred, or commodities purchased or delivered by the Commodity Credit Corporation pursuant to this section.”
 

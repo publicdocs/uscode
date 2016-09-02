@@ -197,7 +197,7 @@
 
 [Pub. L. 103–42, § 2][/us/pl/103/42/s2], June 10, 1993, [107 Stat. 117][/us/stat/107/117], provided that:
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     The Congress finds that—
 
@@ -207,7 +207,7 @@
 
 >         “(3) the antitrust laws may have been mistakenly perceived to inhibit procompetitive cooperative innovation arrangements, and so clarification serves a useful purpose in helping to promote such arrangements.
 
->     “(b)  __Purpose__  __.—__ 
+>     “(b) __Purpose.—__ 
 
 >     It is the purpose of this Act \[see Short Title of 1993 Amendment note above\] to promote innovation, facilitate trade, and strengthen the competitiveness of the United States in world markets by clarifying the applicability of the rule of reason standard and establishing a procedure under which businesses may notify the Department of Justice and Federal Trade Commission of their cooperative ventures and thereby qualify for a single-damages limitation on civil antitrust liability.”
 

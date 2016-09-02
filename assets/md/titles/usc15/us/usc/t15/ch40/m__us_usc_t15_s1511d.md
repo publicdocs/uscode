@@ -159,7 +159,7 @@
 
 [Pub. L. 107–372, title IV, § 401(c)][/us/pl/107/372/s401/c], Dec. 19, 2002, [116 Stat. 3099][/us/stat/116/3099], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Dec. 19, 2002\], the Director of the Chesapeake Bay Office of the National Oceanic and Atmospheric Administration shall begin a 5-year study, in cooperation with the scientific community of the Chesapeake Bay, appropriate State and interstate resource management entities, and appropriate Federal agencies—
 
@@ -167,7 +167,7 @@
 
 >         “(B) to develop a multiple species management strategy for the Chesapeake Bay.
 
->     “(2)  __Required elements of study__  __.—__ 
+>     “(2) __Required elements of study.—__ 
 
 >     In order to improve the understanding necessary for the development of the strategy under paragraph (1)(B), the study shall—
 

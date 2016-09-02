@@ -413,19 +413,19 @@
 
 >     “(a) __Effective Date.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The amendments made by section 303 \[amending this section and section 78o–3 of this title\] shall become effective 12 months after the date of enactment of this Act \[Dec. 17, 1993\].
 
->         “(2)  __Rulemaking authority__  __.—__ 
+>         “(2) __Rulemaking authority.—__ 
 
 >         Notwithstanding paragraph (1), the authority of the Securities and Exchange Commission, a registered securities association, and a national securities exchange to commence rulemaking proceedings for the purpose of issuing rules pursuant to the amendments made by section 303 is effective on the date of enactment of this Act.
 
->         “(3)  __Review of filings prior to effective date__  __.—__ 
+>         “(3) __Review of filings prior to effective date.—__ 
 
 >         Prior to the effective date of regulations promulgated pursuant to this title \[amending this section and sections 78n and 78o–3 of this title and enacting provisions set out as notes under sections 78a and 78n of this title\], the Securities and Exchange Commission shall continue to review and declare effective registration statements and amendments thereto relating to limited partnership rollup transactions in accordance with applicable regulations then in effect.
 
->     “(b)  __Effect on Existing Authority__  __.—__ 
+>     “(b) __Effect on Existing Authority.—__ 
 
 >     The amendments made by this title \[amending this section and sections 78n and 78o–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\], or preclude the Commission or such association or exchange from imposing, under any other such provision, a remedy or procedure required to be imposed under such amendments.”
 

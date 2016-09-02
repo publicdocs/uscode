@@ -49,11 +49,11 @@
 
 [Pub. L. 110–314, title II, § 239(a)][/us/pl/110/314/s239/a], Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Except as otherwise specifically provided in this Act \[see Short Title of 2008 Amendment note below\], this Act and the amendments made by this Act shall take effect on the date of enactment of this Act \[Aug. 14, 2008\].
 
->     “(2)  __Certain delayed effective dates__  __.—__ 
+>     “(2) __Certain delayed effective dates.—__ 
 
 >     The amendments made by sections 103(c) \[amending [section 2063 of this title][/us/usc/t15/s2063]\] and 214(a)(2) \[amending [section 2064 of this title][/us/usc/t15/s2064]\] shall take effect on the date that is 60 days after the date of enactment of this Act. Subsection (c) of section 42 of the Consumer Product Safety Act \[[section 2089(c) of this title][/us/usc/t15/s2089/c]\], as added by section 232 of this Act, and the amendments made by sections 216 \[amending sections 2066 and 2068 of this title\] and 223(b) \[amending [section 2066 of this title][/us/usc/t15/s2066]\] shall take effect on the date that is 30 days after the date of enactment of this Act.”
 
@@ -123,17 +123,17 @@
 
 [Pub. L. 92–573, § 33][/us/pl/92/573/s33], Oct. 27, 1972, [86 Stat. 1233][/us/stat/86/1233], provided that: 
 
-> “If any provision of this Act \[see Short Title note above\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this Act, or the application of such provisions to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+> “If any provision of this Act \[see Short Title note above\], or the application of such provision to any person or circumstances, shall be held invalid, the remainder of this Act, or the application of such provisions to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
  __Preemption__ 
 
 [Pub. L. 110–314, title II, § 231][/us/pl/110/314/s231], Aug. 14, 2008, [122 Stat. 3070][/us/stat/122/3070], provided that:
 
->     “(a)  __Rule With Regard to Preemption__  __.—__ 
+>     “(a) __Rule With Regard to Preemption.—__ 
 
 >     The provisions of sections 25 and 26 of the Consumer Product Safety Act ([15 U.S.C. 2074][/us/usc/t15/s2074] and 2075, respectively), section 18 of the Federal Hazardous Substances Act (\[[Pub. L. 86–613][/us/pl/86/613]\] [15 U.S.C. 1261][/us/usc/t15/s1261] note), section 16 of the Flammable Fabrics Act ([15 U.S.C. 1203][/us/usc/t15/s1203]), and section 7 of the Poison Packaging Prevention Act of 1970 \[Poison Prevention Packaging Act of 1970\] ([15 U.S.C. 1476][/us/usc/t15/s1476]) establishing the extent to which those Acts preempt, limit, or otherwise affect any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law may not be expanded or contracted in scope, or limited, modified or extended in application, by any rule or regulation thereunder, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation. In accordance with the provisions of those Acts, the Commission may not construe any such Act as preempting any cause of action under State or local common law or State statutory law regarding damage claims.
 
->     “(b)  __Preservation of Certain State Law__  __.—__ 
+>     “(b) __Preservation of Certain State Law.—__ 
 
 >     Nothing in this Act \[see Short Title of 2008 Amendment note above\] or the Federal Hazardous Substances Act \[[15 U.S.C. 1261][/us/usc/t15/s1261] et seq.\] shall be construed to preempt or otherwise affect any warning requirement relating to consumer products or substances that is established pursuant to State law that was in effect on August 31, 2003.”
 
@@ -141,7 +141,7 @@
 
 [Pub. L. 110–314, § 2(a)][/us/pl/110/314/s2/a], Aug. 14, 2008, [122 Stat. 3017][/us/stat/122/3017], provided that:
 
->     “(a)  __Defined Terms__  __.—__ 
+>     “(a) __Defined Terms.—__ 
 
 >     As used in this Act \[see Short Title of 2008 Amendment note above\]—
 

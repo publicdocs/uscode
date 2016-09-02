@@ -101,11 +101,11 @@
 
                 (i) a viable plan that reasonably projects the capacity of the applicant to raise the amount (in cash or in-kind) required under subparagraph (A); and
 
-                (ii) binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subparagraph”. </sup></sup>  (A).
+                (ii) binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph (A).
 
             (C) __Limitation__ 
 
-                The total amount of a  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The article probably should not appear. </sup></sup>  in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
+                The total amount of a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The article probably should not appear. </sup></sup>  in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
 
     (e) __Final approval; designation__ 
 

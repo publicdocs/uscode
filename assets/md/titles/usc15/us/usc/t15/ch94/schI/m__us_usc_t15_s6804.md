@@ -51,8 +51,6 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in subsecs. (a)(1) and (b), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436], which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
-
     The Consumer Financial Protection Act of 2010, referred to in subsec. (a)(1)(A), is title X of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1955][/us/stat/124/1955]. Subtitle B (§§ 1021–1029A) of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitle B to the Code, see Tables.
 
  __Amendments__ 
@@ -82,8 +80,6 @@
 [/us/stat/113/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1439
 [/us/pl/111/203/s1093/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F3
 [/us/stat/124/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2095
-[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
-[/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/pl/111/203/s1093/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F3%2FA

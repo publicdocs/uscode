@@ -25,7 +25,7 @@
 
          Except as provided in subparagraph (B), the term “chemical substance” means any organic or inorganic substance of a particular molecular identity, including—
 
-            (i) any combination of such substances occurring in whole or in part as a result of a chemical reaction or occurring in nature, and
+            (i) any combination of such substances occurring in whole or in part as a result of a chemical reaction or occurring in nature and
 
             (ii) any element or uncombined radical.
 
@@ -105,7 +105,7 @@
 
     The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is [act June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], as amended generally by [Pub. L. 92–516][/us/pl/92/516], Oct. 21, 1972, [86 Stat. 973][/us/stat/86/973], which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7][/us/usc/t7/s136] and Tables.
 
-    The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], and amended, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 921][/us/stat/68/921], and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
     The Harmonized Tariff Schedule of the United States, referred to in par. (7), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19][/us/usc/t19/s1202], Customs Duties.
 
@@ -150,7 +150,7 @@
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
-[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/stat/68/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F921
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb

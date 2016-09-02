@@ -15,7 +15,7 @@
 
 ## § 1225. State laws as affected
 
-    This chapter shall not invalidate any provision of the laws of any State except insofar as there is a direct conflict between an express provision of this chapter and an express provision of State law which can not  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “cannot”. </sup></sup>  be reconciled.
+    This chapter shall not invalidate any provision of the laws of any State except insofar as there is a direct conflict between an express provision of this chapter and an express provision of State law which can not  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Should be “cannot”. </sup></sup>  be reconciled.
 
 ([Aug. 8, 1956, ch. 1038, § 5][/us/act/1956-08-08/ch1038/s5], [70 Stat. 1126][/us/stat/70/1126].)
 

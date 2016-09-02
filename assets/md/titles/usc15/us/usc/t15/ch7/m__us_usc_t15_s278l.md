@@ -33,7 +33,7 @@
 
 [Pub. L. 100–418, title V, § 5121(b)][/us/pl/100/418/s5121/b], (c), Aug. 23, 1988, [102 Stat. 1436][/us/stat/102/1436], 1437, as amended by [Pub. L. 102–245, title I, § 105(d)][/us/pl/102/245/s105/d], Feb. 14, 1992, [106 Stat. 12][/us/stat/106/12], provided that:
 
->     “(b)  __Technology Extension Services__  __.—__ 
+>     “(b) __Technology Extension Services.—__ 
 
 >         (1)
 
@@ -83,7 +83,7 @@
 
 >         “(4) There are authorized to be appropriated for the purposes of this subsection $2,000,000 for each of the fiscal years 1989, 1990, and 1991.
 
->     “(c)  __Federal Technology Transfer Act of__  __1986.—__ 
+>     “(c) __Federal Technology Transfer Act of 1986.—__ 
 
 >     Nothing in sections \[sic\] 25 or 26 of the Act of March 3, 1901 \[[15 U.S.C. 278k][/us/usc/t15/s278k], 278l\], or in subsection (b) of this section shall be construed as limiting the authorities contained in the Federal Technology Transfer Act of 1986 ([Public Law 99–502][/us/pl/99/502]) \[see Short Title of 1986 Amendments note set out under [section 3701 of this title][/us/usc/t15/s3701]\].”
 

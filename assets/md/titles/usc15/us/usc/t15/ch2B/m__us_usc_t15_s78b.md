@@ -49,7 +49,7 @@
 
 >     “(1) __Study.—__ 
 
->         “(A)  __In general__  __.—__ 
+>         “(A) __In general.—__ 
 
 >         The Commission shall conduct a study of—
 
@@ -59,7 +59,7 @@
 
 >             “(iii) any steps taken by the Commission to address such changes.
 
->         “(B)  __Considerations__  __.—__ 
+>         “(B) __Considerations.—__ 
 
 >         In conducting the study under subparagraph (A), the Commission shall consider how the Commission has adapted its enforcement policies and practices in response to technological developments with regard to—
 
@@ -73,7 +73,7 @@
 
 >             “(v) the relationship of the Commission with State regulatory authorities and organizations to improve coordination and cooperation.
 
->     “(2)  __Report__  __.—__ 
+>     “(2) __Report.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall submit a report to the Congress on the results of the study conducted under paragraph (1).”
 
@@ -81,7 +81,7 @@
 
 [Pub. L. 103–325, title II, § 209][/us/pl/103/325/s209], Sept. 23, 1994, [108 Stat. 2202][/us/stat/108/2202], provided that:
 
->     “(a)  __Joint Study Required__  __.—__ 
+>     “(a) __Joint Study Required.—__ 
 
 >     The Board and the Commission shall conduct a joint study of the impact of the provisions of this subtitle \[subtitle A \[§[§ 201–210 of title II of Pub. L. 103–325][/us/pl/103/325/s201–210]\], see Short Title of 1994 Amendment note set out under [section 78a of this title][/us/usc/t15/s78a]\] (including the amendments made by this subtitle) on the credit and securities markets. Such study shall evaluate—
 
@@ -109,7 +109,7 @@
 
 >     “(b) __Reports.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Board and the Commission shall submit to the Congress a report on the results of the study required by subsection (a) before the end of—
 
@@ -119,11 +119,11 @@
 
 >             “(C) the 6-year period beginning on such date of enactment.
 
->         “(2)  __Contents of report__  __.—__ 
+>         “(2) __Contents of report.—__ 
 
 >         Each report required under paragraph (1) shall contain or be accompanied by such recommendations for administrative or legislative action as the Board and the Commission consider appropriate and may include recommendations regarding the need to develop a system for reporting additional information concerning investments by the entities described in subsection (a)(2).
 
->     “(c)  __Definitions__  __.—__ 
+>     “(c) __Definitions.—__ 
 
 >     As used in this section—
 

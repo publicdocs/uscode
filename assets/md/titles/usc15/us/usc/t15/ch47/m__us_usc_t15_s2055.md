@@ -123,7 +123,7 @@
 
     The Flammable Fabrics Act, referred to in subsec. (d)(1), is [act June 30, 1953, ch. 164][/us/act/1953-06-30/ch164], [67 Stat. 111][/us/stat/67/111], as amended, which is classified generally to chapter 25 (§ 1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1191 of this title][/us/usc/t15/s1191] and Tables.
 
-    The Poison Prevention Packaging Act, referred to in subsec. (d)(1), probably means the Poison Prevention Packaging Act of 1970, [Pub. L. 91–601][/us/pl/91/601], Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670], which is classified principally to chapter 39A (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title][/us/usc/t15/s1471] and Tables.
+    The Poison Prevention Packaging Act, referred to in subsec. (d)(1), probably means the Poison Prevention Packaging Act of 1970, [Pub. L. 91–601][/us/pl/91/601], Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670], as amended, which is classified generally to chapter 39A (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title][/us/usc/t15/s1471] and Tables.
 
     The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is [Pub. L. 86–613][/us/pl/86/613], July 12, 1960, [74 Stat. 372][/us/stat/74/372], as amended, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1261 of this title][/us/usc/t15/s1261] and Tables.
 

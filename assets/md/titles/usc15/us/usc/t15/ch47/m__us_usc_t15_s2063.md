@@ -17,7 +17,7 @@
 
     (a) __Certification accompanying product; products with more than one manufacturer__ 
 
-        (1)  __General conformity certification__  __.—__ 
+        (1) __General conformity certification.—__ 
 
         Except as provided in paragraphs (2) and (3), every manufacturer of a product which is subject to a consumer product safety rule under this chapter or similar rule, ban, standard, or regulation under any other Act enforced by the Commission and which is imported for consumption or warehousing or distributed in commerce (and the private labeler of such product if such product bears a private label) shall issue a certificate which—
 
@@ -25,7 +25,7 @@
 
             (B) shall specify each such rule, ban, standard, or regulation applicable to the product.
 
-        (2)  __Third party testing requirement__  __.—__ 
+        (2) __Third party testing requirement.—__ 
 
         Effective on the dates provided in paragraph (3), before importing for consumption or warehousing or distributing in commerce any children’s product that is subject to a children’s product safety rule, every manufacturer of such children’s product (and the private labeler of such children’s product if such children’s product bears a private label) shall—
 
@@ -37,53 +37,53 @@
 
         (3) __Schedule for implementation of third party testing.—__ 
 
-            (A)  __General application__  __.—__ 
+            (A) __General application.—__ 
 
             Except as provided under subparagraph (F), the requirements of paragraph (2) shall apply to any children’s product manufactured more than 90 days after the Commission has established and published notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with a children’s product safety rule to which such children’s product is subject.
 
             (B) __Time line for accreditation.—__ 
 
-                (i)  __Lead paint__  __.—__ 
+                (i) __Lead paint.—__ 
 
                 Not later than 30 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with part 1303 of title 16, Code of Federal Regulations.
 
-                (ii)  __Full-size cribs; non full-size cribs; pacifiers__  __.—__ 
+                (ii) __Full-size cribs; non full-size cribs; pacifiers.—__ 
 
                 Not later than 60 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with parts 1508, 1509, and 1511 of such title.
 
-                (iii)  __Small parts__  __.—__ 
+                (iii) __Small parts.—__ 
 
                 Not later than 90 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with part 1501 of such title.
 
-                (iv)  __Children’s metal jewelry__  __.—__ 
+                (iv) __Children’s metal jewelry.—__ 
 
                 Not later than 120 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with the requirements of [section 1278a(a)(2) of this title][/us/usc/t15/s1278a/a/2] with respect to children’s metal jewelry.
 
-                (v)  __Baby bouncers, walkers, and jumpers__  __.—__ 
+                (v) __Baby bouncers, walkers, and jumpers.—__ 
 
                 Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Such title refers to title 16, Code of Federal Regulations. </sup></sup> 
 
-                (vi)  __All other children’s product safety rules__  __.—__ 
+                (vi) __All other children’s product safety rules.—__ 
 
                 The Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with other children’s product safety rules at the earliest practicable date, but in no case later than 10 months after August 14, 2008, or, in the case of children’s product safety rules established or revised 1 year or more after such date, not later than 90 days before such rules or revisions take effect.
 
-            (C)  __Accreditation__  __.—__ 
+            (C) __Accreditation.—__ 
 
             Accreditation of third party conformity assessment bodies pursuant to the requirements established under subparagraph (B) may be conducted either by the Commission or by an independent accreditation organization designated by the Commission.
 
-            (D)  __Periodic review__  __.—__ 
+            (D) __Periodic review.—__ 
 
             The Commission shall periodically review and revise the accreditation requirements established under subparagraph (B) to ensure that the requirements assure the highest conformity assessment body quality that is feasible.
 
-            (E)  __Publication of accredited entities__  __.—__ 
+            (E) __Publication of accredited entities.—__ 
 
             The Commission shall maintain on its Internet website an up-to-date list of entities that have been accredited to assess conformity with children’s product safety rules in accordance with the requirements published by the Commission under this paragraph.
 
-            (F)  __Extension__  __.—__ 
+            (F) __Extension.—__ 
 
             If the Commission determines that an insufficient number of third party conformity assessment bodies have been accredited to permit certification for a children’s product safety rule under the accelerated schedule required by this paragraph, the Commission may extend the deadline for certification to such rule by not more than 60 days.
 
-            (G)  __Rulemaking__  __.—__ 
+            (G) __Rulemaking.—__ 
 
             Until the date that is 3 years after August 14, 2008, Commission proceedings under this paragraph shall be exempt from the requirements of sections 553 and 601 through 612 of title 5.
 

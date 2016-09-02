@@ -173,11 +173,11 @@
 
 [Pub. L. 111–24, title II, § 205(b)][/us/pl/111/24/s205/b], May 22, 2009, [123 Stat. 1747][/us/stat/123/1747], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Not later than 9 months after the date of enactment of this Act \[May 22, 2009\], the Federal Trade Commission shall issue a final rule to carry out this section.
 
->     “(2)  __Content__  __.—__ 
+>     “(2) __Content.—__ 
 
 >     The rule required by this subsection—
 
@@ -185,13 +185,13 @@
 
 >         “(B) for advertisements on the Internet, shall include whether the disclosure required under section 612(g)(1) of the Fair Credit Reporting Act \[[15 U.S.C. 1681j(g)(1)][/us/usc/t15/s1681j/g/1]\] (as added by this section) shall appear on the advertisement or the website on which the free credit report is made available.
 
->     “(3)  __Interim disclosures__  __.—__ 
+>     “(3) __Interim disclosures.—__ 
 
 >     If an advertisement subject to section 612(g) of the Fair Credit Reporting Act \[[15 U.S.C. 1681j(g)][/us/usc/t15/s1681j/g]\], as added by this section, is made public after the 9-month deadline specified in paragraph (1), but before the rule required by paragraph (1) is finalized, such advertisement shall include the disclosure: ‘Free credit reports are available under Federal law at: “AnnualCreditReport.com”.’ ”
 
 [Pub. L. 108–159, title II, § 211(d)][/us/pl/108/159/s211/d], Dec. 4, 2003, [117 Stat. 1972][/us/stat/117/1972], as amended by [Pub. L. 111–203, § 1088(b)(2)][/us/pl/111/203/s1088/b/2], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Bureau \[probably means the Bureau of Consumer Financial Protection\] shall prescribe regulations applicable to consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act \[[15 U.S.C. 1681a(p)][/us/usc/t15/s1681a/p]\], to require the establishment of—
 
@@ -199,7 +199,7 @@
 
 >         “(B) a standardized form for a consumer to make such a request for a consumer report by mail or through an Internet website.
 
->     “(2)  __Considerations__  __.—__ 
+>     “(2) __Considerations.—__ 
 
 >     In prescribing regulations under paragraph (1), the Bureau shall consider—
 
@@ -209,7 +209,7 @@
 
 >         “(C) the ease by which consumers should be able to contact consumer reporting agencies with respect to access to such consumer reports.
 
->     “(3)  __Centralized source__  __.—__ 
+>     “(3) __Centralized source.—__ 
 
 >     The centralized source for a request for a consumer report from a consumer required by this subsection shall provide for—
 
@@ -219,7 +219,7 @@
 
 >         “(C) a process for requests by mail for such purpose.
 
->     “(4)  __Transition__  __.—__ 
+>     “(4) __Transition.—__ 
 
 >     The regulations of the Bureau under paragraph (1) shall provide for an orderly transition by consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act \[[15 U.S.C. 1681a(p)][/us/usc/t15/s1681a/p]\] to the centralized source for consumer report distribution required by section 612(a)(1)(B) \[[15 U.S.C. 1681j(a)(1)(B)][/us/usc/t15/s1681j/a/1/B]\], as amended by this section, in a manner that—
 
@@ -227,7 +227,7 @@
 
 >         “(B) does not deny creditors, other users, and consumers access to consumer reports on a time-sensitive basis for specific purposes, such as home purchases or suspicions of identity theft, during the transition period.
 
->     “(5)  __Timing__  __.—__ 
+>     “(5) __Timing.—__ 
 
 >     Regulations required by this subsection shall—
 
@@ -237,11 +237,11 @@
 
 >     “(6) __Scope of regulations.—__ 
 
->         “(A)  __In general__  __.—__ 
+>         “(A) __In general.—__ 
 
 >         The Bureau shall, by rule, determine whether to require a consumer reporting agency that compiles and maintains files on consumers on substantially a nationwide basis, other than one described in section 603(p) of the Fair Credit Reporting Act \[[15 U.S.C. 1681a(p)][/us/usc/t15/s1681a/p]\], to make free consumer reports available upon consumer request, and if so, whether such consumer reporting agencies should make such free reports available through the centralized source described in paragraph (1)(A).
 
->         “(B)  __Considerations__  __.—__ 
+>         “(B) __Considerations.—__ 
 
 >         Before making any determination under subparagraph (A), the Bureau shall consider—
 

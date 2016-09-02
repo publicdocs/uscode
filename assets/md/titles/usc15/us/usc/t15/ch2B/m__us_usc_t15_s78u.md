@@ -33,27 +33,27 @@
 
         (1) Whenever it shall appear to the Commission that any person is engaged or is about to engage in acts or practices constituting a violation of any provision of this chapter, the rules or regulations thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm, or the rules of the Municipal Securities Rulemaking Board, it may in its discretion bring an action in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices as may constitute a violation of any provision of this chapter or the rules or regulations thereunder to the Attorney General, who may, in his discretion, institute the necessary criminal proceedings under this chapter.
 
-        (2)  __Authority of Court To Prohibit Persons From Serving as Officers and Directors__  __.—__ 
+        (2) __Authority of Court To Prohibit Persons From Serving as Officers and Directors.—__ 
 
         In any proceeding under paragraph (1) of this subsection, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated [section 78j(b) of this title][/us/usc/t15/s78j/b] or the rules or regulations thereunder from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person’s conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
         (3) __Money Penalties in Civil Actions.—__ 
 
-            (A)  __Authority of commission__  __.—__ 
+            (A) __Authority of commission.—__ 
 
             Whenever it shall appear to the Commission that any person has violated any provision of this chapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to [section 78u–3 of this title][/us/usc/t15/s78u–3], other than by committing a violation subject to a penalty pursuant to [section 78u–1 of this title][/us/usc/t15/s78u–1], the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
 
             (B) __Amount of penalty.—__ 
 
-                (i)  __First tier__  __.—__ 
+                (i) __First tier.—__ 
 
                 The amount of the penalty shall be determined by the court in light of the facts and circumstances. For each violation, the amount of the penalty shall not exceed the greater of (I) $5,000 for a natural person or $50,000 for any other person, or (II) the gross amount of pecuniary gain to such defendant as a result of the violation.
 
-                (ii)  __Second tier__  __.—__ 
+                (ii) __Second tier.—__ 
 
                 Notwithstanding clause (i), the amount of penalty for each such violation shall not exceed the greater of (I) $50,000 for a natural person or $250,000 for any other person, or (II) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in subparagraph (A) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
-                (iii)  __Third tier__  __.—__ 
+                (iii) __Third tier.—__ 
 
                 Notwithstanding clauses (i) and (ii), the amount of penalty for each such violation shall not exceed the greater of (I) $100,000 for a natural person or $500,000 for any other person, or (II) the gross amount of pecuniary gain to such defendant as a result of the violation, if—
 
@@ -63,41 +63,41 @@
 
             (C) __Procedures for collection.—__ 
 
-                (i)  __Payment of penalty to treasury__  __.—__ 
+                (i) __Payment of penalty to treasury.—__ 
 
                 A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in [section 7246 of this title][/us/usc/t15/s7246] and [section 78u–6 of this title][/us/usc/t15/s78u–6].
 
-                (ii)  __Collection of penalties__  __.—__ 
+                (ii) __Collection of penalties.—__ 
 
                 If a person upon whom such a penalty is imposed shall fail to pay such penalty within the time prescribed in the court’s order, the Commission may refer the matter to the Attorney General who shall recover such penalty by action in the appropriate United States district court.
 
-                (iii)  __Remedy not exclusive__  __.—__ 
+                (iii) __Remedy not exclusive.—__ 
 
                 The actions authorized by this paragraph may be brought in addition to any other action that the Commission or the Attorney General is entitled to bring.
 
-                (iv)  __Jurisdiction and venue__  __.—__ 
+                (iv) __Jurisdiction and venue.—__ 
 
                 For purposes of [section 78aa of this title][/us/usc/t15/s78aa], actions under this paragraph shall be actions to enforce a liability or a duty created by this chapter.
 
-            (D)  __Special provisions relating to a violation of a cease-and-desist order__  __.—__ 
+            (D) __Special provisions relating to a violation of a cease-and-desist order.—__ 
 
             In an action to enforce a cease-and-desist order entered by the Commission pursuant to [section 78u–3 of this title][/us/usc/t15/s78u–3], each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
 
-        (4)  __Prohibition of attorneys’ fees paid from commission disgorgement funds__  __.—__ 
+        (4) __Prohibition of attorneys’ fees paid from commission disgorgement funds.—__ 
 
         Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federal court, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys’ fees or expenses incurred by private parties seeking distribution of the disgorged funds.
 
-        (5)  __Equitable Relief__  __.—__ 
+        (5) __Equitable Relief.—__ 
 
         In any action or proceeding brought or instituted by the Commission under any provision of the securities laws, the Commission may seek, and any Federal court may grant, any equitable relief that may be appropriate or necessary for the benefit of investors.
 
         (6) __Authority of a court to prohibit persons from participating in an offering of penny stock.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             In any proceeding under paragraph (1) against any person participating in, or, at the time of the alleged misconduct who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
 
-            (B)  __Definition__  __.—__ 
+            (B) __Definition.—__ 
 
             For purposes of this paragraph, the term “person participating in an offering of penny stock” includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
 
@@ -331,11 +331,11 @@
 
 [Pub. L. 105–353, title I, § 102][/us/pl/105/353/s102], Nov. 3, 1998, [112 Stat. 3233][/us/stat/112/3233], provided that:
 
->     “(a)  __Commission Action__  __.—__ 
+>     “(a) __Commission Action.—__ 
 
 >     The Securities and Exchange Commission, in consultation with State securities commissions (or any agencies or offices performing like functions), shall seek to encourage the adoption of State laws providing for reciprocal enforcement by State securities commissions of subpoenas issued by another State securities commission seeking to compel persons to attend, testify in, or produce documents or records in connection with an action or investigation by a State securities commission of an alleged violation of State securities laws.
 
->     “(b)  __Report__  __.—__ 
+>     “(b) __Report.—__ 
 
 >     Not later than 24 months after the date of enactment of this Act \[Nov. 3, 1998\], the Securities and Exchange Commission (hereafter in this section referred to as the ‘Commission’) shall submit a report to the Congress—
 

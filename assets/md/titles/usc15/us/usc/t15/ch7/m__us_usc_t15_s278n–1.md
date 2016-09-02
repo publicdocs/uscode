@@ -45,15 +45,15 @@
 
 > “In this title \[enacting this section and sections 273a and 278n–2 of this title, amending sections 274, 278g–1, 278g–2, 278g–2a, and 278k of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing [section 1533 of this title][/us/usc/t15/s1533] and provisions set out as a note under [section 278k of this title][/us/usc/t15/s278k]\]:
 
->     “(1)  __Director__  __.—__ 
+>     “(1) __Director.—__ 
 
 >     The term ‘Director’ means the Director of the National Institute of Standards and Technology.
 
->     “(2)  __Federal agency__  __.—__ 
+>     “(2) __Federal agency.—__ 
 
 >     The term ‘Federal agency’ has the meaning given such term in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3703][/us/usc/t15/s3703]).
 
->     “(3)  __High performance green building__  __.—__ 
+>     “(3) __High performance green building.—__ 
 
 >     The term ‘high performance green building’ has the meaning given that term by section 401(13) of the Energy Independence and Security Act of 2009 \[probably should be “2007”\] ([42 U.S.C. 17061(13)][/us/usc/t42/s17061/13]).”
 

@@ -99,21 +99,21 @@
 
 [Pub. L. 104–290, title III, § 307][/us/pl/104/290/s307], Oct. 11, 1996, [110 Stat. 3440][/us/stat/110/3440], provided that:
 
->     “(a)  __Preservation of Filing Requirements__  __.—__ 
+>     “(a) __Preservation of Filing Requirements.—__ 
 
 >     Nothing in this title \[see Short Title of 1996 Amendment note set out under [section 80b–20 of this title][/us/usc/t15/s80b–20]\] or any amendment made by this title prohibits the securities commission (or any agency or office performing like functions) of any State from requiring the filing of any documents filed with the Commission pursuant to the securities laws solely for notice purposes, together with a consent to service of process and any required fee.
 
->     “(b)  __Preservation of Fees__  __.—__ 
+>     “(b) __Preservation of Fees.—__ 
 
 >     Until otherwise provided by law, rule, regulation, or order, or other administrative action of any State, or any political subdivision thereof, adopted after the date of enactment of this Act \[Oct. 11, 1996\], filing, registration, or licensing fees shall, notwithstanding the amendments made by this title, continue to be paid in amounts determined pursuant to the law, rule, regulation, or order, or other administrative action as in effect on the day before such date of enactment.
 
 >     “(c) __Availability of Preemption Contingent on Payment of Fees.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         During the period beginning on the date of enactment of this Act \[Oct. 11, 1996\] and ending 3 years after that date of enactment, the securities commission (or any agency or office performing like functions) of any State may require registration of any investment adviser that fails or refuses to pay the fees required by subsection (b) in or to such State, notwithstanding the limitations on the laws, rules, regulations, or orders, or other administrative actions of any State, or any political subdivision thereof, contained in subsection (a), if the laws of such State require registration of investment advisers.
 
->         “(2)  __Delays__  __.—__ 
+>         “(2) __Delays.—__ 
 
 >         For purposes of this subsection, delays in payment of fees or underpayments of fees that are promptly remedied in accordance with the applicable laws, rules, regulations, or orders, or other administrative actions of the relevant State shall not constitute a failure or refusal to pay fees.”
 

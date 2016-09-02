@@ -175,11 +175,11 @@
 
 [Pub. L. 105–366, § 5][/us/pl/105/366/s5], Nov. 10, 1998, [112 Stat. 3309][/us/stat/112/3309], provided that:
 
->     “(a)  __Definition__  __.—__ 
+>     “(a) __Definition.—__ 
 
 >     For purposes of this section:
 
->         “(1)  __International organization providing commercial communications services__  __.—__ 
+>         “(1) __International organization providing commercial communications services.—__ 
 
 >         The term ‘international organization providing commercial communications services’ means—
 
@@ -187,45 +187,45 @@
 
 >             “(B) the International Mobile Satellite Organization established pursuant to the Convention on the International Maritime Satellite Organization.
 
->         “(2)  __Pro-competitive privatization__  __.—__ 
+>         “(2) __Pro-competitive privatization.—__ 
 
 >         The term ‘pro-competitive privatization’ means a privatization that the President determines to be consistent with the United States policy of obtaining full and open competition to such organizations (or their successors), and nondiscriminatory market access, in the provision of satellite services.
 
 >     “(b) __Treatment as Public International Organizations.—__ 
 
->         “(1)  __Treatment__  __.—__ 
+>         “(1) __Treatment.—__ 
 
 >         An international organization providing commercial communications services shall be treated as a public international organization for purposes of section 30A of the Securities Exchange Act of 1934 ([15 U.S.C. 78dd–1][/us/usc/t15/s78dd–1]) and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 ([15 U.S.C. 78dd–2][/us/usc/t15/s78dd–2] \[and 78dd–3\]) until such time as the President certifies to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committees on Banking, Housing and Urban Affairs and Commerce, Science, and Transportation that such international organization providing commercial communications services has achieved a pro-competitive privatization.
 
->         “(2)  __Limitation on effect of treatment__  __.—__ 
+>         “(2) __Limitation on effect of treatment.—__ 
 
 >         The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 \[[47 U.S.C. 151][/us/usc/t47/s151] et seq.\] in authorizing the provision of services to, from, or within the United States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
 
 >     “(c) __Extension of Legal Process.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Except as required by international agreements to which the United States is a party, an international organization providing commercial communications services, its officials and employees, and its records shall not be accorded immunity from suit or legal process for any act or omission taken in connection with such organization’s capacity as a provider, directly or indirectly, of commercial telecommunications services to, from, or within the United States.
 
->         “(2)  __No effect on personal liability__  __.—__ 
+>         “(2) __No effect on personal liability.—__ 
 
 >         Paragraph (1) shall not affect any immunity from personal liability of any individual who is an official or employee of an international organization providing commercial communications services.
 
->         “(3)  __Effective date__  __.—__ 
+>         “(3) __Effective date.—__ 
 
 >         This subsection shall take effect on May 1, 1999.
 
 >     “(d) __Elimination or Limitation of Exceptions.—__ 
 
->         “(1)  __Action required__  __.—__ 
+>         “(1) __Action required.—__ 
 
 >         The President shall, in a manner that is consistent with requirements in international agreements to which the United States is a party, expeditiously take all appropriate actions necessary to eliminate or to reduce substantially all privileges and immunities that are accorded to an international organization described in subparagraph (A) or (B) of subsection (a)(1), its officials, its employees, or its records, and that are not eliminated pursuant to subsection (c).
 
->         “(2)  __Designation of agreements__  __.—__ 
+>         “(2) __Designation of agreements.—__ 
 
 >         The President shall designate which agreements constitute international agreements to which the United States is a party for purposes of this section.
 
->     “(e)  __Preservation of Law Enforcement and Intelligence Functions__  __.—__ 
+>     “(e) __Preservation of Law Enforcement and Intelligence Functions.—__ 
 
 >     Nothing in subsection (c) or (d) of this section shall affect any immunity from suit or legal process of an international organization providing commercial communications services, or the privatized affiliates or successors thereof, for acts or omissions—
 
@@ -237,11 +237,11 @@
 
 >     “(f) __Rules of Construction.—__ 
 
->         “(1)  __Negotiations__  __.—__ 
+>         “(1) __Negotiations.—__ 
 
 >         Nothing in this section shall affect the President’s existing constitutional authority regarding the time, scope, and objectives of international negotiations.
 
->         “(2)  __Privatization__  __.—__ 
+>         “(2) __Privatization.—__ 
 
 >         Nothing in this section shall be construed as legislative authorization for the privatization of INTELSAT or Inmarsat, nor to increase the President’s authority with respect to negotiations concerning such privatization.”
 
@@ -251,19 +251,19 @@
 
 [Pub. L. 105–366, § 6][/us/pl/105/366/s6], Nov. 10, 1998, [112 Stat. 3311][/us/stat/112/3311], provided that:
 
->     “(a)  __Reports Required__  __.—__ 
+>     “(a) __Reports Required.—__ 
 
 >     Not later than July 1 of 1999 and each of the 5 succeeding years, the Secretary of Commerce shall submit to the House of Representatives and the Senate a report that contains the following information with respect to implementation of the Convention:
 
->         “(1)  __Ratification__  __.—__ 
+>         “(1) __Ratification.—__ 
 
 >         A list of the countries that have ratified the Convention, the dates of ratification by such countries, and the entry into force for each such country.
 
->         “(2)  __Domestic legislation__  __.—__ 
+>         “(2) __Domestic legislation.—__ 
 
 >         A description of domestic laws enacted by each party to the Convention that implement commitments under the Convention, and assessment of the compatibility of such laws with the Convention.
 
->         “(3)  __Enforcement__  __.—__ 
+>         “(3) __Enforcement.—__ 
 
 >         As assessment of the measures taken by each party to the Convention during the previous year to fulfill its obligations under the Convention and achieve its object and purpose including—
 
@@ -273,35 +273,35 @@
 
 >             “(C) an assessment of the effectiveness, transparency, and viability of the monitoring process for the Convention, including its inclusion of input from the private sector and nongovernmental organizations.
 
->         “(4)  __Laws prohibiting tax deduction of bribes__  __.—__ 
+>         “(4) __Laws prohibiting tax deduction of bribes.—__ 
 
 >         An explanation of the domestic laws enacted by each party to the Convention that would prohibit the deduction of bribes in the computation of domestic taxes.
 
->         “(5)  __New signatories__  __.—__ 
+>         “(5) __New signatories.—__ 
 
 >         A description of efforts to expand international participation in the Convention by adding new signatories to the Convention and by assuring that all countries which are or become members of the Organization for Economic Cooperation and Development are also parties to the Convention.
 
->         “(6)  __Subsequent efforts__  __.—__ 
+>         “(6) __Subsequent efforts.—__ 
 
 >         An assessment of the status of efforts to strengthen the Convention by extending the prohibitions contained in the Convention to cover bribes to political parties, party officials, and candidates for political office.
 
->         “(7)  __Advantages__  __.—__ 
+>         “(7) __Advantages.—__ 
 
 >         Advantages, in terms of immunities, market access, or otherwise, in the countries or regions served by the organizations described in section 5(a) \[set out as a note above\], the reason for such advantages, and an assessment of progress toward fulfilling the policy described in that section.
 
->         “(8)  __Bribery and transparency__  __.—__ 
+>         “(8) __Bribery and transparency.—__ 
 
 >         An assessment of anti-bribery programs and transparency with respect to each of the international organizations covered by this Act \[enacting [section 78dd–3 of this title][/us/usc/t15/s78dd–3], amending this section and sections 78dd–2 and 78ff of this title, and enacting provisions set out as notes under this section\].
 
->         “(9)  __Private sector review__  __.—__ 
+>         “(9) __Private sector review.—__ 
 
 >         A description of the steps taken to ensure full involvement of United States private sector participants and representatives of nongovernmental organizations in the monitoring and implementation of the Convention.
 
->         “(10)  __Additional information__  __.—__ 
+>         “(10) __Additional information.—__ 
 
 >         In consultation with the private sector participants and representatives of nongovernmental organizations described in paragraph (9), a list of additional means for enlarging the scope of the Convention and otherwise increasing its effectiveness. Such additional means shall include, but not be limited to, improved recordkeeping provisions and the desirability of expanding the applicability of the Convention to additional individuals and organizations and the impact on United States business of section 30A of the Securities Exchange Act of 1934 \[[15 U.S.C. 78dd–1][/us/usc/t15/s78dd–1]\] and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 \[[15 U.S.C. 78dd–2][/us/usc/t15/s78dd–2], 78dd–3\].
 
->     “(b)  __Definition__  __.—__ 
+>     “(b) __Definition.—__ 
 
 >     For purposes of this section, the term ‘Convention’ means the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions adopted on November 21, 1997, and signed on December 17, 1997, by the United States and 32 other nations.”
 
@@ -309,11 +309,11 @@
 
 [Pub. L. 100–418, title V, § 5003(d)][/us/pl/100/418/s5003/d], Aug. 23, 1988, [102 Stat. 1424][/us/stat/102/1424], provided that:
 
->     “(1)  __Negotiations__  __.—__ 
+>     “(1) __Negotiations.—__ 
 
 >     It is the sense of the Congress that the President should pursue the negotiation of an international agreement, among the members of the Organization of Economic Cooperation and Development, to govern persons from those countries concerning acts prohibited with respect to issuers and domestic concerns by the amendments made by this section \[amending sections 78dd–1, 78dd–2, and 78ff of this title\]. Such international agreement should include a process by which problems and conflicts associated with such acts could be resolved.
 
->     “(2)  __Report to congress__  __.—__ 
+>     “(2) __Report to congress.—__ 
 
 >         (A)
 

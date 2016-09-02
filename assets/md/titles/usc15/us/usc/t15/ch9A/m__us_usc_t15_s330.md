@@ -39,7 +39,7 @@
 
 > “Sec. 2. __Declaration of Policy.__ 
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     The Congress finds and declares the following:
 
@@ -51,7 +51,7 @@
 
 >         “(4) Weather modification programs may have long-range and unexpected effects on existing climatic patterns which are not confined by national boundaries.
 
->     “(b)  __Purpose__  __.—__ 
+>     “(b) __Purpose.—__ 
 
 >     It is therefore declared to be the purpose of the Congress in this Act to develop a comprehensive and coordinated national weather modification policy and a national program of weather modification research and development—
 
@@ -107,7 +107,7 @@
 
 > “Sec. 5. __Report.__ 
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     The Secretary shall prepare and submit to the President and the Congress, within 1 year after the date of enactment of this Act \[Oct. 13, 1976\], a final report on the findings, conclusions, and recommendations of the study conducted pursuant to section 4. Such report shall include:
 
@@ -125,7 +125,7 @@
 
 >         Each department, agency, and other instrumentality of the Federal Government is authorized and directed to furnish the Secretary any information which the Secretary deems necessary to carry out his functions under this Act.
 
->     “(b)  __Operation and Consultation__  __.—__ 
+>     “(b) __Operation and Consultation.—__ 
 
 >     The Secretary shall solicit and consider the views of State agencies, private firms, institutions of higher learning, and other interested persons and governmental entities in the conduct of the study required by section 4, and in the preparation of the report required by subsection (a).
 

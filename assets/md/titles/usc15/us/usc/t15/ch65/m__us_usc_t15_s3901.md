@@ -139,11 +139,11 @@
 
 [Pub. L. 99–563, § 11(a)][/us/pl/99/563/s11/a], (b), and (c)(2), Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177], provided that:
 
->     “(a)  __General Rule__  __.—__ 
+>     “(a) __General Rule.—__ 
 
 >     Subject to subsection (b), this Act \[see Short Title of 1986 Amendment note below\] shall take effect on the date of its enactment \[Oct. 27, 1986\].
 
->     “(b)  __Special Rule Regarding Feasibility Study__  __.—__ 
+>     “(b) __Special Rule Regarding Feasibility Study.—__ 
 
 >     The provisions of section 3(d) of the Liability Risk Retention Act of 1986 (as added by section 5(b) of this Act) \[[15 U.S.C. 3902(d)][/us/usc/t15/s3902/d]\], relating to the submission of a feasibility study, shall not apply with respect to any line or classification of liability insurance which—
 
@@ -171,7 +171,7 @@
 
 [Pub. L. 99–563, § 10][/us/pl/99/563/s10], Oct. 27, 1986, [100 Stat. 3176][/us/stat/100/3176], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >         (1) Not later than September 1, 1987, and not later than September 1, 1989, the Secretary of Commerce shall submit reports to the Congress concerning implementation of this Act \[see Short Title of 1986 Amendment note above\].
 
@@ -183,7 +183,7 @@
 
 >             “(B) the Secretary’s analysis of other information available to the Secretary.
 
->     “(b)  __Contents of the Report__  __.—__ 
+>     “(b) __Contents of the Report.—__ 
 
 >     The report shall describe the Secretary’s views concerning—
 

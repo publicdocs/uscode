@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Under Secretary, through the National Weather Service and other appropriate weather and climate programs in the National Oceanic and Atmospheric Administration, shall establish a National Integrated Drought Information System to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs.
+        The Under Secretary, through the National Weather Service and other appropriate weather and climate programs in the National Oceanic and Atmospheric Administration, shall establish a National Integrated Drought Information System.
 
     (b) __System functions__ 
 
@@ -27,27 +27,25 @@
 
          provide an effective drought early warning system that—
 
-            (A) collects and integrates information on the key indicators of drought and drought impacts in order to make usable, reliable, and timely forecasts of drought, including assessments of the severity of drought conditions and impacts; and
+            (A) is a comprehensive system that collects and integrates information on the key indicators of drought in order to make usable, reliable, and timely drought forecasts and assessments of drought, including assessments of the severity of drought conditions and impacts;
 
-            (B) provides such information, forecasts, and assessments on both national and regional levels;
+            (B)
 
-        (2)
+             communicates drought forecasts, drought conditions, and drought impacts on an ongoing basis to—
 
-         communicate drought forecasts, drought conditions, and drought impacts on an ongoing basis to public and private entities engaged in drought planning and preparedness, including—
+                (i) decisionmakers at the Federal, regional, State, tribal, and local levels of government;
 
-            (A) decisionmakers at the Federal, regional, State, tribal, and local levels of government;
+                (ii) the private sector; and
 
-            (B) the private sector; and
+                (iii) the public,
 
-            (C) the public;
+                in order to engender better informed and more timely decisions thereby leading to reduced impacts and costs; and
 
-        (3) provide timely data, information, and products that reflect local, regional, and State differences in drought conditions;
+            (C) includes timely (where possible real-time) data, information, and products that reflect local, regional, and State differences in drought conditions;
 
-        (4) coordinate, and integrate as practicable, Federal research and monitoring in support of a drought early warning system;
+        (2) coordinate, and integrate as practicable, Federal research in support of a drought early warning system; and
 
-        (5) build upon existing forecasting and assessment programs and partnerships, including through the designation of one or more cooperative institutes to assist with National Integrated Drought Information System functions; and
-
-        (6) continue ongoing research and monitoring activities related to drought, including research activities relating to length, severity, and impacts of drought and the role of extreme weather events and climate variability in drought.
+        (3) build upon existing forecasting and assessment programs and partnerships.
 
     (c) __Consultation__ 
 
@@ -57,49 +55,29 @@
 
         Each Federal agency shall cooperate as appropriate with the Under Secretary in carrying out this section.
 
-    (e) __Report__ 
-
-        (1) __In general__ 
-
-        Not later than 18 months after March 6, 2014, the Under Secretary shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that contains—
-
-            (A) an analysis of the implementation of the National Integrated Drought Information System program, including how the information, forecasts, and assessments are utilized in drought policy planning and response activities;
-
-            (B) specific plans for continued development of such program, including future milestones; and
-
-            (C)
-
-             an identification of research, monitoring, and forecasting needs to enhance the predictive capability of drought early warnings that include—
-
-                (i) the length and severity of droughts;
-
-                (ii) the contribution of weather events to reducing the severity or ending drought conditions; and
-
-                (iii) regionally specific drought impacts.
-
-        (2) __Consultation__ 
-
-            In developing the report under paragraph (1), the Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector.
-
-([Pub. L. 109–430, § 3][/us/pl/109/430/s3], Dec. 20, 2006, [120 Stat. 2918][/us/stat/120/2918]; [Pub. L. 113–86, § 2][/us/pl/113/86/s2], Mar. 6, 2014, [128 Stat. 1015][/us/stat/128/1015].)
+([Pub. L. 109–430, § 3][/us/pl/109/430/s3], Dec. 20, 2006, [120 Stat. 2918][/us/stat/120/2918].)
 
  __References in Text__ 
 
     This section, referred to in subsec. (d), was in the original “this Act”, meaning [Pub. L. 109–430][/us/pl/109/430], Dec. 20, 2006, [120 Stat. 2918][/us/stat/120/2918], which enacted this section and provisions set out as notes under this section and [section 311 of this title][/us/usc/t15/s311]. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under [section 311 of this title][/us/usc/t15/s311] and Tables.
 
- __Amendments__ 
-
-    2014—Subsec. (a). [Pub. L. 113–86, § 2(1)][/us/pl/113/86/s2/1], inserted “to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs” before period at end.
-
-    Subsec. (b). [Pub. L. 113–86, § 2(2)][/us/pl/113/86/s2/2], added subsec. (b) and struck out former subsec. (b) which set out required functions of the National Integrated Drought Information System.
-
-    Subsec. (e). [Pub. L. 113–86, § 2(3)][/us/pl/113/86/s2/3], added subsec. (e).
-
  __Authorization of Appropriations__ 
 
-[Pub. L. 109–430, § 4][/us/pl/109/430/s4], Dec. 20, 2006, [120 Stat. 2919][/us/stat/120/2919], as amended by [Pub. L. 113–86, § 3][/us/pl/113/86/s3], Mar. 6, 2014, [128 Stat. 1016][/us/stat/128/1016], provided that: 
+[Pub. L. 109–430, § 4][/us/pl/109/430/s4], Dec. 20, 2006, [120 Stat. 2919][/us/stat/120/2919], provided that: 
 
-> “There are authorized to be appropriated to carry out this Act \[see Short Title of 2006 Amendment note set out under [section 311 of this title][/us/usc/t15/s311]\] $13,500,000 for each of fiscal years 2014 through 2018.”
+> “There are authorized to be appropriated to carry out this Act \[see Short Title of 2006 Amendment note set out under [section 311 of this title][/us/usc/t15/s311]\]—
+
+>     “(1) $11,000,000 for fiscal year 2007;
+
+>     “(2) $12,000,000 for fiscal year 2008;
+
+>     “(3) $13,000,000 for fiscal year 2009;
+
+>     “(4) $14,000,000 for fiscal year 2010;
+
+>     “(5) $15,000,000 for fiscal year 2011; and
+
+>     “(6) $16,000,000 for fiscal year 2012.”
 
  __Definitions__ 
 
@@ -107,7 +85,7 @@
 
 > “In this Act \[see Short Title of 2006 Amendment note set out under [section 311 of this title][/us/usc/t15/s311]\]:
 
->     “(1)  __Drought__  __.—__ 
+>     “(1) __Drought.—__ 
 
 >     The term ‘drought’ means a deficiency in precipitation—
 
@@ -121,7 +99,7 @@
 
 >             “(ii) substantial physical damage or injury to individuals, property, or the environment.
 
->     “(2)  __Under secretary__  __.—__ 
+>     “(2) __Under secretary.—__ 
 
 >     The term ‘Under Secretary’ means the Under Secretary of Commerce for Oceans and Atmosphere.”
 
@@ -134,19 +112,12 @@
 
 [/us/pl/109/430/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430%2Fs3
 [/us/stat/120/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2918
-[/us/pl/113/86/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs2
-[/us/stat/128/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1015
 [/us/pl/109/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430
 [/us/stat/120/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2918
 [/us/usc/t15/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs311
 [/us/usc/t15/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs311
-[/us/pl/113/86/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs2%2F1
-[/us/pl/113/86/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs2%2F2
-[/us/pl/113/86/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs2%2F3
 [/us/pl/109/430/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430%2Fs4
 [/us/stat/120/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2919
-[/us/pl/113/86/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs3
-[/us/stat/128/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1016
 [/us/usc/t15/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs311
 [/us/pl/109/430/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430%2Fs2
 [/us/stat/120/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2918

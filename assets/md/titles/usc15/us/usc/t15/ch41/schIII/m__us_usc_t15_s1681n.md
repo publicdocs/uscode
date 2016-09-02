@@ -69,7 +69,7 @@
 
 [Pub. L. 110–241, § 2][/us/pl/110/241/s2], June 3, 2008, [122 Stat. 1565][/us/stat/122/1565], provided that:
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     The Congress finds as follows:
 
@@ -87,7 +87,7 @@
 
 >         “(7) Despite repeatedly being denied class certification, the continued appealing and filing of these lawsuits represents a significant burden on the hundreds of companies that have been sued and could well raise prices to consumers without corresponding consumer protection benefit.
 
->     “(b)  __Purpose__  __.—__ 
+>     “(b) __Purpose.—__ 
 
 >     The purpose of this Act \[amending this section and enacting provisions set out as notes under this section and [section 1601 of this title][/us/usc/t15/s1601]\] is to ensure that consumers suffering from any actual harm to their credit or identity are protected while simultaneously limiting abusive lawsuits that do not protect consumers but only result in increased cost to business and potentially increased prices to consumers.”
 

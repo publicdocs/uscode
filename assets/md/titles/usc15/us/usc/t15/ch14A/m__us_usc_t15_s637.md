@@ -239,7 +239,7 @@
 
             (B) is recognized as such by the State in which such tribe, band, nation, group, or community resides.
 
-        (14)  __Limitations on subcontracting__  __.—__ 
+        (14) __Limitations on subcontracting.—__ 
 
         A concern may not be awarded a contract under this subsection as a small business concern unless the concern agrees to satisfy the requirements of [section 657s of this title][/us/usc/t15/s657s].
 
@@ -635,35 +635,13 @@
 
             (C) a description of the efforts the offeror or bidder will take to assure that small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women will have an equitable opportunity to compete for subcontracts;
 
-            (D)
-
-             assurances that the offeror or bidder will include the clause required by paragraph (2) of this subsection in all subcontracts which offer further subcontracting opportunities, and that the offeror or bidder will require all subcontractors (except small business concerns) who receive subcontracts in excess of $1,000,000 in the case of a contract for the construction of any public facility, or in excess of $500,000 in the case of all other contracts, to adopt a plan similar to the plan required under paragraph (4) or (5), and assurances at a minimum that the offeror or bidder, and all subcontractors required to maintain subcontracting plans pursuant to this paragraph, will—
-
-                (i) review and approve subcontracting plans submitted by their subcontractors;
-
-                (ii) monitor subcontractor compliance with their approved subcontracting plans;
-
-                (iii) ensure that subcontracting reports are submitted by their subcontractors when required;
-
-                (iv) acknowledge receipt of their subcontractors’ reports;
-
-                (v) compare the performance of their subcontractors to subcontracting plans and goals; and
-
-                (vi) discuss performance with subcontractors when necessary to ensure their subcontractors make a good faith effort to comply with their subcontracting plans;
+            (D) assurances that the offeror or bidder will include the clause required by paragraph (2) of this subsection in all subcontracts which offer further subcontracting opportunities, and that the offeror or bidder will require all subcontractors (except small business concerns) who receive subcontracts in excess of $1,000,000 in the case of a contract for the construction of any public facility, or in excess of $500,000 in the case of all other contracts, to adopt a plan similar to the plan required under paragraph (4) or (5);
 
             (E) assurances that the offeror or bidder will submit such periodic reports and cooperate in any studies or surveys as may be required by the Federal agency or the Administration in order to determine the extent of compliance by the offeror or bidder with the subcontracting plan;
 
-            (F) a recitation of the types of records the successful offeror or bidder will maintain to demonstrate procedures which have been adopted to comply with the requirements and goals set forth in this plan, including the establishment of source lists of small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women; and efforts to identify and award subcontracts to such small business concerns;
+            (F) a recitation of the types of records the successful offeror or bidder will maintain to demonstrate procedures which have been adopted to comply with the requirements and goals set forth in this plan, including the establishment of source lists of small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women; and efforts to identify and award subcontracts to such small business concerns; and
 
             (G)
-
-             a recitation of the types of records the successful offeror or bidder will maintain to demonstrate procedures which have been adopted to ensure subcontractors at all tiers comply with the requirements and goals set forth in the plan established in accordance with subparagraph (D) of this paragraph, including—
-
-                (i) the establishment of source lists of small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women; and
-
-                (ii) efforts to identify and award subcontracts to such small business concerns; and
-
-            (H)
 
              a representation that the offeror or bidder will—
 
@@ -707,25 +685,25 @@
 
         (13) __Payment of Subcontractors.—__ 
 
-            (A)  __Definition__  __.—__ 
+            (A) __Definition.—__ 
 
             In this paragraph, the term “covered contract” means a contract relating to which a prime contractor is required to develop a subcontracting plan under paragraph (4) or (5).
 
             (B) __Notice.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 A prime contractor for a covered contract shall notify in writing the contracting officer for the covered contract if the prime contractor pays a reduced price to a subcontractor for goods and services upon completion of the responsibilities of the subcontractor or the payment to a subcontractor is more than 90 days past due for goods or services provided for the covered contract for which the Federal agency has paid the prime contractor.
 
-                (ii)  __Contents__  __.—__ 
+                (ii) __Contents.—__ 
 
                 A prime contractor shall include the reason for the reduction in a payment to or failure to pay a subcontractor in any notice made under clause (i).
 
-            (C)  __Performance__  __.—__ 
+            (C) __Performance.—__ 
 
             A contracting officer for a covered contract shall consider the unjustified failure by a prime contractor to make a full or timely payment to a subcontractor in evaluating the performance of the prime contractor.
 
-            (D)  __Control of funds__  __.—__ 
+            (D) __Control of funds.—__ 
 
             If the contracting officer for a covered contract determines that a prime contractor has a history of unjustified, untimely payments to contractors, the contracting officer shall record the identity of the contractor in accordance with the regulations promulgated under subparagraph (E).
 
@@ -742,18 +720,6 @@
         (14) An offeror for a covered contract that intends to identify a small business concern as a potential subcontractor in a bid or proposal for the contract, or in a plan submitted pursuant to this subsection in connection with the contract, shall notify the small business concern prior to making such identification.
 
         (15) The Administrator shall establish a reporting mechanism that allows a subcontractor or potential subcontractor to report fraudulent activity or bad faith by a contractor with respect to a subcontracting plan submitted pursuant to this subsection.
-
-        (16) __Credit for Certain Subcontractors.—__ 
-
-            (A)
-
-             For purposes of determining whether or not a prime contractor has attained the percentage goals specified in paragraph (6)—
-
-                (i) if the subcontracting goals pertain only to a single contract with the executive agency, the prime contractor shall receive credit for small business concerns performing as first tier subcontractors or subcontractors at any tier pursuant to the subcontracting plans required under paragraph (6)(D) in an amount equal to the dollar value of work awarded to such small business concerns; and
-
-                (ii) if the subcontracting goals pertain to more than one contract with one or more executive agencies, or to one contract with more than one executive agency, the prime contractor may only count first tier subcontractors that are small business concerns.
-
-            (B) Nothing in this paragraph shall abrogate the responsibility of a prime contractor to make a good-faith effort to achieve the first tier small business subcontracting goals negotiated under paragraph (6)(A), or the requirement for subcontractors with further opportunities for subcontracting to make a good-faith effort to achieve the goals established under paragraph (6)(D).
 
     (e) __Covered executive agency activities; procurement notice; publication; time limitations__ 
 
@@ -1009,7 +975,7 @@
 
             There is authorized to be appropriated to carry out this subsection $6,600,000, to remain available until expended, for each of fiscal years 2001 through 2006.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[8\], July 18, 1958, [72 Stat. 389][/us/stat/72/389]; [Pub. L. 87–305][/us/pl/87/305], §§ 7, 8, Sept. 26, 1961, [75 Stat. 667][/us/stat/75/667], 668; [Pub. L. 88–560, title III, § 305(c)][/us/pl/88/560/s305/c], Sept. 2, 1964, [78 Stat. 786][/us/stat/78/786]; [Pub. L. 89–754, title X, § 1017][/us/pl/89/754/s1017], Nov. 3, 1966, [80 Stat. 1295][/us/stat/80/1295]; [Pub. L. 90–104, title I][/us/pl/90/104], §§ 105–107, Oct. 11, 1967, [81 Stat. 268][/us/stat/81/268], 269; [Pub. L. 91–375, § 6(g)][/us/pl/91/375/s6/g], Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 95–89, title V, § 501][/us/pl/95/89/s501], Aug. 4, 1977, [91 Stat. 561][/us/stat/91/561]; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 202(a), 211, Oct. 24, 1978, [92 Stat. 1761][/us/stat/92/1761], 1767; [Pub. L. 95–510, § 101][/us/pl/95/510/s101], Oct. 24, 1978, [92 Stat. 1780][/us/stat/92/1780]; [Pub. L. 96–302, title I, § 118(b)][/us/pl/96/302/s118/b], July 2, 1980, [94 Stat. 840][/us/stat/94/840]; [Pub. L. 96–481, title I][/us/pl/96/481], §§ 101, 105, Oct. 21, 1980, [94 Stat. 2321][/us/stat/94/2321], 2322; [Pub. L. 98–47][/us/pl/98/47], §§ 1(a), 2, 3, July 13, 1983, [97 Stat. 243][/us/stat/97/243]; [Pub. L. 98–72, § 1(a)][/us/pl/98/72/s1/a], Aug. 11, 1983, [97 Stat. 403][/us/stat/97/403]; [Pub. L. 98–362, § 5(a)][/us/pl/98/362/s5/a], July 16, 1984, [98 Stat. 433][/us/stat/98/433]; [Pub. L. 98–577, title IV][/us/pl/98/577], §§ 401, 402, 404(a), Oct. 30, 1984, [98 Stat. 3079][/us/stat/98/3079], 3082; [Pub. L. 99–272, title XVIII, § 18015(b)][/us/pl/99/272/s18015/b]–(d), Apr. 7, 1986, [100 Stat. 370][/us/stat/100/370], 371; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, §§ 921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–147, 1783–151, 1783–152, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, §§ 921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–147, 3341–151, 3341–152; [Pub. L. 99–567][/us/pl/99/567], §§ 1(a), 2, 3, Oct. 27, 1986, [100 Stat. 3188][/us/stat/100/3188]; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, §§ 921(b)(2), (c)(1), 922(a), (d)(1), Nov. 14, 1986, [100 Stat. 3927][/us/stat/100/3927], 3930, 3932, renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(b)(3)][/us/pl/100/26/s10/b/3], Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–533, title II][/us/pl/100/533], §§ 201, 202, Oct. 25, 1988, [102 Stat. 2690][/us/stat/102/2690], 2692; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 127(a), (b), 131(b), Nov. 3, 1988, [102 Stat. 3001][/us/stat/102/3001], 3003, 3004; [Pub. L. 100–656, title II][/us/pl/100/656], §§ 201(b), 207(a), (c), 209, title III, §§ 303(b)–(e), (g), (h), 304(a), title IV, §§ 402–404, 407, 409, title V, § 501, Nov. 15, 1988, [102 Stat. 3858][/us/stat/102/3858], 3861, 3863, 3869, 3870, 3872–3874, 3876, 3878, 3880; [Pub. L. 101–37][/us/pl/101/37], §§ 6(b), (d), 7(b), 10(c), (e), 12–14, 16, 17, June 15, 1989, [103 Stat. 72–74][/us/stat/103/72-74]; [Pub. L. 101–162, title V][/us/pl/101/162], (3), Nov. 21, 1989, [103 Stat. 1025][/us/stat/103/1025]; [Pub. L. 101–510, div. A, title VIII, § 806(e)(2)][/us/pl/101/510/s806/e/2], Nov. 5, 1990, [104 Stat. 1593][/us/stat/104/1593]; [Pub. L. 101–574, title II][/us/pl/101/574], §§ 204(b), 207, 210, 244, Nov. 15, 1990, [104 Stat. 2819–2821][/us/stat/104/2819-2821], 2827; [Pub. L. 102–190, div. A, title VIII, § 814(c)][/us/pl/102/190/s814/c], Dec. 5, 1991, [105 Stat. 1425][/us/stat/105/1425]; [Pub. L. 102–191, § 3][/us/pl/102/191/s3], Dec. 5, 1991, [105 Stat. 1591][/us/stat/105/1591]; [Pub. L. 102–366, title II, § 232(a)][/us/pl/102/366/s232/a], Sept. 4, 1992, [106 Stat. 1001][/us/stat/106/1001]; [Pub. L. 102–564, title III][/us/pl/102/564], §§ 303(a), 304, Oct. 28, 1992, [106 Stat. 4262][/us/stat/106/4262]; [Pub. L. 103–355, title I, § 1055(b)(2)][/us/pl/103/355/s1055/b/2], title IV, §§ 4202(d), 4404(b), title VII, § 7106(b), Oct. 13, 1994, [108 Stat. 3265][/us/stat/108/3265], 3345, 3349, 3375; [Pub. L. 103–403, title IV][/us/pl/103/403], §§ 401(a)(1), 407, 415, Oct. 22, 1994, [108 Stat. 4190][/us/stat/108/4190], 4192, 4198; [Pub. L. 104–106, div. D, title XLIII, § 4321(c)(1)][/us/pl/104/106/s4321/c/1], (2), Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674]; [Pub. L. 105–85, div. A, title VIII, § 850(e)(1)][/us/pl/105/85/s850/e/1], Nov. 18, 1997, [111 Stat. 1848][/us/stat/111/1848]; [Pub. L. 105–135, title IV][/us/pl/105/135], §§ 415, 416(a), (c), title VI, § 603(a), title VII, § 708, Dec. 2, 1997, [111 Stat. 2619][/us/stat/111/2619], 2620, 2631, 2637; [Pub. L. 106–50, title III, § 303(a)][/us/pl/106/50/s303/a], title V, § 501, Aug. 17, 1999, [113 Stat. 243][/us/stat/113/243], 247; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 810(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–209; [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 2\], § 1(a)(9) \[title V, § 504(a), title VI, § 615(b), title VIII, §§ 803, 807, 809, 811\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–666, 2763A–695, 2763A–701, 2763A–702, 2763A–706, 2763A–708; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 132(b), (c), 141(a), 144, Dec. 8, 2004, [118 Stat. 3453][/us/stat/118/3453], 3455; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1322, 1334, Sept. 27, 2010, [124 Stat. 2540][/us/stat/124/2540], 2542; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1653(a), 1654, 1696(b)(2), 1697(a), Jan. 2, 2013, [126 Stat. 2081][/us/stat/126/2081], 2083, 2091; [Pub. L. 113–66, div. A, title XVI, § 1614(a)][/us/pl/113/66/s1614/a], Dec. 26, 2013, [127 Stat. 948][/us/stat/127/948].)
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[8\], July 18, 1958, [72 Stat. 389][/us/stat/72/389]; [Pub. L. 87–305][/us/pl/87/305], §§ 7, 8, Sept. 26, 1961, [75 Stat. 667][/us/stat/75/667], 668; [Pub. L. 88–560, title III, § 305(c)][/us/pl/88/560/s305/c], Sept. 2, 1964, [78 Stat. 786][/us/stat/78/786]; [Pub. L. 89–754, title X, § 1017][/us/pl/89/754/s1017], Nov. 3, 1966, [80 Stat. 1295][/us/stat/80/1295]; [Pub. L. 90–104, title I][/us/pl/90/104], §§ 105–107, Oct. 11, 1967, [81 Stat. 268][/us/stat/81/268], 269; [Pub. L. 91–375, § 6(g)][/us/pl/91/375/s6/g], Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 95–89, title V, § 501][/us/pl/95/89/s501], Aug. 4, 1977, [91 Stat. 561][/us/stat/91/561]; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 202(a), 211, Oct. 24, 1978, [92 Stat. 1761][/us/stat/92/1761], 1767; [Pub. L. 95–510, § 101][/us/pl/95/510/s101], Oct. 24, 1978, [92 Stat. 1780][/us/stat/92/1780]; [Pub. L. 96–302, title I, § 118(b)][/us/pl/96/302/s118/b], July 2, 1980, [94 Stat. 840][/us/stat/94/840]; [Pub. L. 96–481, title I][/us/pl/96/481], §§ 101, 105, Oct. 21, 1980, [94 Stat. 2321][/us/stat/94/2321], 2322; [Pub. L. 98–47][/us/pl/98/47], §§ 1(a), 2, 3, July 13, 1983, [97 Stat. 243][/us/stat/97/243]; [Pub. L. 98–72, § 1(a)][/us/pl/98/72/s1/a], Aug. 11, 1983, [97 Stat. 403][/us/stat/97/403]; [Pub. L. 98–362, § 5(a)][/us/pl/98/362/s5/a], July 16, 1984, [98 Stat. 433][/us/stat/98/433]; [Pub. L. 98–577, title IV][/us/pl/98/577], §§ 401, 402, 404(a), Oct. 30, 1984, [98 Stat. 3079][/us/stat/98/3079], 3082; [Pub. L. 99–272, title XVIII, § 18015(b)][/us/pl/99/272/s18015/b]–(d), Apr. 7, 1986, [100 Stat. 370][/us/stat/100/370], 371; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, §§ 921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–147, 1783–151, 1783–152, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, §§ 921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–147, 3341–151, 3341–152; [Pub. L. 99–567][/us/pl/99/567], §§ 1(a), 2, 3, Oct. 27, 1986, [100 Stat. 3188][/us/stat/100/3188]; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, §§ 921(b)(2), (c)(1), 922(a), (d)(1), Nov. 14, 1986, [100 Stat. 3927][/us/stat/100/3927], 3930, 3932, renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(b)(3)][/us/pl/100/26/s10/b/3], Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–533, title II][/us/pl/100/533], §§ 201, 202, Oct. 25, 1988, [102 Stat. 2690][/us/stat/102/2690], 2692; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 127(a), (b), 131(b), Nov. 3, 1988, [102 Stat. 3001][/us/stat/102/3001], 3003, 3004; [Pub. L. 100–656, title II][/us/pl/100/656], §§ 201(b), 207(a), (c), 209, title III, §§ 303(b)–(e), (g), (h), 304(a), title IV, §§ 402–404, 407, 409, title V, § 501, Nov. 15, 1988, [102 Stat. 3858][/us/stat/102/3858], 3861, 3863, 3869, 3870, 3872–3874, 3876, 3878, 3880; [Pub. L. 101–37][/us/pl/101/37], §§ 6(b), (d), 7(b), 10(c), (e), 12–14, 16, 17, June 15, 1989, [103 Stat. 72–74][/us/stat/103/72-74]; [Pub. L. 101–162, title V][/us/pl/101/162], (3), Nov. 21, 1989, [103 Stat. 1025][/us/stat/103/1025]; [Pub. L. 101–510, div. A, title VIII, § 806(e)(2)][/us/pl/101/510/s806/e/2], Nov. 5, 1990, [104 Stat. 1593][/us/stat/104/1593]; [Pub. L. 101–574, title II][/us/pl/101/574], §§ 204(b), 207, 210, 244, Nov. 15, 1990, [104 Stat. 2819–2821][/us/stat/104/2819-2821], 2827; [Pub. L. 102–190, div. A, title VIII, § 814(c)][/us/pl/102/190/s814/c], Dec. 5, 1991, [105 Stat. 1425][/us/stat/105/1425]; [Pub. L. 102–191, § 3][/us/pl/102/191/s3], Dec. 5, 1991, [105 Stat. 1591][/us/stat/105/1591]; [Pub. L. 102–366, title II, § 232(a)][/us/pl/102/366/s232/a], Sept. 4, 1992, [106 Stat. 1001][/us/stat/106/1001]; [Pub. L. 102–564, title III][/us/pl/102/564], §§ 303(a), 304, Oct. 28, 1992, [106 Stat. 4262][/us/stat/106/4262]; [Pub. L. 103–355, title I, § 1055(b)(2)][/us/pl/103/355/s1055/b/2], title IV, §§ 4202(d), 4404(b), title VII, § 7106(b), Oct. 13, 1994, [108 Stat. 3265][/us/stat/108/3265], 3345, 3349, 3375; [Pub. L. 103–403, title IV][/us/pl/103/403], §§ 401(a)(1), 407, 415, Oct. 22, 1994, [108 Stat. 4190][/us/stat/108/4190], 4192, 4198; [Pub. L. 104–106, div. D, title XLIII, § 4321(c)(1)][/us/pl/104/106/s4321/c/1], (2), Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674]; [Pub. L. 105–85, div. A, title VIII, § 850(e)(1)][/us/pl/105/85/s850/e/1], Nov. 18, 1997, [111 Stat. 1848][/us/stat/111/1848]; [Pub. L. 105–135, title IV][/us/pl/105/135], §§ 415, 416(a), (c), title VI, § 603(a), title VII, § 708, Dec. 2, 1997, [111 Stat. 2619][/us/stat/111/2619], 2620, 2631, 2637; [Pub. L. 106–50, title III, § 303(a)][/us/pl/106/50/s303/a], title V, § 501, Aug. 17, 1999, [113 Stat. 243][/us/stat/113/243], 247; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 810(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–209; [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 2\], § 1(a)(9) \[title V, § 504(a), title VI, § 615(b), title VIII, §§ 803, 807, 809, 811\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–666, 2763A–695, 2763A–701, 2763A–702, 2763A–706, 2763A–708; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 132(b), (c), 141(a), 144, Dec. 8, 2004, [118 Stat. 3453][/us/stat/118/3453], 3455; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1322, 1334, Sept. 27, 2010, [124 Stat. 2540][/us/stat/124/2540], 2542; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1653(a), 1654, 1696(b)(2), 1697(a), Jan. 2, 2013, [126 Stat. 2081][/us/stat/126/2081], 2083, 2091.)
 
  __References in Text__ 
 
@@ -1026,8 +992,6 @@
     Section 110 of the Housing Act of 1949 \[[42 U.S.C. 1460][/us/usc/t42/s1460]\], referred to in subsec. (b)(14), was omitted from the Code pursuant to [section 5316 of Title 42][/us/usc/t42/s5316], The Public Health and Welfare, which terminated authority to make grants or loans under title I of that Act \[[42 U.S.C. 1450][/us/usc/t42/s1450] et seq.\] after Jan. 1, 1975.
 
     Sections 3 and 8 of the Small Business Act, referred to in subsec. (d)(3)(C), (E)(ii), (G), are classified to sections 632 and 637, respectively, of this title.
-
-    The General Schedule, referred to in subsec. (h)(1)(A)(ii), is set out under [section 5332 of Title 5][/us/usc/t5/s5332].
 
     [Section 414 of title 41][/us/usc/t41/s414], referred to in subsec. (h)(1)(A)(iii), was amended generally by [Pub. L. 108–136, div. A, title XIV, § 1421(a)(1)][/us/pl/108/136/s1421/a/1], Nov. 24, 2003, [117 Stat. 1666][/us/stat/117/1666], and, as so amended, the substance of par. (3) was restated in subsec. (c)(1) of section 414. [Section 414(c) of title 41][/us/usc/t41/s414/c] was subsequently repealed and restated as [section 1702(c) of Title 41][/us/usc/t41/s1702/c], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
 
@@ -1071,10 +1035,6 @@
 
     “(C) The Administration shall establish, through public rulemaking, requirements similar to those specified in subparagraph (A) to be applicable to contracts for general and specialty construction and to contracts for any other industry category not otherwise subject to the requirements of such subparagraph. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B), except that such a percentage may not differ from a percentage established under section 644(o) of this title for the same industry category.”
 
-    Subsec. (d)(6)(D). [Pub. L. 113–66, § 1614(a)(1)][/us/pl/113/66/s1614/a/1], substituted “, and assurances at a minimum that the offeror or bidder, and all subcontractors required to maintain subcontracting plans pursuant to this paragraph, will—” for semicolon at end and added cls. (i) to (vi).
-
-    Subsec. (d)(6)(G), (H). [Pub. L. 113–66, § 1614(a)(2)][/us/pl/113/66/s1614/a/2], (3), added subpar. (G) and redesignated former subpar. (G) as (H).
-
     Subsec. (d)(7), (8). [Pub. L. 112–239, § 1653(a)(1)][/us/pl/112/239/s1653/a/1], (2), added par. (7) and redesignated former par. (7) as (8). Former par. (8) redesignated (9).
 
     Subsec. (d)(9). [Pub. L. 112–239, § 1653(a)(3)][/us/pl/112/239/s1653/a/3], substituted “shall be a material breach of such contract or subcontract and may be considered in any past performance evaluation of the contractor” for “shall be a material breach of such contract or subcontract” in concluding provisions.
@@ -1090,8 +1050,6 @@
     Subsec. (d)(12), (13). [Pub. L. 112–239, § 1653(a)(1)][/us/pl/112/239/s1653/a/1], redesignated pars. (11) and (12) as (12) and (13), respectively.
 
     Subsec. (d)(14), (15). [Pub. L. 112–239, § 1653(a)(5)][/us/pl/112/239/s1653/a/5], added pars. (14) and (15).
-
-    Subsec. (d)(16). [Pub. L. 113–66, § 1614(a)(4)][/us/pl/113/66/s1614/a/4], added par. (16).
 
     Subsec. (k)(1). [Pub. L. 112–239, § 1654][/us/pl/112/239/s1654], substituted “on the appropriate Federal Web site (as determined by the Administrator)” for “in the Commerce Business Daily”.
 
@@ -1417,7 +1375,7 @@
 
  __Termination Date of 2004 Amendment__ 
 
-    Amendment by [section 132(b) of Pub. L. 108–447][/us/pl/108/447/s132/b] repealed Oct. 1, 2006, see [section 132(c) of Pub. L. 108–447][/us/pl/108/447/s132/c], set out as a note under [section 633 of this title][/us/usc/t15/s633].
+    Amendment by [section 132(b) of Pub. L. 108–447][/us/pl/108/447/s132/b] repealed Oct. 1, 2006, see section 132(c) [Pub. L. 108–447][/us/pl/108/447], set out as a note under [section 633 of this title][/us/usc/t15/s633].
 
  __Effective Date of 2000 Amendment__ 
 
@@ -1465,11 +1423,11 @@
 
 [Pub. L. 103–403, title IV, § 401(a)][/us/pl/103/403/s401/a], Oct. 22, 1994, [108 Stat. 4190][/us/stat/108/4190], as amended by [Pub. L. 105–135, title V, § 504][/us/pl/105/135/s504], Dec. 2, 1997, [111 Stat. 2624][/us/stat/111/2624]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 504(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–696, provided that:
 
->     “(1)  __Repeal__  __.—__ 
+>     “(1) __Repeal.—__ 
 
 >     The amendments made by section 5(a) of Small Business Computer Security and Education Act of 1984 \[[Pub. L. 98–362][/us/pl/98/362], amending this section\] ([15 U.S.C. 633][/us/usc/t15/s633] note) are hereby repealed.
 
->     “(2)  __Effective date__  __.—__ 
+>     “(2) __Effective date.—__ 
 
 >     Paragraph (1) shall take effect on September 30, 2003.”
 
@@ -1531,7 +1489,7 @@
 
 [Pub. L. 111–240, title I, § 1347(a)][/us/pl/111/240/s1347/a], (b), Sept. 27, 2010, [124 Stat. 2546][/us/stat/124/2546], 2547, provided that:
 
->     “(a)  __Definitions__  __.—__ 
+>     “(a) __Definitions.—__ 
 
 >     In this section—
 
@@ -1541,15 +1499,15 @@
 
 >     “(b) __Contracting Improvements.—__ 
 
->         “(1)  __Contracting opportunities__  __.—__ 
+>         “(1) __Contracting opportunities.—__ 
 
 >         \[Amended [section 657a of this title][/us/usc/t15/s657a].\]
 
->         “(2)  __Contracting goals__  __.—__ 
+>         “(2) __Contracting goals.—__ 
 
 >         \[Amended [section 644 of this title][/us/usc/t15/s644].\]
 
->         “(3)  __Mentor-protege programs__  __.—__ 
+>         “(3) __Mentor-protege programs.—__ 
 
 >         The Administrator may establish mentor-protege programs for small business concerns owned and controlled by service-disabled veterans, small business concerns owned and controlled by women, and HUBZone small business concerns modeled on the mentor-protege program of the Administration for small business concerns participating in programs under section 8(a) of the Small Business Act ([15 U.S.C. 637(a)][/us/usc/t15/s637/a]).”
 
@@ -1557,7 +1515,7 @@
 
 [Pub. L. 110–186, title I, § 105][/us/pl/110/186/s105], Feb. 14, 2008, [122 Stat. 626][/us/stat/122/626], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     The Administrator \[of the Small Business Administration\] shall use the authority in section 8(b)(17) of the Small Business Act ([15 U.S.C. 637(b)(17)][/us/usc/t15/s637/b/17]) to ensure that the number of Veterans Business Outreach Centers throughout the United States increases—
 
@@ -1565,7 +1523,7 @@
 
 >         “(2) by the number that the Administrator considers appropriate, based on need, for each fiscal year thereafter.
 
->     “(b)  __Limitation__  __.—__ 
+>     “(b) __Limitation.—__ 
 
 >     Subsection (a)(1) shall apply in a fiscal year if, for that fiscal year, the amount made available for the Office of Veterans Business Development is more than the amount made available for the Office of Veterans Business Development for fiscal year 2007.”
 
@@ -1589,11 +1547,31 @@
 
  __Mobile Resource Center Pilot Program__ 
 
-    [Pub. L. 103–403, title IV, § 406][/us/pl/103/403/s406], Oct. 22, 1994, [108 Stat. 4192][/us/stat/108/4192], provided that the Administrator of the Small Business Administration could establish and carry out in each of fiscal years 1995, 1996, and 1997 a mobile resource pilot program and, if it was carried out, required the Administrator to transmit to Congress by Dec. 31, 1996, a report containing the results of such program, together with recommendations for appropriate legislative and administrative action.
+[Pub. L. 103–403, title IV, § 406][/us/pl/103/403/s406], Oct. 22, 1994, [108 Stat. 4192][/us/stat/108/4192], provided that:
+
+>     “(a) __Establishment.—__ 
+
+>     The Administrator of the Small Business Administration may establish and carry out in each of fiscal years 1995, 1996, and 1997 a mobile resource pilot program (hereafter in this section referred to as the ‘program’) in accordance with the requirements of this section.
+
+>     “(b) __Mobile Resource Center Vehicles.—__ 
+
+>     Under the program, the Administration may use mobile resource center vehicles to provide technical assistance, information, and other services available from the Small Business Administration to traditionally underserved populations. Two of such vehicles should be utilized in rural areas and 2 of such vehicles should be utilized in urban areas.
+
+>     “(c) __Report to Congress.—__ 
+
+>     If the Administrator conducts the program authorized in this section, the Administrator shall, not later than December 31, 1996, transmit to the Congress a report containing the results of such program, together with recommendations for appropriate legislative and administrative action.
+
+>     “(d) __Authorization of Appropriations.—__ 
+
+>     There are authorized to be appropriated to carry out this section $900,000 for each of fiscal years 1995, 1996, and 1997, such sums to remain available until expended. Of such sums—
+
+>         “(1) $800,000 may be made available for the purchase or lease of mobile resource center vehicles and operating expenses; and
+
+>         “(2) $100,000 may be made available for studies, startup expenses, and other administrative expenses.”
 
  __Projects Funded Pursuant to Former Provisions__ 
 
-[Pub. L. 102–191, § 3][/us/pl/102/191/s3], Dec. 5, 1991, [105 Stat. 1591][/us/stat/105/1591], provided in part that: 
+[Pub. L. 102–191, § 3][/us/pl/102/191/s3], Dec. 5, 1991, [105 Stat. 1591][/us/stat/105/1591], provided that: 
 
 > “Projects funded pursuant to the provisions of former subsection (c) \[[15 U.S.C. 637(c)][/us/usc/t15/s637/c]\] shall be deemed to be funded under and shall be treated as if funded under section 28 of the Small Business Act \[[15 U.S.C. 656][/us/usc/t15/s656]\], as added by section 2.”
 
@@ -1601,11 +1579,11 @@
 
 [Pub. L. 101–574, title II, § 203][/us/pl/101/574/s203], Nov. 15, 1990, [104 Stat. 2818][/us/stat/104/2818], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     The Small Business Administration may prescribe a minimum period of time during which a prospective Program Participant must be in operation in order to meet the eligibility requirements of section 8(a)(7)(A) of the Small Business Act ([15 U.S.C. 637(a)(7)(A)][/us/usc/t15/s637/a/7/A]), only if the Administration provides a waiver of such minimum period as set forth in subsection (b).
 
->     “(b)  __Waiver of Minimum Period of Operation__  __.—__ 
+>     “(b) __Waiver of Minimum Period of Operation.—__ 
 
 >         (1)
 
@@ -1639,7 +1617,7 @@
 
 [Pub. L. 101–189, div. A, title VIII, § 834][/us/pl/101/189/s834], Nov. 29, 1989, [103 Stat. 1509][/us/stat/103/1509], as amended by [Pub. L. 102–484, div. A, title VIII, § 805][/us/pl/102/484/s805], Oct. 23, 1992, [106 Stat. 2447][/us/stat/106/2447]; [Pub. L. 103–355, title VII, § 7103][/us/pl/103/355/s7103], Oct. 13, 1994, [108 Stat. 3368][/us/stat/108/3368]; [Pub. L. 104–106, div. A, title VIII, § 811][/us/pl/104/106/s811], Feb. 10, 1996, [110 Stat. 394][/us/stat/110/394]; [Pub. L. 105–85, div. A, title VIII, § 822][/us/pl/105/85/s822], Nov. 18, 1997, [111 Stat. 1840][/us/stat/111/1840]; [Pub. L. 106–65, div. A, title VIII, § 817][/us/pl/106/65/s817], Oct. 5, 1999, [113 Stat. 712][/us/stat/113/712]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(g)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293; [Pub. L. 108–375, div. A, title VIII, § 843][/us/pl/108/375/s843], Oct. 28, 2004, [118 Stat. 2019][/us/stat/118/2019]; [Pub. L. 111–383, div. A, title VIII, § 863(i)][/us/pl/111/383/s863/i], Jan. 7, 2011, [124 Stat. 4295][/us/stat/124/4295]; [Pub. L. 112–81, div. A, title VIII, § 866][/us/pl/112/81/s866], Dec. 31, 2011, [125 Stat. 1526][/us/stat/125/1526]; [Pub. L. 112–239, div. A, title X, § 1076(a)(16)][/us/pl/112/239/s1076/a/16], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that:
 
->     “(a)  __Test Program__  __.—__ 
+>     “(a) __Test Program.—__ 
 
 >         (1) The Secretary of Defense shall establish a test program under which contracting activities in the military departments and the Defense Agencies are authorized to undertake one or more demonstration projects to determine whether the negotiation and administration of comprehensive subcontracting plans will reduce administrative burdens on contractors while enhancing opportunities provided under Department of Defense contracts for small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals. In selecting the contracting activities to undertake demonstration projects, the Secretary shall take such action as is necessary to ensure that a broad range of the supplies and services acquired by the Department of Defense are included in the test program.
 
@@ -1651,7 +1629,7 @@
 
 >             “(B) provide an opportunity for public comment on the test program.
 
->     “(b)  __Comprehensive Small Business Subcontracting Plan__  __.—__ 
+>     “(b) __Comprehensive Small Business Subcontracting Plan.—__ 
 
 >         (1) In a demonstration project under the test program, the Secretary of a military department or head of a Defense Agency shall negotiate, monitor, and enforce compliance with a comprehensive subcontracting plan with a Department of Defense contractor described in paragraph (3).
 
@@ -1665,7 +1643,7 @@
 
 >         “(3) A Department of Defense contractor referred to in paragraph (1) is, with respect to a comprehensive subcontracting plan negotiated in any fiscal year, a business concern that, during the immediately preceding fiscal year, furnished the Department of Defense with supplies or services (including professional services, research and development services, and construction services) pursuant to at least three Department of Defense contracts having an aggregate value of at least $5,000,000.
 
->     “(c)  __Waiver of Certain Small Business Act Subcontracting Plan Requirements__  __.—__ 
+>     “(c) __Waiver of Certain Small Business Act Subcontracting Plan Requirements.—__ 
 
 >     A Department of Defense contractor is not required to negotiate or submit a subcontracting plan under paragraph (4) or (5) of section 8(d) of the Small Business Act ([15 U.S.C. 637(d)][/us/usc/t15/s637/d]) with respect to a Department of Defense contract if—
 
@@ -1675,21 +1653,21 @@
 
 >         “(3) the comprehensive subcontracting plan applies to the contract.
 
->     “(d)  __Failure To Make a Good Faith Effort To Comply With a Company-wide Subcontracting Plan__  __.—__ 
+>     “(d) __Failure To Make a Good Faith Effort To Comply With a Company-wide Subcontracting Plan.—__ 
 
 >     A contractor that has negotiated a comprehensive subcontracting plan under the test program shall be subject to section 8(d)(4)(F) of the Small Business Act ([15 U.S.C. 637(d)(4)(F)][/us/usc/t15/s637/d/4/F]) regarding the assessment of liquidated damages for failure to make a good faith effort to comply with its company-wide plan and the goals specified in that plan.
 
->     “(e)  __Test Program Period__  __.—__ 
+>     “(e) __Test Program Period.—__ 
 
 >     The test program authorized by subsection (a) shall begin on October 1, 1990, unless Congress adopts a resolution disapproving the test program. The test program shall terminate on December 31, 2014.
 
->     “(f)  __Report__  __.—__ 
+>     “(f) __Report.—__ 
 
 >         (1) Not later than March 1, 1994, and March 1, 2012, the Secretary of Defense shall submit a report on the results of the test program to the Committees on Armed Services and on Small Business of the Senate and the House of Representatives \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\].
 
 >         “(2) Before submitting such report to the committees referred to in paragraph (1), the Secretary shall transmit the proposed report to the Administrator of the Small Business Administration. The report submitted to the committees shall include any comments and recommendations relating to the report that are transmitted to the Secretary by the Administrator before the date specified in such paragraph.
 
->     “(g)  __Definitions__  __.—__ 
+>     “(g) __Definitions.—__ 
 
 >     As used in this section:
 
@@ -1735,11 +1713,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 100–656, title VI, § 602][/us/pl/100/656/s602], Nov. 15, 1988, [102 Stat. 3887][/us/stat/102/3887], as amended by [Pub. L. 101–37, § 22][/us/pl/101/37/s22], June 15, 1989, [103 Stat. 75][/us/stat/103/75]; [Pub. L. 101–515, title V, § 2][/us/pl/101/515/s2], Nov. 5, 1990, [104 Stat. 2140][/us/stat/104/2140]; [Pub. L. 101–574, title II, § 205][/us/pl/101/574/s205], Nov. 15, 1990, [104 Stat. 2819][/us/stat/104/2819]; [Pub. L. 103–403, title VI, § 608][/us/pl/103/403/s608], Oct. 22, 1994, [108 Stat. 4204][/us/stat/108/4204], provided that:
 
->     “(a)  __Competitive Thresholds__  __.—__ 
+>     “(a) __Competitive Thresholds.—__ 
 
 >     Section 8(a)(1)(D) of the Small Business Act \[[15 U.S.C. 637(a)(1)(D)][/us/usc/t15/s637/a/1/D]\], as added by section 303 of this Act, shall not apply to Program Participants that are owned and controlled by economically disadvantaged Indian tribes, as defined pursuant to paragraphs (4) and (13) of section 8(a) of the Small Business Act ([15 U.S.C. 637(a)(4)][/us/usc/t15/s637/a/4] and (13)).
 
->     “(b)  __Joint Ventures__  __.—__ 
+>     “(b) __Joint Ventures.—__ 
 
 >     The Administration is authorized to award a contract pursuant to section 8(a) of the Small Business Act ([15 U.S.C. 637(a)][/us/usc/t15/s637/a]) to a joint venture notwithstanding the size status of such joint venture if—
 
@@ -1757,11 +1735,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(D) employs members of such tribe for at least 50 per centum of its total workforce.
 
->     “(c)  __Limitations__  __.—__ 
+>     “(c) __Limitations.—__ 
 
 >     A Program Participant, as a party to a joint venture shall receive no more than 5 contracts due solely to the provisions of subsection (b).
 
->     “(d)  __Sunset__  __.—__ 
+>     “(d) __Sunset.—__ 
 
 >     Subsection (b) shall cease to be effective after September 30, 1997.”
 
@@ -1989,8 +1967,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/124/2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2540
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2081
-[/us/pl/113/66/s1614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1614%2Fa
-[/us/stat/127/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F948
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
@@ -2015,7 +1991,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1460
 [/us/usc/t42/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5316
 [/us/usc/t42/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1450
-[/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t41/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414
 [/us/pl/108/136/s1421/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1421%2Fa%2F1
 [/us/stat/117/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1666
@@ -2071,8 +2046,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/70/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F10
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/112/239/s1696/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1696%2Fb%2F2
-[/us/pl/113/66/s1614/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1614%2Fa%2F1
-[/us/pl/113/66/s1614/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1614%2Fa%2F2
 [/us/pl/112/239/s1653/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1653%2Fa%2F1
 [/us/pl/112/239/s1653/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1653%2Fa%2F3
 [/us/pl/112/239/s1653/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1653%2Fa%2F1
@@ -2081,7 +2054,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/112/239/s1653/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1653%2Fa%2F4
 [/us/pl/112/239/s1653/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1653%2Fa%2F1
 [/us/pl/112/239/s1653/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1653%2Fa%2F5
-[/us/pl/113/66/s1614/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1614%2Fa%2F4
 [/us/pl/112/239/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1654
 [/us/pl/112/239/s1697/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1697%2Fa
 [/us/pl/111/240/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1322
@@ -2263,7 +2235,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/87/305/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305%2Fs7
 [/us/pl/87/305/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305%2Fs8
 [/us/pl/108/447/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs132%2Fb
-[/us/pl/108/447/s132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs132%2Fc
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t15/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs633
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654

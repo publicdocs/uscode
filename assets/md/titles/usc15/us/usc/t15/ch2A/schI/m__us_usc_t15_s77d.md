@@ -169,7 +169,7 @@
 
 [Pub. L. 112–106, title III, § 302(d)][/us/pl/112/106/s302/d], Apr. 5, 2012, [126 Stat. 320][/us/stat/126/320], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Not later than 270 days after the date of enactment of this Act \[Apr. 5, 2012\], the \[Securities and Exchange\] Commission shall, by rule, establish disqualification provisions under which—
 
@@ -177,7 +177,7 @@
 
 >         “(B) a broker or funding portal shall not be eligible to effect or participate in transactions pursuant to that section 4(6).
 
->     “(2)  __Inclusions__  __.—__ 
+>     “(2) __Inclusions.—__ 
 
 >     Disqualification provisions required by this subsection shall—
 

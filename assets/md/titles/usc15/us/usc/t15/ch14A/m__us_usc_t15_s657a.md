@@ -155,11 +155,41 @@
 
  __Initial Limited Applicability__ 
 
-    [Pub. L. 105–135, title VI, § 602(b)(2)][/us/pl/105/135/s602/b/2], Dec. 2, 1997, [111 Stat. 2631][/us/stat/111/2631], as amended by [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 212\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–295, limited the applicability of [15 U.S.C. 657a][/us/usc/t15/s657a] to certain procurements beginning on Dec. 2, 1997, and ending on Sept. 30, 2000.
+[Pub. L. 105–135, title VI, § 602(b)(2)][/us/pl/105/135/s602/b/2], Dec. 2, 1997, [111 Stat. 2631][/us/stat/111/2631], as amended by [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 212\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–295, provided that: 
+
+> “During the period beginning on the date of enactment of this Act \[Dec. 2, 1997\] and ending on September 30, 2000, section 31 of the Small Business Act \[[15 U.S.C. 657a][/us/usc/t15/s657a]\] (as added by paragraph (1) of this subsection) shall apply only to procurements by—
+
+>     “(A) the Department of Defense;
+
+>     “(B) the Department of Agriculture;
+
+>     “(C) the Department of Health and Human Services;
+
+>     “(D) the Department of Transportation;
+
+>     “(E) the Department of Energy;
+
+>     “(F) the Department of Housing and Urban Development;
+
+>     “(G) the Environmental Protection Agency;
+
+>     “(H) the National Aeronautics and Space Administration;
+
+>     “(I) the General Services Administration;
+
+>     “(J) the Department of Veterans Affairs;
+
+>     “(K) the Department of Commerce;
+
+>     “(L) the Department of Justice; and
+
+>     “(M) the Department of State.”
 
  __Report__ 
 
-    [Pub. L. 105–135, title VI, § 606][/us/pl/105/135/s606], Dec. 2, 1997, [111 Stat. 2635][/us/stat/111/2635], required the Administrator to submit to Congress, by Mar. 1, 2002, a report on the HUBZone program and the degree to which the program resulted in increased employment opportunities and an increased level of investment in HUBZones.
+[Pub. L. 105–135, title VI, § 606][/us/pl/105/135/s606], Dec. 2, 1997, [111 Stat. 2635][/us/stat/111/2635], provided that: 
+
+> “Not later than March 1, 2002, the Administrator shall submit to the Committees a report on the implementation of the HUBZone program established under section 31 of the Small Business Act \[[15 U.S.C. 657a][/us/usc/t15/s657a]\] (as added by [section 602(b) of this title][/us/usc/t15/s602/b]) and the degree to which the HUBZone program has resulted in increased employment opportunities and an increased level of investment in HUBZones (as defined in section 3(p) of the Small Business Act ([15 U.S.C. 632(p)][/us/usc/t15/s632/p]), as added by [section 602(a) of this title][/us/usc/t15/s602/a]).”
 
 ----------
 
@@ -217,5 +247,9 @@
 [/us/usc/t15/s657a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657a
 [/us/pl/105/135/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs606
 [/us/stat/111/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2635
+[/us/usc/t15/s657a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657a
+[/us/usc/t15/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs602%2Fb
+[/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
+[/us/usc/t15/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs602%2Fa
 
 

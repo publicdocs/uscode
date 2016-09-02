@@ -107,11 +107,11 @@
 
 >     “(a) __Study Required.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Commission shall review and analyze the need for enhanced examination and enforcement resources for investment advisers.
 
->         “(2)  __Areas of consideration__  __.—__ 
+>         “(2) __Areas of consideration.—__ 
 
 >         The study required by this subsection shall examine—
 
@@ -121,7 +121,7 @@
 
 >             “(C) current and potential approaches to examining the investment advisory activities of dually registered broker-dealers and investment advisers or affiliated broker-dealers and investment advisers.
 
->     “(b)  __Report Required__  __.—__ 
+>     “(b) __Report Required.—__ 
 
 >     The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 180 days after the date of enactment of this subtitle \[July 21, 2010\], and shall use such findings to revise its rules and regulations, as necessary. The report shall include a discussion of regulatory or legislative steps that are recommended or that may be necessary to address concerns identified in the study.”
 

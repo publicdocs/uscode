@@ -83,11 +83,11 @@
 
 [Pub. L. 111–203, title IX, § 939D][/us/pl/111/203/s939D], July 21, 2010, [124 Stat. 1888][/us/stat/124/1888], provided that:
 
->     “(a)  __Study__  __.—__ 
+>     “(a) __Study.—__ 
 
 >     The Comptroller General of the United States shall conduct a study on alternative means for compensating nationally recognized statistical rating organizations in order to create incentives for nationally recognized statistical rating organizations to provide more accurate credit ratings, including any statutory changes that would be required to facilitate the use of an alternative means of compensation.
 
->     “(b)  __Report__  __.—__ 
+>     “(b) __Report.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[July 21, 2010\], the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the results of the study conducted under subsection (a), including recommendations, if any, for providing incentives to credit rating agencies to improve the credit rating process.”
 

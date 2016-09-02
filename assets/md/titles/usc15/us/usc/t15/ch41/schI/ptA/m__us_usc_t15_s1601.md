@@ -35,7 +35,7 @@
 
 [Pub. L. 111–203, title XIV, § 1400(c)][/us/pl/111/203/s1400/c], July 21, 2010, [124 Stat. 2136][/us/stat/124/2136], provided that:
 
->     “(1)  __Regulations__  __.—__ 
+>     “(1) __Regulations.—__ 
 
 >     The regulations required to be prescribed under this title \[see Tables for classification\] or the amendments made by this title shall—
 
@@ -43,11 +43,11 @@
 
 >         “(B) take effect not later than 12 months after the date of issuance of the regulations in final form.
 
->     “(2)  __Effective date established by rule__  __.—__ 
+>     “(2) __Effective date established by rule.—__ 
 
 >     Except as provided in paragraph (3), a section, or provision thereof, of this title shall take effect on the date on which the final regulations implementing such section, or provision, take effect.
 
->     “(3)  __Effective date__  __.—__ 
+>     “(3) __Effective date.—__ 
 
 >     A section of this title for which regulations have not been issued on the date that is 18 months after the designated transfer date shall take effect on such date.”
 
@@ -229,7 +229,7 @@
 
 [Pub. L. 108–159, title II, § 213(e)][/us/pl/108/159/s213/e], Dec. 4, 2003, [117 Stat. 1979][/us/stat/117/1979], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Board shall conduct a study of—
 
@@ -237,11 +237,11 @@
 
 >         “(B) the potential impact that any further restrictions on providing consumers with such written offers of credit or insurance would have on consumers.
 
->     “(2)  __Report__  __.—__ 
+>     “(2) __Report.—__ 
 
 >     The Board shall submit a report summarizing the results of the study required under paragraph (1) to the Congress not later than 12 months after the date of enactment of this Act \[Dec. 4, 2003\], together with such recommendations for legislative or administrative action as the Board may determine to be appropriate.
 
->     “(3)  __Content of report__  __.—__ 
+>     “(3) __Content of report.—__ 
 
 >     The report described in paragraph (2) shall address the following issues:
 
@@ -283,11 +283,11 @@
 
 [Pub. L. 103–325, title I, § 158][/us/pl/103/325/s158], Sept. 23, 1994, [108 Stat. 2197][/us/stat/108/2197], as amended by [Pub. L. 111–203, title X, § 1096][/us/pl/111/203/s1096], July 21, 2010, [124 Stat. 2102][/us/stat/124/2102], provided that:
 
->     “(a)  __Hearings__  __.—__ 
+>     “(a) __Hearings.—__ 
 
 >     Not less than once during the 3-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\], and regularly thereafter, the Bureau, in consultation with the Advisory Board to the Bureau, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle \[see Short Title of 1994 Amendment note above\] in protecting the interests of consumers, and low-income consumers in particular.
 
->     “(b)  __Participation__  __.—__ 
+>     “(b) __Participation.—__ 
 
 >     In conducting hearings required by subsection (a), the Bureau shall solicit participation from consumers, representatives of consumers, lenders, and other interested parties.”
 

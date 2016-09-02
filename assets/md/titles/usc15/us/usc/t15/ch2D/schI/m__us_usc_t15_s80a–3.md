@@ -349,11 +349,11 @@
 
 [Pub. L. 104–290, title V, § 508(f)][/us/pl/104/290/s508/f], Oct. 11, 1996, [110 Stat. 3448][/us/stat/110/3448], provided that:
 
->     “(1)  __Registration requirements__  __.—__ 
+>     “(1) __Registration requirements.—__ 
 
 >     Any security issued by or any interest or participation in any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[[15 U.S.C. 80a–3(c)(14)][/us/usc/t15/s80a–3/c/14]\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
 
->     “(2)  __Treatment of church plans__  __.—__ 
+>     “(2) __Treatment of church plans.—__ 
 
 >     No church plan described in section 414(e) of the Internal Revenue Code of 1986 \[[26 U.S.C. 414(e)][/us/usc/t26/s414/e]\], no person or entity eligible to establish and maintain such a plan under the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\], no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[[15 U.S.C. 80a–3(c)(14)][/us/usc/t15/s80a–3/c/14]\], as added by subsection (a) of this section, and no trustee, director, officer, or employee of or volunteer for any such plan, person, entity, company, or account shall be required to qualify, register, or be subject to regulation as an investment company or as a broker, dealer, investment adviser, or agent under the laws of any State solely because such plan, person, entity, company, or account buys, holds, sells, or trades in securities for its own account or in its capacity as a trustee or administrator of or otherwise on behalf of, or for the account of, or provides investment advice to, for, or on behalf of, any such plan, person, or entity or any company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, as added by subsection (a) of this section.”
 

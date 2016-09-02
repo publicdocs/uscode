@@ -177,11 +177,11 @@
 
 [Pub. L. 103–267, title I, § 101(e)][/us/pl/103/267/s101/e], June 16, 1994, [108 Stat. 725][/us/stat/108/725], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Subject to paragraph (2), a State or political subdivision of a State may not establish or enforce a requirement relating to cautionary labeling of small parts hazards or choking hazards in any toy, game, marble, small ball, or balloon intended or suitable for use by children unless such requirement is identical to a requirement established by amendments made by this section to the Federal Hazardous Substances Act \[enacting this section\] or by regulations promulgated by the Commission.
 
->     “(2)  __Exception__  __.—__ 
+>     “(2) __Exception.—__ 
 
 >     A State or political subdivision of a State may, until January 1, 1995, enforce a requirement described in paragraph (1) if such requirement was in effect on October 2, 1993.”
 

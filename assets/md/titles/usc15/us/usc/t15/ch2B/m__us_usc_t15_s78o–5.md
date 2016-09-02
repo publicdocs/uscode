@@ -59,25 +59,25 @@
 
         (2) __Risk Assessment for Holding Company Systems.—__ 
 
-            (A)  __Obligations to obtain, maintain, and report information__  __.—__ 
+            (A) __Obligations to obtain, maintain, and report information.—__ 
 
             Every person who is registered as a government securities broker or government securities dealer under this section shall obtain such information and make and keep such records as the Secretary by rule prescribes concerning the registered person’s policies, procedures, or systems for monitoring and controlling financial and operational risks to it resulting from the activities of any of its associated persons, other than a natural person. Such records shall describe, in the aggregate, each of the financial and securities activities conducted by, and customary sources of capital and funding of, those of its associated persons whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person, including its capital, its liquidity, or its ability to conduct or finance its operations. The Secretary, by rule, may require summary reports of such information to be filed with the registered person’s appropriate regulatory agency no more frequently than quarterly.
 
-            (B)  __Authority to require additional information__  __.—__ 
+            (B) __Authority to require additional information.—__ 
 
             If, as a result of adverse market conditions or based on reports provided pursuant to subparagraph (A) of this paragraph or other available information, the appropriate regulatory agency reasonably concludes that it has concerns regarding the financial or operational condition of any government securities broker or government securities dealer registered under this section, such agency may require the registered person to make reports concerning the financial and securities activities of any of such person’s associated persons, other than a natural person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person. The appropriate regulatory agency, in requiring reports pursuant to this subparagraph, shall specify the information required, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the appropriate regulatory agency or to a self-regulatory organization with primary responsibility for examining the registered person’s financial and operational condition.
 
             (C) __Special provisions with respect to associated persons subject to federal banking agency regulation.—__ 
 
-                (i)  __Cooperation in implementation__  __.—__ 
+                (i) __Cooperation in implementation.—__ 
 
                 In developing and implementing reporting requirements pursuant to subparagraph (A) of this paragraph with respect to associated persons subject to examination by or reporting requirements of a Federal banking agency, the Secretary shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Secretary under this paragraph that has been published for comment, the Secretary shall respond in writing to such written comment before adopting the proposed rule. The Secretary shall, at the request of a Federal banking agency, publish such comment and response in the Federal Register at the time of publishing the adopted rule.
 
-                (ii)  __Use of banking agency reports__  __.—__ 
+                (ii) __Use of banking agency reports.—__ 
 
                 A registered government securities broker or government securities dealer shall be in compliance with any recordkeeping or reporting requirement adopted pursuant to subparagraph (A) of this paragraph concerning an associated person that is subject to examination by or reporting requirements of a Federal banking agency if such government securities broker or government securities dealer utilizes for such recordkeeping or reporting requirement copies of reports filed by the associated person with the Federal banking agency pursuant to [section 161 of title 12][/us/usc/t12/s161], subchapter VIII of chapter 3 of title 12, [section 1817(a) of title 12][/us/usc/t12/s1817/a], [section 1467a(b) of title 12][/us/usc/t12/s1467a/b], or [section 1847 of title 12][/us/usc/t12/s1847]. The Secretary may, however, by rule adopted pursuant to subparagraph (A), require any registered government securities broker or government securities dealer filing such reports with the appropriate regulatory agency to obtain, maintain, or report supplemental information if the Secretary makes an explicit finding, based on information provided by the appropriate regulatory agency, that such supplemental information is necessary to inform the appropriate regulatory agency regarding potential risks to such government securities broker or government securities dealer. Prior to requiring any such supplemental information, the Secretary shall first request the Federal banking agency to expand its reporting requirements to include such information.
 
-                (iii)  __Procedure for requiring additional information__  __.—__ 
+                (iii) __Procedure for requiring additional information.—__ 
 
                 Prior to making a request pursuant to subparagraph (B) of this paragraph for information with respect to an associated person that is subject to examination by or reporting requirements of a Federal banking agency, the appropriate regulatory agency shall—
 
@@ -85,23 +85,23 @@
 
                     (II) consult with such agency to determine whether the information required is available from such agency and for other purposes, unless the appropriate regulatory agency determines that any delay resulting from such consultation would be inconsistent with ensuring the financial and operational condition of the government securities broker or government securities dealer or the stability or integrity of the securities markets.
 
-                (iv)  __Exclusion for examination reports__  __.—__ 
+                (iv) __Exclusion for examination reports.—__ 
 
                 Nothing in this subparagraph shall be construed to permit the Secretary or an appropriate regulatory agency to require any registered government securities broker or government securities dealer to obtain, maintain, or furnish any examination report of any Federal banking agency or any supervisory recommendations or analysis contained therein.
 
-                (v)  __Confidentiality of information provided__  __.—__ 
+                (v) __Confidentiality of information provided.—__ 
 
                 No information provided to or obtained by an appropriate regulatory agency from any Federal banking agency pursuant to a request under clause (iii) of this subparagraph regarding any associated person which is subject to examination by or reporting requirements of a Federal banking agency may be disclosed to any other person (other than a self-regulatory organization), without the prior written approval of the Federal banking agency. Nothing in this clause shall authorize the Secretary or any appropriate regulatory agency to withhold information from Congress, or prevent the Secretary or any appropriate regulatory agency from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
 
-                (vi)  __Notice to banking agencies concerning financial and operational condition concerns__  __.—__ 
+                (vi) __Notice to banking agencies concerning financial and operational condition concerns.—__ 
 
                 The Secretary or appropriate regulatory agency shall notify the Federal banking agency of any concerns of the Secretary or the appropriate regulatory agency regarding significant financial or operational risks resulting from the activities of any government securities broker or government securities dealer to any associated person thereof which is subject to examination by or reporting requirements of the Federal banking agency.
 
-                (vii)  __Definition__  __.—__ 
+                (vii) __Definition.—__ 
 
                 For purposes of this subparagraph, the term “Federal banking agency” shall have the same meaning as the term “appropriate Federal banking agency” in [section 1813(q) of title 12][/us/usc/t12/s1813/q].
 
-            (D)  __Exemptions__  __.—__ 
+            (D) __Exemptions.—__ 
 
             The Secretary by rule or order may exempt any person or class of persons, under such terms and conditions and for such periods as the Secretary shall provide in such rule or order, from the provisions of this paragraph, and the rules thereunder. In granting such exemptions, the Secretary shall consider, among other factors—
 
@@ -115,11 +115,11 @@
 
                 (v) with respect to the registered person and its associated persons, on a consolidated basis, the amount and proportion of assets devoted to, and revenues derived from, activities in the United States securities markets.
 
-            (E)  __Conformity with requirements under section__  __78q(h).—__ 
+            (E) __Conformity with requirements under section 78q(h).—__ 
 
             In exercising authority pursuant to subparagraph (A) of this paragraph concerning information with respect to associated persons of government securities brokers and government securities dealers who are also associated persons of registered brokers or dealers reporting to the Commission pursuant to [section 78q(h) of this title][/us/usc/t15/s78q/h], the requirements relating to such associated persons shall conform, to the greatest extent practicable, to the requirements under [section 78q(h) of this title][/us/usc/t15/s78q/h].
 
-            (F)  __Authority to limit disclosure of information__  __.—__ 
+            (F) __Authority to limit disclosure of information.—__ 
 
             Notwithstanding any other provision of law, the Secretary and any appropriate regulatory agency shall not be compelled to disclose any information required to be reported under this paragraph, or any information supplied to the Secretary or any appropriate regulatory agency by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a registered government securities broker or a government securities dealer. Nothing in this paragraph shall authorize the Secretary or any appropriate regulatory agency to withhold information from Congress, or prevent the Secretary or any appropriate regulatory agency from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of [section 552 of title 5][/us/usc/t5/s552], this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
@@ -189,27 +189,27 @@
 
         (3) __Government Securities Trade Reconstruction.—__ 
 
-            (A)  __Furnishing records__  __.—__ 
+            (A) __Furnishing records.—__ 
 
             Every government securities broker and government securities dealer shall furnish to the Commission on request such records of government securities transactions, including records of the date and time of execution of trades, as the Commission may require to reconstruct trading in the course of a particular inquiry or investigation being conducted by the Commission for enforcement or surveillance purposes. In requiring information pursuant to this paragraph, the Commission shall specify the information required, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the Commission, to the Federal Reserve Bank of New York, or to an appropriate regulatory agency or self-regulatory organization with responsibility for examining the government securities broker or government securities dealer. The Commission may require that such information be furnished in machine readable form notwithstanding any limitation in subparagraph (B). In utilizing its authority to require information in machine readable form, the Commission shall minimize the burden such requirement may place on small government securities brokers and dealers.
 
-            (B)  __Limitation; construction__  __.—__ 
+            (B) __Limitation; construction.—__ 
 
             The Commission shall not utilize its authority under this paragraph to develop regular reporting requirements, except that the Commission may require information to be furnished under this paragraph as frequently as necessary for particular inquiries or investigations for enforcement or surveillance purposes. This paragraph shall not be construed as requiring, or as authorizing the Commission to require, any government securities broker or government securities dealer to obtain or maintain any information for purposes of this paragraph which is not otherwise maintained by such broker or dealer in accordance with any other provision of law or usual and customary business practice. The Commission shall, where feasible, avoid requiring any information to be furnished under this paragraph that the Commission may obtain from the Federal Reserve Bank of New York.
 
-            (C)  __Procedures for requiring information__  __.—__ 
+            (C) __Procedures for requiring information.—__ 
 
             At the time the Commission requests any information pursuant to subparagraph (A) with respect to any government securities broker or government securities dealer for which the Commission is not the appropriate regulatory agency, the Commission shall notify the appropriate regulatory agency for such government securities broker or government securities dealer and, upon request, furnish to the appropriate regulatory agency any information supplied to the Commission.
 
-            (D)  __Consultation__  __.—__ 
+            (D) __Consultation.—__ 
 
             Within 90 days after December 17, 1993, and annually thereafter, or upon the request of any other appropriate regulatory agency, the Commission shall consult with the other appropriate regulatory agencies to determine the availability of records that may be required to be furnished under this paragraph and, for those records available directly from the other appropriate regulatory agencies, to develop a procedure for furnishing such records expeditiously upon the Commission’s request.
 
-            (E)  __Exclusion for examination reports__  __.—__ 
+            (E) __Exclusion for examination reports.—__ 
 
             Nothing in this paragraph shall be construed so as to permit the Commission to require any government securities broker or government securities dealer to obtain, maintain, or furnish any examination report of any appropriate regulatory agency other than the Commission or any supervisory recommendations or analysis contained in any such examination report.
 
-            (F)  __Authority to limit disclosure of information__  __.—__ 
+            (F) __Authority to limit disclosure of information.—__ 
 
             Notwithstanding any other provision of law, the Commission and the appropriate regulatory agencies shall not be compelled to disclose any information required or obtained under this paragraph. Nothing in this paragraph shall authorize the Commission or any appropriate regulatory agency to withhold information from Congress, or prevent the Commission or any appropriate regulatory agency from complying with a request for information from any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or from complying with an order of a court of the United States in an action brought by the United States, the Commission, or the appropriate regulatory agency. For purposes of [section 552 of title 5][/us/usc/t5/s552], this subparagraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
@@ -371,19 +371,19 @@
 
 [Pub. L. 99–571, title III, § 301][/us/pl/99/571/s301], Oct. 28, 1986, [100 Stat. 3224][/us/stat/100/3224], provided that:
 
->     “(a)  __Effect on Pending Administrative Proceedings__  __.—__ 
+>     “(a) __Effect on Pending Administrative Proceedings.—__ 
 
 >     The provisions of this Act \[see Effective Date note above\] shall not affect any proceedings pending on the effective date of this Act \[see Effective Date note above\].
 
->     “(b)  __Effect on Pending Judicial Proceedings__  __.—__ 
+>     “(b) __Effect on Pending Judicial Proceedings.—__ 
 
 >     The provisions of this Act shall not affect suits commenced prior to the effective date of this Act, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and effect as if this Act had not been enacted.
 
->     “(c)  __Discretion of the Federal Reserve Bank of New York__  __.—__ 
+>     “(c) __Discretion of the Federal Reserve Bank of New York.—__ 
 
 >     Nothing in this Act shall be construed to limit or impair the discretion or authority of the Federal Reserve Bank of New York to require reports or establish terms and conditions in connection with the Bank’s relationship with any government securities broker or government securities dealer, including a primary dealer.
 
->     “(d)  __Jurisdiction of the Commodity Futures Trading Commission__  __.—__ 
+>     “(d) __Jurisdiction of the Commodity Futures Trading Commission.—__ 
 
 >     Nothing in this Act affects the jurisdiction of the Commodity Futures Trading Commission as set forth in the Commodity Exchange Act \[[7 U.S.C. 1][/us/usc/t7/s1] et seq.\] over trading of commodity futures contracts and options on such contracts involving government securities.”
 
@@ -391,7 +391,7 @@
 
 [Pub. L. 103–202, title I, § 111][/us/pl/103/202/s111], Dec. 17, 1993, [107 Stat. 2353][/us/stat/107/2353], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     No provision of, or amendment made by, this title \[amending this section and sections 78c, 78o, 78o–3, 78s, and 78w of this title and enacting provisions set out as notes below\] may be construed—
 
@@ -407,11 +407,11 @@
 
 >             “(C) to otherwise regulate in any manner such initial issuance.
 
->     “(b)  __Exception__  __.—__ 
+>     “(b) __Exception.—__ 
 
 >     Subsection (a) of this section shall not apply to the amendment made by section 110 of this Act \[amending section 78o of this title\].
 
->     “(c)  __Public Debt Obligation__  __.—__ 
+>     “(c) __Public Debt Obligation.—__ 
 
 >     For purposes of this section, the term ‘public debt obligation’ means an obligation subject to the public debt limit established in [section 3101 of title 31][/us/usc/t31/s3101], United States Code.”
 
@@ -449,7 +449,7 @@
 
 [Pub. L. 103–202, title I, § 112][/us/pl/103/202/s112], Dec. 17, 1993, [107 Stat. 2354][/us/stat/107/2354], provided that:
 
->     “(a)  __Joint Study__  __.—__ 
+>     “(a) __Joint Study.—__ 
 
 >     The Secretary of the Treasury, the Securities and Exchange Commission, and the Board of Governors of the Federal Reserve System shall—
 
@@ -475,7 +475,7 @@
 
 >             “(D) such other matters as they consider appropriate.
 
->     “(b)  __Treasury Study__  __.—__ 
+>     “(b) __Treasury Study.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Securities and Exchange Commission, shall—
 

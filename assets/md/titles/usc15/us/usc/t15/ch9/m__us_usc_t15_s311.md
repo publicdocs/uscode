@@ -23,12 +23,6 @@
 
     Prior to Oct. 1, 1890, the functions of the Weather Bureau were exercised by the Signal Corps of the Army. Act October 1, 1890, created the present Bureau in the Department of Agriculture. By Reorg. Plan No. IV of 1940, § 8, eff. June 30, 1940, 5 F.R. 2421, [54 Stat. 1236][/us/stat/54/1236], the Bureau and its functions were transferred to the Department of Commerce, “Provided, That the Department of Agriculture may continue to make snow surveys and to conduct research concerning: (a) relationships between weather and crops, (b) long-range weather forecasting, and (c) relationships between weather and soil erosion.”
 
- __Short Title of 2014 Amendment__ 
-
-[Pub. L. 113–86, § 1][/us/pl/113/86/s1], Mar. 6, 2014, [128 Stat. 1015][/us/stat/128/1015], provided that: 
-
-> “This Act \[amending [section 313d of this title][/us/usc/t15/s313d] and amending provisions set out as a note under [section 313d of this title][/us/usc/t15/s313d]\] may be cited as the ‘National Integrated Drought Information System Reauthorization Act of 2014’.”
-
  __Short Title of 2006 Amendment__ 
 
 [Pub. L. 109–430, § 1][/us/pl/109/430/s1], Dec. 20, 2006, [120 Stat. 2918][/us/stat/120/2918], provided that: 
@@ -142,10 +136,6 @@ I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance wi
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t15/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1511
 [/us/stat/54/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1236
-[/us/pl/113/86/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs1
-[/us/stat/128/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1015
-[/us/usc/t15/s313d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313d
-[/us/usc/t15/s313d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313d
 [/us/pl/109/430/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430%2Fs1
 [/us/stat/120/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2918
 [/us/usc/t15/s313d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313d

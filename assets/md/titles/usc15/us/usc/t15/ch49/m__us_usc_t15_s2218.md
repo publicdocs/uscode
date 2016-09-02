@@ -89,35 +89,35 @@
 
 [Pub. L. 105–108, § 7][/us/pl/105/108/s7], Nov. 20, 1997, [111 Stat. 2265][/us/stat/111/2265], provided that:
 
->     “(a)  __Definitions__  __.—__ 
+>     “(a) __Definitions.—__ 
 
 >     In this section:
 
->         “(1)  __Administrator__  __.—__ 
+>         “(1) __Administrator.—__ 
 
 >         The term ‘Administrator’ means the Administrator of the United States Fire Administration.
 
->         “(2)  __Educationally useful federal equipment__  __.—__ 
+>         “(2) __Educationally useful federal equipment.—__ 
 
 >         The term ‘educationally useful Federal equipment’ means computers and related peripheral tools and research equipment that is appropriate for use in schools.
 
->         “(3)  __School__  __.—__ 
+>         “(3) __School.—__ 
 
 >         The term ‘school’ means a public or private educational institution that serves any of the grades of kindergarten through grade 12.
 
 >     “(b) __Sense of Congress.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         It is the sense of Congress that the Administrator should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[[40 U.S.C. 549][/us/usc/t40/s549] note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
 
 >         “(2) __Reports.—__ 
 
->             “(A)  __In general__  __.—__ 
+>             “(A) __In general.—__ 
 
 >             Not later than 1 year after the date of enactment of this Act \[Nov. 20, 1997\], and annually thereafter, the Administrator shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budget request to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code.
 
->             “(B)  __Contents of report__  __.—__ 
+>             “(B) __Contents of report.—__ 
 
 >             The report prepared by the Administrator under this paragraph shall describe any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
 

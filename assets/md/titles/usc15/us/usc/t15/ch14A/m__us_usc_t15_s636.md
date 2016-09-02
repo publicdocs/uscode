@@ -21,17 +21,17 @@
 
         (1) __In general.—__ 
 
-            (A)  __Credit elsewhere__  __.—__ 
+            (A) __Credit elsewhere.—__ 
 
             No financial assistance shall be extended pursuant to this subsection if the applicant can obtain credit elsewhere. No immediate participation may be purchased unless it is shown that a deferred participation is not available; and no direct financing may be made unless it is shown that a participation is not available.
 
-            (B)  __Background checks__  __.—__ 
+            (B) __Background checks.—__ 
 
             Prior to the approval of any loan made pursuant to this subsection, or section 503 of the Small Business Investment Act of 1958 \[[15 U.S.C. 697][/us/usc/t15/s697]\], the Administrator may verify the applicant’s criminal background, or lack thereof, through the best available means, including, if possible, use of the National Crime Information Center computer system at the Federal Bureau of Investigation.
 
         (2) __Level of participation in guaranteed loans.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Except as provided in subparagraphs (B), (D), and (E), in an agreement to participate in a loan on a deferred basis under this subsection (including a loan made under the Preferred Lenders Program), such participation by the Administration shall be equal to—
 
@@ -41,25 +41,25 @@
 
             (B) __Reduced participation upon request.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The guarantee percentage specified by subparagraph (A) for any loan under this subsection may be reduced upon the request of the participating lender.
 
-                (ii)  __Prohibition__  __.—__ 
+                (ii) __Prohibition.—__ 
 
                 The Administration shall not use the guarantee percentage requested by a participating lender under clause (i) as a criterion for establishing priorities in approving loan guarantee requests under this subsection.
 
             (C) __Interest rate under preferred lenders program.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The maximum interest rate for a loan guaranteed under the Preferred Lenders Program shall not exceed the maximum interest rate, as determined by the Administration, applicable to other loans guaranteed under this subsection.
 
-                (ii)  __Export-import bank lenders__  __.—__ 
+                (ii) __Export-import bank lenders.—__ 
 
                 Any lender that is participating in the Delegated Authority Lender Program of the Export-Import Bank of the United States (or any successor to the Program) shall be eligible to participate in the Preferred Lenders Program.
 
-                (iii)  __Preferred lenders program defined__  __.—__ 
+                (iii) __Preferred lenders program defined.—__ 
 
                 For purposes of this subparagraph, the term “Preferred Lenders Program” means any program established by the Administrator, as authorized under the proviso in [section 634(b)(7) of this title][/us/usc/t15/s634/b/7], under which a written agreement between the lender and the Administration delegates to the lender—
 
@@ -67,11 +67,11 @@
 
                     (II) complete authority to service and liquidate such loans without obtaining the prior specific approval of the Administration for routine servicing and liquidation activities, but shall not take any actions creating an actual or apparent conflict of interest.
 
-            (D)  __Participation under export working capital program__  __.—__ 
+            (D) __Participation under export working capital program.—__ 
 
             In an agreement to participate in a loan on a deferred basis under the Export Working Capital Program established pursuant to paragraph (14)(A), such participation by the Administration shall be 90 percent.
 
-            (E)  __Participation in international trade loan__  __.—__ 
+            (E) __Participation in international trade loan.—__ 
 
             In an agreement to participate in a loan on a deferred basis under paragraph (16), the participation by the Administration may not exceed 90 percent.
 
@@ -87,27 +87,27 @@
 
         (4) __Interest rates and prepayment charges.—__ 
 
-            (A)  __Interest rates__  __.—__ 
+            (A) __Interest rates.—__ 
 
             Notwithstanding the provisions of the constitution of any State or the laws of any State limiting the rate or amount of interest which may be charged, taken, received, or reserved, the maximum legal rate of interest on any financing made on a deferred basis pursuant to this subsection shall not exceed a rate prescribed by the Administration, and the rate of interest for the Administration’s share of any direct or immediate participation loan shall not exceed the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans and adjusted to the nearest one-eighth of 1 per centum, and an additional amount as determined by the Administration, but not to exceed 1 per centum per annum: Provided, That for those loans to assist any public or private organization for the handicapped or to assist any handicapped individual as provided in paragraph (10) of this subsection, the interest rate shall be 3 per centum per annum.
 
             (B) __Payment of accrued interest.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 Any bank or other lending institution making a claim for payment on the guaranteed portion of a loan made under this subsection shall be paid the accrued interest due on the loan from the earliest date of default to the date of payment of the claim at a rate not to exceed the rate of interest on the loan on the date of default, minus one percent.
 
-                (ii)  __Loans sold on secondary market__  __.—__ 
+                (ii) __Loans sold on secondary market.—__ 
 
                 If a loan described in clause (i) is sold on the secondary market, the amount of interest paid to a bank or other lending institution described in that clause from the earliest date of default to the date of payment of the claim shall be no more than the agreed upon rate, minus one percent.
 
-                (iii)  __Applicability__  __.—__ 
+                (iii) __Applicability.—__ 
 
                 Clauses (i) and (ii) shall not apply to loans made on or after October 1, 2000.
 
-            (C)  __Prepayment charges__ 
+            (C) __Prepayment charges__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 A borrower who prepays any loan guaranteed under this subsection shall remit to the Administration a subsidy recoupment fee calculated in accordance with clause (ii) if—
 
@@ -119,7 +119,7 @@
 
                     (IV) the prepayment is made within the first 3 years after disbursement of the loan proceeds.
 
-                (ii)  __Subsidy recoupment fee__  __.—__ 
+                (ii) __Subsidy recoupment fee.—__ 
 
                 The subsidy recoupment fee charged under clause (i) shall be—
 
@@ -165,31 +165,31 @@
 
         (14) __Export working capital program.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Administrator may provide extensions of credit, standby letters of credit, revolving lines of credit for export purposes, and other financing to enable small business concerns, including small business export trading companies and small business export management companies, to develop foreign markets. A bank or participating lending institution may establish the rate of interest on such financings as may be legal and reasonable.
 
             (B) __Terms.—__ 
 
-                (i)  __Loan amount__  __.—__ 
+                (i) __Loan amount.—__ 
 
                 The Administrator may not guarantee a loan under this paragraph of more than $5,000,000.
 
                 (ii) __Fees.—__ 
 
-                    (I)  __In general__  __.—__ 
+                    (I) __In general.—__ 
 
                     For a loan under this paragraph, the Administrator shall collect the fee assessed under paragraph (23) not more frequently than once each year.
 
-                    (II)  __Untapped credit__  __.—__ 
+                    (II) __Untapped credit.—__ 
 
                     The Administrator may not assess a fee on capital that is not accessed by the small business concern.
 
-            (C)  __Considerations__  __.—__ 
+            (C) __Considerations.—__ 
 
             When considering loan or guarantee applications, the Administration shall give weight to export-related benefits, including opening new markets for United States goods and services abroad and encouraging the involvement of small businesses, including agricultural concerns, in the export market.
 
-            (D)  __Marketing__  __.—__ 
+            (D) __Marketing.—__ 
 
             The Administrator shall aggressively market its export financing program to small businesses.
 
@@ -215,7 +215,7 @@
 
         (16) __International trade.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             If the Administrator determines that a loan guaranteed under this subsection will allow an eligible small business concern that is engaged in or adversely affected by international trade to improve its competitive position, the Administrator may make such loan to assist such concern—
 
@@ -227,19 +227,19 @@
 
             (B) __Security.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 Except as provided in clause (ii), each loan made under this paragraph shall be secured by a first lien position or first mortgage on the property or equipment financed by the loan or on other assets of the small business concern.
 
-                (ii)  __Exception__  __.—__ 
+                (ii) __Exception.—__ 
 
                 A loan under this paragraph may be secured by a second lien position on the property or equipment financed by the loan or on other assets of the small business concern, if the Administrator determines the lien provides adequate assurance of the payment of the loan.
 
-            (C)  __Engaged in international trade__  __.—__ 
+            (C) __Engaged in international trade.—__ 
 
             For purposes of this paragraph, a small business concern is engaged in international trade if, as determined by the Administrator, the small business concern is in a position to expand existing export markets or develop new export markets.
 
-            (D)  __Adversely affected by international trade__  __.—__ 
+            (D) __Adversely affected by international trade.—__ 
 
             For purposes of this paragraph, a small business concern is adversely affected by international trade if, as determined by the Administrator, the small business concern—
 
@@ -247,13 +247,13 @@
 
                 (ii) is injured by such competition.
 
-            (E)  __Findings by certain federal agencies__  __.—__ 
+            (E) __Findings by certain federal agencies.—__ 
 
             For purposes of subparagraph (D)(ii) the Administrator shall accept any finding of injury by the International Trade Commission or any finding of injury by the Secretary of Commerce pursuant to chapter 3 of title II of the Trade Act of 1974 \[[19 U.S.C. 2341][/us/usc/t19/s2341] et seq.\].
 
             (F) __List of export finance lenders.—__ 
 
-                (i)  __Publication of list required__  __.—__ 
+                (i) __Publication of list required.—__ 
 
                 The Administrator shall publish an annual list of the banks and participating lending institutions that, during the 1-year period ending on the date of publication of the list, have made loans guaranteed by the Administration under—
 
@@ -263,7 +263,7 @@
 
                     (III) paragraph (34).
 
-                (ii)  __Availability of list__  __.—__ 
+                (ii) __Availability of list.—__ 
 
                 The Administrator shall—
 
@@ -275,7 +275,7 @@
 
         (18) __Guarantee fees.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             With respect to each loan guaranteed under this subsection (other than a loan that is repayable in 1 year or less), the Administration shall collect a guarantee fee, which shall be payable by the participating lender, and may be charged to the borrower, as follows:
 
@@ -287,7 +287,7 @@
 
                 (iv) In addition to the fee under clause (iii), a guarantee fee equal to 0.25 percent of any portion of the deferred participation share that is more than $1,000,000.
 
-            (B)  __Retention of certain fees__  __.—__ 
+            (B) __Retention of certain fees.—__ 
 
             Lenders participating in the programs established under this subsection may retain not more than 25 percent of a fee collected under subparagraph (A)(i).
 
@@ -299,11 +299,11 @@
 
             (C) __Authority to liquidate loans.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The Administrator may permit lenders participating in the Certified Lenders Program to liquidate loans made with a guarantee from the Administration pursuant to a liquidation plan approved by the Administrator.
 
-                (ii)  __Automatic approval__  __.—__ 
+                (ii) __Automatic approval.—__ 
 
                 If the Administrator does not approve or deny a request for approval of a liquidation plan within 10 business days of the date on which the request is made (or with respect to any routine liquidation activity under such a plan, within 5 business days) such request shall be deemed to be approved.
 
@@ -379,7 +379,7 @@
 
                 (iii) an employee of a prime contractor, subcontractor, or supplier at any tier of a Department of Defense program whose employment is involuntarily terminated (or voluntarily terminated pursuant to a program offering inducements to encourage voluntary separation or early retirement) due to the termination (or substantial reduction) of a Department of Defense program.
 
-            (E)  __Job creation and community benefit__  __.—__ 
+            (E) __Job creation and community benefit.—__ 
 
             In providing assistance under this paragraph, the Administration shall develop procedures to ensure, to the maximum extent practicable, that such assistance is used for projects that—
 
@@ -397,15 +397,15 @@
 
         (23) __Yearly fee.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             With respect to each loan approved under this subsection, the Administration shall assess, collect, and retain a fee, not to exceed 0.55 percent per year of the outstanding balance of the deferred participation share of the loan, in an amount established once annually by the Administration in the Administration’s annual budget request to Congress, as necessary to reduce to zero the cost to the Administration of making guarantees under this subsection. As used in this paragraph, the term “cost” has the meaning given that term in [section 661a of title 2][/us/usc/t2/s661a].
 
-            (B)  __Payer__  __.—__ 
+            (B) __Payer.—__ 
 
             The yearly fee assessed under subparagraph (A) shall be payable by the participating lender and shall not be charged to the borrower.
 
-            (C)  __Lowering of borrower fees__  __.—__ 
+            (C) __Lowering of borrower fees.—__ 
 
             If the Administration determines that fees paid by lenders and by small business borrowers for guarantees under this subsection may be reduced, consistent with reducing to zero the cost to the Administration of making such guarantees—
 
@@ -413,35 +413,35 @@
 
                 (ii) fees paid by small business borrowers shall not be increased above the levels in effect on December 8, 2004.
 
-        (24)  __Notification requirement__  __.—__ 
+        (24) __Notification requirement.—__ 
 
         The Administration shall notify the Committees on Small Business of the Senate and the House of Representatives not later than 15 days before making any significant policy or administrative change affecting the operation of the loan program under this subsection.
 
         (25) __Limitation on conducting pilot projects.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Not more than 10 percent of the total number of loans guaranteed in any fiscal year under this subsection may be awarded as part of a pilot program which is commenced by the Administrator on or after October 1, 1996.
 
-            (B)  __“Pilot program” defined__  __.—__ 
+            (B) __“Pilot program” defined.—__ 
 
             In this paragraph, the term ‘pilot program’ means any lending program initiative, project, innovation, or other activity not specifically authorized by law.
 
-            (C)  __Low documentation loan program__  __.—__ 
+            (C) __Low documentation loan program.—__ 
 
             The Administrator may carry out the low documentation loan program for loans of $100,000 or less only through lenders with significant experience in making small business loans. Not later than 90 days after September 30, 1996, the Administrator shall promulgate regulations defining the experience necessary for participation as a lender in the low documentation loan program.
 
-        (26)  __Calculation of subsidy rate__  __.—__ 
+        (26) __Calculation of subsidy rate.—__ 
 
         All fees, interest, and profits received and retained by the Administration under this subsection shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in [section 661a of title 2][/us/usc/t2/s661a]) to the Administration of purchasing and guaranteeing loans under this chapter.
 
         (27) Repealed. [Pub. L. 106–8, § 3(c)][/us/pl/106/8/s3/c], Apr. 2, 1999, [113 Stat. 16][/us/stat/113/16].
 
-        (28)  __Leasing__  __.—__ 
+        (28) __Leasing.—__ 
 
         In addition to such other lease arrangements as may be authorized by the Administration, a borrower may permanently lease to one or more tenants not more than 20 percent of any property constructed with the proceeds of a loan guaranteed under this subsection, if the borrower permanently occupies and uses not less than 60 percent of the total business space in the property.
 
-        (29)  __Real estate appraisals__  __.—__ 
+        (29) __Real estate appraisals.—__ 
 
         With respect to a loan under this subsection that is secured by commercial real property, an appraisal of such property by a State licensed or certified appraiser—
 
@@ -449,13 +449,13 @@
 
             (B) may be required by the Administration or the lender in connection with any such loan for $250,000 or less, if such appraisal is necessary for appropriate evaluation of creditworthiness.
 
-        (30)  __Ownership requirements__  __.—__ 
+        (30) __Ownership requirements.—__ 
 
         Ownership requirements to determine the eligibility of a small business concern that applies for assistance under any credit program under this chapter shall be determined without regard to any ownership interest of a spouse arising solely from the application of the community property laws of a State for purposes of determining marital interests.
 
         (31) __Express loans.—__ 
 
-            (A)  __Definitions__  __.—__ 
+            (A) __Definitions.—__ 
 
             As used in this paragraph:
 
@@ -465,25 +465,25 @@
 
                 (iii) The term “Express Loan Program” means the program for express loans established by the Administration under paragraph (25)(B), as in existence on April 5, 2004, with a guaranty rate of not more than 50 percent.
 
-            (B)  __Restriction to express lender__  __.—__ 
+            (B) __Restriction to express lender.—__ 
 
             The authority to make an express loan shall be limited to those lenders deemed qualified to make such loans by the Administration. Designation as an express lender for purposes of making an express loan shall not prohibit such lender from taking any other action authorized by the Administration for that lender pursuant to this subsection.
 
-            (C)  __Grandfathering of existing lenders__  __.—__ 
+            (C) __Grandfathering of existing lenders.—__ 
 
             Any express lender shall retain such designation unless the Administration determines that the express lender has violated the law or regulations promulgated by the Administration or modifies the requirements to be an express lender and the lender no longer satisfies those requirements.
 
-            (D)  __Maximum loan amount__  __.—__ 
+            (D) __Maximum loan amount.—__ 
 
             The maximum loan amount under the Express Loan Program is $350,000.
 
-            (E)  __Option to participate__  __.—__ 
+            (E) __Option to participate.—__ 
 
             Except as otherwise provided in this paragraph, the Administration shall take no regulatory, policy, or administrative action, without regard to whether such action requires notification pursuant to paragraph (24), that has the effect of requiring a lender to make an express loan pursuant to subparagraph (D).
 
             (F) __Express loans for renewable energy and energy efficiency.—__ 
 
-                (i)  __Definitions__  __.—__ 
+                (i) __Definitions.—__ 
 
                 In this subparagraph—
 
@@ -529,7 +529,7 @@
 
                         (bb) hydrogen derived from biomass or water using an energy source described in item (aa).
 
-                (ii)  __Loans__  __.—__ 
+                (ii) __Loans.—__ 
 
                 The Administrator may make a loan under the Express Loan Program for the purpose of—
 
@@ -539,7 +539,7 @@
 
         (32) __Loans for energy efficient technologies.—__ 
 
-            (A)  __Definitions__  __.—__ 
+            (A) __Definitions.—__ 
 
             In this paragraph—
 
@@ -555,25 +555,25 @@
 
                 (iii) the term “pilot program” means the pilot program established under subparagraph (B)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. </sup></sup> 
 
-            (B)  __Establishment__  __.—__ 
+            (B) __Establishment.—__ 
 
             The Administrator shall establish and carry out a pilot program under which the Administrator shall reduce the fees for covered energy efficiency loans.
 
-            (C)  __Duration__  __.—__ 
+            (C) __Duration.—__ 
 
             The pilot program shall terminate at the end of the second full fiscal year after the date that the Administrator establishes the pilot program.
 
-            (D)  __Maximum participation__  __.—__ 
+            (D) __Maximum participation.—__ 
 
             A covered energy efficiency loan shall include the maximum participation levels by the Administrator permitted for loans made under this subsection.
 
             (E) __Fees.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The fee on a covered energy efficiency loan shall be equal to 50 percent of the fee otherwise applicable to that loan under paragraph (18).
 
-                (ii)  __Waiver__  __.—__ 
+                (ii) __Waiver.—__ 
 
                 The Administrator may waive clause (i) for a fiscal year if—
 
@@ -583,7 +583,7 @@
 
                     (III) no additional sources of revenue authority are available to reduce the cost of making loans under this subsection to zero.
 
-                (iii)  __Effect of waiver__  __.—__ 
+                (iii) __Effect of waiver.—__ 
 
                 If the Administrator waives the reduction of fees under clause (ii), the Administrator—
 
@@ -591,17 +591,17 @@
 
                     (II) shall reinstate the fee reductions under clause (i) when the conditions in clause (ii) no longer apply.
 
-                (iv)  __No increase of fees__  __.—__ 
+                (iv) __No increase of fees.—__ 
 
                 The Administrator shall not increase the fees under paragraph (18) on loans made under this subsection that are not covered energy efficiency loans as a direct result of the pilot program.
 
             (F) __GAO report.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 Not later than 1 year after the date that the pilot program terminates, the Comptroller General of the United States shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report on the pilot program.
 
-                (ii)  __Contents__  __.—__ 
+                (ii) __Contents.—__ 
 
                 The report submitted under clause (i) shall include—
 
@@ -617,7 +617,7 @@
 
         (33) __Increased veteran participation program.—__ 
 
-            (A)  __Definitions__  __.—__ 
+            (A) __Definitions.—__ 
 
             In this paragraph—
 
@@ -627,25 +627,25 @@
 
                 (iii) the term “veteran participation loan” means a loan made under this subsection to a small business concern owned and controlled by veterans of the Armed Forces or members of the reserve components of the Armed Forces.
 
-            (B)  __Establishment__  __.—__ 
+            (B) __Establishment.—__ 
 
             The Administrator shall establish and carry out a pilot program under which the Administrator shall reduce the fees for veteran participation loans.
 
-            (C)  __Duration__  __.—__ 
+            (C) __Duration.—__ 
 
             The pilot program shall terminate at the end of the second full fiscal year after the date that the Administrator establishes the pilot program.
 
-            (D)  __Maximum participation__  __.—__ 
+            (D) __Maximum participation.—__ 
 
             A veteran participation loan shall include the maximum participation levels by the Administrator permitted for loans made under this subsection.
 
             (E) __Fees.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The fee on a veteran participation loan shall be equal to 50 percent of the fee otherwise applicable to that loan under paragraph (18).
 
-                (ii)  __Waiver__  __.—__ 
+                (ii) __Waiver.—__ 
 
                 The Administrator may waive clause (i) for a fiscal year if—
 
@@ -655,7 +655,7 @@
 
                     (III) no additional sources of revenue authority are available to reduce the cost of making loans under this subsection to zero.
 
-                (iii)  __Effect of waiver__  __.—__ 
+                (iii) __Effect of waiver.—__ 
 
                 If the Administrator waives the reduction of fees under clause (ii), the Administrator—
 
@@ -663,17 +663,17 @@
 
                     (II) shall reinstate the fee reductions under clause (i) when the conditions in clause (ii) no longer apply.
 
-                (iv)  __No increase of fees__  __.—__ 
+                (iv) __No increase of fees.—__ 
 
                 The Administrator shall not increase the fees under paragraph (18) on loans made under this subsection that are not veteran participation loans as a direct result of the pilot program.
 
             (F) __GAO report.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 Not later than 1 year after the date that the pilot program terminates, the Comptroller General of the United States shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report on the pilot program.
 
-                (ii)  __Contents__  __.—__ 
+                (ii) __Contents.—__ 
 
                 The report submitted under clause (i) shall include—
 
@@ -685,9 +685,43 @@
 
                     (IV) recommendations for improving the pilot program.
 
-        (34) __Export express program.—__ 
+        (34) __Floor plan financing program.—__ 
 
-            (A)  __Definitions__  __.—__ 
+            (A) __Definition.—__ 
+
+            In this paragraph, the term “eligible retail good”—
+
+                (i) means a good for which a title may be obtained under State law; and
+
+                (ii) includes an automobile, recreational vehicle, boat, and manufactured home.
+
+            (B) __Program.—__ 
+
+            The Administrator may guarantee the timely payment of an open-end extension of credit to a small business concern, the proceeds of which may be used for the purchase of eligible retail goods for resale.
+
+            (C) __Amount.—__ 
+
+            An open-end extension of credit guaranteed under this paragraph shall be in an amount not less than $500,000 and not more than $5,000,000.
+
+            (D) __Term.—__ 
+
+            An open-end extension of credit guaranteed under this paragraph shall have a term of not more than 5 years.
+
+            (E) __Guarantee percentage.—__ 
+
+            The Administrator may guarantee—
+
+                (i) not less than 60 percent of an open-end extension of credit under this paragraph; and
+
+                (ii) not more than 75 percent of an open-end extension of credit under this paragraph.
+
+            (F) __Advance rate.—__ 
+
+            The lender for an open-end extension of credit guaranteed under this paragraph may allow the borrower to draw funds on the line of credit in an amount equal to not more than 100 percent of the value of the eligible retail goods to be purchased.
+
+        (35) __Export express program.—__ 
+
+            (A) __Definitions.—__ 
 
             In this paragraph—
 
@@ -715,17 +749,17 @@
 
                 (ii) the term “express loan” means a loan in which a lender uses to the maximum extent practicable the loan analyses, procedures, and documentation of the lender to provide expedited processing of the loan application.
 
-            (B)  __Authority__  __.—__ 
+            (B) __Authority.—__ 
 
             The Administrator may guarantee the timely payment of an express loan to a small business concern made for an export development activity.
 
             (C) __Level of participation.—__ 
 
-                (i)  __Maximum amount__  __.—__ 
+                (i) __Maximum amount.—__ 
 
                 The maximum amount of an express loan guaranteed under this paragraph shall be $500,000.
 
-                (ii)  __Percentage__  __.—__ 
+                (ii) __Percentage.—__ 
 
                 For an express loan guaranteed under this paragraph, the Administrator shall guarantee—
 
@@ -805,11 +839,11 @@
 
         (4) __Coordination with fema.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Notwithstanding any other provision of law, for any disaster declared under this subsection or major disaster (including any major disaster relating to which the Administrator declares eligibility for additional disaster assistance under paragraph (9)), the Administrator, in consultation with the Administrator of the Federal Emergency Management Agency, shall ensure, to the maximum extent practicable, that all application periods for disaster relief under this chapter correspond with application deadlines established under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), or as extended by the President.
 
-            (B)  __Deadlines__  __.—__ 
+            (B) __Deadlines.—__ 
 
             Notwithstanding any other provision of law, not later than 10 days before the closing date of an application period for a major disaster (including any major disaster relating to which the Administrator declares eligibility for additional disaster assistance under paragraph (9)), the Administrator, in consultation with the Administrator of the Federal Emergency Management Agency, shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report that includes—
 
@@ -819,7 +853,7 @@
 
                 (iii) an estimate of the number of potential applicants that have not submitted an application relating to that major disaster.
 
-        (5)  __Public awareness of disasters__  __.—__ 
+        (5) __Public awareness of disasters.—__ 
 
         If a disaster is declared under this subsection or the Administrator declares eligibility for additional disaster assistance under paragraph (9), the Administrator shall make every effort to communicate through radio, television, print, and web-based outlets, all relevant information needed by disaster loan applicants, including—
 
@@ -839,17 +873,17 @@
 
         (6) __Authority for qualified private contractors.—__ 
 
-            (A)  __Disaster loan processing__  __.—__ 
+            (A) __Disaster loan processing.—__ 
 
             The Administrator may enter into an agreement with a qualified private contractor, as determined by the Administrator, to process loans under this subsection in the event of a major disaster (including any major disaster relating to which the Administrator declares eligibility for additional disaster assistance under paragraph (9)), under which the Administrator shall pay the contractor a fee for each loan processed.
 
-            (B)  __Loan loss verification services__  __.—__ 
+            (B) __Loan loss verification services.—__ 
 
             The Administrator may enter into an agreement with a qualified lender or loss verification professional, as determined by the Administrator, to verify losses for loans under this subsection in the event of a major disaster (including any major disaster relating to which the Administrator declares eligibility for additional disaster assistance under paragraph (9)), under which the Administrator shall pay the lender or verification professional a fee for each loan for which such lender or verification professional verifies losses.
 
         (7) __Disaster assistance employees.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             In carrying out this section, the Administrator may, where practicable, ensure that the number of full-time equivalent employees—
 
@@ -857,7 +891,7 @@
 
                 (ii) in the Disaster Cadre of the Administration is not fewer than 1,000.
 
-            (B)  __Report__  __.—__ 
+            (B) __Report.—__ 
 
             In carrying out this subsection, if the number of full-time employees for either the Office of Disaster Assistance or the Disaster Cadre of the Administration is below the level described in subparagraph (A) for that office, not later than 21 days after the date on which that staffing level decreased below the level described in subparagraph (A), the Administrator shall submit to the Committee on Appropriations and the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Appropriations and Committee on Small Business of the House of Representatives, a report—
 
@@ -869,21 +903,21 @@
 
         (8) __Increased loan caps.—__ 
 
-            (A)  __Aggregate loan amounts__  __.—__ 
+            (A) __Aggregate loan amounts.—__ 
 
             Except as provided in subparagraph (B), and notwithstanding any other provision of law, the aggregate loan amount outstanding and committed to a borrower under this subsection may not exceed $2,000,000.
 
-            (B)  __Waiver authority__  __.—__ 
+            (B) __Waiver authority.—__ 
 
             The Administrator may, at the discretion of the Administrator, increase the aggregate loan amount under subparagraph (A) for loans relating to a disaster to a level established by the Administrator, based on appropriate economic indicators for the region in which that disaster occurred.
 
         (9) __Declaration of eligibility for additional disaster assistance.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             If the President declares a major disaster, the Administrator may declare eligibility for additional disaster assistance in accordance with this paragraph.
 
-            (B)  __Threshold__  __.—__ 
+            (B) __Threshold.—__ 
 
             A major disaster for which the Administrator declares eligibility for additional disaster assistance under this paragraph shall—
 
@@ -901,25 +935,25 @@
 
             (C) __Additional economic injury disaster loan assistance.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 If the Administrator declares eligibility for additional disaster assistance under this paragraph, the Administrator may make such loans under this subparagraph (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis) as the Administrator determines appropriate to eligible small business concerns located anywhere in the United States.
 
                 (ii) __Processing time.—__ 
 
-                    (I)  __In general__  __.—__ 
+                    (I) __In general.—__ 
 
                     If the Administrator determines that the average processing time for applications for disaster loans under this subparagraph relating to a specific major disaster is more than 15 days, the Administrator shall give priority to the processing of such applications submitted by eligible small business concerns located inside the disaster area, until the Administrator determines that the average processing time for such applications is not more than 15 days.
 
-                    (II)  __Suspension of applications from outside disaster area__  __.—__ 
+                    (II) __Suspension of applications from outside disaster area.—__ 
 
                     If the Administrator determines that the average processing time for applications for disaster loans under this subparagraph relating to a specific major disaster is more than 30 days, the Administrator shall suspend the processing of such applications submitted by eligible small business concerns located outside the disaster area, until the Administrator determines that the average processing time for such applications is not more than 15 days.
 
-                (iii)  __Loan terms__  __.—__ 
+                (iii) __Loan terms.—__ 
 
                 A loan under this subparagraph shall be made on the same terms as a loan under paragraph (2).
 
-            (D)  __Definitions__  __.—__ 
+            (D) __Definitions.—__ 
 
             In this paragraph—
 
@@ -2099,6 +2133,10 @@
 
 ([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[7\], July 18, 1958, [72 Stat. 387][/us/stat/72/387]; [Pub. L. 85–699, title VI, § 602(c)][/us/pl/85/699/s602/c], Aug. 21, 1958, [72 Stat. 698][/us/stat/72/698]; [Pub. L. 86–367, § 2][/us/pl/86/367/s2], Sept. 22, 1959, [73 Stat. 647][/us/stat/73/647]; [Pub. L. 87–70, title III, § 305][/us/pl/87/70/s305]\[a\], June 30, 1961, [75 Stat. 167][/us/stat/75/167]; [Pub. L. 87–305, § 9][/us/pl/87/305/s9], Sept. 26, 1961, [75 Stat. 668][/us/stat/75/668]; [Pub. L. 88–264, § 1][/us/pl/88/264/s1], Feb. 5, 1964, [78 Stat. 7][/us/stat/78/7]; [Pub. L. 88–560, title III, § 319][/us/pl/88/560/s319], Sept. 2, 1964, [78 Stat. 794][/us/stat/78/794]; [Pub. L. 89–59, § 1(a)][/us/pl/89/59/s1/a], (b), June 30, 1965, [79 Stat. 206][/us/stat/79/206]; [Pub. L. 89–409, § 3(a)][/us/pl/89/409/s3/a], May 2, 1966, [80 Stat. 133][/us/stat/80/133]; [Pub. L. 89–769, § 7(b)][/us/pl/89/769/s7/b], Nov. 6, 1966, [80 Stat. 1319][/us/stat/80/1319]; [Pub. L. 90–104, title I][/us/pl/90/104], §§ 103, 104, Oct. 11, 1967, [81 Stat. 268][/us/stat/81/268]; [Pub. L. 90–448, title XI, § 1106(a)][/us/pl/90/448/s1106/a], Aug. 1, 1968, [82 Stat. 567][/us/stat/82/567]; [Pub. L. 90–495, § 31][/us/pl/90/495/s31], Aug. 23, 1968, [82 Stat. 835][/us/stat/82/835]; [Pub. L. 91–173, title V, § 504(a)][/us/pl/91/173/s504/a], (b), Dec. 30, 1969, [83 Stat. 802][/us/stat/83/802]; [Pub. L. 91–596, § 28(a)][/us/pl/91/596/s28/a], (b), Dec. 29, 1970, [84 Stat. 1618][/us/stat/84/1618]; [Pub. L. 91–597, § 25(a)][/us/pl/91/597/s25/a], (b), Dec. 29, 1970, [84 Stat. 1633][/us/stat/84/1633], 1634; [Pub. L. 92–385][/us/pl/92/385], §§ 1(a), 2(a), Aug. 16, 1972, [86 Stat. 554][/us/stat/86/554], 555; [Pub. L. 92–500, § 8(a)][/us/pl/92/500/s8/a], Oct. 18, 1972, [86 Stat. 898][/us/stat/86/898]; [Pub. L. 92–595, § 3(b)][/us/pl/92/595/s3/b], Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316]; [Pub. L. 93–237][/us/pl/93/237], §§ 2(a), (b), 3(a), 5, 6, Jan. 2, 1974, [87 Stat. 1023][/us/stat/87/1023], 1024; [Pub. L. 93–386][/us/pl/93/386], §§ 2(a)(4), 3(2), 8, 9, 12, Aug. 23, 1974, [88 Stat. 742][/us/stat/88/742], 746, 748, 749; [Pub. L. 94–305, title I][/us/pl/94/305], §§ 108(b), 109, 111, 112(c), (d), 114, June 4, 1976, [90 Stat. 666][/us/stat/90/666], 667; [Pub. L. 95–89, title I, § 101(d)][/us/pl/95/89/s101/d], (e), title III, §§ 301, 302, title IV, §§ 402–405, Aug. 4, 1977, [91 Stat. 553][/us/stat/91/553], 558–560; [Pub. L. 95–315][/us/pl/95/315], §§ 2, 3, July 4, 1978, [92 Stat. 377][/us/stat/92/377], 378; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 204, 205, 231, Oct. 24, 1978, [92 Stat. 1764][/us/stat/92/1764], 1766, 1772; [Pub. L. 95–510, § 104][/us/pl/95/510/s104], Oct. 24, 1978, [92 Stat. 1782][/us/stat/92/1782]; [Pub. L. 96–38, title I, § 101(a)][/us/pl/96/38/s101/a], (b), July 25, 1979, [93 Stat. 118][/us/stat/93/118]; [Pub. L. 96–302, title I][/us/pl/96/302], §§ 119(a), (b), 122–124, title II, § 203, title V, § 505, July 2, 1980, [94 Stat. 840][/us/stat/94/840], 841, 843, 848, 852; [Pub. L. 96–481, title I][/us/pl/96/481], §§ 104, 106(a), 107, 112, Oct. 21, 1980, [94 Stat. 2322][/us/stat/94/2322], 2323; [Pub. L. 97–35, title XIX][/us/pl/97/35], §§ 1902, 1910–1912, 1913(a), (c), 1914, Aug. 13, 1981, [95 Stat. 767][/us/stat/95/767], 778–780; [Pub. L. 98–270, title III][/us/pl/98/270], §§ 301, 304, 308, 309, 311, Apr. 18, 1984, [98 Stat. 159–161][/us/stat/98/159-161]; [Pub. L. 98–395, § 5][/us/pl/98/395/s5], Aug. 21, 1984, [98 Stat. 1368][/us/stat/98/1368]; [Pub. L. 99–272, title XVIII][/us/pl/99/272], §§ 18006(a)(1), (2), 18007, 18013, Apr. 7, 1986, [100 Stat. 366][/us/stat/100/366], 370; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–418, title VIII][/us/pl/100/418], §§ 8005, 8007(a), Aug. 23, 1988, [102 Stat. 1557][/us/stat/102/1557], 1559; [Pub. L. 100–533, title III, § 302(a)][/us/pl/100/533/s302/a], Oct. 25, 1988, [102 Stat. 2693][/us/stat/102/2693]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 102(a), 103, 111(c), 119(a), 120–122, Nov. 3, 1988, [102 Stat. 2992][/us/stat/102/2992], 2995, 2999, 3000; [Pub. L. 100–656, title II][/us/pl/100/656], §§ 201(a), 202, 203, 205, 206, 208, title III, §§ 301–303(a), title IV, § 408, title V, § 505(h), Nov. 15, 1988, [102 Stat. 3856][/us/stat/102/3856], 3858, 3859, 3861, 3862, 3865–3868, 3877, 3887; [Pub. L. 100–707, title I, § 109(f)][/us/pl/100/707/s109/f], Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 101–37][/us/pl/101/37], §§ 4–6(a), 7(a), 8–10(b), June 15, 1989, [103 Stat. 70–73][/us/stat/103/70-73]; [Pub. L. 101–162, title V][/us/pl/101/162], (1), (2), Nov. 21, 1989, [103 Stat. 1024][/us/stat/103/1024], 1025; [Pub. L. 101–574, title II][/us/pl/101/574], §§ 202, 204(a), 206, 242, 245, title III, § 307, Nov. 15, 1990, [104 Stat. 2818–2820][/us/stat/104/2818-2820], 2827, 2830; [Pub. L. 102–140, title VI, § 609(b)][/us/pl/102/140/s609/b], (h), Oct. 28, 1991, [105 Stat. 825][/us/stat/105/825], 827; [Pub. L. 102–191, § 4][/us/pl/102/191/s4], Dec. 5, 1991, [105 Stat. 1591][/us/stat/105/1591]; [Pub. L. 102–366, title I][/us/pl/102/366], §§ 104, 113(a), title II, § 211, Sept. 4, 1992, [106 Stat. 988][/us/stat/106/988], 989, 997; [Pub. L. 102–564, title III, § 307(b)][/us/pl/102/564/s307/b], (c), Oct. 28, 1992, [106 Stat. 4263][/us/stat/106/4263], 4264; [Pub. L. 103–81][/us/pl/103/81], §§ 4, 5(a), 8, Aug. 13, 1993, [107 Stat. 781][/us/stat/107/781], 782; [Pub. L. 103–403, title II][/us/pl/103/403], §§ 201, 202, 204–208(b), 209–211, title VI, §§ 603–605(a), Oct. 22, 1994, [108 Stat. 4180–4183][/us/stat/108/4180-4183], 4202, 4203; [Pub. L. 104–36][/us/pl/104/36], §§ 2–4(a), 5, Oct. 12, 1995, [109 Stat. 295–297][/us/stat/109/295-297]; [Pub. L. 104–208, div. D, title I][/us/pl/104/208], §§ 103(a)–(d), (f), 105, 107, 111, Sept. 30, 1996, [110 Stat. 3009–726][/us/stat/110/3009-726], 3009–727, 3009–731 to 3009–733; [Pub. L. 105–135, title II][/us/pl/105/135], §§ 201, 202(a), 231, title VII, § 706, Dec. 2, 1997, [111 Stat. 2597][/us/stat/111/2597], 2598, 2606, 2637; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(10), (f)(9)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–420, 2681–430; [Pub. L. 106–8, § 3(a)][/us/pl/106/8/s3/a], (c), Apr. 2, 1999, [113 Stat. 13][/us/stat/113/13], 16; [Pub. L. 106–22][/us/pl/106/22], §§ 2, 3, Apr. 27, 1999, [113 Stat. 36][/us/stat/113/36], 37; [Pub. L. 106–24, § 1(a)][/us/pl/106/24/s1/a], Apr. 27, 1999, [113 Stat. 39][/us/stat/113/39]; [Pub. L. 106–50, title IV][/us/pl/106/50], §§ 401(b), 402(a), (b), 403, 404, Aug. 17, 1999, [113 Stat. 244–246][/us/stat/113/244-246]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title II, §§ 202–208(a), 210, title VIII, § 802(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–681 to 2763A–684, 2763A–702; [Pub. L. 107–100, § 6(a)][/us/pl/107/100/s6/a], Dec. 21, 2001, [115 Stat. 970][/us/stat/115/970]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 101(a), 102, 103(a), 107(a), (b), Dec. 8, 2004, [118 Stat. 3442–3446][/us/stat/118/3442-3446]; [Pub. L. 109–163, div. A, title VIII, § 845(a)(2)][/us/pl/109/163/s845/a/2], (c), Jan. 6, 2006, [119 Stat. 3390][/us/stat/119/3390], 3391; [Pub. L. 110–140, title XII][/us/pl/110/140], §§ 1201, 1202, Dec. 19, 2007, [121 Stat. 1764][/us/stat/121/1764], 1765; [Pub. L. 110–186, title II][/us/pl/110/186], §§ 201(a), 203, 204, 208, Feb. 14, 2008, [122 Stat. 627][/us/stat/122/627], 629, 631; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), May 22, 2008, [122 Stat. 1406][/us/stat/122/1406], 1407, 1409–1411, 1414–1418; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2168, 2169, 2171–2173, 2176–2180; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1111, 1113, 1131(a), 1133, 1135, 1206(a)–(g), 1401(a), (c)(1), Sept. 27, 2010, [124 Stat. 2507][/us/stat/124/2507], 2508, 2512, 2514, 2520, 2530–2532, 2547, 2549; [Pub. L. 112–74, div. C, title V, § 531][/us/pl/112/74/s531], Dec. 23, 2011, [125 Stat. 922][/us/stat/125/922]; [Pub. L. 112–239, div. A, title XVI, § 1622(c)][/us/pl/112/239/s1622/c], Jan. 2, 2013, [126 Stat. 2069][/us/stat/126/2069].)
 
+ __Amendment of Subsection (a)__ 
+
+    [Pub. L. 111–240, title I, § 1133(b)][/us/pl/111/240/s1133/b], Sept. 27, 2010, [124 Stat. 2515][/us/stat/124/2515], provided that, effective Sept. 30, 2013, subsection (a) of this section is amended by striking paragraph (34) and redesignating paragraph (35), as added by [section 1206 of Pub. L. 111–240][/us/pl/111/240/s1206], as paragraph (34). See 2010 Amendment notes below.
+
  __References in Text__ 
 
     Subsections (b) and (c) of [section 631 of this title][/us/usc/t15/s631], referred to in subsecs. (a)(11) and (i)(1), were redesignated subsections (c) and (d), respectively, and a new subsection (b) was added by [Pub. L. 100–418, title VIII, § 8002][/us/pl/100/418/s8002], Aug. 23, 1988, [102 Stat. 1553][/us/stat/102/1553].
@@ -2945,11 +2983,11 @@
 
 [Pub. L. 106–50, title IV, § 402(e)][/us/pl/106/50/s402/e], Aug. 17, 1999, [113 Stat. 246][/us/stat/113/246], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this section \[Aug. 17, 1999\].
 
->     “(2)  __Disaster loans__  __.—__ 
+>     “(2) __Disaster loans.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to economic injury suffered or likely to be suffered as the result of a period of military conflict occurring or ending on or after March 24, 1999.”
 
@@ -3153,7 +3191,7 @@
 
 >     “(b) __Pre-Consideration Process.—__ 
 
->         “(1)  __Definition__  __.—__ 
+>         “(1) __Definition.—__ 
 
 >         In this subsection, the term ‘eligible Reservist’ means a Reservist who—
 
@@ -3163,7 +3201,7 @@
 
 >             “(C) can reasonably demonstrate that the small business concern for which that Reservist is a key employee will suffer economic injury in the absence of that Reservist.
 
->         “(2)  __Establishment__  __.—__ 
+>         “(2) __Establishment.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2008\], the Administrator shall establish a pre-consideration process, under which the Administrator—
 
@@ -3173,7 +3211,7 @@
 
 >     “(c) __Outreach and Technical Assistance Program.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2008\], the Administrator, in consultation with the Secretary of Veterans Affairs and the Secretary of Defense, may develop a comprehensive outreach and technical assistance program (in this subsection referred to as the ‘program’) to—
 
@@ -3181,7 +3219,7 @@
 
 >             “(B) provide technical assistance to a small business concern applying for a loan under that section.
 
->         “(2)  __Components__  __.—__ 
+>         “(2) __Components.—__ 
 
 >         The program shall—
 
@@ -3197,11 +3235,11 @@
 
 >         “(3) __Report.—__ 
 
->             “(A)  __In general__  __.—__ 
+>             “(A) __In general.—__ 
 
 >             Not later than 6 months after the date of enactment of this Act, and every 6 months thereafter until the date that is 30 months after such date of enactment, the Administrator shall submit to Congress a report on the status of the program.
 
->             “(B)  __Contents__  __.—__ 
+>             “(B) __Contents.—__ 
 
 >             Each report submitted under subparagraph (A) shall include—
 
@@ -3221,11 +3259,11 @@
 
 [Pub. L. 110–186, title II, § 202][/us/pl/110/186/s202], Feb. 14, 2008, [122 Stat. 629][/us/stat/122/629], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     The Administrator and the Secretary of Defense shall develop a joint website and printed materials providing information regarding any program for small business concerns that is available to veterans or Reservists.
 
->     “(b)  __Marketing__  __.—__ 
+>     “(b) __Marketing.—__ 
 
 >     The Administrator is authorized—
 
@@ -3235,15 +3273,145 @@
 
  __Temporary Extension and Expansion of Loan Programs__ 
 
-    [Pub. L. 108–217][/us/pl/108/217], §§ 4–8, Apr. 5, 2004, [118 Stat. 591–594][/us/stat/118/591-594], provided for the temporary extension and expansion of certain loan programs under [15 U.S.C. 636(a)][/us/usc/t15/s636/a] beginning on Apr. 5, 2004, and ending on Sept. 30, 2004.
+[Pub. L. 108–217][/us/pl/108/217], §§ 4–8, Apr. 5, 2004, [118 Stat. 591–594][/us/stat/118/591-594], provided that:
+
+> “SEC. 4. __COMBINATION FINANCING.__ 
+
+>     “(a) __In General.—__ 
+
+>     During the period beginning on the date of the enactment of this section \[Apr. 5, 2004\] and ending on September 30, 2004, subsection (a) of section 7 of the Small Business Act ([15 U.S.C. 636(a)][/us/usc/t15/s636/a]) shall be applied as if the paragraph set forth in subsection (b) were added at the end of that subsection (a).
+
+>     “(b) __Paragraph Specified.—__ 
+
+>     The paragraph referred to in subsection (a) is as follows:    “ ‘(31) Combination financing.—
+
+>         “ ‘(A) Definitions.—In this paragraph—
+
+>         “ ‘(i) the term “combination financing” means financing comprised of a loan guaranteed under this subsection and a commercial loan; and
+
+>         “ ‘(ii) the term “commercial loan” means a loan which is part of a combination financing and no portion of which is guaranteed by the Federal Government.
+
+>         “ ‘(B) Applicability.—This paragraph applies to a loan guarantee obtained by a small business concern under this subsection, if the small business concern also obtains a commercial loan.
+
+>         “ ‘(C) Commercial loan amount.—In the case of any combination financing, the amount of the commercial loan which is part of such financing shall not exceed the gross amount of the loan guaranteed under this subsection which is part of such financing.
+
+>         “ ‘(D) Commercial loan provisions.—The commercial loan obtained by the small business concern—
+
+>         “ ‘(i) may be made by the participating lender that is providing financing under this subsection or by a different lender;
+
+>         “ ‘(ii) may be secured by a senior lien; and
+
+>         “ ‘(iii) may be made by a lender in the Preferred Lenders Program, if applicable.
+
+>         “ ‘(E) Commercial loan fee.—A one-time fee in an amount equal to 0.7 percent of the amount of the commercial loan shall be paid by the lender to the Administration if the commercial loan has a senior credit position to that of the loan guaranteed under this subsection. Paragraph (23)(B) shall apply to the fee established by this paragraph.
+
+>         “ ‘(F) Deferred participation loan security.—A loan guaranteed under this subsection may be secured by a subordinated lien.
+
+>         “ ‘(G) Completion of application processing.—The Administrator shall complete processing of an application for combination financing under this paragraph pursuant to the program authorized by this subsection as it was operating on October 1, 2003.
+
+>         “ ‘(H) Business loan eligibility.—Any standards prescribed by the Administrator relating to the eligibility of small business concerns to obtain combination financing under this subsection which are in effect on the date of the enactment of this paragraph \[Apr. 5, 2004\] shall apply with respect to combination financings made under this paragraph. Any modifications to such standards by the Administrator after such date shall not unreasonably restrict the availability of combination financing under this paragraph relative to the availability of such financing before such modifications.’.
+
+> “SEC. 5. __LOAN GUARANTEE FEES.__ 
+
+>     “(a) __In General.—__ 
+
+>     During the period beginning on the date of the enactment of this section \[Apr. 5, 2004\] and ending on September 30, 2004, subparagraph (A) of paragraph (23) of subsection (a) of section 7 of the Small Business Act ([15 U.S.C. 636(a)(23)(A)][/us/usc/t15/s636/a/23/A]) shall be applied as if that subparagraph consisted of the language set forth in subsection (b).
+
+>     “(b) __Language Specified.—__ 
+
+>     The language referred to in subsection (a) is as follows:    “ ‘(A) Percentage.—
+
+>         “ ‘(i) In general.—With respect to each loan guaranteed under this subsection, the Administrator shall, in accordance with such terms and procedures as the Administrator shall establish by regulation, assess and collect an annual fee in an amount equal to 0.5 percent of the outstanding balance of the deferred participation share of the loan.
+
+>         “ ‘(ii) Temporary percentage.—With respect to loans approved during the period beginning on the date of enactment of this clause \[Apr. 5, 2004\] and ending on September 30, 2004, the annual fee assessed and collected under clause (i) shall be equal to 0.36 percent of the outstanding balance of the deferred participation share of the loan.’.
+
+>     “(c) __Retention of Certain Fees.—__ 
+
+>     Subparagraph (B) of paragraph (18) of subsection (a) of section 7 of the Small Business Act ([15 U.S.C. 636(a)(18)(B)][/us/usc/t15/s636/a/18/B]) shall not be effective during the period beginning on the date of the enactment of this section \[Apr. 5, 2004\] and ending on September 30, 2004.
+
+> “SEC. 6. __EXPRESS LOAN PROVISIONS.__ 
+
+>     “(a) __Definitions.—__ 
+
+>     For the purposes of this section:
+
+>         “(1) The term ‘express lender’ shall mean any lender authorized by the Administrator to participate in the Express Loan Pilot Program.
+
+>         “(2) The term ‘Express Loan’ shall mean any loan made pursuant to section 7(a) of the Small Business Act ([15 U.S.C. 636(a)][/us/usc/t15/s636/a]) in which a lender utilizes to the maximum extent practicable its own loan analyses, procedures, and documentation.
+
+>         “(3) The term ‘Express Loan Pilot Program’ shall mean the program established by the Administrator prior to the date of enactment of this section \[Apr. 5, 2004\] under the authority granted in section 7(a)(25)(B) of the Small Business Act ([15 U.S.C. 636(a)(25)(B)][/us/usc/t15/s636/a/25/B]) with a guaranty rate not to exceed 50 percent.
+
+>         “(4) The term ‘Administrator’ means the Administrator of the Small Business Administration.
+
+>         “(5) The term ‘small business concern’ has the same meaning given such term under section 3(a) of the Small Business Act ([15 U.S.C. 632(a)][/us/usc/t15/s632/a]).
+
+>     “(b) __Restriction to Express Lender.—__ 
+
+>     The authority to make an Express Loan shall be limited to those lenders deemed qualified to make such loans by the Administrator. Designation as an express lender for purposes of making an Express Loan shall not prohibit such lender from taking any other action authorized by the Administrator for that lender pursuant to section 7(a) of the Small Business Act ([15 U.S.C. 636(a)][/us/usc/t15/s636/a]).
+
+>     “(c) __Grandfathering of Existing Lenders.—__ 
+
+>     Any express lender shall retain such designation unless the Administrator determines that the express lender has violated the law or regulations promulgated by the Administrator or modifies the requirements to be an express lender and the lender no longer satisfies those requirements.
+
+>     “(d) __Temporary Expansion of Express Loan Pilot Program.—__ 
+
+>         “(1) __Authorization.—__ 
+
+>         As of the date of enactment of this section \[Apr. 5, 2004\], the maximum loan amount in the Express Loan Pilot Program shall be increased to a maximum loan amount of $2,000,000 as set forth in section 7(a)(3)(A) of the Small Business Act ([15 U.S.C. 636(a)(3)(A)][/us/usc/t15/s636/a/3/A]).
+
+>         “(2) __Termination date.—__ 
+
+>         The authority set forth in paragraph (1) shall terminate on September 30, 2004.
+
+>         “(3) __Savings provision.—__ 
+
+>         Nothing in this section shall be interpreted to modify or alter the authority of the Administrator to continue to operate the Express Loan Pilot Program on or after October 1, 2004.
+
+>     “(e) __Option to Participate.—__ 
+
+>     Except as otherwise provided in this section, the Administrator shall take no regulatory, policy, or administrative action, without regard to whether such action requires notification pursuant to section 7(a)(24) of the Small Business Act ([15 U.S.C. 636(a)(24)][/us/usc/t15/s636/a/24]), that has the effect of—
+
+>         “(1) requiring a lender to make an Express Loan pursuant to subsection (d);
+
+>         “(2) limiting or modifying any term or condition of deferred participation loans made under such section (other than Express Loans) unless the Administrator imposes the same limit or modification on Express Loans;
+
+>         “(3) transferring or re-allocating staff, staff responsibilities, resources, or funding, if the result of such transfer or re-allocation would be to increase the average loan processing, approval, or disbursement time above the averages for those functions as of October 1, 2003, for loan guarantees approved under such section by employees of the Administration or through the Preferred Lenders Program; or
+
+>         “(4) otherwise providing any incentive or disincentive which encourages lenders or borrowers to make or obtain loans under the Express Loan Pilot Program instead of under the general loan authority of section 7(a) of the Small Business Act ([15 U.S.C. 636(a)][/us/usc/t15/s636/a]).
+
+>     “(f) __Collection and Reporting of Data.—__ 
+
+>     For all loans in excess of $250,000 made pursuant to the authority set forth in subsection (d)(1), the Administrator shall, to the extent practicable, collect data on the purpose for each such loan. The Administrator shall report monthly to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives on the number of such loans and their purposes.
+
+>     “(g) __Termination.—__ 
+
+>     Subsections (b), (c), (e), and (f) shall not apply after September 30, 2004.
+
+> “SEC. 7. __FISCAL YEAR 2004 DEFERRED PARTICIPATION STANDARDS.__ 
+
+>     “Deferred participation loans made during the period beginning on the date of the enactment of this Act \[Apr. 5, 2004\] and ending on September 30, 2004, under section 7(a) of the Small Business Act ([15 U.S.C. 636(a)][/us/usc/t15/s636/a]) shall have the same terms and conditions (including maximum gross loan amounts and collateral requirements) as were applicable to loans made under such section on October 1, 2003, except as otherwise provided in this Act \[amending [section 697 of this title][/us/usc/t15/s697], enacting this note, and amending provisions set out as a note under [section 631 of this title][/us/usc/t15/s631]\]. This section shall not preclude the Administrator of the Small Business Administration from taking such action as necessary to maintain the loan program carried out under such section, subject to appropriations.
+
+> “SEC. 8. __TEMPORARY INCREASE IN LOAN LIMIT UNDER BUSINESS LOAN AND INVESTMENT FUND AND IN ASSOCIATED GUARANTEE FEES.__ 
+
+>     “(a) __Temporary Increase in Amount Permitted to Be Outstanding and Committed.—__ 
+
+>     During the period beginning on the date of the enactment of this Act \[Apr. 5, 2004\] and ending on September 30, 2004, section 7(a)(3)(A) of the Small Business Act ([15 U.S.C. 636(a)(3)(A)][/us/usc/t15/s636/a/3/A]) shall be applied as if the first dollar figure were $1,500,000.
+
+>     “(b) __Temporary Guarantee Fee on Deferred Participation Share Over $1,000,000.—__ 
+
+>     With respect to loans made during the period referred to in subsection (a) to which section 7(a)(18) of the Small Business Act ([15 U.S.C. 636(a)(18)][/us/usc/t15/s636/a/18]) applies, the Administrator of the Small Business Administration shall collect an additional guarantee fee equal to 0.25 percent of the amount (if any) by which the deferred participation share of the loan exceeds $1,000,000.”
 
  __Budgetary Treatment of Loans and Financings__ 
 
-    [Pub. L. 107–100, § 6(c)][/us/pl/107/100/s6/c], Dec. 21, 2001, [115 Stat. 971][/us/stat/115/971], provided for special budgetary treatment of certain loans and financings by the Small Business Administration under [15 U.S.C. 636(a)][/us/usc/t15/s636/a] during the 2-year period beginning on Oct. 1, 2002.
+[Pub. L. 107–100, § 6(c)][/us/pl/107/100/s6/c], Dec. 21, 2001, [115 Stat. 971][/us/stat/115/971], provided that: 
+
+> “Assistance made available under any loan made or approved by the Small Business Administration under section 7(a) of the Small Business Act ([15 U.S.C. 636(a)][/us/usc/t15/s636/a]) or financings made under title V of the Small Business Investment Act of 1958 ([15 U.S.C. 695][/us/usc/t15/s695] et seq.), during the 2-year period beginning on October 1, 2002, shall be treated as separate programs of the Small Business Administration for purposes of the Federal Credit Reform Act of 1990 \[[2 U.S.C. 661][/us/usc/t2/s661] et seq.\] only.”
 
  __Enhanced Publicity During Operation Allied Force__ 
 
-    [Pub. L. 106–50, title IV, § 402(c)][/us/pl/106/50/s402/c], Aug. 17, 1999, [113 Stat. 246][/us/stat/113/246], provided for enhanced publicity of the availability of assistance during Operation Allied Force and for 120 days thereafter.
+[Pub. L. 106–50, title IV, § 402(c)][/us/pl/106/50/s402/c], Aug. 17, 1999, [113 Stat. 246][/us/stat/113/246], provided that: 
+
+> “For the duration of Operation Allied Force and for 120 days thereafter, the Administration shall enhance its publicity of the availability of assistance provided pursuant to the amendments made by this section \[amending this section\], including information regarding the appropriate local office at which affected small businesses may seek such assistance.”
 
  __Evaluation of Predisaster Mitigation Pilot Program__ 
 
@@ -3267,11 +3435,11 @@
 
 [Pub. L. 105–135, title II, § 202(b)][/us/pl/105/135/s202/b], Dec. 2, 1997, [111 Stat. 2600][/us/stat/111/2600], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     No funds are authorized to be appropriated or otherwise provided to carry out the grant program under section 7(m)(4)(F) of the Small Business Act ([15 U.S.C. 636(m)(4)(F)][/us/usc/t15/s636/m/4/F]) (as added by this section), except by transfer from another department or agency of the Federal Government to the Administration in accordance with this subsection.
 
->     “(2)  __Limitation on amounts__  __.—__ 
+>     “(2) __Limitation on amounts.—__ 
 
 >     The total amount transferred to the Administration from other departments and agencies of the Federal Government to carry out the grant program under section 7(m)(4)(F) of the Small Business Act ([15 U.S.C. 636(m)(4)(F)][/us/usc/t15/s636/m/4/F]) (as added by this section) shall not exceed—
 
@@ -3287,37 +3455,37 @@
 
 >     “(a) __DELTA Program Authorized.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Administrator may administer the Defense Loan and Technical Assistance program in accordance with the authority and requirements of this section.
 
->         “(2)  __Expiration of authority__  __.—__ 
+>         “(2) __Expiration of authority.—__ 
 
 >         The authority of the Administrator to carry out the DELTA program under paragraph (1) shall terminate when the funds referred to in subsection (g)(1) have been expended.
 
->         “(3)  __DELTA program defined__  __.—__ 
+>         “(3) __DELTA program defined.—__ 
 
 >         In this section, the terms ‘Defense Loan and Technical Assistance program’ and ‘DELTA program’ mean the Defense Loan and Technical Assistance program that has been established by a memorandum of understanding entered into by the Administrator and the Secretary of Defense on June 26, 1995.
 
 >     “(b) __Assistance.—__ 
 
->         “(1)  __Authority__  __.—__ 
+>         “(1) __Authority.—__ 
 
 >         Under the DELTA program, the Administrator may assist small business concerns that are economically dependent on defense expenditures to acquire dual-use capabilities.
 
->         “(2)  __Forms of assistance__  __.—__ 
+>         “(2) __Forms of assistance.—__ 
 
 >         Forms of assistance authorized under paragraph (1) are as follows:
 
->             “(A)  __Loan guarantees__  __.—__ 
+>             “(A) __Loan guarantees.—__ 
 
 >             Loan guarantees under the terms and conditions specified under this section and other applicable law.
 
->             “(B)  __Nonfinancial assistance__  __.—__ 
+>             “(B) __Nonfinancial assistance.—__ 
 
 >             Other forms of assistance that are not financial.
 
->     “(c)  __Administration of Program__  __.—__ 
+>     “(c) __Administration of Program.—__ 
 
 >     In the administration of the DELTA program under this section, the Administrator shall—
 
@@ -3329,11 +3497,11 @@
 
 >     “(d) __Selection and Eligibility Requirements for DELTA Loan Guarantees.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The selection criteria and eligibility requirements set forth in this subsection shall be applied in the selection of small business concerns to receive loan guarantees under the DELTA program.
 
->         “(2)  __Selection criteria__  __.—__ 
+>         “(2) __Selection criteria.—__ 
 
 >         The criteria used for the selection of a small business concern to receive a loan guarantee under this section are as follows:
 
@@ -3345,7 +3513,7 @@
 
 >             “(D) The extent to which the loans to be guaranteed would be used to acquire (or permit the use of other funds to acquire) capital equipment to modernize or expand the facilities of the borrower to enable the borrower to remain in the national technology and industrial base available to the Department of Defense.
 
->         “(3)  __Eligibility requirements__  __.—__ 
+>         “(3) __Eligibility requirements.—__ 
 
 >         To be eligible for a loan guarantee under the DELTA program, a borrower must demonstrate to the satisfaction of the Administrator that, during any 1 of the 5 preceding operating years of the borrower, not less than 25 percent of the value of the borrower’s sales were derived from—
 
@@ -3353,21 +3521,21 @@
 
 >             “(B) subcontracts in support of defense-related prime contracts.
 
->     “(e)  __Maximum Amount of Loan Principal__  __.—__ 
+>     “(e) __Maximum Amount of Loan Principal.—__ 
 
 >     With respect to each borrower, the maximum amount of loan principal for which the Administrator may provide a guarantee under this section during a fiscal year may not exceed $1,250,000.
 
->     “(f)  __Loan Guaranty Rate__  __.—__ 
+>     “(f) __Loan Guaranty Rate.—__ 
 
 >     The maximum allowable guarantee percentage for loans guaranteed under this section may not exceed 80 percent.
 
 >     “(g) __Funding.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The funds that have been made available for loan guarantees under the DELTA program and have been transferred from the Department of Defense to the Small Business Administration before the date of the enactment of this Act \[Dec. 2, 1997\] shall be used for carrying out the DELTA program under this section.
 
->         “(2)  __Continued availability of existing funds__  __.—__ 
+>         “(2) __Continued availability of existing funds.—__ 
 
 >         The funds made available under the second proviso under the heading ‘Research, Development, Test and Evaluation, Defense-Wide’ in [Public Law 103–335][/us/pl/103/335] ([108 Stat. 2613][/us/stat/108/2613]) shall be available until expended—
 
@@ -3387,35 +3555,35 @@
 
 >     “(1) __In general.—__ 
 
->         “(A)  __Demonstration program required__  __.—__ 
+>         “(A) __Demonstration program required.—__ 
 
 >         Notwithstanding any other provision of law, the Administration shall conduct a demonstration program, within the parameters described in paragraph (2), to evaluate the comparative costs and benefits of having the Administration’s portfolio of disaster loans serviced under contract rather than directly by employees of the Administration. All costs of the demonstration program shall be paid from amounts made available for the Salaries and Expenses Account of the Administration.
 
->         “(B)  __Initiation date__  __.—__ 
+>         “(B) __Initiation date.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Sept. 30, 1996\], the Administration shall issue a request for proposals for the program parameters described in paragraph (2).
 
 >     “(2) __Demonstration program parameters.—__ 
 
->         “(A)  __Loan sample__  __.—__ 
+>         “(A) __Loan sample.—__ 
 
 >         The sample of loans for the demonstration program shall be randomly drawn from the Administration’s portfolio of loans made pursuant to section 7(b) of the Small Business Act \[[15 U.S.C. 636(b)][/us/usc/t15/s636/b]\] and shall include a representative group of not less than 30 percent of all loans for residential properties, including 30 percent of all loans made during the demonstration program after the date of enactment of this Act, which loans shall be selected by the Administration on the basis of geographic distribution and such other factors as the Administration determines to be appropriate.
 
->         “(B)  __Contract and options__  __.—__ 
+>         “(B) __Contract and options.—__ 
 
 >         The Administration shall solicit and competitively award one or more contracts to service the loans included in the sample of loans described in subparagraph (A) for a term of not less than one year, with 3 one-year contract renewal options, each of which shall be exercised by the Administration unless the Administration terminates the contractor or contractors for good cause.
 
->     “(3)  __Term of demonstration program__  __.—__ 
+>     “(3) __Term of demonstration program.—__ 
 
 >     The demonstration program shall commence not later than October 1, 1997.
 
 >     “(4) __Reports.—__ 
 
->         “(A)  __Interim reports__  __.—__ 
+>         “(A) __Interim reports.—__ 
 
 >         Not later than 120 days before the expiration of the initial 4-year contract performance period, the Administrator shall submit to the Committees on Small Business of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] an interim report on the conduct of the demonstration program. The contractor shall be afforded a reasonable opportunity to attach comments to each such report.
 
->         “(B)  __Final report__  __.—__ 
+>         “(B) __Final report.—__ 
 
 >         Not later than 120 days after the termination of the demonstration program, the Administrator shall submit to the Committees on Small Business of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] a final report on the performance of the demonstration program, together with the recommendations of the Administrator for continuation, termination, or modification of the demonstration program.”
 
@@ -3423,7 +3591,7 @@
 
 [Pub. L. 103–75][/us/pl/103/75], Aug. 12, 1993, [107 Stat. 740][/us/stat/107/740], provided in part: 
 
-> “That notwithstanding any other provision of law, the $500,000 limitation on the amounts outstanding and committed to a borrower provided in paragraph 7(c)(6) \[now 7(d)(6)\] of the Small Business Act \[[15 U.S.C. 636(d)(6)][/us/usc/t15/s636/d/6]\] shall be increased to $1,500,000 for disasters commencing on or after April 1, 1993.”
+> “That notwithstanding any other provision of law, the $500,000 limitation on the amounts outstanding and committed to a borrower provided in paragraph 7(c)(6) of the Small Business Act \[[15 U.S.C. 636(c)(6)][/us/usc/t15/s636/c/6]\] shall be increased to $1,500,000 for disasters commencing on or after April 1, 1993.”
 
  __Congressional Findings of Microlending Expansion Act of 1992__ 
 
@@ -3451,7 +3619,7 @@
 
 [Pub. L. 102–366, title II, § 221][/us/pl/102/366/s221], Sept. 4, 1992, [106 Stat. 999][/us/stat/106/999], provided that:
 
->     “(a)  __Publication of Decisions__  __.—__ 
+>     “(a) __Publication of Decisions.—__ 
 
 >     A decision issued pursuant to section 7(j)(11)(F)(vii) of the Small Business Act ([15 U.S.C. 636(j)(11)(F)(vii)][/us/usc/t15/s636/j/11/F/vii]) shall—
 
@@ -3459,13 +3627,35 @@
 
 >         “(2) include findings of fact and conclusions of law, with specific reasons supporting such findings or conclusions, upon each material issue of fact and law of decisional significance regarding the disposition of the protest.
 
->     “(b)  __Precedential Value of Prior Decisions__  __.—__ 
+>     “(b) __Precedential Value of Prior Decisions.—__ 
 
 >     A decision issued under section 7(j)(11)(F)(vii) of the Small Business Act that is issued prior to the date of enactment of this Act \[Sept. 4, 1992\] shall not have value as precedent in deciding any subsequent protest until such time as the decision is published in full text.”
 
  __Reauthorization of Bond Waiver Test Program__ 
 
-    [Pub. L. 102–190, div. A, title VIII, § 813(a)][/us/pl/102/190/s813/a]–(e), Dec. 5, 1991, [105 Stat. 1424][/us/stat/105/1424], authorized the Secretary of Defense to grant surety bond exemptions to certain participants in the Minority Small Business and Capital Ownership Development Program who were awarded construction contracts by the Department of Defense before Oct. 1, 1994.
+[Pub. L. 102–190, div. A, title VIII, § 813(a)][/us/pl/102/190/s813/a]–(e), Dec. 5, 1991, [105 Stat. 1424][/us/stat/105/1424], provided that:
+
+>     “(a) __Authority.—__ 
+
+>         (1) In the award of construction contracts by the Department of Defense to participants in the Minority Small Business and Capital Ownership Development Program of the Small Business Administration, the Secretary of Defense may exercise the authority to grant surety bond exemptions to such participants provided by section 7(j)(13)(D) of the Small Business Act ([15 U.S.C. 636(j)(13)(D)][/us/usc/t15/s636/j/13/D]). In any case in which the Secretary exercises such authority, the Secretary may award a construction contract directly to a participant in such program, without approval by or consultation with the Small Business Administration.
+
+>         “(2) In exercising the authority provided by paragraph (1), the Secretary of Defense shall make every reasonable effort to award not fewer than 30 contracts for construction projects (including repair and alteration of existing facilities) during each fiscal year.
+
+>     “(b) __Delegation of Authority.—__ 
+
+>     The Secretary of Defense shall delegate to one or more Secretaries of a military department the authority provided by subsection (a)(1).
+
+>     “(c) __No Right of Action Against the United States.—__ 
+
+>     A dispute between a contractor granted a surety bond exemption pursuant to section 7(j)(13)(D) of the Small Business Act and a subcontractor at any tier or a supplier of such contractor relating to the amount or entitlement of a payment due such subcontractor or supplier does not constitute a dispute to which the United States is a party. The United States may not be interpleaded in any judicial or administrative proceeding involving such a dispute.
+
+>     “(d) __Regulations.—__ 
+
+>     The Secretary of Defense shall prescribe final regulations and procedures for exercising the authority provided in this section not later than 270 days after the date of the enactment of this Act \[Dec. 5, 1991\].
+
+>     “(e) __Program Duration.—__ 
+
+>     The authority provided by this section shall apply to contracts awarded before October 1, 1994.”
 
  __Emergency Direct Loans for Small Business Concerns Located in Communities Adversely Affected by Troop Deployments During Persian Gulf Conflict__ 
 
@@ -3511,7 +3701,7 @@
 
 [Pub. L. 100–656, title I, § 101][/us/pl/100/656/s101], Nov. 15, 1988, [102 Stat. 3855][/us/stat/102/3855], provided that:
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     The Congress finds that—
 
@@ -3535,7 +3725,7 @@
 
 >         “(10) it is imperative that increased competition and other substantial reforms be accomplished in the Program in order to promote the Congressionally mandated business development objectives and purposes.
 
->     “(b)  __Purposes__  __.—__ 
+>     “(b) __Purposes.—__ 
 
 >     The purposes of this Act \[see Short Title of 1988 Amendment note set out under [section 631 of this title][/us/usc/t15/s631]\] therefore are to—
 
@@ -3553,13 +3743,13 @@
 
 [Pub. L. 100–656, title IV, § 410][/us/pl/100/656/s410], Nov. 15, 1988, [102 Stat. 3879][/us/stat/102/3879], as amended by [Pub. L. 101–37, § 18][/us/pl/101/37/s18], June 15, 1989, [103 Stat. 74][/us/stat/103/74], provided that:
 
->     “(a)  __Training Requirements for Business Opportunity Specialists__  __.—__ 
+>     “(a) __Training Requirements for Business Opportunity Specialists.—__ 
 
 >         (1) In each Small Business Administration field office responsible for assisting one or more Program Participants there shall be a position designated as a Business Opportunity Specialist. To the maximum extent practicable the Administration shall assure that an adequate number of Business Opportunity Specialists are assigned to each district office to carry out the responsibilities of sections 7(j) and 8(a) of the Small Business Act ([15 U.S.C. 636(j)][/us/usc/t15/s636/j], 637(a)) and to assist Program Participants.
 
 >         “(2) The Administration shall take such actions as may be appropriate to ensure that any person employed as a Business Opportunity Specialist receives adequate periodic training to assure such employee is capable of assisting Program Participants to fully utilize the Program and to meet the requirements of the Small Business Act \[[15 U.S.C. 631][/us/usc/t15/s631] et seq.\], as amended by this Act.
 
->     “(b)  __Pilot Program__  __.—__ 
+>     “(b) __Pilot Program.—__ 
 
 >         (1) Within 180 days after the effective date of this subsection \[Nov. 15, 1988\] the Administrator shall designate three regions of the Administration to conduct a pilot program pursuant to the provisions of this subsection. The designated regions shall contain approximately 30 per centum of the total number of Program Participants as of the time of designation.
 
@@ -3577,7 +3767,7 @@
 
 >         “(5) The Administration shall establish personnel positions for Business Opportunity Specialists employed in the regions designated pursuant to paragraph (1) that are classified at a grade level of the General Schedule that are sufficient, in the opinion of the Administrator, to attract and retain highly qualified personnel.
 
->     “(c)  __Report and Pilot Program Termination__  __.—__ 
+>     “(c) __Report and Pilot Program Termination.—__ 
 
 >         (1) Within 120 days after the termination of the pilot program conducted pursuant to subsection (b), the Administration shall issue a report to the Committees on Small Business of the Senate and of the House of Representatives \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] on the effectiveness of the pilot. Such report shall contain such recommendations for administrative or legislative change as may be appropriate.
 
@@ -3615,7 +3805,9 @@
 
  __Determination of Natural Disaster by Secretary of Agriculture To Be Deemed Disaster Declaration by Administrator of Small Business Administration; Disasters Commencing Between__  __January 1, 1983__  __, and__  __September 30, 1983__ 
 
-    [Pub. L. 98–166, title I, § 101][/us/pl/98/166/s101], Nov. 28, 1983, [97 Stat. 1079][/us/stat/97/1079], provided that for disasters commencing between Jan. 1, 1983, through Sept. 30, 1983, determination of a natural disaster by the Secretary of Agriculture pursuant to [7 U.S.C. 1961][/us/usc/t7/s1961] would be deemed a disaster declaration by the Administrator of the Small Business Administration for purposes of determining eligibility for assistance under [15 U.S.C. 636(b)(1)][/us/usc/t15/s636/b/1] for agricultural enterprises as defined in [15 U.S.C. 647(b)][/us/usc/t15/s647/b].
+[Pub. L. 98–166, title I, § 101][/us/pl/98/166/s101], Nov. 28, 1983, [97 Stat. 1079][/us/stat/97/1079], provided in part that: 
+
+> “beginning with disasters commencing between January 1, 1983, through September 30, 1983, determination of a natural disaster by the Secretary of Agriculture pursuant to [7 U.S.C. 1961][/us/usc/t7/s1961] shall be deemed a disaster declaration by the Administrator of the Small Business Administration for purposes of determining eligibility for assistance under section 7(b)(1) of the Small Business Act \[subsec. (b)(1) of this section\] for agricultural enterprises as defined in section 18(b) of the Small Business Act \[[15 U.S.C. 647(b)][/us/usc/t15/s647/b]\]: Provided, That nothing in this paragraph is to preclude the applicability of section 18(a) of the Small Business Act \[[15 U.S.C. 647(a)][/us/usc/t15/s647/a]\] with regard to the duplication of benefits for disasters commencing between January 1, 1983, through September 30, 1983.”
 
  __Reports to Congress; Default Rate of Loans__ 
 
@@ -3663,13 +3855,25 @@
 
 >     “(b) Nothing in this title shall be construed to prohibit the Small Business Administration from making loan guarantees under section 7(a) of the Small Business Act \[subsec. (a) of this section\] to qualified employee trusts which own less than 51 percent of the stock of a continuing business.”
 
+ __Termination of Advisory Committees__ 
+
+    Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 14 of Pub. L. 92–463][/us/pl/92/463/s14], Oct. 6, 1972, [86 Stat. 776][/us/stat/86/776], set out in the Appendix to Title 5, Government Organization and Employees.
+
  __Disaster Relief Authority; Study and Report on Consolidation__ 
 
-    [Pub. L. 94–305, title I, § 101][/us/pl/94/305/s101], June 4, 1976, [90 Stat. 663][/us/stat/90/663], required the President to comprehensively review all Federal disaster loan authorities and to report to Congress by Dec. 1, 1976, with recommendations and legislative proposals for the most effective and efficient delivery of disaster relief, including possible consolidation of authorities.
+[Pub. L. 94–305, title I, § 101][/us/pl/94/305/s101], June 4, 1976, [90 Stat. 663][/us/stat/90/663], provided that: 
+
+> “The President shall undertake a comprehensive review of all Federal disaster loan authorities and shall make a report to the Congress, not later than December 1, 1976, containing such recommendations and legislative proposals, including possible consolidation of Federal disaster loan authorities, as may be demonstrated to be necessary and appropriate to assure the most effective and efficient delivery of disaster relief. Such study shall give particular emphasis to alleviating any extraordinary burden the management of Federal disaster loan programs may impose on an agency.”
 
  __Disaster Loans; Special Provisions for Applications Received on or Before__  __March 19, 1981__  __; Assistance to Hardship Applicants__ 
 
-    [Pub. L. 97–35, title XIX, § 1916][/us/pl/97/35/s1916], Aug. 13, 1981, [95 Stat. 780][/us/stat/95/780], provided for special provisions for applications for disaster loans under [15 U.S.C. 1636(b)(1)][/us/usc/t15/s1636/b/1], (2), or (4) received on or before Mar. 19, 1981, with assistance to hardship applicants.
+[Pub. L. 97–35, title XIX, § 1916][/us/pl/97/35/s1916], Aug. 13, 1981, [95 Stat. 780][/us/stat/95/780], provided that:
+
+>     “(a) Notwithstanding section 5(b)(6) of the Small Business Act \[[section 634(b)(6) of this title][/us/usc/t15/s634/b/6]\], or any other provision of law, any business concern applicant for assistance made pursuant to paragraph (1), (2), or (4) of subsection 7(b) of the Small Business Act \[subsec. (b)(1), (2), or (4) of this section\] whose application was received but not approved by the Small Business Administration on or before March 19, 1981, shall be offered loan assistance by the Small Business Administration as provided in this section.
+
+>     “(b) The Small Business Administration is specifically directed to reconsider and act upon any such application and to make, remake, obligate, reobligate, commit or recommit such financing as provided herein.
+
+>     “(c) If the applicant was a business concern able to obtain credit elsewhere, the terms and conditions shall be those specified in section 7(b)(3) of the Small Business Act \[subsec. (b)(3) of this section\]; but if the Administrator determines that imposition of these provisions would impose a substantial hardship on the applicant, he may, in his discretion on a case-by-case basis waive these provisions and provide assistance in accord with rules and regulations in effect for the date the disaster commenced for applicants able to secure credit elsewhere. If the applicant was a business concern unable to obtain credit elsewhere, or was an applicant under sections 7(b)(2) or 7(b)(4) of the Small Business Act \[subsec. (b)(2) or (4) of this section\], the terms and conditions shall be those in effect for such applicants on the date such application was first received. As used herein, the term ‘credit elsewhere’ shall have the meaning prescribed by the Small Business Act as amended herein \[this chapter\].”
 
  __Disaster Loans; Interest Rate; Cancellation of Loans__ 
 
@@ -3699,7 +3903,9 @@
 
  __Loans for Modifications of Mining Facilities and Equipment__ 
 
-    [Pub. L. 91–173, title V, § 504(d)][/us/pl/91/173/s504/d], Dec. 30, 1969, [83 Stat. 802][/us/stat/83/802], authorized loans under [15 U.S.C. 636(b)(5)][/us/usc/t15/s636/b/5] for modifications of mining facilities and equipment pursuant to former section 202 of the Public Works and Economic Development Act of 1965 (former [42 U.S.C. 3142][/us/usc/t42/s3142]), which was repealed by [Pub. L. 105–393, title I][/us/pl/105/393], §102(a), Nov. 13, 1998, [112 Stat. 3602][/us/stat/112/3602].
+[Pub. L. 91–173, title V, § 504(d)][/us/pl/91/173/s504/d], Dec. 30, 1969, [83 Stat. 802][/us/stat/83/802], provided that: 
+
+> “Loans may also be made or guaranteed for the purposes set forth in section 7(b)(5) of the Small Business Act, as amended \[subsec. (b)(5) of this section\], pursuant to the provisions of section 202 of the Public Works and Economic Development Act of 1965, as amended \[[42 U.S.C. 3142][/us/usc/t42/s3142]\].”
 
  __Executive Order No. 12190__ 
 
@@ -3971,6 +4177,9 @@
 [/us/stat/125/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F922
 [/us/pl/112/239/s1622/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1622%2Fc
 [/us/stat/126/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2069
+[/us/pl/111/240/s1133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1133%2Fb
+[/us/stat/124/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2515
+[/us/pl/111/240/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1206
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/100/418/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8002
 [/us/stat/102/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1553
@@ -4624,9 +4833,25 @@
 [/us/pl/108/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F217
 [/us/stat/118/591-594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F591-594
 [/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
+[/us/usc/t15/s636/a/23/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa%2F23%2FA
+[/us/usc/t15/s636/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa%2F18%2FB
+[/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
+[/us/usc/t15/s636/a/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa%2F25%2FB
+[/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
+[/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
+[/us/usc/t15/s636/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa%2F3%2FA
+[/us/usc/t15/s636/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa%2F24
+[/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
+[/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
+[/us/usc/t15/s697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697
+[/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/usc/t15/s636/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa%2F3%2FA
+[/us/usc/t15/s636/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa%2F18
 [/us/pl/107/100/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100%2Fs6%2Fc
 [/us/stat/115/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F971
 [/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
+[/us/usc/t15/s695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs695
+[/us/usc/t2/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661
 [/us/pl/106/50/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs402%2Fc
 [/us/stat/113/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F246
 [/us/pl/106/24/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F24%2Fs1%2Fc
@@ -4648,7 +4873,7 @@
 [/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
 [/us/pl/103/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F75
 [/us/stat/107/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F740
-[/us/usc/t15/s636/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fd%2F6
+[/us/usc/t15/s636/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fc%2F6
 [/us/pl/102/366/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs112
 [/us/stat/106/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F989
 [/us/pl/102/366/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs221
@@ -4656,6 +4881,7 @@
 [/us/usc/t15/s636/j/11/F/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fj%2F11%2FF%2Fvii
 [/us/pl/102/190/s813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs813%2Fa
 [/us/stat/105/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1424
+[/us/usc/t15/s636/j/13/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fj%2F13%2FD
 [/us/pl/102/190/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1087
 [/us/stat/105/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1483
 [/us/pl/102/140/s609/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs609%2Fj
@@ -4726,8 +4952,8 @@
 [/us/pl/98/166/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F166%2Fs101
 [/us/stat/97/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1079
 [/us/usc/t7/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1961
-[/us/usc/t15/s636/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb%2F1
 [/us/usc/t15/s647/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs647%2Fb
+[/us/usc/t15/s647/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs647%2Fa
 [/us/pl/97/35/s1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1907
 [/us/stat/95/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F777
 [/us/usc/t15/s636/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa%2F5
@@ -4736,11 +4962,13 @@
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/stat/94/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F850
+[/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
+[/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
 [/us/pl/94/305/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs101
 [/us/stat/90/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F663
 [/us/pl/97/35/s1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1916
 [/us/stat/95/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F780
-[/us/usc/t15/s1636/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1636%2Fb%2F1
+[/us/usc/t15/s634/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634%2Fb%2F6
 [/us/pl/93/24/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F24%2Fs9
 [/us/stat/87/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F25
 [/us/usc/t15/s636/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb%2F1
@@ -4756,9 +4984,6 @@
 [/us/usc/t12/s352a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs352a
 [/us/pl/91/173/s504/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs504%2Fd
 [/us/stat/83/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F802
-[/us/usc/t15/s636/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb%2F5
 [/us/usc/t42/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3142
-[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
-[/us/stat/112/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3602
 
 

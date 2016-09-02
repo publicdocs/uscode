@@ -157,11 +157,11 @@
 
 > “SEC. 211. __SUNSET.__ 
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Except as provided in subsection (b), the provisions of sections 211 through 214 of this subtitle \[this note\] shall cease to have effect 16 years after the date of enactment of this Act \[June 22, 2004\].
 
->     “(b)  __Exceptions__  __.—__ 
+>     “(b) __Exceptions.—__ 
 
 >     With respect to—
 
@@ -175,41 +175,41 @@
 
 > “In this subtitle \[subtitle A (§§ 211–215) of title II of [Pub. L. 108–237][/us/pl/108/237], amending this section and sections 2 and 3 of this title and enacting this note\]:
 
->     “(1)  __Antitrust division__  __.—__ 
+>     “(1) __Antitrust division.—__ 
 
 >     The term ‘Antitrust Division’ means the United States Department of Justice Antitrust Division.
 
->     “(2)  __Antitrust leniency agreement__  __.—__ 
+>     “(2) __Antitrust leniency agreement.—__ 
 
 >     The term ‘antitrust leniency agreement,’ or ‘agreement,’ means a leniency letter agreement, whether conditional or final, between a person and the Antitrust Division pursuant to the Corporate Leniency Policy of the Antitrust Division in effect on the date of execution of the agreement.
 
->     “(3)  __Antitrust leniency applicant__  __.—__ 
+>     “(3) __Antitrust leniency applicant.—__ 
 
 >     The term ‘antitrust leniency applicant,’ or ‘applicant,’ means, with respect to an antitrust leniency agreement, the person that has entered into the agreement.
 
->     “(4)  __Claimant__  __.—__ 
+>     “(4) __Claimant.—__ 
 
 >     The term ‘claimant’ means a person or class, that has brought, or on whose behalf has been brought, a civil action alleging a violation of section 1 or 3 of the Sherman Act \[[15 U.S.C. 1][/us/usc/t15/s1], 3\] or any similar State law, except that the term does not include a State or a subdivision of a State with respect to a civil action brought to recover damages sustained by the State or subdivision.
 
->     “(5)  __Cooperating individual__  __.—__ 
+>     “(5) __Cooperating individual.—__ 
 
 >     The term ‘cooperating individual’ means, with respect to an antitrust leniency agreement, a current or former director, officer, or employee of the antitrust leniency applicant who is covered by the agreement.
 
->     “(6)  __Marker__  __.—__ 
+>     “(6) __Marker.—__ 
 
 >     The term ‘marker’ means an assurance given by the Antitrust Division to a candidate for corporate leniency that no other company will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application.
 
->     “(7)  __Person__  __.—__ 
+>     “(7) __Person.—__ 
 
 >     The term ‘person’ has the meaning given it in subsection (a) of the first section of the Clayton Act \[[15 U.S.C. 12(a)][/us/usc/t15/s12/a]\].
 
 > “SEC. 213. __LIMITATION ON RECOVERY.__ 
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Subject to subsection (d), in any civil action alleging a violation of section 1 or 3 of the Sherman Act \[[15 U.S.C. 1][/us/usc/t15/s1], 3\], or alleging a violation of any similar State law, based on conduct covered by a currently effective antitrust leniency agreement, the amount of damages recovered by or on behalf of a claimant from an antitrust leniency applicant who satisfies the requirements of subsection (b), together with the amounts so recovered from cooperating individuals who satisfy such requirements, shall not exceed that portion of the actual damages sustained by such claimant which is attributable to the commerce done by the applicant in the goods or services affected by the violation.
 
->     “(b)  __Requirements__  __.—__ 
+>     “(b) __Requirements.—__ 
 
 >     Subject to subsection (c), an antitrust leniency applicant or cooperating individual satisfies the requirements of this subsection with respect to a civil action described in subsection (a) if the court in which the civil action is brought determines, after considering any appropriate pleadings from the claimant, that the applicant or cooperating individual, as the case may be, has provided satisfactory cooperation to the claimant with respect to the civil action, which cooperation shall include—
 
@@ -229,15 +229,15 @@
 
 >             “(B) in the case of an antitrust leniency applicant, using its best efforts to secure and facilitate from cooperating individuals covered by the agreement the cooperation described in clauses (i) and (ii) and subparagraph (A).
 
->     “(c)  __Timeliness__  __.—__ 
+>     “(c) __Timeliness.—__ 
 
 >     The court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant’s or cooperating individual’s cooperation with the claimant.
 
->     “(d)  __Cooperation After Expiration of Stay or Protective Order__  __.—__ 
+>     “(d) __Cooperation After Expiration of Stay or Protective Order.—__ 
 
 >     If the Antitrust Division does obtain a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement, once the stay or protective order, or a portion thereof, expires or is terminated, the antitrust leniency applicant and cooperating individuals shall provide without unreasonable delay any cooperation described in paragraphs (1) and (2) of subsection (b) that was prohibited by the expired or terminated stay or protective order, or the expired or terminated portion thereof, in order for the cooperation to be deemed satisfactory under such paragraphs.
 
->     “(e)  __Continuation__  __.—__ 
+>     “(e) __Continuation.—__ 
 
 >     Nothing in this section shall be construed to modify, impair, or supersede the provisions of sections 4, 4A, and 4C of the Clayton Act \[[15 U.S.C. 15][/us/usc/t15/s15], 15a, 15c\] relating to the recovery of costs of suit, including a reasonable attorney’s fee, and interest on damages, to the extent that such recovery is authorized by such sections.
 
@@ -289,7 +289,7 @@
 
 > “SEC. 11054. __MEMBERSHIP.__ 
 
->     “(a)  __Number and Appointment__  __.—__ 
+>     “(a) __Number and Appointment.—__ 
 
 >     The Commission shall be composed of 12 members appointed as follows:
 
@@ -303,17 +303,17 @@
 
 >         “(5) Two members shall be appointed by the minority leader of the House of Representatives.
 
->     “(b)  __Ineligibility for Appointment__  __.—__ 
+>     “(b) __Ineligibility for Appointment.—__ 
 
 >     Members of Congress shall be ineligible for appointment to the Commission.
 
 >     “(c) __Term of Appointment.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Subject to paragraph (2), members of the Commission shall be appointed for the life of the Commission.
 
->         “(2)  __Early termination of appointment__  __.—__ 
+>         “(2) __Early termination of appointment.—__ 
 
 >         If a member of the Commission who is appointed to the Commission as—
 
@@ -323,27 +323,27 @@
 
 >         then such member shall cease to be a member of the Commission on the expiration of the 90-day period beginning on the date such member ceases to be such officer or employee of such government, or becomes an officer or employee of a government, as the case may be.
 
->     “(d)  __Quorum__  __.—__ 
+>     “(d) __Quorum.—__ 
 
 >     Seven members of the Commission shall constitute a quorum, but a lesser number may conduct meetings.
 
->     “(e)  __Appointment Deadline__  __.—__ 
+>     “(e) __Appointment Deadline.—__ 
 
 >     Initial appointments under subsection (a) shall be made not later than 60 days after the date of enactment of this Act \[Nov. 2, 2002\].
 
->     “(f)  __Meetings__  __.—__ 
+>     “(f) __Meetings.—__ 
 
 >     The Commission shall meet at the call of the chairperson. The first meeting of the Commission shall be held not later than 30 days after the date on which all members of the Commission are first appointed under subsection (a) or funds are appropriated to carry out this subtitle, whichever occurs later.
 
->     “(g)  __Vacancy__  __.—__ 
+>     “(g) __Vacancy.—__ 
 
 >     A vacancy on the Commission shall be filled in the same manner as the initial appointment is made.
 
->     “(h)  __Consultation Before Appointment__  __.—__ 
+>     “(h) __Consultation Before Appointment.—__ 
 
 >     Before appointing members of the Commission, the President, the majority and minority leaders of the Senate, the Speaker of the House of Representatives, and the minority leader of the House of Representatives shall consult with each other to ensure fair and equitable representation of various points of view in the Commission.
 
->     “(i)  __Chairperson; Vice Chairperson__  __.—__ 
+>     “(i) __Chairperson; Vice Chairperson.—__ 
 
 >     The President shall select the chairperson of the Commission from among its appointed members. The leaders of Congress from the opposing party of the President shall select the vice chairperson of the Commission from among its remaining members.
 
@@ -351,15 +351,15 @@
 
 >     “(a) __Pay.—__ 
 
->         “(1)  __Nongovernment employees__  __.—__ 
+>         “(1) __Nongovernment employees.—__ 
 
 >         Each member of the Commission who is not otherwise employed by a government shall be entitled to receive the daily equivalent of the annual rate of basic pay payable for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315] United States Code, as in effect from time to time, for each day (including travel time) during which such member is engaged in the actual performance of duties of the Commission.
 
->         “(2)  __Government employees__  __.—__ 
+>         “(2) __Government employees.—__ 
 
 >         A member of the Commission who is an officer or employee of a government shall serve without additional pay (or benefits in the nature of compensation) for service as a member of the Commission.
 
->     “(b)  __Travel Expenses__  __.—__ 
+>     “(b) __Travel Expenses.—__ 
 
 >     Members of the Commission shall receive travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5, United States Code.
 
@@ -367,41 +367,41 @@
 
 >     “(a) __Staff.—__ 
 
->         “(1)  __Appointment__  __.—__ 
+>         “(1) __Appointment.—__ 
 
 >         The chairperson of the Commission may, without regard to the provisions of chapter 51 of title 5 of the United States Code (relating to appointments in the competitive service), appoint and terminate an executive director and such other staff as are necessary to enable the Commission to perform its duties. The appointment of an executive director shall be subject to approval by the Commission.
 
->         “(2)  __Compensation__  __.—__ 
+>         “(2) __Compensation.—__ 
 
 >         The chairperson of the Commission may fix the compensation of the executive director and other staff without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 of the United States Code (relating to classification of positions and General Schedule pay rates), except that the rate of pay for the executive director and other staff may not exceed the rate of basic pay payable for level V of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315] United States Code, as in effect from time to time.
 
->     “(b)  __Experts and Consultants__  __.—__ 
+>     “(b) __Experts and Consultants.—__ 
 
 >     The Commission may procure temporary and intermittent services of experts and consultants in accordance with [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code.
 
 > “SEC. 11057. __POWERS OF THE COMMISSION.__ 
 
->     “(a)  __Hearings and Meetings__  __.—__ 
+>     “(a) __Hearings and Meetings.—__ 
 
 >     The Commission, or a member of the Commission if authorized by the Commission, may hold such hearings, sit and act at such time and places, take such testimony, and receive such evidence, as the Commission considers to be appropriate. The Commission or a member of the Commission may administer oaths or affirmations to witnesses appearing before the Commission or such member.
 
->     “(b)  __Official Data__  __.—__ 
+>     “(b) __Official Data.—__ 
 
 >     The Commission may obtain directly from any executive agency (as defined in [section 105 of title 5][/us/usc/t5/s105] of the United States Code) or court information necessary to enable it to carry out its duties under this subtitle. On the request of the chairperson of the Commission, and consistent with any other law, the head of an executive agency or of a Federal court shall provide such information to the Commission.
 
->     “(c)  __Facilities and Support Services__  __.—__ 
+>     “(c) __Facilities and Support Services.—__ 
 
 >     The Administrator of General Services shall provide to the Commission on a reimbursable basis such facilities and support services as the Commission may request. On request of the Commission, the head of an executive agency may make any of the facilities or services of such agency available to the Commission, on a reimbursable or nonreimbursable basis, to assist the Commission in carrying out its duties under this subtitle.
 
->     “(d)  __Expenditures and Contracts__  __.—__ 
+>     “(d) __Expenditures and Contracts.—__ 
 
 >     The Commission or, on authorization of the Commission, a member of the Commission may make expenditures and enter into contracts for the procurement of such supplies, services, and property as the Commission or such member considers to be appropriate for the purpose of carrying out the duties of the Commission. Such expenditures and contracts may be made only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
->     “(e)  __Mails__  __.—__ 
+>     “(e) __Mails.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 
->     “(f)  __Gifts, Bequests, and Devises__  __.—__ 
+>     “(f) __Gifts, Bequests, and Devises.—__ 
 
 >     The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
 
@@ -427,11 +427,11 @@
 
 >     “(a) __Study.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Comptroller General shall conduct a study of the effect of the antitrust exemption on institutional student aid under section 568 of the Improving America’s Schools Act of 1994 ([15 U.S.C. 1][/us/usc/t15/s1] note) \[[Pub. L. 103–382][/us/pl/103/382], see below\].
 
->         “(2)  __Consultation__  __.—__ 
+>         “(2) __Consultation.—__ 
 
 >         The Comptroller General shall have final authority to determine the content of the study under paragraph (1), but in determining the content of the study, the Comptroller General shall consult with—
 
@@ -443,7 +443,7 @@
 
 >         “(3) __Matters studied.—__ 
 
->             “(A)  __In general__  __.—__ 
+>             “(A) __In general.—__ 
 
 >             The study under paragraph (1) shall—
 
@@ -471,11 +471,11 @@
 
 >             “(B) __Assessment.—__ 
 
->                 “(i)  __In general__  __.—__ 
+>                 “(i) __In general.—__ 
 
 >                 The study under paragraph (1) shall assess what effect the antitrust exemption on institutional student aid has had on institutional undergraduate grant aid and parental contribution to undergraduate costs of attendance.
 
->                 “(ii)  __Changes over time__  __.—__ 
+>                 “(ii) __Changes over time.—__ 
 
 >                 The assessment under clause (i) shall consider any changes in institutional undergraduate grant aid and parental contribution to undergraduate costs of attendance over time for institutions of higher education, including consideration of—
 
@@ -485,17 +485,17 @@
 
 >     “(b) __Report.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Not later than September 30, 2006, the Comptroller General shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that contains the findings and conclusions of the Comptroller General regarding the matters studied under subsection (a).
 
->         “(2)  __Identifying individual institutions__  __.—__ 
+>         “(2) __Identifying individual institutions.—__ 
 
 >         The Comptroller General shall not identify an individual institution of higher education in information submitted in the report under paragraph (1) unless the information on the institution is available to the public.
 
 >     “(c) __Recordkeeping Requirement.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         For the purpose of completing the study under subsection (a)(1), a participating institution shall—
 
@@ -509,13 +509,13 @@
 
 >             “(B) submit the data and information under paragraph (1) to the Comptroller General at such time as the Comptroller General may reasonably require.
 
->         “(2)  __Non-participating institutions__  __.—__ 
+>         “(2) __Non-participating institutions.—__ 
 
 >         Nothing in this subsection shall be construed to require an institution of higher education that does not participate under the antitrust exemption under section 568 of the Improving America’s Schools Act of 1994 ([15 U.S.C. 1][/us/usc/t15/s1] note) to collect and maintain data under this subsection.”
 
 [Pub. L. 103–382, title V, § 568(a)][/us/pl/103/382/s568/a]–(d), Oct. 20, 1994, [108 Stat. 4060][/us/stat/108/4060], 4061, as amended by [Pub. L. 105–43, § 2(a)][/us/pl/105/43/s2/a], Sept. 17, 1997, [111 Stat. 1140][/us/stat/111/1140]; [Pub. L. 105–244, title I, § 102(a)(3)][/us/pl/105/244/s102/a/3], Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618]; [Pub. L. 107–72, § 2][/us/pl/107/72/s2], Nov. 20, 2001, [115 Stat. 648][/us/stat/115/648]; [Pub. L. 110–327, § 2][/us/pl/110/327/s2], Sept. 30, 2008, [122 Stat. 3566][/us/stat/122/3566], provided that:
 
->     “(a)  __Exemption__  __.—__ 
+>     “(a) __Exemption.—__ 
 
 >     It shall not be unlawful under the antitrust laws for 2 or more institutions of higher education at which all students admitted are admitted on a need-blind basis, to agree or attempt to agree—
 
@@ -527,7 +527,7 @@
 
 >         “(4) to exchange through an independent third party, before awarding need-based financial aid to any of such students who is commonly admitted to the institutions of higher education involved, data submitted by the student so admitted, the student’s family, or a financial institution on behalf of the student or the student’s family relating to assets, liabilities, income, expenses, the number of family members, and the number of the student’s siblings in college, if each of such institutions of higher education is permitted to retrieve such data only once with respect to the student.
 
->     “(b)  __Limitations__  __.—__ 
+>     “(b) __Limitations.—__ 
 
 >     Subsection (a) shall not apply with respect to—
 
@@ -535,7 +535,7 @@
 
 >         “(2) any contract, combination, or conspiracy with respect to the amount or terms of any prospective financial aid award to a specific individual.
 
->     “(c)  __Definitions__  __.—__ 
+>     “(c) __Definitions.—__ 
 
 >     For purposes of this section—
 
@@ -553,7 +553,7 @@
 
 >         “(7) the term ‘student’ means, with respect to an institution of higher education, a national of the United States or an alien admitted for permanent residence who is admitted to attend an undergraduate program at such institution on a full-time basis.
 
->     “(d)  __Expiration__  __.—__ 
+>     “(d) __Expiration.—__ 
 
 >     Subsection (a) shall expire on September 30, 2015.”
 

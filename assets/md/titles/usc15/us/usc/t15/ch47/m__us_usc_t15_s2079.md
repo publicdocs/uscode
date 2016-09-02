@@ -53,7 +53,7 @@
 
     The Federal Hazardous Substances Act, referred to in subsec. (a), is [Pub. L. 86–613][/us/pl/86/613], July 12, 1960, [74 Stat. 372][/us/stat/74/372], which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1261 of this title][/us/usc/t15/s1261] and Tables.
 
-    The Poison Prevention Packaging Act of 1970, referred to in subsec. (a), is [Pub. L. 91–601][/us/pl/91/601], Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670], which is classified principally to chapter 39A (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title][/us/usc/t15/s1471] and Tables.
+    The Poison Prevention Packaging Act of 1970, referred to in subsec. (a), is [Pub. L. 91–601][/us/pl/91/601], Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670], which is classified generally to chapter 39A (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title][/us/usc/t15/s1471] and Tables.
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 

@@ -71,19 +71,19 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 102–567, title I, § 107][/us/pl/102/567/s107], Oct. 29, 1992, [106 Stat. 4275][/us/stat/106/4275], provided that:
 
->     “(a)  __Establishment of Program__  __.—__ 
+>     “(a) __Establishment of Program.—__ 
 
 >         (1) The Secretary of Defense and the Secretary of Commerce shall establish a 5-year joint program for collecting operational and reconnaissance data, conducting research, and analyzing data on tropical cyclones to assist the forecast and warning program and increase the understanding of the causes and behavior of tropical cyclones.
 
 >         “(2) The Secretary of Commerce shall establish the Tropical Cyclone Research Advisory Committee, an advisory committee of tropical cyclone research scientists, to make recommendations for tropical cyclone research activities and reconnaissance procedures.
 
->     “(b)  __Responsibilities__  __.—__ 
+>     “(b) __Responsibilities.—__ 
 
 >         (1) The Secretary of Defense shall have the responsibility for maintaining, flying, and funding tropical cyclone reconnaissance aircraft to accomplish the program established under this section and to transfer the data to the Secretary of Commerce. Program responsibility may not be transferred to any other Federal department or agency, including the Coast Guard, without the agreement and approval of the Secretary of Defense, the Secretary of Commerce, and the head of any other Federal agency or department to which the responsibility is transferred.
 
 >         “(2) The Secretary of Commerce shall have the responsibility to provide funding for data gathering and research by remote sensing, ground sensing, research aircraft, and other technologies necessary to accomplish the program established under this section.
 
->     “(c)  __Management Plans__  __.—__ 
+>     “(c) __Management Plans.—__ 
 
 >         (1) The Secretary of Defense and the Secretary of Commerce shall jointly develop and, within 120 days after the date of enactment of this Act \[Oct. 29, 1992\], submit to the Congress a management plan for the program established under this section, which shall include organizational structure, goals, major tasks, and funding profiles for the 5-year duration of the program.
 
@@ -95,7 +95,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 102–567, title I, § 108][/us/pl/102/567/s108], Oct. 29, 1992, [106 Stat. 4276][/us/stat/106/4276], provided that:
 
->     “(a)  __Establishment__  __.—__ 
+>     “(a) __Establishment.—__ 
 
 >     The Secretary of Commerce, in cooperation with the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—
 
@@ -107,7 +107,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(4) coordinate governmental, university, and private-sector efforts.
 
->     “(b)  __Implementation Plan__  __.—__ 
+>     “(b) __Implementation Plan.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a plan for implementation of the United States Weather Research Program which shall—
 
@@ -151,7 +151,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 703. __NATIONAL IMPLEMENTATION PLAN.__ 
 
->     “(a)  __National Implementation Plan__  __.—__ 
+>     “(a) __National Implementation Plan.—__ 
 
 >     As part of the budget justification documents submitted to Congress in support of the annual budget request for the Department of Commerce, the Secretary shall include a National Implementation Plan for modernization of the National Weather Service for each fiscal year following fiscal year 1993 until such modernization is complete. The Plan shall set forth the actions, during the 2-year period beginning with the fiscal year for which the budget request is made, that will be necessary to accomplish the objectives described in the Strategic Plan, and shall include—
 
@@ -167,17 +167,17 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(6) training and education programs to ensure that employees gain the necessary expertise to utilize the new technologies and to minimize employee displacement as a consequence of modernization.
 
->     “(b)  __Transmittal to Committee__  __.—__ 
+>     “(b) __Transmittal to Committee.—__ 
 
 >     The Secretary shall transmit a copy of each annual Plan to the Committee.
 
->     “(c)  __Consultation__  __.—__ 
+>     “(c) __Consultation.—__ 
 
 >     In developing the Plan, the Secretary shall consult, as appropriate, with the Committee and public entities responsible for providing or utilizing weather services.
 
 > “SEC. 704. __MODERNIZATION CRITERIA.__ 
 
->     “(a)  __National Research Council Review__  __.—__ 
+>     “(a) __National Research Council Review.—__ 
 
 >     The Secretary shall contract with the National Research Council for a review of the scientific and technical modernization criteria by which the Secretary proposes to certify action to close, consolidate, automate, or relocate a field office under section 706. In conducting such review, the National Research Council shall prepare and submit to the Secretary, no later than 9 months after the date of enactment of this Act \[Oct. 29, 1992\], a report which—
 
@@ -187,7 +187,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) includes such other recommendations as the National Research Council determines are appropriate to ensure public safety.
 
->     “(b)  __Criteria__  __.—__ 
+>     “(b) __Criteria.—__ 
 
 >     No later than 12 months after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary, in consultation with the National Research Council and the Committee and after notice and opportunity for public comment, shall publish in the Federal Register modernization criteria (including all requirements and procedures), based on the report required under this section, for—
 
@@ -197,15 +197,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 705. __CHANGES IN FIELD OFFICE OPERATIONS.__ 
 
->     “(a)  __Notification__  __.—__ 
+>     “(a) __Notification.—__ 
 
 >     The Secretary shall not change operations at a field office pursuant to implementation of the Strategic Plan unless the Secretary has provided the notification required by section 703.
 
->     “(b)  __Weather Radar Decommissioning__  __.—__ 
+>     “(b) __Weather Radar Decommissioning.—__ 
 
 >     The Secretary shall not remove or permanently decommission any National Weather Service radar until the Secretary has prepared radar commissioning and decommissioning reports documenting that such action would be consistent with the modernization criteria established under section 704(b)(1). The commissioning report shall document that the radar system performs reliably, satisfactory maintenance support is in place, sufficient staff with adequate training are present to operate the system, technical coordination with weather service users has been completed, and the radar being commissioned satisfactorily supports field office operations. The decommissioning report shall document that the replacement radar has been commissioned, technical coordination with service users has been completed, and the radar being decommissioned is no longer needed to support field office operations.
 
->     “(c)  __Surface Observing System Commissioning__  __.—__ 
+>     “(c) __Surface Observing System Commissioning.—__ 
 
 >     The Secretary may not commission an automated surface observing system located at an airport unless it is determined, in consultation with the Secretary of Transportation, that the weather services provided after commissioning will continue to be in full compliance with applicable flight aviation rules promulgated by the Federal Aviation Administration.
 
@@ -213,11 +213,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “Sec. 706.
 
->      (a)  __Prohibition__  __.—__ 
+>      (a) __Prohibition.—__ 
 
 >     The Secretary shall not close, before January 1, 1996, any field office pursuant to implementation of the Strategic Plan.
 
->     “(b)  __Certification__  __.—__ 
+>     “(b) __Certification.—__ 
 
 >     The Secretary shall not close, consolidate, automate, or relocate any field office, unless the Secretary has certified that such action will not result in any degradation of service. Such certification shall include—
 
@@ -233,7 +233,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(6) any report of the Committee submitted under section 707(c) that evaluates the proposed certification.
 
->     “(c)  __Public Review__  __.—__ 
+>     “(c) __Public Review.—__ 
 
 >     Each certification decision shall be preceded by—
 
@@ -241,11 +241,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) a 60-day period after such publication during which the public may provide comments to the Secretary on the proposed certification.
 
->     “(d)  __Final Decision__  __.—__ 
+>     “(d) __Final Decision.—__ 
 
 >     If after consideration of the public comment received under subsection (c) the Secretary, in consultation with the Committee, decides to close, consolidate, automate, or relocate any such field office, the Secretary shall publish a final certification in the Federal Register and submit the certification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
->     “(e)  __Special Circumstances__  __.—__ 
+>     “(e) __Special Circumstances.—__ 
 
 >     The Secretary may not close or relocate any field office—
 
@@ -253,7 +253,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) which is the only office in a State, unless the Secretary first evaluates the effect on weather services provided to in-State users, such as State agencies, civil defense officials, and local public safety offices, and includes in the certification required under subsection (b) the Secretary’s determination that a comparable level of weather services provided to such in-State users will remain.
 
->     “(f)  __Liaison Officer__  __.—__ 
+>     “(f) __Liaison Officer.—__ 
 
 >     The Secretary may not close, consolidate, automate, or relocate a field office until arrangements have been made to maintain for a period of at least 2 years at least one person in the service area to act as a liaison officer who—
 
@@ -263,11 +263,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 707. __MODERNIZATION TRANSITION COMMITTEE.__ 
 
->     “(a)  __Establishment__  __.—__ 
+>     “(a) __Establishment.—__ 
 
 >     There is established a committee of 12 members to be known as the Modernization Transition Committee.
 
->     “(b)  __Membership and Terms__  __.—__ 
+>     “(b) __Membership and Terms.—__ 
 
 >         (1)
 
@@ -281,7 +281,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) The Secretary shall designate a chairman of the Committee from among its members.
 
->     “(c)  __Duties__  __.—__ 
+>     “(c) __Duties.—__ 
 
 >         (1) The Committee may review any proposed certification under section 706 for which the Secretary has provided a notice of intent to certify in the Plan, and should review such a proposed certification if there is a significant possibility of degradation of service within the affected service area. Upon the request of the Committee, the Secretary shall make available to the Committee the supporting documents developed by the Secretary in connection with the proposed certification. The Committee may prepare and submit to the Secretary, prior to publication of the proposed certification, a report which evaluates the proposed certification on the basis of the modernization criteria and with respect to the requirement that there be no degradation of service.
 
@@ -293,31 +293,31 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) matters of public safety and the provision of weather services which relate to the comprehensive modernization of the National Weather Service.
 
->     “(d)  __Pay and Travel Expenses__  __.—__ 
+>     “(d) __Pay and Travel Expenses.—__ 
 
 >     Members of the Committee who are not employees of the United States shall each be paid at a rate equal to the daily equivalent of the rate for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], United States Code, for each day (including travel time) during which the member is engaged in the actual performance of duties vested in the Committee. Members shall receive travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5][/us/usc/t5/s5703], United States Code.
 
->     “(e)  __Staff__  __.—__ 
+>     “(e) __Staff.—__ 
 
 >     The Secretary shall make available to the Committee such staff, information, and assistance as it may reasonably require to carry out its activities.
 
->     “(f)  __Termination__  __.—__ 
+>     “(f) __Termination.—__ 
 
 >     The Committee shall terminate on December 31, 1999.
 
 > “SEC. 708. __WEATHER SERVICE REPORT.__ 
 
->     “(a)  __Report__  __.—__ 
+>     “(a) __Report.—__ 
 
 >     The Secretary shall prepare a report on the proposed modernization of the National Weather Service and transmit the report, not later than 6 months after the date of enactment of this Act \[Oct. 29, 1992\], to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
->     “(b)  __Contents__  __.—__ 
+>     “(b) __Contents.—__ 
 
 >         (1) The report required by subsection (a) shall identify the size of the geographic area of responsibility of each proposed Weather Forecast Office and shall include an explanation of the number and type of personnel required at each Weather Forecast Office. For each proposed Weather Forecast Office covering a geographic area greater than two times the average geographic area of responsibility of Weather Forecast Offices nationwide, the report shall detail the reasons for assigning those Weather Forecast Offices a geographic area which differs significantly from the national average.
 
 >         “(2) The report shall list the number of next generation weather radars that will be associated with each Weather Forecast Office nationwide under the proposed modernization plan. If some Weather Forecast Offices will be associated with more than one such radar, the report shall explain the deviation from the National Weather Service’s stated policy of associating one such radar with one Weather Forecast Office, and shall analyze and compare any differences in the expected efficiency of those Weather Forecast Offices with Weather Forecast Offices that will be associated with only one such radar.
 
->     “(c)  __Consultation__  __.—__ 
+>     “(c) __Consultation.—__ 
 
 >     In preparing portions of the report that address Weather Forecast Offices located in areas of the Nation that are uniquely dependent on general aviation as a means of transportation, the Secretary shall consult with local aviation groups. In the case of Alaska, such local groups shall include the Alaska Aviation Safety Foundation, the Alaska Airmen’s Association, and the regional representatives of the Aircraft Owners and Pilots Association.
 

@@ -163,11 +163,11 @@
 
         (2) __Reports.—__ 
 
-            (A)  __Annual report required__  __.—__ 
+            (A) __Annual report required.—__ 
 
             The Secretary, in consultation with the Attorney General and the Commissioner of Patents and Trademarks, shall submit each fiscal year, beginning 1 year after November 1, 2000, a summary report to the President, the United States Trade Representative, and the Congress on the use by Federal agencies and the Secretary of the technology transfer authorities specified in this chapter and in sections 207 and 209 of title 35.
 
-            (B)  __Content__  __.—__ 
+            (B) __Content.—__ 
 
             The report shall—
 
@@ -177,7 +177,7 @@
 
                 (iii) discuss the progress made toward development of additional useful measures of the outcomes of technology transfer programs of Federal agencies.
 
-            (C)  __Public availability__  __.—__ 
+            (C) __Public availability.—__ 
 
             The Secretary shall make the report available to the public through Internet sites or other electronic means.
 

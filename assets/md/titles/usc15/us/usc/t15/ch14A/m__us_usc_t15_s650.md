@@ -205,7 +205,7 @@
 
     (h) __Appointment of receiver__ 
 
-        (1) In any proceeding under subsection (f)(4) of this section or subsection (g)(6)(C)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. There is no subsec. (f)(4) or (g)(6)(C) of this section. </sup></sup>  of this section, the court may take exclusive jurisdiction of a small business lending company or a non-Federally regulated lender and appoint a receiver to hold and administer the assets of the company or lender.
+        (1) In any proceeding under subsection (f)(4) of this section or subsection (g)(6)(C) of this section, the court may take exclusive jurisdiction of a small business lending company or a non-Federally regulated lender and appoint a receiver to hold and administer the assets of the company or lender.
 
         (2) Upon request of the Administrator, the court may appoint the Administrator as a receiver under paragraph (1).
 

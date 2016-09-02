@@ -277,11 +277,11 @@
 
 [Pub. L. 109–8, title XIII, § 1302(c)][/us/pl/109/8/s1302/c], Apr. 20, 2005, [119 Stat. 209][/us/stat/119/209], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the amendments made by this section \[amending this section and sections 1638, 1664, and 1665b of this title\].
 
->     “(2)  __Effective date__  __.—__ 
+>     “(2) __Effective date.—__ 
 
 >     Regulations issued under paragraph (1) shall not take effect until the later of—
 
@@ -293,11 +293,11 @@
 
 [Pub. L. 100–709, § 7][/us/pl/100/709/s7], Nov. 23, 1988, [102 Stat. 4734][/us/stat/102/4734], provided that:
 
->     “(a)  __Regulations__  __.—__ 
+>     “(a) __Regulations.—__ 
 
 >     Before the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 23, 1988\], the Board of Governors of the Federal Reserve System shall prescribe such regulations as may be necessary to carry out the proposes \[sic\] of the amendments made by this Act \[enacting this section and sections 1647 and 1665b of this title, amending sections 1632 and 1637 of this title, and enacting provisions set out as notes under this section and [section 1601 of this title][/us/usc/t15/s1601]\].
 
->     “(b)  __Effective Date__  __.—__ 
+>     “(b) __Effective Date.—__ 
 
 >     The amendments made by this Act, and the regulations prescribed pursuant to subsection (a) with respect to such amendments, shall apply to—
 
@@ -305,7 +305,7 @@
 
 >         “(2) any application to open such an account which is distributed by, or received by a creditor, after the end of such 5-month period.
 
->     “(c)  __Voluntary Compliance__  __.—__ 
+>     “(c) __Voluntary Compliance.—__ 
 
 >     Notwithstanding subsection (b), any creditor may comply with the amendments made by this Act, in accordance with the regulations prescribed by the Board, before the effective date established under such subsection.”
 

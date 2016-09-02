@@ -109,11 +109,11 @@
 
 > “For purposes of this Act \[see Short Title of 1998 Amendment note above\]—
 
->     “(1)  __Geographic penalty__  __.—__ 
+>     “(1) __Geographic penalty.—__ 
 
 >     The term ‘geographic penalty’ means the imposition of costs on users of the Internet in rural or other locations, attributable to the distance of the user from network facilities, the low population density of the area in which the user is located, or other factors, that are disproportionately greater than the costs imposed on users in locations closer to such facilities or on users in locations with significantly greater population density.
 
->     “(2)  __Internet__  __.—__ 
+>     “(2) __Internet.—__ 
 
 >     The term ‘Internet’ means the international computer network of both Federal and non-Federal interoperable packet switched data networks.”
 

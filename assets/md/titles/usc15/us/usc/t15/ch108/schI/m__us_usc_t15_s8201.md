@@ -51,7 +51,7 @@
 
 [Pub. L. 111–203, title V, § 512][/us/pl/111/203/s512], July 21, 2010, [124 Stat. 1589][/us/stat/124/1589], provided that: 
 
-> “Except as otherwise specifically provided in this subtitle \[see Short Title note below\], this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle \[July 21, 2010\].”
+> “Except as otherwise specifically provided in this subtitle \[see Short Title note above\], this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle \[July 21, 2010\].”
 
  __Short Title__ 
 

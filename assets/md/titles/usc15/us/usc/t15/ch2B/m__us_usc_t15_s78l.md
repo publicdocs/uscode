@@ -193,7 +193,7 @@
 
         (5) For the purposes of this subsection the term “class” shall include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may for the purpose of this subsection define by rules and regulations the terms “total assets” and “held of record” as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. For purposes of this subsection, a security futures product shall not be considered a class of equity security of the issuer of the securities underlying the security futures product. For purposes of determining whether an issuer is required to register a security with the Commission pursuant to paragraph (1), the definition of “held of record” shall not include securities held by persons who received the securities pursuant to an employee compensation plan in transactions exempted from the registration requirements of section 5 of the Securities Act of 1933 \[[15 U.S.C. 77e][/us/usc/t15/s77e]\].
 
-        (6)  __Exclusion for persons holding certain securities__  __.—__ 
+        (6) __Exclusion for persons holding certain securities.—__ 
 
         The Commission shall, by rule, exempt, conditionally or unconditionally, securities acquired pursuant to an offering made under section 4(6)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of the Securities Act of 1933 \[[15 U.S.C. 77d(a)(6)][/us/usc/t15/s77d/a/6]\] from the provisions of this subsection.
 
@@ -461,7 +461,7 @@
 
 [Pub. L. 111–203, title IX, § 953(b)][/us/pl/111/203/s953/b], July 21, 2010, [124 Stat. 1904][/us/stat/124/1904], as amended by [Pub. L. 112–106, title I, § 102(a)(3)][/us/pl/112/106/s102/a/3], Apr. 5, 2012, [126 Stat. 309][/us/stat/126/309], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Commission shall amend section 229.402 of title 17, Code of Federal Regulations, to require each issuer, other than an emerging growth company, as that term is defined in section 3(a) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78c(a)][/us/usc/t15/s78c/a]\], to disclose in any filing of the issuer described in section 229.10(a) of title 17, Code of Federal Regulations (or any successor thereto)—
 
@@ -471,7 +471,7 @@
 
 >         “(C) the ratio of the amount described in subparagraph (A) to the amount described in subparagraph (B).
 
->     “(2)  __Total compensation__  __.—__ 
+>     “(2) __Total compensation.—__ 
 
 >     For purposes of this subsection, the total compensation of an employee of an issuer shall be determined in accordance with section 229.402(c)(2)(x) of title 17, Code of Federal Regulations, as in effect on the day before the date of enactment of this Act \[July 21, 2010\].”
 

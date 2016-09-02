@@ -115,15 +115,15 @@
 
         (12) __Requirements relating to late payment deadlines and penalties.—__ 
 
-            (A)  __Late payment deadline required to be disclosed__  __.—__ 
+            (A) __Late payment deadline required to be disclosed.—__ 
 
             In the case of a credit card account under an open end consumer credit plan under which a late fee or charge may be imposed due to the failure of the obligor to make payment on or before the due date for such payment, the periodic statement required under subsection (b) with respect to the account shall include, in a conspicuous location on the billing statement, the date on which the payment is due or, if different, the date on which a late payment fee will be charged, together with the amount of the fee or charge to be imposed if payment is made after that date.
 
-            (B)  __Disclosure of increase in interest rates for late payments__  __.—__ 
+            (B) __Disclosure of increase in interest rates for late payments.—__ 
 
             If 1 or more late payments under an open end consumer credit plan may result in an increase in the annual percentage rate applicable to the account, the statement required under subsection (b) with respect to the account shall include conspicuous notice of such fact, together with the applicable penalty annual percentage rate, in close proximity to the disclosure required under subparagraph (A) of the date on which payment is due under the terms of the account.
 
-            (C)  __Payments at local branches__  __.—__ 
+            (C) __Payments at local branches.—__ 
 
             If the creditor, in the case of a credit card account referred to in subparagraph (A), is a financial institution which maintains branches or offices at which payments on any such account are accepted from the obligor in person, the date on which the obligor makes a payment on the account at such branch or office shall be considered to be the date on which the payment is made for purposes of determining whether a late fee or charge may be imposed due to the failure of the obligor to make payment on or before the due date for such payment.
 
@@ -787,11 +787,11 @@
 
 [Pub. L. 111–24, title II, § 201(c)][/us/pl/111/24/s201/c], May 22, 2009, [123 Stat. 1745][/us/stat/123/1745], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[May 22, 2009\], the Board \[of Governors of the Federal Reserve System\] shall issue guidelines, by rule, in consultation with the Secretary of the Treasury, for the establishment and maintenance by creditors of a toll-free telephone number for purposes of providing information about accessing credit counseling and debt management services, as required under section 127(b)(11)(B)(iv) of the Truth in Lending Act \[[15 U.S.C. 1637(b)(11)(B)(iv)][/us/usc/t15/s1637/b/11/B/iv]\], as added by this section.
 
->     “(2)  __Approved agencies__  __.—__ 
+>     “(2) __Approved agencies.—__ 
 
 >     Guidelines issued under this subsection shall ensure that referrals provided by the toll-free number referred to in paragraph (1) include only those nonprofit budget and credit counseling agencies approved by a United States bankruptcy trustee pursuant to [section 111(a) of title 11][/us/usc/t11/s111/a], United States Code.”
 
@@ -817,15 +817,15 @@
 
 [Pub. L. 109–8, title XIII, § 1309][/us/pl/109/8/s1309], Apr. 20, 2005, [119 Stat. 213][/us/stat/119/213], provided that:
 
->     “(a)  __Regulations__  __.—__ 
+>     “(a) __Regulations.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Apr. 20, 2005\], the Board \[of Governors of the Federal Reserve System\], in consultation with the other Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\]), the National Credit Union Administration Board, and the Federal Trade Commission, shall promulgate regulations to provide guidance regarding the meaning of the term ‘clear and conspicuous’, as used in subparagraphs (A), (B), and (C) of section 127(b)(11) and clauses (ii) and (iii) of section 127(c)(6)(A) of the Truth in Lending Act \[subsecs. (b)(11) and (c)(6)(A) of this section\].
 
->     “(b)  __Examples__  __.—__ 
+>     “(b) __Examples.—__ 
 
 >     Regulations promulgated under subsection (a) shall include examples of clear and conspicuous model disclosures for the purposes of disclosures required by the provisions of the Truth in Lending Act \[[15 U.S.C. 1601][/us/usc/t15/s1601] et seq.\] referred to in subsection (a).
 
->     “(c)  __Standards__  __.—__ 
+>     “(c) __Standards.—__ 
 
 >     In promulgating regulations under this section, the Board \[of Governors of the Federal Reserve System\] shall ensure that the clear and conspicuous standard required for disclosures made under the provisions of the Truth in Lending Act referred to in subsection (a) can be implemented in a manner which results in disclosures which are reasonably understandable and designed to call attention to the nature and significance of the information in the notice.”
 
@@ -851,11 +851,11 @@
 
 [Pub. L. 111–24, title III, § 305(b)][/us/pl/111/24/s305/b], May 22, 2009, [123 Stat. 1750][/us/stat/123/1750], provided that:
 
->     “(1)  __Study__  __.—__ 
+>     “(1) __Study.—__ 
 
 >     The Comptroller General of the United States shall, from time to time, review the reports submitted by creditors under section 127(r) of the Truth in Lending Act \[[15 U.S.C. 1637(r)][/us/usc/t15/s1637/r]\], as added by this section, and the marketing practices of creditors to determine the impact that college affinity card agreements and college student card agreements have on credit card debt.
 
->     “(2)  __Report__  __.—__ 
+>     “(2) __Report.—__ 
 
 >     Upon completion of any study under paragraph (1), the Comptroller General shall periodically submit a report to the Congress on the findings and conclusions of the study, together with such recommendations for administrative or legislative action as the Comptroller General determines to be appropriate.”
 

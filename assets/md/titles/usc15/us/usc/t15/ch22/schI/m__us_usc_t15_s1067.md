@@ -19,11 +19,11 @@
 
     (b) The Trademark Trial and Appeal Board shall include the Director, Deputy  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “the”. </sup></sup>  Director of the United States Patent and Trademark Office  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  the Commissioner for Patents, the Commissioner for Trademarks, and administrative trademark judges who are appointed by the Secretary of Commerce, in consultation with the Director.
 
-    (c)  __Authority of the Secretary__  __.—__ 
+    (c) __Authority of the Secretary.—__ 
 
     The Secretary of Commerce may, in his or her discretion, deem the appointment of an administrative trademark judge who, before August 12, 2008, held office pursuant to an appointment by the Director to take effect on the date on which the Director initially appointed the administrative trademark judge.
 
-    (d)  __Defense to Challenge of Appointment__  __.—__ 
+    (d) __Defense to challenge of appointment.—__ 
 
     It shall be a defense to a challenge to the appointment of an administrative trademark judge on the basis of the judge’s having been originally appointed by the Director that the administrative trademark judge so appointed was acting as a de facto officer.
 

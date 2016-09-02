@@ -115,11 +115,11 @@
 
 [Pub. L. 104–132, title VIII, § 819][/us/pl/104/132/s819], Apr. 24, 1996, [110 Stat. 1316][/us/stat/110/1316], as amended by [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that:
 
->     “(a)  __Grant Authorization__  __.—__ 
+>     “(a) __Grant Authorization.—__ 
 
 >     The Attorney General, in consultation with the Administrator of the Federal Emergency Management Agency, may make grants to provide specialized training and equipment to enhance the capability of metropolitan fire and emergency service departments to respond to terrorist attacks.
 
->     “(b)  __Authorization of Appropriations__  __.—__ 
+>     “(b) __Authorization of Appropriations.—__ 
 
 >     There are authorized to be appropriated for fiscal year 1997, $5,000,000 to carry out this section.”
 
@@ -167,7 +167,7 @@
 
 [Pub. L. 101–391, § 2][/us/pl/101/391/s2], Sept. 25, 1990, [104 Stat. 747][/us/stat/104/747], provided that:
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     Congress finds that—
 
@@ -181,7 +181,7 @@
 
 >         “(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use of residential sprinkler systems and other means of fire prevention and control.
 
->     “(b)  __Purpose__  __.—__ 
+>     “(b) __Purpose.—__ 
 
 >     It is the purpose of this Act \[see Short Title of 1990 Amendment note above\] to save lives and protect property by promoting fire and life safety in hotels, motels, and all places of public accommodation affecting commerce.”
 

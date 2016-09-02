@@ -73,9 +73,9 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a) and (c)(1)(E), (G), was in the original “this Act”, meaning [Pub. L. 107–231][/us/pl/107/231], Oct. 1, 2002, [116 Stat. 1471][/us/stat/116/1471], known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+    This chapter, referred to in subsecs. (a) and (c)(1)(E), (G), was in the original “this Act”, meaning [Pub. L. 107–231][/us/pl/107/231], Oct. 1, 2002, [116 Stat. 1471][/us/stat/116/1471], as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-    The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), is [Pub. L. 95–124][/us/pl/95/124], Oct. 7, 1977, [91 Stat. 1098][/us/stat/91/1098], as amended, which is classified generally to chapter 86 (§ 7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of Title 42][/us/usc/t42/s7701] and Tables.
+    The Earthquake Hazards Reduction Act of 1977, referred to subsec. (c)(1)(J), is [Pub. L. 95–124][/us/pl/95/124], Oct. 7, 1977, [91 Stat. 1098][/us/stat/91/1098], as amended, which is classified generally to chapter 86 (§ 7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of Title 42][/us/usc/t42/s7701] and Tables.
 
  __Amendments__ 
 

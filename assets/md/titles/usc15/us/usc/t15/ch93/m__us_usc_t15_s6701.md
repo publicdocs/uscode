@@ -257,7 +257,7 @@
 
 > “SEC. 101. __CONGRESSIONAL FINDINGS AND PURPOSE.__ 
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     The Congress finds that—
 
@@ -273,7 +273,7 @@
 
 >         “(6) the United States Government should provide temporary financial compensation to insured parties, contributing to the stabilization of the United States economy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
 
->     “(b)  __Purpose__  __.—__ 
+>     “(b) __Purpose.—__ 
 
 >     The purpose of this title is to establish a temporary Federal program that provides for a transparent system of shared public and private compensation for insured losses resulting from acts of terrorism, in order to—
 
@@ -287,7 +287,7 @@
 
 >     “(1) __Act of terrorism.—__ 
 
->         “(A)  __Certification__  __.—__ 
+>         “(A) __Certification.—__ 
 
 >         The term ‘act of terrorism’ means any act that is certified by the Secretary, in concurrence with the Secretary of State, and the Attorney General of the United States—
 
@@ -313,7 +313,7 @@
 
 >             “(iv) to have been committed by an individual or individuals, as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion.
 
->         “(B)  __Limitation__  __.—__ 
+>         “(B) __Limitation.—__ 
 
 >         No act shall be certified by the Secretary as an act of terrorism if—
 
@@ -321,19 +321,19 @@
 
 >             “(ii) property and casualty insurance losses resulting from the act, in the aggregate, do not exceed $5,000,000.
 
->         “(C)  __Determinations final__  __.—__ 
+>         “(C) __Determinations final.—__ 
 
 >         Any certification of, or determination not to certify, an act as an act of terrorism under this paragraph shall be final, and shall not be subject to judicial review.
 
->         “(D)  __Nondelegation__  __.—__ 
+>         “(D) __Nondelegation.—__ 
 
 >         The Secretary may not delegate or designate to any other officer, employee, or person, any determination under this paragraph of whether, during the effective period of the Program, an act of terrorism has occurred.
 
->     “(2)  __Affiliate__  __.—__ 
+>     “(2) __Affiliate.—__ 
 
 >     The term ‘affiliate’ means, with respect to an insurer, any entity that controls, is controlled by, or is under common control with the insurer.
 
->     “(3)  __Control__  __.—__ 
+>     “(3) __Control.—__ 
 
 >     An entity has ‘control’ over another entity, if—
 
@@ -343,11 +343,11 @@
 
 >         “(C) the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influence over the management or policies of the other entity.
 
->     “(4)  __Direct earned premium__  __.—__ 
+>     “(4) __Direct earned premium.—__ 
 
 >     The term ‘direct earned premium’ means a direct earned premium for property and casualty insurance issued by any insurer for insurance against losses occurring at the locations described in subparagraphs (A) and (B) of paragraph (5).
 
->     “(5)  __Insured loss__  __.—__ 
+>     “(5) __Insured loss.—__ 
 
 >     The term ‘insured loss’ means any loss resulting from an act of terrorism (including an act of war, in the case of workers’ compensation) that is covered by primary or excess property and casualty insurance issued by an insurer if such loss—
 
@@ -355,7 +355,7 @@
 
 >         “(B) occurs to an air carrier (as defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code), to a United States flag vessel (or a vessel based principally in the United States, on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), regardless of where the loss occurs, or at the premises of any United States mission.
 
->     “(6)  __Insurer__  __.—__ 
+>     “(6) __Insurer.—__ 
 
 >     The term ‘insurer’ means any entity, including any affiliate thereof—
 
@@ -377,7 +377,7 @@
 
 >         “(C) that meets any other criteria that the Secretary may reasonably prescribe.
 
->     “(7)  __Insurer deductible__  __.—__ 
+>     “(7) __Insurer deductible.—__ 
 
 >     The term ‘insurer deductible’ means—
 
@@ -399,45 +399,45 @@
 
 >     The term ‘NAIC’ means the National Association of Insurance Commissioners.
 
->     “(9)  __Person__  __.—__ 
+>     “(9) __Person.—__ 
 
 >     The term ‘person’ means any individual, business or nonprofit entity (including those organized in the form of a partnership, limited liability company, corporation, or association), trust or estate, or a State or political subdivision of a State or other governmental unit.
 
->     “(10)  __Program__  __.—__ 
+>     “(10) __Program.—__ 
 
 >     The term ‘Program’ means the Terrorism Insurance Program established by this title.
 
 >     “(11) __Program years.—__ 
 
->         “(A)  __Transition period__  __.—__ 
+>         “(A) __Transition period.—__ 
 
 >         The term ‘Transition Period’ means the period beginning on the date of enactment of this Act \[Nov. 26, 2002\] and ending on December 31, 2002.
 
->         “(B)  __Program year 1__  __.—__ 
+>         “(B) __Program year 1.—__ 
 
 >         The term ‘Program Year 1’ means the period beginning on January 1, 2003 and ending on December 31, 2003.
 
->         “(C)  __Program year 2__  __.—__ 
+>         “(C) __Program year 2.—__ 
 
 >         The term ‘Program Year 2’ means the period beginning on January 1, 2004 and ending on December 31, 2004.
 
->         “(D)  __Program year 3__  __.—__ 
+>         “(D) __Program year 3.—__ 
 
 >         The term ‘Program Year 3’ means the period beginning on January 1, 2005 and ending on December 31, 2005.
 
->         “(E)  __Program year 4__  __.—__ 
+>         “(E) __Program year 4.—__ 
 
 >         The term ‘Program Year 4’ means the period beginning on January 1, 2006 and ending on December 31, 2006.
 
->         “(F)  __Program year 5__  __.—__ 
+>         “(F) __Program year 5.—__ 
 
 >         The term ‘Program Year 5’ means the period beginning on January 1, 2007 and ending on December 31, 2007.
 
->         “(G)  __Additional program years__  __.—__ 
+>         “(G) __Additional program years.—__ 
 
 >         Except when used as provided in subparagraphs (B) through (F), the term ‘Program Year’ means, as the context requires, any of Program Year 1, Program Year 2, Program Year 3, Program Year 4, Program Year 5, or any of calendar years 2008 through 2014.
 
->     “(12)  __Property and casualty insurance__  __.—__ 
+>     “(12) __Property and casualty insurance.—__ 
 
 >     The term ‘property and casualty insurance’—
 
@@ -471,19 +471,19 @@
 
 >             “(xii) farm owners multiple peril insurance.
 
->     “(13)  __Secretary__  __.—__ 
+>     “(13) __Secretary.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Treasury.
 
->     “(14)  __State__  __.—__ 
+>     “(14) __State.—__ 
 
 >     The term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, each of the United States Virgin Islands, and any territory or possession of the United States.
 
->     “(15)  __United states__  __.—__ 
+>     “(15) __United states.—__ 
 
 >     The term ‘United States’ means the several States, and includes the territorial sea and the continental shelf of the United States, as those terms are defined in the Violent Crime Control and Law Enforcement Act of 1994 ([18 U.S.C. 2280][/us/usc/t18/s2280], 2281).
 
->     “(16)  __Rule of construction for dates__  __.—__ 
+>     “(16) __Rule of construction for dates.—__ 
 
 >     With respect to any reference to a date in this title, such day shall be construed—
 
@@ -495,19 +495,19 @@
 
 >     “(a) __Establishment of Program.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         There is established in the Department of the Treasury the Terrorism Insurance Program.
 
->         “(2)  __Authority of the secretary__  __.—__ 
+>         “(2) __Authority of the secretary.—__ 
 
 >         Notwithstanding any other provision of State or Federal law, the Secretary shall administer the Program, and shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
 
->         “(3)  __Mandatory participation__  __.—__ 
+>         “(3) __Mandatory participation.—__ 
 
 >         Each entity that meets the definition of an insurer under this title shall participate in the Program.
 
->     “(b)  __Conditions for Federal Payments__  __.—__ 
+>     “(b) __Conditions for Federal Payments.—__ 
 
 >     No payment may be made by the Secretary under this section with respect to an insured loss that is covered by an insurer, unless—
 
@@ -543,7 +543,7 @@
 
 >             “(C) certification of its compliance with the provisions of this subsection.
 
->     “(c)  __Mandatory Availability__  __.—__ 
+>     “(c) __Mandatory Availability.—__ 
 
 >     During each Program Year, each entity that meets the definition of an insurer under section 102—
 
@@ -553,11 +553,11 @@
 
 >     “(d) __State Residual Market Insurance Entities.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Secretary shall issue regulations, as soon as practicable after the date of enactment of this Act \[Nov. 26, 2002\], that apply the provisions of this title to State residual market insurance entities and State workers’ compensation funds.
 
->         “(2)  __Treatment of certain entities__  __.—__ 
+>         “(2) __Treatment of certain entities.—__ 
 
 >         For purposes of the regulations issued pursuant to paragraph (1)—
 
@@ -565,7 +565,7 @@
 
 >             “(B) a State residual market insurance entity that shares its profits and losses with private sector insurers shall not be treated as a separate insurer, and shall report to each private sector insurance participant its share of the insured losses of the entity, which shall be included in each private sector insurer’s insured losses.
 
->         “(3)  __Treatment of participation in certain entities__  __.—__ 
+>         “(3) __Treatment of participation in certain entities.—__ 
 
 >         Any insurer that participates in sharing profits and losses of a State residual market insurance entity shall include in its calculations of premiums any premiums distributed to the insurer by the State residual market insurance entity.
 
@@ -573,11 +573,11 @@
 
 >         “(1) __Federal share.—__ 
 
->             “(A)  __In general__  __.—__ 
+>             “(A) __In general.—__ 
 
 >             The Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer during the Transition Period and each Program Year through Program Year 4 shall be equal to 90 percent, and during Program Year 5 and each Program Year thereafter shall be equal to 85 percent, of that portion of the amount of such insured losses that exceeds the applicable insurer deductible required to be paid during such Transition Period or such Program Year.
 
->             “(B)  __Program trigger__  __.—__ 
+>             “(B) __Program trigger.—__ 
 
 >             In the case of a certified act of terrorism occurring after March 31, 2006, no compensation shall be paid by the Secretary under subsection (a), unless the aggregate industry insured losses resulting from such certified act of terrorism exceed—
 
@@ -585,13 +585,13 @@
 
 >                 “(ii) $100,000,000, with respect to such insured losses occurring in Program Year 5 and any Program Year thereafter.
 
->             “(C)  __Prohibition on duplicative compensation__  __.—__ 
+>             “(C) __Prohibition on duplicative compensation.—__ 
 
 >             The Federal share of compensation for insured losses under the Program shall be reduced by the amount of compensation provided by the Federal Government to any person under any other Federal program for those insured losses.
 
 >         “(2) __Cap on annual liability.—__ 
 
->             “(A)  __In general__  __.—__ 
+>             “(A) __In general.—__ 
 
 >             Notwithstanding paragraph (1) or any other provision of Federal or State law, if the aggregate insured losses exceed $100,000,000,000, during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any Program Year thereafter—
 
@@ -599,33 +599,33 @@
 
 >                 “(ii) no insurer that has met its insurer deductible shall be liable for the payment of any portion of the amount of such losses that exceeds $100,000,000,000.
 
->             “(B)  __Insurer share__  __.—__ 
+>             “(B) __Insurer share.—__ 
 
->                 “(i)  __In general__  __.—__ 
+>                 “(i) __In general.—__ 
 
 >                 For purposes of subparagraph (A), the Secretary shall determine the pro rata share of insured losses to be paid by each insurer that incurs insured losses under the Program, except that, notwithstanding paragraph (1) or any other provision of Federal or State law, no insurer may be required to make any payment for insured losses in excess of its deductible under section 102(7) combined with its share of insured losses under paragraph (1)(A) of this subsection.
 
->                 “(ii)  __Regulations__  __.—__ 
+>                 “(ii) __Regulations.—__ 
 
 >                 Not later than 240 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Secretary shall issue final regulations for determining the pro rata share of insured losses under the Program when insured losses exceed $100,000,000,000, in accordance with clause (i).
 
->                 “(iii)  __Report to congress__  __.—__ 
+>                 “(iii) __Report to congress.—__ 
 
 >                 Not later than 120 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007, the Secretary shall provide a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the process to be used by the Secretary for determining the allocation of pro rata payments for insured losses under the Program when such losses exceed $100,000,000,000.
 
->         “(3)  __Notice to congress__  __.—__ 
+>         “(3) __Notice to congress.—__ 
 
 >         The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any other Program Year. The Secretary shall provide an initial notice to Congress not later than 15 days after the date of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000.
 
->         “(4)  __Final netting__  __.—__ 
+>         “(4) __Final netting.—__ 
 
 >         The Secretary shall have sole discretion to determine the time at which claims relating to any insured loss or act of terrorism shall become final.
 
->         “(5)  __Determinations final__  __.—__ 
+>         “(5) __Determinations final.—__ 
 
 >         Any determination of the Secretary under this subsection shall be final, unless expressly provided, and shall not be subject to judicial review.
 
->         “(6)  __Insurance marketplace aggregate retention amount__  __.—__ 
+>         “(6) __Insurance marketplace aggregate retention amount.—__ 
 
 >         For purposes of paragraph (7), the insurance marketplace aggregate retention amount shall be—
 
@@ -671,7 +671,7 @@
 
 >         “(7) __Recoupment of federal share.—__ 
 
->             “(A)  __Mandatory recoupment amount__  __.—__ 
+>             “(A) __Mandatory recoupment amount.—__ 
 
 >             For purposes of this paragraph, the mandatory recoupment amount for each of the periods referred to in subparagraphs (A) through (E) of paragraph (6) shall be the difference between—
 
@@ -685,15 +685,15 @@
 
 >                          “(II) are within the portion of losses of the insurer that exceed the insurer deductible, but are not compensated pursuant to paragraph (1).
 
->             “(B)  __No mandatory recoupment if uncompensated losses exceed insurance marketplace retention__  __.—__ 
+>             “(B) __No mandatory recoupment if uncompensated losses exceed insurance marketplace retention.—__ 
 
 >             Notwithstanding subparagraph (A), if the aggregate amount of uncompensated insured losses referred to in clause (ii) of such subparagraph for any period referred to in any of subparagraphs (A) through (E) of paragraph (6) is greater than the insurance marketplace aggregate retention amount under paragraph (6) for such period, the mandatory recoupment amount shall be $0.
 
->             “(C)  __Mandatory establishment of surcharges to recoup mandatory recoupment amount__  __.—__ 
+>             “(C) __Mandatory establishment of surcharges to recoup mandatory recoupment amount.—__ 
 
 >             The Secretary shall collect, for repayment of the Federal financial assistance provided in connection with all acts of terrorism (or acts of war, in the case of workers compensation) occurring during any of the periods referred to in any of subparagraphs (A) through (E) of paragraph (6), terrorism loss risk-spreading premiums in an amount equal to 133 percent of any mandatory recoupment amount for such period.
 
->             “(D)  __Discretionary recoupment of remainder of financial assistance__  __.—__ 
+>             “(D) __Discretionary recoupment of remainder of financial assistance.—__ 
 
 >             To the extent that the amount of Federal financial assistance provided exceeds any mandatory recoupment amount, the Secretary may recoup, through terrorism loss risk-spreading premiums, such additional amounts that the Secretary believes can be recouped, based on—
 
@@ -707,7 +707,7 @@
 
 >             “(E) __Timing of mandatory recoupment.—__ 
 
->                 “(i)  __In general__  __.—__ 
+>                 “(i) __In general.—__ 
 
 >                 If the Secretary is required to collect terrorism loss risk-spreading premiums under subparagraph (C)—
 
@@ -717,17 +717,17 @@
 
 >                          “(III) for any act of terrorism that occurs on or after January 1, 2012, the Secretary shall collect all required premiums by September 30, 2017.
 
->                 “(ii)  __Regulations required__  __.—__ 
+>                 “(ii) __Regulations required.—__ 
 
 >                 Not later than 180 days after the date of enactment of this subparagraph \[Dec. 26, 2007\], the Secretary shall issue regulations describing the procedures to be used for collecting the required premiums in the time periods referred to in clause (i).
 
->             “(F)  __Notice of estimated losses__  __.—__ 
+>             “(F) __Notice of estimated losses.—__ 
 
 >             Not later than 90 days after the date of an act of terrorism, the Secretary shall publish an estimate of aggregate insured losses, which shall be used as the basis for determining whether mandatory recoupment will be required under this paragraph. Such estimate shall be updated as appropriate, and at least annually.
 
 >         “(8) __Policy surcharge for terrorism loss risk-spreading premiums.—__ 
 
->             “(A)  __Policyholder premium__  __.—__ 
+>             “(A) __Policyholder premium.—__ 
 
 >             Any amount established by the Secretary as a terrorism loss risk-spreading premium shall—
 
@@ -737,17 +737,17 @@
 
 >                 “(iii) be based on a percentage of the premium amount charged for property and casualty insurance coverage under the policy.
 
->             “(B)  __Collection__  __.—__ 
+>             “(B) __Collection.—__ 
 
 >             The Secretary shall provide for insurers to collect terrorism loss risk-spreading premiums and remit such amounts collected to the Secretary.
 
->             “(C)  __Percentage limitation__  __.—__ 
+>             “(C) __Percentage limitation.—__ 
 
 >             A terrorism loss risk-spreading premium collected on a discretionary basis pursuant to paragraph (7)(D) may not exceed, on an annual basis, the amount equal to 3 percent of the premium charged for property and casualty insurance coverage under the policy.
 
 >             “(D) __Adjustment for urban and smaller commercial and rural areas and different lines of insurance.—__ 
 
->                 “(i)  __Adjustments__  __.—__ 
+>                 “(i) __Adjustments.—__ 
 
 >                 In determining the method and manner of imposing terrorism loss risk-spreading premiums, including the amount of such premiums, the Secretary shall take into consideration—
 
@@ -757,35 +757,35 @@
 
 >                          “(III) the various exposures to terrorism risk for different lines of insurance.
 
->                 “(ii)  __Recoupment of adjustments__  __.—__ 
+>                 “(ii) __Recoupment of adjustments.—__ 
 
 >                 Any mandatory recoupment amounts not collected by the Secretary because of adjustments under this subparagraph shall be recouped through additional terrorism loss risk-spreading premiums, in accordance with the timing requirements of paragraph (7)(E).
 
->             “(E)  __Timing of premiums__  __.—__ 
+>             “(E) __Timing of premiums.—__ 
 
 >             The Secretary may adjust the timing of terrorism loss risk-spreading premiums to provide for equivalent application of the provisions of this title to policies that are not based on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
 
->     “(f)  __Captive Insurers and Other Self-Insurance Arrangements__  __.—__ 
+>     “(f) __Captive Insurers and Other Self-Insurance Arrangements.—__ 
 
 >     The Secretary may, in consultation with the NAIC or the appropriate State regulatory authority, apply the provisions of this title, as appropriate, to other classes or types of captive insurers and other self-insurance arrangements by municipalities and other entities (such as workers’ compensation self-insurance programs and State workers’ compensation reinsurance pools), but only if such application is determined before the occurrence of an act of terrorism in which such an entity incurs an insured loss and all of the provisions of this title are applied comparably to such entities.
 
 >     “(g) __Reinsurance to Cover Exposure.—__ 
 
->         “(1)  __Obtaining coverage__  __.—__ 
+>         “(1) __Obtaining coverage.—__ 
 
 >         This title may not be construed to limit or prevent insurers from obtaining reinsurance coverage for insurer deductibles or insured losses retained by insurers pursuant to this section, nor shall the obtaining of such coverage affect the calculation of such deductibles or retentions.
 
->         “(2)  __Limitation on financial assistance__  __.—__ 
+>         “(2) __Limitation on financial assistance.—__ 
 
 >         The amount of financial assistance provided pursuant to this section shall not be reduced by reinsurance paid or payable to an insurer from other sources, except that recoveries from such other sources, taken together with financial assistance for the Transition Period or a Program Year provided pursuant to this section, may not exceed the aggregate amount of the insurer’s insured losses for such period. If such recoveries and financial assistance for the Transition Period or a Program Year exceed such aggregate amount of insured losses for that period and there is no agreement between the insurer and any reinsurer to the contrary, an amount in excess of such aggregate insured losses shall be returned to the Secretary.
 
 >     “(h) __Group Life Insurance Study.—__ 
 
->         “(1)  __Study__  __.—__ 
+>         “(1) __Study.—__ 
 
 >         The Secretary shall study, on an expedited basis, whether adequate and affordable catastrophe reinsurance for acts of terrorism is available to life insurers in the United States that issue group life insurance, and the extent to which the threat of terrorism is reducing the availability of group life insurance coverage for consumers in the United States.
 
->         “(2)  __Conditional Coverage__  __.—__ 
+>         “(2) __Conditional Coverage.—__ 
 
 >         To the extent that the Secretary determines that such coverage is not or will not be reasonably available to both such insurers and consumers, the Secretary shall, in consultation with the NAIC—
 
@@ -795,17 +795,17 @@
 
 >     “(i) __Study and Report.—__ 
 
->         “(1)  __Study__  __.—__ 
+>         “(1) __Study.—__ 
 
 >         The Secretary, after consultation with the NAIC, representatives of the insurance industry, and other experts in the insurance field, shall conduct a study of the potential effects of acts of terrorism on the availability of life insurance and other lines of insurance coverage, including personal lines.
 
->         “(2)  __Report__  __.—__ 
+>         “(2) __Report.—__ 
 
 >         Not later than 9 months after the date of enactment of this Act \[Nov. 26, 2002\], the Secretary shall submit a report to the Congress on the results of the study conducted under paragraph (1).
 
 > “SEC. 104. __GENERAL AUTHORITY AND ADMINISTRATION OF CLAIMS.__ 
 
->     “(a)  __General Authority__  __.—__ 
+>     “(a) __General Authority.—__ 
 
 >     The Secretary shall have the powers and authorities necessary to carry out the Program, including authority—
 
@@ -813,7 +813,7 @@
 
 >         “(2) to prescribe regulations and procedures to effectively administer and implement the Program, and to ensure that all insurers and self-insured entities that participate in the Program are treated comparably under the Program.
 
->     “(b)  __Interim Rules and Procedures__  __.—__ 
+>     “(b) __Interim Rules and Procedures.—__ 
 
 >     The Secretary may issue interim final rules or procedures specifying the manner in which—
 
@@ -825,17 +825,17 @@
 
 >         “(4) the Secretary will determine any final netting of payments under the Program, including payments owed to the Federal Government from any insurer and any Federal share of compensation for insured losses owed to any insurer, to effectuate the insured loss sharing provisions in section 103.
 
->     “(c)  __Consultation__  __.—__ 
+>     “(c) __Consultation.—__ 
 
 >     The Secretary shall consult with the NAIC, as the Secretary determines appropriate, concerning the Program.
 
->     “(d)  __Contracts for Services__  __.—__ 
+>     “(d) __Contracts for Services.—__ 
 
 >     The Secretary may employ persons or contract for services as may be necessary to implement the Program.
 
 >     “(e) __Civil Penalties.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Secretary may assess a civil monetary penalty in an amount not exceeding the amount under paragraph (2) against any insurer that the Secretary determines, on the record after opportunity for a hearing—
 
@@ -849,49 +849,49 @@
 
 >             “(E) has otherwise failed to comply with the provisions of, or the regulations issued under, this title.
 
->         “(2)  __Amount__  __.—__ 
+>         “(2) __Amount.—__ 
 
 >         The amount under this paragraph is the greater of $1,000,000 and, in the case of any failure to pay, charge, collect, or remit amounts in accordance with this title or the regulations issued under this title, such amount in dispute.
 
->         “(3)  __Recovery of amount in dispute__  __.—__ 
+>         “(3) __Recovery of amount in dispute.—__ 
 
 >         A penalty under this subsection for any failure to pay, charge, collect, or remit amounts in accordance with this title or the regulations under this title shall be in addition to any such amounts recovered by the Secretary.
 
 >     “(f) __Submission of Premium Information.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Secretary shall annually compile information on the terrorism risk insurance premium rates of insurers for the preceding year.
 
->         “(2)  __Access to information__  __.—__ 
+>         “(2) __Access to information.—__ 
 
 >         To the extent that such information is not otherwise available to the Secretary, the Secretary may require each insurer to submit to the NAIC terrorism risk insurance premium rates, as necessary to carry out paragraph (1), and the NAIC shall make such information available to the Secretary.
 
->         “(3)  __Availability to congress__  __.—__ 
+>         “(3) __Availability to congress.—__ 
 
 >         The Secretary shall make information compiled under this subsection available to the Congress, upon request.
 
 >     “(g) __Funding.—__ 
 
->         “(1)  __Federal payments__  __.—__ 
+>         “(1) __Federal payments.—__ 
 
 >         There are hereby appropriated, out of funds in the Treasury not otherwise appropriated, such sums as may be necessary to pay the Federal share of compensation for insured losses under the Program.
 
->         “(2)  __Administrative expenses__  __.—__ 
+>         “(2) __Administrative expenses.—__ 
 
 >         There are hereby appropriated, out of funds in the Treasury not otherwise appropriated, such sums as may be necessary to pay reasonable costs of administering the Program.
 
 > “SEC. 105. __PREEMPTION AND NULLIFICATION OF PRE-EXISTING TERRORISM EXCLUSIONS.__ 
 
->     “(a)  __General Nullification__  __.—__ 
+>     “(a) __General Nullification.—__ 
 
 >     Any terrorism exclusion in a contract for property and casualty insurance that is in force on the date of enactment of this Act \[Nov. 26, 2002\] shall be void to the extent that it excludes losses that would otherwise be insured losses.
 
->     “(b)  __General Preemption__  __.—__ 
+>     “(b) __General Preemption.—__ 
 
 >     Any State approval of any terrorism exclusion from a contract for property and casualty insurance that is in force on the date of enactment of this Act, shall be void to the extent that it excludes losses that would otherwise be insured losses.
 
->     “(c)  __Reinstatement of Terrorism Exclusions__  __.—__ 
+>     “(c) __Reinstatement of Terrorism Exclusions.—__ 
 
 >     Notwithstanding subsections (a) and (b) or any provision of State law, an insurer may reinstate a preexisting provision in a contract for property and casualty insurance that is in force on the date of enactment of this Act \[Nov. 26, 2002\] and that excludes coverage for an act of terrorism only—
 
@@ -913,7 +913,7 @@
 
 > “SEC. 106. __PRESERVATION PROVISIONS.__ 
 
->     “(a)  __State Law__  __.—__ 
+>     “(a) __State Law.—__ 
 
 >     Nothing in this title shall affect the jurisdiction or regulatory authority of the insurance commissioner (or any agency or office performing like functions) of any State over any insurer or other person—
 
@@ -929,7 +929,7 @@
 
 >             “(C) during the period beginning on the date of enactment of this Act and for so long as the Program is in effect, as provided in section 108, including authority in subsection 108(b), books and records of any insurer that are relevant to the Program shall be provided, or caused to be provided, to the Secretary, upon request by the Secretary, notwithstanding any provision of the laws of any State prohibiting or limiting such access.
 
->     “(b)  __Existing Reinsurance Agreements__  __.—__ 
+>     “(b) __Existing Reinsurance Agreements.—__ 
 
 >     Nothing in this title shall be construed to alter, amend, or expand the terms of coverage under any reinsurance agreement in effect on the date of enactment of this Act \[Nov. 26, 2002\]. The terms and conditions of such an agreement shall be determined by the language of that agreement.
 
@@ -937,39 +937,39 @@
 
 >     “(a) __Procedures and Damages.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         If the Secretary makes a determination pursuant to section 102 that an act of terrorism has occurred, there shall exist a Federal cause of action for property damage, personal injury, or death arising out of or resulting from such act of terrorism, which shall be the exclusive cause of action and remedy for claims for property damage, personal injury, or death arising out of or relating to such act of terrorism, except as provided in subsection (b).
 
->         “(2)  __Preemption of state actions__  __.—__ 
+>         “(2) __Preemption of state actions.—__ 
 
 >         All State causes of action of any kind for property damage, personal injury, or death arising out of or resulting from an act of terrorism that are otherwise available under State law are hereby preempted, except as provided in subsection (b).
 
->         “(3)  __Substantive law__  __.—__ 
+>         “(3) __Substantive law.—__ 
 
 >         The substantive law for decision in any such action described in paragraph (1) shall be derived from the law, including choice of law principles, of the State in which such act of terrorism occurred, unless such law is otherwise inconsistent with or preempted by Federal law.
 
->         “(4)  __Jurisdiction__  __.—__ 
+>         “(4) __Jurisdiction.—__ 
 
 >         For each determination described in paragraph (1), not later than 90 days after the occurrence of an act of terrorism, the Judicial Panel on Multidistrict Litigation shall designate 1 district court or, if necessary, multiple district courts of the United States that shall have original and exclusive jurisdiction over all actions for any claim (including any claim for loss of property, personal injury, or death) relating to or arising out of an act of terrorism subject to this section. The Judicial Panel on Multidistrict Litigation shall select and assign the district court or courts based on the convenience of the parties and the just and efficient conduct of the proceedings. For purposes of personal jurisdiction, the district court or courts designated by the Judicial Panel on Multidistrict Litigation shall be deemed to sit in all judicial districts in the United States.
 
->         “(5)  __Punitive damages__  __.—__ 
+>         “(5) __Punitive damages.—__ 
 
 >         Any amounts awarded in an action under paragraph (1) that are attributable to punitive damages shall not count as insured losses for purposes of this title.
 
->         “(6)  __Authority of the secretary__  __.—__ 
+>         “(6) __Authority of the secretary.—__ 
 
 >         Procedures and requirements established by the Secretary under section 50.82 of part 50 of title 31 of the Code of Federal Regulations (as in effect on the date of issuance of that section in final form) shall apply to any cause of action described in paragraph (1) of this subsection.
 
->     “(b)  __Exclusion__  __.—__ 
+>     “(b) __Exclusion.—__ 
 
 >     Nothing in this section shall in any way limit the liability of any government, an organization, or person who knowingly participates in, conspires to commit, aids and abets, or commits any act of terrorism with respect to which a determination described in subsection (a)(1) was made.
 
->     “(c)  __Right of Subrogation__  __.—__ 
+>     “(c) __Right of Subrogation.—__ 
 
 >     The United States shall have the right of subrogation with respect to any payment or claim paid by the United States under this title.
 
->     “(d)  __Relationship to Other Law__  __.—__ 
+>     “(d) __Relationship to Other Law.—__ 
 
 >     Nothing in this section shall be construed to affect—
 
@@ -977,21 +977,21 @@
 
 >         “(2) any provision of the Air Transportation Safety and System Stabilization Act ([Public Law 107–42][/us/pl/107/42]; [49 U.S.C. 40101][/us/usc/t49/s40101] note.).
 
->     “(e)  __Effective Period__  __.—__ 
+>     “(e) __Effective Period.—__ 
 
 >     This section shall apply only to actions described in subsection (a)(1) that arise out of or result from acts of terrorism that occur or occurred during the effective period of the Program.
 
 > “SEC. 108. __TERMINATION OF PROGRAM.__ 
 
->     “(a)  __Termination of Program__  __.—__ 
+>     “(a) __Termination of Program.—__ 
 
 >     The Program shall terminate on December 31, 2014.
 
->     “(b)  __Continuing Authority to Pay or Adjust Compensation__  __.—__ 
+>     “(b) __Continuing Authority to Pay or Adjust Compensation.—__ 
 
 >     Following the termination of the Program, the Secretary may take such actions as may be necessary to ensure payment, recoupment, reimbursement, or adjustment of compensation for insured losses arising out of any act of terrorism occurring during the period in which the Program was in effect under this title, in accordance with the provisions of section 103 and regulations promulgated thereunder.
 
->     “(c)  __Repeal; Savings Clause__  __.—__ 
+>     “(c) __Repeal; Savings Clause.—__ 
 
 >     This title is repealed on the final termination date of the Program under subsection (a), except that such repeal shall not be construed—
 
@@ -1001,27 +1001,27 @@
 
 >     “(d) __Study and Report on the Program.—__ 
 
->         “(1)  __Study__  __.—__ 
+>         “(1) __Study.—__ 
 
 >         The Secretary, in consultation with the NAIC, representatives of the insurance industry and of policy holders, other experts in the insurance field, and other experts as needed, shall assess the effectiveness of the Program and the likely capacity of the property and casualty insurance industry to offer insurance for terrorism risk after termination of the Program, and the availability and affordability of such insurance for various policyholders, including railroads, trucking, and public transit.
 
->         “(2)  __Report__  __.—__ 
+>         “(2) __Report.—__ 
 
 >         The Secretary shall submit a report to the Congress on the results of the study conducted under paragraph (1) not later than June 30, 2005.
 
 >     “(e) __Analysis of Market Conditions for Terrorism Risk Insurance.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The President’s Working Group on Financial Markets, in consultation with the National Association of Insurance Commissioners, representatives of the insurance industry, representatives of the securities industry, and representatives of policy holders, shall perform an ongoing analysis regarding the long-term availability and affordability of insurance for terrorism risk.
 
->         “(2)  __Report__  __.—__ 
+>         “(2) __Report.—__ 
 
 >         Not later than September 30, 2006, and thereafter in 2010 and 2013, the President’s Working Group on Financial Markets shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on its findings pursuant to the analysis conducted under paragraph (1).
 
 >     “(f) __Insurance for Nuclear, Biological, Chemical, and Radiological Terrorist Events.—__ 
 
->         “(1)  __Study__  __.—__ 
+>         “(1) __Study.—__ 
 
 >         The Comptroller General of the United States shall examine—
 
@@ -1031,17 +1031,17 @@
 
 >             “(C) the capacity of private insurers and State workers compensation funds to manage risk associated with nuclear, biological, chemical, and radiological terrorist events.
 
->         “(2)  __Report__  __.—__ 
+>         “(2) __Report.—__ 
 
 >         Not later than 1 year after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing a detailed statement of the findings under paragraph (1), and recommendations for any legislative, regulatory, administrative, or other actions at the Federal, State, or local levels that the Comptroller General considers appropriate to expand the availability and affordability of insurance for nuclear, biological, chemical, or radiological terrorist events.
 
 >     “(g) __Availability and Affordability of Terrorism Insurance in Specific Markets.—__ 
 
->         “(1)  __Study__  __.—__ 
+>         “(1) __Study.—__ 
 
 >         The Comptroller General of the United States shall conduct a study to determine whether there are specific markets in the United States where there are unique capacity constraints on the amount of terrorism risk insurance available.
 
->         “(2)  __Elements of study__  __.—__ 
+>         “(2) __Elements of study.—__ 
 
 >         The study required by paragraph (1) shall contain—
 
@@ -1051,7 +1051,7 @@
 
 >             “(C) recommendations for addressing those capacity constraints.
 
->         “(3)  __Report__  __.—__ 
+>         “(3) __Report.—__ 
 
 >         Not later than 180 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit a report on the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.”
 

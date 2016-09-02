@@ -69,11 +69,11 @@
 
 [Pub. L. 112–266, § 3][/us/pl/112/266/s3], Jan. 14, 2013, [126 Stat. 2437][/us/stat/126/2437], provided that:
 
->     “(a)  __Labeling Requirement__  __.—__ 
+>     “(a) __Labeling Requirement.—__ 
 
 >     Beginning 180 days after the date of the enactment of this Act \[Jan. 14, 2013\], the gypsum board labeling provisions of standard ASTM C1264–11 of ASTM International, as in effect on the day before the date of the enactment of this Act, shall be treated as a rule promulgated by the Consumer Product Safety Commission under section 14(c) of the Consumer Product Safety Act ([15 U.S.C. 2063(c)][/us/usc/t15/s2063/c]).
 
->     “(b)  __Revision of Standard__  __.—__ 
+>     “(b) __Revision of Standard.—__ 
 
 >     If the gypsum board labeling provisions of the standard referred to in subsection (a) are revised on or after the date of the enactment of this Act, ASTM International shall notify the Commission of such revision no later than 60 days after final approval of the revision by ASTM International. The revised provisions shall be treated as a rule promulgated by the Commission under section 14(c) of such Act ([15 U.S.C. 2063(c)][/us/usc/t15/s2063/c]), in lieu of the prior version, effective 180 days after the Commission is notified of the revision (or such later date as the Commission considers appropriate), unless within 90 days after receiving that notice the Commission determines that the revised provisions do not adequately identify gypsum board by manufacturer and month and year of manufacture, in which case the Commission shall continue to enforce the prior version.”
 

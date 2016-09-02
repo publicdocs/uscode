@@ -85,11 +85,11 @@
 
 [Pub. L. 104–208, div. A, title II, § 2302(c)][/us/pl/104/208/s2302/c], Sept. 30, 1996, [110 Stat. 3009–423][/us/stat/110/3009-423], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Except as provided in paragraph (2), the privilege provided for in section 704A of the Equal Credit Opportunity Act \[[15 U.S.C. 1691c–1][/us/usc/t15/s1691c–1]\] or section 814A of the Fair Housing Act \[[42 U.S.C. 3614–1][/us/usc/t42/s3614–1]\] (as those sections are added by this section) shall apply to a self-test (as that term is defined pursuant to the regulations prescribed under subsection (a)(2) \[set out below\] or (b)(2) of this section \[[42 U.S.C. 3614–1][/us/usc/t42/s3614–1] note\], as appropriate) conducted before, on, or after the effective date of the regulations prescribed under subsection (a)(2) or (b)(2), as appropriate.
 
->     “(2)  __Exception__  __.—__ 
+>     “(2) __Exception.—__ 
 
 >     The privilege referred to in paragraph (1) does not apply to such a self-test conducted before the effective date of the regulations prescribed under subsection (a) or (b), as appropriate, if—
 
@@ -109,21 +109,21 @@
 
 [Pub. L. 104–208, div. A, title II, § 2302(a)(2)][/us/pl/104/208/s2302/a/2], Sept. 30, 1996, [110 Stat. 3009–421][/us/stat/110/3009-421], provided that:
 
->     “(A)  __In general__  __.—__ 
+>     “(A) __In general.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Sept. 30, 1996\], in consultation with the Secretary of Housing and Urban Development and the agencies referred to in section 704 of the Equal Credit Opportunity Act \[[15 U.S.C. 1691c][/us/usc/t15/s1691c]\], and after providing notice and an opportunity for public comment, the Board shall prescribe final regulations to implement section 704A of the Equal Credit Opportunity Act \[[15 U.S.C. 1691c–1][/us/usc/t15/s1691c–1]\], as added by this section.
 
 >     “(B) __Self-test.—__ 
 
->         “(i)  __Definition__  __.—__ 
+>         “(i) __Definition.—__ 
 
 >         The regulations prescribed under subparagraph (A) shall include a definition of the term ‘self-test’ for purposes of section 704A of the Equal Credit Opportunity Act, as added by this section.
 
->         “(ii)  __Requirement for self-test__  __.—__ 
+>         “(ii) __Requirement for self-test.—__ 
 
 >         The regulations prescribed under subparagraph (A) shall specify that a self-test shall be sufficiently extensive to constitute a determination of the level and effectiveness of compliance by a creditor with the Equal Credit Opportunity Act \[[15 U.S.C. 1691][/us/usc/t15/s1691] et seq.\].
 
->         “(iii)  __Substantial similarity to certain fair housing act regulations__  __.—__ 
+>         “(iii) __Substantial similarity to certain fair housing act regulations.—__ 
 
 >         The regulations prescribed under subparagraph (A) shall be substantially similar to the regulations prescribed by the Secretary of Housing and Urban Development to carry out section 814A(d) of the Fair Housing Act \[[42 U.S.C. 3614–1(d)][/us/usc/t42/s3614–1/d]\], as added by this section.”
 

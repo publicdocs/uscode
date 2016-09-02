@@ -141,23 +141,23 @@
 
             (A) __Notice registration.—__ 
 
-                (i)  __Contents of notice__  __.—__ 
+                (i) __Contents of notice.—__ 
 
                 Notwithstanding paragraphs (1) and (2), a broker or dealer required to register only because it effects transactions in security futures products on an exchange registered pursuant to [section 78f(g) of this title][/us/usc/t15/s78f/g] may register for purposes of this section by filing with the Commission a written notice in such form and containing such information concerning such broker or dealer and any persons associated with such broker or dealer as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. A broker or dealer may not register under this paragraph unless that broker or dealer is a member of a national securities association registered under section 78o–3(k) of this title.
 
-                (ii)  __Immediate effectiveness__  __.—__ 
+                (ii) __Immediate effectiveness.—__ 
 
                 Such registration shall be effective contemporaneously with the submission of notice, in written or electronic form, to the Commission, except that such registration shall not be effective if the registration would be subject to suspension or revocation under paragraph (4).
 
-                (iii)  __Suspension__  __.—__ 
+                (iii) __Suspension.—__ 
 
                 Such registration shall be suspended immediately if a national securities association registered pursuant to section 78o–3(k) of this title suspends the membership of that broker or dealer.
 
-                (iv)  __Termination__  __.—__ 
+                (iv) __Termination.—__ 
 
                 Such registration shall be terminated immediately if any of the above stated conditions for registration set forth in this paragraph are no longer satisfied.
 
-            (B)  __Exemptions for registered brokers and dealers__  __.—__ 
+            (B) __Exemptions for registered brokers and dealers.—__ 
 
             A broker or dealer registered pursuant to the requirements of subparagraph (A) shall be exempt from the following provisions of this chapter and the rules thereunder with respect to transactions in security futures products:
 
@@ -175,7 +175,7 @@
 
         (12) __Exemption for security futures product exchange members.—__ 
 
-            (A)  __Registration exemption__  __.—__ 
+            (A) __Registration exemption.—__ 
 
             A natural person shall be exempt from the registration requirements of this section if such person—
 
@@ -185,7 +185,7 @@
 
                 (iii) does not directly accept or solicit orders from public customers or provide advice to public customers in connection with the trading of security futures products.
 
-            (B)  __Other exemptions__  __.—__ 
+            (B) __Other exemptions.—__ 
 
             A natural person exempt from registration pursuant to subparagraph (A) shall also be exempt from the following provisions of this chapter and the rules thereunder:
 
@@ -239,7 +239,7 @@
 
         (7) In connection with any bid for or purchase of a government security related to an offering of government securities by or on behalf of an issuer, no government securities broker, government securities dealer, or bidder for or purchaser of securities in such offering shall knowingly or willfully make any false or misleading written statement or omit any fact necessary to make any written statement made not misleading.
 
-        (8)  __Prohibition of referral fees__  __.—__ 
+        (8) __Prohibition of referral fees.—__ 
 
         No broker or dealer, or person associated with a broker or dealer, may solicit or accept, directly or indirectly, remuneration for assisting an attorney in obtaining the representation of any person in any private action arising under this chapter or under the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\].
 
@@ -827,7 +827,7 @@
 
 [Pub. L. 111–203, title IX, § 913(a)][/us/pl/111/203/s913/a]–(f), July 21, 2010, [124 Stat. 1824–1827][/us/stat/124/1824-1827], provided that:
 
->     “(a)  __Definition__  __.—__ 
+>     “(a) __Definition.—__ 
 
 >     For purposes of this section, the term ‘retail customer’ means a natural person, or the legal representative of such natural person, who—
 
@@ -835,7 +835,7 @@
 
 >         “(2) uses such advice primarily for personal, family, or household purposes.
 
->     “(b)  __Study__  __.—__ 
+>     “(b) __Study.—__ 
 
 >     The Commission shall conduct a study to evaluate—
 
@@ -843,7 +843,7 @@
 
 >         “(2) whether there are legal or regulatory gaps, shortcomings, or overlaps in legal or regulatory standards in the protection of retail customers relating to the standards of care for brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers for providing personalized investment advice about securities to retail customers that should be addressed by rule or statute.
 
->     “(c)  __Considerations__  __.—__ 
+>     “(c) __Considerations.—__ 
 
 >     In conducting the study required under subsection (b), the Commission shall consider—
 
@@ -931,7 +931,7 @@
 
 >     “(d) __Report.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act \[July 21, 2010\], the Commission shall submit a report on the study required under subsection (b) to—
 
@@ -939,7 +939,7 @@
 
 >             “(B) the Committee on Financial Services of the House of Representatives.
 
->         “(2)  __Content requirements__  __.—__ 
+>         “(2) __Content requirements.—__ 
 
 >         The report required under paragraph (1) shall describe the findings, conclusions, and recommendations of the Commission from the study required under subsection (b), including—
 
@@ -947,11 +947,11 @@
 
 >             “(B) an analysis of whether \[sic\] any identified legal or regulatory gaps, shortcomings, or overlap in legal or regulatory standards in the protection of retail customers relating to the standards of care for brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers for providing personalized investment advice about securities to retail customers.
 
->     “(e)  __Public Comment__  __.—__ 
+>     “(e) __Public Comment.—__ 
 
 >     The Commission shall seek and consider public input, comments, and data in order to prepare the report required under subsection (d).
 
->     “(f)  __Rulemaking__  __.—__ 
+>     “(f) __Rulemaking.—__ 
 
 >     The Commission may commence a rulemaking, as necessary or appropriate in the public interest and for the protection of retail customers (and such other customers as the Commission may by rule provide), to address the legal or regulatory standards of care for brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers for providing personalized investment advice about securities to such retail customers. The Commission shall consider the findings\[,\] conclusions, and recommendations of the study required under subsection (b).”
 
@@ -961,11 +961,11 @@
 
 [Pub. L. 104–290, title V, § 510(d)][/us/pl/104/290/s510/d], Oct. 11, 1996, [110 Stat. 3451][/us/stat/110/3451], provided that:
 
->     “(1)  __Study__  __.—__ 
+>     “(1) __Study.—__ 
 
 >     The Commission, after consultation with registered securities associations, national securities exchanges, and States, shall conduct a study of the impact of disparate State licensing requirements on associated persons of registered brokers or dealers and methods for States to attain uniform licensing requirements for such persons.
 
->     “(2)  __Report__  __.—__ 
+>     “(2) __Report.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall submit to the Congress a report on the study conducted under paragraph (1). Such report shall include recommendations concerning appropriate methods described in paragraph (1)(B), including any necessary legislative changes to implement such recommendations.”
 

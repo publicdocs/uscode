@@ -63,7 +63,7 @@
 
     The Occupational Safety and Health Act of 1970, referred to in subsec. (a), is [Pub. L. 91–596][/us/pl/91/596], Dec. 29, 1970, [84 Stat. 1590][/us/stat/84/1590], as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29][/us/usc/t29/s651] and Tables.
 
-    The Atomic Energy Act of 1954, referred to in subsec. (b), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (b), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 921][/us/stat/68/921], and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
     The Clean Air Act, referred to in subsec. (a), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
@@ -114,7 +114,7 @@
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
-[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
+[/us/stat/68/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F921
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322

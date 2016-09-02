@@ -79,7 +79,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in subsecs. (a) and (c), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436], which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+    This subchapter, referred to in subsecs. (a) and (c), was in the original “this subtitle”, meaning subtitle A (§ 501 et seq.) of title V of [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436], which enacted this subchapter and amended [section 1681s of this title][/us/usc/t15/s1681s]. For complete classification of subtitle A to the Code, see Tables.
 
     The Right to Financial Privacy Act of 1978, referred to in subsec. (e)(5), is title XI of [Pub. L. 95–630][/us/pl/95/630], Nov. 10, 1978, [92 Stat. 3697][/us/stat/92/3697], which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12][/us/usc/t12/s3401] and Tables.
 
@@ -115,6 +115,7 @@
 [/us/stat/124/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2095
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436
+[/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401

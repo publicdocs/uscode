@@ -169,7 +169,7 @@
 
             (F) $1,159,000,000 for fiscal year 2009;
 
-            (G) $1,194,000,000 for fiscal year 2010;
+            (G) $1,194,000,000 for fiscal year 2010; and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “and” probably should not appear. </sup></sup> 
 
             (H) $750,000,000 for fiscal year 2013; and
 
@@ -193,7 +193,7 @@
 
         The authority to award assistance and grants under this section shall expire on the date that is 5 years after January 2, 2013.
 
-([Pub. L. 93–498, § 34][/us/pl/93/498/s34], as added [Pub. L. 108–136, div. A, title X, § 1057][/us/pl/108/136/s1057], Nov. 24, 2003, [117 Stat. 1616][/us/stat/117/1616]; amended [Pub. L. 112–239, div. A, title XVIII, § 1804][/us/pl/112/239/s1804], Jan. 2, 2013, [126 Stat. 2111][/us/stat/126/2111]; [Pub. L. 113–66, div. A, title X, § 1091(b)(9)][/us/pl/113/66/s1091/b/9], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
+([Pub. L. 93–498, § 34][/us/pl/93/498/s34], as added [Pub. L. 108–136, div. A, title X, § 1057][/us/pl/108/136/s1057], Nov. 24, 2003, [117 Stat. 1616][/us/stat/117/1616]; amended [Pub. L. 112–239, div. A, title XVIII, § 1804][/us/pl/112/239/s1804], Jan. 2, 2013, [126 Stat. 2111][/us/stat/126/2111].)
 
  __References in Text__ 
 
@@ -207,7 +207,7 @@
 
     2013—[Pub. L. 112–239, § 1804(j)][/us/pl/112/239/s1804/j], substituted “Staffing for adequate fire and emergency response” for “Expansion of pre-September 11, 2001, fire grant program” in section catchline.
 
-    [Pub. L. 112–239, § 1804(i)][/us/pl/112/239/s1804/i], as amended by [Pub. L. 113–66, § 1091(b)(9)(B)][/us/pl/113/66/s1091/b/9/B], substituted “Administrator of FEMA” for “Administrator” wherever appearing, except in those places in which “Administrator of FEMA” already appeared.
+    [Pub. L. 112–239, § 1804(i)][/us/pl/112/239/s1804/i], substituted “Administrator of FEMA” for “Administrator” wherever appearing.
 
     Subsec. (a)(1)(A). [Pub. L. 112–239, § 1804(g)(2)][/us/pl/112/239/s1804/g/2], substituted “career fire departments, combination fire departments, and volunteer fire departments” for “career, volunteer, and combination fire departments”.
 
@@ -259,13 +259,9 @@
 
     [Pub. L. 112–239, § 1804(d)(1)][/us/pl/112/239/s1804/d/1], redesignated subsec. (i) as (j).
 
-    Subsec. (j)(8), (9). [Pub. L. 112–239, § 1804(h)(1)][/us/pl/112/239/s1804/h/1], as amended by [Pub. L. 113–66, § 1091(b)(9)(A)][/us/pl/113/66/s1091/b/9/A], added pars. (8) and (9).
+    Subsec. (j)(8), (9). [Pub. L. 112–239, § 1804(h)(1)][/us/pl/112/239/s1804/h/1], added pars. (8) and (9).
 
     Subsec. (k). [Pub. L. 112–239, § 1804(k)][/us/pl/112/239/s1804/k], added subsec. (k).
-
- __Effective Date of 2013 Amendment__ 
-
-    [Pub. L. 113–66, div. A, title X, § 1091(b)][/us/pl/113/66/s1091/b], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(9) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.
 
 ----------
 
@@ -281,14 +277,11 @@
 [/us/stat/117/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1616
 [/us/pl/112/239/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804
 [/us/stat/126/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2111
-[/us/pl/113/66/s1091/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F9
-[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/usc/t29/s203/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203%2Fy
 [/us/pl/93/498/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs34
 [/us/usc/t15/s2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2231
 [/us/pl/112/239/s1804/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fj
 [/us/pl/112/239/s1804/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fi
-[/us/pl/113/66/s1091/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F9%2FB
 [/us/pl/112/239/s1804/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fg%2F2
 [/us/pl/112/239/s1804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fa%2F1
 [/us/pl/112/239/s1804/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fa%2F2
@@ -308,10 +301,6 @@
 [/us/pl/112/239/s1804/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fh%2F2
 [/us/pl/112/239/s1804/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fd%2F1
 [/us/pl/112/239/s1804/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fh%2F1
-[/us/pl/113/66/s1091/b/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F9%2FA
 [/us/pl/112/239/s1804/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fk
-[/us/pl/113/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb
-[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

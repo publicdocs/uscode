@@ -69,8 +69,6 @@
 
     The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1955][/us/stat/124/1955]. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
 
-    This subchapter, referred to in subsecs. (a), (c), and (d), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436], which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
-
     Section 25 of the Federal Reserve Act, referred to in subsec. (a)(1)(B), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12.
 
     The Federal Credit Union Act, referred to in subsec. (a)(2), is [act June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], [48 Stat. 1216][/us/stat/48/1216], which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1751 of Title 12][/us/usc/t12/s1751] and Tables.
@@ -137,8 +135,6 @@
 [/us/stat/124/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2096
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
-[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
-[/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1216
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751

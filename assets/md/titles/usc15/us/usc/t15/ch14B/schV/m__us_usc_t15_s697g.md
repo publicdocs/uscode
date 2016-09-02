@@ -217,11 +217,11 @@
 
 [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 307(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–689, provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Not later than 150 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Administrator shall issue such regulations as may be necessary to carry out section 510 of the Small Business Investment Act of 1958 \[[15 U.S.C. 697g][/us/usc/t15/s697g]\], as added by subsection (a) of this section.
 
->     “(2)  __Termination of pilot program__  __.—__ 
+>     “(2) __Termination of pilot program.—__ 
 
 >     Beginning on the date on which final regulations are issued under paragraph (1), section 204 of the Small Business Programs Improvement Act of 1996 \[[Pub. L. 104–208, div. D][/us/pl/104/208]\] ([15 U.S.C. 695][/us/usc/t15/s695] note) shall cease to have effect.”
 

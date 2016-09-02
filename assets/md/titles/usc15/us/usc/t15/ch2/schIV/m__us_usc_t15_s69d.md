@@ -33,7 +33,7 @@
 
     The Tariff Act of 1930, referred to in subsecs. (a) and (b), is [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], [46 Stat. 590][/us/stat/46/590], as amended, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. Title IV of the Tariff Act of 1930 is classified generally to subtitle III (§ 1401 et seq.) of chapter 4 of Title 19. For complete classification of this Act to the Code, see [section 1654 of Title 19][/us/usc/t19/s1654] and Tables.
 
-    The Federal Trade Commission Act, referred to in subsec. (b), is defined in [section 69 of this title][/us/usc/t15/s69].
+    The Federal Trade Commission Act, referred to in subsec. (b), is [act Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], [38 Stat. 717][/us/stat/38/717], as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title][/us/usc/t15/s58] and Tables.
 
  __Transfer of Functions__ 
 
@@ -57,7 +57,9 @@
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
-[/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
+[/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 

@@ -243,7 +243,7 @@
 
 [Pub. L. 111–203, title IV, § 409(b)][/us/pl/111/203/s409/b], (c), July 21, 2010, [124 Stat. 1575][/us/stat/124/1575], provided that:
 
->     “(b)  __Rulemaking__  __.—__ 
+>     “(b) __Rulemaking.—__ 
 
 >     The rules, regulations, or orders issued by the Commission pursuant to section 202(a)(11)(G) of the Investment Advisers Act of 1940 \[[15 U.S.C. 80b–2(a)(11)(G)][/us/usc/t15/s80b–2/a/11/G]\], as added by this section, regarding the definition of the term ‘family office’ shall provide for an exemption that—
 
@@ -267,7 +267,7 @@
 
 >             “(C) any investment adviser registered under the Investment Adviser\[s\] Act of 1940 \[[15 U.S.C. 80b–1][/us/usc/t15/s80b–1] et seq.\] that provides investment advice to the family office and who identifies investment opportunities to the family office, and invests in such transactions on substantially the same terms as the family office invests, but does not invest in other funds advised by the family office, and whose assets as to which the family office directly or indirectly provides investment advice represent, in the aggregate, not more than 5 percent of the value of the total assets as to which the family office provides investment advice.
 
->     “(c)  __Antifraud Authority__  __.—__ 
+>     “(c) __Antifraud Authority.—__ 
 
 >     A family office that would not be a family office, but for subsection (b)(3), shall be deemed to be an investment adviser for the purposes of paragraphs (1), (2) and (4) of section 206 of the Investment Advisers Act of 1940 \[[15 U.S.C. 80b–6][/us/usc/t15/s80b–6]\].”
 

@@ -57,15 +57,15 @@
 
 [Pub. L. 107–355, § 26][/us/pl/107/355/s26], Dec. 17, 2002, [116 Stat. 3012][/us/stat/116/3012], provided that:
 
->     “(a)  __Study__  __.—__ 
+>     “(a) __Study.—__ 
 
 >     The Federal Energy Regulatory Commission, in consultation with the Department of Energy, shall conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network.
 
->     “(b)  __Consideration__  __.—__ 
+>     “(b) __Consideration.—__ 
 
 >     In carrying out the study, the Commission shall consider the ability of natural gas pipeline and storage facilities in New England to meet current and projected demand by gas-fired power generation plants and other consumers.
 
->     “(c)  __Report__  __.—__ 
+>     “(c) __Report.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2002\], the Federal Energy Regulatory Commission shall prepare and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report containing the results of the study conducted under subsection (a), including recommendations for addressing potential natural gas transmission and storage capacity problems in New England.”
 

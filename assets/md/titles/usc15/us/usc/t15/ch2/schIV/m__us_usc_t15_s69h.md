@@ -25,10 +25,6 @@
 
 ([Aug. 8, 1951, ch. 298, § 10][/us/act/1951-08-08/ch298/s10], [65 Stat. 181][/us/stat/65/181].)
 
- __References in Text__ 
-
-    The Federal Trade Commission Act, referred to in subsec. (b), is defined in [section 69 of this title][/us/usc/t15/s69].
-
  __Transfer of Functions__ 
 
     For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, [64 Stat. 1264][/us/stat/64/1264], set out under [section 41 of this title][/us/usc/t15/s41].
@@ -44,7 +40,6 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/act/1951-08-08/ch298/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs10
 [/us/stat/65/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F181
-[/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 

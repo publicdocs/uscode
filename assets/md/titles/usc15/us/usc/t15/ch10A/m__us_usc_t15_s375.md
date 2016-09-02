@@ -111,11 +111,11 @@
 
 [Pub. L. 111–154, § 6][/us/pl/111/154/s6], Mar. 31, 2010, [124 Stat. 1110][/us/stat/124/1110], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Except as provided in subsection (b), this Act \[see Short Title of 2010 Amendment note below\] shall take effect on the date that is 90 days after the date of enactment of this Act \[Mar. 31, 2010\].
 
->     “(b)  __BATFE Authority__  __.—__ 
+>     “(b) __BATFE Authority.—__ 
 
 >     The amendments made by section 4 \[amending [section 2343 of Title 18][/us/usc/t18/s2343], Crimes and Criminal Procedure\] shall take effect on the date of enactment of this Act.”
 
@@ -139,7 +139,7 @@
 
 [Pub. L. 111–154, § 1(b)][/us/pl/111/154/s1/b], (c), Mar. 31, 2010, [124 Stat. 1087][/us/stat/124/1087], 1088, provided that:
 
->     “(b)  __Findings__  __.—__ 
+>     “(b) __Findings.—__ 
 
 >     Congress finds that—
 
@@ -163,7 +163,7 @@
 
 >         “(10) the intrastate sale of illegal cigarettes and smokeless tobacco over the Internet has a substantial effect on interstate commerce.
 
->     “(c)  __Purposes__  __.—__ 
+>     “(c) __Purposes.—__ 
 
 >     It is the purpose of this Act \[see Short Title of 2010 Amendment note above\] to—
 
@@ -183,7 +183,7 @@
 
 [Pub. L. 111–154, § 5][/us/pl/111/154/s5], Mar. 31, 2010, [124 Stat. 1109][/us/stat/124/1109], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Nothing in this Act \[see Short Title of 2010 Amendment note above\] or the amendments made by this Act shall be construed to amend, modify, or otherwise affect—
 
@@ -197,7 +197,7 @@
 
 >         “(5) any State or local government authority to bring enforcement actions against persons located in Indian country.
 
->     “(b)  __Coordination of Law Enforcement__  __.—__ 
+>     “(b) __Coordination of Law Enforcement.—__ 
 
 >     Nothing in this Act or the amendments made by this Act shall be construed to inhibit or otherwise affect any coordinated law enforcement effort by 1 or more States or other jurisdictions, including Indian tribes, through interstate compact or otherwise, that—
 
@@ -207,19 +207,19 @@
 
 >         “(3) establishes cooperative programs for the administration of such laws.
 
->     “(c)  __Treatment of State and Local Governments__  __.—__ 
+>     “(c) __Treatment of State and Local Governments.—__ 
 
 >     Nothing in this Act or the amendments made by this Act shall be construed to authorize, deputize, or commission States or local governments as instrumentalities of the United States.
 
->     “(d)  __Enforcement Within Indian Country__  __.—__ 
+>     “(d) __Enforcement Within Indian Country.—__ 
 
 >     Nothing in this Act or the amendments made by this Act shall prohibit, limit, or restrict enforcement by the Attorney General of the United States of this Act or an amendment made by this Act within Indian country.
 
->     “(e)  __Ambiguity__  __.—__ 
+>     “(e) __Ambiguity.—__ 
 
 >     Any ambiguity between the language of this section or its application and any other provision of this Act shall be resolved in favor of this section.
 
->     “(f)  __Definitions__  __.—__ 
+>     “(f) __Definitions.—__ 
 
 >     In this section—
 

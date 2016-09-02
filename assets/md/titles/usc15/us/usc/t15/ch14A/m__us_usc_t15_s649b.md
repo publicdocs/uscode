@@ -87,7 +87,7 @@
 
 [Pub. L. 111–240, title I, § 1207][/us/pl/111/240/s1207], Sept. 27, 2010, [124 Stat. 2532][/us/stat/124/2532], as amended by [Pub. L. 112–239, div. A, title XVI, § 1699a][/us/pl/112/239/s1699a], Jan. 2, 2013, [126 Stat. 2092][/us/stat/126/2092], provided that:
 
->     “(a)  __Definitions__  __.—__ 
+>     “(a) __Definitions.—__ 
 
 >     In this section—
 
@@ -111,7 +111,7 @@
 
 >         “(5) the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
 
->     “(b)  __Establishment of Program__  __.—__ 
+>     “(b) __Establishment of Program.—__ 
 
 >     The Associate Administrator shall establish a 3-year trade and export promotion pilot program to be known as the State Trade and Export Promotion Grant Program, to make grants to States to carry out export programs that assist eligible small business concerns in—
 
@@ -133,11 +133,11 @@
 
 >     “(c) __Grants.—__ 
 
->         “(1)  __Joint review__  __.—__ 
+>         “(1) __Joint review.—__ 
 
 >         In carrying out the program, the Associate Administrator may make a grant to a State to increase the number of eligible small business concerns in the State that export or to increase the value of the exports by eligible small business concerns in the State.
 
->         “(2)  __Considerations__  __.—__ 
+>         “(2) __Considerations.—__ 
 
 >         In making grants under this section, the Associate Administrator may give priority to an application by a State that proposes a program that—
 
@@ -159,23 +159,23 @@
 
 >         “(3) __Limitations.—__ 
 
->             “(A)  __Single application__  __.—__ 
+>             “(A) __Single application.—__ 
 
 >             A State may not submit more than 1 application for a grant under the program in any 1 fiscal year.
 
->             “(B)  __Proportion of amounts__  __.—__ 
+>             “(B) __Proportion of amounts.—__ 
 
 >             The total value of grants under the program made during a fiscal year to the 10 States with the highest number of exporters that are small business concerns, based upon the latest data available from the Department of Commerce, shall be not more than 40 percent of the amounts appropriated for the program for that fiscal year.
 
->         “(4)  __Application__  __.—__ 
+>         “(4) __Application.—__ 
 
 >         A State desiring a grant under the program shall submit an application at such time, in such manner, and accompanied by such information as the Associate Administrator may establish.
 
->     “(d)  __Competitive Basis__  __.—__ 
+>     “(d) __Competitive Basis.—__ 
 
 >     The Associate Administrator shall award grants under the program on a competitive basis.
 
->     “(e)  __Federal Share__  __.—__ 
+>     “(e) __Federal Share.—__ 
 
 >     The Federal share of the cost of an export program carried out using a grant under the program shall be—
 
@@ -183,13 +183,13 @@
 
 >         “(2) for a State that does not have a high export volume, as determined by the Associate Administrator, not more than 75 percent.
 
->     “(f)  __Non-Federal Share__  __.—__ 
+>     “(f) __Non-Federal Share.—__ 
 
 >     The non-Federal share of the cost of an export program carried \[out\] using a grant under the program shall be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
 
 >     “(g) __Reports.—__ 
 
->         “(1)  __Initial report__  __.—__ 
+>         “(1) __Initial report.—__ 
 
 >         Not later than 120 days after the date of enactment of this Act \[Sept. 27, 2010\], the Associate Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report, which shall include—
 
@@ -199,7 +199,7 @@
 
 >             “(C) a description of the merit-based review process to be used in the program.
 
->         “(2)  __Annual reports__  __.—__ 
+>         “(2) __Annual reports.—__ 
 
 >         The Associate Administrator shall submit an annual report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives regarding the program, which shall include—
 
@@ -211,7 +211,7 @@
 
 >     “(h) __Reviews by Inspector General.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Inspector General of the Administration shall conduct a review of—
 
@@ -219,15 +219,15 @@
 
 >             “(B) the overall management and effectiveness of the program.
 
->         “(2)  __Report__  __.—__ 
+>         “(2) __Report.—__ 
 
 >         Not later than September 30, 2012, the Inspector General of the Administration shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding the review conducted under paragraph (1).
 
->     “(i) __ Authorization of Appropriations__  __.—__ 
+>     “(i) __Authorization of Appropriations.—__ 
 
 >     There is authorized to be appropriated to carry out the program $30,000,000 for each of fiscal years 2011, 2012, and 2013.
 
->     “(j) __ Termination__  __.—__ 
+>     “(j) __Termination.—__ 
 
 >     The authority to carry out the program shall terminate 3 years after the date on which the Associate Administrator establishes the program.”
 

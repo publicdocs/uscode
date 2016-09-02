@@ -79,7 +79,7 @@
 
  __Effective Date of 1946 Amendment__ 
 
-    Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that act, set out as a note under [section 4301 of Title 2][/us/usc/t2/s4301], The Congress.
+    Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that act, set out as a note under [section 72a of Title 2][/us/usc/t2/s72a], The Congress.
 
  __Senate Members of Joint Economic Committee for 107th Congress__ 
 
@@ -136,7 +136,7 @@
 [/us/pl/86/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F1
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
-[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
+[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
 [/us/pl/107/20/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2806
 [/us/stat/115/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F185
 [/us/usc/t15/s1024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1024%2Fa

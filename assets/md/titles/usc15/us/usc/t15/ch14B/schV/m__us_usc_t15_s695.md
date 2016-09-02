@@ -127,21 +127,21 @@
 
 [Pub. L. 104–208, div. D, title II, § 204][/us/pl/104/208/s204], Sept. 30, 1996, [110 Stat. 3009–736][/us/stat/110/3009-736], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     The Administrator shall carry out a loan liquidation pilot program (in this section referred to as the ‘pilot program’) in accordance with the requirements of this section.
 
 >     “(b) __Selection of Development Companies.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Administrator shall establish a pilot program under which certain development companies authorized to make loans and issue debentures under title V of the Small Business Investment Act of 1958 \[[15 U.S.C. 695][/us/usc/t15/s695] et seq.\] are selected by the Administrator in accordance with this subsection to carry out loan liquidations.
 
->         “(2)  __Conflicts of interest__  __.—__ 
+>         “(2) __Conflicts of interest.—__ 
 
 >         The development companies selected under paragraph (1) shall agree not to take any action that would create a potential conflict of interest involving the development company, the third party lender, or an associate of the third party lender.
 
->         “(3)  __Qualifications__  __.—__ 
+>         “(3) __Qualifications.—__ 
 
 >         In order to qualify to participate in the pilot program under this section, each development company shall—
 
@@ -153,7 +153,7 @@
 
 >             “(D) meet such other requirements as the Administration may establish.
 
->     “(c)  __Authority of Development Companies__  __.—__ 
+>     “(c) __Authority of Development Companies.—__ 
 
 >     The development companies selected under subsection (b) shall, for loans in their portfolio of loans made through debentures guaranteed under title V of the Small Business Investment Act of 1958 \[[15 U.S.C. 695][/us/usc/t15/s695] et seq.\] that are in default after the date of enactment of this Act \[Sept. 30, 1996\], be authorized to—
 
@@ -161,7 +161,7 @@
 
 >         “(2) liquidate such loans in a reasonable and sound manner and according to commercially accepted practices pursuant to a liquidation plan approved by the administrator in advance of its implementation. If the administrator does not approve or deny a request for approval of a liquidation plan within 10 business days of the date on which the request is made (or with respect to any routine liquidation activity under such a plan, within 5 business days) such request shall be deemed to be approved.
 
->     “(d)  __Authority of the Administrator__  __.—__ 
+>     “(d) __Authority of the Administrator.—__ 
 
 >     In carrying out the pilot program, the Administrator shall—
 
@@ -171,7 +171,7 @@
 
 >     “(e) __Report.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Administrator shall issue a report on the results of the pilot program to the Committees on Small Business of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\]. The report shall include information relating to—
 
@@ -185,7 +185,7 @@
 
 >             “(E) a comparison of the pilot program information with the same information for liquidation conducted outside the pilot program over the period of time.
 
->         “(2)  __Reporting period__  __.—__ 
+>         “(2) __Reporting period.—__ 
 
 >         The report shall be based on data from, and issued not later than 90 days after the close of, the first eight 8 \[sic\] fiscal quarters of the pilot program’s operation after the date of implementation.”
 

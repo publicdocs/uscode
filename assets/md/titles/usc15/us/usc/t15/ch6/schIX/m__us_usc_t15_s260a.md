@@ -55,11 +55,11 @@
 
 [Pub. L. 109–58, title I, § 110(c)][/us/pl/109/58/s110/c], (d), Aug. 8, 2005, [119 Stat. 615][/us/stat/119/615], provided that:
 
->     “(c)  __Report to Congress__  __.—__ 
+>     “(c) __Report to Congress.—__ 
 
 >     Not later than 9 months after the effective date stated in subsection (b) \[set out above\], the Secretary \[of Energy\] shall report to Congress on the impact of this section \[amending this section\] on energy consumption in the United States.
 
->     “(d)  __Right to Revert__  __.—__ 
+>     “(d) __Right to Revert.—__ 
 
 >     Congress retains the right to revert the Daylight Saving Time back to the 2005 time schedules once the Department \[of Energy\] study is complete.”
 

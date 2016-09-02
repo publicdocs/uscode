@@ -59,11 +59,11 @@
 
         (3) __Risk management database.—__ 
 
-            (A)  __Establishment__  __.—__ 
+            (A) __Establishment.—__ 
 
             The Administration shall establish, within the management system for the loan programs authorized by subsections (a) and (b) of [section 636 of this title][/us/usc/t15/s636] and title V of the Small Business Investment Act of 1958 \[[15 U.S.C. 695][/us/usc/t15/s695] et seq.\], a management information system that will generate a database capable of providing timely and accurate information in order to identify loan underwriting, collections, recovery, and liquidation problems.
 
-            (B)  __Information to be maintained__  __.—__ 
+            (B) __Information to be maintained.—__ 
 
             In addition to such other information as the Administration considers appropriate, the database established under subparagraph (A) shall, with respect to each loan program described in subparagraph (A), include information relating to—
 
@@ -89,7 +89,7 @@
 
                 (xi) underwriting characteristics of each loan that has entered into default, including term, amount and type of collateral, loan-to-value and other actual and projected ratios, line of business, credit history, and type of loan.
 
-            (C)  __Deadline for operational capability__  __.—__ 
+            (C) __Deadline for operational capability.—__ 
 
             The database established under subparagraph (A) shall—
 
@@ -425,7 +425,7 @@
 
 [Pub. L. 105–135, title II, § 233][/us/pl/105/135/s233], Dec. 2, 1997, [111 Stat. 2607][/us/stat/111/2607], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     The Administrator shall perform and complete the planning needed to serve as the basis for funding the development and implementation of the computerized loan monitoring system, including—
 
@@ -447,7 +447,7 @@
 
 >     “(b) __Report.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         On the date that is 6 months after the date of enactment of this Act \[Dec. 2, 1997\], the Administrator shall submit a report on the progress of the Administrator in carrying out subsection (a) to—
 
@@ -455,7 +455,7 @@
 
 >             “(B) the Comptroller General of the United States.
 
->         “(2)  __Evaluation__  __.—__ 
+>         “(2) __Evaluation.—__ 
 
 >         Not later than 28 days after receipt of the report under paragraph (1)(B), the Comptroller General of the United States shall—
 
@@ -463,7 +463,7 @@
 
 >             “(B) submit the evaluation to the Committees.
 
->         “(3)  __Limitation__  __.—__ 
+>         “(3) __Limitation.—__ 
 
 >         None of the funds provided for the purchase of the loan monitoring system may be obligated or expended until 45 days after the date on which the Committees and the Comptroller General of the United States receive the report under paragraph (1).”
 

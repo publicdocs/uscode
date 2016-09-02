@@ -127,7 +127,7 @@
 
 [Pub. L. 108–237, title II, § 221(a)][/us/pl/108/237/s221/a], June 22, 2004, [118 Stat. 668][/us/stat/118/668], provided that:
 
->     “(1)  __Findings__  __.—__ 
+>     “(1) __Findings.—__ 
 
 >     Congress finds that—
 
@@ -135,7 +135,7 @@
 
 >         “(B) it would misconstrue the meaning and Congressional intent in enacting the Tunney Act to limit the discretion of district courts to review antitrust consent judgments solely to determining whether entry of those consent judgments would make a ‘mockery of the judicial function’.
 
->     “(2)  __Purposes__  __.—__ 
+>     “(2) __Purposes.—__ 
 
 >     The purpose of this section \[amending this section\] is to effectuate the original Congressional intent in enacting the Tunney Act and to ensure that United States settlements of civil antitrust suits are in the public interest.”
 
