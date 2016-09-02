@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1472.md) | [Next](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1474.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1473)
+[Previous](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1472a.md) | [Next](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1474.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1473)
 
 ## § 1473. Conventional packages, marketing
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1472.md) | [Next](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1474.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1473)
+[Previous](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1472a.md) | [Next](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1474.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1473)
 
 ----------
 ----------

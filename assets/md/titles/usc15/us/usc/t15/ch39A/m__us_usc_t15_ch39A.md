@@ -41,6 +41,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1472a" data-uslm-ref="/us/usc/t15/s1472a">1472a.</a>  </td>
+
+    <td> Special packaging for liquid nicotine containers.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1473" data-uslm-ref="/us/usc/t15/s1473">1473.</a>  </td>
 
     <td> Conventional packages, marketing.  </td>

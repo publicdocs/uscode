@@ -97,6 +97,14 @@ SUBCHAPTER III—EXPORT PROMOTION  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4721a" data-uslm-ref="/us/usc/t15/s4721a">4721a.</a>  </td>
+
+    <td> State Trade coordination.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4722" data-uslm-ref="/us/usc/t15/s4722">4722.</a>  </td>
 
     <td> Transferred.  </td>
@@ -164,6 +172,14 @@ SUBCHAPTER III—EXPORT PROMOTION  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4728" data-uslm-ref="/us/usc/t15/s4728">4728.</a>  </td>
 
     <td> Environmental trade promotion.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4728a" data-uslm-ref="/us/usc/t15/s4728a">4728a.</a>  </td>
+
+    <td> State and Federal Export Promotion Coordination Working Group.  </td>
 
   </tr>
 

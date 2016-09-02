@@ -59,9 +59,11 @@
 
         (4) propose to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (2) and eliminates funding for the areas of overlap and duplication identified under paragraph (3);
 
-        (5) review efforts by the States (as defined in [section 4721(i) of this title][/us/usc/t15/s4721/i]) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data; and
+        (5) review efforts by the States (as defined in [section 4721(i) of this title][/us/usc/t15/s4721/i]) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data;
 
-        (6) reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC.
+        (6) reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC; and
+
+        (7) in coordination with State trade promotion agencies, include a survey and analysis regarding the overall effectiveness of Federal-State coordination and export promotion goals on an annual basis, to further include best practices, recommendations to better assist small businesses, and other relevant matters.
 
     (d) __Membership__ 
 
@@ -95,29 +97,41 @@
 
             (M) at the discretion of the President, such other departments or agencies as may be necessary.
 
-        (2) __Chairperson__ 
+        (2) __Representatives from State trade promotion agencies__ 
+
+            The TPCC shall also include 1 or more members appointed by the President who are representatives of State trade promotion agencies.
+
+        (3) __Chairperson__ 
 
             The Secretary of Commerce shall serve as the chairperson of the TPCC.
 
     (e) __Member qualifications__ 
 
-        Members of the TPCC shall be appointed by the heads of their respective departments or agencies. Such members, as well as alternates designated by any members unable to attend a meeting of the TPCC, shall be individuals who exercise significant decisionmaking authority in their respective departments or agencies.
+        Members of the TPCC (other than members described in subsection (d)(2)) shall be appointed by the heads of their respective departments or agencies. Such members, as well as alternates designated by any members unable to attend a meeting of the TPCC, shall be individuals who exercise significant decisionmaking authority in their respective departments or agencies.
 
     (f) __Report to Congress__ 
 
     The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
 
-        (1) the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan, and any revisions thereto; and
+        (1) the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan (including implementation of the survey and analysis described in paragraph (7) of that subsection), and any revisions thereto; and
 
         (2) the implementation of sections 5823 and 5824 of title 22  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2312, as added [Pub. L. 102–429, title II][/us/pl/102/429/tII], § 201, Oct. 21, 1992, [106 Stat. 2199][/us/stat/106/2199]; amended [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1022(a), Dec. 21, 1995, [109 Stat. 713][/us/stat/109/713]; [Pub. L. 104–288][/us/pl/104/288], § 8, Oct. 11, 1996, [110 Stat. 3407][/us/stat/110/3407]; [Pub. L. 106–158][/us/pl/106/158], § 7, Dec. 9, 1999, [113 Stat. 1747][/us/stat/113/1747].)
+([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2312, as added [Pub. L. 102–429, title II][/us/pl/102/429/tII], § 201, Oct. 21, 1992, [106 Stat. 2199][/us/stat/106/2199]; amended [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1022(a), Dec. 21, 1995, [109 Stat. 713][/us/stat/109/713]; [Pub. L. 104–288][/us/pl/104/288], § 8, Oct. 11, 1996, [110 Stat. 3407][/us/stat/110/3407]; [Pub. L. 106–158][/us/pl/106/158], § 7, Dec. 9, 1999, [113 Stat. 1747][/us/stat/113/1747]; [Pub. L. 114–125, title V][/us/pl/114/125/tV], § 505(a), (e), Feb. 24, 2016, [130 Stat. 179][/us/stat/130/179], 180.)
 
  __References in Text__ 
 
     Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, “sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 ([22 U.S.C. 5823][/us/usc/t22/s5823] and 5824)”, and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, [Pub. L. 102–511][/us/pl/102/511], to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2016—Subsec. (c)(7). [Pub. L. 114–125][/us/pl/114/125], § 505(e)(1), added par. (7).
+
+    Subsec. (d)(2), (3). [Pub. L. 114–125][/us/pl/114/125], § 505(a)(1), added par. (2) and redesignated former par. (2) as (3).
+
+    Subsec. (e). [Pub. L. 114–125][/us/pl/114/125], § 505(a)(2), inserted “(other than members described in subsection (d)(2))” after “Members of the TPCC”.
+
+    Subsec. (f)(1). [Pub. L. 114–125][/us/pl/114/125], § 505(e)(2), inserted “(including implementation of the survey and analysis described in paragraph (7) of that subsection)” after “the implementation of such plan”.
 
     1999—Subsec. (f). [Pub. L. 106–158][/us/pl/106/158] substituted “March 30 of each year,” for “September 30, 1995, and annually thereafter,” in introductory provisions.
 
@@ -128,6 +142,16 @@
  __Change of Name__ 
 
     Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+ __Availability of State Resources Guides on Export.gov__ 
+
+[Pub. L. 114–125, title V][/us/pl/114/125/tV], § 504(c), Feb. 24, 2016, [130 Stat. 179][/us/stat/130/179], provided that: 
+
+> “The Secretary of Commerce shall make available on the Internet website Export.gov (or a successor website) information on the resources relating to export promotion and export financing available in each State—
+
+>     “(1) organized by State; and
+
+>     “(2) including information on State agencies with responsibility for export promotion or export financing and district export councils and trade associations located in the State.”
 
  __Ex. Ord. No. 12870. Trade Promotion Coordinating Committee__ 
 
@@ -439,6 +463,10 @@ By the authority vested in me as President by the Constitution and the laws of t
 
                               Barack Obama.
 
+ __Extension of Term of President’s Advisory Council on Doing Business in Africa__ 
+
+    Term of President’s Advisory Council on Doing Business in Africa extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
  __Maximizing the Effectiveness of Federal Programs and Functions Supporting Trade and Investment__ 
 
     Memorandum of President of the United States, Feb. 17, 2012, 77 F.R. 10935, provided:
@@ -500,11 +528,19 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/110/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3407
 [/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/stat/113/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1747
+[/us/pl/114/125/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtV
+[/us/stat/130/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F179
 [/us/usc/t22/s5823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5823
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/pl/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
+[/us/pl/114/125/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtV
+[/us/stat/130/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F179
 [/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
 [/us/stat/106/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2186
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635

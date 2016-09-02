@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4728.md) | [Next](./../../../../..//us/usc/t15/ch74/m__us_usc_t15_ch74.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4729)
+[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4728a.md) | [Next](./../../../../..//us/usc/t15/ch74/m__us_usc_t15_ch74.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4729)
 
 ## § 4729. Report on export policy
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4728.md) | [Next](./../../../../..//us/usc/t15/ch74/m__us_usc_t15_ch74.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4729)
+[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4728a.md) | [Next](./../../../../..//us/usc/t15/ch74/m__us_usc_t15_ch74.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4729)
 
 ----------
 ----------

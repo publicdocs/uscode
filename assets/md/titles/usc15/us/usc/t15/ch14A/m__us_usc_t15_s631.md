@@ -305,6 +305,12 @@
 
 > “This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980.”
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–125, title V][/us/pl/114/125/tV], § 501, Feb. 24, 2016, [130 Stat. 172][/us/stat/130/172], provided that: 
+
+> “This title \[enacting sections 4721a and 4728a of this title, amending sections 634c, 649, and 4727 of this title, and enacting provisions set out as a note under [section 4727 of this title][/us/usc/t15/s4727]\] may be cited as the ‘Small Business Trade Enhancement Act of 2015’ or the ‘State Trade Coordination Act’.”
+
  __Short Title of 2015 Amendment__ 
 
 [Pub. L. 114–88][/us/pl/114/88], § 1(a), Nov. 25, 2015, [129 Stat. 686][/us/stat/129/686], provided that: 
@@ -1433,6 +1439,9 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/pl/96/302/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtV
 [/us/stat/94/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F854
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
+[/us/pl/114/125/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtV
+[/us/stat/130/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F172
+[/us/usc/t15/s4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4727
 [/us/pl/114/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88
 [/us/stat/129/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F686
 [/us/pl/114/88/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2FdA

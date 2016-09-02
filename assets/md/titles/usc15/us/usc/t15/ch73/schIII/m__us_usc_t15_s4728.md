@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4727a.md) | [Next](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4729.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4728)
+[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4727a.md) | [Next](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4728a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4728)
 
 ## § 4728. Environmental trade promotion
 
@@ -197,7 +197,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4727a.md) | [Next](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4729.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4728)
+[Previous](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4727a.md) | [Next](./../../../../..//us/usc/t15/ch73/schIII/m__us_usc_t15_s4728a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4728)
 
 ----------
 ----------

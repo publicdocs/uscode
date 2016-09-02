@@ -63,6 +63,12 @@
 
 > “This Act \[see Short Title note set out below\] shall take effect on the date of its enactment \[Dec. 30, 1970\]. Each regulation establishing a special packaging standard shall specify the date such standard is to take effect which date shall not be sooner than one hundred and eighty days or later than one year from the date such regulation is final, unless the Commission, for good cause found, determines that an earlier effective date is in the public interest and publishes in the Federal Register his reason for such finding, in which case such earlier date shall apply. No such standard shall be effective as to household substances subject to this Act packaged prior to the effective date of such final regulation.”
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–116][/us/pl/114/116], § 1, Jan. 28, 2016, [130 Stat. 3][/us/stat/130/3], provided that: 
+
+> “This Act \[enacting [section 1472a of this title][/us/usc/t15/s1472a] and provisions set out as a note under 1472a of this title\] may be cited as the ‘Child Nicotine Poisoning Prevention Act of 2015’.”
+
  __Short Title__ 
 
 [Pub. L. 91–601][/us/pl/91/601], § 1, Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670], provided that: 
@@ -107,6 +113,9 @@
 [/us/stat/86/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1231
 [/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F716
+[/us/pl/114/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F116
+[/us/stat/130/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F3
+[/us/usc/t15/s1472a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1472a
 [/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1670
 [/us/usc/t7/s135/z/2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs135%2Fz%2F2%2Fi

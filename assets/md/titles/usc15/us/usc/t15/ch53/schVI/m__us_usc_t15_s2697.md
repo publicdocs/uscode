@@ -427,7 +427,7 @@
 
         (4) __Import regulations__ 
 
-            Not later than July 1, 2013, the Administrator, in coordination with the Commissioner of Customs and Border Protection and other appropriate Federal departments and agencies, shall revise regulations promulgated pursuant to [section 2612 of this title][/us/usc/t15/s2612] as the Administrator determines to be necessary to ensure compliance with this section.
+            Not later than July 1, 2013, the Administrator, in coordination with the Commissioner of U.S. Customs and Border Protection and other appropriate Federal departments and agencies, shall revise regulations promulgated pursuant to [section 2612 of this title][/us/usc/t15/s2612] as the Administrator determines to be necessary to ensure compliance with this section.
 
         (5) __Successor standards and test methods__ 
 
@@ -437,7 +437,11 @@
 
         An individual or entity that violates any requirement under this section (including any regulation promulgated pursuant to subsection (d)) shall be considered to have committed a prohibited act under [section 2614 of this title][/us/usc/t15/s2614].
 
-([Pub. L. 94–469, title VI][/us/pl/94/469/tVI], § 601, as added [Pub. L. 111–199][/us/pl/111/199], § 2(a), July 7, 2010, [124 Stat. 1359][/us/stat/124/1359].)
+([Pub. L. 94–469, title VI][/us/pl/94/469/tVI], § 601, as added [Pub. L. 111–199][/us/pl/111/199], § 2(a), July 7, 2010, [124 Stat. 1359][/us/stat/124/1359]; amended [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs and Border Protection” in subsec. (d)(4), to reflect the probable intent of Congress. On or after Feb. 24, 2016, any reference to the “Commissioner of Customs” or the “Commissioner of the Customs Service” to be deemed to be a reference to the Commissioner of U.S. Customs and Border Protection, see [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Modification of Regulation__ 
 
@@ -457,6 +461,10 @@
 [/us/pl/94/469/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtVI
 [/us/pl/111/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F199
 [/us/stat/124/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1359
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/111/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F199
 [/us/stat/124/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1367
 [/us/usc/t15/s2697/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2697%2Fd

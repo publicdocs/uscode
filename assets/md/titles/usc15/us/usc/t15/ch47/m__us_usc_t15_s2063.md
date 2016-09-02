@@ -343,7 +343,7 @@
 
         (4) __Electronic filing of certificates for imported products__ 
 
-            In consultation with the Commissioner of Customs, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy to the Commission and to the Commissioner of Customs.
+            In consultation with the Commissioner of U.S. Customs and Border Protection, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy to the Commission and to the Commissioner of U.S. Customs and Border Protection.
 
     (h) __Rule of construction__ 
 
@@ -353,7 +353,7 @@
 
         No advertisement for a consumer product or label or packaging of such product may contain a reference to a consumer product safety rule or a voluntary consumer product safety standard unless such product conforms with the applicable safety requirements of such rule or standard.
 
-([Pub. L. 92–573][/us/pl/92/573], § 14, Oct. 27, 1972, [86 Stat. 1220][/us/stat/86/1220]; [Pub. L. 110–314, title I][/us/pl/110/314/tI], §§ 102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, [122 Stat. 3022][/us/stat/122/3022], 3024, 3027, 3028; [Pub. L. 112–28][/us/pl/112/28], §§ 2(a), 6, 10(a), Aug. 12, 2011, [125 Stat. 276][/us/stat/125/276], 281, 283.)
+([Pub. L. 92–573][/us/pl/92/573], § 14, Oct. 27, 1972, [86 Stat. 1220][/us/stat/86/1220]; [Pub. L. 110–314, title I][/us/pl/110/314/tI], §§ 102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, [122 Stat. 3022][/us/stat/122/3022], 3024, 3027, 3028; [Pub. L. 112–28][/us/pl/112/28], §§ 2(a), 6, 10(a), Aug. 12, 2011, [125 Stat. 276][/us/stat/125/276], 281, 283; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __References in Text__ 
 
@@ -391,6 +391,10 @@
 
     Subsecs. (e) to (h). [Pub. L. 110–314][/us/pl/110/314], § 102(b), added subsecs. (e) to (h).
 
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in subsec. (g)(4) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
+
  __Effective Date of 2008 Amendment__ 
 
 [Pub. L. 110–314, title I][/us/pl/110/314/tI], § 102(a)(1)(B), Aug. 14, 2008, [122 Stat. 3022][/us/stat/122/3022], provided that: 
@@ -422,6 +426,8 @@
 [/us/stat/122/3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3022
 [/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/stat/125/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F276
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F372
 [/us/usc/t15/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261
@@ -440,6 +446,8 @@
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/110/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtI
 [/us/stat/122/3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3022
 [/us/pl/110/314/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs103%2Fc

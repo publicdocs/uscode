@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1471.md) | [Next](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1473.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1472)
+[Previous](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1471.md) | [Next](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1472a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1472)
 
 ## § 1472. Special packaging standards
 
@@ -65,7 +65,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1471.md) | [Next](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1473.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1472)
+[Previous](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1471.md) | [Next](./../../../..//us/usc/t15/ch39A/m__us_usc_t15_s1472a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1472)
 
 ----------
 ----------
