@@ -59,11 +59,9 @@
 
     Subsec. (b). [Pub. L. 113–235][/us/pl/113/235], § 244(a)(1), substituted “covered accounts of the Department” for “medical care accounts of the Department”.
 
-    Subsec. (c). [Pub. L. 113–235][/us/pl/113/235], § 244(a)(3)(G), substituted “Covered Accounts of the Department” for “Medical Care Accounts” in heading.
+    Subsec. (c). [Pub. L. 113–235][/us/pl/113/235], § 244(a)(1), (3)(A), (G), substituted, in heading, “Covered Accounts of the Department” for “Medical Care Accounts” and, in introductory provisions, substituted “covered accounts of the Department” for “medical care accounts of the Department” and “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account”.
 
-    [Pub. L. 113–235][/us/pl/113/235], § 244(a)(1), (3)(A), in introductory provisions, substituted “covered accounts of the Department” for “medical care accounts of the Department” and “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account”.
-
-    Subsec. (c)(1)–(6). [Pub. L. 113–235][/us/pl/113/235], § 244(a)(3)(B)–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
+    Subsec. (c). [Pub. L. 113–235][/us/pl/113/235], § 244(a)(3)(B)–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
 
  __Effective Date of 2014Amendment__ 
 
@@ -115,7 +113,6 @@
 [/us/stat/123/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2137
 [/us/pl/113/235/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdI%2FtII
 [/us/stat/128/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2568
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235

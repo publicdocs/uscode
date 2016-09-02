@@ -343,7 +343,7 @@
 
  __Pilot Program on Community Outreach__ 
 
-[Pub. L. 114–2][/us/pl/114/2], § 5, Feb. 12, 2015, [129 Stat. 34][/us/stat/129/34], as amended by [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 563(a), Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829], provided that:
+[Pub. L. 114–2][/us/pl/114/2], § 5, Feb. 12, 2015, [129 Stat. 34][/us/stat/129/34], as amended by [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 563, Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
