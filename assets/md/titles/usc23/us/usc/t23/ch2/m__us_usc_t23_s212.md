@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s211.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s213.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs212)
 
-## \[§ 212. Repealed. [Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A)][/us/pl/112/141/s1519/b/1/A], July 6, 2012, [126 Stat. 575][/us/stat/126/575]\]
+## \[§ 212. Repealed. [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1519(b)(1)(A), July 6, 2012, [126 Stat. 575][/us/stat/126/575]\]
 
     Section, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 909][/us/stat/72/909], related to the Inter-American Highway.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/112/141/s1519/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fb%2F1%2FA
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F909

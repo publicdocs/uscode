@@ -105,7 +105,7 @@
 
     Nothing in this section shall be construed to limit the requirements under any applicable law providing for the consideration and preservation of the public interest, including public participation and community values in transportation decisionmaking.
 
-(Added [Pub. L. 109–59, title VI, § 6003(a)][/us/pl/109/59/s6003/a], Aug. 10, 2005, [119 Stat. 1865][/us/stat/119/1865].)
+(Added [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6003(a), Aug. 10, 2005, [119 Stat. 1865][/us/stat/119/1865].)
 
  __References in Text__ 
 
@@ -117,7 +117,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 325, added [Pub. L. 102–240, title VI, § 6003][/us/pl/102/240/s6003]\[(a)\], Dec. 18, 1991, [105 Stat. 2168][/us/stat/105/2168], related to international highway transportation outreach program, prior to repeal by [Pub. L. 105–178, title V, § 5119(b)][/us/pl/105/178/s5119/b], June 9, 1998, [112 Stat. 452][/us/stat/112/452].
+    A prior section 325, added [Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6003\[(a)\], Dec. 18, 1991, [105 Stat. 2168][/us/stat/105/2168], related to international highway transportation outreach program, prior to repeal by [Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5119(b), June 9, 1998, [112 Stat. 452][/us/stat/112/452].
 
 ----------
 
@@ -126,14 +126,14 @@
 ----------
 ----------
 
-[/us/pl/109/59/s6003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6003%2Fa
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1865
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/102/240/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6003
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2168
-[/us/pl/105/178/s5119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5119%2Fb
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F452
 
 

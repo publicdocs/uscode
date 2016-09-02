@@ -17,7 +17,7 @@
 
     The Secretary is authorized and directed to assist and cooperate with other Federal departments and agencies, State and local governments, private industry, and other interested parties, to increase highway safety. For the purposes of this chapter, the term “State” means any one of the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 731][/us/stat/80/731]; amended [Pub. L. 93–87, title II, § 218][/us/pl/93/87/s218], Aug. 13, 1973, [87 Stat. 290][/us/stat/87/290]; [Pub. L. 98–363, § 3(b)][/us/pl/98/363/s3/b], July 17, 1984, [98 Stat. 436][/us/stat/98/436]; [Pub. L. 100–17, title I, § 133(b)(19)][/us/pl/100/17/s133/b/19], Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172].)
+(Added [Pub. L. 89–564, title I][/us/pl/89/564/tI], § 101, Sept. 9, 1966, [80 Stat. 731][/us/stat/80/731]; amended [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 218, Aug. 13, 1973, [87 Stat. 290][/us/stat/87/290]; [Pub. L. 98–363][/us/pl/98/363], § 3(b), July 17, 1984, [98 Stat. 436][/us/stat/98/436]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(b)(19), Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172].)
 
  __Amendments__ 
 
@@ -29,67 +29,67 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–363, § 3(c)][/us/pl/98/363/s3/c], July 17, 1984, [98 Stat. 436][/us/stat/98/436], provided that: 
+[Pub. L. 98–363][/us/pl/98/363], § 3(c), July 17, 1984, [98 Stat. 436][/us/stat/98/436], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 402 of this title][/us/usc/t23/s402]\] shall apply to fiscal years beginning after the date of enactment of this Act \[July 17, 1984\].”
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–240, title II, § 2001][/us/pl/102/240/s2001], Dec. 18, 1991, [105 Stat. 2070][/us/stat/105/2070], provided that: 
+[Pub. L. 102–240, title II][/us/pl/102/240/tII], § 2001, Dec. 18, 1991, [105 Stat. 2070][/us/stat/105/2070], provided that: 
 
 > “This part \[part A (§§ 2001–2009) of title II of [Pub. L. 102–240][/us/pl/102/240], amending sections 402, 403, and 410 of this title, enacting provisions set out as notes under sections 402, 403, and 410 of this title, and amending provisions set out below\] may be cited as the ‘Highway Safety Act of 1991’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–690, title IX, § 9001][/us/pl/100/690/s9001], Nov. 18, 1988, [102 Stat. 4521][/us/stat/102/4521], provided that: 
+[Pub. L. 100–690, title IX][/us/pl/100/690/tIX], § 9001, Nov. 18, 1988, [102 Stat. 4521][/us/stat/102/4521], provided that: 
 
 > “This subtitle \[subtitle A (§§ 9001 to 9005) of title IX of [Pub. L. 100–690][/us/pl/100/690], enacting [section 410 of this title][/us/usc/t23/s410] and provisions set out as notes under sections 403 and 410 of this title\] may be cited as the ‘Drunk Driving Prevention Act of 1988’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–17, title II, § 201][/us/pl/100/17/s201], Apr. 2, 1987, [101 Stat. 218][/us/stat/101/218], provided that: 
+[Pub. L. 100–17, title II][/us/pl/100/17/tII], § 201, Apr. 2, 1987, [101 Stat. 218][/us/stat/101/218], provided that: 
 
 > “This title \[amending sections 402 and 408 of this title and section 2314 of former Title 49, Transportation, enacting provisions set out as notes under this section, [section 402 of this title][/us/usc/t23/s402], and section 2204 of former Title 49, and amending provisions set out as a note under this section\] be cited as the ‘Highway Safety Act of 1987’.”
 
  __Short Title of 1983 Amendment__ 
 
-[Pub. L. 97–424, title II, § 201][/us/pl/97/424/s201], Jan. 6, 1983, [96 Stat. 2137][/us/stat/96/2137], provided that: 
+[Pub. L. 97–424, title II][/us/pl/97/424/tII], § 201, Jan. 6, 1983, [96 Stat. 2137][/us/stat/96/2137], provided that: 
 
 > “This title \[amending [section 402 of this title][/us/usc/t23/s402] and enacting provisions set out as notes under this section and sections 130, 154, and 408 of this title\] may be cited as the ‘Highway Safety Act of 1982’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–599, title II, § 201][/us/pl/95/599/s201], Nov. 6, 1978, [92 Stat. 2727][/us/stat/92/2727], provided that: 
+[Pub. L. 95–599, title II][/us/pl/95/599/tII], § 201, Nov. 6, 1978, [92 Stat. 2727][/us/stat/92/2727], provided that: 
 
 > “This title \[enacting [section 407 of this title][/us/usc/t23/s407], amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1978’.”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–280, title II, § 201][/us/pl/94/280/s201], May 5, 1976, [90 Stat. 451][/us/stat/90/451], provided that: 
+[Pub. L. 94–280, title II][/us/pl/94/280/tII], § 201, May 5, 1976, [90 Stat. 451][/us/stat/90/451], provided that: 
 
 > “That title \[amending sections 104, 151, 402, 404, and 406 of this title and provisions set out as a note under [section 130 of this title][/us/usc/t23/s130] and enacting provisions set out as notes under sections 127 and 402 of this title\] may be cited as the ‘Highway Safety Act of 1976’.”
 
  __Short Title of 1973 Amendment__ 
 
-[Pub. L. 93–87, title II, § 201][/us/pl/93/87/s201], Aug. 13, 1973, [87 Stat. 282][/us/stat/87/282], provided that: 
+[Pub. L. 93–87, title II][/us/pl/93/87/tII], § 201, Aug. 13, 1973, [87 Stat. 282][/us/stat/87/282], provided that: 
 
 > “This title \[enacting sections 151 to 153 and 405 of this title, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out as notes under this section and sections 130, 144, 151, 217, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1973’.”
 
  __Short Title of 1970 Amendment__ 
 
-[Pub. L. 91–605, title II, § 201][/us/pl/91/605/s201], Dec. 31, 1970, [84 Stat. 1739][/us/stat/84/1739], provided that: 
+[Pub. L. 91–605, title II][/us/pl/91/605/tII], § 201, Dec. 31, 1970, [84 Stat. 1739][/us/stat/84/1739], provided that: 
 
 > “This title \[enacting sections 144 and 322 of this title, amending provisions set out as notes under this section and [section 402 of this title][/us/usc/t23/s402], and enacting provisions set out as notes under this section and [section 402 of this title][/us/usc/t23/s402]\] may be cited as the ‘Highway Safety Act of 1970’.”
 
  __Short Title__ 
 
-[Pub. L. 89–564, title II, § 208][/us/pl/89/564/s208], Sept. 9, 1966, [80 Stat. 737][/us/stat/80/737], provided that: 
+[Pub. L. 89–564, title II][/us/pl/89/564/tII], § 208, Sept. 9, 1966, [80 Stat. 737][/us/stat/80/737], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
 
  __Wildlife Vehicle Collision Reduction Study__ 
 
-[Pub. L. 109–59, title I, § 1119(n)][/us/pl/109/59/s1119/n], Aug. 10, 2005, [119 Stat. 1190][/us/stat/119/1190], provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1119(n), Aug. 10, 2005, [119 Stat. 1190][/us/stat/119/1190], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -157,13 +157,13 @@
 
  __Worker Injury Prevention and Free Flow of Vehicular Traffic__ 
 
-[Pub. L. 109–59, title I, § 1402][/us/pl/109/59/s1402], Aug. 10, 2005, [119 Stat. 1227][/us/stat/119/1227], provided that: 
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1402, Aug. 10, 2005, [119 Stat. 1227][/us/stat/119/1227], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall issue regulations to decrease the likelihood of worker injury and maintain the free flow of vehicular traffic by requiring workers whose duties place them on or in close proximity to a Federal-aid highway (as defined in [section 101 of title 23][/us/usc/t23/s101], United States Code) to wear high visibility garments. The regulations may also require such other worker-safety measures for workers with those duties as the Secretary determines to be appropriate.”
 
  __Roadway Safety Improvements for Older Drivers and Pedestrians__ 
 
-[Pub. L. 109–59, title I, § 1405][/us/pl/109/59/s1405], Aug. 10, 2005, [119 Stat. 1230][/us/stat/119/1230], provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1405, Aug. 10, 2005, [119 Stat. 1230][/us/stat/119/1230], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -179,7 +179,7 @@
 
  __Work Zone and Guard Rail Safety Training__ 
 
-[Pub. L. 109–59, title I, § 1409(a)][/us/pl/109/59/s1409/a]–(c), Aug. 10, 2005, [119 Stat. 1232][/us/stat/119/1232], as amended by [Pub. L. 114–94, div. A, title I, § 1417(a)(2)][/us/pl/114/94/s1417/a/2], Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423], provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1409(a)–(c), Aug. 10, 2005, [119 Stat. 1232][/us/stat/119/1232], as amended by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1417(a)(2), Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -209,7 +209,7 @@
 
  __Prohibition on Other Uses__ 
 
-[Pub. L. 114–94, div. A, title IV, § 4001(b)][/us/pl/114/94/s4001/b], Dec. 4, 2015, [129 Stat. 1498][/us/stat/129/1498], provided that: 
+[Pub. L. 114–94, div. A, title IV][/us/pl/114/94/dA/tIV], § 4001(b), Dec. 4, 2015, [129 Stat. 1498][/us/stat/129/1498], provided that: 
 
 > “Except as otherwise provided in chapter 4 of title 23, United States Code, and chapter 303 of title 49, United States Code, the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapters—
 
@@ -219,13 +219,13 @@
 
 Similar provisions were contained in the following prior acts:
 
-    [Pub. L. 112–141, div. C, title I, § 31101(b)][/us/pl/112/141/s31101/b], July 6, 2012, [126 Stat. 733][/us/stat/126/733].
+    [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31101(b), July 6, 2012, [126 Stat. 733][/us/stat/126/733].
 
-    [Pub. L. 109–59, title II, § 2001(b)][/us/pl/109/59/s2001/b], Aug. 10, 2005, [119 Stat. 1520][/us/stat/119/1520].
+    [Pub. L. 109–59, title II][/us/pl/109/59/tII], § 2001(b), Aug. 10, 2005, [119 Stat. 1520][/us/stat/119/1520].
 
  __Use of Uniformed Police Officers on Federal-Aid Highway Construction Projects__ 
 
-[Pub. L. 105–178, title I, § 1213(c)][/us/pl/105/178/s1213/c], June 9, 1998, [112 Stat. 200][/us/stat/112/200], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1213(c), June 9, 1998, [112 Stat. 200][/us/stat/112/200], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -237,7 +237,7 @@ Similar provisions were contained in the following prior acts:
 
  __Radio and Microwave Technology for Motor Vehicle Safety Warning System__ 
 
-[Pub. L. 104–59, title III, § 358(c)][/us/pl/104/59/s358/c], Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625], provided that:
+[Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 358(c), Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -259,7 +259,7 @@ Similar provisions were contained in the following prior acts:
 
  __Work Zone Safety Program__ 
 
-[Pub. L. 109–59, title I, § 1410][/us/pl/109/59/s1410], Aug. 10, 2005, [119 Stat. 1233][/us/stat/119/1233], provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1410, Aug. 10, 2005, [119 Stat. 1233][/us/stat/119/1233], provided that:
 
 >     “(a)  __Grants__  __.—__ 
 
@@ -273,7 +273,7 @@ Similar provisions were contained in the following prior acts:
 
 >     Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 100 percent, and such funds shall remain available until expended and shall not be transferable.”
 
-[Pub. L. 104–59, title III, § 358(b)][/us/pl/104/59/s358/b], Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625], provided that: 
+[Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 358(b), Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625], provided that: 
 
 > “In carrying out the work zone safety program under section 1051 of the Intermodal Surface Transportation Efficiency Act of 1991 \[[Pub. L. 102–240][/us/pl/102/240]\] ([23 U.S.C. 401][/us/usc/t23/s401] note; [105 Stat. 2001][/us/stat/105/2001]), the Secretary shall utilize a variety of methods to increase safety at highway construction sites, including each of the following:
 
@@ -289,13 +289,13 @@ Similar provisions were contained in the following prior acts:
 
 >     “(6) Encouraging the use of unit price bid items in contracts for traffic control devices and implementation of traffic control plans.”
 
-[Pub. L. 102–240, title I, § 1051][/us/pl/102/240/s1051], Dec. 18, 1991, [105 Stat. 2001][/us/stat/105/2001], provided that: 
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1051, Dec. 18, 1991, [105 Stat. 2001][/us/stat/105/2001], provided that: 
 
 > “The Secretary shall develop and implement a work zone safety program which will improve work zone safety at highway construction sites by enhancing the quality and effectiveness of traffic control devices, safety appurtenances, traffic control plans, and bidding practices for traffic control devices and services.”
 
  __Older Drivers and Other Special Driver Groups__ 
 
-[Pub. L. 104–59, title III, § 358(a)][/us/pl/104/59/s358/a], Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625], provided that:
+[Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 358(a), Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -309,11 +309,11 @@ Similar provisions were contained in the following prior acts:
 
 >     The Secretary shall conduct the study under paragraph (1) by entering into a cooperative agreement with an institution that has demonstrated competencies in gerontological research, population demographics, human factors related to transportation, and advanced technology applied to transportation.”
 
-    [Pub. L. 100–17, title II, § 208][/us/pl/100/17/s208], Apr. 2, 1987, [101 Stat. 222][/us/stat/101/222], as amended by [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 348(h)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation’s roads, and (2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
+    [Pub. L. 100–17, title II][/us/pl/100/17/tII], § 208, Apr. 2, 1987, [101 Stat. 222][/us/stat/101/222], as amended by [Pub. L. 100–202][/us/pl/100/202], § 101(l) \[title III, § 348(h)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation’s roads, and (2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
 
  __Annual Report by Secretary of Transportation on Highway Safety Performance of Each State__ 
 
-[Pub. L. 97–424, title II, § 207][/us/pl/97/424/s207], Jan. 6, 1983, [96 Stat. 2139][/us/stat/96/2139], provided that: 
+[Pub. L. 97–424, title II][/us/pl/97/424/tII], § 207, Jan. 6, 1983, [96 Stat. 2139][/us/stat/96/2139], provided that: 
 
 > “The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in [section 101 of title 23][/us/usc/t23/s101], United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms ‘State’, ‘rural areas’, and ‘urban area’ have the meaning such terms have under section 101.”
 
@@ -321,11 +321,11 @@ Similar provisions were contained in the following prior acts:
 
  __National Driver Registration__ 
 
-    [Pub. L. 97–364, title II][/us/pl/97/364], §§ 201–211, Oct. 25, 1982, [96 Stat. 1740–1748][/us/stat/96/1740-1748], as amended by [Pub. L. 100–223, title III, § 305][/us/pl/100/223/s305], Dec. 30, 1987, [101 Stat. 1525][/us/stat/101/1525]; [Pub. L. 100–342, § 4(b)][/us/pl/100/342/s4/b], June 22, 1988, [102 Stat. 626][/us/stat/102/626]; [Pub. L. 101–380, title IV, § 4105(a)][/us/pl/101/380/s4105/a], Aug. 18, 1990, [104 Stat. 512][/us/stat/104/512]; [Pub. L. 102–240, title II, § 2007][/us/pl/102/240/s2007], Dec. 18, 1991, [105 Stat. 2080][/us/stat/105/2080], directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and [Pub. L. 103–429, § 8(10)][/us/pl/103/429/s8/10], Oct. 31, 1994, [108 Stat. 4390][/us/stat/108/4390], and was restated in part in chapter 303 of Title 49, Transportation.
+    [Pub. L. 97–364, title II][/us/pl/97/364/tII], §§ 201–211, Oct. 25, 1982, [96 Stat. 1740–1748][/us/stat/96/1740-1748], as amended by [Pub. L. 100–223, title III][/us/pl/100/223/tIII], § 305, Dec. 30, 1987, [101 Stat. 1525][/us/stat/101/1525]; [Pub. L. 100–342][/us/pl/100/342], § 4(b), June 22, 1988, [102 Stat. 626][/us/stat/102/626]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4105(a), Aug. 18, 1990, [104 Stat. 512][/us/stat/104/512]; [Pub. L. 102–240, title II][/us/pl/102/240/tII], § 2007, Dec. 18, 1991, [105 Stat. 2080][/us/stat/105/2080], directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and [Pub. L. 103–429][/us/pl/103/429], § 8(10), Oct. 31, 1994, [108 Stat. 4390][/us/stat/108/4390], and was restated in part in chapter 303 of Title 49, Transportation.
 
  __Pilot Projects for Highway Safety Education and Information__ 
 
-[Pub. L. 95–599, title II, § 209][/us/pl/95/599/s209], Nov. 6, 1978, [92 Stat. 2732][/us/stat/92/2732], as amended by [Pub. L. 97–424, title II, § 206][/us/pl/97/424/s206], Jan. 6, 1983, [96 Stat. 2139][/us/stat/96/2139]; [Pub. L. 100–17, title II, § 207][/us/pl/100/17/s207], Apr. 2, 1987, [101 Stat. 221][/us/stat/101/221], provided that:
+[Pub. L. 95–599, title II][/us/pl/95/599/tII], § 209, Nov. 6, 1978, [92 Stat. 2732][/us/stat/92/2732], as amended by [Pub. L. 97–424, title II][/us/pl/97/424/tII], § 206, Jan. 6, 1983, [96 Stat. 2139][/us/stat/96/2139]; [Pub. L. 100–17, title II][/us/pl/100/17/tII], § 207, Apr. 2, 1987, [101 Stat. 221][/us/stat/101/221], provided that:
 
 >     “(a) The Secretary of Transportation shall carry out six pilot projects designed, through the use of television and radio, to develop and evaluate techniques, methods, and practices to achieve maximum measurable effectiveness in reducing traffic accidents, injuries, and deaths.
 
@@ -351,35 +351,35 @@ Similar provisions were contained in the following prior acts:
 
  __Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations__ 
 
-    [Pub. L. 93–87, title II, § 211][/us/pl/93/87/s211], Aug. 13, 1973, [87 Stat. 288][/us/stat/87/288], directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 ([47 U.S.C. 151][/us/usc/t47/s151] et seq.).
+    [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 211, Aug. 13, 1973, [87 Stat. 288][/us/stat/87/288], directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 ([47 U.S.C. 151][/us/usc/t47/s151] et seq.).
 
  __Highway Safety Citizen Participation Study__ 
 
-    [Pub. L. 93–87, title II, § 212][/us/pl/93/87/s212], Aug. 13, 1973, [87 Stat. 289][/us/stat/87/289], authorized the appropriation of $1,000,000 for a study by the Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
+    [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 212, Aug. 13, 1973, [87 Stat. 289][/us/stat/87/289], authorized the appropriation of $1,000,000 for a study by the Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
 
  __National Center for Statistical Analysis of Highway Operations__ 
 
-    [Pub. L. 93–87, title II, § 213][/us/pl/93/87/s213], Aug. 13, 1973, [87 Stat. 289][/us/stat/87/289], authorized the appropriation of $5,000,000 to make a study of the feasibility of establishing a National Center for Statistical Analysis of Highway Operations designed to acquire, store and retrieve accident data, the results of such study and recommendations to be reported to Congress not later than Jan. 1, 1975.
+    [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 213, Aug. 13, 1973, [87 Stat. 289][/us/stat/87/289], authorized the appropriation of $5,000,000 to make a study of the feasibility of establishing a National Center for Statistical Analysis of Highway Operations designed to acquire, store and retrieve accident data, the results of such study and recommendations to be reported to Congress not later than Jan. 1, 1975.
 
  __Pedestrian and Bicycle Safety Study__ 
 
-    [Pub. L. 93–87, title II, § 214][/us/pl/93/87/s214], Aug. 13, 1973, [87 Stat. 289][/us/stat/87/289], authorized the appropriation of $5,000,000 for a study of pedestrian and bicycle safety, including a review of local ordinances, the relationship between alcohol and pedestrian and bicycle safety, etc., the results of such study and recommendations to be reported to Congress not later than Jan. 31, 1975.
+    [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 214, Aug. 13, 1973, [87 Stat. 289][/us/stat/87/289], authorized the appropriation of $5,000,000 for a study of pedestrian and bicycle safety, including a review of local ordinances, the relationship between alcohol and pedestrian and bicycle safety, etc., the results of such study and recommendations to be reported to Congress not later than Jan. 31, 1975.
 
  __Highway Safety Needs Study__ 
 
-    [Pub. L. 93–87, title II, § 225][/us/pl/93/87/s225], Aug. 13, 1973, [87 Stat. 292][/us/stat/87/292], mandated a study by the Secretary of Transportation of highway safety needs of the States, including those of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands and other territories, in order to evaluate continuing safety programs and furnish Congress with information necessary for authorization of appropriations for continuing safety programs, the results of such study, estimates and recommendations to be submitted to Congress not later than Jan. 10, 1976.
+    [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 225, Aug. 13, 1973, [87 Stat. 292][/us/stat/87/292], mandated a study by the Secretary of Transportation of highway safety needs of the States, including those of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands and other territories, in order to evaluate continuing safety programs and furnish Congress with information necessary for authorization of appropriations for continuing safety programs, the results of such study, estimates and recommendations to be submitted to Congress not later than Jan. 10, 1976.
 
  __National Highway Traffic Safety Administration; Creation; Appointment of Administrator and Deputy Administrator; Duties; Retroactive Effect__ 
 
-    [Pub. L. 89–564, title II, § 201][/us/pl/89/564/s201], Sept. 9, 1966, [80 Stat. 735][/us/stat/80/735], as amended by [Pub. L. 89–670, § 8(h)][/us/pl/89/670/s8/h], Oct. 15, 1966, [80 Stat. 943][/us/stat/80/943]; [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 224][/us/stat/81/224]; [Pub. L. 91–605, title II, § 202(a)][/us/pl/91/605/s202/a], Dec. 31, 1970, [84 Stat. 1739][/us/stat/84/1739], which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by [Pub. L. 97–449, § 7(b)][/us/pl/97/449/s7/b], Jan. 12, 1983, [96 Stat. 2444][/us/stat/96/2444], and reenacted by [section 1(b) of Pub. L. 97–449][/us/pl/97/449/s1/b] as [section 105 of Title 49][/us/usc/t49/s105], Transportation.
+    [Pub. L. 89–564, title II][/us/pl/89/564/tII], § 201, Sept. 9, 1966, [80 Stat. 735][/us/stat/80/735], as amended by [Pub. L. 89–670][/us/pl/89/670], § 8(h), Oct. 15, 1966, [80 Stat. 943][/us/stat/80/943]; [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 224][/us/stat/81/224]; [Pub. L. 91–605, title II][/us/pl/91/605/tII], § 202(a), Dec. 31, 1970, [84 Stat. 1739][/us/stat/84/1739], which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by [Pub. L. 97–449][/us/pl/97/449], § 7(b), Jan. 12, 1983, [96 Stat. 2444][/us/stat/96/2444], and reenacted by [section 1(b) of Pub. L. 97–449][/us/pl/97/449/s1/b] as [section 105 of Title 49][/us/usc/t49/s105], Transportation.
 
  __Acting Administrator of National Highway Traffic Safety Administration__ 
 
-    [Pub. L. 91–605, title II, § 202(b)][/us/pl/91/605/s202/b], Dec. 31, 1970, [84 Stat. 1740][/us/stat/84/1740], permitted President to authorize any person who immediately before Dec. 31, 1970, held the office of Director of the National Highway Safety Bureau, to act as Administrator of the National Highway Traffic Safety Administration until the appointment of the first Administrator.
+    [Pub. L. 91–605, title II][/us/pl/91/605/tII], § 202(b), Dec. 31, 1970, [84 Stat. 1740][/us/stat/84/1740], permitted President to authorize any person who immediately before Dec. 31, 1970, held the office of Director of the National Highway Safety Bureau, to act as Administrator of the National Highway Traffic Safety Administration until the appointment of the first Administrator.
 
  __Annual Report to Congress on Administration of Highway Safety Act of 1966__ 
 
-[Pub. L. 89–564, title II, § 202][/us/pl/89/564/s202], Sept. 9, 1966, [80 Stat. 736][/us/stat/80/736], as amended by [Pub. L. 93–87, title II, § 224][/us/pl/93/87/s224], Aug. 13, 1973, [87 Stat. 292][/us/stat/87/292], provided that:
+[Pub. L. 89–564, title II][/us/pl/89/564/tII], § 202, Sept. 9, 1966, [80 Stat. 736][/us/stat/80/736], as amended by [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 224, Aug. 13, 1973, [87 Stat. 292][/us/stat/87/292], provided that:
 
 >     “(a) The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include but not be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by such grants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
 
@@ -389,7 +389,7 @@ Similar provisions were contained in the following prior acts:
 
  __Detailed Cost Estimate of Highway Safety Act of 1966__ 
 
-    [Pub. L. 89–564, title II, § 207][/us/pl/89/564/s207], Sept. 9, 1966, [80 Stat. 737][/us/stat/80/737], directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
+    [Pub. L. 89–564, title II][/us/pl/89/564/tII], § 207, Sept. 9, 1966, [80 Stat. 737][/us/stat/80/737], directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
 
  __Interstate Compacts for Highway Safety__ 
 
@@ -408,148 +408,148 @@ Similar provisions were contained in the following prior acts:
 ----------
 ----------
 
-[/us/pl/89/564/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs101
+[/us/pl/89/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtI
 [/us/stat/80/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F731
-[/us/pl/93/87/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs218
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F290
-[/us/pl/98/363/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F363%2Fs3%2Fb
+[/us/pl/98/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F363
 [/us/stat/98/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F436
-[/us/pl/100/17/s133/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F19
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F172
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/98/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F363
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
-[/us/pl/98/363/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F363%2Fs3%2Fc
+[/us/pl/98/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F363
 [/us/stat/98/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F436
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
-[/us/pl/102/240/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs2001
+[/us/pl/102/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtII
 [/us/stat/105/2070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2070
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
-[/us/pl/100/690/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9001
+[/us/pl/100/690/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIX
 [/us/stat/102/4521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4521
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t23/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs410
-[/us/pl/100/17/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs201
+[/us/pl/100/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtII
 [/us/stat/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F218
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
-[/us/pl/97/424/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs201
+[/us/pl/97/424/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtII
 [/us/stat/96/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2137
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
-[/us/pl/95/599/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs201
+[/us/pl/95/599/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtII
 [/us/stat/92/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2727
 [/us/usc/t23/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs407
-[/us/pl/94/280/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs201
+[/us/pl/94/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtII
 [/us/stat/90/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F451
 [/us/usc/t23/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs130
-[/us/pl/93/87/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs201
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F282
-[/us/pl/91/605/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs201
+[/us/pl/91/605/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtII
 [/us/stat/84/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1739
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
-[/us/pl/89/564/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs208
+[/us/pl/89/564/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtII
 [/us/stat/80/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F737
-[/us/pl/109/59/s1119/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1119%2Fn
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1190
-[/us/pl/109/59/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1402
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1227
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1405
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1230
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
-[/us/pl/109/59/s1409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1409%2Fa
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1232
-[/us/pl/114/94/s1417/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1417%2Fa%2F2
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1423
-[/us/pl/114/94/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4001%2Fb
+[/us/pl/114/94/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIV
 [/us/stat/129/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1498
-[/us/pl/112/141/s31101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31101%2Fb
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F733
-[/us/pl/109/59/s2001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2001%2Fb
+[/us/pl/109/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtII
 [/us/stat/119/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1520
-[/us/pl/105/178/s1213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1213%2Fc
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F200
-[/us/pl/104/59/s358/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs358%2Fc
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F625
-[/us/pl/109/59/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1410
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1233
 [/us/pl/104/59/s358/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs358%2Fb%2F2
-[/us/pl/104/59/s358/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs358%2Fb
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F625
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t23/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs401
 [/us/stat/105/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2001
-[/us/pl/102/240/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1051
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2001
-[/us/pl/104/59/s358/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs358%2Fa
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F625
-[/us/pl/100/17/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs208
+[/us/pl/100/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtII
 [/us/stat/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F222
-[/us/pl/100/202/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-358
-[/us/pl/97/424/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs207
+[/us/pl/97/424/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtII
 [/us/stat/96/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2139
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/97/424/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs207
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/97/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F364
+[/us/pl/97/364/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F364%2FtII
 [/us/stat/96/1740-1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1740-1748
-[/us/pl/100/223/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223%2Fs305
+[/us/pl/100/223/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223%2FtIII
 [/us/stat/101/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1525
-[/us/pl/100/342/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F342%2Fs4%2Fb
+[/us/pl/100/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F342
 [/us/stat/102/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F626
-[/us/pl/101/380/s4105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4105%2Fa
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F512
-[/us/pl/102/240/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs2007
+[/us/pl/102/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtII
 [/us/stat/105/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2080
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
-[/us/pl/103/429/s8/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs8%2F10
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4390
-[/us/pl/95/599/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs209
+[/us/pl/95/599/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtII
 [/us/stat/92/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2732
-[/us/pl/97/424/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs206
+[/us/pl/97/424/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtII
 [/us/stat/96/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2139
-[/us/pl/100/17/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs207
+[/us/pl/100/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtII
 [/us/stat/101/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F221
 [/us/pl/95/599/s209/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs209%2Fg
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/93/87/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs211
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F288
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/93/87/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs212
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F289
-[/us/pl/93/87/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs213
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F289
-[/us/pl/93/87/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs214
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F289
-[/us/pl/93/87/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs225
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F292
-[/us/pl/89/564/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs201
+[/us/pl/89/564/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtII
 [/us/stat/80/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F735
-[/us/pl/89/670/s8/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs8%2Fh
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F943
-[/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F224
-[/us/pl/91/605/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs202%2Fa
+[/us/pl/91/605/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtII
 [/us/stat/84/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1739
-[/us/pl/97/449/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs7%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2444
 [/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
 [/us/usc/t49/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs105
-[/us/pl/91/605/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs202%2Fb
+[/us/pl/91/605/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtII
 [/us/stat/84/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1740
-[/us/pl/89/564/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs202
+[/us/pl/89/564/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtII
 [/us/stat/80/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F736
-[/us/pl/93/87/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs224
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F292
 [/us/pl/89/564/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs202
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/89/564/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs207
+[/us/pl/89/564/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtII
 [/us/stat/80/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F737
 [/us/pl/85/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F684
 [/us/stat/72/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F635

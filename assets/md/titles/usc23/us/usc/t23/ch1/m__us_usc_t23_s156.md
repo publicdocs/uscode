@@ -27,11 +27,11 @@
 
     The Federal share of net income from the revenues obtained by a State under subsection (a) shall be used by the State for projects eligible under this title.
 
-(Added [Pub. L. 100–17, title I, § 126(a)][/us/pl/100/17/s126/a], Apr. 2, 1987, [101 Stat. 167][/us/stat/101/167]; amended [Pub. L. 102–240, title I, § 1027(f)][/us/pl/102/240/s1027/f], Dec. 18, 1991, [105 Stat. 1967][/us/stat/105/1967]; [Pub. L. 105–178, title I, § 1303(a)][/us/pl/105/178/s1303/a], June 9, 1998, [112 Stat. 227][/us/stat/112/227].)
+(Added [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 126(a), Apr. 2, 1987, [101 Stat. 167][/us/stat/101/167]; amended [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1027(f), Dec. 18, 1991, [105 Stat. 1967][/us/stat/105/1967]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1303(a), June 9, 1998, [112 Stat. 227][/us/stat/112/227].)
 
  __Prior Provisions__ 
 
-    A prior section 156, added [Pub. L. 94–280, title I, § 132(a)][/us/pl/94/280/s132/a], May 5, 1976, [90 Stat. 441][/us/stat/90/441], authorized the Secretary to construct or reconstruct any public highway or highway bridge across any Federal public works project, specified conditions under which such work may be done, and authorized appropriations for such work of $100,000,000 to be available in the fiscal year in which appropriated and for the two succeeding fiscal years, prior to repeal by [Pub. L. 100–17, title I, § 126(a)][/us/pl/100/17/s126/a], Apr. 2, 1987, [101 Stat. 167][/us/stat/101/167].
+    A prior section 156, added [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 132(a), May 5, 1976, [90 Stat. 441][/us/stat/90/441], authorized the Secretary to construct or reconstruct any public highway or highway bridge across any Federal public works project, specified conditions under which such work may be done, and authorized appropriations for such work of $100,000,000 to be available in the fiscal year in which appropriated and for the two succeeding fiscal years, prior to repeal by [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 126(a), Apr. 2, 1987, [101 Stat. 167][/us/stat/101/167].
 
  __Amendments__ 
 
@@ -50,15 +50,15 @@
 ----------
 ----------
 
-[/us/pl/100/17/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs126%2Fa
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F167
-[/us/pl/102/240/s1027/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1027%2Ff
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1967
-[/us/pl/105/178/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1303%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F227
-[/us/pl/94/280/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs132%2Fa
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F441
-[/us/pl/100/17/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs126%2Fa
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F167
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240

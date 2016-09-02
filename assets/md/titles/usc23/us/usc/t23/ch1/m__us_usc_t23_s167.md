@@ -375,7 +375,7 @@
 
     Notwithstanding any other provision of law, a freight project carried out under this section shall be treated as if the project were on a Federal-aid highway.
 
-(Added [Pub. L. 112–141, div. A, title I, § 1115(a)][/us/pl/112/141/s1115/a], July 6, 2012, [126 Stat. 468][/us/stat/126/468]; amended [Pub. L. 114–94, div. A, title I, § 1116(a)][/us/pl/114/94/s1116/a], Dec. 4, 2015, [129 Stat. 1349][/us/stat/129/1349].)
+(Added [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1115(a), July 6, 2012, [126 Stat. 468][/us/stat/126/468]; amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1116(a), Dec. 4, 2015, [129 Stat. 1349][/us/stat/129/1349].)
 
  __References in Text__ 
 
@@ -395,7 +395,7 @@
 
  __Freight Movement Projects, Advisory Committees, and Plans__ 
 
-    [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1116–1118, July 6, 2012, [126 Stat. 472][/us/stat/126/472], 473, which related to prioritization of projects to improve freight movement, state freight advisory committees, and state freight plans, was repealed by [Pub. L. 114–94, div. A, title I, § 1116(c)][/us/pl/114/94/s1116/c], Dec. 4, 2015, [129 Stat. 1356][/us/stat/129/1356].
+    [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], §§ 1116–1118, July 6, 2012, [126 Stat. 472][/us/stat/126/472], 473, which related to prioritization of projects to improve freight movement, state freight advisory committees, and state freight plans, was repealed by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1116(c), Dec. 4, 2015, [129 Stat. 1356][/us/stat/129/1356].
 
 ----------
 
@@ -407,9 +407,9 @@
 [/us/usc/t23/s167/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs167%2Fd
 [/us/usc/t49/s70202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70202
 [/us/usc/t23/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs137
-[/us/pl/112/141/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1115%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F468
-[/us/pl/114/94/s1116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1116%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1349
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
@@ -418,9 +418,9 @@
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F472
-[/us/pl/114/94/s1116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1116%2Fc
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1356
 
 

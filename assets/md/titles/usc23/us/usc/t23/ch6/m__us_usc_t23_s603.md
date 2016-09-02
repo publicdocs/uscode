@@ -255,7 +255,7 @@
 
             (C) repayment of the loan commences not later than 5 years after disbursement.
 
-(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 245][/us/stat/112/245], § 183; renumbered § 603 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, [119 Stat. 1240][/us/stat/119/1240], 1247; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 614][/us/stat/126/614]; [Pub. L. 114–94, div. A, title II, § 2001(c)][/us/pl/114/94/s2001/c], Dec. 4, 2015, [129 Stat. 1442][/us/stat/129/1442].)
+(Added [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1503(a), June 9, 1998, [112 Stat. 245][/us/stat/112/245], § 183; renumbered § 603 and amended [Pub. L. 109–59, title I][/us/pl/109/59/tI], §§ 1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, [119 Stat. 1240][/us/stat/119/1240], 1247; [Pub. L. 112–141, div. A, title II][/us/pl/112/141/dA/tII], § 2002, July 6, 2012, [126 Stat. 614][/us/stat/126/614]; [Pub. L. 114–94, div. A, title II][/us/pl/114/94/dA/tII], § 2001(c), Dec. 4, 2015, [129 Stat. 1442][/us/stat/129/1442].)
 
  __References in Text__ 
 
@@ -263,47 +263,47 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2). [Pub. L. 114–94, § 2001(c)(1)][/us/pl/114/94/s2001/c/1], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.”
+    2015—Subsec. (a)(2). [Pub. L. 114–94][/us/pl/114/94], § 2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.”
 
-    Subsec. (b)(2). [Pub. L. 114–94, § 2001(c)(2)(A)][/us/pl/114/94/s2001/c/2/A], designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted “Except as provided in subparagraph (B), the amount of” for “The amount of”, and added subpar. (B).
+    Subsec. (b)(2). [Pub. L. 114–94][/us/pl/114/94], § 2001(c)(2)(A), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted “Except as provided in subparagraph (B), the amount of” for “The amount of”, and added subpar. (B).
 
-    Subsec. (b)(3)(A)(i)(V). [Pub. L. 114–94, § 2001(c)(2)(B)][/us/pl/114/94/s2001/c/2/B], added subcl. (V).
+    Subsec. (b)(3)(A)(i)(V). [Pub. L. 114–94][/us/pl/114/94], § 2001(c)(2)(B), added subcl. (V).
 
-    Subsec. (b)(4)(B)(i). [Pub. L. 114–94, § 2001(c)(2)(C)(i)][/us/pl/114/94/s2001/c/2/C/i], substituted “or a rural projects fund under the TIFIA program” for “under this chapter”.
+    Subsec. (b)(4)(B)(i). [Pub. L. 114–94][/us/pl/114/94], § 2001(c)(2)(C)(i), substituted “or a rural projects fund under the TIFIA program” for “under this chapter”.
 
-    Subsec. (b)(4)(B)(ii). [Pub. L. 114–94, § 2001(c)(2)(C)(ii)][/us/pl/114/94/s2001/c/2/C/ii], inserted “and rural project funds” after “rural infrastructure projects”.
+    Subsec. (b)(4)(B)(ii). [Pub. L. 114–94][/us/pl/114/94], § 2001(c)(2)(C)(ii), inserted “and rural project funds” after “rural infrastructure projects”.
 
-    Subsec. (b)(5). [Pub. L. 114–94, § 2001(c)(2)(D)][/us/pl/114/94/s2001/c/2/D], designated existing provisions as subpar. (A) and inserted heading, substituted “Except as provided in subparagraph (B), the final” for “The final”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
+    Subsec. (b)(5). [Pub. L. 114–94][/us/pl/114/94], § 2001(c)(2)(D), designated existing provisions as subpar. (A) and inserted heading, substituted “Except as provided in subparagraph (B), the final” for “The final”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
 
-    Subsec. (b)(8). [Pub. L. 114–94, § 2001(c)(2)(E)][/us/pl/114/94/s2001/c/2/E], substituted “the TIFIA program” for “this chapter”.
+    Subsec. (b)(8). [Pub. L. 114–94][/us/pl/114/94], § 2001(c)(2)(E), substituted “the TIFIA program” for “this chapter”.
 
-    Subsec. (b)(9). [Pub. L. 114–94, § 2001(c)(2)(F)][/us/pl/114/94/s2001/c/2/F], designated existing provisions as subpar. (A) and inserted heading, substituted “The total Federal assistance provided for a project receiving a loan under the TIFIA program” for “The total Federal assistance provided on a project receiving a loan under this chapter”, and added subpar. (B).
+    Subsec. (b)(9). [Pub. L. 114–94][/us/pl/114/94], § 2001(c)(2)(F), designated existing provisions as subpar. (A) and inserted heading, substituted “The total Federal assistance provided for a project receiving a loan under the TIFIA program” for “The total Federal assistance provided on a project receiving a loan under this chapter”, and added subpar. (B).
 
-    Subsec. (f). [Pub. L. 114–94, § 2001(c)(3)][/us/pl/114/94/s2001/c/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 2001(c)(3), added subsec. (f).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to secured loans.
 
-    2005—[Pub. L. 109–59, § 1602(d)][/us/pl/109/59/s1602/d], renumbered [section 183 of this title][/us/usc/t23/s183] as this section.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 1602(d), renumbered [section 183 of this title][/us/usc/t23/s183] as this section.
 
-    Subsec. (a)(1). [Pub. L. 109–59, § 1601(d)(1)][/us/pl/109/59/s1601/d/1], in subpars. (A) and (B) inserted “of any project selected under section 602” after “costs”, added subpar. (C), and struck out concluding provisions which read as follows: “of any project selected under section 182.”
+    Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 1601(d)(1), in subpars. (A) and (B) inserted “of any project selected under section 602” after “costs”, added subpar. (C), and struck out concluding provisions which read as follows: “of any project selected under section 182.”
 
-    Subsec. (a)(3). [Pub. L. 109–59, § 1602(b)(3)][/us/pl/109/59/s1602/b/3], substituted “602(b)(2)(B)” for “182(b)(2)(B)”.
+    Subsec. (a)(3). [Pub. L. 109–59][/us/pl/109/59], § 1602(b)(3), substituted “602(b)(2)(B)” for “182(b)(2)(B)”.
 
-    Subsec. (a)(4). [Pub. L. 109–59, § 1601(d)(2)][/us/pl/109/59/s1601/d/2], substituted “The execution” for “The funding” and struck out before period at end “, except that—
+    Subsec. (a)(4). [Pub. L. 109–59][/us/pl/109/59], § 1601(d)(2), substituted “The execution” for “The funding” and struck out before period at end “, except that—
 
     “(A) the Secretary may fund an amount of the secured loan not to exceed the capital reserve subsidy amount determined under paragraph (3) prior to the obligations receiving an investment-grade rating; and
 
     “(B) the Secretary may fund the remaining portion of the secured loan only after the obligations have received an investment-grade rating by at least 1 rating agency”.
 
-    Subsec. (b)(2). [Pub. L. 109–59, § 1601(d)(3)(A)][/us/pl/109/59/s1601/d/3/A], inserted “the lesser of” before “33 percent” and “or, if the secured loan does not receive an investment grade rating, the amount of the senior project obligations” before period at end.
+    Subsec. (b)(2). [Pub. L. 109–59][/us/pl/109/59], § 1601(d)(3)(A), inserted “the lesser of” before “33 percent” and “or, if the secured loan does not receive an investment grade rating, the amount of the senior project obligations” before period at end.
 
-    Subsec. (b)(3)(A)(i). [Pub. L. 109–59, § 1601(d)(3)(B)][/us/pl/109/59/s1601/d/3/B], inserted “that also secure the senior project obligations” after “sources”.
+    Subsec. (b)(3)(A)(i). [Pub. L. 109–59][/us/pl/109/59], § 1601(d)(3)(B), inserted “that also secure the senior project obligations” after “sources”.
 
-    Subsec. (b)(4). [Pub. L. 109–59, § 1601(d)(3)(C)][/us/pl/109/59/s1601/d/3/C], struck out “marketable” before “United States Treasury securities”.
+    Subsec. (b)(4). [Pub. L. 109–59][/us/pl/109/59], § 1601(d)(3)(C), struck out “marketable” before “United States Treasury securities”.
 
-    Subsec. (b)(8). [Pub. L. 109–59, § 1602(b)(5)][/us/pl/109/59/s1602/b/5], substituted “this chapter” for “this subchapter”.
+    Subsec. (b)(8). [Pub. L. 109–59][/us/pl/109/59], § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
-    Subsec. (c)(3) to (5). [Pub. L. 109–59, § 1601(d)(4)][/us/pl/109/59/s1601/d/4], redesignated pars. (4) and (5) as (3) and (4), respectively, in par. (3)(A), struck out “during the 10 years” after “at any time”, in par. (3)(B)(ii), substituted “loan” for “loan beginning not later than 10 years after the date of substantial completion of the project in accordance with paragraph (1)”, and struck out heading and text of former par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
+    Subsec. (c)(3) to (5). [Pub. L. 109–59][/us/pl/109/59], § 1601(d)(4), redesignated pars. (4) and (5) as (3) and (4), respectively, in par. (3)(A), struck out “during the 10 years” after “at any time”, in par. (3)(B)(ii), substituted “loan” for “loan beginning not later than 10 years after the date of substantial completion of the project in accordance with paragraph (1)”, and struck out heading and text of former par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
 
  __Effective Date of 2015 Amendment__ 
 
@@ -320,35 +320,35 @@
 ----------
 ----------
 
-[/us/pl/105/178/s1503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1503%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F245
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1240
-[/us/pl/112/141/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2002
+[/us/pl/112/141/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtII
 [/us/stat/126/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F614
-[/us/pl/114/94/s2001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc
+[/us/pl/114/94/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtII
 [/us/stat/129/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1442
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/94/s2001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F1
-[/us/pl/114/94/s2001/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FA
-[/us/pl/114/94/s2001/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FB
-[/us/pl/114/94/s2001/c/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FC%2Fi
-[/us/pl/114/94/s2001/c/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FC%2Fii
-[/us/pl/114/94/s2001/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FD
-[/us/pl/114/94/s2001/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FE
-[/us/pl/114/94/s2001/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FF
-[/us/pl/114/94/s2001/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s1602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fd
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs183
-[/us/pl/109/59/s1601/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fd%2F1
-[/us/pl/109/59/s1602/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F3
-[/us/pl/109/59/s1601/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fd%2F2
-[/us/pl/109/59/s1601/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fd%2F3%2FA
-[/us/pl/109/59/s1601/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fd%2F3%2FB
-[/us/pl/109/59/s1601/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fd%2F3%2FC
-[/us/pl/109/59/s1602/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F5
-[/us/pl/109/59/s1601/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fd%2F4
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

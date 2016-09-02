@@ -17,7 +17,7 @@
 
     In order to assure that adequate consideration is given to civil defense aspects in the planning and construction of highways constructed or reconstructed with the aid of Federal funds, the Secretary of Transportation is authorized and directed to consult, from time to time, with the Federal Civil Defense Administrator relative to the civil defense aspects of highways so constructed or reconstructed.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 914][/us/stat/72/914]; [Pub. L. 93–87, title I, § 152(3)][/us/pl/93/87/s152/3], Aug. 13, 1973, [87 Stat. 276][/us/stat/87/276].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 914][/us/stat/72/914]; [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 152(3), Aug. 13, 1973, [87 Stat. 276][/us/stat/87/276].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F914
-[/us/pl/93/87/s152/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs152%2F3
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F276
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195

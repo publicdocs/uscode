@@ -265,7 +265,7 @@
 
             (B) a multimodal project.
 
-(Added [Pub. L. 114–94, div. A, title I, § 1309(b)][/us/pl/114/94/s1309/b], Dec. 4, 2015, [129 Stat. 1392][/us/stat/129/1392].)
+(Added [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1309(b), Dec. 4, 2015, [129 Stat. 1392][/us/stat/129/1392].)
 
  __References in Text__ 
 
@@ -279,13 +279,13 @@
 
  __Purpose__ 
 
-[Pub. L. 114–94, div. A, title I, § 1309(a)][/us/pl/114/94/s1309/a], Dec. 4, 2015, [129 Stat. 1392][/us/stat/129/1392], provided that: 
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1309(a), Dec. 4, 2015, [129 Stat. 1392][/us/stat/129/1392], provided that: 
 
 > “The purpose of this section \[enacting this section and provisions set out as a note under this section\] is to eliminate duplication of environmental reviews and approvals under State laws and the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).”
 
  __Rulemaking__ 
 
-[Pub. L. 114–94, div. A, title I, § 1309(c)][/us/pl/114/94/s1309/c], Dec. 4, 2015, [129 Stat. 1396][/us/stat/129/1396], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1309(c), Dec. 4, 2015, [129 Stat. 1396][/us/stat/129/1396], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -325,7 +325,7 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s1309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1309%2Fb
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1392
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
@@ -333,10 +333,10 @@
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s1309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1309%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1392
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s1309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1309%2Fc
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1396
 [/us/usc/t23/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs330
 [/us/usc/t23/s330/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs330%2Fa%2F3

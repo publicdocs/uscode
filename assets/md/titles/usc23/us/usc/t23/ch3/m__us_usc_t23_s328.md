@@ -23,7 +23,7 @@
 
     In a case in which a transportation facility is undergoing reconstruction, rehabilitation, resurfacing, or restoration, the expenditure of funds under this section for environmental restoration or pollution abatement described in subsection (a) shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration of the facility.
 
-(Added [Pub. L. 109–59, title VI, § 6006(b)][/us/pl/109/59/s6006/b], Aug. 10, 2005, [119 Stat. 1872][/us/stat/119/1872].)
+(Added [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6006(b), Aug. 10, 2005, [119 Stat. 1872][/us/stat/119/1872].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t33/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1341
-[/us/pl/109/59/s6006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6006%2Fb
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1872
 
 

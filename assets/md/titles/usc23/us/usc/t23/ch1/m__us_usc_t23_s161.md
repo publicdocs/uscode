@@ -53,11 +53,11 @@
 
         If, at the end of the period for which funds withheld under subsection (a) from apportionment are available for apportionment to a State under paragraph (1), the State does not meet the requirement of subsection (a)(3), the funds shall lapse.
 
-(Added [Pub. L. 104–59, title III, § 320(a)][/us/pl/104/59/s320/a], Nov. 28, 1995, [109 Stat. 589][/us/stat/109/589]; amended [Pub. L. 105–178, title I, § 1103][/us/pl/105/178/s1103](l)(3)(F), June 9, 1998, [112 Stat. 126][/us/stat/112/126]; [Pub. L. 112–141, div. A, title I, § 1404(h)][/us/pl/112/141/s1404/h], July 6, 2012, [126 Stat. 559][/us/stat/126/559].)
+(Added [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 320(a), Nov. 28, 1995, [109 Stat. 589][/us/stat/109/589]; amended [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1103(l)(3)(F), June 9, 1998, [112 Stat. 126][/us/stat/112/126]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1404(h), July 6, 2012, [126 Stat. 559][/us/stat/126/559].)
 
  __References in Text__ 
 
-    Section 104, referred to in subsec. (a)(1), was amended generally by [Pub. L. 112–141, div. A, title I, § 1105(a)][/us/pl/112/141/s1105/a], July 6, 2012, [126 Stat. 427][/us/stat/126/427].
+    Section 104, referred to in subsec. (a)(1), was amended generally by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1105(a), July 6, 2012, [126 Stat. 427][/us/stat/126/427].
 
  __Amendments__ 
 
@@ -76,13 +76,13 @@
 ----------
 ----------
 
-[/us/pl/104/59/s320/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs320%2Fa
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F589
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F126
-[/us/pl/112/141/s1404/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fh
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F559
-[/us/pl/112/141/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1105%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178

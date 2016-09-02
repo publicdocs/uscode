@@ -27,7 +27,7 @@
 
     (c) The Secretary shall reduce the State’s apportionment of Federal-aid highway funds under section 104(b)(1) in an amount up to 8 percent of the amount to be apportioned in any fiscal year beginning after September 30, 1984, during which heavy vehicles, subject to the use tax imposed by section 4481 of the Internal Revenue Code of 1986, may be lawfully registered in the State without having presented proof of payment, in such form as may be prescribed by the Secretary of the Treasury, of the use tax imposed by section 4481 of such Code. Amounts withheld from apportionment to a State under this subsection shall be apportioned to the other States pursuant to the formulas of section 104(b)(1) and shall be available in the same manner and to the same extent as other Interstate funds apportioned at the same time to other States.
 
-(Added [Pub. L. 93–643, § 107(a)][/us/pl/93/643/s107/a], Jan. 4, 1975, [88 Stat. 2284][/us/stat/88/2284]; amended [Pub. L. 95–599, title I, § 123(d)][/us/pl/95/599/s123/d], Nov. 6, 1978, [92 Stat. 2702][/us/stat/92/2702]; [Pub. L. 97–424, title I, § 143][/us/pl/97/424/s143], Jan. 6, 1983, [96 Stat. 2129][/us/stat/96/2129]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–240, title I, § 1023(c)][/us/pl/102/240/s1023/c], Dec. 18, 1991, [105 Stat. 1954][/us/stat/105/1954]; [Pub. L. 103–429, § 3(7)][/us/pl/103/429/s3/7], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 104–59, title II, § 205(d)(1)(A)][/us/pl/104/59/s205/d/1/A], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577]; [Pub. L. 105–178, title I, § 1103][/us/pl/105/178/s1103](l)(3)(C), June 9, 1998, [112 Stat. 126][/us/stat/112/126]; [Pub. L. 112–141, div. A, title I, § 1404(c)][/us/pl/112/141/s1404/c], (d), July 6, 2012, [126 Stat. 558][/us/stat/126/558]; [Pub. L. 114–94, div. A, title I, § 1104(e)(5)][/us/pl/114/94/s1104/e/5], Dec. 4, 2015, [129 Stat. 1332][/us/stat/129/1332].)
+(Added [Pub. L. 93–643][/us/pl/93/643], § 107(a), Jan. 4, 1975, [88 Stat. 2284][/us/stat/88/2284]; amended [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 123(d), Nov. 6, 1978, [92 Stat. 2702][/us/stat/92/2702]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 143, Jan. 6, 1983, [96 Stat. 2129][/us/stat/96/2129]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1023(c), Dec. 18, 1991, [105 Stat. 1954][/us/stat/105/1954]; [Pub. L. 103–429][/us/pl/103/429], § 3(7), Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 104–59, title II][/us/pl/104/59/tII], § 205(d)(1)(A), Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1103(l)(3)(C), June 9, 1998, [112 Stat. 126][/us/stat/112/126]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1404(c), (d), July 6, 2012, [126 Stat. 558][/us/stat/126/558]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1104(e)(5), Dec. 4, 2015, [129 Stat. 1332][/us/stat/129/1332].)
 
  __References in Text__ 
 
@@ -35,15 +35,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 141, [Pub. L. 90–495, § 35(a)][/us/pl/90/495/s35/a], Aug. 23, 1968, [82 Stat. 836][/us/stat/82/836], related to real property acquisition policies, prior to repeal by [Pub. L. 91–646, title III, § 306][/us/pl/91/646/s306], Jan. 2, 1971, [84 Stat. 1907][/us/stat/84/1907], such repeal becoming effective as to all States after July 1, 1972, the date on which sections 4630 and 4655 of Title 42, The Public Health and Welfare, covering similar subject matter, became applicable to all States.
+    A prior section 141, [Pub. L. 90–495][/us/pl/90/495], § 35(a), Aug. 23, 1968, [82 Stat. 836][/us/stat/82/836], related to real property acquisition policies, prior to repeal by [Pub. L. 91–646, title III][/us/pl/91/646/tIII], § 306, Jan. 2, 1971, [84 Stat. 1907][/us/stat/84/1907], such repeal becoming effective as to all States after July 1, 1972, the date on which sections 4630 and 4655 of Title 42, The Public Health and Welfare, covering similar subject matter, became applicable to all States.
 
  __Amendments__ 
 
     2015—Subsec. (b)(2). [Pub. L. 114–94][/us/pl/114/94] substituted “paragraphs (1) through (6) of section 104(b)” for “paragraphs (1) through (5) of section 104(b)”.
 
-    2012—Subsec. (b)(2). [Pub. L. 112–141, § 1404(c)][/us/pl/112/141/s1404/c], substituted “7 percent” for “10 per centum” and “paragraphs (1) through (5) of section 104(b)” for “[section 104 of this title][/us/usc/t23/s104]”.
+    2012—Subsec. (b)(2). [Pub. L. 112–141][/us/pl/112/141], § 1404(c), substituted “7 percent” for “10 per centum” and “paragraphs (1) through (5) of section 104(b)” for “[section 104 of this title][/us/usc/t23/s104]”.
 
-    Subsec. (c). [Pub. L. 112–141, § 1404(d)][/us/pl/112/141/s1404/d], substituted “section 104(b)(1)” for “section 104(b)(4)” in two places and substituted “8 percent” for “25 per centum”.
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 1404(d), substituted “section 104(b)(1)” for “section 104(b)(4)” in two places and substituted “8 percent” for “25 per centum”.
 
     1998—Subsec. (c). [Pub. L. 105–178][/us/pl/105/178] substituted “section 104(b)(4)” for “[section 104(b)(5) of this title][/us/usc/t23/s104/b/5]” in two places.
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–59, title II, § 205(d)(3)][/us/pl/104/59/s205/d/3], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], provided that: 
+[Pub. L. 104–59, title II][/us/pl/104/59/tII], § 205(d)(3), Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section and repealing [section 154 of this title][/us/usc/t23/s154]\] shall be applicable to a State on the 10th day following the date of the enactment of this Act \[Nov. 28, 1995\]; except that if the legislature of a State is not in session on such date of enactment and the chief executive officer of the State declares, before such 10th day, that the legislature is not in session and that the State prefers an applicability date for such amendments that is after the date on which the legislature will convene, such amendments shall be applicable to the State on the 60th day following the date on which the legislature next convenes.”
 
@@ -79,11 +79,11 @@
 
  __Effective Date of 1978 Amendment__ 
 
-    [Pub. L. 95–599, title I, § 123(e)][/us/pl/95/599/s123/e], Nov. 6, 1978, [92 Stat. 2702][/us/stat/92/2702], provided that subsec. (c)(2) and (3) of this section be applicable to certifications required by this section to be filed on or after Jan. 1, 1980, prior to repeal by [Pub. L. 96–106, § 12][/us/pl/96/106/s12], Nov. 9, 1979, [93 Stat. 798][/us/stat/93/798].
+    [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 123(e), Nov. 6, 1978, [92 Stat. 2702][/us/stat/92/2702], provided that subsec. (c)(2) and (3) of this section be applicable to certifications required by this section to be filed on or after Jan. 1, 1980, prior to repeal by [Pub. L. 96–106][/us/pl/96/106], § 12, Nov. 9, 1979, [93 Stat. 798][/us/stat/93/798].
 
  __Enforcement of Vehicle Weight Limitations__ 
 
-[Pub. L. 95–599, title I, § 123(a)][/us/pl/95/599/s123/a]–(c), Nov. 6, 1978, [92 Stat. 2701][/us/stat/92/2701], as amended by [Pub. L. 100–17, title I, § 133(c)(4)][/us/pl/100/17/s133/c/4], Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173], provided that:
+[Pub. L. 95–599, title I][/us/pl/95/599/tI], § 123(a)–(c), Nov. 6, 1978, [92 Stat. 2701][/us/stat/92/2701], as amended by [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(c)(4), Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173], provided that:
 
 >     “(a) Not later than the one-hundred-eightieth day after the date of enactment of this section \[Nov. 6, 1978\], the Secretary of Transportation, hereunder referred to as the ‘Secretary’, in consultation with each State shall inventory the existing system of penalties for violations of vehicle weight laws, rules, and regulations on any portion of any Federal-aid system in such State. Each State shall annually thereafter report to the Secretary its current inventory.
 
@@ -107,35 +107,35 @@
 [/us/usc/t23/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs127
 [/us/usc/t23/s127/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs127%2Fd
 [/us/usc/t49/s31112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31112
-[/us/pl/93/643/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs107%2Fa
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2284
-[/us/pl/95/599/s123/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs123%2Fd
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2702
-[/us/pl/97/424/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs143
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2129
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/240/s1023/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1023%2Fc
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1954
-[/us/pl/103/429/s3/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs3%2F7
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4378
-[/us/pl/104/59/s205/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs205%2Fd%2F1%2FA
+[/us/pl/104/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtII
 [/us/stat/109/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F577
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F126
-[/us/pl/112/141/s1404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fc
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F558
-[/us/pl/114/94/s1104/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1104%2Fe%2F5
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1332
 [/us/usc/t26/s4481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4481
-[/us/pl/90/495/s35/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs35%2Fa
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F836
-[/us/pl/91/646/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs306
+[/us/pl/91/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtIII
 [/us/stat/84/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1907
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s1404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fc
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/112/141/s1404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fd
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t23/s104/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F5
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
@@ -154,19 +154,19 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/104/59/s205/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs205%2Fd%2F3
+[/us/pl/104/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtII
 [/us/stat/109/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F577
 [/us/usc/t23/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs154
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/95/599/s123/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs123%2Fe
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2702
-[/us/pl/96/106/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs12
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/stat/93/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F798
-[/us/pl/95/599/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs123%2Fa
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2701
-[/us/pl/100/17/s133/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fc%2F4
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F173
 [/us/usc/t23/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs141%2Fb
 [/us/pl/95/599/s123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs123%2Fc

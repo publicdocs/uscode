@@ -129,37 +129,37 @@
 
     The Federal share of the cost of carrying out a project under this section shall be 80 percent, except that, in the case of any scenic byway project along a public road that provides access to or within Federal or Indian land, a Federal land management agency may use funds authorized for use by the agency as the non-Federal share.
 
-(Added [Pub. L. 105–178, title I, § 1219(a)][/us/pl/105/178/s1219/a], June 9, 1998, [112 Stat. 219][/us/stat/112/219]; amended [Pub. L. 109–59, title I, § 1802][/us/pl/109/59/s1802], Aug. 10, 2005, [119 Stat. 1456][/us/stat/119/1456]; [Pub. L. 110–244, title I, § 101][/us/pl/110/244/s101](o), June 6, 2008, [122 Stat. 1576][/us/stat/122/1576].)
+(Added [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1219(a), June 9, 1998, [112 Stat. 219][/us/stat/112/219]; amended [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1802, Aug. 10, 2005, [119 Stat. 1456][/us/stat/119/1456]; [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 101(o), June 6, 2008, [122 Stat. 1576][/us/stat/122/1576].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(3)(B). [Pub. L. 110–244, § 101][/us/pl/110/244/s101](o)(1), substituted “a National Scenic Byway, an All-American Road, or one of America’s Byways under paragraph (1)” for “a National Scenic Byway under subparagraph (A)” in introductory provisions.
+    2008—Subsec. (a)(3)(B). [Pub. L. 110–244][/us/pl/110/244], § 101(o)(1), substituted “a National Scenic Byway, an All-American Road, or one of America’s Byways under paragraph (1)” for “a National Scenic Byway under subparagraph (A)” in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 110–244, § 101][/us/pl/110/244/s101](o)(2), substituted “All-American Road, or one of America’s Byways” for “or All-American Road” in two places.
+    Subsec. (c)(3). [Pub. L. 110–244][/us/pl/110/244], § 101(o)(2), substituted “All-American Road, or one of America’s Byways” for “or All-American Road” in two places.
 
-    2005—Subsec. (a)(1). [Pub. L. 109–59, § 1802(a)(1)][/us/pl/109/59/s1802/a/1], substituted “the roads as—” and subpars. (A) to (C) for “the roads as National Scenic Byways or All-American Roads.”
+    2005—Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 1802(a)(1), substituted “the roads as—” and subpars. (A) to (C) for “the roads as National Scenic Byways or All-American Roads.”
 
-    Subsec. (a)(3), (4). [Pub. L. 109–59, § 1802(a)(2)][/us/pl/109/59/s1802/a/2], added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “To be considered for the designation, a road must be nominated by a State or a Federal land management agency and must first be designated as a State scenic byway or, in the case of a road on Federal land, as a Federal land management agency byway.”
+    Subsec. (a)(3), (4). [Pub. L. 109–59][/us/pl/109/59], § 1802(a)(2), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “To be considered for the designation, a road must be nominated by a State or a Federal land management agency and must first be designated as a State scenic byway or, in the case of a road on Federal land, as a Federal land management agency byway.”
 
-    Subsec. (b)(1). [Pub. L. 109–59, § 1802(b)(1)][/us/pl/109/59/s1802/b/1], inserted “and Indian tribes” after “States” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 109–59][/us/pl/109/59], § 1802(b)(1), inserted “and Indian tribes” after “States” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 109–59, § 1802(b)(2)][/us/pl/109/59/s1802/b/2], substituted “designated as—” and cls. (i) to (v) for “designated as National Scenic Byways or All-American Roads, or as State scenic byways; and”.
+    Subsec. (b)(1)(A). [Pub. L. 109–59][/us/pl/109/59], § 1802(b)(2), substituted “designated as—” and cls. (i) to (v) for “designated as National Scenic Byways or All-American Roads, or as State scenic byways; and”.
 
-    Subsec. (b)(1)(B). [Pub. L. 109–59, § 1802(b)(3)][/us/pl/109/59/s1802/b/3], inserted “or Indian tribe” after “State”.
+    Subsec. (b)(1)(B). [Pub. L. 109–59][/us/pl/109/59], § 1802(b)(3), inserted “or Indian tribe” after “State”.
 
-    Subsec. (b)(2)(A). [Pub. L. 109–59, § 1802(b)(4)][/us/pl/109/59/s1802/b/4], substituted “Byway, All-American Road, or 1 of America’s Byways” for “Byway or All-American Road”.
+    Subsec. (b)(2)(A). [Pub. L. 109–59][/us/pl/109/59], § 1802(b)(4), substituted “Byway, All-American Road, or 1 of America’s Byways” for “Byway or All-American Road”.
 
-    Subsec. (b)(2)(B). [Pub. L. 109–59, § 1802(b)(5)][/us/pl/109/59/s1802/b/5], substituted “State or Indian tribe” for “State-designated” and “designation as—” and cls. (i) to (iii) for “designation as a National Scenic Byway or All-American Road; and”.
+    Subsec. (b)(2)(B). [Pub. L. 109–59][/us/pl/109/59], § 1802(b)(5), substituted “State or Indian tribe” for “State-designated” and “designation as—” and cls. (i) to (iii) for “designation as a National Scenic Byway or All-American Road; and”.
 
-    Subsec. (b)(2)(C). [Pub. L. 109–59, § 1802(b)(6)][/us/pl/109/59/s1802/b/6], inserted “or Indian tribe” after “State”.
+    Subsec. (b)(2)(C). [Pub. L. 109–59][/us/pl/109/59], § 1802(b)(6), inserted “or Indian tribe” after “State”.
 
-    Subsec. (c)(1). [Pub. L. 109–59, § 1802(c)(1)][/us/pl/109/59/s1802/c/1], inserted “or Indian tribe” after “State”.
+    Subsec. (c)(1). [Pub. L. 109–59][/us/pl/109/59], § 1802(c)(1), inserted “or Indian tribe” after “State”.
 
-    Subsec. (c)(3). [Pub. L. 109–59, § 1802(c)(2)][/us/pl/109/59/s1802/c/2], inserted “Indian tribe scenic byway,” after “improvements to a State scenic byway,” and “designation as a State scenic byway,”.
+    Subsec. (c)(3). [Pub. L. 109–59][/us/pl/109/59], § 1802(c)(2), inserted “Indian tribe scenic byway,” after “improvements to a State scenic byway,” and “designation as a State scenic byway,”.
 
-    Subsec. (c)(4). [Pub. L. 109–59, § 1802(c)(3)][/us/pl/109/59/s1802/c/3], struck out “passing lane,” before “overlook,”.
+    Subsec. (c)(4). [Pub. L. 109–59][/us/pl/109/59], § 1802(c)(3), struck out “passing lane,” before “overlook,”.
 
-    Subsec. (e). [Pub. L. 109–59, § 1802(d)][/us/pl/109/59/s1802/d], inserted “or Indian tribe” after “State”.
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 1802(d), inserted “or Indian tribe” after “State”.
 
 ----------
 
@@ -168,25 +168,25 @@
 ----------
 ----------
 
-[/us/pl/105/178/s1219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1219%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F219
-[/us/pl/109/59/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1456
-[/us/pl/110/244/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1576
-[/us/pl/110/244/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101
-[/us/pl/110/244/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101
-[/us/pl/109/59/s1802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fa%2F1
-[/us/pl/109/59/s1802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fa%2F2
-[/us/pl/109/59/s1802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fb%2F1
-[/us/pl/109/59/s1802/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fb%2F2
-[/us/pl/109/59/s1802/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fb%2F3
-[/us/pl/109/59/s1802/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fb%2F4
-[/us/pl/109/59/s1802/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fb%2F5
-[/us/pl/109/59/s1802/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fb%2F6
-[/us/pl/109/59/s1802/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fc%2F1
-[/us/pl/109/59/s1802/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fc%2F2
-[/us/pl/109/59/s1802/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fc%2F3
-[/us/pl/109/59/s1802/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1802%2Fd
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 
 

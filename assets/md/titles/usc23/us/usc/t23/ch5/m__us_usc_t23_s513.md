@@ -53,7 +53,7 @@
 
         To carry out this section, the Secretary shall develop a detailed and comprehensive plan that addresses the manner in which incentives may be adopted, as appropriate, through the existing deployment activities carried out by surface transportation modal administrations.
 
-(Added [Pub. L. 109–59, title V, § 5302(a)][/us/pl/109/59/s5302/a], Aug. 10, 2005, [119 Stat. 1805][/us/stat/119/1805]; amended [Pub. L. 112–141, div. E, title III, § 53001][/us/pl/112/141/s53001], July 6, 2012, [126 Stat. 897][/us/stat/126/897].)
+(Added [Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5302(a), Aug. 10, 2005, [119 Stat. 1805][/us/stat/119/1805]; amended [Pub. L. 112–141, div. E, title III][/us/pl/112/141/dE/tIII], § 53001, July 6, 2012, [126 Stat. 897][/us/stat/126/897].)
 
  __Amendments__ 
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/109/59/s5302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5302%2Fa
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1805
-[/us/pl/112/141/s53001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs53001
+[/us/pl/112/141/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtIII
 [/us/stat/126/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F897
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

@@ -31,11 +31,11 @@
 
     (d) Whenever rights-of-way, including control of access, on the Interstate System are required over lands or interests in lands owned by the United States, the Secretary may make such arrangements with the agency having jurisdiction over such lands as may be necessary to give the State or other person constructing the projects on such lands adequate rights-of-way and control of access thereto from adjoining lands, and any such agency is directed to cooperate with the Secretary in this connection.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 892][/us/stat/72/892]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–284, § 3(1)][/us/pl/109/284/s3/1], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 892][/us/stat/72/892]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–284][/us/pl/109/284], § 3(1), Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211].)
 
  __References in Text__ 
 
-    Subsection (c) of [section 120 of this title][/us/usc/t23/s120], referred to in subsec. (a)(2), was struck out and a new subsec. (c) was added by [Pub. L. 102–240, title I, § 1021(a)][/us/pl/102/240/s1021/a], Dec. 18, 1991, [105 Stat. 1950][/us/stat/105/1950].
+    Subsection (c) of [section 120 of this title][/us/usc/t23/s120], referred to in subsec. (a)(2), was struck out and a new subsec. (c) was added by [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1021(a), Dec. 18, 1991, [105 Stat. 1950][/us/stat/105/1950].
 
     The Federal-Aid Highway Act of 1956, referred to in subsec. (b), is [act June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], [70 Stat. 374][/us/stat/70/374]. For complete classification of this Act to the Code, see Tables. Section 108(b) of the Federal-Aid Highway Act of 1956 is set out as a note under [section 101 of this title][/us/usc/t23/s101].
 
@@ -55,12 +55,12 @@
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F892
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/109/284/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs3%2F1
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
-[/us/pl/102/240/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1021%2Fa
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1950
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F374

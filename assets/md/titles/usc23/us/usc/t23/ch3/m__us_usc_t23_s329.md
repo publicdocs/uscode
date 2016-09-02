@@ -47,7 +47,7 @@
 
         An activity described in subsection (a) may be carried out in advance of construction of a project only if the activity is carried out in accordance with all applicable requirements of Federal law (including regulations) and State transportation planning processes.
 
-(Added [Pub. L. 109–59, title VI, § 6006(b)][/us/pl/109/59/s6006/b], Aug. 10, 2005, [119 Stat. 1872][/us/stat/119/1872]; amended [Pub. L. 114–94, div. A, title I, § 1415(b)][/us/pl/114/94/s1415/b], Dec. 4, 2015, [129 Stat. 1421][/us/stat/129/1421].)
+(Added [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6006(b), Aug. 10, 2005, [119 Stat. 1872][/us/stat/119/1872]; amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1415(b), Dec. 4, 2015, [129 Stat. 1421][/us/stat/129/1421].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
-[/us/pl/109/59/s6006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6006%2Fb
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1872
-[/us/pl/114/94/s1415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1415%2Fb
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1421
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438

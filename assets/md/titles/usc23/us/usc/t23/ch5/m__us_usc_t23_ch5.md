@@ -155,19 +155,19 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 5, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 830][/us/stat/82/830], consisting of sections 501 to 512, related to highway relocation assistance, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903]. See section 4601 et seq. of Title 42, The Public Health and Welfare. For Effective Date of Repeal and Savings Provisions, see sections 221 and 220(b) of [Pub. L. 91–646][/us/pl/91/646], set out as notes under sections 4601 and 4621, respectively, of Title 42.
+    A prior chapter 5, added [Pub. L. 90–495][/us/pl/90/495], § 30, Aug. 23, 1968, [82 Stat. 830][/us/stat/82/830], consisting of sections 501 to 512, related to highway relocation assistance, prior to repeal by [Pub. L. 91–646, title II][/us/pl/91/646/tII], § 220(a)(10), Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903]. See section 4601 et seq. of Title 42, The Public Health and Welfare. For Effective Date of Repeal and Savings Provisions, see sections 221 and 220(b) of [Pub. L. 91–646][/us/pl/91/646], set out as notes under sections 4601 and 4621, respectively, of Title 42.
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, div. A, title VI][/us/pl/114/94], §§ 6010(b), 6019(d)(1)(B), Dec. 4, 2015, [129 Stat. 1568][/us/stat/129/1568], 1581, struck out item 508 “Transportation research and development strategic planning”, substituted “National ITS program plan” for “National ITS Program Plan” in item 512, and added item 519.
+    2015—[Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], §§ 6010(b), 6019(d)(1)(B), Dec. 4, 2015, [129 Stat. 1568][/us/stat/129/1568], 1581, struck out item 508 “Transportation research and development strategic planning”, substituted “National ITS program plan” for “National ITS Program Plan” in item 512, and added item 519.
 
-    2012—[Pub. L. 112–141, div. E, title II][/us/pl/112/141], §§ 52002(b), 52003(b), 52006(b), 52007(b), 52008(b), title III, §§ 53002(b), 53003(b), 53004(b), 53005(b), 53006(b), July 6, 2012, [126 Stat. 872][/us/stat/126/872], 880, 882, 899, 901–903, 905, substituted “Surface transportation research, development, and technology” for “Surface transportation research” in item 502 and “Research and technology development and deployment” for “Technology deployment program” in item 503, struck out items 506 “International highway transportation outreach program”, 507 “Surface transportation environment and planning cooperative research program”, and 509 “National cooperative freight transportation research program”, and added items 514 to 518.
+    2012—[Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], §§ 52002(b), 52003(b), 52006(b), 52007(b), 52008(b), title III, §§ 53002(b), 53003(b), 53004(b), 53005(b), 53006(b), July 6, 2012, [126 Stat. 872][/us/stat/126/872], 880, 882, 899, 901–903, 905, substituted “Surface transportation research, development, and technology” for “Surface transportation research” in item 502 and “Research and technology development and deployment” for “Technology deployment program” in item 503, struck out items 506 “International highway transportation outreach program”, 507 “Surface transportation environment and planning cooperative research program”, and 509 “National cooperative freight transportation research program”, and added items 514 to 518.
 
-    2008—[Pub. L. 110–244, title I, § 111(b)(2)(B)][/us/pl/110/244/s111/b/2/B], June 6, 2008, [122 Stat. 1605][/us/stat/122/1605], amended [Pub. L. 109–59, § 5210][/us/pl/109/59/s5210]. See 2005 Amendment note below.
+    2008—[Pub. L. 110–244, title I][/us/pl/110/244/tI], § 111(b)(2)(B), June 6, 2008, [122 Stat. 1605][/us/stat/122/1605], amended [Pub. L. 109–59][/us/pl/109/59], § 5210. See 2005 Amendment note below.
 
-    2005—[Pub. L. 109–59, title V, § 5210(c)][/us/pl/109/59/s5210/c], formerly § 5210(d), Aug. 10, 2005, [119 Stat. 1804][/us/stat/119/1804], as renumbered by [Pub. L. 110–244, title I, § 111(b)(2)(B)][/us/pl/110/244/s111/b/2/B], June 6, 2008, [122 Stat. 1605][/us/stat/122/1605], added item 510.
+    2005—[Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5210(c), formerly § 5210(d), Aug. 10, 2005, [119 Stat. 1804][/us/stat/119/1804], as renumbered by [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 111(b)(2)(B), June 6, 2008, [122 Stat. 1605][/us/stat/122/1605], added item 510.
 
-    [Pub. L. 109–59, title V][/us/pl/109/59], §§ 5201(a)(2), 5207(c), 5208(b), 5209(c), 5211(c), 5301(b), 5302(b), Aug. 10, 2005, [119 Stat. 1781][/us/stat/119/1781], 1798, 1799, 1801, 1804, 1805, substituted “RESEARCH, TECHNOLOGY, AND EDUCATION” for “RESEARCH AND TECHNOLOGY” in chapter heading, “Surface transportation environment and planning cooperative research program” for “Surface transportation-environment cooperative research program” in item 507, “Transportation research and development strategic planning” for “Surface transportation research strategic planning” in item 508, and added items 509 and 511 to 513.
+    [Pub. L. 109–59, title V][/us/pl/109/59/tV], §§ 5201(a)(2), 5207(c), 5208(b), 5209(c), 5211(c), 5301(b), 5302(b), Aug. 10, 2005, [119 Stat. 1781][/us/stat/119/1781], 1798, 1799, 1801, 1804, 1805, substituted “RESEARCH, TECHNOLOGY, AND EDUCATION” for “RESEARCH AND TECHNOLOGY” in chapter heading, “Surface transportation environment and planning cooperative research program” for “Surface transportation-environment cooperative research program” in item 507, “Transportation research and development strategic planning” for “Surface transportation research strategic planning” in item 508, and added items 509 and 511 to 513.
 
 ----------
 
@@ -176,23 +176,23 @@
 ----------
 ----------
 
-[/us/pl/90/495/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs30
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F830
-[/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1568
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F872
-[/us/pl/110/244/s111/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs111%2Fb%2F2%2FB
-[/us/stat/122/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1605
-[/us/pl/109/59/s5210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5210
-[/us/pl/109/59/s5210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5210%2Fc
-[/us/stat/119/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1804
-[/us/pl/110/244/s111/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs111%2Fb%2F2%2FB
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1605
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
+[/us/stat/119/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1804
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
+[/us/stat/122/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1605
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1781
 
 

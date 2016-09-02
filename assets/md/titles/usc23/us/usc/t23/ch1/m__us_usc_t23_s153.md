@@ -145,23 +145,23 @@
 
     All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall apply to funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that sums authorized by this section shall remain available until ex­pended.
 
-(Added [Pub. L. 102–240, title I, § 1031(a)(1)][/us/pl/102/240/s1031/a/1], Dec. 18, 1991, [105 Stat. 1970][/us/stat/105/1970]; amended [Pub. L. 104–59, title II, § 205(e)][/us/pl/104/59/s205/e], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577]; [Pub. L. 112–141, div. A, title I, § 1404(e)][/us/pl/112/141/s1404/e], July 6, 2012, [126 Stat. 558][/us/stat/126/558]; [Pub. L. 114–94, div. A, title I, § 1446(a)(7)][/us/pl/114/94/s1446/a/7], Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
+(Added [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1031(a)(1), Dec. 18, 1991, [105 Stat. 1970][/us/stat/105/1970]; amended [Pub. L. 104–59, title II][/us/pl/104/59/tII], § 205(e), Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1404(e), July 6, 2012, [126 Stat. 558][/us/stat/126/558]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(a)(7), Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
 
  __References in Text__ 
 
     The date of the enactment of this section, referred to in subsecs. (c) and (i)(3), is the date of enactment of [Pub. L. 102–240][/us/pl/102/240], which was approved Dec. 18, 1991.
 
-    [Section 104 of this title][/us/usc/t23/s104], referred to in subsec. (h)(1), was amended generally by [Pub. L. 112–141, div. A, title I, § 1105(a)][/us/pl/112/141/s1105/a], July 6, 2012, [126 Stat. 427][/us/stat/126/427].
+    [Section 104 of this title][/us/usc/t23/s104], referred to in subsec. (h)(1), was amended generally by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1105(a), July 6, 2012, [126 Stat. 427][/us/stat/126/427].
 
-    [Section 154 of this title][/us/usc/t23/s154], referred to in subsec. (i)(2), was repealed by [Pub. L. 104–59, title II, § 205(d)(1)(B)][/us/pl/104/59/s205/d/1/B], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577]. A new section 154, containing a similar definition of “motor vehicle”, was enacted by [Pub. L. 105–178, title I, § 1405(a)][/us/pl/105/178/s1405/a], as added [Pub. L. 105–206, title IX, § 9005(a)][/us/pl/105/206/s9005/a], July 22, 1998, [112 Stat. 843][/us/stat/112/843].
+    [Section 154 of this title][/us/usc/t23/s154], referred to in subsec. (i)(2), was repealed by [Pub. L. 104–59, title II][/us/pl/104/59/tII], § 205(d)(1)(B), Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577]. A new section 154, containing a similar definition of “motor vehicle”, was enacted by [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1405(a), as added [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9005(a), July 22, 1998, [112 Stat. 843][/us/stat/112/843].
 
  __Prior Provisions__ 
 
-    A prior section 153, added [Pub. L. 93–87, title II, § 210(a)][/us/pl/93/87/s210/a], Aug. 13, 1973, [87 Stat. 287][/us/stat/87/287]; amended [Pub. L. 94–280, title I, § 131][/us/pl/94/280/s131], May 5, 1976, [90 Stat. 441][/us/stat/90/441], related to a program for the elimination of roadside obstacles, prior to repeal by [Pub. L. 95–599, title I, § 168(b)][/us/pl/95/599/s168/b], Nov. 6, 1978, [92 Stat. 2723][/us/stat/92/2723].
+    A prior section 153, added [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 210(a), Aug. 13, 1973, [87 Stat. 287][/us/stat/87/287]; amended [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 131, May 5, 1976, [90 Stat. 441][/us/stat/90/441], related to a program for the elimination of roadside obstacles, prior to repeal by [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 168(b), Nov. 6, 1978, [92 Stat. 2723][/us/stat/92/2723].
 
  __Amendments__ 
 
-    2015—Subsec. (h)(2). [Pub. L. 114–94, § 1446(a)(7)][/us/pl/114/94/s1446/a/7], substituted “paragraphs (1), (2), and (4)” for “paragraphs (1) through (3)”.
+    2015—Subsec. (h)(2). [Pub. L. 114–94][/us/pl/114/94], § 1446(a)(7), substituted “paragraphs (1), (2), and (4)” for “paragraphs (1) through (3)”.
 
     2012—Subsec. (h)(1), (2). [Pub. L. 112–141][/us/pl/112/141] redesignated par. (2) as (1), substituted “Prior to fiscal year 2012” for “Thereafter” in par. heading, inserted “and before October 1, 2011,” after “September 30, 1994,” in text, added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 1½ percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of [section 104 of this title][/us/usc/t23/s104] to the apportionment of the State under [section 402 of this title][/us/usc/t23/s402].”
 
@@ -177,7 +177,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-    [Pub. L. 104–59, title II, § 205(e)][/us/pl/104/59/s205/e], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], provided that the amendment made by that section is effective Sept. 30, 1995.
+    [Pub. L. 104–59, title II][/us/pl/104/59/tII], § 205(e), Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], provided that the amendment made by that section is effective Sept. 30, 1995.
 
  __Effective Date__ 
 
@@ -185,7 +185,7 @@
 
  __Stop Motorcycle Checkpoint Funding__ 
 
-[Pub. L. 114–94, div. A, title IV, § 4007][/us/pl/114/94/s4007], Dec. 4, 2015, [129 Stat. 1510][/us/stat/129/1510], provided that: 
+[Pub. L. 114–94, div. A, title IV][/us/pl/114/94/dA/tIV], § 4007, Dec. 4, 2015, [129 Stat. 1510][/us/stat/129/1510], provided that: 
 
 > “Notwithstanding [section 153 of title 23][/us/usc/t23/s153], United States Code, the Secretary \[of Transportation\] may not provide a grant or any funds to a State, county, town, township, Indian tribe, municipality, or other local government that may be used for any program—
 
@@ -195,7 +195,7 @@
 
  __Study of Benefits of Safety Belts and Motorcycle Helmets to Individuals Involved in Crashes__ 
 
-[Pub. L. 102–240, title I, § 1031(b)][/us/pl/102/240/s1031/b], Dec. 18, 1991, [105 Stat. 1973][/us/stat/105/1973], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1031(b), Dec. 18, 1991, [105 Stat. 1973][/us/stat/105/1973], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -218,31 +218,31 @@
 
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
-[/us/pl/102/240/s1031/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1031%2Fa%2F1
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1970
-[/us/pl/104/59/s205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs205%2Fe
+[/us/pl/104/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtII
 [/us/stat/109/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F577
-[/us/pl/112/141/s1404/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fe
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F558
-[/us/pl/114/94/s1446/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F7
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1437
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/112/141/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1105%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
 [/us/usc/t23/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs154
-[/us/pl/104/59/s205/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs205%2Fd%2F1%2FB
+[/us/pl/104/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtII
 [/us/stat/109/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F577
-[/us/pl/105/178/s1405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1405%2Fa
-[/us/pl/105/206/s9005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9005%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F843
-[/us/pl/93/87/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs210%2Fa
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F287
-[/us/pl/94/280/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs131
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F441
-[/us/pl/95/599/s168/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs168%2Fb
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2723
-[/us/pl/114/94/s1446/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F7
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
@@ -253,14 +253,14 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/104/59/s205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs205%2Fe
+[/us/pl/104/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtII
 [/us/stat/109/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F577
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/114/94/s4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4007
+[/us/pl/114/94/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIV
 [/us/stat/129/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1510
 [/us/usc/t23/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs153
-[/us/pl/102/240/s1031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1031%2Fb
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1973
 [/us/usc/t23/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs153
 

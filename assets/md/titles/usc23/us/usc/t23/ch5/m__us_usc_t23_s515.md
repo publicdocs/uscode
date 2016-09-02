@@ -151,19 +151,19 @@
 
         Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the reporting of any test, deployment project, or program assessment activity under sections 512 through 518 shall not be subject to chapter 35 of title 44, United States Code.
 
-(Added [Pub. L. 112–141, div. E, title III, § 53003(a)][/us/pl/112/141/s53003/a], July 6, 2012, [126 Stat. 899][/us/stat/126/899]; amended [Pub. L. 114–94, div. A, title I, § 1446(a)(14)][/us/pl/114/94/s1446/a/14], title VI, § 6007, Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], 1567.)
+(Added [Pub. L. 112–141, div. E, title III][/us/pl/112/141/dE/tIII], § 53003(a), July 6, 2012, [126 Stat. 899][/us/stat/126/899]; amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(a)(14), title VI, § 6007, Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], 1567.)
 
  __References in Text__ 
 
-    Section 508, referred to in subsec. (h)(3)(A), was repealed by [Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A)][/us/pl/114/94/s6019/d/1/A], Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581], effective Oct. 1, 2015.
+    Section 508, referred to in subsec. (h)(3)(A), was repealed by [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(d)(1)(A), Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581], effective Oct. 1, 2015.
 
     The Federal Advisory Committee Act, referred to in subsec. (h)(5), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, § 1446(a)(14)][/us/pl/114/94/s1446/a/14], substituted “sections 512 through 518” for “this chapter” wherever appearing.
+    2015—[Pub. L. 114–94][/us/pl/114/94], § 1446(a)(14), substituted “sections 512 through 518” for “this chapter” wherever appearing.
 
-    Subsec. (h)(4). [Pub. L. 114–94, § 6007][/us/pl/114/94/s6007], in introductory provisions, substituted “May 1 of each year” for “February 1 of each year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012” and “make available to the public on a Department of Transportation website” for “submit to Congress”.
+    Subsec. (h)(4). [Pub. L. 114–94][/us/pl/114/94], § 6007, in introductory provisions, substituted “May 1 of each year” for “February 1 of each year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012” and “make available to the public on a Department of Transportation website” for “submit to Congress”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -180,16 +180,16 @@
 ----------
 ----------
 
-[/us/pl/112/141/s53003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs53003%2Fa
+[/us/pl/112/141/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtIII
 [/us/stat/126/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F899
-[/us/pl/114/94/s1446/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F14
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
-[/us/pl/114/94/s6019/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F1%2FA
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1581
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/114/94/s1446/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F14
-[/us/pl/114/94/s6007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6007
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

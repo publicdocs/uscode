@@ -15,9 +15,9 @@
 
 # Title 23—HIGHWAYS
 
-This title was enacted by [Pub. L. 85–767, § 1][/us/pl/85/767/s1], Aug. 27, 1958, [72 Stat. 885][/us/stat/72/885]
+This title was enacted by [Pub. L. 85–767][/us/pl/85/767], § 1, Aug. 27, 1958, [72 Stat. 885][/us/stat/72/885]
 
-Current through 114-115not95
+Current through 114-115
 
 <table>
 
@@ -95,11 +95,11 @@ Current through 114-115not95
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title I, § 1602(e)(2)][/us/pl/109/59/s1602/e/2], title V, 5201(a)(1), Aug. 10, 2005, [119 Stat. 1248][/us/stat/119/1248], 1780, added items for chapters 5 and 6 and struck out item for former chapter 5 “Research and Technology”.
+    2005—[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1602(e)(2), title V, 5201(a)(1), Aug. 10, 2005, [119 Stat. 1248][/us/stat/119/1248], 1780, added items for chapters 5 and 6 and struck out item for former chapter 5 “Research and Technology”.
 
-    1998—[Pub. L. 105–178, title V, § 5101(1)][/us/pl/105/178/s5101/1], June 9, 1998, [112 Stat. 422][/us/stat/112/422], added item for chapter 5.
+    1998—[Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5101(1), June 9, 1998, [112 Stat. 422][/us/stat/112/422], added item for chapter 5.
 
-    1966—[Pub. L. 89–564, title I, § 102(b)(3)][/us/pl/89/564/s102/b/3], Sept. 9, 1966, [80 Stat. 735][/us/stat/80/735], added item for chapter 4.
+    1966—[Pub. L. 89–564, title I][/us/pl/89/564/tI], § 102(b)(3), Sept. 9, 1966, [80 Stat. 735][/us/stat/80/735], added item for chapter 4.
 
 <table>
 
@@ -1959,11 +1959,11 @@ Elim.  </td>
 
  __Repeals__ 
 
-    [Pub. L. 85–767, § 2][/us/pl/85/767/s2], Aug. 27, 1958, [72 Stat. 919][/us/stat/72/919], repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title.
+    [Pub. L. 85–767][/us/pl/85/767], § 2, Aug. 27, 1958, [72 Stat. 919][/us/stat/72/919], repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title.
 
  __Construction__ 
 
-[Pub. L. 85–767, § 3][/us/pl/85/767/s3], Aug. 27, 1958, [72 Stat. 921][/us/stat/72/921], provided that:
+[Pub. L. 85–767][/us/pl/85/767], § 3, Aug. 27, 1958, [72 Stat. 921][/us/stat/72/921], provided that:
 
 >     “(a) If any provision of title 23, as enacted by section 1 of this Act or the application thereof to any person or circumstance is held invalid, the remainder of the title and the application of the provision to other persons or circumstances shall not be affected thereby.
 
@@ -1971,17 +1971,17 @@ Elim.  </td>
 
  __Savings Provision__ 
 
-[Pub. L. 85–767, § 4][/us/pl/85/767/s4], Aug. 27, 1958, [72 Stat. 921][/us/stat/72/921], provided that: 
+[Pub. L. 85–767][/us/pl/85/767], § 4, Aug. 27, 1958, [72 Stat. 921][/us/stat/72/921], provided that: 
 
 > “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Acts or portions under section 2 of this Act.”
 
  __Recodification of Title 23__ 
 
-[Pub. L. 104–59, title III, § 357(a)][/us/pl/104/59/s357/a], Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625], provided that: 
+[Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 357(a), Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625], provided that: 
 
 > “The Secretary \[of Transportation\] shall, by March 31, 1997, prepare and submit to Congress a draft legislative proposal of necessary technical and conforming amendments to title 23, United States Code, and related laws.”
 
-    [Pub. L. 102–240, title I, § 1066][/us/pl/102/240/s1066], Dec. 18, 1991, [105 Stat. 2006][/us/stat/105/2006], provided that the Secretary of Transportation was to have prepared, by Oct. 1, 1993, a proposed recodification of title 23, United States Code, and related laws for submission to Congress for consideration, prior to repeal by [Pub. L. 104–59, title III, § 357(b)][/us/pl/104/59/s357/b], Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625].
+    [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1066, Dec. 18, 1991, [105 Stat. 2006][/us/stat/105/2006], provided that the Secretary of Transportation was to have prepared, by Oct. 1, 1993, a proposed recodification of title 23, United States Code, and related laws for submission to Congress for consideration, prior to repeal by [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 357(b), Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625].
 
 ----------
 
@@ -1990,27 +1990,27 @@ Elim.  </td>
 ----------
 ----------
 
-[/us/pl/85/767/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767%2Fs1
+[/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F885
-[/us/pl/109/59/s1602/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fe%2F2
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1248
-[/us/pl/105/178/s5101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5101%2F1
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F422
-[/us/pl/89/564/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs102%2Fb%2F3
+[/us/pl/89/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtI
 [/us/stat/80/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F735
 [/us/stat/72/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F885
-[/us/pl/85/767/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767%2Fs2
+[/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F919
-[/us/pl/85/767/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767%2Fs3
+[/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F921
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
-[/us/pl/85/767/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767%2Fs4
+[/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F921
-[/us/pl/104/59/s357/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs357%2Fa
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F625
-[/us/pl/102/240/s1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1066
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2006
-[/us/pl/104/59/s357/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs357%2Fb
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F625
 
 

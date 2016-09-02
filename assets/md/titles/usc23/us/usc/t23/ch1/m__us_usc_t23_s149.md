@@ -279,7 +279,7 @@
 
     A State may obligate funds apportioned under section 104(b)(4) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation.
 
-(Added [Pub. L. 93–87, title I, § 142(a)][/us/pl/93/87/s142/a], Aug. 13, 1973, [87 Stat. 272][/us/stat/87/272]; amended [Pub. L. 102–240, title I, § 1008(a)][/us/pl/102/240/s1008/a], Dec. 18, 1991, [105 Stat. 1932][/us/stat/105/1932]; [Pub. L. 102–388, title III, § 380][/us/pl/102/388/s380], Oct. 6, 1992, [106 Stat. 1562][/us/stat/106/1562]; [Pub. L. 104–59, title III, § 319(a)(1)][/us/pl/104/59/s319/a/1], (b), Nov. 28, 1995, [109 Stat. 588][/us/stat/109/588], 589; [Pub. L. 104–88, title IV, § 405(a)(2)][/us/pl/104/88/s405/a/2], (b), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956], 957; [Pub. L. 105–178, title I, § 1110(a)][/us/pl/105/178/s1110/a]–(d)(1), June 9, 1998, [112 Stat. 142][/us/stat/112/142], 143; [Pub. L. 109–59, title I, § 1808(a)][/us/pl/109/59/s1808/a]–(f), Aug. 10, 2005, [119 Stat. 1461–1463][/us/stat/119/1461-1463]; [Pub. L. 112–141, div. A, title I, § 1113(a)][/us/pl/112/141/s1113/a], (b), July 6, 2012, [126 Stat. 460][/us/stat/126/460]; [Pub. L. 113–76, div. L, title I, § 125][/us/pl/113/76/s125], Jan. 17, 2014, [128 Stat. 587][/us/stat/128/587]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1109(c)(5), 1114, Dec. 4, 2015, [129 Stat. 1343][/us/stat/129/1343], 1348.)
+(Added [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 142(a), Aug. 13, 1973, [87 Stat. 272][/us/stat/87/272]; amended [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1008(a), Dec. 18, 1991, [105 Stat. 1932][/us/stat/105/1932]; [Pub. L. 102–388, title III][/us/pl/102/388/tIII], § 380, Oct. 6, 1992, [106 Stat. 1562][/us/stat/106/1562]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 319(a)(1), (b), Nov. 28, 1995, [109 Stat. 588][/us/stat/109/588], 589; [Pub. L. 104–88, title IV][/us/pl/104/88/tIV], § 405(a)(2), (b), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956], 957; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1110(a)–(d)(1), June 9, 1998, [112 Stat. 142][/us/stat/112/142], 143; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1808(a)–(f), Aug. 10, 2005, [119 Stat. 1461–1463][/us/stat/119/1461-1463]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1113(a), (b), July 6, 2012, [126 Stat. 460][/us/stat/126/460]; [Pub. L. 113–76, div. L, title I][/us/pl/113/76/dL/tI], § 125, Jan. 17, 2014, [128 Stat. 587][/us/stat/128/587]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], §§ 1109(c)(5), 1114, Dec. 4, 2015, [129 Stat. 1343][/us/stat/129/1343], 1348.)
 
  __References in Text__ 
 
@@ -295,73 +295,73 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(A)(i)(I). [Pub. L. 114–94, § 1114(1)(A)][/us/pl/114/94/s1114/1/A], inserted “in the designated nonattainment area” after “air quality standard”.
+    2015—Subsec. (b)(1)(A)(i)(I). [Pub. L. 114–94][/us/pl/114/94], § 1114(1)(A), inserted “in the designated nonattainment area” after “air quality standard”.
 
-    Subsec. (b)(3). [Pub. L. 114–94, § 1114(1)(B)][/us/pl/114/94/s1114/1/B], inserted “or maintenance” after “likely to contribute to the attainment”.
+    Subsec. (b)(3). [Pub. L. 114–94][/us/pl/114/94], § 1114(1)(B), inserted “or maintenance” after “likely to contribute to the attainment”.
 
-    Subsec. (b)(4). [Pub. L. 114–94, § 1114(1)(C)][/us/pl/114/94/s1114/1/C], substituted “attainment or maintenance in the area of” for “attainment of”.
+    Subsec. (b)(4). [Pub. L. 114–94][/us/pl/114/94], § 1114(1)(C), substituted “attainment or maintenance in the area of” for “attainment of”.
 
-    Subsec. (b)(8)(A)(ii). [Pub. L. 114–94, § 1114(1)(E)(i)(I)][/us/pl/114/94/s1114/1/E/i/I], inserted “or port-related freight operations” after “construction projects” in introductory provisions.
+    Subsec. (b)(8)(A)(ii). [Pub. L. 114–94][/us/pl/114/94], § 1114(1)(E)(i)(I), inserted “or port-related freight operations” after “construction projects” in introductory provisions.
 
-    Subsec. (b)(8)(A)(ii)(II). [Pub. L. 114–94, § 1114(1)(E)(i)(II)][/us/pl/114/94/s1114/1/E/i/II], inserted “or chapter 53 of title 49” after “this title”.
+    Subsec. (b)(8)(A)(ii)(II). [Pub. L. 114–94][/us/pl/114/94], § 1114(1)(E)(i)(II), inserted “or chapter 53 of title 49” after “this title”.
 
-    Subsec. (b)(9). [Pub. L. 114–94, § 1114(1)(D)][/us/pl/114/94/s1114/1/D], (E)(ii), (F), added par. (9).
+    Subsec. (b)(9). [Pub. L. 114–94][/us/pl/114/94], § 1114(1)(D), (E)(ii), (F), added par. (9).
 
-    Subsec. (c)(2). [Pub. L. 114–94, § 1114(2)][/us/pl/114/94/s1114/2], inserted “(giving priority to corridors designated under section 151)” after “at any location in the State”.
+    Subsec. (c)(2). [Pub. L. 114–94][/us/pl/114/94], § 1114(2), inserted “(giving priority to corridors designated under section 151)” after “at any location in the State”.
 
-    Subsec. (d)(1)(B). [Pub. L. 114–94, § 1114(3)(A)][/us/pl/114/94/s1114/3/A], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is eligible under the surface transportation program under section 133.”
+    Subsec. (d)(1)(B). [Pub. L. 114–94][/us/pl/114/94], § 1114(3)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is eligible under the surface transportation program under section 133.”
 
-    Subsec. (d)(2)(A). [Pub. L. 114–94, § 1109(c)(5)][/us/pl/114/94/s1109/c/5], subsituted “surface transportation block grant program” for “surface transportation program” in introductory provisions.
+    Subsec. (d)(2)(A). [Pub. L. 114–94][/us/pl/114/94], § 1109(c)(5), subsituted “surface transportation block grant program” for “surface transportation program” in introductory provisions.
 
-    Subsec. (d)(2)(A)(i). [Pub. L. 114–94, § 1114(3)(B)(i)(II)][/us/pl/114/94/s1114/3/B/i/II], substituted “subsection (k)(1)” for “paragraph (l)”.
+    Subsec. (d)(2)(A)(i). [Pub. L. 114–94][/us/pl/114/94], § 1114(3)(B)(i)(II), substituted “subsection (k)(1)” for “paragraph (l)”.
 
-    Subsec. (d)(2)(B)(i). [Pub. L. 114–94, § 1114(3)(B)(ii)][/us/pl/114/94/s1114/3/B/ii], substituted “MAP–21” for “MAP–21t”.
+    Subsec. (d)(2)(B)(i). [Pub. L. 114–94][/us/pl/114/94], § 1114(3)(B)(ii), substituted “MAP–21” for “MAP–21t”.
 
-    Subsec. (d)(3). [Pub. L. 114–94, § 1114(3)(C)][/us/pl/114/94/s1114/3/C], inserted “, in a manner consistent with the approach that was in effect on the day before the date of enactment of MAP–21,” after “the Secretary shall modify”.
+    Subsec. (d)(3). [Pub. L. 114–94][/us/pl/114/94], § 1114(3)(C), inserted “, in a manner consistent with the approach that was in effect on the day before the date of enactment of MAP–21,” after “the Secretary shall modify”.
 
-    Subsec. (g)(2)(B). [Pub. L. 114–94, § 1114(4)][/us/pl/114/94/s1114/4], substituted “not later than” for “not later that”.
+    Subsec. (g)(2)(B). [Pub. L. 114–94][/us/pl/114/94], § 1114(4), substituted “not later than” for “not later that”.
 
-    Subsec. (k)(3), (4). [Pub. L. 114–94, § 1114(5)][/us/pl/114/94/s1114/5], added pars. (3) and (4).
+    Subsec. (k)(3), (4). [Pub. L. 114–94][/us/pl/114/94], § 1114(5), added pars. (3) and (4).
 
-    Subsec. (l)(1)(B). [Pub. L. 114–94, § 1114(6)][/us/pl/114/94/s1114/6], inserted “air quality and traffic congestion” before “performance targets”.
+    Subsec. (l)(1)(B). [Pub. L. 114–94][/us/pl/114/94], § 1114(6), inserted “air quality and traffic congestion” before “performance targets”.
 
-    Subsec. (m). [Pub. L. 114–94, § 1114(7)][/us/pl/114/94/s1114/7], substituted “section 104(b)(4)” for “section 104(b)(2)”.
+    Subsec. (m). [Pub. L. 114–94][/us/pl/114/94], § 1114(7), substituted “section 104(b)(4)” for “section 104(b)(2)”.
 
     2014—Subsec. (m). [Pub. L. 113–76][/us/pl/113/76] substituted “for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation” for “that was previously eligible under this section”.
 
-    2012—Subsec. (b). [Pub. L. 112–141, § 1113(a)(1)][/us/pl/112/141/s1113/a/1], (5), in introductory provisions, substituted “in subsection (d)” for “in subsection (c)” and “section 104(b)(4)” for “section 104(b)(2)” and struck out concluding provisions which read as follows: “No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses.”
+    2012—Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 1113(a)(1), (5), in introductory provisions, substituted “in subsection (d)” for “in subsection (c)” and “section 104(b)(4)” for “section 104(b)(2)” and struck out concluding provisions which read as follows: “No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses.”
 
-    Subsec. (b)(5). [Pub. L. 112–141, § 1113(a)(2)][/us/pl/112/141/s1113/a/2], inserted “add turning lanes,” after “improve intersections,” and substituted “paragraph, including programs or projects to improve incident and emergency response or improve mobility, such as through real-time traffic, transit, and multimodal traveler information;” for “paragraph;”.
+    Subsec. (b)(5). [Pub. L. 112–141][/us/pl/112/141], § 1113(a)(2), inserted “add turning lanes,” after “improve intersections,” and substituted “paragraph, including programs or projects to improve incident and emergency response or improve mobility, such as through real-time traffic, transit, and multimodal traveler information;” for “paragraph;”.
 
-    Subsec. (b)(7). [Pub. L. 112–141, § 1113(a)(3)][/us/pl/112/141/s1113/a/3], (7), added par. (7). Former par. (7) redesignated (8).
+    Subsec. (b)(7). [Pub. L. 112–141][/us/pl/112/141], § 1113(a)(3), (7), added par. (7). Former par. (7) redesignated (8).
 
-    Subsec. (b)(7)(A)(ii). [Pub. L. 112–141, § 1113(a)(4)][/us/pl/112/141/s1113/a/4], substituted “verified technologies (as defined in section 791 of the Energy Policy Act of 2005 ([42 U.S.C. 16131][/us/usc/t42/s16131]))” for “published in the list under subsection (f)(2)” in introductory provisions.
+    Subsec. (b)(7)(A)(ii). [Pub. L. 112–141][/us/pl/112/141], § 1113(a)(4), substituted “verified technologies (as defined in section 791 of the Energy Policy Act of 2005 ([42 U.S.C. 16131][/us/usc/t42/s16131]))” for “published in the list under subsection (f)(2)” in introductory provisions.
 
-    Subsec. (b)(8). [Pub. L. 112–141, § 1113(a)(6)][/us/pl/112/141/s1113/a/6], redesignated par. (7) as (8).
+    Subsec. (b)(8). [Pub. L. 112–141][/us/pl/112/141], § 1113(a)(6), redesignated par. (7) as (8).
 
-    Subsec. (c). [Pub. L. 112–141, § 1113(b)(2)][/us/pl/112/141/s1113/b/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 1113(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 112–141, § 1113(b)(3)][/us/pl/112/141/s1113/b/3], added subsec. (d) and struck out former subsec. (d) which related to states receiving minimum apportionment.
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 1113(b)(3), added subsec. (d) and struck out former subsec. (d) which related to states receiving minimum apportionment.
 
-    [Pub. L. 112–141, § 1113(b)(1)][/us/pl/112/141/s1113/b/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    [Pub. L. 112–141][/us/pl/112/141], § 1113(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 112–141, § 1113(b)(1)][/us/pl/112/141/s1113/b/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 1113(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 112–141, § 1113(b)(1)][/us/pl/112/141/s1113/b/1], (4), redesignated subsec. (e) as (f) and substituted “104(b)(4)” for “104(b)(2)” in par. (3). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 112–141][/us/pl/112/141], § 1113(b)(1), (4), redesignated subsec. (e) as (f) and substituted “104(b)(4)” for “104(b)(2)” in par. (3). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 112–141, § 1113(b)(1)][/us/pl/112/141/s1113/b/1], (5), redesignated subsec. (f) as (g), added par. (3), and struck out former par. (3) which related to priority. Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 112–141][/us/pl/112/141], § 1113(b)(1), (5), redesignated subsec. (f) as (g), added par. (3), and struck out former par. (3) which related to priority. Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 112–141, § 1113(b)(1)][/us/pl/112/141/s1113/b/1], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 112–141][/us/pl/112/141], § 1113(b)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 112–141, § 1113(b)(6)][/us/pl/112/141/s1113/b/6], added subsec. (i) and struck out former subsec. (i) which related to evaluation and assessment of projects.
+    Subsec. (i). [Pub. L. 112–141][/us/pl/112/141], § 1113(b)(6), added subsec. (i) and struck out former subsec. (i) which related to evaluation and assessment of projects.
 
-    [Pub. L. 112–141, § 1113(b)(1)][/us/pl/112/141/s1113/b/1], redesignated subsec. (h) as (i).
+    [Pub. L. 112–141][/us/pl/112/141], § 1113(b)(1), redesignated subsec. (h) as (i).
 
-    Subsecs. (j) to (m). [Pub. L. 112–141, § 1113(b)(6)][/us/pl/112/141/s1113/b/6], added subsecs. (j) to (m).
+    Subsecs. (j) to (m). [Pub. L. 112–141][/us/pl/112/141], § 1113(b)(6), added subsecs. (j) to (m).
 
-    2005—Subsec. (b). [Pub. L. 109–59, § 1808(a)][/us/pl/109/59/s1808/a], inserted “or is required to prepare, and file with the Administrator of the Environmental Protection Agency, maintenance plans under the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.)” after “1997,” in introductory provisions.
+    2005—Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 1808(a), inserted “or is required to prepare, and file with the Administrator of the Environmental Protection Agency, maintenance plans under the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.)” after “1997,” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 109–59, § 1808(b)(1)][/us/pl/109/59/s1808/b/1], added par. (1) and struck out former par. (1) which read as follows:
+    Subsec. (b)(1). [Pub. L. 109–59][/us/pl/109/59], § 1808(b)(1), added par. (1) and struck out former par. (1) which read as follows:
 
     “(A) if the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines, on the basis of information published by the Environmental Protection Agency pursuant to section 108(f)(1)(A) of the Clean Air Act (other than clause (xvi) of such section), that the project or program is likely to contribute to—
 
@@ -371,45 +371,45 @@
 
     “(B) in any case in which such information is not available, if the Secretary, after such consultation, determines that the project or program is part of a program, method, or strategy described in such section;”.
 
-    Subsec. (b)(4). [Pub. L. 109–59, § 1808(b)(2)(A)][/us/pl/109/59/s1808/b/2/A], inserted “, including advanced truck stop electrification systems,” after “control facility or program”.
+    Subsec. (b)(4). [Pub. L. 109–59][/us/pl/109/59], § 1808(b)(2)(A), inserted “, including advanced truck stop electrification systems,” after “control facility or program”.
 
-    Subsec. (b)(5). [Pub. L. 109–59, § 1808(b)(3)(A)][/us/pl/109/59/s1808/b/3/A], inserted “improve transportation systems management and operations that mitigate congestion and improve air quality,” after “intersections,”.
+    Subsec. (b)(5). [Pub. L. 109–59][/us/pl/109/59], § 1808(b)(3)(A), inserted “improve transportation systems management and operations that mitigate congestion and improve air quality,” after “intersections,”.
 
-    Subsec. (b)(6), (7). [Pub. L. 109–59, § 1808(b)(2)(B)][/us/pl/109/59/s1808/b/2/B], (3)(B), (4), which directed addition of pars. (6) and (7) at end of subsec. (b), was executed by adding pars. (6) and (7) after par. (5) to reflect the probable intent of Congress.
+    Subsec. (b)(6), (7). [Pub. L. 109–59][/us/pl/109/59], § 1808(b)(2)(B), (3)(B), (4), which directed addition of pars. (6) and (7) at end of subsec. (b), was executed by adding pars. (6) and (7) after par. (5) to reflect the probable intent of Congress.
 
-    Subsec. (c)(1). [Pub. L. 109–59, § 1808(c)(1)][/us/pl/109/59/s1808/c/1], substituted “for any project in the State that—” and subpars. (A) and (B) for “for any project eligible under the surface transportation program under section 133.”
+    Subsec. (c)(1). [Pub. L. 109–59][/us/pl/109/59], § 1808(c)(1), substituted “for any project in the State that—” and subpars. (A) and (B) for “for any project eligible under the surface transportation program under section 133.”
 
-    Subsec. (c)(2). [Pub. L. 109–59, § 1808(c)(2)][/us/pl/109/59/s1808/c/2], substituted “for any project in the State that—” and subpars. (A) and (B) for “for any project in the State eligible under section 133.”
+    Subsec. (c)(2). [Pub. L. 109–59][/us/pl/109/59], § 1808(c)(2), substituted “for any project in the State that—” and subpars. (A) and (B) for “for any project in the State eligible under section 133.”
 
-    Subsecs. (f) to (h). [Pub. L. 109–59, § 1808(d)][/us/pl/109/59/s1808/d]–(f), added subsecs. (f) to (h).
+    Subsecs. (f) to (h). [Pub. L. 109–59][/us/pl/109/59], § 1808(d)–(f), added subsecs. (f) to (h).
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 1110(a)][/us/pl/105/178/s1110/a], substituted “shall establish and implement” for “shall establish”.
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 1110(a), substituted “shall establish and implement” for “shall establish”.
 
-    Subsec. (b). [Pub. L. 105–178, § 1110(b)(1)][/us/pl/105/178/s1110/b/1], in introductory provisions, substituted “that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d]) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act ([42 U.S.C. 7511(a)][/us/usc/t42/s7511/a], 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997,” for “that was designated as a nonattainment area under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d]) during any part of fiscal year 1994”.
+    Subsec. (b). [Pub. L. 105–178][/us/pl/105/178], § 1110(b)(1), in introductory provisions, substituted “that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d]) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act ([42 U.S.C. 7511(a)][/us/usc/t42/s7511/a], 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997,” for “that was designated as a nonattainment area under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d]) during any part of fiscal year 1994”.
 
-    Subsec. (b)(1)(A). [Pub. L. 105–178, § 1110(b)(2)][/us/pl/105/178/s1110/b/2], substituted “clause (xvi) of such section” for “clauses (xii) and (xvi) of such section”.
+    Subsec. (b)(1)(A). [Pub. L. 105–178][/us/pl/105/178], § 1110(b)(2), substituted “clause (xvi) of such section” for “clauses (xii) and (xvi) of such section”.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 105–178, § 1110(b)(3)][/us/pl/105/178/s1110/b/3], substituted “a maintenance area” for “an area that was designated as a nonattainment area but that was later redesignated by the Administrator of the Environmental Protection Agency as an attainment area under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d])”.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 105–178][/us/pl/105/178], § 1110(b)(3), substituted “a maintenance area” for “an area that was designated as a nonattainment area but that was later redesignated by the Administrator of the Environmental Protection Agency as an attainment area under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d])”.
 
-    Subsec. (b)(5). [Pub. L. 105–178, § 1110(b)(4)][/us/pl/105/178/s1110/b/4]–(6), added par. (5).
+    Subsec. (b)(5). [Pub. L. 105–178][/us/pl/105/178], § 1110(b)(4)–(6), added par. (5).
 
-    Subsec. (c). [Pub. L. 105–178, § 1110(c)][/us/pl/105/178/s1110/c], added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “If a State does not have a nonattainment area for ozone or carbon monoxide under the Clean Air Act located within its borders, the State may use funds apportioned to it under section 104(b)(2) for any project eligible for assistance under the surface transportation program.”
+    Subsec. (c). [Pub. L. 105–178][/us/pl/105/178], § 1110(c), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “If a State does not have a nonattainment area for ozone or carbon monoxide under the Clean Air Act located within its borders, the State may use funds apportioned to it under section 104(b)(2) for any project eligible for assistance under the surface transportation program.”
 
-    Subsec. (e). [Pub. L. 105–178, § 1110(d)(1)][/us/pl/105/178/s1110/d/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–178][/us/pl/105/178], § 1110(d)(1), added subsec. (e).
 
-    1995—Subsec. (b). [Pub. L. 104–59, § 319(a)(1)(A)][/us/pl/104/59/s319/a/1/A], in introductory provisions, inserted “if the project or program is for an area in the State that was designated as a nonattainment area under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d]) during any part of fiscal year 1994 and” after “project or program”.
+    1995—Subsec. (b). [Pub. L. 104–59][/us/pl/104/59], § 319(a)(1)(A), in introductory provisions, inserted “if the project or program is for an area in the State that was designated as a nonattainment area under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d]) during any part of fiscal year 1994 and” after “project or program”.
 
-    Subsec. (b)(1)(A). [Pub. L. 104–59, § 319(a)(1)(B)][/us/pl/104/59/s319/a/1/B], substituted “contribute to—” and cls. (i) and (ii) for “contribute to the attainment of a national ambient air quality standard; or”.
+    Subsec. (b)(1)(A). [Pub. L. 104–59][/us/pl/104/59], § 319(a)(1)(B), substituted “contribute to—” and cls. (i) and (ii) for “contribute to the attainment of a national ambient air quality standard; or”.
 
-    Subsec. (b)(2). [Pub. L. 104–59, § 319(b)(1)][/us/pl/104/59/s319/b/1], struck out “or” at end.
+    Subsec. (b)(2). [Pub. L. 104–59][/us/pl/104/59], § 319(b)(1), struck out “or” at end.
 
-    Subsec. (b)(3). [Pub. L. 104–88, § 405(b)(1)][/us/pl/104/88/s405/b/1], inserted “or” after semicolon at end.
+    Subsec. (b)(3). [Pub. L. 104–88][/us/pl/104/88], § 405(b)(1), inserted “or” after semicolon at end.
 
-    [Pub. L. 104–59, § 319(b)(2)][/us/pl/104/59/s319/b/2], substituted a semicolon for period at end.
+    [Pub. L. 104–59][/us/pl/104/59], § 319(b)(2), substituted a semicolon for period at end.
 
-    Subsec. (b)(4). [Pub. L. 104–88, § 405(b)(2)][/us/pl/104/88/s405/b/2], substituted a period for “; or” at end.
+    Subsec. (b)(4). [Pub. L. 104–88][/us/pl/104/88], § 405(b)(2), substituted a period for “; or” at end.
 
-    [Pub. L. 104–59, § 319(b)(3)][/us/pl/104/59/s319/b/3], as amended by [Pub. L. 104–88, § 405(a)(2)][/us/pl/104/88/s405/a/2], added par. (4).
+    [Pub. L. 104–59][/us/pl/104/59], § 319(b)(3), as amended by [Pub. L. 104–88][/us/pl/104/88], § 405(a)(2), added par. (4).
 
     1992—Subsec. (b). [Pub. L. 102–388][/us/pl/102/388] inserted at end “In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses.”
 
@@ -427,7 +427,7 @@
 
     Amendment by [section 405(b) of Pub. L. 104–88][/us/pl/104/88/s405/b] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of Title 49][/us/usc/t49/s1301], Transportation.
 
-    [Pub. L. 104–88, title IV, § 405(a)][/us/pl/104/88/s405/a], Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956], provided that the amendment made by section 405(a)(2) is effective Nov. 28, 1995.
+    [Pub. L. 104–88, title IV][/us/pl/104/88/tIV], § 405(a), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956], provided that the amendment made by section 405(a)(2) is effective Nov. 28, 1995.
 
  __Effective Date of 1991 Amendment__ 
 
@@ -435,13 +435,13 @@
 
  __Determination by Secretary; Water-Phased Hydrocarbon Fuel Emulsion Technologies__ 
 
-[Pub. L. 105–178, title I, § 1110(d)(2)][/us/pl/105/178/s1110/d/2], June 9, 1998, [112 Stat. 144][/us/stat/112/144], as amended by [Pub. L. 105–206, title IX, § 9002(g)][/us/pl/105/206/s9002/g], July 22, 1998, [112 Stat. 836][/us/stat/112/836], provided that: 
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1110(d)(2), June 9, 1998, [112 Stat. 144][/us/stat/112/144], as amended by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9002(g), July 22, 1998, [112 Stat. 836][/us/stat/112/836], provided that: 
 
 > “For the purposes of section 149(e) \[now 149(f)\] of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbon fuel emulsion technologies that consist of a hydrocarbon base and water in an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles.”
 
  __Study of CMAQ Program__ 
 
-[Pub. L. 105–178, title I, § 1110(e)][/us/pl/105/178/s1110/e], June 9, 1998, [112 Stat. 144][/us/stat/112/144], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1110(e), June 9, 1998, [112 Stat. 144][/us/stat/112/144], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -485,7 +485,7 @@
 
  __Value Pricing Pilot Program__ 
 
-[Pub. L. 102–240, title I, § 1012(b)][/us/pl/102/240/s1012/b], Dec. 18, 1991, [105 Stat. 1938][/us/stat/105/1938], as amended by [Pub. L. 104–59, title III, § 325(e)][/us/pl/104/59/s325/e], Nov. 28, 1995, [109 Stat. 592][/us/stat/109/592]; [Pub. L. 105–178, title I, § 1216(a)][/us/pl/105/178/s1216/a], June 9, 1998, [112 Stat. 211][/us/stat/112/211]; [Pub. L. 105–206, title IX, § 9006(b)][/us/pl/105/206/s9006/b], July 22, 1998, [112 Stat. 848][/us/stat/112/848]; [Pub. L. 109–59, title I, § 1604(a)][/us/pl/109/59/s1604/a], Aug. 10, 2005, [119 Stat. 1249][/us/stat/119/1249], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1012(b), Dec. 18, 1991, [105 Stat. 1938][/us/stat/105/1938], as amended by [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 325(e), Nov. 28, 1995, [109 Stat. 592][/us/stat/109/592]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1216(a), June 9, 1998, [112 Stat. 211][/us/stat/112/211]; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9006(b), July 22, 1998, [112 Stat. 848][/us/stat/112/848]; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1604(a), Aug. 10, 2005, [119 Stat. 1249][/us/stat/119/1249], provided that:
 
 >     “(1) The Secretary shall solicit the participation of State and local governments and public authorities for one or more value pricing pilot programs. The Secretary may enter into cooperative agreements with as many as 15 such State or local governments or public authorities to establish, maintain, and monitor value pricing programs.
 
@@ -557,25 +557,25 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/93/87/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs142%2Fa
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F272
-[/us/pl/102/240/s1008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1008%2Fa
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1932
-[/us/pl/102/388/s380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2Fs380
+[/us/pl/102/388/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2FtIII
 [/us/stat/106/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1562
-[/us/pl/104/59/s319/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs319%2Fa%2F1
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F588
-[/us/pl/104/88/s405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs405%2Fa%2F2
+[/us/pl/104/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIV
 [/us/stat/109/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F956
-[/us/pl/105/178/s1110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1110%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F142
-[/us/pl/109/59/s1808/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1808%2Fa
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1461-1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1461-1463
-[/us/pl/112/141/s1113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F460
-[/us/pl/113/76/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs125
+[/us/pl/113/76/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtI
 [/us/stat/128/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F587
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1343
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
@@ -589,68 +589,68 @@
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/114/94/s1114/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F1%2FA
-[/us/pl/114/94/s1114/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F1%2FB
-[/us/pl/114/94/s1114/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F1%2FC
-[/us/pl/114/94/s1114/1/E/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F1%2FE%2Fi%2FI
-[/us/pl/114/94/s1114/1/E/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F1%2FE%2Fi%2FII
-[/us/pl/114/94/s1114/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F1%2FD
-[/us/pl/114/94/s1114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F2
-[/us/pl/114/94/s1114/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F3%2FA
-[/us/pl/114/94/s1109/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fc%2F5
-[/us/pl/114/94/s1114/3/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F3%2FB%2Fi%2FII
-[/us/pl/114/94/s1114/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F3%2FB%2Fii
-[/us/pl/114/94/s1114/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F3%2FC
-[/us/pl/114/94/s1114/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F4
-[/us/pl/114/94/s1114/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F5
-[/us/pl/114/94/s1114/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F6
-[/us/pl/114/94/s1114/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1114%2F7
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/pl/112/141/s1113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fa%2F1
-[/us/pl/112/141/s1113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fa%2F2
-[/us/pl/112/141/s1113/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fa%2F3
-[/us/pl/112/141/s1113/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fa%2F4
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s16131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16131
-[/us/pl/112/141/s1113/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fa%2F6
-[/us/pl/112/141/s1113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fb%2F2
-[/us/pl/112/141/s1113/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fb%2F3
-[/us/pl/112/141/s1113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fb%2F1
-[/us/pl/112/141/s1113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fb%2F1
-[/us/pl/112/141/s1113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fb%2F1
-[/us/pl/112/141/s1113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fb%2F1
-[/us/pl/112/141/s1113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fb%2F1
-[/us/pl/112/141/s1113/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fb%2F6
-[/us/pl/112/141/s1113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fb%2F1
-[/us/pl/112/141/s1113/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fb%2F6
-[/us/pl/109/59/s1808/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1808%2Fa
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/109/59/s1808/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1808%2Fb%2F1
-[/us/pl/109/59/s1808/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1808%2Fb%2F2%2FA
-[/us/pl/109/59/s1808/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1808%2Fb%2F3%2FA
-[/us/pl/109/59/s1808/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1808%2Fb%2F2%2FB
-[/us/pl/109/59/s1808/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1808%2Fc%2F1
-[/us/pl/109/59/s1808/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1808%2Fc%2F2
-[/us/pl/109/59/s1808/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1808%2Fd
-[/us/pl/105/178/s1110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1110%2Fa
-[/us/pl/105/178/s1110/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1110%2Fb%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t42/s7407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd
 [/us/usc/t42/s7511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511%2Fa
 [/us/usc/t42/s7407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd
-[/us/pl/105/178/s1110/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1110%2Fb%2F2
-[/us/pl/105/178/s1110/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1110%2Fb%2F3
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t42/s7407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd
-[/us/pl/105/178/s1110/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1110%2Fb%2F4
-[/us/pl/105/178/s1110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1110%2Fc
-[/us/pl/105/178/s1110/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1110%2Fd%2F1
-[/us/pl/104/59/s319/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs319%2Fa%2F1%2FA
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/usc/t42/s7407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd
-[/us/pl/104/59/s319/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs319%2Fa%2F1%2FB
-[/us/pl/104/59/s319/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs319%2Fb%2F1
-[/us/pl/104/88/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs405%2Fb%2F1
-[/us/pl/104/59/s319/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs319%2Fb%2F2
-[/us/pl/104/88/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs405%2Fb%2F2
-[/us/pl/104/59/s319/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs319%2Fb%2F3
-[/us/pl/104/88/s405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs405%2Fa%2F2
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/102/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
@@ -662,16 +662,16 @@
 [/us/pl/104/88/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs405%2Fb
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/104/88/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs405%2Fa
+[/us/pl/104/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIV
 [/us/stat/109/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F956
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/105/178/s1110/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1110%2Fd%2F2
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F144
-[/us/pl/105/206/s9002/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9002%2Fg
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F836
-[/us/pl/105/178/s1110/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1110%2Fe
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F144
 [/us/usc/t23/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs149
 [/us/usc/t23/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F2
@@ -679,15 +679,15 @@
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/104/59/s319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs319%2Fc
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/102/240/s1012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1012%2Fb
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1938
-[/us/pl/104/59/s325/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs325%2Fe
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F592
-[/us/pl/105/178/s1216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1216%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F211
-[/us/pl/105/206/s9006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9006%2Fb
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F848
-[/us/pl/109/59/s1604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1604%2Fa
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1249
 [/us/usc/t23/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs129
 [/us/usc/t23/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs102%2Fa

@@ -181,7 +181,7 @@
 
     The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that the bicycle level of service on that roadway is rated B or higher.
 
-(Added [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 486][/us/stat/126/486]; amended [Pub. L. 114–94, div. A, title I, § 1119][/us/pl/114/94/s1119], Dec. 4, 2015, [129 Stat. 1358][/us/stat/129/1358].)
+(Added [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 486][/us/stat/126/486]; amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1119, Dec. 4, 2015, [129 Stat. 1358][/us/stat/129/1358].)
 
  __References in Text__ 
 
@@ -189,21 +189,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 203, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 906][/us/stat/72/906]; [Pub. L. 86–657, § 8(b)][/us/pl/86/657/s8/b], July 14, 1960, [74 Stat. 524][/us/stat/74/524]; [Pub. L. 87–866, § 7][/us/pl/87/866/s7], Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 94–280, title I, § 117(b)][/us/pl/94/280/s117/b], May 5, 1976, [90 Stat. 437][/us/stat/90/437]; [Pub. L. 97–424, title I, § 126(f)][/us/pl/97/424/s126/f], Jan. 6, 1983, [96 Stat. 2116][/us/stat/96/2116]; [Pub. L. 102–240, title I, § 1032(f)][/us/pl/102/240/s1032/f], Dec. 18, 1991, [105 Stat. 1975][/us/stat/105/1975]; [Pub. L. 105–178, title I, § 1115(c)][/us/pl/105/178/s1115/c], (e)(3), June 9, 1998, [112 Stat. 156][/us/stat/112/156], 158, related to availability of funds, prior to repeal by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473].
+    A prior section 203, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 906][/us/stat/72/906]; [Pub. L. 86–657][/us/pl/86/657], § 8(b), July 14, 1960, [74 Stat. 524][/us/stat/74/524]; [Pub. L. 87–866][/us/pl/87/866], § 7, Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 117(b), May 5, 1976, [90 Stat. 437][/us/stat/90/437]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 126(f), Jan. 6, 1983, [96 Stat. 2116][/us/stat/96/2116]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1032(f), Dec. 18, 1991, [105 Stat. 1975][/us/stat/105/1975]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1115(c), (e)(3), June 9, 1998, [112 Stat. 156][/us/stat/112/156], 158, related to availability of funds, prior to repeal by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 473][/us/stat/126/473].
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1)(B). [Pub. L. 114–94, § 1119(1)(A)][/us/pl/114/94/s1119/1/A], substituted “capital, operations,” for “operation”.
+    2015—Subsec. (a)(1)(B). [Pub. L. 114–94][/us/pl/114/94], § 1119(1)(A), substituted “capital, operations,” for “operation”.
 
-    Subsec. (a)(1)(D). [Pub. L. 114–94, § 1119(1)(B)][/us/pl/114/94/s1119/1/B], substituted “subparagraph (A)(iv)(I)” for “subparagraph (A)(iv)”.
+    Subsec. (a)(1)(D). [Pub. L. 114–94][/us/pl/114/94], § 1119(1)(B), substituted “subparagraph (A)(iv)(I)” for “subparagraph (A)(iv)”.
 
-    Subsec. (b)(1)(B)(vi), (vii). [Pub. L. 114–94, § 1119(2)(A)][/us/pl/114/94/s1119/2/A], added cls. (vi) and (vii).
+    Subsec. (b)(1)(B)(vi), (vii). [Pub. L. 114–94][/us/pl/114/94], § 1119(2)(A), added cls. (vi) and (vii).
 
-    Subsec. (b)(2)(B). [Pub. L. 114–94, § 1119(2)(B)(i)][/us/pl/114/94/s1119/2/B/i], inserted “performance management, including” after “support” in introductory provisions.
+    Subsec. (b)(2)(B). [Pub. L. 114–94][/us/pl/114/94], § 1119(2)(B)(i), inserted “performance management, including” after “support” in introductory provisions.
 
-    Subsec. (b)(2)(B)(i)(II). [Pub. L. 114–94, § 1119(2)(B)(ii)][/us/pl/114/94/s1119/2/B/ii], substituted “; and” for “, and”.
+    Subsec. (b)(2)(B)(i)(II). [Pub. L. 114–94][/us/pl/114/94], § 1119(2)(B)(ii), substituted “; and” for “, and”.
 
-    Subsec. (c)(2)(B)(vi). [Pub. L. 114–94, § 1119(3)][/us/pl/114/94/s1119/3], added cl. (vi).
+    Subsec. (c)(2)(B)(vi). [Pub. L. 114–94][/us/pl/114/94], § 1119(3), added cl. (vi).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -221,35 +221,35 @@
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F486
-[/us/pl/114/94/s1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1358
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F906
-[/us/pl/86/657/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657%2Fs8%2Fb
+[/us/pl/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657
 [/us/stat/74/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F524
-[/us/pl/87/866/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F866%2Fs7
+[/us/pl/87/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F866
 [/us/stat/76/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1147
-[/us/pl/94/280/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs117%2Fb
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F437
-[/us/pl/97/424/s126/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126%2Ff
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2116
-[/us/pl/102/240/s1032/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1032%2Ff
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1975
-[/us/pl/105/178/s1115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1115%2Fc
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F156
-[/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
-[/us/pl/114/94/s1119/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F1%2FA
-[/us/pl/114/94/s1119/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F1%2FB
-[/us/pl/114/94/s1119/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F2%2FA
-[/us/pl/114/94/s1119/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F2%2FB%2Fi
-[/us/pl/114/94/s1119/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F2%2FB%2Fii
-[/us/pl/114/94/s1119/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

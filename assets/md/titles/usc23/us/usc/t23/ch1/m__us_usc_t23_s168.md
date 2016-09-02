@@ -173,7 +173,7 @@
 
         This section does not affect the use of planning products in the environmental review process pursuant to other authorities under any other provision of law or restrict the initiation of the environmental review process during planning.
 
-(Added [Pub. L. 112–141, div. A, title I, § 1310(a)][/us/pl/112/141/s1310/a], July 6, 2012, [126 Stat. 540][/us/stat/126/540]; amended [Pub. L. 114–94, div. A, title I, § 1305][/us/pl/114/94/s1305], Dec. 4, 2015, [129 Stat. 1386][/us/stat/129/1386].)
+(Added [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1310(a), July 6, 2012, [126 Stat. 540][/us/stat/126/540]; amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1305, Dec. 4, 2015, [129 Stat. 1386][/us/stat/129/1386].)
 
  __References in Text__ 
 
@@ -203,9 +203,9 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/112/141/s1310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1310%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F540
-[/us/pl/114/94/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1305
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1386
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

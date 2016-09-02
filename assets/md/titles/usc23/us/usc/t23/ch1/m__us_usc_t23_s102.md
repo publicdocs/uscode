@@ -23,7 +23,7 @@
 
     If on-site construction of, or acquisition of right-of-way for, a highway project is not commenced within 10 years (or such longer period as the State requests and the Secretary determines to be reasonable) after the date on which Federal funds are first made available, out of the Highway Trust Fund (other than Mass Transit Account), for preliminary engineering of such project, the State shall pay an amount equal to the amount of Federal funds reimbursed for the preliminary engineering. The Secretary shall deposit in such Fund all amounts paid to the Secretary under this section.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 887][/us/stat/72/887]; [Pub. L. 102–240, title I, § 1016(a)][/us/pl/102/240/s1016/a], Dec. 18, 1991, [105 Stat. 1945][/us/stat/105/1945]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1206, 1209, 1212(a)(2)(A)(i), 1304, June 9, 1998, [112 Stat. 185][/us/stat/112/185], 186, 193, 227; [Pub. L. 109–59, title I, § 1121(b)(1)][/us/pl/109/59/s1121/b/1], Aug. 10, 2005, [119 Stat. 1195][/us/stat/119/1195]; [Pub. L. 112–141, div. A, title I, § 1502][/us/pl/112/141/s1502], July 6, 2012, [126 Stat. 561][/us/stat/126/561].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 887][/us/stat/72/887]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1016(a), Dec. 18, 1991, [105 Stat. 1945][/us/stat/105/1945]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], §§ 1206, 1209, 1212(a)(2)(A)(i), 1304, June 9, 1998, [112 Stat. 185][/us/stat/112/185], 186, 193, 227; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1121(b)(1), Aug. 10, 2005, [119 Stat. 1195][/us/stat/119/1195]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1502, July 6, 2012, [126 Stat. 561][/us/stat/126/561].)
 
  __Amendments__ 
 
@@ -35,15 +35,15 @@
 
     “(2) Exception for inherently low-emission vehicles.—Notwithstanding paragraph (1), before September 30, 2003, a State may permit a vehicle with fewer than 2 occupants to operate in high occupancy vehicle lanes if the vehicle is certified as an Inherently Low-Emission Vehicle pursuant to title 40, Code of Federal Regulations, and is labeled in accordance with, section 88.312–93(c) of such title. Such permission may be revoked by the State should the State determine it necessary.”
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 1209][/us/pl/105/178/s1209], designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 1209, designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
-    Subsec. (a)(1). [Pub. L. 105–178, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], substituted “State transportation department” for “State highway department”.
+    Subsec. (a)(1). [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-    Subsec. (b). [Pub. L. 105–178, § 1206][/us/pl/105/178/s1206], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 105–178][/us/pl/105/178], § 1206, added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 105–178, § 1304][/us/pl/105/178/s1304], which directed insertion of “(or such longer period as the State requests and the Secretary determines to be reasonable)” after “10 years” in first sentence of subsec. (b), was executed by making the insertion in first sentence of subsec. (c) to reflect the probable intent of Congress and the amendment by [Pub. L. 105–178, § 1206][/us/pl/105/178/s1206]. See below.
+    Subsec. (c). [Pub. L. 105–178][/us/pl/105/178], § 1304, which directed insertion of “(or such longer period as the State requests and the Secretary determines to be reasonable)” after “10 years” in first sentence of subsec. (b), was executed by making the insertion in first sentence of subsec. (c) to reflect the probable intent of Congress and the amendment by [Pub. L. 105–178][/us/pl/105/178], § 1206. See below.
 
-    [Pub. L. 105–178, § 1206][/us/pl/105/178/s1206], redesignated subsec. (b) as (c).
+    [Pub. L. 105–178][/us/pl/105/178], § 1206, redesignated subsec. (b) as (c).
 
     1991—[Pub. L. 102–240][/us/pl/102/240] substituted section catchline for one which read: “Authorizations” and amended text generally. Prior to amendment, text read as follows: “The provisions of this title apply to all unappropriated authorizations contained in prior Acts, and also to all unexpended appropriations, heretofore made, providing for the expenditure of Federal funds upon the Federal-aid systems. All such authorizations and appropriations shall continue in full force and effect, but hereafter obligations entered into and expenditures made pursuant thereto shall be subject to the provisions of this title.”
 
@@ -64,22 +64,22 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F887
-[/us/pl/102/240/s1016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1016%2Fa
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1945
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F185
-[/us/pl/109/59/s1121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1121%2Fb%2F1
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1195
-[/us/pl/112/141/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1502
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F561
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/105/178/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1209
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
-[/us/pl/105/178/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1206
-[/us/pl/105/178/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1304
-[/us/pl/105/178/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1206
-[/us/pl/105/178/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1206
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa

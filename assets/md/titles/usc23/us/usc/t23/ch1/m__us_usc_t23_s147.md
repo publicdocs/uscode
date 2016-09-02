@@ -95,13 +95,13 @@
 
     All provisions of this chapter that are applicable to the National Highway System, other than provisions relating to apportionment formula and Federal share, shall apply to funds made available to carry out this section, except as determined by the Secretary to be inconsistent with this section.
 
-(Added [Pub. L. 93–87, title I, § 126(a)][/us/pl/93/87/s126/a], Aug. 13, 1973, [87 Stat. 263][/us/stat/87/263]; amended [Pub. L. 94–280, title I, § 130][/us/pl/94/280/s130], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I, § 1801(a)][/us/pl/109/59/s1801/a], Aug. 10, 2005, [119 Stat. 1455][/us/stat/119/1455]; [Pub. L. 112–141, div. A, title I, § 1121(a)][/us/pl/112/141/s1121/a], July 6, 2012, [126 Stat. 493][/us/stat/126/493]; [Pub. L. 114–94, div. A, title I, § 1112(a)][/us/pl/114/94/s1112/a], Dec. 4, 2015, [129 Stat. 1345][/us/stat/129/1345].)
+(Added [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 126(a), Aug. 13, 1973, [87 Stat. 263][/us/stat/87/263]; amended [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 130, May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1801(a), Aug. 10, 2005, [119 Stat. 1455][/us/stat/119/1455]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1121(a), July 6, 2012, [126 Stat. 493][/us/stat/126/493]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1112(a), Dec. 4, 2015, [129 Stat. 1345][/us/stat/129/1345].)
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–94, § 1112(a)(1)][/us/pl/114/94/s1112/a/1], substituted “Program” for “In General” in heading.
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 1112(a)(1), substituted “Program” for “In General” in heading.
 
-    Subsecs. (d) to (j). [Pub. L. 114–94, § 1112(a)(2)][/us/pl/114/94/s1112/a/2], added subsecs. (d) to (j) and struck out former subsecs. (d) to (g) which related to formula for determining allocation amounts, authorization of appropriations, period of availability of funds, and applicability of chapter, respectively.
+    Subsecs. (d) to (j). [Pub. L. 114–94][/us/pl/114/94], § 1112(a)(2), added subsecs. (d) to (j) and struck out former subsecs. (d) to (g) which related to formula for determining allocation amounts, authorization of appropriations, period of availability of funds, and applicability of chapter, respectively.
 
     2012—Subsecs. (c) to (g). [Pub. L. 112–141][/us/pl/112/141] added subsecs. (c) to (e), redesignated former subsecs. (e) and (f) as (f) and (g), respectively, and struck out former subsecs. (c) and (d) which related to allocation of funds and set-aside for projects on National Highway System, respectively.
 
@@ -121,7 +121,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 109–59, title I, § 1801(d)][/us/pl/109/59/s1801/d], Aug. 10, 2005, [119 Stat. 1456][/us/stat/119/1456], provided that: 
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1801(d), Aug. 10, 2005, [119 Stat. 1456][/us/stat/119/1456], provided that: 
 
 > “In addition to amounts made available to carry out [section 147 of title 23][/us/usc/t23/s147], United States Code, by section 1101 of this Act \[[119 Stat. 1153][/us/stat/119/1153]\], there are authorized to be appropriated such sums as may be necessary to carry out such section 147 for fiscal year 2006 and each fiscal year thereafter. Such funds shall remain available until expended.”
 
@@ -134,20 +134,20 @@
 
 [/us/usc/t23/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs129
 [/us/usc/t23/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs129
-[/us/pl/93/87/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs126%2Fa
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F263
-[/us/pl/94/280/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs130
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F440
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/109/59/s1801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1801%2Fa
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1455
-[/us/pl/112/141/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1121%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F493
-[/us/pl/114/94/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1345
-[/us/pl/114/94/s1112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fa%2F1
-[/us/pl/114/94/s1112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fa%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
@@ -158,7 +158,7 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s1801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1801%2Fd
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1456
 [/us/usc/t23/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs147
 [/us/stat/119/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1153

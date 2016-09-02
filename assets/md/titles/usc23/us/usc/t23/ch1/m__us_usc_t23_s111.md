@@ -93,17 +93,17 @@
 
     If the Secretary requests or requires a justification report for a project that would add a point of access to, or exit from, the Interstate System (including new or modified freeway-to-crossroad interchanges inside a transportation management area), the Secretary may permit a State transportation department to approve the report.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 895][/us/stat/72/895]; [Pub. L. 87–61, title I, § 104(a)][/us/pl/87/61/s104/a], June 29, 1961, [75 Stat. 122][/us/stat/75/122]; [Pub. L. 95–599, title I, § 114][/us/pl/95/599/s114], Nov. 6, 1978, [92 Stat. 2697][/us/stat/92/2697]; [Pub. L. 100–17, title I, § 110(a)][/us/pl/100/17/s110/a], Apr. 2, 1987, [101 Stat. 146][/us/stat/101/146]; [Pub. L. 104–59, title III, § 306][/us/pl/104/59/s306], Nov. 28, 1995, [109 Stat. 580][/us/stat/109/580]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I, § 1412][/us/pl/109/59/s1412], Aug. 10, 2005, [119 Stat. 1234][/us/stat/119/1234]; [Pub. L. 110–244, title I, § 104][/us/pl/110/244/s104], June 6, 2008, [122 Stat. 1578][/us/stat/122/1578]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1505, 1539(a), July 6, 2012, [126 Stat. 564][/us/stat/126/564], 587; [Pub. L. 114–94, div. A, title I, § 1405][/us/pl/114/94/s1405], Dec. 4, 2015, [129 Stat. 1410][/us/stat/129/1410].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 895][/us/stat/72/895]; [Pub. L. 87–61, title I][/us/pl/87/61/tI], § 104(a), June 29, 1961, [75 Stat. 122][/us/stat/75/122]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 114, Nov. 6, 1978, [92 Stat. 2697][/us/stat/92/2697]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 110(a), Apr. 2, 1987, [101 Stat. 146][/us/stat/101/146]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 306, Nov. 28, 1995, [109 Stat. 580][/us/stat/109/580]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1412, Aug. 10, 2005, [119 Stat. 1234][/us/stat/119/1234]; [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 104, June 6, 2008, [122 Stat. 1578][/us/stat/122/1578]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], §§ 1505, 1539(a), July 6, 2012, [126 Stat. 564][/us/stat/126/564], 587; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1405, Dec. 4, 2015, [129 Stat. 1410][/us/stat/129/1410].)
 
  __Amendments__ 
 
     2015—Subsec. (e). [Pub. L. 114–94][/us/pl/114/94] inserted “(including new or modified freeway-to-crossroad interchanges inside a transportation management area)” after “the Interstate System”.
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 1539(a)(1)][/us/pl/112/141/s1539/a/1], inserted “and will not change the boundary of any right-of-way on the Interstate System to accommodate construction of, or afford access to, an automotive service station or other commercial establishment” before period at end of second sentence.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 1539(a)(1), inserted “and will not change the boundary of any right-of-way on the Interstate System to accommodate construction of, or afford access to, an automotive service station or other commercial establishment” before period at end of second sentence.
 
-    Subsecs. (b) to (d). [Pub. L. 112–141, § 1539(a)(2)][/us/pl/112/141/s1539/a/2], (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+    Subsecs. (b) to (d). [Pub. L. 112–141][/us/pl/112/141], § 1539(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-    Subsec. (e). [Pub. L. 112–141, § 1505][/us/pl/112/141/s1505], added subsec. (e).
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 1505, added subsec. (e).
 
     2008—Subsec. (d). [Pub. L. 110–244][/us/pl/110/244] struck out subsec. (d) which related to idling reduction facilities in rights-of-way of Interstate System.
 
@@ -129,7 +129,7 @@
 
  __Interstate Oasis Program__ 
 
-[Pub. L. 109–59, title I, § 1310][/us/pl/109/59/s1310], Aug. 10, 2005, [119 Stat. 1219][/us/stat/119/1219], provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1310, Aug. 10, 2005, [119 Stat. 1219][/us/stat/119/1219], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -171,15 +171,15 @@
 
  __Vending Machines; Placement in Rest, Recreation, and Safety Rest Areas; State Operation of Machines__ 
 
-    [Pub. L. 97–424, title I, § 111][/us/pl/97/424/s111], Jan. 6, 1983, [96 Stat. 2106][/us/stat/96/2106], provided that notwithstanding [section 111 of this title][/us/usc/t23/s111] before Oct. 1, 1983, any State could permit placement of vending machines in rest and recreation areas and in safety rest areas constructed or located on rights-of-way of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] in such State. Such vending machines could only dispense such food, drink, and other articles as the State highway department determined were appropriate and desirable. Such vending machines could only be operated by the State. In permitting the placement of vending machines under this section, the State had to give priority to vending machines which were operated through the State licensing agency designated pursuant to [section 2(a)(5) of the Act of June 20, 1936][/us/act/1936-06-20/s2/a/5], known as the Randolph-Sheppard Act ([20 U.S.C. 107a(a)(5)][/us/usc/t20/s107a/a/5]).
+    [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 111, Jan. 6, 1983, [96 Stat. 2106][/us/stat/96/2106], provided that notwithstanding [section 111 of this title][/us/usc/t23/s111] before Oct. 1, 1983, any State could permit placement of vending machines in rest and recreation areas and in safety rest areas constructed or located on rights-of-way of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] in such State. Such vending machines could only dispense such food, drink, and other articles as the State highway department determined were appropriate and desirable. Such vending machines could only be operated by the State. In permitting the placement of vending machines under this section, the State had to give priority to vending machines which were operated through the State licensing agency designated pursuant to [section 2(a)(5) of the Act of June 20, 1936][/us/act/1936-06-20/s2/a/5], known as the Randolph-Sheppard Act ([20 U.S.C. 107a(a)(5)][/us/usc/t20/s107a/a/5]).
 
  __Demonstration Project for Vending Machines in Rest and Recreation Areas__ 
 
-    [Pub. L. 95–599, title I, § 153][/us/pl/95/599/s153], Nov. 6, 1978, [92 Stat. 2716][/us/stat/92/2716], authorized Secretary of Transportation to implement a demonstration project respecting placement of vending machines in rest and recreation areas and to report not later than two years after Nov. 6, 1978, on results of such project.
+    [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 153, Nov. 6, 1978, [92 Stat. 2716][/us/stat/92/2716], authorized Secretary of Transportation to implement a demonstration project respecting placement of vending machines in rest and recreation areas and to report not later than two years after Nov. 6, 1978, on results of such project.
 
  __Revision of Agreements Relating to Utilization of Space on Rights-of-Way__ 
 
-    [Pub. L. 87–61, title I, § 104(b)][/us/pl/87/61/s104/b], June 29, 1961, [75 Stat. 123][/us/stat/75/123], authorized Secretary of Commerce \[now Transportation\], on application, to revise any agreement made prior to June 29, 1961, to extent that such agreement relates to utilization of space on rights-of-way on National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] to conform to [section 111 of this title][/us/usc/t23/s111] as amended by subsection (a).
+    [Pub. L. 87–61, title I][/us/pl/87/61/tI], § 104(b), June 29, 1961, [75 Stat. 123][/us/stat/75/123], authorized Secretary of Commerce \[now Transportation\], on application, to revise any agreement made prior to June 29, 1961, to extent that such agreement relates to utilization of space on rights-of-way on National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] to conform to [section 111 of this title][/us/usc/t23/s111] as amended by subsection (a).
 
 ----------
 
@@ -192,28 +192,28 @@
 [/us/usc/t20/s107a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107a%2Fa%2F5
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F895
-[/us/pl/87/61/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs104%2Fa
+[/us/pl/87/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2FtI
 [/us/stat/75/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F122
-[/us/pl/95/599/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs114
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2697
-[/us/pl/100/17/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs110%2Fa
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F146
-[/us/pl/104/59/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs306
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F580
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/109/59/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1412
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1234
-[/us/pl/110/244/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs104
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1578
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F564
-[/us/pl/114/94/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1405
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1410
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s1539/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1539%2Fa%2F1
-[/us/pl/112/141/s1539/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1539%2Fa%2F2
-[/us/pl/112/141/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1505
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
@@ -227,17 +227,17 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1310
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1219
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
-[/us/pl/97/424/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs111
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2106
 [/us/usc/t23/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs111
 [/us/act/1936-06-20/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fs2%2Fa%2F5
 [/us/usc/t20/s107a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107a%2Fa%2F5
-[/us/pl/95/599/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs153
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2716
-[/us/pl/87/61/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs104%2Fb
+[/us/pl/87/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2FtI
 [/us/stat/75/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F123
 [/us/usc/t23/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs111
 

@@ -365,39 +365,39 @@
 
         Section 6101(b) to (d) of title 41 shall not apply to a contract or agreement entered into under this chapter.
 
-(Added [Pub. L. 105–178, title V, § 5102][/us/pl/105/178/s5102], June 9, 1998, [112 Stat. 422][/us/stat/112/422]; amended [Pub. L. 109–59, title V][/us/pl/109/59], §§ 5201(b)–(g), (i)(1), (j)(1), (k), (l), 5202(a)(1), Aug. 10, 2005, [119 Stat. 1781–1785][/us/stat/119/1781-1785]; [Pub. L. 110–244, title I, § 111(g)(1)][/us/pl/110/244/s111/g/1], June 6, 2008, [122 Stat. 1605][/us/stat/122/1605]; [Pub. L. 111–350, § 5(e)(2)][/us/pl/111/350/s5/e/2], Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847]; [Pub. L. 112–141, div. E, title II, § 52002(a)][/us/pl/112/141/s52002/a], July 6, 2012, [126 Stat. 866][/us/stat/126/866]; [Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(C)][/us/pl/114/94/s6019/d/1/C], Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581].)
+(Added [Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5102, June 9, 1998, [112 Stat. 422][/us/stat/112/422]; amended [Pub. L. 109–59, title V][/us/pl/109/59/tV], §§ 5201(b)–(g), (i)(1), (j)(1), (k), (l), 5202(a)(1), Aug. 10, 2005, [119 Stat. 1781–1785][/us/stat/119/1781-1785]; [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 111(g)(1), June 6, 2008, [122 Stat. 1605][/us/stat/122/1605]; [Pub. L. 111–350][/us/pl/111/350], § 5(e)(2), Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847]; [Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52002(a), July 6, 2012, [126 Stat. 866][/us/stat/126/866]; [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(d)(1)(C), Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581].)
 
  __References in Text__ 
 
-    Section 51001 of the Transportation Research and Innovative Technology Act of 2012, referred to in subsec. (b)(7)(A), is [section 51001 of title I of div. E of Pub. L. 112–141][/us/pl/112/141/s51001], which is not classified to the Code.
+    Section 51001 of the Transportation Research and Innovative Technology Act of 2012, referred to in subsec. (b)(7)(A), is [section 51001 of title I of div. E of Pub. L. 112–141][/us/pl/112/141/dE/tI/s51001], which is not classified to the Code.
 
     The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(4), is [Pub. L. 96–480][/us/pl/96/480], Oct. 21, 1980, [94 Stat. 2311][/us/stat/94/2311], which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short title note set out under [section 3701 of Title 15][/us/usc/t15/s3701] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 502, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 831][/us/stat/82/831], related to State assurances of adequate highway relocation assistance program, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
+    A prior section 502, added [Pub. L. 90–495][/us/pl/90/495], § 30, Aug. 23, 1968, [82 Stat. 831][/us/stat/82/831], related to State assurances of adequate highway relocation assistance program, prior to repeal by [Pub. L. 91–646, title II][/us/pl/91/646/tII], § 220(a)(10), Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
 
  __Amendments__ 
 
-    2015—Subsec. (a)(9). [Pub. L. 114–94, § 6019(d)(1)(C)(i)][/us/pl/114/94/s6019/d/1/C/i], substituted “transportation research and development strategic plan under [section 6503 of title 49][/us/usc/t49/s6503]” for “transportation research and technology development strategic plan developed under section 508”.
+    2015—Subsec. (a)(9). [Pub. L. 114–94][/us/pl/114/94], § 6019(d)(1)(C)(i), substituted “transportation research and development strategic plan under [section 6503 of title 49][/us/usc/t49/s6503]” for “transportation research and technology development strategic plan developed under section 508”.
 
-    Subsec. (b)(4). [Pub. L. 114–94, § 6019(d)(1)(C)(ii)][/us/pl/114/94/s6019/d/1/C/ii], substituted “transportation research and development strategic plan under [section 6503 of title 49][/us/usc/t49/s6503]” for “transportation research and development strategic plan of the Secretary developed under section 508”.
+    Subsec. (b)(4). [Pub. L. 114–94][/us/pl/114/94], § 6019(d)(1)(C)(ii), substituted “transportation research and development strategic plan under [section 6503 of title 49][/us/usc/t49/s6503]” for “transportation research and development strategic plan of the Secretary developed under section 508”.
 
-    2012—[Pub. L. 112–141, § 52002(a)(1)][/us/pl/112/141/s52002/a/1], which directed insertion of “, development, and technology” after “surface transportation research” in section catchline, was executed by making the insertion after “Surface transportation research”, to reflect the probable intent of Congress.
+    2012—[Pub. L. 112–141][/us/pl/112/141], § 52002(a)(1), which directed insertion of “, development, and technology” after “surface transportation research” in section catchline, was executed by making the insertion after “Surface transportation research”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(1). [Pub. L. 112–141, § 52002(a)(2)(B)][/us/pl/112/141/s52002/a/2/B], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (a)(1). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(B), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (a)(2). [Pub. L. 112–141, § 52002(a)(2)(A)][/us/pl/112/141/s52002/a/2/A], (C), redesignated par. (1) as (2) and inserted “within the innovation lifecycle” after “activities” and “communications, impact analysis,” after “training,”. Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(A), (C), redesignated par. (1) as (2) and inserted “within the innovation lifecycle” after “activities” and “communications, impact analysis,” after “training,”. Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 112–141, § 52002(a)(2)(A)][/us/pl/112/141/s52002/a/2/A], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    Subsec. (a)(3). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (a)(3)(B). [Pub. L. 112–141, § 52002(a)(2)(D)(i)][/us/pl/112/141/s52002/a/2/D/i], substituted “delivers a clear public benefit and occurs where” for “supports research in which there is a clear public benefit and”.
+    Subsec. (a)(3)(B). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(D)(i), substituted “delivers a clear public benefit and occurs where” for “supports research in which there is a clear public benefit and”.
 
-    Subsec. (a)(3)(D) to (I). [Pub. L. 112–141, § 52002(a)(2)(D)(ii)][/us/pl/112/141/s52002/a/2/D/ii]–(iv), added subpars. (D) to (H) and redesignated former subpar. (D) as (I).
+    Subsec. (a)(3)(D) to (I). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(D)(ii)–(iv), added subpars. (D) to (H) and redesignated former subpar. (D) as (I).
 
-    Subsec. (a)(4). [Pub. L. 112–141, § 52002(a)(2)(A)][/us/pl/112/141/s52002/a/2/A], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (a)(4)(B) to (G). [Pub. L. 112–141, § 52002(a)(2)(E)][/us/pl/112/141/s52002/a/2/E], added subpars. (B) to (G) and struck out former subpars. (B) to (D) which read as follows:
+    Subsec. (a)(4)(B) to (G). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(E), added subpars. (B) to (G) and struck out former subpars. (B) to (D) which read as follows:
 
     “(B) support and facilitate research and technology transfer activities by State highway agencies;
 
@@ -405,43 +405,43 @@
 
     “(D) support and facilitate technology and innovation deployment.”
 
-    Subsec. (a)(5). [Pub. L. 112–141, § 52002(a)(2)(A)][/us/pl/112/141/s52002/a/2/A], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (a)(5). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (a)(5)(C). [Pub. L. 112–141, § 52002(a)(2)(F)][/us/pl/112/141/s52002/a/2/F], substituted “all highway objectives seeking to improve the performance of the transportation system” for “policy and planning”.
+    Subsec. (a)(5)(C). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(F), substituted “all highway objectives seeking to improve the performance of the transportation system” for “policy and planning”.
 
-    Subsec. (a)(6). [Pub. L. 112–141, § 52002(a)(2)(A)][/us/pl/112/141/s52002/a/2/A], (G), redesignated par. (5) as (6) and inserted “tribal governments,” after “local governments,”. Former par. (6) redesignated (7).
+    Subsec. (a)(6). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(A), (G), redesignated par. (5) as (6) and inserted “tribal governments,” after “local governments,”. Former par. (6) redesignated (7).
 
-    Subsec. (a)(7). [Pub. L. 112–141, § 52002(a)(2)(A)][/us/pl/112/141/s52002/a/2/A], redesignated par. (6) as (7). Former par. (7) redesignated (8).
+    Subsec. (a)(7). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(A), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-    Subsec. (a)(8). [Pub. L. 112–141, § 52002(a)(2)(A)][/us/pl/112/141/s52002/a/2/A], (H), redesignated par. (7) as (8), designated first, second, and third sentences as subpars. (A), (B), and (D), respectively, inserted subpar. headings, substituted “All evaluations under this paragraph” for “All evaluations” in subpar. (D), and added subpar. (C). Former par. (8) redesignated (9).
+    Subsec. (a)(8). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(A), (H), redesignated par. (7) as (8), designated first, second, and third sentences as subpars. (A), (B), and (D), respectively, inserted subpar. headings, substituted “All evaluations under this paragraph” for “All evaluations” in subpar. (D), and added subpar. (C). Former par. (8) redesignated (9).
 
-    Subsec. (a)(9). [Pub. L. 112–141, § 52002(a)(2)(A)][/us/pl/112/141/s52002/a/2/A], (I), redesignated par. (8) as (9) and struck out “surface” before “transportation research”.
+    Subsec. (a)(9). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(2)(A), (I), redesignated par. (8) as (9) and struck out “surface” before “transportation research”.
 
-    Subsec. (b)(4). [Pub. L. 112–141, § 52002(a)(3)(A)][/us/pl/112/141/s52002/a/3/A], substituted “transportation research and development strategic plan of the Secretary developed under section 508” for “surface transportation research and technology development strategic plan developed under section 508”.
+    Subsec. (b)(4). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(3)(A), substituted “transportation research and development strategic plan of the Secretary developed under section 508” for “surface transportation research and technology development strategic plan developed under section 508”.
 
-    Subsec. (b)(5). [Pub. L. 112–141, § 52002(a)(3)(B)][/us/pl/112/141/s52002/a/3/B], substituted “chapter” for “section” wherever appearing.
+    Subsec. (b)(5). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(3)(B), substituted “chapter” for “section” wherever appearing.
 
-    Subsec. (b)(6)(C), (D). [Pub. L. 112–141, § 52002(a)(3)(C)][/us/pl/112/141/s52002/a/3/C], added subpars. (C) and (D).
+    Subsec. (b)(6)(C), (D). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(3)(C), added subpars. (C) and (D).
 
-    Subsec. (b)(7). [Pub. L. 112–141, § 52002(a)(3)(D)][/us/pl/112/141/s52002/a/3/D], added par. (7).
+    Subsec. (b)(7). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(3)(D), added par. (7).
 
-    Subsec. (c)(3)(A). [Pub. L. 112–141, § 52002(a)(4)(A)][/us/pl/112/141/s52002/a/4/A], substituted “chapter” for “subsection” and “80” for “50”.
+    Subsec. (c)(3)(A). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(4)(A), substituted “chapter” for “subsection” and “80” for “50”.
 
-    Subsec. (c)(4). [Pub. L. 112–141, § 52002(a)(4)(B)][/us/pl/112/141/s52002/a/4/B], substituted “chapter” for “subsection”.
+    Subsec. (c)(4). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(4)(B), substituted “chapter” for “subsection”.
 
-    Subsecs. (d) to (j). [Pub. L. 112–141, § 52002(a)(5)][/us/pl/112/141/s52002/a/5], struck out subsecs. (d) to (j) relating to contents of research program, exploratory advanced research, long-term pavement performance program, seismic research, infrastructure investment needs report, Turner-Fairbank Highway Research Center, and long-term bridge performance program, respectively.
+    Subsecs. (d) to (j). [Pub. L. 112–141][/us/pl/112/141], § 52002(a)(5), struck out subsecs. (d) to (j) relating to contents of research program, exploratory advanced research, long-term pavement performance program, seismic research, infrastructure investment needs report, Turner-Fairbank Highway Research Center, and long-term bridge performance program, respectively.
 
     2011—Subsec. (c)(5). [Pub. L. 111–350][/us/pl/111/350] substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])”.
 
     2008—Subsec. (h). [Pub. L. 110–244][/us/pl/110/244] struck out subsec. (h) relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 5201(b)(2)][/us/pl/109/59/s5201/b/2], added subsec. (a). Former subsec. (a) redesignated (b).
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 5201(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (b). [Pub. L. 109–59, § 5201(b)(1)][/us/pl/109/59/s5201/b/1], redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 5201(b)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (b)(1)(B). [Pub. L. 109–59, § 5201(e)(1)][/us/pl/109/59/s5201/e/1], inserted “transportation system management and operations,” after “operation,”.
+    Subsec. (b)(1)(B). [Pub. L. 109–59][/us/pl/109/59], § 5201(e)(1), inserted “transportation system management and operations,” after “operation,”.
 
-    Subsec. (b)(3). [Pub. L. 109–59, § 5201(c)][/us/pl/109/59/s5201/c], reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The Secretary may carry out this section—
+    Subsec. (b)(3). [Pub. L. 109–59][/us/pl/109/59], § 5201(c), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The Secretary may carry out this section—
 
     “(A) independently;
 
@@ -449,37 +449,37 @@
 
     “(C) by making grants to, or entering into contracts, cooperative agreements, and other transactions with, the National Academy of Sciences, the American Association of State Highway and Transportation Officials, or any Federal laboratory, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or person.”
 
-    Subsec. (b)(6). [Pub. L. 109–59, § 5201(d)][/us/pl/109/59/s5201/d], added par. (6).
+    Subsec. (b)(6). [Pub. L. 109–59][/us/pl/109/59], § 5201(d), added par. (6).
 
-    Subsec. (c). [Pub. L. 109–59, § 5201(b)(1)][/us/pl/109/59/s5201/b/1], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 5201(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (c)(2). [Pub. L. 109–59, § 5201(f)][/us/pl/109/59/s5201/f], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In carrying out this subsection, the Secretary may enter into cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a])).”
+    Subsec. (c)(2). [Pub. L. 109–59][/us/pl/109/59], § 5201(f), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In carrying out this subsection, the Secretary may enter into cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a])).”
 
-    Subsec. (d). [Pub. L. 109–59, § 5201(b)(1)][/us/pl/109/59/s5201/b/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 5201(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(5)(C). [Pub. L. 109–59, § 5201(e)(2)][/us/pl/109/59/s5201/e/2], inserted “system management and” before “operations programs”.
+    Subsec. (d)(5)(C). [Pub. L. 109–59][/us/pl/109/59], § 5201(e)(2), inserted “system management and” before “operations programs”.
 
-    Subsec. (d)(12) to (14). [Pub. L. 109–59, § 5201(e)(3)][/us/pl/109/59/s5201/e/3], added pars. (12) to (14).
+    Subsec. (d)(12) to (14). [Pub. L. 109–59][/us/pl/109/59], § 5201(e)(3), added pars. (12) to (14).
 
-    Subsec. (e). [Pub. L. 109–59, § 5201(g)][/us/pl/109/59/s5201/g], amended heading and text of subsec. (e) generally, substituting provisions relating to exploratory advanced research for provisions relating to establishment of an advanced research program and authorizing the Secretary to make grants and enter into cooperative agreements and contracts in such areas including: characterization of materials used in highway infrastructure; diagnostics for evaluation of the condition of bridge and pavement structures to enable the assessment of risks of failure; design and construction details for composite structures; safety technology-based problems in the areas of pedestrian and bicycle safety, roadside hazards, and composite materials for roadside safety hardware; environmental research, including particulate matter source apportionment and model development; data acquisition techniques for system condition and performance monitoring; and human factors, including prediction of the response of travelers to new technologies.
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 5201(g), amended heading and text of subsec. (e) generally, substituting provisions relating to exploratory advanced research for provisions relating to establishment of an advanced research program and authorizing the Secretary to make grants and enter into cooperative agreements and contracts in such areas including: characterization of materials used in highway infrastructure; diagnostics for evaluation of the condition of bridge and pavement structures to enable the assessment of risks of failure; design and construction details for composite structures; safety technology-based problems in the areas of pedestrian and bicycle safety, roadside hazards, and composite materials for roadside safety hardware; environmental research, including particulate matter source apportionment and model development; data acquisition techniques for system condition and performance monitoring; and human factors, including prediction of the response of travelers to new technologies.
 
-    [Pub. L. 109–59, § 5201(b)(1)][/us/pl/109/59/s5201/b/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 109–59][/us/pl/109/59], § 5201(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 109–59, § 5201(i)(1)][/us/pl/109/59/s5201/i/1], reenacted heading without change and amended text of subsec. (f) generally, substituting provisions authorizing tests, monitoring, and data analysis under the long-term pavement performance program through Sept. 30, 2009, for provisions directing the completion of long-term pavement performance program tests through the midpoint of a planned 20-year life of the long-term pavement performance program.
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 5201(i)(1), reenacted heading without change and amended text of subsec. (f) generally, substituting provisions authorizing tests, monitoring, and data analysis under the long-term pavement performance program through Sept. 30, 2009, for provisions directing the completion of long-term pavement performance program tests through the midpoint of a planned 20-year life of the long-term pavement performance program.
 
-    [Pub. L. 109–59, § 5201(b)(1)][/us/pl/109/59/s5201/b/1], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    [Pub. L. 109–59][/us/pl/109/59], § 5201(b)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 109–59, § 5201(j)(1)][/us/pl/109/59/s5201/j/1], amended heading and text of subsec. (g) generally. Prior to amendment, subsec. (g) directed the Secretary to establish a seismic research program and to conduct such program in cooperation with the National Center for Earthquake Engineering Research at the University of Buffalo and in consultation and cooperation with Federal departments and agencies participating in the National Earthquake Hazards Reduction Program.
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 5201(j)(1), amended heading and text of subsec. (g) generally. Prior to amendment, subsec. (g) directed the Secretary to establish a seismic research program and to conduct such program in cooperation with the National Center for Earthquake Engineering Research at the University of Buffalo and in consultation and cooperation with Federal departments and agencies participating in the National Earthquake Hazards Reduction Program.
 
-    [Pub. L. 109–59, § 5201(b)(1)][/us/pl/109/59/s5201/b/1], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    [Pub. L. 109–59][/us/pl/109/59], § 5201(b)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 109–59, § 5201(k)][/us/pl/109/59/s5201/k], added subsec. (h) relating to infrastructure investment needs report to be submitted not later than July 31, 2006, and July 31 of every second year thereafter.
+    Subsec. (h). [Pub. L. 109–59][/us/pl/109/59], § 5201(k), added subsec. (h) relating to infrastructure investment needs report to be submitted not later than July 31, 2006, and July 31 of every second year thereafter.
 
-    [Pub. L. 109–59, § 5201(b)(1)][/us/pl/109/59/s5201/b/1], redesignated subsec. (g), relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
+    [Pub. L. 109–59][/us/pl/109/59], § 5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
 
-    Subsec. (i). [Pub. L. 109–59, § 5201][/us/pl/109/59/s5201](l), added subsec. (i).
+    Subsec. (i). [Pub. L. 109–59][/us/pl/109/59], § 5201(l), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 109–59, § 5202(a)(1)][/us/pl/109/59/s5202/a/1], added subsec. (j).
+    Subsec. (j). [Pub. L. 109–59][/us/pl/109/59], § 5202(a)(1), added subsec. (j).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -491,7 +491,7 @@
 
  __Transportation Safety Information Management System Project__ 
 
-[Pub. L. 109–59, title V, § 5501][/us/pl/109/59/s5501], Aug. 10, 2005, [119 Stat. 1820][/us/stat/119/1820], provided that:
+[Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5501, Aug. 10, 2005, [119 Stat. 1820][/us/stat/119/1820], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -513,7 +513,7 @@
 
  __Surface Transportation Congestion Relief Solutions Research Initiative__ 
 
-[Pub. L. 109–59, title V, § 5502][/us/pl/109/59/s5502], Aug. 10, 2005, [119 Stat. 1820][/us/stat/119/1820], provided that:
+[Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5502, Aug. 10, 2005, [119 Stat. 1820][/us/stat/119/1820], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -549,7 +549,7 @@
 
  __Thermal Imaging__ 
 
-[Pub. L. 109–59, title V, § 5513(a)][/us/pl/109/59/s5513/a], Aug. 10, 2005, [119 Stat. 1829][/us/stat/119/1829], provided that:
+[Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5513(a), Aug. 10, 2005, [119 Stat. 1829][/us/stat/119/1829], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -571,7 +571,7 @@
 
  __Study of Future Strategic Highway Research Program__ 
 
-[Pub. L. 105–178, title V, § 5112][/us/pl/105/178/s5112], June 9, 1998, [112 Stat. 445][/us/stat/112/445], provided that:
+[Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5112, June 9, 1998, [112 Stat. 445][/us/stat/112/445], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -587,7 +587,7 @@
 
  __Commercial Remote Sensing Products and Spatial Information Technologies__ 
 
-[Pub. L. 109–59, title V, § 5506][/us/pl/109/59/s5506], Aug. 10, 2005, [119 Stat. 1823][/us/stat/119/1823], provided that:
+[Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5506, Aug. 10, 2005, [119 Stat. 1823][/us/stat/119/1823], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -611,7 +611,7 @@
 
 >     Of the amounts made available by section 5101(a)(1) of this Act \[[119 Stat. 1779][/us/stat/119/1779]\], $7,750,000 for each of fiscal years 2006 through 2009 shall be available to carry out this section.”
 
-[Pub. L. 105–178, title V, § 5113][/us/pl/105/178/s5113], June 9, 1998, [112 Stat. 445][/us/stat/112/445], provided that:
+[Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5113, June 9, 1998, [112 Stat. 445][/us/stat/112/445], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -637,7 +637,7 @@
 
  __Transportation Technology Innovation and Demonstration Program__ 
 
-[Pub. L. 109–59, title V, § 5204(g)][/us/pl/109/59/s5204/g], Aug. 10, 2005, [119 Stat. 1794][/us/stat/119/1794], provided that:
+[Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5204(g), Aug. 10, 2005, [119 Stat. 1794][/us/stat/119/1794], provided that:
 
 >     “(1)  __Fundamental properties of asphalts and modified asphalts__  __.—__ 
 
@@ -651,7 +651,7 @@
 
 >     Of the amounts made available by section 5101(a)(1) of this Act \[[119 Stat. 1779][/us/stat/119/1779]\], for each of fiscal years 2005 through 2009 $4,200,000 shall be available to carry out paragraph (1) and $1,000,000 shall be available to carry out paragraph (2).”
 
-[Pub. L. 105–178, title V, § 5117][/us/pl/105/178/s5117], June 9, 1998, [112 Stat. 448][/us/stat/112/448], as amended by [Pub. L. 105–206, title IX, § 9011(g)][/us/pl/105/206/s9011/g], (h), July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 3769 \[369\]\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–478; [Pub. L. 107–117, div. B, § 1101][/us/pl/107/117/s1101], Jan. 10, 2002, [115 Stat. 2330][/us/stat/115/2330]; [Pub. L. 109–59, title V, § 5508][/us/pl/109/59/s5508], Aug. 10, 2005, [119 Stat. 1824][/us/stat/119/1824], provided that:
+[Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5117, June 9, 1998, [112 Stat. 448][/us/stat/112/448], as amended by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9011(g), (h), July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(g) \[title III, § 3769 \[369\]\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–478; [Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 1101, Jan. 10, 2002, [115 Stat. 2330][/us/stat/115/2330]; [Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5508, Aug. 10, 2005, [119 Stat. 1824][/us/stat/119/1824], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -921,7 +921,7 @@
 
  __Intelligent Transportation Systems__ 
 
-[Pub. L. 105–178, title V][/us/pl/105/178], subtitle C, June 9, 1998, [112 Stat. 452][/us/stat/112/452], as amended by [Pub. L. 105–206, title IX, § 9011(c)][/us/pl/105/206/s9011/c], July 22, 1998, [112 Stat. 863][/us/stat/112/863]; [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 370\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–478; [Pub. L. 109–59, title V, § 5509][/us/pl/109/59/s5509], Aug. 10, 2005, [119 Stat. 1828][/us/stat/119/1828]; [Pub. L. 114–94, div. A, title VI, § 6019(d)(2)][/us/pl/114/94/s6019/d/2], Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581], provided that:
+[Pub. L. 105–178, title V][/us/pl/105/178/tV], subtitle C, June 9, 1998, [112 Stat. 452][/us/stat/112/452], as amended by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9011(c), July 22, 1998, [112 Stat. 863][/us/stat/112/863]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(g) \[title III, § 370\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–478; [Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5509, Aug. 10, 2005, [119 Stat. 1828][/us/stat/119/1828]; [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(d)(2), Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581], provided that:
 
 > “SEC. 5201. __SHORT TITLE.__ 
 
@@ -1185,7 +1185,7 @@
 
 >     “(d)  __Federal Share__  __.—__ 
 
->     The Federal share of the cost of operational tests and demonstrations under subsection (a) shall not exceed 80 percent.    “\[SECS. 5208, 5209. Repealed. [Pub. L. 109–59, title V, § 5509][/us/pl/109/59/s5509], Aug. 10, 2005, [119 Stat. 1828][/us/stat/119/1828].\]
+>     The Federal share of the cost of operational tests and demonstrations under subsection (a) shall not exceed 80 percent.    “\[SECS. 5208, 5209. Repealed. [Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5509, Aug. 10, 2005, [119 Stat. 1828][/us/stat/119/1828].\]
 
 > “SEC. 5210. __USE OF FUNDS.__ 
 
@@ -1319,11 +1319,11 @@
 
 >     “The Intermodal Surface Transportation Efficiency Act of 1991 \[[Pub. L. 102–240][/us/pl/102/240]\] is amended by striking part B \[§§ 6051–6059\] of title VI ([23 U.S.C. 307][/us/usc/t23/s307] note; [105 Stat. 2189][/us/stat/105/2189]).”
 
-    \[[Pub. L. 109–59, title V, § 5509][/us/pl/109/59/s5509], Aug. 10, 2005, [119 Stat. 1828][/us/stat/119/1828], provided that the amendment made by section 5509, repealing sections 5208 and 5209 of [Pub. L. 105–178][/us/pl/105/178], set out above, is effective Oct. 1 2005.\]
+    \[[Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5509, Aug. 10, 2005, [119 Stat. 1828][/us/stat/119/1828], provided that the amendment made by section 5509, repealing sections 5208 and 5209 of [Pub. L. 105–178][/us/pl/105/178], set out above, is effective Oct. 1 2005.\]
 
  __Research Advisory Committee__ 
 
-[Pub. L. 102–240, title VI, § 6011][/us/pl/102/240/s6011], Dec. 18, 1991, [105 Stat. 2179][/us/stat/105/2179], provided that:
+[Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6011, Dec. 18, 1991, [105 Stat. 2179][/us/stat/105/2179], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -1363,11 +1363,11 @@
 
  __Fundamental Properties of Asphalts and Modified Asphalts__ 
 
-    [Pub. L. 102–240, title VI, § 6016][/us/pl/102/240/s6016], Dec. 18, 1991, [105 Stat. 2182][/us/stat/105/2182], as amended by [Pub. L. 114–94, div. A, title I, § 1419(a)][/us/pl/114/94/s1419/a], Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423], required the Administrator of the Federal Highway Administration to conduct studies of the fundamental chemical and physical properties of petroleum asphalts and modified asphalts used in highway construction in the United States and to submit reports on the progress of the studies and authorized appropriations for fiscal years 1992 to 1996.
+    [Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6016, Dec. 18, 1991, [105 Stat. 2182][/us/stat/105/2182], as amended by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1419(a), Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423], required the Administrator of the Federal Highway Administration to conduct studies of the fundamental chemical and physical properties of petroleum asphalts and modified asphalts used in highway construction in the United States and to submit reports on the progress of the studies and authorized appropriations for fiscal years 1992 to 1996.
 
  __Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States__ 
 
-[Pub. L. 95–599, title I, § 166][/us/pl/95/599/s166], Nov. 6, 1978, [92 Stat. 2722][/us/stat/92/2722], provided that: 
+[Pub. L. 95–599, title I][/us/pl/95/599/tI], § 166, Nov. 6, 1978, [92 Stat. 2722][/us/stat/92/2722], provided that: 
 
 > “The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors.”
 
@@ -1383,113 +1383,113 @@
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/105/178/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5102
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F422
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1781-1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1781-1785
-[/us/pl/110/244/s111/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs111%2Fg%2F1
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1605
-[/us/pl/111/350/s5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fe%2F2
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3847
-[/us/pl/112/141/s52002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F866
-[/us/pl/114/94/s6019/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F1%2FC
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1581
-[/us/pl/112/141/s51001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs51001
+[/us/pl/112/141/dE/tI/s51001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtI%2Fs51001
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/90/495/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs30
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F831
-[/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
-[/us/pl/114/94/s6019/d/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F1%2FC%2Fi
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs6503
-[/us/pl/114/94/s6019/d/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F1%2FC%2Fii
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs6503
-[/us/pl/112/141/s52002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F1
-[/us/pl/112/141/s52002/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FB
-[/us/pl/112/141/s52002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FA
-[/us/pl/112/141/s52002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FA
-[/us/pl/112/141/s52002/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FD%2Fi
-[/us/pl/112/141/s52002/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FD%2Fii
-[/us/pl/112/141/s52002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FA
-[/us/pl/112/141/s52002/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FE
-[/us/pl/112/141/s52002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FA
-[/us/pl/112/141/s52002/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FF
-[/us/pl/112/141/s52002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FA
-[/us/pl/112/141/s52002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FA
-[/us/pl/112/141/s52002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FA
-[/us/pl/112/141/s52002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F2%2FA
-[/us/pl/112/141/s52002/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F3%2FA
-[/us/pl/112/141/s52002/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F3%2FB
-[/us/pl/112/141/s52002/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F3%2FC
-[/us/pl/112/141/s52002/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F3%2FD
-[/us/pl/112/141/s52002/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F4%2FA
-[/us/pl/112/141/s52002/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F4%2FB
-[/us/pl/112/141/s52002/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52002%2Fa%2F5
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s5201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fb%2F2
-[/us/pl/109/59/s5201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fb%2F1
-[/us/pl/109/59/s5201/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fe%2F1
-[/us/pl/109/59/s5201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fc
-[/us/pl/109/59/s5201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fd
-[/us/pl/109/59/s5201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fb%2F1
-[/us/pl/109/59/s5201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Ff
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
-[/us/pl/109/59/s5201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fb%2F1
-[/us/pl/109/59/s5201/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fe%2F2
-[/us/pl/109/59/s5201/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fe%2F3
-[/us/pl/109/59/s5201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fg
-[/us/pl/109/59/s5201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fb%2F1
-[/us/pl/109/59/s5201/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fi%2F1
-[/us/pl/109/59/s5201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fb%2F1
-[/us/pl/109/59/s5201/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fj%2F1
-[/us/pl/109/59/s5201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fb%2F1
-[/us/pl/109/59/s5201/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fk
-[/us/pl/109/59/s5201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201%2Fb%2F1
-[/us/pl/109/59/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5201
-[/us/pl/109/59/s5202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5202%2Fa%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s5501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5501
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1820
 [/us/stat/119/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1779
-[/us/pl/109/59/s5502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5502
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1820
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/119/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1779
-[/us/pl/109/59/s5513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5513%2Fa
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1829
 [/us/stat/119/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1779
-[/us/pl/105/178/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5112
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F445
-[/us/pl/109/59/s5506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5506
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1823
 [/us/stat/119/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1779
-[/us/pl/105/178/s5113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5113
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F445
-[/us/pl/109/59/s5204/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5204%2Fg
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1794
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/stat/112/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F450
 [/us/stat/112/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F450
 [/us/stat/119/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1779
-[/us/pl/105/178/s5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5117
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F448
-[/us/pl/105/206/s9011/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9011%2Fg
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F864
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-439
-[/us/pl/107/117/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs1101
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2330
-[/us/pl/109/59/s5508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5508
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1824
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/usc/t23/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs401
@@ -1499,15 +1499,15 @@
 [/us/usc/t47/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs253
 [/us/stat/112/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F419
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F452
-[/us/pl/105/206/s9011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9011%2Fc
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F863
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-439
-[/us/pl/109/59/s5509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5509
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1828
-[/us/pl/114/94/s6019/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F2
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1581
 [/us/stat/105/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1914
 [/us/pl/104/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F240
@@ -1519,7 +1519,7 @@
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
 [/us/stat/110/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F783
 [/us/usc/t49/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs6503
-[/us/pl/109/59/s5509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5509
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1828
 [/us/pl/105/178/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1501
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -1529,18 +1529,18 @@
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t23/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs307
 [/us/stat/105/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2189
-[/us/pl/109/59/s5509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5509
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1828
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
-[/us/pl/102/240/s6011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6011
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2179
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t23/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs307
-[/us/pl/102/240/s6016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6016
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2182
-[/us/pl/114/94/s1419/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1419%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1423
-[/us/pl/95/599/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs166
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2722
 
 

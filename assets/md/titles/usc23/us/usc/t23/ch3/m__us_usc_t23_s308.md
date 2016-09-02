@@ -31,7 +31,7 @@
 
     (b) Appropriations for the work of the Federal Highway Administration shall be available for expenses of warehouse maintenance and the procurement, care, and handling of supplies, materials, and equipment for distribution to projects under the supervision of the Federal Highway Administration, or for sale or distribution to other Government agencies, cooperating foreign countries, and State cooperating agencies, and the cost of such supplies and materials or the value of such equipment, including the cost of transportation and handling, may be reimbursed to current applicable appropriations.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 914][/us/stat/72/914]; [Pub. L. 93–87, title I, § 152(5)][/us/pl/93/87/s152/5], Aug. 13, 1973, [87 Stat. 276][/us/stat/87/276]; [Pub. L. 112–141, div. A, title I, § 1521(f)][/us/pl/112/141/s1521/f], July 6, 2012, [126 Stat. 579][/us/stat/126/579].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 914][/us/stat/72/914]; [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 152(5), Aug. 13, 1973, [87 Stat. 276][/us/stat/87/276]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1521(f), July 6, 2012, [126 Stat. 579][/us/stat/126/579].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–141, div. A, title I, § 1521(g)][/us/pl/112/141/s1521/g], July 6, 2012, [126 Stat. 579][/us/stat/126/579], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1521(g), July 6, 2012, [126 Stat. 579][/us/stat/126/579], provided that:
 
 >     “(1) __In general.—__ 
 
@@ -64,14 +64,14 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F914
-[/us/pl/93/87/s152/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs152%2F5
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F276
-[/us/pl/112/141/s1521/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Ff
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F579
 [/us/usc/t42/s4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4634
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
-[/us/pl/112/141/s1521/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fg
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F579
 [/us/usc/t42/s4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4634
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

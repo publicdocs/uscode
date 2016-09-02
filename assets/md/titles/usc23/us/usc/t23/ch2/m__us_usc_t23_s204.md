@@ -185,11 +185,11 @@
 
         In making a programming decision under paragraph (1), the committee shall give preference to projects that provide access to, are adjacent to, or are located within high-use Federal recreation sites or Federal economic generators, as identified by the Secretaries of the appropriate Federal land management agencies.
 
-(Added [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 489][/us/stat/126/489].)
+(Added [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 489][/us/stat/126/489].)
 
  __Prior Provisions__ 
 
-    A prior section 204, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 907][/us/stat/72/907]; [Pub. L. 97–424, title I, § 126(b)][/us/pl/97/424/s126/b], Jan. 6, 1983, [96 Stat. 2114][/us/stat/96/2114]; [Pub. L. 100–17, title I, § 133(b)(13)][/us/pl/100/17/s133/b/13], (14), Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172]; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1030, 1032(b), title VI, § 6004(c), Dec. 18, 1991, [105 Stat. 1970][/us/stat/105/1970], 1974, 2169; [Pub. L. 105–178, title I, § 1115(d)][/us/pl/105/178/s1115/d], (e)(4), title V, § 5119(a), June 9, 1998, [112 Stat. 156][/us/stat/112/156], 158, 452; [Pub. L. 109–59, title I, § 1119(h)][/us/pl/109/59/s1119/h]–(k), Aug. 10, 2005, [119 Stat. 1187–1189][/us/stat/119/1187-1189], related to Federal lands highways program, prior to repeal by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473].
+    A prior section 204, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 907][/us/stat/72/907]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 126(b), Jan. 6, 1983, [96 Stat. 2114][/us/stat/96/2114]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(b)(13), (14), Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], §§ 1030, 1032(b), title VI, § 6004(c), Dec. 18, 1991, [105 Stat. 1970][/us/stat/105/1970], 1974, 2169; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1115(d), (e)(4), title V, § 5119(a), June 9, 1998, [112 Stat. 156][/us/stat/112/156], 158, 452; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1119(h)–(k), Aug. 10, 2005, [119 Stat. 1187–1189][/us/stat/119/1187-1189], related to Federal lands highways program, prior to repeal by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 473][/us/stat/126/473].
 
  __Effective Date__ 
 
@@ -202,21 +202,21 @@
 ----------
 ----------
 
-[/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F489
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F907
-[/us/pl/97/424/s126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126%2Fb
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2114
-[/us/pl/100/17/s133/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F13
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F172
-[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1970
-[/us/pl/105/178/s1115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1115%2Fd
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F156
-[/us/pl/109/59/s1119/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1119%2Fh
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1187-1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1187-1189
-[/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

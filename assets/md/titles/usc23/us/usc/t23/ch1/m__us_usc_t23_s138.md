@@ -155,7 +155,7 @@
 
                 (ii) that have been railbanked or otherwise reserved for the transportation of goods or passengers.
 
-(Added [Pub. L. 89–574, § 15(a)][/us/pl/89/574/s15/a], Sept. 13, 1966, [80 Stat. 771][/us/stat/80/771]; amended [Pub. L. 90–495, § 18(a)][/us/pl/90/495/s18/a], Aug. 23, 1968, [82 Stat. 823][/us/stat/82/823]; [Pub. L. 94–280, title I, § 124][/us/pl/94/280/s124], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 100–17, title I, § 133(b)(10)][/us/pl/100/17/s133/b/10], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 109–59, title VI, § 6009(a)(1)][/us/pl/109/59/s6009/a/1], Aug. 10, 2005, [119 Stat. 1874][/us/stat/119/1874]; [Pub. L. 112–141, div. A, title I, § 1119(c)(2)][/us/pl/112/141/s1119/c/2], July 6, 2012, [126 Stat. 492][/us/stat/126/492]; [Pub. L. 113–287, § 5(f)(2)][/us/pl/113/287/s5/f/2], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1301(a), 1302(a), 1303(a), title XI, § 11502(a), Dec. 4, 2015, [129 Stat. 1375][/us/stat/129/1375], 1377, 1378, 1690.)
+(Added [Pub. L. 89–574][/us/pl/89/574], § 15(a), Sept. 13, 1966, [80 Stat. 771][/us/stat/80/771]; amended [Pub. L. 90–495][/us/pl/90/495], § 18(a), Aug. 23, 1968, [82 Stat. 823][/us/stat/82/823]; [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 124, May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(b)(10), Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6009(a)(1), Aug. 10, 2005, [119 Stat. 1874][/us/stat/119/1874]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(c)(2), July 6, 2012, [126 Stat. 492][/us/stat/126/492]; [Pub. L. 113–287][/us/pl/113/287], § 5(f)(2), Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], §§ 1301(a), 1302(a), 1303(a), title XI, § 11502(a), Dec. 4, 2015, [129 Stat. 1375][/us/stat/129/1375], 1377, 1378, 1690.)
 
  __References in Text__ 
 
@@ -167,21 +167,21 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–94, § 1301(a)][/us/pl/114/94/s1301/a], added subsec. (c).
+    2015—Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 1301(a), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 114–94, § 1302(a)][/us/pl/114/94/s1302/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 1302(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 114–94, § 1303(a)][/us/pl/114/94/s1303/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 1303(a), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 114–94, § 11502(a)][/us/pl/114/94/s11502/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 11502(a), added subsec. (f).
 
     2014—Subsec. (b)(2)(A). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 306108 of title 54][/us/usc/t54/s306108]” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f])” in introductory provisions.
 
     2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141] substituted “Federal lands transportation facility” for “park road or parkway under [section 204 of this title][/us/usc/t23/s204]”.
 
-    2005—[Pub. L. 109–59, § 6009(a)(1)(A)][/us/pl/109/59/s6009/a/1/A], which directed substitution of “(a) Declaration of Policy.—It is” for “it is hereby”, was executed by making the substitution for “It is hereby” to reflect the probable intent of Congress.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 6009(a)(1)(A), which directed substitution of “(a) Declaration of Policy.—It is” for “it is hereby”, was executed by making the substitution for “It is hereby” to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 109–59, § 6009(a)(1)(B)][/us/pl/109/59/s6009/a/1/B], added subsec. (b).
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 6009(a)(1)(B), added subsec. (b).
 
     1987—[Pub. L. 100–17][/us/pl/100/17] inserted “(other than any project for a park road or parkway under [section 204 of this title][/us/usc/t23/s204])” before “which requires” in third sentence.
 
@@ -203,7 +203,7 @@
 
  __Clarification of Existing Standards__ 
 
-[Pub. L. 109–59, title VI, § 6009(b)][/us/pl/109/59/s6009/b], Aug. 10, 2005, [119 Stat. 1876][/us/stat/119/1876], provided that:
+[Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6009(b), Aug. 10, 2005, [119 Stat. 1876][/us/stat/119/1876], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -219,7 +219,7 @@
 
  __Study of Transit Needs in National Parks and Related Public Lands__ 
 
-[Pub. L. 105–178, title III, § 3039][/us/pl/105/178/s3039], June 9, 1998, [112 Stat. 393][/us/stat/112/393], as amended by [Pub. L. 105–206, title IX, § 9009(y)][/us/pl/105/206/s9009/y], July 22, 1998, [112 Stat. 862][/us/stat/112/862], provided that:
+[Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3039, June 9, 1998, [112 Stat. 393][/us/stat/112/393], as amended by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9009(y), July 22, 1998, [112 Stat. 862][/us/stat/112/862], provided that:
 
 >     “(a)  __Purposes__  __.—__ 
 
@@ -249,7 +249,7 @@
 
  __Study of Alternative Transportation Modes in National Park System__ 
 
-[Pub. L. 102–240, title I, § 1050][/us/pl/102/240/s1050], Dec. 18, 1991, [105 Stat. 2000][/us/stat/105/2000], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1050, Dec. 18, 1991, [105 Stat. 2000][/us/stat/105/2000], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -279,21 +279,21 @@
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F917
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
-[/us/pl/89/574/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs15%2Fa
+[/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/stat/80/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F771
-[/us/pl/90/495/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs18%2Fa
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F823
-[/us/pl/94/280/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs124
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F440
-[/us/pl/100/17/s133/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F10
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F171
-[/us/pl/109/59/s6009/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F1
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1874
-[/us/pl/112/141/s1119/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fc%2F2
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F492
-[/us/pl/113/287/s5/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F2
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3268
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1375
 [/us/pl/90/495/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs37
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -301,17 +301,17 @@
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/94/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1301%2Fa
-[/us/pl/114/94/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1302%2Fa
-[/us/pl/114/94/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1303%2Fa
-[/us/pl/114/94/s11502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11502%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
-[/us/pl/109/59/s6009/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F1%2FA
-[/us/pl/109/59/s6009/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F1%2FB
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
 [/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
@@ -326,15 +326,15 @@
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/pl/90/495/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs37
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s6009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fb
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1876
 [/us/usc/t23/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs138
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
-[/us/pl/105/178/s3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3039
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F393
-[/us/pl/105/206/s9009/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fy
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F862
-[/us/pl/102/240/s1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1050
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2000
 
 

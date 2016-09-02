@@ -21,13 +21,13 @@
 
     (c) The provisions of the section shall not be applicable to employment pursuant to apprenticeship and skill training programs which have been certified by the Secretary of Transportation as promoting equal employment opportunity in connection with Federal-aid highway construction programs.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 895][/us/stat/72/895]; [Pub. L. 90–495, § 12(a)][/us/pl/90/495/s12/a], Aug. 23, 1968, [82 Stat. 821][/us/stat/82/821]; [Pub. L. 97–424, title I, § 149][/us/pl/97/424/s149], Jan. 6, 1983, [96 Stat. 2131][/us/stat/96/2131]; [Pub. L. 100–17, title I, § 133(b)(5)][/us/pl/100/17/s133/b/5], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 102–240, title I, § 1006(g)(2)][/us/pl/102/240/s1006/g/2], Dec. 18, 1991, [105 Stat. 1927][/us/stat/105/1927]; [Pub. L. 107–217, § 3(e)(2)][/us/pl/107/217/s3/e/2], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299]; [Pub. L. 112–141, div. A, title I, § 1104(c)(2)][/us/pl/112/141/s1104/c/2], July 6, 2012, [126 Stat. 427][/us/stat/126/427].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 895][/us/stat/72/895]; [Pub. L. 90–495][/us/pl/90/495], § 12(a), Aug. 23, 1968, [82 Stat. 821][/us/stat/82/821]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 149, Jan. 6, 1983, [96 Stat. 2131][/us/stat/96/2131]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(b)(5), Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1006(g)(2), Dec. 18, 1991, [105 Stat. 1927][/us/stat/105/1927]; [Pub. L. 107–217][/us/pl/107/217], § 3(e)(2), Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1104(c)(2), July 6, 2012, [126 Stat. 427][/us/stat/126/427].)
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 1104(c)(2)(A)][/us/pl/112/141/s1104/c/2/A], substituted “Federal-aid highways” for “the Federal-aid systems”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 1104(c)(2)(A), substituted “Federal-aid highways” for “the Federal-aid systems”.
 
-    Subsec. (b). [Pub. L. 112–141, § 1104(c)(2)(B)][/us/pl/112/141/s1104/c/2/B], substituted “Federal-aid highway” for “of the Federal-aid systems”.
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 1104(c)(2)(B), substituted “Federal-aid highway” for “of the Federal-aid systems”.
 
     2002—Subsec. (a). [Pub. L. 107–217][/us/pl/107/217] substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931, known as the Davis-Bacon Act ([40 U.S.C. 276a][/us/usc/t40/s276a])”.
 
@@ -64,20 +64,20 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F895
-[/us/pl/90/495/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs12%2Fa
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F821
-[/us/pl/97/424/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs149
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2131
-[/us/pl/100/17/s133/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F5
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F171
-[/us/pl/102/240/s1006/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1006%2Fg%2F2
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1927
-[/us/pl/107/217/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fe%2F2
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1299
-[/us/pl/112/141/s1104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1104%2Fc%2F2
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
-[/us/pl/112/141/s1104/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1104%2Fc%2F2%2FA
-[/us/pl/112/141/s1104/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1104%2Fc%2F2%2FB
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240

@@ -51,15 +51,15 @@
 
     (h) For the purposes of this section the term “State” shall have the meaning given it in [section 401 of this title][/us/usc/t23/s401].
 
-(Added [Pub. L. 93–87, title II, § 209(a)][/us/pl/93/87/s209/a], Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286]; amended [Pub. L. 94–280, title I, § 131][/us/pl/94/280/s131], May 5, 1976, [90 Stat. 441][/us/stat/90/441]; [Pub. L. 95–599, title I, § 168(a)][/us/pl/95/599/s168/a], Nov. 6, 1978, [92 Stat. 2722][/us/stat/92/2722]; [Pub. L. 96–106, § 10(b)][/us/pl/96/106/s10/b], Nov. 9, 1979, [93 Stat. 798][/us/stat/93/798]; [Pub. L. 97–375, title II, § 210(b)][/us/pl/97/375/s210/b], Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]; [Pub. L. 97–424, title I, § 125][/us/pl/97/424/s125], Jan. 6, 1983, [96 Stat. 2113][/us/stat/96/2113]; [Pub. L. 100–17, title I, § 133(b)(12)][/us/pl/100/17/s133/b/12], Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172]; [Pub. L. 104–59, title III, § 325(c)][/us/pl/104/59/s325/c], Nov. 28, 1995, [109 Stat. 592][/us/stat/109/592]; [Pub. L. 105–178, title I, § 1401][/us/pl/105/178/s1401], June 9, 1998, [112 Stat. 235][/us/stat/112/235].)
+(Added [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 209(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286]; amended [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 131, May 5, 1976, [90 Stat. 441][/us/stat/90/441]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 168(a), Nov. 6, 1978, [92 Stat. 2722][/us/stat/92/2722]; [Pub. L. 96–106][/us/pl/96/106], § 10(b), Nov. 9, 1979, [93 Stat. 798][/us/stat/93/798]; [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 210(b), Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 125, Jan. 6, 1983, [96 Stat. 2113][/us/stat/96/2113]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(b)(12), Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 325(c), Nov. 28, 1995, [109 Stat. 592][/us/stat/109/592]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1401, June 9, 1998, [112 Stat. 235][/us/stat/112/235].)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 1401(1)][/us/pl/105/178/s1401/1], inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, realigned margins, substituted “motorists, bicyclists, and pedestrians” for “motorists and pedestrians”, and added par. (2).
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 1401(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, realigned margins, substituted “motorists, bicyclists, and pedestrians” for “motorists and pedestrians”, and added par. (2).
 
-    Subsec. (b). [Pub. L. 105–178, § 1401(2)][/us/pl/105/178/s1401/2], substituted “safety improvement project, including a project described in subsection (a)” for “highway safety improvement project”.
+    Subsec. (b). [Pub. L. 105–178][/us/pl/105/178], § 1401(2), substituted “safety improvement project, including a project described in subsection (a)” for “highway safety improvement project”.
 
-    Subsec. (c). [Pub. L. 105–178, § 1401(3)][/us/pl/105/178/s1401/3], substituted “on—
+    Subsec. (c). [Pub. L. 105–178][/us/pl/105/178], § 1401(3), substituted “on—
 
     “(1) any public road;
 
@@ -67,9 +67,9 @@
 
     “(3) any traffic calming measure” for “on any public road (other than a highway on the Interstate System)”.
 
-    Subsec. (e). [Pub. L. 105–178, § 1401(4)][/us/pl/105/178/s1401/4], struck out “apportioned to the States as provided in [section 402(c) of this title][/us/usc/t23/s402/c]. Such funds shall be” before “available for obligation” and substituted “section 104(b)” for “section 104(b)(1)”.
+    Subsec. (e). [Pub. L. 105–178][/us/pl/105/178], § 1401(4), struck out “apportioned to the States as provided in [section 402(c) of this title][/us/usc/t23/s402/c]. Such funds shall be” before “available for obligation” and substituted “section 104(b)” for “section 104(b)(1)”.
 
-    Subsecs. (f), (g). [Pub. L. 105–178, § 1401(5)][/us/pl/105/178/s1401/5], substituted “safety improvement projects” for “highway safety improvement projects” wherever appearing.
+    Subsecs. (f), (g). [Pub. L. 105–178][/us/pl/105/178], § 1401(5), substituted “safety improvement projects” for “highway safety improvement projects” wherever appearing.
 
     1995—Subsec. (g). [Pub. L. 104–59][/us/pl/104/59] substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation”.
 
@@ -107,30 +107,30 @@
 ----------
 
 [/us/usc/t23/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs401
-[/us/pl/93/87/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs209%2Fa
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F286
-[/us/pl/94/280/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs131
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F441
-[/us/pl/95/599/s168/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs168%2Fa
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2722
-[/us/pl/96/106/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs10%2Fb
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/stat/93/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F798
-[/us/pl/97/375/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs210%2Fb
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1826
-[/us/pl/97/424/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs125
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2113
-[/us/pl/100/17/s133/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F12
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F172
-[/us/pl/104/59/s325/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs325%2Fc
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F592
-[/us/pl/105/178/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1401
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F235
-[/us/pl/105/178/s1401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1401%2F1
-[/us/pl/105/178/s1401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1401%2F2
-[/us/pl/105/178/s1401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1401%2F3
-[/us/pl/105/178/s1401/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1401%2F4
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t23/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402%2Fc
-[/us/pl/105/178/s1401/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1401%2F5
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424

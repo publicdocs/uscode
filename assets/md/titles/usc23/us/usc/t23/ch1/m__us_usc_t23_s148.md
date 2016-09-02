@@ -463,7 +463,7 @@
 
         Nothing in this subsection may be construed to allow a State to cease data collection related to serious injuries or fatalities.
 
-(Added [Pub. L. 93–87, title I, § 129(b)][/us/pl/93/87/s129/b], Aug. 13, 1973, [87 Stat. 265][/us/stat/87/265]; amended [Pub. L. 95–599, title I][/us/pl/95/599], §§ 125, 129(d), Nov. 6, 1978, [92 Stat. 2705][/us/stat/92/2705], 2707; [Pub. L. 109–59, title I, § 1401(a)(1)][/us/pl/109/59/s1401/a/1], Aug. 10, 2005, [119 Stat. 1219][/us/stat/119/1219]; [Pub. L. 112–141, div. A, title I, § 1112(a)][/us/pl/112/141/s1112/a], July 6, 2012, [126 Stat. 450][/us/stat/126/450]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1113(a), 1406(b), Dec. 4, 2015, [129 Stat. 1347][/us/stat/129/1347], 1410.)
+(Added [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 129(b), Aug. 13, 1973, [87 Stat. 265][/us/stat/87/265]; amended [Pub. L. 95–599, title I][/us/pl/95/599/tI], §§ 125, 129(d), Nov. 6, 1978, [92 Stat. 2705][/us/stat/92/2705], 2707; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1401(a)(1), Aug. 10, 2005, [119 Stat. 1219][/us/stat/119/1219]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1112(a), July 6, 2012, [126 Stat. 450][/us/stat/126/450]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], §§ 1113(a), 1406(b), Dec. 4, 2015, [129 Stat. 1347][/us/stat/129/1347], 1410.)
 
  __References in Text__ 
 
@@ -473,11 +473,11 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(4)(B). [Pub. L. 114–94, § 1113(a)(1)(A)(i)][/us/pl/114/94/s1113/a/1/A/i], substituted “only includes” for “includes, but is not limited to,” in introductory provisions.
+    2015—Subsec. (a)(4)(B). [Pub. L. 114–94][/us/pl/114/94], § 1113(a)(1)(A)(i), substituted “only includes” for “includes, but is not limited to,” in introductory provisions.
 
-    Subsec. (a)(4)(B)(xxv) to (xxviii). [Pub. L. 114–94, § 1113(a)(1)(A)(ii)][/us/pl/114/94/s1113/a/1/A/ii], added cls. (xxv) to (xxviii).
+    Subsec. (a)(4)(B)(xxv) to (xxviii). [Pub. L. 114–94][/us/pl/114/94], § 1113(a)(1)(A)(ii), added cls. (xxv) to (xxviii).
 
-    Subsec. (a)(10) to (13). [Pub. L. 114–94, § 1113(a)(1)(B)][/us/pl/114/94/s1113/a/1/B], (C), redesignated pars. (11) to (13) as (10) to (12) and struck out former par. (10). Prior to amendment, text of par. (10) read as follows:
+    Subsec. (a)(10) to (13). [Pub. L. 114–94][/us/pl/114/94], § 1113(a)(1)(B), (C), redesignated pars. (11) to (13) as (10) to (12) and struck out former par. (10). Prior to amendment, text of par. (10) read as follows:
 
     “(A) In general.—The term ‘safety project under any other section’ means a project carried out for the purpose of safety under any other section of this title.
 
@@ -489,25 +489,25 @@
 
     “(iii) a project to provide infrastructure and infrastructure-related equipment to support emergency services.”
 
-    Subsec. (c)(1)(A). [Pub. L. 114–94, § 1113(a)(2)][/us/pl/114/94/s1113/a/2], substituted “subsections (a)(11)” for “subsections (a)(12)”.
+    Subsec. (c)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 1113(a)(2), substituted “subsections (a)(11)” for “subsections (a)(12)”.
 
-    Subsec. (d)(2)(B)(i). [Pub. L. 114–94, § 1113(a)(3)][/us/pl/114/94/s1113/a/3], substituted “subsection (a)(11)” for “subsection (a)(12)”.
+    Subsec. (d)(2)(B)(i). [Pub. L. 114–94][/us/pl/114/94], § 1113(a)(3), substituted “subsection (a)(11)” for “subsection (a)(12)”.
 
-    Subsec. (i). [Pub. L. 114–94, § 1406(b)(1)][/us/pl/114/94/s1406/b/1], substituted “safety performance targets of the State established under section 150(d)” for “performance targets of the State established under section 150(d) by the date that is 2 years after the date of the establishment of the performance targets” in introductory provisions.
+    Subsec. (i). [Pub. L. 114–94][/us/pl/114/94], § 1406(b)(1), substituted “safety performance targets of the State established under section 150(d)” for “performance targets of the State established under section 150(d) by the date that is 2 years after the date of the establishment of the performance targets” in introductory provisions.
 
-    Subsec. (i)(1), (2). [Pub. L. 114–94, § 1406(b)(2)][/us/pl/114/94/s1406/b/2], inserted “safety” before “performance targets” wherever appearing.
+    Subsec. (i)(1), (2). [Pub. L. 114–94][/us/pl/114/94], § 1406(b)(2), inserted “safety” before “performance targets” wherever appearing.
 
-    Subsec. (k). [Pub. L. 114–94, § 1113(a)(4)][/us/pl/114/94/s1113/a/4], added subsec. (k).
+    Subsec. (k). [Pub. L. 114–94][/us/pl/114/94], § 1113(a)(4), added subsec. (k).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to highway safety improvement program and consisted of subsecs. (a) to (h).
 
     2005—[Pub. L. 109–59][/us/pl/109/59] amended section catchline and text generally, substituting provisions relating to a highway safety improvement program for provisions relating to development of the Great River Road, a national scenic and recreational highway.
 
-    1978—Subsec. (a)(5). [Pub. L. 95–599, § 125(b)][/us/pl/95/599/s125/b], inserted provision authorizing charging of a fee in certain cases to cover operational costs.
+    1978—Subsec. (a)(5). [Pub. L. 95–599][/us/pl/95/599], § 125(b), inserted provision authorizing charging of a fee in certain cases to cover operational costs.
 
-    Subsec. (e). [Pub. L. 95–599, § 129(d)][/us/pl/95/599/s129/d], substituted “75 per centum” for “70 per centum”.
+    Subsec. (e). [Pub. L. 95–599][/us/pl/95/599], § 129(d), substituted “75 per centum” for “70 per centum”.
 
-    Subsec. (h). [Pub. L. 95–599, § 125(a)][/us/pl/95/599/s125/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 95–599][/us/pl/95/599], § 125(a), added subsec. (h).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -523,7 +523,7 @@
 
  __Study of High-risk Rural Roads Best Practices__ 
 
-[Pub. L. 112–141, div. A, title I, § 1112(b)][/us/pl/112/141/s1112/b], July 6, 2012, [126 Stat. 459][/us/stat/126/459], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1112(b), July 6, 2012, [126 Stat. 459][/us/stat/126/459], provided that:
 
 >     “(1) __Study.—__ 
 
@@ -589,7 +589,7 @@
 
  __Transition__ 
 
-    [Pub. L. 109–59, title I, § 1401(d)][/us/pl/109/59/s1401/d], formerly § 1401(e), Aug. 10, 2005, [119 Stat. 1227][/us/stat/119/1227], renumbered § 1401(d) by [Pub. L. 110–244, title I, § 101(s)(1)][/us/pl/110/244/s101/s/1], June 6, 2008, [122 Stat. 1577][/us/stat/122/1577], provided for different methods of obligating funds to States for highway safety improvement programs both before and after the second fiscal year beginning Aug. 10, 2005.
+    [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1401(d), formerly § 1401(e), Aug. 10, 2005, [119 Stat. 1227][/us/stat/119/1227], renumbered § 1401(d) by [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 101(s)(1), June 6, 2008, [122 Stat. 1577][/us/stat/122/1577], provided for different methods of obligating funds to States for highway safety improvement programs both before and after the second fiscal year beginning Aug. 10, 2005.
 
 ----------
 
@@ -600,34 +600,34 @@
 
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/usc/t23/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs202%2Fb%2F1
-[/us/pl/93/87/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs129%2Fb
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F265
-[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2705
-[/us/pl/109/59/s1401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1401%2Fa%2F1
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1219
-[/us/pl/112/141/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1112%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F450
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1347
 [/us/pl/112/141/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1401
 [/us/usc/t23/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs137
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/114/94/s1113/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F1%2FA%2Fi
-[/us/pl/114/94/s1113/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F1%2FA%2Fii
-[/us/pl/114/94/s1113/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F1%2FB
-[/us/pl/114/94/s1113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F2
-[/us/pl/114/94/s1113/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F3
-[/us/pl/114/94/s1406/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1406%2Fb%2F1
-[/us/pl/114/94/s1406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1406%2Fb%2F2
-[/us/pl/114/94/s1113/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F4
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/95/599/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs125%2Fb
-[/us/pl/95/599/s129/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs129%2Fd
-[/us/pl/95/599/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs125%2Fa
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
@@ -637,13 +637,13 @@
 [/us/pl/95/599/s129/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs129%2Fd
 [/us/pl/95/599/s129/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs129%2Fh
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
-[/us/pl/112/141/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1112%2Fb
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F459
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s1401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1401%2Fd
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1227
-[/us/pl/110/244/s101/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fs%2F1
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1577
 
 

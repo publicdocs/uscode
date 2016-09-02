@@ -55,7 +55,7 @@
 
         The term “State” has the meaning given that term in section 401.
 
-(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 90–150][/us/pl/90/150], Nov. 24, 1967, [81 Stat. 507][/us/stat/81/507]; [Pub. L. 93–87, title II, § 223][/us/pl/93/87/s223], Aug. 13, 1973, [87 Stat. 292][/us/stat/87/292]; [Pub. L. 94–280, title II, § 209][/us/pl/94/280/s209], May 5, 1976, [90 Stat. 455][/us/stat/90/455]; [Pub. L. 109–59, title II, § 2019][/us/pl/109/59/s2019], Aug. 10, 2005, [119 Stat. 1543][/us/stat/119/1543]; [Pub. L. 114–94, div. A, title IV, § 4004(a)][/us/pl/114/94/s4004/a], Dec. 4, 2015, [129 Stat. 1500][/us/stat/129/1500].)
+(Added [Pub. L. 89–564, title I][/us/pl/89/564/tI], § 101, Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 90–150][/us/pl/90/150], Nov. 24, 1967, [81 Stat. 507][/us/stat/81/507]; [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 223, Aug. 13, 1973, [87 Stat. 292][/us/stat/87/292]; [Pub. L. 94–280, title II][/us/pl/94/280/tII], § 209, May 5, 1976, [90 Stat. 455][/us/stat/90/455]; [Pub. L. 109–59, title II][/us/pl/109/59/tII], § 2019, Aug. 10, 2005, [119 Stat. 1543][/us/stat/119/1543]; [Pub. L. 114–94, div. A, title IV][/us/pl/114/94/dA/tIV], § 4004(a), Dec. 4, 2015, [129 Stat. 1500][/us/stat/129/1500].)
 
  __Amendments__ 
 
@@ -67,9 +67,9 @@
 
     1973—Subsec. (a)(1). [Pub. L. 93–87][/us/pl/93/87] added the National Highway Traffic Safety Administrator to the membership of the National Highway Safety Advisory Committee.
 
-    1967—Subsec. (a)(1). [Pub. L. 90–150, § 1(1)][/us/pl/90/150/s1/1], substituted “Department of Transportation” for “Department of Commerce”, increased number of Committee appointees from twenty-nine to thirty-five, and provided for selection of members from representatives of national organizations of passenger car, bus, and truck owners.
+    1967—Subsec. (a)(1). [Pub. L. 90–150][/us/pl/90/150], § 1(1), substituted “Department of Transportation” for “Department of Commerce”, increased number of Committee appointees from twenty-nine to thirty-five, and provided for selection of members from representatives of national organizations of passenger car, bus, and truck owners.
 
-    Subsec. (a)(2)(A). [Pub. L. 90–150, § 1(2)][/us/pl/90/150/s1/2], substituted provisions for expirations of term of office of initial appointees one, two, and three years after date of appointment for twelve, twelve, and eleven members, respectively, for former provisions for such expiration one, two, and three years following enactment date of Sept. 9, 1966, for ten, ten, and nine members, respectively, and prohibited reappointment within one year after end of preceding term of member serving a three-year term of office.
+    Subsec. (a)(2)(A). [Pub. L. 90–150][/us/pl/90/150], § 1(2), substituted provisions for expirations of term of office of initial appointees one, two, and three years after date of appointment for twelve, twelve, and eleven members, respectively, for former provisions for such expiration one, two, and three years following enactment date of Sept. 9, 1966, for ten, ten, and nine members, respectively, and prohibited reappointment within one year after end of preceding term of member serving a three-year term of office.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -82,24 +82,24 @@
 ----------
 ----------
 
-[/us/pl/89/564/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs101
+[/us/pl/89/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtI
 [/us/stat/80/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F733
 [/us/pl/90/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F150
 [/us/stat/81/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F507
-[/us/pl/93/87/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs223
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F292
-[/us/pl/94/280/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs209
+[/us/pl/94/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtII
 [/us/stat/90/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F455
-[/us/pl/109/59/s2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2019
+[/us/pl/109/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtII
 [/us/stat/119/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1543
-[/us/pl/114/94/s4004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4004%2Fa
+[/us/pl/114/94/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIV
 [/us/stat/129/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1500
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
-[/us/pl/90/150/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F150%2Fs1%2F1
-[/us/pl/90/150/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F150%2Fs1%2F2
+[/us/pl/90/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F150
+[/us/pl/90/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F150
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

@@ -75,7 +75,7 @@
 
         The term “convicted” includes adjudicated under juvenile proceedings.
 
-(Added [Pub. L. 102–143, title III, § 333(a)][/us/pl/102/143/s333/a], Oct. 28, 1991, [105 Stat. 944][/us/stat/105/944]; amended [Pub. L. 102–388, title III, § 327(a)][/us/pl/102/388/s327/a], Oct. 6, 1992, [106 Stat. 1547][/us/stat/106/1547]; [Pub. L. 105–178, title I, § 1103][/us/pl/105/178/s1103](l)(3)(E), June 9, 1998, [112 Stat. 126][/us/stat/112/126]; [Pub. L. 112–141, div. A, title I, § 1404(g)][/us/pl/112/141/s1404/g], July 6, 2012, [126 Stat. 558][/us/stat/126/558].)
+(Added [Pub. L. 102–143, title III][/us/pl/102/143/tIII], § 333(a), Oct. 28, 1991, [105 Stat. 944][/us/stat/105/944]; amended [Pub. L. 102–388, title III][/us/pl/102/388/tIII], § 327(a), Oct. 6, 1992, [106 Stat. 1547][/us/stat/106/1547]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1103(l)(3)(E), June 9, 1998, [112 Stat. 126][/us/stat/112/126]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1404(g), July 6, 2012, [126 Stat. 558][/us/stat/126/558].)
 
  __References in Text__ 
 
@@ -87,25 +87,25 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1), (2). [Pub. L. 112–141, § 1404(g)(1)][/us/pl/112/141/s1404/g/1], designated par. (2) as (1), struck out “(including any amounts withheld under paragraph (1))” after “10 percent”, added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “For each fiscal year the Secretary shall withhold 5 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the second calendar year following the effective date of this section if the State does not meet the requirements of paragraph (3) on such date.”
+    2012—Subsec. (a)(1), (2). [Pub. L. 112–141][/us/pl/112/141], § 1404(g)(1), designated par. (2) as (1), struck out “(including any amounts withheld under paragraph (1))” after “10 percent”, added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “For each fiscal year the Secretary shall withhold 5 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the second calendar year following the effective date of this section if the State does not meet the requirements of paragraph (3) on such date.”
 
-    Subsec. (b). [Pub. L. 112–141, § 1404(g)(2)][/us/pl/112/141/s1404/g/2], added subsec. (b) and struck out former subsec. (b) which related to period of availability of withheld funds and effects of compliance and noncompliance.
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 1404(g)(2), added subsec. (b) and struck out former subsec. (b) which related to period of availability of withheld funds and effects of compliance and noncompliance.
 
-    1998—Subsec. (a)(1), (2). [Pub. L. 105–178, § 1103][/us/pl/105/178/s1103](l)(3)(E)(i), substituted “(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of” for “(5) of” before “section 104(b)”.
+    1998—Subsec. (a)(1), (2). [Pub. L. 105–178][/us/pl/105/178], § 1103(l)(3)(E)(i), substituted “(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of” for “(5) of” before “section 104(b)”.
 
-    Subsec. (b)(1)(A)(i). [Pub. L. 105–178, § 1103][/us/pl/105/178/s1103](l)(3)(E)(ii)(I), substituted “section 104(b)(5)(A) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)(A)”.
+    Subsec. (b)(1)(A)(i). [Pub. L. 105–178][/us/pl/105/178], § 1103(l)(3)(E)(ii)(I), substituted “section 104(b)(5)(A) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)(A)”.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 105–178, § 1103][/us/pl/105/178/s1103](l)(3)(E)(ii)(II), substituted “section 104(b)(5)(B) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)(B)”.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 105–178][/us/pl/105/178], § 1103(l)(3)(E)(ii)(II), substituted “section 104(b)(5)(B) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)(B)”.
 
-    Subsec. (b)(1)(A)(iii). [Pub. L. 105–178, § 1103][/us/pl/105/178/s1103](l)(3)(E)(i), substituted “(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of” for “(5) of” before “section 104(b)”.
+    Subsec. (b)(1)(A)(iii). [Pub. L. 105–178][/us/pl/105/178], § 1103(l)(3)(E)(i), substituted “(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of” for “(5) of” before “section 104(b)”.
 
-    Subsec. (b)(3). [Pub. L. 105–178, § 1103][/us/pl/105/178/s1103](l)(3)(E)(ii)(IV), substituted “section 104(b)(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)” in concluding provisions.
+    Subsec. (b)(3). [Pub. L. 105–178][/us/pl/105/178], § 1103(l)(3)(E)(ii)(IV), substituted “section 104(b)(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)” in concluding provisions.
 
-    Subsec. (b)(3)(A). [Pub. L. 105–178, § 1103][/us/pl/105/178/s1103](l)(3)(E)(ii)(I), substituted “section 104(b)(5)(A) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)(A)”.
+    Subsec. (b)(3)(A). [Pub. L. 105–178][/us/pl/105/178], § 1103(l)(3)(E)(ii)(I), substituted “section 104(b)(5)(A) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)(A)”.
 
-    Subsec. (b)(3)(B). [Pub. L. 105–178, § 1103][/us/pl/105/178/s1103](l)(3)(E)(ii)(III), substituted “(5)(B) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “(5)(B)”.
+    Subsec. (b)(3)(B). [Pub. L. 105–178][/us/pl/105/178], § 1103(l)(3)(E)(ii)(III), substituted “(5)(B) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “(5)(B)”.
 
-    Subsec. (b)(4). [Pub. L. 105–178, § 1103][/us/pl/105/178/s1103](l)(3)(E)(ii)(IV), substituted “section 104(b)(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)”.
+    Subsec. (b)(4). [Pub. L. 105–178][/us/pl/105/178], § 1103(l)(3)(E)(ii)(IV), substituted “section 104(b)(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)”.
 
     1992—[Pub. L. 102–388][/us/pl/102/388] amended section generally, substituting “Beginning in fiscal year 1994” for “After second calendar year” as subsec. (a)(1) heading, “paragraphs (1), (3), and (5)” for “paragraphs (1), (2), (5), and (6)” in subsec. (a)(1) and (2), “Beginning in fiscal year 1996” for “After fourth calendar year” as subsec. (a)(2) heading, “paragraph (1), (3), or (5)” for “paragraph (1), (2), or (6)” in subsec. (b)(1)(A)(iii), and “paragraph (1), (3), or (5)(B)” for “paragraph (1), (2), (5)(B), or (6)” in subsec. (b)(3)(B).
 
@@ -115,19 +115,19 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–388, title III, § 327(b)][/us/pl/102/388/s327/b], Oct. 6, 1992, [106 Stat. 1550][/us/stat/106/1550], provided that: 
+[Pub. L. 102–388, title III][/us/pl/102/388/tIII], § 327(b), Oct. 6, 1992, [106 Stat. 1550][/us/stat/106/1550], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall take effect November 5, 1990.”
 
  __Effective Date__ 
 
-[Pub. L. 102–143, title III, § 333(e)][/us/pl/102/143/s333/e], Oct. 28, 1991, [105 Stat. 947][/us/stat/105/947], provided that: 
+[Pub. L. 102–143, title III][/us/pl/102/143/tIII], § 333(e), Oct. 28, 1991, [105 Stat. 947][/us/stat/105/947], provided that: 
 
 > “The amendments made by subsection (a) of this section \[enacting this section\] shall take effect November 5, 1990.”
 
  __Study on State Compliance With Requirements for Revocation and Suspension of Drivers’ Licenses__ 
 
-[Pub. L. 102–240, title I, § 1094][/us/pl/102/240/s1094], Dec. 18, 1991, [105 Stat. 2025][/us/stat/105/2025], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1094, Dec. 18, 1991, [105 Stat. 2025][/us/stat/105/2025], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -144,38 +144,38 @@
 ----------
 ----------
 
-[/us/pl/102/143/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143%2Fs333%2Fa
+[/us/pl/102/143/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143%2FtIII
 [/us/stat/105/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F944
-[/us/pl/102/388/s327/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2Fs327%2Fa
+[/us/pl/102/388/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2FtIII
 [/us/stat/106/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1547
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F126
-[/us/pl/112/141/s1404/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fg
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F558
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/102/143/s333/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143%2Fs333%2Fe
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/112/141/s1404/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fg%2F1
-[/us/pl/112/141/s1404/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fg%2F2
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/102/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/102/388/s327/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2Fs327%2Fb
+[/us/pl/102/388/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2FtIII
 [/us/stat/106/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1550
-[/us/pl/102/143/s333/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143%2Fs333%2Fe
+[/us/pl/102/143/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143%2FtIII
 [/us/stat/105/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F947
-[/us/pl/102/240/s1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1094
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2025
 [/us/pl/102/143/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143%2Fs333
 [/us/pl/101/516/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F516%2Fs333

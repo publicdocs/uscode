@@ -77,7 +77,7 @@
 
     For purposes of this section, the terms “primary system” and “Federal-aid primary system” mean the Federal-aid primary system in existence on June 1, 1991, and any highway which is not on such system but which is on the National Highway System.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 904][/us/stat/72/904]; [Pub. L. 86–342, title I, § 106][/us/pl/86/342/s106], Sept. 21, 1959, [73 Stat. 612][/us/stat/73/612]; [Pub. L. 87–61, title I, § 106][/us/pl/87/61/s106], June 29, 1961, [75 Stat. 123][/us/stat/75/123]; [Pub. L. 88–157, § 5][/us/pl/88/157/s5], Oct. 24, 1963, [77 Stat. 277][/us/stat/77/277]; [Pub. L. 89–285, title I, § 101][/us/pl/89/285/s101], Oct. 22, 1965, [79 Stat. 1028][/us/stat/79/1028]; [Pub. L. 89–574, § 8(a)][/us/pl/89/574/s8/a], Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; [Pub. L. 90–495, § 6(a)][/us/pl/90/495/s6/a]–(d), Aug. 23, 1968, [82 Stat. 817][/us/stat/82/817]; [Pub. L. 91–605, title I, § 122(a)][/us/pl/91/605/s122/a], Dec. 31, 1970, [84 Stat. 1726][/us/stat/84/1726]; [Pub. L. 93–643, § 109][/us/pl/93/643/s109], Jan. 4, 1975, [88 Stat. 2284][/us/stat/88/2284]; [Pub. L. 94–280, title I, § 122][/us/pl/94/280/s122], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 95–599, title I][/us/pl/95/599], §§ 121, 122, Nov. 6, 1978, [92 Stat. 2700][/us/stat/92/2700], 2701; [Pub. L. 96–106, § 6][/us/pl/96/106/s6], Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 102–240, title I, § 1046(a)][/us/pl/102/240/s1046/a]–(c), Dec. 18, 1991, [105 Stat. 1995][/us/stat/105/1995], 1996; [Pub. L. 102–302, § 104][/us/pl/102/302/s104], June 22, 1992, [106 Stat. 253][/us/stat/106/253]; [Pub. L. 104–59, title III, § 314][/us/pl/104/59/s314], Nov. 28, 1995, [109 Stat. 586][/us/stat/109/586]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)][/us/pl/105/178/s1212/a/2/A], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1519(c)(6), formerly 1519(c)(7), 1539(b), July 6, 2012, [126 Stat. 576][/us/stat/126/576], 587, renumbered § 1519(c)(6), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 904][/us/stat/72/904]; [Pub. L. 86–342, title I][/us/pl/86/342/tI], § 106, Sept. 21, 1959, [73 Stat. 612][/us/stat/73/612]; [Pub. L. 87–61, title I][/us/pl/87/61/tI], § 106, June 29, 1961, [75 Stat. 123][/us/stat/75/123]; [Pub. L. 88–157][/us/pl/88/157], § 5, Oct. 24, 1963, [77 Stat. 277][/us/stat/77/277]; [Pub. L. 89–285, title I][/us/pl/89/285/tI], § 101, Oct. 22, 1965, [79 Stat. 1028][/us/stat/79/1028]; [Pub. L. 89–574][/us/pl/89/574], § 8(a), Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; [Pub. L. 90–495][/us/pl/90/495], § 6(a)–(d), Aug. 23, 1968, [82 Stat. 817][/us/stat/82/817]; [Pub. L. 91–605, title I][/us/pl/91/605/tI], § 122(a), Dec. 31, 1970, [84 Stat. 1726][/us/stat/84/1726]; [Pub. L. 93–643][/us/pl/93/643], § 109, Jan. 4, 1975, [88 Stat. 2284][/us/stat/88/2284]; [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 122, May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], §§ 121, 122, Nov. 6, 1978, [92 Stat. 2700][/us/stat/92/2700], 2701; [Pub. L. 96–106][/us/pl/96/106], § 6, Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1046(a)–(c), Dec. 18, 1991, [105 Stat. 1995][/us/stat/105/1995], 1996; [Pub. L. 102–302][/us/pl/102/302], § 104, June 22, 1992, [106 Stat. 253][/us/stat/106/253]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 314, Nov. 28, 1995, [109 Stat. 586][/us/stat/109/586]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1212(a)(2)(A), June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], §§ 1519(c)(6), formerly 1519(c)(7), 1539(b), July 6, 2012, [126 Stat. 576][/us/stat/126/576], 587, renumbered § 1519(c)(6), [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d)(5)(B), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438].)
 
  __References in Text__ 
 
@@ -93,53 +93,53 @@
 
  __Amendments__ 
 
-    2012—Subsec. (i). [Pub. L. 112–141, § 1539(b)][/us/pl/112/141/s1539/b], inserted at end “A State may permit the installation of signs that acknowledge the sponsorship of rest areas within such rest areas or along the main traveled way of the system, provided that such signs shall not affect the safe and efficient utilization of the Interstate System and the primary system. The Secretary shall establish criteria for the installation of such signs on the main traveled way, including criteria pertaining to the placement of rest area sponsorship acknowledgment signs in relation to the placement of advance guide signs for rest areas.”
+    2012—Subsec. (i). [Pub. L. 112–141][/us/pl/112/141], § 1539(b), inserted at end “A State may permit the installation of signs that acknowledge the sponsorship of rest areas within such rest areas or along the main traveled way of the system, provided that such signs shall not affect the safe and efficient utilization of the Interstate System and the primary system. The Secretary shall establish criteria for the installation of such signs on the main traveled way, including criteria pertaining to the placement of rest area sponsorship acknowledgment signs in relation to the placement of advance guide signs for rest areas.”
 
-    Subsec. (m). [Pub. L. 112–141, § 1519(c)(6)][/us/pl/112/141/s1519/c/6], formerly § 1519(c)(7), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], substituted “A State” for “Subject to approval by the Secretary in accordance with the program of projects approval process of section 105, a State”.
+    Subsec. (m). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(6), formerly § 1519(c)(7), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), substituted “A State” for “Subject to approval by the Secretary in accordance with the program of projects approval process of section 105, a State”.
 
-    1998—Subsec. (i). [Pub. L. 105–178, § 1212(a)(2)(A)(ii)][/us/pl/105/178/s1212/a/2/A/ii], substituted “State transportation departments” for “State highway departments”.
+    1998—Subsec. (i). [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(ii), substituted “State transportation departments” for “State highway departments”.
 
-    Subsec. (j). [Pub. L. 105–178, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], substituted “State transportation department” for “State highway department” in two places.
+    Subsec. (j). [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department” in two places.
 
     1995—Subsec. (s). [Pub. L. 104–59][/us/pl/104/59] inserted at end “In designating a scenic byway for purposes of this section and section 1047 of the Intermodal Surface Transportation Efficiency Act of 1991, a State may exclude from such designation any segment of a highway that is inconsistent with the State’s criteria for designating State scenic byways. Nothing in the preceding sentence shall preclude a State from signing any such excluded segment, including such segment on a map, or carrying out similar activities, solely for purposes of system continuity.”
 
     1992—Subsec. (n). [Pub. L. 102–302][/us/pl/102/302] inserted at end “Funds apportioned to a State under [section 104 of this title][/us/usc/t23/s104] shall not be treated for purposes of the preceding sentence as being available to the State for making such a payment except to the extent that the State, in its discretion, expends such funds for such a payment.”
 
-    1991—Subsec. (m). [Pub. L. 102–240, § 1046(a)][/us/pl/102/240/s1046/a], inserted at end “Subject to approval by the Secretary in accordance with the program of projects approval process of section 105, a State may use any funds apportioned to it under [section 104 of this title][/us/usc/t23/s104] for removal of any sign, display, or device lawfully erected which does not conform to this section.”
+    1991—Subsec. (m). [Pub. L. 102–240][/us/pl/102/240], § 1046(a), inserted at end “Subject to approval by the Secretary in accordance with the program of projects approval process of section 105, a State may use any funds apportioned to it under [section 104 of this title][/us/usc/t23/s104] for removal of any sign, display, or device lawfully erected which does not conform to this section.”
 
-    Subsecs. (r) to (t). [Pub. L. 102–240, § 1046(b)][/us/pl/102/240/s1046/b], (c), added subsecs. (r) to (t).
+    Subsecs. (r) to (t). [Pub. L. 102–240][/us/pl/102/240], § 1046(b), (c), added subsecs. (r) to (t).
 
     1979—Subsec. (c)(5). [Pub. L. 96–106][/us/pl/96/106] substituted “distribution by nonprofit” for “distribution of nonprofit”.
 
     1978—Subsec. (c). [Pub. L. 95–599][/us/pl/95/599] §§ 121, 122(c), inserted “including those which may be changed at reasonable intervals by electronic process or by remote control,” after “devices” in cl. (3) and added cl. (5).
 
-    Subsec. (g). [Pub. L. 95–599, § 122(a)][/us/pl/95/599/s122/a], inserted provision relating to just compensation for the removal of signs lawfully erected under State law but not permitted under subsec. (c).
+    Subsec. (g). [Pub. L. 95–599][/us/pl/95/599], § 122(a), inserted provision relating to just compensation for the removal of signs lawfully erected under State law but not permitted under subsec. (c).
 
-    Subsec. (j). [Pub. L. 95–599, § 122(d)][/us/pl/95/599/s122/d], inserted provision relating to permission by the State to erect and maintain information displays.
+    Subsec. (j). [Pub. L. 95–599][/us/pl/95/599], § 122(d), inserted provision relating to permission by the State to erect and maintain information displays.
 
-    Subsec. (k). [Pub. L. 95–599, § 122(b)][/us/pl/95/599/s122/b], substituted “Subject to compliance with subsection (g) of this section for the payment of just compensation, nothing” for “Nothing”.
+    Subsec. (k). [Pub. L. 95–599][/us/pl/95/599], § 122(b), substituted “Subject to compliance with subsection (g) of this section for the payment of just compensation, nothing” for “Nothing”.
 
-    1976—Subsec. (f). [Pub. L. 94–280, § 122(a)][/us/pl/94/280/s122/a], authorized the Secretary, in consultation with the States, to provide within the rights-of-way of the primary system for areas in which signs, displays, and devices giving specific information in the interest of the traveling public may be erected and maintained.
+    1976—Subsec. (f). [Pub. L. 94–280][/us/pl/94/280], § 122(a), authorized the Secretary, in consultation with the States, to provide within the rights-of-way of the primary system for areas in which signs, displays, and devices giving specific information in the interest of the traveling public may be erected and maintained.
 
-    Subsec. (i). [Pub. L. 94–280, § 122(c)][/us/pl/94/280/s122/c], authorized a State to establish travel information systems within the rights-of-way and prescribed as the Federal share of the cost of establishing an information center or travel information system the Federal share which is provided in [section 120 of this title][/us/usc/t23/s120] for a highway proj­ect on that Federal-aid system to be served by such center or system.
+    Subsec. (i). [Pub. L. 94–280][/us/pl/94/280], § 122(c), authorized a State to establish travel information systems within the rights-of-way and prescribed as the Federal share of the cost of establishing an information center or travel information system the Federal share which is provided in [section 120 of this title][/us/usc/t23/s120] for a highway proj­ect on that Federal-aid system to be served by such center or system.
 
-    Subsecs. (o) to (q). [Pub. L. 94–280, § 122(b)][/us/pl/94/280/s122/b], added subsecs. (o) to (q).
+    Subsecs. (o) to (q). [Pub. L. 94–280][/us/pl/94/280], § 122(b), added subsecs. (o) to (q).
 
-    1975—Subsec. (b). [Pub. L. 93–643, § 109(a)][/us/pl/93/643/s109/a], required reduction of Federal-aid highway funds apportioned on or after Jan. 1, 1975, or after the expiration of the next regular session of the State legislature, whichever is later, to any State which the Secretary determines has not made provision for effective control of the erection and maintenance along the Interstate System and the primary system of those additional outdoor advertising signs, displays, and devices which are more than 660 feet off the nearest edge of the right-of-way, located outside of urban areas, visible from the main traveled way of the system, and erected with the purpose of their message being read from such main traveled way.
+    1975—Subsec. (b). [Pub. L. 93–643][/us/pl/93/643], § 109(a), required reduction of Federal-aid highway funds apportioned on or after Jan. 1, 1975, or after the expiration of the next regular session of the State legislature, whichever is later, to any State which the Secretary determines has not made provision for effective control of the erection and maintenance along the Interstate System and the primary system of those additional outdoor advertising signs, displays, and devices which are more than 660 feet off the nearest edge of the right-of-way, located outside of urban areas, visible from the main traveled way of the system, and erected with the purpose of their message being read from such main traveled way.
 
-    Subsec. (c). [Pub. L. 93–643, § 109(b)][/us/pl/93/643/s109/b], substituted “Effective control means that such signs, displays, or devices after January 1, 1968, if located within six hundred and sixty feet of the right-of-way and, on or after July 1, 1975, or after the expiration of the next regular session of the State legislature, whichever is later, if located beyond six hundred and sixty feet of the right-of-way, located outside of urban areas, visible from the main traveled way of the system, and erected with the purpose of their message being read from such main traveled way,” for “Effective control means that after January 1, 1968, such signs, displays, and devices”, deleted in cl. (1) “other” before “official signs”, and added cl. (4).
+    Subsec. (c). [Pub. L. 93–643][/us/pl/93/643], § 109(b), substituted “Effective control means that such signs, displays, or devices after January 1, 1968, if located within six hundred and sixty feet of the right-of-way and, on or after July 1, 1975, or after the expiration of the next regular session of the State legislature, whichever is later, if located beyond six hundred and sixty feet of the right-of-way, located outside of urban areas, visible from the main traveled way of the system, and erected with the purpose of their message being read from such main traveled way,” for “Effective control means that after January 1, 1968, such signs, displays, and devices”, deleted in cl. (1) “other” before “official signs”, and added cl. (4).
 
-    Subsec. (g). [Pub. L. 93–643, § 109(c)][/us/pl/93/643/s109/c], substituted first sentence reading “Just compensation shall be paid upon the removal of any outdoor advertising sign, display, or device lawfully erected under State law.” for prior first sentence which provided for payment of just compensation for removal of outdoor advertising signs, displays, and devices (1) lawfully in existence on Oct. 22, 1965, (2) lawfully on any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully erected on or after Jan. 1, 1968.
+    Subsec. (g). [Pub. L. 93–643][/us/pl/93/643], § 109(c), substituted first sentence reading “Just compensation shall be paid upon the removal of any outdoor advertising sign, display, or device lawfully erected under State law.” for prior first sentence which provided for payment of just compensation for removal of outdoor advertising signs, displays, and devices (1) lawfully in existence on Oct. 22, 1965, (2) lawfully on any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully erected on or after Jan. 1, 1968.
 
     1970—Subsec. (m). [Pub. L. 91–605][/us/pl/91/605] authorized to be appropriated not to exceed $27,000,000, $20,500,000 and $50,000,000, for the fiscal years ending June 30, 1971, 1972, and 1973, respectively.
 
-    1968—Subsec. (d). [Pub. L. 90–495, § 6(a)][/us/pl/90/495/s6/a], provided that whenever a bona fide State, county, or local zoning authority has made a determination of customary use, such determination will be accepted in lieu of controls by agreement in the zoned commercial and industrial areas within the geographical jurisdiction of such authority.
+    1968—Subsec. (d). [Pub. L. 90–495][/us/pl/90/495], § 6(a), provided that whenever a bona fide State, county, or local zoning authority has made a determination of customary use, such determination will be accepted in lieu of controls by agreement in the zoned commercial and industrial areas within the geographical jurisdiction of such authority.
 
-    Subsec. (j). [Pub. L. 90–495, § 6(b)][/us/pl/90/495/s6/b], struck out provision for the imposition of controls on outdoor advertising by the Federal government that are stricter than those imposed by the State highway department.
+    Subsec. (j). [Pub. L. 90–495][/us/pl/90/495], § 6(b), struck out provision for the imposition of controls on outdoor advertising by the Federal government that are stricter than those imposed by the State highway department.
 
-    Subsec. (m). [Pub. L. 90–495, § 6(c)][/us/pl/90/495/s6/c], inserted provision authorizing an appropriation of not to exceed $2,000,000 for the fiscal year ending June 30, 1970.
+    Subsec. (m). [Pub. L. 90–495][/us/pl/90/495], § 6(c), inserted provision authorizing an appropriation of not to exceed $2,000,000 for the fiscal year ending June 30, 1970.
 
-    Subsec. (n). [Pub. L. 90–495, § 6(d)][/us/pl/90/495/s6/d], added subsec. (n).
+    Subsec. (n). [Pub. L. 90–495][/us/pl/90/495], § 6(d), added subsec. (n).
 
     1966—Subsec. (m). [Pub. L. 89–574][/us/pl/89/574] substituted provisions making applicable to the funds authorized to be appropriated to carry out this section after June 30, 1967 the provisions of chapter 1 of this title relating to the obligation, period of availability and expenditure of Federal-aid primary highway funds for provisions prohibiting the use of any part of the Highway Trust Fund in carrying out this section.
 
@@ -163,7 +163,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+    [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -179,7 +179,7 @@
 
  __Service Club, Charitable Association, or Religious Service Signs__ 
 
-[Pub. L. 114–94, div. A, title I, § 1425][/us/pl/114/94/s1425], Dec. 4, 2015, [129 Stat. 1425][/us/stat/129/1425], provided that: 
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1425, Dec. 4, 2015, [129 Stat. 1425][/us/stat/129/1425], provided that: 
 
 > “Notwithstanding [section 131 of title 23][/us/usc/t23/s131], United States Code, and part 750 of title 23, Code of Federal Regulations (or successor regulations), if a State notifies the Federal Highway Administration, the State may allow the maintenance of a sign of a service club, charitable association, or religious service organization—
 
@@ -189,7 +189,7 @@
 
  __Study of State Practices on Specific Service Signing__ 
 
-[Pub. L. 105–178, title I, § 1213(g)][/us/pl/105/178/s1213/g], June 9, 1998, [112 Stat. 202][/us/stat/112/202], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1213(g), June 9, 1998, [112 Stat. 202][/us/stat/112/202], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -209,13 +209,13 @@
 
  __Effect of 1991 Amendment on State Compliance Laws or Regulations__ 
 
-[Pub. L. 102–240, title I, § 1046(d)][/us/pl/102/240/s1046/d], Dec. 18, 1991, [105 Stat. 1996][/us/stat/105/1996], provided that: 
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1046(d), Dec. 18, 1991, [105 Stat. 1996][/us/stat/105/1996], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall not affect the status or validity of any existing compliance law or regulation adopted by a State pursuant to [section 131 of title 23][/us/usc/t23/s131], United States Code.”
 
  __Use of Tourist Oriented Directional Signs__ 
 
-[Pub. L. 102–240, title I, § 1059][/us/pl/102/240/s1059], Dec. 18, 1991, [105 Stat. 2003][/us/stat/105/2003], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1059, Dec. 18, 1991, [105 Stat. 2003][/us/stat/105/2003], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -227,31 +227,31 @@
 
  __Highway Beautification Commission__ 
 
-    [Pub. L. 91–605, title I, § 123][/us/pl/91/605/s123], Dec. 31, 1970, [84 Stat. 1727][/us/stat/84/1727], as amended by [Pub. L. 93–6][/us/pl/93/6], Feb. 16, 1973, [87 Stat. 6][/us/stat/87/6], established the Commission on Highway Beautification to (1) study existing statutes and regulations governing control of outdoor advertising and junkyards in areas adjacent to Federal-aid highway system, (2) review policies and practices of Federal and State agencies charged with administrative jurisdiction over such highways insofar as such policies and practices relate to governing control of outdoor advertising and junkyards, (3) compile data necessary to understand and determine the requirements for such control which may now exist or are likely to exist within foreseeable future, (4) study problems relating to control of on-premise outdoor advertising signs, promotional signs, directional signs, and signs providing information that is essential to motoring public, (5) study methods of financing and possible sources of Federal funds, including use of the Highway Trust Fund, to carry out highway beautification program, and (6) recommend such modifications or additions to existing laws, regulations, policies, practices, and demonstration programs as will, in judgment of the Commission, achieve a workable and effective highway beautification program and best serve the public interest and to submit, not later than Dec. 31, 1973, its final report. The Commission terminated six months after submission of said report.
+    [Pub. L. 91–605, title I][/us/pl/91/605/tI], § 123, Dec. 31, 1970, [84 Stat. 1727][/us/stat/84/1727], as amended by [Pub. L. 93–6][/us/pl/93/6], Feb. 16, 1973, [87 Stat. 6][/us/stat/87/6], established the Commission on Highway Beautification to (1) study existing statutes and regulations governing control of outdoor advertising and junkyards in areas adjacent to Federal-aid highway system, (2) review policies and practices of Federal and State agencies charged with administrative jurisdiction over such highways insofar as such policies and practices relate to governing control of outdoor advertising and junkyards, (3) compile data necessary to understand and determine the requirements for such control which may now exist or are likely to exist within foreseeable future, (4) study problems relating to control of on-premise outdoor advertising signs, promotional signs, directional signs, and signs providing information that is essential to motoring public, (5) study methods of financing and possible sources of Federal funds, including use of the Highway Trust Fund, to carry out highway beautification program, and (6) recommend such modifications or additions to existing laws, regulations, policies, practices, and demonstration programs as will, in judgment of the Commission, achieve a workable and effective highway beautification program and best serve the public interest and to submit, not later than Dec. 31, 1973, its final report. The Commission terminated six months after submission of said report.
 
  __Comprehensive Study on Highway Beautification Programs__ 
 
-    [Pub. L. 89–285, title III, § 302][/us/pl/89/285/s302], Oct. 22, 1965, [79 Stat. 1032][/us/stat/79/1032], provided that in order to provide the basis for evaluating the continuing programs authorized by [Pub. L. 89–285][/us/pl/89/285], and to furnish the Congress with the information necessary for authorization of appropriations for fiscal years beginning after June 30, 1967, the Secretary, in cooperation with the State highway departments, shall make a detailed estimate of the cost of carrying out the provisions of [Pub. L. 89–285][/us/pl/89/285], and a comprehensive study of the economic impact of such programs on affected individuals and commercial and industrial enterprises, the effectiveness of such programs and the public and private benefits realized thereby, and alternate or improved methods of accomplishing the objectives of [Pub. L. 89–285][/us/pl/89/285]. The Secretary was required to submit such detailed estimate and a report concerning such comprehensive study to the Congress not later than Jan. 10, 1967.
+    [Pub. L. 89–285, title III][/us/pl/89/285/tIII], § 302, Oct. 22, 1965, [79 Stat. 1032][/us/stat/79/1032], provided that in order to provide the basis for evaluating the continuing programs authorized by [Pub. L. 89–285][/us/pl/89/285], and to furnish the Congress with the information necessary for authorization of appropriations for fiscal years beginning after June 30, 1967, the Secretary, in cooperation with the State highway departments, shall make a detailed estimate of the cost of carrying out the provisions of [Pub. L. 89–285][/us/pl/89/285], and a comprehensive study of the economic impact of such programs on affected individuals and commercial and industrial enterprises, the effectiveness of such programs and the public and private benefits realized thereby, and alternate or improved methods of accomplishing the objectives of [Pub. L. 89–285][/us/pl/89/285]. The Secretary was required to submit such detailed estimate and a report concerning such comprehensive study to the Congress not later than Jan. 10, 1967.
 
  __Standards, Criteria, Rules and Regulations__ 
 
-    [Pub. L. 89–285, title III, § 303][/us/pl/89/285/s303], Oct. 22, 1965, [79 Stat. 1033][/us/stat/79/1033], mandated the holding of public hearings by the Secretary of Commerce prior to the promulgation of standards, criteria and rules and regulations necessary to carry out this section and [section 136 of this title][/us/usc/t23/s136], such standards, criteria, etc., to be reported to Congress not later than Jan. 10, 1967.
+    [Pub. L. 89–285, title III][/us/pl/89/285/tIII], § 303, Oct. 22, 1965, [79 Stat. 1033][/us/stat/79/1033], mandated the holding of public hearings by the Secretary of Commerce prior to the promulgation of standards, criteria and rules and regulations necessary to carry out this section and [section 136 of this title][/us/usc/t23/s136], such standards, criteria, etc., to be reported to Congress not later than Jan. 10, 1967.
 
  __Acquisition of Dwellings__ 
 
-[Pub. L. 89–285, title III, § 305][/us/pl/89/285/s305], Oct. 22, 1965, [79 Stat. 1033][/us/stat/79/1033], provided that: 
+[Pub. L. 89–285, title III][/us/pl/89/285/tIII], § 305, Oct. 22, 1965, [79 Stat. 1033][/us/stat/79/1033], provided that: 
 
 > “Nothing in this Act or the amendments made by this Act \[amending this section and [section 319 of this title][/us/usc/t23/s319] and enacting [section 136 of this title][/us/usc/t23/s136] and provisions set out as notes under this section and sections 135 and 136 of this title\] shall be construed to authorize the use of eminent domain to acquire any dwelling (including related buildings).”
 
  __Taking of Private Property Without Just Compensation__ 
 
-[Pub. L. 89–285, title IV, § 401][/us/pl/89/285/s401], Oct. 22, 1965, [79 Stat. 1033][/us/stat/79/1033], provided that: 
+[Pub. L. 89–285, title IV][/us/pl/89/285/tIV], § 401, Oct. 22, 1965, [79 Stat. 1033][/us/stat/79/1033], provided that: 
 
 > “Nothing in this Act or the amendments made by this Act \[amending this section and [section 319 of this title][/us/usc/t23/s319] and enacting [section 136 of this title][/us/usc/t23/s136] and provisions set out as notes under sections 131, 135, and 136 of this title\] shall be construed to authorize private property to be taken or the reasonable and existing use restricted by such taking without just compensation as provided in this Act.”
 
  __Authorization of Additional Appropriations for Administrative Expenses__ 
 
-[Pub. L. 89–285, title IV, § 402][/us/pl/89/285/s402], Oct. 22, 1965, [79 Stat. 1033][/us/stat/79/1033], as amended by [Pub. L. 97–449, § 2(a)][/us/pl/97/449/s2/a], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439], provided that: 
+[Pub. L. 89–285, title IV][/us/pl/89/285/tIV], § 402, Oct. 22, 1965, [79 Stat. 1033][/us/stat/79/1033], as amended by [Pub. L. 97–449][/us/pl/97/449], § 2(a), Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439], provided that: 
 
 > “In addition to any other amounts authorized by this Act and the amendments made by this Act \[amending this section and [section 319 of this title][/us/usc/t23/s319] and enacting [section 136 of this title][/us/usc/t23/s136] and provisions set out as notes under this section and sections 135 and 136 of this title\], there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Secretary not to exceed $5,000,000 for administrative expenses in carrying out this Act (including amendments made by this Act).”
 
@@ -267,39 +267,39 @@
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F904
-[/us/pl/86/342/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342%2Fs106
+[/us/pl/86/342/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342%2FtI
 [/us/stat/73/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F612
-[/us/pl/87/61/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs106
+[/us/pl/87/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2FtI
 [/us/stat/75/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F123
-[/us/pl/88/157/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157%2Fs5
+[/us/pl/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157
 [/us/stat/77/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F277
-[/us/pl/89/285/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2Fs101
+[/us/pl/89/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2FtI
 [/us/stat/79/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1028
-[/us/pl/89/574/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs8%2Fa
+[/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/stat/80/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F768
-[/us/pl/90/495/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs6%2Fa
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F817
-[/us/pl/91/605/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs122%2Fa
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1726
-[/us/pl/93/643/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs109
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2284
-[/us/pl/94/280/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs122
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F438
-[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2700
-[/us/pl/96/106/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs6
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/stat/93/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F797
-[/us/pl/102/240/s1046/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1046%2Fa
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1995
-[/us/pl/102/302/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F302%2Fs104
+[/us/pl/102/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F302
 [/us/stat/106/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F253
-[/us/pl/104/59/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs314
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F586
-[/us/pl/105/178/s1212/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F576
-[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/89/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285
 [/us/stat/79/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1028
@@ -309,34 +309,34 @@
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/pl/102/240/s1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1047
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s1539/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1539%2Fb
-[/us/pl/112/141/s1519/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F6
-[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
-[/us/pl/105/178/s1212/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fii
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/pl/102/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F302
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/102/240/s1046/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1046%2Fa
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/102/240/s1046/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1046%2Fb
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
-[/us/pl/95/599/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs122%2Fa
-[/us/pl/95/599/s122/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs122%2Fd
-[/us/pl/95/599/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs122%2Fb
-[/us/pl/94/280/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs122%2Fa
-[/us/pl/94/280/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs122%2Fc
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
+[/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
-[/us/pl/94/280/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs122%2Fb
-[/us/pl/93/643/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs109%2Fa
-[/us/pl/93/643/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs109%2Fb
-[/us/pl/93/643/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs109%2Fc
+[/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
-[/us/pl/90/495/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs6%2Fa
-[/us/pl/90/495/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs6%2Fb
-[/us/pl/90/495/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs6%2Fc
-[/us/pl/90/495/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs6%2Fd
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/pl/89/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285
 [/us/pl/89/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285
@@ -347,7 +347,7 @@
 [/us/pl/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157
 [/us/pl/87/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61
 [/us/pl/86/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342
-[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -359,40 +359,40 @@
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/pl/90/495/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs37
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1425
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1425
 [/us/usc/t23/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs131
-[/us/pl/105/178/s1213/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1213%2Fg
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F202
-[/us/pl/102/240/s1046/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1046%2Fd
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1996
 [/us/usc/t23/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs131
-[/us/pl/102/240/s1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1059
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2003
 [/us/usc/t23/s131/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs131%2Ft
-[/us/pl/91/605/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs123
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1727
 [/us/pl/93/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F6
 [/us/stat/87/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F6
-[/us/pl/89/285/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2Fs302
+[/us/pl/89/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2FtIII
 [/us/stat/79/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1032
 [/us/pl/89/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285
 [/us/pl/89/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285
 [/us/pl/89/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285
-[/us/pl/89/285/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2Fs303
+[/us/pl/89/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2FtIII
 [/us/stat/79/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1033
 [/us/usc/t23/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs136
-[/us/pl/89/285/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2Fs305
+[/us/pl/89/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2FtIII
 [/us/stat/79/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1033
 [/us/usc/t23/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs319
 [/us/usc/t23/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs136
-[/us/pl/89/285/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2Fs401
+[/us/pl/89/285/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2FtIV
 [/us/stat/79/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1033
 [/us/usc/t23/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs319
 [/us/usc/t23/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs136
-[/us/pl/89/285/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2Fs402
+[/us/pl/89/285/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2FtIV
 [/us/stat/79/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1033
-[/us/pl/97/449/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2%2Fa
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
 [/us/usc/t23/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs319
 [/us/usc/t23/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs136

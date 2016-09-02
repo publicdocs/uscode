@@ -35,15 +35,15 @@
 
     The Secretary shall develop a process for the oversight and monitoring, on an annual basis, of the compliance of each State with the guidance issued under subsection (b).
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 913][/us/stat/72/913]; [Pub. L. 104–59, title III, § 321][/us/pl/104/59/s321], Nov. 28, 1995, [109 Stat. 590][/us/stat/109/590]; [Pub. L. 112–141, div. A, title I, § 1517(a)][/us/pl/112/141/s1517/a], July 6, 2012, [126 Stat. 574][/us/stat/126/574].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 913][/us/stat/72/913]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 321, Nov. 28, 1995, [109 Stat. 590][/us/stat/109/590]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1517(a), July 6, 2012, [126 Stat. 574][/us/stat/126/574].)
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 1517(a)(1)][/us/pl/112/141/s1517/a/1], substituted “shall” for “may”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 1517(a)(1), substituted “shall” for “may”.
 
-    Subsec. (b). [Pub. L. 112–141, § 1517(a)(2)][/us/pl/112/141/s1517/a/2], substituted “State government and” for “State and” in introductory provisions.
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 1517(a)(2), substituted “State government and” for “State and” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 112–141, § 1517(a)(3)][/us/pl/112/141/s1517/a/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 1517(a)(3), added subsec. (c).
 
     1995—[Pub. L. 104–59][/us/pl/104/59] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -60,13 +60,13 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F913
-[/us/pl/104/59/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs321
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F590
-[/us/pl/112/141/s1517/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1517%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F574
-[/us/pl/112/141/s1517/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1517%2Fa%2F1
-[/us/pl/112/141/s1517/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1517%2Fa%2F2
-[/us/pl/112/141/s1517/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1517%2Fa%2F3
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s154.md) | [Next](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s156.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs155)
 
-## \[§ 155. Repealed. [Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A)][/us/pl/112/141/s1519/b/1/A], July 6, 2012, [126 Stat. 575][/us/stat/126/575]\]
+## \[§ 155. Repealed. [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1519(b)(1)(A), July 6, 2012, [126 Stat. 575][/us/stat/126/575]\]
 
-    Section, added [Pub. L. 93–643, § 115(a)][/us/pl/93/643/s115/a], Jan. 4, 1975, [88 Stat. 2287][/us/stat/88/2287]; amended [Pub. L. 95–599, title I, § 129(e)][/us/pl/95/599/s129/e], Nov. 6, 1978, [92 Stat. 2708][/us/stat/92/2708], related to access highways to public recreation areas on certain lakes.
+    Section, added [Pub. L. 93–643][/us/pl/93/643], § 115(a), Jan. 4, 1975, [88 Stat. 2287][/us/stat/88/2287]; amended [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 129(e), Nov. 6, 1978, [92 Stat. 2708][/us/stat/92/2708], related to access highways to public recreation areas on certain lakes.
 
  __Effective Date of Repeal__ 
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/112/141/s1519/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fb%2F1%2FA
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
-[/us/pl/93/643/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs115%2Fa
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2287
-[/us/pl/95/599/s129/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs129%2Fe
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2708
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

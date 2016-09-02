@@ -223,7 +223,7 @@
 
     Funds authorized to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that the Federal share of the cost of a project under this section shall be determined in accordance with this section.
 
-(Added [Pub. L. 105–178, title I, § 1112(a)][/us/pl/105/178/s1112/a], June 9, 1998, [112 Stat. 146][/us/stat/112/146]; amended [Pub. L. 109–59, title I, § 1109(b)][/us/pl/109/59/s1109/b]–(e), Aug. 10, 2005, [119 Stat. 1168–1170][/us/stat/119/1168-1170]; [Pub. L. 110–244, title I, § 101(q)][/us/pl/110/244/s101/q], June 6, 2008, [122 Stat. 1576][/us/stat/122/1576]; [Pub. L. 113–287, § 5(f)(3)][/us/pl/113/287/s5/f/3], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
+(Added [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1112(a), June 9, 1998, [112 Stat. 146][/us/stat/112/146]; amended [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1109(b)–(e), Aug. 10, 2005, [119 Stat. 1168–1170][/us/stat/119/1168-1170]; [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 101(q), June 6, 2008, [122 Stat. 1576][/us/stat/122/1576]; [Pub. L. 113–287][/us/pl/113/287], § 5(f)(3), Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
 
  __References in Text__ 
 
@@ -235,35 +235,35 @@
 
  __Prior Provisions__ 
 
-    A prior section 206, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 908][/us/stat/72/908], provided for use of funds for construction and improvement of park roads and trails and for administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, prior to repeal by [Pub. L. 97–424, title I, § 126(d)][/us/pl/97/424/s126/d], Jan. 6, 1983, [96 Stat. 2115][/us/stat/96/2115].
+    A prior section 206, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 908][/us/stat/72/908], provided for use of funds for construction and improvement of park roads and trails and for administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, prior to repeal by [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 126(d), Jan. 6, 1983, [96 Stat. 2115][/us/stat/96/2115].
 
  __Amendments__ 
 
-    2014—Subsec. (d)(1)(B). [Pub. L. 113–287, § 5(f)(3)(A)][/us/pl/113/287/s5/f/3/A], substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.)”.
+    2014—Subsec. (d)(1)(B). [Pub. L. 113–287][/us/pl/113/287], § 5(f)(3)(A), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.)”.
 
-    Subsec. (d)(2)(D)(ii). [Pub. L. 113–287, § 5(f)(3)(B)][/us/pl/113/287/s5/f/3/B], substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.)”.
+    Subsec. (d)(2)(D)(ii). [Pub. L. 113–287][/us/pl/113/287], § 5(f)(3)(B), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.)”.
 
-    Subsec. (h)(3). [Pub. L. 113–287, § 5(f)(3)(C)][/us/pl/113/287/s5/f/3/C], substituted “[section 200305(f)(3) of title 54][/us/usc/t54/s200305/f/3]” for “section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–8(f)(3))”.
+    Subsec. (h)(3). [Pub. L. 113–287][/us/pl/113/287], § 5(f)(3)(C), substituted “[section 200305(f)(3) of title 54][/us/usc/t54/s200305/f/3]” for “section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–8(f)(3))”.
 
     2008—Subsec. (d)(3)(A). [Pub. L. 110–244][/us/pl/110/244] substituted “(B) and (C)” for “(B), (C), and (D)” in introductory provisions.
 
-    2005—Subsec. (d)(2). [Pub. L. 109–59, § 1109(b)][/us/pl/109/59/s1109/b], amended par. (2) generally. Prior to amendment, par. (2) consisted of subpars. (A) to (G) relating to permissible uses of funds apportioned to carry out this section.
+    2005—Subsec. (d)(2). [Pub. L. 109–59][/us/pl/109/59], § 1109(b), amended par. (2) generally. Prior to amendment, par. (2) consisted of subpars. (A) to (G) relating to permissible uses of funds apportioned to carry out this section.
 
-    Subsec. (d)(3)(C), (D). [Pub. L. 109–59, § 1109(c)][/us/pl/109/59/s1109/c], redesignated subpar. (D) as (C), substituted “(2)(H)” for “(2)(F)”, and struck out heading and text of former subpar. (C). Text read as follows: “A State recreational trail advisory committee established under subsection (c)(2) may waive, in whole or in part, the requirements of clauses (ii) and (iii) of subparagraph (A) if the State recreational trail advisory committee determines and notifies the Secretary that the State does not have sufficient projects to meet the requirements of clauses (ii) and (iii) of subparagraph (A).”
+    Subsec. (d)(3)(C), (D). [Pub. L. 109–59][/us/pl/109/59], § 1109(c), redesignated subpar. (D) as (C), substituted “(2)(H)” for “(2)(F)”, and struck out heading and text of former subpar. (C). Text read as follows: “A State recreational trail advisory committee established under subsection (c)(2) may waive, in whole or in part, the requirements of clauses (ii) and (iii) of subparagraph (A) if the State recreational trail advisory committee determines and notifies the Secretary that the State does not have sufficient projects to meet the requirements of clauses (ii) and (iii) of subparagraph (A).”
 
-    Subsec. (f)(1). [Pub. L. 109–59, § 1109(d)(1)][/us/pl/109/59/s1109/d/1], inserted “and the Federal share of the administrative costs of a State” after “project” and substituted “be determined in accordance with section 120(b)” for “not exceed 80 percent”.
+    Subsec. (f)(1). [Pub. L. 109–59][/us/pl/109/59], § 1109(d)(1), inserted “and the Federal share of the administrative costs of a State” after “project” and substituted “be determined in accordance with section 120(b)” for “not exceed 80 percent”.
 
-    Subsec. (f)(2)(A). [Pub. L. 109–59, § 1109(d)(2)][/us/pl/109/59/s1109/d/2], substituted “the amount determined in accordance with section 120(b) for the cost” for “80 percent of the cost”.
+    Subsec. (f)(2)(A). [Pub. L. 109–59][/us/pl/109/59], § 1109(d)(2), substituted “the amount determined in accordance with section 120(b) for the cost” for “80 percent of the cost”.
 
-    Subsec. (f)(2)(B). [Pub. L. 109–59, § 1109(d)(3)][/us/pl/109/59/s1109/d/3], inserted “sponsoring the project” after “Federal agency”.
+    Subsec. (f)(2)(B). [Pub. L. 109–59][/us/pl/109/59], § 1109(d)(3), inserted “sponsoring the project” after “Federal agency”.
 
-    Subsec. (f)(4), (5). [Pub. L. 109–59, § 1109(d)(4)][/us/pl/109/59/s1109/d/4]–(7), added par. (4), redesignated former par. (4) as (5), substituted “the Federal share as determined in accordance with section 120(b)” for “80 percent”, and struck out heading and text of former par. (5). Text read as follows: “The Federal share of the administrative costs of a State under this subsection shall be determined in accordance with section 120(b).”
+    Subsec. (f)(4), (5). [Pub. L. 109–59][/us/pl/109/59], § 1109(d)(4)–(7), added par. (4), redesignated former par. (4) as (5), substituted “the Federal share as determined in accordance with section 120(b)” for “80 percent”, and struck out heading and text of former par. (5). Text read as follows: “The Federal share of the administrative costs of a State under this subsection shall be determined in accordance with section 120(b).”
 
-    Subsec. (h)(1)(C). [Pub. L. 109–59, § 1109(e)][/us/pl/109/59/s1109/e], added subpar. (C).
+    Subsec. (h)(1)(C). [Pub. L. 109–59][/us/pl/109/59], § 1109(e), added subpar. (C).
 
  __Use of Youth Service and Conservation Corps__ 
 
-[Pub. L. 112–141, div. A, title I, § 1524][/us/pl/112/141/s1524], July 6, 2012, [126 Stat. 580][/us/stat/126/580], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1524, July 6, 2012, [126 Stat. 580][/us/stat/126/580], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -285,9 +285,9 @@
 
 Similar provisions were contained in the following prior acts:
 
-    [Pub. L. 109–59, title I, § 1109(f)][/us/pl/109/59/s1109/f], Aug. 10, 2005, [119 Stat. 1170][/us/stat/119/1170].
+    [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1109(f), Aug. 10, 2005, [119 Stat. 1170][/us/stat/119/1170].
 
-    [Pub. L. 105–178, title I, § 1112(e)][/us/pl/105/178/s1112/e], June 9, 1998, [112 Stat. 151][/us/stat/112/151].
+    [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1112(e), June 9, 1998, [112 Stat. 151][/us/stat/112/151].
 
 ----------
 
@@ -302,13 +302,13 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t23/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs138
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
 [/us/usc/t54/s200305/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200305%2Ff%2F3
-[/us/pl/105/178/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1112%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F146
-[/us/pl/109/59/s1109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fb
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1168-1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1168-1170
-[/us/pl/110/244/s101/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fq
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1576
-[/us/pl/113/287/s5/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F3
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3268
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
@@ -321,24 +321,24 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F908
-[/us/pl/97/424/s126/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126%2Fd
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2115
-[/us/pl/113/287/s5/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F3%2FA
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s5/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F3%2FB
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s5/f/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F3%2FC
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s200305/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200305%2Ff%2F3
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s1109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fb
-[/us/pl/109/59/s1109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fc
-[/us/pl/109/59/s1109/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fd%2F1
-[/us/pl/109/59/s1109/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fd%2F2
-[/us/pl/109/59/s1109/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fd%2F3
-[/us/pl/109/59/s1109/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fd%2F4
-[/us/pl/109/59/s1109/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fe
-[/us/pl/112/141/s1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1524
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F580
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/usc/t42/s12572/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572%2Fa%2F2
@@ -348,9 +348,9 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/101/610/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs140
 [/us/usc/t42/s12594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12594
 [/us/usc/t23/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs112
-[/us/pl/109/59/s1109/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Ff
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1170
-[/us/pl/105/178/s1112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1112%2Fe
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F151
 
 

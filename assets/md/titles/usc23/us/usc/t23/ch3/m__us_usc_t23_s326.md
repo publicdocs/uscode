@@ -111,7 +111,7 @@
 
     A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorney’s fees directly attributable to eligible activities associated with the project.
 
-(Added [Pub. L. 109–59, title VI, § 6004(a)][/us/pl/109/59/s6004/a], Aug. 10, 2005, [119 Stat. 1867][/us/stat/119/1867]; amended [Pub. L. 112–141, div. A, title I, § 1312][/us/pl/112/141/s1312], July 6, 2012, [126 Stat. 545][/us/stat/126/545]; [Pub. L. 114–94, div. A, title I, § 1307][/us/pl/114/94/s1307], Dec. 4, 2015, [129 Stat. 1390][/us/stat/129/1390].)
+(Added [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6004(a), Aug. 10, 2005, [119 Stat. 1867][/us/stat/119/1867]; amended [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1312, July 6, 2012, [126 Stat. 545][/us/stat/126/545]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1307, Dec. 4, 2015, [129 Stat. 1390][/us/stat/129/1390].)
 
  __References in Text__ 
 
@@ -119,19 +119,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 326, added [Pub. L. 102–240, title VI, § 6004(a)][/us/pl/102/240/s6004/a], Dec. 18, 1991, [105 Stat. 2169][/us/stat/105/2169]; amended [Pub. L. 105–130, § 5(e)(4)][/us/pl/105/130/s5/e/4], Dec. 1, 1997, [111 Stat. 2558][/us/stat/111/2558], related to education and training program, prior to repeal by [Pub. L. 105–178, title V, § 5119(b)][/us/pl/105/178/s5119/b], June 9, 1998, [112 Stat. 452][/us/stat/112/452].
+    A prior section 326, added [Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6004(a), Dec. 18, 1991, [105 Stat. 2169][/us/stat/105/2169]; amended [Pub. L. 105–130][/us/pl/105/130], § 5(e)(4), Dec. 1, 1997, [111 Stat. 2558][/us/stat/111/2558], related to education and training program, prior to repeal by [Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5119(b), June 9, 1998, [112 Stat. 452][/us/stat/112/452].
 
  __Amendments__ 
 
-    2015—Subsec. (c)(2) to (5). [Pub. L. 114–94, § 1307(1)][/us/pl/114/94/s1307/1], added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+    2015—Subsec. (c)(2) to (5). [Pub. L. 114–94][/us/pl/114/94], § 1307(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-    Subsec. (d)(1). [Pub. L. 114–94, § 1307(2)][/us/pl/114/94/s1307/2], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
+    Subsec. (d)(1). [Pub. L. 114–94][/us/pl/114/94], § 1307(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
 
-    2012—Subsec. (a)(4). [Pub. L. 112–141, § 1312(1)][/us/pl/112/141/s1312/1], added par. (4).
+    2012—Subsec. (a)(4). [Pub. L. 112–141][/us/pl/112/141], § 1312(1), added par. (4).
 
-    Subsec. (d). [Pub. L. 112–141, § 1312(2)][/us/pl/112/141/s1312/2], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 1312(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
 
-    Subsec. (f). [Pub. L. 112–141, § 1312(3)][/us/pl/112/141/s1312/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 112–141][/us/pl/112/141], § 1312(3), added subsec. (f).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -150,26 +150,26 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/109/59/s6004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6004%2Fa
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1867
-[/us/pl/112/141/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1312
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F545
-[/us/pl/114/94/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1307
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1390
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/102/240/s6004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6004%2Fa
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2169
-[/us/pl/105/130/s5/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130%2Fs5%2Fe%2F4
+[/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
 [/us/stat/111/2558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2558
-[/us/pl/105/178/s5119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5119%2Fb
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F452
-[/us/pl/114/94/s1307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1307%2F1
-[/us/pl/114/94/s1307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1307%2F2
-[/us/pl/112/141/s1312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1312%2F1
-[/us/pl/112/141/s1312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1312%2F2
-[/us/pl/112/141/s1312/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1312%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

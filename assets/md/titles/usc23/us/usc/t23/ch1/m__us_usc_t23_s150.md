@@ -139,7 +139,7 @@
 
         (4) the ways in which the State is addressing congestion at freight bottlenecks, including those identified in the national freight strategic plan, within the State.
 
-(Added [Pub. L. 112–141, div. A, title I, § 1203(a)][/us/pl/112/141/s1203/a], July 6, 2012, [126 Stat. 524][/us/stat/126/524], as amended by [Pub. L. 114–94, div. A, title I, § 1446(d)(2)(A)][/us/pl/114/94/s1446/d/2/A], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I, § 1446(a)(4)][/us/pl/114/94/s1446/a/4]–(6), Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
+(Added [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1203(a), July 6, 2012, [126 Stat. 524][/us/stat/126/524], as amended by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d)(2)(A), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(a)(4)–(6), Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
 
  __References in Text__ 
 
@@ -147,21 +147,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 150, added [Pub. L. 93–87, title I, § 157(a)][/us/pl/93/87/s157/a], Aug. 13, 1973, [87 Stat. 277][/us/stat/87/277]; amended [Pub. L. 97–424, title I, § 124][/us/pl/97/424/s124], Jan. 6, 1983, [96 Stat. 2113][/us/stat/96/2113], related to allocation of urban system funds, prior to repeal by [Pub. L. 105–178, title I, § 1103(l)(5)][/us/pl/105/178/s1103/l/5], as added [Pub. L. 105–206, title IX, § 9002(c)(1)][/us/pl/105/206/s9002/c/1], July 22, 1998, [112 Stat. 834][/us/stat/112/834].
+    A prior section 150, added [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 157(a), Aug. 13, 1973, [87 Stat. 277][/us/stat/87/277]; amended [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 124, Jan. 6, 1983, [96 Stat. 2113][/us/stat/96/2113], related to allocation of urban system funds, prior to repeal by [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1103(l)(5), as added [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9002(c)(1), July 22, 1998, [112 Stat. 834][/us/stat/112/834].
 
  __Amendments__ 
 
-    2015—Subsec. (b)(5). [Pub. L. 114–94, § 1446(a)(4)][/us/pl/114/94/s1446/a/4], substituted “National Highway Freight Network” for “national freight network”.
+    2015—Subsec. (b)(5). [Pub. L. 114–94][/us/pl/114/94], § 1446(a)(4), substituted “National Highway Freight Network” for “national freight network”.
 
-    Subsec. (c)(3)(B). [Pub. L. 114–94, § 1446(a)(5)][/us/pl/114/94/s1446/a/5], substituted period for semicolon at end.
+    Subsec. (c)(3)(B). [Pub. L. 114–94][/us/pl/114/94], § 1446(a)(5), substituted period for semicolon at end.
 
-    Subsec. (e)(4). [Pub. L. 114–94, § 1446(a)(6)][/us/pl/114/94/s1446/a/6], substituted “national freight strategic plan” for “National Freight Strategic Plan”.
+    Subsec. (e)(4). [Pub. L. 114–94][/us/pl/114/94], § 1446(a)(6), substituted “national freight strategic plan” for “National Freight Strategic Plan”.
 
  __Effective Date of 2015 Amendment__ 
 
     Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
-    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(2)(A) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+    [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(2)(A) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date__ 
 
@@ -169,7 +169,7 @@
 
  __Performance Management Data Support Program__ 
 
-[Pub. L. 114–94, div. A, title VI, § 6028][/us/pl/114/94/s6028], Dec. 4, 2015, [129 Stat. 1587][/us/stat/129/1587], provided that:
+[Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6028, Dec. 4, 2015, [129 Stat. 1587][/us/stat/129/1587], provided that:
 
 >     “(a)  __Performance Management Data Support__  __.—__ 
 
@@ -206,33 +206,33 @@
 ----------
 ----------
 
-[/us/pl/112/141/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1203%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F524
-[/us/pl/114/94/s1446/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F2%2FA
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
-[/us/pl/114/94/s1446/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F4
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1437
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/93/87/s157/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs157%2Fa
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F277
-[/us/pl/97/424/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs124
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2113
-[/us/pl/105/178/s1103/l/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103%2Fl%2F5
-[/us/pl/105/206/s9002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9002%2Fc%2F1
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F834
-[/us/pl/114/94/s1446/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F4
-[/us/pl/114/94/s1446/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F5
-[/us/pl/114/94/s1446/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F6
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6028
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1587
 [/us/usc/t23/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs150
 [/us/usc/t23/s150/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs150%2Fe

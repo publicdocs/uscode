@@ -87,7 +87,7 @@
 
         The term “wheelchair” means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
-(Added [Pub. L. 93–87, title I, § 124(a)][/us/pl/93/87/s124/a], Aug. 13, 1973, [87 Stat. 262][/us/stat/87/262]; amended [Pub. L. 94–280, title I, § 134][/us/pl/94/280/s134], May 5, 1976, [90 Stat. 441][/us/stat/90/441]; [Pub. L. 95–599, title I, § 141(h)][/us/pl/95/599/s141/h], Nov. 6, 1978, [92 Stat. 2712][/us/stat/92/2712]; [Pub. L. 97–424, title I, § 126A][/us/pl/97/424/s126A], formerly § 126, Jan. 6, 1983, [96 Stat. 2116][/us/stat/96/2116], renumbered § 126A, [Pub. L. 100–17, title I, § 133(a)(2)][/us/pl/100/17/s133/a/2], Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170]; [Pub. L. 100–17, title I, § 127][/us/pl/100/17/s127], Apr. 2, 1987, [101 Stat. 167][/us/stat/101/167]; [Pub. L. 102–240, title I, § 1033][/us/pl/102/240/s1033], Dec. 18, 1991, [105 Stat. 1975][/us/stat/105/1975]; [Pub. L. 104–59, title III, § 310(b)][/us/pl/104/59/s310/b], Nov. 28, 1995, [109 Stat. 582][/us/stat/109/582]; [Pub. L. 105–178, title I, § 1202(a)][/us/pl/105/178/s1202/a], June 9, 1998, [112 Stat. 168][/us/stat/112/168]; [Pub. L. 109–59, title I, § 1954][/us/pl/109/59/s1954], Aug. 10, 2005, [119 Stat. 1515][/us/stat/119/1515]; [Pub. L. 112–141, div. A, title I, § 1104(c)(4)][/us/pl/112/141/s1104/c/4], July 6, 2012, [126 Stat. 427][/us/stat/126/427]; [Pub. L. 114–94, div. A, title I, § 1446(a)(13)][/us/pl/114/94/s1446/a/13], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438].)
+(Added [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 124(a), Aug. 13, 1973, [87 Stat. 262][/us/stat/87/262]; amended [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 134, May 5, 1976, [90 Stat. 441][/us/stat/90/441]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 141(h), Nov. 6, 1978, [92 Stat. 2712][/us/stat/92/2712]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 126A, formerly § 126, Jan. 6, 1983, [96 Stat. 2116][/us/stat/96/2116], renumbered § 126A, [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(a)(2), Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 127, Apr. 2, 1987, [101 Stat. 167][/us/stat/101/167]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1033, Dec. 18, 1991, [105 Stat. 1975][/us/stat/105/1975]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 310(b), Nov. 28, 1995, [109 Stat. 582][/us/stat/109/582]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1202(a), June 9, 1998, [112 Stat. 168][/us/stat/112/168]; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1954, Aug. 10, 2005, [119 Stat. 1515][/us/stat/119/1515]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1104(c)(4), July 6, 2012, [126 Stat. 427][/us/stat/126/427]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(a)(13), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438].)
 
  __Amendments__ 
 
@@ -97,19 +97,19 @@
 
     2005—Subsec. (c). [Pub. L. 109–59][/us/pl/109/59] struck out “in conjunction with such trails, roads, highways, and parkways” before period at end.
 
-    1998—Subsec. (b). [Pub. L. 105–178, § 1202(a)(1)][/us/pl/105/178/s1202/a/1], inserted “pedestrian walkways and” after “construction of” and struck out “(other than the Interstate System)” after “on the National Highway System”.
+    1998—Subsec. (b). [Pub. L. 105–178][/us/pl/105/178], § 1202(a)(1), inserted “pedestrian walkways and” after “construction of” and struck out “(other than the Interstate System)” after “on the National Highway System”.
 
-    Subsec. (e). [Pub. L. 105–178, § 1202(a)(2)][/us/pl/105/178/s1202/a/2], struck out “, other than a highway access to which is fully controlled,” after “located on a highway”.
+    Subsec. (e). [Pub. L. 105–178][/us/pl/105/178], § 1202(a)(2), struck out “, other than a highway access to which is fully controlled,” after “located on a highway”.
 
-    Subsec. (g). [Pub. L. 105–178, § 1202(a)(3)][/us/pl/105/178/s1202/a/3], added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: “Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.”
+    Subsec. (g). [Pub. L. 105–178][/us/pl/105/178], § 1202(a)(3), added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: “Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.”
 
-    Subsec. (h). [Pub. L. 105–178, § 1202(a)(4)][/us/pl/105/178/s1202/a/4], substituted “Motorized vehicles may not” for “No motorized vehicles shall” in introductory provisions.
+    Subsec. (h). [Pub. L. 105–178][/us/pl/105/178], § 1202(a)(4), substituted “Motorized vehicles may not” for “No motorized vehicles shall” in introductory provisions.
 
-    Subsec. (h)(3). [Pub. L. 105–178, § 1202(a)(5)][/us/pl/105/178/s1202/a/5], substituted “motorized wheelchairs;” for “when State and local regulations permit, motorized wheelchairs; and”.
+    Subsec. (h)(3). [Pub. L. 105–178][/us/pl/105/178], § 1202(a)(5), substituted “motorized wheelchairs;” for “when State and local regulations permit, motorized wheelchairs; and”.
 
-    Subsec. (h)(4), (5). [Pub. L. 105–178, § 1202(a)(6)][/us/pl/105/178/s1202/a/6], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (h)(4), (5). [Pub. L. 105–178][/us/pl/105/178], § 1202(a)(6), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (j). [Pub. L. 105–178, § 1202(a)(7)][/us/pl/105/178/s1202/a/7], added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “For purposes of this section, a ‘bicycle transportation facility’ means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles.”
+    Subsec. (j). [Pub. L. 105–178][/us/pl/105/178], § 1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “For purposes of this section, a ‘bicycle transportation facility’ means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles.”
 
     1995—Subsec. (f). [Pub. L. 104–59][/us/pl/104/59] substituted “determined in accordance with section 120(b)” for “80 percent”.
 
@@ -151,7 +151,7 @@
 
  __Nonmotorized Transportation Pilot Program__ 
 
-[Pub. L. 109–59, title I, § 1807][/us/pl/109/59/s1807], Aug. 10, 2005, [119 Stat. 1460][/us/stat/119/1460], as amended by [Pub. L. 110–244, title I, § 106][/us/pl/110/244/s106], June 6, 2008, [122 Stat. 1602][/us/stat/122/1602], provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1807, Aug. 10, 2005, [119 Stat. 1460][/us/stat/119/1460], as amended by [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 106, June 6, 2008, [122 Stat. 1602][/us/stat/122/1602], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -197,7 +197,7 @@
 
  __Design Guidance__ 
 
-[Pub. L. 105–178, title I, § 1202(b)][/us/pl/105/178/s1202/b], June 9, 1998, [112 Stat. 169][/us/stat/112/169], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1202(b), June 9, 1998, [112 Stat. 169][/us/stat/112/169], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -217,15 +217,15 @@
 
  __Energy Conservation Bicycle Transportation Program; Report__ 
 
-    [Pub. L. 95–619, title VI, § 682][/us/pl/95/619/s682], Nov. 9, 1978, [92 Stat. 3287][/us/stat/92/3287], set forth findings respecting an energy conservation bicycle transportation program and required a study and report not more than one year after Nov. 9, 1978, by the Secretary of Transportation for bicycle use potential, etc.
+    [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 682, Nov. 9, 1978, [92 Stat. 3287][/us/stat/92/3287], set forth findings respecting an energy conservation bicycle transportation program and required a study and report not more than one year after Nov. 9, 1978, by the Secretary of Transportation for bicycle use potential, etc.
 
  __Bikeway Construction Projects__ 
 
-    [Pub. L. 95–599, title I, § 141(a)][/us/pl/95/599/s141/a]–(e), (i), Nov. 6, 1978, [92 Stat. 2711][/us/stat/92/2711], 2712, related to establishment by Secretary of design and construction standards for bikeway construction projects and to grants to States for bikeway construction projects, prior to repeal by [Pub. L. 100–17, title I, § 133(e)(2)][/us/pl/100/17/s133/e/2], Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173].
+    [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 141(a)–(e), (i), Nov. 6, 1978, [92 Stat. 2711][/us/stat/92/2711], 2712, related to establishment by Secretary of design and construction standards for bikeway construction projects and to grants to States for bikeway construction projects, prior to repeal by [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(e)(2), Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173].
 
  __Bikeway Demonstration Program__ 
 
-    [Pub. L. 93–643, § 119][/us/pl/93/643/s119], Jan. 4, 1975, [88 Stat. 2288][/us/stat/88/2288], authorized grants to States for demonstration projects for construction of bikeways, prior to repeal by [Pub. L. 100–17, title I, § 133(e)(2)][/us/pl/100/17/s133/e/2], Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173].
+    [Pub. L. 93–643][/us/pl/93/643], § 119, Jan. 4, 1975, [88 Stat. 2288][/us/stat/88/2288], authorized grants to States for demonstration projects for construction of bikeways, prior to repeal by [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(e)(2), Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173].
 
 ----------
 
@@ -235,40 +235,40 @@
 ----------
 
 [/us/usc/t23/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F1
-[/us/pl/93/87/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs124%2Fa
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F262
-[/us/pl/94/280/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs134
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F441
-[/us/pl/95/599/s141/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs141%2Fh
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2712
-[/us/pl/97/424/s126A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126A
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2116
-[/us/pl/100/17/s133/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fa%2F2
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F170
-[/us/pl/100/17/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs127
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F167
-[/us/pl/102/240/s1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1033
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1975
-[/us/pl/104/59/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs310%2Fb
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F582
-[/us/pl/105/178/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F168
-[/us/pl/109/59/s1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1954
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1515
-[/us/pl/112/141/s1104/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1104%2Fc%2F4
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
-[/us/pl/114/94/s1446/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F13
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/105/178/s1202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fa%2F1
-[/us/pl/105/178/s1202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fa%2F2
-[/us/pl/105/178/s1202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fa%2F3
-[/us/pl/105/178/s1202/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fa%2F4
-[/us/pl/105/178/s1202/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fa%2F5
-[/us/pl/105/178/s1202/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fa%2F6
-[/us/pl/105/178/s1202/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fa%2F7
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
@@ -292,22 +292,22 @@
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/109/59/s1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1807
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1460
-[/us/pl/110/244/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs106
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1602
-[/us/pl/105/178/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fb
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F169
 [/us/usc/t23/s217/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs217%2Fg
-[/us/pl/95/619/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs682
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3287
-[/us/pl/95/599/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs141%2Fa
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2711
-[/us/pl/100/17/s133/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fe%2F2
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F173
-[/us/pl/93/643/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs119
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2288
-[/us/pl/100/17/s133/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fe%2F2
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F173
 
 

@@ -21,7 +21,7 @@
 
     (c) The term “cost of relocation”, for the purposes of this section, shall include the entire amount paid by such utility properly attributable to such relocation after deducting therefrom any increase in the value of the new facility and any salvage value derived from the old facility.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 900][/us/stat/72/900]; [Pub. L. 100–17, title I, § 133(b)(8)][/us/pl/100/17/s133/b/8], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 112–141, div. A, title I, § 1104(c)(3)][/us/pl/112/141/s1104/c/3], July 6, 2012, [126 Stat. 427][/us/stat/126/427].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 900][/us/stat/72/900]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(b)(8), Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1104(c)(3), July 6, 2012, [126 Stat. 427][/us/stat/126/427].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Study of Procurement Practices and Project Delivery__ 
 
-[Pub. L. 105–178, title I, § 1213(e)][/us/pl/105/178/s1213/e], June 9, 1998, [112 Stat. 201][/us/stat/112/201], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1213(e), June 9, 1998, [112 Stat. 201][/us/stat/112/201], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -62,16 +62,16 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F900
-[/us/pl/100/17/s133/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F8
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F171
-[/us/pl/112/141/s1104/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1104%2Fc%2F3
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/105/178/s1213/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1213%2Fe
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F201
 
 

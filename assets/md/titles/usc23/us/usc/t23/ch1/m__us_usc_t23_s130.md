@@ -117,7 +117,7 @@
 
         On a periodic basis beginning not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008 and on or before September 30 of every year thereafter, or as otherwise specified by the Secretary, each State shall report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each public crossing located within its borders.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 903][/us/stat/72/903]; [Pub. L. 100–17, title I, § 121(a)][/us/pl/100/17/s121/a], Apr. 2, 1987, [101 Stat. 159][/us/stat/101/159]; [Pub. L. 104–59, title III, § 325(a)][/us/pl/104/59/s325/a], Nov. 28, 1995, [109 Stat. 591][/us/stat/109/591]; [Pub. L. 104–205, title III, § 353(b)][/us/pl/104/205/s353/b], Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 146][/us/stat/112/146], 170, 193; [Pub. L. 109–59, title I, § 1401(c)][/us/pl/109/59/s1401/c], formerly § 1401(d), Aug. 10, 2005, [119 Stat. 1226][/us/stat/119/1226], renumbered § 1401(c), [Pub. L. 110–244, title I, § 101(s)(1)][/us/pl/110/244/s101/s/1], June 6, 2008, [122 Stat. 1577][/us/stat/122/1577]; [Pub. L. 110–244, title I, § 101][/us/pl/110/244/s101](l), June 6, 2008, [122 Stat. 1575][/us/stat/122/1575]; [Pub. L. 110–432, div. A, title II, § 204(c)][/us/pl/110/432/s204/c], Oct. 16, 2008, [122 Stat. 4871][/us/stat/122/4871]; [Pub. L. 112–141, div. A, title I, § 1519(c)(5)][/us/pl/112/141/s1519/c/5], formerly § 1519(c)(6), July 6, 2012, [126 Stat. 575][/us/stat/126/575], renumbered § 1519(c)(5), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1108, 1412, Dec. 4, 2015, [129 Stat. 1338][/us/stat/129/1338], 1416.)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 903][/us/stat/72/903]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 121(a), Apr. 2, 1987, [101 Stat. 159][/us/stat/101/159]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 325(a), Nov. 28, 1995, [109 Stat. 591][/us/stat/109/591]; [Pub. L. 104–205, title III][/us/pl/104/205/tIII], § 353(b), Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], §§ 1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 146][/us/stat/112/146], 170, 193; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1401(c), formerly § 1401(d), Aug. 10, 2005, [119 Stat. 1226][/us/stat/119/1226], renumbered § 1401(c), [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 101(s)(1), June 6, 2008, [122 Stat. 1577][/us/stat/122/1577]; [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 101(l), June 6, 2008, [122 Stat. 1575][/us/stat/122/1575]; [Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 204(c), Oct. 16, 2008, [122 Stat. 4871][/us/stat/122/4871]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1519(c)(5), formerly § 1519(c)(6), July 6, 2012, [126 Stat. 575][/us/stat/126/575], renumbered § 1519(c)(5), [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d)(5)(B), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], §§ 1108, 1412, Dec. 4, 2015, [129 Stat. 1338][/us/stat/129/1338], 1416.)
 
  __References in Text__ 
 
@@ -127,33 +127,33 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–94, § 1412][/us/pl/114/94/s1412], substituted “the relocation of highways to eliminate grade crossings, and projects at grade crossings to eliminate hazards posed by blocked grade crossings due to idling trains” for “and the relocation of highways to eliminate grade crossings”.
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 1412, substituted “the relocation of highways to eliminate grade crossings, and projects at grade crossings to eliminate hazards posed by blocked grade crossings due to idling trains” for “and the relocation of highways to eliminate grade crossings”.
 
-    Subsec. (e)(1). [Pub. L. 114–94, § 1108][/us/pl/114/94/s1108], amended par. (1) generally. Prior to amendment, text read as follows: “Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least ½ of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under [section 104(b)(1) of this title][/us/usc/t23/s104/b/1].”
+    Subsec. (e)(1). [Pub. L. 114–94][/us/pl/114/94], § 1108, amended par. (1) generally. Prior to amendment, text read as follows: “Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least ½ of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under [section 104(b)(1) of this title][/us/usc/t23/s104/b/1].”
 
-    2012—Subsec. (e)(1). [Pub. L. 112–141, § 1519(c)(5)(A)][/us/pl/112/141/s1519/c/5/A], formerly § 1519(c)(6)(A), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], substituted “section 104(b)(3)” for “section 104(b)(5)”.
+    2012—Subsec. (e)(1). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(5)(A), formerly § 1519(c)(6)(A), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), substituted “section 104(b)(3)” for “section 104(b)(5)”.
 
-    Subsec. (f)(1). [Pub. L. 112–141, § 1519(c)(5)(B)][/us/pl/112/141/s1519/c/5/B], formerly § 1519(c)(6)(B), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], inserted “as in effect on the day before the date of enactment of the MAP–21” after “section 104(b)(3)(A)”.
+    Subsec. (f)(1). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(5)(B), formerly § 1519(c)(6)(B), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), inserted “as in effect on the day before the date of enactment of the MAP–21” after “section 104(b)(3)(A)”.
 
-    Subsec. (l)(3), (4). [Pub. L. 112–141, § 1519(c)(5)(C)][/us/pl/112/141/s1519/c/5/C], formerly § 1519(c)(6)(C), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], struck out pars. (3) and (4) which related to rulemaking authority and definitions.
+    Subsec. (l)(3), (4). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(5)(C), formerly § 1519(c)(6)(C), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), struck out pars. (3) and (4) which related to rulemaking authority and definitions.
 
-    2008—Subsec. (e)(2). [Pub. L. 110–244, § 101][/us/pl/110/244/s101](l), substituted “highway safety improvement program purposes” for “purposes under this subsection”.
+    2008—Subsec. (e)(2). [Pub. L. 110–244][/us/pl/110/244], § 101(l), substituted “highway safety improvement program purposes” for “purposes under this subsection”.
 
     Subsec. (l). [Pub. L. 110–432][/us/pl/110/432] added subsec. (l).
 
-    2005—Subsec. (e). [Pub. L. 109–59, § 1401(c)(1)][/us/pl/109/59/s1401/c/1], formerly § 1401(d)(1), as renumbered by [Pub. L. 110–244, § 101(s)(1)][/us/pl/110/244/s101/s/1], designated existing provisions as par. (1), inserted after par. designation “In general.—Before making an apportionment under section 104(b)(5) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings.”, and added par. (2).
+    2005—Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 1401(c)(1), formerly § 1401(d)(1), as renumbered by [Pub. L. 110–244][/us/pl/110/244], § 101(s)(1), designated existing provisions as par. (1), inserted after par. designation “In general.—Before making an apportionment under section 104(b)(5) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings.”, and added par. (2).
 
-    Subsec. (f). [Pub. L. 109–59, § 1401(c)(2)][/us/pl/109/59/s1401/c/2], formerly § 1401(d)(2), as renumbered by [Pub. L. 110–244, § 101(s)(1)][/us/pl/110/244/s101/s/1], reenacted heading without change and amended text of subsec. (f) generally. Prior to amendment, text read as follows: “Twenty-five percent of the funds authorized to be appropriated to carry out this section shall be apportioned to the States in the same manner as sums are apportioned under [section 104(b)(2) of this title][/us/usc/t23/s104/b/2], 25 percent of such funds shall be apportioned to the States in the same manner as sums are apportioned under [section 104(b)(6) of this title][/us/usc/t23/s104/b/6], and 50 percent of such funds shall be apportioned to the States in the ratio that total railway-highway crossings in each State bears to the total of such crossings in all States. The Federal share payable on account of any project financed with funds authorized to be appropriated to carry out this section shall be 90 percent of the cost thereof.”
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 1401(c)(2), formerly § 1401(d)(2), as renumbered by [Pub. L. 110–244][/us/pl/110/244], § 101(s)(1), reenacted heading without change and amended text of subsec. (f) generally. Prior to amendment, text read as follows: “Twenty-five percent of the funds authorized to be appropriated to carry out this section shall be apportioned to the States in the same manner as sums are apportioned under [section 104(b)(2) of this title][/us/usc/t23/s104/b/2], 25 percent of such funds shall be apportioned to the States in the same manner as sums are apportioned under [section 104(b)(6) of this title][/us/usc/t23/s104/b/6], and 50 percent of such funds shall be apportioned to the States in the ratio that total railway-highway crossings in each State bears to the total of such crossings in all States. The Federal share payable on account of any project financed with funds authorized to be appropriated to carry out this section shall be 90 percent of the cost thereof.”
 
-    Subsec. (g). [Pub. L. 109–59, § 1401(c)(3)][/us/pl/109/59/s1401/c/3], formerly § 1401(d)(3), as renumbered by [Pub. L. 110–244, § 101(s)(1)][/us/pl/110/244/s101/s/1], in third sentence inserted “and the Committee on Commerce, Science, and Transportation,” after “Public Works” and substituted “, not later than April 1, 2006, and every 2 years thereafter,” for “not later than April 1 of each year”.
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 1401(c)(3), formerly § 1401(d)(3), as renumbered by [Pub. L. 110–244][/us/pl/110/244], § 101(s)(1), in third sentence inserted “and the Committee on Commerce, Science, and Transportation,” after “Public Works” and substituted “, not later than April 1, 2006, and every 2 years thereafter,” for “not later than April 1 of each year”.
 
-    Subsec. (k). [Pub. L. 109–59, § 1401(c)(4)][/us/pl/109/59/s1401/c/4], formerly § 1401(d)(4), as renumbered by [Pub. L. 110–244, § 101(s)(1)][/us/pl/110/244/s101/s/1], added subsec. (k).
+    Subsec. (k). [Pub. L. 109–59][/us/pl/109/59], § 1401(c)(4), formerly § 1401(d)(4), as renumbered by [Pub. L. 110–244][/us/pl/110/244], § 101(s)(1), added subsec. (k).
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 1111(d)][/us/pl/105/178/s1111/d], substituted “Subject to section 120” for “Except as provided in subsection (d) of [section 120 of this title][/us/usc/t23/s120]” in first sentence and “subject to section 120” for “except as provided in subsection (d) of [section 120 of this title][/us/usc/t23/s120]” in second sentence.
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 1111(d), substituted “Subject to section 120” for “Except as provided in subsection (d) of [section 120 of this title][/us/usc/t23/s120]” in first sentence and “subject to section 120” for “except as provided in subsection (d) of [section 120 of this title][/us/usc/t23/s120]” in second sentence.
 
-    Subsec. (c). [Pub. L. 105–178, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], substituted “State transportation department” for “State highway department”.
+    Subsec. (c). [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-    Subsec. (j). [Pub. L. 105–178, § 1202(d)][/us/pl/105/178/s1202/d], added subsec. (j).
+    Subsec. (j). [Pub. L. 105–178][/us/pl/105/178], § 1202(d), added subsec. (j).
 
     1996—Subsec. (i). [Pub. L. 104–205][/us/pl/104/205] added subsec. (i).
 
@@ -165,7 +165,7 @@
 
     Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
-    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+    [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -173,13 +173,13 @@
 
  __Federal Share of Costs for Construction To Eliminate Hazards__ 
 
-[Pub. L. 106–246, div. B, title II, § 2604][/us/pl/106/246/s2604], July 13, 2000, [114 Stat. 559][/us/stat/114/559], provided that: 
+[Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], § 2604, July 13, 2000, [114 Stat. 559][/us/stat/114/559], provided that: 
 
 > “Notwithstanding any other provision of law, hereafter, funds apportioned under \[former\] [section 104(b)(3) of title 23][/us/usc/t23/s104/b/3] which are applied to projects involving the elimination of hazards of railway-highway crossings, including the separation or protection of grades at crossings, the reconstruction of existing railroad grade crossing structures, and the relocation of highways to eliminate grade crossings, may have a Federal share up to 100 percent of the cost of construction.”
 
  __Federal-State Cooperation__ 
 
-[Pub. L. 104–59, title III, § 351(b)][/us/pl/104/59/s351/b], (c), Nov. 28, 1995, [109 Stat. 622][/us/stat/109/622], 623, provided that:
+[Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 351(b), (c), Nov. 28, 1995, [109 Stat. 622][/us/stat/109/622], 623, provided that:
 
 >     “(b) __Safety Enforcement.—__ 
 
@@ -221,31 +221,31 @@
 
  __Vehicle Proximity Alert System__ 
 
-[Pub. L. 102–240, title I, § 1072][/us/pl/102/240/s1072], Dec. 18, 1991, [105 Stat. 2012][/us/stat/105/2012], provided that: 
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1072, Dec. 18, 1991, [105 Stat. 2012][/us/stat/105/2012], provided that: 
 
 > “The Secretary shall coordinate the field testing of the vehicle proximity alert system and comparable systems to determine their feasibility for use by priority vehicles as an effective railroad-highway grade crossing safety device. In the event the vehicle proximity alert or a comparable system proves to be technologically and economically feasible, the Secretary shall develop and implement appropriate programs under [section 130 of title 23][/us/usc/t23/s130], United States Code, to provide for installation of such devices where appropriate.”
 
  __Railway-Highway Crossing Hazards; National Highway Information Program Funding__ 
 
-[Pub. L. 100–457, title III, § 324][/us/pl/100/457/s324], Sept. 30, 1988, [102 Stat. 2150][/us/stat/102/2150], provided that: 
+[Pub. L. 100–457, title III][/us/pl/100/457/tIII], § 324, Sept. 30, 1988, [102 Stat. 2150][/us/stat/102/2150], provided that: 
 
 > “Notwithstanding any other provision of law, the Secretary shall make available $250,000 per year for a national public information program to educate the public of the inherent hazard at railway-highway crossings. Such funds shall be made available out of funds authorized to be appropriated out of the Highway Trust Fund, pursuant to [section 130 of title 23][/us/usc/t23/s130], United States Code.”
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 339\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–386.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(l) \[title III, § 339\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–386.
 
  __Railroad-Highway Crossings Study and Report__ 
 
-    [Pub. L. 100–17, title I, § 159][/us/pl/100/17/s159], Apr. 2, 1987, [101 Stat. 211][/us/stat/101/211], directed Secretary of Transportation to conduct a study of national highway-railroad crossing improvement and maintenance needs, with Secretary to consult with State highway administrations, the Association of American Railroads, highway safety groups, and any other appropriate entities in carrying out this study, and directed Secretary, not later than 24 months after Apr. 2, 1987, to submit a final report to Congress on results of the study along with recommendations of how crossing needs can be addressed in a cost effective manner.
+    [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 159, Apr. 2, 1987, [101 Stat. 211][/us/stat/101/211], directed Secretary of Transportation to conduct a study of national highway-railroad crossing improvement and maintenance needs, with Secretary to consult with State highway administrations, the Association of American Railroads, highway safety groups, and any other appropriate entities in carrying out this study, and directed Secretary, not later than 24 months after Apr. 2, 1987, to submit a final report to Congress on results of the study along with recommendations of how crossing needs can be addressed in a cost effective manner.
 
  __Study and Investigation of Alleviation of Environmental, Social, etc., Impacts of Increased Unit Train Traffic__ 
 
-    [Pub. L. 95–599, title I, § 162][/us/pl/95/599/s162], Nov. 6, 1978, [92 Stat. 2720][/us/stat/92/2720], authorized Secretary of Transportation, in cooperation with State highway departments and appropriate officials of local government, to undertake a comprehensive investigation and study of techniques for alleviating the environmental, social, economic, and developmental impacts of increased unit train traffic to meet national energy requirements in communities located along rail corridors experiencing such increased traffic and directed Secretary to report to Congress on results of such investigation and study not later than Mar. 31, 1979.
+    [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 162, Nov. 6, 1978, [92 Stat. 2720][/us/stat/92/2720], authorized Secretary of Transportation, in cooperation with State highway departments and appropriate officials of local government, to undertake a comprehensive investigation and study of techniques for alleviating the environmental, social, economic, and developmental impacts of increased unit train traffic to meet national energy requirements in communities located along rail corridors experiencing such increased traffic and directed Secretary to report to Congress on results of such investigation and study not later than Mar. 31, 1979.
 
  __Demonstration Project, Railroad-Highway Crossings; Reports to President and Congress; Appropriations Authorization; Highway Safety Study, Report to Congress__ 
 
-[Pub. L. 93–87, title I, § 163][/us/pl/93/87/s163], Aug. 13, 1973, [87 Stat. 280][/us/stat/87/280], as amended by [Pub. L. 93–643, § 104][/us/pl/93/643/s104], Jan. 4, 1975, [88 Stat. 2282][/us/stat/88/2282]; [Pub. L. 94–280, title I, § 140(a)][/us/pl/94/280/s140/a]–(e), May 5, 1976, [90 Stat. 444][/us/stat/90/444]; [Pub. L. 95–599, title I, § 134(a)][/us/pl/95/599/s134/a]–(c), Nov. 6, 1978, [92 Stat. 2709][/us/stat/92/2709]; [Pub. L. 96–470, title II, § 209(b)][/us/pl/96/470/s209/b], Oct. 19, 1980, [94 Stat. 2245][/us/stat/94/2245]; [Pub. L. 97–424, title I, § 151][/us/pl/97/424/s151], Jan. 6, 1983, [96 Stat. 2132][/us/stat/96/2132]; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 133(c)(3), 148, Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172], 181; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 346\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 102–240, title I, § 1037][/us/pl/102/240/s1037], Dec. 18, 1991, [105 Stat. 1987][/us/stat/105/1987]; [Pub. L. 104–66, title I, § 1121(e)][/us/pl/104/66/s1121/e], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724], provided that:
+[Pub. L. 93–87, title I][/us/pl/93/87/tI], § 163, Aug. 13, 1973, [87 Stat. 280][/us/stat/87/280], as amended by [Pub. L. 93–643][/us/pl/93/643], § 104, Jan. 4, 1975, [88 Stat. 2282][/us/stat/88/2282]; [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 140(a)–(e), May 5, 1976, [90 Stat. 444][/us/stat/90/444]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 134(a)–(c), Nov. 6, 1978, [92 Stat. 2709][/us/stat/92/2709]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 209(b), Oct. 19, 1980, [94 Stat. 2245][/us/stat/94/2245]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 151, Jan. 6, 1983, [96 Stat. 2132][/us/stat/96/2132]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], §§ 133(c)(3), 148, Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172], 181; [Pub. L. 100–202][/us/pl/100/202], § 101(l) \[title III, § 346\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1037, Dec. 18, 1991, [105 Stat. 1987][/us/stat/105/1987]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(e), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724], provided that:
 
 >     “(a)
 
@@ -279,7 +279,7 @@
 
 >     “(n) The Federal share payable on account of such projects shall be the Federal share provided in [section 120(a) of title 23][/us/usc/t23/s120/a], United States Code. \[sic\] except those railroad-highway crossings segments which are already engaged in or have completed the preparation of the plans, specifications and estimates (PS&E) for the construction of the segment involved shall retain the Federal share as specified in subsection \[sic\] 163(n) \[this subsection\] as amended by section 134 of the Surface Transportation Assistance Act of 1978 \[[section 134 of Pub. L. 95–599][/us/pl/95/599/s134], title I, Nov. 6, 1978, [92 Stat. 2709][/us/stat/92/2709]\].
 
->     “\[(o) Repealed. [Pub. L. 104–66, title I, § 1121(e)][/us/pl/104/66/s1121/e], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].\]
+>     “\[(o) Repealed. [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(e), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].\]
 
 >     “(p) There is authorized to be appropriated to carry out this section (other than subsection (l)), not to exceed $15,000,000 for the fiscal year ending June 30, 1974, $25,000,000 for the fiscal year ending June 30, 1975, and $50,000,000 for the fiscal year ending June 30, 1976, $6,250,000, for the period beginning July 1, 1976, and ending September 30, 1976, $26,400,000 for the fiscal year ending September 30, 1977, and $51,400,000 for the fiscal year ending September 30, 1978, $70,000,000 for the fiscal year ending September 30, 1979, and $90,000,000 for the fiscal year ending September 30, 1980, $100,000,000 for the fiscal year ending September 30, 1981, and $100,000,000 for the fiscal year ending September 30, 1982, and $50,000,000 for the fiscal year ending September 30, 1983, and $50,000,000 for the fiscal year ending September 30, 1984, and $50,000,000 for the fiscal year ending September 30, 1985, and $50,000,000 for the fiscal year ending September 30, 1986, and $15,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, except that not more than two-thirds of all funds authorized and expended under authority of this section in any fiscal year shall be appropriated out of the Highway Trust fund. Notwithstanding any other provision of this section, any project which is not under construction, according to the Secretary of Transportation, by September 30, 1985, shall not be eligible for additional funds under this authorization.
 
@@ -287,15 +287,15 @@
 
  __Demonstration Project, Railroad-Highway Crossings; Inclusion of Projects at Terre Haute, Indiana__ 
 
-[Pub. L. 94–387, title I, § 101][/us/pl/94/387/s101], Aug. 14, 1976, [90 Stat. 1176][/us/stat/90/1176], provided in part: 
+[Pub. L. 94–387, title I][/us/pl/94/387/tI], § 101, Aug. 14, 1976, [90 Stat. 1176][/us/stat/90/1176], provided in part: 
 
 > “That [section 163 of Public Law 93–87][/us/pl/93/87/s163] \[set out as a note above\] is hereby amended to include projects at Terre Haute, Indiana.”
 
  __Railroad-Highway Crossings__ 
 
-    [Pub. L. 93–87, title II, § 203][/us/pl/93/87/s203], Aug. 13, 1973, [87 Stat. 283][/us/stat/87/283], as amended by [Pub. L. 94–280, title II, § 203][/us/pl/94/280/s203], May 5, 1976, [90 Stat. 452][/us/stat/90/452]; [Pub. L. 95–599, title II, § 203][/us/pl/95/599/s203], Nov. 6, 1978, [92 Stat. 2728][/us/stat/92/2728]; [Pub. L. 96–470, title II, § 209(d)][/us/pl/96/470/s209/d], Oct. 19, 1980, [94 Stat. 2245][/us/stat/94/2245]; [Pub. L. 97–327, § 5(b)][/us/pl/97/327/s5/b], Oct. 15, 1982, [96 Stat. 1612][/us/stat/96/1612]; [Pub. L. 97–424, title II, § 205][/us/pl/97/424/s205], Jan. 6, 1983, [96 Stat. 2139][/us/stat/96/2139], which directed each State to conduct a survey of all highways to identify those railway crossings requiring separation, relocation, or protective devices and to establish and implement a schedule of projects for such purpose, which at a minimum was to provide for signs at all crossings, authorized appropriations for elimination of hazards of railway-highway crossings, provided for State apportionments and for the Federal share of the costs of projects, required each State to annually report to the Secretary of Transportation and the Secretary of Transportation to annually report to Congress on progress in implementing railroad-highway crossings program, and authorized use of matching funds with local governments for improvement of railroad crossings, was repealed by [Pub. L. 100–17, title I, § 121(b)][/us/pl/100/17/s121/b], Apr. 2, 1987, [101 Stat. 160][/us/stat/101/160].
+    [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 203, Aug. 13, 1973, [87 Stat. 283][/us/stat/87/283], as amended by [Pub. L. 94–280, title II][/us/pl/94/280/tII], § 203, May 5, 1976, [90 Stat. 452][/us/stat/90/452]; [Pub. L. 95–599, title II][/us/pl/95/599/tII], § 203, Nov. 6, 1978, [92 Stat. 2728][/us/stat/92/2728]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 209(d), Oct. 19, 1980, [94 Stat. 2245][/us/stat/94/2245]; [Pub. L. 97–327][/us/pl/97/327], § 5(b), Oct. 15, 1982, [96 Stat. 1612][/us/stat/96/1612]; [Pub. L. 97–424, title II][/us/pl/97/424/tII], § 205, Jan. 6, 1983, [96 Stat. 2139][/us/stat/96/2139], which directed each State to conduct a survey of all highways to identify those railway crossings requiring separation, relocation, or protective devices and to establish and implement a schedule of projects for such purpose, which at a minimum was to provide for signs at all crossings, authorized appropriations for elimination of hazards of railway-highway crossings, provided for State apportionments and for the Federal share of the costs of projects, required each State to annually report to the Secretary of Transportation and the Secretary of Transportation to annually report to Congress on progress in implementing railroad-highway crossings program, and authorized use of matching funds with local governments for improvement of railroad crossings, was repealed by [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 121(b), Apr. 2, 1987, [101 Stat. 160][/us/stat/101/160].
 
-Highway authorizations provisions of section 104(a)(1) and (2) of [Pub. L. 93–87, title I][/us/pl/93/87], Aug. 13, 1973, [87 Stat. 251][/us/stat/87/251], referred to in [section 203(d) of Pub. L. 93–87][/us/pl/93/87/s203/d] provided that:
+Highway authorizations provisions of section 104(a)(1) and (2) of [Pub. L. 93–87, title I][/us/pl/93/87/tI], Aug. 13, 1973, [87 Stat. 251][/us/stat/87/251], referred to in [section 203(d) of Pub. L. 93–87][/us/pl/93/87/s203/d] provided that:
 
 >     “(a)
 
@@ -316,132 +316,132 @@ Highway authorizations provisions of section 104(a)(1) and (2) of [Pub. L. 93–
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F903
-[/us/pl/100/17/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs121%2Fa
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F159
-[/us/pl/104/59/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs325%2Fa
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F591
-[/us/pl/104/205/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2Fs353%2Fb
+[/us/pl/104/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2FtIII
 [/us/stat/110/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2980
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F146
-[/us/pl/109/59/s1401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1401%2Fc
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1226
-[/us/pl/110/244/s101/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fs%2F1
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1577
-[/us/pl/110/244/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1575
-[/us/pl/110/432/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs204%2Fc
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4871
-[/us/pl/112/141/s1519/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
-[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1338
 [/us/usc/t23/s104/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F3%2FA
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/114/94/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1412
-[/us/pl/114/94/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1108
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t23/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F1
-[/us/pl/112/141/s1519/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5%2FA
-[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
-[/us/pl/112/141/s1519/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5%2FB
-[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
-[/us/pl/112/141/s1519/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5%2FC
-[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
-[/us/pl/110/244/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/109/59/s1401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1401%2Fc%2F1
-[/us/pl/110/244/s101/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fs%2F1
-[/us/pl/109/59/s1401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1401%2Fc%2F2
-[/us/pl/110/244/s101/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fs%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/usc/t23/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F2
 [/us/usc/t23/s104/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F6
-[/us/pl/109/59/s1401/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1401%2Fc%2F3
-[/us/pl/110/244/s101/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fs%2F1
-[/us/pl/109/59/s1401/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1401%2Fc%2F4
-[/us/pl/110/244/s101/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fs%2F1
-[/us/pl/105/178/s1111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1111%2Fd
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
-[/us/pl/105/178/s1202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fd
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/106/246/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2604
+[/us/pl/106/246/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2FdB%2FtII
 [/us/stat/114/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F559
 [/us/usc/t23/s104/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F3
-[/us/pl/104/59/s351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs351%2Fb
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F622
-[/us/pl/102/240/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1072
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2012
 [/us/usc/t23/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs130
-[/us/pl/100/457/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F457%2Fs324
+[/us/pl/100/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F457%2FtIII
 [/us/stat/102/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2150
 [/us/usc/t23/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs130
-[/us/pl/100/202/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-358
-[/us/pl/100/17/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs159
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F211
-[/us/pl/95/599/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs162
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2720
-[/us/pl/93/87/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs163
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F280
-[/us/pl/93/643/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs104
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2282
-[/us/pl/94/280/s140/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs140%2Fa
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F444
-[/us/pl/95/599/s134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs134%2Fa
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2709
-[/us/pl/96/470/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs209%2Fb
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2245
-[/us/pl/97/424/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs151
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2132
-[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F172
-[/us/pl/100/202/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-358
-[/us/pl/102/240/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1037
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1987
-[/us/pl/104/66/s1121/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1121%2Fe
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
 [/us/usc/t23/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120%2Fa
 [/us/pl/95/599/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs134
 [/us/stat/92/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2709
-[/us/pl/104/66/s1121/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1121%2Fe
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
 [/us/usc/t23/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs307
-[/us/pl/94/387/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F387%2Fs101
+[/us/pl/94/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F387%2FtI
 [/us/stat/90/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1176
 [/us/pl/93/87/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs163
-[/us/pl/93/87/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs203
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F283
-[/us/pl/94/280/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs203
+[/us/pl/94/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtII
 [/us/stat/90/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F452
-[/us/pl/95/599/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs203
+[/us/pl/95/599/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtII
 [/us/stat/92/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2728
-[/us/pl/96/470/s209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs209%2Fd
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2245
-[/us/pl/97/327/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F327%2Fs5%2Fb
+[/us/pl/97/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F327
 [/us/stat/96/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1612
-[/us/pl/97/424/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs205
+[/us/pl/97/424/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtII
 [/us/stat/96/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2139
-[/us/pl/100/17/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs121%2Fb
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F160
-[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F251
 [/us/pl/93/87/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs203%2Fd
 

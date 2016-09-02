@@ -185,7 +185,7 @@
 
         The funds described in paragraph (1) shall be credited back to the loaning entity with funds that are currently available for obligation at the time of the credit.
 
-(Added [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473]; amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1117(a), 1120, Dec. 4, 2015, [129 Stat. 1356][/us/stat/129/1356], 1358.)
+(Added [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 473][/us/stat/126/473]; amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], §§ 1117(a), 1120, Dec. 4, 2015, [129 Stat. 1356][/us/stat/129/1356], 1358.)
 
  __References in Text__ 
 
@@ -195,15 +195,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 201, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 906][/us/stat/72/906]; [Pub. L. 97–424, title I, § 126(f)][/us/pl/97/424/s126/f], Jan. 6, 1983, [96 Stat. 2116][/us/stat/96/2116]; [Pub. L. 105–178, title I, § 1115(e)(1)][/us/pl/105/178/s1115/e/1], June 9, 1998, [112 Stat. 158][/us/stat/112/158], related to authorizations, prior to repeal by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473].
+    A prior section 201, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 906][/us/stat/72/906]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 126(f), Jan. 6, 1983, [96 Stat. 2116][/us/stat/96/2116]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1115(e)(1), June 9, 1998, [112 Stat. 158][/us/stat/112/158], related to authorizations, prior to repeal by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 473][/us/stat/126/473].
 
  __Amendments__ 
 
-    2015—Subsec. (c)(6)(A). [Pub. L. 114–94, § 1120(1)][/us/pl/114/94/s1120/1], inserted cl. (i) designation and heading, substituted period for “in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.), including—”, added cl. (ii) and introductory provisions of cl. (iii), redesignated former cls. (i) and (ii). as subcls. (I) and (II) of cl. (iii), respectively, and realigned margins.
+    2015—Subsec. (c)(6)(A). [Pub. L. 114–94][/us/pl/114/94], § 1120(1), inserted cl. (i) designation and heading, substituted period for “in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.), including—”, added cl. (ii) and introductory provisions of cl. (iii), redesignated former cls. (i) and (ii). as subcls. (I) and (II) of cl. (iii), respectively, and realigned margins.
 
-    Subsec. (c)(6)(C). [Pub. L. 114–94, § 1117(a)][/us/pl/114/94/s1117/a], added subpar. (C).
+    Subsec. (c)(6)(C). [Pub. L. 114–94][/us/pl/114/94], § 1117(a), added subpar. (C).
 
-    Subsec. (c)(7), (8). [Pub. L. 114–94, § 1120(2)][/us/pl/114/94/s1120/2], added pars. (7) and (8) and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: “To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscal year of the funds authorized for programs under sections 203 and 204.”
+    Subsec. (c)(7), (8). [Pub. L. 114–94][/us/pl/114/94], § 1120(2), added pars. (7) and (8) and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: “To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscal year of the funds authorized for programs under sections 203 and 204.”
 
  __Effective Date of 2015 Amendment__ 
 
@@ -215,7 +215,7 @@
 
  __Nationally Significant Federal Lands and Tribal Projects Program__ 
 
-[Pub. L. 114–94, div. A, title I, § 1123][/us/pl/114/94/s1123], Dec. 4, 2015, [129 Stat. 1370][/us/stat/129/1370], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1123, Dec. 4, 2015, [129 Stat. 1370][/us/stat/129/1370], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -307,9 +307,9 @@
 ----------
 
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1356
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
@@ -317,22 +317,22 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F906
-[/us/pl/97/424/s126/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126%2Ff
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2116
-[/us/pl/105/178/s1115/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1115%2Fe%2F1
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F158
-[/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
-[/us/pl/114/94/s1120/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1120%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/114/94/s1117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1117%2Fa
-[/us/pl/114/94/s1120/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1120%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1123
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1370
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

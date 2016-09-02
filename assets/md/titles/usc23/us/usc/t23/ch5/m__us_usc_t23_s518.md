@@ -39,7 +39,7 @@
 
     The Secretary shall enter into agreements with the National Research Council and an independent third party with subject matter expertise for the review of the report described in subsection (a).
 
-(Added [Pub. L. 112–141, div. E, title III, § 53006(a)][/us/pl/112/141/s53006/a], July 6, 2012, [126 Stat. 904][/us/stat/126/904]; amended [Pub. L. 114–94, div. A, title VI, § 6009][/us/pl/114/94/s6009], Dec. 4, 2015, [129 Stat. 1567][/us/stat/129/1567].)
+(Added [Pub. L. 112–141, div. E, title III][/us/pl/112/141/dE/tIII], § 53006(a), July 6, 2012, [126 Stat. 904][/us/stat/126/904]; amended [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6009, Dec. 4, 2015, [129 Stat. 1567][/us/stat/129/1567].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/112/141/s53006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs53006%2Fa
+[/us/pl/112/141/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtIII
 [/us/stat/126/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F904
-[/us/pl/114/94/s6009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6009
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1567
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

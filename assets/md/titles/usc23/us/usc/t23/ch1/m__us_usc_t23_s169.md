@@ -77,7 +77,7 @@
 
     Nothing in this section limits the use of programmatic approaches to reviews under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
-(Added [Pub. L. 112–141, div. A, title I, § 1311(a)][/us/pl/112/141/s1311/a], July 6, 2012, [126 Stat. 543][/us/stat/126/543]; amended [Pub. L. 114–94, div. A, title I, § 1306][/us/pl/114/94/s1306], Dec. 4, 2015, [129 Stat. 1389][/us/stat/129/1389].)
+(Added [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1311(a), July 6, 2012, [126 Stat. 543][/us/stat/126/543]; amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1306, Dec. 4, 2015, [129 Stat. 1389][/us/stat/129/1389].)
 
  __References in Text__ 
 
@@ -104,9 +104,9 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/112/141/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1311%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F543
-[/us/pl/114/94/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1306
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1389
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

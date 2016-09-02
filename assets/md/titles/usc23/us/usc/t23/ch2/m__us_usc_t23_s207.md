@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s206.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s210.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs207)
+[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s206.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s208 _us_usc_t23_s209.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs207)
 
 ## § 207. Tribal transportation self-governance program
 
@@ -453,7 +453,7 @@
 
         Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Department, except regulations promulgated under this section.
 
-(Added [Pub. L. 114–94, div. A, title I, § 1121(a)][/us/pl/114/94/s1121/a], Dec. 4, 2015, [129 Stat. 1359][/us/stat/129/1359].)
+(Added [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1121(a), Dec. 4, 2015, [129 Stat. 1359][/us/stat/129/1359].)
 
  __References in Text__ 
 
@@ -467,21 +467,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 207, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 908][/us/stat/72/908]; [Pub. L. 93–87, title I, § 150][/us/pl/93/87/s150], Aug. 13, 1973, [87 Stat. 275][/us/stat/87/275], provided for use of funds for construction and improvement of parkways, including acquisition of rights-of-way and related scenic easements, administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, and that parkway projects on a Federal-aid system be subject to all requirements of this title and of any other law applicable to highways on such system, prior to repeal by [Pub. L. 97–424, title I, § 126(d)][/us/pl/97/424/s126/d], Jan. 6, 1983, [96 Stat. 2115][/us/stat/96/2115].
+    A prior section 207, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 908][/us/stat/72/908]; [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 150, Aug. 13, 1973, [87 Stat. 275][/us/stat/87/275], provided for use of funds for construction and improvement of parkways, including acquisition of rights-of-way and related scenic easements, administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, and that parkway projects on a Federal-aid system be subject to all requirements of this title and of any other law applicable to highways on such system, prior to repeal by [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 126(d), Jan. 6, 1983, [96 Stat. 2115][/us/stat/96/2115].
 
  __Effective Date__ 
 
     Section effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
-\[§§ 208, 209. __Repealed.__  __[__  __Pub. L. 97–424, title I, § 126(d)__  __][/us/pl/97/424/s126/d]__  __,__  __Jan. 6, 1983__  __,__  __[__  __96 Stat. 2115__  __][/us/stat/96/2115]__  __\]__ 
-
-    Section 208, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 908][/us/stat/72/908]; [Pub. L. 87–282][/us/pl/87/282], Sept. 22, 1961, [75 Stat. 584][/us/stat/75/584]; [Pub. L. 93–643, § 102(c)][/us/pl/93/643/s102/c], Jan. 4, 1975, [88 Stat. 2281][/us/stat/88/2281], provided for use of funds for construction and improvement of Indian reservation roads and bridges, supervision of such projects by the Secretary, that such funds be only supplementary to funds apportioned under [section 104 of this title][/us/usc/t23/s104], for use of Indian labor in such projects, and for cooperation with States and localities.
-
-    Section 209, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 908][/us/stat/72/908]; [Pub. L. 88–423, § 4(b)][/us/pl/88/423/s4/b], Aug. 13, 1964, [78 Stat. 397][/us/stat/78/397], provided for use of funds for construction and maintenance of public lands highways, cooperation with State agencies, the application of [section 112 of this title][/us/usc/t23/s112] to public lands highways, and for use of such funds for adjacent ancillary facilities and services.
-
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s206.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s210.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs207)
+[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s206.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s208 _us_usc_t23_s209.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs207)
 
 ----------
 ----------
@@ -500,7 +494,7 @@
 [/us/usc/t25/s458aaa–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%9317
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t5/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs565
-[/us/pl/114/94/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1121%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1359
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -512,25 +506,11 @@
 [/us/usc/t25/s458aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F908
-[/us/pl/93/87/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs150
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F275
-[/us/pl/97/424/s126/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126%2Fd
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2115
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/97/424/s126/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126%2Fd
-[/us/stat/96/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2115
-[/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
-[/us/stat/72/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F908
-[/us/pl/87/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F282
-[/us/stat/75/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F584
-[/us/pl/93/643/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs102%2Fc
-[/us/stat/88/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2281
-[/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
-[/us/stat/72/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F908
-[/us/pl/88/423/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423%2Fs4%2Fb
-[/us/stat/78/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F397
-[/us/usc/t23/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs112
 
 

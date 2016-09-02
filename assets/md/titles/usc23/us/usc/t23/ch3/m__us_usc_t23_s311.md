@@ -21,7 +21,7 @@
 
  __National Defense Highways Located Outside United States__ 
 
-[Pub. L. 102–240, title I, § 1006(h)][/us/pl/102/240/s1006/h], Dec. 18, 1991, [105 Stat. 1927][/us/stat/105/1927], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1006(h), Dec. 18, 1991, [105 Stat. 1927][/us/stat/105/1927], provided that:
 
 >     “(1)  __Reconstruction projects__  __.—__ 
 
@@ -42,7 +42,7 @@
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F915
-[/us/pl/102/240/s1006/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1006%2Fh
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1927
 
 

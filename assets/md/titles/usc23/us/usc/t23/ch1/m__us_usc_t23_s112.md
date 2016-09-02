@@ -199,7 +199,7 @@
 
         In this subsection, the term “positive protective measures” means temporary traffic barriers, crash cushions, and other strategies to avoid traffic accidents in work zones, including full road closures.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 895][/us/stat/72/895]; [Pub. L. 90–495, § 22(c)][/us/pl/90/495/s22/c], Aug. 23, 1968, [82 Stat. 827][/us/stat/82/827]; [Pub. L. 96–470, title I, § 112(b)(1)][/us/pl/96/470/s112/b/1], Oct. 19, 1980, [94 Stat. 2239][/us/stat/94/2239]; [Pub. L. 97–424, title I, § 112][/us/pl/97/424/s112], Jan. 6, 1983, [96 Stat. 2106][/us/stat/96/2106]; [Pub. L. 100–17, title I, § 111][/us/pl/100/17/s111], Apr. 2, 1987, [101 Stat. 147][/us/stat/101/147]; [Pub. L. 104–59, title III, § 307(a)][/us/pl/104/59/s307/a], Nov. 28, 1995, [109 Stat. 581][/us/stat/109/581]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, [112 Stat. 184][/us/stat/112/184], 193, 229, 230; [Pub. L. 107–217, § 3(e)(1)][/us/pl/107/217/s3/e/1], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1110(b), 1503, Aug. 10, 2005, [119 Stat. 1170][/us/stat/119/1170], 1238; [Pub. L. 109–115, div. A, title I, § 174][/us/pl/109/115/s174], Nov. 30, 2005, [119 Stat. 2426][/us/stat/119/2426]; [Pub. L. 112–141, div. A, title I, § 1303(a)][/us/pl/112/141/s1303/a], July 6, 2012, [126 Stat. 531][/us/stat/126/531].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 895][/us/stat/72/895]; [Pub. L. 90–495][/us/pl/90/495], § 22(c), Aug. 23, 1968, [82 Stat. 827][/us/stat/82/827]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 112(b)(1), Oct. 19, 1980, [94 Stat. 2239][/us/stat/94/2239]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 112, Jan. 6, 1983, [96 Stat. 2106][/us/stat/96/2106]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 111, Apr. 2, 1987, [101 Stat. 147][/us/stat/101/147]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 307(a), Nov. 28, 1995, [109 Stat. 581][/us/stat/109/581]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], §§ 1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, [112 Stat. 184][/us/stat/112/184], 193, 229, 230; [Pub. L. 107–217][/us/pl/107/217], § 3(e)(1), Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299]; [Pub. L. 109–59, title I][/us/pl/109/59/tI], §§ 1110(b), 1503, Aug. 10, 2005, [119 Stat. 1170][/us/stat/119/1170], 1238; [Pub. L. 109–115, div. A, title I][/us/pl/109/115/dA/tI], § 174, Nov. 30, 2005, [119 Stat. 2426][/us/stat/119/2426]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1303(a), July 6, 2012, [126 Stat. 531][/us/stat/126/531].)
 
  __References in Text__ 
 
@@ -213,57 +213,57 @@
 
     2012—Subsec. (b)(4). [Pub. L. 112–141][/us/pl/112/141] added par. (4).
 
-    2005—Subsec. (b)(2)(A). [Pub. L. 109–115, § 174(1)][/us/pl/109/115/s174/1], substituted “title 40” for “title 40 or equivalent State qualifications-based requirements”.
+    2005—Subsec. (b)(2)(A). [Pub. L. 109–115][/us/pl/109/115], § 174(1), substituted “title 40” for “title 40 or equivalent State qualifications-based requirements”.
 
-    Subsec. (b)(2)(B) to (D). [Pub. L. 109–115, § 174(2)][/us/pl/109/115/s174/2], (3), redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out heading and text of former subpar. (B). Text read as follows:
+    Subsec. (b)(2)(B) to (D). [Pub. L. 109–115][/us/pl/109/115], § 174(2), (3), redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out heading and text of former subpar. (B). Text read as follows:
 
     “(i) In a complying state.—If, on the date of the enactment of this paragraph, the services described in subparagraph (A) may be awarded in a State in the manner described in subparagraph (A), subparagraph (A) shall apply in such State beginning on such date of enactment.
 
     “(ii) In a noncomplying state.—In the case of any other State, subparagraph (A) shall apply in such State beginning on the earlier of (I) August 1, 1989, or (II) the 10th day following the close of the 1st regular session of the legislature of a State which begins after the date of the enactment of this paragraph.”
 
-    Subsec. (b)(2)(E). [Pub. L. 109–115, § 174(3)][/us/pl/109/115/s174/3], (4), redesignated subpar. (F) as (E) and substituted “subparagraph (D)” for “subparagraph (E)”. Former subpar. (E) redesignated (D).
+    Subsec. (b)(2)(E). [Pub. L. 109–115][/us/pl/109/115], § 174(3), (4), redesignated subpar. (F) as (E) and substituted “subparagraph (D)” for “subparagraph (E)”. Former subpar. (E) redesignated (D).
 
-    Subsec. (b)(2)(F). [Pub. L. 109–115, § 174(5)][/us/pl/109/115/s174/5], which directed that subpar. (F) be amended by substituting “(F) Subparagraphs (B), (C), (D) and (E) herein shall not apply to the States of West Virginia or Minnesota.” for “ ‘State Option’ and all that follows through the period”, was executed by making the substitution for “State option.—Subparagraphs (C), (D), (E), and (F) shall take effect 1 year after the date of the enactment of this subparagraph; except that if a State, during such 1-year period, adopts by statute an alternative process intended to promote engineering and design quality and ensure maximum competition by professional companies of all sizes providing engineering and design services, such subparagraphs shall not apply with respect to the State. If the Secretary determines that the legislature of the State did not convene and adjourn a full regular session during such 1-year period, the Secretary may extend such 1-year period until the adjournment of the next regular session of the legislature.”, to reflect the probable intent of Congress.
+    Subsec. (b)(2)(F). [Pub. L. 109–115][/us/pl/109/115], § 174(5), which directed that subpar. (F) be amended by substituting “(F) Subparagraphs (B), (C), (D) and (E) herein shall not apply to the States of West Virginia or Minnesota.” for “ ‘State Option’ and all that follows through the period”, was executed by making the substitution for “State option.—Subparagraphs (C), (D), (E), and (F) shall take effect 1 year after the date of the enactment of this subparagraph; except that if a State, during such 1-year period, adopts by statute an alternative process intended to promote engineering and design quality and ensure maximum competition by professional companies of all sizes providing engineering and design services, such subparagraphs shall not apply with respect to the State. If the Secretary determines that the legislature of the State did not convene and adjourn a full regular session during such 1-year period, the Secretary may extend such 1-year period until the adjournment of the next regular session of the legislature.”, to reflect the probable intent of Congress.
 
-    [Pub. L. 109–115, § 174(3)][/us/pl/109/115/s174/3], redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
+    [Pub. L. 109–115][/us/pl/109/115], § 174(3), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
 
-    Subsec. (b)(2)(G). [Pub. L. 109–115, § 174(3)][/us/pl/109/115/s174/3], redesignated subpar. (G) as (F).
+    Subsec. (b)(2)(G). [Pub. L. 109–115][/us/pl/109/115], § 174(3), redesignated subpar. (G) as (F).
 
-    Subsec. (b)(3)(C) to (E). [Pub. L. 109–59, § 1503][/us/pl/109/59/s1503], added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C), which described a qualified project as one for which the Secretary had approved the use of design-build contracting under criteria specified in regulations and for which total costs had been estimated to exceed specified amounts.
+    Subsec. (b)(3)(C) to (E). [Pub. L. 109–59][/us/pl/109/59], § 1503, added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C), which described a qualified project as one for which the Secretary had approved the use of design-build contracting under criteria specified in regulations and for which total costs had been estimated to exceed specified amounts.
 
-    Subsecs. (f), (g). [Pub. L. 109–59, § 1110(b)][/us/pl/109/59/s1110/b], added subsec. (g), redesignated former subsec. (g) as (f), and struck out former subsec. (f) which read as follows: “The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to [section 117 of this title][/us/usc/t23/s117], except where employees of a political subdivision of a State are working on a project outside of such political subdivision.”
+    Subsecs. (f), (g). [Pub. L. 109–59][/us/pl/109/59], § 1110(b), added subsec. (g), redesignated former subsec. (g) as (f), and struck out former subsec. (f) which read as follows: “The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to [section 117 of this title][/us/usc/t23/s117], except where employees of a political subdivision of a State are working on a project outside of such political subdivision.”
 
     2002—Subsec. (b)(2)(A). [Pub. L. 107–217][/us/pl/107/217] substituted “chapter 11 of title 40” for “title IX of the Federal Property and Administrative Services Act of 1949”.
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], substituted “State transportation department” for “State highway department”.
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-    Subsec. (b)(1). [Pub. L. 105–178, § 1307(a)(1)][/us/pl/105/178/s1307/a/1], substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+    Subsec. (b)(1). [Pub. L. 105–178][/us/pl/105/178], § 1307(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-    [Pub. L. 105–178, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], substituted “State transportation department” for “State highway department”.
+    [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-    Subsec. (b)(2)(A). [Pub. L. 105–178, § 1307(a)(2)][/us/pl/105/178/s1307/a/2], substituted “Subject to paragraph (3), each contract” for “Each contract”.
+    Subsec. (b)(2)(A). [Pub. L. 105–178][/us/pl/105/178], § 1307(a)(2), substituted “Subject to paragraph (3), each contract” for “Each contract”.
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 105–178, § 1205(a)][/us/pl/105/178/s1205/a], struck out before period at end “, except to the extent that such State adopts by statute a formal procedure for the procurement of such services”.
+    Subsec. (b)(2)(B)(i). [Pub. L. 105–178][/us/pl/105/178], § 1205(a), struck out before period at end “, except to the extent that such State adopts by statute a formal procedure for the procurement of such services”.
 
-    Subsec. (b)(2)(B)(ii). [Pub. L. 105–178, § 1205(a)][/us/pl/105/178/s1205/a], struck out before period at end “, except to the extent that such State adopts or has adopted by statute a formal procedure for the procurement of the services described in subparagraph (A)”.
+    Subsec. (b)(2)(B)(ii). [Pub. L. 105–178][/us/pl/105/178], § 1205(a), struck out before period at end “, except to the extent that such State adopts or has adopted by statute a formal procedure for the procurement of the services described in subparagraph (A)”.
 
-    Subsec. (b)(3). [Pub. L. 105–178, § 1307(a)(3)][/us/pl/105/178/s1307/a/3], added par. (3).
+    Subsec. (b)(3). [Pub. L. 105–178][/us/pl/105/178], § 1307(a)(3), added par. (3).
 
-    Subsec. (d). [Pub. L. 105–178, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], substituted “State transportation department” for “State highway department”.
+    Subsec. (d). [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-    Subsec. (e)(2). [Pub. L. 105–178, § 1307(b)][/us/pl/105/178/s1307/b], designated existing provisions as subpar. (A), inserted heading, realigned margins, and added subpar. (B).
+    Subsec. (e)(2). [Pub. L. 105–178][/us/pl/105/178], § 1307(b), designated existing provisions as subpar. (A), inserted heading, realigned margins, and added subpar. (B).
 
-    Subsec. (g). [Pub. L. 105–178, § 1205(b)][/us/pl/105/178/s1205/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–178][/us/pl/105/178], § 1205(b), added subsec. (g).
 
     1995—Subsec. (b)(2)(C) to (G). [Pub. L. 104–59][/us/pl/104/59] added subpars. (C) to (G).
 
-    1987—Subsec. (b). [Pub. L. 100–17, § 111(a)][/us/pl/100/17/s111/a], (b), (d), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, substituted “Subject to paragraph (2), construction” for “Construction” and inserted “or that an emergency exists”, added par. (2), and realigned margins.
+    1987—Subsec. (b). [Pub. L. 100–17][/us/pl/100/17], § 111(a), (b), (d), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, substituted “Subject to paragraph (2), construction” for “Construction” and inserted “or that an emergency exists”, added par. (2), and realigned margins.
 
-    Subsecs. (e), (f). [Pub. L. 100–17, § 111(c)][/us/pl/100/17/s111/c], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 100–17][/us/pl/100/17], § 111(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-    1983—Subsec. (b). [Pub. L. 97–424, § 112(1)][/us/pl/97/424/s112/1], substituted “unless the State highway department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective” for “unless the Secretary shall affirmatively find that, under the circumstances relating to such project, some other method is in the public interest” after “by competitive bidding,”.
+    1983—Subsec. (b). [Pub. L. 97–424][/us/pl/97/424], § 112(1), substituted “unless the State highway department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective” for “unless the Secretary shall affirmatively find that, under the circumstances relating to such project, some other method is in the public interest” after “by competitive bidding,”.
 
-    Subsec. (e). [Pub. L. 97–424, § 112(2)][/us/pl/97/424/s112/2], inserted exception relating to a situation where employees of a political subdivision of a State are working on a project outside of such political subdivision.
+    Subsec. (e). [Pub. L. 97–424][/us/pl/97/424], § 112(2), inserted exception relating to a situation where employees of a political subdivision of a State are working on a project outside of such political subdivision.
 
     1980—Subsec. (b). [Pub. L. 96–470][/us/pl/96/470] struck out provision that all findings by the Secretary that a method other than competitive bidding is in the public interest be reported in writing to the Committees on Public Works of the Senate and the House of Representatives.
 
@@ -275,7 +275,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–178, title I, § 1307(e)][/us/pl/105/178/s1307/e], June 9, 1998, [112 Stat. 231][/us/stat/112/231], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1307(e), June 9, 1998, [112 Stat. 231][/us/stat/112/231], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -301,11 +301,11 @@
 
  __Regulations__ 
 
-[Pub. L. 112–141, div. A, title I, § 1303(b)][/us/pl/112/141/s1303/b], July 6, 2012, [126 Stat. 532][/us/stat/126/532], provided that: 
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1303(b), July 6, 2012, [126 Stat. 532][/us/stat/126/532], provided that: 
 
 > “The Secretary \[of Transportation\] shall promulgate such regulations as are necessary to carry out the amendment made by subsection (a) \[amending this section\].”
 
-[Pub. L. 105–178, title I, § 1307(c)][/us/pl/105/178/s1307/c], June 9, 1998, [112 Stat. 230][/us/stat/112/230], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1307(c), June 9, 1998, [112 Stat. 230][/us/stat/112/230], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -321,15 +321,15 @@
 
  __Effect on Experimental Program__ 
 
-[Pub. L. 112–141, div. A, title I, § 1303(c)][/us/pl/112/141/s1303/c], July 6, 2012, [126 Stat. 532][/us/stat/126/532], provided that: 
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1303(c), July 6, 2012, [126 Stat. 532][/us/stat/126/532], provided that: 
 
 > “Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] or the amendment made by this section affects the authority to carry out, or any project carried out under, any experimental program concerning construction manager risk that is being carried out by the Secretary \[of Transportation\] as of the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101]\].
 
->     [Pub. L. 105–178, title I, § 1307(d)][/us/pl/105/178/s1307/d], June 9, 1998, [112 Stat. 231][/us/stat/112/231], provided that: “Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section affects the authority to carry out, or any project carried out under, any experimental program concerning design-build contracting that is being carried out by the Secretary as of the date of enactment of this Act \[June 9, 1998\].”
+>     [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1307(d), June 9, 1998, [112 Stat. 231][/us/stat/112/231], provided that: “Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section affects the authority to carry out, or any project carried out under, any experimental program concerning design-build contracting that is being carried out by the Secretary as of the date of enactment of this Act \[June 9, 1998\].”
 
  __Report to Congress__ 
 
-[Pub. L. 105–178, title I, § 1307(f)][/us/pl/105/178/s1307/f], June 9, 1998, [112 Stat. 231][/us/stat/112/231], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1307(f), June 9, 1998, [112 Stat. 231][/us/stat/112/231], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -351,7 +351,7 @@
 
  __Private Sector Involvement Program__ 
 
-[Pub. L. 102–240, title I, § 1060][/us/pl/102/240/s1060], Dec. 18, 1991, [105 Stat. 2003][/us/stat/105/2003], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1060, Dec. 18, 1991, [105 Stat. 2003][/us/stat/105/2003], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -389,11 +389,11 @@
 
  __Pilot Program for Uniform Audit Procedures__ 
 
-    [Pub. L. 102–240, title I, § 1092][/us/pl/102/240/s1092], Dec. 18, 1991, [105 Stat. 2024][/us/stat/105/2024], directed Secretary to establish pilot program to include no more than 10 States under which any contract or subcontract awarded in accordance with subsec. (b)(2)(A) of this section was to be performed and audited in compliance with cost principles contained in Federal acquisition regulations of part 41 of title 48 of Code of Federal Regulations, provided for indirect cost rates in lieu of performing audits, and required each State participating in pilot program to report to Secretary not later than 3 years after Dec. 18, 1991, on results of program, prior to repeal by [Pub. L. 104–59, title III, § 307(b)][/us/pl/104/59/s307/b], Nov. 28, 1995, [109 Stat. 582][/us/stat/109/582]. See subsec. (b)(2)(C) to (F) of this section.
+    [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1092, Dec. 18, 1991, [105 Stat. 2024][/us/stat/105/2024], directed Secretary to establish pilot program to include no more than 10 States under which any contract or subcontract awarded in accordance with subsec. (b)(2)(A) of this section was to be performed and audited in compliance with cost principles contained in Federal acquisition regulations of part 41 of title 48 of Code of Federal Regulations, provided for indirect cost rates in lieu of performing audits, and required each State participating in pilot program to report to Secretary not later than 3 years after Dec. 18, 1991, on results of program, prior to repeal by [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 307(b), Nov. 28, 1995, [109 Stat. 582][/us/stat/109/582]. See subsec. (b)(2)(C) to (F) of this section.
 
  __Evaluation of State Procurement Practices__ 
 
-    [Pub. L. 102–240, title VI, § 6014][/us/pl/102/240/s6014], Dec. 18, 1991, [105 Stat. 2181][/us/stat/105/2181], directed Secretary to conduct a study to evaluate whether or not current procurement practices of State departments and agencies were adequate to ensure that highway and transit systems were designed, constructed, and maintained so as to achieve a high quality for such systems at the lowest overall cost and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the study, together with an assessment of the need for establishing a national policy on transportation quality assurance and recommendations for appropriate legislative and administrative actions.
+    [Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6014, Dec. 18, 1991, [105 Stat. 2181][/us/stat/105/2181], directed Secretary to conduct a study to evaluate whether or not current procurement practices of State departments and agencies were adequate to ensure that highway and transit systems were designed, constructed, and maintained so as to achieve a high quality for such systems at the lowest overall cost and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the study, together with an assessment of the need for establishing a national policy on transportation quality assurance and recommendations for appropriate legislative and administrative actions.
 
 ----------
 
@@ -412,25 +412,25 @@
 [/us/usc/t23/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs106
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F895
-[/us/pl/90/495/s22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs22%2Fc
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F827
-[/us/pl/96/470/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs112%2Fb%2F1
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2239
-[/us/pl/97/424/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs112
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2106
-[/us/pl/100/17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs111
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F147
-[/us/pl/104/59/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs307%2Fa
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F581
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F184
-[/us/pl/107/217/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fe%2F1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1299
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1170
-[/us/pl/109/115/s174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs174
+[/us/pl/109/115/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtI
 [/us/stat/119/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2426
-[/us/pl/112/141/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1303%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F531
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178/s1307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1307%2Fc
@@ -438,62 +438,62 @@
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/115/s174/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs174%2F1
-[/us/pl/109/115/s174/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs174%2F2
-[/us/pl/109/115/s174/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs174%2F3
-[/us/pl/109/115/s174/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs174%2F5
-[/us/pl/109/115/s174/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs174%2F3
-[/us/pl/109/115/s174/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs174%2F3
-[/us/pl/109/59/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1503
-[/us/pl/109/59/s1110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1110%2Fb
+[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs117
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
-[/us/pl/105/178/s1307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1307%2Fa%2F1
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
-[/us/pl/105/178/s1307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1307%2Fa%2F2
-[/us/pl/105/178/s1205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1205%2Fa
-[/us/pl/105/178/s1205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1205%2Fa
-[/us/pl/105/178/s1307/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1307%2Fa%2F3
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
-[/us/pl/105/178/s1307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1307%2Fb
-[/us/pl/105/178/s1205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1205%2Fb
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
-[/us/pl/100/17/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs111%2Fa
-[/us/pl/100/17/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs111%2Fc
-[/us/pl/97/424/s112/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs112%2F1
-[/us/pl/97/424/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs112%2F2
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/105/178/s1307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1307%2Fe
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F231
 [/us/usc/t42/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/pl/90/495/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs37
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1303%2Fb
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F532
-[/us/pl/105/178/s1307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1307%2Fc
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F230
-[/us/pl/112/141/s1303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1303%2Fc
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F532
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/105/178/s1307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1307%2Fd
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F231
-[/us/pl/105/178/s1307/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1307%2Ff
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F231
-[/us/pl/102/240/s1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1060
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2003
 [/us/usc/t23/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs112%2Fb
-[/us/pl/102/240/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1092
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2024
-[/us/pl/104/59/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs307%2Fb
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F582
-[/us/pl/102/240/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6014
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2181
 
 

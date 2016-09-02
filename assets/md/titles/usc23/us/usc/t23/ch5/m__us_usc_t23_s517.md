@@ -53,13 +53,13 @@
 
         The Secretary, at the discretion of the Secretary, may offer an exemption from paragraph (1) for projects designed to achieve specific research objectives outlined in the national intelligent transportation system program plan or the surface transportation research and development strategic plan developed under section 508. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-(Added [Pub. L. 112–141, div. E, title III, § 53005(a)][/us/pl/112/141/s53005/a], July 6, 2012, [126 Stat. 902][/us/stat/126/902]; amended [Pub. L. 114–94, div. A, title VI, § 6008][/us/pl/114/94/s6008], Dec. 4, 2015, [129 Stat. 1567][/us/stat/129/1567].)
+(Added [Pub. L. 112–141, div. E, title III][/us/pl/112/141/dE/tIII], § 53005(a), July 6, 2012, [126 Stat. 902][/us/stat/126/902]; amended [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6008, Dec. 4, 2015, [129 Stat. 1567][/us/stat/129/1567].)
 
  __References in Text__ 
 
     Section 12(d) of the National Technology Transfer and Advancement Act of 1995, referred to in subsec. (a)(1), is [section 12(d) of Pub. L. 104–113][/us/pl/104/113/s12/d], Mar. 7, 1996, [110 Stat. 783][/us/stat/110/783], which is set out as a note under [section 272 of Title 15][/us/usc/t15/s272], Commerce and Trade.
 
-    Section 508, referred to in subsec. (d)(2), was repealed by [Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A)][/us/pl/114/94/s6019/d/1/A], Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581], effective Oct. 1, 2015.
+    Section 508, referred to in subsec. (d)(2), was repealed by [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(d)(1)(A), Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581], effective Oct. 1, 2015.
 
  __Amendments__ 
 
@@ -83,14 +83,14 @@
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
 [/us/stat/110/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F783
 [/us/stat/115/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1241
-[/us/pl/112/141/s53005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs53005%2Fa
+[/us/pl/112/141/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtIII
 [/us/stat/126/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F902
-[/us/pl/114/94/s6008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6008
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1567
 [/us/pl/104/113/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fd
 [/us/stat/110/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F783
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
-[/us/pl/114/94/s6019/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F1%2FA
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1581
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s207.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s211.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210)
+[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s208 _us_usc_t23_s209.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s211.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210)
 
 ## § 210. Defense access roads
 
@@ -35,7 +35,7 @@
 
     (h) Funds appropriated for the purposes of this section shall be available to pay the cost of repairing damage caused to highways by the operation of vehicles and equipment in the construction of classified military installations and facilities for ballistic missiles if the Secretary shall determine that the State transportation department of any State is, or has been, unable to prevent such damage by restrictions upon the use of such highways without interference with, or delay in, the completion of a contract for the construction of such military reservations or installations. This subsection shall apply notwithstanding any provision of contract holding a party thereto responsible for such damage, if the Secretary of Defense or his designee shall determine, in fact, that construction estimates and the bid of such party did not include allowance for repairing such damage. This subsection shall apply to damage caused by construction work commenced prior to June 1, 1961, and still in progress on that date and construction work which is commenced or for which a contract is awarded on or after June 1, 1961.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 908][/us/stat/72/908]; [Pub. L. 86–657, § 8(d)][/us/pl/86/657/s8/d], July 14, 1960, [74 Stat. 524][/us/stat/74/524]; [Pub. L. 87–61, title I, § 105][/us/pl/87/61/s105], June 29, 1961, [75 Stat. 123][/us/stat/75/123]; [Pub. L. 97–424, title I, § 155][/us/pl/97/424/s155], Jan. 6, 1983, [96 Stat. 2134][/us/stat/96/2134]; [Pub. L. 100–17, title I, § 133(b)(15)][/us/pl/100/17/s133/b/15], Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–284, § 3(2)][/us/pl/109/284/s3/2], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211]; [Pub. L. 110–417, div. B, title XXVIII, § 2814(a)][/us/pl/110/417/s2814/a], Oct. 14, 2008, [122 Stat. 4728][/us/stat/122/4728]; [Pub. L. 112–81, div. B, title XXVIII, § 2816(a)][/us/pl/112/81/s2816/a], Dec. 31, 2011, [125 Stat. 1689][/us/stat/125/1689]; [Pub. L. 112–141, div. A, title I, § 1516][/us/pl/112/141/s1516], July 6, 2012, [126 Stat. 574][/us/stat/126/574].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 908][/us/stat/72/908]; [Pub. L. 86–657][/us/pl/86/657], § 8(d), July 14, 1960, [74 Stat. 524][/us/stat/74/524]; [Pub. L. 87–61, title I][/us/pl/87/61/tI], § 105, June 29, 1961, [75 Stat. 123][/us/stat/75/123]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 155, Jan. 6, 1983, [96 Stat. 2134][/us/stat/96/2134]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(b)(15), Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–284][/us/pl/109/284], § 3(2), Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211]; [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2814(a), Oct. 14, 2008, [122 Stat. 4728][/us/stat/122/4728]; [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2816(a), Dec. 31, 2011, [125 Stat. 1689][/us/stat/125/1689]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1516, July 6, 2012, [126 Stat. 574][/us/stat/126/574].)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Economic Adjustment Committee Consideration of Additional Defense Access Roads Funding Sources__ 
 
-[Pub. L. 112–81, div. B, title XXVIII, § 2816(b)][/us/pl/112/81/s2816/b], Dec. 31, 2011, [125 Stat. 1689][/us/stat/125/1689], provided that:
+[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2816(b), Dec. 31, 2011, [125 Stat. 1689][/us/stat/125/1689], provided that:
 
 >     “(1)  __Convening of committee__  __.—__ 
 
@@ -75,13 +75,13 @@
 
  __Separate Budget Request for Program__ 
 
-[Pub. L. 112–81, div. B, title XXVIII, § 2816(c)][/us/pl/112/81/s2816/c], Dec. 31, 2011, [125 Stat. 1689][/us/stat/125/1689], provided that: 
+[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2816(c), Dec. 31, 2011, [125 Stat. 1689][/us/stat/125/1689], provided that: 
 
 > “Amounts requested for a fiscal year for the defense access roads program under [section 210 of title 23][/us/usc/t23/s210], United States Code, shall be set forth as a separate budget request in the budget transmitted by the President to Congress for that fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], United States.”
 
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s207.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s211.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210)
+[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s208 _us_usc_t23_s209.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s211.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210)
 
 ----------
 ----------
@@ -89,23 +89,23 @@
 [/us/usc/t23/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs112
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F908
-[/us/pl/86/657/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657%2Fs8%2Fd
+[/us/pl/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657
 [/us/stat/74/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F524
-[/us/pl/87/61/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs105
+[/us/pl/87/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2FtI
 [/us/stat/75/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F123
-[/us/pl/97/424/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs155
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2134
-[/us/pl/100/17/s133/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F15
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F172
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/109/284/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs3%2F2
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211
-[/us/pl/110/417/s2814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2814%2Fa
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4728
-[/us/pl/112/81/s2816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2816%2Fa
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1689
-[/us/pl/112/141/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1516
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F574
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
@@ -121,12 +121,12 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/81/s2816/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2816%2Fb
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1689
 [/us/usc/t10/s2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2391
 [/us/usc/t23/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210
 [/us/usc/t23/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210
-[/us/pl/112/81/s2816/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2816%2Fc
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1689
 [/us/usc/t23/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105

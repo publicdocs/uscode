@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s404.md) | [Next](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s409.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs405)
+[Previous](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s404.md) | [Next](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s406...408.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs405)
 
 ## § 405. National priority safety programs
 
@@ -735,11 +735,11 @@
 
             (B) up to 75 percent may be used for any eligible project or activity under section 402.
 
-(Added [Pub. L. 105–178, title II, § 2003(a)(1)][/us/pl/105/178/s2003/a/1], June 9, 1998, [112 Stat. 325][/us/stat/112/325]; amended [Pub. L. 109–59, title II][/us/pl/109/59], §§ 2002(e), 2004, Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1524; [Pub. L. 111–147, title IV, § 421(c)(1)][/us/pl/111/147/s421/c/1], Mar. 18, 2010, [124 Stat. 84][/us/stat/124/84]; [Pub. L. 112–30, title I, § 121(c)(1)][/us/pl/112/30/s121/c/1], Sept. 16, 2011, [125 Stat. 347][/us/stat/125/347]; [Pub. L. 112–141, div. C, title I, § 31105(a)][/us/pl/112/141/s31105/a], July 6, 2012, [126 Stat. 741][/us/stat/126/741]; [Pub. L. 114–94, div. A, title IV][/us/pl/114/94], §§ 4005, 4014(3), Dec. 4, 2015, [129 Stat. 1501][/us/stat/129/1501], 1513.)
+(Added [Pub. L. 105–178, title II][/us/pl/105/178/tII], § 2003(a)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; amended [Pub. L. 109–59, title II][/us/pl/109/59/tII], §§ 2002(e), 2004, Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1524; [Pub. L. 111–147, title IV][/us/pl/111/147/tIV], § 421(c)(1), Mar. 18, 2010, [124 Stat. 84][/us/stat/124/84]; [Pub. L. 112–30, title I][/us/pl/112/30/tI], § 121(c)(1), Sept. 16, 2011, [125 Stat. 347][/us/stat/125/347]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31105(a), July 6, 2012, [126 Stat. 741][/us/stat/126/741]; [Pub. L. 114–94, div. A, title IV][/us/pl/114/94/dA/tIV], §§ 4005, 4014(3), Dec. 4, 2015, [129 Stat. 1501][/us/stat/129/1501], 1513.)
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–94, div. A, title IV][/us/pl/114/94], §§ 4005, 4015, Dec. 4, 2015, [129 Stat. 1501][/us/stat/129/1501], 1513, provided that, effective Oct. 1, 2016, this section is amended as follows:
+    [Pub. L. 114–94, div. A, title IV][/us/pl/114/94/dA/tIV], §§ 4005, 4015, Dec. 4, 2015, [129 Stat. 1501][/us/stat/129/1501], 1513, provided that, effective Oct. 1, 2016, this section is amended as follows:
 
     (a) Subsection (a) is amended to read as follows:
 
@@ -1091,81 +1091,81 @@
 
  __Prior Provisions__ 
 
-    A prior section 405, added [Pub. L. 93–87, title II, § 230(a)][/us/pl/93/87/s230/a], Aug. 13, 1973, [87 Stat. 293][/us/stat/87/293]; amended [Pub. L. 93–643, § 121][/us/pl/93/643/s121], Jan. 4, 1975, [88 Stat. 2289][/us/stat/88/2289], related to the Federal-aid safer roads demonstration program, prior to repeal by [Pub. L. 94–280, title I, § 135(c)][/us/pl/94/280/s135/c], May 5, 1976, [90 Stat. 442][/us/stat/90/442].
+    A prior section 405, added [Pub. L. 93–87, title II][/us/pl/93/87/tII], § 230(a), Aug. 13, 1973, [87 Stat. 293][/us/stat/87/293]; amended [Pub. L. 93–643][/us/pl/93/643], § 121, Jan. 4, 1975, [88 Stat. 2289][/us/stat/88/2289], related to the Federal-aid safer roads demonstration program, prior to repeal by [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 135(c), May 5, 1976, [90 Stat. 442][/us/stat/90/442].
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–94, § 4005(a)][/us/pl/114/94/s4005/a], amended subsec. (a) generally. Prior to amendment, text related to the general authority of the Secretary of Transportation to manage programs to address national priorities for reducing highway deaths and injuries.
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 4005(a), amended subsec. (a) generally. Prior to amendment, text related to the general authority of the Secretary of Transportation to manage programs to address national priorities for reducing highway deaths and injuries.
 
-    Subsec. (b)(4)(B). [Pub. L. 114–94, § 4005(b)][/us/pl/114/94/s4005/b], substituted “100 percent” for “75 percent”.
+    Subsec. (b)(4)(B). [Pub. L. 114–94][/us/pl/114/94], § 4005(b), substituted “100 percent” for “75 percent”.
 
-    Subsec. (d)(4). [Pub. L. 114–94, § 4005(c)(1)][/us/pl/114/94/s4005/c/1], added par. (4) and struck out former par. (4), which related to the use of grant funds.
+    Subsec. (d)(4). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(1), added par. (4) and struck out former par. (4), which related to the use of grant funds.
 
-    Subsec. (d)(5). [Pub. L. 114–94, § 4014(3)(A)(i)][/us/pl/114/94/s4014/3/A/i], substituted “under section 402” for “under section 402(c)”.
+    Subsec. (d)(5). [Pub. L. 114–94][/us/pl/114/94], § 4014(3)(A)(i), substituted “under section 402” for “under section 402(c)”.
 
-    Subsec. (d)(6). [Pub. L. 114–94, § 4005(c)(2)(A)][/us/pl/114/94/s4005/c/2/A], amended heading generally. Prior to amendment, heading read as follows: “Grants to states that adopt and enforce mandatory alcohol-ignition interlock laws.”.
+    Subsec. (d)(6). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(A), amended heading generally. Prior to amendment, heading read as follows: “Grants to states that adopt and enforce mandatory alcohol-ignition interlock laws.”.
 
-    Subsec. (d)(6)(B). [Pub. L. 114–94, § 4005(c)(2)(C)][/us/pl/114/94/s4005/c/2/C]–(E), added subpar. (B). Former subsec. (B) redesignated (C).
+    Subsec. (d)(6)(B). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(C)–(E), added subpar. (B). Former subsec. (B) redesignated (C).
 
-    Subsec. (d)(6)(C). [Pub. L. 114–94, § 4014(3)(A)(ii)][/us/pl/114/94/s4014/3/A/ii], which directed substitution of “in proportion to the State’s apportionment under section 402 for fiscal year 2009” for “on the basis of the apportionment formula set forth in section 402(c)” in subpar. (D) as redesignated by [Pub. L. 114–94, § 4005(c)(2)(C)][/us/pl/114/94/s4005/c/2/C], was executed by making substitution to subpar. (C), pending future execution of [Pub. L. 114–94, § 4005][/us/pl/114/94/s4005], to reflect the probable intent of Congress.
+    Subsec. (d)(6)(C). [Pub. L. 114–94][/us/pl/114/94], § 4014(3)(A)(ii), which directed substitution of “in proportion to the State’s apportionment under section 402 for fiscal year 2009” for “on the basis of the apportionment formula set forth in section 402(c)” in subpar. (D) as redesignated by [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(C), was executed by making substitution to subpar. (C), pending future execution of [Pub. L. 114–94][/us/pl/114/94], § 4005, to reflect the probable intent of Congress.
 
-    [Pub. L. 114–94, § 4005(c)(2)(C)][/us/pl/114/94/s4005/c/2/C], (E), redesignated subpar. (B) as (C), and in subpar. (C) substituted “and subparagraph (B)” after “subparagraph (A)”. Former subpar. (C) redesignated (D).
+    [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(C), (E), redesignated subpar. (B) as (C), and in subpar. (C) substituted “and subparagraph (B)” after “subparagraph (A)”. Former subpar. (C) redesignated (D).
 
-    Subsec. (d)(6)(D). [Pub. L. 114–94, § 4005(c)(2)(F)][/us/pl/114/94/s4005/c/2/F], inserted “and subparagraph (B)” after “subparagraph (A)”.
+    Subsec. (d)(6)(D). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(F), inserted “and subparagraph (B)” after “subparagraph (A)”.
 
-    [Pub. L. 114–94, § 4005(c)(2)(C)][/us/pl/114/94/s4005/c/2/C], redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
+    [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(C), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
-    Subsec. (d)(6)(E). [Pub. L. 114–94, § 4005(c)(2)(G)][/us/pl/114/94/s4005/c/2/G], amended subpar. (E) generally. Prior to amendment, subpar. (E) related to funding.
+    Subsec. (d)(6)(E). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(G), amended subpar. (E) generally. Prior to amendment, subpar. (E) related to funding.
 
-    [Pub. L. 114–94, § 4005(c)(2)(C)][/us/pl/114/94/s4005/c/2/C], redesignated subpar. (D) as (E).
+    [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(C), redesignated subpar. (D) as (E).
 
-    Subsec. (d)(6)(F). [Pub. L. 114–94, § 4005(c)(2)(H)][/us/pl/114/94/s4005/c/2/H], added subpar. (F).
+    Subsec. (d)(6)(F). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(H), added subpar. (F).
 
-    Subsec. (d)(7)(A). [Pub. L. 114–94, § 4005(c)(3)(A)(i)][/us/pl/114/94/s4005/c/3/A/i], in introductory provisions, substituted “or an agency with jurisdiction” for “or a State agency” and inserted “bond,” before “sentence”.
+    Subsec. (d)(7)(A). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(3)(A)(i), in introductory provisions, substituted “or an agency with jurisdiction” for “or a State agency” and inserted “bond,” before “sentence”.
 
-    Subsec. (d)(7)(A)(i). [Pub. L. 114–94, § 4005(c)(3)(A)(ii)][/us/pl/114/94/s4005/c/3/A/ii], substituted “who was arrested for, plead guilty to, or” for “who plead guilty or”.
+    Subsec. (d)(7)(A)(i). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(3)(A)(ii), substituted “who was arrested for, plead guilty to, or” for “who plead guilty or”.
 
-    Subsec. (d)(7)(A)(ii)(I). [Pub. L. 114–94, § 4005(c)(3)(A)(iii)][/us/pl/114/94/s4005/c/3/A/iii], inserted “at a testing location” after “twice per day”.
+    Subsec. (d)(7)(A)(ii)(I). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(3)(A)(iii), inserted “at a testing location” after “twice per day”.
 
-    Subsec. (d)(7)(D). [Pub. L. 114–94, § 4005(c)(3)(B)][/us/pl/114/94/s4005/c/3/B], struck out second period at end.
+    Subsec. (d)(7)(D). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(3)(B), struck out second period at end.
 
-    Subsec. (e). [Pub. L. 114–94, § 4005(d)][/us/pl/114/94/s4005/d], amended subsec. (e) generally. Prior to amendment, section provided for award of distracted driving grants.
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 4005(d), amended subsec. (e) generally. Prior to amendment, section provided for award of distracted driving grants.
 
-    Subsec. (f)(2). [Pub. L. 114–94, § 4005(e)(1)][/us/pl/114/94/s4005/e/1], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amount of a grant awarded to a State for a fiscal year under this subsection may not exceed 25 percent of the amount apportioned to the State for fiscal year 2003 under section 402.”.
+    Subsec. (f)(2). [Pub. L. 114–94][/us/pl/114/94], § 4005(e)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amount of a grant awarded to a State for a fiscal year under this subsection may not exceed 25 percent of the amount apportioned to the State for fiscal year 2003 under section 402.”.
 
-    Subsec. (f)(4)(A)(iv). [Pub. L. 114–94, § 4014(3)(B)][/us/pl/114/94/s4014/3/B], substituted “including” for “such as the” and struck out “developed under subsection (g)” after “safety messages”.
+    Subsec. (f)(4)(A)(iv). [Pub. L. 114–94][/us/pl/114/94], § 4014(3)(B), substituted “including” for “such as the” and struck out “developed under subsection (g)” after “safety messages”.
 
-    Subsec. (f)(4)(C). [Pub. L. 114–94, § 4005(e)(2)][/us/pl/114/94/s4005/e/2], added subpar. (C).
+    Subsec. (f)(4)(C). [Pub. L. 114–94][/us/pl/114/94], § 4005(e)(2), added subpar. (C).
 
-    Subsec. (f)(6). [Pub. L. 114–94, § 4005(e)(3)][/us/pl/114/94/s4005/e/3], added par. (6).
+    Subsec. (f)(6). [Pub. L. 114–94][/us/pl/114/94], § 4005(e)(3), added par. (6).
 
-    Subsec. (g)(2)(A). [Pub. L. 114–94, § 4005(f)(1)(A)][/us/pl/114/94/s4005/f/1/A], substituted “18” for “21”.
+    Subsec. (g)(2)(A). [Pub. L. 114–94][/us/pl/114/94], § 4005(f)(1)(A), substituted “18” for “21”.
 
-    Subsec. (g)(2)(B). [Pub. L. 114–94, § 4005(f)(1)(B)][/us/pl/114/94/s4005/f/1/B], amended subpar. (B) generally. Prior to amendment, subpar. (B) related to state compliance with the 2-stage licensing process.
+    Subsec. (g)(2)(B). [Pub. L. 114–94][/us/pl/114/94], § 4005(f)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to state compliance with the 2-stage licensing process.
 
-    Subsec. (g)(6). [Pub. L. 114–94, § 4005(f)(2)][/us/pl/114/94/s4005/f/2], added par. (6).
+    Subsec. (g)(6). [Pub. L. 114–94][/us/pl/114/94], § 4005(f)(2), added par. (6).
 
-    Subsec. (h). [Pub. L. 114–94, § 4005(g)][/us/pl/114/94/s4005/g], added subsec. (h).
+    Subsec. (h). [Pub. L. 114–94][/us/pl/114/94], § 4005(g), added subsec. (h).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to occupant protection incentive grants.
 
-    2011—Subsec. (a)(3). [Pub. L. 112–30, § 121(c)(1)(A)][/us/pl/112/30/s121/c/1/A], substituted “9” for “8”.
+    2011—Subsec. (a)(3). [Pub. L. 112–30][/us/pl/112/30], § 121(c)(1)(A), substituted “9” for “8”.
 
-    Subsec. (a)(4)(C). [Pub. L. 112–30, § 121(c)(1)(B)][/us/pl/112/30/s121/c/1/B], substituted “fifth through ninth” for “fifth through eighth”.
+    Subsec. (a)(4)(C). [Pub. L. 112–30][/us/pl/112/30], § 121(c)(1)(B), substituted “fifth through ninth” for “fifth through eighth”.
 
-    2010—Subsec. (a)(3). [Pub. L. 111–147, § 421(c)(1)(A)][/us/pl/111/147/s421/c/1/A], substituted “8” for “6”.
+    2010—Subsec. (a)(3). [Pub. L. 111–147][/us/pl/111/147], § 421(c)(1)(A), substituted “8” for “6”.
 
-    Subsec. (a)(4)(C). [Pub. L. 111–147, § 421(c)(1)(B)][/us/pl/111/147/s421/c/1/B], substituted “fifth through eighth” for “fifth and sixth”.
+    Subsec. (a)(4)(C). [Pub. L. 111–147][/us/pl/111/147], § 421(c)(1)(B), substituted “fifth through eighth” for “fifth and sixth”.
 
-    2005—Subsec. (a)(2). [Pub. L. 109–59, § 2004(a)(1)][/us/pl/109/59/s2004/a/1], substituted “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
+    2005—Subsec. (a)(2). [Pub. L. 109–59][/us/pl/109/59], § 2004(a)(1), substituted “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
 
-    Subsec. (a)(3). [Pub. L. 109–59, § 2004(a)(2)][/us/pl/109/59/s2004/a/2], substituted “2003” for “1997”.
+    Subsec. (a)(3). [Pub. L. 109–59][/us/pl/109/59], § 2004(a)(2), substituted “2003” for “1997”.
 
-    Subsec. (a)(4). [Pub. L. 109–59, § 2004(a)(3)][/us/pl/109/59/s2004/a/3], inserted “beginning after September 30, 2003,” after “years” in subpars. (A) to (C).
+    Subsec. (a)(4). [Pub. L. 109–59][/us/pl/109/59], § 2004(a)(3), inserted “beginning after September 30, 2003,” after “years” in subpars. (A) to (C).
 
-    Subsec. (c). [Pub. L. 109–59, § 2004(c)][/us/pl/109/59/s2004/c], substituted “100 percent” for “25 percent” and “2003” for “1997”.
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 2004(c), substituted “100 percent” for “25 percent” and “2003” for “1997”.
 
-    Subsec. (d). [Pub. L. 109–59, § 2002(e)][/us/pl/109/59/s2002/e], struck out heading and text of subsec. (d). Text read as follows: “Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section.”
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 2002(e), struck out heading and text of subsec. (d). Text read as follows: “Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section.”
 
  __Effective Date of 2015 Amendment__ 
 
@@ -1183,7 +1183,7 @@
 
  __National Priority Safety Program Grant Eligibility__ 
 
-[Pub. L. 114–94, div. A, title IV, § 4010][/us/pl/114/94/s4010], Dec. 4, 2015, [129 Stat. 1511][/us/stat/129/1511], provided that: 
+[Pub. L. 114–94, div. A, title IV][/us/pl/114/94/dA/tIV], § 4010, Dec. 4, 2015, [129 Stat. 1511][/us/stat/129/1511], provided that: 
 
 > “Not later than 60 days after the date on which the Secretary \[of Transportation\] awards grants under [section 405 of title 23][/us/usc/t23/s405], United States Code, the Secretary shall make available on a publicly available Internet Web site of the Department of Transportation—
 
@@ -1201,33 +1201,15 @@
 
  __Child Safety and Child Booster Seat Incentive Grants__ 
 
-    [Pub. L. 109–59, title II, § 2011][/us/pl/109/59/s2011], Aug. 10, 2005, [119 Stat. 1538][/us/stat/119/1538], as amended by [Pub. L. 111–147, title IV, § 421(j)(1)][/us/pl/111/147/s421/j/1], Mar. 18, 2010, [124 Stat. 85][/us/stat/124/85]; [Pub. L. 112–30, title I, § 121(j)(1)][/us/pl/112/30/s121/j/1], Sept. 16, 2011, [125 Stat. 348][/us/stat/125/348], related to child safety and child booster seat incentive grants, prior to repeal by [Pub. L. 112–141, div. C, title I, § 31109(h)][/us/pl/112/141/s31109/h], July 6, 2012, [126 Stat. 757][/us/stat/126/757].
+    [Pub. L. 109–59, title II][/us/pl/109/59/tII], § 2011, Aug. 10, 2005, [119 Stat. 1538][/us/stat/119/1538], as amended by [Pub. L. 111–147, title IV][/us/pl/111/147/tIV], § 421(j)(1), Mar. 18, 2010, [124 Stat. 85][/us/stat/124/85]; [Pub. L. 112–30, title I][/us/pl/112/30/tI], § 121(j)(1), Sept. 16, 2011, [125 Stat. 348][/us/stat/125/348], related to child safety and child booster seat incentive grants, prior to repeal by [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31109(h), July 6, 2012, [126 Stat. 757][/us/stat/126/757].
 
  __Child Passenger Protection Education Grants__ 
 
-    [Pub. L. 105–178, title II, § 2003(b)][/us/pl/105/178/s2003/b], June 9, 1998, [112 Stat. 327][/us/stat/112/327], authorized the Secretary to make grants to States to implement child passenger protection programs, required reports from States and the Secretary regarding those programs, and authorized appropriations for fiscal years 2000 and 2001.
-
-\[§§ 406 to 408. __Repealed.__  __[__  __Pub. L. 112–141, div. C, title I, § 31109(b)__  __][/us/pl/112/141/s31109/b]__  __–(d),__  __July 6, 2012__  __,__  __[__  __126 Stat. 756__  __][/us/stat/126/756]__  __\]__ 
-
-    Section 406, added [Pub. L. 93–643, § 126(a)][/us/pl/93/643/s126/a], Jan. 4, 1975, [88 Stat. 2291][/us/stat/88/2291]; amended [Pub. L. 94–280, title II, § 205][/us/pl/94/280/s205], May 5, 1976, [90 Stat. 453][/us/stat/90/453]; [Pub. L. 95–599, title I, § 129(g)][/us/pl/95/599/s129/g], Nov. 6, 1978, [92 Stat. 2708][/us/stat/92/2708]; [Pub. L. 109–59, title II, § 2005(a)][/us/pl/109/59/s2005/a], Aug. 10, 2005, [119 Stat. 1524][/us/stat/119/1524], related to safety belt performance grants.
-
-    Section 407, added [Pub. L. 95–599, title II, § 208(a)][/us/pl/95/599/s208/a], Nov. 6, 1978, [92 Stat. 2732][/us/stat/92/2732], related to innovative project grants.
-
-    Section 408, added [Pub. L. 97–364, title I, § 101(a)][/us/pl/97/364/s101/a], Oct. 25, 1982, [96 Stat. 1738][/us/stat/96/1738]; amended [Pub. L. 98–363][/us/pl/98/363], §§ 4, 7, July 17, 1984, [98 Stat. 436][/us/stat/98/436], 438; [Pub. L. 100–17, title II, § 203(a)][/us/pl/100/17/s203/a], (b), Apr. 2, 1987, [101 Stat. 219][/us/stat/101/219]; [Pub. L. 109–59, title II, § 2006(a)][/us/pl/109/59/s2006/a], Aug. 10, 2005, [119 Stat. 1527][/us/stat/119/1527], related to State traffic safety information system improvements.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
-
- __Repeal of Programs__ 
-
-[Pub. L. 112–141, div. C, title I, § 31109(a)][/us/pl/112/141/s31109/a], July 6, 2012, [126 Stat. 756][/us/stat/126/756], provided that: 
-
-> “A repeal made by this section \[repealing sections 406 to 408, 410, and 411 of this title and repealing provisions set out as notes under sections 402, 403, and 405 of this title\] shall not affect amounts apportioned or allocated before the effective date of such repeal \[Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101]\], provided that such apportioned or allocated funds continue to be subject to the requirements to which such funds were subject under the repealed section as in effect on the day before the date of the repeal.”
+    [Pub. L. 105–178, title II][/us/pl/105/178/tII], § 2003(b), June 9, 1998, [112 Stat. 327][/us/stat/112/327], authorized the Secretary to make grants to States to implement child passenger protection programs, required reports from States and the Secretary regarding those programs, and authorized appropriations for fiscal years 2000 and 2001.
 
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s404.md) | [Next](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s409.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs405)
+[Previous](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s404.md) | [Next](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s406...408.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs405)
 
 ----------
 ----------
@@ -1236,67 +1218,67 @@
 [/us/usc/t47/s332/c/7/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs332%2Fc%2F7%2FC%2Fi
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/105/178/s2003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2003%2Fa%2F1
+[/us/pl/105/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtII
 [/us/stat/112/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F325
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtII
 [/us/stat/119/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1522
-[/us/pl/111/147/s421/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs421%2Fc%2F1
+[/us/pl/111/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIV
 [/us/stat/124/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F84
-[/us/pl/112/30/s121/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs121%2Fc%2F1
+[/us/pl/112/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtI
 [/us/stat/125/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F347
-[/us/pl/112/141/s31105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31105%2Fa
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F741
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIV
 [/us/stat/129/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1501
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIV
 [/us/stat/129/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1501
 [/us/usc/t49/s31136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136
 [/us/usc/t47/s332/c/7/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs332%2Fc%2F7%2FC%2Fi
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/93/87/s230/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs230%2Fa
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F293
-[/us/pl/93/643/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs121
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2289
-[/us/pl/94/280/s135/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs135%2Fc
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F442
-[/us/pl/114/94/s4005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fa
-[/us/pl/114/94/s4005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fb
-[/us/pl/114/94/s4005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F1
-[/us/pl/114/94/s4014/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4014%2F3%2FA%2Fi
-[/us/pl/114/94/s4005/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F2%2FA
-[/us/pl/114/94/s4005/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F2%2FC
-[/us/pl/114/94/s4014/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4014%2F3%2FA%2Fii
-[/us/pl/114/94/s4005/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F2%2FC
-[/us/pl/114/94/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005
-[/us/pl/114/94/s4005/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F2%2FC
-[/us/pl/114/94/s4005/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F2%2FF
-[/us/pl/114/94/s4005/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F2%2FC
-[/us/pl/114/94/s4005/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F2%2FG
-[/us/pl/114/94/s4005/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F2%2FC
-[/us/pl/114/94/s4005/c/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F2%2FH
-[/us/pl/114/94/s4005/c/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F3%2FA%2Fi
-[/us/pl/114/94/s4005/c/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F3%2FA%2Fii
-[/us/pl/114/94/s4005/c/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F3%2FA%2Fiii
-[/us/pl/114/94/s4005/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fc%2F3%2FB
-[/us/pl/114/94/s4005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fd
-[/us/pl/114/94/s4005/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fe%2F1
-[/us/pl/114/94/s4014/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4014%2F3%2FB
-[/us/pl/114/94/s4005/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fe%2F2
-[/us/pl/114/94/s4005/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fe%2F3
-[/us/pl/114/94/s4005/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Ff%2F1%2FA
-[/us/pl/114/94/s4005/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Ff%2F1%2FB
-[/us/pl/114/94/s4005/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Ff%2F2
-[/us/pl/114/94/s4005/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4005%2Fg
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/112/30/s121/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs121%2Fc%2F1%2FA
-[/us/pl/112/30/s121/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs121%2Fc%2F1%2FB
-[/us/pl/111/147/s421/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs421%2Fc%2F1%2FA
-[/us/pl/111/147/s421/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs421%2Fc%2F1%2FB
-[/us/pl/109/59/s2004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2004%2Fa%2F1
-[/us/pl/109/59/s2004/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2004%2Fa%2F2
-[/us/pl/109/59/s2004/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2004%2Fa%2F3
-[/us/pl/109/59/s2004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2004%2Fc
-[/us/pl/109/59/s2002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2002%2Fe
+[/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
+[/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
@@ -1309,44 +1291,18 @@
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2022
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
-[/us/pl/114/94/s4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4010
+[/us/pl/114/94/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIV
 [/us/stat/129/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1511
 [/us/usc/t23/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs405
-[/us/pl/109/59/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2011
+[/us/pl/109/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtII
 [/us/stat/119/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1538
-[/us/pl/111/147/s421/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs421%2Fj%2F1
+[/us/pl/111/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIV
 [/us/stat/124/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F85
-[/us/pl/112/30/s121/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs121%2Fj%2F1
+[/us/pl/112/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtI
 [/us/stat/125/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F348
-[/us/pl/112/141/s31109/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31109%2Fh
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F757
-[/us/pl/105/178/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2003%2Fb
+[/us/pl/105/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtII
 [/us/stat/112/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F327
-[/us/pl/112/141/s31109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31109%2Fb
-[/us/stat/126/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F756
-[/us/pl/93/643/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs126%2Fa
-[/us/stat/88/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2291
-[/us/pl/94/280/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs205
-[/us/stat/90/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F453
-[/us/pl/95/599/s129/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs129%2Fg
-[/us/stat/92/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2708
-[/us/pl/109/59/s2005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2005%2Fa
-[/us/stat/119/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1524
-[/us/pl/95/599/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs208%2Fa
-[/us/stat/92/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2732
-[/us/pl/97/364/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F364%2Fs101%2Fa
-[/us/stat/96/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1738
-[/us/pl/98/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F363
-[/us/stat/98/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F436
-[/us/pl/100/17/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs203%2Fa
-[/us/stat/101/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F219
-[/us/pl/109/59/s2006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2006%2Fa
-[/us/stat/119/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1527
-[/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
-[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s31109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31109%2Fa
-[/us/stat/126/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F756
-[/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
-[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 
 

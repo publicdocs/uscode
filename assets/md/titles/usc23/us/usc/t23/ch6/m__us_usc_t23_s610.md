@@ -223,29 +223,29 @@
 
     For each of fiscal years 2016 through 2020, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
 
-(Added [Pub. L. 109–59, title I, § 1602(a)][/us/pl/109/59/s1602/a], Aug. 10, 2005, [119 Stat. 1243][/us/stat/119/1243], § 190; renumbered § 610, [Pub. L. 109–59, title I, § 1602(d)][/us/pl/109/59/s1602/d], Aug. 10, 2005, [119 Stat. 1247][/us/stat/119/1247], as amended [Pub. L. 110–244, title I, § 101(f)][/us/pl/110/244/s101/f], June 6, 2008, [122 Stat. 1574][/us/stat/122/1574]; [Pub. L. 112–141, div. A, title I, § 1519(c)(11)][/us/pl/112/141/s1519/c/11], formerly § 1519(c)(12), July 6, 2012, [126 Stat. 577][/us/stat/126/577], renumbered § 1519(c)(11), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title II, § 2001(i)][/us/pl/114/94/s2001/i], Dec. 4, 2015, [129 Stat. 1444][/us/stat/129/1444].)
+(Added [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1602(a), Aug. 10, 2005, [119 Stat. 1243][/us/stat/119/1243], § 190; renumbered § 610, [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1602(d), Aug. 10, 2005, [119 Stat. 1247][/us/stat/119/1247], as amended [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 101(f), June 6, 2008, [122 Stat. 1574][/us/stat/122/1574]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1519(c)(11), formerly § 1519(c)(12), July 6, 2012, [126 Stat. 577][/us/stat/126/577], renumbered § 1519(c)(11), [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d)(5)(B), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title II][/us/pl/114/94/dA/tII], § 2001(i), Dec. 4, 2015, [129 Stat. 1444][/us/stat/129/1444].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(11), (12). [Pub. L. 114–94, § 2001(i)(1)][/us/pl/114/94/s2001/i/1], added pars. (11) and (12).
+    2015—Subsec. (a)(11), (12). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(1), added pars. (11) and (12).
 
-    Subsec. (d)(1)(A). [Pub. L. 114–94, § 2001(i)(2)(A)][/us/pl/114/94/s2001/i/2/A], substituted “each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and” for “fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and”.
+    Subsec. (d)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(2)(A), substituted “each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and” for “fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and”.
 
-    Subsec. (d)(2), (3). [Pub. L. 114–94, § 2001(i)(2)(B)][/us/pl/114/94/s2001/i/2/B], (C), substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
+    Subsec. (d)(2), (3). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(2)(B), (C), substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
 
-    Subsec. (d)(4) to (7). [Pub. L. 114–94, § 2001(i)(2)(D)][/us/pl/114/94/s2001/i/2/D]–(F), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and substituted “section 133(d)(1)(A)(i)” for “section 133(d)(3)” in par. (6).
+    Subsec. (d)(4) to (7). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(2)(D)–(F), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and substituted “section 133(d)(1)(A)(i)” for “section 133(d)(3)” in par. (6).
 
-    Subsec. (e). [Pub. L. 114–94, § 2001(i)(3)][/us/pl/114/94/s2001/i/3], added subsec. (e) and struck out former subsec. (e) which related to forms of assistance from infrastructure banks.
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(3), added subsec. (e) and struck out former subsec. (e) which related to forms of assistance from infrastructure banks.
 
-    Subsec. (g)(1). [Pub. L. 114–94, § 2001(i)(4)(A)][/us/pl/114/94/s2001/i/4/A], substituted “the highway account, the transit account, and the rail account” for “each account”.
+    Subsec. (g)(1). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(4)(A), substituted “the highway account, the transit account, and the rail account” for “each account”.
 
-    Subsec. (g)(4). [Pub. L. 114–94, § 2001(i)(4)(B)][/us/pl/114/94/s2001/i/4/B], inserted “, except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603” after “feasible”.
+    Subsec. (g)(4). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(4)(B), inserted “, except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603” after “feasible”.
 
-    Subsec. (k). [Pub. L. 114–94, § 2001(i)(5)][/us/pl/114/94/s2001/i/5], substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
+    Subsec. (k). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(5), substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
 
-    2012—Subsec. (d)(1)(B). [Pub. L. 112–141, § 1519(c)(11)][/us/pl/112/141/s1519/c/11], formerly § 1519(c)(12), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], struck out “under section 105” before period at end.
+    2012—Subsec. (d)(1)(B). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(11), formerly § 1519(c)(12), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), struck out “under section 105” before period at end.
 
-    2008—[Pub. L. 110–244][/us/pl/110/244] amended [Pub. L. 109–59, § 1602(d)][/us/pl/109/59/s1602/d]. See 2005 Amendment note below.
+    2008—[Pub. L. 110–244][/us/pl/110/244] amended [Pub. L. 109–59][/us/pl/109/59], § 1602(d). See 2005 Amendment note below.
 
     2005—[Pub. L. 109–59][/us/pl/109/59], as amended by [Pub. L. 110–244][/us/pl/110/244], renumbered [section 190 of this title][/us/usc/t23/s190] as this section.
 
@@ -253,7 +253,7 @@
 
     Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
-    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+    [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -273,37 +273,37 @@
 [/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
 [/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
 [/us/usc/t49/s5333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5333
-[/us/pl/109/59/s1602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fa
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1243
-[/us/pl/109/59/s1602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fd
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1247
-[/us/pl/110/244/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Ff
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1574
-[/us/pl/112/141/s1519/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F11
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F577
-[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
-[/us/pl/114/94/s2001/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fi
+[/us/pl/114/94/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtII
 [/us/stat/129/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1444
-[/us/pl/114/94/s2001/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fi%2F1
-[/us/pl/114/94/s2001/i/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fi%2F2%2FA
-[/us/pl/114/94/s2001/i/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fi%2F2%2FB
-[/us/pl/114/94/s2001/i/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fi%2F2%2FD
-[/us/pl/114/94/s2001/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fi%2F3
-[/us/pl/114/94/s2001/i/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fi%2F4%2FA
-[/us/pl/114/94/s2001/i/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fi%2F4%2FB
-[/us/pl/114/94/s2001/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fi%2F5
-[/us/pl/112/141/s1519/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F11
-[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s1602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fd
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/usc/t23/s190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs190
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

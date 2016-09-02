@@ -93,29 +93,29 @@
 
             (B) be administered or enforced in any manner that would require an employer to give a preference to any veteran over any equally qualified applicant who is a member of any racial or ethnic minority, a female, or any equally qualified former employee.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 896][/us/stat/72/896]; [Pub. L. 86–657, § 8(f)][/us/pl/86/657/s8/f], July 14, 1960, [74 Stat. 525][/us/stat/74/525]; [Pub. L. 93–87, title I, § 115][/us/pl/93/87/s115], Aug. 13, 1973, [87 Stat. 258][/us/stat/87/258]; [Pub. L. 97–424, title I, § 148][/us/pl/97/424/s148], Jan. 6, 1983, [96 Stat. 2131][/us/stat/96/2131]; [Pub. L. 98–473, title II, § 226][/us/pl/98/473/s226], Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030]; [Pub. L. 100–17, title I, § 112(a)][/us/pl/100/17/s112/a], (b)(1), Apr. 2, 1987, [101 Stat. 148][/us/stat/101/148]; [Pub. L. 102–240, title I, § 1019][/us/pl/102/240/s1019], Dec. 18, 1991, [105 Stat. 1948][/us/stat/105/1948]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)][/us/pl/105/178/s1212/a/2/A], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1409(d), 1904(b), Aug. 10, 2005, [119 Stat. 1232][/us/stat/119/1232], 1467; [Pub. L. 112–141, div. A, title I, § 1506][/us/pl/112/141/s1506], July 6, 2012, [126 Stat. 564][/us/stat/126/564].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 896][/us/stat/72/896]; [Pub. L. 86–657][/us/pl/86/657], § 8(f), July 14, 1960, [74 Stat. 525][/us/stat/74/525]; [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 115, Aug. 13, 1973, [87 Stat. 258][/us/stat/87/258]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 148, Jan. 6, 1983, [96 Stat. 2131][/us/stat/96/2131]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 226, Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 112(a), (b)(1), Apr. 2, 1987, [101 Stat. 148][/us/stat/101/148]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1019, Dec. 18, 1991, [105 Stat. 1948][/us/stat/105/1948]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1212(a)(2)(A), June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I][/us/pl/109/59/tI], §§ 1409(d), 1904(b), Aug. 10, 2005, [119 Stat. 1232][/us/stat/119/1232], 1467; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1506, July 6, 2012, [126 Stat. 564][/us/stat/126/564].)
 
  __Amendments__ 
 
-    2012—Subsec. (b)(1). [Pub. L. 112–141, § 1506(1)(A)][/us/pl/112/141/s1506/1/A], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Convict labor shall not be used in construction of highways or portions of highways located on a Federal-aid system unless it is labor performed by convicts who are on parole, supervised release, or probation.”
+    2012—Subsec. (b)(1). [Pub. L. 112–141][/us/pl/112/141], § 1506(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Convict labor shall not be used in construction of highways or portions of highways located on a Federal-aid system unless it is labor performed by convicts who are on parole, supervised release, or probation.”
 
-    Subsec. (b)(3). [Pub. L. 112–141, § 1506(1)(B)][/us/pl/112/141/s1506/1/B], inserted “in existence during that period” after “located on a Federal-aid system”.
+    Subsec. (b)(3). [Pub. L. 112–141][/us/pl/112/141], § 1506(1)(B), inserted “in existence during that period” after “located on a Federal-aid system”.
 
-    Subsec. (d). [Pub. L. 112–141, § 1506(2)][/us/pl/112/141/s1506/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 1506(2), added subsec. (d).
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 1904(b)][/us/pl/109/59/s1904/b], substituted “Federal-aid highway or a portion of a Federal-aid highway” for “highways or portions of highways located on a Federal-aid system” and “The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate.” for “Except as provided in [section 117 of this title][/us/usc/t23/s117], such construction shall be subject to the inspection and approval of the Secretary.”
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 1904(b), substituted “Federal-aid highway or a portion of a Federal-aid highway” for “highways or portions of highways located on a Federal-aid system” and “The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate.” for “Except as provided in [section 117 of this title][/us/usc/t23/s117], such construction shall be subject to the inspection and approval of the Secretary.”
 
-    Subsec. (c). [Pub. L. 109–59, § 1409(d)][/us/pl/109/59/s1409/d], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 1409(d), added subsec. (c).
 
     1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178] substituted “State transportation department” for “State highway department” in two places and “State transportation departments” for “State highway departments”.
 
     1991—Subsec. (b)(2). [Pub. L. 102–240][/us/pl/102/240], inserted “after July 1, 1991,” after “Materials produced” in introductory provisions.
 
-    1987—Subsec. (a). [Pub. L. 100–17, § 112(b)(1)][/us/pl/100/17/s112/b/1], inserted heading.
+    1987—Subsec. (a). [Pub. L. 100–17][/us/pl/100/17], § 112(b)(1), inserted heading.
 
-    Subsec. (b). [Pub. L. 100–17, § 112(b)(1)][/us/pl/100/17/s112/b/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Convict labor or materials produced by convict labor shall not be used in such construction unless it is labor performed by convicts who are on parole or probation.”
+    Subsec. (b). [Pub. L. 100–17][/us/pl/100/17], § 112(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Convict labor or materials produced by convict labor shall not be used in such construction unless it is labor performed by convicts who are on parole or probation.”
 
-    1984—Subsec. (b). [Pub. L. 98–473][/us/pl/98/473] which directed the insertion of “, supervised release,” after “parole” effective Nov. 1, 1987, was not executed, because of intervening general amendment of subsec. (b) by [Pub. L. 100–17, § 112(a)][/us/pl/100/17/s112/a], which contained “, supervised release,” after “parole” wherever appearing.
+    1984—Subsec. (b). [Pub. L. 98–473][/us/pl/98/473] which directed the insertion of “, supervised release,” after “parole” effective Nov. 1, 1987, was not executed, because of intervening general amendment of subsec. (b) by [Pub. L. 100–17][/us/pl/100/17], § 112(a), which contained “, supervised release,” after “parole” wherever appearing.
 
     1983—Subsec. (b). [Pub. L. 97–424][/us/pl/97/424] inserted “or materials produced by convict labor” after “Convict labor”.
 
@@ -137,7 +137,7 @@
 
  __Highways for Life Pilot Program__ 
 
-[Pub. L. 109–59, title I, § 1502][/us/pl/109/59/s1502], Aug. 10, 2005, [119 Stat. 1236][/us/stat/119/1236], provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1502, Aug. 10, 2005, [119 Stat. 1236][/us/stat/119/1236], provided that:
 
 >     “(a) __Establishment.—__ 
 
@@ -259,29 +259,29 @@
 
  __Materials Produced by Convict Labor__ 
 
-[Pub. L. 101–162, title II, § 202][/us/pl/101/162/s202], Nov. 21, 1989, [103 Stat. 1002][/us/stat/103/1002], provided that: 
+[Pub. L. 101–162, title II][/us/pl/101/162/tII], § 202, Nov. 21, 1989, [103 Stat. 1002][/us/stat/103/1002], provided that: 
 
 > “During fiscal year 1990 and hereafter, materials produced by convict labor may be used in the construction of any highways or portion of highways located on Federal-aid systems, as described in [section 103 of title 23][/us/usc/t23/s103], United States Code.”
 
 Similar fiscal year provisions were contained in the following appropriation acts:
 
-    [Pub. L. 100–459, title II, § 202][/us/pl/100/459/s202], Oct. 1, 1988, [102 Stat. 2199][/us/stat/102/2199].
+    [Pub. L. 100–459, title II][/us/pl/100/459/tII], § 202, Oct. 1, 1988, [102 Stat. 2199][/us/stat/102/2199].
 
-    [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title II, § 202\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–15.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title II, § 202\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–15.
 
-    [Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title II, § 202\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–51, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title II, § 202\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–51.
+    [Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title II, § 202\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–51, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title II, § 202\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–51.
 
-    [Pub. L. 99–180, title II, § 202][/us/pl/99/180/s202], Dec. 13, 1985, [99 Stat. 1146][/us/stat/99/1146].
+    [Pub. L. 99–180, title II][/us/pl/99/180/tII], § 202, Dec. 13, 1985, [99 Stat. 1146][/us/stat/99/1146].
 
-    [Pub. L. 98–411, title II, § 202][/us/pl/98/411/s202], Aug. 30, 1984, [98 Stat. 1558][/us/stat/98/1558], repealed by [Pub. L. 100–17, title I, § 112(b)(2)][/us/pl/100/17/s112/b/2], Apr. 2, 1987, [101 Stat. 149][/us/stat/101/149].
+    [Pub. L. 98–411, title II][/us/pl/98/411/tII], § 202, Aug. 30, 1984, [98 Stat. 1558][/us/stat/98/1558], repealed by [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 112(b)(2), Apr. 2, 1987, [101 Stat. 149][/us/stat/101/149].
 
-    [Pub. L. 98–166, title II, § 202][/us/pl/98/166/s202], Nov. 28, 1983, [97 Stat. 1085][/us/stat/97/1085].
+    [Pub. L. 98–166, title II][/us/pl/98/166/tII], § 202, Nov. 28, 1983, [97 Stat. 1085][/us/stat/97/1085].
 
  __Acceleration of Projects__ 
 
-[Pub. L. 97–424, title I, § 129][/us/pl/97/424/s129], Jan. 6, 1983, [96 Stat. 2118][/us/stat/96/2118], provided that: 
+[Pub. L. 97–424, title I][/us/pl/97/424/tI], § 129, Jan. 6, 1983, [96 Stat. 2118][/us/stat/96/2118], provided that: 
 
-> “The Secretary of Transportation shall by rule or regulation establish, as soon as practicable, alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration project authorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[[Pub. L. 94–280, title I, § 141][/us/pl/94/280/s141], May 5, 1976, [90 Stat. 444][/us/stat/90/444], formerly set out as a note under former [section 124 of this title][/us/usc/t23/s124]\].”
+> “The Secretary of Transportation shall by rule or regulation establish, as soon as practicable, alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration project authorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[[Pub. L. 94–280, title I][/us/pl/94/280/tI], § 141, May 5, 1976, [90 Stat. 444][/us/stat/90/444], formerly set out as a note under former [section 124 of this title][/us/usc/t23/s124]\].”
 
 ----------
 
@@ -294,36 +294,36 @@ Similar fiscal year provisions were contained in the following appropriation act
 [/us/usc/t5/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F896
-[/us/pl/86/657/s8/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657%2Fs8%2Ff
+[/us/pl/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657
 [/us/stat/74/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F525
-[/us/pl/93/87/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs115
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F258
-[/us/pl/97/424/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs148
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2131
-[/us/pl/98/473/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs226
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2030
-[/us/pl/100/17/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs112%2Fa
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F148
-[/us/pl/102/240/s1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1019
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1948
-[/us/pl/105/178/s1212/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1232
-[/us/pl/112/141/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1506
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F564
-[/us/pl/112/141/s1506/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1506%2F1%2FA
-[/us/pl/112/141/s1506/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1506%2F1%2FB
-[/us/pl/112/141/s1506/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1506%2F2
-[/us/pl/109/59/s1904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1904%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs117
-[/us/pl/109/59/s1409/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1409%2Fd
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
-[/us/pl/100/17/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs112%2Fb%2F1
-[/us/pl/100/17/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs112%2Fb%2F1
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/100/17/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs112%2Fa
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/pl/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657
@@ -336,32 +336,32 @@ Similar fiscal year provisions were contained in the following appropriation act
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/109/59/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1502
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1236
 [/us/usc/t23/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
-[/us/pl/101/162/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2Fs202
+[/us/pl/101/162/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtII
 [/us/stat/103/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1002
 [/us/usc/t23/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103
-[/us/pl/100/459/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs202
+[/us/pl/100/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2FtII
 [/us/stat/102/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2199
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
-[/us/pl/99/180/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F180%2Fs202
+[/us/pl/99/180/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F180%2FtII
 [/us/stat/99/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1146
-[/us/pl/98/411/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2Fs202
+[/us/pl/98/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2FtII
 [/us/stat/98/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1558
-[/us/pl/100/17/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs112%2Fb%2F2
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F149
-[/us/pl/98/166/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F166%2Fs202
+[/us/pl/98/166/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F166%2FtII
 [/us/stat/97/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1085
-[/us/pl/97/424/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs129
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2118
-[/us/pl/94/280/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs141
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F444
 [/us/usc/t23/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs124
 

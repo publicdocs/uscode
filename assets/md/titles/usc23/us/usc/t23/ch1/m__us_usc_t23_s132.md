@@ -31,7 +31,7 @@
 
     Any sums reimbursed to the State under this section which may be in excess of the Federal pro rata share under the provisions of this title of the State’s share of the cost as set forth in the approved final voucher submitted by the State shall be recovered and credited to the same class of funds from which the Federal payment under this section was made.
 
-(Added [Pub. L. 86–657, § 4(a)][/us/pl/86/657/s4/a], July 14, 1960, [74 Stat. 522][/us/stat/74/522]; amended [Pub. L. 109–59, title I, § 1119(b)][/us/pl/109/59/s1119/b], Aug. 10, 2005, [119 Stat. 1182][/us/stat/119/1182].)
+(Added [Pub. L. 86–657][/us/pl/86/657], § 4(a), July 14, 1960, [74 Stat. 522][/us/stat/74/522]; amended [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1119(b), Aug. 10, 2005, [119 Stat. 1182][/us/stat/119/1182].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/86/657/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657%2Fs4%2Fa
+[/us/pl/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657
 [/us/stat/74/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F522
-[/us/pl/109/59/s1119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1119%2Fb
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1182
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 

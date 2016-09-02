@@ -27,7 +27,7 @@
 
     (f) The authority conferred by this section shall be in addition to and not in limitation of authority conferred upon any agency by any other law, and nothing in this section contained shall affect or be deemed to relate to any bridge, approach structure, or highway constructed or to be constructed by any such agency in furtherance of its lawful purposes and requirements or to satisfy a legal obligation incurred independently of this section.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 917][/us/stat/72/917]; [Pub. L. 86–342, title I, § 108][/us/pl/86/342/s108], Sept. 21, 1959, [73 Stat. 613][/us/stat/73/613]; [Pub. L. 88–423, § 4(c)][/us/pl/88/423/s4/c], Aug. 13, 1964, [78 Stat. 398][/us/stat/78/398]; [Pub. L. 91–605, title I, § 116(a)][/us/pl/91/605/s116/a], Dec. 31, 1970, [84 Stat. 1724][/us/stat/84/1724]; [Pub. L. 93–87, title I, § 128(a)][/us/pl/93/87/s128/a], Aug. 13, 1973, [87 Stat. 265][/us/stat/87/265]; [Pub. L. 93–643, § 123(a)][/us/pl/93/643/s123/a], Jan. 4, 1975, [88 Stat. 2290][/us/stat/88/2290]; [Pub. L. 94–280, title I, § 137(a)][/us/pl/94/280/s137/a], May 5, 1976, [90 Stat. 443][/us/stat/90/443]; [Pub. L. 95–599, title I, § 128(a)][/us/pl/95/599/s128/a], Nov. 6, 1978, [92 Stat. 2707][/us/stat/92/2707].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 917][/us/stat/72/917]; [Pub. L. 86–342, title I][/us/pl/86/342/tI], § 108, Sept. 21, 1959, [73 Stat. 613][/us/stat/73/613]; [Pub. L. 88–423][/us/pl/88/423], § 4(c), Aug. 13, 1964, [78 Stat. 398][/us/stat/78/398]; [Pub. L. 91–605, title I][/us/pl/91/605/tI], § 116(a), Dec. 31, 1970, [84 Stat. 1724][/us/stat/84/1724]; [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 128(a), Aug. 13, 1973, [87 Stat. 265][/us/stat/87/265]; [Pub. L. 93–643][/us/pl/93/643], § 123(a), Jan. 4, 1975, [88 Stat. 2290][/us/stat/88/2290]; [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 137(a), May 5, 1976, [90 Stat. 443][/us/stat/90/443]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 128(a), Nov. 6, 1978, [92 Stat. 2707][/us/stat/92/2707].)
 
  __Amendments__ 
 
@@ -47,27 +47,27 @@
 
  __Appropriation Out of Highway Trust Fund of Sums Appropriated Under Authority of Increased Authorization__ 
 
-[Pub. L. 95–599, title I, § 128(b)][/us/pl/95/599/s128/b], Nov. 6, 1978, [92 Stat. 2707][/us/stat/92/2707], provided that: 
+[Pub. L. 95–599, title I][/us/pl/95/599/tI], § 128(b), Nov. 6, 1978, [92 Stat. 2707][/us/stat/92/2707], provided that: 
 
 > “Sums appropriated or expended under authority of the increased authorization established by the amendment made by subsection (a) of this section \[amending subsec. (d) of this section\] shall be appropriated out of the Highway Trust Fund for the fiscal year ending September 30, 1978, and for subsequent fiscal years.”
 
  __Appropriation of Increased Authorization__ 
 
-[Pub. L. 94–280, title I, § 137(b)][/us/pl/94/280/s137/b], May 5, 1976, [90 Stat. 443][/us/stat/90/443], provided that: 
+[Pub. L. 94–280, title I][/us/pl/94/280/tI], § 137(b), May 5, 1976, [90 Stat. 443][/us/stat/90/443], provided that: 
 
 > “Sums appropriated or expended under authority of the increased authorization established by the amendment made by subsection (a) of this section \[to subsec. (d) of this section\] shall be appropriated out of the Highway Trust Fund for the fiscal year ending September 30, 1977, and for subsequent fiscal years.”
 
  __Restriction on Increased Authorization of Appropriations__ 
 
-[Pub. L. 93–643, § 123(b)][/us/pl/93/643/s123/b], Jan. 4, 1975, [88 Stat. 2290][/us/stat/88/2290], provided that: 
+[Pub. L. 93–643][/us/pl/93/643], § 123(b), Jan. 4, 1975, [88 Stat. 2290][/us/stat/88/2290], provided that: 
 
 > “All sums appropriated under authority of the increased authorization established by the amendment made by subsection (a) of this section shall be available for expenditure in the same manner and for the same purpose as provided for in subsection (b) of section 116 of the Federal-Aid Highway Act of 1970 ([Public Law 91–605][/us/pl/91/605]).”
 
-[Pub. L. 93–87, title I, § 128(b)][/us/pl/93/87/s128/b], Aug. 13, 1973, [87 Stat. 265][/us/stat/87/265], provided that: 
+[Pub. L. 93–87, title I][/us/pl/93/87/tI], § 128(b), Aug. 13, 1973, [87 Stat. 265][/us/stat/87/265], provided that: 
 
 > “All sums appropriated under authority of the increased authorization of $8,500,000 established by the amendment made by subsection (a) of this section \[to subsec. (d) of this section\] shall be available for expenditure only in connection with the construction of a bridge across lock and dam numbered 13 on the Arkansas River near Fort Smith, Arkansas, in the amount of $2,100,000 and in connection with reconstruction of a bridge across the Chickamauga Dam on the Tennessee River near Chattanooga, Tennessee, in the amount of $6,400,000. No such sums shall be appropriated until all applicable requirements of [section 320 of title 23][/us/usc/t23/s320] of the United States Code have been complied with by the appropriate Federal agency, the Secretary of Transportation, and the State of Arkansas for the Fort Smith project, and the State of Tennessee for the Chattanooga project.”
 
-[Pub. L. 91–605, title I, § 116(b)][/us/pl/91/605/s116/b], Dec. 31, 1970, [84 Stat. 1724][/us/stat/84/1724], provided that: 
+[Pub. L. 91–605, title I][/us/pl/91/605/tI], § 116(b), Dec. 31, 1970, [84 Stat. 1724][/us/stat/84/1724], provided that: 
 
 > “All sums appropriated under authority of the increased authorization of $3,761,000 established by the amendment made by subsection (a) of this section \[amending subsec. (d) of this section\] shall be available for expenditure only in connection with the construction of a bridge across Markland Dam on the Ohio River near Markland, Indiana, and Warsaw, Kentucky. No such sums shall be appropriated until all applicable requirements of [section 320 of title 23][/us/usc/t23/s320] of the United States Code have been complied with by the appropriate Federal agency, the Secretary of Transportation, and the States of Kentucky and Indiana.”
 
@@ -80,19 +80,19 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F917
-[/us/pl/86/342/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342%2Fs108
+[/us/pl/86/342/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342%2FtI
 [/us/stat/73/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F613
-[/us/pl/88/423/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423%2Fs4%2Fc
+[/us/pl/88/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423
 [/us/stat/78/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F398
-[/us/pl/91/605/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs116%2Fa
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1724
-[/us/pl/93/87/s128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs128%2Fa
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F265
-[/us/pl/93/643/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs123%2Fa
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2290
-[/us/pl/94/280/s137/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs137%2Fa
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F443
-[/us/pl/95/599/s128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs128%2Fa
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2707
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
 [/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
@@ -101,17 +101,17 @@
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
 [/us/pl/88/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423
 [/us/pl/86/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342
-[/us/pl/95/599/s128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs128%2Fb
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2707
-[/us/pl/94/280/s137/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs137%2Fb
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F443
-[/us/pl/93/643/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs123%2Fb
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2290
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
-[/us/pl/93/87/s128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs128%2Fb
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F265
 [/us/usc/t23/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs320
-[/us/pl/91/605/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs116%2Fb
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1724
 [/us/usc/t23/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs320
 

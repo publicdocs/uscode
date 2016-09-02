@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s159.md) | [Next](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s161.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs160)
 
-## \[§ 160. Repealed. [Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A)][/us/pl/112/141/s1519/b/1/A], July 6, 2012, [126 Stat. 575][/us/stat/126/575]\]
+## \[§ 160. Repealed. [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1519(b)(1)(A), July 6, 2012, [126 Stat. 575][/us/stat/126/575]\]
 
-    Section, added [Pub. L. 102–240, title I, § 1014(a)][/us/pl/102/240/s1014/a], Dec. 18, 1991, [105 Stat. 1941][/us/stat/105/1941], related to reimbursement for segments of the Interstate System constructed without Federal assistance.
+    Section, added [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1014(a), Dec. 18, 1991, [105 Stat. 1941][/us/stat/105/1941], related to reimbursement for segments of the Interstate System constructed without Federal assistance.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/112/141/s1519/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fb%2F1%2FA
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
-[/us/pl/102/240/s1014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1014%2Fa
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1941
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

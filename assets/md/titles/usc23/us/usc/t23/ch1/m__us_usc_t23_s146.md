@@ -19,11 +19,11 @@
 
     (b) A project authorized by this section shall be subject to and carried out in accordance with all provisions of this title, except those provisions which the Secretary determines are inconsistent with this section.
 
-(Added [Pub. L. 95–599, title I, § 126(a)][/us/pl/95/599/s126/a], Nov. 6, 1978, [92 Stat. 2705][/us/stat/92/2705]; amended [Pub. L. 105–178, title I, § 1103][/us/pl/105/178/s1103](l)(1), June 9, 1998, [112 Stat. 125][/us/stat/112/125]; [Pub. L. 112–141, div. A, title I, § 1105(b)][/us/pl/112/141/s1105/b], July 6, 2012, [126 Stat. 432][/us/stat/126/432].)
+(Added [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 126(a), Nov. 6, 1978, [92 Stat. 2705][/us/stat/92/2705]; amended [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1103(l)(1), June 9, 1998, [112 Stat. 125][/us/stat/112/125]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1105(b), July 6, 2012, [126 Stat. 432][/us/stat/126/432].)
 
  __Prior Provisions__ 
 
-    A prior section 146, [Pub. L. 93–87, title I, § 125(a)][/us/pl/93/87/s125/a], Aug. 13, 1973, [87 Stat. 262][/us/stat/87/262], related to a special urban high density traffic program, prior to repeal by [Pub. L. 94–280, title I, § 128(a)][/us/pl/94/280/s128/a], May 5, 1976, [90 Stat. 440][/us/stat/90/440].
+    A prior section 146, [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 125(a), Aug. 13, 1973, [87 Stat. 262][/us/stat/87/262], related to a special urban high density traffic program, prior to repeal by [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 128(a), May 5, 1976, [90 Stat. 440][/us/stat/90/440].
 
  __Amendments__ 
 
@@ -37,17 +37,17 @@
 
  __Use of High Occupancy Lanes__ 
 
-[Pub. L. 97–424, title I, § 163][/us/pl/97/424/s163], Jan. 6, 1983, [96 Stat. 2136][/us/stat/96/2136], as amended by [Pub. L. 100–17, title I, § 133(a)(4)][/us/pl/100/17/s133/a/4], (5), Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170], 171; [Pub. L. 102–240, title I, § 1056][/us/pl/102/240/s1056], Dec. 18, 1991, [105 Stat. 2002][/us/stat/105/2002], provided that: 
+[Pub. L. 97–424, title I][/us/pl/97/424/tI], § 163, Jan. 6, 1983, [96 Stat. 2136][/us/stat/96/2136], as amended by [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(a)(4), (5), Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170], 171; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1056, Dec. 18, 1991, [105 Stat. 2002][/us/stat/105/2002], provided that: 
 
 > “Notwithstanding any other provision of this Act or any other law, no funds apportioned or allocated to a State for Federal-aid highways shall be obligated for a project for constructing, resurfacing, restoring, rehabilitating, or reconstructing a Federal-aid highway which has a lane designated as a carpool lane unless the use of such lane includes use by motorcycles. Upon certification by the State to the Secretary of Transportation, after notice in the Federal Register and an opportunity for public comment, and acceptance of such certification by the Secretary, the State may restrict such use by motorcycles if such use would create a safety hazard. Any certification made before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991 \[Dec. 18, 1991\] shall not be recognized by the Secretary until the Secretary publishes notice of such certification in the Federal Register and provides an opportunity for public comment on such certification.”
 
  __Expenditure of Administrative Funds for Carpooling and Vanpooling Programs__ 
 
-    [Pub. L. 97–424, title I, § 123(b)][/us/pl/97/424/s123/b], Jan. 6, 1983, [96 Stat. 2113][/us/stat/96/2113], directed the Secretary of Transportation to expend necessary sums out of the administrative funds authorized by [section 104(a) of this title][/us/usc/t23/s104/a] to carry out [section 126(d) of Pub. L. 95–599][/us/pl/95/599/s126/d], set out below.
+    [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 123(b), Jan. 6, 1983, [96 Stat. 2113][/us/stat/96/2113], directed the Secretary of Transportation to expend necessary sums out of the administrative funds authorized by [section 104(a) of this title][/us/usc/t23/s104/a] to carry out [section 126(d) of Pub. L. 95–599][/us/pl/95/599/s126/d], set out below.
 
  __Grants to States, Counties, etc., To Promote Carpooling and Vanpooling Programs__ 
 
-[Pub. L. 95–599, title I, § 126(d)][/us/pl/95/599/s126/d]–(h), Nov. 6, 1978, [92 Stat. 2706][/us/stat/92/2706], 2707, as amended by [Pub. L. 102–240, title III, § 3004(b)][/us/pl/102/240/s3004/b], Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088], provided that:
+[Pub. L. 95–599, title I][/us/pl/95/599/tI], § 126(d)–(h), Nov. 6, 1978, [92 Stat. 2706][/us/stat/92/2706], 2707, as amended by [Pub. L. 102–240, title III][/us/pl/102/240/tIII], § 3004(b), Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088], provided that:
 
 >     “(d) It is hereby declared to be national policy that special effort should be made to promote commuter modes of transportation which conserve energy, reduce pollution, and reduce traffic congestion. The Secretary is directed to assist both public and private employers and employees who wish to establish carpooling and vanpooling programs where they are needed and desired, and to assist local and State governments, and their instrumentalities, in encouraging such modes by removing legal and regulatory barriers to such programs, supporting existing carpooling and vanpooling programs, and providing technical assistance, for the purpose of increasing participation in such modes.
 
@@ -73,34 +73,34 @@
 ----------
 
 [/us/usc/t23/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F2
-[/us/pl/95/599/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs126%2Fa
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2705
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F125
-[/us/pl/112/141/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1105%2Fb
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F432
-[/us/pl/93/87/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs125%2Fa
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F262
-[/us/pl/94/280/s128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs128%2Fa
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F440
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/97/424/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs163
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2136
-[/us/pl/100/17/s133/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fa%2F4
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F170
-[/us/pl/102/240/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1056
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2002
-[/us/pl/97/424/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs123%2Fb
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2113
 [/us/usc/t23/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fa
 [/us/pl/95/599/s126/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs126%2Fd
-[/us/pl/95/599/s126/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs126%2Fd
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2706
-[/us/pl/102/240/s3004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs3004%2Fb
+[/us/pl/102/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtIII
 [/us/stat/105/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2088
 [/us/usc/t23/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs146
 [/us/pl/95/599/s126/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs126%2Fh

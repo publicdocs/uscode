@@ -51,7 +51,7 @@
 
     The National ITS program plan shall be submitted and biennially updated.
 
-(Added [Pub. L. 109–59, title V, § 5301(a)][/us/pl/109/59/s5301/a], Aug. 10, 2005, [119 Stat. 1804][/us/stat/119/1804]; amended [Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(D)][/us/pl/114/94/s6019/d/1/D], Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581].)
+(Added [Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5301(a), Aug. 10, 2005, [119 Stat. 1804][/us/stat/119/1804]; amended [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(d)(1)(D), Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 512, formerly 511, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 834][/us/stat/82/834]; renumbered § 512, [Pub. L. 91–605, title I, § 117(a)][/us/pl/91/605/s117/a], Dec. 31, 1970, [84 Stat. 1724][/us/stat/84/1724], related to definitions for chapter, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
+    A prior section 512, formerly 511, added [Pub. L. 90–495][/us/pl/90/495], § 30, Aug. 23, 1968, [82 Stat. 834][/us/stat/82/834]; renumbered § 512, [Pub. L. 91–605, title I][/us/pl/91/605/tI], § 117(a), Dec. 31, 1970, [84 Stat. 1724][/us/stat/84/1724], related to definitions for chapter, prior to repeal by [Pub. L. 91–646, title II][/us/pl/91/646/tII], § 220(a)(10), Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
 
  __Amendments__ 
 
@@ -71,7 +71,7 @@
 
  __Intelligent Transportation System Program__ 
 
-[Pub. L. 109–59, title V][/us/pl/109/59], §§ 5303–5310, Aug. 10, 2005, [119 Stat. 1806–1813][/us/stat/119/1806-1813], as amended by [Pub. L. 114–94, div. A, title VI, § 6019(d)(3)][/us/pl/114/94/s6019/d/3], Dec. 4, 2015, [129 Stat. 1582][/us/stat/129/1582], provided that:
+[Pub. L. 109–59, title V][/us/pl/109/59/tV], §§ 5303–5310, Aug. 10, 2005, [119 Stat. 1806–1813][/us/stat/119/1806-1813], as amended by [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(d)(3), Dec. 4, 2015, [129 Stat. 1582][/us/stat/129/1582], provided that:
 
 > “SEC. 5303. __GOALS AND PURPOSES.__ 
 
@@ -527,7 +527,7 @@
 
  __Environmental Review of Activities That Support Deployment of Intelligent Transportation Systems__ 
 
-[Pub. L. 109–59, title VI, § 6010][/us/pl/109/59/s6010], Aug. 10, 2005, [119 Stat. 1877][/us/stat/119/1877], provided that:
+[Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6010, Aug. 10, 2005, [119 Stat. 1877][/us/stat/119/1877], provided that:
 
 >     “(a)  __Categorical Exclusions__  __.—__ 
 
@@ -554,24 +554,24 @@
 ----------
 ----------
 
-[/us/pl/109/59/s5301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5301%2Fa
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1804
-[/us/pl/114/94/s6019/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F1%2FD
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1581
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/90/495/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs30
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F834
-[/us/pl/91/605/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs117%2Fa
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1724
-[/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1806-1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1806-1813
-[/us/pl/114/94/s6019/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F3
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1582
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs513
@@ -592,7 +592,7 @@
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
-[/us/pl/109/59/s6010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6010
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1877
 [/us/usc/t42/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

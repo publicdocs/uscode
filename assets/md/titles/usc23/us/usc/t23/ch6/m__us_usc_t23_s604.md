@@ -149,37 +149,37 @@
 
             (B) to conclude, with full repayment of principal and interest, by the date that is 25 years after the end of the period of availability specified in subsection (b)(6).
 
-(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 247][/us/stat/112/247], § 184; renumbered § 604 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(e), 1602(b)(4), (d), Aug. 10, 2005, [119 Stat. 1241][/us/stat/119/1241], 1247; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 617][/us/stat/126/617].)
+(Added [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1503(a), June 9, 1998, [112 Stat. 247][/us/stat/112/247], § 184; renumbered § 604 and amended [Pub. L. 109–59, title I][/us/pl/109/59/tI], §§ 1601(e), 1602(b)(4), (d), Aug. 10, 2005, [119 Stat. 1241][/us/stat/119/1241], 1247; [Pub. L. 112–141, div. A, title II][/us/pl/112/141/dA/tII], § 2002, July 6, 2012, [126 Stat. 617][/us/stat/126/617].)
 
  __Amendments__ 
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to lines of credit.
 
-    2005—[Pub. L. 109–59, § 1602(d)][/us/pl/109/59/s1602/d], renumbered [section 184 of this title][/us/usc/t23/s184] as this section.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 1602(d), renumbered [section 184 of this title][/us/usc/t23/s184] as this section.
 
-    Subsec. (a)(1). [Pub. L. 109–59, § 1602(b)(4)(A)][/us/pl/109/59/s1602/b/4/A], substituted “602” for “182”.
+    Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 1602(b)(4)(A), substituted “602” for “182”.
 
-    Subsec. (a)(3). [Pub. L. 109–59, § 1602(b)(4)(B)][/us/pl/109/59/s1602/b/4/B], substituted “602(b)(2)(B)” for “182(b)(2)(B)”.
+    Subsec. (a)(3). [Pub. L. 109–59][/us/pl/109/59], § 1602(b)(4)(B), substituted “602(b)(2)(B)” for “182(b)(2)(B)”.
 
-    Subsec. (b)(2). [Pub. L. 109–59, § 1601(e)(1)(A)][/us/pl/109/59/s1601/e/1/A], added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+    Subsec. (b)(2). [Pub. L. 109–59][/us/pl/109/59], § 1601(e)(1)(A), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 
     “(A) Total amount.—The total amount of the line of credit shall not exceed 33 percent of the reasonably anticipated eligible project costs.
 
     “(B) 1-year draws.—The amount drawn in any 1 year shall not exceed 20 percent of the total amount of the line of credit.”
 
-    Subsec. (b)(3). [Pub. L. 109–59, § 1601(e)(1)(B)][/us/pl/109/59/s1601/e/1/B], substituted “but not including reasonably required financing reserves” for “, any debt service reserve fund, and any other available reserve”.
+    Subsec. (b)(3). [Pub. L. 109–59][/us/pl/109/59], § 1601(e)(1)(B), substituted “but not including reasonably required financing reserves” for “, any debt service reserve fund, and any other available reserve”.
 
-    Subsec. (b)(4). [Pub. L. 109–59, § 1601(e)(1)(C)][/us/pl/109/59/s1601/e/1/C], struck out “marketable” before “United States Treasury securities” and substituted “date of execution of the line of credit agreement” for “date on which the line of credit is obligated”.
+    Subsec. (b)(4). [Pub. L. 109–59][/us/pl/109/59], § 1601(e)(1)(C), struck out “marketable” before “United States Treasury securities” and substituted “date of execution of the line of credit agreement” for “date on which the line of credit is obligated”.
 
-    Subsec. (b)(5)(A)(i). [Pub. L. 109–59, § 1601(e)(1)(D)][/us/pl/109/59/s1601/e/1/D], inserted “that also secure the senior project obligations” after “sources”.
+    Subsec. (b)(5)(A)(i). [Pub. L. 109–59][/us/pl/109/59], § 1601(e)(1)(D), inserted “that also secure the senior project obligations” after “sources”.
 
-    Subsec. (b)(6). [Pub. L. 109–59, § 1601(e)(1)(E)][/us/pl/109/59/s1601/e/1/E], substituted “The full amount of the line of credit, to the extent not drawn upon,” for “The line of credit”.
+    Subsec. (b)(6). [Pub. L. 109–59][/us/pl/109/59], § 1601(e)(1)(E), substituted “The full amount of the line of credit, to the extent not drawn upon,” for “The line of credit”.
 
-    Subsec. (b)(10). [Pub. L. 109–59, § 1602(b)(4)(C)][/us/pl/109/59/s1602/b/4/C], substituted “603” for “183”.
+    Subsec. (b)(10). [Pub. L. 109–59][/us/pl/109/59], § 1602(b)(4)(C), substituted “603” for “183”.
 
-    Subsec. (c)(2). [Pub. L. 109–59, § 1601(e)(2)(A)][/us/pl/109/59/s1601/e/2/A], struck out “scheduled” before “repayments”, inserted “be scheduled to” after “shall”, and substituted “to conclude, with full repayment of principal and interest,” for “be fully repaid, with interest,”.
+    Subsec. (c)(2). [Pub. L. 109–59][/us/pl/109/59], § 1601(e)(2)(A), struck out “scheduled” before “repayments”, inserted “be scheduled to” after “shall”, and substituted “to conclude, with full repayment of principal and interest,” for “be fully repaid, with interest,”.
 
-    Subsec. (c)(3). [Pub. L. 109–59, § 1601(e)(2)(B)][/us/pl/109/59/s1601/e/2/B], struck out heading and text of par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
+    Subsec. (c)(3). [Pub. L. 109–59][/us/pl/109/59], § 1601(e)(2)(B), struck out heading and text of par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -192,25 +192,25 @@
 ----------
 ----------
 
-[/us/pl/105/178/s1503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1503%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F247
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1241
-[/us/pl/112/141/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2002
+[/us/pl/112/141/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtII
 [/us/stat/126/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F617
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s1602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fd
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs184
-[/us/pl/109/59/s1602/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F4%2FA
-[/us/pl/109/59/s1602/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F4%2FB
-[/us/pl/109/59/s1601/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fe%2F1%2FA
-[/us/pl/109/59/s1601/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fe%2F1%2FB
-[/us/pl/109/59/s1601/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fe%2F1%2FC
-[/us/pl/109/59/s1601/e/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fe%2F1%2FD
-[/us/pl/109/59/s1601/e/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fe%2F1%2FE
-[/us/pl/109/59/s1602/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F4%2FC
-[/us/pl/109/59/s1601/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fe%2F2%2FA
-[/us/pl/109/59/s1601/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fe%2F2%2FB
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

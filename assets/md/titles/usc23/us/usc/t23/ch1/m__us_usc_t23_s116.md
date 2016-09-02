@@ -39,21 +39,21 @@
 
     A preventive maintenance activity shall be eligible for Federal assistance under this title if the State demonstrates to the satisfaction of the Secretary that the activity is a cost-effective means of extending the useful life of a Federal-aid highway.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 896][/us/stat/72/896]; [Pub. L. 86–70, § 21(d)(2)][/us/pl/86/70/s21/d/2], (e)(3), June 25, 1959, [73 Stat. 145][/us/stat/73/145], 146; [Pub. L. 90–495, § 26][/us/pl/90/495/s26], Aug. 23, 1968, [82 Stat. 829][/us/stat/82/829]; [Pub. L. 95–599, title I, § 124(d)][/us/pl/95/599/s124/d], Nov. 6, 1978, [92 Stat. 2705][/us/stat/92/2705]; [Pub. L. 97–424, title I, § 114][/us/pl/97/424/s114], Jan. 6, 1983, [96 Stat. 2107][/us/stat/96/2107]; [Pub. L. 100–17, title I, § 125(b)(2)][/us/pl/100/17/s125/b/2], Apr. 2, 1987, [101 Stat. 167][/us/stat/101/167]; [Pub. L. 104–59, title III, § 309][/us/pl/104/59/s309], Nov. 28, 1995, [109 Stat. 582][/us/stat/109/582]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I, § 1111(b)(1)][/us/pl/109/59/s1111/b/1], Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171]; [Pub. L. 112–141, div. A, title I, § 1507][/us/pl/112/141/s1507], July 6, 2012, [126 Stat. 565][/us/stat/126/565].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 896][/us/stat/72/896]; [Pub. L. 86–70][/us/pl/86/70], § 21(d)(2), (e)(3), June 25, 1959, [73 Stat. 145][/us/stat/73/145], 146; [Pub. L. 90–495][/us/pl/90/495], § 26, Aug. 23, 1968, [82 Stat. 829][/us/stat/82/829]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 124(d), Nov. 6, 1978, [92 Stat. 2705][/us/stat/92/2705]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 114, Jan. 6, 1983, [96 Stat. 2107][/us/stat/96/2107]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 125(b)(2), Apr. 2, 1987, [101 Stat. 167][/us/stat/101/167]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 309, Nov. 28, 1995, [109 Stat. 582][/us/stat/109/582]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1111(b)(1), Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1507, July 6, 2012, [126 Stat. 565][/us/stat/126/565].)
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 1507(2)][/us/pl/112/141/s1507/2], added subsec. (a). Former subsec. (a) redesignated (b).
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 1507(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (b). [Pub. L. 112–141, § 1507(1)][/us/pl/112/141/s1507/1], (3), redesignated subsec. (a) as (b), inserted “or other direct recipient” before “to maintain”, and struck out at end “The State’s obligation to the United States to maintain any such project shall cease when it no longer constitutes a part of a Federal-aid system.” Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 1507(1), (3), redesignated subsec. (a) as (b), inserted “or other direct recipient” before “to maintain”, and struck out at end “The State’s obligation to the United States to maintain any such project shall cease when it no longer constitutes a part of a Federal-aid system.” Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 112–141, § 1507(4)][/us/pl/112/141/s1507/4], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In any State wherein the State transportation department is without legal authority to maintain a project constructed on the Federal-aid secondary system, or within a municipality, such transportation department shall enter into a formal agreement for its maintenance with the appropriate officials of the county or municipality in which such project is located.”
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 1507(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In any State wherein the State transportation department is without legal authority to maintain a project constructed on the Federal-aid secondary system, or within a municipality, such transportation department shall enter into a formal agreement for its maintenance with the appropriate officials of the county or municipality in which such project is located.”
 
-    [Pub. L. 112–141, § 1507(1)][/us/pl/112/141/s1507/1], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    [Pub. L. 112–141][/us/pl/112/141], § 1507(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 112–141, § 1507(1)][/us/pl/112/141/s1507/1], (5), redesignated subsec. (c) as (d) and inserted “or other direct recipient” after “State transportation department”. Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 1507(1), (5), redesignated subsec. (c) as (d) and inserted “or other direct recipient” after “State transportation department”. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 112–141, § 1507(1)][/us/pl/112/141/s1507/1], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 1507(1), redesignated subsec. (d) as (e).
 
     2005—Subsec. (b). [Pub. L. 109–59][/us/pl/109/59] substituted “such transportation department” for “such highway department”.
 
@@ -73,9 +73,9 @@
 
     1968—Subsecs. (d), (e). [Pub. L. 90–495][/us/pl/90/495] added subsecs. (d) and (e).
 
-    1959—Subsec. (a). [Pub. L. 86–70, § 21(e)(3)][/us/pl/86/70/s21/e/3], substituted “It” for “Except as provided in subsection (d) of this section, it”.
+    1959—Subsec. (a). [Pub. L. 86–70][/us/pl/86/70], § 21(e)(3), substituted “It” for “Except as provided in subsection (d) of this section, it”.
 
-    Subsec. (d). [Pub. L. 86–70, § 21(d)(2)][/us/pl/86/70/s21/d/2], repealed subsec. (d) which related to expenditure of funds apportioned to the Territory of Alaska and contributed by the Territory for the maintenance of roads.
+    Subsec. (d). [Pub. L. 86–70][/us/pl/86/70], § 21(d)(2), repealed subsec. (d) which related to expenditure of funds apportioned to the Territory of Alaska and contributed by the Territory for the maintenance of roads.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -93,7 +93,7 @@
 
  __Pilot Program__ 
 
-[Pub. L. 114–94, div. A, title I, § 1424][/us/pl/114/94/s1424], Dec. 4, 2015, [129 Stat. 1425][/us/stat/129/1425], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1424, Dec. 4, 2015, [129 Stat. 1425][/us/stat/129/1425], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -119,7 +119,7 @@
 
  __Establishment of Minimum Federal Guidelines for Maintenance; Study by National Academy of Sciences and Report__ 
 
-    [Pub. L. 100–17, title I, § 163][/us/pl/100/17/s163], Apr. 2, 1987, [101 Stat. 213][/us/stat/101/213], directed Secretary to enter into appropriate arrangements with the National Academy of Sciences to conduct a complete investigation of the appropriateness of establishing minimum Federal guidelines for maintenance of the Federal-aid primary, secondary, and urban systems and, not later than 18 months after entering into appropriate arrangements, the National Academy of Sciences was to submit to Secretary and Congress a report on the results of the investigation and study together with recommendations (including legislative and administrative recommendations) concerning establishment of minimum Federal guidelines for maintenance of the Federal-aid primary, secondary, and urban systems.
+    [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 163, Apr. 2, 1987, [101 Stat. 213][/us/stat/101/213], directed Secretary to enter into appropriate arrangements with the National Academy of Sciences to conduct a complete investigation of the appropriateness of establishing minimum Federal guidelines for maintenance of the Federal-aid primary, secondary, and urban systems and, not later than 18 months after entering into appropriate arrangements, the National Academy of Sciences was to submit to Secretary and Congress a report on the results of the investigation and study together with recommendations (including legislative and administrative recommendations) concerning establishment of minimum Federal guidelines for maintenance of the Federal-aid primary, secondary, and urban systems.
 
 ----------
 
@@ -130,30 +130,30 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F896
-[/us/pl/86/70/s21/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fd%2F2
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F145
-[/us/pl/90/495/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs26
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F829
-[/us/pl/95/599/s124/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs124%2Fd
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2705
-[/us/pl/97/424/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs114
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2107
-[/us/pl/100/17/s125/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs125%2Fb%2F2
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F167
-[/us/pl/104/59/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs309
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F582
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/109/59/s1111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1111%2Fb%2F1
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1171
-[/us/pl/112/141/s1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1507
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F565
-[/us/pl/112/141/s1507/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1507%2F2
-[/us/pl/112/141/s1507/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1507%2F1
-[/us/pl/112/141/s1507/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1507%2F4
-[/us/pl/112/141/s1507/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1507%2F1
-[/us/pl/112/141/s1507/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1507%2F1
-[/us/pl/112/141/s1507/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1507%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
@@ -162,8 +162,8 @@
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
-[/us/pl/86/70/s21/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe%2F3
-[/us/pl/86/70/s21/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fd%2F2
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -176,10 +176,10 @@
 [/us/pl/86/70/s21/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe%2F3
 [/us/pl/86/70/s21/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1424
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1425
 [/us/usc/t23/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs111
-[/us/pl/100/17/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs163
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F213
 
 

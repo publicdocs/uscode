@@ -255,7 +255,7 @@
 
     (e) It is the national policy that to the maximum extent possible the procedures to be utilized by the Secretary and all other affected heads of Federal departments, agencies, and instrumentalities for carrying out this title and any other provision of law relating to the Federal highway programs shall encourage the substantial minimization of paperwork and interagency decision procedures and the best use of available manpower and funds so as to prevent needless duplication and unnecessary delays at all levels of government.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 885][/us/stat/72/885]; [Pub. L. 86–70, § 21(e)(1)][/us/pl/86/70/s21/e/1], June 25, 1959, [73 Stat. 146][/us/stat/73/146]; [Pub. L. 86–624, § 17(a)][/us/pl/86/624/s17/a], July 12, 1960, [74 Stat. 415][/us/stat/74/415]; [Pub. L. 87–866, § 6(a)][/us/pl/87/866/s6/a], Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 88–423, § 3][/us/pl/88/423/s3], Aug. 13, 1964, [78 Stat. 397][/us/stat/78/397]; [Pub. L. 89–574, § 4(a)][/us/pl/89/574/s4/a], Sept. 13, 1966, [80 Stat. 767][/us/stat/80/767]; [Pub. L. 90–495][/us/pl/90/495], §§ 4(a), 8, 15, Aug. 23, 1968, [82 Stat. 816][/us/stat/82/816], 819, 822; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 104(a), 106(a), 107, 117(d), 130, 141, Dec. 31, 1970, [84 Stat. 1714][/us/stat/84/1714], 1716, 1718, 1724, 1732, 1737; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 105, 106(a), 107, 108, 152(1), Aug. 13, 1973, [87 Stat. 253–255][/us/stat/87/253-255], 276; [Pub. L. 93–643, § 102(b)][/us/pl/93/643/s102/b], Jan. 4, 1975, [88 Stat. 2281][/us/stat/88/2281]; [Pub. L. 94–280, title I][/us/pl/94/280], §§ 107(a), 108, May 5, 1976, [90 Stat. 430][/us/stat/90/430], 431; [Pub. L. 95–599, title I, § 106][/us/pl/95/599/s106], Nov. 6, 1978, [92 Stat. 2693][/us/stat/92/2693]; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 126(c), 159, Jan. 6, 1983, [96 Stat. 2115][/us/stat/96/2115], 2135; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 102(b)(3), 108, 109, 133(b)(2), (3), Apr. 2, 1987, [101 Stat. 135][/us/stat/101/135], 146, 171; [Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927]; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1001(g), 1005, 1006(g)(1), 1007(c), Dec. 18, 1991, [105 Stat. 1916][/us/stat/105/1916], 1922, 1927, 1931; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 301(b), 311(b), Nov. 28, 1995, [109 Stat. 578][/us/stat/109/578], 583; [Pub. L. 105–178, title I, § 1201][/us/pl/105/178/s1201], June 9, 1998, [112 Stat. 164][/us/stat/112/164]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1122, 1909(a), Aug. 10, 2005, [119 Stat. 1196][/us/stat/119/1196], 1470; [Pub. L. 110–244, title I, § 101(h)][/us/pl/110/244/s101/h], June 6, 2008, [122 Stat. 1574][/us/stat/122/1574]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1103, 1301(c), 1501, July 6, 2012, [126 Stat. 419][/us/stat/126/419], 528, 560; [Pub. L. 114–94, div. A, title I, § 1103][/us/pl/114/94/s1103], Dec. 4, 2015, [129 Stat. 1328][/us/stat/129/1328].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 885][/us/stat/72/885]; [Pub. L. 86–70][/us/pl/86/70], § 21(e)(1), June 25, 1959, [73 Stat. 146][/us/stat/73/146]; [Pub. L. 86–624][/us/pl/86/624], § 17(a), July 12, 1960, [74 Stat. 415][/us/stat/74/415]; [Pub. L. 87–866][/us/pl/87/866], § 6(a), Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 88–423][/us/pl/88/423], § 3, Aug. 13, 1964, [78 Stat. 397][/us/stat/78/397]; [Pub. L. 89–574][/us/pl/89/574], § 4(a), Sept. 13, 1966, [80 Stat. 767][/us/stat/80/767]; [Pub. L. 90–495][/us/pl/90/495], §§ 4(a), 8, 15, Aug. 23, 1968, [82 Stat. 816][/us/stat/82/816], 819, 822; [Pub. L. 91–605, title I][/us/pl/91/605/tI], §§ 104(a), 106(a), 107, 117(d), 130, 141, Dec. 31, 1970, [84 Stat. 1714][/us/stat/84/1714], 1716, 1718, 1724, 1732, 1737; [Pub. L. 93–87, title I][/us/pl/93/87/tI], §§ 105, 106(a), 107, 108, 152(1), Aug. 13, 1973, [87 Stat. 253–255][/us/stat/87/253-255], 276; [Pub. L. 93–643][/us/pl/93/643], § 102(b), Jan. 4, 1975, [88 Stat. 2281][/us/stat/88/2281]; [Pub. L. 94–280, title I][/us/pl/94/280/tI], §§ 107(a), 108, May 5, 1976, [90 Stat. 430][/us/stat/90/430], 431; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 106, Nov. 6, 1978, [92 Stat. 2693][/us/stat/92/2693]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], §§ 126(c), 159, Jan. 6, 1983, [96 Stat. 2115][/us/stat/96/2115], 2135; [Pub. L. 100–17, title I][/us/pl/100/17/tI], §§ 102(b)(3), 108, 109, 133(b)(2), (3), Apr. 2, 1987, [101 Stat. 135][/us/stat/101/135], 146, 171; [Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], §§ 1001(g), 1005, 1006(g)(1), 1007(c), Dec. 18, 1991, [105 Stat. 1916][/us/stat/105/1916], 1922, 1927, 1931; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], §§ 301(b), 311(b), Nov. 28, 1995, [109 Stat. 578][/us/stat/109/578], 583; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1201, June 9, 1998, [112 Stat. 164][/us/stat/112/164]; [Pub. L. 109–59, title I][/us/pl/109/59/tI], §§ 1122, 1909(a), Aug. 10, 2005, [119 Stat. 1196][/us/stat/119/1196], 1470; [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 101(h), June 6, 2008, [122 Stat. 1574][/us/stat/122/1574]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], §§ 1103, 1301(c), 1501, July 6, 2012, [126 Stat. 419][/us/stat/126/419], 528, 560; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1103, Dec. 4, 2015, [129 Stat. 1328][/us/stat/129/1328].)
 
  __References in Text__ 
 
@@ -265,187 +265,187 @@
 
     2015—Subsec. (a)(15) to (29). [Pub. L. 114–94][/us/pl/114/94] added par. (15), redesignated pars. (15) to (28) as (16) to (29), respectively, and struck out former par. (29) which defined transportation alternatives.
 
-    2012—Subsec. (a)(2). [Pub. L. 112–141, § 1103(a)(3)][/us/pl/112/141/s1103/a/3], added par. (2). Former par. (2) redesignated (3).
+    2012—Subsec. (a)(2). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(3), added par. (2). Former par. (2) redesignated (3).
 
     Subsec. (a)(3). [Pub. L. 112–141][/us/pl/112/141], §§ 1103(a)(2), 1501, redesignated par. (2) as (3) and substituted “designating existing facilities for use for preferential parking for carpools, and real-time ridesharing projects, such as projects where drivers, using an electronic transfer of funds, recover costs directly associated with the trip provided through the use of location technology to quantify those direct costs, subject to the condition that the cost recovered does not exceed the cost of the trip provided” for “and designating existing facilities for use for preferential parking for carpools”. Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], (4)(A), redesignated par. (3) as (4) and inserted “or any project eligible for assistance under this title” after “reconstruction of a highway” in introductory provisions. Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), (4)(A), redesignated par. (3) as (4) and inserted “or any project eligible for assistance under this title” after “reconstruction of a highway” in introductory provisions. Former par. (4) redesignated (5).
 
-    Subsec. (a)(4)(A). [Pub. L. 112–141, § 1103(a)(4)(B)][/us/pl/112/141/s1103/a/4/B], added subpar. (A) and struck out former subpar. (A) which read as follows: “locating, surveying, and mapping (including the establishment of temporary and permanent geodetic markers in accordance with specifications of the National Oceanic and Atmospheric Administration of the Department of Commerce);”.
+    Subsec. (a)(4)(A). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(4)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “locating, surveying, and mapping (including the establishment of temporary and permanent geodetic markers in accordance with specifications of the National Oceanic and Atmospheric Administration of the Department of Commerce);”.
 
-    Subsec. (a)(4)(B). [Pub. L. 112–141, § 1103(a)(4)(C)][/us/pl/112/141/s1103/a/4/C], inserted “reconstruction,” before “resurfacing,” and substituted “rehabilitation, and preservation” for “and rehabilitation”.
+    Subsec. (a)(4)(B). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(4)(C), inserted “reconstruction,” before “resurfacing,” and substituted “rehabilitation, and preservation” for “and rehabilitation”.
 
-    Subsec. (a)(4)(E). [Pub. L. 112–141, § 1103(a)(4)(D)][/us/pl/112/141/s1103/a/4/D], substituted “railway-highway” for “railway”.
+    Subsec. (a)(4)(E). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(4)(D), substituted “railway-highway” for “railway”.
 
-    Subsec. (a)(4)(F). [Pub. L. 112–141, § 1103(a)(4)(E)][/us/pl/112/141/s1103/a/4/E], substituted “hazards” for “obstacles”.
+    Subsec. (a)(4)(F). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(4)(E), substituted “hazards” for “obstacles”.
 
-    Subsec. (a)(5). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (a)(5). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (a)(6). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], (5), redesignated par. (5) as (6) and inserted “public” before “highway eligible” and “functionally” before “classified”.
+    Subsec. (a)(6). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), (5), redesignated par. (5) as (6) and inserted “public” before “highway eligible” and “functionally” before “classified”.
 
-    [Pub. L. 112–141, § 1103(a)(1)][/us/pl/112/141/s1103/a/1], struck out par. (6). Text read as follows: “The term ‘Federal-aid system’ means any of the Federal-aid highway systems described in section 103.”
+    [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(1), struck out par. (6). Text read as follows: “The term ‘Federal-aid system’ means any of the Federal-aid highway systems described in section 103.”
 
-    Subsec. (a)(7). [Pub. L. 112–141, § 1103(a)(1)][/us/pl/112/141/s1103/a/1], (6), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘Federal lands highway’ means a forest highway, public lands highway, park road, parkway, refuge road, and Indian reservation road that is a public road.”
+    Subsec. (a)(7). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(1), (6), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘Federal lands highway’ means a forest highway, public lands highway, park road, parkway, refuge road, and Indian reservation road that is a public road.”
 
-    Subsec. (a)(8). [Pub. L. 112–141, § 1103(a)(6)][/us/pl/112/141/s1103/a/6], added par. (8). Former par. (8) redesignated (9).
+    Subsec. (a)(8). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(6), added par. (8). Former par. (8) redesignated (9).
 
-    Subsec. (a)(9). [Pub. L. 112–141, § 1103(a)(1)][/us/pl/112/141/s1103/a/1], (2), redesignated par. (8) as (9) and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: “The term ‘forest highway’ means a forest road under the jurisdiction of, and maintained by, a public authority and open to public travel.”
+    Subsec. (a)(9). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(1), (2), redesignated par. (8) as (9) and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: “The term ‘forest highway’ means a forest road under the jurisdiction of, and maintained by, a public authority and open to public travel.”
 
-    Subsec. (a)(11)(B). [Pub. L. 112–141, § 1103(a)(7)][/us/pl/112/141/s1103/a/7], inserted “including public roads on dams” after “drainage structure”.
+    Subsec. (a)(11)(B). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(7), inserted “including public roads on dams” after “drainage structure”.
 
-    Subsec. (a)(12). [Pub. L. 112–141, § 1103(a)(1)][/us/pl/112/141/s1103/a/1], (2), redesignated par. (13) as (12) and struck out former par. (12) which defined Indian reservation road.
+    Subsec. (a)(12). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(1), (2), redesignated par. (13) as (12) and struck out former par. (12) which defined Indian reservation road.
 
-    Subsec. (a)(13). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], redesignated par. (14) as (13). Former par. (13) redesignated (12).
+    Subsec. (a)(13). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), redesignated par. (14) as (13). Former par. (13) redesignated (12).
 
-    Subsec. (a)(14). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], (8), redesignated par. (15) as (14), substituted “as an air quality” for “as a”, and inserted “air quality” before “attainment area”. Former par. (14) redesignated (13).
+    Subsec. (a)(14). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), (8), redesignated par. (15) as (14), substituted “as an air quality” for “as a”, and inserted “air quality” before “attainment area”. Former par. (14) redesignated (13).
 
-    Subsec. (a)(15) to (17). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], redesignated pars. (16) to (18) as (15) to (17), respectively. Former par. (15) redesignated (14).
+    Subsec. (a)(15) to (17). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), redesignated pars. (16) to (18) as (15) to (17), respectively. Former par. (15) redesignated (14).
 
-    Subsec. (a)(18). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], (9), redesignated par. (21) as (18) and substituted “any undertaking” for “an undertaking to construct a particular portion of a highway, or if the context so implies, the particular portion of a highway so constructed or any other undertaking”. Former par. (18) redesignated (17).
+    Subsec. (a)(18). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), (9), redesignated par. (21) as (18) and substituted “any undertaking” for “an undertaking to construct a particular portion of a highway, or if the context so implies, the particular portion of a highway so constructed or any other undertaking”. Former par. (18) redesignated (17).
 
-    Subsec. (a)(19). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], (10), redesignated par. (22) as (19) and substituted “the Secretary and the recipient” for “the State transportation department and the Secretary”.
+    Subsec. (a)(19). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), (10), redesignated par. (22) as (19) and substituted “the Secretary and the recipient” for “the State transportation department and the Secretary”.
 
-    [Pub. L. 112–141, § 1103(a)(1)][/us/pl/112/141/s1103/a/1], struck out par. (19). Text read as follows: “The term ‘park road’ means a public road, including a bridge built primarily for pedestrian use, but with capacity for use by emergency vehicles, that is located within, or provides access to, an area in the National Park System with title and maintenance responsibilities vested in the United States.”
+    [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(1), struck out par. (19). Text read as follows: “The term ‘park road’ means a public road, including a bridge built primarily for pedestrian use, but with capacity for use by emergency vehicles, that is located within, or provides access to, an area in the National Park System with title and maintenance responsibilities vested in the United States.”
 
-    Subsec. (a)(20). [Pub. L. 112–141, § 1103(a)(1)][/us/pl/112/141/s1103/a/1], (2), redesignated par. (23) as (20) and struck out former par. (20). Prior to amendment, text of par. (20) read as follows: “The term ‘parkway’, as used in chapter 2 of this title, means a parkway authorized by Act of Congress on lands to which title is vested in the United States.”
+    Subsec. (a)(20). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(1), (2), redesignated par. (23) as (20) and struck out former par. (20). Prior to amendment, text of par. (20) read as follows: “The term ‘parkway’, as used in chapter 2 of this title, means a parkway authorized by Act of Congress on lands to which title is vested in the United States.”
 
-    Subsec. (a)(21). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], redesignated par. (27) as (21). Former par. (21) redesignated (18).
+    Subsec. (a)(21). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), redesignated par. (27) as (21). Former par. (21) redesignated (18).
 
-    Subsec. (a)(22). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], redesignated par. (29) as (22). Former par. (22) redesignated (19).
+    Subsec. (a)(22). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), redesignated par. (29) as (22). Former par. (22) redesignated (19).
 
-    Subsec. (a)(23). [Pub. L. 112–141, § 1103(a)(11)][/us/pl/112/141/s1103/a/11], added par. (23) and struck out former par. (23). Prior to amendment, text read as follows: “The term ‘safety improvement project’ means a project that corrects or improves high hazard locations, eliminates roadside obstacles, improves highway signing and pavement marking, installs priority control systems for emergency vehicles at signalized intersections, installs or replaces emergency motorist aid call boxes, or installs traffic control or warning devices at locations with high accident potential.”
+    Subsec. (a)(23). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(11), added par. (23) and struck out former par. (23). Prior to amendment, text read as follows: “The term ‘safety improvement project’ means a project that corrects or improves high hazard locations, eliminates roadside obstacles, improves highway signing and pavement marking, installs priority control systems for emergency vehicles at signalized intersections, installs or replaces emergency motorist aid call boxes, or installs traffic control or warning devices at locations with high accident potential.”
 
-    [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], redesignated par. (30) as (23). Former par. (23) redesignated (20).
+    [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), redesignated par. (30) as (23). Former par. (23) redesignated (20).
 
-    Subsec. (a)(24). [Pub. L. 112–141, § 1103(a)(1)][/us/pl/112/141/s1103/a/1], (2), redesignated par. (31) as (24) and struck out former par. (24). Prior to amendment, text of par. (24) read as follows: “The term ‘public lands development roads and trails’ means those roads and trails that the Secretary of the Interior determines are of primary importance for the development, protection, administration, and utilization of public lands and resources under the control of the Secretary of the Interior.”
+    Subsec. (a)(24). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(1), (2), redesignated par. (31) as (24) and struck out former par. (24). Prior to amendment, text of par. (24) read as follows: “The term ‘public lands development roads and trails’ means those roads and trails that the Secretary of the Interior determines are of primary importance for the development, protection, administration, and utilization of public lands and resources under the control of the Secretary of the Interior.”
 
-    Subsec. (a)(25), (26). [Pub. L. 112–141, § 1103(a)(1)][/us/pl/112/141/s1103/a/1], (2), redesignated pars. (32) and (33) as (25) and (26), respectively, and struck out former pars. (25) and (26) which defined public lands highway and public lands highways, respectively.
+    Subsec. (a)(25), (26). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(1), (2), redesignated pars. (32) and (33) as (25) and (26), respectively, and struck out former pars. (25) and (26) which defined public lands highway and public lands highways, respectively.
 
-    Subsec. (a)(27). [Pub. L. 112–141, § 1103(a)(12)][/us/pl/112/141/s1103/a/12], added par. (27). Former par. (27) redesignated (21).
+    Subsec. (a)(27). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(12), added par. (27). Former par. (27) redesignated (21).
 
-    Subsec. (a)(28). [Pub. L. 112–141, § 1103(a)(1)][/us/pl/112/141/s1103/a/1], (2), redesignated par. (34) as (28) and struck out former par. (28). Prior to amendment, text of par. (28) read as follows: “The term ‘refuge road’ means a public road that provides access to or within a unit of the National Wildlife Refuge System and for which title and maintenance responsibility is vested in the United States Government.”
+    Subsec. (a)(28). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(1), (2), redesignated par. (34) as (28) and struck out former par. (28). Prior to amendment, text of par. (28) read as follows: “The term ‘refuge road’ means a public road that provides access to or within a unit of the National Wildlife Refuge System and for which title and maintenance responsibility is vested in the United States Government.”
 
-    Subsec. (a)(29). [Pub. L. 112–141, § 1103(a)(13)][/us/pl/112/141/s1103/a/13], added par. (29) and struck out former par. (29) which defined transportation enhancement activity.
+    Subsec. (a)(29). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(13), added par. (29) and struck out former par. (29) which defined transportation enhancement activity.
 
-    [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], redesignated par. (35) as (29). Former par. (29) redesignated (22).
+    [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), redesignated par. (35) as (29). Former par. (29) redesignated (22).
 
-    Subsec. (a)(30) to (32). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], (14), added pars. (30) to (32) and redesignated former pars. (30) to (32) as (23) to (25), respectively.
+    Subsec. (a)(30) to (32). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), (14), added pars. (30) to (32) and redesignated former pars. (30) to (32) as (23) to (25), respectively.
 
-    Subsec. (a)(33) to (37). [Pub. L. 112–141, § 1103(a)(2)][/us/pl/112/141/s1103/a/2], redesignated pars. (33) to (37) as (26), (28), (29), (33), and (34), respectively.
+    Subsec. (a)(33) to (37). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(2), redesignated pars. (33) to (37) as (26), (28), (29), (33), and (34), respectively.
 
-    Subsec. (a)(38), (39). [Pub. L. 112–141, § 1103(a)(1)][/us/pl/112/141/s1103/a/1], struck out pars. (38) and (39) which defined advanced truck stop electrification system and transportation systems management and operations, respectively.
+    Subsec. (a)(38), (39). [Pub. L. 112–141][/us/pl/112/141], § 1103(a)(1), struck out pars. (38) and (39) which defined advanced truck stop electrification system and transportation systems management and operations, respectively.
 
-    Subsec. (b)(4). [Pub. L. 112–141, § 1301(c)][/us/pl/112/141/s1301/c], added par. (4).
+    Subsec. (b)(4). [Pub. L. 112–141][/us/pl/112/141], § 1301(c), added par. (4).
 
-    Subsec. (c). [Pub. L. 112–141, § 1103(b)][/us/pl/112/141/s1103/b], substituted “Federal-aid highway” for “Federal-aid system”.
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 1103(b), substituted “Federal-aid highway” for “Federal-aid system”.
 
     2008—Subsec. (a)(39). [Pub. L. 110–244][/us/pl/110/244] added par. (39).
 
-    2005—Subsec. (a)(35). [Pub. L. 109–59, § 1122(a)][/us/pl/109/59/s1122/a], amended heading and text of par. (35) generally, substituting introductory provisions and subpars. (A) to (L) defining “Transportation enhancement activity” for substantially identical undesignated provisions defining “Transportation enhancement activities”.
+    2005—Subsec. (a)(35). [Pub. L. 109–59][/us/pl/109/59], § 1122(a), amended heading and text of par. (35) generally, substituting introductory provisions and subpars. (A) to (L) defining “Transportation enhancement activity” for substantially identical undesignated provisions defining “Transportation enhancement activities”.
 
-    Subsec. (a)(38). [Pub. L. 109–59, § 1122(b)][/us/pl/109/59/s1122/b], added par. (38).
+    Subsec. (a)(38). [Pub. L. 109–59][/us/pl/109/59], § 1122(b), added par. (38).
 
-    Subsec. (b). [Pub. L. 109–59, § 1909(a)][/us/pl/109/59/s1909/a], inserted subsec. heading, substituted heading and text of par. (1) for first undesignated par. relating to declaration that it was in the national interest to accelerate the construction of the Federal-aid highway systems, designated second undesignated par. as par. (2), inserted heading, and substituted “Congress declares that the prompt and early completion of the Dwight D. Eisenhower National System of Interstate and Defense Highways (referred to in this section as the ‘Interstate System’), so named because of its primary importance to the national defense, is essential to the national interest” for “It is hereby declared that the prompt and early completion of The Dwight D. Eisenhower System of Interstate and Defense Highways, so named because of its primary importance to the national defense and hereafter referred to as the ‘Interstate System’, is essential to the national interest and is one of the most important objectives of this Act”, and substituted heading and text of par. (3) for third undesignated par. relating to the national policy that increased emphasis be placed on the construction and reconstruction of the other Federal-aid systems.
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 1909(a), inserted subsec. heading, substituted heading and text of par. (1) for first undesignated par. relating to declaration that it was in the national interest to accelerate the construction of the Federal-aid highway systems, designated second undesignated par. as par. (2), inserted heading, and substituted “Congress declares that the prompt and early completion of the Dwight D. Eisenhower National System of Interstate and Defense Highways (referred to in this section as the ‘Interstate System’), so named because of its primary importance to the national defense, is essential to the national interest” for “It is hereby declared that the prompt and early completion of The Dwight D. Eisenhower System of Interstate and Defense Highways, so named because of its primary importance to the national defense and hereafter referred to as the ‘Interstate System’, is essential to the national interest and is one of the most important objectives of this Act”, and substituted heading and text of par. (3) for third undesignated par. relating to the national policy that increased emphasis be placed on the construction and reconstruction of the other Federal-aid systems.
 
     1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178] inserted heading and amended text of subsec. (a) generally, alphabetizing, numbering, and inserting headings for terms defined, inserting definitions of “maintenance area” and “refuge road”, and substituting definition of “State transportation department” for definition of “State highway department”.
 
-    1995—Subsec. (a). [Pub. L. 104–59, § 311(b)][/us/pl/104/59/s311/b], in first sentence of definition of “construction”, inserted “bond costs and other costs relating to the issuance in accordance with section 122 of bonds or other debt financing instruments,” after “highway, including”.
+    1995—Subsec. (a). [Pub. L. 104–59][/us/pl/104/59], § 311(b), in first sentence of definition of “construction”, inserted “bond costs and other costs relating to the issuance in accordance with section 122 of bonds or other debt financing instruments,” after “highway, including”.
 
-    [Pub. L. 104–59, § 301(b)(1)][/us/pl/104/59/s301/b/1], in definition of “project”, inserted before period at end “or any other undertaking eligible for assistance under this title”.
+    [Pub. L. 104–59][/us/pl/104/59], § 301(b)(1), in definition of “project”, inserted before period at end “or any other undertaking eligible for assistance under this title”.
 
-    [Pub. L. 104–59, § 301(b)(2)][/us/pl/104/59/s301/b/2], added provision defining “operating costs for traffic monitoring, management, and control” and struck out former provision defining “startup costs for traffic management and control” which read as follows: “The term ‘startup costs for traffic management and control’ means initial costs (including labor costs, administration costs, cost of utilities, and rent) for integrated traffic control systems, incident management programs, and traffic control centers.”
+    [Pub. L. 104–59][/us/pl/104/59], § 301(b)(2), added provision defining “operating costs for traffic monitoring, management, and control” and struck out former provision defining “startup costs for traffic management and control” which read as follows: “The term ‘startup costs for traffic management and control’ means initial costs (including labor costs, administration costs, cost of utilities, and rent) for integrated traffic control systems, incident management programs, and traffic control centers.”
 
-    1991—Subsec. (a). [Pub. L. 102–240, § 1006(g)(1)][/us/pl/102/240/s1006/g/1], added provision defining “Federal-aid highways” and struck out former provision which read as follows: “The term ‘Federal-aid highways’ means highways located on one of the Federal-aid systems described in [section 103 of this title][/us/usc/t23/s103].”
+    1991—Subsec. (a). [Pub. L. 102–240][/us/pl/102/240], § 1006(g)(1), added provision defining “Federal-aid highways” and struck out former provision which read as follows: “The term ‘Federal-aid highways’ means highways located on one of the Federal-aid systems described in [section 103 of this title][/us/usc/t23/s103].”
 
-    [Pub. L. 102–240, § 1005(a)][/us/pl/102/240/s1005/a], in definition of “highway safety improvement project”, inserted “installs priority control systems for emergency vehicles at signalized intersections” after “marking,”.
+    [Pub. L. 102–240][/us/pl/102/240], § 1005(a), in definition of “highway safety improvement project”, inserted “installs priority control systems for emergency vehicles at signalized intersections” after “marking,”.
 
-    [Pub. L. 102–240, § 1005(d)(3)][/us/pl/102/240/s1005/d/3], in definition of “Indian reservation roads”, struck out “, including roads on the Federal-aid systems,” after “public roads”.
+    [Pub. L. 102–240][/us/pl/102/240], § 1005(d)(3), in definition of “Indian reservation roads”, struck out “, including roads on the Federal-aid systems,” after “public roads”.
 
-    [Pub. L. 102–240, § 1005(d)(4)][/us/pl/102/240/s1005/d/4], in definition of “park road”, inserted “, including a bridge built primarily for pedestrian use, but with capacity for use by emergency vehicles” before “that is located”.
+    [Pub. L. 102–240][/us/pl/102/240], § 1005(d)(4), in definition of “park road”, inserted “, including a bridge built primarily for pedestrian use, but with capacity for use by emergency vehicles” before “that is located”.
 
-    [Pub. L. 102–240, § 1005(b)][/us/pl/102/240/s1005/b], inserted provision defining “urbanized area” and struck out former provision which read as follows: “The term ‘urbanized area’ means an area so designated by the Bureau of the Census, within boundaries to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary. Such boundaries shall, as a minimum, encompass the entire urbanized area within a State as designated by the Bureau of the Census.”
+    [Pub. L. 102–240][/us/pl/102/240], § 1005(b), inserted provision defining “urbanized area” and struck out former provision which read as follows: “The term ‘urbanized area’ means an area so designated by the Bureau of the Census, within boundaries to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary. Such boundaries shall, as a minimum, encompass the entire urbanized area within a State as designated by the Bureau of the Census.”
 
-    [Pub. L. 102–240, § 1005(c)][/us/pl/102/240/s1005/c], inserted provision defining “National Highway System” and struck out former provision defining “Federal-aid primary system” which read as follows: “The term ‘Federal-aid primary system’ means the Federal-aid highway system described in subsection (b) of [section 103 of this title][/us/usc/t23/s103].”
+    [Pub. L. 102–240][/us/pl/102/240], § 1005(c), inserted provision defining “National Highway System” and struck out former provision defining “Federal-aid primary system” which read as follows: “The term ‘Federal-aid primary system’ means the Federal-aid highway system described in subsection (b) of [section 103 of this title][/us/usc/t23/s103].”
 
-    [Pub. L. 102–240, § 1005(d)(1)][/us/pl/102/240/s1005/d/1], (2), struck out provisions defining “Federal-aid secondary system” and “Federal-aid urban system” which read as follows:
+    [Pub. L. 102–240][/us/pl/102/240], § 1005(d)(1), (2), struck out provisions defining “Federal-aid secondary system” and “Federal-aid urban system” which read as follows:
 
     “The term ‘Federal-aid secondary system’ means the Federal-aid highway system described in subsection (c) of [section 103 of this title][/us/usc/t23/s103].
 
     “The term ‘Federal-aid urban system’ means the Federal-aid highway system described in subsection (d) of [section 103 of this title][/us/usc/t23/s103].”
 
-    [Pub. L. 102–240, § 1005(e)][/us/pl/102/240/s1005/e], in definition of “Interstate System”, inserted “Dwight D. Eisenhower” before “National”.
+    [Pub. L. 102–240][/us/pl/102/240], § 1005(e), in definition of “Interstate System”, inserted “Dwight D. Eisenhower” before “National”.
 
-    [Pub. L. 102–240, § 1005(g)][/us/pl/102/240/s1005/g], inserted provisions defining “start-up costs for traffic management and control”, “carpool project”, “public authority” and “public lands highway”.
+    [Pub. L. 102–240][/us/pl/102/240], § 1005(g), inserted provisions defining “start-up costs for traffic management and control”, “carpool project”, “public authority” and “public lands highway”.
 
-    [Pub. L. 102–240, § 1005(f)][/us/pl/102/240/s1005/f], inserted provision defining “operational improvement”.
+    [Pub. L. 102–240][/us/pl/102/240], § 1005(f), inserted provision defining “operational improvement”.
 
-    [Pub. L. 102–240, § 1007(c)][/us/pl/102/240/s1007/c], inserted provision defining “transportation enhancement activities”.
+    [Pub. L. 102–240][/us/pl/102/240], § 1007(c), inserted provision defining “transportation enhancement activities”.
 
-    Subsec. (b). [Pub. L. 102–240, § 1001(g)][/us/pl/102/240/s1001/g], substituted “forty” for “thirty-seven” and “1996” for “1993” in second par.
+    Subsec. (b). [Pub. L. 102–240][/us/pl/102/240], § 1001(g), substituted “forty” for “thirty-seven” and “1996” for “1993” in second par.
 
     1990—Subsec. (b). [Pub. L. 101–427][/us/pl/101/427] substituted “The Dwight D. Eisenhower System of Interstate and Defense Highways” for “the National System of Interstate and Defense Highways” in first two pars.
 
-    1987—Subsec. (a). [Pub. L. 100–17, § 108][/us/pl/100/17/s108], in definition of “construction”, inserted “elimination of roadside obstacles,” after “grade crossings,”.
+    1987—Subsec. (a). [Pub. L. 100–17][/us/pl/100/17], § 108, in definition of “construction”, inserted “elimination of roadside obstacles,” after “grade crossings,”.
 
-    [Pub. L. 100–17, § 133(b)(2)][/us/pl/100/17/s133/b/2], substituted definition of “forest road or trail” for “forest or trail”.
+    [Pub. L. 100–17][/us/pl/100/17], § 133(b)(2), substituted definition of “forest road or trail” for “forest or trail”.
 
-    [Pub. L. 100–17, § 109][/us/pl/100/17/s109], in definition of “highway safety improvement project”, inserted “installs or replaces emergency motorist-aid call boxes,” after “pavement marking,”.
+    [Pub. L. 100–17][/us/pl/100/17], § 109, in definition of “highway safety improvement project”, inserted “installs or replaces emergency motorist-aid call boxes,” after “pavement marking,”.
 
-    [Pub. L. 100–17, § 133(b)(3)][/us/pl/100/17/s133/b/3], amended definition of “park road” generally. Prior to amendment, definition read as follows: “The term ‘park road’ means a public road that is located within or provides access to an area in the national park system.”
+    [Pub. L. 100–17][/us/pl/100/17], § 133(b)(3), amended definition of “park road” generally. Prior to amendment, definition read as follows: “The term ‘park road’ means a public road that is located within or provides access to an area in the national park system.”
 
-    Subsec. (b). [Pub. L. 100–17, § 102(b)(3)][/us/pl/100/17/s102/b/3], substituted “thirty-seven years’ ” for “thirty-four years’ ” and “1993” for “1990” in second par.
+    Subsec. (b). [Pub. L. 100–17][/us/pl/100/17], § 102(b)(3), substituted “thirty-seven years’ ” for “thirty-four years’ ” and “1993” for “1990” in second par.
 
-    1983—Subsec. (a). [Pub. L. 97–424, § 126(c)(1)][/us/pl/97/424/s126/c/1], substituted provision that “park road” means a public road that is located within or provides access to an area in the national park system, for provision that “park roads and trails” means those roads or trails, including the necessary bridges, located in national parks or monuments, now or hereafter established, or in other areas administered by the National Park Service of the Department of the Interior (excluding parkways authorized by Acts of Congress) and also including approach roads to national parks or monuments authorized by the Act of January 31, 1931 ([46 Stat. 1053][/us/stat/46/1053]), as amended.
+    1983—Subsec. (a). [Pub. L. 97–424][/us/pl/97/424], § 126(c)(1), substituted provision that “park road” means a public road that is located within or provides access to an area in the national park system, for provision that “park roads and trails” means those roads or trails, including the necessary bridges, located in national parks or monuments, now or hereafter established, or in other areas administered by the National Park Service of the Department of the Interior (excluding parkways authorized by Acts of Congress) and also including approach roads to national parks or monuments authorized by the Act of January 31, 1931 ([46 Stat. 1053][/us/stat/46/1053]), as amended.
 
-    [Pub. L. 97–424, § 126(c)(2)][/us/pl/97/424/s126/c/2], substituted “The term ‘Indian reservation roads’ means public roads, including roads” for “The term ‘Indian reservation roads and bridges’ means roads and bridges, including roads and bridges” before “on the Federal-aid systems”.
+    [Pub. L. 97–424][/us/pl/97/424], § 126(c)(2), substituted “The term ‘Indian reservation roads’ means public roads, including roads” for “The term ‘Indian reservation roads and bridges’ means roads and bridges, including roads and bridges” before “on the Federal-aid systems”.
 
-    [Pub. L. 97–424, § 126(c)(3)][/us/pl/97/424/s126/c/3], inserted provision defining “Federal lands highways”.
+    [Pub. L. 97–424][/us/pl/97/424], § 126(c)(3), inserted provision defining “Federal lands highways”.
 
-    [Pub. L. 97–424, § 159][/us/pl/97/424/s159], in definition of “construction”, inserted provision that it also includes costs incurred by the State in performing Federal-aid project related audits which directly benefit the Federal-aid highway program.
+    [Pub. L. 97–424][/us/pl/97/424], § 159, in definition of “construction”, inserted provision that it also includes costs incurred by the State in performing Federal-aid project related audits which directly benefit the Federal-aid highway program.
 
-    1978—Subsec. (a). [Pub. L. 95–599, § 106(a)][/us/pl/95/599/s106/a], in definition of “construction” inserted provision relating to capital improvements.
+    1978—Subsec. (a). [Pub. L. 95–599][/us/pl/95/599], § 106(a), in definition of “construction” inserted provision relating to capital improvements.
 
-    [Pub. L. 95–599, § 106(b)(1)][/us/pl/95/599/s106/b/1], in definition of “forest road or trail”, inserted provisions requiring contingency or service to the National Forest System and necessity for the protection, administration, and utilization thereof.
+    [Pub. L. 95–599][/us/pl/95/599], § 106(b)(1), in definition of “forest road or trail”, inserted provisions requiring contingency or service to the National Forest System and necessity for the protection, administration, and utilization thereof.
 
-    [Pub. L. 95–599, § 106(b)(2)][/us/pl/95/599/s106/b/2], defined “forest development roads or trails” in terms of a forest road or trail under the jurisdiction of the Forest Service rather than in terms of a forest road or trail of primary importance for the protection, administration, and utilization of the national forest or other areas under the jurisdiction of the Forest Service.
+    [Pub. L. 95–599][/us/pl/95/599], § 106(b)(2), defined “forest development roads or trails” in terms of a forest road or trail under the jurisdiction of the Forest Service rather than in terms of a forest road or trail of primary importance for the protection, administration, and utilization of the national forest or other areas under the jurisdiction of the Forest Service.
 
-    [Pub. L. 95–599, § 106(b)(3)][/us/pl/95/599/s106/b/3], defined “forest highway” in terms of a forest road under the jurisdiction of, and maintained by, a public authority and open to public travel rather than in terms of a forest road which is of primary importance to the States, counties, or communities contingent to national forests and which is a Federal-aid system.
+    [Pub. L. 95–599][/us/pl/95/599], § 106(b)(3), defined “forest highway” in terms of a forest road under the jurisdiction of, and maintained by, a public authority and open to public travel rather than in terms of a forest road which is of primary importance to the States, counties, or communities contingent to national forests and which is a Federal-aid system.
 
-    [Pub. L. 95–599, § 106(b)(4)][/us/pl/95/599/s106/b/4], inserted definition of “highway safety improvement project”.
+    [Pub. L. 95–599][/us/pl/95/599], § 106(b)(4), inserted definition of “highway safety improvement project”.
 
-    1976—Subsec. (a). [Pub. L. 94–280, § 108][/us/pl/94/280/s108], defined “construction” to include resurfacing, restoration, and rehabilitation and “urban area” to exclude cities in the States of Maine and New Hampshire and inserted definition of “public road”.
+    1976—Subsec. (a). [Pub. L. 94–280][/us/pl/94/280], § 108, defined “construction” to include resurfacing, restoration, and rehabilitation and “urban area” to exclude cities in the States of Maine and New Hampshire and inserted definition of “public road”.
 
-    Subsec. (b). [Pub. L. 94–280, § 107(a)][/us/pl/94/280/s107/a], substituted provision for completion of the Interstate System over a thirty-four year period, through the fiscal year ending September 30, 1990, for a prior provision for such completion over a twenty-three period, through the fiscal year ending June 30, 1979.
+    Subsec. (b). [Pub. L. 94–280][/us/pl/94/280], § 107(a), substituted provision for completion of the Interstate System over a thirty-four year period, through the fiscal year ending September 30, 1990, for a prior provision for such completion over a twenty-three period, through the fiscal year ending June 30, 1979.
 
     1975—Subsec. (a). [Pub. L. 93–643][/us/pl/93/643] defined “Indian reservation roads and bridges” to include roads and bridges on the Federal-aid systems.
 
-    1973—Subsec. (a). [Pub. L. 93–87, § 105(1)][/us/pl/93/87/s105/1], in definition of “construction”, substituted “National Oceanic and Atmospheric Administration” for “Coast and Geodetic Survey” and extended definition to include improvements which directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and passenger loading and unloading areas.
+    1973—Subsec. (a). [Pub. L. 93–87][/us/pl/93/87], § 105(1), in definition of “construction”, substituted “National Oceanic and Atmospheric Administration” for “Coast and Geodetic Survey” and extended definition to include improvements which directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and passenger loading and unloading areas.
 
-    [Pub. L. 93–87, § 105(3)][/us/pl/93/87/s105/3], in definition of “Indian reservation roads and bridges”, substituted “approval of the Federal Government, or Indian and Alaska Native villages, groups, or communities in which Indians and Alaskan Natives reside, whom the Secretary of the Interior has determined are eligible for services generally available to Indians under Federal laws specifically applicable to Indians” for “approval of the Federal Government on which Indians reside whom the Secretary of the Interior has determined to be eligible for services generally available to Indians under Federal laws specifically applicable to Indians”.
+    [Pub. L. 93–87][/us/pl/93/87], § 105(3), in definition of “Indian reservation roads and bridges”, substituted “approval of the Federal Government, or Indian and Alaska Native villages, groups, or communities in which Indians and Alaskan Natives reside, whom the Secretary of the Interior has determined are eligible for services generally available to Indians under Federal laws specifically applicable to Indians” for “approval of the Federal Government on which Indians reside whom the Secretary of the Interior has determined to be eligible for services generally available to Indians under Federal laws specifically applicable to Indians”.
 
-    [Pub. L. 93–87, § 152(1)][/us/pl/93/87/s152/1], in definition of “Secretary”, substituted “Secretary of Transportation” for “Secretary of Commerce”.
+    [Pub. L. 93–87][/us/pl/93/87], § 152(1), in definition of “Secretary”, substituted “Secretary of Transportation” for “Secretary of Commerce”.
 
-    [Pub. L. 93–87, § 105(4)][/us/pl/93/87/s105/4], in definition of “urbanized area”, provided for boundaries of the “urbanized area” to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary, and required such boundaries, as a minimum, to encompass the entire urbanized area within a State as designated by the Bureau of the Census.
+    [Pub. L. 93–87][/us/pl/93/87], § 105(4), in definition of “urbanized area”, provided for boundaries of the “urbanized area” to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary, and required such boundaries, as a minimum, to encompass the entire urbanized area within a State as designated by the Bureau of the Census.
 
-    [Pub. L. 93–87, § 105(2)][/us/pl/93/87/s105/2], in definition of “urban area”, substituted “an urbanized area or, in the case of an urbanized area encompassing more than one State, that part of the urbanized area in each such State, or an urban place as designated by the Bureau of the Census having a population of five thousand or more and not within any urbanized area, within boundaries to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary” for “an area including and adjacent to a municipality or other urban place having a population of five thousand or more, as determined by the latest available Federal census, within boundaries to be fixed by a State highway department subject to the approval of the Secretary”, and required such boundaries, as a minimum, to encompass the entire urban place designated by the Bureau of the Census.
+    [Pub. L. 93–87][/us/pl/93/87], § 105(2), in definition of “urban area”, substituted “an urbanized area or, in the case of an urbanized area encompassing more than one State, that part of the urbanized area in each such State, or an urban place as designated by the Bureau of the Census having a population of five thousand or more and not within any urbanized area, within boundaries to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary” for “an area including and adjacent to a municipality or other urban place having a population of five thousand or more, as determined by the latest available Federal census, within boundaries to be fixed by a State highway department subject to the approval of the Secretary”, and required such boundaries, as a minimum, to encompass the entire urban place designated by the Bureau of the Census.
 
     Subsec. (b). [Pub. L. 93–87][/us/pl/93/87], §§ 106(a), 107, extended time for completion of the National System of Interstate and Defense Highways, substituting in second par. “twenty-three years” and “June 30, 1979” for “twenty years” and “June 30, 1976”, and inserted third par. declaratory of national policy, since the Interstate System is now in the final phase of completion, that increased emphasis be placed on the construction and reconstruction of the other Federal-aid systems in accordance with the first par. of subsec. (b), in order to bring all of the Federal-aid systems up to standards and to increase the safety of these systems to the maximum extent.
 
-    Subsec. (e). [Pub. L. 93–87, § 108][/us/pl/93/87/s108], added subsec. (e).
+    Subsec. (e). [Pub. L. 93–87][/us/pl/93/87], § 108, added subsec. (e).
 
     1970—Subsec. (a). [Pub. L. 91–605][/us/pl/91/605], §§ 106(a), 117(d), 130, 141, inserted definitions of “urbanized area” and “Federal-aid urban system”, substituted “subsection (e)” for “subsection (d)” in definition of “Interstate System”, included within the costs of construction, under the definition of “construction”, relocation assistance, acquisition of replacement housing sites, acquisition, and rehabilitation, relocation, and construction of replacement housing, and substituted “acquisition” for “costs” of rights-of-way, broadened definition of “Indian reservation roads and bridges” to include roads and bridges on State controlled Indian reservations, trust lands, and restricted Indian lands, a well as roads and bridges on such lands under Federal control, and inserted in definitions of “forest highway” and “public lands highways” provisions to ensure that these highways be on the Federal-aid systems.
 
-    Subsec. (b). [Pub. L. 91–605, § 104(a)][/us/pl/91/605/s104/a], substituted “twenty years” for “eighteen years” and “June 30, 1976” for “June 30, 1974”.
+    Subsec. (b). [Pub. L. 91–605][/us/pl/91/605], § 104(a), substituted “twenty years” for “eighteen years” and “June 30, 1976” for “June 30, 1974”.
 
-    Subsec. (c). [Pub. L. 91–605, § 107][/us/pl/91/605/s107], substituted “any officer or employee in the executive branch of the Federal Government” for “any officer or employee of any department, agency, or instrumentality of the executive branch of the Federal Government” and “Highway Trust Fund” for “highway trust fund”.
+    Subsec. (c). [Pub. L. 91–605][/us/pl/91/605], § 107, substituted “any officer or employee in the executive branch of the Federal Government” for “any officer or employee of any department, agency, or instrumentality of the executive branch of the Federal Government” and “Highway Trust Fund” for “highway trust fund”.
 
-    Subsec. (d). [Pub. L. 91–605, § 107][/us/pl/91/605/s107], substituted provisions prohibiting expenditure of funds from the Highway Trust Fund by any department other than the Federal Highway Administration unless these funds are identified and included as a line item in an appropriation Act and are to meet obligations incurred under this title attributable to the construction of Federal aid highways or for planning, research, or development, or as otherwise specifically authorized to be appropriated from the Highway Trust Fund by Federal-aid highway legislation for provisions expressing essentially the same prohibitions but permitting expenditures to meet obligations incurred under this title attributable to Federal-aid highways, and contracted for in accordance with the Act of March 4, 1915, as amended \[[section 686 of Title 31][/us/usc/t31/s686], Money and Finance\], relating to work or services not usually performed by the Federal Highway Administration, or relating to the furnishing of materials, supplies or equipment, and expenditures specifically identified in the budget and included in an appropriation Act.
+    Subsec. (d). [Pub. L. 91–605][/us/pl/91/605], § 107, substituted provisions prohibiting expenditure of funds from the Highway Trust Fund by any department other than the Federal Highway Administration unless these funds are identified and included as a line item in an appropriation Act and are to meet obligations incurred under this title attributable to the construction of Federal aid highways or for planning, research, or development, or as otherwise specifically authorized to be appropriated from the Highway Trust Fund by Federal-aid highway legislation for provisions expressing essentially the same prohibitions but permitting expenditures to meet obligations incurred under this title attributable to Federal-aid highways, and contracted for in accordance with the Act of March 4, 1915, as amended \[[section 686 of Title 31][/us/usc/t31/s686], Money and Finance\], relating to work or services not usually performed by the Federal Highway Administration, or relating to the furnishing of materials, supplies or equipment, and expenditures specifically identified in the budget and included in an appropriation Act.
 
-    1968—Subsec. (a). [Pub. L. 90–495, § 8][/us/pl/90/495/s8], inserted “and other areas administered by the Forest Service” after “national forests” and “national forest” in definitions of “forest road or trail” and “forest development roads and trails”.
+    1968—Subsec. (a). [Pub. L. 90–495][/us/pl/90/495], § 8, inserted “and other areas administered by the Forest Service” after “national forests” and “national forest” in definitions of “forest road or trail” and “forest development roads and trails”.
 
-    Subsec. (b). [Pub. L. 90–495, § 4(a)][/us/pl/90/495/s4/a], substituted a reference to “eighteen years’ appropriation” for reference to “sixteen years’ appropriation” and substituted “June 30, 1974” for “June 30, 1972”.
+    Subsec. (b). [Pub. L. 90–495][/us/pl/90/495], § 4(a), substituted a reference to “eighteen years’ appropriation” for reference to “sixteen years’ appropriation” and substituted “June 30, 1974” for “June 30, 1972”.
 
-    Subsecs. (c), (d). [Pub. L. 90–495, § 15][/us/pl/90/495/s15], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 90–495][/us/pl/90/495], § 15, added subsecs. (c) and (d).
 
     1966—Subsec. (b). [Pub. L. 89–574][/us/pl/89/574] substituted a reference to “sixteen years’ appropriation” for reference to “fifteen years’ appropriation” and substituted “June 30, 1972” for “June 30, 1971”.
 
@@ -463,15 +463,15 @@
 
  __Effective and Termination Dates of 2012 Amendment__ 
 
-[Pub. L. 112–141, § 3(a)][/us/pl/112/141/s3/a], July 6, 2012, [126 Stat. 413][/us/stat/126/413], provided that: 
+[Pub. L. 112–141][/us/pl/112/141], § 3(a), July 6, 2012, [126 Stat. 413][/us/stat/126/413], provided that: 
 
 > “Except as otherwise provided, divisions A, B, C (other than sections 32603(d), 32603(g), 32912, and 34002 of that division) and E \[see Tables for classification\], including the amendments made by those divisions, take effect on October 1, 2012.”
 
-[Pub. L. 112–141, § 3(b)][/us/pl/112/141/s3/b], July 6, 2012, [126 Stat. 413][/us/stat/126/413], provided that: 
+[Pub. L. 112–141][/us/pl/112/141], § 3(b), July 6, 2012, [126 Stat. 413][/us/stat/126/413], provided that: 
 
 > “Except as otherwise provided, any reference to the date of enactment of the MAP–21 or to the date of enactment of the Federal Public Transportation Act of 2012 in the divisions described in subsection (a) \[set out above\] or in an amendment made by those divisions \[see Tables for classification\] shall be deemed to be a reference to the effective date of those divisions \[Oct. 1, 2012\].”
 
-[Pub. L. 112–140, § 1(c)][/us/pl/112/140/s1/c], June 29, 2012, [126 Stat. 391][/us/stat/126/391], provided that: 
+[Pub. L. 112–140][/us/pl/112/140], § 1(c), June 29, 2012, [126 Stat. 391][/us/stat/126/391], provided that: 
 
 > “On the date of enactment of the MAP–21 \[[Pub. L. 112–141][/us/pl/112/141], approved July 6, 2012\]—
 
@@ -483,7 +483,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–244, title I, § 121(a)][/us/pl/110/244/s121/a], (b), June 6, 2008, [122 Stat. 1608][/us/stat/122/1608], provided that:
+[Pub. L. 110–244, title I][/us/pl/110/244/tI], § 121(a), (b), June 6, 2008, [122 Stat. 1608][/us/stat/122/1608], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -505,7 +505,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title IX, § 9016][/us/pl/105/206/s9016], July 22, 1998, [112 Stat. 868][/us/stat/112/868], provided that: 
+[Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9016, July 22, 1998, [112 Stat. 868][/us/stat/112/868], provided that: 
 
 > “This title \[see Tables for classification\] and the amendments made by this title shall take effect simultaneously with the enactment of the Transportation Equity Act for the 21st Century \[[Pub. L. 105–178][/us/pl/105/178]\]. For purposes of all Federal laws, the amendments made by this title shall be treated as being included in the Transportation Equity Act for the 21st Century at the time of the enactment of such Act \[June 9, 1998\], and the provisions of such Act (including the amendments made by such Act) (as in effect on the day before the date of enactment of this Act \[July 22, 1998\]) that are amended by this title shall be treated as not being enacted.”
 
@@ -515,7 +515,7 @@
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–605, title I, § 147][/us/pl/91/605/s147], Dec. 31, 1970, [84 Stat. 1739][/us/stat/84/1739], provided that: 
+[Pub. L. 91–605, title I][/us/pl/91/605/tI], § 147, Dec. 31, 1970, [84 Stat. 1739][/us/stat/84/1739], provided that: 
 
 > “The amendments made by section 117 \[enacting [section 510 of this title][/us/usc/t23/s510], amending this section, and renumbering sections 511 and 512 of this title\], 120 \[amending provisions set out as a note under [section 502 of this title][/us/usc/t23/s502]\], and 137 of this Act \[amending [section 506 of this title][/us/usc/t23/s506]\] shall not take effect if before the effective date of this Act \[Dec. 31, 1970\] the Uniform Relocation Assistance and Land Acquisition Policies Act of 1970 has been enacted into law.”
 
@@ -523,7 +523,7 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–495, § 37][/us/pl/90/495/s37], Aug. 23, 1968, [82 Stat. 836][/us/stat/82/836], as amended by [Pub. L. 91–605, title I, § 120][/us/pl/91/605/s120], Dec. 31, 1970, [84 Stat. 1725][/us/stat/84/1725], provided that:
+[Pub. L. 90–495][/us/pl/90/495], § 37, Aug. 23, 1968, [82 Stat. 836][/us/stat/82/836], as amended by [Pub. L. 91–605, title I][/us/pl/91/605/tI], § 120, Dec. 31, 1970, [84 Stat. 1725][/us/stat/84/1725], provided that:
 
 >     “(a) Except as otherwise provided in subsection (b) of this section, this Act and the amendments made by this Act \[enacting sections 135, 139, 140, 141, and 501 to 511 of this title, amending this section, sections 103, 104, 108, 112, 113, 115, 116, 120, 125, 128, 129, 131, 135, 136, 138, 205, 319, and 402 of this title, [section 636 of Title 15][/us/usc/t15/s636], Commerce and Trade, and section 1653 of former Title 49, Transportation, repealing [section 133 of this title][/us/usc/t23/s133], enacting provisions set out as notes under this section and sections 104, 108, 125, 134, 501, 502, and 510 of this title\] shall take effect on the date of its enactment \[Aug. 23, 1968\], except that until July 1, 1970, sections 502, 505, 506, 507, and \[former\] 508 of title 23, United States Code, as added by this Act, shall be applicable to a State only to the extent that such State is able under its laws to comply with such sections. Except as otherwise provided in subsection (b) of this section, after July 1, 1970, such sections shall be completely applicable to all States. [Section 133 of title 23][/us/usc/t23/s133], United States Code, shall not apply to any State if sections 502, 505, 506, 507, and \[former\] 508 of title 23, United States Code, are applicable in that State, and effective July 1, 1970, such section 133 is repealed.
 
@@ -531,309 +531,309 @@
 
  __Effective Date of 1959 Amendment__ 
 
-    [Pub. L. 86–70, § 21(e)][/us/pl/86/70/s21/e], June 25, 1959, [73 Stat. 146][/us/stat/73/146], provided that the amendments made by that section (amending this section and sections 104, 116, and 120 of this title) are effective July 1, 1959.
+    [Pub. L. 86–70][/us/pl/86/70], § 21(e), June 25, 1959, [73 Stat. 146][/us/stat/73/146], provided that the amendments made by that section (amending this section and sections 104, 116, and 120 of this title) are effective July 1, 1959.
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–94, § 1(a)][/us/pl/114/94/s1/a], Dec. 4, 2015, [129 Stat. 1312][/us/stat/129/1312], provided that: 
+[Pub. L. 114–94][/us/pl/114/94], § 1(a), Dec. 4, 2015, [129 Stat. 1312][/us/stat/129/1312], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Fixing America’s Surface Transportation Act’ or the ‘FAST Act’.”
 
-[Pub. L. 114–94, div. A, title VI, § 6001][/us/pl/114/94/s6001], Dec. 4, 2015, [129 Stat. 1561][/us/stat/129/1561], provided that: 
+[Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6001, Dec. 4, 2015, [129 Stat. 1561][/us/stat/129/1561], provided that: 
 
 > “This title \[enacting [section 519 of this title][/us/usc/t23/s519] and sections 6314 and 6501 to 6503 of Title 49, Transportation, amending sections 502, 503, 512, 514, 515, 517, and 518 of this title, sections 5313, 5315, and 5316 of Title 5, Government Organization and Employees, and sections 102, 330, 5115, 5118, 5505, 6302, and 6307 of Title 49, repealing [section 508 of this title][/us/usc/t23/s508] and sections 112 and 5503 of Title 49, enacting provisions set out as notes under sections 150, 501, and 503 of this title and sections 301 and 6501 of Title 49, and amending provisions set out as notes under sections 502 and 512 of this title\] may be cited as the ‘Transportation for Tomorrow Act of 2015’.”
 
-[Pub. L. 114–87, § 1(a)][/us/pl/114/87/s1/a], Nov. 20, 2015, [129 Stat. 677][/us/stat/129/677], provided that: 
+[Pub. L. 114–87][/us/pl/114/87], § 1(a), Nov. 20, 2015, [129 Stat. 677][/us/stat/129/677], provided that: 
 
 > “This Act \[amending [section 403 of this title][/us/usc/t23/s403], [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5128, 5311, 5336, 5338, 5339, 31104, and 31144 of Title 49, Transportation, and amending provisions set out as notes under sections 104, 202, and 402 of this title and sections 31100 and 31301 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2015, Part II’.”
 
-[Pub. L. 114–73, § 1(a)][/us/pl/114/73/s1/a], Oct. 29, 2015, [129 Stat. 568][/us/stat/129/568], provided that: 
+[Pub. L. 114–73][/us/pl/114/73], § 1(a), Oct. 29, 2015, [129 Stat. 568][/us/stat/129/568], provided that: 
 
 > “This Act \[amending [section 403 of this title][/us/usc/t23/s403], [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5128, 5311, 5336, 5338, 5339, 20157, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as a note under [section 20101 of Title 49][/us/usc/t49/s20101], and amending provisions set out as notes under sections 104, 202, and 402 of this title and sections 31100 and 31301 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2015’.”
 
-[Pub. L. 114–41, § 1(a)][/us/pl/114/41/s1/a], July 31, 2015, [129 Stat. 443][/us/stat/129/443], provided that: 
+[Pub. L. 114–41][/us/pl/114/41], § 1(a), July 31, 2015, [129 Stat. 443][/us/stat/129/443], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Surface Transportation and Veterans Health Care Choice Improvement Act of 2015’.”
 
-[Pub. L. 114–21, § 1(a)][/us/pl/114/21/s1/a], May 29, 2015, [129 Stat. 218][/us/stat/129/218], provided that: 
+[Pub. L. 114–21][/us/pl/114/21], § 1(a), May 29, 2015, [129 Stat. 218][/us/stat/129/218], provided that: 
 
 > “This Act \[amending [section 403 of this title][/us/usc/t23/s403], [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5128, 5311, 5336, 5338, 5339, 31104, and 31144 of Title 49, Transportation, and amending provisions set out as notes under sections 104, 202, and 402 of this title and sections 31100 and 31301 of Title 49\] may be cited as the ‘Highway and Transportation Funding Act of 2015’.”
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–159, § 1(a)][/us/pl/113/159/s1/a], Aug. 8, 2014, [128 Stat. 1839][/us/stat/128/1839], provided that: 
+[Pub. L. 113–159][/us/pl/113/159], § 1(a), Aug. 8, 2014, [128 Stat. 1839][/us/stat/128/1839], provided that: 
 
 > “This Act \[amending [section 403 of this title][/us/usc/t23/s403], [section 777c of Title 16][/us/usc/t16/s777c], Conservation, [section 58c of Title 19][/us/usc/t19/s58c], Customs Duties, sections 430, 436, 9503, 9504, and 9508 of Title 26, Internal Revenue Code, sections 1021, 1056, and 1083 of Title 29, Labor, and sections 5128, 5311, 5336, 5338, 5339, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under [section 101 of this title][/us/usc/t23/s101], sections 430 and 436 of Title 26, and [section 1021 of Title 29][/us/usc/t29/s1021], amending provisions set out as notes under sections 104, 202, and 402 of this title and sections 31100 and 31301 of Title 49\] may be cited as the ‘Highway and Transportation Funding Act of 2014’.”
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–141, § 1(a)][/us/pl/112/141/s1/a], July 6, 2012, [126 Stat. 405][/us/stat/126/405], provided that: 
+[Pub. L. 112–141][/us/pl/112/141], § 1(a), July 6, 2012, [126 Stat. 405][/us/stat/126/405], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Moving Ahead for Progress in the 21st Century Act’ or the ‘MAP–21’.”
 
-[Pub. L. 112–141, div. A, title II, § 2001][/us/pl/112/141/s2001], July 6, 2012, [126 Stat. 607][/us/stat/126/607], provided that: 
+[Pub. L. 112–141, div. A, title II][/us/pl/112/141/dA/tII], § 2001, July 6, 2012, [126 Stat. 607][/us/stat/126/607], provided that: 
 
 > “This title \[amending sections 601 to 609 of this title\] may be cited as the ‘America Fast Forward Financing Innovation Act of 2012’.”
 
-[Pub. L. 112–141, div. C, title I, § 31001][/us/pl/112/141/s31001], July 6, 2012, [126 Stat. 732][/us/stat/126/732], provided that: 
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31001, July 6, 2012, [126 Stat. 732][/us/stat/126/732], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Motor Vehicle and Highway Safety Improvement Act of 2012’ or ‘Mariah’s Act’.”
 
-[Pub. L. 112–141, div. E, § 50001][/us/pl/112/141/s50001], July 6, 2012, [126 Stat. 864][/us/stat/126/864], provided that: 
+[Pub. L. 112–141, div. E][/us/pl/112/141/dE], § 50001, July 6, 2012, [126 Stat. 864][/us/stat/126/864], provided that: 
 
 > “This division \[see Tables for classification\] may be cited as the ‘Transportation Research and Innovative Technology Act of 2012’.”
 
-[Pub. L. 112–141, div. G, § 110001][/us/pl/112/141/s110001], July 6, 2012, [126 Stat. 980][/us/stat/126/980], provided that: 
+[Pub. L. 112–141, div. G][/us/pl/112/141/dG], § 110001, July 6, 2012, [126 Stat. 980][/us/stat/126/980], provided that: 
 
 > “This division \[see Tables for classification\] may be cited as the ‘Surface Transportation Extension Act of 2012, Part II’.”
 
-[Pub. L. 112–140, § 1(a)][/us/pl/112/140/s1/a], June 29, 2012, [126 Stat. 391][/us/stat/126/391], provided that: 
+[Pub. L. 112–140][/us/pl/112/140], § 1(a), June 29, 2012, [126 Stat. 391][/us/stat/126/391], provided that: 
 
 > “This Act \[amending [section 327 of this title][/us/usc/t23/s327], sections 460l–11 and 777c of Title 16, Conservation, sections 4041, 4051, 4071, 4081, 4221, 4482, 4483, 6412, 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under this section, [section 327 of this title][/us/usc/t23/s327], section 460l–11 of Title 16, and [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under sections 5309, 5310, 5338, 14710, 31100, and 31301 of Title 49\] may be cited as the ‘Temporary Surface Transportation Extension Act of 2012’.”
 
-[Pub. L. 112–102, § 1(a)][/us/pl/112/102/s1/a], Mar. 30, 2012, [126 Stat. 271][/us/stat/126/271], provided that: 
+[Pub. L. 112–102][/us/pl/112/102], § 1(a), Mar. 30, 2012, [126 Stat. 271][/us/stat/126/271], provided that: 
 
 > “This Act \[amending sections 460l–11 and 777c of Title 16, Conservation, sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under section 460l–11 of Title 16 and [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under sections 5309, 5310, 5338, 14710, 31100, and 31301 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2012’.”
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 112–30, § 1(a)][/us/pl/112/30/s1/a], Sept. 16, 2011, [125 Stat. 342][/us/stat/125/342], provided that: 
+[Pub. L. 112–30][/us/pl/112/30], § 1(a), Sept. 16, 2011, [125 Stat. 342][/us/stat/125/342], provided that: 
 
 > “This Act \[amending sections 405 and 410 of this title, sections 460l–11 and 777c of Title 16, Conservation, sections 4041, 4051, 4071, 4081, 4221, 4261, 4271, 4481 to 4483, 6412, 9502 to 9504, and 9508 of Title 26, Internal Revenue Code, and sections 106, 5305, 5307, 5309, 5311, 5337, 5338, 31104, 31144, 40117, 41742, 41743, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under this section, section 460l–11 of Title 16, and sections 1, 4081, 9502, and 9503 of Title 26, and amending provisions set out as notes under sections 402, 403, and 405 of this title and sections 5309, 5310, 5338, 14710, 31100, 31301, 41731, and 47109 of Title 49\] may be cited as the ‘Surface and Air Transportation Programs Extension Act of 2011’.”
 
-[Pub. L. 112–30, title I, § 101][/us/pl/112/30/s101], Sept. 16, 2011, [125 Stat. 343][/us/stat/125/343], provided that: 
+[Pub. L. 112–30, title I][/us/pl/112/30/tI], § 101, Sept. 16, 2011, [125 Stat. 343][/us/stat/125/343], provided that: 
 
 > “This title \[amending sections 405 and 410 of this title, sections 460l–11 and 777c of Title 16, Conservation, sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under section 460l–11 of Title 16 and [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under sections 402, 403, and 405 of this title and sections 5309, 5310, 5338, 14710, 31100, and 31301 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2011, Part II’.”
 
-[Pub. L. 112–5, § 1(a)][/us/pl/112/5/s1/a], Mar. 4, 2011, [125 Stat. 14][/us/stat/125/14], provided that: 
+[Pub. L. 112–5][/us/pl/112/5], § 1(a), Mar. 4, 2011, [125 Stat. 14][/us/stat/125/14], provided that: 
 
 > “This Act \[amending [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under [section 901 of Title 2][/us/usc/t2/s901], The Congress, and sections 5309, 5310, 5338, 14710, 31309, 31100, 31301, and 31100 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2011’.”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–322, title II, § 2001(a)][/us/pl/111/322/s2001/a], Dec. 22, 2010, [124 Stat. 3522][/us/stat/124/3522], provided that: 
+[Pub. L. 111–322, title II][/us/pl/111/322/tII], § 2001(a), Dec. 22, 2010, [124 Stat. 3522][/us/stat/124/3522], provided that: 
 
 > “This title \[amending sections 327 and 510 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under [section 901 of Title 2][/us/usc/t2/s901], The Congress, and sections 5309, 5310, 5338, 14710, 31100, 31301, and 31309 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2010, Part II’.”
 
-[Pub. L. 111–147, title IV, § 401][/us/pl/111/147/s401], Mar. 18, 2010, [124 Stat. 78][/us/stat/124/78], provided that: 
+[Pub. L. 111–147, title IV][/us/pl/111/147/tIV], § 401, Mar. 18, 2010, [124 Stat. 78][/us/stat/124/78], provided that: 
 
 > “This title \[amending sections 405 and 410 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9502 to 9504 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under this section and sections 9502 and 9503 of Title 26, and amending provisions set out as notes under sections 402, 403, and 405 of this title, [section 901 of Title 2][/us/usc/t2/s901], The Congress, and sections 5309, 5310, 5338, 14710, 31100, 31301, and 31309 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2010’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–244, § 1(a)][/us/pl/110/244/s1/a], June 6, 2008, [122 Stat. 1572][/us/stat/122/1572], provided that: 
+[Pub. L. 110–244][/us/pl/110/244], § 1(a), June 6, 2008, [122 Stat. 1572][/us/stat/122/1572], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘SAFETEA–LU Technical Corrections Act of 2008’.”
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–59, § 1(a)][/us/pl/109/59/s1/a], Aug. 10, 2005, [119 Stat. 1144][/us/stat/119/1144], provided that: 
+[Pub. L. 109–59][/us/pl/109/59], § 1(a), Aug. 10, 2005, [119 Stat. 1144][/us/stat/119/1144], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users’ or ‘SAFETEA–LU’.”
 
-[Pub. L. 109–42, § 1][/us/pl/109/42/s1], July 30, 2005, [119 Stat. 435][/us/stat/119/435], provided that: 
+[Pub. L. 109–42][/us/pl/109/42], § 1, July 30, 2005, [119 Stat. 435][/us/stat/119/435], provided that: 
 
 > “This Act \[amending section 9503 and 9504 of Title 26, Internal Revenue Code, and [section 5338 of Title 49][/us/usc/t49/s5338], Transportation, enacting provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as a note under [section 104 of this title][/us/usc/t23/s104]\] may be cited as the ‘Surface Transportation Extension Act of 2005, Part VI’.”
 
-[Pub. L. 109–40, § 1][/us/pl/109/40/s1], July 28, 2005, [119 Stat. 410][/us/stat/119/410], provided that: 
+[Pub. L. 109–40][/us/pl/109/40], § 1, July 28, 2005, [119 Stat. 410][/us/stat/119/410], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, and 188 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2005, Part V’.”
 
-[Pub. L. 109–37, § 1][/us/pl/109/37/s1], July 22, 2005, [119 Stat. 394][/us/stat/119/394], provided that: 
+[Pub. L. 109–37][/us/pl/109/37], § 1, July 22, 2005, [119 Stat. 394][/us/stat/119/394], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, and 188 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2005, Part IV’.”
 
-[Pub. L. 109–35, § 1][/us/pl/109/35/s1], July 20, 2005, [119 Stat. 379][/us/stat/119/379], provided that: 
+[Pub. L. 109–35][/us/pl/109/35], § 1, July 20, 2005, [119 Stat. 379][/us/stat/119/379], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, and 188 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2005, Part III’.”
 
-[Pub. L. 109–20, § 1][/us/pl/109/20/s1], July 1, 2005, [119 Stat. 346][/us/stat/119/346], provided that: 
+[Pub. L. 109–20][/us/pl/109/20], § 1, July 1, 2005, [119 Stat. 346][/us/stat/119/346], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, and 188 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2005, Part II’.”
 
-[Pub. L. 109–14, § 1][/us/pl/109/14/s1], May 31, 2005, [119 Stat. 324][/us/stat/119/324], provided that: 
+[Pub. L. 109–14][/us/pl/109/14], § 1, May 31, 2005, [119 Stat. 324][/us/stat/119/324], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, and 188 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 4481 to 4483, 9503, and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as notes under this section and [section 4481 of Title 26][/us/usc/t26/s4481], and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2005’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–310, § 1][/us/pl/108/310/s1], Sept. 30, 2004, [118 Stat. 1144][/us/stat/118/1144], provided that: 
+[Pub. L. 108–310][/us/pl/108/310], § 1, Sept. 30, 2004, [118 Stat. 1144][/us/stat/118/1144], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, 188, and 410 of this title, sections 900 and 901 of Title 2, The Congress, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as notes under this section, [section 104 of this title][/us/usc/t23/s104], [section 9503 of Title 26][/us/usc/t26/s9503], and [section 5337 of Title 49][/us/usc/t49/s5337], amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, [section 901 of Title 2][/us/usc/t2/s901], and sections 5307, 5309, 5310, and 5338 of Title 49, and repealing provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503]\] may be cited as the ‘Surface Transportation Extension Act of 2004, Part V’.”
 
-[Pub. L. 108–280, § 1][/us/pl/108/280/s1], July 30, 2004, [118 Stat. 876][/us/stat/118/876], provided that: 
+[Pub. L. 108–280][/us/pl/108/280], § 1, July 30, 2004, [118 Stat. 876][/us/stat/118/876], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, and 188 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as notes under [section 9503 of Title 26][/us/usc/t26/s9503], amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, and 5338 of Title 49, and repealing provisions set out as a note under [section 5337 of Title 49][/us/usc/t49/s5337]\] may be cited as the ‘Surface Transportation Extension Act of 2004, Part IV’.”
 
-[Pub. L. 108–263, § 1][/us/pl/108/263/s1], June 30, 2004, [118 Stat. 698][/us/stat/118/698], provided that: 
+[Pub. L. 108–263][/us/pl/108/263], § 1, June 30, 2004, [118 Stat. 698][/us/stat/118/698], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, and 188 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, 5337, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2004, Part III’.”
 
-[Pub. L. 108–224, § 1][/us/pl/108/224/s1], Apr. 30, 2004, [118 Stat. 627][/us/stat/118/627], provided that: 
+[Pub. L. 108–224][/us/pl/108/224], § 1, Apr. 30, 2004, [118 Stat. 627][/us/stat/118/627], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, and 188 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, 5337, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2004, Part II’.”
 
-[Pub. L. 108–202, § 1][/us/pl/108/202/s1], Feb. 29, 2004, [118 Stat. 478][/us/stat/118/478], provided that: 
+[Pub. L. 108–202][/us/pl/108/202], § 1, Feb. 29, 2004, [118 Stat. 478][/us/stat/118/478], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, and 188 of this title, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as a note under [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, 5337, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2004’.”
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–88, § 1][/us/pl/108/88/s1], Sept. 30, 2003, [117 Stat. 1110][/us/stat/117/1110], provided that: 
+[Pub. L. 108–88][/us/pl/108/88], § 1, Sept. 30, 2003, [117 Stat. 1110][/us/stat/117/1110], provided that: 
 
 > “This Act \[amending sections 144, 157, 163, 188, and 410 of this title, sections 900 and 901 of Title 2, The Congress, [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, and sections 5307, 5309, 5337, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as notes under this section, [section 104 of this title][/us/usc/t23/s104], [section 9503 of Title 26][/us/usc/t26/s9503], and [section 5337 of Title 49][/us/usc/t49/s5337], and amending provisions set out as notes under this section, sections 322 and 402 of this title, [section 901 of Title 2][/us/usc/t2/s901], and sections 5309, 5310, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2003’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–206, title IX, § 9001][/us/pl/105/206/s9001], July 22, 1998, [112 Stat. 834][/us/stat/112/834], provided that: 
+[Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9001, July 22, 1998, [112 Stat. 834][/us/stat/112/834], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘TEA 21 Restoration Act’.”
 
-[Pub. L. 105–178, § 1(a)][/us/pl/105/178/s1/a], June 9, 1998, [112 Stat. 107][/us/stat/112/107], provided that: 
+[Pub. L. 105–178][/us/pl/105/178], § 1(a), June 9, 1998, [112 Stat. 107][/us/stat/112/107], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Transportation Equity Act for the 21st Century’.”
 
-[Pub. L. 105–178, title I, § 1501][/us/pl/105/178/s1501], June 9, 1998, [112 Stat. 241][/us/stat/112/241], provided that: 
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1501, June 9, 1998, [112 Stat. 241][/us/stat/112/241], provided that: 
 
 > “This chapter \[chapter 1 (§§ 1501–1504) of subtitle E of title I of [Pub. L. 105–178][/us/pl/105/178], enacting subchapter II of this chapter, amending [section 301 of Title 49][/us/usc/t49/s301], Transportation, and enacting provisions set out as a note under [section 181 of this title][/us/usc/t23/s181]\] may be cited as the ‘Transportation Infrastructure Finance and Innovation Act of 1998’.”
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–130, § 1][/us/pl/105/130/s1], Dec. 1, 1997, [111 Stat. 2552][/us/stat/111/2552], provided that: 
+[Pub. L. 105–130][/us/pl/105/130], § 1, Dec. 1, 1997, [111 Stat. 2552][/us/stat/111/2552], provided that: 
 
 > “This Act \[amending sections 104, 321, 326, and 410 of this title, sections 9503, 9504, and 9511 of Title 26, Internal Revenue Code, and sections 111, 5309, 5337, 5338, 30308, and 31104 of Title 49, Transportation, enacting provisions set out as notes under [section 104 of this title][/us/usc/t23/s104] and [section 9503 of Title 26][/us/usc/t26/s9503], and amending provisions set out as notes under this section and [section 307 of this title][/us/usc/t23/s307]\] may be cited as the ‘Surface Transportation Extension Act of 1997’.”
 
  __Short Title of 1995 Amendment__ 
 
-[Pub. L. 104–59, § 1(a)][/us/pl/104/59/s1/a], Nov. 28, 1995, [109 Stat. 568][/us/stat/109/568], provided that: 
+[Pub. L. 104–59][/us/pl/104/59], § 1(a), Nov. 28, 1995, [109 Stat. 568][/us/stat/109/568], provided that: 
 
 > “This Act \[enacting [section 161 of this title][/us/usc/t23/s161], amending this section, sections 103, 104, 106, 109, 111, 112, 115, 116, 120, 122, 127, 129, 130, 131, 133, 134, 141, 144, 149, 152, 153, 217, 303, 306, 307, 323, 409, and 410 of this title, sections 1261 and 1262 of Title 16, Conservation, sections 7506 and 12186 of Title 42, The Public Health and Welfare, and sections 5316, 5331, 20140, 30308, 31112, 31136, 31306, and 45102 of Title 49, Transportation, repealing [section 154 of this title][/us/usc/t23/s154], enacting provisions set out as notes preceding [section 101 of this title][/us/usc/t23/s101] and under this section, sections 104, 109, 130, 141, 153, 154, 307, 309, 401, and 408 of this title, [section 403 of Title 16][/us/usc/t16/s403], [section 7511a of Title 42][/us/usc/t42/s7511a], and [section 31136 of Title 49][/us/usc/t49/s31136], amending provisions set out as notes under this section and sections 104, 109, 127, 149, and 307 of this title, and repealing provisions set out as notes preceding [section 101 of this title][/us/usc/t23/s101] and under [section 112 of this title][/us/usc/t23/s112]\] may be cited as the ‘National Highway System Designation Act of 1995’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–17, § 1(a)][/us/pl/100/17/s1/a], Apr. 2, 1987, [101 Stat. 132][/us/stat/101/132], provided that: 
+[Pub. L. 100–17][/us/pl/100/17], § 1(a), Apr. 2, 1987, [101 Stat. 132][/us/stat/101/132], provided that: 
 
 > “This Act \[enacting sections 151, 156, and 409 of this title, [section 508 of Title 33][/us/usc/t33/s508], Navigation and Navigable Waters, [section 4604 of Title 42][/us/usc/t42/s4604], The Public Health and Welfare, and sections 1607a–2, 1619, 1620, and 1621 of former Title 49, Transportation, amending this section, sections 103, 104, 106, 109, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 125, 127, 129, 130, 138, 140, 144, 152, 154, 157, 204, 210, 215, 217, 307, 315, 319, 321, 323, 401, 402, and 408 of this title, section 460l–11 of Title 16, Conservation, [section 1761 of Title 18][/us/usc/t18/s1761], Crimes and Criminal Procedure, sections 4041, 4051, 4052, 4071, 4081, 4221, 4481, 4482, 4483, 6156, 6412, 6420, 6421, 6427, and 9503 of Title 26, Internal Revenue Code, sections 494 and 1414 of Title 33, sections 4601, 4621, 4622, 4623, 4624, 4625, 4626, 4630, 4631, 4633, 4636, 4638, 4651, and 4655 of Title 42, sections 303 and 10922 of Title 49, and sections 1602, 1603, 1604, 1607, 1607a, 1607a–1, 1607c, 1608, 1612, 1613, 1614, 1617, 1655, 2311, 2314, and 2716 of former Title 49, repealing sections 211, 213, 219, and 322 of this title, sections 498a, 498b, 503 to 507, 526, 526a, 529, and 535d of Title 33, and sections 4634 and 4637 of Title 42, enacting provisions set out as notes under this section, sections 103, 104, 116, 120, 125, 127, 130, 144, 202, 307, 401, and 402 of this title, sections 1, 4052, and 4481 of Title 26, [section 4601 of Title 42][/us/usc/t42/s4601], [section 10922 of Title 49][/us/usc/t49/s10922], and sections 1601, 1602, 1608, and 2204 of former Title 49, amending provisions set out as notes under this section and sections 103, 104, 130, 141, 144, 146, and 401 of this title, and repealing provisions set out as notes under sections 114, 130, and 217 of this title and [section 526a of Title 33][/us/usc/t33/s526a]\] may be cited as the ‘Surface Transportation and Uniform Relocation Assistance Act of 1987’.”
 
-[Pub. L. 100–17, title I, § 101][/us/pl/100/17/s101], Apr. 2, 1987, [101 Stat. 134][/us/stat/101/134], provided that: 
+[Pub. L. 100–17, title I][/us/pl/100/17/tI], § 101, Apr. 2, 1987, [101 Stat. 134][/us/stat/101/134], provided that: 
 
 > “This title \[enacting sections 151, 156, and 409 of this title and [section 508 of Title 33][/us/usc/t33/s508], Navigation and Navigable Waters, amending this section, sections 103, 104, 106, 109, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 125, 127, 129, 130, 138, 140, 144, 152, 154, 157, 204, 210, 215, 217, 307, 315, 319, 321, 323, 401, and 402 of this title, [section 1761 of Title 18][/us/usc/t18/s1761], Crimes and Criminal Procedure, sections 494 and 1414 of Title 33, [section 303 of Title 49][/us/usc/t49/s303], Transportation, and sections 1655, 2311, and 2716 of former Title 49, repealing sections 211, 213, 219, and 322 of this title and sections 498a, 498b, 503 to 507, 526, 526a, 529, and 535d of Title 33, enacting provisions set out as notes under this section and sections 103, 104, 116, 120, 125, 127, 130, 144, 202, 307, and 402 of this title, amending provisions set out as notes under this section and sections 103, 104, 130, 141, 144, and 146 of this title, and repealing provisions set out as notes under sections 114, 130, and 217 of this title and [section 526a of Title 33][/us/usc/t33/s526a]\] may be cited as the ‘Federal-Aid Highway Act of 1987’.”
 
  __Short Title of 1983 Amendment__ 
 
-[Pub. L. 97–424, § 1][/us/pl/97/424/s1], Jan. 6, 1983, [96 Stat. 2097][/us/stat/96/2097], provided: 
+[Pub. L. 97–424][/us/pl/97/424], § 1, Jan. 6, 1983, [96 Stat. 2097][/us/stat/96/2097], provided: 
 
 > “That this Act \[enacting [section 157 of this title][/us/usc/t23/s157], sections 4051 to 4053 and 9503 of Title 26, Internal Revenue Code, and sections 1601c, 1607a, 1607a–1, 1617, 1618, and 2301 to 2315 of former Title 49, Transportation, amending [section 713c–3 of Title 15][/us/usc/t15/s713c–3], Commerce and Trade, sections 460l–11 and 1606a of Title 16, Conservation, sections 101, 101 notes, 103, 103 note, 105, 109, 112, 113, 114, 115, 116, 118, 119, 120, 122, 125, 127, 130 notes, 137, 139, 140, 141, 142, 144, 150, 152, 201, 202, 203, 204, 210, 214, 217, 218, 307, 307 note, 401 note, and 402 of this title, sections 39, 44E, 46, 48, 103, 165 note, 167, 168, 274, 851, 852, 874, 882, 3304 note, 3454, 4041, 4061, 4063, 4071, 4081, 4101, 4102, 4221, 4222, 4481, 4482, 4483, 6049, 6156, 6201, 6206, 6362, 6412, 6416, 6420, 6421, 6427, 6504, 6675, 7210, 7603, 7604, 7605, 7609, 7610, and 9502 of Title 26, [section 1414 of Title 33][/us/usc/t33/s1414], Navigation and Navigable Waters, sections 602 and 1382a of Title 42, The Public Health and Welfare, sections 1474, 1475, and 1479 of former Title 46, Shipping, [section 1273 of Title 46][/us/usc/t46/s1273], Appendix, sections 10927 note, 11909 and 11914 of Title 49, and sections 1602, 1603, 1604, 1607c, 1608, 1611, 1612, 1614, 2204, 2205, 2206 of former Title 49, repealing sections 101 notes, 104 note, and 206 to 209 of this title, sections 120 note, 4091 to 4094, and 6424 of Title 26, and sections 1602 note, 1604a, 1617, and 1618 of former Title 49, and enacting provisions set out as notes under this section, sections 103, 104, 105, 109, 111, 119, 120, 125, 144, 146, 154, 307, 401, and 408 of this title, [section 713c–3 of Title 15][/us/usc/t15/s713c–3], sections 1, 39, 46, 165, 274, 3304, 4041, 4051, 4061, 4071, 4081, 4481, 6012, 6427, and 9503 of Title 26, [section 602 of Title 42][/us/usc/t42/s602], and sections 1601, 1612, and 2315 of former Title 49\] may be cited as the ‘Surface Transportation Assistance Act of 1982’.”
 
-[Pub. L. 97–424, title I, § 101][/us/pl/97/424/s101], Jan. 6, 1983, [96 Stat. 2097][/us/stat/96/2097], provided that: 
+[Pub. L. 97–424, title I][/us/pl/97/424/tI], § 101, Jan. 6, 1983, [96 Stat. 2097][/us/stat/96/2097], provided that: 
 
 > “This title \[enacting [section 157 of this title][/us/usc/t23/s157], amending this section and sections 103, 105, 109, 112, 113, 114, 115, 116, 118, 119, 120, 122, 125, 127, 137, 139, 140, 142, 144, 150, 152, 201, 202, 203, 204, 210, 214, 217, 218, and 307 of this title, repealing sections 101 notes, 104 note, and 206 to 209 of this title, and enacting provisions set out as notes under this section, sections 103, 104, 105, 109, 111, 119, 120, 125, 144, and 146 of this title, and section 2315 of former Title 49, Transportation\] may be cited as the ‘Highway Improvement Act of 1982’.”
 
-[Pub. L. 97–327, § 1][/us/pl/97/327/s1], Oct. 15, 1982, [96 Stat. 1611][/us/stat/96/1611], provided: 
+[Pub. L. 97–327][/us/pl/97/327], § 1, Oct. 15, 1982, [96 Stat. 1611][/us/stat/96/1611], provided: 
 
 > “That this Act \[amending [section 144 of this title][/us/usc/t23/s144], provisions set out as notes under this section and [section 130 of this title][/us/usc/t23/s130], and enacting provisions set out as notes under [section 104 of this title][/us/usc/t23/s104]\] may be cited as the ‘Federal-Aid Highway Act of 1982’.”
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–134, § 13][/us/pl/97/134/s13], Dec. 29, 1981, [95 Stat. 1703][/us/stat/95/1703], provided that: 
+[Pub. L. 97–134][/us/pl/97/134], § 13, Dec. 29, 1981, [95 Stat. 1703][/us/stat/95/1703], provided that: 
 
 > “This Act \[amending sections 104, 119, and 139 of this title and enacting provisions set out as notes under this section and [section 104 of this title][/us/usc/t23/s104]\] may be cited as the ‘Federal-Aid Highway Act of 1981’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–599, § 1][/us/pl/95/599/s1], Nov. 6, 1978, [92 Stat. 2689][/us/stat/92/2689], provided: 
+[Pub. L. 95–599][/us/pl/95/599], § 1, Nov. 6, 1978, [92 Stat. 2689][/us/stat/92/2689], provided: 
 
 > “That this Act \[enacting sections 119, 146, and 407 of this title, and sections 1602–1, 1607, 1614, 1615, 1616, 1617 and 1618 of former Title 49, Transportation, amending this section, sections 103, 104, 105, 109, 111, 116, 118, 120, 122, 124, 125, 129, 131, 134, 141, 144, 148, 151, 152, 154, 155, 215, 217, 219, 320, 402, and 406 of this title, [section 1418 of Title 15][/us/usc/t15/s1418], Commerce and Trade, section 460l–11 of Title 16, Conservation, sections 39, 4041, 4061, 4071, 4081, 4481, 4482, 6156, 6412, 6421, 6427, 7210, 7603, 7604, 7605, 7609, and 7610 of Title 26, Internal Revenue Code, section 201 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 303, 1602, 1603, 1604, 1607b, 1607c, 1608, 1611, 1612, and 1613 of former Title 49, repealing [section 153 of this title][/us/usc/t23/s153] and sections 1607, 1607a, and 1614 of former Title 49, and enacting provisions set out as notes under this section, sections 103, 104, 109, 111, 120, 122, 124, 129, 130, 134, 135, 141, 142, 144, 146, 215, 217, 307, 320, 401, 402, and 403 of this title, [section 6427 of Title 26][/us/usc/t26/s6427], section 201 of former Title 40, Appendix, [section 5904 of Title 42][/us/usc/t42/s5904], The Public Health and Welfare, [section 883 of Title 46][/us/usc/t46/s883], Appendix, Shipping, and sections 1601, 1602, 1604, 1605, 1612, and 1653 of former Title 49\] may be cited as the ‘Surface Transportation Assistance Act of 1978’.”
 
-[Pub. L. 95–599, title I, § 101][/us/pl/95/599/s101], Nov. 6, 1978, [92 Stat. 2689][/us/stat/92/2689], provided that: 
+[Pub. L. 95–599, title I][/us/pl/95/599/tI], § 101, Nov. 6, 1978, [92 Stat. 2689][/us/stat/92/2689], provided that: 
 
 > “This title \[enacting sections 119 and 146 of this title, amending this section, sections 103, 104, 105, 109, 111, 116, 118, 120, 122, 124, 125, 129, 131, 134, 141, 144, 148, 151, 152, 155, 203, 215, 217, 219, 320, and 406 of this title, and section 201 of former Title 40, Appendix, Public Buildings, Property and Works, repealing [section 153 of this title][/us/usc/t23/s153] and provisions set out as notes under this section and [section 1605 of Title 42][/us/usc/t42/s1605], The Public Health and Welfare, and enacting provisions set out as notes under this section, sections 103, 104, 109, 111, 120, 122, 124, 129, 130, 134, 135, 141, 142, 144, 146, 217, 307, and 320 of this title, section 201 of former Title 40, Appendix, [section 5904 of Title 42][/us/usc/t42/s5904], [section 883 of Title 46][/us/usc/t46/s883], Appendix, Shipping, and section 1653 of former Title 49, Transportation\] may be cited as the ‘Federal-Aid Highway Act of 1978’.”
 
-[Pub. L. 95–599, title V, § 501][/us/pl/95/599/s501], Nov. 6, 1978, [92 Stat. 2756][/us/stat/92/2756], provided that: 
+[Pub. L. 95–599, title V][/us/pl/95/599/tV], § 501, Nov. 6, 1978, [92 Stat. 2756][/us/stat/92/2756], provided that: 
 
 > “This title \[amending [section 4601–11 of Title 16][/us/usc/t16/s4601–11], Conservation, sections 39, 4041, 4061, 4071, 4081, 4481, 4482, 6156, 6412, 6421, 6427, 7210, 7603, 7604, and 7605 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 120 and 307 of this title and [section 6427 of Title 26][/us/usc/t26/s6427]\] may be cited as the ‘Highway Revenue Act of 1978’.”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–280, title I, § 101][/us/pl/94/280/s101], May 5, 1976, [90 Stat. 425][/us/stat/90/425], provided that: 
+[Pub. L. 94–280, title I][/us/pl/94/280/tI], § 101, May 5, 1976, [90 Stat. 425][/us/stat/90/425], provided that: 
 
 > “This title \[enacting [section 156 of this title][/us/usc/t23/s156], amending this section and sections 103, 104, 106, 108, 117, 118, 121, 125, 127, 129, 131, 135, 138 to 140, 142, 147, 152, 153, 202, 203, 217, 219, 319, and 320 of this title, repealing sections 146 and 405 of this title, enacting provisions set out as notes under this section, sections 103, 104, 124, 134, 135, 215, 218, 319, and 320 of this title, and section 1605 of former Title 49, Transportation, and amending provisions set out as notes under this section, sections 120, 130, and 142 of this title, and section 1605 of former Title 49\] may be cited as the ‘Federal-Aid Highway Act of 1976’.”
 
  __Short Title of 1974 Amendment__ 
 
-[Pub. L. 93–643, § 1][/us/pl/93/643/s1], Jan. 4, 1975, [88 Stat. 2281][/us/stat/88/2281], provided: 
+[Pub. L. 93–643][/us/pl/93/643], § 1, Jan. 4, 1975, [88 Stat. 2281][/us/stat/88/2281], provided: 
 
 > “That this Act \[enacting sections 141, 154, 155, 219, and 406, amending this section and sections 103, 115, 127, 129, 131, 136, 144, 208, 320, 322, 323, and 405, enacting provisions set out as notes under this section, sections 142, 217, and 320, amending provisions set out as notes under this section and sections 130 and 142, and repealing provisions set out as a note under this section\] may be cited as the ‘Federal-Aid Highway Amendments of 1974’.”
 
  __Short Title of 1973 Amendment__ 
 
-[Pub. L. 93–87, title I, § 101][/us/pl/93/87/s101], Aug. 13, 1973, [87 Stat. 250][/us/stat/87/250], provided that: 
+[Pub. L. 93–87, title I][/us/pl/93/87/tI], § 101, Aug. 13, 1973, [87 Stat. 250][/us/stat/87/250], provided that: 
 
 > “This title \[enacting sections 145 to 150, 217, 218, 323, and 324 of this title and section 1602a of former Title 49, Transportation, amending this section and sections 103 to 105, 108, 109, 114, 117, 121, 126, 129, 135, 140, 142, 143, 149, 207, 303, 307 to 310, 312, 314, and 320 of this title, and enacting provisions set out as notes under this section, sections 103, 104, 120, 130, 142, 218, 307, 319, and 320 of this title, and sections 1608 and 1637 of former Title 49\] may be cited as the ‘Federal-Aid Highway Act of 1973’.”
 
  __Short Title of 1970 Amendment__ 
 
-[Pub. L. 91–605, title I, § 101][/us/pl/91/605/s101], Dec. 31, 1970, [84 Stat. 1713][/us/stat/84/1713], provided that: 
+[Pub. L. 91–605, title I][/us/pl/91/605/tI], § 101, Dec. 31, 1970, [84 Stat. 1713][/us/stat/84/1713], provided that: 
 
 > “This title \[enacting sections 142, 143, 215, 216, 321, and 510 of this title, amending this section and sections 103, 104, 105, 106, 109, 120, 125, 128, 129, 131, 134, 135, 136, 139, 140, 303, 307, 320, 506, 511, 512 of this title and [section 517 of Title 33][/us/usc/t33/s517], Navigation and Navigable Waters, and enacting provisions set out as notes under this section and sections 104, 120, 129, 131, 134, 215, 216, 303, 307, 320, and 510 of this title\] may be cited as the ‘Federal-Aid Highway Act of 1970’.”
 
  __Short Title of 1968 Amendment__ 
 
-[Pub. L. 90–495, § 1][/us/pl/90/495/s1], Aug. 23, 1968, [82 Stat. 815][/us/stat/82/815], provided that: 
+[Pub. L. 90–495][/us/pl/90/495], § 1, Aug. 23, 1968, [82 Stat. 815][/us/stat/82/815], provided that: 
 
 > “This Act \[enacting sections 135, 139, 140, and 141 of this title, amending this section, sections 103, 104, 108, 112, 113, 115, 116, 120, 125, 128, 129, 131, 135, 136, 138, 205, 319, 402, and 501 to 512 of this title, [section 636 of Title 15][/us/usc/t15/s636], Commerce and Trade, section 1653 of former Title 49, Transportation, and provisions set out as a note under this section, repealing [section 133 of this title][/us/usc/t23/s133] and enacting provisions formerly set out as notes under this section and sections 104, 108, 125, 134, 501, 502, and 510 of this title\] may be cited as the ‘Federal-Aid Highway Act of 1968’.”
 
  __Short Title of 1966 Amendment__ 
 
-[Pub. L. 89–574, § 1][/us/pl/89/574/s1], Sept. 13, 1966, [80 Stat. 766][/us/stat/80/766], provided that: 
+[Pub. L. 89–574][/us/pl/89/574], § 1, Sept. 13, 1966, [80 Stat. 766][/us/stat/80/766], provided that: 
 
 > “This Act \[enacting sections 120 and 138 of this title, amending this section and sections 104, 109, 118, 120, 125, 131, 136, 302, and 319 of this title, and enacting provisions set out as notes under this section and sections 106, 108, 125, 133, and 137 of this title\] may be cited as the ‘Federal-Aid Highway Act of 1966’.”
 
  __Short Title of 1965 Amendment__ 
 
-[Pub. L. 89–285, § 403][/us/pl/89/285/s403], Oct. 22, 1965, [79 Stat. 1033][/us/stat/79/1033], provided that: 
+[Pub. L. 89–285][/us/pl/89/285], § 403, Oct. 22, 1965, [79 Stat. 1033][/us/stat/79/1033], provided that: 
 
 > “This Act \[enacting sections 136 of this title and provisions set out as notes under sections 131 and 135 of this title and amending sections 131 and 319 of this title\] may be cited as the ‘Highway Beautification Act of 1965’.”
 
  __Short Title of 1964 Amendment__ 
 
-[Pub. L. 88–423, § 1][/us/pl/88/423/s1], Aug. 13, 1964, [78 Stat. 397][/us/stat/78/397], provided that: 
+[Pub. L. 88–423][/us/pl/88/423], § 1, Aug. 13, 1964, [78 Stat. 397][/us/stat/78/397], provided that: 
 
 > “This Act \[amending this section and sections 104, 205, 209, and 320 of this title\] may be cited as the ‘Federal-Aid Highway Act of 1964’.”
 
  __Short Title of 1963 Amendment__ 
 
-[Pub. L. 88–157, § 1][/us/pl/88/157/s1], Oct. 24, 1963, [77 Stat. 276][/us/stat/77/276], provided: 
+[Pub. L. 88–157][/us/pl/88/157], § 1, Oct. 24, 1963, [77 Stat. 276][/us/stat/77/276], provided: 
 
 > “That this Act \[amending sections 104, 106, 109, 121, 131, and 307 of this title\] may be cited as the ‘Federal-Aid Highway Amendments Act of 1963’.”
 
  __Short Title of 1962 Amendment__ 
 
-[Pub. L. 87–866, § 1][/us/pl/87/866/s1], Oct. 23, 1962, [76 Stat. 1145][/us/stat/76/1145], provided that: 
+[Pub. L. 87–866][/us/pl/87/866], § 1, Oct. 23, 1962, [76 Stat. 1145][/us/stat/76/1145], provided that: 
 
 > “This Act \[enacting sections 133, 134 and 214 of this title, amending this section and sections 103, 104, 203, and 307 of this title, and enacting provisions set out as a note under [section 307 of this title][/us/usc/t23/s307]\] may be cited as the ‘Federal-Aid Highway Act of 1962’.”
 
  __Short Title of 1961 Amendment__ 
 
-[Pub. L. 87–61, title I, § 101][/us/pl/87/61/s101], June 29, 1961, [75 Stat. 122][/us/stat/75/122], provided that: 
+[Pub. L. 87–61, title I][/us/pl/87/61/tI], § 101, June 29, 1961, [75 Stat. 122][/us/stat/75/122], provided that: 
 
 > “This Act \[enacting [section 6156 of Title 26][/us/usc/t26/s6156], Internal Revenue Code, amending sections 111, 131 and 210 of this title and sections 4041, 4061, 4071, 4081, 4218, 4221, 4226, 4481, 4482, 6412, 6416, 6421, and 6601 of Title 26, enacting provisions set out as notes under this section and [section 104 of this title][/us/usc/t23/s104] and under [section 4041 of Title 26][/us/usc/t26/s4041], and amending provisions set out as notes under this section and [section 120 of this title][/us/usc/t23/s120]\] may be cited as the ‘Federal-Aid Highway Act of 1961’.”
 
  __Short Title of 1960 Amendment__ 
 
-[Pub. L. 86–657, § 1][/us/pl/86/657/s1], July 14, 1960, [74 Stat. 522][/us/stat/74/522], provided that: 
+[Pub. L. 86–657][/us/pl/86/657], § 1, July 14, 1960, [74 Stat. 522][/us/stat/74/522], provided that: 
 
 > “This Act \[enacting [section 132 of this title][/us/usc/t23/s132] and amending sections 104, 114, 120, 129, 203, 205, 210, and 305 of this title\] may be cited as the ‘Federal Highway Act of 1960’.”
 
  __Short Title of 1959 Amendment__ 
 
-[Pub. L. 86–342, title I, § 101][/us/pl/86/342/s101], Sept. 21, 1959, [73 Stat. 611][/us/stat/73/611], provided that: 
+[Pub. L. 86–342, title I][/us/pl/86/342/tI], § 101, Sept. 21, 1959, [73 Stat. 611][/us/stat/73/611], provided that: 
 
 > “This Act \[amending sections 125, 131, 137, and 320 of this title, and sections 4041, 4081, 4082, 4226, 6412, 6416, and 6421 of Title 26, Internal Revenue Code, enacting notes set out under [section 307 of this title][/us/usc/t23/s307] and [section 4082 of Title 26][/us/usc/t26/s4082], and amending notes set out under this section and sections 104 and 120 of this title\] may be cited as the ‘Federal-Aid Highway Act of 1959’.”
 
  __Separability__ 
 
-[Pub. L. 90–495, § 36][/us/pl/90/495/s36], Aug. 23, 1968, [82 Stat. 836][/us/stat/82/836], provided that: 
+[Pub. L. 90–495][/us/pl/90/495], § 36, Aug. 23, 1968, [82 Stat. 836][/us/stat/82/836], provided that: 
 
 > “If any provision of this Act (including the amendments made by this Act) \[enacting sections 135, 139, 140, 141, and 501–511 of this title, amending this section, sections 103, 104, 108, 112, 113, 115, 116, 120, 125, 128, 129, 131, 135, 136, 138, 205, 319, and 402 of this title, [section 636 of Title 15][/us/usc/t15/s636], Commerce and Trade, section 1653 of former Title 49, Transportation, and provisions set out as a note under this section, repealing [section 133 of this title][/us/usc/t23/s133], and enacting provisions set out as notes under this section and sections 104, 108, 125, 134, 501, 502, and 510 of this title\] or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of the provision to other persons or circumstances shall not be affected thereby.”
 
@@ -843,11 +843,11 @@
 
  __Transfer of Functions__ 
 
-    Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce under this title and under specific related laws and parts of laws set out in the notes in this title relating generally to highways and highway and traffic safety transferred to and vested in Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], Oct. 15, 1966, [80 Stat. 931][/us/stat/80/931], which created Department of Transportation. See [section 102 of Title 49][/us/usc/t49/s102], Transportation, and [Pub. L. 97–449, § 2][/us/pl/97/449/s2], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439].
+    Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce under this title and under specific related laws and parts of laws set out in the notes in this title relating generally to highways and highway and traffic safety transferred to and vested in Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], Oct. 15, 1966, [80 Stat. 931][/us/stat/80/931], which created Department of Transportation. See [section 102 of Title 49][/us/usc/t49/s102], Transportation, and [Pub. L. 97–449][/us/pl/97/449], § 2, Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439].
 
  __Flexibility for Projects__ 
 
-[Pub. L. 114–94, div. A, title I, § 1420][/us/pl/114/94/s1420], Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1420, Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -881,7 +881,7 @@
 
  __Productive and Timely Expenditure of Funds__ 
 
-[Pub. L. 114–94, div. A, title I, § 1421][/us/pl/114/94/s1421], Dec. 4, 2015, [129 Stat. 1424][/us/stat/129/1424], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1421, Dec. 4, 2015, [129 Stat. 1424][/us/stat/129/1424], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -899,13 +899,13 @@
 
  __Use of Durable, Resilient, and Sustainable Materials and Practices__ 
 
-[Pub. L. 114–94, div. A, title I, § 1428][/us/pl/114/94/s1428], Dec. 4, 2015, [129 Stat. 1426][/us/stat/129/1426], provided that: 
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1428, Dec. 4, 2015, [129 Stat. 1426][/us/stat/129/1426], provided that: 
 
 > “To the extent practicable, the Secretary \[of Transportation\] shall encourage the use of durable, resilient, and sustainable materials and practices, including the use of geosynthetic materials and other innovative technologies, in carrying out the activities of the Federal Highway Administration.”
 
  __Every Day Counts Initiative__ 
 
-[Pub. L. 114–94, div. A, title I, § 1444][/us/pl/114/94/s1444], Dec. 4, 2015, [129 Stat. 1436][/us/stat/129/1436], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1444, Dec. 4, 2015, [129 Stat. 1436][/us/stat/129/1436], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -949,7 +949,7 @@
 
  __Findings__ 
 
-[Pub. L. 113–159, § 2][/us/pl/113/159/s2], Aug. 8, 2014, [128 Stat. 1839][/us/stat/128/1839], provided that: 
+[Pub. L. 113–159][/us/pl/113/159], § 2, Aug. 8, 2014, [128 Stat. 1839][/us/stat/128/1839], provided that: 
 
 > “Congress finds that—
 
@@ -963,7 +963,7 @@
 
  __Declaration of Policy and Project Delivery Initiative__ 
 
-[Pub. L. 112–141, div. A, title I, § 1301(a)][/us/pl/112/141/s1301/a], (b), July 6, 2012, [126 Stat. 527][/us/stat/126/527], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1301(a), (b), July 6, 2012, [126 Stat. 527][/us/stat/126/527], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1027,7 +1027,7 @@
 
  __Innovative Project Delivery Methods Policy__ 
 
-[Pub. L. 112–141, div. A, title I, § 1304(a)][/us/pl/112/141/s1304/a], July 6, 2012, [126 Stat. 532][/us/stat/126/532], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1304(a), July 6, 2012, [126 Stat. 532][/us/stat/126/532], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -1039,7 +1039,7 @@
 
  __Report on Highway Trust Fund Expenditures__ 
 
-[Pub. L. 114–94, div. A, title I, § 1433][/us/pl/114/94/s1433], Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1433, Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430], provided that:
 
 >     “(a)  __Initial Report__  __.—__ 
 
@@ -1061,7 +1061,7 @@
 
 >         “(4) the flexibility of the Department \[of Transportation\] to reallocate amounts from the Highway Trust Fund between full-time equivalent employees and other functions.”
 
-[Pub. L. 112–141, div. A, title I, § 1535][/us/pl/112/141/s1535], July 6, 2012, [126 Stat. 584][/us/stat/126/584], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1535, July 6, 2012, [126 Stat. 584][/us/stat/126/584], provided that:
 
 >     “(a)  __Initial Report__  __.—__ 
 
@@ -1077,15 +1077,15 @@
 
  __Projects of National and Regional Significance__ 
 
-    [Pub. L. 109–59, title I, § 1301][/us/pl/109/59/s1301], Aug. 10, 2005, [119 Stat. 1198][/us/stat/119/1198], as amended by [Pub. L. 110–244, title I, § 103(a)][/us/pl/110/244/s103/a], June 6, 2008, [122 Stat. 1578][/us/stat/122/1578]; [Pub. L. 112–141, div. A, title I, § 1120][/us/pl/112/141/s1120], July 6, 2012, [126 Stat. 492][/us/stat/126/492], which provided for the establishment of a program to provide grants to eligible applicants for surface transportation programs of national and regional significance, set out criteria for selection for such grants and grant requirements, and authorized appropriations for the implementation of the program, was repealed by [Pub. L. 114–94, div. A, title I, § 1105(c)][/us/pl/114/94/s1105/c], Dec. 4, 2015, [129 Stat. 1337][/us/stat/129/1337].
+    [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1301, Aug. 10, 2005, [119 Stat. 1198][/us/stat/119/1198], as amended by [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 103(a), June 6, 2008, [122 Stat. 1578][/us/stat/122/1578]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1120, July 6, 2012, [126 Stat. 492][/us/stat/126/492], which provided for the establishment of a program to provide grants to eligible applicants for surface transportation programs of national and regional significance, set out criteria for selection for such grants and grant requirements, and authorized appropriations for the implementation of the program, was repealed by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1105(c), Dec. 4, 2015, [129 Stat. 1337][/us/stat/129/1337].
 
  __National Corridor Infrastructure Improvement Program__ 
 
-    [Pub. L. 109–59, title I, § 1302][/us/pl/109/59/s1302], Aug. 10, 2005, [119 Stat. 1204][/us/stat/119/1204], as amended by [Pub. L. 110–244, title I][/us/pl/110/244], §§ 101(d), 103(b), June 6, 2008, [122 Stat. 1573][/us/stat/122/1573], 1578, which related to the National Corridor Infrastructure Improvement Program, was repealed by [Pub. L. 112–141, div. A, title I, § 1519(b)(2)][/us/pl/112/141/s1519/b/2], July 6, 2012, [126 Stat. 575][/us/stat/126/575].
+    [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1302, Aug. 10, 2005, [119 Stat. 1204][/us/stat/119/1204], as amended by [Pub. L. 110–244, title I][/us/pl/110/244/tI], §§ 101(d), 103(b), June 6, 2008, [122 Stat. 1573][/us/stat/122/1573], 1578, which related to the National Corridor Infrastructure Improvement Program, was repealed by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1519(b)(2), July 6, 2012, [126 Stat. 575][/us/stat/126/575].
 
  __Delta Region Transportation Development Program__ 
 
-[Pub. L. 109–59, title I, § 1308][/us/pl/109/59/s1308], Aug. 10, 2005, [119 Stat. 1218][/us/stat/119/1218], provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1308, Aug. 10, 2005, [119 Stat. 1218][/us/stat/119/1218], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1159,7 +1159,7 @@
 
  __Motorcyclist Advisory Council__ 
 
-[Pub. L. 114–94, div. A, title I, § 1426][/us/pl/114/94/s1426], Dec. 4, 2015, [129 Stat. 1426][/us/stat/129/1426], provided that: 
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1426, Dec. 4, 2015, [129 Stat. 1426][/us/stat/129/1426], provided that: 
 
 > “The Secretary \[of Transportation\], acting through the Administrator of the Federal Highway Administration, shall appoint a Motorcyclist Advisory Council to coordinate with and advise the Administrator on infrastructure issues of concern to motorcyclists, including—
 
@@ -1169,7 +1169,7 @@
 
 >     “(3) the architecture and implementation of intelligent transportation system technologies.”
 
-[Pub. L. 109–59, title I, § 1914][/us/pl/109/59/s1914], Aug. 10, 2005, [119 Stat. 1478][/us/stat/119/1478], provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1914, Aug. 10, 2005, [119 Stat. 1478][/us/stat/119/1478], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1207,7 +1207,7 @@
 
  __National Corridor Planning and Development Program__ 
 
-[Pub. L. 105–178, title I, § 1118][/us/pl/105/178/s1118], June 9, 1998, [112 Stat. 161][/us/stat/112/161], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1118, June 9, 1998, [112 Stat. 161][/us/stat/112/161], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1307,7 +1307,7 @@
 
  __Border Infrastructure__ 
 
-[Pub. L. 114–94, div. A, title I, § 1437][/us/pl/114/94/s1437], Dec. 4, 2015, [129 Stat. 1432][/us/stat/129/1432], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1437, Dec. 4, 2015, [129 Stat. 1432][/us/stat/129/1432], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1341,7 +1341,7 @@
 
 >     Effective beginning on the date of a termination under subsection (f)(2), all remaining unobligated funds that were designated under subsection (a) for the fiscal year for which the designation is being terminated shall be made available to the State for the purposes described in [section 133(d)(1)(B) of title 23][/us/usc/t23/s133/d/1/B], United States Code.”
 
-[Pub. L. 109–59, title I, § 1303][/us/pl/109/59/s1303], Aug. 10, 2005, [119 Stat. 1207][/us/stat/119/1207], provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1303, Aug. 10, 2005, [119 Stat. 1207][/us/stat/119/1207], provided that:
 
 >     “(a)  __General Authority__  __.—__ 
 
@@ -1475,7 +1475,7 @@
 
 >         The term ‘State’ has the meaning such term has in section 101(a) of such title 23.”
 
-[Pub. L. 105–178, title I, § 1119][/us/pl/105/178/s1119], June 9, 1998, [112 Stat. 163][/us/stat/112/163], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1119, June 9, 1998, [112 Stat. 163][/us/stat/112/163], provided that:
 
 >     “(a)  __General Authority__  __.—__ 
 
@@ -1539,7 +1539,7 @@
 
  __Highway Economic Requirement System__ 
 
-[Pub. L. 105–178, title I, § 1213(a)][/us/pl/105/178/s1213/a], June 9, 1998, [112 Stat. 199][/us/stat/112/199], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1213(a), June 9, 1998, [112 Stat. 199][/us/stat/112/199], provided that:
 
 >     “(1) __Methodology.—__ 
 
@@ -1575,7 +1575,7 @@
 
  __Southwest Border Transportation Infrastructure__ 
 
-[Pub. L. 105–178, title I, § 1213(d)][/us/pl/105/178/s1213/d], June 9, 1998, [112 Stat. 200][/us/stat/112/200], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1213(d), June 9, 1998, [112 Stat. 200][/us/stat/112/200], provided that:
 
 >     “(1)  __Assessment__  __.—__ 
 
@@ -1621,7 +1621,7 @@
 
  __Transportation, Community, and System Preservation Program__ 
 
-[Pub. L. 109–59, title I, § 1117(a)][/us/pl/109/59/s1117/a]–(g), Aug. 10, 2005, [119 Stat. 1177][/us/stat/119/1177], 1178, provided that:
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1117(a)–(g), Aug. 10, 2005, [119 Stat. 1177][/us/stat/119/1177], 1178, provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -1707,11 +1707,11 @@
 
 >         Funds made available to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable, and the Federal share for projects and activities carried out with such funds shall be determined in accordance with [section 120(b) of title 23][/us/usc/t23/s120/b], United States Code.”
 
-    [Pub. L. 105–178, title I, § 1221][/us/pl/105/178/s1221], June 9, 1998, [112 Stat. 221][/us/stat/112/221], as amended by [Pub. L. 108–88, § 5(a)(9)][/us/pl/108/88/s5/a/9], Sept. 30, 2003, [117 Stat. 1114][/us/stat/117/1114]; [Pub. L. 108–202, § 5(a)(9)][/us/pl/108/202/s5/a/9], Feb. 29, 2004, [118 Stat. 481][/us/stat/118/481]; [Pub. L. 108–224, § 4(a)(9)][/us/pl/108/224/s4/a/9], Apr. 30, 2004, [118 Stat. 629][/us/stat/118/629]; [Pub. L. 108–263, § 4(a)(9)][/us/pl/108/263/s4/a/9], June 30, 2004, [118 Stat. 700][/us/stat/118/700]; [Pub. L. 108–280, § 4(a)(9)][/us/pl/108/280/s4/a/9], July 30, 2004, [118 Stat. 879][/us/stat/118/879]; [Pub. L. 108–310, § 5(a)(9)][/us/pl/108/310/s5/a/9], Sept. 30, 2004, [118 Stat. 1149][/us/stat/118/1149]; [Pub. L. 109–14, § 4(a)(9)][/us/pl/109/14/s4/a/9], May 31, 2005, [119 Stat. 327][/us/stat/119/327]; [Pub. L. 109–20, § 4(a)(9)][/us/pl/109/20/s4/a/9], July 1, 2005, [119 Stat. 348][/us/stat/119/348]; [Pub. L. 109–35, § 4(a)(9)][/us/pl/109/35/s4/a/9], July 20, 2005, [119 Stat. 381][/us/stat/119/381]; [Pub. L. 109–37, § 4(a)(9)][/us/pl/109/37/s4/a/9], July 22, 2005, [119 Stat. 396][/us/stat/119/396]; [Pub. L. 109–40, § 4(a)(9)][/us/pl/109/40/s4/a/9], July 28, 2005, [119 Stat. 412][/us/stat/119/412], which related to a transportation and community and system preservation pilot program and authorized appropriations to carry out such program through July 30, 2005, was repealed by [Pub. L. 109–59, title I, § 1117(h)][/us/pl/109/59/s1117/h], Aug. 10, 2005, [119 Stat. 1179][/us/stat/119/1179].
+    [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1221, June 9, 1998, [112 Stat. 221][/us/stat/112/221], as amended by [Pub. L. 108–88][/us/pl/108/88], § 5(a)(9), Sept. 30, 2003, [117 Stat. 1114][/us/stat/117/1114]; [Pub. L. 108–202][/us/pl/108/202], § 5(a)(9), Feb. 29, 2004, [118 Stat. 481][/us/stat/118/481]; [Pub. L. 108–224][/us/pl/108/224], § 4(a)(9), Apr. 30, 2004, [118 Stat. 629][/us/stat/118/629]; [Pub. L. 108–263][/us/pl/108/263], § 4(a)(9), June 30, 2004, [118 Stat. 700][/us/stat/118/700]; [Pub. L. 108–280][/us/pl/108/280], § 4(a)(9), July 30, 2004, [118 Stat. 879][/us/stat/118/879]; [Pub. L. 108–310][/us/pl/108/310], § 5(a)(9), Sept. 30, 2004, [118 Stat. 1149][/us/stat/118/1149]; [Pub. L. 109–14][/us/pl/109/14], § 4(a)(9), May 31, 2005, [119 Stat. 327][/us/stat/119/327]; [Pub. L. 109–20][/us/pl/109/20], § 4(a)(9), July 1, 2005, [119 Stat. 348][/us/stat/119/348]; [Pub. L. 109–35][/us/pl/109/35], § 4(a)(9), July 20, 2005, [119 Stat. 381][/us/stat/119/381]; [Pub. L. 109–37][/us/pl/109/37], § 4(a)(9), July 22, 2005, [119 Stat. 396][/us/stat/119/396]; [Pub. L. 109–40][/us/pl/109/40], § 4(a)(9), July 28, 2005, [119 Stat. 412][/us/stat/119/412], which related to a transportation and community and system preservation pilot program and authorized appropriations to carry out such program through July 30, 2005, was repealed by [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1117(h), Aug. 10, 2005, [119 Stat. 1179][/us/stat/119/1179].
 
  __Transportation Assistance for Olympic Cities__ 
 
-[Pub. L. 105–178, title I, § 1223][/us/pl/105/178/s1223], June 9, 1998, [112 Stat. 224][/us/stat/112/224], as amended by [Pub. L. 105–206, title IX, § 9003(j)][/us/pl/105/206/s9003/j], July 22, 1998, [112 Stat. 842][/us/stat/112/842], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1223, June 9, 1998, [112 Stat. 224][/us/stat/112/224], as amended by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9003(j), July 22, 1998, [112 Stat. 842][/us/stat/112/842], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -1757,7 +1757,7 @@
 
  __Discretionary Grant Selection Criteria and Process__ 
 
-[Pub. L. 105–178, title I, § 1311][/us/pl/105/178/s1311], as added by [Pub. L. 105–206, title IX, § 9004(a)][/us/pl/105/206/s9004/a], July 22, 1998, [112 Stat. 842][/us/stat/112/842], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1311, as added by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9004(a), July 22, 1998, [112 Stat. 842][/us/stat/112/842], provided that:
 
 >     “(a)  __Establishment of Criteria__  __.—__ 
 
@@ -1793,11 +1793,11 @@
 
  __Compliance With Buy American Act__ 
 
-    [Pub. L. 104–59, title III, § 359(c)][/us/pl/104/59/s359/c], Nov. 28, 1995, [109 Stat. 627][/us/stat/109/627], directed Secretary of Transportation to conduct a study on compliance with Buy American Act (see [41 U.S.C. 8301][/us/usc/t41/s8301] et seq.) with respect to contracts entered into using amounts made available from Highway Trust Fund and not later than 1 year after Nov. 28, 1995, transmit to Congress report on results.
+    [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 359(c), Nov. 28, 1995, [109 Stat. 627][/us/stat/109/627], directed Secretary of Transportation to conduct a study on compliance with Buy American Act (see [41 U.S.C. 8301][/us/usc/t41/s8301] et seq.) with respect to contracts entered into using amounts made available from Highway Trust Fund and not later than 1 year after Nov. 28, 1995, transmit to Congress report on results.
 
  __Disadvantaged Business Enterprises__ 
 
-[Pub. L. 114–94, div. A, title I, § 1101(b)][/us/pl/114/94/s1101/b], Dec. 4, 2015, [129 Stat. 1323][/us/stat/129/1323], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1101(b), Dec. 4, 2015, [129 Stat. 1323][/us/stat/129/1323], provided that:
 
 >     “(1)  __Findings__  __.—__ 
 
@@ -1903,35 +1903,35 @@
 
 Similar provisions were contained in the following prior acts:
 
-    [Pub. L. 112–141, div. A, title I, § 1101(b)][/us/pl/112/141/s1101/b], July 6, 2012, [126 Stat. 414][/us/stat/126/414].
+    [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1101(b), July 6, 2012, [126 Stat. 414][/us/stat/126/414].
 
-    [Pub. L. 111–147, title IV, § 451][/us/pl/111/147/s451], Mar. 18, 2010, [124 Stat. 96][/us/stat/124/96].
+    [Pub. L. 111–147, title IV][/us/pl/111/147/tIV], § 451, Mar. 18, 2010, [124 Stat. 96][/us/stat/124/96].
 
-    [Pub. L. 109–59, title I, § 1101(b)][/us/pl/109/59/s1101/b], Aug. 10, 2005, [119 Stat. 1156][/us/stat/119/1156], as amended by [Pub. L. 110–244, title I, § 101(a)][/us/pl/110/244/s101/a], June 6, 2008, [122 Stat. 1573][/us/stat/122/1573].
+    [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1101(b), Aug. 10, 2005, [119 Stat. 1156][/us/stat/119/1156], as amended by [Pub. L. 110–244, title I][/us/pl/110/244/tI], § 101(a), June 6, 2008, [122 Stat. 1573][/us/stat/122/1573].
 
-    [Pub. L. 105–178, title I, § 1101(b)][/us/pl/105/178/s1101/b], June 9, 1998, [112 Stat. 113][/us/stat/112/113].
+    [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1101(b), June 9, 1998, [112 Stat. 113][/us/stat/112/113].
 
-    [Pub. L. 102–240, title I, § 1003(b)][/us/pl/102/240/s1003/b], Dec. 18, 1991, [105 Stat. 1919][/us/stat/105/1919].
+    [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1003(b), Dec. 18, 1991, [105 Stat. 1919][/us/stat/105/1919].
 
-    [Pub. L. 100–17, title I, § 106(c)][/us/pl/100/17/s106/c], Apr. 2, 1987, [101 Stat. 145][/us/stat/101/145].
+    [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 106(c), Apr. 2, 1987, [101 Stat. 145][/us/stat/101/145].
 
-[Pub. L. 109–14, § 7(s)][/us/pl/109/14/s7/s], May 31, 2005, [119 Stat. 334][/us/stat/119/334], provided that: 
+[Pub. L. 109–14][/us/pl/109/14], § 7(s), May 31, 2005, [119 Stat. 334][/us/stat/119/334], provided that: 
 
 > “Amounts made available under the amendments made by this section \[amending sections 5307, 5309, and 5338 of Title 49, Transportation, and provisions set out as notes under [section 322 of this title][/us/usc/t23/s322] and sections 5307, 5309, 5310, and 5338 of Title 49\] shall be treated for purposes of section 1101(b) of the Transportation Equity Act for the 21st Century \[[Pub. L. 105–178][/us/pl/105/178]\] ([23 U.S.C. 101][/us/usc/t23/s101] note) as amounts made available for programs under title III of such Act \[see Tables for classification\].”
 
 Similar provisions were contained in the following prior acts:
 
-    [Pub. L. 108–310, § 8(t)][/us/pl/108/310/s8/t], Sept. 30, 2004, [118 Stat. 1158][/us/stat/118/1158].
+    [Pub. L. 108–310][/us/pl/108/310], § 8(t), Sept. 30, 2004, [118 Stat. 1158][/us/stat/118/1158].
 
-    [Pub. L. 108–88, § 8(t)][/us/pl/108/88/s8/t], Sept. 30, 2003, [117 Stat. 1126][/us/stat/117/1126], as amended by [Pub. L. 108–202, § 9(t)][/us/pl/108/202/s9/t], Feb. 29, 2004, [118 Stat. 489][/us/stat/118/489]; [Pub. L. 108–224, § 7(t)][/us/pl/108/224/s7/t], Apr. 30, 2004, [118 Stat. 637][/us/stat/118/637]; [Pub. L. 108–263, § 7(t)][/us/pl/108/263/s7/t], June 30, 2004, [118 Stat. 708][/us/stat/118/708]; [Pub. L. 108–280, § 7(t)][/us/pl/108/280/s7/t], July 30, 2004, [118 Stat. 885][/us/stat/118/885].
+    [Pub. L. 108–88][/us/pl/108/88], § 8(t), Sept. 30, 2003, [117 Stat. 1126][/us/stat/117/1126], as amended by [Pub. L. 108–202][/us/pl/108/202], § 9(t), Feb. 29, 2004, [118 Stat. 489][/us/stat/118/489]; [Pub. L. 108–224][/us/pl/108/224], § 7(t), Apr. 30, 2004, [118 Stat. 637][/us/stat/118/637]; [Pub. L. 108–263][/us/pl/108/263], § 7(t), June 30, 2004, [118 Stat. 708][/us/stat/118/708]; [Pub. L. 108–280][/us/pl/108/280], § 7(t), July 30, 2004, [118 Stat. 885][/us/stat/118/885].
 
  __Highway Use Tax Evasion Projects__ 
 
-    [Pub. L. 102–240, title I, § 1040][/us/pl/102/240/s1040], Dec. 18, 1991, [105 Stat. 1992][/us/stat/105/1992], as amended by [Pub. L. 104–59, title III, § 325(f)][/us/pl/104/59/s325/f], Nov. 28, 1995, [109 Stat. 592][/us/stat/109/592]; [Pub. L. 104–66, title I, § 1122(b)][/us/pl/104/66/s1122/b], Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725]; [Pub. L. 105–130, § 5(c)(1)][/us/pl/105/130/s5/c/1], Dec. 1, 1997, [111 Stat. 2557][/us/stat/111/2557], related to highway use tax evasion projects, prior to repeal by [Pub. L. 105–178, title I, § 1114(b)(2)][/us/pl/105/178/s1114/b/2], June 9, 1998, [112 Stat. 154][/us/stat/112/154]. See [section 143 of this title][/us/usc/t23/s143].
+    [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1040, Dec. 18, 1991, [105 Stat. 1992][/us/stat/105/1992], as amended by [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 325(f), Nov. 28, 1995, [109 Stat. 592][/us/stat/109/592]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1122(b), Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725]; [Pub. L. 105–130][/us/pl/105/130], § 5(c)(1), Dec. 1, 1997, [111 Stat. 2557][/us/stat/111/2557], related to highway use tax evasion projects, prior to repeal by [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1114(b)(2), June 9, 1998, [112 Stat. 154][/us/stat/112/154]. See [section 143 of this title][/us/usc/t23/s143].
 
  __Scenic Byways Program__ 
 
-[Pub. L. 102–240, title I, § 1047][/us/pl/102/240/s1047], Dec. 18, 1991, [105 Stat. 1996][/us/stat/105/1996], as amended by [Pub. L. 105–130, § 5(c)(2)][/us/pl/105/130/s5/c/2], Dec. 1, 1997, [111 Stat. 2557][/us/stat/111/2557], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1047, Dec. 18, 1991, [105 Stat. 1996][/us/stat/105/1996], as amended by [Pub. L. 105–130][/us/pl/105/130], § 5(c)(2), Dec. 1, 1997, [111 Stat. 2557][/us/stat/111/2557], provided that:
 
 >     “(a) __Scenic Byways Advisory Committee.—__ 
 
@@ -2075,7 +2075,7 @@ Similar provisions were contained in the following prior acts:
 
  __Commemoration of Dwight D. Eisenhower System of Interstate and Defense Highways__ 
 
-[Pub. L. 102–240, title VI, § 6012][/us/pl/102/240/s6012], Dec. 18, 1991, [105 Stat. 2180][/us/stat/105/2180], provided that:
+[Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6012, Dec. 18, 1991, [105 Stat. 2180][/us/stat/105/2180], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -2087,7 +2087,7 @@ Similar provisions were contained in the following prior acts:
 
  __Designation of National System of Interstate and Defense Highways as The Dwight D. Eisenhower System of Interstate and Defense Highways__ 
 
-[Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927], as amended by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]; [Pub. L. 108–178, § 2(b)(3)][/us/pl/108/178/s2/b/3], Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640], provided: 
+[Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927], as amended by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]; [Pub. L. 108–178][/us/pl/108/178], § 2(b)(3), Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640], provided: 
 
 > “That—
 
@@ -2097,23 +2097,23 @@ Similar provisions were contained in the following prior acts:
 
  __Signs Identifying Funding Sources__ 
 
-    [Pub. L. 100–17, title I, § 154][/us/pl/100/17/s154], Apr. 2, 1987, [101 Stat. 209][/us/stat/101/209], which related to erection of signs indicating sources of funding on projects under construction with funds from the Highway Trust Fund, was repealed and restated in [section 321 of this title][/us/usc/t23/s321] by [Pub. L. 109–59, title I, § 1901(a)][/us/pl/109/59/s1901/a], (c), Aug. 10, 2005, [119 Stat. 1464][/us/stat/119/1464].
+    [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 154, Apr. 2, 1987, [101 Stat. 209][/us/stat/101/209], which related to erection of signs indicating sources of funding on projects under construction with funds from the Highway Trust Fund, was repealed and restated in [section 321 of this title][/us/usc/t23/s321] by [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1901(a), (c), Aug. 10, 2005, [119 Stat. 1464][/us/stat/119/1464].
 
  __Eligibility for Federal-Aid Highway Funds of Projects Involving Improvements in Vicinity of Interchanges Necessary To Upgrade Safety of Primary Routes Not on Common Alignment With Interstate Route__ 
 
-[Pub. L. 97–424, title I, § 128][/us/pl/97/424/s128], Jan. 6, 1983, [96 Stat. 2118][/us/stat/96/2118], provided that: 
+[Pub. L. 97–424, title I][/us/pl/97/424/tI], § 128, Jan. 6, 1983, [96 Stat. 2118][/us/stat/96/2118], provided that: 
 
 > “In any case where a project involving a Federal-aid primary route not on the Interstate System, and a route on the Interstate System which was originally constructed without the expenditure of any funds authorized under section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out as a note below\], and was subsequently added to the Interstate System, both occupying a common alignment and having elements which have been approved in concept by the Secretary of Transportation as part of a project providing for the upgrading of an interchange on such Interstate route, the cost of improvements in the vicinity of the interchange necessary to upgrade the safety of that part of such Federal-aid primary route not on a common alignment with such Interstate route in an environmentally acceptable manner shall be eligible for the expenditure of funds authorized by such section 108(b).”
 
  __Study of Future Transportation Professional Manpower Needs; Report__ 
 
-[Pub. L. 97–424, title I, § 135][/us/pl/97/424/s135], Jan. 6, 1983, [96 Stat. 2125][/us/stat/96/2125], provided that: 
+[Pub. L. 97–424, title I][/us/pl/97/424/tI], § 135, Jan. 6, 1983, [96 Stat. 2125][/us/stat/96/2125], provided that: 
 
 > “The Secretary of Transportation shall undertake to enter into appropriate arrangements with the National Academy of Sciences’ Transportation Research Board to conduct a comprehensive study and investigation of future transportation professional manpower needs, including but not limited to prevailing methods of recruitment, training, and financial and other incentives and disincentives which encourage or discourage retention in service of such professional manpower by Federal, State, and local governments. In entering into any arrangement with the National Academy of Sciences for conducting such study and investigation, the Secretary shall request the National Academy of Sciences to report to the Secretary and the Congress not later than two years after the enactment of this Act \[Jan. 6, 1983\] on the results of such study and investigation, together with its recommendations. The Secretary shall furnish to the Academy at its request any information which the Academy deems necessary for the purpose of conducting the study and investigation authorized by this section.”
 
  __Change in Location of Interstate Segments__ 
 
-[Pub. L. 97–424, title I, § 139][/us/pl/97/424/s139], Jan. 6, 1983, [96 Stat. 2127][/us/stat/96/2127], as amended by [Pub. L. 100–457, title III, § 348][/us/pl/100/457/s348], Sept. 30, 1988, [102 Stat. 2156][/us/stat/102/2156], provided that:
+[Pub. L. 97–424, title I][/us/pl/97/424/tI], § 139, Jan. 6, 1983, [96 Stat. 2127][/us/stat/96/2127], as amended by [Pub. L. 100–457, title III][/us/pl/100/457/tIII], § 348, Sept. 30, 1988, [102 Stat. 2156][/us/stat/102/2156], provided that:
 
 >     “(a) Notwithstanding the provisions of section 4(b) of the Federal-Aid Highway Act of 1981 \[[section 4(b) of Pub. L. 97–134][/us/pl/97/134/s4/b], which amended section 108(b) of the Federal-Aid Highway Act of 1956, set out as a note under this section\] the Secretary of Transportation may approve a change in location of any Interstate route or segment and approve, in lieu thereof, the construction of such Interstate route or segment on a new location if the original location of such route or segment meets the following criteria: (1) it has been designated under \[former\] [section 103(e) of title 23][/us/usc/t23/s103/e], United States Code; (2) it is serving Interstate travel as of the date of enactment of this section \[Jan. 6, 1983\]; (3) it requires improvements which are eligible under the Federal-Aid Highway Act of 1981 \[see Short Title of 1981 Amendment note above\] and which would either involve major modifications in order to meet acceptable standards or result in severe environmental impacts and such major modifications or mitigation measures relating to the environmental impacts are not cost effective. The cost of the construction of such Interstate route or segment on new location with funds available under section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out as a note below\], shall not exceed the estimated cost of the eligible improvements on the original location as eligible under the Federal-Aid Highway Act of 1981 and included in the 1983 interstate cost estimate as approved by the Congress. Such cost shall be increased or decreased, as determined by the Secretary, based on changes in construction costs of the original location of the route or segment as of the date of approval of each project on the new location. Upon approval of a new location, and funds apportioned under \[former\] [section 104(b)(5)(A) of title 23][/us/usc/t23/s104/b/5/A], United States Code, which were expended on the route or segment in the original location shall be refunded to the Highway Trust Fund and credited to the unobligated balance of the State’s apportionment made under \[former\] [section 104(b)(5)(A) of title 23][/us/usc/t23/s104/b/5/A], United States Code, and other eligible Federal-aid highway funds may be substituted in lieu thereof at the appropriate Federal share.
 
@@ -2123,49 +2123,49 @@ Similar provisions were contained in the following prior acts:
 
  __Buy America__ 
 
-    [Pub. L. 97–424, title I, § 165][/us/pl/97/424/s165], Jan. 6, 1983, [96 Stat. 2136][/us/stat/96/2136], as amended by [Pub. L. 98–229, § 10][/us/pl/98/229/s10], Mar. 9, 1984, [98 Stat. 57][/us/stat/98/57]; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171], 241; [Pub. L. 102–240, title I, § 1048][/us/pl/102/240/s1048], title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1999][/us/stat/105/1999], 2088; [Pub. L. 103–272, § 4(r)][/us/pl/103/272/s4/r], July 5, 1994, [108 Stat. 1371][/us/stat/108/1371]; [Pub. L. 103–429, § 7(a)(3)(E)][/us/pl/103/429/s7/a/3/E], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389], which prohibited obligation of funds unless steel, iron, and manufactured products used in the project had been produced in the United States, was repealed and restated in [section 313 of this title][/us/usc/t23/s313] by [Pub. L. 109–59, title I, § 1903(a)][/us/pl/109/59/s1903/a], (d), Aug. 10, 2005, [119 Stat. 1464][/us/stat/119/1464], 1465.
+    [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 165, Jan. 6, 1983, [96 Stat. 2136][/us/stat/96/2136], as amended by [Pub. L. 98–229][/us/pl/98/229], § 10, Mar. 9, 1984, [98 Stat. 57][/us/stat/98/57]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], §§ 133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171], 241; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1048, title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1999][/us/stat/105/1999], 2088; [Pub. L. 103–272][/us/pl/103/272], § 4(r), July 5, 1994, [108 Stat. 1371][/us/stat/108/1371]; [Pub. L. 103–429][/us/pl/103/429], § 7(a)(3)(E), Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389], which prohibited obligation of funds unless steel, iron, and manufactured products used in the project had been produced in the United States, was repealed and restated in [section 313 of this title][/us/usc/t23/s313] by [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1903(a), (d), Aug. 10, 2005, [119 Stat. 1464][/us/stat/119/1464], 1465.
 
  __Use of Articles Mined or Manufactured in United States__ 
 
-    [Pub. L. 95–599, title IV, § 401][/us/pl/95/599/s401], Nov. 6, 1978, [92 Stat. 2756][/us/stat/92/2756], as amended by [Pub. L. 97–327, § 6][/us/pl/97/327/s6], Oct. 15, 1982, [96 Stat. 1613][/us/stat/96/1613], which required that articles, materials, and supplies used in projects administered by Department of Transportation be mined or produced in United States, was repealed by [Pub. L. 97–424, title I, § 165(e)][/us/pl/97/424/s165/e], Jan. 6, 1983, [96 Stat. 2137][/us/stat/96/2137].
+    [Pub. L. 95–599, title IV][/us/pl/95/599/tIV], § 401, Nov. 6, 1978, [92 Stat. 2756][/us/stat/92/2756], as amended by [Pub. L. 97–327][/us/pl/97/327], § 6, Oct. 15, 1982, [96 Stat. 1613][/us/stat/96/1613], which required that articles, materials, and supplies used in projects administered by Department of Transportation be mined or produced in United States, was repealed by [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 165(e), Jan. 6, 1983, [96 Stat. 2137][/us/stat/96/2137].
 
  __Intercity Portions of Interstate System; Construction of Projects; Report to Congress; Exemption__ 
 
-    [Pub. L. 94–280, title I, § 102(b)][/us/pl/94/280/s102/b], May 5, 1976, [90 Stat. 425][/us/stat/90/425], provided that at least 30 percent of the apportionment made to each State for each of the fiscal years ending Sept. 30, 1978, and Sept. 30, 1979, of the sums authorized in [section 102(a) of Pub. L. 94–280][/us/pl/94/280/s102/a] be expended by such State for projects for the construction of intercity portions which would close essential gaps in the Interstate System and provide a continuous System; that the Secretary of Transportation report to Congress before Oct. 1, 1976, on those intercity portions of the Interstate System the construction of which would be needed to close essential gaps in the System; and that a State which did not have sufficient projects to meet the 30 percent requirement would, upon approval of the Secretary of Transportation, be exempt from the requirement to the extent of such inability.
+    [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 102(b), May 5, 1976, [90 Stat. 425][/us/stat/90/425], provided that at least 30 percent of the apportionment made to each State for each of the fiscal years ending Sept. 30, 1978, and Sept. 30, 1979, of the sums authorized in [section 102(a) of Pub. L. 94–280][/us/pl/94/280/s102/a] be expended by such State for projects for the construction of intercity portions which would close essential gaps in the Interstate System and provide a continuous System; that the Secretary of Transportation report to Congress before Oct. 1, 1976, on those intercity portions of the Interstate System the construction of which would be needed to close essential gaps in the System; and that a State which did not have sufficient projects to meet the 30 percent requirement would, upon approval of the Secretary of Transportation, be exempt from the requirement to the extent of such inability.
 
  __Interstate System; Prohibition of Obligation of Funds for Resurfacing, Restoration, or Rehabilitation Projects__ 
 
-    [Pub. L. 94–280, title I, § 102(c)][/us/pl/94/280/s102/c], May 5, 1976, [90 Stat. 426][/us/stat/90/426], provided that no part of the funds authorized by section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out as a note below\], for the Interstate System, shall be obligated for any project for resurfacing, restoring, or rehabilitating any portion of the Interstate System.
+    [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 102(c), May 5, 1976, [90 Stat. 426][/us/stat/90/426], provided that no part of the funds authorized by section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out as a note below\], for the Interstate System, shall be obligated for any project for resurfacing, restoring, or rehabilitating any portion of the Interstate System.
 
  __Interstate Funding Study; Report and Recommendations to Congress__ 
 
-    [Pub. L. 94–280, title I, § 150][/us/pl/94/280/s150], May 5, 1976, [90 Stat. 447][/us/stat/90/447], directed Secretary of Transportation to undertake a complete study of the financing of completion of the Interstate Highway System and report to Congress within nine months the results of the study, and to submit to Congress within one year his recommendations regarding the need to provide Federal financial assistance for resurfacing, restoration, and rehabilitation of routes of the System together with results of a study of alternative means of assuring that the high level of transportation service provided by the System is maintained.
+    [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 150, May 5, 1976, [90 Stat. 447][/us/stat/90/447], directed Secretary of Transportation to undertake a complete study of the financing of completion of the Interstate Highway System and report to Congress within nine months the results of the study, and to submit to Congress within one year his recommendations regarding the need to provide Federal financial assistance for resurfacing, restoration, and rehabilitation of routes of the System together with results of a study of alternative means of assuring that the high level of transportation service provided by the System is maintained.
 
  __Study of Highway Needs To Solve Energy Problems; Investigation and Study; Report to Congress__ 
 
-    [Pub. L. 94–280, title I, § 153][/us/pl/94/280/s153], May 5, 1976, [90 Stat. 448][/us/stat/90/448], directed Secretary of Transportation to make an investigation and study for the purpose of determining the need for special Federal assistance in the construction or reconstruction of highways on the Federal-aid system necessary for the transportation of coal or other uses in order to promote the solution of the Nation’s energy problems; that such study include appropriate consultations with the Secretary of the Interior, the Administrator of the Federal Energy Administration, and other appropriate Federal and State officials; that the Secretary report the results of such investigation and study together with his recommendations, to the Congress not later than one year after May 5, 1976; and that, in order to carry out the study, the Secretary use such funds as were available to him for such purposes under [section 104(a) of this title][/us/usc/t23/s104/a].
+    [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 153, May 5, 1976, [90 Stat. 448][/us/stat/90/448], directed Secretary of Transportation to make an investigation and study for the purpose of determining the need for special Federal assistance in the construction or reconstruction of highways on the Federal-aid system necessary for the transportation of coal or other uses in order to promote the solution of the Nation’s energy problems; that such study include appropriate consultations with the Secretary of the Interior, the Administrator of the Federal Energy Administration, and other appropriate Federal and State officials; that the Secretary report the results of such investigation and study together with his recommendations, to the Congress not later than one year after May 5, 1976; and that, in order to carry out the study, the Secretary use such funds as were available to him for such purposes under [section 104(a) of this title][/us/usc/t23/s104/a].
 
  __National Transportation Policy Study Commission; Establishment; Termination; Etc.__ 
 
-    [Pub. L. 94–280, title I, § 154][/us/pl/94/280/s154], May 5, 1976, [90 Stat. 448][/us/stat/90/448], as amended by [Pub. L. 95–599, title I, § 137(a)][/us/pl/95/599/s137/a], (b)(1), Nov. 6, 1978, [92 Stat. 2710][/us/stat/92/2710], established National Transportation Policy Study Commission; directed Commission, not later than July 1, 1979, to make an investigation and study and report to the President and Congress on the transportation needs and the resources, requirements, and policies of the United States to meet such expected needs; and provided for the Commission to terminate six months after the report.
+    [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 154, May 5, 1976, [90 Stat. 448][/us/stat/90/448], as amended by [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 137(a), (b)(1), Nov. 6, 1978, [92 Stat. 2710][/us/stat/92/2710], established National Transportation Policy Study Commission; directed Commission, not later than July 1, 1979, to make an investigation and study and report to the President and Congress on the transportation needs and the resources, requirements, and policies of the United States to meet such expected needs; and provided for the Commission to terminate six months after the report.
 
  __Consent of Governing Body for Expenditure of Funds__ 
 
-    [Pub. L. 93–643, § 102(d)][/us/pl/93/643/s102/d], Jan. 4, 1975, [88 Stat. 2282][/us/stat/88/2282], provided that no funds appropriated under the expanded definition of this section \[[23 U.S.C. 101(a)][/us/usc/t23/s101/a]\] shall be expended without the formal consent of the governing body of the tribe band or group of Indians or Alaskan Natives for whose use the Indian reservation roads and bridges are intended.
+    [Pub. L. 93–643][/us/pl/93/643], § 102(d), Jan. 4, 1975, [88 Stat. 2282][/us/stat/88/2282], provided that no funds appropriated under the expanded definition of this section \[[23 U.S.C. 101(a)][/us/usc/t23/s101/a]\] shall be expended without the formal consent of the governing body of the tribe band or group of Indians or Alaskan Natives for whose use the Indian reservation roads and bridges are intended.
 
  __Carpool Demonstration Projects in Urban Areas; Appropriations Authorization__ 
 
-    [Pub. L. 93–643, § 120(b)][/us/pl/93/643/s120/b], Jan. 4, 1975, [88 Stat. 2289][/us/stat/88/2289], relating to grants for demonstration projects designed to encourage the use of carpools in urban areas, was repealed by [Pub. L. 95–599, title I, § 126(b)][/us/pl/95/599/s126/b], Nov. 6, 1978, [92 Stat. 2706][/us/stat/92/2706]. See [section 146 of this title][/us/usc/t23/s146].
+    [Pub. L. 93–643][/us/pl/93/643], § 120(b), Jan. 4, 1975, [88 Stat. 2289][/us/stat/88/2289], relating to grants for demonstration projects designed to encourage the use of carpools in urban areas, was repealed by [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 126(b), Nov. 6, 1978, [92 Stat. 2706][/us/stat/92/2706]. See [section 146 of this title][/us/usc/t23/s146].
 
  __Emergency Highway Energy Conservation__ 
 
-[Pub. L. 93–239][/us/pl/93/239], §§ 1–3, Jan. 2, 1974, [87 Stat. 1046][/us/stat/87/1046], 1047, as amended by [Pub. L. 93–643][/us/pl/93/643], §§ 114(c), 120(a), Jan. 4, 1975, [83 Stat. 2286][/us/stat/83/2286], 2289; [Pub. L. 94–280, title I, § 143][/us/pl/94/280/s143], May 5, 1976, [90 Stat. 445][/us/stat/90/445]; [Pub. L. 95–599, title I, § 126(b)][/us/pl/95/599/s126/b], Nov. 6, 1978, [92 Stat. 2706][/us/stat/92/2706], provided:
+[Pub. L. 93–239][/us/pl/93/239], §§ 1–3, Jan. 2, 1974, [87 Stat. 1046][/us/stat/87/1046], 1047, as amended by [Pub. L. 93–643][/us/pl/93/643], §§ 114(c), 120(a), Jan. 4, 1975, [83 Stat. 2286][/us/stat/83/2286], 2289; [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 143, May 5, 1976, [90 Stat. 445][/us/stat/90/445]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 126(b), Nov. 6, 1978, [92 Stat. 2706][/us/stat/92/2706], provided:
 
 > “\[Section 1. Short title\]. That this Act be cited as the ‘Emergency Highway Energy Conservation Act’.
 
-> “Sec. 2. __\[Repealed.__  __[__  __Pub. L. 93–643, § 114(c)__  __][/us/pl/93/643/s114/c]__  __,__  __Jan. 4, 1975__  __,__  __[__  __88 Stat. 2086__  __][/us/stat/88/2086]__  __.\]__ 
+> “Sec. 2. __\[Repealed.__  __[__  __Pub. L. 93–643__  __][/us/pl/93/643]__  __, § 114(c),__  __Jan. 4, 1975__  __,__  __[__  __88 Stat. 2086__  __][/us/stat/88/2086]__  __.\]__ 
 
-> “Sec. 3. __\[Repealed.__  __[__  __Pub. L. 95–599, title I, § 126(b)__  __][/us/pl/95/599/s126/b]__  __,__  __Nov. 6, 1978__  __,__  __[__  __92 Stat. 2706__  __][/us/stat/92/2706]__  __.\]__ 
+> “Sec. 3. __\[Repealed.__  __[__  __Pub. L. 95–599, title I__  __][/us/pl/95/599/tI]__  __, § 126(b),__  __Nov. 6, 1978__  __,__  __[__  __92 Stat. 2706__  __][/us/stat/92/2706]__  __.\]__ 
 
 > ”
 
@@ -2173,7 +2173,7 @@ Similar provisions were contained in the following prior acts:
 
  __Future Highway Needs: Reports to Congress__ 
 
-[Pub. L. 91–605, title I, § 121][/us/pl/91/605/s121], Dec. 31, 1970, [84 Stat. 1725][/us/stat/84/1725], provided that:
+[Pub. L. 91–605, title I][/us/pl/91/605/tI], § 121, Dec. 31, 1970, [84 Stat. 1725][/us/stat/84/1725], provided that:
 
 >     “(a) The Secretary of Transportation shall develop and include in the report of Congress required to be submitted in January 1972, by [section 3 of the Act of August 28, 1965][/us/act/1965-08-28/s3] ([79 Stat. 578][/us/stat/79/578]; [Public Law 89–139][/us/pl/89/139]) \[set out below\], specific recommendations for the functional realinement of the Federal-aid systems. These recommendations shall be based on the functional classification study made in cooperation with the State highway departments and local governments as required by the Federal-Aid Highway Act of 1968 \[see [section 17 of Pub. L. 90–495][/us/pl/90/495/s17], set out as a note below\] and submitted to the Congress in 1970, and the functional classification study now underway of the Federal-aid systems in 1990.
 
@@ -2183,31 +2183,31 @@ Similar provisions were contained in the following prior acts:
 
 >     “(d) As a part of the future highway needs report to be submitted to Congress on January 1972, the Secretary shall report to Congress the Federal-aid urban system as designated, and the cost of its construction.”
 
-    [Pub. L. 89–139, § 3][/us/pl/89/139/s3], Aug. 28, 1965, [79 Stat. 578][/us/stat/79/578], which had required the submitting of a report to Congress every second year as to the estimates of the future highway needs of the Nation, and [Pub. L. 90–495, § 17][/us/pl/90/495/s17], Aug. 23, 1968, [82 Stat. 823][/us/stat/82/823], which had required that the report include the results of a systematic nationwide functional highway classification study, were repealed by [Pub. L. 97–424, title I, § 160(b)][/us/pl/97/424/s160/b], Jan. 6, 1983, [96 Stat. 2135][/us/stat/96/2135].
+    [Pub. L. 89–139][/us/pl/89/139], § 3, Aug. 28, 1965, [79 Stat. 578][/us/stat/79/578], which had required the submitting of a report to Congress every second year as to the estimates of the future highway needs of the Nation, and [Pub. L. 90–495][/us/pl/90/495], § 17, Aug. 23, 1968, [82 Stat. 823][/us/stat/82/823], which had required that the report include the results of a systematic nationwide functional highway classification study, were repealed by [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 160(b), Jan. 6, 1983, [96 Stat. 2135][/us/stat/96/2135].
 
  __Studies of Need for and Survey of Highway Construction Programs for Guam, American Samoa, and the Virgin Islands__ 
 
-    [Pub. L. 90–495, § 29][/us/pl/90/495/s29], Aug. 23, 1968, [82 Stat. 830][/us/stat/82/830], directed the Secretary of Transportation, in cooperation with the government of Guam, the government of American Samoa, and the government of the Virgin Islands, to make studies of the need for, and estimates and planning surveys relative to, highway construction programs for Guam, American Samoa, and the Virgin Islands, and to submit a report to Congress on or before April 1, 1969.
+    [Pub. L. 90–495][/us/pl/90/495], § 29, Aug. 23, 1968, [82 Stat. 830][/us/stat/82/830], directed the Secretary of Transportation, in cooperation with the government of Guam, the government of American Samoa, and the government of the Virgin Islands, to make studies of the need for, and estimates and planning surveys relative to, highway construction programs for Guam, American Samoa, and the Virgin Islands, and to submit a report to Congress on or before April 1, 1969.
 
-    [Pub. L. 89–574, § 13][/us/pl/89/574/s13], Sept. 13, 1966, [80 Stat. 770][/us/stat/80/770], as amended by [Pub. L. 97–449, § 2(a)][/us/pl/97/449/s2/a], Jan. 2, 1983, [96 Stat. 2439][/us/stat/96/2439], directed the Secretary, in cooperation with the government of Guam, the government of American Samoa, and the government of the Virgin Islands to make studies of the need for, and estimates and planning surveys relative to, highway construction programs for Guam, American Samoa, and the Virgin Islands, and to submit a report to Congress on or before July 1, 1967.
+    [Pub. L. 89–574][/us/pl/89/574], § 13, Sept. 13, 1966, [80 Stat. 770][/us/stat/80/770], as amended by [Pub. L. 97–449][/us/pl/97/449], § 2(a), Jan. 2, 1983, [96 Stat. 2439][/us/stat/96/2439], directed the Secretary, in cooperation with the government of Guam, the government of American Samoa, and the government of the Virgin Islands to make studies of the need for, and estimates and planning surveys relative to, highway construction programs for Guam, American Samoa, and the Virgin Islands, and to submit a report to Congress on or before July 1, 1967.
 
  __Report and Recommendations of Secretary of Commerce__ 
 
-    [Pub. L. 85–767, § 5][/us/pl/85/767/s5], Aug. 27, 1958, [72 Stat. 921][/us/stat/72/921], directed Secretary of Commerce to submit to Congress not later than Feb. 1, 1959, a report on progress made in attaining objectives set forth in this section, together with recommendations.
+    [Pub. L. 85–767][/us/pl/85/767], § 5, Aug. 27, 1958, [72 Stat. 921][/us/stat/72/921], directed Secretary of Commerce to submit to Congress not later than Feb. 1, 1959, a report on progress made in attaining objectives set forth in this section, together with recommendations.
 
  __Section 108(b) of the Federal-Aid Highway Act of 1956__ 
 
-[Act June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title I, § 108(b), [70 Stat. 378][/us/stat/70/378], as amended by [Pub. L. 85–381, § 7(a)][/us/pl/85/381/s7/a], Apr. 16, 1958, [72 Stat. 93][/us/stat/72/93]; [Pub. L. 86–342, title I, § 102][/us/pl/86/342/s102], Sept. 21, 1959, [73 Stat. 611][/us/stat/73/611]; [Pub. L. 87–61, title I][/us/pl/87/61] § 103, June 29, 1961, [75 Stat. 122][/us/stat/75/122]; [Pub. L. 89–139, § 1][/us/pl/89/139/s1], Aug. 28, 1965, [79 Stat. 578][/us/stat/79/578]; [Pub. L. 89–574, § 2][/us/pl/89/574/s2], Sept. 13, 1966, [80 Stat. 766][/us/stat/80/766]; [Pub. L. 90–495, § 2][/us/pl/90/495/s2], Aug. 23, 1968, [82 Stat. 815][/us/stat/82/815]; [Pub. L. 91–605][/us/pl/91/605] title I, §§ 102, 106(b)(1), Dec. 31, 1970, [84 Stat. 1714][/us/stat/84/1714], 1716; [Pub. L. 93–87, title I, § 102][/us/pl/93/87/s102], Aug. 13, 1973, [87 Stat. 250][/us/stat/87/250]; [Pub. L. 94–280, title I, § 102(a)][/us/pl/94/280/s102/a], May 5, 1976, [90 Stat. 425][/us/stat/90/425]; [Pub. L. 95–599, title I, § 102][/us/pl/95/599/s102], Nov. 6, 1978, [92 Stat. 2689][/us/stat/92/2689]; [Pub. L. 97–134, § 4(a)][/us/pl/97/134/s4/a], (b), Dec. 29, 1981, [95 Stat. 1700][/us/stat/95/1700]; [Pub. L. 97–327, § 2][/us/pl/97/327/s2], Oct. 15, 1982, [96 Stat. 1611][/us/stat/96/1611]; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 102, 127(a), Jan. 6, 1983, [96 Stat. 2097][/us/stat/96/2097], 2117; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 104, 138, Apr. 2, 1987, [101 Stat. 142][/us/stat/101/142], 175; [Pub. L. 102–240, title I, § 1001(f)][/us/pl/102/240/s1001/f], Dec. 18, 1991, [105 Stat. 1916][/us/stat/105/1916]; [Pub. L. 103–331, title III, § 335(c)][/us/pl/103/331/s335/c], Sept. 30, 1994, [108 Stat. 2494][/us/stat/108/2494], provided that: 
+[Act June 29, 1956, ch. 462, title I][/us/act/1956-06-29/ch462/tI], § 108(b), [70 Stat. 378][/us/stat/70/378], as amended by [Pub. L. 85–381][/us/pl/85/381], § 7(a), Apr. 16, 1958, [72 Stat. 93][/us/stat/72/93]; [Pub. L. 86–342, title I][/us/pl/86/342/tI], § 102, Sept. 21, 1959, [73 Stat. 611][/us/stat/73/611]; [Pub. L. 87–61, title I][/us/pl/87/61/tI] § 103, June 29, 1961, [75 Stat. 122][/us/stat/75/122]; [Pub. L. 89–139][/us/pl/89/139], § 1, Aug. 28, 1965, [79 Stat. 578][/us/stat/79/578]; [Pub. L. 89–574][/us/pl/89/574], § 2, Sept. 13, 1966, [80 Stat. 766][/us/stat/80/766]; [Pub. L. 90–495][/us/pl/90/495], § 2, Aug. 23, 1968, [82 Stat. 815][/us/stat/82/815]; [Pub. L. 91–605][/us/pl/91/605] title I, §§ 102, 106(b)(1), Dec. 31, 1970, [84 Stat. 1714][/us/stat/84/1714], 1716; [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 102, Aug. 13, 1973, [87 Stat. 250][/us/stat/87/250]; [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 102(a), May 5, 1976, [90 Stat. 425][/us/stat/90/425]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 102, Nov. 6, 1978, [92 Stat. 2689][/us/stat/92/2689]; [Pub. L. 97–134][/us/pl/97/134], § 4(a), (b), Dec. 29, 1981, [95 Stat. 1700][/us/stat/95/1700]; [Pub. L. 97–327][/us/pl/97/327], § 2, Oct. 15, 1982, [96 Stat. 1611][/us/stat/96/1611]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], §§ 102, 127(a), Jan. 6, 1983, [96 Stat. 2097][/us/stat/96/2097], 2117; [Pub. L. 100–17, title I][/us/pl/100/17/tI], §§ 104, 138, Apr. 2, 1987, [101 Stat. 142][/us/stat/101/142], 175; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1001(f), Dec. 18, 1991, [105 Stat. 1916][/us/stat/105/1916]; [Pub. L. 103–331, title III][/us/pl/103/331/tIII], § 335(c), Sept. 30, 1994, [108 Stat. 2494][/us/stat/108/2494], provided that: 
 
-> “For the purpose of expediting the construction, reconstruction, or improvement, inclusive of necessary bridges and tunnels, of the Interstate System, including extensions thereof through urban areas, designated in accordance with the provisions of \[former\] subsection (e) of [section 103 of title 23][/us/usc/t23/s103], United States Code, there is hereby authorized to be appropriated the additional sum of $1,000,000,000 for the fiscal year ending June 30, 1957, which sum shall be in addition to the authorization heretofore made for that year, the additional sum of $1,700,000,000 for the fiscal year ending June 30, 1958, the additional sum of $2,200,000,000 for the fiscal year ending June 30, 1959, the additional sum of $2,500,000,000 for the fiscal year ending June 30, 1960, the additional sum of $1,800,000,000 for the fiscal year ending June 30, 1961, the additional sum of $2,200,000,000 for the fiscal year ending June 30, 1962, the additional sum of $2,400,000,000 for the fiscal year ending June 30, 1963, the additional sum of $2,600,000,000 for the fiscal year ending June 30, 1964, the additional sum of $2,700,000,000 for the fiscal year ending June 30, 1965, the additional sum of $2,800,000,000 for the fiscal year ending June 30, 1966, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1967, the additional sum of $3,400,000,000 for the fiscal year ending June 30, 1968, the additional sum of $3,800,000,000 for the fiscal year ending June 30, 1969, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1970, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1971, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1972, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1973, the additional sum of $2,600,000,000 for the fiscal year ending June 30, 1974, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1975, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1976, the additional sum of $3,250,000,000 for the fiscal year ending June 30, 1977, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1978, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1979, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1980, the additional sum of $3,500,000,000 for the fiscal year ending September 30, 1981, the additional sum of $3,500,000,000 for the fiscal year ending September 30, 1982, the additional sum of $3,100,000,000 for the fiscal year ending September 30, 1983, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1984, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1985, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1986, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1987, the additional sum of $3,000,000,000 for the fiscal year ending September 30, 1988, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1989, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1990, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1991, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1992, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1993, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1994, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1995, and the additional sum of $1,800,000,000, reduced by the amount made available under section 1045(b)(1)(B) of the Intermodal Surface Transportation Efficiency Act of 1991 \[[Pub. L. 102–240][/us/pl/102/240], as amended by [Pub. L. 103–331, title III, § 335(a)][/us/pl/103/331/s335/a], Sept. 30, 1994, [108 Stat. 2494][/us/stat/108/2494], which is not classified to the Code\], for the fiscal year ending September 30, 1996. Nothing in this subsection shall be construed to authorize the appropriation of any sums to carry out sections 131, 136, or 319(b) of title 23, United States Code, or any provision of law relating to highway safety enacted after May 1, 1966. Beginning with funds authorized to be appropriated for fiscal year 1980, no such funds shall be available for projects to expand or clear zones immediately adjacent to the paved roadway of routes designed prior to February, 1967. Effective on and after the date of enactment of this sentence \[Dec. 29, 1981\], the obligation of funds authorized by this subsection, except for advance construction interstate projects approved before the date of enactment of this sentence, shall be limited to the construction necessary to provide a minimum level of acceptable service on the Interstate System which shall consist of (1) full access control; (2) a pavement design to accommodate the types and volumes of traffic anticipated for the twenty-year period from date of authorization of the initial basic construction contract; (3) essential environmental requirements; (4) a design of not more than six lanes (exclusive of high occupancy vehicle lanes) in rural areas and all urbanized areas under four hundred thousand population, and up to eight lanes (exclusive of high occupancy vehicle lanes) in urbanized areas of four hundred thousand population or more as shown in the 1980 Federal census; and (5) those high occupancy vehicle lanes (including approaches and all directly related facilities) included in the interstate cost estimate for fiscal year 1981. The obligation of funds authorized by this subsection shall be further limited to the actual costs of only those design concepts, locations, geometrics, and other construction features included in the 1981 interstate cost estimate, except in any case where the Secretary of Transportation determines that a provision of Federal law requires a different design, location, geometric, or other construction feature of a type authorized by this subsection. Notwithstanding any other provision of law, including any other provision of this subsection, where a project is to be constructed (1) to provide parking garage ramps in conjunction with high occupancy vehicle lanes which flow into a distributor system emptying directly into ramps for off-street parking with preferential parking for carpools, vanpools, and buses and the ramps are part of an environmental mitigation effort and are designed to feed into an aerial walkway system, or (2) to provide a parking lot near the terminus of an Interstate System spur route which radiates from an Interstate System beltway which will be used as an intermodal transfer facility for a light rail transit project to be constructed in the median of the spur route and the parking lot is part of an environmental mitigation effort, or (3) to provide a parking garage and associated facilities as part of an intermodal transfer facility with a transit system near or within an Interstate System route right-of-way which will have direct and indirect access to the facility by way of local streets and the parking garage and associated facilities are part of an environmental mitigation effort, or (4) to provide for the comprehensive upgrading of existing high occupancy vehicle lanes, new ramps and parking facilities at mass transit intermodal transfer points on an existing Interstate System route which has temporary high occupancy vehicle lanes in the median and the parking facilities and ramps are part of an environmental mitigation effort, the costs of such parking garage ramps, parking lots, parking garages, associated interchange ramps, high occupancy vehicle lanes, and other associated work eligible under title 23, United States Code, shall be eligible for funds authorized by this subsection as if the costs for these projects were included in the 1981 interstate cost estimate and shall be included as eligible projects in any future interstate cost estimate. For purposes of this subsection, construction necessary to provide a minimum level of acceptable service on the Interstate System shall include, but not be limited to, any construction on the Interstate System which is required under a court order issued before the date of enactment of this sentence. Notwithstanding the fifth sentence of this subsection, the costs of a project which will upgrade an interstate route and will complete a gap on the Interstate System providing access to an international airport and which was described as the preferred alternative in a final environmental impact statement submitted to the Secretary of Transportation on September 30, 1983, shall be eligible for funds authorized by this subsection as if such costs were included in the 1981 interstate cost estimate and shall be included as eligible costs in any future interstate cost estimate, except that (1) such costs may be further developed in the design and environmental process under normal Federal-aid interstate procedures, and (2) the amount of such costs shall not include the portion of the project between High Street and Causeway Street.”
+> “For the purpose of expediting the construction, reconstruction, or improvement, inclusive of necessary bridges and tunnels, of the Interstate System, including extensions thereof through urban areas, designated in accordance with the provisions of \[former\] subsection (e) of [section 103 of title 23][/us/usc/t23/s103], United States Code, there is hereby authorized to be appropriated the additional sum of $1,000,000,000 for the fiscal year ending June 30, 1957, which sum shall be in addition to the authorization heretofore made for that year, the additional sum of $1,700,000,000 for the fiscal year ending June 30, 1958, the additional sum of $2,200,000,000 for the fiscal year ending June 30, 1959, the additional sum of $2,500,000,000 for the fiscal year ending June 30, 1960, the additional sum of $1,800,000,000 for the fiscal year ending June 30, 1961, the additional sum of $2,200,000,000 for the fiscal year ending June 30, 1962, the additional sum of $2,400,000,000 for the fiscal year ending June 30, 1963, the additional sum of $2,600,000,000 for the fiscal year ending June 30, 1964, the additional sum of $2,700,000,000 for the fiscal year ending June 30, 1965, the additional sum of $2,800,000,000 for the fiscal year ending June 30, 1966, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1967, the additional sum of $3,400,000,000 for the fiscal year ending June 30, 1968, the additional sum of $3,800,000,000 for the fiscal year ending June 30, 1969, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1970, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1971, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1972, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1973, the additional sum of $2,600,000,000 for the fiscal year ending June 30, 1974, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1975, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1976, the additional sum of $3,250,000,000 for the fiscal year ending June 30, 1977, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1978, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1979, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1980, the additional sum of $3,500,000,000 for the fiscal year ending September 30, 1981, the additional sum of $3,500,000,000 for the fiscal year ending September 30, 1982, the additional sum of $3,100,000,000 for the fiscal year ending September 30, 1983, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1984, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1985, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1986, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1987, the additional sum of $3,000,000,000 for the fiscal year ending September 30, 1988, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1989, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1990, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1991, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1992, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1993, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1994, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1995, and the additional sum of $1,800,000,000, reduced by the amount made available under section 1045(b)(1)(B) of the Intermodal Surface Transportation Efficiency Act of 1991 \[[Pub. L. 102–240][/us/pl/102/240], as amended by [Pub. L. 103–331, title III][/us/pl/103/331/tIII], § 335(a), Sept. 30, 1994, [108 Stat. 2494][/us/stat/108/2494], which is not classified to the Code\], for the fiscal year ending September 30, 1996. Nothing in this subsection shall be construed to authorize the appropriation of any sums to carry out sections 131, 136, or 319(b) of title 23, United States Code, or any provision of law relating to highway safety enacted after May 1, 1966. Beginning with funds authorized to be appropriated for fiscal year 1980, no such funds shall be available for projects to expand or clear zones immediately adjacent to the paved roadway of routes designed prior to February, 1967. Effective on and after the date of enactment of this sentence \[Dec. 29, 1981\], the obligation of funds authorized by this subsection, except for advance construction interstate projects approved before the date of enactment of this sentence, shall be limited to the construction necessary to provide a minimum level of acceptable service on the Interstate System which shall consist of (1) full access control; (2) a pavement design to accommodate the types and volumes of traffic anticipated for the twenty-year period from date of authorization of the initial basic construction contract; (3) essential environmental requirements; (4) a design of not more than six lanes (exclusive of high occupancy vehicle lanes) in rural areas and all urbanized areas under four hundred thousand population, and up to eight lanes (exclusive of high occupancy vehicle lanes) in urbanized areas of four hundred thousand population or more as shown in the 1980 Federal census; and (5) those high occupancy vehicle lanes (including approaches and all directly related facilities) included in the interstate cost estimate for fiscal year 1981. The obligation of funds authorized by this subsection shall be further limited to the actual costs of only those design concepts, locations, geometrics, and other construction features included in the 1981 interstate cost estimate, except in any case where the Secretary of Transportation determines that a provision of Federal law requires a different design, location, geometric, or other construction feature of a type authorized by this subsection. Notwithstanding any other provision of law, including any other provision of this subsection, where a project is to be constructed (1) to provide parking garage ramps in conjunction with high occupancy vehicle lanes which flow into a distributor system emptying directly into ramps for off-street parking with preferential parking for carpools, vanpools, and buses and the ramps are part of an environmental mitigation effort and are designed to feed into an aerial walkway system, or (2) to provide a parking lot near the terminus of an Interstate System spur route which radiates from an Interstate System beltway which will be used as an intermodal transfer facility for a light rail transit project to be constructed in the median of the spur route and the parking lot is part of an environmental mitigation effort, or (3) to provide a parking garage and associated facilities as part of an intermodal transfer facility with a transit system near or within an Interstate System route right-of-way which will have direct and indirect access to the facility by way of local streets and the parking garage and associated facilities are part of an environmental mitigation effort, or (4) to provide for the comprehensive upgrading of existing high occupancy vehicle lanes, new ramps and parking facilities at mass transit intermodal transfer points on an existing Interstate System route which has temporary high occupancy vehicle lanes in the median and the parking facilities and ramps are part of an environmental mitigation effort, the costs of such parking garage ramps, parking lots, parking garages, associated interchange ramps, high occupancy vehicle lanes, and other associated work eligible under title 23, United States Code, shall be eligible for funds authorized by this subsection as if the costs for these projects were included in the 1981 interstate cost estimate and shall be included as eligible projects in any future interstate cost estimate. For purposes of this subsection, construction necessary to provide a minimum level of acceptable service on the Interstate System shall include, but not be limited to, any construction on the Interstate System which is required under a court order issued before the date of enactment of this sentence. Notwithstanding the fifth sentence of this subsection, the costs of a project which will upgrade an interstate route and will complete a gap on the Interstate System providing access to an international airport and which was described as the preferred alternative in a final environmental impact statement submitted to the Secretary of Transportation on September 30, 1983, shall be eligible for funds authorized by this subsection as if such costs were included in the 1981 interstate cost estimate and shall be included as eligible costs in any future interstate cost estimate, except that (1) such costs may be further developed in the design and environmental process under normal Federal-aid interstate procedures, and (2) the amount of such costs shall not include the portion of the project between High Street and Causeway Street.”
 
-[Pub. L. 97–424, title I, § 127(b)][/us/pl/97/424/s127/b], Jan. 6, 1983, [96 Stat. 2118][/us/stat/96/2118], provided that: 
+[Pub. L. 97–424, title I][/us/pl/97/424/tI], § 127(b), Jan. 6, 1983, [96 Stat. 2118][/us/stat/96/2118], provided that: 
 
 > “Notwithstanding the provisions of section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out above\], the Secretary of Transportation may approve the expenditure of funds authorized under such section for the construction of a previously approved project which provides for improvements to and reconstruction of ramps and service roads which are being developed as part of a roadway system to relieve a severely congested segment on an Interstate route. Such expenditures shall be limited (1) to work necessary to provide more effective and safe operation of such Interstate route, and (2) to a section of an Interstate route which proceeded to construction contract prior to the date of enactment of such Act and which Interstate route, together with service roads, was constructed without the expenditure of any funds authorized by such section.”
 
  __Definitions of “Department”, “Interstate System”, “Secretary”, and “State” for Purposes of Certain Acts__ 
 
-[Pub. L. 114–94, div. A, § 1001][/us/pl/114/94/s1001], Dec. 4, 2015, [129 Stat. 1321][/us/stat/129/1321], provided that: 
+[Pub. L. 114–94, div. A][/us/pl/114/94/dA], § 1001, Dec. 4, 2015, [129 Stat. 1321][/us/stat/129/1321], provided that: 
 
 > “In this division \[see Tables for classification\], the following definitions apply:
 
@@ -2219,7 +2219,7 @@ Similar provisions were contained in the following prior acts:
 
 >     The term ‘Secretary’ means the Secretary of Transportation.”
 
-[Pub. L. 112–141, § 2][/us/pl/112/141/s2], July 6, 2012, [126 Stat. 413][/us/stat/126/413], provided that: 
+[Pub. L. 112–141][/us/pl/112/141], § 2, July 6, 2012, [126 Stat. 413][/us/stat/126/413], provided that: 
 
 > “In this Act \[see Tables for classification\], the following definitions apply:
 
@@ -2231,11 +2231,11 @@ Similar provisions were contained in the following prior acts:
 
 >     The term ‘Secretary’ means the Secretary of Transportation.”
 
-[Pub. L. 112–141, div. C, title I, § 31002][/us/pl/112/141/s31002], July 6, 2012, [126 Stat. 732][/us/stat/126/732], provided that: 
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31002, July 6, 2012, [126 Stat. 732][/us/stat/126/732], provided that: 
 
 > “In this title \[see Tables for classification\], the term ‘Secretary’ means the Secretary of Transportation.”
 
-[Pub. L. 109–59, § 2][/us/pl/109/59/s2], Aug. 10, 2005, [119 Stat. 1153][/us/stat/119/1153], provided that: 
+[Pub. L. 109–59][/us/pl/109/59], § 2, Aug. 10, 2005, [119 Stat. 1153][/us/stat/119/1153], provided that: 
 
 > “In this Act \[see Tables for classification\], the following definitions apply:
 
@@ -2247,11 +2247,11 @@ Similar provisions were contained in the following prior acts:
 
 >     The term ‘Secretary’ means the Secretary of Transportation.”
 
-[Pub. L. 109–59, title I, § 1120(c)][/us/pl/109/59/s1120/c], Aug. 10, 2005, [119 Stat. 1192][/us/stat/119/1192], provided that: 
+[Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1120(c), Aug. 10, 2005, [119 Stat. 1192][/us/stat/119/1192], provided that: 
 
 > “For the purposes of apportioning funds under sections 104, \[former\] 105, 130, \[former\] 144, and 206 of title 23, United States Code, and section 1404 \[set out as a note under [section 402 of this title][/us/usc/t23/s402]\], relating to the safe routes to school program, the term ‘State’ means any of the 50 States and the District of Columbia.”
 
-[Pub. L. 105–178, § 2][/us/pl/105/178/s2], June 9, 1998, [112 Stat. 111][/us/stat/112/111], provided that: 
+[Pub. L. 105–178][/us/pl/105/178], § 2, June 9, 1998, [112 Stat. 111][/us/stat/112/111], provided that: 
 
 > “In this Act \[see Tables for classification\], the following definitions apply:
 
@@ -2263,15 +2263,15 @@ Similar provisions were contained in the following prior acts:
 
 >     The term ‘Secretary’ means the Secretary of Transportation.”
 
-[Pub. L. 105–178, title I, § 1103(n)][/us/pl/105/178/s1103/n], June 9, 1998, [112 Stat. 127][/us/stat/112/127], as amended by [Pub. L. 105–206, title IX, § 9002(c)(2)][/us/pl/105/206/s9002/c/2], July 22, 1998, [112 Stat. 835][/us/stat/112/835], provided that: 
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1103(n), June 9, 1998, [112 Stat. 127][/us/stat/112/127], as amended by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9002(c)(2), July 22, 1998, [112 Stat. 835][/us/stat/112/835], provided that: 
 
 > “For the purposes of apportioning funds under sections 104, \[former\] 105, \[former\] 144, and 206 of title 23, United States Code, the term ‘State’ means any of the 50 States and the District of Columbia.”
 
-[Pub. L. 104–59, § 2][/us/pl/104/59/s2], Nov. 28, 1995, [109 Stat. 569][/us/stat/109/569], provided that: 
+[Pub. L. 104–59][/us/pl/104/59], § 2, Nov. 28, 1995, [109 Stat. 569][/us/stat/109/569], provided that: 
 
 > “In this Act \[See Short Title of 1995 Amendment note above\], the term ‘Secretary’ means the Secretary of Transportation.”
 
-[Pub. L. 100–17, § 2][/us/pl/100/17/s2], Apr. 2, 1987, [101 Stat. 134][/us/stat/101/134], provided that: 
+[Pub. L. 100–17][/us/pl/100/17], § 2, Apr. 2, 1987, [101 Stat. 134][/us/stat/101/134], provided that: 
 
 > “As used in this Act \[see Short Title of 1987 Amendment note above\], the term ‘Secretary’ means the Secretary of Transportation.”
 
@@ -2286,147 +2286,147 @@ Similar provisions were contained in the following prior acts:
 [/us/stat/70/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F374
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F885
-[/us/pl/86/70/s21/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe%2F1
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F146
-[/us/pl/86/624/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs17%2Fa
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F415
-[/us/pl/87/866/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F866%2Fs6%2Fa
+[/us/pl/87/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F866
 [/us/stat/76/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1147
-[/us/pl/88/423/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423%2Fs3
+[/us/pl/88/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423
 [/us/stat/78/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F397
-[/us/pl/89/574/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs4%2Fa
+[/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/stat/80/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F767
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F816
-[/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1714
-[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/253-255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F253-255
-[/us/pl/93/643/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs102%2Fb
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2281
-[/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F430
-[/us/pl/95/599/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs106
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2693
-[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2115
-[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F135
 [/us/pl/101/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F427
 [/us/stat/104/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F927
-[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1916
-[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F578
-[/us/pl/105/178/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1201
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F164
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1196
-[/us/pl/110/244/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fh
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1574
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F419
-[/us/pl/114/94/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1103
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1328
 [/us/stat/70/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F374
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F378
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s1103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F3
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F4%2FB
-[/us/pl/112/141/s1103/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F4%2FC
-[/us/pl/112/141/s1103/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F4%2FD
-[/us/pl/112/141/s1103/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F4%2FE
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F1
-[/us/pl/112/141/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F1
-[/us/pl/112/141/s1103/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F6
-[/us/pl/112/141/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F1
-[/us/pl/112/141/s1103/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F7
-[/us/pl/112/141/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F1
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F1
-[/us/pl/112/141/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F1
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F11
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F1
-[/us/pl/112/141/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F1
-[/us/pl/112/141/s1103/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F12
-[/us/pl/112/141/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F1
-[/us/pl/112/141/s1103/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F13
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
-[/us/pl/112/141/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F1
-[/us/pl/112/141/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1301%2Fc
-[/us/pl/112/141/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s1122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1122%2Fa
-[/us/pl/109/59/s1122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1122%2Fb
-[/us/pl/109/59/s1909/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1909%2Fa
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
-[/us/pl/104/59/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs311%2Fb
-[/us/pl/104/59/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs301%2Fb%2F1
-[/us/pl/104/59/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs301%2Fb%2F2
-[/us/pl/102/240/s1006/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1006%2Fg%2F1
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t23/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103
-[/us/pl/102/240/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1005%2Fa
-[/us/pl/102/240/s1005/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1005%2Fd%2F3
-[/us/pl/102/240/s1005/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1005%2Fd%2F4
-[/us/pl/102/240/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1005%2Fb
-[/us/pl/102/240/s1005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1005%2Fc
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t23/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103
-[/us/pl/102/240/s1005/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1005%2Fd%2F1
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t23/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103
 [/us/usc/t23/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103
-[/us/pl/102/240/s1005/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1005%2Fe
-[/us/pl/102/240/s1005/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1005%2Fg
-[/us/pl/102/240/s1005/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1005%2Ff
-[/us/pl/102/240/s1007/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1007%2Fc
-[/us/pl/102/240/s1001/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1001%2Fg
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/101/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F427
-[/us/pl/100/17/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs108
-[/us/pl/100/17/s133/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F2
-[/us/pl/100/17/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs109
-[/us/pl/100/17/s133/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F3
-[/us/pl/100/17/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs102%2Fb%2F3
-[/us/pl/97/424/s126/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126%2Fc%2F1
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/stat/46/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1053
-[/us/pl/97/424/s126/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126%2Fc%2F2
-[/us/pl/97/424/s126/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126%2Fc%2F3
-[/us/pl/97/424/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs159
-[/us/pl/95/599/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs106%2Fa
-[/us/pl/95/599/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs106%2Fb%2F1
-[/us/pl/95/599/s106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs106%2Fb%2F2
-[/us/pl/95/599/s106/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs106%2Fb%2F3
-[/us/pl/95/599/s106/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs106%2Fb%2F4
-[/us/pl/94/280/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs108
-[/us/pl/94/280/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs107%2Fa
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
+[/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
-[/us/pl/93/87/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs105%2F1
-[/us/pl/93/87/s105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs105%2F3
-[/us/pl/93/87/s152/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs152%2F1
-[/us/pl/93/87/s105/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs105%2F4
-[/us/pl/93/87/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs105%2F2
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
-[/us/pl/93/87/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs108
+[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
-[/us/pl/91/605/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs104%2Fa
-[/us/pl/91/605/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs107
-[/us/pl/91/605/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs107
+[/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
+[/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
+[/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
 [/us/usc/t31/s686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs686
-[/us/pl/90/495/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs8
-[/us/pl/90/495/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs4%2Fa
-[/us/pl/90/495/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs15
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/pl/88/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423
 [/us/pl/87/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F866
@@ -2435,14 +2435,14 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F413
-[/us/pl/112/141/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F413
-[/us/pl/112/140/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2Fs1%2Fc
+[/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/stat/126/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F391
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/110/244/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs121%2Fa
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1608
 [/us/usc/t23/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs144
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
@@ -2450,13 +2450,13 @@ Similar provisions were contained in the following prior acts:
 [/us/stat/119/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1144
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/stat/119/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1144
-[/us/pl/105/206/s9016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9016
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F868
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/91/605/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs147
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1739
 [/us/usc/t23/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs510
 [/us/usc/t23/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs502
@@ -2465,115 +2465,115 @@ Similar provisions were contained in the following prior acts:
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
-[/us/pl/90/495/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs37
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F836
-[/us/pl/91/605/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs120
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1725
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/usc/t23/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133
 [/us/usc/t23/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133
-[/us/pl/86/70/s21/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F146
-[/us/pl/114/94/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/stat/129/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1312
-[/us/pl/114/94/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6001
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1561
 [/us/usc/t23/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs519
 [/us/usc/t23/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs508
-[/us/pl/114/87/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1%2Fa
+[/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
 [/us/stat/129/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F677
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
-[/us/pl/114/73/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1%2Fa
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/stat/129/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F568
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
-[/us/pl/114/41/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1%2Fa
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/stat/129/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F443
-[/us/pl/114/21/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1%2Fa
+[/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
 [/us/stat/129/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F218
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
-[/us/pl/113/159/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1%2Fa
+[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/stat/128/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1839
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021
-[/us/pl/112/141/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1%2Fa
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F405
-[/us/pl/112/141/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2001
+[/us/pl/112/141/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtII
 [/us/stat/126/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F607
-[/us/pl/112/141/s31001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31001
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F732
-[/us/pl/112/141/s50001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs50001
+[/us/pl/112/141/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE
 [/us/stat/126/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F864
-[/us/pl/112/141/s110001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs110001
+[/us/pl/112/141/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdG
 [/us/stat/126/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F980
-[/us/pl/112/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2Fs1%2Fa
+[/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/stat/126/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F391
 [/us/usc/t23/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs327
 [/us/usc/t23/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs327
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/112/102/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2Fs1%2Fa
+[/us/pl/112/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102
 [/us/stat/126/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F271
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/112/30/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs1%2Fa
+[/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
 [/us/stat/125/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F342
-[/us/pl/112/30/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs101
+[/us/pl/112/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtI
 [/us/stat/125/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F343
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/112/5/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5%2Fs1%2Fa
+[/us/pl/112/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5
 [/us/stat/125/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F14
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
-[/us/pl/111/322/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs2001%2Fa
+[/us/pl/111/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2FtII
 [/us/stat/124/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3522
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
-[/us/pl/111/147/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs401
+[/us/pl/111/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIV
 [/us/stat/124/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F78
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
-[/us/pl/110/244/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs1%2Fa
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/stat/122/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1572
-[/us/pl/109/59/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1%2Fa
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/stat/119/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1144
-[/us/pl/109/42/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F42%2Fs1
+[/us/pl/109/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F42
 [/us/stat/119/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F435
 [/us/usc/t49/s5338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5338
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/109/40/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40%2Fs1
+[/us/pl/109/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40
 [/us/stat/119/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F410
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/109/37/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37%2Fs1
+[/us/pl/109/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37
 [/us/stat/119/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F394
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/109/35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35%2Fs1
+[/us/pl/109/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35
 [/us/stat/119/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F379
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/109/20/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20%2Fs1
+[/us/pl/109/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20
 [/us/stat/119/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F346
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/109/14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14%2Fs1
+[/us/pl/109/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14
 [/us/stat/119/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F324
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/usc/t26/s4481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4481
-[/us/pl/108/310/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310%2Fs1
+[/us/pl/108/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310
 [/us/stat/118/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1144
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
@@ -2582,28 +2582,28 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t49/s5337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5337
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/108/280/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280%2Fs1
+[/us/pl/108/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280
 [/us/stat/118/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F876
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
 [/us/usc/t49/s5337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5337
-[/us/pl/108/263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263%2Fs1
+[/us/pl/108/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263
 [/us/stat/118/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F698
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/108/224/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224%2Fs1
+[/us/pl/108/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224
 [/us/stat/118/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F627
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/108/202/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202%2Fs1
+[/us/pl/108/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202
 [/us/stat/118/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F478
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
-[/us/pl/108/88/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88%2Fs1
+[/us/pl/108/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88
 [/us/stat/117/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1110
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
@@ -2611,21 +2611,21 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
 [/us/usc/t49/s5337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5337
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
-[/us/pl/105/206/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9001
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F834
-[/us/pl/105/178/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1%2Fa
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/stat/112/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F107
-[/us/pl/105/178/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1501
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F241
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t49/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs301
 [/us/usc/t23/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs181
-[/us/pl/105/130/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130%2Fs1
+[/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
 [/us/stat/111/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2552
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
 [/us/usc/t23/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs307
-[/us/pl/104/59/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs1%2Fa
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/stat/109/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F568
 [/us/usc/t23/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs161
 [/us/usc/t23/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs154
@@ -2635,7 +2635,7 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t49/s31136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t23/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs112
-[/us/pl/100/17/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs1%2Fa
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/stat/101/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F132
 [/us/usc/t33/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs508
 [/us/usc/t42/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4604
@@ -2643,13 +2643,13 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
 [/us/usc/t49/s10922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10922
 [/us/usc/t33/s526a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs526a
-[/us/pl/100/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs101
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F134
 [/us/usc/t33/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs508
 [/us/usc/t18/s1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1761
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
 [/us/usc/t33/s526a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs526a
-[/us/pl/97/424/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs1
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/stat/96/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2097
 [/us/usc/t23/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs157
 [/us/usc/t15/s713c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933
@@ -2657,73 +2657,73 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t46/s1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1273
 [/us/usc/t15/s713c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
-[/us/pl/97/424/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs101
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2097
 [/us/usc/t23/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs157
-[/us/pl/97/327/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F327%2Fs1
+[/us/pl/97/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F327
 [/us/stat/96/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1611
 [/us/usc/t23/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs144
 [/us/usc/t23/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs130
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/97/134/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F134%2Fs13
+[/us/pl/97/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F134
 [/us/stat/95/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1703
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/95/599/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs1
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
 [/us/stat/92/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2689
 [/us/usc/t15/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1418
 [/us/usc/t23/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs153
 [/us/usc/t26/s6427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6427
 [/us/usc/t42/s5904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5904
 [/us/usc/t46/s883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs883
-[/us/pl/95/599/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs101
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2689
 [/us/usc/t23/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs153
 [/us/usc/t42/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1605
 [/us/usc/t42/s5904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5904
 [/us/usc/t46/s883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs883
-[/us/pl/95/599/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs501
+[/us/pl/95/599/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtV
 [/us/stat/92/2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2756
 [/us/usc/t16/s4601–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%9311
 [/us/usc/t26/s6427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6427
-[/us/pl/94/280/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs101
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F425
 [/us/usc/t23/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs156
-[/us/pl/93/643/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs1
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2281
-[/us/pl/93/87/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs101
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F250
-[/us/pl/91/605/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs101
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1713
 [/us/usc/t33/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs517
-[/us/pl/90/495/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs1
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F815
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/usc/t23/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133
-[/us/pl/89/574/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs1
+[/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/stat/80/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F766
-[/us/pl/89/285/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2Fs403
+[/us/pl/89/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285
 [/us/stat/79/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1033
-[/us/pl/88/423/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423%2Fs1
+[/us/pl/88/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423
 [/us/stat/78/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F397
-[/us/pl/88/157/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157%2Fs1
+[/us/pl/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157
 [/us/stat/77/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F276
-[/us/pl/87/866/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F866%2Fs1
+[/us/pl/87/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F866
 [/us/stat/76/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1145
 [/us/usc/t23/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs307
-[/us/pl/87/61/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs101
+[/us/pl/87/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2FtI
 [/us/stat/75/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F122
 [/us/usc/t26/s6156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6156
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
-[/us/pl/86/657/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657%2Fs1
+[/us/pl/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657
 [/us/stat/74/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F522
 [/us/usc/t23/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs132
-[/us/pl/86/342/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342%2Fs101
+[/us/pl/86/342/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342%2FtI
 [/us/stat/73/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F611
 [/us/usc/t23/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs307
 [/us/usc/t26/s4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4082
-[/us/pl/90/495/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs36
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F836
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/usc/t23/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133
@@ -2731,61 +2731,61 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F931
 [/us/usc/t49/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs102
-[/us/pl/97/449/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
-[/us/pl/114/94/s1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1420
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1423
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1421
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1424
-[/us/pl/114/94/s1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1428
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1426
-[/us/pl/114/94/s1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1444
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1436
-[/us/pl/113/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2
+[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/stat/128/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1839
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
-[/us/pl/112/141/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1301%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F527
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/112/141/s1304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1304%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F532
-[/us/pl/114/94/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1433
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1430
-[/us/pl/112/141/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1535
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F584
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1301
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1198
-[/us/pl/110/244/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs103%2Fa
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1578
-[/us/pl/112/141/s1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1120
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F492
-[/us/pl/114/94/s1105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1105%2Fc
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1337
-[/us/pl/109/59/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1302
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1204
-[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1573
-[/us/pl/112/141/s1519/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fb%2F2
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
-[/us/pl/109/59/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1308
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1218
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
-[/us/pl/114/94/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1426
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1426
-[/us/pl/109/59/s1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1914
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1478
-[/us/pl/105/178/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1118
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F161
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2032
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1437
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1432
 [/us/usc/t23/s133/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133%2Fd%2F1%2FB
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -2793,57 +2793,57 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/stat/119/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1207
 [/us/usc/t23/s133/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133%2Fd%2F1%2FB
-[/us/pl/109/59/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1303
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1207
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
-[/us/pl/105/178/s1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1119
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F163
-[/us/pl/105/178/s1213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1213%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F199
-[/us/pl/105/178/s1213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1213%2Fd
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F200
-[/us/pl/109/59/s1117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1117%2Fa
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1177
 [/us/usc/t23/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120%2Fb
-[/us/pl/105/178/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1221
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F221
-[/us/pl/108/88/s5/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88%2Fs5%2Fa%2F9
+[/us/pl/108/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88
 [/us/stat/117/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1114
-[/us/pl/108/202/s5/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202%2Fs5%2Fa%2F9
+[/us/pl/108/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202
 [/us/stat/118/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F481
-[/us/pl/108/224/s4/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224%2Fs4%2Fa%2F9
+[/us/pl/108/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224
 [/us/stat/118/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F629
-[/us/pl/108/263/s4/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263%2Fs4%2Fa%2F9
+[/us/pl/108/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263
 [/us/stat/118/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F700
-[/us/pl/108/280/s4/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280%2Fs4%2Fa%2F9
+[/us/pl/108/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280
 [/us/stat/118/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F879
-[/us/pl/108/310/s5/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310%2Fs5%2Fa%2F9
+[/us/pl/108/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310
 [/us/stat/118/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1149
-[/us/pl/109/14/s4/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14%2Fs4%2Fa%2F9
+[/us/pl/109/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14
 [/us/stat/119/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F327
-[/us/pl/109/20/s4/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20%2Fs4%2Fa%2F9
+[/us/pl/109/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20
 [/us/stat/119/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F348
-[/us/pl/109/35/s4/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35%2Fs4%2Fa%2F9
+[/us/pl/109/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35
 [/us/stat/119/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F381
-[/us/pl/109/37/s4/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37%2Fs4%2Fa%2F9
+[/us/pl/109/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37
 [/us/stat/119/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F396
-[/us/pl/109/40/s4/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40%2Fs4%2Fa%2F9
+[/us/pl/109/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40
 [/us/stat/119/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F412
-[/us/pl/109/59/s1117/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1117%2Fh
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1179
-[/us/pl/105/178/s1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1223
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F224
-[/us/pl/105/206/s9003/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9003%2Fj
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F842
 [/us/stat/112/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F419
-[/us/pl/105/178/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1311
-[/us/pl/105/206/s9004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9004%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F842
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
-[/us/pl/104/59/s359/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs359%2Fc
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F627
 [/us/usc/t41/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8301
-[/us/pl/114/94/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1101%2Fb
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1323
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t15/s637/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd
@@ -2852,73 +2852,73 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
-[/us/pl/112/141/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1101%2Fb
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F414
-[/us/pl/111/147/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs451
+[/us/pl/111/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIV
 [/us/stat/124/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F96
-[/us/pl/109/59/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1101%2Fb
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1156
-[/us/pl/110/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fa
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1573
-[/us/pl/105/178/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1101%2Fb
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F113
-[/us/pl/102/240/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1003%2Fb
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1919
-[/us/pl/100/17/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs106%2Fc
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F145
-[/us/pl/109/14/s7/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14%2Fs7%2Fs
+[/us/pl/109/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14
 [/us/stat/119/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F334
 [/us/usc/t23/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs322
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/108/310/s8/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310%2Fs8%2Ft
+[/us/pl/108/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310
 [/us/stat/118/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1158
-[/us/pl/108/88/s8/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88%2Fs8%2Ft
+[/us/pl/108/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88
 [/us/stat/117/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1126
-[/us/pl/108/202/s9/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202%2Fs9%2Ft
+[/us/pl/108/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202
 [/us/stat/118/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F489
-[/us/pl/108/224/s7/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224%2Fs7%2Ft
+[/us/pl/108/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224
 [/us/stat/118/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F637
-[/us/pl/108/263/s7/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263%2Fs7%2Ft
+[/us/pl/108/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263
 [/us/stat/118/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F708
-[/us/pl/108/280/s7/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280%2Fs7%2Ft
+[/us/pl/108/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280
 [/us/stat/118/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F885
-[/us/pl/102/240/s1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1040
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1992
-[/us/pl/104/59/s325/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs325%2Ff
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F592
-[/us/pl/104/66/s1122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1122%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F725
-[/us/pl/105/130/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130%2Fs5%2Fc%2F1
+[/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
 [/us/stat/111/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2557
-[/us/pl/105/178/s1114/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1114%2Fb%2F2
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F154
 [/us/usc/t23/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs143
-[/us/pl/102/240/s1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1047
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1996
-[/us/pl/105/130/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130%2Fs5%2Fc%2F2
+[/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
 [/us/stat/111/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2557
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/102/240/s6012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6012
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2180
 [/us/pl/101/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F427
 [/us/stat/104/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F927
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
-[/us/pl/108/178/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs2%2Fb%2F3
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2640
-[/us/pl/100/17/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs154
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F209
 [/us/usc/t23/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs321
-[/us/pl/109/59/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1901%2Fa
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1464
-[/us/pl/97/424/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs128
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2118
-[/us/pl/97/424/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs135
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2125
-[/us/pl/97/424/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs139
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2127
-[/us/pl/100/457/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F457%2Fs348
+[/us/pl/100/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F457%2FtIII
 [/us/stat/102/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2156
 [/us/pl/97/134/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F134%2Fs4%2Fb
 [/us/usc/t23/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103%2Fe
@@ -2928,144 +2928,144 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
 [/us/usc/t23/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103
 [/us/usc/t23/s118/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs118%2Fb%2F2%2FB
-[/us/pl/97/424/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs165
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2136
-[/us/pl/98/229/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F229%2Fs10
+[/us/pl/98/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F229
 [/us/stat/98/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F57
-[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F171
-[/us/pl/102/240/s1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1048
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1999
-[/us/pl/103/272/s4/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fr
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1371
-[/us/pl/103/429/s7/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fa%2F3%2FE
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4389
 [/us/usc/t23/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs313
-[/us/pl/109/59/s1903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1903%2Fa
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1464
-[/us/pl/95/599/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs401
+[/us/pl/95/599/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtIV
 [/us/stat/92/2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2756
-[/us/pl/97/327/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F327%2Fs6
+[/us/pl/97/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F327
 [/us/stat/96/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1613
-[/us/pl/97/424/s165/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs165%2Fe
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2137
-[/us/pl/94/280/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs102%2Fb
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F425
 [/us/pl/94/280/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs102%2Fa
-[/us/pl/94/280/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs102%2Fc
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F426
-[/us/pl/94/280/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs150
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F447
-[/us/pl/94/280/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs153
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F448
 [/us/usc/t23/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fa
-[/us/pl/94/280/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs154
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F448
-[/us/pl/95/599/s137/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs137%2Fa
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2710
-[/us/pl/93/643/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs102%2Fd
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2282
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
-[/us/pl/93/643/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs120%2Fb
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2289
-[/us/pl/95/599/s126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs126%2Fb
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2706
 [/us/usc/t23/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs146
 [/us/pl/93/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F239
 [/us/stat/87/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1046
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/83/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F2286
-[/us/pl/94/280/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs143
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F445
-[/us/pl/95/599/s126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs126%2Fb
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2706
-[/us/pl/93/643/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs114%2Fc
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2086
-[/us/pl/95/599/s126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs126%2Fb
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2706
 [/us/pl/93/239/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F239%2Fs4
-[/us/pl/91/605/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs121
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1725
 [/us/act/1965-08-28/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1965-08-28%2Fs3
 [/us/stat/79/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F578
 [/us/pl/89/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F139
 [/us/pl/90/495/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs17
 [/us/usc/t23/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs134
-[/us/pl/89/139/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F139%2Fs3
+[/us/pl/89/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F139
 [/us/stat/79/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F578
-[/us/pl/90/495/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs17
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F823
-[/us/pl/97/424/s160/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs160%2Fb
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2135
-[/us/pl/90/495/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs29
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F830
-[/us/pl/89/574/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs13
+[/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/stat/80/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F770
-[/us/pl/97/449/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2%2Fa
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
-[/us/pl/85/767/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767%2Fs5
+[/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F921
-[/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
+[/us/act/1956-06-29/ch462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462%2FtI
 [/us/stat/70/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F378
-[/us/pl/85/381/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F381%2Fs7%2Fa
+[/us/pl/85/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F381
 [/us/stat/72/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F93
-[/us/pl/86/342/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342%2Fs102
+[/us/pl/86/342/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342%2FtI
 [/us/stat/73/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F611
-[/us/pl/87/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61
+[/us/pl/87/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2FtI
 [/us/stat/75/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F122
-[/us/pl/89/139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F139%2Fs1
+[/us/pl/89/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F139
 [/us/stat/79/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F578
-[/us/pl/89/574/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs2
+[/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/stat/80/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F766
-[/us/pl/90/495/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs2
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F815
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
 [/us/stat/84/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1714
-[/us/pl/93/87/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs102
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F250
-[/us/pl/94/280/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs102%2Fa
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F425
-[/us/pl/95/599/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs102
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2689
-[/us/pl/97/134/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F134%2Fs4%2Fa
+[/us/pl/97/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F134
 [/us/stat/95/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1700
-[/us/pl/97/327/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F327%2Fs2
+[/us/pl/97/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F327
 [/us/stat/96/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1611
-[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2097
-[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F142
-[/us/pl/102/240/s1001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1001%2Ff
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1916
-[/us/pl/103/331/s335/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2Fs335%2Fc
+[/us/pl/103/331/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2FtIII
 [/us/stat/108/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2494
 [/us/usc/t23/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
-[/us/pl/103/331/s335/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2Fs335%2Fa
+[/us/pl/103/331/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2FtIII
 [/us/stat/108/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2494
-[/us/pl/97/424/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs127%2Fb
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2118
-[/us/pl/114/94/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1001
+[/us/pl/114/94/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA
 [/us/stat/129/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1321
-[/us/pl/112/141/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F413
-[/us/pl/112/141/s31002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31002
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F732
-[/us/pl/109/59/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/stat/119/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1153
-[/us/pl/109/59/s1120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1120%2Fc
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1192
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
-[/us/pl/105/178/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/stat/112/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F111
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/105/178/s1103/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103%2Fn
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F127
-[/us/pl/105/206/s9002/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9002%2Fc%2F2
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F835
-[/us/pl/104/59/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs2
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/stat/109/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F569
-[/us/pl/100/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs2
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/stat/101/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F134
 
 

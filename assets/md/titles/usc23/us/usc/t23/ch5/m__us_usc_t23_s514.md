@@ -55,13 +55,13 @@
 
         (10) to assist in the development of cybersecurity research in cooperation with relevant modal administrations of the Department of Transportation and other Federal agencies to help prevent hacking, spoofing, and disruption of connected and automated transportation vehicles.
 
-(Added [Pub. L. 112–141, div. E, title III, § 53002(a)][/us/pl/112/141/s53002/a], July 6, 2012, [126 Stat. 898][/us/stat/126/898]; amended [Pub. L. 114–94, div. A, title VI][/us/pl/114/94], §§ 6005, 6006, Dec. 4, 2015, [129 Stat. 1567][/us/stat/129/1567].)
+(Added [Pub. L. 112–141, div. E, title III][/us/pl/112/141/dE/tIII], § 53002(a), July 6, 2012, [126 Stat. 898][/us/stat/126/898]; amended [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], §§ 6005, 6006, Dec. 4, 2015, [129 Stat. 1567][/us/stat/129/1567].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(6). [Pub. L. 114–94, § 6005][/us/pl/114/94/s6005], added par. (6).
+    2015—Subsec. (a)(6). [Pub. L. 114–94][/us/pl/114/94], § 6005, added par. (6).
 
-    Subsec. (b)(10). [Pub. L. 114–94, § 6006][/us/pl/114/94/s6006], added par. (10).
+    Subsec. (b)(10). [Pub. L. 114–94][/us/pl/114/94], § 6006, added par. (10).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -78,12 +78,12 @@
 ----------
 ----------
 
-[/us/pl/112/141/s53002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs53002%2Fa
+[/us/pl/112/141/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtIII
 [/us/stat/126/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F898
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1567
-[/us/pl/114/94/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6005
-[/us/pl/114/94/s6006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6006
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

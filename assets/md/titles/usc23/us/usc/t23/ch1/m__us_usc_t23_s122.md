@@ -49,7 +49,7 @@
 
         (2) create any right of a third party against the United States for payment under the eligible debt financing instrument.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 900][/us/stat/72/900]; [Pub. L. 95–599, title I, § 115(b)][/us/pl/95/599/s115/b], Nov. 6, 1978, [92 Stat. 2698][/us/stat/92/2698]; [Pub. L. 97–424, title I, § 107(f)][/us/pl/97/424/s107/f], Jan. 6, 1983, [96 Stat. 2103][/us/stat/96/2103]; [Pub. L. 100–17, title I, § 133(b)(7)][/us/pl/100/17/s133/b/7], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 104–59, title III, § 311(a)][/us/pl/104/59/s311/a], Nov. 28, 1995, [109 Stat. 583][/us/stat/109/583].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 900][/us/stat/72/900]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 115(b), Nov. 6, 1978, [92 Stat. 2698][/us/stat/92/2698]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 107(f), Jan. 6, 1983, [96 Stat. 2103][/us/stat/96/2103]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(b)(7), Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 311(a), Nov. 28, 1995, [109 Stat. 583][/us/stat/109/583].)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Payment of Interest on Bonds Issued Prior to and After__  __November 6, 1978__ 
 
-[Pub. L. 95–599, title I, § 115(c)][/us/pl/95/599/s115/c], Nov. 6, 1978, [92 Stat. 2698][/us/stat/92/2698], provided that: 
+[Pub. L. 95–599, title I][/us/pl/95/599/tI], § 115(c), Nov. 6, 1978, [92 Stat. 2698][/us/stat/92/2698], provided that: 
 
 > “No interest shall be paid under authority of [section 122 of title 23][/us/usc/t23/s122], United States Code, on any bonds issued prior to the date of enactment of this Act \[Nov. 6, 1978\], unless such bonds were issued for projects which were under construction on January 1, 1978. Interest on bonds issued in any fiscal year by a State after the date of enactment of this Act may be paid under authority of [section 122 of title 23][/us/usc/t23/s122], United States Code, only if (1) such State was eligible to obligate funds of another State under subsection (a) of this section during such fiscal year and (2) the Secretary of Transportation certifies that such eligible State utilized, or will utilize, to the fullest extent possible during such fiscal year its authority to obligate funds under such subsection (a) of this section \[amending [section 118(b) of this title][/us/usc/t23/s118/b]\]. No interest shall be paid under [section 122 of title 23][/us/usc/t23/s122], United States Code, on that part of the proceeds of bonds issued after the date of enactment of this Act used to retire or otherwise refinance bonds issued prior to such date.”
 
@@ -76,13 +76,13 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F900
-[/us/pl/95/599/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs115%2Fb
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2698
-[/us/pl/97/424/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs107%2Ff
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2103
-[/us/pl/100/17/s133/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F7
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F171
-[/us/pl/104/59/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs311%2Fa
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F583
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
@@ -91,7 +91,7 @@
 [/us/usc/t23/s103/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103%2Fe%2F4
 [/us/usc/t23/s103/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103%2Fe%2F4
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
-[/us/pl/95/599/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs115%2Fc
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2698
 [/us/usc/t23/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs122
 [/us/usc/t23/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs122

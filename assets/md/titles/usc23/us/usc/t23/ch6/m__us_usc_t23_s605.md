@@ -59,21 +59,21 @@
 
         Any funds not used under paragraph (1) in a fiscal year shall be made available on October 1 of the following fiscal year to provide credit assistance to any project under the TIFIA program.
 
-(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 249][/us/stat/112/249], § 185; renumbered § 605 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(f), 1602(b)(5), (d), Aug. 10, 2005, [119 Stat. 1241][/us/stat/119/1241], 1247; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 619][/us/stat/126/619]; [Pub. L. 114–94, div. A, title II, § 2001(d)][/us/pl/114/94/s2001/d], Dec. 4, 2015, [129 Stat. 1443][/us/stat/129/1443].)
+(Added [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1503(a), June 9, 1998, [112 Stat. 249][/us/stat/112/249], § 185; renumbered § 605 and amended [Pub. L. 109–59, title I][/us/pl/109/59/tI], §§ 1601(f), 1602(b)(5), (d), Aug. 10, 2005, [119 Stat. 1241][/us/stat/119/1241], 1247; [Pub. L. 112–141, div. A, title II][/us/pl/112/141/dA/tII], § 2002, July 6, 2012, [126 Stat. 619][/us/stat/126/619]; [Pub. L. 114–94, div. A, title II][/us/pl/114/94/dA/tII], § 2001(d), Dec. 4, 2015, [129 Stat. 1443][/us/stat/129/1443].)
 
  __Amendments__ 
 
-    2015—Subsecs. (a), (e). [Pub. L. 114–94, § 2001(d)(1)][/us/pl/114/94/s2001/d/1], substituted “the TIFIA program” for “this chapter”.
+    2015—Subsecs. (a), (e). [Pub. L. 114–94][/us/pl/114/94], § 2001(d)(1), substituted “the TIFIA program” for “this chapter”.
 
-    Subsec. (f). [Pub. L. 114–94, § 2001(d)(2)][/us/pl/114/94/s2001/d/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 2001(d)(2), added subsec. (f).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to program administration, consisting of subsecs. (a) to (d).
 
-    2005—[Pub. L. 109–59, § 1602(d)][/us/pl/109/59/s1602/d], renumbered [section 185 of this title][/us/usc/t23/s185] as this section.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 1602(d), renumbered [section 185 of this title][/us/usc/t23/s185] as this section.
 
-    [Pub. L. 109–59, § 1601(f)][/us/pl/109/59/s1601/f], amended section catchline and text generally, substituting provisions relating to establishment by the Secretary of a uniform system to service the Federal credit instruments made available under this subchapter for provisions authorizing a State to identify a local servicer to assist the Secretary in servicing the Federal credit instrument made available under this subchapter.
+    [Pub. L. 109–59][/us/pl/109/59], § 1601(f), amended section catchline and text generally, substituting provisions relating to establishment by the Secretary of a uniform system to service the Federal credit instruments made available under this subchapter for provisions authorizing a State to identify a local servicer to assist the Secretary in servicing the Federal credit instrument made available under this subchapter.
 
-    Subsec. (a). [Pub. L. 109–59, § 1602(b)(5)][/us/pl/109/59/s1602/b/5], substituted “this chapter” for “this subchapter”.
+    Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -90,21 +90,21 @@
 ----------
 ----------
 
-[/us/pl/105/178/s1503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1503%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F249
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1241
-[/us/pl/112/141/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2002
+[/us/pl/112/141/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtII
 [/us/stat/126/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F619
-[/us/pl/114/94/s2001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fd
+[/us/pl/114/94/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtII
 [/us/stat/129/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1443
-[/us/pl/114/94/s2001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fd%2F1
-[/us/pl/114/94/s2001/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fd%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s1602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fd
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs185
-[/us/pl/109/59/s1601/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Ff
-[/us/pl/109/59/s1602/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F5
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

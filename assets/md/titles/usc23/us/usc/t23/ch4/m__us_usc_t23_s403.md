@@ -157,7 +157,7 @@
 
     The Federal share of the cost of any project or activity carried out under this section may be not more than 100 percent.
 
-(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 93–87, title II][/us/pl/93/87], §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], 291, 292; [Pub. L. 102–240, title II, § 2003][/us/pl/102/240/s2003], Dec. 18, 1991, [105 Stat. 2071][/us/stat/105/2071]; [Pub. L. 105–178, title II, § 2002(a)][/us/pl/105/178/s2002/a], (b)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; [Pub. L. 109–59, title II][/us/pl/109/59], §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1540; [Pub. L. 112–141, div. C, title I, § 31103][/us/pl/112/141/s31103], July 6, 2012, [126 Stat. 739][/us/stat/126/739]; [Pub. L. 113–159, title I, § 1101(b)][/us/pl/113/159/s1101/b], Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843]; [Pub. L. 114–21, title I, § 1101(b)][/us/pl/114/21/s1101/b], May 29, 2015, [129 Stat. 221][/us/stat/129/221]; [Pub. L. 114–41, title I, § 1101(b)][/us/pl/114/41/s1101/b], July 31, 2015, [129 Stat. 448][/us/stat/129/448]; [Pub. L. 114–73, title I, § 1101(b)][/us/pl/114/73/s1101/b], Oct. 29, 2015, [129 Stat. 571][/us/stat/129/571]; [Pub. L. 114–87, title I, § 1101(b)][/us/pl/114/87/s1101/b], Nov. 20, 2015, [129 Stat. 680][/us/stat/129/680]; [Pub. L. 114–94, div. A, title IV][/us/pl/114/94], §§ 4003, § 4014(2), div. B, title XXIV, § 24202(b), Dec. 4, 2015, [129 Stat. 1500][/us/stat/129/1500], 1513, 1712.)
+(Added [Pub. L. 89–564, title I][/us/pl/89/564/tI], § 101, Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 93–87, title II][/us/pl/93/87/tII], §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], 291, 292; [Pub. L. 102–240, title II][/us/pl/102/240/tII], § 2003, Dec. 18, 1991, [105 Stat. 2071][/us/stat/105/2071]; [Pub. L. 105–178, title II][/us/pl/105/178/tII], § 2002(a), (b)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; [Pub. L. 109–59, title II][/us/pl/109/59/tII], §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1540; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31103, July 6, 2012, [126 Stat. 739][/us/stat/126/739]; [Pub. L. 113–159, title I][/us/pl/113/159/tI], § 1101(b), Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843]; [Pub. L. 114–21, title I][/us/pl/114/21/tI], § 1101(b), May 29, 2015, [129 Stat. 221][/us/stat/129/221]; [Pub. L. 114–41, title I][/us/pl/114/41/tI], § 1101(b), July 31, 2015, [129 Stat. 448][/us/stat/129/448]; [Pub. L. 114–73, title I][/us/pl/114/73/tI], § 1101(b), Oct. 29, 2015, [129 Stat. 571][/us/stat/129/571]; [Pub. L. 114–87, title I][/us/pl/114/87/tI], § 1101(b), Nov. 20, 2015, [129 Stat. 680][/us/stat/129/680]; [Pub. L. 114–94, div. A, title IV][/us/pl/114/94/dA/tIV], §§ 4003, § 4014(2), div. B, title XXIV, § 24202(b), Dec. 4, 2015, [129 Stat. 1500][/us/stat/129/1500], 1513, 1712.)
 
  __References in Text__ 
 
@@ -165,11 +165,11 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(2)(C). [Pub. L. 114–94, § 24202(b)(1)][/us/pl/114/94/s24202/b/1], inserted “foreign government (in coordination with the Department of State)” after “institution,”.
+    2015—Subsec. (b)(2)(C). [Pub. L. 114–94][/us/pl/114/94], § 24202(b)(1), inserted “foreign government (in coordination with the Department of State)” after “institution,”.
 
-    Subsec. (c)(1)(A). [Pub. L. 114–94, § 24202(b)(2)][/us/pl/114/94/s24202/b/2], inserted “foreign governments,” after “local governments,”.
+    Subsec. (c)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 24202(b)(2), inserted “foreign governments,” after “local governments,”.
 
-    Subsec. (e). [Pub. L. 114–94, § 4014(2)][/us/pl/114/94/s4014/2], substituted “chapter 301 of title 49” for “chapter 301”.
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 4014(2), substituted “chapter 301 of title 49” for “chapter 301”.
 
     Subsec. (f)(1). [Pub. L. 114–87][/us/pl/114/87] substituted “and $443,989 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and $348,361 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on November 20, 2015,”.
 
@@ -179,47 +179,47 @@
 
     [Pub. L. 114–21][/us/pl/114/21] substituted “and $2,082,192 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
-    Subsec. (h)(1). [Pub. L. 114–94, § 4003(1)(A)][/us/pl/114/94/s4003/1/A], substituted “shall carry” for “may carry”.
+    Subsec. (h)(1). [Pub. L. 114–94][/us/pl/114/94], § 4003(1)(A), substituted “shall carry” for “may carry”.
 
-    Subsec. (h)(2). [Pub. L. 114–94, § 4003(1)(B)][/us/pl/114/94/s4003/1/B], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Funds provided under section 405 may be made to be used by the Secretary to conduct the research described in paragraph (1).”
+    Subsec. (h)(2). [Pub. L. 114–94][/us/pl/114/94], § 4003(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Funds provided under section 405 may be made to be used by the Secretary to conduct the research described in paragraph (1).”
 
-    Subsec. (h)(3). [Pub. L. 114–94, § 4003(1)(C)][/us/pl/114/94/s4003/1/C], substituted “The” for “If the Administrator utilizes the authority under paragraph (1), the”.
+    Subsec. (h)(3). [Pub. L. 114–94][/us/pl/114/94], § 4003(1)(C), substituted “The” for “If the Administrator utilizes the authority under paragraph (1), the”.
 
-    Subsec. (h)(4). [Pub. L. 114–94, § 4003(1)(D)][/us/pl/114/94/s4003/1/D], substituted “The” for “If the Administrator conducts the research authorized under paragraph (1), the”.
+    Subsec. (h)(4). [Pub. L. 114–94][/us/pl/114/94], § 4003(1)(D), substituted “The” for “If the Administrator conducts the research authorized under paragraph (1), the”.
 
-    Subsecs. (i), (j). [Pub. L. 114–94, § 4003(2)][/us/pl/114/94/s4003/2], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 114–94][/us/pl/114/94], § 4003(2), added subsecs. (i) and (j).
 
     2014—Subsec. (f)(1). [Pub. L. 113–159][/us/pl/113/159] inserted “ending before October 1, 2014, and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015,” after “each fiscal year”.
 
-    2012—Subsecs. (a) to (f). [Pub. L. 112–141, § 31103(1)][/us/pl/112/141/s31103/1], added subsecs. (a) to (f) and struck out former subsecs. (a) to (f) which related to authority of the Secretary generally, drugs and driver behavior, authority of Secretary to conduct research through grants and contracts with public and private agencies, institutions, and individuals, authority of Secretary to vest title to equipment purchased for demonstration projects in State and local agencies, authority of Secretary relating to projects to demonstrate the administrative adjudication of traffic infractions, and collaborative research and development, respectively.
+    2012—Subsecs. (a) to (f). [Pub. L. 112–141][/us/pl/112/141], § 31103(1), added subsecs. (a) to (f) and struck out former subsecs. (a) to (f) which related to authority of the Secretary generally, drugs and driver behavior, authority of Secretary to conduct research through grants and contracts with public and private agencies, institutions, and individuals, authority of Secretary to vest title to equipment purchased for demonstration projects in State and local agencies, authority of Secretary relating to projects to demonstrate the administrative adjudication of traffic infractions, and collaborative research and development, respectively.
 
-    Subsec. (h). [Pub. L. 112–141, § 31103(2)][/us/pl/112/141/s31103/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–141][/us/pl/112/141], § 31103(2), added subsec. (h).
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 2003(a)][/us/pl/109/59/s2003/a], reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to authority of Secretary to use funds for highway safety research programs for former provisions which related to, in par. (1), general authority of Secretary, in par. (2), additional authority of Secretary, and, in par. (3), definition of “safety”.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 2003(a), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to authority of Secretary to use funds for highway safety research programs for former provisions which related to, in par. (1), general authority of Secretary, in par. (2), additional authority of Secretary, and, in par. (3), definition of “safety”.
 
-    Subsec. (b)(5), (6). [Pub. L. 109–59, § 2013(e)][/us/pl/109/59/s2013/e], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 109–59][/us/pl/109/59], § 2013(e), added pars. (5) and (6).
 
-    Subsec. (g). [Pub. L. 109–59, § 2003(b)][/us/pl/109/59/s2003/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 2003(b), added subsec. (g).
 
-    1998—Subsec. (a)(2)(A). [Pub. L. 105–178, § 2002(a)][/us/pl/105/178/s2002/a], inserted “, including training in work zone safety management” after “personnel”.
+    1998—Subsec. (a)(2)(A). [Pub. L. 105–178][/us/pl/105/178], § 2002(a), inserted “, including training in work zone safety management” after “personnel”.
 
-    Subsec. (b)(3), (4). [Pub. L. 105–178, § 2002(b)(1)][/us/pl/105/178/s2002/b/1], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 105–178][/us/pl/105/178], § 2002(b)(1), added pars. (3) and (4).
 
-    1991—Subsec. (a). [Pub. L. 102–240, § 2003(a)][/us/pl/102/240/s2003/a], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of [section 307 of this title][/us/usc/t23/s307]. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
+    1991—Subsec. (a). [Pub. L. 102–240][/us/pl/102/240], § 2003(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of [section 307 of this title][/us/usc/t23/s307]. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
 
-    Subsec. (b). [Pub. L. 102–240, § 2003(a)][/us/pl/102/240/s2003/a], added subsec. (b) and struck out former subsec. (b) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary, in consultation with such other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
+    Subsec. (b). [Pub. L. 102–240][/us/pl/102/240], § 2003(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary, in consultation with such other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
 
     “(1) The relationship between the consumption and use of drugs and their effect upon highway safety and drivers of motor vehicles; and
 
     “(2) Driver behavior research, including the characteristics of driver performance, the relationships of mental and physical abilities or disabilities to the driving task, and the relationship of frequency of driver accident involvement to highway safety.”
 
-    Subsec. (c). [Pub. L. 102–240, § 2003(c)][/us/pl/102/240/s2003/c], substituted “subsections (a) and (b)” for “subsection (b)”.
+    Subsec. (c). [Pub. L. 102–240][/us/pl/102/240], § 2003(c), substituted “subsections (a) and (b)” for “subsection (b)”.
 
-    Subsec. (f). [Pub. L. 102–240, § 2003(b)][/us/pl/102/240/s2003/b], added subsec. (f) and struck out former subsec. (f) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration proj­ects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom.”
+    Subsec. (f). [Pub. L. 102–240][/us/pl/102/240], § 2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration proj­ects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom.”
 
     1973—Subsec. (a). [Pub. L. 93–87][/us/pl/93/87], §§ 208(a), 220, designated existing provisions as subsec. (a); substituted in first sentence “this subsection” for “this section”; substituted in second sentence “for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel” for “for (1) grants to State or local agencies, institutions, and individuals for training or education of highway safety personnel” and “(6) related activities which the Secretary deems will promote the purposes of this section” for (6) related activities which are deemed by the Secretary to be necessary to carry out the purposes of this section”; and inserted requirement that the Secretary assure that no fees be charged for any meeting or services attend­ant thereto or other activities relating to training and education of highway safety personnel.
 
-    Subsecs. (b), (c). [Pub. L. 93–87, § 208(a)][/us/pl/93/87/s208/a], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 93–87][/us/pl/93/87], § 208(a), added subsecs. (b) and (c).
 
     Subsecs. (d) to (f). [Pub. L. 93–87][/us/pl/93/87], §§ 221, 222, 226(a), added subsecs. (d) to (f).
 
@@ -245,17 +245,17 @@
 
  __Research on Distracted, Inattentive, and Fatigued Drivers__ 
 
-[Pub. L. 109–59, title II, § 2003(d)][/us/pl/109/59/s2003/d], Aug. 10, 2005, [119 Stat. 1523][/us/stat/119/1523], provided that: 
+[Pub. L. 109–59, title II][/us/pl/109/59/tII], § 2003(d), Aug. 10, 2005, [119 Stat. 1523][/us/stat/119/1523], provided that: 
 
 > “In conducting research under [section 403(a)(3) of title 23][/us/usc/t23/s403/a/3], United States Code, the Secretary \[of Transportation\] shall carry out not less than 2 demonstration projects to evaluate new and innovative means of combating traffic system problems caused by distracted, inattentive, or fatigued drivers. The demonstration projects shall be in addition to any other research carried out under such section.”
 
  __Drug-Impaired Driving Enforcement__ 
 
-    [Pub. L. 109–59, title II, § 2013][/us/pl/109/59/s2013], Aug. 10, 2005, [119 Stat. 1539][/us/stat/119/1539], as amended by [Pub. L. 111–147, title IV, § 421(m)][/us/pl/111/147/s421/m], Mar. 18, 2010, [124 Stat. 86][/us/stat/124/86]; [Pub. L. 112–30, title I, § 121(m)][/us/pl/112/30/s121/m], Sept. 16, 2011, [125 Stat. 348][/us/stat/125/348], related to agency coordination and research on drug-impaired driving enforcement, prior to repeal by [Pub. L. 112–141, div. C, title I, § 31109(i)][/us/pl/112/141/s31109/i], July 6, 2012, [126 Stat. 757][/us/stat/126/757].
+    [Pub. L. 109–59, title II][/us/pl/109/59/tII], § 2013, Aug. 10, 2005, [119 Stat. 1539][/us/stat/119/1539], as amended by [Pub. L. 111–147, title IV][/us/pl/111/147/tIV], § 421(m), Mar. 18, 2010, [124 Stat. 86][/us/stat/124/86]; [Pub. L. 112–30, title I][/us/pl/112/30/tI], § 121(m), Sept. 16, 2011, [125 Stat. 348][/us/stat/125/348], related to agency coordination and research on drug-impaired driving enforcement, prior to repeal by [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31109(i), July 6, 2012, [126 Stat. 757][/us/stat/126/757].
 
  __Safety Studies__ 
 
-[Pub. L. 105–178, title II, § 2007][/us/pl/105/178/s2007], June 9, 1998, [112 Stat. 336][/us/stat/112/336], provided that:
+[Pub. L. 105–178, title II][/us/pl/105/178/tII], § 2007, June 9, 1998, [112 Stat. 336][/us/stat/112/336], provided that:
 
 >     “(a)  __Blowout Resistant Tires Study__  __.—__ 
 
@@ -275,7 +275,7 @@
 
  __School Transportation Safety__ 
 
-[Pub. L. 105–178, title IV, § 4030][/us/pl/105/178/s4030], June 9, 1998, [112 Stat. 418][/us/stat/112/418], provided that:
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4030, June 9, 1998, [112 Stat. 418][/us/stat/112/418], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -329,7 +329,7 @@
 
  __Drug Recognition Expert Training Program__ 
 
-[Pub. L. 102–240, title II, § 2006][/us/pl/102/240/s2006], Dec. 18, 1991, [105 Stat. 2079][/us/stat/105/2079], provided that:
+[Pub. L. 102–240, title II][/us/pl/102/240/tII], § 2006, Dec. 18, 1991, [105 Stat. 2079][/us/stat/105/2079], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -349,7 +349,7 @@
 
  __Pilot Program for Drug Recognition Expert Training__ 
 
-[Pub. L. 100–690, title IX, § 9004][/us/pl/100/690/s9004], Nov. 18, 1988, [102 Stat. 4525][/us/stat/102/4525], provided that:
+[Pub. L. 100–690, title IX][/us/pl/100/690/tIX], § 9004, Nov. 18, 1988, [102 Stat. 4525][/us/stat/102/4525], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -365,7 +365,7 @@
 
  __Pilot Grant Program for Random Testing for Illegal Drug Use__ 
 
-[Pub. L. 100–690, title IX, § 9005][/us/pl/100/690/s9005], Nov. 18, 1988, [102 Stat. 4526][/us/stat/102/4526], provided that:
+[Pub. L. 100–690, title IX][/us/pl/100/690/tIX], § 9005, Nov. 18, 1988, [102 Stat. 4526][/us/stat/102/4526], provided that:
 
 >     “(a)  __Establishment of Pilot Program__  __.—__ 
 
@@ -447,29 +447,29 @@
 
  __Drug and Highway Safety Study and Report__ 
 
-    [Pub. L. 99–570, title III, § 3402][/us/pl/99/570/s3402], Oct. 27, 1986, [100 Stat. 3207–102][/us/stat/100/3207-102], directed Secretary of Transportation to conduct a study to determine relationship between usage of controlled substances and highway safety and, not later than one year after Oct. 27, 1986, submit to Congress a report on results of study.
+    [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3402, Oct. 27, 1986, [100 Stat. 3207–102][/us/stat/100/3207-102], directed Secretary of Transportation to conduct a study to determine relationship between usage of controlled substances and highway safety and, not later than one year after Oct. 27, 1986, submit to Congress a report on results of study.
 
  __National Driver Register Study__ 
 
-    [Pub. L. 95–599, title II, § 204][/us/pl/95/599/s204], Nov. 6, 1978, [92 Stat. 2729][/us/stat/92/2729], directed Secretary of Transportation to make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary to issue a final report to Congress not later than one year after Nov. 6, 1978.
+    [Pub. L. 95–599, title II][/us/pl/95/599/tII], § 204, Nov. 6, 1978, [92 Stat. 2729][/us/stat/92/2729], directed Secretary of Transportation to make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary to issue a final report to Congress not later than one year after Nov. 6, 1978.
 
  __Detection and Prevention of Marijuana and Other Drug Use by Operators of Motor Vehicles__ 
 
-    [Pub. L. 95–599, title II, § 212][/us/pl/95/599/s212], Nov. 6, 1978, [92 Stat. 2734][/us/stat/92/2734], directed Secretary to report to Congress not later than Dec. 31, 1979, concerning the progress of efforts to detect and prevent marijuana and drug use by motor vehicle operators, capabilities of law enforcement officials to detect the use of marijuana and drugs by motor vehicle operators, and a description of Federal and State projects undertaken into methods of detection and prevention.
+    [Pub. L. 95–599, title II][/us/pl/95/599/tII], § 212, Nov. 6, 1978, [92 Stat. 2734][/us/stat/92/2734], directed Secretary to report to Congress not later than Dec. 31, 1979, concerning the progress of efforts to detect and prevent marijuana and drug use by motor vehicle operators, capabilities of law enforcement officials to detect the use of marijuana and drugs by motor vehicle operators, and a description of Federal and State projects undertaken into methods of detection and prevention.
 
  __Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public__ 
 
-[Pub. L. 89–564, title I, § 106][/us/pl/89/564/s106], Sept. 9, 1966, [80 Stat. 735][/us/stat/80/735], as amended by [Pub. L. 105–178, title V, § 5119(f)][/us/pl/105/178/s5119/f], June 9, 1998, [112 Stat. 452][/us/stat/112/452], provided that: 
+[Pub. L. 89–564, title I][/us/pl/89/564/tI], § 106, Sept. 9, 1966, [80 Stat. 735][/us/stat/80/735], as amended by [Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5119(f), June 9, 1998, [112 Stat. 452][/us/stat/112/452], provided that: 
 
 > “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
 
  __Appropriations Authorizations__ 
 
-[Pub. L. 93–87, title II, § 208(b)][/us/pl/93/87/s208/b], Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], provided that: 
+[Pub. L. 93–87, title II][/us/pl/93/87/tII], § 208(b), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], provided that: 
 
 > “There is authorized to be appropriated to carry out the amendments made by this section \[amending this section\] by the National Highway Traffic Safety Administration, out of the Highway Trust Fund, the sum of $10,000,000 per fiscal year for each of the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976.”
 
-[Pub. L. 93–87, title II, § 226(b)][/us/pl/93/87/s226/b], Aug. 13, 1973, [87 Stat. 292][/us/stat/87/292], provided that: 
+[Pub. L. 93–87, title II][/us/pl/93/87/tII], § 226(b), Aug. 13, 1973, [87 Stat. 292][/us/stat/87/292], provided that: 
 
 > “For the purpose of carrying out the amendment made by subsection (a) of this section \[amending this section\], there is authorized to be appropriated $10,000,000 out of the Highway Trust Fund.”
 
@@ -487,60 +487,60 @@
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
 [/us/usc/t49/s30102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102%2Fa%2F6
-[/us/pl/89/564/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs101
+[/us/pl/89/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtI
 [/us/stat/80/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F733
-[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F286
-[/us/pl/102/240/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs2003
+[/us/pl/102/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtII
 [/us/stat/105/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2071
-[/us/pl/105/178/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2002%2Fa
+[/us/pl/105/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtII
 [/us/stat/112/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F325
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtII
 [/us/stat/119/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1522
-[/us/pl/112/141/s31103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31103
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F739
-[/us/pl/113/159/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1101%2Fb
+[/us/pl/113/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2FtI
 [/us/stat/128/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1843
-[/us/pl/114/21/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1101%2Fb
+[/us/pl/114/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2FtI
 [/us/stat/129/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F221
-[/us/pl/114/41/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1101%2Fb
+[/us/pl/114/41/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtI
 [/us/stat/129/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F448
-[/us/pl/114/73/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1101%2Fb
+[/us/pl/114/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2FtI
 [/us/stat/129/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F571
-[/us/pl/114/87/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1101%2Fb
+[/us/pl/114/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2FtI
 [/us/stat/129/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F680
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIV
 [/us/stat/129/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1500
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/114/94/s24202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24202%2Fb%2F1
-[/us/pl/114/94/s24202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24202%2Fb%2F2
-[/us/pl/114/94/s4014/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4014%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
 [/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
-[/us/pl/114/94/s4003/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4003%2F1%2FA
-[/us/pl/114/94/s4003/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4003%2F1%2FB
-[/us/pl/114/94/s4003/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4003%2F1%2FC
-[/us/pl/114/94/s4003/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4003%2F1%2FD
-[/us/pl/114/94/s4003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4003%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
-[/us/pl/112/141/s31103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31103%2F1
-[/us/pl/112/141/s31103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31103%2F2
-[/us/pl/109/59/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2003%2Fa
-[/us/pl/109/59/s2013/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2013%2Fe
-[/us/pl/109/59/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2003%2Fb
-[/us/pl/105/178/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2002%2Fa
-[/us/pl/105/178/s2002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2002%2Fb%2F1
-[/us/pl/102/240/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs2003%2Fa
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t23/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs307
-[/us/pl/102/240/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs2003%2Fa
-[/us/pl/102/240/s2003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs2003%2Fc
-[/us/pl/102/240/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs2003%2Fb
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
-[/us/pl/93/87/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs208%2Fa
+[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
@@ -556,43 +556,43 @@
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/109/59/s2003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2003%2Fd
+[/us/pl/109/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtII
 [/us/stat/119/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1523
 [/us/usc/t23/s403/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403%2Fa%2F3
-[/us/pl/109/59/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2013
+[/us/pl/109/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtII
 [/us/stat/119/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1539
-[/us/pl/111/147/s421/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs421%2Fm
+[/us/pl/111/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIV
 [/us/stat/124/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F86
-[/us/pl/112/30/s121/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs121%2Fm
+[/us/pl/112/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtI
 [/us/stat/125/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F348
-[/us/pl/112/141/s31109/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31109%2Fi
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F757
-[/us/pl/105/178/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2007
+[/us/pl/105/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtII
 [/us/stat/112/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F336
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
-[/us/pl/105/178/s4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4030
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F418
-[/us/pl/102/240/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs2006
+[/us/pl/102/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtII
 [/us/stat/105/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2079
 [/us/usc/t21/s802/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F6
-[/us/pl/100/690/s9004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9004
+[/us/pl/100/690/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIX
 [/us/stat/102/4525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4525
-[/us/pl/100/690/s9005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9005
+[/us/pl/100/690/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIX
 [/us/stat/102/4526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4526
 [/us/usc/t21/s802/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F6
-[/us/pl/99/570/s3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3402
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-102
-[/us/pl/95/599/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs204
+[/us/pl/95/599/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtII
 [/us/stat/92/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2729
-[/us/pl/95/599/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs212
+[/us/pl/95/599/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtII
 [/us/stat/92/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2734
-[/us/pl/89/564/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs106
+[/us/pl/89/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtI
 [/us/stat/80/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F735
-[/us/pl/105/178/s5119/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5119%2Ff
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F452
-[/us/pl/93/87/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs208%2Fb
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F286
-[/us/pl/93/87/s226/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs226%2Fb
+[/us/pl/93/87/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtII
 [/us/stat/87/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F292
 [/us/usc/t23/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs307%2Fa
 [/us/pl/89/564/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs105

@@ -817,7 +817,7 @@
 
         A State with delegated authority for responsibilities under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) pursuant to section 327 shall be responsible for supplying to the Secretary project development and compliance status for all applicable projects.
 
-(Added [Pub. L. 109–59, title VI, § 6002(a)][/us/pl/109/59/s6002/a], Aug. 10, 2005, [119 Stat. 1857][/us/stat/119/1857]; amended [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1305–1309, July 6, 2012, [126 Stat. 533–539][/us/stat/126/533-539]; [Pub. L. 114–94, div. A, title I, § 1304(a)][/us/pl/114/94/s1304/a]–(j)(1), Dec. 4, 2015, [129 Stat. 1378–1385][/us/stat/129/1378-1385].)
+(Added [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6002(a), Aug. 10, 2005, [119 Stat. 1857][/us/stat/119/1857]; amended [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], §§ 1305–1309, July 6, 2012, [126 Stat. 533–539][/us/stat/126/533-539]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1304(a)–(j)(1), Dec. 4, 2015, [129 Stat. 1378–1385][/us/stat/129/1378-1385].)
 
  __References in Text__ 
 
@@ -825,7 +825,7 @@
 
     The date of enactment of the MAP–21, referred to in subsec. (h)(8)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101].
 
-    [Section 204 of this title][/us/usc/t23/s204], referred to in subsec. (j)(3), was repealed and a new section 204 enacted by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489.
+    [Section 204 of this title][/us/usc/t23/s204], referred to in subsec. (j)(3), was repealed and a new section 204 enacted by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489.
 
     The date of enactment of this subsection, referred to in subsec. (o)(1), means Dec. 4, 2015, the date of approval of [Pub. L. 114–94][/us/pl/114/94].
 
@@ -833,103 +833,103 @@
 
  __Codification__ 
 
-    [Section 6002(a) of Pub. L. 109–59][/us/pl/109/59/s6002/a], which directed that this section be inserted after section 138 of subchapter I of chapter 1 of this title, was executed by adding this section after section 138 of chapter 1 of this title, to reflect the probable intent of Congress and the amendment by [Pub. L. 109–59, § 1602(b)(6)(A)][/us/pl/109/59/s1602/b/6/A], which struck out the subchapter I heading preceding [section 101 of this title][/us/usc/t23/s101].
+    [Section 6002(a) of Pub. L. 109–59][/us/pl/109/59/s6002/a], which directed that this section be inserted after section 138 of subchapter I of chapter 1 of this title, was executed by adding this section after section 138 of chapter 1 of this title, to reflect the probable intent of Congress and the amendment by [Pub. L. 109–59][/us/pl/109/59], § 1602(b)(6)(A), which struck out the subchapter I heading preceding [section 101 of this title][/us/usc/t23/s101].
 
  __Prior Provisions__ 
 
-    A prior section 139, added [Pub. L. 90–495, § 16(a)][/us/pl/90/495/s16/a], Aug. 23, 1968, [82 Stat. 823][/us/stat/82/823]; amended [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(b)(1), 140, Dec. 31, 1970, [84 Stat. 1716][/us/stat/84/1716], 1736; [Pub. L. 94–280, title I, § 125][/us/pl/94/280/s125], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 97–134, § 10][/us/pl/97/134/s10], Dec. 29, 1981, [95 Stat. 1702][/us/stat/95/1702]; [Pub. L. 97–424, title I, § 116(a)(3)][/us/pl/97/424/s116/a/3], Jan. 6, 1983, [96 Stat. 2109][/us/stat/96/2109]; [Pub. L. 98–229, § 8(a)][/us/pl/98/229/s8/a], Mar. 9, 1984, [98 Stat. 56][/us/stat/98/56], related to additions to the Interstate System, prior to repeal by [Pub. L. 105–178, title I, § 1106(c)(2)(A)][/us/pl/105/178/s1106/c/2/A], June 9, 1998, [112 Stat. 136][/us/stat/112/136].
+    A prior section 139, added [Pub. L. 90–495][/us/pl/90/495], § 16(a), Aug. 23, 1968, [82 Stat. 823][/us/stat/82/823]; amended [Pub. L. 91–605, title I][/us/pl/91/605/tI], §§ 106(b)(1), 140, Dec. 31, 1970, [84 Stat. 1716][/us/stat/84/1716], 1736; [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 125, May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 97–134][/us/pl/97/134], § 10, Dec. 29, 1981, [95 Stat. 1702][/us/stat/95/1702]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 116(a)(3), Jan. 6, 1983, [96 Stat. 2109][/us/stat/96/2109]; [Pub. L. 98–229][/us/pl/98/229], § 8(a), Mar. 9, 1984, [98 Stat. 56][/us/stat/98/56], related to additions to the Interstate System, prior to repeal by [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1106(c)(2)(A), June 9, 1998, [112 Stat. 136][/us/stat/112/136].
 
  __Amendments__ 
 
-    Subsec. (a)(5). [Pub. L. 114–94, § 1304(a)(1)][/us/pl/114/94/s1304/a/1], added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The term ‘multimodal project’ means a project funded, in whole or in part, under this title or chapter 53 of title 49 and involving the participation of more than one Department of Transportation administration or agency.”
+    Subsec. (a)(5). [Pub. L. 114–94][/us/pl/114/94], § 1304(a)(1), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The term ‘multimodal project’ means a project funded, in whole or in part, under this title or chapter 53 of title 49 and involving the participation of more than one Department of Transportation administration or agency.”
 
-    Subsec. (a)(6). [Pub. L. 114–94, § 1304(a)(2)][/us/pl/114/94/s1304/a/2], added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The term ‘project’ means any highway project, public transportation capital project, or multimodal project that requires the approval of the Secretary.”
+    Subsec. (a)(6). [Pub. L. 114–94][/us/pl/114/94], § 1304(a)(2), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The term ‘project’ means any highway project, public transportation capital project, or multimodal project that requires the approval of the Secretary.”
 
-    Subsec. (b)(3)(A). [Pub. L. 114–94, § 1304(b)(1)][/us/pl/114/94/s1304/b/1], struck out “initiate a rulemaking to” after “shall” in introductory provisions.
+    Subsec. (b)(3)(A). [Pub. L. 114–94][/us/pl/114/94], § 1304(b)(1), struck out “initiate a rulemaking to” after “shall” in introductory provisions.
 
-    Subsec. (b)(3)(B). [Pub. L. 114–94, § 1304(b)(2)][/us/pl/114/94/s1304/b/2], added subpar. (B) and struck out former subpar. (B) which related to programmatic compliance requirements.
+    Subsec. (b)(3)(B). [Pub. L. 114–94][/us/pl/114/94], § 1304(b)(2), added subpar. (B) and struck out former subpar. (B) which related to programmatic compliance requirements.
 
-    Subsec. (c)(1)(A). [Pub. L. 114–94, § 1304(c)(1)][/us/pl/114/94/s1304/c/1], inserted “, or an operating administration thereof designated by the Secretary,” after “Department of Transportation”.
+    Subsec. (c)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 1304(c)(1), inserted “, or an operating administration thereof designated by the Secretary,” after “Department of Transportation”.
 
-    Subsec. (c)(6)(C). [Pub. L. 114–94, § 1304(c)(2)][/us/pl/114/94/s1304/c/2], added subpar. (C).
+    Subsec. (c)(6)(C). [Pub. L. 114–94][/us/pl/114/94], § 1304(c)(2), added subpar. (C).
 
-    Subsec. (d)(2). [Pub. L. 114–94, § 1304(d)(1)][/us/pl/114/94/s1304/d/1], substituted “Not later than 45 days after the date of publication of a notice of intent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency shall identify” for “The lead agency shall identify, as early as practicable in the environmental review process for a project,”.
+    Subsec. (d)(2). [Pub. L. 114–94][/us/pl/114/94], § 1304(d)(1), substituted “Not later than 45 days after the date of publication of a notice of intent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency shall identify” for “The lead agency shall identify, as early as practicable in the environmental review process for a project,”.
 
-    Subsec. (d)(8), (9). [Pub. L. 114–94, § 1304(d)(2)][/us/pl/114/94/s1304/d/2], added pars. (8) and (9).
+    Subsec. (d)(8), (9). [Pub. L. 114–94][/us/pl/114/94], § 1304(d)(2), added pars. (8) and (9).
 
-    Subsec. (e)(1). [Pub. L. 114–94, § 1304(e)(1)][/us/pl/114/94/s1304/e/1], inserted “(including any additional information that the project sponsor considers to be important to initiate the process for the proposed project)” after “general location of the proposed project”.
+    Subsec. (e)(1). [Pub. L. 114–94][/us/pl/114/94], § 1304(e)(1), inserted “(including any additional information that the project sponsor considers to be important to initiate the process for the proposed project)” after “general location of the proposed project”.
 
-    Subsec. (e)(3) to (5). [Pub. L. 114–94, § 1304(e)(2)][/us/pl/114/94/s1304/e/2], added pars. (3) to (5).
+    Subsec. (e)(3) to (5). [Pub. L. 114–94][/us/pl/114/94], § 1304(e)(2), added pars. (3) to (5).
 
-    Subsec. (f). [Pub. L. 114–94, § 1304(f)(1)][/us/pl/114/94/s1304/f/1], inserted “; Alternatives Analysis” after “Need” in heading.
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 1304(f)(1), inserted “; Alternatives Analysis” after “Need” in heading.
 
-    Subsec. (f)(4)(A). [Pub. L. 114–94, § 1304(f)(2)(A)][/us/pl/114/94/s1304/f/2/A], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “As early as practicable during the environmental review process, the lead agency shall provide an opportunity for involvement by participating agencies and the public in determining the range of alternatives to be considered for a project.”
+    Subsec. (f)(4)(A). [Pub. L. 114–94][/us/pl/114/94], § 1304(f)(2)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “As early as practicable during the environmental review process, the lead agency shall provide an opportunity for involvement by participating agencies and the public in determining the range of alternatives to be considered for a project.”
 
-    Subsec. (f)(4)(B). [Pub. L. 114–94, § 1304(f)(2)(B)][/us/pl/114/94/s1304/f/2/B], designated existing provisions as cl. (i), inserted heading, substituted “Following participation under subparagraph (A)” for “Following participation under paragraph (1)”, and added cl. (ii).
+    Subsec. (f)(4)(B). [Pub. L. 114–94][/us/pl/114/94], § 1304(f)(2)(B), designated existing provisions as cl. (i), inserted heading, substituted “Following participation under subparagraph (A)” for “Following participation under paragraph (1)”, and added cl. (ii).
 
-    Subsec. (f)(4)(E). [Pub. L. 114–94, § 1304(f)(2)(C)][/us/pl/114/94/s1304/f/2/C], added subpar. (E).
+    Subsec. (f)(4)(E). [Pub. L. 114–94][/us/pl/114/94], § 1304(f)(2)(C), added subpar. (E).
 
-    Subsec. (g)(1)(A). [Pub. L. 114–94, § 1304(g)(1)(A)][/us/pl/114/94/s1304/g/1/A], substituted “Not later than 90 days after the date of publication of a notice of intent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency” for “The lead agency”.
+    Subsec. (g)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 1304(g)(1)(A), substituted “Not later than 90 days after the date of publication of a notice of intent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency” for “The lead agency”.
 
-    Subsec. (g)(1)(B)(i). [Pub. L. 114–94, § 1304(g)(1)(B)][/us/pl/114/94/s1304/g/1/B], substituted “shall establish as part of such coordination plan” for “may establish as part of the coordination plan”.
+    Subsec. (g)(1)(B)(i). [Pub. L. 114–94][/us/pl/114/94], § 1304(g)(1)(B), substituted “shall establish as part of such coordination plan” for “may establish as part of the coordination plan”.
 
-    Subsec. (g)(3). [Pub. L. 114–94, § 1304(g)(2)][/us/pl/114/94/s1304/g/2], inserted “and publish on the Internet” after “House of Representatives” in introductory provisions.
+    Subsec. (g)(3). [Pub. L. 114–94][/us/pl/114/94], § 1304(g)(2), inserted “and publish on the Internet” after “House of Representatives” in introductory provisions.
 
-    Subsec. (h)(4). [Pub. L. 114–94, § 1304(h)(1)(B)][/us/pl/114/94/s1304/h/1/B], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (h)(4). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(1)(B), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (h)(5). [Pub. L. 114–94, § 1304(h)(1)(A)][/us/pl/114/94/s1304/h/1/A], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (h)(5). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (h)(5)(C). [Pub. L. 114–94, § 1304(h)(2)][/us/pl/114/94/s1304/h/2], substituted “paragraph (6)” for “paragraph (5) and”.
+    Subsec. (h)(5)(C). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(2), substituted “paragraph (6)” for “paragraph (5) and”.
 
-    Subsec. (h)(6), (7). [Pub. L. 114–94, § 1304(h)(1)(A)][/us/pl/114/94/s1304/h/1/A], redesignated pars. (5) and (6) as (6) and (7). Former par. (7) redesignated (8).
+    Subsec. (h)(6), (7). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(1)(A), redesignated pars. (5) and (6) as (6) and (7). Former par. (7) redesignated (8).
 
-    Subsec. (h)(7)(B)(i)(I). [Pub. L. 114–94, § 1304(h)(3)(A)][/us/pl/114/94/s1304/h/3/A], substituted “is required under subsection (h) or (i) of section 106” for “under section 106(i) is required”.
+    Subsec. (h)(7)(B)(i)(I). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(3)(A), substituted “is required under subsection (h) or (i) of section 106” for “under section 106(i) is required”.
 
-    Subsec. (h)(7)(B)(ii). [Pub. L. 114–94, § 1304(h)(3)(B)][/us/pl/114/94/s1304/h/3/B], added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “The date referred to in clause (i) is the later of—
+    Subsec. (h)(7)(B)(ii). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(3)(B), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “The date referred to in clause (i) is the later of—
 
     “(I) the date that is 180 days after the date on which an application for the permit, license, or approval is complete; and
 
     “(II) the date that is 180 days after the date on which the Federal lead agency issues a decision on the project under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).”
 
-    Subsec. (h)(8). [Pub. L. 114–94, § 1304(h)(1)(A)][/us/pl/114/94/s1304/h/1/A], redesignated par. (7) as (8).
+    Subsec. (h)(8). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(1)(A), redesignated par. (7) as (8).
 
-    Subsec. (j)(1). [Pub. L. 114–94, § 1304(i)(1)][/us/pl/114/94/s1304/i/1], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “For a project that is subject to the environmental review process established under this section and for which funds are made available to a State under this title or chapter 53 of title 49, the Secretary may approve a request by the State to provide funds so made available under this title or such chapter 53 to affected Federal agencies (including the Department of Transportation), State agencies, and Indian tribes participating in the environmental review process for the projects in that State or participating in a State process that has been approved by the Secretary for that State. Such funds may be provided only to support activities that directly and meaningfully contribute to expediting and improving transportation project planning and delivery for projects in that State.”
+    Subsec. (j)(1). [Pub. L. 114–94][/us/pl/114/94], § 1304(i)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “For a project that is subject to the environmental review process established under this section and for which funds are made available to a State under this title or chapter 53 of title 49, the Secretary may approve a request by the State to provide funds so made available under this title or such chapter 53 to affected Federal agencies (including the Department of Transportation), State agencies, and Indian tribes participating in the environmental review process for the projects in that State or participating in a State process that has been approved by the Secretary for that State. Such funds may be provided only to support activities that directly and meaningfully contribute to expediting and improving transportation project planning and delivery for projects in that State.”
 
-    Subsec. (j)(2). [Pub. L. 114–94, § 1304(i)(2)][/us/pl/114/94/s1304/i/2], inserted “activities directly related to the environmental review process,” before “dedicated staffing,”.
+    Subsec. (j)(2). [Pub. L. 114–94][/us/pl/114/94], § 1304(i)(2), inserted “activities directly related to the environmental review process,” before “dedicated staffing,”.
 
-    Subsec. (j)(6). [Pub. L. 114–94, § 1304(i)(3)][/us/pl/114/94/s1304/i/3], added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “Prior to providing funds approved by the Secretary for dedicated staffing at an affected Federal agency under paragraphs (1) and (2), the affected Federal agency and the State agency shall enter into a memorandum of understanding that establishes the projects and priorities to be addressed by the use of the funds.”
+    Subsec. (j)(6). [Pub. L. 114–94][/us/pl/114/94], § 1304(i)(3), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “Prior to providing funds approved by the Secretary for dedicated staffing at an affected Federal agency under paragraphs (1) and (2), the affected Federal agency and the State agency shall enter into a memorandum of understanding that establishes the projects and priorities to be addressed by the use of the funds.”
 
-    Subsecs. (n), (o). [Pub. L. 114–94, § 1304(j)(1)][/us/pl/114/94/s1304/j/1], added subsec. (n) and (o).
+    Subsecs. (n), (o). [Pub. L. 114–94][/us/pl/114/94], § 1304(j)(1), added subsec. (n) and (o).
 
-    2012—Subsec. (b)(2). [Pub. L. 112–141, § 1305(a)(1)][/us/pl/112/141/s1305/a/1], inserted “, and any requirements established under this section may be satisfied,” after “exercised”.
+    2012—Subsec. (b)(2). [Pub. L. 112–141][/us/pl/112/141], § 1305(a)(1), inserted “, and any requirements established under this section may be satisfied,” after “exercised”.
 
-    Subsec. (b)(3). [Pub. L. 112–141, § 1305(a)(2)][/us/pl/112/141/s1305/a/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 112–141][/us/pl/112/141], § 1305(a)(2), added par. (3).
 
-    Subsec. (c)(1). [Pub. L. 112–141, § 1305(b)(1)][/us/pl/112/141/s1305/b/1], designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+    Subsec. (c)(1). [Pub. L. 112–141][/us/pl/112/141], § 1305(b)(1), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
-    Subsec. (d)(4). [Pub. L. 112–141, § 1305(c)(1)][/us/pl/112/141/s1305/c/1], added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Designation as a participating agency under this subsection shall not imply that the participating agency—
+    Subsec. (d)(4). [Pub. L. 112–141][/us/pl/112/141], § 1305(c)(1), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Designation as a participating agency under this subsection shall not imply that the participating agency—
 
     “(A) supports a proposed project; or
 
     “(B) has any jurisdiction over, or special expertise with respect to evaluation of, the project.”
 
-    Subsec. (d)(7). [Pub. L. 112–141, § 1305(c)(2)][/us/pl/112/141/s1305/c/2], added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “Each Federal agency shall, to the maximum extent practicable—
+    Subsec. (d)(7). [Pub. L. 112–141][/us/pl/112/141], § 1305(c)(2), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “Each Federal agency shall, to the maximum extent practicable—
 
     “(A) carry out obligations of the Federal agency under other applicable law concurrently, and in conjunction, with the review required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), unless doing so would impair the ability of the Federal agency to carry out those obligations; and
 
     “(B) formulate and implement administrative, policy, and procedural mechanisms to enable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner.”
 
-    Subsec. (e). [Pub. L. 112–141, § 1305(d)][/us/pl/112/141/s1305/d], designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 1305(d), designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-    Subsec. (g)(1)(B)(i). [Pub. L. 112–141, § 1305(e)][/us/pl/112/141/s1305/e], inserted “and the concurrence of” after “consultation with”.
+    Subsec. (g)(1)(B)(i). [Pub. L. 112–141][/us/pl/112/141], § 1305(e), inserted “and the concurrence of” after “consultation with”.
 
-    Subsec. (h)(4) to (7). [Pub. L. 112–141, § 1306][/us/pl/112/141/s1306], added pars. (4) to (7) and struck out former par. (4) which related to issue resolution.
+    Subsec. (h)(4) to (7). [Pub. L. 112–141][/us/pl/112/141], § 1306, added pars. (4) to (7) and struck out former par. (4) which related to issue resolution.
 
-    Subsec. (j)(6). [Pub. L. 112–141, § 1307][/us/pl/112/141/s1307], added par. (6).
+    Subsec. (j)(6). [Pub. L. 112–141][/us/pl/112/141], § 1307, added par. (6).
 
-    Subsec. (l). [Pub. L. 112–141, § 1308][/us/pl/112/141/s1308], substituted “150 days” for “180 days” in pars. (1) and (2).
+    Subsec. (l). [Pub. L. 112–141][/us/pl/112/141], § 1308, substituted “150 days” for “180 days” in pars. (1) and (2).
 
-    Subsec. (m). [Pub. L. 112–141, § 1309][/us/pl/112/141/s1309], added subsec. (m).
+    Subsec. (m). [Pub. L. 112–141][/us/pl/112/141], § 1309, added subsec. (m).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -941,7 +941,7 @@
 
  __Implementation of Programmatic Compliance__ 
 
-[Pub. L. 114–94, div. A, title I, § 1304(k)][/us/pl/114/94/s1304/k], Dec. 4, 2015, [129 Stat. 1386][/us/stat/129/1386], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1304(k), Dec. 4, 2015, [129 Stat. 1386][/us/stat/129/1386], provided that:
 
 >     “(1)  __Rulemaking__  __.—__ 
 
@@ -965,7 +965,7 @@
 
  __Memoranda of Agency Agreements for Early Coordination__ 
 
-[Pub. L. 112–141, div. A, title I, § 1320][/us/pl/112/141/s1320], July 6, 2012, [126 Stat. 551][/us/stat/126/551], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1320, July 6, 2012, [126 Stat. 551][/us/stat/126/551], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1005,7 +1005,7 @@
 
  __Existing Environmental Review Process__ 
 
-[Pub. L. 109–59, title VI, § 6002(b)][/us/pl/109/59/s6002/b], Aug. 10, 2005, [119 Stat. 1865][/us/stat/119/1865], provided that: 
+[Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6002(b), Aug. 10, 2005, [119 Stat. 1865][/us/stat/119/1865], provided that: 
 
 > “Nothing in this section \[enacting this section and repealing provisions set out as a note under [section 109 of this title][/us/usc/t23/s109]\] affects any existing State environmental review process, program, agreement, or funding arrangement approved by the Secretary \[of Transportation\] under section 1309 of the Transportation Equity Act for the 21st Century \[[Pub. L. 105–178][/us/pl/105/178]\] ([112 Stat. 232][/us/stat/112/232]; [23 U.S.C. 109][/us/usc/t23/s109] note) as such section was in effect on the day preceding the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\].”
 
@@ -1045,11 +1045,11 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/109/59/s6002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6002%2Fa
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1857
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/533-539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F533-539
-[/us/pl/114/94/s1304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1378-1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1378-1385
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
@@ -1057,83 +1057,83 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
-[/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s41003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41003%2Fb
 [/us/usc/t42/s4370m–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%932%2Fb
 [/us/pl/109/59/s6002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6002%2Fa
-[/us/pl/109/59/s1602/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F6%2FA
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/90/495/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs16%2Fa
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F823
-[/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1716
-[/us/pl/94/280/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs125
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F440
-[/us/pl/97/134/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F134%2Fs10
+[/us/pl/97/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F134
 [/us/stat/95/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1702
-[/us/pl/97/424/s116/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs116%2Fa%2F3
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2109
-[/us/pl/98/229/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F229%2Fs8%2Fa
+[/us/pl/98/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F229
 [/us/stat/98/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F56
-[/us/pl/105/178/s1106/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1106%2Fc%2F2%2FA
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F136
-[/us/pl/114/94/s1304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fa%2F1
-[/us/pl/114/94/s1304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fa%2F2
-[/us/pl/114/94/s1304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fb%2F1
-[/us/pl/114/94/s1304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fb%2F2
-[/us/pl/114/94/s1304/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fc%2F1
-[/us/pl/114/94/s1304/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fc%2F2
-[/us/pl/114/94/s1304/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fd%2F1
-[/us/pl/114/94/s1304/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fd%2F2
-[/us/pl/114/94/s1304/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fe%2F1
-[/us/pl/114/94/s1304/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fe%2F2
-[/us/pl/114/94/s1304/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Ff%2F1
-[/us/pl/114/94/s1304/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Ff%2F2%2FA
-[/us/pl/114/94/s1304/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Ff%2F2%2FB
-[/us/pl/114/94/s1304/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Ff%2F2%2FC
-[/us/pl/114/94/s1304/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fg%2F1%2FA
-[/us/pl/114/94/s1304/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fg%2F1%2FB
-[/us/pl/114/94/s1304/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fg%2F2
-[/us/pl/114/94/s1304/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fh%2F1%2FB
-[/us/pl/114/94/s1304/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fh%2F1%2FA
-[/us/pl/114/94/s1304/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fh%2F2
-[/us/pl/114/94/s1304/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fh%2F1%2FA
-[/us/pl/114/94/s1304/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fh%2F3%2FA
-[/us/pl/114/94/s1304/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fh%2F3%2FB
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s1304/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fh%2F1%2FA
-[/us/pl/114/94/s1304/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fi%2F1
-[/us/pl/114/94/s1304/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fi%2F2
-[/us/pl/114/94/s1304/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fi%2F3
-[/us/pl/114/94/s1304/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fj%2F1
-[/us/pl/112/141/s1305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1305%2Fa%2F1
-[/us/pl/112/141/s1305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1305%2Fa%2F2
-[/us/pl/112/141/s1305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1305%2Fb%2F1
-[/us/pl/112/141/s1305/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1305%2Fc%2F1
-[/us/pl/112/141/s1305/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1305%2Fc%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/112/141/s1305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1305%2Fd
-[/us/pl/112/141/s1305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1305%2Fe
-[/us/pl/112/141/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1306
-[/us/pl/112/141/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1307
-[/us/pl/112/141/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1308
-[/us/pl/112/141/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1309
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s1304/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fk
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1386
 [/us/usc/t23/s139/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs139%2Fb%2F3
 [/us/usc/t23/s139/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs139%2Fb%2F3%2FB
-[/us/pl/112/141/s1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1320
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F551
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/109/59/s6002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6002%2Fb
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1865
 [/us/usc/t23/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs109
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178

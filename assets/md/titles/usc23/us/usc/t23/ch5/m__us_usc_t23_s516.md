@@ -41,7 +41,7 @@
 
     The Federal share payable on account of any project or activity carried out under subsection (a) shall not exceed 80 percent.
 
-(Added [Pub. L. 112–141, div. E, title III, § 53004(a)][/us/pl/112/141/s53004/a], July 6, 2012, [126 Stat. 902][/us/stat/126/902].)
+(Added [Pub. L. 112–141, div. E, title III][/us/pl/112/141/dE/tIII], § 53004(a), July 6, 2012, [126 Stat. 902][/us/stat/126/902].)
 
  __Effective Date__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/112/141/s53004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs53004%2Fa
+[/us/pl/112/141/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtIII
 [/us/stat/126/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F902
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

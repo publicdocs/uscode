@@ -129,27 +129,27 @@
 
         Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
-(Added [Pub. L. 105–178, title I, § 1405(a)][/us/pl/105/178/s1405/a], as added [Pub. L. 105–206, title IX, § 9005(a)][/us/pl/105/206/s9005/a], July 22, 1998, [112 Stat. 843][/us/stat/112/843]; amended [Pub. L. 109–59, title I, § 1401(a)(3)(C)][/us/pl/109/59/s1401/a/3/C], Aug. 10, 2005, [119 Stat. 1225][/us/stat/119/1225]; [Pub. L. 112–141, div. A, title I, § 1402][/us/pl/112/141/s1402], July 6, 2012, [126 Stat. 556][/us/stat/126/556]; [Pub. L. 114–94, div. A, title I, § 1446(a)(8)][/us/pl/114/94/s1446/a/8], Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
+(Added [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1405(a), as added [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9005(a), July 22, 1998, [112 Stat. 843][/us/stat/112/843]; amended [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1401(a)(3)(C), Aug. 10, 2005, [119 Stat. 1225][/us/stat/119/1225]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1402, July 6, 2012, [126 Stat. 556][/us/stat/126/556]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(a)(8), Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
 
  __Prior Provisions__ 
 
-    A prior section 154, added [Pub. L. 93–643, § 114(a)][/us/pl/93/643/s114/a], Jan. 4, 1975, [88 Stat. 2286][/us/stat/88/2286]; amended [Pub. L. 95–599, title II, § 205][/us/pl/95/599/s205], Nov. 6, 1978, [92 Stat. 2729][/us/stat/92/2729]; [Pub. L. 97–35, title XI, § 1108][/us/pl/97/35/s1108], Aug. 13, 1981, [95 Stat. 626][/us/stat/95/626]; [Pub. L. 100–17, title I, § 174][/us/pl/100/17/s174], Apr. 2, 1987, [101 Stat. 218][/us/stat/101/218]; [Pub. L. 102–240, title I, § 1029(a)][/us/pl/102/240/s1029/a], (b), (e), (g), Dec. 18, 1991, [105 Stat. 1968–1970][/us/stat/105/1968-1970], established the national maximum speed limit, prior to repeal by [Pub. L. 104–59, title II, § 205(d)(1)(B)][/us/pl/104/59/s205/d/1/B], (3), Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], applicable to State on 10th day following Nov. 28, 1995, except that if legislature was not in session on such date and chief executive officer declared before such date that legislature was not in session and that State preferred applicability date that was after date on which legislature would convene, applicable to State on 60th day following date on which legislature would next convene.
+    A prior section 154, added [Pub. L. 93–643][/us/pl/93/643], § 114(a), Jan. 4, 1975, [88 Stat. 2286][/us/stat/88/2286]; amended [Pub. L. 95–599, title II][/us/pl/95/599/tII], § 205, Nov. 6, 1978, [92 Stat. 2729][/us/stat/92/2729]; [Pub. L. 97–35, title XI][/us/pl/97/35/tXI], § 1108, Aug. 13, 1981, [95 Stat. 626][/us/stat/95/626]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 174, Apr. 2, 1987, [101 Stat. 218][/us/stat/101/218]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1029(a), (b), (e), (g), Dec. 18, 1991, [105 Stat. 1968–1970][/us/stat/105/1968-1970], established the national maximum speed limit, prior to repeal by [Pub. L. 104–59, title II][/us/pl/104/59/tII], § 205(d)(1)(B), (3), Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], applicable to State on 10th day following Nov. 28, 1995, except that if legislature was not in session on such date and chief executive officer declared before such date that legislature was not in session and that State preferred applicability date that was after date on which legislature would convene, applicable to State on 60th day following date on which legislature would next convene.
 
  __Amendments__ 
 
-    2015—Subsec. (c)(1). [Pub. L. 114–94, § 1446(a)(8)(A)][/us/pl/114/94/s1446/a/8/A], substituted “paragraphs (1), (2), and (4)” for “paragraphs (1), (3), and (4)”.
+    2015—Subsec. (c)(1). [Pub. L. 114–94][/us/pl/114/94], § 1446(a)(8)(A), substituted “paragraphs (1), (2), and (4)” for “paragraphs (1), (3), and (4)”.
 
-    Subsec. (c)(3)(A). [Pub. L. 114–94, § 1446(a)(8)(B)][/us/pl/114/94/s1446/a/8/B], substituted “reserved” for “transferred”.
+    Subsec. (c)(3)(A). [Pub. L. 114–94][/us/pl/114/94], § 1446(a)(8)(B), substituted “reserved” for “transferred”.
 
-    Subsec. (c)(5). [Pub. L. 114–94, § 1446(a)(8)(C)(i)][/us/pl/114/94/s1446/a/8/C/i], inserted “or released” after “transferred” in introductory provisions.
+    Subsec. (c)(5). [Pub. L. 114–94][/us/pl/114/94], § 1446(a)(8)(C)(i), inserted “or released” after “transferred” in introductory provisions.
 
-    Subsec. (c)(5)(A). [Pub. L. 114–94, § 1446(a)(8)(C)(ii)][/us/pl/114/94/s1446/a/8/C/ii], substituted “under section 104(b)(1)” for “under section 104(b)(l)”.
+    Subsec. (c)(5)(A). [Pub. L. 114–94][/us/pl/114/94], § 1446(a)(8)(C)(ii), substituted “under section 104(b)(1)” for “under section 104(b)(l)”.
 
-    2012—Subsec. (c)(2). [Pub. L. 112–141, § 1402(1)][/us/pl/112/141/s1402/1], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “On October 1, 2002, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 3 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402 to be used or directed as described in subparagraph (A) or (B) of paragraph (1).”
+    2012—Subsec. (c)(2). [Pub. L. 112–141][/us/pl/112/141], § 1402(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “On October 1, 2002, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 3 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402 to be used or directed as described in subparagraph (A) or (B) of paragraph (1).”
 
-    Subsec. (c)(3). [Pub. L. 112–141, § 1402(2)][/us/pl/112/141/s1402/2], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A State may elect to use all or a portion of the funds transferred under paragraph (1) or (2) for activities eligible under section 148.”
+    Subsec. (c)(3). [Pub. L. 112–141][/us/pl/112/141], § 1402(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A State may elect to use all or a portion of the funds transferred under paragraph (1) or (2) for activities eligible under section 148.”
 
-    Subsec. (c)(5). [Pub. L. 112–141, § 1402(3)][/us/pl/112/141/s1402/3], added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The amount to be transferred under paragraph (1) or (2) may be derived from one or more of the following:
+    Subsec. (c)(5). [Pub. L. 112–141][/us/pl/112/141], § 1402(3), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The amount to be transferred under paragraph (1) or (2) may be derived from one or more of the following:
 
     “(A) The apportionment of the State under section 104(b)(1).
 
@@ -178,34 +178,34 @@
 ----------
 ----------
 
-[/us/pl/105/178/s1405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1405%2Fa
-[/us/pl/105/206/s9005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9005%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F843
-[/us/pl/109/59/s1401/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1401%2Fa%2F3%2FC
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1225
-[/us/pl/112/141/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1402
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F556
-[/us/pl/114/94/s1446/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F8
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1437
-[/us/pl/93/643/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs114%2Fa
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2286
-[/us/pl/95/599/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs205
+[/us/pl/95/599/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtII
 [/us/stat/92/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2729
-[/us/pl/97/35/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1108
+[/us/pl/97/35/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXI
 [/us/stat/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F626
-[/us/pl/100/17/s174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs174
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F218
-[/us/pl/102/240/s1029/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1029%2Fa
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1968-1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1968-1970
-[/us/pl/104/59/s205/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs205%2Fd%2F1%2FB
+[/us/pl/104/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtII
 [/us/stat/109/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F577
-[/us/pl/114/94/s1446/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F8%2FA
-[/us/pl/114/94/s1446/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F8%2FB
-[/us/pl/114/94/s1446/a/8/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F8%2FC%2Fi
-[/us/pl/114/94/s1446/a/8/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F8%2FC%2Fii
-[/us/pl/112/141/s1402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1402%2F1
-[/us/pl/112/141/s1402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1402%2F2
-[/us/pl/112/141/s1402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1402%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

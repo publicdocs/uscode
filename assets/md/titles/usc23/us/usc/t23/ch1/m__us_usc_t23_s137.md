@@ -45,19 +45,19 @@
 
     The addition of electric vehicle charging stations or natural gas vehicle refueling stations to new or previously funded parking facilities shall be eligible for funding under this section.
 
-(Added [Pub. L. 89–574, § 8(c)(1)][/us/pl/89/574/s8/c/1], Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; amended [Pub. L. 91–605, title I, § 134(a)][/us/pl/91/605/s134/a], Dec. 31, 1970, [84 Stat. 1733][/us/stat/84/1733]; [Pub. L. 97–424, title I, § 118][/us/pl/97/424/s118], Jan. 6, 1983, [96 Stat. 2110][/us/stat/96/2110]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1103(l)(3)(B), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 126][/us/stat/112/126], 193; [Pub. L. 109–59, title I, § 1921][/us/pl/109/59/s1921], Aug. 10, 2005, [119 Stat. 1480][/us/stat/119/1480]; [Pub. L. 112–141, div. A, title I, § 1513(a)][/us/pl/112/141/s1513/a], July 6, 2012, [126 Stat. 572][/us/stat/126/572].)
+(Added [Pub. L. 89–574][/us/pl/89/574], § 8(c)(1), Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; amended [Pub. L. 91–605, title I][/us/pl/91/605/tI], § 134(a), Dec. 31, 1970, [84 Stat. 1733][/us/stat/84/1733]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 118, Jan. 6, 1983, [96 Stat. 2110][/us/stat/96/2110]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], §§ 1103(l)(3)(B), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 126][/us/stat/112/126], 193; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1921, Aug. 10, 2005, [119 Stat. 1480][/us/stat/119/1480]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1513(a), July 6, 2012, [126 Stat. 572][/us/stat/126/572].)
 
  __Amendments__ 
 
-    2012—Subsec. (f)(1). [Pub. L. 112–141, § 1513(a)(1)][/us/pl/112/141/s1513/a/1], substituted “104(b)(1)” for “104(b)(4)” and inserted “including the addition of electric vehicle charging stations or natural gas vehicle refueling stations,” after “new facilities,”.
+    2012—Subsec. (f)(1). [Pub. L. 112–141][/us/pl/112/141], § 1513(a)(1), substituted “104(b)(1)” for “104(b)(4)” and inserted “including the addition of electric vehicle charging stations or natural gas vehicle refueling stations,” after “new facilities,”.
 
-    Subsec. (g). [Pub. L. 112–141, § 1513(a)(2)][/us/pl/112/141/s1513/a/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 112–141][/us/pl/112/141], § 1513(a)(2), added subsec. (g).
 
     2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59] substituted “on a Federal-aid highway” for “on the Federal-aid urban system”.
 
-    1998—Subsec. (b)(3). [Pub. L. 105–178, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], substituted “State transportation department” for “State highway department”.
+    1998—Subsec. (b)(3). [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-    Subsec. (f)(1). [Pub. L. 105–178, § 1103][/us/pl/105/178/s1103](l)(3)(B), substituted “section 104(b)(4)” for “[section 104(b)(5)(B) of this title][/us/usc/t23/s104/b/5/B]”.
+    Subsec. (f)(1). [Pub. L. 105–178][/us/pl/105/178], § 1103(l)(3)(B), substituted “section 104(b)(4)” for “[section 104(b)(5)(B) of this title][/us/usc/t23/s104/b/5/B]”.
 
     1983—Subsec. (f). [Pub. L. 97–424][/us/pl/97/424] added subsec. (f).
 
@@ -77,7 +77,7 @@
 
  __Relinquishment of Park-and-Ride lot Facilities__ 
 
-[Pub. L. 114–94, div. A, title I, § 1423][/us/pl/114/94/s1423], Dec. 4, 2015, [129 Stat. 1425][/us/stat/129/1425], provided that: 
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1423, Dec. 4, 2015, [129 Stat. 1425][/us/stat/129/1425], provided that: 
 
 > “A State transportation agency may relinquish park-and-ride lot facilities or portions of park-and-ride lot facilities to a local government agency for highway purposes if authorized to do so under State law if the agreement providing for the relinquishment provides that—
 
@@ -87,7 +87,7 @@
 
  __Jason’s Law__ 
 
-[Pub. L. 112–141, div. A, title I, § 1401][/us/pl/112/141/s1401], July 6, 2012, [126 Stat. 554][/us/stat/126/554], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1401, July 6, 2012, [126 Stat. 554][/us/stat/126/554], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -157,7 +157,7 @@
 
  __Truck Parking Facilities__ 
 
-    [Pub. L. 109–59, title I, § 1305][/us/pl/109/59/s1305], Aug. 10, 2005, [119 Stat. 1214][/us/stat/119/1214], which related to truck parking facilities, was repealed by [Pub. L. 112–141, div. A, title I, § 1519(b)(2)][/us/pl/112/141/s1519/b/2], July 6, 2012, [126 Stat. 575][/us/stat/126/575].
+    [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1305, Aug. 10, 2005, [119 Stat. 1214][/us/stat/119/1214], which related to truck parking facilities, was repealed by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1519(b)(2), July 6, 2012, [126 Stat. 575][/us/stat/126/575].
 
 ----------
 
@@ -167,23 +167,23 @@
 ----------
 
 [/us/usc/t23/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs134
-[/us/pl/89/574/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs8%2Fc%2F1
+[/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/stat/80/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F768
-[/us/pl/91/605/s134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs134%2Fa
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1733
-[/us/pl/97/424/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs118
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2110
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F126
-[/us/pl/109/59/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1921
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1480
-[/us/pl/112/141/s1513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1513%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F572
-[/us/pl/112/141/s1513/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1513%2Fa%2F1
-[/us/pl/112/141/s1513/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1513%2Fa%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
-[/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t23/s104/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F5%2FB
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
@@ -195,17 +195,17 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1423
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1425
-[/us/pl/112/141/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1401
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F554
 [/us/usc/t23/s120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120%2Fc
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t23/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs111
-[/us/pl/109/59/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1305
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1214
-[/us/pl/112/141/s1519/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fb%2F2
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
 
 

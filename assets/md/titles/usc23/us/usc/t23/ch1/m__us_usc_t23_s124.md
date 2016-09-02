@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s123.md) | [Next](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s125.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs124)
 
-## \[§ 124. Repealed. [Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A)][/us/pl/112/141/s1519/b/1/A], July 6, 2012, [126 Stat. 575][/us/stat/126/575]\]
+## \[§ 124. Repealed. [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1519(b)(1)(A), July 6, 2012, [126 Stat. 575][/us/stat/126/575]\]
 
-    Section, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 901][/us/stat/72/901]; [Pub. L. 95–599, title I, § 118][/us/pl/95/599/s118], Nov. 6, 1978, [92 Stat. 2699][/us/stat/92/2699]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1212(a)(2)(A)(i), 1226(c), June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 105–206, title IX, § 9003(a)][/us/pl/105/206/s9003/a], July 22, 1998, [112 Stat. 837][/us/stat/112/837], related to advances to States.
+    Section, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 901][/us/stat/72/901]; [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 118, Nov. 6, 1978, [92 Stat. 2699][/us/stat/92/2699]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], §§ 1212(a)(2)(A)(i), 1226(c), June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9003(a), July 22, 1998, [112 Stat. 837][/us/stat/112/837], related to advances to States.
 
  __Effective Date of Repeal__ 
 
@@ -28,15 +28,15 @@
 ----------
 ----------
 
-[/us/pl/112/141/s1519/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fb%2F1%2FA
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F901
-[/us/pl/95/599/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs118
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2699
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/105/206/s9003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9003%2Fa
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F837
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

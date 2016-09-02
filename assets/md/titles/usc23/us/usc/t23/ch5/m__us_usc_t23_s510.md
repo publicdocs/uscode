@@ -117,11 +117,11 @@
 
     Notwithstanding any other provision of this section, the Secretary may use funds made available to carry out this section for implementation of research products related to the future strategic highway research program, including development, demonstration, evaluation, and technology transfer activities.
 
-(Added [Pub. L. 109–59, title V, § 5210(a)][/us/pl/109/59/s5210/a], Aug. 10, 2005, [119 Stat. 1801][/us/stat/119/1801]; amended [Pub. L. 111–322, title II, § 2203(d)][/us/pl/111/322/s2203/d], Dec. 22, 2010, [124 Stat. 3526][/us/stat/124/3526].)
+(Added [Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5210(a), Aug. 10, 2005, [119 Stat. 1801][/us/stat/119/1801]; amended [Pub. L. 111–322, title II][/us/pl/111/322/tII], § 2203(d), Dec. 22, 2010, [124 Stat. 3526][/us/stat/124/3526].)
 
  __Prior Provisions__ 
 
-    A prior section 510, added [Pub. L. 91–605, title I, § 117(b)][/us/pl/91/605/s117/b], Dec. 31, 1970, [84 Stat. 1724][/us/stat/84/1724], related to construction of replacement housing, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
+    A prior section 510, added [Pub. L. 91–605, title I][/us/pl/91/605/tI], § 117(b), Dec. 31, 1970, [84 Stat. 1724][/us/stat/84/1724], related to construction of replacement housing, prior to repeal by [Pub. L. 91–646, title II][/us/pl/91/646/tII], § 220(a)(10), Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
 
     Another prior section 510 was renumbered [section 511 of this title][/us/usc/t23/s511] and subsequently repealed.
 
@@ -139,13 +139,13 @@
 [/us/usc/t28/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2671
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/109/59/s5210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5210%2Fa
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1801
-[/us/pl/111/322/s2203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs2203%2Fd
+[/us/pl/111/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2FtII
 [/us/stat/124/3526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3526
-[/us/pl/91/605/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs117%2Fb
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1724
-[/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
 [/us/usc/t23/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs511
 [/us/pl/111/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322

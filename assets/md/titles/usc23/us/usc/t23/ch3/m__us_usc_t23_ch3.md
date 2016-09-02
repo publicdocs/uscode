@@ -267,29 +267,29 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, div. A, title I, § 1309(d)][/us/pl/114/94/s1309/d], Dec. 4, 2015, [129 Stat. 1397][/us/stat/129/1397], added item 330.
+    2015—[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1309(d), Dec. 4, 2015, [129 Stat. 1397][/us/stat/129/1397], added item 330.
 
-    2012—[Pub. L. 112–141, div. A, title I, § 1519(c)(1)(C)][/us/pl/112/141/s1519/c/1/C], July 6, 2012, [126 Stat. 575][/us/stat/126/575], struck out items 303 “Management systems” and 309 “Cooperation with other American Republics”.
+    2012—[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1519(c)(1)(C), July 6, 2012, [126 Stat. 575][/us/stat/126/575], struck out items 303 “Management systems” and 309 “Cooperation with other American Republics”.
 
-    [Pub. L. 112–141, div. A, title I, § 1313(i)][/us/pl/112/141/s1313/i], July 6, 2012, [126 Stat. 547][/us/stat/126/547], which directed amendment of item 327 in the analysis of title 23, United States Code, by substituting “Surface transportation project delivery program” for “Surface transportation project delivery pilot program”, was executed to the analysis for this chapter, to reflect the probable intent of Congress.
+    [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1313(i), July 6, 2012, [126 Stat. 547][/us/stat/126/547], which directed amendment of item 327 in the analysis of title 23, United States Code, by substituting “Surface transportation project delivery program” for “Surface transportation project delivery pilot program”, was executed to the analysis for this chapter, to reflect the probable intent of Congress.
 
-    2005—[Pub. L. 109–59, title I][/us/pl/109/59], §§ 1901(b), 1903(b), title VI, §§ 6003(b), 6004(b), 6005(b), 6006(c), Aug. 10, 2005, [119 Stat. 1464][/us/stat/119/1464], 1465, 1867, 1868, 1872, 1873, added items 313, 321, and 325 to 329.
+    2005—[Pub. L. 109–59, title I][/us/pl/109/59/tI], §§ 1901(b), 1903(b), title VI, §§ 6003(b), 6004(b), 6005(b), 6006(c), Aug. 10, 2005, [119 Stat. 1464][/us/stat/119/1464], 1465, 1867, 1868, 1872, 1873, added items 313, 321, and 325 to 329.
 
-    1998—[Pub. L. 105–178, title I][/us/pl/105/178], §§ 1212(a)(2)(B)(i), 1218(b), 1301(d)(3), title V, § 5119(c), June 9, 1998, [112 Stat. 193][/us/stat/112/193], 219, 226, 452, substituted “State transportation department” for “State highway department” in item 302, struck out items 307 “Research and planning” and 321 “National Highway Institute”, added item 322, substituted “Donations and credits” for “Donations” in item 323, and struck out items 325 “International highway transportation outreach program” and 326 “Education and training program”.
+    1998—[Pub. L. 105–178, title I][/us/pl/105/178/tI], §§ 1212(a)(2)(B)(i), 1218(b), 1301(d)(3), title V, § 5119(c), June 9, 1998, [112 Stat. 193][/us/stat/112/193], 219, 226, 452, substituted “State transportation department” for “State highway department” in item 302, struck out items 307 “Research and planning” and 321 “National Highway Institute”, added item 322, substituted “Donations and credits” for “Donations” in item 323, and struck out items 325 “International highway transportation outreach program” and 326 “Education and training program”.
 
-    1991—[Pub. L. 102–240, title I, § 1034(b)][/us/pl/102/240/s1034/b], title VI, §§ 6003(b), 6004(b), Dec. 18, 1991, [105 Stat. 1978][/us/stat/105/1978], 2168, 2169, added items 303, 325, and 326.
+    1991—[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1034(b), title VI, §§ 6003(b), 6004(b), Dec. 18, 1991, [105 Stat. 1978][/us/stat/105/1978], 2168, 2169, added items 303, 325, and 326.
 
-    1987—[Pub. L. 100–17, title I, § 133(e)(1)][/us/pl/100/17/s133/e/1], Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173], struck out item 322 “Demonstration project—rail crossings”.
+    1987—[Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(e)(1), Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173], struck out item 322 “Demonstration project—rail crossings”.
 
-    1983—[Pub. L. 97–449, § 5(d)(2)][/us/pl/97/449/s5/d/2], Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442], struck out item 303 “Bureau organization”.
+    1983—[Pub. L. 97–449][/us/pl/97/449], § 5(d)(2), Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442], struck out item 303 “Bureau organization”.
 
-    1973—[Pub. L. 93–87, title I][/us/pl/93/87], §§ 145(b), 162(b), Aug. 13, 1973, [87 Stat. 273][/us/stat/87/273], 280, added items 323 and 324.
+    1973—[Pub. L. 93–87, title I][/us/pl/93/87/tI], §§ 145(b), 162(b), Aug. 13, 1973, [87 Stat. 273][/us/stat/87/273], 280, added items 323 and 324.
 
-    1970—[Pub. L. 91–605, title I, § 115(b)][/us/pl/91/605/s115/b], title II, § 205(b), Dec. 31, 1970, [84 Stat. 1723][/us/stat/84/1723], 1743, added items 321 and 322.
+    1970—[Pub. L. 91–605, title I][/us/pl/91/605/tI], § 115(b), title II, § 205(b), Dec. 31, 1970, [84 Stat. 1723][/us/stat/84/1723], 1743, added items 321 and 322.
 
-    1966—[Pub. L. 89–564, title I, § 102(b)(2)][/us/pl/89/564/s102/b/2], Sept. 9, 1966, [80 Stat. 735][/us/stat/80/735], struck out item 313 relating to Highway Safety Conference.
+    1966—[Pub. L. 89–564, title I][/us/pl/89/564/tI], § 102(b)(2), Sept. 9, 1966, [80 Stat. 735][/us/stat/80/735], struck out item 313 relating to Highway Safety Conference.
 
-    1965—[Pub. L. 89–285, title III, § 301(b)][/us/pl/89/285/s301/b], Oct. 22, 1965, [79 Stat. 1032][/us/stat/79/1032], inserted “and scenic enhancement” after “Landscaping” in item 319.
+    1965—[Pub. L. 89–285, title III][/us/pl/89/285/tIII], § 301(b), Oct. 22, 1965, [79 Stat. 1032][/us/stat/79/1032], inserted “and scenic enhancement” after “Landscaping” in item 319.
 
 ----------
 
@@ -298,29 +298,29 @@
 ----------
 ----------
 
-[/us/pl/114/94/s1309/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1309%2Fd
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1397
-[/us/pl/112/141/s1519/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F1%2FC
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
-[/us/pl/112/141/s1313/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1313%2Fi
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F547
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1464
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/102/240/s1034/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1034%2Fb
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1978
-[/us/pl/100/17/s133/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fe%2F1
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F173
-[/us/pl/97/449/s5/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs5%2Fd%2F2
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2442
-[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F273
-[/us/pl/91/605/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs115%2Fb
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1723
-[/us/pl/89/564/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs102%2Fb%2F2
+[/us/pl/89/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtI
 [/us/stat/80/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F735
-[/us/pl/89/285/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2Fs301%2Fb
+[/us/pl/89/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2FtIII
 [/us/stat/79/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1032
 
 

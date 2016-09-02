@@ -55,7 +55,7 @@
 
     The requirements under this section shall apply to all contracts eligible for assistance under this chapter for a project carried out within the scope of the applicable finding, determination, or decision under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), regardless of the funding source of such contracts, if at least 1 contract for the project is funded with amounts made available to carry out this title.
 
-(Added and amended [Pub. L. 109–59, title I, § 1903(a)][/us/pl/109/59/s1903/a], (c), Aug. 10, 2005, [119 Stat. 1464][/us/stat/119/1464], 1465; [Pub. L. 112–141, div. A, title I, § 1518][/us/pl/112/141/s1518], July 6, 2012, [126 Stat. 574][/us/stat/126/574].)
+(Added and amended [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1903(a), (c), Aug. 10, 2005, [119 Stat. 1464][/us/stat/119/1464], 1465; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1518, July 6, 2012, [126 Stat. 574][/us/stat/126/574].)
 
  __References in Text__ 
 
@@ -67,23 +67,23 @@
 
  __Codification__ 
 
-    Section, as added by [Pub. L. 109–59][/us/pl/109/59], consists of text of [Pub. L. 97–424, title I, § 165][/us/pl/97/424/s165], Jan. 6, 1983, [96 Stat. 2136][/us/stat/96/2136]; [Pub. L. 98–229, § 10][/us/pl/98/229/s10], Mar. 9, 1984, [98 Stat. 57][/us/stat/98/57]; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171], 241; [Pub. L. 102–240, title I, § 1048][/us/pl/102/240/s1048], title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1999][/us/stat/105/1999], 2088; [Pub. L. 103–272, § 4(r)][/us/pl/103/272/s4/r], July 5, 1994, [108 Stat. 1371][/us/stat/108/1371]; [Pub. L. 103–429, § 7(a)(3)(E)][/us/pl/103/429/s7/a/3/E], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389], which was formerly set out as a note under [section 101 of this title][/us/usc/t23/s101], and was repealed by [Pub. L. 109–59, title I, § 1903(d)][/us/pl/109/59/s1903/d], Aug. 10, 2005, [119 Stat. 1465][/us/stat/119/1465].
+    Section, as added by [Pub. L. 109–59][/us/pl/109/59], consists of text of [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 165, Jan. 6, 1983, [96 Stat. 2136][/us/stat/96/2136]; [Pub. L. 98–229][/us/pl/98/229], § 10, Mar. 9, 1984, [98 Stat. 57][/us/stat/98/57]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], §§ 133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171], 241; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1048, title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1999][/us/stat/105/1999], 2088; [Pub. L. 103–272][/us/pl/103/272], § 4(r), July 5, 1994, [108 Stat. 1371][/us/stat/108/1371]; [Pub. L. 103–429][/us/pl/103/429], § 7(a)(3)(E), Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389], which was formerly set out as a note under [section 101 of this title][/us/usc/t23/s101], and was repealed by [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1903(d), Aug. 10, 2005, [119 Stat. 1465][/us/stat/119/1465].
 
  __Prior Provisions__ 
 
-    A prior section 313, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 915][/us/stat/72/915], authorized the Secretary to cooperate with State highway departments and other agencies in the promotion of highway safety and authorized the expenditure of $150,000 out of the administrative funds made available in accordance with [section 104(a) of this title][/us/usc/t23/s104/a] for the purposes of this section, prior to repeal by [Pub. L. 89–564, title I, § 102(a)][/us/pl/89/564/s102/a], Sept. 9, 1966, [80 Stat. 734][/us/stat/80/734]. See section 401 et seq. of this title.
+    A prior section 313, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 915][/us/stat/72/915], authorized the Secretary to cooperate with State highway departments and other agencies in the promotion of highway safety and authorized the expenditure of $150,000 out of the administrative funds made available in accordance with [section 104(a) of this title][/us/usc/t23/s104/a] for the purposes of this section, prior to repeal by [Pub. L. 89–564, title I][/us/pl/89/564/tI], § 102(a), Sept. 9, 1966, [80 Stat. 734][/us/stat/80/734]. See section 401 et seq. of this title.
 
  __Amendments__ 
 
     2012—Subsec. (g). [Pub. L. 112–141][/us/pl/112/141] added subsec. (g).
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 1903(c)(1)][/us/pl/109/59/s1903/c/1], substituted “to carry out the Surface Transportation Assistance Act of 1982 ([96 Stat. 2097][/us/stat/96/2097]) or this title” for “by this Act or by any Act amended by this Act or, after the date of enactment of this Act, any funds authorized to be appropriated to carry out this Act, title 23, United States Code, or the Surface Transportation Assistance Act of 1978”.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 1903(c)(1), substituted “to carry out the Surface Transportation Assistance Act of 1982 ([96 Stat. 2097][/us/stat/96/2097]) or this title” for “by this Act or by any Act amended by this Act or, after the date of enactment of this Act, any funds authorized to be appropriated to carry out this Act, title 23, United States Code, or the Surface Transportation Assistance Act of 1978”.
 
-    Subsec. (b)(3), (4). [Pub. L. 109–59, § 1903(c)(2)][/us/pl/109/59/s1903/c/2], redesignated par. (4) as (3).
+    Subsec. (b)(3), (4). [Pub. L. 109–59][/us/pl/109/59], § 1903(c)(2), redesignated par. (4) as (3).
 
-    Subsec. (d). [Pub. L. 109–59, § 1903(c)(3)][/us/pl/109/59/s1903/c/3], substituted “the Surface Transportation Assistance Act of 1982 ([96 Stat. 2097][/us/stat/96/2097]) or this title that” for “this Act, the Surface Transportation Assistance Act of 1978 or title 23, United States Code, which”.
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 1903(c)(3), substituted “the Surface Transportation Assistance Act of 1982 ([96 Stat. 2097][/us/stat/96/2097]) or this title that” for “this Act, the Surface Transportation Assistance Act of 1978 or title 23, United States Code, which”.
 
-    Subsec. (e) to (g). [Pub. L. 109–59, § 1903(c)(4)][/us/pl/109/59/s1903/c/4], (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of [section 165 of Pub. L. 97–424][/us/pl/97/424/s165], as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, [Pub. L. 95–599][/us/pl/95/599]. The second subsec. (e) based on subsec. (e) of [section 165 of Pub. L. 97–424][/us/pl/97/424/s165], as added by [Pub. L. 102–240, § 1048(b)][/us/pl/102/240/s1048/b], related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
+    Subsec. (e) to (g). [Pub. L. 109–59][/us/pl/109/59], § 1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of [section 165 of Pub. L. 97–424][/us/pl/97/424/s165], as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, [Pub. L. 95–599][/us/pl/95/599]. The second subsec. (e) based on subsec. (e) of [section 165 of Pub. L. 97–424][/us/pl/97/424/s165], as added by [Pub. L. 102–240][/us/pl/102/240], § 1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -91,25 +91,25 @@
 
  __Buy America Waiver Notification and Annual Reports__ 
 
-[Pub. L. 114–113, div. L, title I, § 122][/us/pl/114/113/s122], Dec. 18, 2015, [129 Stat. 2847][/us/stat/129/2847], provided that: 
+[Pub. L. 114–113, div. L, title I][/us/pl/114/113/dL/tI], § 122, Dec. 18, 2015, [129 Stat. 2847][/us/stat/129/2847], provided that: 
 
 > “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. K, title I, § 122][/us/pl/113/235/s122], Dec. 16, 2014, [128 Stat. 2708][/us/stat/128/2708].
+    [Pub. L. 113–235, div. K, title I][/us/pl/113/235/dK/tI], § 122, Dec. 16, 2014, [128 Stat. 2708][/us/stat/128/2708].
 
-    [Pub. L. 113–76, div. L, title I, § 122][/us/pl/113/76/s122], Jan. 17, 2014, [128 Stat. 586][/us/stat/128/586].
+    [Pub. L. 113–76, div. L, title I][/us/pl/113/76/dL/tI], § 122, Jan. 17, 2014, [128 Stat. 586][/us/stat/128/586].
 
-    [Pub. L. 112–55, div. C, title I, § 122][/us/pl/112/55/s122], Nov. 18, 2011, [125 Stat. 654][/us/stat/125/654].
+    [Pub. L. 112–55, div. C, title I][/us/pl/112/55/dC/tI], § 122, Nov. 18, 2011, [125 Stat. 654][/us/stat/125/654].
 
-    [Pub. L. 111–117, div. A, title I, § 123][/us/pl/111/117/s123], Dec. 16, 2009, [123 Stat. 3048][/us/stat/123/3048].
+    [Pub. L. 111–117, div. A, title I][/us/pl/111/117/dA/tI], § 123, Dec. 16, 2009, [123 Stat. 3048][/us/stat/123/3048].
 
-    [Pub. L. 111–8, div. I, title I, § 126][/us/pl/111/8/s126], Mar. 11, 2009, [123 Stat. 928][/us/stat/123/928].
+    [Pub. L. 111–8, div. I, title I][/us/pl/111/8/dI/tI], § 126, Mar. 11, 2009, [123 Stat. 928][/us/stat/123/928].
 
-    [Pub. L. 110–161, div. K, title I, § 130][/us/pl/110/161/s130], Dec. 26, 2007, [121 Stat. 2389][/us/stat/121/2389].
+    [Pub. L. 110–161, div. K, title I][/us/pl/110/161/dK/tI], § 130, Dec. 26, 2007, [121 Stat. 2389][/us/stat/121/2389].
 
-[Pub. L. 110–244, title I, § 117][/us/pl/110/244/s117], June 6, 2008, [122 Stat. 1607][/us/stat/122/1607], provided that:
+[Pub. L. 110–244, title I][/us/pl/110/244/tI], § 117, June 6, 2008, [122 Stat. 1607][/us/stat/122/1607], provided that:
 
 >     “(a) __Waiver Notification.—__ 
 
@@ -139,9 +139,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/96/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2097
 [/us/stat/96/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2097
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/109/59/s1903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1903%2Fa
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1464
-[/us/pl/112/141/s1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1518
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F574
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/stat/96/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2097
@@ -153,55 +153,55 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/97/424/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs165
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2136
-[/us/pl/98/229/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F229%2Fs10
+[/us/pl/98/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F229
 [/us/stat/98/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F57
-[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F171
-[/us/pl/102/240/s1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1048
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1999
-[/us/pl/103/272/s4/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fr
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1371
-[/us/pl/103/429/s7/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fa%2F3%2FE
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4389
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s1903/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1903%2Fd
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1465
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F915
 [/us/usc/t23/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fa
-[/us/pl/89/564/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs102%2Fa
+[/us/pl/89/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2FtI
 [/us/stat/80/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F734
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s1903/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1903%2Fc%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/stat/96/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2097
-[/us/pl/109/59/s1903/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1903%2Fc%2F2
-[/us/pl/109/59/s1903/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1903%2Fc%2F3
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/stat/96/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2097
-[/us/pl/109/59/s1903/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1903%2Fc%2F4
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/97/424/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs165
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
 [/us/pl/97/424/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs165
-[/us/pl/102/240/s1048/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1048%2Fb
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/113/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122
+[/us/pl/114/113/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtI
 [/us/stat/129/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2847
-[/us/pl/113/235/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs122
+[/us/pl/113/235/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdK%2FtI
 [/us/stat/128/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2708
-[/us/pl/113/76/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs122
+[/us/pl/113/76/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtI
 [/us/stat/128/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F586
-[/us/pl/112/55/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs122
+[/us/pl/112/55/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdC%2FtI
 [/us/stat/125/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F654
-[/us/pl/111/117/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs123
+[/us/pl/111/117/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdA%2FtI
 [/us/stat/123/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3048
-[/us/pl/111/8/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs126
+[/us/pl/111/8/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdI%2FtI
 [/us/stat/123/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F928
-[/us/pl/110/161/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs130
+[/us/pl/110/161/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdK%2FtI
 [/us/stat/121/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2389
-[/us/pl/110/244/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs117
+[/us/pl/110/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtI
 [/us/stat/122/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1607
 [/us/usc/t23/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs313%2Fb
 [/us/usc/t23/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs313%2Fb

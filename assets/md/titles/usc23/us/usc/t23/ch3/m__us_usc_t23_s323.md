@@ -77,7 +77,7 @@
 
         (3) any property acquired by gift or donation shall be revested in the grantor or successors in interest if such property is not required for the alignment chosen after public hearings, if required, and completion of the environmental document.
 
-(Added [Pub. L. 93–87, title I, § 145(a)][/us/pl/93/87/s145/a], Aug. 13, 1973, [87 Stat. 273][/us/stat/87/273]; amended [Pub. L. 93–643, § 112][/us/pl/93/643/s112], Jan. 4, 1975, [88 Stat. 2285][/us/stat/88/2285]; [Pub. L. 100–17, title I, § 146(a)][/us/pl/100/17/s146/a], Apr. 2, 1987, [101 Stat. 179][/us/stat/101/179]; [Pub. L. 104–59, title III, § 322][/us/pl/104/59/s322], Nov. 28, 1995, [109 Stat. 591][/us/stat/109/591]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1212(a)(2)(A)(i), 1301(b)–(d)(1), June 9, 1998, [112 Stat. 193][/us/stat/112/193], 225, 226; [Pub. L. 109–59, title I, § 1902][/us/pl/109/59/s1902], Aug. 10, 2005, [119 Stat. 1464][/us/stat/119/1464].)
+(Added [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 145(a), Aug. 13, 1973, [87 Stat. 273][/us/stat/87/273]; amended [Pub. L. 93–643][/us/pl/93/643], § 112, Jan. 4, 1975, [88 Stat. 2285][/us/stat/88/2285]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 146(a), Apr. 2, 1987, [101 Stat. 179][/us/stat/101/179]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 322, Nov. 28, 1995, [109 Stat. 591][/us/stat/109/591]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], §§ 1212(a)(2)(A)(i), 1301(b)–(d)(1), June 9, 1998, [112 Stat. 193][/us/stat/112/193], 225, 226; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1902, Aug. 10, 2005, [119 Stat. 1464][/us/stat/119/1464].)
 
  __References in Text__ 
 
@@ -85,27 +85,27 @@
 
  __Amendments__ 
 
-    2005—Subsec. (c). [Pub. L. 109–59, § 1902(1)][/us/pl/109/59/s1902/1], inserted “, or a local government from offering to donate funds, materials, or services performed by local government employees,” before “in connection with a project”.
+    2005—Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 1902(1), inserted “, or a local government from offering to donate funds, materials, or services performed by local government employees,” before “in connection with a project”.
 
-    Subsec. (e). [Pub. L. 109–59, § 1902(2)][/us/pl/109/59/s1902/2], struck out heading and text of subsec. (e). Text read as follows: “A contribution by a unit of local government of real property, funds, or material in connection with a project eligible for assistance under this title shall be credited against the State share of the project at the fair market value of the real property, funds, or material.”
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 1902(2), struck out heading and text of subsec. (e). Text read as follows: “A contribution by a unit of local government of real property, funds, or material in connection with a project eligible for assistance under this title shall be credited against the State share of the project at the fair market value of the real property, funds, or material.”
 
-    1998—[Pub. L. 105–178, § 1301(d)(1)][/us/pl/105/178/s1301/d/1], substituted “Donations and credits” for “Donations” in section catchline.
+    1998—[Pub. L. 105–178][/us/pl/105/178], § 1301(d)(1), substituted “Donations and credits” for “Donations” in section catchline.
 
-    Subsec. (b). [Pub. L. 105–178, § 1301(b)(1)][/us/pl/105/178/s1301/b/1], substituted “Acquired” for “Donated” in heading.
+    Subsec. (b). [Pub. L. 105–178][/us/pl/105/178], § 1301(b)(1), substituted “Acquired” for “Donated” in heading.
 
-    Subsec. (b)(1), (2). [Pub. L. 105–178, § 1301(b)(2)][/us/pl/105/178/s1301/b/2], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (b)(1), (2). [Pub. L. 105–178][/us/pl/105/178], § 1301(b)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) General rule.—Notwithstanding any provision of this title, the State matching share for a project with respect to which Federal assistance is provided out of the Highway Trust Fund (other than the Mass Transit Account) may be credited by the fair market value of land incorporated into the project and lawfully donated to the State after the date of the enactment of this subsection.
 
     “(2) Establishment of fair market value.—The fair market value of the donated land shall be established as determined by the Secretary. Fair market value shall not include increases and decreases in the value of donated property caused by the project. For purposes of this subsection, the fair market value of donated land shall be established as of the date the donation becomes effective or when equitable title to the land vests in the State, whichever is earlier.”
 
-    Subsec. (b)(3). [Pub. L. 105–178, § 1301(b)(3)][/us/pl/105/178/s1301/b/3], substituted “agency of the Federal Government” for “agency of a Federal, State, or local government”.
+    Subsec. (b)(3). [Pub. L. 105–178][/us/pl/105/178], § 1301(b)(3), substituted “agency of the Federal Government” for “agency of a Federal, State, or local government”.
 
-    Subsec. (b)(4). [Pub. L. 105–178, § 1301(b)(4)][/us/pl/105/178/s1301/b/4], struck out “to which the donation is applied” before period at end.
+    Subsec. (b)(4). [Pub. L. 105–178][/us/pl/105/178], § 1301(b)(4), struck out “to which the donation is applied” before period at end.
 
-    Subsec. (c). [Pub. L. 105–178, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], substituted “State transportation department” for “State highway department”.
+    Subsec. (c). [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-    Subsec. (e). [Pub. L. 105–178, § 1301(c)][/us/pl/105/178/s1301/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–178][/us/pl/105/178], § 1301(c), added subsec. (e).
 
     1995—Subsecs. (c), (d). [Pub. L. 104–59][/us/pl/104/59] added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -120,30 +120,30 @@
 ----------
 ----------
 
-[/us/pl/93/87/s145/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs145%2Fa
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F273
-[/us/pl/93/643/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs112
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2285
-[/us/pl/100/17/s146/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs146%2Fa
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F179
-[/us/pl/104/59/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs322
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F591
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/109/59/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1902
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1464
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/109/59/s1902/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1902%2F1
-[/us/pl/109/59/s1902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1902%2F2
-[/us/pl/105/178/s1301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1301%2Fd%2F1
-[/us/pl/105/178/s1301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1301%2Fb%2F1
-[/us/pl/105/178/s1301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1301%2Fb%2F2
-[/us/pl/105/178/s1301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1301%2Fb%2F3
-[/us/pl/105/178/s1301/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1301%2Fb%2F4
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
-[/us/pl/105/178/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1301%2Fc
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643

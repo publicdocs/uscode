@@ -45,15 +45,15 @@
 
     For purposes of this section, the terms “primary system” and “Federal-aid primary system” mean any highway that is on the National Highway System, which includes the Interstate Highway System.
 
-(Added [Pub. L. 89–285, title II, § 201][/us/pl/89/285/s201], Oct. 22, 1965, [79 Stat. 1030][/us/stat/79/1030]; amended [Pub. L. 89–574, § 8(a)][/us/pl/89/574/s8/a], Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; [Pub. L. 90–495, § 6(e)][/us/pl/90/495/s6/e], Aug. 23, 1968, [82 Stat. 818][/us/stat/82/818]; [Pub. L. 91–605, title I, § 122(b)][/us/pl/91/605/s122/b], Dec. 31, 1970, [84 Stat. 1726][/us/stat/84/1726]; [Pub. L. 93–643, § 110][/us/pl/93/643/s110], Jan. 4, 1975, [88 Stat. 2285][/us/stat/88/2285]; [Pub. L. 112–141, div. A, title I, § 1404(b)][/us/pl/112/141/s1404/b], July 6, 2012, [126 Stat. 557][/us/stat/126/557]; [Pub. L. 114–94, div. A, title I, § 1104(e)(4)][/us/pl/114/94/s1104/e/4], Dec. 4, 2015, [129 Stat. 1332][/us/stat/129/1332].)
+(Added [Pub. L. 89–285, title II][/us/pl/89/285/tII], § 201, Oct. 22, 1965, [79 Stat. 1030][/us/stat/79/1030]; amended [Pub. L. 89–574][/us/pl/89/574], § 8(a), Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; [Pub. L. 90–495][/us/pl/90/495], § 6(e), Aug. 23, 1968, [82 Stat. 818][/us/stat/82/818]; [Pub. L. 91–605, title I][/us/pl/91/605/tI], § 122(b), Dec. 31, 1970, [84 Stat. 1726][/us/stat/84/1726]; [Pub. L. 93–643][/us/pl/93/643], § 110, Jan. 4, 1975, [88 Stat. 2285][/us/stat/88/2285]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1404(b), July 6, 2012, [126 Stat. 557][/us/stat/126/557]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1104(e)(4), Dec. 4, 2015, [129 Stat. 1332][/us/stat/129/1332].)
 
  __Amendments__ 
 
     2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94] substituted “paragraphs (1) through (6) of section 104(b)” for “paragraphs (1) through (5) of section 104(b)”.
 
-    2012—Subsec. (b). [Pub. L. 112–141, § 1404(b)(1)][/us/pl/112/141/s1404/b/1], substituted “7 percent” for “10 per centum” and “paragraphs (1) through (5) of section 104(b)” for “[section 104 of this title][/us/usc/t23/s104]”.
+    2012—Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 1404(b)(1), substituted “7 percent” for “10 per centum” and “paragraphs (1) through (5) of section 104(b)” for “[section 104 of this title][/us/usc/t23/s104]”.
 
-    Subsec. (n). [Pub. L. 112–141, § 1404(b)(2)][/us/pl/112/141/s1404/b/2], added subsec. (n).
+    Subsec. (n). [Pub. L. 112–141][/us/pl/112/141], § 1404(b)(2), added subsec. (n).
 
     1975—Subsec. (j). [Pub. L. 93–643][/us/pl/93/643] substituted provision that compensation shall be paid the owner for the relocation, removal, or disposal of junkyards lawfully established under State law, for provision relating to payment of just compensation for relocation, removal, or disposal of junkyards (1) lawfully in existence on Oct. 22, 1965, (2) lawfully along any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully established on or after Jan. 1, 1968.
 
@@ -90,24 +90,24 @@
 ----------
 ----------
 
-[/us/pl/89/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2Fs201
+[/us/pl/89/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285%2FtII
 [/us/stat/79/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1030
-[/us/pl/89/574/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs8%2Fa
+[/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/stat/80/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F768
-[/us/pl/90/495/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs6%2Fe
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F818
-[/us/pl/91/605/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs122%2Fb
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1726
-[/us/pl/93/643/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643%2Fs110
+[/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/stat/88/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2285
-[/us/pl/112/141/s1404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fb
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F557
-[/us/pl/114/94/s1104/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1104%2Fe%2F4
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1332
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s1404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fb%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/112/141/s1404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fb%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495

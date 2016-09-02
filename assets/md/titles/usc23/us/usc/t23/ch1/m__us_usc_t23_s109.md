@@ -147,85 +147,85 @@
 
     The Secretary shall not approve any pavement markings project that includes the use of glass beads containing more than 200 parts per million of arsenic or lead, as determined in accordance with Environmental Protection Agency testing methods 3052, 6010B, or 6010C.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 894][/us/stat/72/894]; [Pub. L. 88–157, § 4][/us/pl/88/157/s4], Oct. 24, 1963, [77 Stat. 277][/us/stat/77/277]; [Pub. L. 89–574][/us/pl/89/574], §§ 5(a), 14, Sept. 13, 1966, [80 Stat. 767][/us/stat/80/767], 771; [Pub. L. 91–605, title I, § 136(a)][/us/pl/91/605/s136/a], (b), Dec. 31, 1970, [84 Stat. 1734][/us/stat/84/1734]; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 114, 152(2), 156, Aug. 13, 1973, [87 Stat. 257][/us/stat/87/257], 276, 277; [Pub. L. 95–599, title I][/us/pl/95/599], §§ 113, 116(d), 141(f), (g), Nov. 6, 1978, [92 Stat. 2696][/us/stat/92/2696], 2699, 2711; [Pub. L. 96–106, § 3][/us/pl/96/106/s3], Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 97–424, title I, § 110(a)][/us/pl/97/424/s110/a], Jan. 6, 1983, [96 Stat. 2105][/us/stat/96/2105]; [Pub. L. 102–240, title I, § 1016(c)][/us/pl/102/240/s1016/c]–(f)(1), Dec. 18, 1991, [105 Stat. 1946][/us/stat/105/1946]; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 304, 305(a), Nov. 28, 1995, [109 Stat. 579][/us/stat/109/579], 580; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1202(c), 1212(a)(2)(A), 1306, June 9, 1998, [112 Stat. 169][/us/stat/112/169], 193, 229; [Pub. L. 109–59, title I, § 1110(a)][/us/pl/109/59/s1110/a], (c), title VI, § 6008, Aug. 10, 2005, [119 Stat. 1170][/us/stat/119/1170], 1171, 1874; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1504, 1519(c)(3), formerly § 1519(c)(4), July 6, 2012, [126 Stat. 564][/us/stat/126/564], 575, renumbered § 1519(c)(3), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I, § 1404(a)][/us/pl/114/94/s1404/a], Dec. 4, 2015, [129 Stat. 1409][/us/stat/129/1409].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 894][/us/stat/72/894]; [Pub. L. 88–157][/us/pl/88/157], § 4, Oct. 24, 1963, [77 Stat. 277][/us/stat/77/277]; [Pub. L. 89–574][/us/pl/89/574], §§ 5(a), 14, Sept. 13, 1966, [80 Stat. 767][/us/stat/80/767], 771; [Pub. L. 91–605, title I][/us/pl/91/605/tI], § 136(a), (b), Dec. 31, 1970, [84 Stat. 1734][/us/stat/84/1734]; [Pub. L. 93–87, title I][/us/pl/93/87/tI], §§ 114, 152(2), 156, Aug. 13, 1973, [87 Stat. 257][/us/stat/87/257], 276, 277; [Pub. L. 95–599, title I][/us/pl/95/599/tI], §§ 113, 116(d), 141(f), (g), Nov. 6, 1978, [92 Stat. 2696][/us/stat/92/2696], 2699, 2711; [Pub. L. 96–106][/us/pl/96/106], § 3, Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 97–424, title I][/us/pl/97/424/tI], § 110(a), Jan. 6, 1983, [96 Stat. 2105][/us/stat/96/2105]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1016(c)–(f)(1), Dec. 18, 1991, [105 Stat. 1946][/us/stat/105/1946]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], §§ 304, 305(a), Nov. 28, 1995, [109 Stat. 579][/us/stat/109/579], 580; [Pub. L. 105–178, title I][/us/pl/105/178/tI], §§ 1202(c), 1212(a)(2)(A), 1306, June 9, 1998, [112 Stat. 169][/us/stat/112/169], 193, 229; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1110(a), (c), title VI, § 6008, Aug. 10, 2005, [119 Stat. 1170][/us/stat/119/1170], 1171, 1874; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], §§ 1504, 1519(c)(3), formerly § 1519(c)(4), July 6, 2012, [126 Stat. 564][/us/stat/126/564], 575, renumbered § 1519(c)(3), [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d)(5)(B), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1404(a), Dec. 4, 2015, [129 Stat. 1409][/us/stat/129/1409].)
 
  __Amendments__ 
 
-    2015—Subsec. (c)(1). [Pub. L. 114–94, § 1404(a)(1)(A)(i)][/us/pl/114/94/s1404/a/1/A/i], substituted “shall consider” for “may take into account” in introductory provisions.
+    2015—Subsec. (c)(1). [Pub. L. 114–94][/us/pl/114/94], § 1404(a)(1)(A)(i), substituted “shall consider” for “may take into account” in introductory provisions.
 
-    Subsec. (c)(1)(C), (D). [Pub. L. 114–94, § 1404(a)(1)(A)(ii)][/us/pl/114/94/s1404/a/1/A/ii]–(iv), added subpar. (C) and redesignated former subpar. (C) as (D).
+    Subsec. (c)(1)(C), (D). [Pub. L. 114–94][/us/pl/114/94], § 1404(a)(1)(A)(ii)–(iv), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    Subsec. (c)(2)(D) to (F). [Pub. L. 114–94, § 1404(a)(1)(B)][/us/pl/114/94/s1404/a/1/B], added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+    Subsec. (c)(2)(D) to (F). [Pub. L. 114–94][/us/pl/114/94], § 1404(a)(1)(B), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
-    Subsec. (f). [Pub. L. 114–94, § 1404(a)(2)][/us/pl/114/94/s1404/a/2], inserted “pedestrian walkways,” after “bikeways,”.
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 1404(a)(2), inserted “pedestrian walkways,” after “bikeways,”.
 
-    2012—Subsec. (q). [Pub. L. 112–141, § 1519(c)(3)][/us/pl/112/141/s1519/c/3], formerly § 1519(c)(4), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], struck out “in accordance with section 303 or” after “system established”.
+    2012—Subsec. (q). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(3), formerly § 1519(c)(4), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), struck out “in accordance with section 303 or” after “system established”.
 
-    Subsec. (r). [Pub. L. 112–141, § 1504][/us/pl/112/141/s1504], added subsec. (r).
+    Subsec. (r). [Pub. L. 112–141][/us/pl/112/141], § 1504, added subsec. (r).
 
-    2005—Subsec. (c)(2). [Pub. L. 109–59, § 6008][/us/pl/109/59/s6008], inserted dash after “Secretary shall consider” and subpar. (A) designation before “the results”, substituted semicolon for period, and added subpars. (B) to (D).
+    2005—Subsec. (c)(2). [Pub. L. 109–59][/us/pl/109/59], § 6008, inserted dash after “Secretary shall consider” and subpar. (A) designation before “the results”, substituted semicolon for period, and added subpars. (B) to (D).
 
-    Subsec. (e). [Pub. L. 109–59, § 1110(a)][/us/pl/109/59/s1110/a], inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 1110(a), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-    Subsec. (g). [Pub. L. 109–59, § 1110(c)][/us/pl/109/59/s1110/c], substituted “Not later than January 30, 1971, the Secretary shall issue” for “The Secretary shall issue within 30 days after the day of enactment of the Federal-Aid Highway Act of 1970”.
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 1110(c), substituted “Not later than January 30, 1971, the Secretary shall issue” for “The Secretary shall issue within 30 days after the day of enactment of the Federal-Aid Highway Act of 1970”.
 
-    1998—Subsecs. (b), (c)(2). [Pub. L. 105–178, § 1212(a)(2)(A)(ii)][/us/pl/105/178/s1212/a/2/A/ii], substituted “State transportation departments” for “State highway departments”.
+    1998—Subsecs. (b), (c)(2). [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(ii), substituted “State transportation departments” for “State highway departments”.
 
-    Subsec. (d). [Pub. L. 105–178, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], substituted “State transportation department” for “State highway department”.
+    Subsec. (d). [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-    Subsec. (m). [Pub. L. 105–178, § 1306(a)][/us/pl/105/178/s1306/a], redesignated subsec. (n) as (m) and struck out former subsec. (m) which read as follows: “The Secretary shall issue guidelines describing the criteria applicable to the Interstate System in order to insure that the condition of these routes is maintained at the level required by the purposes for which they were designed. The initial guidelines shall be issued no later than October 1, 1979.”
+    Subsec. (m). [Pub. L. 105–178][/us/pl/105/178], § 1306(a), redesignated subsec. (n) as (m) and struck out former subsec. (m) which read as follows: “The Secretary shall issue guidelines describing the criteria applicable to the Interstate System in order to insure that the condition of these routes is maintained at the level required by the purposes for which they were designed. The initial guidelines shall be issued no later than October 1, 1979.”
 
-    Subsec. (n). [Pub. L. 105–178, § 1306(a)(2)][/us/pl/105/178/s1306/a/2], redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
+    Subsec. (n). [Pub. L. 105–178][/us/pl/105/178], § 1306(a)(2), redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
 
-    [Pub. L. 105–178, § 1202(c)][/us/pl/105/178/s1202/c], inserted heading and amended text of subsec. (n) generally. Prior to amendment, text read as follows: “The Secretary shall not approve any project under this title that will result in the severance or destruction of an existing major route for nonmotorized transportation traffic and light motorcycles, unless such project provides a reasonably alternate route or such a route exists.”
+    [Pub. L. 105–178][/us/pl/105/178], § 1202(c), inserted heading and amended text of subsec. (n) generally. Prior to amendment, text read as follows: “The Secretary shall not approve any project under this title that will result in the severance or destruction of an existing major route for nonmotorized transportation traffic and light motorcycles, unless such project provides a reasonably alternate route or such a route exists.”
 
-    Subsecs. (o) to (q). [Pub. L. 105–178, § 1306(a)(2)][/us/pl/105/178/s1306/a/2], (b), added subsec. (q) and redesignated former subsecs. (p) and (q) as (o) and (p), respectively. Former subsec. (o) redesignated (n).
+    Subsecs. (o) to (q). [Pub. L. 105–178][/us/pl/105/178], § 1306(a)(2), (b), added subsec. (q) and redesignated former subsecs. (p) and (q) as (o) and (p), respectively. Former subsec. (o) redesignated (n).
 
-    1995—Subsec. (a). [Pub. L. 104–59, § 304(1)][/us/pl/104/59/s304/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary shall not approve plans and specifications for proposed highway projects under this chapter if they fail to provide for a facility (1) that will adequately meet the existing and probable future traffic needs and conditions in a manner conducive to safety, durability, and economy of maintenance; (2) that will be designed and constructed in accordance with standards best suited to accomplish the foregoing objectives and to conform to the particular needs of each locality.”
+    1995—Subsec. (a). [Pub. L. 104–59][/us/pl/104/59], § 304(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary shall not approve plans and specifications for proposed highway projects under this chapter if they fail to provide for a facility (1) that will adequately meet the existing and probable future traffic needs and conditions in a manner conducive to safety, durability, and economy of maintenance; (2) that will be designed and constructed in accordance with standards best suited to accomplish the foregoing objectives and to conform to the particular needs of each locality.”
 
-    Subsec. (c). [Pub. L. 104–59, § 304(2)][/us/pl/104/59/s304/2], added subsec. (c) and struck out former subsec. (c) which read as follows:
+    Subsec. (c). [Pub. L. 104–59][/us/pl/104/59], § 304(2), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
     “(c) Design and Construction Standards for NHS.—Design and construction standards to be adopted for new construction on the National Highway System, for reconstruction on the National Highway System, and for resurfacing, restoring, and rehabilitating multilane limited access highways on the National Highway System shall be those approved by the Secretary in cooperation with the State highway departments. All eligible work for such projects shall meet or exceed such standards.”
 
-    Subsec. (j). [Pub. L. 104–59, § 305(a)][/us/pl/104/59/s305/a], substituted “plan for—” and pars. (1) and (2) for “plan for the implementation of any ambient air quality standard for any air quality control region designated pursuant to the Clean Air Act, as amended.”
+    Subsec. (j). [Pub. L. 104–59][/us/pl/104/59], § 305(a), substituted “plan for—” and pars. (1) and (2) for “plan for the implementation of any ambient air quality standard for any air quality control region designated pursuant to the Clean Air Act, as amended.”
 
-    Subsec. (q). [Pub. L. 104–59, § 304(3)][/us/pl/104/59/s304/3], added subsec. (q) and struck out former subsec. (q) which read as follows:
+    Subsec. (q). [Pub. L. 104–59][/us/pl/104/59], § 304(3), added subsec. (q) and struck out former subsec. (q) which read as follows:
 
     “(q) Historic and Scenic Values.—If a proposed project under sections 103(e)(4), 133, or 144 involves a historic facility or is located in an area of historic or scenic value, the Secretary may approve such project notwithstanding the requirements of subsections (a) and (b) of this section and section 133(c) if such project is designed to standards that allow for the preservation of such historic or scenic value and such project is designed with mitigation measures to allow preservation of such value and ensure safe use of the facility.”
 
-    1991—Subsec. (a). [Pub. L. 102–240, § 1016(f)(1)(A)][/us/pl/102/240/s1016/f/1/A], substituted “highway projects under this chapter” for “projects on any Federal-aid system”.
+    1991—Subsec. (a). [Pub. L. 102–240][/us/pl/102/240], § 1016(f)(1)(A), substituted “highway projects under this chapter” for “projects on any Federal-aid system”.
 
-    Subsec. (c). [Pub. L. 102–240, § 1016(c)][/us/pl/102/240/s1016/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Projects on the Federal-aid secondary system in which Federal funds participate shall be constructed according to specifications that will provide all-weather service and permit maintenance at a reasonable cost.”
+    Subsec. (c). [Pub. L. 102–240][/us/pl/102/240], § 1016(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Projects on the Federal-aid secondary system in which Federal funds participate shall be constructed according to specifications that will provide all-weather service and permit maintenance at a reasonable cost.”
 
-    Subsec. (l)(1). [Pub. L. 102–240, § 1016(f)(1)(B)][/us/pl/102/240/s1016/f/1/B], substituted “highway” for “system” in introductory provisions.
+    Subsec. (l)(1). [Pub. L. 102–240][/us/pl/102/240], § 1016(f)(1)(B), substituted “highway” for “system” in introductory provisions.
 
-    Subsecs. (p), (q). [Pub. L. 102–240, § 1016(d)][/us/pl/102/240/s1016/d], (e), added subsecs. (p) and (q).
+    Subsecs. (p), (q). [Pub. L. 102–240][/us/pl/102/240], § 1016(d), (e), added subsecs. (p) and (q).
 
     1983—Subsec. (o). [Pub. L. 97–424][/us/pl/97/424] added subsec. (o).
 
     1979—Subsec. (l)(1)(A). [Pub. L. 96–106][/us/pl/96/106] struck out “any aspect of” after “adversely affect”.
 
-    1978—Subsec. (f). [Pub. L. 95–599, § 141(f)][/us/pl/95/599/s141/f], inserted “bikeways” after “surfaces, median strips,”.
+    1978—Subsec. (f). [Pub. L. 95–599][/us/pl/95/599], § 141(f), inserted “bikeways” after “surfaces, median strips,”.
 
-    Subsec. (l). [Pub. L. 95–599, § 113][/us/pl/95/599/s113], added subsec. (l).
+    Subsec. (l). [Pub. L. 95–599][/us/pl/95/599], § 113, added subsec. (l).
 
-    Subsec. (m). [Pub. L. 95–599, § 116(d)][/us/pl/95/599/s116/d], added subsec. (m).
+    Subsec. (m). [Pub. L. 95–599][/us/pl/95/599], § 116(d), added subsec. (m).
 
-    Subsec. (n). [Pub. L. 95–599, § 141(g)][/us/pl/95/599/s141/g], added subsec. (n).
+    Subsec. (n). [Pub. L. 95–599][/us/pl/95/599], § 141(g), added subsec. (n).
 
-    1973—Subsec. (g). [Pub. L. 93–87, § 152(2)][/us/pl/93/87/s152/2], substituted “Act” for “Rct”, thus correcting the popular name to read “Federal-Aid Highway Act of 1970”.
+    1973—Subsec. (g). [Pub. L. 93–87][/us/pl/93/87], § 152(2), substituted “Act” for “Rct”, thus correcting the popular name to read “Federal-Aid Highway Act of 1970”.
 
-    Subsec. (i). [Pub. L. 93–87, § 114][/us/pl/93/87/s114], authorized promulgation of noise-level standards for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972, and approval of any project on a Federal-aid system to which noise-level standards are made applicable, described the range of the projects, made money available for financing Federal share of the project, and deemed such project a highway project for all purposes of this title.
+    Subsec. (i). [Pub. L. 93–87][/us/pl/93/87], § 114, authorized promulgation of noise-level standards for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972, and approval of any project on a Federal-aid system to which noise-level standards are made applicable, described the range of the projects, made money available for financing Federal share of the project, and deemed such project a highway project for all purposes of this title.
 
-    Subsec. (k). [Pub. L. 93–87, § 156][/us/pl/93/87/s156], added subsec. (k).
+    Subsec. (k). [Pub. L. 93–87][/us/pl/93/87], § 156, added subsec. (k).
 
-    1970—Subsec. (g). [Pub. L. 91–605, § 136(a)][/us/pl/91/605/s136/a], substituted provisions ordering the Secretary to issue within 30 days after Dec. 31, 1970, guidelines, which will apply to all proposed proj­ects approved by the Secretary after their issuance, for minimizing soil erosion from highway construction for provisions authorizing the Secretary to consult with the Secretary of Agriculture respecting guidelines for minimizing soil erosion from highway construction and report such guidelines to Congress not later than July 1, 1967.
+    1970—Subsec. (g). [Pub. L. 91–605][/us/pl/91/605], § 136(a), substituted provisions ordering the Secretary to issue within 30 days after Dec. 31, 1970, guidelines, which will apply to all proposed proj­ects approved by the Secretary after their issuance, for minimizing soil erosion from highway construction for provisions authorizing the Secretary to consult with the Secretary of Agriculture respecting guidelines for minimizing soil erosion from highway construction and report such guidelines to Congress not later than July 1, 1967.
 
-    Subsecs. (h) to (j). [Pub. L. 91–605, § 136(b)][/us/pl/91/605/s136/b], added subsecs. (h) to (j).
+    Subsecs. (h) to (j). [Pub. L. 91–605][/us/pl/91/605], § 136(b), added subsecs. (h) to (j).
 
-    1966—Subsec. (b). [Pub. L. 89–574, § 5(a)][/us/pl/89/574/s5/a], required that in all cases the standards provide for at least four lanes of traffic.
+    1966—Subsec. (b). [Pub. L. 89–574][/us/pl/89/574], § 5(a), required that in all cases the standards provide for at least four lanes of traffic.
 
-    Subsec. (g). [Pub. L. 89–574, § 14][/us/pl/89/574/s14], added subsec. (g).
+    Subsec. (g). [Pub. L. 89–574][/us/pl/89/574], § 14, added subsec. (g).
 
     1963—Subsec. (b). [Pub. L. 88–157][/us/pl/88/157] substituted “Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under [section 106 of this title][/us/usc/t23/s106], of the plans, specifications, and estimates for actual construction of such project” for “Such standards shall be adequate to accommodate the types and volumes of traffic forecast for the year 1975”, struck out “up” before “to such standards” and inserted “all” in phrase “throughout all the States”.
 
@@ -233,7 +233,7 @@
 
     Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
-    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+    [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -245,7 +245,7 @@
 
  __Retroactive Application of Adjustment to Criteria for Categorical Exclusion for Projects of Limited Federal Assistance__ 
 
-[Pub. L. 114–94, div. A, title I, § 1314(b)][/us/pl/114/94/s1314/b], Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that: 
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1314(b), Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that: 
 
 > “The first adjustment made pursuant to the amendments made by subsection (a) \[amending [section 1317 of Pub. L. 112–141][/us/pl/112/141/s1317], set out below\] shall—
 
@@ -255,7 +255,7 @@
 
  __Categorical Exclusion Determinations__ 
 
-[Pub. L. 114–94, div. A, title I, § 1315(b)][/us/pl/114/94/s1315/b], Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that: 
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1315(b), Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that: 
 
 > “Not later than 30 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall revise section 771.117(g) of title 23, Code of Federal Regulations, to allow a programmatic agreement under this section \[see [section 1318(e) of Pub. L. 112–141][/us/pl/112/141/s1318/e], set out below\] to include responsibility for making categorical exclusion determinations—
 
@@ -265,7 +265,7 @@
 
  __Roadway Design Standard Flexibility__ 
 
-[Pub. L. 114–94, div. A, title I, § 1404(b)][/us/pl/114/94/s1404/b], Dec. 4, 2015, [129 Stat. 1409][/us/stat/129/1409], provided that: 
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1404(b), Dec. 4, 2015, [129 Stat. 1409][/us/stat/129/1409], provided that: 
 
 > “Notwithstanding section 109(o) of title 23, United States Code, a State may allow a local jurisdiction to use a roadway design publication that is different from the roadway design publication used by the State in which the local jurisdiction is located for the design of a project on a roadway under the ownership of the local jurisdiction (other than a highway on the Interstate System) if—
 
@@ -283,7 +283,7 @@
 
  __Emergency Exemptions__ 
 
-[Pub. L. 114–94, div. A, title I, § 1432][/us/pl/114/94/s1432], Dec. 4, 2015, [129 Stat. 1429][/us/stat/129/1429], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1432, Dec. 4, 2015, [129 Stat. 1429][/us/stat/129/1429], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -327,7 +327,7 @@
 
  __Safety for Users__ 
 
-[Pub. L. 114–94, div. A, title I, § 1442][/us/pl/114/94/s1442], Dec. 4, 2015, [129 Stat. 1436][/us/stat/129/1436], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1442, Dec. 4, 2015, [129 Stat. 1436][/us/stat/129/1436], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -343,7 +343,7 @@
 
  __Categorical Exclusions in Emergencies__ 
 
-[Pub. L. 112–141, div. A, title I, § 1315][/us/pl/112/141/s1315], July 6, 2012, [126 Stat. 549][/us/stat/126/549], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1315, July 6, 2012, [126 Stat. 549][/us/stat/126/549], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -365,7 +365,7 @@
 
  __Categorical Exclusions for Projects Within the Right-of-way__ 
 
-[Pub. L. 112–141, div. A, title I, § 1316][/us/pl/112/141/s1316], July 6, 2012, [126 Stat. 549][/us/stat/126/549], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1316, July 6, 2012, [126 Stat. 549][/us/stat/126/549], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -381,7 +381,7 @@
 
  __Categorical Exclusion for Projects of Limited Federal Assistance__ 
 
-[Pub. L. 112–141, div. A, title I, § 1317][/us/pl/112/141/s1317], July 6, 2012, [126 Stat. 550][/us/stat/126/550], as amended by [Pub. L. 114–94, div. A, title I, § 1314(a)][/us/pl/114/94/s1314/a], Dec. 4, 2015, [129 Stat. 1402][/us/stat/129/1402], provided that: 
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1317, July 6, 2012, [126 Stat. 550][/us/stat/126/550], as amended by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1314(a), Dec. 4, 2015, [129 Stat. 1402][/us/stat/129/1402], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101]\], the Secretary \[of Transportation\] shall—
 
@@ -397,7 +397,7 @@
 
  __Programmatic Agreements and Additional Categorical Exclusions__ 
 
-[Pub. L. 112–141, div. A, title I, § 1318][/us/pl/112/141/s1318], July 6, 2012, [126 Stat. 550][/us/stat/126/550], as amended by [Pub. L. 114–94, div. A, title I, § 1315(a)][/us/pl/114/94/s1315/a], Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1318, July 6, 2012, [126 Stat. 550][/us/stat/126/550], as amended by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1315(a), Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -463,13 +463,13 @@
 
  __Engineering Judgment__ 
 
-[Pub. L. 112–141, div. A, title I, § 1529][/us/pl/112/141/s1529], July 6, 2012, [126 Stat. 583][/us/stat/126/583], provided that: 
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1529, July 6, 2012, [126 Stat. 583][/us/stat/126/583], provided that: 
 
 > “Not later than 90 days after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101]\], the Secretary \[of Transportation\] shall issue guidance to State transportation departments clarifying that the standards, guidance, and options for design and application of traffic control devices provided in the Manual on Uniform Traffic Control Devices should not be considered a substitute for engineering judgment.”
 
  __Highway Signs Relating to Veterans Cemeteries__ 
 
-[Pub. L. 108–29, § 3][/us/pl/108/29/s3], May 29, 2003, [117 Stat. 772][/us/stat/117/772], provided that:
+[Pub. L. 108–29][/us/pl/108/29], § 3, May 29, 2003, [117 Stat. 772][/us/stat/117/772], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -481,7 +481,7 @@
 
  __International Roughness Index__ 
 
-[Pub. L. 105–178, title I, § 1213(b)][/us/pl/105/178/s1213/b], June 9, 1998, [112 Stat. 200][/us/stat/112/200], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1213(b), June 9, 1998, [112 Stat. 200][/us/stat/112/200], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -497,11 +497,11 @@
 
  __Environmental Streamlining__ 
 
-    [Pub. L. 105–178, title I, § 1309][/us/pl/105/178/s1309], June 9, 1998, [112 Stat. 232][/us/stat/112/232], as amended by [Pub. L. 105–206, title IX, § 9004(c)][/us/pl/105/206/s9004/c], July 22, 1998, [112 Stat. 843][/us/stat/112/843], which directed the Secretary of Transportation to develop and implement a coordinated environmental review process for highway construction and mass transit projects, was repealed by [Pub. L. 109–59, title VI, § 6002(d)][/us/pl/109/59/s6002/d], Aug. 10, 2005, [119 Stat. 1865][/us/stat/119/1865].
+    [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1309, June 9, 1998, [112 Stat. 232][/us/stat/112/232], as amended by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9004(c), July 22, 1998, [112 Stat. 843][/us/stat/112/843], which directed the Secretary of Transportation to develop and implement a coordinated environmental review process for highway construction and mass transit projects, was repealed by [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6002(d), Aug. 10, 2005, [119 Stat. 1865][/us/stat/119/1865].
 
  __Roadside Safety Technologies__ 
 
-[Pub. L. 105–178, title I, § 1402][/us/pl/105/178/s1402], June 9, 1998, [112 Stat. 236][/us/stat/112/236], as amended by [Pub. L. 105–206, title IX, § 9005(c)][/us/pl/105/206/s9005/c], July 22, 1998, [112 Stat. 848][/us/stat/112/848], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1402, June 9, 1998, [112 Stat. 236][/us/stat/112/236], as amended by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9005(c), July 22, 1998, [112 Stat. 848][/us/stat/112/848], provided that:
 
 >     “(a) __Crash Cushions.—__ 
 
@@ -545,7 +545,7 @@
 
  __Metric Requirements__ 
 
-[Pub. L. 104–59, title II, § 205(c)][/us/pl/104/59/s205/c], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], as amended by [Pub. L. 105–178, title I, § 1211(d)][/us/pl/105/178/s1211/d], June 9, 1998, [112 Stat. 188][/us/stat/112/188], provided that:
+[Pub. L. 104–59, title II][/us/pl/104/59/tII], § 205(c), Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], as amended by [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1211(d), June 9, 1998, [112 Stat. 188][/us/stat/112/188], provided that:
 
 >     “(1)  __Placement and modification of signs__  __.—__ 
 
@@ -569,7 +569,7 @@
 
  __Type II Noise Barriers__ 
 
-[Pub. L. 104–59, title III, § 339(b)][/us/pl/104/59/s339/b], Nov. 28, 1995, [109 Stat. 605][/us/stat/109/605], provided that:
+[Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 339(b), Nov. 28, 1995, [109 Stat. 605][/us/stat/109/605], provided that:
 
 >     “(1)  __General rule__  __.—__ 
 
@@ -581,7 +581,7 @@
 
  __Highway Signs for National Highway System__ 
 
-[Pub. L. 104–59, title III, § 359(b)][/us/pl/104/59/s359/b], Nov. 28, 1995, [109 Stat. 626][/us/stat/109/626], provided that:
+[Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 359(b), Nov. 28, 1995, [109 Stat. 626][/us/stat/109/626], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -593,7 +593,7 @@
 
  __Use of Recycled Paving Material__ 
 
-[Pub. L. 102–240, title I, § 1038][/us/pl/102/240/s1038], Dec. 18, 1991, [105 Stat. 1987][/us/stat/105/1987], as amended by [Pub. L. 104–59, title II, § 205(b)][/us/pl/104/59/s205/b], title III, § 327, Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], 592, provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1038, Dec. 18, 1991, [105 Stat. 1987][/us/stat/105/1987], as amended by [Pub. L. 104–59, title II][/us/pl/104/59/tII], § 205(b), title III, § 327, Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], 592, provided that:
 
 >     “(a)  __Asphalt Pavement Containing Recycled Rubber Demonstration Program__  __.—__ 
 
@@ -669,11 +669,11 @@
 
  __Survey and Report on Upgrading of Design Standards__ 
 
-    [Pub. L. 102–240, title I, § 1049][/us/pl/102/240/s1049], Dec. 18, 1991, [105 Stat. 2000][/us/stat/105/2000], directed Secretary to conduct a survey to identify current State standards relating to geometric design, traffic control devices, roadside safety, safety appurtenance design, uniform traffic control devices, and sign legibility and directional clarity for all Federal-aid highways and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the survey and the crashworthiness of traffic lights, traffic signs, guardrails, impact attenuators, concrete barrier treatments, and breakaway utility poles for bridges and roadways currently used by States.
+    [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1049, Dec. 18, 1991, [105 Stat. 2000][/us/stat/105/2000], directed Secretary to conduct a survey to identify current State standards relating to geometric design, traffic control devices, roadside safety, safety appurtenance design, uniform traffic control devices, and sign legibility and directional clarity for all Federal-aid highways and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the survey and the crashworthiness of traffic lights, traffic signs, guardrails, impact attenuators, concrete barrier treatments, and breakaway utility poles for bridges and roadways currently used by States.
 
  __Erosion Control Guidelines__ 
 
-[Pub. L. 102–240, title I, § 1057][/us/pl/102/240/s1057], Dec. 18, 1991, [105 Stat. 2002][/us/stat/105/2002], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1057, Dec. 18, 1991, [105 Stat. 2002][/us/stat/105/2002], provided that:
 
 >     “(a)  __Development__  __.—__ 
 
@@ -689,7 +689,7 @@
 
  __Roadside Barrier Technology__ 
 
-[Pub. L. 102–240, title I, § 1058][/us/pl/102/240/s1058], Dec. 18, 1991, [105 Stat. 2003][/us/stat/105/2003], as amended by [Pub. L. 104–59, title III, § 328][/us/pl/104/59/s328], Nov. 28, 1995, [109 Stat. 593][/us/stat/109/593], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1058, Dec. 18, 1991, [105 Stat. 2003][/us/stat/105/2003], as amended by [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 328, Nov. 28, 1995, [109 Stat. 593][/us/stat/109/593], provided that:
 
 >     “(a)  __Requirement for Innovative Barriers__  __.—__ 
 
@@ -705,7 +705,7 @@
 
  __Roadside Barriers and Safety Appurtenances__ 
 
-[Pub. L. 102–240, title I, § 1073][/us/pl/102/240/s1073], Dec. 18, 1991, [105 Stat. 2012][/us/stat/105/2012], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1073, Dec. 18, 1991, [105 Stat. 2012][/us/stat/105/2012], provided that:
 
 >     “(a)  __Initiation of Rulemaking Proceeding__  __.—__ 
 
@@ -717,7 +717,7 @@
 
  __Studies Relating to Establishment of Standards for Resurfacing, Restoration, and Rehabilitation of Highways and to Establishment of Uniform Standards and Criteria for Testing and Inspecting Highways and Bridges__ 
 
-[Pub. L. 97–424, title I, § 110(b)][/us/pl/97/424/s110/b], (c), Jan. 6, 1983, [96 Stat. 2105][/us/stat/96/2105], provided that:
+[Pub. L. 97–424, title I][/us/pl/97/424/tI], § 110(b), (c), Jan. 6, 1983, [96 Stat. 2105][/us/stat/96/2105], provided that:
 
 >     “(b) The Secretary of Transportation shall enter into appropriate arrangements with the National Academy of Sciences (1) to conduct a study of the safety cost-effectiveness of geometric design criteria of standards currently in effect for construction and reconstruction of highways, other than highways access to which is fully controlled, to determine the most appropriate minimum standards to apply to resurfacing, restoration, and rehabilitation projects on such highways, which study shall include a study of the cost effectiveness of the hot dip galvanizing process for the installation, repair, or replacement of exposed structural and miscellaneous steel, and (2) to propose standards to preserve and extend the service life of such highways and enhance highway safety. The National Academy of Sciences shall conduct such study in cooperation with the National Transportation Safety Board, the Congressional Budget Office, and the American Association of State Highway and Transportation Officials. Upon completion of such study, the National Academy of Sciences shall submit such study and its proposed standards to the Secretary of Transportation for review. Within ninety days after submission of such standards to the Secretary of Transportation, the Secretary shall submit such study and the proposed standards of the National Academy of Sciences, together with the recommendations of the Secretary, to Congress for approval.
 
@@ -729,7 +729,7 @@
 
  __Expenditure of Federal Funds for Highway Signs Using Metric System__ 
 
-    [Pub. L. 95–599, title I, § 144][/us/pl/95/599/s144], Nov. 6, 1978, [92 Stat. 2713][/us/stat/92/2713], as amended by [Pub. L. 96–106, § 14][/us/pl/96/106/s14], Nov. 9, 1979, [93 Stat. 798][/us/stat/93/798], which prohibited use of Federal funds for signing solely in the metric system, was repealed by [Pub. L. 102–240, title I, § 1053][/us/pl/102/240/s1053], Dec. 18, 1991, [105 Stat. 2001][/us/stat/105/2001].
+    [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 144, Nov. 6, 1978, [92 Stat. 2713][/us/stat/92/2713], as amended by [Pub. L. 96–106][/us/pl/96/106], § 14, Nov. 9, 1979, [93 Stat. 798][/us/stat/93/798], which prohibited use of Federal funds for signing solely in the metric system, was repealed by [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1053, Dec. 18, 1991, [105 Stat. 2001][/us/stat/105/2001].
 
  __Modification of Project Agreements To Effectuate Requirement of Four-Lanes of Traffic__ 
 
@@ -748,77 +748,77 @@
 [/us/usc/t42/s7505a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7505a
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F894
-[/us/pl/88/157/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157%2Fs4
+[/us/pl/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157
 [/us/stat/77/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F277
 [/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/stat/80/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F767
-[/us/pl/91/605/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs136%2Fa
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1734
-[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F257
-[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2696
-[/us/pl/96/106/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs3
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/stat/93/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F797
-[/us/pl/97/424/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs110%2Fa
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2105
-[/us/pl/102/240/s1016/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1016%2Fc
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1946
-[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F579
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F169
-[/us/pl/109/59/s1110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1110%2Fa
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1170
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F564
-[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
-[/us/pl/114/94/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1409
-[/us/pl/114/94/s1404/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fa%2F1%2FA%2Fi
-[/us/pl/114/94/s1404/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fa%2F1%2FA%2Fii
-[/us/pl/114/94/s1404/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fa%2F1%2FB
-[/us/pl/114/94/s1404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fa%2F2
-[/us/pl/112/141/s1519/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F3
-[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
-[/us/pl/112/141/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1504
-[/us/pl/109/59/s6008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6008
-[/us/pl/109/59/s1110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1110%2Fa
-[/us/pl/109/59/s1110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1110%2Fc
-[/us/pl/105/178/s1212/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fii
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
-[/us/pl/105/178/s1306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1306%2Fa
-[/us/pl/105/178/s1306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1306%2Fa%2F2
-[/us/pl/105/178/s1202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fc
-[/us/pl/105/178/s1306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1306%2Fa%2F2
-[/us/pl/104/59/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs304%2F1
-[/us/pl/104/59/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs304%2F2
-[/us/pl/104/59/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs305%2Fa
-[/us/pl/104/59/s304/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs304%2F3
-[/us/pl/102/240/s1016/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1016%2Ff%2F1%2FA
-[/us/pl/102/240/s1016/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1016%2Fc
-[/us/pl/102/240/s1016/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1016%2Ff%2F1%2FB
-[/us/pl/102/240/s1016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1016%2Fd
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
-[/us/pl/95/599/s141/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs141%2Ff
-[/us/pl/95/599/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs113
-[/us/pl/95/599/s116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs116%2Fd
-[/us/pl/95/599/s141/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs141%2Fg
-[/us/pl/93/87/s152/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs152%2F2
-[/us/pl/93/87/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs114
-[/us/pl/93/87/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs156
-[/us/pl/91/605/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs136%2Fa
-[/us/pl/91/605/s136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs136%2Fb
-[/us/pl/89/574/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs5%2Fa
-[/us/pl/89/574/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs14
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
+[/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
+[/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
+[/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/pl/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157
 [/us/usc/t23/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs106
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -827,15 +827,15 @@
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/114/94/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1314%2Fb
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1403
 [/us/pl/112/141/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1317
-[/us/pl/114/94/s1315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1315%2Fb
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1403
 [/us/pl/112/141/s1318/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1318%2Fe
-[/us/pl/114/94/s1404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fb
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1409
-[/us/pl/114/94/s1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1432
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1429
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t33/s1342/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fp
@@ -845,85 +845,85 @@
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
-[/us/pl/114/94/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1442
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1436
-[/us/pl/112/141/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1315
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F549
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/112/141/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1316
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F549
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
-[/us/pl/112/141/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1317
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F550
-[/us/pl/114/94/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1314%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1402
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1318
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F550
-[/us/pl/114/94/s1315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1315%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1403
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/112/141/s1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1529
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F583
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/108/29/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F29%2Fs3
+[/us/pl/108/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F29
 [/us/stat/117/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F772
-[/us/pl/105/178/s1213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1213%2Fb
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F200
-[/us/pl/105/178/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1309
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F232
-[/us/pl/105/206/s9004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9004%2Fc
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F843
-[/us/pl/109/59/s6002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6002%2Fd
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1865
-[/us/pl/105/178/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1402
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F236
-[/us/pl/105/206/s9005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9005%2Fc
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F848
-[/us/pl/104/59/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs205%2Fc
+[/us/pl/104/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtII
 [/us/stat/109/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F577
-[/us/pl/105/178/s1211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1211%2Fd
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F188
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t15/s205c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205c
-[/us/pl/104/59/s339/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs339%2Fb
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F605
 [/us/usc/t23/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs109
-[/us/pl/104/59/s359/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs359%2Fb
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F626
-[/us/pl/102/240/s1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1038
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1987
-[/us/pl/104/59/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs205%2Fb
+[/us/pl/104/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtII
 [/us/stat/109/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F577
 [/us/usc/t23/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs307%2Fd
-[/us/pl/102/240/s1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1049
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2000
-[/us/pl/102/240/s1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1057
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2002
 [/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
 [/us/usc/t16/s1455b/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1455b%2Fg
-[/us/pl/102/240/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1058
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2003
-[/us/pl/104/59/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs328
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F593
-[/us/pl/102/240/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1073
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2012
-[/us/pl/97/424/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs110%2Fb
+[/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI
 [/us/stat/96/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2105
-[/us/pl/95/599/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs144
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2713
-[/us/pl/96/106/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs14
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/stat/93/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F798
-[/us/pl/102/240/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1053
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2001
 [/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
 [/us/pl/89/574/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs5%2Fb

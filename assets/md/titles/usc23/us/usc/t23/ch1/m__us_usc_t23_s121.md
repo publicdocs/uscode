@@ -29,23 +29,23 @@
 
     (c) Such payments shall be made to such official or officials or depository as may be designated by the State transportation department and authorized under the laws of the State to receive public funds of the State.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 899][/us/stat/72/899]; [Pub. L. 88–157, § 7(b)][/us/pl/88/157/s7/b], Oct. 24, 1963, [77 Stat. 278][/us/stat/77/278]; [Pub. L. 93–87, title I, § 117][/us/pl/93/87/s117], Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259]; [Pub. L. 94–280, title I, § 118(a)][/us/pl/94/280/s118/a], May 5, 1976, [90 Stat. 437][/us/stat/90/437]; [Pub. L. 100–17, title I, § 133(b)(6)][/us/pl/100/17/s133/b/6], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 102–240, title I, § 1018(b)][/us/pl/102/240/s1018/b], Dec. 18, 1991, [105 Stat. 1948][/us/stat/105/1948]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1212(a)(2)(A)(i), 1302, June 9, 1998, [112 Stat. 193][/us/stat/112/193], 226; [Pub. L. 114–94, div. A, title II, § 2002(a)][/us/pl/114/94/s2002/a], Dec. 4, 2015, [129 Stat. 1446][/us/stat/129/1446].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 899][/us/stat/72/899]; [Pub. L. 88–157][/us/pl/88/157], § 7(b), Oct. 24, 1963, [77 Stat. 278][/us/stat/77/278]; [Pub. L. 93–87, title I][/us/pl/93/87/tI], § 117, Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259]; [Pub. L. 94–280, title I][/us/pl/94/280/tI], § 118(a), May 5, 1976, [90 Stat. 437][/us/stat/90/437]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(b)(6), Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1018(b), Dec. 18, 1991, [105 Stat. 1948][/us/stat/105/1948]; [Pub. L. 105–178, title I][/us/pl/105/178/tI], §§ 1212(a)(2)(A)(i), 1302, June 9, 1998, [112 Stat. 193][/us/stat/112/193], 226; [Pub. L. 114–94, div. A, title II][/us/pl/114/94/dA/tII], § 2002(a), Dec. 4, 2015, [129 Stat. 1446][/us/stat/129/1446].)
 
  __Amendments__ 
 
     2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94] inserted “(including payments made pursuant to a long-term concession agreement, such as availability payments)” after “a project” in introductory provisions.
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 1302(1)][/us/pl/105/178/s1302/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary may, in his discretion, from time to time as the work progresses, make payments to a State for costs of construction incurred by it on a project. These payments shall at no time exceed the Federal share of the costs of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project. Such payments may also be made in the case of any such materials not in the vicinity of such construction if the Secretary determines that because of required fabrication at an off-site location the materials cannot be stockpiled in such vicinity.”
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 1302(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary may, in his discretion, from time to time as the work progresses, make payments to a State for costs of construction incurred by it on a project. These payments shall at no time exceed the Federal share of the costs of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project. Such payments may also be made in the case of any such materials not in the vicinity of such construction if the Secretary determines that because of required fabrication at an off-site location the materials cannot be stockpiled in such vicinity.”
 
-    Subsec. (b). [Pub. L. 105–178, § 1302(1)][/us/pl/105/178/s1302/1], added subsec. (b) and struck out former subsec. (b) which read as follows: “After completion of a project in accordance with the plans and specifications, and approval of the final voucher by the Secretary, a State shall be entitled to payment out of the appropriate sums apportioned to it of the unpaid balance of the Federal share payable on account of such project.”
+    Subsec. (b). [Pub. L. 105–178][/us/pl/105/178], § 1302(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “After completion of a project in accordance with the plans and specifications, and approval of the final voucher by the Secretary, a State shall be entitled to payment out of the appropriate sums apportioned to it of the unpaid balance of the Federal share payable on account of such project.”
 
-    Subsec. (c). [Pub. L. 105–178, § 1302(2)][/us/pl/105/178/s1302/2], (3), redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “No payment shall be made under this chapter, except for a project located on a Federal-aid system and covered by a project agreement. No final payment shall be made to a State for its costs of construction of a project until the completion of the construction has been approved by the Secretary following inspections pursuant to [section 114(a) of this title][/us/usc/t23/s114/a].”
+    Subsec. (c). [Pub. L. 105–178][/us/pl/105/178], § 1302(2), (3), redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “No payment shall be made under this chapter, except for a project located on a Federal-aid system and covered by a project agreement. No final payment shall be made to a State for its costs of construction of a project until the completion of the construction has been approved by the Secretary following inspections pursuant to [section 114(a) of this title][/us/usc/t23/s114/a].”
 
-    Subsec. (d). [Pub. L. 105–178, § 1302(2)][/us/pl/105/178/s1302/2], struck out subsec. (d) which read as follows: “In making payments pursuant to this section, the Secretary shall be bound by the limitations with respect to the permissible amounts of such payments continued in sections 106(c), 120, and 130 of this title.”
+    Subsec. (d). [Pub. L. 105–178][/us/pl/105/178], § 1302(2), struck out subsec. (d) which read as follows: “In making payments pursuant to this section, the Secretary shall be bound by the limitations with respect to the permissible amounts of such payments continued in sections 106(c), 120, and 130 of this title.”
 
-    Subsec. (e). [Pub. L. 105–178, § 1302(3)][/us/pl/105/178/s1302/3], redesignated subsec. (e) as (c).
+    Subsec. (e). [Pub. L. 105–178][/us/pl/105/178], § 1302(3), redesignated subsec. (e) as (c).
 
-    [Pub. L. 105–178, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], substituted “State transportation department” for “State highway department”.
+    [Pub. L. 105–178][/us/pl/105/178], § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
     1991—Subsec. (d). [Pub. L. 102–240][/us/pl/102/240] substituted “106(c), 120,” for “120” and struck out at end “Payments for construction engineering on any project financed with Federal-aid highway funds shall not exceed 15 percent of the Federal share of the cost of construction of such project after excluding from the cost of construction the costs of rights-of-way, preliminary engineering, and construction engineering.”
 
@@ -67,7 +67,7 @@
 
  __At-Risk Project Preagreement Authority__ 
 
-[Pub. L. 114–94, div. A, title I, § 1440][/us/pl/114/94/s1440], Dec. 4, 2015, [129 Stat. 1434][/us/stat/129/1434], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1440, Dec. 4, 2015, [129 Stat. 1434][/us/stat/129/1434], provided that:
 
 >     “(a)  __Definition of Preliminary Engineering__  __.—__ 
 
@@ -122,28 +122,28 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F899
-[/us/pl/88/157/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157%2Fs7%2Fb
+[/us/pl/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157
 [/us/stat/77/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F278
-[/us/pl/93/87/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs117
+[/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F259
-[/us/pl/94/280/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs118%2Fa
+[/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F437
-[/us/pl/100/17/s133/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fb%2F6
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F171
-[/us/pl/102/240/s1018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1018%2Fb
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1948
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
-[/us/pl/114/94/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2002%2Fa
+[/us/pl/114/94/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtII
 [/us/stat/129/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1446
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/105/178/s1302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1302%2F1
-[/us/pl/105/178/s1302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1302%2F1
-[/us/pl/105/178/s1302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1302%2F2
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t23/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs114%2Fa
-[/us/pl/105/178/s1302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1302%2F2
-[/us/pl/105/178/s1302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1302%2F3
-[/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
@@ -155,7 +155,7 @@
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/114/94/s1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1440
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1434
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/85/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F845

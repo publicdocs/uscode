@@ -23,7 +23,7 @@
 
     (d) Funds available for forest development roads and trails shall be available for adjacent vehicular parking areas, which may include electric vehicle charging stations or natural gas vehicle refueling stations, and for sanitary, water, and fire control facilities.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 907][/us/stat/72/907]; [Pub. L. 86–657, § 8(c)][/us/pl/86/657/s8/c], July 14, 1960, [74 Stat. 524][/us/stat/74/524]; [Pub. L. 88–423, § 4(d)][/us/pl/88/423/s4/d], Aug. 13, 1964, [78 Stat. 398][/us/stat/78/398]; [Pub. L. 90–495, § 9][/us/pl/90/495/s9], Aug. 23, 1968, [82 Stat. 820][/us/stat/82/820]; [Pub. L. 102–240, title I, § 1032(c)][/us/pl/102/240/s1032/c], Dec. 18, 1991, [105 Stat. 1975][/us/stat/105/1975]; [Pub. L. 112–141, div. A, title I, § 1513(c)][/us/pl/112/141/s1513/c], July 6, 2012, [126 Stat. 572][/us/stat/126/572].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 907][/us/stat/72/907]; [Pub. L. 86–657][/us/pl/86/657], § 8(c), July 14, 1960, [74 Stat. 524][/us/stat/74/524]; [Pub. L. 88–423][/us/pl/88/423], § 4(d), Aug. 13, 1964, [78 Stat. 398][/us/stat/78/398]; [Pub. L. 90–495][/us/pl/90/495], § 9, Aug. 23, 1968, [82 Stat. 820][/us/stat/82/820]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1032(c), Dec. 18, 1991, [105 Stat. 1975][/us/stat/105/1975]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1513(c), July 6, 2012, [126 Stat. 572][/us/stat/126/572].)
 
  __Amendments__ 
 
@@ -58,15 +58,15 @@
 
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F907
-[/us/pl/86/657/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657%2Fs8%2Fc
+[/us/pl/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657
 [/us/stat/74/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F524
-[/us/pl/88/423/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423%2Fs4%2Fd
+[/us/pl/88/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F423
 [/us/stat/78/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F398
-[/us/pl/90/495/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs9
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F820
-[/us/pl/102/240/s1032/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1032%2Fc
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1975
-[/us/pl/112/141/s1513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1513%2Fc
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F572
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240

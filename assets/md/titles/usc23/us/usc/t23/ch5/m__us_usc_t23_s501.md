@@ -81,11 +81,11 @@
 
             (ii) interoperability among intelligent transportation system technologies implemented throughout the States.
 
-(Added [Pub. L. 105–178, title V, § 5101(2)][/us/pl/105/178/s5101/2], June 9, 1998, [112 Stat. 422][/us/stat/112/422]; amended [Pub. L. 112–141, div. E, title II, § 52001][/us/pl/112/141/s52001], July 6, 2012, [126 Stat. 865][/us/stat/126/865].)
+(Added [Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5101(2), June 9, 1998, [112 Stat. 422][/us/stat/112/422]; amended [Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52001, July 6, 2012, [126 Stat. 865][/us/stat/126/865].)
 
  __Prior Provisions__ 
 
-    A prior section 501, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 830][/us/stat/82/830], related to declaration of policy as to highway relocation assistance, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
+    A prior section 501, added [Pub. L. 90–495][/us/pl/90/495], § 30, Aug. 23, 1968, [82 Stat. 830][/us/stat/82/830], related to declaration of policy as to highway relocation assistance, prior to repeal by [Pub. L. 91–646, title II][/us/pl/91/646/tII], § 220(a)(10), Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
 
  __Amendments__ 
 
@@ -97,7 +97,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 114–94, div. A, title VI, § 6002][/us/pl/114/94/s6002], Dec. 4, 2015, [129 Stat. 1561][/us/stat/129/1561], provided that:
+[Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6002, Dec. 4, 2015, [129 Stat. 1561][/us/stat/129/1561], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -170,19 +170,19 @@
 ----------
 ----------
 
-[/us/pl/105/178/s5101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5101%2F2
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F422
-[/us/pl/112/141/s52001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52001
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F865
-[/us/pl/90/495/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs30
+[/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/stat/82/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F830
-[/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6002
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1561
 [/us/usc/t23/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs503%2Fb
 [/us/usc/t23/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs503%2Fc
