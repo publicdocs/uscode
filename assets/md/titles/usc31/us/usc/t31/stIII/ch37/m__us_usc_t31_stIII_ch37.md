@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stIII/ch35/schVI/m__us_usc_t31_s3563 to 3567.md) | [Next](./../../../../..//us/usc/t31/stIII/ch37/schI/m__us_usc_t31_stIII_ch37_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch37)
+[Previous](./../../../../..//us/usc/t31/stIII/ch35/schVI/m__us_usc_t31_s3562.md) | [Next](./../../../../..//us/usc/t31/stIII/ch37/schI/m__us_usc_t31_stIII_ch37_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch37)
 
 ### CHAPTER 37—CLAIMS
 
@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3701" data-uslm-ref="/us/usc/t31/s3701">3701.</a>  </td>
 
     <td> Definitions and application.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3702" data-uslm-ref="/us/usc/t31/s3702">3702.</a>  </td>
 
     <td> Authority to settle claims.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3711" data-uslm-ref="/us/usc/t31/s3711">3711.</a>  </td>
 
     <td> Collection and compromise.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3712" data-uslm-ref="/us/usc/t31/s3712">3712.</a>  </td>
 
     <td> Time limitations for presenting certain claims of the Government.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3713" data-uslm-ref="/us/usc/t31/s3713">3713.</a>  </td>
 
     <td> Priority of Government claims.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3714" data-uslm-ref="/us/usc/t31/s3714">3714.</a>  </td>
 
     <td> Keeping money due States in default.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3715" data-uslm-ref="/us/usc/t31/s3715">3715.</a>  </td>
 
     <td> Buying real property of a debtor.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3716" data-uslm-ref="/us/usc/t31/s3716">3716.</a>  </td>
 
     <td> Administrative offset.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3717" data-uslm-ref="/us/usc/t31/s3717">3717.</a>  </td>
 
     <td> Interest and penalty on claims.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3718" data-uslm-ref="/us/usc/t31/s3718">3718.</a>  </td>
 
     <td> Contracts for collection services.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3719.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3719" data-uslm-ref="/us/usc/t31/s3719">3719.</a>  </td>
 
     <td> Reports on debt collection activities.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3720" data-uslm-ref="/us/usc/t31/s3720">3720.</a>  </td>
 
     <td> Collection of payments.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3720A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3720A" data-uslm-ref="/us/usc/t31/s3720A">3720A.</a>  </td>
 
     <td> Reduction of tax refund by amount of debt.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3720B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3720B" data-uslm-ref="/us/usc/t31/s3720B">3720B.</a>  </td>
 
     <td> Barring delinquent Federal debtors from obtaining Federal loans or loan insurance guarantees.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3720C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3720C" data-uslm-ref="/us/usc/t31/s3720C">3720C.</a>  </td>
 
     <td> Debt Collection Improvement Account.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3720D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3720D" data-uslm-ref="/us/usc/t31/s3720D">3720D.</a>  </td>
 
     <td> Garnishment.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3720E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3720E" data-uslm-ref="/us/usc/t31/s3720E">3720E.</a>  </td>
 
     <td> Dissemination of information regarding identity of delinquent debtors.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3721" data-uslm-ref="/us/usc/t31/s3721">3721.</a>  </td>
 
     <td> Claims of personnel of agencies and the District of Columbia government for personal property damage or loss.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3722" data-uslm-ref="/us/usc/t31/s3722">3722.</a>  </td>
 
     <td> Claims of officers and employees at Government penal and correctional institutions.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3723" data-uslm-ref="/us/usc/t31/s3723">3723.</a>  </td>
 
     <td> Small claims for privately owned property damage or loss.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3724" data-uslm-ref="/us/usc/t31/s3724">3724.</a>  </td>
 
     <td> Claims for damages caused by investigative or law enforcement officers of the Department of Justice.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3725" data-uslm-ref="/us/usc/t31/s3725">3725.</a>  </td>
 
     <td> Claims of non-nationals for personal injury or death in a foreign country.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3726" data-uslm-ref="/us/usc/t31/s3726">3726.</a>  </td>
 
     <td> Payment for transportation.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3727" data-uslm-ref="/us/usc/t31/s3727">3727.</a>  </td>
 
     <td> Assignments of claims.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3728" data-uslm-ref="/us/usc/t31/s3728">3728.</a>  </td>
 
     <td> Setoff against judgment.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3729.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3729" data-uslm-ref="/us/usc/t31/s3729">3729.</a>  </td>
 
     <td> False claims.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3730.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3730" data-uslm-ref="/us/usc/t31/s3730">3730.</a>  </td>
 
     <td> Civil actions for false claims.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3731" data-uslm-ref="/us/usc/t31/s3731">3731.</a>  </td>
 
     <td> False claims procedure.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3732" data-uslm-ref="/us/usc/t31/s3732">3732.</a>  </td>
 
     <td> False claims jurisdiction.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
   <tr>
 
-    <td> 3733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3733" data-uslm-ref="/us/usc/t31/s3733">3733.</a>  </td>
 
     <td> Civil investigative demands.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stIII/ch35/schVI/m__us_usc_t31_s3563 to 3567.md) | [Next](./../../../../..//us/usc/t31/stIII/ch37/schI/m__us_usc_t31_stIII_ch37_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch37)
+[Previous](./../../../../..//us/usc/t31/stIII/ch35/schVI/m__us_usc_t31_s3562.md) | [Next](./../../../../..//us/usc/t31/stIII/ch37/schI/m__us_usc_t31_stIII_ch37_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch37)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9704)
+[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.1.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.1^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9704)
 
 ## § 9704. Pilot projects for managerial accountability and flexibility
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9704)
+[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.1.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9703.1^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9704)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 6304. Using grant agreements
 
-An executive agency shall use a grant agreement as the legal instrument reflecting a relationship between the United States Government and a State, a local government, or other recipient when—
+    An executive agency shall use a grant agreement as the legal instrument reflecting a relationship between the United States Government and a State, a local government, or other recipient when—
 
     (1) the principal purpose of the relationship is to transfer a thing of value to the State or local government or other recipient to carry out a public purpose of support or stimulation authorized by a law of the United States instead of acquiring (by purchase, lease, or barter) property or services for the direct benefit or use of the United States Government; and
 

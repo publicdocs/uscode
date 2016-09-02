@@ -15,7 +15,7 @@
 
 ## § 3304. Transfers of public money from depositaries
 
-The Secretary of the Treasury may transfer public money in the possession of a depositary—
+    The Secretary of the Treasury may transfer public money in the possession of a depositary—
 
     (1) to the Treasury; and
 

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t31/stIII/ch35/schV/m__us_usc_t31_s3557.md) | [Next](./../../../../../..//us/usc/t31/stIII/ch35/schVI/m__us_usc_t31_s3561.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch35%2FschVI)
 
-#### SUBCHAPTER VI—RECOVERY AUDITS 1
+#### SUBCHAPTER VI—RECOVERY AUDITS  <sup>\[1\]</sup>  <sup><sup> 1 Editorially supplied. </sup></sup> 
 
  __Amendments__ 
 

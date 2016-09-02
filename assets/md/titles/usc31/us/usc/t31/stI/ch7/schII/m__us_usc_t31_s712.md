@@ -15,7 +15,7 @@
 
 ## § 712. Investigating the use of public money
 
-The Comptroller General shall—
+    The Comptroller General shall—
 
     (1) investigate all matters related to the receipt, disbursement, and use of public money;
 

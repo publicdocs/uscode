@@ -33,7 +33,7 @@ SUBCHAPTER I—DEFINITIONS AND GENERAL ORGANIZATION  </td>
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs701" data-uslm-ref="/us/usc/t31/s701">701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—DEFINITIONS AND GENERAL ORGANIZATION  </td>
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs702" data-uslm-ref="/us/usc/t31/s702">702.</a>  </td>
 
     <td> Government Accountability Office.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—DEFINITIONS AND GENERAL ORGANIZATION  </td>
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs703" data-uslm-ref="/us/usc/t31/s703">703.</a>  </td>
 
     <td> Comptroller General and Deputy Comptroller General.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—DEFINITIONS AND GENERAL ORGANIZATION  </td>
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs704" data-uslm-ref="/us/usc/t31/s704">704.</a>  </td>
 
     <td> Relationship to other laws.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—DEFINITIONS AND GENERAL ORGANIZATION  </td>
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs705" data-uslm-ref="/us/usc/t31/s705">705.</a>  </td>
 
     <td> Inspector General for the Government Accountability Office.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—GENERAL DUTIES AND POWERS  </td>
 
   <tr>
 
-    <td> 711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs711" data-uslm-ref="/us/usc/t31/s711">711.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—GENERAL DUTIES AND POWERS  </td>
 
   <tr>
 
-    <td> 712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs712" data-uslm-ref="/us/usc/t31/s712">712.</a>  </td>
 
     <td> Investigating the use of public money.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—GENERAL DUTIES AND POWERS  </td>
 
   <tr>
 
-    <td> 713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs713" data-uslm-ref="/us/usc/t31/s713">713.</a>  </td>
 
     <td> Audit of Internal Revenue Service and Bureau of Alcohol, Tobacco, and Firearms. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F107%2F296" data-uslm-ref="/us/pl/107/296">Pub. L. 107–296</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—GENERAL DUTIES AND POWERS  </td>
 
   <tr>
 
-    <td> 714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs714" data-uslm-ref="/us/usc/t31/s714">714.</a>  </td>
 
     <td> Audit of Financial Institutions Examination Council, Federal Reserve Board, Federal reserve banks, Federal Deposit Insurance Corporation, and Office of Comptroller of the Currency.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—GENERAL DUTIES AND POWERS  </td>
 
   <tr>
 
-    <td> 715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs715" data-uslm-ref="/us/usc/t31/s715">715.</a>  </td>
 
     <td> Audit of accounts and operations of the District of Columbia government.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—GENERAL DUTIES AND POWERS  </td>
 
   <tr>
 
-    <td> 716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs716" data-uslm-ref="/us/usc/t31/s716">716.</a>  </td>
 
     <td> Availability of information and inspection of records.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—GENERAL DUTIES AND POWERS  </td>
 
   <tr>
 
-    <td> 717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs717" data-uslm-ref="/us/usc/t31/s717">717.</a>  </td>
 
     <td> Evaluating programs and activities of the United States Government.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—GENERAL DUTIES AND POWERS  </td>
 
   <tr>
 
-    <td> 718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs718" data-uslm-ref="/us/usc/t31/s718">718.</a>  </td>
 
     <td> Availability of draft reports.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—GENERAL DUTIES AND POWERS  </td>
 
   <tr>
 
-    <td> 719.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs719" data-uslm-ref="/us/usc/t31/s719">719.</a>  </td>
 
     <td> Comptroller General reports.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—GENERAL DUTIES AND POWERS  </td>
 
   <tr>
 
-    <td> 720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs720" data-uslm-ref="/us/usc/t31/s720">720.</a>  </td>
 
     <td> Agency reports.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—PERSONNEL  </td>
 
   <tr>
 
-    <td> 731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs731" data-uslm-ref="/us/usc/t31/s731">731.</a>  </td>
 
     <td> General.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—PERSONNEL  </td>
 
   <tr>
 
-    <td> 732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs732" data-uslm-ref="/us/usc/t31/s732">732.</a>  </td>
 
     <td> Personnel management system.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—PERSONNEL  </td>
 
   <tr>
 
-    <td> 732a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs732a" data-uslm-ref="/us/usc/t31/s732a">732a.</a>  </td>
 
     <td> Critical positions.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—PERSONNEL  </td>
 
   <tr>
 
-    <td> 733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs733" data-uslm-ref="/us/usc/t31/s733">733.</a>  </td>
 
     <td> Senior Executive Service.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—PERSONNEL  </td>
 
   <tr>
 
-    <td> 734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs734" data-uslm-ref="/us/usc/t31/s734">734.</a>  </td>
 
     <td> Assignments and details to Congress.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—PERSONNEL  </td>
 
   <tr>
 
-    <td> 735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs735" data-uslm-ref="/us/usc/t31/s735">735.</a>  </td>
 
     <td> Relationship to other laws.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—PERSONNEL  </td>
 
   <tr>
 
-    <td> 736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs736" data-uslm-ref="/us/usc/t31/s736">736.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—PERSONNEL APPEALS BOARD  </td>
 
   <tr>
 
-    <td> 751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs751" data-uslm-ref="/us/usc/t31/s751">751.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—PERSONNEL APPEALS BOARD  </td>
 
   <tr>
 
-    <td> 752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs752" data-uslm-ref="/us/usc/t31/s752">752.</a>  </td>
 
     <td> Chairman and General Counsel.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—PERSONNEL APPEALS BOARD  </td>
 
   <tr>
 
-    <td> 753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs753" data-uslm-ref="/us/usc/t31/s753">753.</a>  </td>
 
     <td> Duties and powers.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER IV—PERSONNEL APPEALS BOARD  </td>
 
   <tr>
 
-    <td> 754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs754" data-uslm-ref="/us/usc/t31/s754">754.</a>  </td>
 
     <td> Action by the Comptroller General.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER IV—PERSONNEL APPEALS BOARD  </td>
 
   <tr>
 
-    <td> 755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs755" data-uslm-ref="/us/usc/t31/s755">755.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER V—ANNUITIES  </td>
 
   <tr>
 
-    <td> 771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs771" data-uslm-ref="/us/usc/t31/s771">771.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER V—ANNUITIES  </td>
 
   <tr>
 
-    <td> 772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs772" data-uslm-ref="/us/usc/t31/s772">772.</a>  </td>
 
     <td> Annuity of the Comptroller General.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER V—ANNUITIES  </td>
 
   <tr>
 
-    <td> 773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs773" data-uslm-ref="/us/usc/t31/s773">773.</a>  </td>
 
     <td> Election of survivor benefits.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER V—ANNUITIES  </td>
 
   <tr>
 
-    <td> 774.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs774" data-uslm-ref="/us/usc/t31/s774">774.</a>  </td>
 
     <td> Survivor annuities.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER V—ANNUITIES  </td>
 
   <tr>
 
-    <td> 775.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs775" data-uslm-ref="/us/usc/t31/s775">775.</a>  </td>
 
     <td> Refunds.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER V—ANNUITIES  </td>
 
   <tr>
 
-    <td> 776.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs776" data-uslm-ref="/us/usc/t31/s776">776.</a>  </td>
 
     <td> Payment of survivor benefits.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER V—ANNUITIES  </td>
 
   <tr>
 
-    <td> 777.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs777" data-uslm-ref="/us/usc/t31/s777">777.</a>  </td>
 
     <td> Annuity increases.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER V—ANNUITIES  </td>
 
   <tr>
 
-    <td> 778.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs778" data-uslm-ref="/us/usc/t31/s778">778.</a>  </td>
 
     <td> Dependency and disability decisions.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER V—ANNUITIES  </td>
 
   <tr>
 
-    <td> 779.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs779" data-uslm-ref="/us/usc/t31/s779">779.</a>  </td>
 
     <td> Use of appropriations.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER VI—PROPERTY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs781" data-uslm-ref="/us/usc/t31/s781">781.</a>  </td>
 
     <td> Authority over the General Accounting Office Building.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER VI—PROPERTY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 782.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs782" data-uslm-ref="/us/usc/t31/s782">782.</a>  </td>
 
     <td> Leasing of space in the General Accounting Office Building.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER VI—PROPERTY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 783.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs783" data-uslm-ref="/us/usc/t31/s783">783.</a>  </td>
 
     <td> Rules and regulations.  </td>
 

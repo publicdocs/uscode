@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1301" data-uslm-ref="/us/usc/t31/s1301">1301.</a>  </td>
 
     <td> Application.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1302" data-uslm-ref="/us/usc/t31/s1302">1302.</a>  </td>
 
     <td> Determining amounts appropriated.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1303" data-uslm-ref="/us/usc/t31/s1303">1303.</a>  </td>
 
     <td> Effect of changes in titles of appropriations.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1304" data-uslm-ref="/us/usc/t31/s1304">1304.</a>  </td>
 
     <td> Judgments, awards, and compromise settlements.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1305" data-uslm-ref="/us/usc/t31/s1305">1305.</a>  </td>
 
     <td> Miscellaneous permanent appropriations.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1306" data-uslm-ref="/us/usc/t31/s1306">1306.</a>  </td>
 
     <td> Use of foreign credits.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1307" data-uslm-ref="/us/usc/t31/s1307">1307.</a>  </td>
 
     <td> Public building construction.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1308" data-uslm-ref="/us/usc/t31/s1308">1308.</a>  </td>
 
     <td> Telephone and metered services.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1309" data-uslm-ref="/us/usc/t31/s1309">1309.</a>  </td>
 
     <td> Social security tax.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1310" data-uslm-ref="/us/usc/t31/s1310">1310.</a>  </td>
 
     <td> Appropriations for private organizations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—TRUST FUNDS AND REFUNDS  </td>
 
   <tr>
 
-    <td> 1321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1321" data-uslm-ref="/us/usc/t31/s1321">1321.</a>  </td>
 
     <td> Trust funds.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—TRUST FUNDS AND REFUNDS  </td>
 
   <tr>
 
-    <td> 1322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1322" data-uslm-ref="/us/usc/t31/s1322">1322.</a>  </td>
 
     <td> Payments of unclaimed trust fund amounts and refund of amounts erroneously deposited.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—TRUST FUNDS AND REFUNDS  </td>
 
   <tr>
 
-    <td> 1323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1323" data-uslm-ref="/us/usc/t31/s1323">1323.</a>  </td>
 
     <td> Trust funds for certain fees, donations, quasi-public amounts, and unearned amounts.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—TRUST FUNDS AND REFUNDS  </td>
 
   <tr>
 
-    <td> 1324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1324" data-uslm-ref="/us/usc/t31/s1324">1324.</a>  </td>
 
     <td> Refund of internal revenue collections.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1341" data-uslm-ref="/us/usc/t31/s1341">1341.</a>  </td>
 
     <td> Limitations on expending and obligating amounts.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1342" data-uslm-ref="/us/usc/t31/s1342">1342.</a>  </td>
 
     <td> Limitation on voluntary services.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1343" data-uslm-ref="/us/usc/t31/s1343">1343.</a>  </td>
 
     <td> Buying and leasing passenger motor vehicles and aircraft.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1344" data-uslm-ref="/us/usc/t31/s1344">1344.</a>  </td>
 
     <td> Passenger carrier use.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1345" data-uslm-ref="/us/usc/t31/s1345">1345.</a>  </td>
 
     <td> Expenses of meetings.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1346" data-uslm-ref="/us/usc/t31/s1346">1346.</a>  </td>
 
     <td> Commissions, councils, boards, and interagency and similar groups.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1347" data-uslm-ref="/us/usc/t31/s1347">1347.</a>  </td>
 
     <td> Appropriations or authorizations required for agencies in existence for more than one year.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1348" data-uslm-ref="/us/usc/t31/s1348">1348.</a>  </td>
 
     <td> Telephone installation and charges.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1349.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1349" data-uslm-ref="/us/usc/t31/s1349">1349.</a>  </td>
 
     <td> Adverse personnel actions.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1350.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1350" data-uslm-ref="/us/usc/t31/s1350">1350.</a>  </td>
 
     <td> Criminal penalty.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1351" data-uslm-ref="/us/usc/t31/s1351">1351.</a>  </td>
 
     <td> Reports on violations.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1352" data-uslm-ref="/us/usc/t31/s1352">1352.</a>  </td>
 
     <td> Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1353" data-uslm-ref="/us/usc/t31/s1353">1353.</a>  </td>
 
     <td> Acceptance of travel and related expenses from non-Federal sources.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1354" data-uslm-ref="/us/usc/t31/s1354">1354.</a>  </td>
 
     <td> Limitation on use of appropriated funds for contracts with entities not meeting veterans’ employment reporting requirements.  </td>
 

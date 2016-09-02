@@ -15,7 +15,7 @@
 
 ## § 6307. Interpretative guidelines and exemptions
 
-The Director of the Office of Management and Budget may—
+    The Director of the Office of Management and Budget may—
 
     (1) issue supplementary interpretative guidelines to promote consistent and efficient use of procurement contracts, grant agreements, and cooperative agreements; and
 

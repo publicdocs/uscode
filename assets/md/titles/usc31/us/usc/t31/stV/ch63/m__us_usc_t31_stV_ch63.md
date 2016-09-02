@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6301" data-uslm-ref="/us/usc/t31/s6301">6301.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6302" data-uslm-ref="/us/usc/t31/s6302">6302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6303" data-uslm-ref="/us/usc/t31/s6303">6303.</a>  </td>
 
     <td> Using procurement contracts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6304" data-uslm-ref="/us/usc/t31/s6304">6304.</a>  </td>
 
     <td> Using grant agreements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6305" data-uslm-ref="/us/usc/t31/s6305">6305.</a>  </td>
 
     <td> Using cooperative agreements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6306" data-uslm-ref="/us/usc/t31/s6306">6306.</a>  </td>
 
     <td> Authority to vest title in tangible personal property for research.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6307" data-uslm-ref="/us/usc/t31/s6307">6307.</a>  </td>
 
     <td> Interpretative guidelines and exemptions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6308" data-uslm-ref="/us/usc/t31/s6308">6308.</a>  </td>
 
     <td> Use of multiple relationships for different parts of jointly financed projects.  </td>
 

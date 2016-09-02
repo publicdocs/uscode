@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstIV%2Fch51" data-uslm-ref="/us/usc/t31/stIV/ch51">51.</a>  </td>
 
     <td> Coins and Currency  </td>
 
-    <td> 5101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5101" data-uslm-ref="/us/usc/t31/s5101">5101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstIV%2Fch53" data-uslm-ref="/us/usc/t31/stIV/ch53">53.</a>  </td>
 
     <td> Monetary Transactions  </td>
 
-    <td> 5301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5301" data-uslm-ref="/us/usc/t31/s5301">5301</a>  </td>
 
   </tr>
 

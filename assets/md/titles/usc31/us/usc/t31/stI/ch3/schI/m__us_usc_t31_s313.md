@@ -227,9 +227,9 @@
 
         Beginning September 30, 2011, the Director shall submit a report on or before September 30 of each calendar year to the President and to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the insurance industry and any other information as deemed relevant by the Director or requested by such Committees.
 
-    (o) __Reports on U.S. and Global Reinsurance Market.—__ 
+    (o) __Reports on U.__ 
 
-    The Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate—
+    S. and Global Reinsurance Market.—The Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate—
 
         (1) a report received not later than September 30, 2012, describing the breadth and scope of the global reinsurance market and the critical role such market plays in supporting insurance in the United States; and
 

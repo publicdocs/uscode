@@ -51,31 +51,29 @@
 
     (h)
 
+        (1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Subsec. (h) contains two pars. designated (1) and (2). </sup></sup>  The disbursing official of the Department of the Treasury—
+
         (1)
 
-  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Subsec. (h) contains two pars. designated (1) and (2). </sup></sup>  The disbursing official of the Department of the Treasury—
+ 1 shall notify a taxpayer in writing of—
 
-            (1) 1 shall notify a taxpayer in writing of—
+            (A) the occurrence of an offset to satisfy a past-due legally enforceable nontax debt;
 
-        (A) the occurrence of an offset to satisfy a past-due legally enforceable nontax debt;
+            (B) the identity of the creditor agency requesting the offset; and
 
-        (B) the identity of the creditor agency requesting the offset; and
+            (C) a contact point within the creditor agency that will handle concerns regarding the offset;
 
-        (C)
+        (2)
 
-         a contact point within the creditor agency that will handle concerns regarding the offset;
+ 1 shall notify the Internal Revenue Service on a weekly basis of—
 
-            (2) 1 shall notify the Internal Revenue Service on a weekly basis of—
+            (A) the occurrence of an offset to satisfy a past-due legally enforceable non-tax  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should not be hyphenated. </sup></sup>  debt;
 
-        (A) the occurrence of an offset to satisfy a past-due legally enforceable non-tax  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should not be hyphenated. </sup></sup>  debt;
+            (B) the amount of such offset; and
 
-        (B) the amount of such offset; and
+            (C) any other information required by regulations; and
 
-        (C)
-
-         any other information required by regulations; and
-
-            (3) shall match payment records with requests for offset by using a name control, taxpayer identifying number (as that term is used in section 6109 of the Internal Revenue Code of 1986), and any other necessary identifiers.
+        (3) shall match payment records with requests for offset by using a name control, taxpayer identifying number (as that term is used in section 6109 of the Internal Revenue Code of 1986), and any other necessary identifiers.
 
     (h)
 

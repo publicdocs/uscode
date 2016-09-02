@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6901" data-uslm-ref="/us/usc/t31/s6901">6901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6902" data-uslm-ref="/us/usc/t31/s6902">6902.</a>  </td>
 
     <td> Authority and eligibility.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6903" data-uslm-ref="/us/usc/t31/s6903">6903.</a>  </td>
 
     <td> Payments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6904" data-uslm-ref="/us/usc/t31/s6904">6904.</a>  </td>
 
     <td> Additional payments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6905" data-uslm-ref="/us/usc/t31/s6905">6905.</a>  </td>
 
     <td> Redwood National Park and the Lake Tahoe Basin.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6906" data-uslm-ref="/us/usc/t31/s6906">6906.</a>  </td>
 
     <td> Funding.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6907" data-uslm-ref="/us/usc/t31/s6907">6907.</a>  </td>
 
     <td> State legislation requiring reallocation or redistribution of payments to smaller units of general purpose government.  </td>
 

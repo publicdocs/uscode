@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7701" data-uslm-ref="/us/usc/t31/s7701">7701.</a>  </td>
 
     <td> Taxpayer identifying number.  </td>
 

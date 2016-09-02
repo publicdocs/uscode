@@ -15,7 +15,7 @@
 
 ## § 1345. Expenses of meetings
 
-Except as specifically provided by law, an appropriation may not be used for travel, transportation, and subsistence expenses for a meeting. This section does not prohibit—
+    Except as specifically provided by law, an appropriation may not be used for travel, transportation, and subsistence expenses for a meeting. This section does not prohibit—
 
     (1) an agency from paying the expenses of an officer or employee of the United States Government carrying out an official duty; and
 

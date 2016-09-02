@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6701" data-uslm-ref="/us/usc/t31/s6701">6701.</a>  </td>
 
     <td> Payments to local governments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6702" data-uslm-ref="/us/usc/t31/s6702">6702.</a>  </td>
 
     <td> Local Government Fiscal Assistance Fund.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6703" data-uslm-ref="/us/usc/t31/s6703">6703.</a>  </td>
 
     <td> Qualification for payment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6704" data-uslm-ref="/us/usc/t31/s6704">6704.</a>  </td>
 
     <td> State area allocations; allocations and payments to territorial governments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6705" data-uslm-ref="/us/usc/t31/s6705">6705.</a>  </td>
 
     <td> Local government allocations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6706" data-uslm-ref="/us/usc/t31/s6706">6706.</a>  </td>
 
     <td> Income gap multiplier.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6707" data-uslm-ref="/us/usc/t31/s6707">6707.</a>  </td>
 
     <td> State variation of local government allocations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6708" data-uslm-ref="/us/usc/t31/s6708">6708.</a>  </td>
 
     <td> Adjustments of local government allocations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6709" data-uslm-ref="/us/usc/t31/s6709">6709.</a>  </td>
 
     <td> Information used in allocation formulas.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6710" data-uslm-ref="/us/usc/t31/s6710">6710.</a>  </td>
 
     <td> Public participation.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6711" data-uslm-ref="/us/usc/t31/s6711">6711.</a>  </td>
 
     <td> Prohibited discrimination.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6712" data-uslm-ref="/us/usc/t31/s6712">6712.</a>  </td>
 
     <td> Discrimination proceedings.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6713" data-uslm-ref="/us/usc/t31/s6713">6713.</a>  </td>
 
     <td> Suspension and termination of payments in discrimination proceedings.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6714" data-uslm-ref="/us/usc/t31/s6714">6714.</a>  </td>
 
     <td> Compliance agreements.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 6715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6715" data-uslm-ref="/us/usc/t31/s6715">6715.</a>  </td>
 
     <td> Enforcement by the Attorney General of prohibitions on discrimination.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 6716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6716" data-uslm-ref="/us/usc/t31/s6716">6716.</a>  </td>
 
     <td> Civil action by a person adversely affected.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 6717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6717" data-uslm-ref="/us/usc/t31/s6717">6717.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 6718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6718" data-uslm-ref="/us/usc/t31/s6718">6718.</a>  </td>
 
     <td> Investigations and reviews.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 6719.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6719" data-uslm-ref="/us/usc/t31/s6719">6719.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 6720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6720" data-uslm-ref="/us/usc/t31/s6720">6720.</a>  </td>
 
     <td> Definitions, application, and administration.  </td>
 

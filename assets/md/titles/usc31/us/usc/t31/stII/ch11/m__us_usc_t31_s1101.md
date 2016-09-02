@@ -15,7 +15,7 @@
 
 ## § 1101. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “agency” includes the District of Columbia government but does not include the legislative branch or the Supreme Court.
 

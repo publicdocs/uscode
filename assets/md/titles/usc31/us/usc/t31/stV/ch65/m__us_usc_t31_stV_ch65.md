@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6501" data-uslm-ref="/us/usc/t31/s6501">6501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6502" data-uslm-ref="/us/usc/t31/s6502">6502.</a>  </td>
 
     <td> Information on grants received.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6503" data-uslm-ref="/us/usc/t31/s6503">6503.</a>  </td>
 
     <td> Intergovernmental financing.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6504" data-uslm-ref="/us/usc/t31/s6504">6504.</a>  </td>
 
     <td> Use of existing State or multimember agency to administer grant programs.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6505" data-uslm-ref="/us/usc/t31/s6505">6505.</a>  </td>
 
     <td> Authority to provide specialized or technical services.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6506" data-uslm-ref="/us/usc/t31/s6506">6506.</a>  </td>
 
     <td> Development assistance.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6507" data-uslm-ref="/us/usc/t31/s6507">6507.</a>  </td>
 
     <td> Congressional review of grant programs.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6508" data-uslm-ref="/us/usc/t31/s6508">6508.</a>  </td>
 
     <td> Studies and reports.  </td>
 

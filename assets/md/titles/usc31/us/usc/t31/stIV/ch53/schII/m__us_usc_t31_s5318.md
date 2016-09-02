@@ -649,7 +649,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat.
 
 > “Financial institutions shall have 60 days from the date of enactment of this Act \[Oct. 26, 2001\] to comply with the provisions of [section 5318(k) of title 31][/us/usc/t31/s5318/k], United States Code, as added by this section.”
 
- __“Federal Functional Regulator” Includes Commodity Futures Trading Commission__ 
+“Federal Functional Regulator” Includes Commodity Futures Trading Commission
 
 [Pub. L. 107–56, title III, § 321(c)][/us/pl/107/56/s321/c], Oct. 26, 2001, [115 Stat. 315][/us/stat/115/315], provided that: 
 

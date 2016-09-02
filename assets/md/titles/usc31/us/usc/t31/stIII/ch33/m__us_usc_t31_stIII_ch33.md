@@ -33,7 +33,7 @@ SUBCHAPTER I—DEPOSITS AND DEPOSITARIES  </td>
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3301" data-uslm-ref="/us/usc/t31/s3301">3301.</a>  </td>
 
     <td> General duties of the Secretary of the Treasury.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—DEPOSITS AND DEPOSITARIES  </td>
 
   <tr>
 
-    <td> 3302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3302" data-uslm-ref="/us/usc/t31/s3302">3302.</a>  </td>
 
     <td> Custodians of money.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—DEPOSITS AND DEPOSITARIES  </td>
 
   <tr>
 
-    <td> 3303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3303" data-uslm-ref="/us/usc/t31/s3303">3303.</a>  </td>
 
     <td> Designation of depositaries.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—DEPOSITS AND DEPOSITARIES  </td>
 
   <tr>
 
-    <td> 3304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3304" data-uslm-ref="/us/usc/t31/s3304">3304.</a>  </td>
 
     <td> Transfers of public money from depositaries.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—DEPOSITS AND DEPOSITARIES  </td>
 
   <tr>
 
-    <td> 3305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3305" data-uslm-ref="/us/usc/t31/s3305">3305.</a>  </td>
 
     <td> Audits of depositaries.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3321" data-uslm-ref="/us/usc/t31/s3321">3321.</a>  </td>
 
     <td> Disbursing authority in the executive branch.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3322" data-uslm-ref="/us/usc/t31/s3322">3322.</a>  </td>
 
     <td> Disbursing officials.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3323" data-uslm-ref="/us/usc/t31/s3323">3323.</a>  </td>
 
     <td> Warrants.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3324" data-uslm-ref="/us/usc/t31/s3324">3324.</a>  </td>
 
     <td> Advances.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3325" data-uslm-ref="/us/usc/t31/s3325">3325.</a>  </td>
 
     <td> Vouchers.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3326" data-uslm-ref="/us/usc/t31/s3326">3326.</a>  </td>
 
     <td> Waiver of requirements for warrants and advances.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3327" data-uslm-ref="/us/usc/t31/s3327">3327.</a>  </td>
 
     <td> General authority to issue checks and other drafts.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3328" data-uslm-ref="/us/usc/t31/s3328">3328.</a>  </td>
 
     <td> Paying checks and drafts.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3329" data-uslm-ref="/us/usc/t31/s3329">3329.</a>  </td>
 
     <td> Withholding checks to be sent to foreign countries.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3330" data-uslm-ref="/us/usc/t31/s3330">3330.</a>  </td>
 
     <td> Payment of Department of Veterans Affairs checks for the benefit of individuals in foreign countries.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3331" data-uslm-ref="/us/usc/t31/s3331">3331.</a>  </td>
 
     <td> Substitute checks.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3332" data-uslm-ref="/us/usc/t31/s3332">3332.</a>  </td>
 
     <td> Required direct deposit.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3333" data-uslm-ref="/us/usc/t31/s3333">3333.</a>  </td>
 
     <td> Relief for payments made without negligence.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3334" data-uslm-ref="/us/usc/t31/s3334">3334.</a>  </td>
 
     <td> Cancellation and proceeds distribution of Treasury checks.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3335" data-uslm-ref="/us/usc/t31/s3335">3335.</a>  </td>
 
     <td> Timely disbursement of Federal funds.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—PAYMENTS  </td>
 
   <tr>
 
-    <td> 3336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3336" data-uslm-ref="/us/usc/t31/s3336">3336.</a>  </td>
 
     <td> Electronic benefit transfer pilot. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 3336 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F104%2F208" data-uslm-ref="/us/pl/104/208">Pub. L. 104–208</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3341" data-uslm-ref="/us/usc/t31/s3341">3341.</a>  </td>
 
     <td> Sale of Government warrants, checks, drafts, and obligations.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3342" data-uslm-ref="/us/usc/t31/s3342">3342.</a>  </td>
 
     <td> Check cashing and exchange transactions.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3343" data-uslm-ref="/us/usc/t31/s3343">3343.</a>  </td>
 
     <td> Check forgery insurance fund.  </td>
 

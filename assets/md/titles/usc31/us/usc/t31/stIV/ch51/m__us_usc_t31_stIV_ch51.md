@@ -33,7 +33,7 @@ SUBCHAPTER I—MONETARY SYSTEM  </td>
 
   <tr>
 
-    <td> 5101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5101" data-uslm-ref="/us/usc/t31/s5101">5101.</a>  </td>
 
     <td> Decimal system.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—MONETARY SYSTEM  </td>
 
   <tr>
 
-    <td> 5102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5102" data-uslm-ref="/us/usc/t31/s5102">5102.</a>  </td>
 
     <td> Standard weight.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—MONETARY SYSTEM  </td>
 
   <tr>
 
-    <td> 5103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5103" data-uslm-ref="/us/usc/t31/s5103">5103.</a>  </td>
 
     <td> Legal tender.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5111" data-uslm-ref="/us/usc/t31/s5111">5111.</a>  </td>
 
     <td> Minting and issuing coins, medals, and numismatic items.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5112" data-uslm-ref="/us/usc/t31/s5112">5112.</a>  </td>
 
     <td> Denominations, specifications, and design of coins.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5113" data-uslm-ref="/us/usc/t31/s5113">5113.</a>  </td>
 
     <td> Tolerances and testing of coins.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5114" data-uslm-ref="/us/usc/t31/s5114">5114.</a>  </td>
 
     <td> Engraving and printing currency and security documents.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5115" data-uslm-ref="/us/usc/t31/s5115">5115.</a>  </td>
 
     <td> United States currency notes.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5116" data-uslm-ref="/us/usc/t31/s5116">5116.</a>  </td>
 
     <td> Buying and selling gold and silver.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5117" data-uslm-ref="/us/usc/t31/s5117">5117.</a>  </td>
 
     <td> Transferring gold and gold certificates.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5118" data-uslm-ref="/us/usc/t31/s5118">5118.</a>  </td>
 
     <td> Gold clauses and consent to sue.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5119" data-uslm-ref="/us/usc/t31/s5119">5119.</a>  </td>
 
     <td> Redemption and cancellation of currency.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5120" data-uslm-ref="/us/usc/t31/s5120">5120.</a>  </td>
 
     <td> Obsolete, mutilated, and worn coins and currency.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5121" data-uslm-ref="/us/usc/t31/s5121">5121.</a>  </td>
 
     <td> Refining, assaying, and valuation of bullion.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 5122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5122" data-uslm-ref="/us/usc/t31/s5122">5122.</a>  </td>
 
     <td> Payment to depositors.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—UNITED STATES MINT  </td>
 
   <tr>
 
-    <td> 5131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5131" data-uslm-ref="/us/usc/t31/s5131">5131.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—UNITED STATES MINT  </td>
 
   <tr>
 
-    <td> 5132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5132" data-uslm-ref="/us/usc/t31/s5132">5132.</a>  </td>
 
     <td> Administrative.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—UNITED STATES MINT  </td>
 
   <tr>
 
-    <td> 5133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5133" data-uslm-ref="/us/usc/t31/s5133">5133.</a>  </td>
 
     <td> Settlement of accounts.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—UNITED STATES MINT  </td>
 
   <tr>
 
-    <td> 5134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5134" data-uslm-ref="/us/usc/t31/s5134">5134.</a>  </td>
 
     <td> Numismatic Public Enterprise Fund.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—UNITED STATES MINT  </td>
 
   <tr>
 
-    <td> 5135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5135" data-uslm-ref="/us/usc/t31/s5135">5135.</a>  </td>
 
     <td> Numismatic Public Enterprise Fund. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—UNITED STATES MINT  </td>
 
   <tr>
 
-    <td> 5136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5136" data-uslm-ref="/us/usc/t31/s5136">5136.</a>  </td>
 
     <td> United States Mint Public Enterprise Fund. <sup>[2]</sup>  <sup><sup> 2 Editorially supplied. Section added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F104%2F52" data-uslm-ref="/us/pl/104/52">Pub. L. 104–52</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—BUREAU OF ENGRAVING AND PRINTING  </td>
 
   <tr>
 
-    <td> 5141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5141" data-uslm-ref="/us/usc/t31/s5141">5141.</a>  </td>
 
     <td> Operation of the Bureau.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—BUREAU OF ENGRAVING AND PRINTING  </td>
 
   <tr>
 
-    <td> 5142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5142" data-uslm-ref="/us/usc/t31/s5142">5142.</a>  </td>
 
     <td> Bureau of Engraving and Printing Fund.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—BUREAU OF ENGRAVING AND PRINTING  </td>
 
   <tr>
 
-    <td> 5143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5143" data-uslm-ref="/us/usc/t31/s5143">5143.</a>  </td>
 
     <td> Payment for services.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—BUREAU OF ENGRAVING AND PRINTING  </td>
 
   <tr>
 
-    <td> 5144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5144" data-uslm-ref="/us/usc/t31/s5144">5144.</a>  </td>
 
     <td> Providing impressions of portraits and vignettes.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 5151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5151" data-uslm-ref="/us/usc/t31/s5151">5151.</a>  </td>
 
     <td> Conversion of currency of foreign countries.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 5152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5152" data-uslm-ref="/us/usc/t31/s5152">5152.</a>  </td>
 
     <td> Value of United States money holdings in international institutions.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 5153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5153" data-uslm-ref="/us/usc/t31/s5153">5153.</a>  </td>
 
     <td> Counterfeit currency.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 5154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5154" data-uslm-ref="/us/usc/t31/s5154">5154.</a>  </td>
 
     <td> State taxation.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 5155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5155" data-uslm-ref="/us/usc/t31/s5155">5155.</a>  </td>
 
     <td> Providing engraved plates of portraits of deceased members of Congress.  </td>
 

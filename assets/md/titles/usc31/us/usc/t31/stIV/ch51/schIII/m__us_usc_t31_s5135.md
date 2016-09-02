@@ -179,13 +179,13 @@
 
 [Pub. L. 108–15, title I, § 103(b)][/us/pl/108/15/s103/b], (c), Apr. 23, 2003, [117 Stat. 618][/us/stat/117/618], 619, provided that:
 
->     “(b) __Abolishment of Citizens Commemorative Coin Advisory Committee.—__ 
+>     “(b) __Abolishment of Citizens Commemorative Coin Advisory Committee.__ 
 
->     Effective on the date of the enactment of this Act \[Apr. 23, 2003\], the Citizens Commemorative Coin Advisory Committee (established by [section 5135 of title 31][/us/usc/t31/s5135], United States Code, as in effect before the amendment made by subsection (a)) is hereby abolished.
+>     —Effective on the date of the enactment of this Act \[Apr. 23, 2003\], the Citizens Commemorative Coin Advisory Committee (established by [section 5135 of title 31][/us/usc/t31/s5135], United States Code, as in effect before the amendment made by subsection (a)) is hereby abolished.
 
->     “(c) __Continuity of Members of Citizens Commemorative Coin Advisory Committee.—__ 
+>     “(c) __Continuity of Members of Citizens Commemorative Coin Advisory Committee.__ 
 
->     Subject to paragraphs (1) and (2) of [section 5135(b) of title 31][/us/usc/t31/s5135/b], United States Code, any person who is a member of the Citizens Commemorative Coin Advisory Committee on the date of the enactment of this Act \[Apr. 23, 2003\], other than the member of such committee who is appointed from among the officers or employees of the United States Mint, may continue to serve the remainder of the term to which such member was appointed as a member of the Citizens Coinage Advisory Committee in one of the positions as determined by the Secretary.”
+>     —Subject to paragraphs (1) and (2) of [section 5135(b) of title 31][/us/usc/t31/s5135/b], United States Code, any person who is a member of the Citizens Commemorative Coin Advisory Committee on the date of the enactment of this Act \[Apr. 23, 2003\], other than the member of such committee who is appointed from among the officers or employees of the United States Mint, may continue to serve the remainder of the term to which such member was appointed as a member of the Citizens Coinage Advisory Committee in one of the positions as determined by the Secretary.”
 
  __Staggered Terms for Members of Citizens Commemorative Coin Advisory Committee__ 
 

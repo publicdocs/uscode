@@ -15,7 +15,7 @@
 
 ## § 1111. Improving economy and efficiency
 
-To improve economy and efficiency in the United States Government, the President shall—
+    To improve economy and efficiency in the United States Government, the President shall—
 
     (1)
 

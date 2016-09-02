@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9701" data-uslm-ref="/us/usc/t31/s9701">9701.</a>  </td>
 
     <td> Fees and charges for Government services and things of value.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9702" data-uslm-ref="/us/usc/t31/s9702">9702.</a>  </td>
 
     <td> Investment of trust funds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9703. <sup>[1]</sup>  <sup><sup> 1 So in original. Two sections 9703 have been enacted. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9703" data-uslm-ref="/us/usc/t31/s9703">9703.</a> <sup>[1]</sup>  <sup><sup> 1 So in original. Two sections 9703 have been enacted. </sup></sup>   </td>
 
     <td> Managerial accountability and flexibility.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9704" data-uslm-ref="/us/usc/t31/s9704">9704.</a>  </td>
 
     <td> Pilot projects for managerial accountability and flexibility.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9703. <sup>[1]</sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9703" data-uslm-ref="/us/usc/t31/s9703">9703.</a> <sup>[1]</sup>   </td>
 
     <td> Department of the Treasury Forfeiture Fund.  </td>
 

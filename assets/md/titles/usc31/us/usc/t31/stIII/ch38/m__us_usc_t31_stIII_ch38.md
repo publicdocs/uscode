@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3801" data-uslm-ref="/us/usc/t31/s3801">3801.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3802" data-uslm-ref="/us/usc/t31/s3802">3802.</a>  </td>
 
     <td> False claims and statements; liability.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3803" data-uslm-ref="/us/usc/t31/s3803">3803.</a>  </td>
 
     <td> Hearing and determinations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3804" data-uslm-ref="/us/usc/t31/s3804">3804.</a>  </td>
 
     <td> Subpoena authority.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3805" data-uslm-ref="/us/usc/t31/s3805">3805.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3806" data-uslm-ref="/us/usc/t31/s3806">3806.</a>  </td>
 
     <td> Collection of civil penalties and assessments.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3807" data-uslm-ref="/us/usc/t31/s3807">3807.</a>  </td>
 
     <td> Right to administrative offset.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3808" data-uslm-ref="/us/usc/t31/s3808">3808.</a>  </td>
 
     <td> Limitations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3809" data-uslm-ref="/us/usc/t31/s3809">3809.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [3810.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3810" data-uslm-ref="/us/usc/t31/s3810">3810.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3811" data-uslm-ref="/us/usc/t31/s3811">3811.</a>  </td>
 
     <td> Effect on other law.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3812" data-uslm-ref="/us/usc/t31/s3812">3812.</a>  </td>
 
     <td> Prohibition against delegation.  </td>
 

@@ -291,7 +291,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >     “(3) being induced to do or omit to do any act in violation of the official duty of such official or person,
 
->         shall be fined in an amount not more than 3 times the monetary equivalent of the thing of value, or imprisoned for not more than 15 years, or both. A violation of this section shall be subject to chapter 227 of title 18, United States Code, and the provisions of the United States Sentencing Guidelines.”
+>     shall be fined in an amount not more than 3 times the monetary equivalent of the thing of value, or imprisoned for not more than 15 years, or both. A violation of this section shall be subject to chapter 227 of title 18, United States Code, and the provisions of the United States Sentencing Guidelines.”
 
  __Report on Investment Companies__ 
 
@@ -359,7 +359,11 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >                 “(i) the business record and the capital adequacy of the business seeking the license; and
 
->                 “(ii) the competence, experience, integrity, and financial ability of any individual who—         “(I) is a director, officer, or supervisory employee of such business; or
+>                 “(ii)
+
+>                  the competence, experience, integrity, and financial ability of any individual who—
+
+>                          “(I) is a director, officer, or supervisory employee of such business; or
 
 >                          “(II) owns or controls such business; and
 

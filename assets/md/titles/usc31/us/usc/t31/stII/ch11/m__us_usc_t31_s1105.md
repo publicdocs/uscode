@@ -285,7 +285,7 @@
 
  __Amendment of Subsection (a)__ 
 
-For contingent repeal of amendment by [section 415 of Pub. L. 111–291][/us/pl/111/291/s415], see Repeal on Failure To Meet Enforceability Date note below.
+    For contingent repeal of amendment by [section 415 of Pub. L. 111–291][/us/pl/111/291/s415], see Repeal on Failure To Meet Enforceability Date note below.
 
 <table>
 

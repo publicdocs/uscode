@@ -15,7 +15,7 @@
 
 ## § 6205. Availability of information
 
-Each head of any authority of the Government having custody of the data files and systems referred to in section 6202(c)—
+    Each head of any authority of the Government having custody of the data files and systems referred to in section 6202(c)—
 
     (1) shall make available to the Director (or other authority to which the Director has delegated the responsibility to carry out such section) the information requested in the form designated; and
 

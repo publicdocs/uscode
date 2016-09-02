@@ -15,7 +15,7 @@
 
 ## § 9301. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “person” means an individual, a trust, an estate, a partnership, and a corporation.
 

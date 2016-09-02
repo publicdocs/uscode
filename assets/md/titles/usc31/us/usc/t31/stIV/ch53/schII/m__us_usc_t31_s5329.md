@@ -15,7 +15,7 @@
 
 ## § 5329. Staff commentaries
 
-The Secretary shall—
+    The Secretary shall—
 
     (1) publish all written rulings interpreting this subchapter; and
 

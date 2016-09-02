@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7501" data-uslm-ref="/us/usc/t31/s7501">7501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7502" data-uslm-ref="/us/usc/t31/s7502">7502.</a>  </td>
 
     <td> Audit requirements; exemptions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7503" data-uslm-ref="/us/usc/t31/s7503">7503.</a>  </td>
 
     <td> Relation to other audit requirements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7504" data-uslm-ref="/us/usc/t31/s7504">7504.</a>  </td>
 
     <td> Federal agency responsibilities and relations with non-Federal entities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7505" data-uslm-ref="/us/usc/t31/s7505">7505.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7506" data-uslm-ref="/us/usc/t31/s7506">7506.</a>  </td>
 
     <td> Monitoring responsibilities of the Comptroller General.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7507" data-uslm-ref="/us/usc/t31/s7507">7507.</a>  </td>
 
     <td> Effective date.  </td>
 

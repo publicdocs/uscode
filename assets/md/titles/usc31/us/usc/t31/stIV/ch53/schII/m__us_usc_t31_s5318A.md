@@ -223,7 +223,7 @@
 
     Amendment by [Pub. L. 108–458][/us/pl/108/458] effective as if included in [Pub. L. 107–56][/us/pl/107/56], as of the date of enactment of such Act, and no amendment made by [Pub. L. 107–56][/us/pl/107/56] that is inconsistent with such amendment to be deemed to have taken effect, see [section 6205 of Pub. L. 108–458][/us/pl/108/458/s6205], set out as a note under [section 1828 of Title 12][/us/usc/t12/s1828], Banks and Banking.
 
- __“Federal Functional Regulator” Includes Commodity Futures Trading Commission__ 
+“Federal Functional Regulator” Includes Commodity Futures Trading Commission
 
     For purposes of [Pub. L. 107–56][/us/pl/107/56] and any amendment by [Pub. L. 107–56][/us/pl/107/56], the term “Federal functional regulator” includes the Commodity Futures Trading Commission, see [section 321(c) of Pub. L. 107–56][/us/pl/107/56/s321/c], set out as a note under [section 5318 of this title][/us/usc/t31/s5318].
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—CREDIT AND MONETARY EXPANSION  </td>
 
   <tr>
 
-    <td> 5301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5301" data-uslm-ref="/us/usc/t31/s5301">5301.</a>  </td>
 
     <td> Buying obligations of the United States Government.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—CREDIT AND MONETARY EXPANSION  </td>
 
   <tr>
 
-    <td> 5302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5302" data-uslm-ref="/us/usc/t31/s5302">5302.</a>  </td>
 
     <td> Stabilizing exchange rates and arrangements.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—CREDIT AND MONETARY EXPANSION  </td>
 
   <tr>
 
-    <td> 5303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5303" data-uslm-ref="/us/usc/t31/s5303">5303.</a>  </td>
 
     <td> Reserved coins and currencies of foreign countries.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CREDIT AND MONETARY EXPANSION  </td>
 
   <tr>
 
-    <td> 5304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5304" data-uslm-ref="/us/usc/t31/s5304">5304.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5311" data-uslm-ref="/us/usc/t31/s5311">5311.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5312" data-uslm-ref="/us/usc/t31/s5312">5312.</a>  </td>
 
     <td> Definitions and application.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5313" data-uslm-ref="/us/usc/t31/s5313">5313.</a>  </td>
 
     <td> Reports on domestic coins and currency transactions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5314" data-uslm-ref="/us/usc/t31/s5314">5314.</a>  </td>
 
     <td> Records and reports on foreign financial agency transactions.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5315" data-uslm-ref="/us/usc/t31/s5315">5315.</a>  </td>
 
     <td> Reports on foreign currency transactions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5316" data-uslm-ref="/us/usc/t31/s5316">5316.</a>  </td>
 
     <td> Reports on exporting and importing monetary instruments.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5317" data-uslm-ref="/us/usc/t31/s5317">5317.</a>  </td>
 
     <td> Search and forfeiture of monetary instruments.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5318" data-uslm-ref="/us/usc/t31/s5318">5318.</a>  </td>
 
     <td> Compliance, exemptions, and summons authority.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5318A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5318A" data-uslm-ref="/us/usc/t31/s5318A">5318A.</a>  </td>
 
     <td> Special measures for jurisdictions, financial institutions, international transactions, or types of accounts of primary money laundering concern.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5319" data-uslm-ref="/us/usc/t31/s5319">5319.</a>  </td>
 
     <td> Availability of reports.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5320" data-uslm-ref="/us/usc/t31/s5320">5320.</a>  </td>
 
     <td> Injunctions.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5321" data-uslm-ref="/us/usc/t31/s5321">5321.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5322" data-uslm-ref="/us/usc/t31/s5322">5322.</a>  </td>
 
     <td> Criminal penalties.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5323" data-uslm-ref="/us/usc/t31/s5323">5323.</a>  </td>
 
     <td> Rewards for informants.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5324" data-uslm-ref="/us/usc/t31/s5324">5324.</a>  </td>
 
     <td> Structuring transactions to evade reporting requirement prohibited.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5325" data-uslm-ref="/us/usc/t31/s5325">5325.</a>  </td>
 
     <td> Identification required to purchase certain monetary instruments.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5326" data-uslm-ref="/us/usc/t31/s5326">5326.</a>  </td>
 
     <td> Records of certain domestic coin and currency transactions.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> [5327.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5327" data-uslm-ref="/us/usc/t31/s5327">5327.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5328" data-uslm-ref="/us/usc/t31/s5328">5328.</a>  </td>
 
     <td> Whistleblower protections.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5329" data-uslm-ref="/us/usc/t31/s5329">5329.</a>  </td>
 
     <td> Staff commentaries.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5330" data-uslm-ref="/us/usc/t31/s5330">5330.</a>  </td>
 
     <td> Registration of money transmitting businesses.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5331" data-uslm-ref="/us/usc/t31/s5331">5331.</a>  </td>
 
     <td> Reports relating to coins and currency received in nonfinancial trade or business.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS  </td>
 
   <tr>
 
-    <td> 5332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5332" data-uslm-ref="/us/usc/t31/s5332">5332.</a>  </td>
 
     <td> Bulk cash smuggling into or out of the United States.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—MONEY LAUNDERING AND RELATED FINANCIAL CRIMES  </td>
 
   <tr>
 
-    <td> 5340.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5340" data-uslm-ref="/us/usc/t31/s5340">5340.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -281,7 +281,7 @@ Part 1—National Money Laundering and Related Financial Crimes Strategy  </td>
 
   <tr>
 
-    <td> 5341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5341" data-uslm-ref="/us/usc/t31/s5341">5341.</a>  </td>
 
     <td> National money laundering and related financial crimes strategy.  </td>
 
@@ -289,7 +289,7 @@ Part 1—National Money Laundering and Related Financial Crimes Strategy  </td>
 
   <tr>
 
-    <td> 5342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5342" data-uslm-ref="/us/usc/t31/s5342">5342.</a>  </td>
 
     <td> High-risk money laundering and related financial crime areas.  </td>
 
@@ -305,7 +305,7 @@ Part 2—Financial Crime-Free Communities Support Program  </td>
 
   <tr>
 
-    <td> 5351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5351" data-uslm-ref="/us/usc/t31/s5351">5351.</a>  </td>
 
     <td> Establishment of financial crime-free communities support program.  </td>
 
@@ -313,7 +313,7 @@ Part 2—Financial Crime-Free Communities Support Program  </td>
 
   <tr>
 
-    <td> 5352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5352" data-uslm-ref="/us/usc/t31/s5352">5352.</a>  </td>
 
     <td> Program authorization.  </td>
 
@@ -321,7 +321,7 @@ Part 2—Financial Crime-Free Communities Support Program  </td>
 
   <tr>
 
-    <td> 5353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5353" data-uslm-ref="/us/usc/t31/s5353">5353.</a>  </td>
 
     <td> Information collection and dissemination with respect to grant recipients.  </td>
 
@@ -329,7 +329,7 @@ Part 2—Financial Crime-Free Communities Support Program  </td>
 
   <tr>
 
-    <td> 5354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5354" data-uslm-ref="/us/usc/t31/s5354">5354.</a>  </td>
 
     <td> Grants for fighting money laundering and related financial crimes.  </td>
 
@@ -337,7 +337,7 @@ Part 2—Financial Crime-Free Communities Support Program  </td>
 
   <tr>
 
-    <td> 5355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5355" data-uslm-ref="/us/usc/t31/s5355">5355.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING  </td>
 
   <tr>
 
-    <td> 5361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5361" data-uslm-ref="/us/usc/t31/s5361">5361.</a>  </td>
 
     <td> Congressional findings and purpose.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING  </td>
 
   <tr>
 
-    <td> 5362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5362" data-uslm-ref="/us/usc/t31/s5362">5362.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING  </td>
 
   <tr>
 
-    <td> 5363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5363" data-uslm-ref="/us/usc/t31/s5363">5363.</a>  </td>
 
     <td> Prohibition on acceptance of any financial instrument for unlawful Internet gambling.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING  </td>
 
   <tr>
 
-    <td> 5364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5364" data-uslm-ref="/us/usc/t31/s5364">5364.</a>  </td>
 
     <td> Policies and procedures to identify and prevent restricted transactions.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING  </td>
 
   <tr>
 
-    <td> 5365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5365" data-uslm-ref="/us/usc/t31/s5365">5365.</a>  </td>
 
     <td> Civil remedies.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING  </td>
 
   <tr>
 
-    <td> 5366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5366" data-uslm-ref="/us/usc/t31/s5366">5366.</a>  </td>
 
     <td> Criminal penalties.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING  </td>
 
   <tr>
 
-    <td> 5367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5367" data-uslm-ref="/us/usc/t31/s5367">5367.</a>  </td>
 
     <td> Circumventions prohibited.  </td>
 

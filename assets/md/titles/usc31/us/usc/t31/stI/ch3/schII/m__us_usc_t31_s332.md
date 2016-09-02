@@ -15,7 +15,7 @@
 
 ## § 332. Miscellaneous administrative authority
 
-The Secretary of the Treasury may to the extent provided in advance by appropriation Acts—
+    The Secretary of the Treasury may to the extent provided in advance by appropriation Acts—
 
     (1) contract for the temporary or intermittent services of experts or consultants as authorized by [section 3109 of title 5][/us/usc/t5/s3109], United States Code, at rates not to exceed the per diem equivalent to the rate for GS–18;
 

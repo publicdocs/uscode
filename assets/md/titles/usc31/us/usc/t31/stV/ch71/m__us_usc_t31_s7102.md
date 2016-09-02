@@ -15,7 +15,7 @@
 
 ## § 7102. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “applicant” means a State, local government, or private nonprofit organization applying for assistance for one project.
 

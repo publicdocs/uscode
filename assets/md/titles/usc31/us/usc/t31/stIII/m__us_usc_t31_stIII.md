@@ -29,67 +29,73 @@
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch31" data-uslm-ref="/us/usc/t31/stIII/ch31">31.</a>  </td>
 
     <td> Public Debt  </td>
 
-    <td> 3101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3101" data-uslm-ref="/us/usc/t31/s3101">3101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch33" data-uslm-ref="/us/usc/t31/stIII/ch33">33.</a>  </td>
 
     <td> Depositing, Keeping, and Paying Money  </td>
 
-    <td> 3301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3301" data-uslm-ref="/us/usc/t31/s3301">3301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch35" data-uslm-ref="/us/usc/t31/stIII/ch35">35.</a>  </td>
 
     <td> Accounting and Collection  </td>
 
-    <td> 3501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3501" data-uslm-ref="/us/usc/t31/s3501">3501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch37" data-uslm-ref="/us/usc/t31/stIII/ch37">37.</a>  </td>
 
     <td> Claims  </td>
 
-    <td> 3701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3701" data-uslm-ref="/us/usc/t31/s3701">3701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch38" data-uslm-ref="/us/usc/t31/stIII/ch38">38.</a>  </td>
 
     <td> Administrative Remedies for False Claims and Statements  </td>
 
-    <td> 3801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3801" data-uslm-ref="/us/usc/t31/s3801">3801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch39" data-uslm-ref="/us/usc/t31/stIII/ch39">39.</a>  </td>
 
     <td> Prompt Payment  </td>
 
-    <td> 3901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3901" data-uslm-ref="/us/usc/t31/s3901">3901</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Amendments  </td>
 
   </tr>
 
 </table>
-
- __Amendments__ 
 
     1986—[Pub. L. 99–509, title VI, § 6103(b)][/us/pl/99/509/s6103/b], Oct. 21, 1986, [100 Stat. 1948][/us/stat/100/1948], added item for chapter 38.
 

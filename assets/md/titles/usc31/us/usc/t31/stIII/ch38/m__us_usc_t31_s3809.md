@@ -15,7 +15,7 @@
 
 ## § 3809. Regulations
 
-Within 180 days after the date of enactment of this chapter, each authority head shall promulgate rules and regulations necessary to implement the provisions of this chapter. Such rules and regulations shall—
+    Within 180 days after the date of enactment of this chapter, each authority head shall promulgate rules and regulations necessary to implement the provisions of this chapter. Such rules and regulations shall—
 
     (1) ensure that investigating officials and reviewing officials are not responsible for conducting the hearing required in [section 3803(f) of this title][/us/usc/t31/s3803/f], making the determinations required by subsections (f) and (h) of [section 3803 of this title][/us/usc/t31/s3803], or making collections under [section 3806 of this title][/us/usc/t31/s3806]; and
 

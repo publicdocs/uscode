@@ -15,7 +15,7 @@
 
 ## § 1503. Comptroller General reports of amounts for which no accounting is made
 
-The Comptroller General shall make a special report each year to Congress on recommendations for changes in laws, that the Comptroller General believes may be in the public interest, about amounts—
+    The Comptroller General shall make a special report each year to Congress on recommendations for changes in laws, that the Comptroller General believes may be in the public interest, about amounts—
 
     (1) for which no accounting is made to the Comptroller General; and
 

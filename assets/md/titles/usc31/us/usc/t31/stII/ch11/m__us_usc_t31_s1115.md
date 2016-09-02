@@ -267,7 +267,9 @@
 
 >                 “(ii) __Reports.—__ 
 
->                 The Comptroller General shall submit to Congress—         “(I) an initial report on the evaluation under clause (i), not later than September 30, 2015; and
+>                 The Comptroller General shall submit to Congress—
+
+>                          “(I) an initial report on the evaluation under clause (i), not later than September 30, 2015; and
 
 >                          “(II) a subsequent report on the evaluation under clause (i), not later than September 30, 2017.
 
@@ -279,7 +281,9 @@
 
 >                 “(ii) __Reports.—__ 
 
->                 The Comptroller General shall submit to Congress—         “(I) an initial report on the evaluation under clause (i), not later than September 30, 2015; and
+>                 The Comptroller General shall submit to Congress—
+
+>                          “(I) an initial report on the evaluation under clause (i), not later than September 30, 2015; and
 
 >                          “(II) subsequent reports on the evaluation under clause (i), not later than September 30, 2017 and every 4 years thereafter.
 

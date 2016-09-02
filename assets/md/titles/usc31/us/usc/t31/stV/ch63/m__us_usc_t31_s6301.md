@@ -15,7 +15,7 @@
 
 ## § 6301. Purposes
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1) promote a better understanding of United States Government expenditures and help eliminate unnecessary administrative requirements on recipients of Government awards by characterizing the relationship between executive agencies and contractors, States, local governments, and other recipients in acquiring property and services and in providing United States Government assistance;
 

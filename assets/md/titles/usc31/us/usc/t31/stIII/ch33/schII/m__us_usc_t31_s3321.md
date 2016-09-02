@@ -699,11 +699,19 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             In this subsection the term ‘significant’ means—
 
->                 “(i) except as provided under clause (ii), that improper payments in the program or activity in the preceding fiscal year may have exceeded—         “(I) $10,000,000 of all program or activity payments made during that fiscal year reported and 2.5 percent of program outlays; or
+>                 “(i)
+
+>                  except as provided under clause (ii), that improper payments in the program or activity in the preceding fiscal year may have exceeded—
+
+>                          “(I) $10,000,000 of all program or activity payments made during that fiscal year reported and 2.5 percent of program outlays; or
 
 >                          “(II) $100,000,000; and
 
->                 “(ii) with respect to fiscal year 2014 and each fiscal year thereafter, that improper payments in the program or activity in the preceding fiscal year may have exceeded—         “(I) $10,000,000 of all program or activity payments made during that fiscal year reported and 1.5 percent of program outlays; or
+>                 “(ii)
+
+>                  with respect to fiscal year 2014 and each fiscal year thereafter, that improper payments in the program or activity in the preceding fiscal year may have exceeded—
+
+>                          “(I) $10,000,000 of all program or activity payments made during that fiscal year reported and 1.5 percent of program outlays; or
 
 >                          “(II) $100,000,000.
 
@@ -755,11 +763,13 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >                  shall describe—
 
->                      “(I) any action the agency—
+>                          “(I)
 
->                     “(aa) has taken or plans to take to recover improper payments; and
+>                      any action the agency—
 
->                     “(bb) intends to take to prevent future improper payments; and
+>                         “(aa) has taken or plans to take to recover improper payments; and
+
+>                         “(bb) intends to take to prevent future improper payments; and
 
 >                 “(ii) shall not include any referrals the agency made or anticipates making to the Department of Justice, or any information provided in connection with such referrals.
 
@@ -775,7 +785,11 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             The Inspector General of each agency that submits a report under this paragraph shall, for each program of the agency that is identified under paragraph (1)(A)—
 
->                 “(i) review—         “(I) the assessment of the level of risk associated with the program, and the quality of the improper payment estimates and methodology of the agency relating to the program; and
+>                 “(i)
+
+>                  review—
+
+>                          “(I) the assessment of the level of risk associated with the program, and the quality of the improper payment estimates and methodology of the agency relating to the program; and
 
 >                          “(II) the oversight or financial controls to identify and prevent improper payments under the program; and
 

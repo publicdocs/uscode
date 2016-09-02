@@ -15,7 +15,7 @@
 
 ## § 1516. Exemptions
 
-An official designated in [section 1513 of this title][/us/usc/t31/s1513] to make apportionments may exempt from apportionment—
+    An official designated in [section 1513 of this title][/us/usc/t31/s1513] to make apportionments may exempt from apportionment—
 
     (1) a trust fund or working fund if an expenditure from the fund has no significant effect on the financial operations of the United States Government;
 

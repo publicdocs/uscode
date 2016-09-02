@@ -15,7 +15,7 @@
 
 ## § 7101. Purposes
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1) enable States, local governments, and private nonprofit organizations to use assistance of the United States Government more effectively and efficiently;
 

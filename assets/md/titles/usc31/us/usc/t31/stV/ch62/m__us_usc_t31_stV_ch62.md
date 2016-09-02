@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6201" data-uslm-ref="/us/usc/t31/s6201">6201.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6202" data-uslm-ref="/us/usc/t31/s6202">6202.</a>  </td>
 
     <td> Content, form, and data for report.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6203" data-uslm-ref="/us/usc/t31/s6203">6203.</a>  </td>
 
     <td> Printing and distribution of reports and machine-readable records.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6204" data-uslm-ref="/us/usc/t31/s6204">6204.</a>  </td>
 
     <td> Delegation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6205" data-uslm-ref="/us/usc/t31/s6205">6205.</a>  </td>
 
     <td> Availability of information.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6206" data-uslm-ref="/us/usc/t31/s6206">6206.</a>  </td>
 
     <td> Data consistency and uniformity of data elements.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6207" data-uslm-ref="/us/usc/t31/s6207">6207.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

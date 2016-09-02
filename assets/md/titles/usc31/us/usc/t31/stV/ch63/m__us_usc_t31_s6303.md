@@ -15,7 +15,7 @@
 
 ## § 6303. Using procurement contracts
 
-An executive agency shall use a procurement contract as the legal instrument reflecting a relationship between the United States Government and a State, a local government, or other recipient when—
+    An executive agency shall use a procurement contract as the legal instrument reflecting a relationship between the United States Government and a State, a local government, or other recipient when—
 
     (1) the principal purpose of the instrument is to acquire (by purchase, lease, or barter) property or services for the direct benefit or use of the United States Government; or
 

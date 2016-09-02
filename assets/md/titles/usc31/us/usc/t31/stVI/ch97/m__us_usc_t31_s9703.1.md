@@ -1,7 +1,7 @@
 ---
 ---
 
-# 31 U.S.C., USLM ref /us/usc/t31/s9703
+# 31 U.S.C., USLM ref /us/usc/t31/s9703.1
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9702.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9704.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703)
+[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9702.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9704.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703.1)
 
 ## § 9703. <sup>\[1\]</sup>  <sup><sup> 1 Another section 9703 is set out after [section 9704 of this title][/us/usc/t31/s9704]. </sup></sup>  Managerial accountability and flexibility
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9702.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9704.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703)
+[Previous](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9702.md) | [Next](./../../../../..//us/usc/t31/stVI/ch97/m__us_usc_t31_s9704.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703.1)
 
 ----------
 ----------

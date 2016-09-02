@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3501" data-uslm-ref="/us/usc/t31/s3501">3501.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—ACCOUNTING REQUIREMENTS, SYSTEMS, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 3511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3511" data-uslm-ref="/us/usc/t31/s3511">3511.</a>  </td>
 
     <td> Prescribing accounting requirements and developing accounting systems.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—ACCOUNTING REQUIREMENTS, SYSTEMS, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 3512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3512" data-uslm-ref="/us/usc/t31/s3512">3512.</a>  </td>
 
     <td> Executive agency accounting and other financial management reports and plans.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—ACCOUNTING REQUIREMENTS, SYSTEMS, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 3513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3513" data-uslm-ref="/us/usc/t31/s3513">3513.</a>  </td>
 
     <td> Financial reporting and accounting system.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—ACCOUNTING REQUIREMENTS, SYSTEMS, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 3514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3514" data-uslm-ref="/us/usc/t31/s3514">3514.</a>  </td>
 
     <td> Discontinuing certain accounts maintained by the Comptroller General.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—ACCOUNTING REQUIREMENTS, SYSTEMS, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 3515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3515" data-uslm-ref="/us/usc/t31/s3515">3515.</a>  </td>
 
     <td> Financial statements of agencies.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ACCOUNTING REQUIREMENTS, SYSTEMS, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 3516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3516" data-uslm-ref="/us/usc/t31/s3516">3516.</a>  </td>
 
     <td> Reports consolidation.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3521" data-uslm-ref="/us/usc/t31/s3521">3521.</a>  </td>
 
     <td> Audits by agencies.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3522" data-uslm-ref="/us/usc/t31/s3522">3522.</a>  </td>
 
     <td> Making and submitting accounts.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3523" data-uslm-ref="/us/usc/t31/s3523">3523.</a>  </td>
 
     <td> General audit authority of the Comptroller General.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3524" data-uslm-ref="/us/usc/t31/s3524">3524.</a>  </td>
 
     <td> Auditing expenditures approved without vouchers.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3525" data-uslm-ref="/us/usc/t31/s3525">3525.</a>  </td>
 
     <td> Auditing nonappropriated fund activities.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3526" data-uslm-ref="/us/usc/t31/s3526">3526.</a>  </td>
 
     <td> Settlement of accounts.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3527" data-uslm-ref="/us/usc/t31/s3527">3527.</a>  </td>
 
     <td> General authority to relieve accountable officials and agents from liability.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3528" data-uslm-ref="/us/usc/t31/s3528">3528.</a>  </td>
 
     <td> Responsibilities and relief from liability of certifying officials.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3529.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3529" data-uslm-ref="/us/usc/t31/s3529">3529.</a>  </td>
 
     <td> Requests for decisions of the Comptroller General.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3530.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3530" data-uslm-ref="/us/usc/t31/s3530">3530.</a>  </td>
 
     <td> Adjusting accounts.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> [3531.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3531" data-uslm-ref="/us/usc/t31/s3531">3531.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS  </td>
 
   <tr>
 
-    <td> 3532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3532" data-uslm-ref="/us/usc/t31/s3532">3532.</a>  </td>
 
     <td> Notification of account deficiencies.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—COLLECTION  </td>
 
   <tr>
 
-    <td> 3541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3541" data-uslm-ref="/us/usc/t31/s3541">3541.</a>  </td>
 
     <td> Distress warrants.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—COLLECTION  </td>
 
   <tr>
 
-    <td> 3542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3542" data-uslm-ref="/us/usc/t31/s3542">3542.</a>  </td>
 
     <td> Carrying out distress warrants.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—COLLECTION  </td>
 
   <tr>
 
-    <td> 3543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3543" data-uslm-ref="/us/usc/t31/s3543">3543.</a>  </td>
 
     <td> Postponing a distress warrant proceeding.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—COLLECTION  </td>
 
   <tr>
 
-    <td> 3544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3544" data-uslm-ref="/us/usc/t31/s3544">3544.</a>  </td>
 
     <td> Rights and remedies of the United States Government reserved.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—COLLECTION  </td>
 
   <tr>
 
-    <td> 3545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3545" data-uslm-ref="/us/usc/t31/s3545">3545.</a>  </td>
 
     <td> Civil action to recover money.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER V—PROCUREMENT PROTEST SYSTEM  </td>
 
   <tr>
 
-    <td> 3551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3551" data-uslm-ref="/us/usc/t31/s3551">3551.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER V—PROCUREMENT PROTEST SYSTEM  </td>
 
   <tr>
 
-    <td> 3552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3552" data-uslm-ref="/us/usc/t31/s3552">3552.</a>  </td>
 
     <td> Protests by interested parties concerning procurement actions.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER V—PROCUREMENT PROTEST SYSTEM  </td>
 
   <tr>
 
-    <td> 3553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3553" data-uslm-ref="/us/usc/t31/s3553">3553.</a>  </td>
 
     <td> Review of protests; effect on contracts pending decision.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER V—PROCUREMENT PROTEST SYSTEM  </td>
 
   <tr>
 
-    <td> 3554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3554" data-uslm-ref="/us/usc/t31/s3554">3554.</a>  </td>
 
     <td> Decisions on protests.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER V—PROCUREMENT PROTEST SYSTEM  </td>
 
   <tr>
 
-    <td> 3555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3555" data-uslm-ref="/us/usc/t31/s3555">3555.</a>  </td>
 
     <td> Regulations; authority of Comptroller General to verify assertions.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER V—PROCUREMENT PROTEST SYSTEM  </td>
 
   <tr>
 
-    <td> 3556.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3556" data-uslm-ref="/us/usc/t31/s3556">3556.</a>  </td>
 
     <td> Nonexclusivity of remedies; matters included in agency record.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER V—PROCUREMENT PROTEST SYSTEM  </td>
 
   <tr>
 
-    <td> 3557.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3557" data-uslm-ref="/us/usc/t31/s3557">3557.</a>  </td>
 
     <td> Expedited action in protests of public-private competitions.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER VI—RECOVERY AUDITS  <sup>[1]</sup>  <sup><sup> 1 Editorially su
 
   <tr>
 
-    <td> [3561.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3561" data-uslm-ref="/us/usc/t31/s3561">3561.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER VI—RECOVERY AUDITS  <sup>[1]</sup>  <sup><sup> 1 Editorially su
 
   <tr>
 
-    <td> 3562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3562" data-uslm-ref="/us/usc/t31/s3562">3562.</a>  </td>
 
     <td> Disposition of recovered funds. <sup>[1]</sup>   </td>
 
@@ -337,7 +337,9 @@ SUBCHAPTER VI—RECOVERY AUDITS  <sup>[1]</sup>  <sup><sup> 1 Editorially su
 
   <tr>
 
-    <td> [3563 to 3567. Repealed.].  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3563" data-uslm-ref="/us/usc/t31/s3563">3563</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3567" data-uslm-ref="/us/usc/t31/s3567">3567.</a>  </td>
+
+    <td> Repealed.]  </td>
 
   </tr>
 

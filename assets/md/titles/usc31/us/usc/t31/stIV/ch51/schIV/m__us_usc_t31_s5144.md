@@ -15,7 +15,7 @@
 
 ## § 5144. Providing impressions of portraits and vignettes
 
-The Secretary of the Treasury may provide impressions from an engraved portrait or vignette in the possession of the Bureau of Engraving and Printing. An impression shall be provided—
+    The Secretary of the Treasury may provide impressions from an engraved portrait or vignette in the possession of the Bureau of Engraving and Printing. An impression shall be provided—
 
     (1)
 

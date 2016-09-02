@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7301" data-uslm-ref="/us/usc/t31/s7301">7301.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7302" data-uslm-ref="/us/usc/t31/s7302">7302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7303" data-uslm-ref="/us/usc/t31/s7303">7303.</a>  </td>
 
     <td> Reports and public hearings on proposed uses of amounts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7304" data-uslm-ref="/us/usc/t31/s7304">7304.</a>  </td>
 
     <td> Availability of records.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs7305" data-uslm-ref="/us/usc/t31/s7305">7305.</a>  </td>
 
     <td> State auditing requirements.  </td>
 

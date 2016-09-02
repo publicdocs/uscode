@@ -15,7 +15,7 @@
 
 ## § 6302. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “executive agency” does not include a mixed-ownership Government corporation.
 

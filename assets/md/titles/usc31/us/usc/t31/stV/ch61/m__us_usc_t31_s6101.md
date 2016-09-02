@@ -15,7 +15,7 @@
 
 ## § 6101. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “administering office” means the lowest unit of an agency responsible for managing a domestic assistance program.
 
@@ -391,7 +391,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >              the names and total compensation of the five most highly compensated officers of the entity if—
 
->                 “(i) the entity in the preceding fiscal year received—         “(I) 80 percent or more of its annual gross revenues in Federal awards; and
+>                 “(i)
+
+>                  the entity in the preceding fiscal year received—
+
+>                          “(I) 80 percent or more of its annual gross revenues in Federal awards; and
 
 >                          “(II) $25,000,000 or more in annual gross revenues from Federal awards; and
 
@@ -441,7 +445,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >                 “(i) test the collection and accession of data about subgrants and subcontracts; and
 
->                 “(ii) determine how to implement a subaward reporting program across the Federal Government, including—         “(I) a reporting system under which the entity issuing a subgrant or subcontract is responsible for fulfilling the subaward reporting requirement; and
+>                 “(ii)
+
+>                  determine how to implement a subaward reporting program across the Federal Government, including—
+
+>                          “(I) a reporting system under which the entity issuing a subgrant or subcontract is responsible for fulfilling the subaward reporting requirement; and
 
 >                          “(II) a mechanism for collecting and incorporating agency and public feedback on the design and utility of the website.
 
@@ -457,7 +465,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >                 “(i) shall ensure that data regarding subawards are disclosed in the same manner as data regarding other Federal awards, as required by this Act; and
 
->                 “(ii) shall ensure that the method for collecting and distributing data about subawards under clause (i)—         “(I) minimizes burdens imposed on Federal award recipients and subaward recipients;
+>                 “(ii)
+
+>                  shall ensure that the method for collecting and distributing data about subawards under clause (i)—
+
+>                          “(I) minimizes burdens imposed on Federal award recipients and subaward recipients;
 
 >                          “(II) allows Federal award recipients and subaward recipients to allocate reasonable costs for the collection and reporting of subaward data as indirect costs; and
 

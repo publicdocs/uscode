@@ -33,7 +33,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs301" data-uslm-ref="/us/usc/t31/s301">301.</a>  </td>
 
     <td> Department of the Treasury.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs302" data-uslm-ref="/us/usc/t31/s302">302.</a>  </td>
 
     <td> Treasury of the United States.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs303" data-uslm-ref="/us/usc/t31/s303">303.</a>  </td>
 
     <td> Bureau of Engraving and Printing.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs304" data-uslm-ref="/us/usc/t31/s304">304.</a>  </td>
 
     <td> Bureau of the Mint. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs305" data-uslm-ref="/us/usc/t31/s305">305.</a>  </td>
 
     <td> Federal Financing Bank.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs306" data-uslm-ref="/us/usc/t31/s306">306.</a>  </td>
 
     <td> Fiscal Service.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs307" data-uslm-ref="/us/usc/t31/s307">307.</a>  </td>
 
     <td> Office of the Comptroller of the Currency.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs308" data-uslm-ref="/us/usc/t31/s308">308.</a>  </td>
 
     <td> United States Customs Service.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs309" data-uslm-ref="/us/usc/t31/s309">309.</a>  </td>
 
     <td> Office of Thrift Supervision.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs310" data-uslm-ref="/us/usc/t31/s310">310.</a>  </td>
 
     <td> Financial Crimes Enforcement Network.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs311" data-uslm-ref="/us/usc/t31/s311">311.</a>  </td>
 
     <td> Office of Intelligence and Analysis.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs312" data-uslm-ref="/us/usc/t31/s312">312.</a>  </td>
 
     <td> Terrorism and financial intelligence.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs313" data-uslm-ref="/us/usc/t31/s313">313.</a>  </td>
 
     <td> Federal Insurance Office.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs314" data-uslm-ref="/us/usc/t31/s314">314.</a>  </td>
 
     <td> Covered agreements.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs315" data-uslm-ref="/us/usc/t31/s315">315.</a>  </td>
 
     <td> Continuing in office.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs321" data-uslm-ref="/us/usc/t31/s321">321.</a>  </td>
 
     <td> General authority of the Secretary.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs322" data-uslm-ref="/us/usc/t31/s322">322.</a>  </td>
 
     <td> Working capital fund.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs323" data-uslm-ref="/us/usc/t31/s323">323.</a>  </td>
 
     <td> Investment of operating cash.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs324" data-uslm-ref="/us/usc/t31/s324">324.</a>  </td>
 
     <td> Disposing and extending the maturity of obligations.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs325" data-uslm-ref="/us/usc/t31/s325">325.</a>  </td>
 
     <td> International affairs authorization.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs326" data-uslm-ref="/us/usc/t31/s326">326.</a>  </td>
 
     <td> Availability of appropriations for certain expenses.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs327" data-uslm-ref="/us/usc/t31/s327">327.</a>  </td>
 
     <td> Advancements and reimbursements for services.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs328" data-uslm-ref="/us/usc/t31/s328">328.</a>  </td>
 
     <td> Accounts and payments of former disbursing officials.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs329" data-uslm-ref="/us/usc/t31/s329">329.</a>  </td>
 
     <td> Limitations on outside activities.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs330" data-uslm-ref="/us/usc/t31/s330">330.</a>  </td>
 
     <td> Practice before the Department.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs331" data-uslm-ref="/us/usc/t31/s331">331.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs332" data-uslm-ref="/us/usc/t31/s332">332.</a>  </td>
 
     <td> Miscellaneous administrative authority.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs333" data-uslm-ref="/us/usc/t31/s333">333.</a>  </td>
 
     <td> Prohibition of misuse of Department of the Treasury names, symbols, etc.  </td>
 

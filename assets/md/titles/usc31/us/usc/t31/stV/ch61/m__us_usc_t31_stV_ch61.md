@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6101" data-uslm-ref="/us/usc/t31/s6101">6101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6102" data-uslm-ref="/us/usc/t31/s6102">6102.</a>  </td>
 
     <td> Program information requirements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6102a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6102a" data-uslm-ref="/us/usc/t31/s6102a">6102a.</a>  </td>
 
     <td> Assistance awards information system.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6103" data-uslm-ref="/us/usc/t31/s6103">6103.</a>  </td>
 
     <td> Access to computer information system.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6104" data-uslm-ref="/us/usc/t31/s6104">6104.</a>  </td>
 
     <td> Catalog of Federal domestic assistance programs.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6105" data-uslm-ref="/us/usc/t31/s6105">6105.</a>  </td>
 
     <td> Oversight responsibility of Director.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6106" data-uslm-ref="/us/usc/t31/s6106">6106.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

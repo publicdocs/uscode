@@ -33,7 +33,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs501" data-uslm-ref="/us/usc/t31/s501">501.</a>  </td>
 
     <td> Office of Management and Budget.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs502" data-uslm-ref="/us/usc/t31/s502">502.</a>  </td>
 
     <td> Officers.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs503" data-uslm-ref="/us/usc/t31/s503">503.</a>  </td>
 
     <td> Functions of Deputy Director for Management.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs504" data-uslm-ref="/us/usc/t31/s504">504.</a>  </td>
 
     <td> Office of Federal Financial Management.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs505" data-uslm-ref="/us/usc/t31/s505">505.</a>  </td>
 
     <td> Office of Information and Regulatory Affairs.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs506" data-uslm-ref="/us/usc/t31/s506">506.</a>  </td>
 
     <td> Office of Federal Procurement Policy.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs507" data-uslm-ref="/us/usc/t31/s507">507.</a>  </td>
 
     <td> Office of Electronic Government.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs521" data-uslm-ref="/us/usc/t31/s521">521.</a>  </td>
 
     <td> Employees.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs522" data-uslm-ref="/us/usc/t31/s522">522.</a>  </td>
 
     <td> Necessary expenditures.  </td>
 

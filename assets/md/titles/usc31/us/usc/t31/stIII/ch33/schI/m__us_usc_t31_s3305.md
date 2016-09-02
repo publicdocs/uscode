@@ -15,7 +15,7 @@
 
 ## § 3305. Audits of depositaries
 
-The Secretary of the Treasury, or an officer, employee, or agent designated by the Secretary, may audit a depositary of public money. For uniformity and accuracy in accounts and safety of public money, an individual conducting an audit shall audit a depositary’s—
+    The Secretary of the Treasury, or an officer, employee, or agent designated by the Secretary, may audit a depositary of public money. For uniformity and accuracy in accounts and safety of public money, an individual conducting an audit shall audit a depositary’s—
 
     (1) books;
 

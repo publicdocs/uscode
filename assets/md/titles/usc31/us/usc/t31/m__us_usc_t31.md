@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t31/stI/m__us_usc_t31_stI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31)
 
-# 
-
-Title 31—MONEY AND FINANCE
+# Title 31—MONEY AND FINANCE
 
 This title was enacted by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877]
+
+Current through 113–44
 
 <table>
 
@@ -33,61 +33,61 @@ This title was enacted by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstI" data-uslm-ref="/us/usc/t31/stI">I.</a>  </td>
 
     <td> General  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs101" data-uslm-ref="/us/usc/t31/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstII" data-uslm-ref="/us/usc/t31/stII">II.</a>  </td>
 
     <td> The Budget Process  </td>
 
-    <td> 1101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs1101" data-uslm-ref="/us/usc/t31/s1101">1101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstIII" data-uslm-ref="/us/usc/t31/stIII">III.</a>  </td>
 
     <td> Financial Management  </td>
 
-    <td> 3101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3101" data-uslm-ref="/us/usc/t31/s3101">3101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstIV" data-uslm-ref="/us/usc/t31/stIV">IV.</a>  </td>
 
     <td> Money  </td>
 
-    <td> 5101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs5101" data-uslm-ref="/us/usc/t31/s5101">5101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstV" data-uslm-ref="/us/usc/t31/stV">V.</a>  </td>
 
     <td> General Assistance Administration  </td>
 
-    <td> 6101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs6101" data-uslm-ref="/us/usc/t31/s6101">6101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstVI" data-uslm-ref="/us/usc/t31/stVI">VI.</a>  </td>
 
     <td> Miscellaneous  </td>
 
-    <td> 9101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9101" data-uslm-ref="/us/usc/t31/s9101">9101</a>  </td>
 
   </tr>
 

@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstVI%2Fch91" data-uslm-ref="/us/usc/t31/stVI/ch91">91.</a>  </td>
 
     <td> Government Corporations  </td>
 
-    <td> 9101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9101" data-uslm-ref="/us/usc/t31/s9101">9101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 93.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstVI%2Fch93" data-uslm-ref="/us/usc/t31/stVI/ch93">93.</a>  </td>
 
     <td> Sureties and Surety Bonds  </td>
 
-    <td> 9301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9301" data-uslm-ref="/us/usc/t31/s9301">9301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 95.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstVI%2Fch95" data-uslm-ref="/us/usc/t31/stVI/ch95">95.</a>  </td>
 
     <td> Government Pension Plan Protection  </td>
 
-    <td> 9501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9501" data-uslm-ref="/us/usc/t31/s9501">9501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 97.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2FstVI%2Fch97" data-uslm-ref="/us/usc/t31/stVI/ch97">97.</a>  </td>
 
     <td> Miscellaneous  </td>
 
-    <td> 9701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9701" data-uslm-ref="/us/usc/t31/s9701">9701</a>  </td>
 
   </tr>
 

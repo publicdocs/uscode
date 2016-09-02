@@ -33,7 +33,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3101" data-uslm-ref="/us/usc/t31/s3101">3101.</a>  </td>
 
     <td> Public debt limit.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3101A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3101A" data-uslm-ref="/us/usc/t31/s3101A">3101A.</a>  </td>
 
     <td> Presidential modification of the debt ceiling.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3102" data-uslm-ref="/us/usc/t31/s3102">3102.</a>  </td>
 
     <td> Bonds.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3103" data-uslm-ref="/us/usc/t31/s3103">3103.</a>  </td>
 
     <td> Notes.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3104" data-uslm-ref="/us/usc/t31/s3104">3104.</a>  </td>
 
     <td> Certificates of indebtedness and Treasury bills.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3105" data-uslm-ref="/us/usc/t31/s3105">3105.</a>  </td>
 
     <td> Savings bonds and savings certificates.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3106" data-uslm-ref="/us/usc/t31/s3106">3106.</a>  </td>
 
     <td> Retirement and savings bonds.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3107" data-uslm-ref="/us/usc/t31/s3107">3107.</a>  </td>
 
     <td> Increasing interest rates and investment yields on retirement bonds.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3108" data-uslm-ref="/us/usc/t31/s3108">3108.</a>  </td>
 
     <td> Prohibition against circulation privilege.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3109" data-uslm-ref="/us/usc/t31/s3109">3109.</a>  </td>
 
     <td> Tax and loss bonds.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3110" data-uslm-ref="/us/usc/t31/s3110">3110.</a>  </td>
 
     <td> Sale of obligations of governments of foreign countries.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3111" data-uslm-ref="/us/usc/t31/s3111">3111.</a>  </td>
 
     <td> New issue used to buy, redeem, or refund outstanding obligations.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3112" data-uslm-ref="/us/usc/t31/s3112">3112.</a>  </td>
 
     <td> Sinking fund for retiring and cancelling bonds and notes.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—BORROWING AUTHORITY  </td>
 
   <tr>
 
-    <td> 3113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3113" data-uslm-ref="/us/usc/t31/s3113">3113.</a>  </td>
 
     <td> Accepting gifts.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 3121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3121" data-uslm-ref="/us/usc/t31/s3121">3121.</a>  </td>
 
     <td> Procedure.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 3122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3122" data-uslm-ref="/us/usc/t31/s3122">3122.</a>  </td>
 
     <td> Banks and trust companies as depositaries.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 3123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3123" data-uslm-ref="/us/usc/t31/s3123">3123.</a>  </td>
 
     <td> Payment of obligations and interest on the public debt.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 3124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3124" data-uslm-ref="/us/usc/t31/s3124">3124.</a>  </td>
 
     <td> Exemption from taxation.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 3125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3125" data-uslm-ref="/us/usc/t31/s3125">3125.</a>  </td>
 
     <td> Relief for lost, stolen, destroyed, mutilated, or defaced obligations.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 3126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3126" data-uslm-ref="/us/usc/t31/s3126">3126.</a>  </td>
 
     <td> Losses and relief from liability related to redeeming savings bonds and notes.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 3127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3127" data-uslm-ref="/us/usc/t31/s3127">3127.</a>  </td>
 
     <td> Credit to officers, employees, and agents for stolen Treasury notes.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 3128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3128" data-uslm-ref="/us/usc/t31/s3128">3128.</a>  </td>
 
     <td> Proof of death to support payment.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 3129.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3129" data-uslm-ref="/us/usc/t31/s3129">3129.</a>  </td>
 
     <td> Appropriation to pay expenses.  </td>
 
@@ -225,15 +225,21 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 3130.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs3130" data-uslm-ref="/us/usc/t31/s3130">3130.</a>  </td>
 
     <td> Annual public debt report.  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     2011—[Pub. L. 112–25, title III, § 301(b)][/us/pl/112/25/s301/b], Aug. 2, 2011, [125 Stat. 255][/us/stat/125/255], added item 3101A.
 

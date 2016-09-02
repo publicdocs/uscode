@@ -15,7 +15,7 @@
 
 ## § 5363. Prohibition on acceptance of any financial instrument for unlawful Internet gambling
 
-No person engaged in the business of betting or wagering may knowingly accept, in connection with the participation of another person in unlawful Internet gambling—
+    No person engaged in the business of betting or wagering may knowingly accept, in connection with the participation of another person in unlawful Internet gambling—
 
     (1) credit, or the proceeds of credit, extended to or on behalf of such other person (including credit extended through the use of a credit card);
 

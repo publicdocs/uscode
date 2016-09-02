@@ -15,7 +15,7 @@
 
 ## § 5304. Regulations
 
-With the approval of the President, the Secretary of the Treasury may prescribe regulations—
+    With the approval of the President, the Secretary of the Treasury may prescribe regulations—
 
     (1) to carry out [section 5301 of this title][/us/usc/t31/s5301]; and
 

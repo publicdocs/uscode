@@ -15,7 +15,7 @@
 
 ## § 6906. Funding
 
-For each of fiscal years 2008 through 2013—
+    For each of fiscal years 2008 through 2013—
 
     (1) each county or other eligible unit of local government shall be entitled to payment under this chapter; and
 

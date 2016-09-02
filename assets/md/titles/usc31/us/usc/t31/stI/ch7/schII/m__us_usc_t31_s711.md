@@ -15,7 +15,7 @@
 
 ## § 711. General authority
 
-The Comptroller General may—
+    The Comptroller General may—
 
     (1) prescribe regulations to carry out the duties and powers of the Comptroller General;
 

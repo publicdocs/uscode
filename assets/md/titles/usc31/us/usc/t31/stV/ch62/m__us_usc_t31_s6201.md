@@ -15,7 +15,7 @@
 
 ## § 6201. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “Director” means the Director of the Office of Management and Budget;
 

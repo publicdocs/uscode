@@ -457,11 +457,15 @@ In subsection (e), the words “of the Treasury” in 31:1006 and 1007 are omitt
 
 [Pub. L. 103–2][/us/pl/103/2], Jan. 19, 1993, [107 Stat. 4][/us/stat/107/4], provided: 
 
-> “That (a) the compensation and other emoluments attached to the office of Secretary of the Treasury shall be those in effect January 1, 1989, notwithstanding any increase in such compensation or emoluments after that date under—
+>     “That 
 
->     “(1) the Ethics Reform Act of 1989 ([Public Law 101–194][/us/pl/101/194]) \[see Tables for classification\] or any other provision of law amended by that Act; or
+>     (a)
 
->     “(2) any other provision of law, or provision which has the force and effect of law, that is enacted or becomes effective during the period beginning at noon of January 3, 1989, and ending at noon of January 3, 1995.
+>      the compensation and other emoluments attached to the office of Secretary of the Treasury shall be those in effect January 1, 1989, notwithstanding any increase in such compensation or emoluments after that date under—
+
+>         “(1) the Ethics Reform Act of 1989 ([Public Law 101–194][/us/pl/101/194]) \[see Tables for classification\] or any other provision of law amended by that Act; or
+
+>         “(2) any other provision of law, or provision which has the force and effect of law, that is enacted or becomes effective during the period beginning at noon of January 3, 1989, and ending at noon of January 3, 1995.
 
 >     “(b)
 

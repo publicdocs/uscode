@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9501" data-uslm-ref="/us/usc/t31/s9501">9501.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9502" data-uslm-ref="/us/usc/t31/s9502">9502.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9503" data-uslm-ref="/us/usc/t31/s9503">9503.</a>  </td>
 
     <td> Reports about Government pension plans.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs9504" data-uslm-ref="/us/usc/t31/s9504">9504.</a>  </td>
 
     <td> Review and recommendations.  </td>
 

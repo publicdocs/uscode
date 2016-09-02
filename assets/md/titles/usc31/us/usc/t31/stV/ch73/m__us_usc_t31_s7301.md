@@ -15,7 +15,7 @@
 
 ## § 7301. Purpose
 
-It is the purpose of this chapter to ensure that—
+    It is the purpose of this chapter to ensure that—
 
     (1) block grant amounts are allocated for programs of special importance to meet the needs of local governments, residents of local governments, and other eligible entities; and
 

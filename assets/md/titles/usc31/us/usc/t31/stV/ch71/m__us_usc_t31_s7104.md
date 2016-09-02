@@ -15,7 +15,7 @@
 
 ## § 7104. Processing project requests to be financed by at least 2 assistance programs
 
-In processing an application or request for assistance for a project to be financed by at least 2 assistance programs, the head of an executive agency shall take action that will ensure that—
+    In processing an application or request for assistance for a project to be financed by at least 2 assistance programs, the head of an executive agency shall take action that will ensure that—
 
     (1) required reviews and approvals are handled expeditiously;
 

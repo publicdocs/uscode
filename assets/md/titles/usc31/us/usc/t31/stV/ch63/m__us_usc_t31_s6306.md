@@ -15,7 +15,7 @@
 
 ## § 6306. Authority to vest title in tangible personal property for research
 
-The head of an executive agency may vest title in tangible personal property in a nonprofit institution of higher education or in a nonprofit organization whose primary purpose is conducting scientific research—
+    The head of an executive agency may vest title in tangible personal property in a nonprofit institution of higher education or in a nonprofit organization whose primary purpose is conducting scientific research—
 
     (1) when the property is bought with amounts provided under a procurement contract, grant agreement, or cooperative agreement with the institution or organization to conduct basic or applied scientific research;
 
