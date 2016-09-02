@@ -15,7 +15,7 @@
 
 # Title 20—EDUCATION
 
-Current through 113–296not287
+Current through 113-296
 
 <table>
 
