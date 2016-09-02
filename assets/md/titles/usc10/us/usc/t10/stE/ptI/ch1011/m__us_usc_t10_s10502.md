@@ -1,0 +1,139 @@
+---
+---
+
+# 10 U.S.C., USLM ref /us/usc/t10/s10502
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stE/ptI/ch1011/m__us_usc_t10_s10501.md) | [Next](./../../../../../..//us/usc/t10/stE/ptI/ch1011/m__us_usc_t10_s10503.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10502)
+
+## § 10502. Chief of the National Guard Bureau: appointment; adviser on National Guard matters; grade; succession
+
+    (a) __Appointment.—__ 
+
+    There is a Chief of the National Guard Bureau, who is responsible for the organization and operations of the National Guard Bureau. The Chief of the National Guard Bureau is appointed by the President, by and with the advice and consent of the Senate. Such appointment shall be made from officers of the Army National Guard of the United States or the Air National Guard of the United States who—
+
+        (1) are recommended for such appointment by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard;
+
+        (2) are recommended for such appointment by the Secretary of the Army or the Secretary of the Air Force;
+
+        (3) have had at least 10 years of federally recognized commissioned service in an active status in the National Guard;
+
+        (4) are in a grade above the grade of brigadier general;
+
+        (5) are determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience;
+
+        (6) are determined by the Secretary of Defense to have successfully completed such other assignments and experiences so as to possess a detailed understanding of the status and capabilities of National Guard forces and the missions of the National Guard Bureau as set forth in [section 10503 of this title][/us/usc/t10/s10503];
+
+        (7) have a level of operational experience in a position of significant responsibility, professional military education, and demonstrated expertise in national defense and homeland defense matters that are commensurate with the advisory role of the Chief of the National Guard Bureau; and
+
+        (8) possess such other qualifications as the Secretary of Defense shall prescribe for purposes of this section.
+
+    (b) __Term of Office.—__ 
+
+        (1) An officer appointed as Chief of the National Guard Bureau serves at the pleasure of the President for a term of four years. An officer may be reappointed as Chief of the National Guard Bureau.
+
+        (2) Except as provided in [section 14508(d) of this title][/us/usc/t10/s14508/d], while holding the office of Chief of the National Guard Bureau, the Chief of the National Guard Bureau may not be removed from the reserve active-status list, or from an active status, under any provision of law that otherwise would require such removal due to completion of a specified number of years of service or a specified number of years of service in grade.
+
+    (c) __Advisor on National Guard Matters.—__ 
+
+    The Chief of the National Guard Bureau is—
+
+        (1) a principal advisor to the Secretary of Defense, through the Chairman of the Joint Chiefs of Staff, on matters involving non-federalized National Guard forces and on other matters as determined by the Secretary of Defense; and
+
+        (2) the principal adviser to the Secretary of the Army and the Chief of Staff of the Army, and to the Secretary of the Air Force and the Chief of Staff of the Air Force, on matters relating to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States.
+
+    (d) __Member of Joint Chiefs of Staff.—__ 
+
+    As a member of the Joint Chiefs of Staff, the Chief of the National Guard Bureau has the specific responsibility of addressing matters involving non-Federalized National Guard forces in support of homeland defense and civil support missions.
+
+    (e) __Grade and Exclusion From General and Flag Officer Authorized Strength.—__ 
+
+        (1) The Chief of the National Guard Bureau shall be appointed to serve in the grade of general.
+
+        (2) The Secretary of Defense shall designate, pursuant to subsection (b) of [section 526 of this title][/us/usc/t10/s526], the position of Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
+
+    (f) __Succession.—__ 
+
+        (1) When there is a vacancy in the office of the Chief of the National Guard Bureau or in the absence or disability of the Chief, the Vice Chief of the National Guard Bureau acts as Chief and performs the duties of the Chief until a successor is appointed or the absence or disability ceases.
+
+        (2) When there is a vacancy in the offices of both the Chief and the Vice Chief of the National Guard Bureau or in the absence or disability of both the Chief and the Vice Chief of the National Guard Bureau, or when there is a vacancy in one such office and in the absence or disability of the officer holding the other, the senior officer of the Army National Guard of the United States or the Air National Guard of the United States on duty with the National Guard Bureau shall perform the duties of the Chief until a successor to the Chief or Vice Chief is appointed or the absence or disability of the Chief or Vice Chief ceases, as the case may be.
+
+(Added [Pub. L. 103–337, div. A, title IX, § 904(a)][/us/pl/103/337/s904/a], Oct. 5, 1994, [108 Stat. 2824][/us/stat/108/2824]; amended [Pub. L. 108–375, div. A, title V, § 507(a)][/us/pl/108/375/s507/a], (b)(1), Oct. 28, 2004, [118 Stat. 1876][/us/stat/118/1876]; [Pub. L. 110–181, div. A, title XVIII][/us/pl/110/181], §§ 1811, 1825(c)(2), Jan. 28, 2008, [122 Stat. 496][/us/stat/122/496], 502; [Pub. L. 112–81, div. A, title V][/us/pl/112/81], §§ 511(a)(1),(2), 512(b), Dec. 31, 2011, [125 Stat. 1391][/us/stat/125/1391], 1393.)
+
+ __Prior Provisions__ 
+
+    Provisions similar to those in this section were contained in section 3040(a)–(c) of this title, prior to repeal by [Pub. L. 103–337, § 904(b)(1)][/us/pl/103/337/s904/b/1].
+
+ __Amendments__ 
+
+    2011—Subsec. (d). [Pub. L. 112–81, § 512(b)(2)][/us/pl/112/81/s512/b/2] added subsec (d). Former subsec. (d) redesignated (e).
+
+    [Pub. L. 112–81, § 511(a)(1)][/us/pl/112/81/s511/a/1], amended subsec. (d) generally. Prior to amendment, text read as follows: “The Chief of the National Guard Bureau shall be appointed to serve in the grade of general.”
+
+    Subsec. (e). [Pub. L. 112–81, § 512(b)(1)][/us/pl/112/81/s512/b/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+    [Pub. L. 112–81, § 511(a)(2)][/us/pl/112/81/s511/a/2], amended subsec. (e) generally. Prior to amendment, text related to succession for office of Chief of the National Guard Bureau.
+
+    Subsec. (f). [Pub. L. 112–81, § 512(b)(1)][/us/pl/112/81/s512/b/1], redesignated subsec. (e) as (f).
+
+    2008—Subsec. (a). [Pub. L. 110–181, § 1811(a)][/us/pl/110/181/s1811/a], added pars. (1) to (8) and struck out former pars. (1) to (3) which read as follows:
+
+    “(1) are recommended for such appointment by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard;
+
+    “(2) have had at least 10 years of federally recognized commissioned service in an active status in the National Guard; and
+
+    “(3) are in a grade above the grade of brigadier general.”
+
+    Subsec. (b). [Pub. L. 110–181, § 1825(c)(2)][/us/pl/110/181/s1825/c/2], inserted par. (1) designation before “An officer appointed” and substituted “(2) Except as provided in [section 14508(d) of this title][/us/usc/t10/s14508/d], while holding the office of Chief of the National Guard Bureau” for “While holding that office”.
+
+    [Pub. L. 110–181, § 1811(c)][/us/pl/110/181/s1811/c], struck out “An officer may not hold that office after becoming 64 years of age.” after “four years.”
+
+    Subsec. (c). [Pub. L. 110–181, § 1811(d)][/us/pl/110/181/s1811/d], amended subsec. (c) generally. Prior to amendment, text read as follows: “The Chief of the National Guard Bureau is the principal adviser to the Secretary of the Army and the Chief of Staff of the Army, and to the Secretary of the Air Force and the Chief of Staff of the Air Force, on matters relating to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States.”
+
+    Subsec. (d). [Pub. L. 110–181, § 1811(b)][/us/pl/110/181/s1811/b], substituted “general” for “lieutenant general”.
+
+    2004—[Pub. L. 108–375, § 507(b)(1)][/us/pl/108/375/s507/b/1], inserted “; succession” after “grade” in section catchline.
+
+    Subsec. (e). [Pub. L. 108–375, § 507(a)][/us/pl/108/375/s507/a], added subsec. (e).
+
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stE/ptI/ch1011/m__us_usc_t10_s10501.md) | [Next](./../../../../../..//us/usc/t10/stE/ptI/ch1011/m__us_usc_t10_s10503.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10502)
+
+----------
+----------
+
+[/us/usc/t10/s10503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10503
+[/us/usc/t10/s14508/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14508%2Fd
+[/us/usc/t10/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs526
+[/us/pl/103/337/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs904%2Fa
+[/us/stat/108/2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2824
+[/us/pl/108/375/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs507%2Fa
+[/us/stat/118/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1876
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/stat/122/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F496
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/stat/125/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1391
+[/us/pl/103/337/s904/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs904%2Fb%2F1
+[/us/pl/112/81/s512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs512%2Fb%2F2
+[/us/pl/112/81/s511/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs511%2Fa%2F1
+[/us/pl/112/81/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs512%2Fb%2F1
+[/us/pl/112/81/s511/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs511%2Fa%2F2
+[/us/pl/112/81/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs512%2Fb%2F1
+[/us/pl/110/181/s1811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1811%2Fa
+[/us/pl/110/181/s1825/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1825%2Fc%2F2
+[/us/usc/t10/s14508/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14508%2Fd
+[/us/pl/110/181/s1811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1811%2Fc
+[/us/pl/110/181/s1811/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1811%2Fd
+[/us/pl/110/181/s1811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1811%2Fb
+[/us/pl/108/375/s507/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs507%2Fb%2F1
+[/us/pl/108/375/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs507%2Fa
+
+

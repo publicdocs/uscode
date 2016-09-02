@@ -1,0 +1,32 @@
+---
+---
+
+# 10 U.S.C., USLM ref /us/usc/t10/s4836
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch453/m__us_usc_t10_s4835.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch453/m__us_usc_t10_s4837.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4836)
+
+## \[§ 4836. Repealed. [Pub. L. 110–181, div. A, title III, § 375(c)(1)(B)][/us/pl/110/181/s375/c/1/B], Jan. 28, 2008, [122 Stat. 83][/us/stat/122/83]\]
+
+    Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 273][/us/stat/70A/273], prohibited unauthorized disposition of individual equipment by enlisted members of the Army.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch453/m__us_usc_t10_s4835.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch453/m__us_usc_t10_s4837.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4836)
+
+----------
+----------
+
+[/us/pl/110/181/s375/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs375%2Fc%2F1%2FB
+[/us/stat/122/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F83
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F273
+
+

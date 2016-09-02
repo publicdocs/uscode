@@ -1,0 +1,115 @@
+---
+---
+
+# 10 U.S.C., USLM ref /us/usc/t10/s12211
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stE/ptII/ch1205/m__us_usc_t10_s12210.md) | [Next](./../../../../../..//us/usc/t10/stE/ptII/ch1205/m__us_usc_t10_s12212.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12211)
+
+## § 12211. Officers: Army National Guard of the United States
+
+    (a) Upon being federally recognized, an officer of the Army National Guard shall be appointed as a Reserve for service as a member of the Army National Guard of the United States in the grade that he holds in the Army National Guard. However, an officer of the Army Reserve who is federally recognized as an officer of the Army National Guard becomes an officer of the Army National Guard of the United States and ceases to be an officer of the Army Reserve. The acceptance of an appointment as a Reserve for service as a member of the Army National Guard of the United States by an officer of the Army National Guard does not vacate his office in the Army National Guard.
+
+    (b) When an officer of the Army National Guard to whom temporary Federal recognition has been extended is appointed as a Reserve for service as a member of the Army National Guard of the United States, his appointment shall bear the date of the temporary recognition and shall be considered to have been accepted and effective on that date.
+
+    (c) When the Army National Guard of the United States is ordered to active duty, any officer of the Army National Guard who is not a Reserve of the Army may be appointed by the President as a Reserve for service as a member of the Army National Guard of the United States in the grade that he holds in the Army National Guard.
+
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 193][/us/stat/70A/193], § 3351; renumbered § 12211, [Pub. L. 103–337, div. A, title XVI, § 1662(c)(3)][/us/pl/103/337/s1662/c/3], Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990]; [Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A)][/us/pl/104/106/s1501/b/13/A], Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496].)
+
+<table>
+
+  <tr>
+
+    <td colspan="3"> 
+
+Historical and Revision Notes  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Revised section  </td>
+
+    <td> 
+
+Source (U.S. Code)  </td>
+
+    <td> 
+
+Source (Statutes at Large)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+3351(a)
+
+3351(b)
+
+3351(c)  </td>
+
+    <td> 
+
+50:1113 (less (a)).
+
+50:1115(a) (last 39 words).
+
+50:1114 (2d sentence).
+
+50:1123 (less (a)).  </td>
+
+    <td> 
+
+July 9, 1952, ch. 608, §§ 703 (less (a)), 704 (2d sentence), 705(a) (last 39 words), 713 (less (a)), 66 Stat. 502–504.  </td>
+
+  </tr>
+
+</table>
+
+    In subsection (a), the words “as a Reserve” are substituted for the words “as Reserve officers of the appropriate Armed Force of the United States” and “as a Reserve officer of the Armed Force of the United States concerned”, in 50:1113(b). The words “federally recognized appointments” and “in the same grade and branch”, in 50:1113(b), are omitted as surplusage. The words “those officers who do not hold appointments as Reserve officers of the appropriate Armed Force of the United States”, in 50:1113(b), are omitted as covered by the second sentence of the revised subsection.
+
+    In subsection (c), the words “active duty” are substituted for the words “active military service of the United States”. The words “and branch” are omitted as surplusage. The words “of the Army National Guard of the United States” are inserted for clarity.
+
+ __Amendments__ 
+
+    1996—[Pub. L. 104–106][/us/pl/104/106] inserted “the” after “National Guard of” in section catchline.
+
+    1994—[Pub. L. 103–337][/us/pl/103/337] renumbered [section 3351 of this title][/us/usc/t10/s3351] as this section.
+
+ __Effective Date of 1996 Amendment__ 
+
+    Amendment by [Pub. L. 104–106][/us/pl/104/106] effective as if included in the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as enacted on Oct. 5, 1994, see [section 1501(f)(3) of Pub. L. 104–106][/us/pl/104/106/s1501/f/3], set out as a note under [section 113 of this title][/us/usc/t10/s113].
+
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stE/ptII/ch1205/m__us_usc_t10_s12210.md) | [Next](./../../../../../..//us/usc/t10/stE/ptII/ch1205/m__us_usc_t10_s12212.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12211)
+
+----------
+----------
+
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F193
+[/us/pl/103/337/s1662/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fc%2F3
+[/us/stat/108/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2990
+[/us/pl/104/106/s1501/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F13%2FA
+[/us/stat/110/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F496
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/usc/t10/s3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3351
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/104/106/s1501/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Ff%2F3
+[/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
+
+

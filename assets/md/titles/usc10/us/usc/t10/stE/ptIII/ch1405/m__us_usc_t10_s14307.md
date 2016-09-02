@@ -1,0 +1,49 @@
+---
+---
+
+# 10 U.S.C., USLM ref /us/usc/t10/s14307
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stE/ptIII/ch1405/m__us_usc_t10_s14306.md) | [Next](./../../../../../..//us/usc/t10/stE/ptIII/ch1405/m__us_usc_t10_s14308.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14307)
+
+## § 14307. Number of officers to be recommended for promotion
+
+    (a) __Determination of Maximum Number.—__ 
+
+    Before convening a promotion board under [section 14101(a) of this title][/us/usc/t10/s14101/a] for a grade and competitive category (other than a vacancy promotion board), the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense, shall determine the maximum number of officers in that grade and competitive category that the board may recommend for promotion. The Secretary shall make the determination under the preceding sentence of the maximum number that may be recommended with a view to having on the reserve active-status list a sufficient number of officers in each grade and competitive category to meet the needs of the armed force concerned for officers on that list. In order to make that determination, the Secretary shall determine (1) the number of positions needed to accomplish mission objectives which require officers of such competitive category in the grade to which the board will recommend officers for promotion, (2) the estimated number of officers needed to fill vacancies in such positions during the period in which it is anticipated that officers selected for promotion will be promoted, (3) the number of officers authorized by the Secretary of the military department concerned to serve on the reserve active-status list in the grade and competitive category under consideration, and (4) any statutory limitation on the number of officers in any grade or category (or combination thereof) authorized to be on the reserve active-status list.
+
+    (b) __Below-the-Zone Selections.—__ 
+
+        (1) The Secretary of the military department concerned may, when the needs of the armed force concerned require, authorize the consideration of officers in the grade of captain, major, or lieutenant colonel on the reserve active-status list of the Army or Air Force, in a grade above first lieutenant on the reserve active-status list of the Marine Corps, or in a grade above lieutenant (junior grade) on the reserve active-status list of the Navy, for promotion to the next higher grade from below the promotion zone.
+
+        (2) When selection from below the promotion zone is authorized, the Secretary shall establish the number of officers that may be recommended for promotion from below the promotion zone in each competitive category to be considered. That number may not exceed the number equal to 10 percent of the maximum number of officers that the board is authorized to recommend for promotion in such competitive category, except that the Secretary of Defense may authorize a greater number, not to exceed 15 percent of the total number of officers that the board is authorized to recommend for promotion, if the Secretary of Defense determines that the needs of the armed force concerned so require. If the maximum number determined under this paragraph is less than one, the board may recommend one officer for promotion from below the promotion zone.
+
+        (3) The number of officers recommended for promotion from below the promotion zone does not increase the maximum number of officers that the board is authorized to recommend for promotion under subsection (a).
+
+(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2936][/us/stat/108/2936].)
+
+ __Prior Provisions__ 
+
+    Provisions similar to those in this section were contained in [section 5901 of this title][/us/usc/t10/s5901], prior to repeal by [Pub. L. 103–337, § 1629(b)(2)][/us/pl/103/337/s1629/b/2].
+
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stE/ptIII/ch1405/m__us_usc_t10_s14306.md) | [Next](./../../../../../..//us/usc/t10/stE/ptIII/ch1405/m__us_usc_t10_s14308.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14307)
+
+----------
+----------
+
+[/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
+[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/stat/108/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2936
+[/us/usc/t10/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5901
+[/us/pl/103/337/s1629/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fb%2F2
+
+

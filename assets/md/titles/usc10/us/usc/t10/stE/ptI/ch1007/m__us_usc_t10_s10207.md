@@ -1,0 +1,40 @@
+---
+---
+
+# 10 U.S.C., USLM ref /us/usc/t10/s10207
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stE/ptI/ch1007/m__us_usc_t10_s10206.md) | [Next](./../../../../../..//us/usc/t10/stE/ptI/ch1007/m__us_usc_t10_s10208.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10207)
+
+## § 10207. Mobilization forces: maintenance
+
+    (a) Whenever units or members of the reserve components are ordered to active duty (other than for training) during a period of partial mobilization, the Secretary concerned shall continue to maintain mobilization forces by planning and budgeting for the continued organization and training of the reserve components not mobilized, and make the fullest practicable use of the Federal facilities vacated by mobilized units, consistent with approved joint mobilization plans.
+
+    (b) In this section, the term “partial mobilization” means the mobilization resulting from action by Congress or the President, under any law, to bring units of any reserve component, and members not assigned to units organized to serve as units, to active duty for a limited expansion of the active armed forces.
+
+(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2977][/us/stat/108/2977].)
+
+ __Prior Provisions__ 
+
+    Provisions similar to those in this section were contained in [section 276 of this title][/us/usc/t10/s276], prior to repeal by [Pub. L. 103–337, § 1661(a)(2)(A)][/us/pl/103/337/s1661/a/2/A].
+
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stE/ptI/ch1007/m__us_usc_t10_s10206.md) | [Next](./../../../../../..//us/usc/t10/stE/ptI/ch1007/m__us_usc_t10_s10208.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10207)
+
+----------
+----------
+
+[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/stat/108/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2977
+[/us/usc/t10/s276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs276
+[/us/pl/103/337/s1661/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F2%2FA
+
+

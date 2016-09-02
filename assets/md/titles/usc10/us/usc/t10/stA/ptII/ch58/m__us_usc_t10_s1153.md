@@ -1,0 +1,141 @@
+---
+---
+
+# 10 U.S.C., USLM ref /us/usc/t10/s1153
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch58/m__us_usc_t10_s1152.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch58/m__us_usc_t10_s1154.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1153)
+
+## § 1153. Assistance to separated members to obtain employment with health care providers
+
+    (a) __Placement Program.—__ 
+
+    The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may establish a program to assist eligible members of the armed forces to obtain employment with health care providers upon their discharge or release from active duty.
+
+    (b) __Eligible Members.—__ 
+
+        (1)
+
+         Except as provided in paragraph (2), a member shall be eligible for selection to participate in the program established under subsection (a) if the member—
+
+            (A) is selected for involuntary separation, is approved for separation under section 1174a or 1175 of this title, or retires pursuant to the authority provided in section 4403 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of [Public Law 102–484][/us/pl/102/484]; [10 U.S.C. 1293][/us/usc/t10/s1293] note) during the six-year period beginning on October 1, 1993;
+
+            (B) has received an associate degree, baccalaureate, or advanced degree from an accredited institution of higher education or a junior or community college; and
+
+            (C) has a military occupational specialty, training, or experience related to health care, is likely to be able to obtain such training in a short period of time (as determined by the Secretary concerned), or satisfies such other criteria for selection as the Secretary concerned may prescribe.
+
+        (2) For purposes of this section, a former member of the armed forces who did not meet the minimum educational qualification criterion set forth in paragraph (1)(B) for placement assistance before discharge or release from active duty shall be considered to be a member satisfying such educational qualification criterion upon satisfying that criterion within five years after discharge or release from active duty.
+
+        (3) A member who is discharged or released from service under other than honorable conditions shall not be eligible to participate in the program.
+
+    (c) __Selection of Participants.—__ 
+
+        (1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, shall select members to participate in the program established under subsection (a) on the basis of applications submitted to the Secretary concerned not later than one year after the date of the discharge or release of the members from active duty or, in the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (b)(2), not later than one year after the date on which the applicant becomes educationally qualified. An application shall be in such form and contain such information as the Secretaries may require.
+
+        (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may not select a member to participate in the program unless the Secretary concerned has sufficient appropriations for the placement program available at the time of the selection to satisfy the obligations to be incurred by the United States under subsection (d) with respect to that member.
+
+        (3)
+
+            (A) The Secretaries shall provide under the program for identifying, during each fiscal year in the period referred to in subsection (b)(1)(A), noncommissioned officers who, on or before the end of such fiscal year, will have completed 10 or more years of continuous active duty, who have the potential to perform competently in employment positions with health care providers, but who do not satisfy the minimum educational qualification criterion under subsection (b)(1)(B) for placement assistance.
+
+            (B) The Secretaries shall inform noncommissioned officers identified under subparagraph (A) of the opportunity to qualify in accordance with subsection (b)(2) for placement assistance under the program.
+
+    (d) __Grants to Facilitate Employment.—__ 
+
+        (1) The Secretary of Defense and the Secretary of Homeland Security may enter into an agreement with a health care provider to assist eligible members selected under subsection (c) to obtain suitable employment with the health care provider. Under such an agreement, a health care provider shall agree to employ a participant in the program on a full-time basis for at least five years.
+
+        (2)
+
+         Under an agreement referred to in paragraph (1), the Secretary concerned shall agree to pay to the health care provider involved an amount based upon the basic salary paid by the health care provider to the participant. The rate of payment by the Secretary concerned shall be as follows:
+
+            (A) For the first year of employment, 50 percent of the basic salary, except that the payment may not exceed $25,000.
+
+            (B) For the second year of employment, 40 percent of the basic salary, except that the payment may not exceed $10,000.
+
+            (C) For the third year of employment, 30 percent of the basic salary, except that the payment may not exceed $7,500.
+
+            (D) For the fourth year of employment, 20 percent of the basic salary, except that the payment may not exceed $5,000.
+
+            (E) For the fifth year of employment, 10 percent of the basic salary, except that the payment may not exceed $2,500.
+
+        (3) Payments required under paragraph (2) may be made by the Secretary concerned in such installments as the Secretary concerned may determine.
+
+        (4) If a participant who is placed under this program leaves the employment of the health care provider before the end of the five years of required employment service, the provider shall reimburse the Secretary concerned in an amount that bears the same ratio to the total amount already paid under the agreement as the unserved portion bears to the five years of required service.
+
+        (5) The Secretary concerned may not make a grant under this subsection to a health care provider if the Secretary concerned determines that the provider terminated the employment of another employee in order to fill the vacancy so created with a participant in this program.
+
+    (e) __Agreements With States.—__ 
+
+        (1) In addition to the agreements referred to in subsection (d)(1), the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may enter into an agreement directly with a State to allow the State to arrange the placement of participants in the program with health care providers. Paragraphs (2) through (5) of subsection (d) shall apply with respect to any placement made through such an agreement.
+
+        (2) The Secretary concerned may reserve up to 10 percent of the funds made available to carry out the program for a fiscal year for the placement of participants through agreements entered into under paragraph (1).
+
+    (f) __Definitions.—__ 
+
+    In this section, the term “State” includes the District of Columbia, American Samoa, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Palau, and the Virgin Islands.
+
+(Added [Pub. L. 103–160, div. A, title XIII, § 1332(b)][/us/pl/103/160/s1332/b], Nov. 30, 1993, [107 Stat. 1795][/us/stat/107/1795]; amended [Pub. L. 103–337, div. A, title V, § 543(e)][/us/pl/103/337/s543/e], Oct. 5, 1994, [108 Stat. 2771][/us/stat/108/2771]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+
+ __Amendments__ 
+
+    2002—Subsecs. (a), (c)(1), (2), (d)(1), (e)(1). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
+
+    1994—Subsec. (a). [Pub. L. 103–337, § 543(e)(1)][/us/pl/103/337/s543/e/1], inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense”.
+
+    Subsec. (b)(1). [Pub. L. 103–337, § 543(e)(2)][/us/pl/103/337/s543/e/2], struck out “by the Secretary of Defense” after “selection” in introductory provisions and inserted “concerned” after “Secretary” in two places in subpar. (C).
+
+    Subsec. (c)(1). [Pub. L. 103–337, § 543(e)(3)][/us/pl/103/337/s543/e/3], inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” and “concerned” after “to the Secretary” and substituted “Secretaries may” for “Secretary may”.
+
+    Subsec. (c)(2). [Pub. L. 103–337, § 543(e)(4)][/us/pl/103/337/s543/e/4], inserted “of Defense, and the Secretary of Transportation with respect to the Coast Guard,” after “The Secretary” and “concerned” after “unless the Secretary”.
+
+    Subsec. (c)(3). [Pub. L. 103–337, § 543(e)(5)][/us/pl/103/337/s543/e/5], substituted “Secretaries” for “Secretary” in subpars. (A) and (B).
+
+    Subsec. (d)(1). [Pub. L. 103–337, § 543(e)(6)(A)][/us/pl/103/337/s543/e/6/A], inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+
+    Subsec. (d)(2) to (5). [Pub. L. 103–337, § 543(e)(6)(B)][/us/pl/103/337/s543/e/6/B], inserted “concerned” after “Secretary” wherever appearing.
+
+    Subsec. (e)(1). [Pub. L. 103–337, § 543(e)(7)(A)][/us/pl/103/337/s543/e/7/A], inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “the Secretary of Defense”.
+
+    Subsec. (e)(2). [Pub. L. 103–337, § 543(e)(7)(B)][/us/pl/103/337/s543/e/7/B], inserted “concerned” after “The Secretary”.
+
+ __Effective Date of 2002 Amendment__ 
+
+    Amendment by [Pub. L. 107–296][/us/pl/107/296] effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see [section 1704(g) of Pub. L. 107–296][/us/pl/107/296/s1704/g], set out as a note under [section 101 of this title][/us/usc/t10/s101].
+
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch58/m__us_usc_t10_s1152.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch58/m__us_usc_t10_s1154.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1153)
+
+----------
+----------
+
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/usc/t10/s1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1293
+[/us/pl/103/160/s1332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1332%2Fb
+[/us/stat/107/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1795
+[/us/pl/103/337/s543/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe
+[/us/stat/108/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2771
+[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/103/337/s543/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F1
+[/us/pl/103/337/s543/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F2
+[/us/pl/103/337/s543/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F3
+[/us/pl/103/337/s543/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F4
+[/us/pl/103/337/s543/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F5
+[/us/pl/103/337/s543/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F6%2FA
+[/us/pl/103/337/s543/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F6%2FB
+[/us/pl/103/337/s543/e/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F7%2FA
+[/us/pl/103/337/s543/e/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F7%2FB
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
+[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
+
+

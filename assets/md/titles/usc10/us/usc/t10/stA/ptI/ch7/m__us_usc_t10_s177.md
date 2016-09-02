@@ -1,0 +1,93 @@
+---
+---
+
+# 10 U.S.C., USLM ref /us/usc/t10/s177
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s176.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s178.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs177)
+
+## § 177. American Registry of Pathology
+
+    (a)
+
+        (1) There is authorized to be established a nonprofit corporation to be known as the American Registry of Pathology which shall not for any purpose be an agency or establishment of the United States Government. The American Registry of Pathology shall be subject to the provisions of this section and, to the extent not inconsistent with this section, to the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29–501 et seq.).
+
+        (2) The American Registry of Pathology shall have a Board of Members (hereinafter in this section referred to as the “Board”) consisting of not less than eleven individuals who are representatives of the professional societies and organizations that support the activities of the American Registry of Pathology, of whom one shall be elected annually by the Board to serve as chairman.
+
+        (3) The American Registry of Pathology shall have a Director, who shall be appointed by the Board, and such other officers as may be named and appointed by the Board. Such officers shall be compensated at rates fixed by the Board and shall serve at the pleasure of the Board.
+
+        (4) The members of the initial Board shall serve as incorporators and shall take whatever actions are necessary to establish under the District of Columbia Nonprofit Corporation Act the corporation authorized by paragraph (1).
+
+        (5) The term of office of each member of the Board shall be four years, except that (A) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, (B) the terms of office of members first taking office shall begin on the date of incorporation and shall expire, as designated at the time of their appointment and to the maximum extent practicable, one fourth at the end of one year, one fourth at the end of two years, one fourth at the end of three years, and one fourth at the end of four years, and (C) a member whose term has expired may serve until his successor has qualified. No member shall be eligible to serve more than two consecutive terms of four years each.
+
+        (6) Any vacancy in the Board shall not affect its powers, but such vacancy shall be filled in the manner in which the original appointment was made.
+
+    (b)
+
+     In order to carry out the purposes of this section, the American Registry of Pathology is authorized to—
+
+        (1) enter into contracts with public and private organizations for the writing, editing, printing, and publishing of fascicles of tumor pathology, atlases, and other material;
+
+        (2) accept gifts and grants from and enter into contracts with individuals, private foundations, professional societies, institutions, and governmental agencies;
+
+        (3) enter into agreements with professional societies for the establishment and maintenance of Registries of Pathology; and
+
+        (4) serve as a focus for the interchange between military and civilian pathology and encourage the participation of medical, dental, and veterinary sciences in pathology for the mutual benefit of military and civilian medicine.
+
+    (c)
+
+     In the performance of the functions set forth in subsection (b), the American Registry of Pathology is authorized to—
+
+        (1) enter into such other contracts, leases, cooperative agreements, or other transactions as the Board deems appropriate to conduct the activities of the American Registry of Pathology; and
+
+        (2) charge such fees for professional services as the Board deems reasonable and appropriate.
+
+    (d) The American Registry of Pathology may transmit annually to its Board and supporting organizations referred to in subsection (a)(2) a comprehensive and detailed report of its operations, activities, and accomplishments.
+
+(Added [Pub. L. 94–361, title VIII, § 811(b)][/us/pl/94/361/s811/b], July 14, 1976, [90 Stat. 934][/us/stat/90/934]; amended [Pub. L. 98–525, title XIV, § 1405(5)][/us/pl/98/525/s1405/5], Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 112–239, div. A, title V, § 585][/us/pl/112/239/s585], Jan. 2, 2013, [126 Stat. 1768][/us/stat/126/1768].)
+
+ __References in Text__ 
+
+    The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1), (4), is [Pub. L. 87–569][/us/pl/87/569], Aug. 6, 1962, [76 Stat. 265][/us/stat/76/265], as amended, which is not classified to the Code.
+
+ __Amendments__ 
+
+    2013—Subsec. (a)(2). [Pub. L. 112–239, § 585(1)(A)][/us/pl/112/239/s585/1/A], substituted “the professional societies and organizations that support the activities of the American Registry of Pathology” for “those professional societies and organizations which sponsor individual registries of pathology at the Armed Forces Institute of Pathology” and struck out at end “Each such sponsor shall appoint one member to the Board for a term of four years.”
+
+    Subsec. (a)(3). [Pub. L. 112–239, § 585(1)(B)][/us/pl/112/239/s585/1/B], struck out “with the concurrence of the Director of the Armed Forces Institute of Pathology” after “shall be appointed by the Board”.
+
+    Subsec. (b). [Pub. L. 112–239, § 585(2)][/us/pl/112/239/s585/2], redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “enter into contracts with the Armed Forces Institute of Pathology for the provision of such services and personnel as may be necessary to carry out their cooperative enterprises;”.
+
+    Subsec. (d). [Pub. L. 112–239, § 585(3)][/us/pl/112/239/s585/3], substituted “annually to its Board and supporting organizations referred to in subsection (a)(2)” for “to the Director and the Board of Governors of the Armed Forces Institute of Pathology and to the sponsors referred to in subsection (a)(2) annually, and at such other times as it deems desirable,”.
+
+    1984—Subsec. (a)(1). [Pub. L. 98–525][/us/pl/98/525] substituted “sec. 29–501” for “sec. 29–1001”.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s176.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s178.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs177)
+
+----------
+----------
+
+[/us/pl/94/361/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs811%2Fb
+[/us/stat/90/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F934
+[/us/pl/98/525/s1405/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F5
+[/us/stat/98/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2622
+[/us/pl/112/239/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs585
+[/us/stat/126/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1768
+[/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
+[/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
+[/us/pl/112/239/s585/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs585%2F1%2FA
+[/us/pl/112/239/s585/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs585%2F1%2FB
+[/us/pl/112/239/s585/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs585%2F2
+[/us/pl/112/239/s585/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs585%2F3
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+
+
