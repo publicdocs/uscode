@@ -129,6 +129,22 @@
 
 >     “(4) underpin deterrence by meeting the requirements for hedging against possible international developments or technical problems, in accordance with the policies of the United States.”
 
+ __Delegation of Authority Pursuant to Section 1035 of the National Defense Authorization Act for Fiscal Year 2013__ 
+
+    Memorandum of President of the United States, June 29, 2015, 80 F.R. 37921, provided:
+
+    Memorandum for the Secretary of Defense
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby order as follows:
+
+    I hereby delegate to the Secretary of Defense the authority to fulfill the certification requirement specified in section 1035 of the National Defense Authorization Act for Fiscal Year 2013 ([Public Law 112–239][/us/pl/112/239]) \[probably means [section 495 of this title][/us/usc/t10/s495], as added by [section 1035 of Pub. L. 112–239][/us/pl/112/239/s1035]\].
+
+    Any reference in this memorandum to section 1035 of the National Defense Authorization Act for Fiscal Year 2013 shall be deemed to be a reference to any future provision that is the same or substantially the same provision.
+
+    You are authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s494.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s496.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs495)
@@ -157,5 +173,9 @@
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/pl/113/66/s1062/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1062%2Fa
 [/us/stat/127/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F866
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/usc/t10/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs495
+[/us/pl/112/239/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1035
 
 

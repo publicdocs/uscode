@@ -179,7 +179,7 @@
 
 >         “(4) The term ‘TRICARE Standard’ means the fee-for-service option of the TRICARE Program.”
 
-    \[[Pub. L. 113–291, div. A, title VII, § 723(b)][/us/pl/113/291/s723/b], Dec. 19, 2014, [128 Stat. 3418][/us/stat/128/3418], which directed amendment of subsec. (b)(3)(A) of [section 723 of Pub. L. 112–239][/us/pl/112/239/s723], set out above, by substituting “subsection (d)(1)(B)” for “subsection (c)(1)(B)”, was executed by making the substitution in subsec. (c)(3)(A) of [Pub. L. 112–239][/us/pl/112/239], to reflect the probable intent of Congress and the prior amendment by [section 723(a)(1) of Pub. L. 113–291][/us/pl/113/291/s723/a/1], which redesignated subsec. (b) as (c).\]
+    \[[Pub. L. 113–291, div. A, title VII, § 723(b)][/us/pl/113/291/s723/b], Dec. 19, 2014, [128 Stat. 3418][/us/stat/128/3418], which directed amendment of subsec. (b)(3)(A) of [section 732 of Pub. L. 112–239][/us/pl/112/239/s732], set out above, by substituting “subsection (d)(1)(B)” for “subsection (c)(1)(B)”, was executed by making the substitution in subsec. (c)(3)(A) of [section 732 of Pub. L. 112–239][/us/pl/112/239/s732], to reflect the probable intent of Congress and the prior amendment by [section 723(a)(1) of Pub. L. 113–291][/us/pl/113/291/s723/a/1], which redesignated subsec. (b) as (c).\]
 
 ----------
 
@@ -217,8 +217,8 @@
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
 [/us/pl/113/291/s723/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs723%2Fb
 [/us/stat/128/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3418
-[/us/pl/112/239/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs723
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs732
+[/us/pl/112/239/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs732
 [/us/pl/113/291/s723/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs723%2Fa%2F1
 
 

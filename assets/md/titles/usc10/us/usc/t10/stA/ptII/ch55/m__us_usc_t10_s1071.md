@@ -67,7 +67,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 1071, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 81][/us/stat/70A/81], which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by [Pub. L. 85–861, § 36B(5)][/us/pl/85/861/s36B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+    A prior section 1071, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 81][/us/stat/70A/81], which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by [Pub. L. 85–861, § 36B(5)][/us/pl/85/861/s36B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which was classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to repeal by [Pub. L. 99–410, title II, § 203][/us/pl/99/410/s203], Aug. 28, 1986, [100 Stat. 930][/us/stat/100/930].
 
  __Amendments__ 
 
@@ -1159,7 +1159,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Wounded Warrior Health Care Improvements__ 
 
-[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181], §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, [122 Stat. 431–443][/us/stat/122/431-443], 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400], 4508, 4509, 4613; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362]; [Pub. L. 112–56, title II, § 231][/us/pl/112/56/s231], Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], title VII, § 707, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], 1474; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–175, title I, § 105][/us/pl/113/175/s105], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 113–291, div. A, title V, § 591][/us/pl/113/291/s591], title VII, § 724, Dec. 19, 2014, [128 Stat. 3394][/us/stat/128/3394], 3418, provided that:
+[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181], §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, [122 Stat. 431–443][/us/stat/122/431-443], 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400], 4508, 4509, 4613; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362]; [Pub. L. 112–56, title II, § 231][/us/pl/112/56/s231], Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], title VII, § 707, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], 1474; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–175, title I, § 105][/us/pl/113/175/s105], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 113–291, div. A, title V, § 591][/us/pl/113/291/s591], title VII, § 724, Dec. 19, 2014, [128 Stat. 3394][/us/stat/128/3394], 3418; [Pub. L. 114–58, title II, § 204][/us/pl/114/58/s204], title IV, § 411, Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533], 536, provided that:
 
 > “SEC. 1602. __GENERAL DEFINITIONS.__ 
 
@@ -2059,7 +2059,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(2)  __Sunset__  __.—__ 
 
->         The Secretary of Veterans Affairs may not provide benefits to a member of the Armed Forces under this subsection after December 31, 2015, if the Secretary has not provided benefits to the member under this subsection before that date.
+>         The Secretary of Veterans Affairs may not provide benefits to a member of the Armed Forces under this subsection after December 31, 2016, if the Secretary has not provided benefits to the member under this subsection before that date.
 
 >     “(c) __Rehabilitative Equipment for Members of the Armed Forces.—__ 
 
@@ -2159,7 +2159,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(1)  __In general__  __.—__ 
 
->         Not later than January 1, 2009, and each year thereafter through 2015, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriate committees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include, for the year covered by such report, the following:
+>         Not later than January 1, 2009, and each year thereafter through 2016, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriate committees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include, for the year covered by such report, the following:
 
 >             “(A) A detailed description of the activities of the Office, including a detailed description of the amounts expended and the purposes for which expended.
 
@@ -3130,6 +3130,8 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/stat/70A/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F81
 [/us/pl/85/861/s36B/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F5
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
+[/us/pl/99/410/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs203
+[/us/stat/100/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F930
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
@@ -3224,6 +3226,8 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/stat/128/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1903
 [/us/pl/113/291/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs591
 [/us/stat/128/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3394
+[/us/pl/114/58/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs204
+[/us/stat/129/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F533
 [/us/usc/t37/s481h/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs481h%2Fb%2F3%2FB
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
