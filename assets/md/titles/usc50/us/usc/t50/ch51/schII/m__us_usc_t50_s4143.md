@@ -43,7 +43,7 @@
 
         Payment on account of any award pursuant to this subchapter shall not, unless such payment is for the full amount of the award, extinguish any rights against any foreign government for the unpaid balance of the award.
 
-    (f) __Losses ocurring in Commonwealth of the Philippines__ 
+    (f) __Losses occurring in Commonwealth of the Philippines__ 
 
         Payments made under this section on account of any award for loss, damage, or destruction occurring in the Commonwealth of the Philippines shall not exceed the amount paid on account of awards in the same amount under the Philippine Rehabilitation Act of 1946. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 

@@ -15,7 +15,7 @@
 
 # Title 50—WAR AND NATIONAL DEFENSE
 
-Current through 114-146
+Current through 114-150
 
 <table>
 
@@ -626,6 +626,16 @@ Current through 114-146
     <td> Export Administration  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs4601" data-uslm-ref="/us/usc/t50/s4601">4601</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch57" data-uslm-ref="/us/usc/t50/ch57">57.</a>  </td>
+
+    <td> Claims Under the Clarification Act  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs4701" data-uslm-ref="/us/usc/t50/s4701">4701</a>  </td>
 
   </tr>
 
@@ -9285,6 +9295,66 @@ Omitted  </td>
 
     <td> 
 
+1291  </td>
+
+    <td> 
+
+50 U.S.C. 4701  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+1292  </td>
+
+    <td> 
+
+50 U.S.C. 4702  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+1293  </td>
+
+    <td> 
+
+50 U.S.C. 4703  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+1294  </td>
+
+    <td> 
+
+50 U.S.C. 4704  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+1295  </td>
+
+    <td> 
+
+50 U.S.C. 4705  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 1622  </td>
 
     <td> 
@@ -13591,6 +13661,8 @@ Omitted  </td>
 
     Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.), [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178]—see [50 U.S.C. 3901][/us/usc/t50/s3901] et seq.
 
+    Clarification Act (50 U.S.C. App. 1291 et seq.), [act Mar. 24, 1943, ch. 26][/us/act/1943-03-24/ch26], [57 Stat. 45][/us/stat/57/45]—see [50 U.S.C. 4701][/us/usc/t50/s4701] et seq.
+
     Sale of Surplus War-Built Vessels (50 U.S.C. App. 1735 et seq.), [act Mar. 8, 1946, ch. 82][/us/act/1946-03-08/ch82], [60 Stat. 41][/us/stat/60/41]—see [50 U.S.C. 4401][/us/usc/t50/s4401] et seq.
 
     Restitution for World War II Internment of Japanese-Americans and Aleuts (50 U.S.C. App. 1989 et seq.), [Pub. L. 100–383][/us/pl/100/383], Aug. 10, 1988, [102 Stat. 903][/us/stat/102/903]—see [50 U.S.C. 4201][/us/usc/t50/s4201] et seq.
@@ -13661,7 +13733,7 @@ The following acts, listed below in order of appearance in former Title 50, Appe
 
     War and Defense Contract Acts (50 U.S.C. App. 1151 et seq.), acts [June 28, 1940, ch. 440][/us/act/1940-06-28/ch440], [54 Stat. 676][/us/stat/54/676]; [July 2, 1940, ch. 508][/us/act/1940-07-02/ch508], [54 Stat. 712][/us/stat/54/712]; [July 11, 1941, ch. 290][/us/act/1941-07-11/ch290], § 3, [55 Stat. 585][/us/stat/55/585]; [Apr. 28, 1942, ch. 247][/us/act/1942-04-28/ch247], title IV, § 403, [56 Stat. 245][/us/stat/56/245]; [Dec. 17, 1942, ch. 739][/us/act/1942-12-17/ch739], [56 Stat. 1053][/us/stat/56/1053]; [Feb. 25, 1944, ch. 63][/us/act/1944-02-25/ch63], title VIII, § 801, [58 Stat. 92][/us/stat/58/92]; [May 21, 1948, ch. 333][/us/act/1948-05-21/ch333], § 3, [62 Stat. 259][/us/stat/62/259]; [Mar. 23, 1951, ch. 15][/us/act/1951-03-23/ch15], [65 Stat. 7][/us/stat/65/7]; [July 17, 1953, ch. 221][/us/act/1953-07-17/ch221], [67 Stat. 177][/us/stat/67/177].
 
-    National Emergency and War Shipping Acts (50 U.S.C. App. 1251 et seq.), acts [June 11, 1940, ch. 327][/us/act/1940-06-11/ch327], [54 Stat. 306][/us/stat/54/306]; [May 2, 1941, ch. 84][/us/act/1941-05-02/ch84], [55 Stat. 148][/us/stat/55/148]; [June 6, 1941, ch. 174][/us/act/1941-06-06/ch174], [55 Stat. 242][/us/stat/55/242]; [July 14, 1941, ch. 297][/us/act/1941-07-14/ch297], [55 Stat. 591][/us/stat/55/591]; [Mar. 24, 1943, ch. 26][/us/act/1943-03-24/ch26], [57 Stat. 45][/us/stat/57/45]; [Apr. 29, 1943, ch. 81][/us/act/1943-04-29/ch81], [57 Stat. 69][/us/stat/57/69]; [July 9, 1943, ch. 212][/us/act/1943-07-09/ch212], [57 Stat. 391][/us/stat/57/391]; [Aug. 10, 1946, ch. 949][/us/act/1946-08-10/ch949], [60 Stat. 977][/us/stat/60/977].
+    National Emergency and War Shipping Acts (50 U.S.C. App. 1251 et seq.), acts [June 11, 1940, ch. 327][/us/act/1940-06-11/ch327], [54 Stat. 306][/us/stat/54/306]; [May 2, 1941, ch. 84][/us/act/1941-05-02/ch84], [55 Stat. 148][/us/stat/55/148]; [June 6, 1941, ch. 174][/us/act/1941-06-06/ch174], [55 Stat. 242][/us/stat/55/242]; [July 14, 1941, ch. 297][/us/act/1941-07-14/ch297], [55 Stat. 591][/us/stat/55/591]; [Apr. 29, 1943, ch. 81][/us/act/1943-04-29/ch81], [57 Stat. 69][/us/stat/57/69]; [July 9, 1943, ch. 212][/us/act/1943-07-09/ch212], [57 Stat. 391][/us/stat/57/391]; [Aug. 10, 1946, ch. 949][/us/act/1946-08-10/ch949], [60 Stat. 977][/us/stat/60/977].
 
     Farm Labor Supply Appropriation Act, 1944 (50 U.S.C. App. 1351 et seq.), [act Feb. 14, 1944, ch. 16][/us/act/1944-02-14/ch16], [58 Stat. 11][/us/stat/58/11].
 
@@ -14060,6 +14132,9 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
 [/us/usc/t50/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3901
+[/us/act/1943-03-24/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-24%2Fch26
+[/us/stat/57/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F45
+[/us/usc/t50/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4701
 [/us/act/1946-03-08/ch82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-08%2Fch82
 [/us/stat/60/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F41
 [/us/usc/t50/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4401
@@ -14179,8 +14254,6 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/stat/55/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F242
 [/us/act/1941-07-14/ch297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-14%2Fch297
 [/us/stat/55/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F591
-[/us/act/1943-03-24/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-24%2Fch26
-[/us/stat/57/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F45
 [/us/act/1943-04-29/ch81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-04-29%2Fch81
 [/us/stat/57/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F69
 [/us/act/1943-07-09/ch212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-09%2Fch212

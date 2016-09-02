@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–92][/us/pl/114/92], § 3115(a), substituted “to a national security laboratory” for “to such laboratories”, “of not less than 5 percent and not more than 7 percent” for “not to exceed 6 percent”, and “by the laboratory” for “by such laboratories”.
+    2015—Subsec. (c). [Pub. L. 114–92][/us/pl/114/92] substituted “to a national security laboratory” for “to such laboratories”, “of not less than 5 percent and not more than 7 percent” for “not to exceed 6 percent”, and “by the laboratory” for “by such laboratories”.
 
     2003—[Pub. L. 108–136][/us/pl/108/136], § 3141(k)(6)(D), made technical amendment to section catchline.
 
