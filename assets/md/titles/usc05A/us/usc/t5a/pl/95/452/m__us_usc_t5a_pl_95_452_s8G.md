@@ -377,7 +377,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of Title 49][/us/usc/t49/s701], Transportation.
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of Title 49][/us/usc/t49/s1301], Transportation.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -390,6 +390,32 @@
  __Effective Date__ 
 
     Section effective 180 days after Oct. 18, 1988, see [section 113 of Pub. L. 100–504][/us/pl/100/504/s113], set out as an Effective Date of 1988 Amendment note under [section 5 of Pub. L. 95–452][/us/pl/95/452/s5] in this Appendix.
+
+ __Amtrak Inspector General__ 
+
+[Pub. L. 114–94, div. A, title XI, § 11314][/us/pl/114/94/s11314], Dec. 4, 2015, [129 Stat. 1674][/us/stat/129/1674], provided that:
+
+>     “(a) __Authority.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Inspector General of Amtrak shall have the authority available to other Inspectors General, as necessary in carrying out the duties specified in the Inspector General Act of 1978 (5 U.S.C. App.), to investigate any alleged violation of sections 286, 287, 371, 641, 1001, 1002 and 1516 of title 18, United States Code.
+
+>         “(2)  __Agency__  __.—__ 
+
+>         For purposes of sections 286, 287, 371, 641, 1001, 1002, and 1516 of title 18, United States Code, Amtrak and the Amtrak Office of Inspector General, shall be considered a corporation in which the United States has a proprietary interest as set forth in section 6 of such title.
+
+>     “(b)  __Assessment__  __.—__ 
+
+>     The Inspector General of Amtrak shall—
+
+>         “(1) not later than 60 days after the date of enactment of this Act \[Dec. 4, 2015\], initiate an assessment to determine whether current expenditures or procurements involving Amtrak’s fulfillment of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) utilize competitive, market-driven provisions that are applicable throughout the entire term of such related expenditures or procurements; and
+
+>         “(2) not later than 6 months after the date of enactment of this Act, transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives the assessment under paragraph (1).
+
+>     “(c)  __Limitation__  __.—__ 
+
+>     The authority provided by subsection (a) shall be effective only with respect to a fiscal year for which Amtrak receives a Federal subsidy.”
 
  __Inspector General at the Commission on Civil Rights__ 
 
@@ -1148,7 +1174,7 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/pl/105/134/s409/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs409%2Fa%2F2
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/103/82/s202/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F2%2FB
 [/us/stat/107/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F890
 [/us/pl/103/82/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fc%2F2
@@ -1156,6 +1182,9 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651
 [/us/pl/100/504/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs113
 [/us/pl/95/452/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs5
+[/us/pl/114/94/s11314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11314
+[/us/stat/129/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1674
+[/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F75
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
