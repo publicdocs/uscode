@@ -15,7 +15,7 @@
 
 # Title 50—APPENDIXWAR AND NATIONAL DEFENSE
 
-Current through 113–45
+Current through 113-46
 
 <table>
 
@@ -1139,9 +1139,9 @@ III. MISCELLANEOUS PROCLAMATIONS AND EXECUTIVE ORDERS
 
     The foregoing regulations are in addition to the “Rules and Regulations for the Operation and Navigation of the Panama Canal and Approaches Thereto, including all Waters under its Jurisdiction” prescribed by Executive Order No. 4314 of September 25, 1925, as amended, and the provisions of proclamations and executive orders pertaining to the Canal Zone issued in conformity with the laws and treaties of the United States.
 
-    Proc. No. 2350, eff. Sept. 5, 1939, 4 F.R. 3821, [54 Stat. 2368][/us/stat/54/2368], referred to regulations concerning neutrality in the Canal Zone.
-
                               Franklin D. Roosevelt.
+
+    Proc. No. 2350, eff. Sept. 5, 1939, 4 F.R. 3821, [54 Stat. 2368][/us/stat/54/2368], referred to regulations concerning neutrality in the Canal Zone.
 
  __Ex. Ord. No. 9723. Termination of President’s War Relief Control Board__ 
 
