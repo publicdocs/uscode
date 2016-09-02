@@ -15,7 +15,7 @@
 
 ## § 734. Repealed. [Aug. 4, 1949, ch. 393, § 20][/us/act/1949-08-04/ch393/s20], [63 Stat. 561][/us/stat/63/561]
 
-    Section, R.S. § 4678, related to coloring and numbering buoys. See [section 87 of Title 14][/us/usc/t14/s87], Coast Guard.
+    Section, R.S. § 4678, related to coloring and numbering buoys.
 
  __Effective Date of Repeal__ 
 
@@ -30,6 +30,5 @@
 
 [/us/act/1949-08-04/ch393/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs20
 [/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
-[/us/usc/t14/s87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs87
 
 

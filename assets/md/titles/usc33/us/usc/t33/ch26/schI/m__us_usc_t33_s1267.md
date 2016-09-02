@@ -255,6 +255,210 @@
 
     2000—[Pub. L. 106–457][/us/pl/106/457] amended section generally, substituting subsecs. (a) to (j) for former subsecs. (a) to (d), which related to continuation of the Chesapeake Bay Program and establishment and maintenance in the Environmental Protection Agency of an office, division, or branch of Chesapeake Bay Programs, interstate development plan grants, progress reports from grant recipient States, and authorization of appropriations.
 
+ __Chesapeake Bay Accountability and Recovery__ 
+
+[Pub. L. 113–273][/us/pl/113/273], Dec. 18, 2014, [128 Stat. 2967][/us/stat/128/2967], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Chesapeake Bay Accountability and Recovery Act of 2014’.
+
+> “SEC. 2. __DEFINITIONS.__ 
+
+> “In this Act:
+
+>     “(1)  __Administrator__  __.—__ 
+
+>     The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
+
+>     “(2)  __Chesapeake bay state__  __.—__ 
+
+>     The term ‘Chesapeake Bay State’ or ‘State’ means any of—
+
+>         “(A) the States of Maryland, West Virginia, Delaware, and New York;
+
+>         “(B) the Commonwealths of Virginia and Pennsylvania; and
+
+>         “(C) the District of Columbia.
+
+>     “(3)  __Chesapeake bay watershed__  __.—__ 
+
+>     The term ‘Chesapeake Bay watershed’ means all tributaries, backwaters, and side channels, including watersheds, draining into the Chesapeake Bay.
+
+>     “(4)  __Chesapeake executive council__  __.—__ 
+
+>     The term ‘Chesapeake Executive Council’ has the meaning given the term by section 117(a) of the Federal Water Pollution Control Act ([33 U.S.C. 1267(a)][/us/usc/t33/s1267/a]).
+
+>     “(5)  __Chief executive__  __.—__ 
+
+>     The term ‘chief executive’ means, in the case of a State or Commonwealth, the Governor of the State or Commonwealth and, in the case of the District of Columbia, the Mayor of the District of Columbia.
+
+>     “(6)  __Director__  __.—__ 
+
+>     The term ‘Director’ means the Director of the Office of Management and Budget.
+
+>     “(7) __Federal restoration activity.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         The term ‘Federal restoration activity’ means a Federal program or project carried out under Federal authority in existence as of the date of enactment of this Act \[Dec. 18, 2014\] with the express intent to directly protect, conserve, or restore living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed, including programs or projects that provide financial and technical assistance to promote responsible land use, stewardship, and community engagement in the Chesapeake Bay watershed.
+
+>         “(B)  __Categorization__  __.—__ 
+
+>         Federal restoration activities may be categorized as follows:
+
+>             “(i) Physical restoration.
+
+>             “(ii) Planning.
+
+>             “(iii) Feasibility studies.
+
+>             “(iv) Scientific research.
+
+>             “(v) Monitoring.
+
+>             “(vi) Education.
+
+>             “(vii) Infrastructure development.
+
+>     “(8) __State restoration activity.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         The term ‘State restoration activity’ means any State program or project carried out under State authority that directly or indirectly protect\[s\], conserve\[s\], or restore\[s\] living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed, including programs or projects that promote responsible land use, stewardship, and community engagement in the Chesapeake Bay watershed.
+
+>         “(B)  __Categorization__  __.—__ 
+
+>         State restoration activities may be categorized as follows:
+
+>             “(i) Physical restoration.
+
+>             “(ii) Planning.
+
+>             “(iii) Feasibility studies.
+
+>             “(iv) Scientific research.
+
+>             “(v) Monitoring.
+
+>             “(vi) Education.
+
+>             “(vii) Infrastructure development.
+
+> “SEC. 3. __CHESAPEAKE BAY CROSSCUT BUDGET.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Director, in consultation with the Chesapeake Executive Council, the chief executive of each Chesapeake Bay State, and the Chesapeake Bay Commission, shall submit to Congress a financial report containing—
+
+>         “(1)
+
+>          an interagency crosscut budget that displays, as applicable—
+
+>             “(A) the proposed funding for any Federal restoration activity to be carried out in the succeeding fiscal year, including any planned interagency or intra-agency transfer, for each of the Federal agencies that carry out restoration activities;
+
+>             “(B) to the extent that information is available, the estimated funding for any State restoration activity to be carried out in the succeeding fiscal year;
+
+>             “(C) all expenditures for Federal restoration activities from the preceding 2 fiscal years, the current fiscal year, and the succeeding fiscal year;
+
+>             “(D) all expenditures, to the extent that information is available, for State restoration activities during the equivalent time period described in subparagraph (C); and
+
+>             “(E) a section that identifies and evaluates, based on need and appropriateness, specific opportunities to consolidate similar programs and activities within the budget and recommendations to Congress for legislative action to streamline, consolidate, or eliminate similar programs and activities within the budget;
+
+>         “(2) a detailed accounting of all funds received and obligated by each Federal agency for restoration activities during the current and preceding fiscal years, including the identification of funds that were transferred to a Chesapeake Bay State for restoration activities;
+
+>         “(3) to the extent that information is available, a detailed accounting from each State of all funds received and obligated from a Federal agency for restoration activities during the current and preceding fiscal years; and
+
+>         “(4)
+
+>          a description of each of the proposed Federal and State restoration activities to be carried out in the succeeding fiscal year (corresponding to those activities listed in subparagraphs (A) and (B) of paragraph (1)), including—
+
+>             “(A) the project description;
+
+>             “(B) the current status of the project;
+
+>             “(C) the Federal or State statutory or regulatory authority, program, or responsible agency;
+
+>             “(D) the authorization level for appropriations;
+
+>             “(E) the project timeline, including benchmarks;
+
+>             “(F) references to project documents;
+
+>             “(G) descriptions of risks and uncertainties of project implementation;
+
+>             “(H) a list of coordinating entities;
+
+>             “(I) a description of the funding history for the project;
+
+>             “(J) cost sharing; and
+
+>             “(K) alignment with the existing Chesapeake Bay Agreement, Chesapeake Executive Council goals and priorities, and Annual Action Plan required by section 205 of Executive Order 13508 ([33 U.S.C. 1267][/us/usc/t33/s1267] note; relating to Chesapeake Bay protection and restoration).
+
+>     “(b)  __Minimum Funding Levels__  __.—__ 
+
+>     In describing restoration activities in the report required under subsection (a), the Director shall only include—
+
+>         “(1)
+
+>          for the first 3 years that the report is required, descriptions of—
+
+>             “(A) Federal restoration activities that have funding amounts greater than or equal to $300,000; and
+
+>             “(B) State restoration activities that have funding amounts greater than or equal to $300,000; and
+
+>         “(2)
+
+>          for every year thereafter, descriptions of—
+
+>             “(A) Federal restoration activities that have funding amounts greater than or equal to $100,000; and
+
+>             “(B) State restoration activities that have funding amounts greater than or equal to $100,000.
+
+>     “(c)  __Deadline__  __.—__ 
+
+>     The Director shall submit to Congress the report required by subsection (a) not later than September 30 of each year.
+
+>     “(d)  __Report__  __.—__ 
+
+>     Copies of the report required by subsection (a) shall be submitted to the Committees on Appropriations, Natural Resources, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations, Environment and Public Works, and Commerce, Science, and Transportation of the Senate.
+
+>     “(e)  __Effective Date__  __.—__ 
+
+>     This section shall apply beginning with the first fiscal year after the date of enactment of this Act \[Dec. 18, 2014\].
+
+> “SEC. 4. __INDEPENDENT EVALUATOR FOR THE CHESAPEAKE BAY PROGRAM.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     There shall be an Independent Evaluator for restoration activities in the Chesapeake Bay watershed, who shall review and report on—
+
+>         “(1) restoration activities; and
+
+>         “(2) any related topics that are suggested by the Chesapeake Executive Council.
+
+>     “(b) __Appointment.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 30 days after the date of submission of nominees by the Chesapeake Executive Council, the Independent Evaluator shall be appointed by the Administrator from among nominees submitted by the Chesapeake Executive Council with the consultation of the scientific community.
+
+>         “(2)  __Nominations__  __.—__ 
+
+>         The Chesapeake Executive Council may nominate for consideration as Independent Evaluator a science-based institution of higher education.
+
+>         “(3)  __Requirements__  __.—__ 
+
+>         The Administrator shall only select as Independent Evaluator a nominee that the Administrator determines demonstrates excellence in marine science, policy evaluation, or other studies relating to complex environmental restoration activities.
+
+>     “(c)  __Reports__  __.—__ 
+
+>     Not later than 180 days after the date of appointment and once every 2 years thereafter, the Independent Evaluator shall submit to Congress a report describing the findings and recommendations of reviews conducted under subsection (a).
+
+> “SEC. 5. __PROHIBITION ON NEW FUNDING.__ 
+
+>     “No additional funds are authorized to be appropriated to carry out this Act.”
+
  __Findings and Purposes__ 
 
 [Pub. L. 106–457, title II, § 202][/us/pl/106/457/s202], Nov. 7, 2000, [114 Stat. 1967][/us/stat/114/1967], provided that:
@@ -474,6 +678,10 @@ Sec. 601. The Secretaries of Commerce and the Interior shall, to the extent perm
 [/us/stat/114/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1967
 [/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
 [/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/113/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F273
+[/us/stat/128/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2967
+[/us/usc/t33/s1267/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1267%2Fa
+[/us/usc/t33/s1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1267
 [/us/pl/106/457/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs202
 [/us/stat/114/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1967
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251

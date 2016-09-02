@@ -83,9 +83,9 @@
 
     (i) __Liquefied natural gas facilities__ 
 
-        To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with liquefied natural gas by United States flag vessels.
+        To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with or that will supply liquefied natural gas by United States flag vessels.
 
-([Pub. L. 93–627, § 4][/us/pl/93/627/s4], Jan. 3, 1975, [88 Stat. 2128][/us/stat/88/2128]; [Pub. L. 98–419, § 2(b)][/us/pl/98/419/s2/b]–(e), Sept. 25, 1984, [98 Stat. 1607][/us/stat/98/1607]; [Pub. L. 101–380, title II, § 2003(a)(1)][/us/pl/101/380/s2003/a/1], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507]; [Pub. L. 104–324, title V, § 504][/us/pl/104/324/s504], Oct. 19, 1996, [110 Stat. 3926][/us/stat/110/3926]; [Pub. L. 107–295, title I, § 106(a)(2)][/us/pl/107/295/s106/a/2], Nov. 25, 2002, [116 Stat. 2086][/us/stat/116/2086]; [Pub. L. 109–241, title III, § 304(b)][/us/pl/109/241/s304/b], July 11, 2006, [120 Stat. 527][/us/stat/120/527].)
+([Pub. L. 93–627, § 4][/us/pl/93/627/s4], Jan. 3, 1975, [88 Stat. 2128][/us/stat/88/2128]; [Pub. L. 98–419, § 2(b)][/us/pl/98/419/s2/b]–(e), Sept. 25, 1984, [98 Stat. 1607][/us/stat/98/1607]; [Pub. L. 101–380, title II, § 2003(a)(1)][/us/pl/101/380/s2003/a/1], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507]; [Pub. L. 104–324, title V, § 504][/us/pl/104/324/s504], Oct. 19, 1996, [110 Stat. 3926][/us/stat/110/3926]; [Pub. L. 107–295, title I, § 106(a)(2)][/us/pl/107/295/s106/a/2], Nov. 25, 2002, [116 Stat. 2086][/us/stat/116/2086]; [Pub. L. 109–241, title III, § 304(b)][/us/pl/109/241/s304/b], July 11, 2006, [120 Stat. 527][/us/stat/120/527]; [Pub. L. 113–281, title III, § 307(c)][/us/pl/113/281/s307/c], Dec. 18, 2014, [128 Stat. 3045][/us/stat/128/3045].)
 
  __References in Text__ 
 
@@ -102,6 +102,8 @@
     The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (i). [Pub. L. 113–281][/us/pl/113/281] inserted “or that will supply” after “be supplied with”.
 
     2006—Subsec. (i). [Pub. L. 109–241][/us/pl/109/241] added subsec. (i).
 
@@ -143,9 +145,9 @@
 
  __LNG Tankers__ 
 
-[Pub. L. 109–241, title III, § 304(a)][/us/pl/109/241/s304/a], July 11, 2006, [120 Stat. 527][/us/stat/120/527], provided that: 
+[Pub. L. 109–241, title III, § 304(a)][/us/pl/109/241/s304/a], July 11, 2006, [120 Stat. 527][/us/stat/120/527], as amended by [Pub. L. 113–281, title III, § 307(b)][/us/pl/113/281/s307/b], Dec. 18, 2014, [128 Stat. 3045][/us/stat/128/3045], provided that: 
 
-> “The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to the United States on United States flag vessels.”
+> “The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.”
 
 ----------
 
@@ -178,6 +180,8 @@
 [/us/stat/116/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2086
 [/us/pl/109/241/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs304%2Fb
 [/us/stat/120/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F527
+[/us/pl/113/281/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs307%2Fc
+[/us/stat/128/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3045
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
@@ -197,6 +201,7 @@
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/104/324/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs504%2Fa
@@ -218,5 +223,7 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/109/241/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs304%2Fa
 [/us/stat/120/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F527
+[/us/pl/113/281/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs307%2Fb
+[/us/stat/128/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3045
 
 

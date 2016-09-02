@@ -455,7 +455,7 @@
 
 [Pub. L. 108–447, div. I, title III][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3332][/us/stat/118/3332], provided in part that: 
 
-> “The Administrator \[of the Environmental Protection Agency\] may hereafter receive and use funds contributed by a non-Federal sponsor as its share of the cost of a project to carry out a project under paragraph (c)(12) of section 118 of the Federal Water Pollution Control Act \[[33 U.S.C. 1268(c)(12)][/us/usc/t33/s1268/c/12]\], as amended.”
+> “The Administrator \[of the Environmental Protection Agency\] may hereafter receive and use funds contributed by a non-Federal sponsor as its share of the cost of a project to carry out a project under paragraph (c)(12) \[now (c)(11)\] of section 118 of the Federal Water Pollution Control Act \[[33 U.S.C. 1268(c)(11)][/us/usc/t33/s1268/c/11]\], as amended.”
 
  __Great Lakes Remedial Action Plans and Sediment Remediation__ 
 
@@ -597,7 +597,7 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3332
-[/us/usc/t33/s1268/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1268%2Fc%2F12
+[/us/usc/t33/s1268/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1268%2Fc%2F11
 [/us/pl/101/640/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs401
 [/us/stat/104/4644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4644
 [/us/pl/104/303/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs515

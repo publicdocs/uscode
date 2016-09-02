@@ -335,7 +335,7 @@
 
  __Permit Requirements for Discharges From Certain Vessels__ 
 
-[Pub. L. 110–299][/us/pl/110/299], §§ 1, 2, July 31, 2008, [122 Stat. 2995][/us/stat/122/2995], as amended by [Pub. L. 111–215, § 1][/us/pl/111/215/s1], July 30, 2010, [124 Stat. 2347][/us/stat/124/2347]; [Pub. L. 112–213, title VII, § 703][/us/pl/112/213/s703], Dec. 20, 2012, [126 Stat. 1580][/us/stat/126/1580], provided that:
+[Pub. L. 110–299][/us/pl/110/299], §§ 1, 2, July 31, 2008, [122 Stat. 2995][/us/stat/122/2995], as amended by [Pub. L. 111–215, § 1][/us/pl/111/215/s1], July 30, 2010, [124 Stat. 2347][/us/stat/124/2347]; [Pub. L. 112–213, title VII, § 703][/us/pl/112/213/s703], Dec. 20, 2012, [126 Stat. 1580][/us/stat/126/1580]; [Pub. L. 113–281, title VI, § 602][/us/pl/113/281/s602], Dec. 18, 2014, [128 Stat. 3061][/us/stat/128/3061], provided that:
 
 > “SECTION 1. __DEFINITIONS.__ 
 
@@ -361,7 +361,7 @@
 
 >     “(a)  __No Permit Requirement__  __.—__ 
 
->     Except as provided in subsection (b), during the period beginning on the date of the enactment of this Act \[July 31, 2008\] and ending on December 18, 2014, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act ([33 U.S.C. 1342][/us/usc/t33/s1342]), shall not require a permit under that section for a covered vessel for—
+>     Except as provided in subsection (b), during the period beginning on the date of the enactment of this Act \[July 31, 2008\] and ending on December 18, 2017, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act ([33 U.S.C. 1342][/us/usc/t33/s1342]), shall not require a permit under that section for a covered vessel for—
 
 >         “(1) any discharge of effluent from properly functioning marine engines;
 
@@ -562,6 +562,8 @@
 [/us/stat/124/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2347
 [/us/pl/112/213/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs703
 [/us/stat/126/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1580
+[/us/pl/113/281/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs602
+[/us/stat/128/3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3061
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/usc/t33/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1362
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342

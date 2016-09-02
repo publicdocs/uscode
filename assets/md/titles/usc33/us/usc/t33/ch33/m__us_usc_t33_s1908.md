@@ -45,13 +45,19 @@
 
         Notwithstanding subsection (a), (b), or (d) of this section, if the violation is by a ship registered in or of the nationality of a country party to the MARPOL Protocol or the Antarctic Protocol, or one operated under the authority of a country party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, or the Administrator as provided for in this chapter acting in coordination with the Secretary of State, may refer the matter to the government of the country of the ship’s registry or nationality, or under whose authority the ship is operating for appropriate action, rather than taking the actions required or authorized by this section.
 
-([Pub. L. 96–478, § 9][/us/pl/96/478/s9], Oct. 21, 1980, [94 Stat. 2301][/us/stat/94/2301]; [Pub. L. 100–220, title II, § 2105][/us/pl/100/220/s2105], Dec. 29, 1987, [101 Stat. 1463][/us/stat/101/1463]; [Pub. L. 101–380, title IV, § 4302(n)][/us/pl/101/380/s4302/n], Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539]; [Pub. L. 103–182, title VI, § 688][/us/pl/103/182/s688], Dec. 8, 1993, [107 Stat. 2222][/us/stat/107/2222]; [Pub. L. 104–227, title II, § 201(f)][/us/pl/104/227/s201/f], Oct. 2, 1996, [110 Stat. 3043][/us/stat/110/3043]; [Pub. L. 110–280, § 10][/us/pl/110/280/s10], July 21, 2008, [122 Stat. 2615][/us/stat/122/2615].)
+    (g) __Deposits in Abandoned Seafarers Fund__ 
+
+        Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under [section 11113 of title 46][/us/usc/t46/s11113], United States Code.
+
+([Pub. L. 96–478, § 9][/us/pl/96/478/s9], Oct. 21, 1980, [94 Stat. 2301][/us/stat/94/2301]; [Pub. L. 100–220, title II, § 2105][/us/pl/100/220/s2105], Dec. 29, 1987, [101 Stat. 1463][/us/stat/101/1463]; [Pub. L. 101–380, title IV, § 4302(n)][/us/pl/101/380/s4302/n], Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539]; [Pub. L. 103–182, title VI, § 688][/us/pl/103/182/s688], Dec. 8, 1993, [107 Stat. 2222][/us/stat/107/2222]; [Pub. L. 104–227, title II, § 201(f)][/us/pl/104/227/s201/f], Oct. 2, 1996, [110 Stat. 3043][/us/stat/110/3043]; [Pub. L. 110–280, § 10][/us/pl/110/280/s10], July 21, 2008, [122 Stat. 2615][/us/stat/122/2615]; [Pub. L. 113–281, title III, § 320(c)][/us/pl/113/281/s320/c], Dec. 18, 2014, [128 Stat. 3054][/us/stat/128/3054].)
 
  __Codification__ 
 
     In subsec. (e), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
  __Amendments__ 
+
+    2014—Subsec. (g). [Pub. L. 113–281][/us/pl/113/281] added subsec. (g).
 
     2008—[Pub. L. 110–280, § 10(1)][/us/pl/110/280/s10/1], substituted “MARPOL Protocol,” for “MARPOL Protocol,,” wherever appearing in subsecs. (a), (b), and (d).
 
@@ -107,6 +113,7 @@
 ----------
 
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
+[/us/usc/t46/s11113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs11113
 [/us/pl/96/478/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs9
 [/us/stat/94/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2301
 [/us/pl/100/220/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2105
@@ -119,10 +126,13 @@
 [/us/stat/110/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3043
 [/us/pl/110/280/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10
 [/us/stat/122/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2615
+[/us/pl/113/281/s320/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs320%2Fc
+[/us/stat/128/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3054
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/110/280/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10%2F1
 [/us/pl/110/280/s10/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10%2F2%2FC
 [/us/pl/110/280/s10/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10%2F2%2FA

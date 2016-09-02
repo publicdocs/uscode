@@ -517,7 +517,13 @@
 
         (4) __Area Committees and Area Contingency Plans__ 
 
-            (A) There is established for each area designated by the President an Area Committee comprised of members appointed by the President from qualified personnel of Federal, State, and local agencies.
+            (A)
+
+             There is established for each area designated by the President an Area Committee comprised of members appointed by the President from qualified—
+
+                (i) personnel of Federal, State, and local agencies; and
+
+                (ii) members of federally recognized Indian tribes, where applicable.
 
             (B)
 
@@ -525,9 +531,9 @@
 
                 (i) prepare for its area the Area Contingency Plan required under subparagraph (C);
 
-                (ii) work with State and local officials to enhance the contingency planning of those officials and to assure preplanning of joint response efforts, including appropriate procedures for mechanical recovery, dispersal, shoreline cleanup, protection of sensitive environmental areas, and protection, rescue, and rehabilitation of fisheries and wildlife; and
+                (ii) work with State, local, and tribal officials to enhance the contingency planning of those officials and to assure preplanning of joint response efforts, including appropriate procedures for mechanical recovery, dispersal, shoreline cleanup, protection of sensitive environmental areas, and protection, rescue, and rehabilitation of fisheries and wildlife, including advance planning with respect to the closing and reopening of fishing areas following a discharge; and
 
-                (iii) work with State and local officials to expedite decisions for the use of dispersants and other mitigating substances and devices.
+                (iii) work with State, local, and tribal officials to expedite decisions for the use of dispersants and other mitigating substances and devices.
 
             (C)
 
@@ -539,15 +545,17 @@
 
                 (iii) describe in detail the responsibilities of an owner or operator and of Federal, State, and local agencies in removing a discharge, and in mitigating or preventing a substantial threat of a discharge;
 
-                (iv) list the equipment (including firefighting equipment), dispersants or other mitigating substances and devices, and personnel available to an owner or operator and Federal, State, and local agencies, to ensure an effective and immediate removal of a discharge, and to ensure mitigation or prevention of a substantial threat of a discharge;
+                (iv) list the equipment (including firefighting equipment), dispersants or other mitigating substances and devices, and personnel available to an owner or operator, Federal, State, and local agencies, and tribal governments, to ensure an effective and immediate removal of a discharge, and to ensure mitigation or prevention of a substantial threat of a discharge;
 
                 (v) compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and describe the procedures to be followed for obtaining an expedited decision regarding the use of dispersants;
 
                 (vi) describe in detail how the plan is integrated into other Area Contingency Plans and vessel, offshore facility, and onshore facility response plans approved under this subsection, and into operating procedures of the National Response Unit;
 
-                (vii) include any other information the President requires; and
+                (vii) include a framework for advance planning and decisionmaking with respect to the closing and reopening of fishing areas following a discharge, including protocols and standards for the closing and reopening of fishing areas;
 
-                (viii) be updated periodically by the Area Committee.
+                (viii) include any other information the President requires; and
+
+                (ix) be updated periodically by the Area Committee.
 
             (D)
 
@@ -1295,7 +1303,7 @@
 
             (B) 50 percent shall be made available to the Gulf Coast Ecosystem Restoration Council to carry out the Comprehensive Plan pursuant to paragraph (2).
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 311, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 862][/us/stat/86/862]; amended [Pub. L. 93–207, § 1(4)][/us/pl/93/207/s1/4], Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906]; [Pub. L. 95–217][/us/pl/95/217], §§ 57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, [91 Stat. 1593–1596][/us/stat/91/1593-1596]; [Pub. L. 95–576, § 1(b)][/us/pl/95/576/s1/b], Nov. 2, 1978, [92 Stat. 2467][/us/stat/92/2467]; [Pub. L. 96–478, § 13(b)][/us/pl/96/478/s13/b], Oct. 21, 1980, [94 Stat. 2303][/us/stat/94/2303]; [Pub. L. 96–483, § 8][/us/pl/96/483/s8], Oct. 21, 1980, [94 Stat. 2362][/us/stat/94/2362]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 97–164, title I, § 161(5)][/us/pl/97/164/s161/5], Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 100–4, title V, § 502(b)][/us/pl/100/4/s502/b], Feb. 4, 1987, [101 Stat. 75][/us/stat/101/75]; [Pub. L. 101–380, title II, § 2002(b)][/us/pl/101/380/s2002/b], title IV, §§ 4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], 523–527, 532, 533, 540, 541; [Pub. L. 102–388, title III, § 349][/us/pl/102/388/s349], Oct. 6, 1992, [106 Stat. 1554][/us/stat/106/1554]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 104–324, title XI][/us/pl/104/324], §§ 1143, 1144, Oct. 19, 1996, [110 Stat. 3992][/us/stat/110/3992]; [Pub. L. 105–383, title IV, § 411][/us/pl/105/383/s411], Nov. 13, 1998, [112 Stat. 3432][/us/stat/112/3432]; [Pub. L. 108–293, title VII, § 701(a)][/us/pl/108/293/s701/a], (b), (d), Aug. 9, 2004, [118 Stat. 1067][/us/stat/118/1067], 1068; [Pub. L. 109–241, title VI, § 608][/us/pl/109/241/s608], title IX, § 901(i), July 11, 2006, [120 Stat. 558][/us/stat/120/558], 564; [Pub. L. 112–90, § 10][/us/pl/112/90/s10], Jan. 3, 2012, [125 Stat. 1912][/us/stat/125/1912]; [Pub. L. 112–141, div. A, title I, § 1603][/us/pl/112/141/s1603], July 6, 2012, [126 Stat. 589][/us/stat/126/589].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 311, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 862][/us/stat/86/862]; amended [Pub. L. 93–207, § 1(4)][/us/pl/93/207/s1/4], Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906]; [Pub. L. 95–217][/us/pl/95/217], §§ 57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, [91 Stat. 1593–1596][/us/stat/91/1593-1596]; [Pub. L. 95–576, § 1(b)][/us/pl/95/576/s1/b], Nov. 2, 1978, [92 Stat. 2467][/us/stat/92/2467]; [Pub. L. 96–478, § 13(b)][/us/pl/96/478/s13/b], Oct. 21, 1980, [94 Stat. 2303][/us/stat/94/2303]; [Pub. L. 96–483, § 8][/us/pl/96/483/s8], Oct. 21, 1980, [94 Stat. 2362][/us/stat/94/2362]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 97–164, title I, § 161(5)][/us/pl/97/164/s161/5], Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 100–4, title V, § 502(b)][/us/pl/100/4/s502/b], Feb. 4, 1987, [101 Stat. 75][/us/stat/101/75]; [Pub. L. 101–380, title II, § 2002(b)][/us/pl/101/380/s2002/b], title IV, §§ 4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], 523–527, 532, 533, 540, 541; [Pub. L. 102–388, title III, § 349][/us/pl/102/388/s349], Oct. 6, 1992, [106 Stat. 1554][/us/stat/106/1554]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 104–324, title XI][/us/pl/104/324], §§ 1143, 1144, Oct. 19, 1996, [110 Stat. 3992][/us/stat/110/3992]; [Pub. L. 105–383, title IV, § 411][/us/pl/105/383/s411], Nov. 13, 1998, [112 Stat. 3432][/us/stat/112/3432]; [Pub. L. 108–293, title VII, § 701(a)][/us/pl/108/293/s701/a], (b), (d), Aug. 9, 2004, [118 Stat. 1067][/us/stat/118/1067], 1068; [Pub. L. 109–241, title VI, § 608][/us/pl/109/241/s608], title IX, § 901(i), July 11, 2006, [120 Stat. 558][/us/stat/120/558], 564; [Pub. L. 112–90, § 10][/us/pl/112/90/s10], Jan. 3, 2012, [125 Stat. 1912][/us/stat/125/1912]; [Pub. L. 112–141, div. A, title I, § 1603][/us/pl/112/141/s1603], July 6, 2012, [126 Stat. 589][/us/stat/126/589]; [Pub. L. 113–281, title III, § 313][/us/pl/113/281/s313], Dec. 18, 2014, [128 Stat. 3048][/us/stat/128/3048].)
 
  __References in Text__ 
 
@@ -1332,6 +1340,16 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
     In subsec. (b)(12)(A), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
  __Amendments__ 
+
+    2014—Subsec. (j)(4)(A). [Pub. L. 113–281, § 313(1)][/us/pl/113/281/s313/1], substituted “qualified—” for “qualified personnel of Federal, State, and local agencies.” in introductory provisions and added cls. (i) and (ii).
+
+    Subsec. (j)(4)(B)(ii). [Pub. L. 113–281, § 313(2)][/us/pl/113/281/s313/2], substituted “, local, and tribal” for “and local” and “wildlife, including advance planning with respect to the closing and reopening of fishing areas following a discharge;” for “wildlife;”.
+
+    Subsec. (j)(4)(B)(iii). [Pub. L. 113–281, § 313(3)][/us/pl/113/281/s313/3], substituted “, local, and tribal” for “and local”.
+
+    Subsec. (j)(4)(C)(iv). [Pub. L. 113–281, § 313(4)(A)][/us/pl/113/281/s313/4/A], substituted “, Federal, State, and local agencies, and tribal governments” for “and Federal, State, and local agencies”.
+
+    Subsec. (j)(4)(C)(vii) to (ix). [Pub. L. 113–281, § 313(4)(B)][/us/pl/113/281/s313/4/B], (C), added cl. (vii) and redesignated former cls. (vii) and (viii) as (viii) and (ix), respectively.
 
     2012—Subsec. (a)(27) to (35). [Pub. L. 112–141, § 1603(1)][/us/pl/112/141/s1603/1], added pars. (27) to (35).
 
@@ -1578,6 +1596,34 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
  __Termination of United States District Court for the District of the Canal Zone__ 
 
     For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+
+ __Coast Guard Response Plan Requirements__ 
+
+[Pub. L. 113–281, title III, § 317][/us/pl/113/281/s317], Dec. 18, 2014, [128 Stat. 3050][/us/stat/128/3050], provided that:
+
+>     “(a)  __Vessel Response Plan Contents__  __.—__ 
+
+>     The Secretary of the department in which the Coast Guard is operating shall require that each vessel response plan prepared for a mobile offshore drilling unit includes information from the facility response plan prepared for the mobile offshore drilling unit regarding the planned response to a worst case discharge, and to a threat of such a discharge.
+
+>     “(b)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Mobile offshore drilling unit__  __.—__ 
+
+>         The term ‘mobile offshore drilling unit’ has the meaning given that term in section 1001 of the Oil Pollution Act of 1990 ([33 U.S.C. 2701][/us/usc/t33/s2701]).
+
+>         “(2)  __Response plan__  __.—__ 
+
+>         The term ‘response plan’ means a response plan prepared under section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)][/us/usc/t33/s1321/j]).
+
+>         “(3)  __Worst case discharge__  __.—__ 
+
+>         The term ‘worst case discharge’ has the meaning given that term under section 311(a) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(a)][/us/usc/t33/s1321/a]).
+
+>     “(c)  __Rule of Construction__  __.—__ 
+
+>     Nothing in this section shall be construed to require the Coast Guard to review or approve a facility response plan for a mobile offshore drilling unit.”
 
  __Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States__ 
 
@@ -2203,6 +2249,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/125/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1912
 [/us/pl/112/141/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1603
 [/us/stat/126/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F589
+[/us/pl/113/281/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313
+[/us/stat/128/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3048
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F588
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
@@ -2241,6 +2289,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
+[/us/pl/113/281/s313/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313%2F1
+[/us/pl/113/281/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313%2F2
+[/us/pl/113/281/s313/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313%2F3
+[/us/pl/113/281/s313/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313%2F4%2FA
+[/us/pl/113/281/s313/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313%2F4%2FB
 [/us/pl/112/141/s1603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1603%2F1
 [/us/pl/112/90/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs10%2Fb
 [/us/pl/112/90/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs10%2Fa
@@ -2368,6 +2421,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
+[/us/pl/113/281/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs317
+[/us/stat/128/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3050
+[/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
+[/us/usc/t33/s1321/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fj
+[/us/usc/t33/s1321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fa
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F588
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
