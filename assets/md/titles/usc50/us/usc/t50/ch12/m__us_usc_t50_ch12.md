@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs191" data-uslm-ref="/us/usc/t50/s191">191.</a>  </td>
 
     <td> Regulation of anchorage and movement of vessels during national emergency.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 191a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs191a" data-uslm-ref="/us/usc/t50/s191a">191a.</a>  </td>
 
     <td> Transfer of Secretary of Transportation’s powers to Secretary of Navy when Coast Guard operates as part of Navy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 191b, 191c.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs191b" data-uslm-ref="/us/usc/t50/s191b">191b</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs191c" data-uslm-ref="/us/usc/t50/s191c">191c.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs192" data-uslm-ref="/us/usc/t50/s192">192.</a>  </td>
 
     <td> Seizure and forfeiture of vessel; fine and imprisonment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs193" data-uslm-ref="/us/usc/t50/s193">193.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs194" data-uslm-ref="/us/usc/t50/s194">194.</a>  </td>
 
     <td> Enforcement provisions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs195" data-uslm-ref="/us/usc/t50/s195">195.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs196" data-uslm-ref="/us/usc/t50/s196">196.</a>  </td>
 
     <td> Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 197.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs197" data-uslm-ref="/us/usc/t50/s197">197.</a>  </td>
 
     <td> Voluntary purchase or charter agreements.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 198.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs198" data-uslm-ref="/us/usc/t50/s198">198.</a>  </td>
 
     <td> Requisitioned vessels.  </td>
 

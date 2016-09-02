@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2201" data-uslm-ref="/us/usc/t50/s2201">2201.</a>  </td>
 
     <td> Transfers of spoils of war.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2202" data-uslm-ref="/us/usc/t50/s2202">2202.</a>  </td>
 
     <td> Prohibition on transfers to countries which support terrorism.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2203" data-uslm-ref="/us/usc/t50/s2203">2203.</a>  </td>
 
     <td> Report on previous transfers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2204" data-uslm-ref="/us/usc/t50/s2204">2204.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2205" data-uslm-ref="/us/usc/t50/s2205">2205.</a>  </td>
 
     <td> Construction.  </td>
 

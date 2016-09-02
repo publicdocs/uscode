@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3601" data-uslm-ref="/us/usc/t50/s3601">3601.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3602" data-uslm-ref="/us/usc/t50/s3602">3602.</a>  </td>
 
     <td> Director of Compliance.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3603" data-uslm-ref="/us/usc/t50/s3603">3603.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3604" data-uslm-ref="/us/usc/t50/s3604">3604.</a>  </td>
 
     <td> Additional compensation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3605" data-uslm-ref="/us/usc/t50/s3605">3605.</a>  </td>
 
     <td> Disclosure of Agency’s organization, function, activities, or personnel.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3606" data-uslm-ref="/us/usc/t50/s3606">3606.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3607" data-uslm-ref="/us/usc/t50/s3607">3607.</a>  </td>
 
     <td> Support for activities and personnel outside the United States.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3608" data-uslm-ref="/us/usc/t50/s3608">3608.</a>  </td>
 
     <td> Language training and cryptologic linguist reserve programs.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3609" data-uslm-ref="/us/usc/t50/s3609">3609.</a>  </td>
 
     <td> Enhancement of security authorities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3610" data-uslm-ref="/us/usc/t50/s3610">3610.</a>  </td>
 
     <td> Senior Cryptologic Executive Service.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3611" data-uslm-ref="/us/usc/t50/s3611">3611.</a>  </td>
 
     <td> Cryptologic research grant program.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3612" data-uslm-ref="/us/usc/t50/s3612">3612.</a>  </td>
 
     <td> Availability of appropriations.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3613" data-uslm-ref="/us/usc/t50/s3613">3613.</a>  </td>
 
     <td> Misuse of Agency name, initials, or seal.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3614" data-uslm-ref="/us/usc/t50/s3614">3614.</a>  </td>
 
     <td> Louis Stokes Educational Scholarship Program.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3615" data-uslm-ref="/us/usc/t50/s3615">3615.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3616" data-uslm-ref="/us/usc/t50/s3616">3616.</a>  </td>
 
     <td> Transportation of remains of certain employees.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3617" data-uslm-ref="/us/usc/t50/s3617">3617.</a>  </td>
 
     <td> National Security Agency Emerging Technologies Panel.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 3618.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3618" data-uslm-ref="/us/usc/t50/s3618">3618.</a>  </td>
 
     <td> Collection of service charges for certification or validation of information assurance products.  </td>
 

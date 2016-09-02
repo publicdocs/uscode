@@ -77,15 +77,17 @@
 
     (g) __Decennial review of exempted operational files__ 
 
-    Not less than once every ten years, the Director of the Central Intelligence Agency and the Director of National Intelligence shall review the exemptions in force under subsection (a) of this section to determine whether such exemptions may be removed from any category of exempted files or any portion thereof.
+        (1) Not less than once every ten years, the Director of the Central Intelligence Agency and the Director of National Intelligence shall review the exemptions in force under subsection (a) of this section to determine whether such exemptions may be removed from any category of exempted files or any portion thereof.
 
-    The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
+        (2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 
-    A complainant who alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court’s review shall be limited to determining the following:
+        (3)
 
-        (A) Whether the Central Intelligence Agency has conducted the review required by paragraph (1) before October 15, 1994, or before the expiration of the 10-year period beginning on the date of the most recent review.
+         A complainant who alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court’s review shall be limited to determining the following:
 
-        (B) Whether the Central Intelligence Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
+            (A) Whether the Central Intelligence Agency has conducted the review required by paragraph (1) before October 15, 1994, or before the expiration of the 10-year period beginning on the date of the most recent review.
+
+            (B) Whether the Central Intelligence Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
 ([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 701, as added [Pub. L. 98–477, § 2(a)][/us/pl/98/477/s2/a], Oct. 15, 1984, [98 Stat. 2209][/us/stat/98/2209]; amended [Pub. L. 104–93, title VII, § 702][/us/pl/104/93/s702], Jan. 6, 1996, [109 Stat. 978][/us/stat/109/978]; [Pub. L. 107–306, title III, § 353(b)(10)][/us/pl/107/306/s353/b/10], Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; [Pub. L. 108–136, div. A, title IX, § 922(b)(1)][/us/pl/108/136/s922/b/1], (2)(B)–(F), (d)(1)(B), Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573], 1574; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(a)(6), 1072(a)(7), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3692; [Pub. L. 111–259, title VIII, § 804(6)][/us/pl/111/259/s804/6], Oct. 7, 2010, [124 Stat. 2747][/us/stat/124/2747].)
 

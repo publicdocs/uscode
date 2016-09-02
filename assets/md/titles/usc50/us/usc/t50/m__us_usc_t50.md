@@ -31,511 +31,511 @@ Title 50—WAR AND NATIONAL DEFENSE
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch1" data-uslm-ref="/us/usc/t50/ch1">1.</a>  </td>
 
     <td> Council of National Defense  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1" data-uslm-ref="/us/usc/t50/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch2" data-uslm-ref="/us/usc/t50/ch2">2.</a>  </td>
 
     <td> Board of Ordnance and Fortification [Repealed]  </td>
 
-    <td> 11  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs11" data-uslm-ref="/us/usc/t50/s11">11</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch3" data-uslm-ref="/us/usc/t50/ch3">3.</a>  </td>
 
     <td> Alien Enemies  </td>
 
-    <td> 21  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs21" data-uslm-ref="/us/usc/t50/s21">21</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch4" data-uslm-ref="/us/usc/t50/ch4">4.</a>  </td>
 
     <td> Espionage [Repealed or Transferred]  </td>
 
-    <td> 31  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs31" data-uslm-ref="/us/usc/t50/s31">31</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch4A" data-uslm-ref="/us/usc/t50/ch4A">4A.</a>  </td>
 
     <td> Photographing, Sketching, Mapping, etc., Defensive Installations [Repealed]  </td>
 
-    <td> 45  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs45" data-uslm-ref="/us/usc/t50/s45">45</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch4B" data-uslm-ref="/us/usc/t50/ch4B">4B.</a>  </td>
 
     <td> Disclosure of Classified Information [Repealed]  </td>
 
-    <td> 46  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs46" data-uslm-ref="/us/usc/t50/s46">46</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch4C" data-uslm-ref="/us/usc/t50/ch4C">4C.</a>  </td>
 
     <td> Atomic Weapons and Special Nuclear Materials Information Rewards  </td>
 
-    <td> 47a  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs47a" data-uslm-ref="/us/usc/t50/s47a">47a</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch5" data-uslm-ref="/us/usc/t50/ch5">5.</a>  </td>
 
     <td> Arsenals, Armories, Arms, and War Material Generally  </td>
 
-    <td> 51  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs51" data-uslm-ref="/us/usc/t50/s51">51</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch6" data-uslm-ref="/us/usc/t50/ch6">6.</a>  </td>
 
     <td> Willful Destruction, etc., of War or National-Defense Material [Repealed]  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs101" data-uslm-ref="/us/usc/t50/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch7" data-uslm-ref="/us/usc/t50/ch7">7.</a>  </td>
 
     <td> Interference With Homing Pigeons Owned by United States [Repealed]  </td>
 
-    <td> 111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs111" data-uslm-ref="/us/usc/t50/s111">111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch8" data-uslm-ref="/us/usc/t50/ch8">8.</a>  </td>
 
     <td> Explosives; Manufacture, Distribution, Storage, Use, and Possession Regulated [Repealed]  </td>
 
-    <td> 121  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs121" data-uslm-ref="/us/usc/t50/s121">121</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch9" data-uslm-ref="/us/usc/t50/ch9">9.</a>  </td>
 
     <td> Aircraft [Omitted, Repealed, or Transferred]  </td>
 
-    <td> 151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs151" data-uslm-ref="/us/usc/t50/s151">151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch10" data-uslm-ref="/us/usc/t50/ch10">10.</a>  </td>
 
     <td> Helium Gas  </td>
 
-    <td> 161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs161" data-uslm-ref="/us/usc/t50/s161">161</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch11" data-uslm-ref="/us/usc/t50/ch11">11.</a>  </td>
 
     <td> Acquisition of and Expenditures on Land for National-Defense Purposes [Repealed, Omitted, or Transferred]  </td>
 
-    <td> 171  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs171" data-uslm-ref="/us/usc/t50/s171">171</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch12" data-uslm-ref="/us/usc/t50/ch12">12.</a>  </td>
 
     <td> Vessels in Territorial Waters of United States  </td>
 
-    <td> 191  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs191" data-uslm-ref="/us/usc/t50/s191">191</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch13" data-uslm-ref="/us/usc/t50/ch13">13.</a>  </td>
 
     <td> Insurrection  </td>
 
-    <td> 201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs201" data-uslm-ref="/us/usc/t50/s201">201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch14" data-uslm-ref="/us/usc/t50/ch14">14.</a>  </td>
 
     <td> Wartime Voting by Land and Naval Forces [Repealed]  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs301" data-uslm-ref="/us/usc/t50/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch15" data-uslm-ref="/us/usc/t50/ch15">15.</a>  </td>
 
     <td> National Security [Transferred]  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs401" data-uslm-ref="/us/usc/t50/s401">401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch16" data-uslm-ref="/us/usc/t50/ch16">16.</a>  </td>
 
     <td> Defense Industrial Reserves  </td>
 
-    <td> 451  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs451" data-uslm-ref="/us/usc/t50/s451">451</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch17" data-uslm-ref="/us/usc/t50/ch17">17.</a>  </td>
 
     <td> Arming American Vessels [Repealed]  </td>
 
-    <td> 481  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs481" data-uslm-ref="/us/usc/t50/s481">481</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch18" data-uslm-ref="/us/usc/t50/ch18">18.</a>  </td>
 
     <td> Air-Warning Screen  </td>
 
-    <td> 491  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs491" data-uslm-ref="/us/usc/t50/s491">491</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch19" data-uslm-ref="/us/usc/t50/ch19">19.</a>  </td>
 
     <td> Guided Missiles  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs501" data-uslm-ref="/us/usc/t50/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch20" data-uslm-ref="/us/usc/t50/ch20">20.</a>  </td>
 
     <td> Wind Tunnels  </td>
 
-    <td> 511  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs511" data-uslm-ref="/us/usc/t50/s511">511</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch21" data-uslm-ref="/us/usc/t50/ch21">21.</a>  </td>
 
     <td> Abacá Production [Omitted]  </td>
 
-    <td> 541  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs541" data-uslm-ref="/us/usc/t50/s541">541</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch22" data-uslm-ref="/us/usc/t50/ch22">22.</a>  </td>
 
     <td> Uniform Code of Military Justice [Repealed or Omitted]  </td>
 
-    <td> 551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs551" data-uslm-ref="/us/usc/t50/s551">551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch22A" data-uslm-ref="/us/usc/t50/ch22A">22A.</a>  </td>
 
     <td> Representation of Armed Forces Personnel Before Foreign Judicial Tribunals [Repealed]  </td>
 
-    <td> 751  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs751" data-uslm-ref="/us/usc/t50/s751">751</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch23" data-uslm-ref="/us/usc/t50/ch23">23.</a>  </td>
 
     <td> Internal Security  </td>
 
-    <td> 781  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs781" data-uslm-ref="/us/usc/t50/s781">781</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch24" data-uslm-ref="/us/usc/t50/ch24">24.</a>  </td>
 
     <td> National Defense Facilities [Repealed]  </td>
 
-    <td> 881  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs881" data-uslm-ref="/us/usc/t50/s881">881</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch25" data-uslm-ref="/us/usc/t50/ch25">25.</a>  </td>
 
     <td> Armed Forces Reserve [Repealed or Omitted]  </td>
 
-    <td> 901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs901" data-uslm-ref="/us/usc/t50/s901">901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch26" data-uslm-ref="/us/usc/t50/ch26">26.</a>  </td>
 
     <td> Gifts for Defense Purposes [Repealed]  </td>
 
-    <td> 1151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1151" data-uslm-ref="/us/usc/t50/s1151">1151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch27" data-uslm-ref="/us/usc/t50/ch27">27.</a>  </td>
 
     <td> Reserve Officer Personnel Program [Repealed or Omitted]  </td>
 
-    <td> 1181  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1181" data-uslm-ref="/us/usc/t50/s1181">1181</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 28.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch28" data-uslm-ref="/us/usc/t50/ch28">28.</a>  </td>
 
     <td> Status of Armed Forces Personnel Appointed to Service Academies [Repealed]  </td>
 
-    <td> 1411  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1411" data-uslm-ref="/us/usc/t50/s1411">1411</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch29" data-uslm-ref="/us/usc/t50/ch29">29.</a>  </td>
 
     <td> National Defense Contracts  </td>
 
-    <td> 1431  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1431" data-uslm-ref="/us/usc/t50/s1431">1431</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 30.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch30" data-uslm-ref="/us/usc/t50/ch30">30.</a>  </td>
 
     <td> Federal Absentee Voting Assistance [Transferred]  </td>
 
-    <td> 1451  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1451" data-uslm-ref="/us/usc/t50/s1451">1451</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch31" data-uslm-ref="/us/usc/t50/ch31">31.</a>  </td>
 
     <td> Advisory Commission on Intergovernmental Relations [Transferred to Chapter 53 of Title 42]  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1501" data-uslm-ref="/us/usc/t50/s1501">1501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch32" data-uslm-ref="/us/usc/t50/ch32">32.</a>  </td>
 
     <td> Chemical and Biological Warfare Program  </td>
 
-    <td> 1511  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1511" data-uslm-ref="/us/usc/t50/s1511">1511</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch33" data-uslm-ref="/us/usc/t50/ch33">33.</a>  </td>
 
     <td> War Powers Resolution  </td>
 
-    <td> 1541  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1541" data-uslm-ref="/us/usc/t50/s1541">1541</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch34" data-uslm-ref="/us/usc/t50/ch34">34.</a>  </td>
 
     <td> National Emergencies  </td>
 
-    <td> 1601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1601" data-uslm-ref="/us/usc/t50/s1601">1601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch35" data-uslm-ref="/us/usc/t50/ch35">35.</a>  </td>
 
     <td> International Emergency Economic Powers  </td>
 
-    <td> 1701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1701" data-uslm-ref="/us/usc/t50/s1701">1701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch36" data-uslm-ref="/us/usc/t50/ch36">36.</a>  </td>
 
     <td> Foreign Intelligence Surveillance  </td>
 
-    <td> 1801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1801" data-uslm-ref="/us/usc/t50/s1801">1801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch37" data-uslm-ref="/us/usc/t50/ch37">37.</a>  </td>
 
     <td> National Security Scholarships, Fellowships, and Grants  </td>
 
-    <td> 1901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1901" data-uslm-ref="/us/usc/t50/s1901">1901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch38" data-uslm-ref="/us/usc/t50/ch38">38.</a>  </td>
 
     <td> Central Intelligence Agency Retirement and Disability  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2001" data-uslm-ref="/us/usc/t50/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch39" data-uslm-ref="/us/usc/t50/ch39">39.</a>  </td>
 
     <td> Spoils of War  </td>
 
-    <td> 2201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2201" data-uslm-ref="/us/usc/t50/s2201">2201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 40.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch40" data-uslm-ref="/us/usc/t50/ch40">40.</a>  </td>
 
     <td> Defense Against Weapons of Mass Destruction  </td>
 
-    <td> 2301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2301" data-uslm-ref="/us/usc/t50/s2301">2301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch41" data-uslm-ref="/us/usc/t50/ch41">41.</a>  </td>
 
     <td> National Nuclear Security Administration  </td>
 
-    <td> 2401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2401" data-uslm-ref="/us/usc/t50/s2401">2401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch42" data-uslm-ref="/us/usc/t50/ch42">42.</a>  </td>
 
     <td> Atomic Energy Defense Provisions  </td>
 
-    <td> 2501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2501" data-uslm-ref="/us/usc/t50/s2501">2501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch43" data-uslm-ref="/us/usc/t50/ch43">43.</a>  </td>
 
     <td> Preventing Weapons of Mass Destruction Proliferation and Terrorism  </td>
 
-    <td> 2901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2901" data-uslm-ref="/us/usc/t50/s2901">2901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch44" data-uslm-ref="/us/usc/t50/ch44">44.</a>  </td>
 
     <td> National Security  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3001" data-uslm-ref="/us/usc/t50/s3001">3001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch45" data-uslm-ref="/us/usc/t50/ch45">45.</a>  </td>
 
     <td> Miscellaneous Intelligence Community Authorities  </td>
 
-    <td> 3301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3301" data-uslm-ref="/us/usc/t50/s3301">3301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch46" data-uslm-ref="/us/usc/t50/ch46">46.</a>  </td>
 
     <td> Central Intelligence Agency  </td>
 
-    <td> 3501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3501" data-uslm-ref="/us/usc/t50/s3501">3501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch47" data-uslm-ref="/us/usc/t50/ch47">47.</a>  </td>
 
     <td> National Security Agency  </td>
 
-    <td> 3601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3601" data-uslm-ref="/us/usc/t50/s3601">3601</a>  </td>
 
   </tr>
 

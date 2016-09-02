@@ -33,7 +33,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
   <tr>
 
-    <td> 2401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2401" data-uslm-ref="/us/usc/t50/s2401">2401.</a>  </td>
 
     <td> Establishment and mission.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
   <tr>
 
-    <td> 2402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2402" data-uslm-ref="/us/usc/t50/s2402">2402.</a>  </td>
 
     <td> Administrator for Nuclear Security.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
   <tr>
 
-    <td> 2403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2403" data-uslm-ref="/us/usc/t50/s2403">2403.</a>  </td>
 
     <td> Principal Deputy Administrator for Nuclear Security.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
   <tr>
 
-    <td> 2404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2404" data-uslm-ref="/us/usc/t50/s2404">2404.</a>  </td>
 
     <td> Deputy Administrator for Defense Programs.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
   <tr>
 
-    <td> 2405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2405" data-uslm-ref="/us/usc/t50/s2405">2405.</a>  </td>
 
     <td> Deputy Administrator for Defense Nuclear Nonproliferation.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
   <tr>
 
-    <td> 2406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2406" data-uslm-ref="/us/usc/t50/s2406">2406.</a>  </td>
 
     <td> Deputy Administrator for Naval Reactors.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
   <tr>
 
-    <td> 2407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2407" data-uslm-ref="/us/usc/t50/s2407">2407.</a>  </td>
 
     <td> General Counsel.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
   <tr>
 
-    <td> 2408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2408" data-uslm-ref="/us/usc/t50/s2408">2408.</a>  </td>
 
     <td> Staff of Administration.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
   <tr>
 
-    <td> 2409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2409" data-uslm-ref="/us/usc/t50/s2409">2409.</a>  </td>
 
     <td> Scope of authority of Secretary of Energy to modify organization of Administration.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
   <tr>
 
-    <td> 2410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2410" data-uslm-ref="/us/usc/t50/s2410">2410.</a>  </td>
 
     <td> Status of Administration and contractor personnel within Department of Energy.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—MATTERS RELATING TO SECURITY  </td>
 
   <tr>
 
-    <td> 2421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2421" data-uslm-ref="/us/usc/t50/s2421">2421.</a>  </td>
 
     <td> Protection of national security information.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—MATTERS RELATING TO SECURITY  </td>
 
   <tr>
 
-    <td> 2422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2422" data-uslm-ref="/us/usc/t50/s2422">2422.</a>  </td>
 
     <td> Office of Defense Nuclear Security.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—MATTERS RELATING TO SECURITY  </td>
 
   <tr>
 
-    <td> 2423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2423" data-uslm-ref="/us/usc/t50/s2423">2423.</a>  </td>
 
     <td> Counterintelligence programs.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—MATTERS RELATING TO SECURITY  </td>
 
   <tr>
 
-    <td> 2424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2424" data-uslm-ref="/us/usc/t50/s2424">2424.</a>  </td>
 
     <td> Procedures relating to access by individuals to classified areas and information of Administration.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—MATTERS RELATING TO SECURITY  </td>
 
   <tr>
 
-    <td> 2425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2425" data-uslm-ref="/us/usc/t50/s2425">2425.</a>  </td>
 
     <td> Government access to information on Administration computers.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—MATTERS RELATING TO SECURITY  </td>
 
   <tr>
 
-    <td> 2426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2426" data-uslm-ref="/us/usc/t50/s2426">2426.</a>  </td>
 
     <td> Congressional oversight of special access programs.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—MATTERS RELATING TO PERSONNEL  </td>
 
   <tr>
 
-    <td> 2441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2441" data-uslm-ref="/us/usc/t50/s2441">2441.</a>  </td>
 
     <td> Authority to establish certain contracting, program management, scientific, engineering, and technical positions.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—MATTERS RELATING TO PERSONNEL  </td>
 
   <tr>
 
-    <td> 2441a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2441a" data-uslm-ref="/us/usc/t50/s2441a">2441a.</a>  </td>
 
     <td> Authorized personnel levels of the Office of the Administrator.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—MATTERS RELATING TO PERSONNEL  </td>
 
   <tr>
 
-    <td> 2442, 2443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2442" data-uslm-ref="/us/usc/t50/s2442">2442</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2443" data-uslm-ref="/us/usc/t50/s2443">2443.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—MATTERS RELATING TO PERSONNEL  </td>
 
   <tr>
 
-    <td> 2444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2444" data-uslm-ref="/us/usc/t50/s2444">2444.</a>  </td>
 
     <td> Nonproliferation and national security scholarship and fellowship program.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—BUDGET AND FINANCIAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 2451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2451" data-uslm-ref="/us/usc/t50/s2451">2451.</a>  </td>
 
     <td> Separate treatment in budget.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—BUDGET AND FINANCIAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 2452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2452" data-uslm-ref="/us/usc/t50/s2452">2452.</a>  </td>
 
     <td> Planning, programming, and budgeting process.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—BUDGET AND FINANCIAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 2453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2453" data-uslm-ref="/us/usc/t50/s2453">2453.</a>  </td>
 
     <td> Future-years nuclear security program.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—BUDGET AND FINANCIAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 2454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2454" data-uslm-ref="/us/usc/t50/s2454">2454.</a>  </td>
 
     <td> Semiannual financial reports on defense nuclear nonproliferation programs.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—BUDGET AND FINANCIAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 2455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2455" data-uslm-ref="/us/usc/t50/s2455">2455.</a>  </td>
 
     <td> Comptroller General assessment of adequacy of budget requests with respect to the modernization and refurbishment of the nuclear weapons stockpile.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER IV—BUDGET AND FINANCIAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 2455a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2455a" data-uslm-ref="/us/usc/t50/s2455a">2455a.</a>  </td>
 
     <td> National Nuclear Security Administration authority for urgent nonproliferation activities.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2461" data-uslm-ref="/us/usc/t50/s2461">2461.</a>  </td>
 
     <td> Environmental protection, safety, and health requirements.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2462" data-uslm-ref="/us/usc/t50/s2462">2462.</a>  </td>
 
     <td> Compliance with Federal Acquisition Regulation.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2463" data-uslm-ref="/us/usc/t50/s2463">2463.</a>  </td>
 
     <td> Sharing of technology with Department of Defense.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2464" data-uslm-ref="/us/usc/t50/s2464">2464.</a>  </td>
 
     <td> Use of capabilities of national security laboratories by entities outside the Administration.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2465" data-uslm-ref="/us/usc/t50/s2465">2465.</a>  </td>
 
     <td> Enhancing private-sector employment through cooperative research and development activities.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER VI—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 2471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2471" data-uslm-ref="/us/usc/t50/s2471">2471.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER VII—TRANSITION PROVISIONS  </td>
 
   <tr>
 
-    <td> 2481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2481" data-uslm-ref="/us/usc/t50/s2481">2481.</a>  </td>
 
     <td> Functions transferred.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER VII—TRANSITION PROVISIONS  </td>
 
   <tr>
 
-    <td> 2482, 2483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2482" data-uslm-ref="/us/usc/t50/s2482">2482</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2483" data-uslm-ref="/us/usc/t50/s2483">2483.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER VII—TRANSITION PROVISIONS  </td>
 
   <tr>
 
-    <td> 2484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2484" data-uslm-ref="/us/usc/t50/s2484">2484.</a>  </td>
 
     <td> Applicability of preexisting laws and regulations.  </td>
 

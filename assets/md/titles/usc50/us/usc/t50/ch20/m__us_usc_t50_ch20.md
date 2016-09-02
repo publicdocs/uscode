@@ -33,7 +33,7 @@ SUBCHAPTER I—CONSTRUCTION OF WIND-TUNNEL FACILITIES  </td>
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs511" data-uslm-ref="/us/usc/t50/s511">511.</a>  </td>
 
     <td> Joint development of unitary plan for construction of facilities; construction at educational institutions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—CONSTRUCTION OF WIND-TUNNEL FACILITIES  </td>
 
   <tr>
 
-    <td> 512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs512" data-uslm-ref="/us/usc/t50/s512">512.</a>  </td>
 
     <td> Limitation on cost of construction and equipment; vesting of title to facilities.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—CONSTRUCTION OF WIND-TUNNEL FACILITIES  </td>
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs513" data-uslm-ref="/us/usc/t50/s513">513.</a>  </td>
 
     <td> Expansion of existing facilities; appropriations; testing of models.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CONSTRUCTION OF WIND-TUNNEL FACILITIES  </td>
 
   <tr>
 
-    <td> 514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs514" data-uslm-ref="/us/usc/t50/s514">514.</a>  </td>
 
     <td> Expansion of facilities at Carderock, Maryland.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—CONSTRUCTION OF WIND-TUNNEL FACILITIES  </td>
 
   <tr>
 
-    <td> 515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs515" data-uslm-ref="/us/usc/t50/s515">515.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—AIR ENGINEERING DEVELOPMENT CENTER  </td>
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs521" data-uslm-ref="/us/usc/t50/s521">521.</a>  </td>
 
     <td> Establishment; construction, maintenance, and operation of public works and wind tunnels.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—AIR ENGINEERING DEVELOPMENT CENTER  </td>
 
   <tr>
 
-    <td> 522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs522" data-uslm-ref="/us/usc/t50/s522">522.</a>  </td>
 
     <td> Acquisition of lands; advance payments for construction.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—AIR ENGINEERING DEVELOPMENT CENTER  </td>
 
   <tr>
 
-    <td> 523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs523" data-uslm-ref="/us/usc/t50/s523">523.</a>  </td>
 
     <td> Employment of civilian personnel.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—AIR ENGINEERING DEVELOPMENT CENTER  </td>
 
   <tr>
 
-    <td> 524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs524" data-uslm-ref="/us/usc/t50/s524">524.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

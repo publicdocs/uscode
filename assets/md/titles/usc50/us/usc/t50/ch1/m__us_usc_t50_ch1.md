@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1" data-uslm-ref="/us/usc/t50/s1">1.</a>  </td>
 
     <td> Creation, purpose, and composition of council.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2" data-uslm-ref="/us/usc/t50/s2">2.</a>  </td>
 
     <td> Advisory commission.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3" data-uslm-ref="/us/usc/t50/s3">3.</a>  </td>
 
     <td> Duties of council.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs4" data-uslm-ref="/us/usc/t50/s4">4.</a>  </td>
 
     <td> Rule and regulations; subordinate bodies and committees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs5" data-uslm-ref="/us/usc/t50/s5">5.</a>  </td>
 
     <td> Reports of subordinate bodies and committees; unvouchered expenditures.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs6" data-uslm-ref="/us/usc/t50/s6">6.</a>  </td>
 
     <td> Repealed.  </td>
 

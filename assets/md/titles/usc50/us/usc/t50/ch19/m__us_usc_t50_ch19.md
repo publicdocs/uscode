@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs501" data-uslm-ref="/us/usc/t50/s501">501.</a>  </td>
 
     <td> Establishment of long-range proving ground for guided missiles and other weapons; jurisdiction of Secretary of the Air Force; use by all Services.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs502" data-uslm-ref="/us/usc/t50/s502">502.</a>  </td>
 
     <td> Acquisition of land.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs503" data-uslm-ref="/us/usc/t50/s503">503.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs504" data-uslm-ref="/us/usc/t50/s504">504.</a>  </td>
 
     <td> Delegation of authority by Secretary of Defense; contributions for support.  </td>
 

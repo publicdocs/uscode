@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs491" data-uslm-ref="/us/usc/t50/s491">491.</a>  </td>
 
     <td> Establishment and development of land-based air warning and control installations and facilities; extent of appropriation; procurement of communication services.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs492" data-uslm-ref="/us/usc/t50/s492">492.</a>  </td>
 
     <td> Acquisition of land.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs493" data-uslm-ref="/us/usc/t50/s493">493.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs494" data-uslm-ref="/us/usc/t50/s494">494.</a>  </td>
 
     <td> Supervision and control of project.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2001" data-uslm-ref="/us/usc/t50/s2001">2001.</a>  </td>
 
     <td> Definitions relating to the system.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2002" data-uslm-ref="/us/usc/t50/s2002">2002.</a>  </td>
 
     <td> Definitions relating to participants and annuitants.  </td>
 
@@ -65,7 +65,7 @@ Part A—Establishment of System  </td>
 
   <tr>
 
-    <td> 2011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2011" data-uslm-ref="/us/usc/t50/s2011">2011.</a>  </td>
 
     <td> CIARDS system.  </td>
 
@@ -73,7 +73,7 @@ Part A—Establishment of System  </td>
 
   <tr>
 
-    <td> 2012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2012" data-uslm-ref="/us/usc/t50/s2012">2012.</a>  </td>
 
     <td> Central Intelligence Agency Retirement and Disability Fund.  </td>
 
@@ -81,7 +81,7 @@ Part A—Establishment of System  </td>
 
   <tr>
 
-    <td> 2013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2013" data-uslm-ref="/us/usc/t50/s2013">2013.</a>  </td>
 
     <td> Participants in CIARDS system.  </td>
 
@@ -89,7 +89,7 @@ Part A—Establishment of System  </td>
 
   <tr>
 
-    <td> 2014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2014" data-uslm-ref="/us/usc/t50/s2014">2014.</a>  </td>
 
     <td> Annuitants.  </td>
 
@@ -105,7 +105,7 @@ Part B—Contributions  </td>
 
   <tr>
 
-    <td> 2021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2021" data-uslm-ref="/us/usc/t50/s2021">2021.</a>  </td>
 
     <td> Contributions to fund.  </td>
 
@@ -121,7 +121,7 @@ Part C—Computation of Annuities  </td>
 
   <tr>
 
-    <td> 2031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2031" data-uslm-ref="/us/usc/t50/s2031">2031.</a>  </td>
 
     <td> Computation of annuities.  </td>
 
@@ -129,7 +129,7 @@ Part C—Computation of Annuities  </td>
 
   <tr>
 
-    <td> 2032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2032" data-uslm-ref="/us/usc/t50/s2032">2032.</a>  </td>
 
     <td> Annuities for former spouses.  </td>
 
@@ -137,7 +137,7 @@ Part C—Computation of Annuities  </td>
 
   <tr>
 
-    <td> 2033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2033" data-uslm-ref="/us/usc/t50/s2033">2033.</a>  </td>
 
     <td> Election of survivor benefits for certain former spouses divorced as of November 15, 1982.  </td>
 
@@ -145,7 +145,7 @@ Part C—Computation of Annuities  </td>
 
   <tr>
 
-    <td> 2034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2034" data-uslm-ref="/us/usc/t50/s2034">2034.</a>  </td>
 
     <td> Survivor annuity for certain other former spouses.  </td>
 
@@ -153,7 +153,7 @@ Part C—Computation of Annuities  </td>
 
   <tr>
 
-    <td> 2035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2035" data-uslm-ref="/us/usc/t50/s2035">2035.</a>  </td>
 
     <td> Retirement annuity for certain former spouses.  </td>
 
@@ -161,7 +161,7 @@ Part C—Computation of Annuities  </td>
 
   <tr>
 
-    <td> 2036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2036" data-uslm-ref="/us/usc/t50/s2036">2036.</a>  </td>
 
     <td> Survivor annuities for previous spouses.  </td>
 
@@ -177,7 +177,7 @@ Part D—Benefits Accruing to Certain Participants  </td>
 
   <tr>
 
-    <td> 2051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2051" data-uslm-ref="/us/usc/t50/s2051">2051.</a>  </td>
 
     <td> Retirement for disability or incapacity; medical examination; recovery.  </td>
 
@@ -185,7 +185,7 @@ Part D—Benefits Accruing to Certain Participants  </td>
 
   <tr>
 
-    <td> 2052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2052" data-uslm-ref="/us/usc/t50/s2052">2052.</a>  </td>
 
     <td> Death in service.  </td>
 
@@ -193,7 +193,7 @@ Part D—Benefits Accruing to Certain Participants  </td>
 
   <tr>
 
-    <td> 2053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2053" data-uslm-ref="/us/usc/t50/s2053">2053.</a>  </td>
 
     <td> Voluntary retirement.  </td>
 
@@ -201,7 +201,7 @@ Part D—Benefits Accruing to Certain Participants  </td>
 
   <tr>
 
-    <td> 2054.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2054" data-uslm-ref="/us/usc/t50/s2054">2054.</a>  </td>
 
     <td> Discontinued service benefits.  </td>
 
@@ -209,7 +209,7 @@ Part D—Benefits Accruing to Certain Participants  </td>
 
   <tr>
 
-    <td> 2055.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2055" data-uslm-ref="/us/usc/t50/s2055">2055.</a>  </td>
 
     <td> Mandatory retirement.  </td>
 
@@ -217,7 +217,7 @@ Part D—Benefits Accruing to Certain Participants  </td>
 
   <tr>
 
-    <td> 2056.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2056" data-uslm-ref="/us/usc/t50/s2056">2056.</a>  </td>
 
     <td> Eligibility for annuity.  </td>
 
@@ -233,7 +233,7 @@ Part E—Lump-Sum Payments  </td>
 
   <tr>
 
-    <td> 2071.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2071" data-uslm-ref="/us/usc/t50/s2071">2071.</a>  </td>
 
     <td> Lump-sum payments.  </td>
 
@@ -249,7 +249,7 @@ Part F—Period of Service for Annuities  </td>
 
   <tr>
 
-    <td> 2081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2081" data-uslm-ref="/us/usc/t50/s2081">2081.</a>  </td>
 
     <td> Computation of length of service.  </td>
 
@@ -257,7 +257,7 @@ Part F—Period of Service for Annuities  </td>
 
   <tr>
 
-    <td> 2082.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2082" data-uslm-ref="/us/usc/t50/s2082">2082.</a>  </td>
 
     <td> Prior service credit.  </td>
 
@@ -265,7 +265,7 @@ Part F—Period of Service for Annuities  </td>
 
   <tr>
 
-    <td> 2083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2083" data-uslm-ref="/us/usc/t50/s2083">2083.</a>  </td>
 
     <td> Credit for service while on military leave.  </td>
 
@@ -281,7 +281,7 @@ Part G—Moneys  </td>
 
   <tr>
 
-    <td> 2091.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2091" data-uslm-ref="/us/usc/t50/s2091">2091.</a>  </td>
 
     <td> Estimate of appropriations needed.  </td>
 
@@ -289,7 +289,7 @@ Part G—Moneys  </td>
 
   <tr>
 
-    <td> 2092.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2092" data-uslm-ref="/us/usc/t50/s2092">2092.</a>  </td>
 
     <td> Investment of moneys in fund.  </td>
 
@@ -297,7 +297,7 @@ Part G—Moneys  </td>
 
   <tr>
 
-    <td> 2093.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2093" data-uslm-ref="/us/usc/t50/s2093">2093.</a>  </td>
 
     <td> Payment of benefits.  </td>
 
@@ -305,7 +305,7 @@ Part G—Moneys  </td>
 
   <tr>
 
-    <td> 2094.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2094" data-uslm-ref="/us/usc/t50/s2094">2094.</a>  </td>
 
     <td> Attachment of moneys.  </td>
 
@@ -313,7 +313,7 @@ Part G—Moneys  </td>
 
   <tr>
 
-    <td> 2095.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2095" data-uslm-ref="/us/usc/t50/s2095">2095.</a>  </td>
 
     <td> Recovery of payments.  </td>
 
@@ -329,7 +329,7 @@ Part H—Retired Participants Recalled, Reinstated, or Reappointed in Agency or 
 
   <tr>
 
-    <td> 2111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2111" data-uslm-ref="/us/usc/t50/s2111">2111.</a>  </td>
 
     <td> Recall.  </td>
 
@@ -337,7 +337,7 @@ Part H—Retired Participants Recalled, Reinstated, or Reappointed in Agency or 
 
   <tr>
 
-    <td> 2112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2112" data-uslm-ref="/us/usc/t50/s2112">2112.</a>  </td>
 
     <td> Reemployment.  </td>
 
@@ -345,7 +345,7 @@ Part H—Retired Participants Recalled, Reinstated, or Reappointed in Agency or 
 
   <tr>
 
-    <td> 2113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2113" data-uslm-ref="/us/usc/t50/s2113">2113.</a>  </td>
 
     <td> Reemployment compensation.  </td>
 
@@ -361,7 +361,7 @@ Part I—Voluntary Contributions  </td>
 
   <tr>
 
-    <td> 2121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2121" data-uslm-ref="/us/usc/t50/s2121">2121.</a>  </td>
 
     <td> Voluntary contributions.  </td>
 
@@ -377,7 +377,7 @@ Part J—Cost-of-Living Adjustment of Annuities  </td>
 
   <tr>
 
-    <td> 2131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2131" data-uslm-ref="/us/usc/t50/s2131">2131.</a>  </td>
 
     <td> Cost-of-living adjustment of annuities.  </td>
 
@@ -393,7 +393,7 @@ Part K—Conformity With Civil Service Retirement System  </td>
 
   <tr>
 
-    <td> 2141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2141" data-uslm-ref="/us/usc/t50/s2141">2141.</a>  </td>
 
     <td> Authority to maintain existing areas of conformity between Civil Service and Central Intelligence Agency Retirement and Disability Systems.  </td>
 
@@ -401,7 +401,7 @@ Part K—Conformity With Civil Service Retirement System  </td>
 
   <tr>
 
-    <td> 2142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2142" data-uslm-ref="/us/usc/t50/s2142">2142.</a>  </td>
 
     <td> Thrift Savings Plan participation.  </td>
 
@@ -409,7 +409,7 @@ Part K—Conformity With Civil Service Retirement System  </td>
 
   <tr>
 
-    <td> 2143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2143" data-uslm-ref="/us/usc/t50/s2143">2143.</a>  </td>
 
     <td> Alternative forms of annuities.  </td>
 
@@ -417,7 +417,7 @@ Part K—Conformity With Civil Service Retirement System  </td>
 
   <tr>
 
-    <td> 2144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2144" data-uslm-ref="/us/usc/t50/s2144">2144.</a>  </td>
 
     <td> Payments from CIARDS fund for portions of certain Civil Service Retirement System annuities.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER III—PARTICIPATION IN FEDERAL EMPLOYEES’ RETIREMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 2151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2151" data-uslm-ref="/us/usc/t50/s2151">2151.</a>  </td>
 
     <td> Application of Federal Employees’ Retirement System to Agency employees.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER III—PARTICIPATION IN FEDERAL EMPLOYEES’ RETIREMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 2152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2152" data-uslm-ref="/us/usc/t50/s2152">2152.</a>  </td>
 
     <td> Special rules relating to section 2013 criteria employees.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER III—PARTICIPATION IN FEDERAL EMPLOYEES’ RETIREMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 2153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2153" data-uslm-ref="/us/usc/t50/s2153">2153.</a>  </td>
 
     <td> Special rules for other employees for service abroad.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER III—PARTICIPATION IN FEDERAL EMPLOYEES’ RETIREMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 2154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2154" data-uslm-ref="/us/usc/t50/s2154">2154.</a>  </td>
 
     <td> Special rules for former spouses.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER III—PARTICIPATION IN FEDERAL EMPLOYEES’ RETIREMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 2155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2155" data-uslm-ref="/us/usc/t50/s2155">2155.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER III—PARTICIPATION IN FEDERAL EMPLOYEES’ RETIREMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 2156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2156" data-uslm-ref="/us/usc/t50/s2156">2156.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER III—PARTICIPATION IN FEDERAL EMPLOYEES’ RETIREMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 2157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2157" data-uslm-ref="/us/usc/t50/s2157">2157.</a>  </td>
 
     <td> Transition regulations.  </td>
 

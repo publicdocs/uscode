@@ -33,7 +33,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3301" data-uslm-ref="/us/usc/t50/s3301">3301.</a>  </td>
 
     <td> Multiyear national intelligence program.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
   <tr>
 
-    <td> 3302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3302" data-uslm-ref="/us/usc/t50/s3302">3302.</a>  </td>
 
     <td> Identification of constituent components of base intelligence budget.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
   <tr>
 
-    <td> 3303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3303" data-uslm-ref="/us/usc/t50/s3303">3303.</a>  </td>
 
     <td> Construction of intelligence community facilities; Presidential authorization.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
   <tr>
 
-    <td> 3304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3304" data-uslm-ref="/us/usc/t50/s3304">3304.</a>  </td>
 
     <td> Limitation on construction of facilities to be used primarily by intelligence community.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
   <tr>
 
-    <td> 3305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3305" data-uslm-ref="/us/usc/t50/s3305">3305.</a>  </td>
 
     <td> Exhibits for inclusion with budget justification books.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
   <tr>
 
-    <td> 3306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3306" data-uslm-ref="/us/usc/t50/s3306">3306.</a>  </td>
 
     <td> Availability to public of certain intelligence funding information.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
   <tr>
 
-    <td> 3307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3307" data-uslm-ref="/us/usc/t50/s3307">3307.</a>  </td>
 
     <td> Communications with the Committees on Armed Services of the Senate and the House of Representatives.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
   <tr>
 
-    <td> 3308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3308" data-uslm-ref="/us/usc/t50/s3308">3308.</a>  </td>
 
     <td> Information access by the Comptroller General of the United States.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
   <tr>
 
-    <td> 3309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3309" data-uslm-ref="/us/usc/t50/s3309">3309.</a>  </td>
 
     <td> Annual report on advisory committees.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
   <tr>
 
-    <td> 3310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3310" data-uslm-ref="/us/usc/t50/s3310">3310.</a>  </td>
 
     <td> Annual report on United States security arrangements and commitments with other nations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3321" data-uslm-ref="/us/usc/t50/s3321">3321.</a>  </td>
 
     <td> National Intelligence Reserve Corps.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3322" data-uslm-ref="/us/usc/t50/s3322">3322.</a>  </td>
 
     <td> Additional education and training requirements.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3323" data-uslm-ref="/us/usc/t50/s3323">3323.</a>  </td>
 
     <td> Eligibility for incentive awards.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3324" data-uslm-ref="/us/usc/t50/s3324">3324.</a>  </td>
 
     <td> Prohibition on using journalists as agents or assets.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3325" data-uslm-ref="/us/usc/t50/s3325">3325.</a>  </td>
 
     <td> Reaffirmation of longstanding prohibition against drug trafficking by employees of the intelligence community.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3326" data-uslm-ref="/us/usc/t50/s3326">3326.</a>  </td>
 
     <td> Limitation of expenditure of funds appropriated for Department of Defense intelligence programs.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3327" data-uslm-ref="/us/usc/t50/s3327">3327.</a>  </td>
 
     <td> Limitation on transfer of funds between CIA and Department of Defense; congressional notification required.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3328" data-uslm-ref="/us/usc/t50/s3328">3328.</a>  </td>
 
     <td> Study or plan of surrender; use of appropriations.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3329" data-uslm-ref="/us/usc/t50/s3329">3329.</a>  </td>
 
     <td> Intelligence community contracting.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION  </td>
 
   <tr>
 
-    <td> 3341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3341" data-uslm-ref="/us/usc/t50/s3341">3341.</a>  </td>
 
     <td> Security clearances.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION  </td>
 
   <tr>
 
-    <td> 3342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3342" data-uslm-ref="/us/usc/t50/s3342">3342.</a>  </td>
 
     <td> Security clearances for transition team members.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION  </td>
 
   <tr>
 
-    <td> 3343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3343" data-uslm-ref="/us/usc/t50/s3343">3343.</a>  </td>
 
     <td> Security clearances; limitations.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION  </td>
 
   <tr>
 
-    <td> 3344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3344" data-uslm-ref="/us/usc/t50/s3344">3344.</a>  </td>
 
     <td> Classification training program.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION  </td>
 
   <tr>
 
-    <td> 3345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3345" data-uslm-ref="/us/usc/t50/s3345">3345.</a>  </td>
 
     <td> Limitation on handling, retention, and storage of certain classified materials by the Department of State.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION  </td>
 
   <tr>
 
-    <td> 3346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3346" data-uslm-ref="/us/usc/t50/s3346">3346.</a>  </td>
 
     <td> Compilation and organization of previously declassified records.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION  </td>
 
   <tr>
 
-    <td> 3347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3347" data-uslm-ref="/us/usc/t50/s3347">3347.</a>  </td>
 
     <td> Secrecy agreements used in intelligence activities.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION  </td>
 
   <tr>
 
-    <td> 3348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3348" data-uslm-ref="/us/usc/t50/s3348">3348.</a>  </td>
 
     <td> Reports relating to certain special access programs and similar programs.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE  </td>
 
   <tr>
 
-    <td> 3361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3361" data-uslm-ref="/us/usc/t50/s3361">3361.</a>  </td>
 
     <td> National Virtual Translation Center.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE  </td>
 
   <tr>
 
-    <td> 3362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3362" data-uslm-ref="/us/usc/t50/s3362">3362.</a>  </td>
 
     <td> Foreign Terrorist Asset Tracking Center.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE  </td>
 
   <tr>
 
-    <td> 3363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3363" data-uslm-ref="/us/usc/t50/s3363">3363.</a>  </td>
 
     <td> Terrorist Identification Classification System.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE  </td>
 
   <tr>
 
-    <td> 3364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3364" data-uslm-ref="/us/usc/t50/s3364">3364.</a>  </td>
 
     <td> Assignment of responsibilities relating to analytic integrity.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE  </td>
 
   <tr>
 
-    <td> 3365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3365" data-uslm-ref="/us/usc/t50/s3365">3365.</a>  </td>
 
     <td> Foreign intelligence information.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE  </td>
 
   <tr>
 
-    <td> 3366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3366" data-uslm-ref="/us/usc/t50/s3366">3366.</a>  </td>
 
     <td> Authorities of heads of other departments and agencies.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE  </td>
 
   <tr>
 
-    <td> 3367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3367" data-uslm-ref="/us/usc/t50/s3367">3367.</a>  </td>
 
     <td> Requirement for efficient use by intelligence community of open-source intelligence.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER V—MANAGEMENT OF COUNTERINTELLIGENCE ACTIVITIES  </td>
 
   <tr>
 
-    <td> 3381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3381" data-uslm-ref="/us/usc/t50/s3381">3381.</a>  </td>
 
     <td> Coordination of counterintelligence activities.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER V—MANAGEMENT OF COUNTERINTELLIGENCE ACTIVITIES  </td>
 
   <tr>
 
-    <td> 3382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3382" data-uslm-ref="/us/usc/t50/s3382">3382.</a>  </td>
 
     <td> National Counterintelligence Executive.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER V—MANAGEMENT OF COUNTERINTELLIGENCE ACTIVITIES  </td>
 
   <tr>
 
-    <td> 3383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3383" data-uslm-ref="/us/usc/t50/s3383">3383.</a>  </td>
 
     <td> Office of the National Counterintelligence Executive.  </td>
 

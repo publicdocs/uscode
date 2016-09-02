@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1701" data-uslm-ref="/us/usc/t50/s1701">1701.</a>  </td>
 
     <td> Unusual and extraordinary threat; declaration of national emergency; exercise of Presidential authorities.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1702" data-uslm-ref="/us/usc/t50/s1702">1702.</a>  </td>
 
     <td> Presidential authorities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1703" data-uslm-ref="/us/usc/t50/s1703">1703.</a>  </td>
 
     <td> Consultation and reports.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1704" data-uslm-ref="/us/usc/t50/s1704">1704.</a>  </td>
 
     <td> Authority to issue regulations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1705" data-uslm-ref="/us/usc/t50/s1705">1705.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1706" data-uslm-ref="/us/usc/t50/s1706">1706.</a>  </td>
 
     <td> Savings provisions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1707" data-uslm-ref="/us/usc/t50/s1707">1707.</a>  </td>
 
     <td> Multinational economic embargoes against governments in armed conflict with the United States.  </td>
 

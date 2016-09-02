@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1541" data-uslm-ref="/us/usc/t50/s1541">1541.</a>  </td>
 
     <td> Purpose and policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1542" data-uslm-ref="/us/usc/t50/s1542">1542.</a>  </td>
 
     <td> Consultation; initial and regular consultations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1543" data-uslm-ref="/us/usc/t50/s1543">1543.</a>  </td>
 
     <td> Reporting requirement.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1544" data-uslm-ref="/us/usc/t50/s1544">1544.</a>  </td>
 
     <td> Congressional action.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1545" data-uslm-ref="/us/usc/t50/s1545">1545.</a>  </td>
 
     <td> Congressional priority procedures for joint resolution or bill.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1546" data-uslm-ref="/us/usc/t50/s1546">1546.</a>  </td>
 
     <td> Congressional priority procedures for concurrent resolution.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1546a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1546a" data-uslm-ref="/us/usc/t50/s1546a">1546a.</a>  </td>
 
     <td> Expedited procedures for certain joint resolutions and bills.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1547" data-uslm-ref="/us/usc/t50/s1547">1547.</a>  </td>
 
     <td> Interpretation of joint resolution.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1548.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1548" data-uslm-ref="/us/usc/t50/s1548">1548.</a>  </td>
 
     <td> Separability.  </td>
 

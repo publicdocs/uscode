@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3501" data-uslm-ref="/us/usc/t50/s3501">3501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3502" data-uslm-ref="/us/usc/t50/s3502">3502.</a>  </td>
 
     <td> Seal of office.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3503" data-uslm-ref="/us/usc/t50/s3503">3503.</a>  </td>
 
     <td> Procurement authorities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3504" data-uslm-ref="/us/usc/t50/s3504">3504.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3505" data-uslm-ref="/us/usc/t50/s3505">3505.</a>  </td>
 
     <td> Personnel allowances and benefits.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3506" data-uslm-ref="/us/usc/t50/s3506">3506.</a>  </td>
 
     <td> General authorities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3506a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3506a" data-uslm-ref="/us/usc/t50/s3506a">3506a.</a>  </td>
 
     <td> Transformation of Central Intelligence Agency.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3507" data-uslm-ref="/us/usc/t50/s3507">3507.</a>  </td>
 
     <td> Protection of nature of Agency’s functions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3508" data-uslm-ref="/us/usc/t50/s3508">3508.</a>  </td>
 
     <td> Admission of essential aliens; limitation on number.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3509" data-uslm-ref="/us/usc/t50/s3509">3509.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3510" data-uslm-ref="/us/usc/t50/s3510">3510.</a>  </td>
 
     <td> Appropriations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3510a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3510a" data-uslm-ref="/us/usc/t50/s3510a">3510a.</a>  </td>
 
     <td> Availability of appropriations for construction projects.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3510b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3510b" data-uslm-ref="/us/usc/t50/s3510b">3510b.</a>  </td>
 
     <td> Acquisition of critical skills.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3511" data-uslm-ref="/us/usc/t50/s3511">3511.</a>  </td>
 
     <td> Authority to pay death gratuities.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3512" data-uslm-ref="/us/usc/t50/s3512">3512.</a>  </td>
 
     <td> Authority to accept gifts, devises, and bequests.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3513" data-uslm-ref="/us/usc/t50/s3513">3513.</a>  </td>
 
     <td> Misuse of Agency name, initials, or seal.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3514" data-uslm-ref="/us/usc/t50/s3514">3514.</a>  </td>
 
     <td> Retirement equity for spouses of certain employees.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 3515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3515" data-uslm-ref="/us/usc/t50/s3515">3515.</a>  </td>
 
     <td> Security personnel at Agency installations.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 3516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3516" data-uslm-ref="/us/usc/t50/s3516">3516.</a>  </td>
 
     <td> Health benefits for certain former spouses of Central Intelligence Agency employees.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 3517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3517" data-uslm-ref="/us/usc/t50/s3517">3517.</a>  </td>
 
     <td> Inspector General for Agency.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 3518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3518" data-uslm-ref="/us/usc/t50/s3518">3518.</a>  </td>
 
     <td> Special annuity computation rules for certain employees’ service abroad.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 3518a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3518a" data-uslm-ref="/us/usc/t50/s3518a">3518a.</a>  </td>
 
     <td> Portability of overseas service retirement benefit.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 3519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3519" data-uslm-ref="/us/usc/t50/s3519">3519.</a>  </td>
 
     <td> Special rules for disability retirement and death-in-service benefits with respect to certain employees.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 3519a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3519a" data-uslm-ref="/us/usc/t50/s3519a">3519a.</a>  </td>
 
     <td> Separation pay program for voluntary separation from service.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 3520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3520" data-uslm-ref="/us/usc/t50/s3520">3520.</a>  </td>
 
     <td> General Counsel of Central Intelligence Agency.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 3521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3521" data-uslm-ref="/us/usc/t50/s3521">3521.</a>  </td>
 
     <td> Central services program.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 3522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3522" data-uslm-ref="/us/usc/t50/s3522">3522.</a>  </td>
 
     <td> Detail of employees.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 3523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3523" data-uslm-ref="/us/usc/t50/s3523">3523.</a>  </td>
 
     <td> Intelligence operations and cover enhancement authority.  </td>
 

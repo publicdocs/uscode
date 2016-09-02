@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs21" data-uslm-ref="/us/usc/t50/s21">21.</a>  </td>
 
     <td> Restraint, regulation, and removal.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs22" data-uslm-ref="/us/usc/t50/s22">22.</a>  </td>
 
     <td> Time allowed to settle affairs and depart.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs23" data-uslm-ref="/us/usc/t50/s23">23.</a>  </td>
 
     <td> Jurisdiction of United States courts and judges.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs24" data-uslm-ref="/us/usc/t50/s24">24.</a>  </td>
 
     <td> Duties of marshals.  </td>
 

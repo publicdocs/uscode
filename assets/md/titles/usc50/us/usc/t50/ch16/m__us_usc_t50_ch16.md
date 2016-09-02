@@ -25,15 +25,15 @@
 
   <tr>
 
-    <td> 451 to 454. Transferred or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs451" data-uslm-ref="/us/usc/t50/s451">451</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs454" data-uslm-ref="/us/usc/t50/s454">454.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Transferred or Repealed.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs455" data-uslm-ref="/us/usc/t50/s455">455.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 456 to 462.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs456" data-uslm-ref="/us/usc/t50/s456">456</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs462" data-uslm-ref="/us/usc/t50/s462">462.</a>  </td>
 
     <td> Omitted.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—ARSENALS, ARMORIES, ARMS, AND WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 51 to 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs51" data-uslm-ref="/us/usc/t50/s51">51</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs81" data-uslm-ref="/us/usc/t50/s81">81.</a>  </td>
 
     <td> Repealed or Transferred.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ARSENALS, ARMORIES, ARMS, AND WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 82.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs82" data-uslm-ref="/us/usc/t50/s82">82.</a>  </td>
 
     <td> Procurement of ships and material during war.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ARSENALS, ARMORIES, ARMS, AND WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 83 to 88.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs83" data-uslm-ref="/us/usc/t50/s83">83</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs88" data-uslm-ref="/us/usc/t50/s88">88.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—EDUCATION AND EXPERIMENTATION IN DEVELOPMENT OF MUNITIONS AND MA
 
   <tr>
 
-    <td> 91 to 96.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs91" data-uslm-ref="/us/usc/t50/s91">91</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs96" data-uslm-ref="/us/usc/t50/s96">96.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98" data-uslm-ref="/us/usc/t50/s98">98.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98a" data-uslm-ref="/us/usc/t50/s98a">98a.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98b" data-uslm-ref="/us/usc/t50/s98b">98b.</a>  </td>
 
     <td> National Defense Stockpile.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98c" data-uslm-ref="/us/usc/t50/s98c">98c.</a>  </td>
 
     <td> Materials constituting the National Defense Stockpile.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98d" data-uslm-ref="/us/usc/t50/s98d">98d.</a>  </td>
 
     <td> Authority for stockpile operations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98e" data-uslm-ref="/us/usc/t50/s98e">98e.</a>  </td>
 
     <td> Stockpile management.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98e–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98e%E2%80%931" data-uslm-ref="/us/usc/t50/s98e–1">98e–1.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98f" data-uslm-ref="/us/usc/t50/s98f">98f.</a>  </td>
 
     <td> Special Presidential disposal authority.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98g" data-uslm-ref="/us/usc/t50/s98g">98g.</a>  </td>
 
     <td> Materials development and research.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98h" data-uslm-ref="/us/usc/t50/s98h">98h.</a>  </td>
 
     <td> National Defense Stockpile Transaction Fund.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98h–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%931" data-uslm-ref="/us/usc/t50/s98h–1">98h–1.</a>  </td>
 
     <td> Advisory committees.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98h–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%932" data-uslm-ref="/us/usc/t50/s98h–2">98h–2.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98h–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%933" data-uslm-ref="/us/usc/t50/s98h–3">98h–3.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98h–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%934" data-uslm-ref="/us/usc/t50/s98h–4">98h–4.</a>  </td>
 
     <td> Importation of strategic and critical materials.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98h–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%935" data-uslm-ref="/us/usc/t50/s98h–5">98h–5.</a>  </td>
 
     <td> Biennial report on stockpile requirements.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98h–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%936" data-uslm-ref="/us/usc/t50/s98h–6">98h–6.</a>  </td>
 
     <td> Development of domestic sources.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98h–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%937" data-uslm-ref="/us/usc/t50/s98h–7">98h–7.</a>  </td>
 
     <td> National Defense Stockpile Manager.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 98i, 99.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs98i" data-uslm-ref="/us/usc/t50/s98i">98i</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs99" data-uslm-ref="/us/usc/t50/s99">99.</a>  </td>
 
     <td> Repealed or Transferred.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs100" data-uslm-ref="/us/usc/t50/s100">100.</a>  </td>
 
     <td> Nitrate plants.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS  </td>
 
   <tr>
 
-    <td> 100a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs100a" data-uslm-ref="/us/usc/t50/s100a">100a.</a>  </td>
 
     <td> Omitted.  </td>
 

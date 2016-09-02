@@ -33,7 +33,7 @@ SUBCHAPTER I—TERMINATING EXISTING DECLARED EMERGENCIES  </td>
 
   <tr>
 
-    <td> 1601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1601" data-uslm-ref="/us/usc/t50/s1601">1601.</a>  </td>
 
     <td> Termination of existing declared emergencies.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—DECLARATIONS OF FUTURE NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 1621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1621" data-uslm-ref="/us/usc/t50/s1621">1621.</a>  </td>
 
     <td> Declaration of national emergency by President; publication in Federal Register; effect on other laws; superseding legislation.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—DECLARATIONS OF FUTURE NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 1622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1622" data-uslm-ref="/us/usc/t50/s1622">1622.</a>  </td>
 
     <td> National emergencies.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER III—EXERCISE OF EMERGENCY POWERS AND AUTHORITIES  </td>
 
   <tr>
 
-    <td> 1631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1631" data-uslm-ref="/us/usc/t50/s1631">1631.</a>  </td>
 
     <td> Declaration of national emergency by Executive order; authority; publication in Federal Register; transmittal to Congress.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER IV—ACCOUNTABILITY AND REPORTING REQUIREMENTS OF PRESIDENT  </td>
 
   <tr>
 
-    <td> 1641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1641" data-uslm-ref="/us/usc/t50/s1641">1641.</a>  </td>
 
     <td> Accountability and reporting requirements of President.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER V—APPLICATION TO POWERS AND AUTHORITIES OF OTHER PROVISIONS OF LAW 
 
   <tr>
 
-    <td> 1651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1651" data-uslm-ref="/us/usc/t50/s1651">1651.</a>  </td>
 
     <td> Other laws, powers and authorities conferred thereby, and actions taken thereunder; Congressional studies.  </td>
 

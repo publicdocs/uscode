@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1431" data-uslm-ref="/us/usc/t50/s1431">1431.</a>  </td>
 
     <td> Authorization; official approval; Congressional action: notification of committees of certain proposed obligations, resolution of disapproval, continuity of session, computation of period.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1432" data-uslm-ref="/us/usc/t50/s1432">1432.</a>  </td>
 
     <td> Restrictions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1433" data-uslm-ref="/us/usc/t50/s1433">1433.</a>  </td>
 
     <td> Public record; examination of records by Comptroller General; exemptions: exceptional conditions; reports to Congress.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1434" data-uslm-ref="/us/usc/t50/s1434">1434.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1435" data-uslm-ref="/us/usc/t50/s1435">1435.</a>  </td>
 
     <td> Effective period.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1436" data-uslm-ref="/us/usc/t50/s1436">1436.</a>  </td>
 
     <td> Repealed.  </td>
 
