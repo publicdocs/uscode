@@ -11,16 +11,33 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s167n.md) | [Next](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s171, 171–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch11)
+[Previous](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s167q.md) | [Next](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s171a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch11)
 
 ## CHAPTER 11—ACQUISITION OF AND EXPENDITURES ON LAND FOR NATIONAL-DEFENSE PURPOSES
 
+§§ 171, 171–1. __Repealed.__  __[__  __Aug. 10, 1956, ch. 1041, § 53__  __][/us/act/1956-08-10/ch1041/s53]__  __,__  __[__  __70A Stat. 641__  __][/us/stat/70A/641]__ 
+
+    Section 171, acts [Aug. 18, 1890, ch. 797, § 1][/us/act/1890-08-18/ch797/s1], [26 Stat. 316][/us/stat/26/316]; [July 2, 1917, ch. 35][/us/act/1917-07-02/ch35], [40 Stat. 241][/us/stat/40/241]; [Apr. 11, 1918, ch. 51][/us/act/1918-04-11/ch51], [40 Stat. 518][/us/stat/40/518], authorized Secretary of War to institute condemnation proceedings for acquisition of land, to purchase land, and to accept donations of land. See [section 2663 of Title 10][/us/usc/t10/s2663], Armed Forces.
+
+    Section 171–1, [act Oct. 25, 1951, ch. 563, § 101][/us/act/1951-10-25/ch563/s101], [65 Stat. 641][/us/stat/65/641], granted certain condemnation authority to Secretary of Navy. See sections 2663 and 2668 of Title 10.
+
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s167n.md) | [Next](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s171, 171–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch11)
+[Previous](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s167q.md) | [Next](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s171a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch11)
 
 ----------
 ----------
 
+[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
+[/us/act/1890-08-18/ch797/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-18%2Fch797%2Fs1
+[/us/stat/26/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F316
+[/us/act/1917-07-02/ch35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-07-02%2Fch35
+[/us/stat/40/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F241
+[/us/act/1918-04-11/ch51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-11%2Fch51
+[/us/stat/40/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F518
+[/us/usc/t10/s2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2663
+[/us/act/1951-10-25/ch563/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-25%2Fch563%2Fs101
+[/us/stat/65/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F641
 
 

@@ -11,16 +11,37 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch4A/m__us_usc_t50_s45 to 45d.md) | [Next](./../../../..//us/usc/t50/ch4B/m__us_usc_t50_s46 to 46b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch4B)
+[Previous](./../../../..//us/usc/t50/ch4A/m__us_usc_t50_ch4A.md) | [Next](./../../../..//us/usc/t50/ch4C/m__us_usc_t50_ch4C.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch4B)
 
 ## CHAPTER 4B—DISCLOSURE OF CLASSIFIED INFORMATION
 
+§§ 46 to 46b. __Repealed.__  __[__  __Oct. 31, 1951, ch. 655, § 56(c)__  __][/us/act/1951-10-31/ch655/s56/c]__  __,__  __[__  __65 Stat. 729__  __][/us/stat/65/729]__ 
+
+    Section 46, [act May 13, 1950, ch. 185, § 2][/us/act/1950-05-13/ch185/s2], [64 Stat. 159][/us/stat/64/159], related to unlawful disclosure of classified information. See [section 798 of Title 18][/us/usc/t18/s798], Crimes and Criminal Procedure.
+
+    Section 46a, [act May 13, 1950, ch. 185, § 1][/us/act/1950-05-13/ch185/s1], [64 Stat. 159][/us/stat/64/159], defined terms for use in this chapter.
+
+    Section 46b, [act May 13, 1950, ch. 185, § 3][/us/act/1950-05-13/ch185/s3], [64 Stat. 160][/us/stat/64/160], related to penalties for improper disclosure.
+
+ __Savings Provision__ 
+
+    Section 56(l) of act Oct. 31, 1951, provided that the repeal of sections 46 to 46b shall not affect any rights or liabilities existing hereunder on Oct. 31, 1951.
+
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch4A/m__us_usc_t50_s45 to 45d.md) | [Next](./../../../..//us/usc/t50/ch4B/m__us_usc_t50_s46 to 46b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch4B)
+[Previous](./../../../..//us/usc/t50/ch4A/m__us_usc_t50_ch4A.md) | [Next](./../../../..//us/usc/t50/ch4C/m__us_usc_t50_ch4C.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch4B)
 
 ----------
 ----------
 
+[/us/act/1951-10-31/ch655/s56/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs56%2Fc
+[/us/stat/65/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F729
+[/us/act/1950-05-13/ch185/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-13%2Fch185%2Fs2
+[/us/stat/64/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F159
+[/us/usc/t18/s798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs798
+[/us/act/1950-05-13/ch185/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-13%2Fch185%2Fs1
+[/us/stat/64/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F159
+[/us/act/1950-05-13/ch185/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-13%2Fch185%2Fs3
+[/us/stat/64/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F160
 
 

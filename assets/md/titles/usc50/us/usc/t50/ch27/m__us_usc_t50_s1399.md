@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch27/m__us_usc_t50_s1381 to 1398.md) | [Next](./../../../..//us/usc/t50/ch28/m__us_usc_t50_ch28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1399)
+[Previous](./../../../..//us/usc/t50/ch27/m__us_usc_t50_s1281.md) | [Next](./../../../..//us/usc/t50/ch28/m__us_usc_t50_ch28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1399)
 
 ## § 1399. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch27/m__us_usc_t50_s1381 to 1398.md) | [Next](./../../../..//us/usc/t50/ch28/m__us_usc_t50_ch28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1399)
+[Previous](./../../../..//us/usc/t50/ch27/m__us_usc_t50_s1281.md) | [Next](./../../../..//us/usc/t50/ch28/m__us_usc_t50_ch28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1399)
 
 ----------
 ----------

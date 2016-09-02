@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s201 to 204.md) | [Next](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs205)
+[Previous](./../../../..//us/usc/t50/ch13/m__us_usc_t50_ch13.md) | [Next](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs205)
 
 ## § 205. Suspension of commercial intercourse with State in insurrection
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s201 to 204.md) | [Next](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs205)
+[Previous](./../../../..//us/usc/t50/ch13/m__us_usc_t50_ch13.md) | [Next](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs205)
 
 ----------
 ----------

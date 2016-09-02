@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch9/m__us_usc_t50_s152, 153.md) | [Next](./../../../..//us/usc/t50/ch9/m__us_usc_t50_s155.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs154)
+[Previous](./../../../..//us/usc/t50/ch9/m__us_usc_t50_ch9.md) | [Next](./../../../..//us/usc/t50/ch9/m__us_usc_t50_s155.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs154)
 
 ## § 154. Repealed. [Oct. 10, 1940, ch. 851, § 4][/us/act/1940-10-10/ch851/s4], [54 Stat. 1114][/us/stat/54/1114]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch9/m__us_usc_t50_s152, 153.md) | [Next](./../../../..//us/usc/t50/ch9/m__us_usc_t50_s155.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs154)
+[Previous](./../../../..//us/usc/t50/ch9/m__us_usc_t50_ch9.md) | [Next](./../../../..//us/usc/t50/ch9/m__us_usc_t50_s155.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs154)
 
 ----------
 ----------

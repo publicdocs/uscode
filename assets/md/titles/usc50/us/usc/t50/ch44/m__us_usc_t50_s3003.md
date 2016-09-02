@@ -15,7 +15,7 @@
 
 ## § 3003. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) The term “intelligence” includes foreign intelligence and counterintelligence.
 

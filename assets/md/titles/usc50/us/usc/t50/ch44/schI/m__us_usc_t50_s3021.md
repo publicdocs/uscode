@@ -19,11 +19,11 @@
 
     There is established a council to be known as the National Security Council (hereinafter in this section referred to as the “Council”).
 
-    The President of the United States shall preside over meetings of the Council: Provided, That in his absence he may designate a member of the Council to preside in his place.
+        The President of the United States shall preside over meetings of the Council: Provided, That in his absence he may designate a member of the Council to preside in his place.
 
-    The function of the Council shall be to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the military services and the other departments and agencies of the Government to cooperate more effectively in matters involving the national security.
+        The function of the Council shall be to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the military services and the other departments and agencies of the Government to cooperate more effectively in matters involving the national security.
 
-    The Council shall be composed of—
+        The Council shall be composed of—
 
         (1) the President;
 

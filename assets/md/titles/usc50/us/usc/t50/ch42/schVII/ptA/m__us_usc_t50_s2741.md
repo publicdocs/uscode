@@ -15,7 +15,7 @@
 
 ## § 2741. Definitions
 
-In this part:
+    In this part:
 
     (1) The term “DOE national security authorization” means an authorization of appropriations for activities of the Department of Energy in carrying out programs necessary for national security.
 

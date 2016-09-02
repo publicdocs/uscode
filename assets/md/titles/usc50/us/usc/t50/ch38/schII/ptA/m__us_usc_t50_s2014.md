@@ -15,7 +15,7 @@
 
 ## § 2014. Annuitants
 
-Persons who are annuitants under the system are—
+    Persons who are annuitants under the system are—
 
     (1) those persons who, on the basis of their service in the Agency, have met all requirements for an annuity under this subchapter or any other Act and are receiving an annuity from the fund; and
 

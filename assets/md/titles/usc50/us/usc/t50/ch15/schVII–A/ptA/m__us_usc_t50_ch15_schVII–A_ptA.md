@@ -11,16 +11,23 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch15/schVII–A/m__us_usc_t50_ch15_schVII–A.md) | [Next](./../../../../../..//us/usc/t50/ch15/schVII–A/ptA/m__us_usc_t50_s441g to 441g–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVII%E2%80%93A%2FptA)
+[Previous](./../../../../../..//us/usc/t50/ch15/schVII–A/m__us_usc_t50_ch15_schVII–A.md) | [Next](./../../../../../..//us/usc/t50/ch15/schVII–A/ptB/m__us_usc_t50_ch15_schVII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVII%E2%80%93A%2FptA)
 
 #### Part A—Science and Technology
 
+§§ 441g to 441g–2. __Transferred__ 
+
+ __Codification__ 
+
+    Sections 441g to 441g–2, comprising sections 1001 to 1003, respectively, of the National Security Act of 1947, [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], were editorially reclassified as sections 3191 to 3193, respectively, of chapter 44 of this title.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch15/schVII–A/m__us_usc_t50_ch15_schVII–A.md) | [Next](./../../../../../..//us/usc/t50/ch15/schVII–A/ptA/m__us_usc_t50_s441g to 441g–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVII%E2%80%93A%2FptA)
+[Previous](./../../../../../..//us/usc/t50/ch15/schVII–A/m__us_usc_t50_ch15_schVII–A.md) | [Next](./../../../../../..//us/usc/t50/ch15/schVII–A/ptB/m__us_usc_t50_ch15_schVII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVII%E2%80%93A%2FptA)
 
 ----------
 ----------
 
+[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 
 

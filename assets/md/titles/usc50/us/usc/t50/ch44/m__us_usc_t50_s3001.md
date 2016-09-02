@@ -1099,7 +1099,9 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >     “(b) __Freedom of Information Act.—__ 
 
->     The provisions of [section 552 of title 5][/us/usc/t5/s552], United States Code (commonly referred to as the Freedom of Information Act), shall not apply to the activities, records, and proceedings of the Commission under this title.    “\[SEC. 1010. Repealed. [Pub. L. 111–259, title VII, § 701(b)(3)][/us/pl/111/259/s701/b/3], Oct. 7, 2010, [124 Stat. 2745][/us/stat/124/2745].\]
+>     The provisions of [section 552 of title 5][/us/usc/t5/s552], United States Code (commonly referred to as the Freedom of Information Act), shall not apply to the activities, records, and proceedings of the Commission under this title.
+
+> “\[SEC. 1010. Repealed. [Pub. L. 111–259, title VII, § 701(b)(3)][/us/pl/111/259/s701/b/3], Oct. 7, 2010, [124 Stat. 2745][/us/stat/124/2745].\]
 
 > “SEC. 1011. __DEFINITIONS.__ 
 

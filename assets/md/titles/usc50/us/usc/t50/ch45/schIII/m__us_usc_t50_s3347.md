@@ -15,7 +15,7 @@
 
 ## § 3347. Secrecy agreements used in intelligence activities
 
-Notwithstanding any other provision of law not specifically referencing this section, a nondisclosure policy form or agreement that is to be executed by a person connected with the conduct of an intelligence or intelligence-related activity, other than an employee or officer of the United States Government, may contain provisions appropriate to the particular activity for which such document is to be used. Such form or agreement shall, at a minimum—
+    Notwithstanding any other provision of law not specifically referencing this section, a nondisclosure policy form or agreement that is to be executed by a person connected with the conduct of an intelligence or intelligence-related activity, other than an employee or officer of the United States Government, may contain provisions appropriate to the particular activity for which such document is to be used. Such form or agreement shall, at a minimum—
 
     (1) require that the person will not disclose any classified information received in the course of such activity unless specifically authorized to do so by the United States Government; and
 

@@ -15,7 +15,7 @@
 
 ## § 3522. Detail of employees
 
-The Director may—
+    The Director may—
 
     (1) detail any personnel of the Agency on a reimbursable basis indefinitely to the National Reconnaissance Office without regard to any limitation under law on the duration of details of Federal Government personnel; and
 

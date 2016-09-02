@@ -15,7 +15,7 @@
 
 ## § 47a. Information concerning illegal introduction, manufacture, acquisition or export of special nuclear material or atomic weapons or conspiracies relating thereto; reward
 
-Any person who furnishes original information to the United States—
+    Any person who furnishes original information to the United States—
 
     (a) leading to the finding or other acquisition by the United States of special nuclear material or an atomic weapon which has been introduced into the United States or manufactured or acquired therein contrary to the laws of the United States, or
 
@@ -23,7 +23,7 @@ Any person who furnishes original information to the United States—
 
     (c) with respect to the export or attempted export, or a conspiracy to export, special nuclear material or an atomic weapon from the United States contrary to the laws of the United States,
 
-        shall be rewarded by the payment of an amount not to exceed $500,000.
+    shall be rewarded by the payment of an amount not to exceed $500,000.
 
 ([July 15, 1955, ch. 372, § 2][/us/act/1955-07-15/ch372/s2], [69 Stat. 365][/us/stat/69/365]; [Pub. L. 93–377, § 1(b)][/us/pl/93/377/s1/b], Aug. 17, 1974, [88 Stat. 472][/us/stat/88/472].)
 

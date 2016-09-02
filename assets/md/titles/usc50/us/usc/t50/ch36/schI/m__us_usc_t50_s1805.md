@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1804.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805a to 1805c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1804.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1806.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805)
 
 ## § 1805. Issuance of order
 
@@ -181,7 +181,7 @@
 
     (D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.
 
-See 2006, 2009, 2010, and 2011 Amendment notes below.
+    See 2006, 2009, 2010, and 2011 Amendment notes below.
 
  __References in Text__ 
 
@@ -305,9 +305,21 @@ See 2006, 2009, 2010, and 2011 Amendment notes below.
 
     Amendment by [Pub. L. 98–549][/us/pl/98/549] effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see [section 9(a) of Pub. L. 98–549][/us/pl/98/549/s9/a], set out as a note under [section 521 of Title 47][/us/usc/t47/s521], Telecommunications.
 
+§§ 1805a to 1805c. __Repealed.__  __[__  __Pub. L. 110–261, title IV, § 403(a)(1)(A)__  __][/us/pl/110/261/s403/a/1/A]__  __,__  __July 10, 2008__  __,__  __[__  __122 Stat. 2473__  __][/us/stat/122/2473]__ 
+
+    Section 1805a, [Pub. L. 95–511, title I, § 105A][/us/pl/95/511/s105A], as added [Pub. L. 110–55, § 2][/us/pl/110/55/s2], Aug. 5, 2007, [121 Stat. 552][/us/stat/121/552], related to clarification of electronic surveillance of persons outside the United States.
+
+    Section 1805b, [Pub. L. 95–511, title I, § 105B][/us/pl/95/511/s105B], as added [Pub. L. 110–55, § 2][/us/pl/110/55/s2], Aug. 5, 2007, [121 Stat. 552][/us/stat/121/552], related to additional procedure for authorizing certain acquisitions concerning persons located outside the United States.
+
+    Section 1805c, [Pub. L. 95–511, title I, § 105C][/us/pl/95/511/s105C], as added [Pub. L. 110–55, § 3][/us/pl/110/55/s3], Aug. 5, 2007, [121 Stat. 555][/us/stat/121/555], related to submission to court review of procedures.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective July 10, 2008, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a Transition Procedures note under [section 1801 of this title][/us/usc/t50/s1801], see [section 402 of Pub. L. 110–261][/us/pl/110/261/s402], set out as an Effective Date of 2008 Amendment note under [section 1801 of this title][/us/usc/t50/s1801].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1804.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805a to 1805c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1804.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1806.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805)
 
 ----------
 ----------
@@ -469,5 +481,20 @@ See 2006, 2009, 2010, and 2011 Amendment notes below.
 [/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521
+[/us/pl/110/261/s403/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fa%2F1%2FA
+[/us/stat/122/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2473
+[/us/pl/95/511/s105A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs105A
+[/us/pl/110/55/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55%2Fs2
+[/us/stat/121/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F552
+[/us/pl/95/511/s105B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs105B
+[/us/pl/110/55/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55%2Fs2
+[/us/stat/121/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F552
+[/us/pl/95/511/s105C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs105C
+[/us/pl/110/55/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55%2Fs3
+[/us/stat/121/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F555
+[/us/pl/110/261/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs404
+[/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
+[/us/pl/110/261/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs402
+[/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 
 

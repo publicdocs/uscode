@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s1011, 1012.md) | [Next](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s1014.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1013)
+[Previous](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s936.md) | [Next](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s1014.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1013)
 
 ## § 1013. Repealed. [Pub. L. 88–110, § 1][/us/pl/88/110/s1], Sept. 3, 1963, [77 Stat. 134][/us/stat/77/134]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s1011, 1012.md) | [Next](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s1014.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1013)
+[Previous](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s936.md) | [Next](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s1014.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1013)
 
 ----------
 ----------

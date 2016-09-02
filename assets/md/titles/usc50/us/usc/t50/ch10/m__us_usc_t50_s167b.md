@@ -35,11 +35,11 @@
 
         (3) __Proceeds__ 
 
-            All proceeds accruing to the United States by reason of the sale or other disposal of such property shall be treated as moneys received under this chapter for purposes of [section 167d(f) of this title][/us/usc/t50/s167d/f].
+            All proceeds accruing to the United States by reason of the sale or other disposal of such property shall be treated as moneys received under this chapter for purposes of [section 167d(e) of this title][/us/usc/t50/s167d/e].
 
         (4) __Costs__ 
 
-            All costs associated with such sale and disposal (including costs associated with termination of personnel) and with the cessation of activities under subsection (b) of this section shall be paid from amounts available in the helium production fund established under [section 167d(f) of this title][/us/usc/t50/s167d/f].
+            All costs associated with such sale and disposal (including costs associated with termination of personnel) and with the cessation of activities under subsection (b) of this section shall be paid from amounts available in the helium production fund established under [section 167d(e) of this title][/us/usc/t50/s167d/e].
 
         (5) __Exception__ 
 
@@ -53,9 +53,9 @@
 
         (2) __Costs__ 
 
-            Any costs associated with the termination of contracts described in paragraph (1) shall be paid from the helium production fund established under [section 167d(f) of this title][/us/usc/t50/s167d/f].
+            Any costs associated with the termination of contracts described in paragraph (1) shall be paid from the helium production fund established under [section 167d(e) of this title][/us/usc/t50/s167d/e].
 
-([Mar. 3, 1925, ch. 426, § 4][/us/act/1925-03-03/ch426/s4], as added [Pub. L. 86–777, § 2][/us/pl/86/777/s2], Sept. 13, 1960, [74 Stat. 920][/us/stat/74/920]; amended [Pub. L. 104–273, § 3][/us/pl/104/273/s3], Oct. 9, 1996, [110 Stat. 3316][/us/stat/110/3316].)
+([Mar. 3, 1925, ch. 426, § 4][/us/act/1925-03-03/ch426/s4], as added [Pub. L. 86–777, § 2][/us/pl/86/777/s2], Sept. 13, 1960, [74 Stat. 920][/us/stat/74/920]; amended [Pub. L. 104–273, § 3][/us/pl/104/273/s3], Oct. 9, 1996, [110 Stat. 3316][/us/stat/110/3316]; [Pub. L. 113–40, § 7(a)][/us/pl/113/40/s7/a], Oct. 2, 2013, [127 Stat. 544][/us/stat/127/544].)
 
  __Codification__ 
 
@@ -67,6 +67,8 @@
 
  __Amendments__ 
 
+    2013—Subsecs. (c)(3), (4), (d)(2). [Pub. L. 113–40][/us/pl/113/40] substituted “section 167d(e)” for “section 167d(f)”.
+
     1996—[Pub. L. 104–273][/us/pl/104/273] amended section generally. Prior to amendment, section consisted of single par. authorizing Secretary to maintain and operate helium production and purification plants and to conduct or contract for research as to helium production, purification, transportation, liquefaction, storage, and utilization.
 
 ----------
@@ -76,14 +78,16 @@
 ----------
 ----------
 
-[/us/usc/t50/s167d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d%2Ff
-[/us/usc/t50/s167d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d%2Ff
-[/us/usc/t50/s167d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d%2Ff
+[/us/usc/t50/s167d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d%2Fe
+[/us/usc/t50/s167d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d%2Fe
+[/us/usc/t50/s167d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d%2Fe
 [/us/act/1925-03-03/ch426/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs4
 [/us/pl/86/777/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777%2Fs2
 [/us/stat/74/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F920
 [/us/pl/104/273/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273%2Fs3
 [/us/stat/110/3316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3316
+[/us/pl/113/40/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs7%2Fa
+[/us/stat/127/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F544
 [/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
@@ -91,6 +95,7 @@
 [/us/usc/t50/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs165
 [/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
 [/us/stat/68/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F861
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/pl/104/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273
 
 

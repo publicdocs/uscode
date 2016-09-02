@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch4/m__us_usc_t50_s31 to 39.md) | [Next](./../../../..//us/usc/t50/ch4/m__us_usc_t50_s41.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs40)
+[Previous](./../../../..//us/usc/t50/ch4/m__us_usc_t50_ch4.md) | [Next](./../../../..//us/usc/t50/ch4/m__us_usc_t50_s41.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs40)
 
 ## § 40. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch4/m__us_usc_t50_s31 to 39.md) | [Next](./../../../..//us/usc/t50/ch4/m__us_usc_t50_s41.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs40)
+[Previous](./../../../..//us/usc/t50/ch4/m__us_usc_t50_ch4.md) | [Next](./../../../..//us/usc/t50/ch4/m__us_usc_t50_s41.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs40)
 
 ----------
 ----------

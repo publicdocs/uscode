@@ -13,9 +13,9 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t50/ch1/m__us_usc_t50_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50)
 
-# 
+# Title 50—WAR AND NATIONAL DEFENSE
 
-Title 50—WAR AND NATIONAL DEFENSE
+Current through 113–44
 
 <table>
 

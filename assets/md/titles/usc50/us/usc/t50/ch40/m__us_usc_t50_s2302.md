@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch40/m__us_usc_t50_s2301.md) | [Next](./../../../..//us/usc/t50/ch40/schI/m__us_usc_t50_ch40_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2302)
+[Previous](./../../../..//us/usc/t50/ch40/m__us_usc_t50_s1405.md) | [Next](./../../../..//us/usc/t50/ch40/schI/m__us_usc_t50_ch40_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2302)
 
 ## § 2302. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1)
 
@@ -39,7 +39,7 @@ In this chapter:
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch40/m__us_usc_t50_s2301.md) | [Next](./../../../..//us/usc/t50/ch40/schI/m__us_usc_t50_ch40_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2302)
+[Previous](./../../../..//us/usc/t50/ch40/m__us_usc_t50_s1405.md) | [Next](./../../../..//us/usc/t50/ch40/schI/m__us_usc_t50_ch40_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2302)
 
 ----------
 ----------

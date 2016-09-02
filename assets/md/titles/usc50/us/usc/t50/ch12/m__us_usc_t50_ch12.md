@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s177 to 179.md) | [Next](./../../../..//us/usc/t50/ch12/m__us_usc_t50_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch12)
+[Previous](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s176.md) | [Next](./../../../..//us/usc/t50/ch12/m__us_usc_t50_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch12)
 
 ## CHAPTER 12—VESSELS IN TERRITORIAL WATERS OF UNITED STATES
 
@@ -107,7 +107,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s177 to 179.md) | [Next](./../../../..//us/usc/t50/ch12/m__us_usc_t50_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch12)
+[Previous](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s176.md) | [Next](./../../../..//us/usc/t50/ch12/m__us_usc_t50_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch12)
 
 ----------
 ----------

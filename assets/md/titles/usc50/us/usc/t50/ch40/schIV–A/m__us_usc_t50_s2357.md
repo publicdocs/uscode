@@ -15,7 +15,7 @@
 
 ## § 2357. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) United States nonproliferation efforts in the independent states of the former Soviet Union have achieved important results in ensuring that weapons of mass destruction, weapons-usable material and technology, and weapons-related knowledge remain beyond the reach of terrorists and weapons-proliferating states;
 

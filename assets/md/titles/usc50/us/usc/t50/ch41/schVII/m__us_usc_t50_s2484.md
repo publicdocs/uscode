@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_s2482, 2483.md) | [Next](./../../../../..//us/usc/t50/ch42/m__us_usc_t50_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2484)
+[Previous](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_s2481.md) | [Next](./../../../../..//us/usc/t50/ch42/m__us_usc_t50_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2484)
 
 ## § 2484. Applicability of preexisting laws and regulations
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_s2482, 2483.md) | [Next](./../../../../..//us/usc/t50/ch42/m__us_usc_t50_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2484)
+[Previous](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_s2481.md) | [Next](./../../../../..//us/usc/t50/ch42/m__us_usc_t50_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2484)
 
 ----------
 ----------

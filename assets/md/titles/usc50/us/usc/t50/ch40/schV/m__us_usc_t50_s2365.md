@@ -15,7 +15,7 @@
 
 ## § 2365. Sense of Congress concerning purchase, packaging, and transportation of fissile materials at risk of theft
 
-It is the sense of Congress that—
+    It is the sense of Congress that—
 
     (1)
 

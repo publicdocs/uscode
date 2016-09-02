@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch2/m__us_usc_t50_s11 to 15.md) | [Next](./../../../..//us/usc/t50/ch3/m__us_usc_t50_s21.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch3)
+[Previous](./../../../..//us/usc/t50/ch2/m__us_usc_t50_ch2.md) | [Next](./../../../..//us/usc/t50/ch3/m__us_usc_t50_s21.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch3)
 
 ## CHAPTER 3—ALIEN ENEMIES
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch2/m__us_usc_t50_s11 to 15.md) | [Next](./../../../..//us/usc/t50/ch3/m__us_usc_t50_s21.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch3)
+[Previous](./../../../..//us/usc/t50/ch2/m__us_usc_t50_ch2.md) | [Next](./../../../..//us/usc/t50/ch3/m__us_usc_t50_s21.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch3)
 
 ----------
 ----------

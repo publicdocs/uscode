@@ -15,7 +15,7 @@
 
 ## § 1885. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Assistance__ 
 

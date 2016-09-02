@@ -15,7 +15,7 @@
 
 ## § 2638. Limitation on use of funds for decommissioning F–canyon facility
 
-No amounts authorized to be appropriated or otherwise made available for the Department of Energy by the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398]) or any other Act may be obligated or expended for purposes of commencing the decommissioning of the F–canyon facility at the Savannah River Site until the Secretary of Energy submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and the Defense Nuclear Facilities Safety Board, a report setting forth—
+    No amounts authorized to be appropriated or otherwise made available for the Department of Energy by the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398]) or any other Act may be obligated or expended for purposes of commencing the decommissioning of the F–canyon facility at the Savannah River Site until the Secretary of Energy submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and the Defense Nuclear Facilities Safety Board, a report setting forth—
 
     (1) an assessment whether or not all materials present in the F–canyon facility as of the date of the report that required stabilization have been safely stabilized as of that date;
 

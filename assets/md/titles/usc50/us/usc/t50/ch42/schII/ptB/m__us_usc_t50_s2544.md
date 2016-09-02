@@ -15,7 +15,7 @@
 
 ## § 2544. Modernization and consolidation of tritium recycling facilities
 
-The Secretary of Energy shall carry out activities at the Savannah River Site, South Carolina, to—
+    The Secretary of Energy shall carry out activities at the Savannah River Site, South Carolina, to—
 
     (1) modernize and consolidate the facilities for recycling tritium from weapons; and
 

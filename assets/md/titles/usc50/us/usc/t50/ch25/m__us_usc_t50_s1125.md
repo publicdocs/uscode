@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s1111 to 1124.md) | [Next](./../../../..//us/usc/t50/ch26/m__us_usc_t50_ch26.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1125)
+[Previous](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s1016.md) | [Next](./../../../..//us/usc/t50/ch26/m__us_usc_t50_ch26.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1125)
 
 ## § 1125. Repealed. [Pub. L. 85–861, § 36A][/us/pl/85/861/s36A], Sept. 2, 1958, [72 Stat. 1569][/us/stat/72/1569]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s1111 to 1124.md) | [Next](./../../../..//us/usc/t50/ch26/m__us_usc_t50_ch26.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1125)
+[Previous](./../../../..//us/usc/t50/ch25/m__us_usc_t50_s1016.md) | [Next](./../../../..//us/usc/t50/ch26/m__us_usc_t50_ch26.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1125)
 
 ----------
 ----------

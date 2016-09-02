@@ -15,7 +15,7 @@
 
 ## § 3305. Exhibits for inclusion with budget justification books
 
-Beginning with the fiscal year 2010 budget request, the Director of National Intelligence shall include the budget exhibits identified in paragraphs (1) and (2) as described in the Department of Defense Financial Management Regulation with the congressional budget justification books.
+    Beginning with the fiscal year 2010 budget request, the Director of National Intelligence shall include the budget exhibits identified in paragraphs (1) and (2) as described in the Department of Defense Financial Management Regulation with the congressional budget justification books.
 
     (1) For procurement programs requesting more than $20,000,000 in any fiscal year, the P–1, Procurement Program; P–5, Cost Analysis; P–5a, Procurement History and Planning; P–21, Production Schedule; and P–40  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  Budget Item Justification.
 

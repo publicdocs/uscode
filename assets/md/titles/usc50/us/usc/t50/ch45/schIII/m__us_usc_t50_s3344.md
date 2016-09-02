@@ -67,9 +67,9 @@
 
 >     The term ‘Executive agency’ has the meaning given that term in [section 105 of title 5][/us/usc/t5/s105], United States Code.
 
->     “(3) __Executive order no. 13526.—__ 
+>     “(3) __Executive order no.__ 
 
->     The term ‘Executive Order No. 13526’ means Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) or any subsequent corresponding executive order.”
+>      13526.—The term ‘Executive Order No. 13526’ means Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) or any subsequent corresponding executive order.”
 
 ----------
 

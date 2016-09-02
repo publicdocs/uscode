@@ -15,7 +15,7 @@
 
 ## § 3506a. Transformation of Central Intelligence Agency
 
-The Director of the Central Intelligence Agency shall, in accordance with standards developed by the Director in consultation with the Director of National Intelligence—
+    The Director of the Central Intelligence Agency shall, in accordance with standards developed by the Director in consultation with the Director of National Intelligence—
 
     (1) enhance the analytic, human intelligence, and other capabilities of the Central Intelligence Agency;
 

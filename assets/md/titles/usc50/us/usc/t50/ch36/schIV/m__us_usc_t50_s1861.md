@@ -161,9 +161,9 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 109–177, title I, § 102(b)][/us/pl/109/177/s102/b], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], as amended by [Pub. L. 111–118, div. B, § 1004(a)][/us/pl/111/118/s1004/a], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(a)][/us/pl/111/141/s1/a], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3, § 2(a)][/us/pl/112/3/s2/a], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(a)][/us/pl/112/14/s2/a], May 26, 2011, [125 Stat. 216][/us/stat/125/216], provided that, effective June 1, 2015, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:
+    [Pub. L. 109–177, title I, § 102(b)][/us/pl/109/177/s102/b], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], as amended by [Pub. L. 111–118, div. B, § 1004(a)][/us/pl/111/118/s1004/a], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(a)][/us/pl/111/141/s1/a], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3, § 2(a)][/us/pl/112/3/s2/a], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(a)][/us/pl/112/14/s2/a], May 26, 2011, [125 Stat. 216][/us/stat/125/216], provided that, effective June 1, 2015, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:
 
-§ 1861. Definitions
+    § 1861. Definitions
 
     As used in this subchapter:
 
@@ -177,7 +177,7 @@
 
     (5) The term “vehicle rental facility” means any person or entity that provides vehicles for rent, lease, loan, or other similar use to the public or any segment thereof.
 
-See 2006, 2009, 2010, and 2011 Amendment notes below.
+    See 2006, 2009, 2010, and 2011 Amendment notes below.
 
  __References in Text__ 
 

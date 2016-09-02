@@ -155,59 +155,45 @@
 
 >     Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
 
-> “SECTION 1. __SHORT TITLE.__ 
+>     “SECTION 1. SHORT TITLE.
 
 >     “This joint resolution may be cited as the ‘Authorization for Use of Military Force Against Iraq Resolution of 2002’.
 
-> “SEC. 2. __SUPPORT FOR UNITED STATES DIPLOMATIC EFFORTS.__ 
+>     “SEC. 2. SUPPORT FOR UNITED STATES DIPLOMATIC EFFORTS.
 
-> “The Congress of the United States supports the efforts by the President to—
+>     “The Congress of the United States supports the efforts by the President to—
 
 >     “(1) strictly enforce through the United Nations Security Council all relevant Security Council resolutions regarding Iraq and encourages him in those efforts; and
 
 >     “(2) obtain prompt and decisive action by the Security Council to ensure that Iraq abandons its strategy of delay, evasion and noncompliance and promptly and strictly complies with all relevant Security Council resolutions regarding Iraq.
 
-> “SEC. 3. __AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.__ 
+>     “SEC. 3. AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.
 
->     “(a) __Authorization.—__ 
+>     “(a) Authorization.—The President is authorized to use the Armed Forces of the United States as he determines to be necessary and appropriate in order to—
 
->     The President is authorized to use the Armed Forces of the United States as he determines to be necessary and appropriate in order to—
+>     “(1) defend the national security of the United States against the continuing threat posed by Iraq; and
 
->         “(1) defend the national security of the United States against the continuing threat posed by Iraq; and
+>     “(2) enforce all relevant United Nations Security Council resolutions regarding Iraq.
 
->         “(2) enforce all relevant United Nations Security Council resolutions regarding Iraq.
+>     “(b) Presidential Determination.—In connection with the exercise of the authority granted in subsection (a) to use force the President shall, prior to such exercise or as soon thereafter as may be feasible, but no later than 48 hours after exercising such authority, make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
 
->     “(b) __Presidential Determination.—__ 
+>     “(1) reliance by the United States on further diplomatic or other peaceful means alone either (A) will not adequately protect the national security of the United States against the continuing threat posed by Iraq or (B) is not likely to lead to enforcement of all relevant United Nations Security Council resolutions regarding Iraq; and
 
->     In connection with the exercise of the authority granted in subsection (a) to use force the President shall, prior to such exercise or as soon thereafter as may be feasible, but no later than 48 hours after exercising such authority, make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
+>     “(2) acting pursuant to this joint resolution is consistent with the United States and other countries continuing to take the necessary actions against international terrorist and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed or aided the terrorist attacks that occurred on September 11, 2001.
 
->         “(1) reliance by the United States on further diplomatic or other peaceful means alone either (A) will not adequately protect the national security of the United States against the continuing threat posed by Iraq or (B) is not likely to lead to enforcement of all relevant United Nations Security Council resolutions regarding Iraq; and
+>     “(c) War Powers Resolution Requirements.—
 
->         “(2) acting pursuant to this joint resolution is consistent with the United States and other countries continuing to take the necessary actions against international terrorist and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed or aided the terrorist attacks that occurred on September 11, 2001.
+>     “(1) Specific statutory authorization.—Consistent with section 8(a)(1) of the War Powers Resolution \[[50 U.S.C. 1547(a)(1)][/us/usc/t50/s1547/a/1]\], the Congress declares that this section is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[[50 U.S.C. 1544(b)][/us/usc/t50/s1544/b]\].
 
->     “(c) __War Powers Resolution Requirements.—__ 
+>     “(2) Applicability of other requirements.—Nothing in this joint resolution supersedes any requirement of the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\].
 
->         “(1) __Specific statutory authorization.—__ 
+>     “SEC. 4. REPORTS TO CONGRESS.
 
->         Consistent with section 8(a)(1) of the War Powers Resolution \[[50 U.S.C. 1547(a)(1)][/us/usc/t50/s1547/a/1]\], the Congress declares that this section is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[[50 U.S.C. 1544(b)][/us/usc/t50/s1544/b]\].
+>     “(a) Reports.—The President shall, at least once every 60 days, submit to the Congress a report on matters relevant to this joint resolution, including actions taken pursuant to the exercise of authority granted in section 3 and the status of planning for efforts that are expected to be required after such actions are completed, including those actions described in section 7 of the Iraq Liberation Act of 1998 ([Public Law 105–338][/us/pl/105/338]) \[former [22 U.S.C. 2151][/us/usc/t22/s2151] note\].
 
->         “(2) __Applicability of other requirements.—__ 
+>     “(b) Single Consolidated Report.—To the extent that the submission of any report described in subsection (a) coincides with the submission of any other report on matters relevant to this joint resolution otherwise required to be submitted to Congress pursuant to the reporting requirements of the War Powers Resolution ([Public Law 93–148][/us/pl/93/148]) \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\], all such reports may be submitted as a single consolidated report to the Congress.
 
->         Nothing in this joint resolution supersedes any requirement of the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\].
-
-> “SEC. 4. __REPORTS TO CONGRESS.__ 
-
->     “(a) __Reports.—__ 
-
->     The President shall, at least once every 60 days, submit to the Congress a report on matters relevant to this joint resolution, including actions taken pursuant to the exercise of authority granted in section 3 and the status of planning for efforts that are expected to be required after such actions are completed, including those actions described in section 7 of the Iraq Liberation Act of 1998 ([Public Law 105–338][/us/pl/105/338]) \[former [22 U.S.C. 2151][/us/usc/t22/s2151] note\].
-
->     “(b) __Single Consolidated Report.—__ 
-
->     To the extent that the submission of any report described in subsection (a) coincides with the submission of any other report on matters relevant to this joint resolution otherwise required to be submitted to Congress pursuant to the reporting requirements of the War Powers Resolution ([Public Law 93–148][/us/pl/93/148]) \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\], all such reports may be submitted as a single consolidated report to the Congress.
-
->     “(c) __Rule of Construction.—__ 
-
->     To the extent that the information required by section 3 of the Authorization for Use of Military Force Against Iraq Resolution ([Public Law 102–1][/us/pl/102/1]) \[set out in a note below\] is included in the report required by this section, such report shall be considered as meeting the requirements of section 3 of such resolution.”
+>     “(c) Rule of Construction.—To the extent that the information required by section 3 of the Authorization for Use of Military Force Against Iraq Resolution ([Public Law 102–1][/us/pl/102/1]) \[set out in a note below\] is included in the report required by this section, such report shall be considered as meeting the requirements of section 3 of such resolution.”
 
  __Authorization for Use of Military Force Against September 11 Terrorists__ 
 
@@ -225,25 +211,19 @@
 
 >     “Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
 
-> “SECTION 1. __SHORT TITLE.__ 
+>     “SECTION 1. SHORT TITLE.
 
 >     “This joint resolution may be cited as the ‘Authorization for Use of Military Force’.
 
-> “SEC. 2. __AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.__ 
+>     “SEC. 2. AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.
 
->     “(a) __In General.—__ 
+>     “(a) In General.—That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States by such nations, organizations or persons.
 
->     That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States by such nations, organizations or persons.
+>     “(b) War Powers Resolution Requirements.—
 
->     “(b) __War Powers Resolution Requirements.—__ 
+>     “(1) Specific statutory authorization.—Consistent with section 8(a)(1) of the War Powers Resolution \[[50 U.S.C. 1547(a)(1)][/us/usc/t50/s1547/a/1]\], the Congress declares that this section is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[[50 U.S.C. 1544(b)][/us/usc/t50/s1544/b]\].
 
->         “(1) __Specific statutory authorization.—__ 
-
->         Consistent with section 8(a)(1) of the War Powers Resolution \[[50 U.S.C. 1547(a)(1)][/us/usc/t50/s1547/a/1]\], the Congress declares that this section is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[[50 U.S.C. 1544(b)][/us/usc/t50/s1544/b]\].
-
->         “(2) __Applicability of other requirements.—__ 
-
->         Nothing in this resolution supercedes any requirement of the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\].”
+>     “(2) Applicability of other requirements.—Nothing in this resolution supercedes any requirement of the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\].”
 
  __Limitation on Deployment of Armed Forces in Haiti During Fiscal Year 2000 and Congressional Notice of Deployments to Haiti__ 
 
@@ -435,35 +415,27 @@
 
 >     “Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
 
-> “SECTION 1. __SHORT TITLE.__ 
+>     “SECTION 1. SHORT TITLE.
 
 >     “This joint resolution may be cited as the ‘Authorization for Use of Military Force Against Iraq Resolution’.
 
-> “SEC. 2. __AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.__ 
+>     “SEC. 2. AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.
 
->     “(a) __Authorization.—__ 
+>     “(a) Authorization.—The President is authorized, subject to subsection (b), to use United States Armed Forces pursuant to United Nations Security Council Resolution 678 (1990) in order to achieve implementation of Security Council Resolutions 660, 661, 662, 664, 665, 666, 667, 669, 670, 674, and 677.
 
->     The President is authorized, subject to subsection (b), to use United States Armed Forces pursuant to United Nations Security Council Resolution 678 (1990) in order to achieve implementation of Security Council Resolutions 660, 661, 662, 664, 665, 666, 667, 669, 670, 674, and 677.
+>     “(b) Requirement for Determination That Use of Military Force Is Necessary.—Before exercising the authority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
 
->     “(b) __Requirement for Determination That Use of Military Force Is Necessary.—__ 
+>     “(1) the United States has used all appropriate diplomatic and other peaceful means to obtain compliance by Iraq with the United Nations Security Council resolutions cited in subsection (a); and
 
->     Before exercising the authority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
+>     “(2) that those efforts have not been and would not be successful in obtaining such compliance.
 
->         “(1) the United States has used all appropriate diplomatic and other peaceful means to obtain compliance by Iraq with the United Nations Security Council resolutions cited in subsection (a); and
+>     “(c) War Powers Resolution Requirements.—
 
->         “(2) that those efforts have not been and would not be successful in obtaining such compliance.
+>     “(1) Specific statutory authorization.—Consistent with section 8(a)(1) of the War Powers Resolution \[[50 U.S.C. 1547(a)(1)][/us/usc/t50/s1547/a/1]\], the Congress declares that this section is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[[50 U.S.C. 1544(b)][/us/usc/t50/s1544/b]\].
 
->     “(c) __War Powers Resolution Requirements.—__ 
+>     “(2) Applicability of other requirements.—Nothing in this resolution supersedes any requirement of the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\].
 
->         “(1) __Specific statutory authorization.—__ 
-
->         Consistent with section 8(a)(1) of the War Powers Resolution \[[50 U.S.C. 1547(a)(1)][/us/usc/t50/s1547/a/1]\], the Congress declares that this section is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[[50 U.S.C. 1544(b)][/us/usc/t50/s1544/b]\].
-
->         “(2) __Applicability of other requirements.—__ 
-
->         Nothing in this resolution supersedes any requirement of the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\].
-
-> “SEC. 3. __REPORTS TO CONGRESS.__ 
+>     “SEC. 3. REPORTS TO CONGRESS.
 
 >     “At least once every 90 days, the President shall submit to the Congress a summary on the status of efforts to obtain compliance by Iraq with the resolutions adopted by the United Nations Security Council in response to Iraq’s aggression.”
 
@@ -513,57 +485,67 @@
 
 [Pub. L. 98–119][/us/pl/98/119], Oct. 12, 1983, [97 Stat. 805][/us/stat/97/805], provided that:
 
- __“short title__ 
+>  __“short title__ 
 
-    “Section 1. This joint resolution may be cited as the ‘Multinational Force in Lebanon Resolution’.
+> “Section 1. This joint resolution may be cited as the ‘Multinational Force in Lebanon Resolution’.
 
- __“findings and purpose__ 
+>  __“findings and purpose__ 
 
-    “Sec. 2. (a) The Congress finds that—
+> “Sec. 2.
 
-    “(1) the removal of all foreign forces from Lebanon is an essential United States foreign policy objective in the Middle East;
+>      (a)
 
-    “(2) in order to restore full control by the Government of Lebanon over its own territory, the United States is currently participating in the multinational peacekeeping force (hereafter in this resolution referred to as the ‘Multinational Force in Lebanon’) which was established in accordance with the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982;
+>      The Congress finds that—
 
-    “(3) the Multinational Force in Lebanon better enables the Government of Lebanon to establish its unity, independence, and territorial integrity;
+>         “(1) the removal of all foreign forces from Lebanon is an essential United States foreign policy objective in the Middle East;
 
-    “(4) progress toward national political reconciliation in Lebanon is necessary; and
+>         “(2) in order to restore full control by the Government of Lebanon over its own territory, the United States is currently participating in the multinational peacekeeping force (hereafter in this resolution referred to as the ‘Multinational Force in Lebanon’) which was established in accordance with the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982;
 
-    “(5) United States Armed Forces participating in the Multinational Force in Lebanon are now in hostilities requiring authorization of their continued presence under the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\].
+>         “(3) the Multinational Force in Lebanon better enables the Government of Lebanon to establish its unity, independence, and territorial integrity;
 
-    “(b) The Congress determines that the requirements of section 4(a)(1) of the War Powers Resolution \[[50 U.S.C. 1543(a)(1)][/us/usc/t50/s1543/a/1]\] became operative on August 29, 1983. Consistent with section 5(b) of the War Powers Resolution \[[50 U.S.C. 1544(b)][/us/usc/t50/s1544/b]\], the purpose of this joint resolution is to authorize the continued participation of United States Armed Forces in the Multinational Force in Lebanon.
+>         “(4) progress toward national political reconciliation in Lebanon is necessary; and
 
-    “(c) The Congress intends this joint resolution to constitute the necessary specific statutory authorization under the War Powers Resolution for continued participation by United States Armed Forces in the Multinational Force in Lebanon.
+>         “(5) United States Armed Forces participating in the Multinational Force in Lebanon are now in hostilities requiring authorization of their continued presence under the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\].
 
- __“authorization for continued participation of united states armed forces in the multinational force in lebanon__ 
+>     “(b) The Congress determines that the requirements of section 4(a)(1) of the War Powers Resolution \[[50 U.S.C. 1543(a)(1)][/us/usc/t50/s1543/a/1]\] became operative on August 29, 1983. Consistent with section 5(b) of the War Powers Resolution \[[50 U.S.C. 1544(b)][/us/usc/t50/s1544/b]\], the purpose of this joint resolution is to authorize the continued participation of United States Armed Forces in the Multinational Force in Lebanon.
 
-    “Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[[50 U.S.C. 1544(b)][/us/usc/t50/s1544/b]\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
+>     “(c) The Congress intends this joint resolution to constitute the necessary specific statutory authorization under the War Powers Resolution for continued participation by United States Armed Forces in the Multinational Force in Lebanon.
 
- __“reports to the congress__ 
+>  __“authorization for continued participation of united states armed forces in the multinational force in lebanon__ 
 
-    “Sec. 4. As required by section 4(c) of the War Powers Resolution \[[50 U.S.C. 1543(c)][/us/usc/t50/s1543/c]\], the President shall report periodically to the Congress with respect to the situation in Lebanon, but in no event shall he report less often than once every three months. In addition to providing the information required by that section on the status, scope, and duration of hostilities involving United States Armed Forces, such reports shall describe in detail—
+> “Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[[50 U.S.C. 1544(b)][/us/usc/t50/s1544/b]\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
 
-    “(1) the activities being performed by the Multinational Force in Lebanon;
+>  __“reports to the congress__ 
 
-    “(2) the present composition of the Multinational Force in Lebanon, including a description of the responsibilities and deployment of the armed forces of each participating country;
+> “Sec. 4.
 
-    “(3) the results of efforts to reduce and eventually eliminate the Multinational Force in Lebanon;
+>  As required by section 4(c) of the War Powers Resolution \[[50 U.S.C. 1543(c)][/us/usc/t50/s1543/c]\], the President shall report periodically to the Congress with respect to the situation in Lebanon, but in no event shall he report less often than once every three months. In addition to providing the information required by that section on the status, scope, and duration of hostilities involving United States Armed Forces, such reports shall describe in detail—
 
-    “(4) how continued United States participation in the Multinational Force in Lebanon is advancing United States foreign policy interests in the Middle East; and
+>     “(1) the activities being performed by the Multinational Force in Lebanon;
 
-    “(5) what progress has occurred toward national political reconciliation among all Lebanese groups.
+>     “(2) the present composition of the Multinational Force in Lebanon, including a description of the responsibilities and deployment of the armed forces of each participating country;
 
- __“statements of policy__ 
+>     “(3) the results of efforts to reduce and eventually eliminate the Multinational Force in Lebanon;
 
-    “Sec. 5. (a) The Congress declares that the participation of the armed forces of other countries in the Multinational Force in Lebanon is essential to maintain the international character of the peacekeeping function in Lebanon.
+>     “(4) how continued United States participation in the Multinational Force in Lebanon is advancing United States foreign policy interests in the Middle East; and
 
-    “(b) The Congress believes that it should continue to be the policy of the United States to promote continuing discussions with Israel, Syria, and Lebanon with the objective of bringing about the withdrawal of all foreign troops from Lebanon and establishing an environment which will permit the Lebanese Armed Forces to carry out their responsibilities in the Beirut area.
+>     “(5) what progress has occurred toward national political reconciliation among all Lebanese groups.
 
-    “(c) It is the sense of the Congress that, not later than one year after the date of enactment of this joint resolution \[Oct. 12, 1983\] and at least once a year thereafter, the United States should discuss with the other members of the Security Council of the United Nations the establishment of a United Nations peacekeeping force to assume the responsibilities of the Multinational Force in Lebanon. An analysis of the implications of the response to such discussions for the continuation of the Multinational Force in Lebanon shall be included in the reports required under paragraph (3) of section 4 of this resolution.
+>  __“statements of policy__ 
 
- __“duration of authorization for united states participation in the multinational force in lebanon__ 
+> “Sec. 5.
 
-“Sec. 6. The participation of United States Armed Forces in the Multinational Force in Lebanon shall be authorized for purposes of the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\] until the end of the eighteen-month period beginning on the date of enactment of this resolution \[Oct. 12, 1983\] unless the Congress extends such authorization, except that such authorization shall terminate sooner upon the occurrence of any one of the following:
+>      (a) The Congress declares that the participation of the armed forces of other countries in the Multinational Force in Lebanon is essential to maintain the international character of the peacekeeping function in Lebanon.
+
+>     “(b) The Congress believes that it should continue to be the policy of the United States to promote continuing discussions with Israel, Syria, and Lebanon with the objective of bringing about the withdrawal of all foreign troops from Lebanon and establishing an environment which will permit the Lebanese Armed Forces to carry out their responsibilities in the Beirut area.
+
+>     “(c) It is the sense of the Congress that, not later than one year after the date of enactment of this joint resolution \[Oct. 12, 1983\] and at least once a year thereafter, the United States should discuss with the other members of the Security Council of the United Nations the establishment of a United Nations peacekeeping force to assume the responsibilities of the Multinational Force in Lebanon. An analysis of the implications of the response to such discussions for the continuation of the Multinational Force in Lebanon shall be included in the reports required under paragraph (3) of section 4 of this resolution.
+
+>  __“duration of authorization for united states participation in the multinational force in lebanon__ 
+
+> “Sec. 6.
+
+>  The participation of United States Armed Forces in the Multinational Force in Lebanon shall be authorized for purposes of the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\] until the end of the eighteen-month period beginning on the date of enactment of this resolution \[Oct. 12, 1983\] unless the Congress extends such authorization, except that such authorization shall terminate sooner upon the occurrence of any one of the following:
 
 >     “(1) the withdrawal of all foreign forces from Lebanon, unless the President determines and certifies to the Congress that continued United States Armed Forces participation in the Multinational Force in Lebanon is required after such withdrawal in order to accomplish the purposes specified in the September 25, 1982, exchange of letters providing for the establishment of the Multinational Force in Lebanon; or
 
@@ -573,21 +555,25 @@
 
 >     “(4) the withdrawal of all other countries from participation in the Multinational Force in Lebanon.
 
- __“interpretation of this resolution__ 
+>  __“interpretation of this resolution__ 
 
-    “Sec. 7. (a) Nothing in this joint resolution shall preclude the President from withdrawing United States Armed Forces participation in the Multinational Force in Lebanon if circumstances warrant, and nothing in this joint resolution shall preclude the Congress by joint resolution from directing such a withdrawal.
+> “Sec. 7.
 
-    “(b) Nothing in this joint resolution modifies, limits, or supersedes any provision of the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\] or the requirement of section 4(a) of the Lebanon Emergency Assistance Act of 1983, relating to congressional authorization for any substantial expansion in the number or role of United States Armed Forces in Lebanon.
+>      (a) Nothing in this joint resolution shall preclude the President from withdrawing United States Armed Forces participation in the Multinational Force in Lebanon if circumstances warrant, and nothing in this joint resolution shall preclude the Congress by joint resolution from directing such a withdrawal.
 
- __“congressional priority procedures for amendments__ 
+>     “(b) Nothing in this joint resolution modifies, limits, or supersedes any provision of the War Powers Resolution \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\] or the requirement of section 4(a) of the Lebanon Emergency Assistance Act of 1983, relating to congressional authorization for any substantial expansion in the number or role of United States Armed Forces in Lebanon.
 
-    “Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act shall be referred to the Committee on Foreign Affairs of the House of Representatives or the Committee on Foreign Relations of the Senate, as the case may be. Such joint resolution or bill shall be considered by such committee within fifteen calendar days and may be reported out, together with its recommendations, unless such House shall otherwise determine pursuant to its rules.
+>  __“congressional priority procedures for amendments__ 
 
-    “(b) Any joint resolution or bill so reported shall become the pending business of the House in question (in the case of the Senate the time for debate shall be equally divided between the proponents and the opponents) and shall be voted on within three calendar days thereafter, unless such House shall otherwise determine by the yeas and nays.
+> “Sec. 8.
 
-    “(c) Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by the yeas and nays.
+>      (a) Any joint resolution or bill introduced to amend or repeal this Act shall be referred to the Committee on Foreign Affairs of the House of Representatives or the Committee on Foreign Relations of the Senate, as the case may be. Such joint resolution or bill shall be considered by such committee within fifteen calendar days and may be reported out, together with its recommendations, unless such House shall otherwise determine pursuant to its rules.
 
-    “(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement.”
+>     “(b) Any joint resolution or bill so reported shall become the pending business of the House in question (in the case of the Senate the time for debate shall be equally divided between the proponents and the opponents) and shall be voted on within three calendar days thereafter, unless such House shall otherwise determine by the yeas and nays.
+
+>     “(c) Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by the yeas and nays.
+
+>     “(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement.”
 
  __Adherence to War Powers Resolution__ 
 

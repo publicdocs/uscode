@@ -15,7 +15,7 @@
 
 ## § 3164. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “authorized investigative agency” means an agency authorized by law or regulation to conduct a counterintelligence investigation or investigations of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information;
 

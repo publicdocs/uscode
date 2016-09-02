@@ -15,7 +15,7 @@
 
 ## § 2331. Procurement of detection equipment for United States border security
 
-Of the amount authorized to be appropriated by section 301, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  $15,000,000 is available for the procurement of—
+    Of the amount authorized to be appropriated by section 301, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  $15,000,000 is available for the procurement of—
 
     (1) equipment capable of detecting the movement of weapons of mass destruction and related materials into the United States;
 

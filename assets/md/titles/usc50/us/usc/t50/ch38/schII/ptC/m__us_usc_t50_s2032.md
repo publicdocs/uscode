@@ -219,11 +219,19 @@
 
 >             The entitlement of a former wife or husband to a survivor annuity under this subsection shall commence—
 
->                 “(i) in the case of a former wife or husband of a participant or retired participant who is deceased as of October 1, 1994, beginning on the later of—         “(I) the 60th day after such date; or
+>                 “(i)
+
+>                  in the case of a former wife or husband of a participant or retired participant who is deceased as of October 1, 1994, beginning on the later of—
+
+>                          “(I) the 60th day after such date; or
 
 >                          “(II) the date on which the former wife or husband reaches age 50; and
 
->                 “(ii) in the case of any other former wife or husband, beginning on the latest of—         “(I) the date on which the participant or retired participant to whom the former wife or husband was married dies;
+>                 “(ii)
+
+>                  in the case of any other former wife or husband, beginning on the latest of—
+
+>                          “(I) the date on which the participant or retired participant to whom the former wife or husband was married dies;
 
 >                          “(II) the 60th day after October 1, 1994; or
 
@@ -281,9 +289,15 @@
 
 >                 “(ii) __Definition of terms.—__ 
 
->                 For purposes of clause (i):         “(I) Apportionment.—The term ‘apportionment’ means a portion of a retired participant’s annuity payable to a former wife or husband either by the retired participant or the Government in accordance with the terms of a court order.
+>                 For purposes of clause (i):
 
->                          “(II) Court order.—The term ‘court order’ means any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
+>                          “(I) __Apportionment.—__ 
+
+>                     The term ‘apportionment’ means a portion of a retired participant’s annuity payable to a former wife or husband either by the retired participant or the Government in accordance with the terms of a court order.
+
+>                          “(II) __Court order.—__ 
+
+>                     The term ‘court order’ means any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
 
 >         “(2) __Limitations.—__ 
 
@@ -301,13 +315,21 @@
 
 >             The entitlement of a former wife or husband to an annuity under this subsection—
 
->                 “(i) shall commence on the later of—         “(I) October 1, 1994;
+>                 “(i)
+
+>                  shall commence on the later of—
+
+>                          “(I) October 1, 1994;
 
 >                          “(II) the day the participant upon whose service the right to the annuity is based becomes entitled to an annuity under such Act \[probably means Central Intelligence Agency Retirement Act, [50 U.S.C. 2001][/us/usc/t50/s2001] et seq.\]; or
 
 >                          “(III) such former wife’s or husband’s 50th birthday; and
 
->                 “(ii) shall terminate on the earlier of—         “(I) the last day of the month before the former wife or husband dies or remarries before 55 years of age, except that the entitlement of the former wife or husband to an annuity under this subsection shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
+>                 “(ii)
+
+>                  shall terminate on the earlier of—
+
+>                          “(I) the last day of the month before the former wife or husband dies or remarries before 55 years of age, except that the entitlement of the former wife or husband to an annuity under this subsection shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
 
 >                          “(II) the date on which the annuity of the participant terminates.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s731 to 739.md) | [Next](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s741.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs740)
+[Previous](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_ch22_schXI.md) | [Next](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s741.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs740)
 
 ## § 740. Omitted
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s731 to 739.md) | [Next](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s741.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs740)
+[Previous](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_ch22_schXI.md) | [Next](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s741.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs740)
 
 ----------
 ----------

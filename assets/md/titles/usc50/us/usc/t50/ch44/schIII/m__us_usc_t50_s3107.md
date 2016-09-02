@@ -15,7 +15,7 @@
 
 ## § 3107. Certification of compliance with oversight requirements
 
-The head of each element of the intelligence community shall annually submit to the congressional intelligence committees—
+    The head of each element of the intelligence community shall annually submit to the congressional intelligence committees—
 
     (1)
 

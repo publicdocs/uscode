@@ -15,7 +15,7 @@
 
 ## § 2363. Sense of Congress concerning assistance to states of former Soviet Union
 
-It is the sense of Congress that—
+    It is the sense of Congress that—
 
     (1) the Cooperative Threat Reduction programs and other United States programs authorized in title XIV of the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484][/us/pl/102/484]; [22 U.S.C. 5901][/us/usc/t22/s5901] et seq.) should be expanded by offering assistance under those programs to other independent states of the former Soviet Union in addition to Russia, Ukraine, Kazakstan, and Belarus; and
 

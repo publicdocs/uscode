@@ -525,7 +525,7 @@
 
 > “It is the sense of Congress that the Secretary of Defense, in consultation with the Secretary of State, should establish, with other nations that are anticipated to be signatories to an international agreement or treaty banning chemical weapons, a program under which consultation and exchange concerning chemical weapons disposal technology could be enhanced. Such a program shall be used to facilitate the exchange of technical information and advice concerning the disposal of chemical weapons among signatory nations and to further the development of safer, more cost-effective methods for the disposal of chemical weapons.”
 
- __“Low-Volume Site” Defined__ 
+“Low-Volume Site” Defined
 
     [Pub. L. 102–484, div. A, title I, § 180][/us/pl/102/484/s180], Oct. 23, 1992, [106 Stat. 2347][/us/stat/106/2347], which defined “low-volume site” for purposes of subtitle G (§§ 171–180) of title I of div. A of [Pub. L. 102–484][/us/pl/102/484], was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(2)][/us/pl/111/383/s1421/b/2], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 

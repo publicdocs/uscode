@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s171, 171–1.md) | [Next](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s171b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs171a)
+[Previous](./../../../..//us/usc/t50/ch11/m__us_usc_t50_ch11.md) | [Next](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s171b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs171a)
 
 ## § 171a. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s171, 171–1.md) | [Next](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s171b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs171a)
+[Previous](./../../../..//us/usc/t50/ch11/m__us_usc_t50_ch11.md) | [Next](./../../../..//us/usc/t50/ch11/m__us_usc_t50_s171b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs171a)
 
 ----------
 ----------

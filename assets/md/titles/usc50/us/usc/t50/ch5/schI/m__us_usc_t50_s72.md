@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s68 to 71.md) | [Next](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s73.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs72)
+[Previous](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s67.md) | [Next](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s73.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs72)
 
 ## § 72. Repealed. [May 1, 1937, ch. 146, § 5(i)][/us/act/1937-05-01/ch146/s5/i], [50 Stat. 126][/us/stat/50/126]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s68 to 71.md) | [Next](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s73.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs72)
+[Previous](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s67.md) | [Next](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s73.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs72)
 
 ----------
 ----------

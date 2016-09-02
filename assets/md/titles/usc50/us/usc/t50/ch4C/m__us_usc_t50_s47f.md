@@ -15,7 +15,7 @@
 
 ## § 47f. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) The term “atomic energy” means all forms of energy released in the course of nuclear fission or nuclear transformation.
 

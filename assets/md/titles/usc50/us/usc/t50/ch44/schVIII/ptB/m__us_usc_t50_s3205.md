@@ -15,7 +15,7 @@
 
 ## § 3205. Definitions
 
-In this part:
+    In this part:
 
     (1) The term “covered element of the intelligence community” means an agency, office, bureau, or element referred to in subparagraphs (B) through (L) of [section 3003(4) of this title][/us/usc/t50/s3003/4].
 

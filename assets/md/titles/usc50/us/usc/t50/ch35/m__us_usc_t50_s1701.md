@@ -441,7 +441,7 @@
 
 > “SEC. 11. __REPEAL OF REPORTING REQUIREMENT.__ 
 
->     “Section 6305 of the U.S. Troop Readiness, Veterans’ Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 ([Public Law 110–28][/us/pl/110/28]; [121 Stat. 172][/us/stat/121/172]) is repealed.
+> “Section 6305 of the U.S. Troop Readiness, Veterans’ Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 ([Public Law 110–28][/us/pl/110/28]; [121 Stat. 172][/us/stat/121/172]) is repealed.
 
 > “SEC. 12. __TERMINATION.__ 
 
@@ -1103,7 +1103,9 @@
 
 >     \[Amended [Pub. L. 108–61][/us/pl/108/61], set out below.\]
 
->     “(b) __Duration of Sanctions.—__ 
+>     “(b) __Duration of Sanctions.__ 
+
+>     —
 
 >         “(1) __Continuation of import sanctions.—__ 
 
@@ -1981,7 +1983,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(i) cease to import Sudanese oil; and
 
->                 “(ii) take the following actions against Sudanese Government and military officials and other individuals, who are planning, carrying out, or otherwise involved in the policy of genocide in the Darfur region, as well as their families, and businesses controlled by the Government of Sudan and the National Congress Party:         “(I) freeze the assets held by such individuals or businesses in each such member state; and
+>                 “(ii)
+
+>                  take the following actions against Sudanese Government and military officials and other individuals, who are planning, carrying out, or otherwise involved in the policy of genocide in the Darfur region, as well as their families, and businesses controlled by the Government of Sudan and the National Congress Party:
+
+>                          “(I) freeze the assets held by such individuals or businesses in each such member state; and
 
 >                          “(II) restrict the entry or transit of such officials through each such member state;
 
@@ -2441,9 +2447,9 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     The measures referred to in subsection (a) are the following:
 
->         “(1) __Executive order no. 12938 prohibitions.—__ 
+>         “(1) __Executive order no.__ 
 
->         The measures set forth in subsections (b) and (c) of section 4 of Executive Order No. 12938.
+>          12938 prohibitions.—The measures set forth in subsections (b) and (c) of section 4 of Executive Order No. 12938.
 
 >         “(2) __Arms export prohibition.—__ 
 
@@ -2619,9 +2625,9 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(D) any successor, subunit, or subsidiary of any entity described in subparagraph (A), (B), or (C), including any entity in which any entity described in any such subparagraph owns a controlling interest.
 
->     “(3) __Executive order no. 12938.—__ 
+>     “(3) __Executive order no.__ 
 
->     The term ‘Executive Order No. 12938’ means Executive Order No. 12938 \[listed in a table below\] as in effect on January 1, 1999.
+>      12938.—The term ‘Executive Order No. 12938’ means Executive Order No. 12938 \[listed in a table below\] as in effect on January 1, 1999.
 
 >     “(4) __Adherent to relevant nonproliferation regime.—__ 
 
@@ -2793,13 +2799,21 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                  certifies to the appropriate congressional committees that—
 
->                      “(I) the government with primary jurisdiction over the person is closely cooperating with the United States in multilateral efforts to prevent Iran from—
+>                          “(I)
 
->                     “(aa) acquiring or developing chemical, biological, or nuclear weapons or related technologies; or
+>                      the government with primary jurisdiction over the person is closely cooperating with the United States in multilateral efforts to prevent Iran from—
 
->                     “(bb) acquiring or developing destabilizing numbers and types of advanced conventional weapons; and         “(II) such a waiver is vital to the national security interests of the United States; and
+>                         “(aa) acquiring or developing chemical, biological, or nuclear weapons or related technologies; or
 
->                 “(ii) submits to the appropriate congressional committees a report identifying—         “(I) the person with respect to which the President waives the application of sanctions; and
+>                         “(bb) acquiring or developing destabilizing numbers and types of advanced conventional weapons; and
+
+>                          “(II) such a waiver is vital to the national security interests of the United States; and
+
+>                 “(ii)
+
+>                  submits to the appropriate congressional committees a report identifying—
+
+>                          “(I) the person with respect to which the President waives the application of sanctions; and
 
 >                          “(II) the actions taken by the government described in clause (i)(I) to cooperate in multilateral efforts described in that clause.
 
@@ -2811,11 +2825,9 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(B)
 
->                 (i)
+>                 (i) in the case of a waiver under subparagraph (A) of paragraph (1), for subsequent periods of not more than six months each; and
 
->                  in the case of a waiver under subparagraph (A) of paragraph (1), for subsequent periods of not more than six months each; and
-
->                     “(ii) in the case of a waiver under subparagraph (B) of paragraph (1), for subsequent periods of not more than 12 months each.
+>                 “(ii) in the case of a waiver under subparagraph (B) of paragraph (1), for subsequent periods of not more than 12 months each.
 
 >     “(d) __Interim Report on Multilateral Sanctions; Monitoring.—__ 
 
@@ -2887,11 +2899,19 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             Except as provided in subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\]—
 
->                 “(i) sells or provides to Iran refined petroleum products—         “(I) that have a fair market value of $1,000,000 or more; or
+>                 “(i)
+
+>                  sells or provides to Iran refined petroleum products—
+
+>                          “(I) that have a fair market value of $1,000,000 or more; or
 
 >                          “(II) that, during a 12-month period, have an aggregate fair market value of $5,000,000 or more; or
 
->                 “(ii) sells, leases, or provides to Iran goods, services, technology, information, or support described in subparagraph (B)—         “(I) any of which has a fair market value of $1,000,000 or more; or
+>                 “(ii)
+
+>                  sells, leases, or provides to Iran goods, services, technology, information, or support described in subparagraph (B)—
+
+>                          “(I) any of which has a fair market value of $1,000,000 or more; or
 
 >                          “(II) that, during a 12-month period, have an aggregate fair market value of $5,000,000 or more.
 
@@ -2995,7 +3015,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(i) permitting the operator of the vessel to suspend the operation of the vessel’s satellite tracking device; or
 
->                 “(ii) obscuring or concealing the ownership, operation, or control of the vessel by—         “(I) the Government of Iran;
+>                 “(ii)
+
+>                  obscuring or concealing the ownership, operation, or control of the vessel by—
+
+>                          “(I) the Government of Iran;
 
 >                          “(II) the National Iranian Tanker Company or the Islamic Republic of Iran Shipping Lines; or
 
@@ -3039,7 +3063,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(i) the export, transfer, or transshipment of the goods, services, technology, or other items would likely result in another person exporting, transferring, transshipping, or otherwise providing the goods, services, technology, or other items to Iran; and
 
->                 “(ii) the export, transfer, transshipment, or other provision of the goods, services, technology, or other items to Iran would contribute materially to the ability of Iran to—         “(I) acquire or develop chemical, biological, or nuclear weapons or related technologies; or
+>                 “(ii)
+
+>                  the export, transfer, transshipment, or other provision of the goods, services, technology, or other items to Iran would contribute materially to the ability of Iran to—
+
+>                          “(I) acquire or develop chemical, biological, or nuclear weapons or related technologies; or
 
 >                          “(II) acquire or develop destabilizing numbers and types of advanced conventional weapons.
 
@@ -3053,7 +3081,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                     (I) established on or after February 2, 2012; and
 
->                     “(II) with—         “(aa) the Government of Iran;
+>                     “(II)
+
+>                      with—
+
+>                              “(aa) the Government of Iran;
 
 >                              “(bb) an entity incorporated in Iran or subject to the jurisdiction of the Government of Iran; or
 
@@ -3065,7 +3097,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                     “(II) with the Government of Iran, an entity described in item (bb) of clause (i)(II), or a person described in item (cc) of that clause; and
 
->                     “(III) through which—         “(aa) uranium is transferred directly to Iran or indirectly to Iran through a third country;
+>                     “(III)
+
+>                      through which—
+
+>                              “(aa) uranium is transferred directly to Iran or indirectly to Iran through a third country;
 
 >                              “(bb) the Government of Iran receives significant revenue; or
 
@@ -3297,7 +3333,9 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             The revisions to the Federal Acquisition Regulation required under paragraph (1)(A) shall apply with respect to contracts for which solicitations are issued on or after the date that is 90 days after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[July 1, 2010\].
 
->             “(B) __Certifications relating to transactions with iran’s revolutionary guard corps.—The revisions to the Federal Acquisition Regulation required under paragraph (1)(B) shall apply with respect to contracts for which solicitations are issued on or after the date that is 120 days after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[__  __Aug. 10, 2012__  __\].__ 
+>             “(B) __Certifications relating to transactions with iran’s revolutionary guard corps.—__ 
+
+>             The revisions to the Federal Acquisition Regulation required under paragraph (1)(B) shall apply with respect to contracts for which solicitations are issued on or after the date that is 120 days after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\].
 
 > “SEC. 7. __ADVISORY OPINIONS.__ 
 
@@ -3379,7 +3417,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(i) develop petroleum resources, produce refined petroleum products, or import refined petroleum products; or
 
->                 “(ii) acquire or develop—         “(I) chemical, biological, or nuclear weapons or related technologies; or
+>                 “(ii)
+
+>                  acquire or develop—
+
+>                          “(I) chemical, biological, or nuclear weapons or related technologies; or
 
 >                          “(II) destabilizing numbers and types of advanced conventional weapons; and
 
@@ -3495,7 +3537,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(i) an announcement by the Government of Iran that the person has engaged in such an activity; or
 
->             “(ii) information indicating that the person has engaged in such an activity that is set forth in—         “(I) a report of the Government Accountability Office, the Energy Information Administration, or the Congressional Research Service; or
+>             “(ii)
+
+>              information indicating that the person has engaged in such an activity that is set forth in—
+
+>                      “(I) a report of the Government Accountability Office, the Energy Information Administration, or the Congressional Research Service; or
 
 >                      “(II) a report or publication of a similarly reputable governmental organization or trade or industry organization.
 

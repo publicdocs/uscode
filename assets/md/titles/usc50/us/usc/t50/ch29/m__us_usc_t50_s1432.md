@@ -15,7 +15,7 @@
 
 ## § 1432. Restrictions
 
-Nothing in this chapter shall be construed to constitute authorization hereunder for—
+    Nothing in this chapter shall be construed to constitute authorization hereunder for—
 
     (a) the use of the cost-plus-a-percentage-of-cost system of contracting;
 

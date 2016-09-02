@@ -49,13 +49,19 @@
 
         The Secretary may store, transport, and sell helium only in accordance with this chapter.
 
-([Mar. 3, 1925, ch. 426, § 3][/us/act/1925-03-03/ch426/s3], as added [Pub. L. 86–777, § 2][/us/pl/86/777/s2], Sept. 13, 1960, [74 Stat. 918][/us/stat/74/918]; amended [Pub. L. 104–273, § 3][/us/pl/104/273/s3], Oct. 9, 1996, [110 Stat. 3315][/us/stat/110/3315].)
+    (c) __Extraction of helium from deposits on Federal land__ 
+
+        All amounts received by the Secretary from the sale or disposition of helium on Federal land shall be credited to the Helium Production Fund established under [section 167d(e) of this title][/us/usc/t50/s167d/e].
+
+([Mar. 3, 1925, ch. 426, § 3][/us/act/1925-03-03/ch426/s3], as added [Pub. L. 86–777, § 2][/us/pl/86/777/s2], Sept. 13, 1960, [74 Stat. 918][/us/stat/74/918]; amended [Pub. L. 104–273, § 3][/us/pl/104/273/s3], Oct. 9, 1996, [110 Stat. 3315][/us/stat/110/3315]; [Pub. L. 113–40, § 3][/us/pl/113/40/s3], Oct. 2, 2013, [127 Stat. 535][/us/stat/127/535].)
 
  __Prior Provisions__ 
 
     A prior section 3 of act Mar. 3, 1925, related to disposal of helium by sale, use of funds so obtained, and reports to Congress on such uses and was classified to [section 164 of this title][/us/usc/t50/s164], prior to the general amendment of this chapter by [Pub. L. 86–777][/us/pl/86/777].
 
  __Amendments__ 
+
+    2013—Subsec. (c). [Pub. L. 113–40][/us/pl/113/40] added subsec. (c).
 
     1996—[Pub. L. 104–273][/us/pl/104/273] amended section generally. Prior to amendment, section enumerated various aspects of Secretary’s authority, including provisions in subsec. (a) relating to conserving, producing, buying, and selling helium, in subsec. (b) relating to helium on public domain, and in subsec. (c) relating to contract price for helium.
 
@@ -66,13 +72,17 @@
 ----------
 ----------
 
+[/us/usc/t50/s167d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d%2Fe
 [/us/act/1925-03-03/ch426/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs3
 [/us/pl/86/777/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777%2Fs2
 [/us/stat/74/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F918
 [/us/pl/104/273/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273%2Fs3
 [/us/stat/110/3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3315
+[/us/pl/113/40/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs3
+[/us/stat/127/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F535
 [/us/usc/t50/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs164
 [/us/pl/86/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/pl/104/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273
 
 

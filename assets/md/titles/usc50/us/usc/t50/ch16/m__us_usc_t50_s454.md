@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s451 to 453.md) | [Next](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s455.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs454)
+[Previous](./../../../..//us/usc/t50/ch16/m__us_usc_t50_ch16.md) | [Next](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s455.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs454)
 
 ## § 454. Repealed. [Pub. L. 101–510, div. A, title XIII, § 1303(a)][/us/pl/101/510/s1303/a], Nov. 5, 1990, [104 Stat. 1669][/us/stat/104/1669]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s451 to 453.md) | [Next](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s455.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs454)
+[Previous](./../../../..//us/usc/t50/ch16/m__us_usc_t50_ch16.md) | [Next](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s455.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs454)
 
 ----------
 ----------

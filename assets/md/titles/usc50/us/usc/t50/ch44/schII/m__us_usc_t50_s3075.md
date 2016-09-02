@@ -23,7 +23,7 @@
 
  __Partial Repeal__ 
 
-[Pub. L. 87–651, title III, § 307][/us/pl/87/651/s307], Sept. 7, 1962, [76 Stat. 526][/us/stat/76/526], repealed subsection (a) of this section less its applicability to sections 3002, 3021, 3023, 3042, and 3073 of this title.
+    [Pub. L. 87–651, title III, § 307][/us/pl/87/651/s307], Sept. 7, 1962, [76 Stat. 526][/us/stat/76/526], repealed subsection (a) of this section less its applicability to sections 3002, 3021, 3023, 3042, and 3073 of this title.
 
  __References in Text__ 
 

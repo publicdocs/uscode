@@ -15,7 +15,7 @@
 
 ## § 2354. Termination
 
-After September 30, 1999, the President—
+    After September 30, 1999, the President—
 
     (1) is not required to maintain a National Coordinator for Nonproliferation Matters under [section 2351 of this title][/us/usc/t50/s2351]; and
 

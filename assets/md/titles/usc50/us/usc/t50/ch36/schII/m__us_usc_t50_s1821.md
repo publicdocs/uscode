@@ -15,7 +15,7 @@
 
 ## § 1821. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1) The terms “foreign power”, “agent of a foreign power”, “international terrorism”, “sabotage”, “foreign intelligence information”, “Attorney General”, “United States person”, “United States”, “person”, “weapon of mass destruction”, and “State” shall have the same meanings as in [section 1801 of this title][/us/usc/t50/s1801], except as specifically provided by this subchapter.
 

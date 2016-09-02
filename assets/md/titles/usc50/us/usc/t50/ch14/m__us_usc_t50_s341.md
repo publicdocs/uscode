@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch14/m__us_usc_t50_s332 to 340.md) | [Next](./../../../..//us/usc/t50/ch14/m__us_usc_t50_s342.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs341)
+[Previous](./../../../..//us/usc/t50/ch14/m__us_usc_t50_ch14.md) | [Next](./../../../..//us/usc/t50/ch14/m__us_usc_t50_s342.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs341)
 
 ## § 341. Repealed. [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title III, § 307, [69 Stat. 589][/us/stat/69/589]
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch14/m__us_usc_t50_s332 to 340.md) | [Next](./../../../..//us/usc/t50/ch14/m__us_usc_t50_s342.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs341)
+[Previous](./../../../..//us/usc/t50/ch14/m__us_usc_t50_ch14.md) | [Next](./../../../..//us/usc/t50/ch14/m__us_usc_t50_s342.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs341)
 
 ----------
 ----------

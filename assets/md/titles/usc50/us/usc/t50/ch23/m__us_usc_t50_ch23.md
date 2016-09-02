@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch22A/m__us_usc_t50_s751 to 755.md) | [Next](./../../../..//us/usc/t50/ch23/schI/m__us_usc_t50_ch23_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch23)
+[Previous](./../../../..//us/usc/t50/ch22A/m__us_usc_t50_ch22A.md) | [Next](./../../../..//us/usc/t50/ch23/schI/m__us_usc_t50_ch23_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch23)
 
 ## CHAPTER 23—INTERNAL SECURITY
 
@@ -255,15 +255,21 @@ SUBCHAPTER V—REGISTRATION OF CERTAIN PERSONS TRAINED IN FOREIGN ESPIONAGE SYST
 
   </tr>
 
-</table>
+  <tr>
 
- __Application to Communist Party Members__ 
+    <td> 
+
+Application to Communist Party Members  </td>
+
+  </tr>
+
+</table>
 
     Application of subchapters I and II of this chapter and other provisions of the Internal Security Act of 1950, as amended, to members of the Communist Party and other subversive organizations, see [section 843 of this title][/us/usc/t50/s843], and References in Text note set out under that section.
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch22A/m__us_usc_t50_s751 to 755.md) | [Next](./../../../..//us/usc/t50/ch23/schI/m__us_usc_t50_ch23_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch23)
+[Previous](./../../../..//us/usc/t50/ch22A/m__us_usc_t50_ch22A.md) | [Next](./../../../..//us/usc/t50/ch23/schI/m__us_usc_t50_ch23_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch23)
 
 ----------
 ----------

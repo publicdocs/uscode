@@ -15,7 +15,7 @@
 
 ## § 2901. Findings
 
-The 9/11 Commission has made the following recommendations:
+    The 9/11 Commission has made the following recommendations:
 
     (1) __Strengthen “counter-proliferation” efforts__ 
 

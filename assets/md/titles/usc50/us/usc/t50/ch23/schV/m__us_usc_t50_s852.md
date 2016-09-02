@@ -15,7 +15,7 @@
 
 ## § 852. Exemption from registration
 
-The registration requirements of [section 851 of this title][/us/usc/t50/s851] do not apply to any person—
+    The registration requirements of [section 851 of this title][/us/usc/t50/s851] do not apply to any person—
 
     (a) who has obtained knowledge of or received instruction or assignment in the espionage, counter-espionage, or sabotage service or tactics of a foreign government or foreign political party by reason of civilian, military, or police service or employment with the United States Government, the governments of the several States, their political subdivisions, the District of Columbia, the Territories, or the Canal Zone;
 

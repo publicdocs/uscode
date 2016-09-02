@@ -15,7 +15,7 @@
 
 ## § 1908. Definitions
 
-For the purpose of this chapter:
+    For the purpose of this chapter:
 
     (1) The term “Board” means the National Security Education Board established pursuant to [section 1903 of this title][/us/usc/t50/s1903].
 

@@ -175,9 +175,9 @@
 
 >         The report under paragraph (1) may be submitted in unclassified form and may include a classified annex.
 
->     “(d) __Report on Coordination With Other U.S. Nonproliferation Programs.—__ 
+>     “(d) __Report on Coordination With Other U.__ 
 
->     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Administrator shall submit to the appropriate congressional committees a report describing the manner in which the program under subsection (a) coordinates with and complements, but does not duplicate, other nonproliferation programs of the Federal Government.
+>     S. Nonproliferation Programs.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Administrator shall submit to the appropriate congressional committees a report describing the manner in which the program under subsection (a) coordinates with and complements, but does not duplicate, other nonproliferation programs of the Federal Government.
 
 >     “(e) __Comptroller General Report.—__ 
 

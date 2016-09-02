@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805a to 1805c.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1807.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1807.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806)
 
 ## § 1806. Use of information
 
@@ -125,7 +125,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805a to 1805c.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1807.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1807.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806)
 
 ----------
 ----------

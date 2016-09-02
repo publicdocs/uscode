@@ -15,7 +15,7 @@
 
 ## § 2362. Transfers of allocations among cooperative threat reduction programs
 
-Congress finds that—
+    Congress finds that—
 
     (1) the various Cooperative Threat Reduction programs are being carried out at different rates in the various countries covered by such programs; and
 

@@ -75,7 +75,7 @@
 
  __Amendment of Subsection (a)(1)__ 
 
-[Pub. L. 110–261, title IV, § 403(b)(2)][/us/pl/110/261/s403/b/2], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238, § 2(a)(2)][/us/pl/112/238/s2/a/2], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a note under [section 1801 of this title][/us/usc/t50/s1801], effective Dec. 31, 2017, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008.
+    [Pub. L. 110–261, title IV, § 403(b)(2)][/us/pl/110/261/s403/b/2], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238, § 2(a)(2)][/us/pl/112/238/s2/a/2], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a note under [section 1801 of this title][/us/usc/t50/s1801], effective Dec. 31, 2017, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008.
 
  __References in Text__ 
 

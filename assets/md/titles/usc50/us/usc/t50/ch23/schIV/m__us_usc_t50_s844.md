@@ -15,7 +15,7 @@
 
 ## § 844. Determination by jury of membership in Communist Party, participation, or knowledge of purpose
 
-In determining membership or participation in the Communist Party or any other organization defined in this Act, or knowledge of the purpose or objective of such party or organization, the jury, under instructions from the court, shall consider evidence, if presented, as to whether the accused person:
+    In determining membership or participation in the Communist Party or any other organization defined in this Act, or knowledge of the purpose or objective of such party or organization, the jury, under instructions from the court, shall consider evidence, if presented, as to whether the accused person:
 
     (1) Has been listed to his knowledge as a member in any book or any of the lists, records, correspondence, or any other document of the organization;
 

@@ -15,7 +15,7 @@
 
 ## § 2361. Sense of Congress concerning contracting policy
 
-It is the sense of Congress that the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, and the Secretary of State, to the extent authorized by law, should—
+    It is the sense of Congress that the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, and the Secretary of State, to the extent authorized by law, should—
 
     (1)
 

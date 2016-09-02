@@ -15,7 +15,7 @@
 
 ## § 2204. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “appropriate congressional committees” means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, or, where required by law for certain reporting purposes, the Select Committee on Intelligence of the Senate and the Select  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “Permanent”. </sup></sup>  Committee on Intelligence of the House of Representatives;
 

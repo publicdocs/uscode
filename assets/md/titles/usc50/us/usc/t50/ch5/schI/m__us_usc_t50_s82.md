@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s74 to 81.md) | [Next](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s83 to 85.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82)
+[Previous](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s73.md) | [Next](./../../../../..//us/usc/t50/ch5/schII/m__us_usc_t50_ch5_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82)
 
 ## § 82. Procurement of ships and material during war
 
@@ -105,9 +105,29 @@
 
     Sec. 105. Judicial Review. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
+§§ 83 to 85. __Repealed.__  __[__  __Aug. 10, 1956, ch. 1041, § 53__  __][/us/act/1956-08-10/ch1041/s53]__  __,__  __[__  __70A Stat. 641__  __][/us/stat/70A/641]__ 
+
+    Section 83, [act May 29, 1928, ch. 853, § 1][/us/act/1928-05-29/ch853/s1], [45 Stat. 928][/us/stat/45/928], related to ammunition for use of Army and Navy, storage and dispersal, control by a joint board of officers. See [section 172 of Title 10][/us/usc/t10/s172], Armed Forces.
+
+    Section 84, [act Mar. 3, 1875, ch. 133, § 1][/us/act/1875-03-03/ch133/s1], [18 Stat. 455][/us/stat/18/455], related to expenditure at armories for perfection of patentable inventions.
+
+    Section 85, [act Mar. 3, 1921, ch. 128, § 6][/us/act/1921-03-03/ch128/s6], [41 Stat. 1352][/us/stat/41/1352], authorized Secretary of War to proceed with installation of guns and howitzers.
+
+§§ 86 to 88. __Omitted__ 
+
+ __Codification__ 
+
+    Sections 86 to 88, [act Feb. 15, 1936, ch. 74][/us/act/1936-02-15/ch74], §§ 1–3, [49 Stat. 1140][/us/stat/49/1140], related to conservation of domestic sources of tin, and were superseded by the Export Control Act of 1949 (former sections 2021 to 2032 of the Appendix to this title) pursuant to section 10 of that Act (former section 2030 of the Appendix to this title). The act of Feb. 15, 1936 was subsequently superseded by the Export Administration Act of 1969 (former sections 2401 to 2413 of the Appendix to this title) pursuant to section 12 of that Act (former section 2411 of the Appendix to this title). See, also, the Export Administration Act of 1979, which is classified to section 2401 of the Appendix to this title.
+
+    Section 86, [act Feb. 15, 1936, ch. 74, § 1][/us/act/1936-02-15/ch74/s1], [49 Stat. 1140][/us/stat/49/1140], related to conservation of domestic resources of tin.
+
+    Section 87, [act Feb. 15, 1936, ch. 74, § 2][/us/act/1936-02-15/ch74/s2], [49 Stat. 1140][/us/stat/49/1140], related to prohibition of exportation except on license.
+
+    Section 88, [act Feb. 15, 1936, ch. 74, § 3][/us/act/1936-02-15/ch74/s3], [49 Stat. 1140][/us/stat/49/1140], related to penalties for violations of sections 86 and 87 of this title.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s74 to 81.md) | [Next](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s83 to 85.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82)
+[Previous](./../../../../..//us/usc/t50/ch5/schI/m__us_usc_t50_s73.md) | [Next](./../../../../..//us/usc/t50/ch5/schII/m__us_usc_t50_ch5_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82)
 
 ----------
 ----------
@@ -133,5 +153,22 @@
 [/us/usc/t50/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82
 [/us/usc/t10/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4501
 [/us/usc/t50/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82
+[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
+[/us/act/1928-05-29/ch853/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch853%2Fs1
+[/us/stat/45/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F928
+[/us/usc/t10/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs172
+[/us/act/1875-03-03/ch133/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch133%2Fs1
+[/us/stat/18/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F455
+[/us/act/1921-03-03/ch128/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-03%2Fch128%2Fs6
+[/us/stat/41/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1352
+[/us/act/1936-02-15/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-15%2Fch74
+[/us/stat/49/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1140
+[/us/act/1936-02-15/ch74/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-15%2Fch74%2Fs1
+[/us/stat/49/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1140
+[/us/act/1936-02-15/ch74/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-15%2Fch74%2Fs2
+[/us/stat/49/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1140
+[/us/act/1936-02-15/ch74/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-15%2Fch74%2Fs3
+[/us/stat/49/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1140
 
 

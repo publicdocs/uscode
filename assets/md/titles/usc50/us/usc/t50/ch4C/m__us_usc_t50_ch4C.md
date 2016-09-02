@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch4B/m__us_usc_t50_s46 to 46b.md) | [Next](./../../../..//us/usc/t50/ch4C/m__us_usc_t50_s47a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch4C)
+[Previous](./../../../..//us/usc/t50/ch4B/m__us_usc_t50_ch4B.md) | [Next](./../../../..//us/usc/t50/ch4C/m__us_usc_t50_s47a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch4C)
 
 ## CHAPTER 4C—ATOMIC WEAPONS AND SPECIAL NUCLEAR MATERIALS INFORMATION REWARDS
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch4B/m__us_usc_t50_s46 to 46b.md) | [Next](./../../../..//us/usc/t50/ch4C/m__us_usc_t50_s47a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch4C)
+[Previous](./../../../..//us/usc/t50/ch4B/m__us_usc_t50_ch4B.md) | [Next](./../../../..//us/usc/t50/ch4C/m__us_usc_t50_s47a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch4C)
 
 ----------
 ----------

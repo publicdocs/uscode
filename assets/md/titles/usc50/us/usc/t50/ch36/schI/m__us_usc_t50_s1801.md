@@ -15,7 +15,7 @@
 
 ## § 1801. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (a)
 
@@ -165,7 +165,7 @@ As used in this subchapter:
 
  __Amendment of Section__ 
 
-For termination of amendment by [Pub. L. 108–458][/us/pl/108/458], see Termination Date of 2004 Amendment note below.
+    For termination of amendment by [Pub. L. 108–458][/us/pl/108/458], see Termination Date of 2004 Amendment note below.
 
  __Amendments__ 
 
@@ -339,7 +339,7 @@ For termination of amendment by [Pub. L. 108–458][/us/pl/108/458], see Termina
 
 >     “(b) __Transition Procedures for FISA Amendments Act of 2008 Provisions.—__ 
 
->         “(1) __Orders in effect on december 31, 2017.—__ 
+>         “(1) __Orders in effect on__  __december 31, 2017__  __.—__ 
 
 >         Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 \[[50 U.S.C. 1881][/us/usc/t50/s1881] et seq.\], as amended by section 101(a), shall continue in effect until the date of the expiration of such order, authorization, or directive.
 

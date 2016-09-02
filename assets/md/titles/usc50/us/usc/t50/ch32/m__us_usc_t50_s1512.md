@@ -15,7 +15,7 @@
 
 ## § 1512. Transportation, open air testing, and disposal; Presidential determination; report to Congress; notice to Congress and State Governors
 
-None of the funds authorized to be appropriated by this Act or any other Act may be used for the transportation of any lethal chemical or any biological warfare agent to or from any military installation in the United States, or the open air testing of any such agent within the United States, or the disposal of any such agent within the United States until the following procedures have been implemented:
+    None of the funds authorized to be appropriated by this Act or any other Act may be used for the transportation of any lethal chemical or any biological warfare agent to or from any military installation in the United States, or the open air testing of any such agent within the United States, or the disposal of any such agent within the United States until the following procedures have been implemented:
 
     (1) the Secretary of Defense (hereafter referred to in this chapter as the “Secretary”) has determined that the transportation or testing proposed to be made is necessary in the interests of national security;
 

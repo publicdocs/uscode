@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s161 to 164.md) | [Next](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s166.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs165)
+[Previous](./../../../..//us/usc/t50/ch10/m__us_usc_t50_ch10.md) | [Next](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s166.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs165)
 
 ## § 165. Repealed. [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 542(a)(13), [68 Stat. 861][/us/stat/68/861]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s161 to 164.md) | [Next](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s166.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs165)
+[Previous](./../../../..//us/usc/t50/ch10/m__us_usc_t50_ch10.md) | [Next](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s166.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs165)
 
 ----------
 ----------

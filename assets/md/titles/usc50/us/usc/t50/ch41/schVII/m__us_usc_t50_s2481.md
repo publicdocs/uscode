@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_ch41_schVII.md) | [Next](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_s2482, 2483.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2481)
+[Previous](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_ch41_schVII.md) | [Next](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_s2484.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2481)
 
 ## § 2481. Functions transferred
 
@@ -75,9 +75,15 @@
 
     For transfer of functions, personnel, assets, and liabilities of the advanced scientific computing research program and activities at Lawrence Livermore National Laboratory, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, see sections 183(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+§§ 2482, 2483. __Repealed.__  __[__  __Pub. L. 112–239, div. C, title XXXI, § 3132(c)(1)(B)__  __][/us/pl/112/239/s3132/c/1/B]__  __, (C),__  __Jan. 2, 2013__  __,__  __[__  __126 Stat. 2186__  __][/us/stat/126/2186]__  __, 2187__ 
+
+    Section 2482, [Pub. L. 106–65, div. C, title XXXII, § 3292][/us/pl/106/65/s3292], Oct. 5, 1999, [113 Stat. 969][/us/stat/113/969], related to transfer of funds and employees.
+
+    Section 2483, [Pub. L. 106–65, div. C, title XXXII, § 3295][/us/pl/106/65/s3295], Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970], related to transition provisions.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_ch41_schVII.md) | [Next](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_s2482, 2483.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2481)
+[Previous](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_ch41_schVII.md) | [Next](./../../../../..//us/usc/t50/ch41/schVII/m__us_usc_t50_s2484.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2481)
 
 ----------
 ----------
@@ -92,5 +98,11 @@
 [/us/stat/126/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2186
 [/us/usc/t50/s2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2481
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/112/239/s3132/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fc%2F1%2FB
+[/us/stat/126/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2186
+[/us/pl/106/65/s3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3292
+[/us/stat/113/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F969
+[/us/pl/106/65/s3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3295
+[/us/stat/113/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F970
 
 

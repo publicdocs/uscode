@@ -15,7 +15,7 @@
 
 ## § 2205. Construction
 
-Nothing in this chapter shall apply to—
+    Nothing in this chapter shall apply to—
 
     (1) the abandonment or failure to take possession of spoils of war by troops in the field for valid military reasons related to the conduct of the immediate conflict, including the burden of transporting such property or a decision to allow allied forces to take immediate possession of certain property solely for use during an ongoing conflict;
 
