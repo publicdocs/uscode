@@ -33,7 +33,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
     1. The Secretary of the Interior is hereby designated and empowered to perform the following-described functions of the President without the approval, ratification, or other action of the President:
 
-    (a) The authority vested in the President by [section 1 of the act of July 10, 1935, ch. 375][/us/act/1935-07-10/ch375/s1], [49 Stat. 477][/us/stat/49/477] \[see [16 U.S.C. 19e][/us/usc/t16/s19e] to 19n\], to appoint members of the National Park Trust Fund Board.
+    (a) The authority vested in the President by [section 1 of the act of July 10, 1935, ch. 375][/us/act/1935-07-10/ch375/s1], [49 Stat. 477][/us/stat/49/477] \[see [54 U.S.C. 101111][/us/usc/t54/s101111] et seq.\], to appoint members of the National Park Trust Fund Board.
 
     (b) The authority vested in the President by section 2059 of the Revised Statutes \[[25 U.S.C. 62][/us/usc/t25/s62]\] to discontinue any Indian agency, or transfer the same, from the place or tribe designated by law to such other place or tribe as the public service may require.
 
@@ -869,7 +869,7 @@ Section 1. The Secretary of Defense is designated to perform, without approval, 
 
     17. Report on U.S. Participation in the United Nations, consistent with [section 4 of Public Law 79–264][/us/pl/79/264/s4], as amended ([22 U.S.C. 287b][/us/usc/t22/s287b]); and
 
-    18. Report on Russian Proliferation to Iran and Other Countries of Proliferation Concern, consistent with [section 1206 of Public Law 107–314][/us/pl/107/314/s1206] ([22 U.S.C. 5952][/us/usc/t22/s5952] note).
+    18. Report on Russian Proliferation to Iran and Other Countries of Proliferation Concern, consistent with [section 1206 of Public Law 107–314][/us/pl/107/314/s1206] (\[former\] [22 U.S.C. 5952][/us/usc/t22/s5952] note).
 
     (b) The Secretary of the Treasury shall submit the following reports:
 
@@ -1131,7 +1131,7 @@ Sec. 6. In carrying out sections 1 and 2 of this order, officers of the United S
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/act/1935-07-10/ch375/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-10%2Fch375%2Fs1
 [/us/stat/49/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F477
-[/us/usc/t16/s19e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs19e
+[/us/usc/t54/s101111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101111
 [/us/usc/t25/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs62
 [/us/act/1882-05-17/ch168/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-17%2Fch168%2Fs6
 [/us/stat/22/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F88
