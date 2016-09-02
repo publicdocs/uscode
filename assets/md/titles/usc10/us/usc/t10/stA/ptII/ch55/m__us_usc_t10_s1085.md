@@ -89,6 +89,40 @@ June 7, 1956, ch. 374, § 301(d), 70 Stat. 253.  </td>
 
     Authority of President under this section to establish uniform rates of reimbursement for inpatient medical or dental care delegated to Secretary of Health and Human Services in respect of such care in a facility under his jurisdiction and to Secretary of Defense in respect of such care in a facility of an armed force under jurisdiction of a military department, see section 6 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3][/us/usc/t3/s301], The President.
 
+ __Transfer of Funds Necessary To Provide Medical Care__ 
+
+[Pub. L. 114–120, title II][/us/pl/114/120/tII], § 217, Feb. 8, 2016, [130 Stat. 46][/us/stat/130/46], provided that:
+
+>     “(a)  __Transfer Required__  __.—__ 
+
+>     In lieu of the reimbursement required under [section 1085 of title 10][/us/usc/t10/s1085], United States Code, the Secretary of Homeland Security shall transfer to the Secretary of Defense an amount that represents the actuarial valuation of treatment or care—
+
+>         “(1) that the Department of Defense shall provide to members of the Coast Guard, former members of the Coast Guard, and dependents of such members and former members (other than former members and dependents of former members who are a Medicare-eligible beneficiary or for whom the payment for treatment or care is made from the Medicare-Eligible Retiree Health Care Fund) at facilities under the jurisdiction of the Department of Defense or a military department; and
+
+>         “(2) for which a reimbursement would otherwise be made under section 1085.
+
+>     “(b)  __Amount__  __.—__ 
+
+>     The amount transferred under subsection (a) shall be—
+
+>         “(1) in the case of treatment or care to be provided to members of the Coast Guard and their dependents, derived from amounts appropriated for the operating expenses of the Coast Guard;
+
+>         “(2) in the case of treatment or care to be provided former members of the Coast Guard and their dependents, derived from amounts appropriated for retired pay;
+
+>         “(3) determined under procedures established by the Secretary of Defense;
+
+>         “(4) transferred during the fiscal year in which treatment or care is provided; and
+
+>         “(5) subject to adjustment or reconciliation as the Secretaries determine appropriate during or promptly after such fiscal year in cases in which the amount transferred is determined excessive or insufficient based on the services actually provided.
+
+>     “(c)  __No Transfer When Service in Navy__  __.—__ 
+
+>     No transfer shall be made under this section for any period during which the Coast Guard operates as a service in the Navy.
+
+>     “(d)  __Relationship to TRICARE__  __.—__ 
+
+>     This section shall not be construed to require a payment for, or the transfer of an amount that represents the value of, treatment or care provided under any TRICARE program.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1084.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1086.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1085)
@@ -121,5 +155,8 @@ June 7, 1956, ch. 374, § 301(d), 70 Stat. 253.  </td>
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F46
+[/us/usc/t10/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1085
 
 

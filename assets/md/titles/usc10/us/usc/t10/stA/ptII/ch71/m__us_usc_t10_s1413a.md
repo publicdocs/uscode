@@ -161,6 +161,42 @@
 
 > “[Section 1413a of title 10][/us/usc/t10/s1413a], United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
 
+ __Clarification of Eligibility of Members of the Coast Guard for Combat-Related Special Compensation__ 
+
+[Pub. L. 114–120, title II][/us/pl/114/120/tII], § 221, Feb. 8, 2016, [130 Stat. 48][/us/stat/130/48], provided that:
+
+>     “(a) __Consideration of Eligibility.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 90 days after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department is \[sic\] which the Coast Guard is operating shall issue procedures and criteria to use in determining whether the disability of a member of the Coast Guard is a combat-related disability for purposes of the eligibility of such member for combat-related special compensation under [section 1413a of title 10][/us/usc/t10/s1413a], United States Code. Such procedures and criteria shall include the procedures and criteria prescribed by the Secretary of Defense pursuant to subsection (e)(2) of such section. Such procedures and criteria shall apply in determining whether the disability of a member of the Coast Guard is a combat-related disability for purposes of determining the eligibility of such member for combat-related special compensation under such section.
+
+>         “(2)  __Disability for which a determination is made__  __.—__ 
+
+>         For the purposes of this section, and in the case of a member of the Coast Guard, a disability under [section 1413a(e)(2)(B) of title 10][/us/usc/t10/s1413a/e/2/B], United States Code, includes a disability incurred during aviation duty, diving duty, rescue swimmer or similar duty, and hazardous service duty onboard a small vessel (such as duty as a surfman)—
+
+>             “(A) in the performance of duties for which special or incentive pay was paid pursuant to section 301, 301a, 304, 307, 334, or 351 of title 37, United States Code;
+
+>             “(B)
+
+>              in the performance of duties related to a statutory mission of the Coast Guard under paragraph (1) or paragraph (2) of section 888(a) of the Homeland Security Act of 2002 ([6 U.S.C. 468(a)][/us/usc/t6/s468/a]), including—
+
+>                 “(i) law enforcement, including drug or migrant interdiction;
+
+>                 “(ii) defense readiness; or
+
+>                 “(iii) search and rescue; or
+
+>             “(C) while engaged in a training exercise for the performance of a duty described in subparagraphs (A) and (B).
+
+>     “(b)  __Applicability of Procedures and Criteria__  __.—__ 
+
+>     The procedures and criteria issued pursuant to subsection (a) shall apply to disabilities described in that subsection that are incurred on or after the effective date provided in section 636(a)(2) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 ([Public Law 107–314][/us/pl/107/314]; [116 Stat. 2574][/us/stat/116/2574]; [10 U.S.C. 1413a][/us/usc/t10/s1413a] note) \[See Effective Date note above\].
+
+>     “(c)  __Reapplication for Compensation__  __.—__ 
+
+>     Any member of the Coast Guard who was denied combat-related special compensation under [section 1413a of title 10][/us/usc/t10/s1413a], United States Code, during the period beginning on the effective date specified in subsection (b) and ending on the date of the issuance of the procedures and criteria required by subsection (a) may reapply for combat-related special compensation under such section on the basis of such procedures and criteria in accordance with such procedures as the Secretary of the department in which the Coast Guard is operating shall specify.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch71/m__us_usc_t10_s1413.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch71/m__us_usc_t10_s1414.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a)
@@ -224,6 +260,15 @@
 [/us/usc/t10/s1413a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a
 [/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2576
+[/us/usc/t10/s1413a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F48
+[/us/usc/t10/s1413a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a
+[/us/usc/t10/s1413a/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a%2Fe%2F2%2FB
+[/us/usc/t6/s468/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs468%2Fa
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/stat/116/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2574
+[/us/usc/t10/s1413a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a
 [/us/usc/t10/s1413a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a
 
 

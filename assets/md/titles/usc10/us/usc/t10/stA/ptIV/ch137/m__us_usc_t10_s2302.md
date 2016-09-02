@@ -1325,6 +1325,12 @@ Source (Statutes at Large)  </td>
 
 >         In this subsection, the term ‘Lanham Act’ means the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 (commonly referred to as the ‘Trademark Act of 1946’ or the ‘Lanham Act’) \[[15 U.S.C. 1051][/us/usc/t15/s1051] et seq.\].”
 
+\[[Pub. L. 114–125, title III][/us/pl/114/125/tIII], § 302(b), Feb. 24, 2016, [130 Stat. 150][/us/stat/130/150], provided that: 
+
+> “Notwithstanding paragraph (2) of section 818(g) of the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [125 Stat. 1496][/us/stat/125/1496]; [10 U.S.C. 2302][/us/usc/t10/s2302] note) \[set out above\], paragraph (1) of that section shall have no force or effect on or after the date of the enactment of this Act \[Feb. 24, 2016\].”
+
+\]
+
  __Reach-Back Contracting Authority for Operation Enduring Freedom and Operation New Dawn__ 
 
 [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 843, Dec. 31, 2011, [125 Stat. 1514][/us/stat/125/1514], provided that:
@@ -4846,6 +4852,11 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/usc/t15/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1124
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
+[/us/pl/114/125/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIII
+[/us/stat/130/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F150
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/stat/125/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1496
+[/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1514
 [/us/usc/t41/s1903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1903%2Fb
