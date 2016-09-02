@@ -215,6 +215,44 @@ Aug. 20, 1964, Pub. L. 88–459, § 7, 78 Stat. 558.  </td>
 
     Authority of President under subsec. (f) of this section to issue regulations provided for therein (relating to provision, occupancy, and availability of quarters and facilities, determination of rates and charges therefor, and other related matters, as are necessary and appropriate to carry out provisions of this section) delegated to Director of Office of Management and Budget, see section 9(1) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3][/us/usc/t3/s301], The President.
 
+ __Pilot Program To Establish Government Lodging Program__ 
+
+[Pub. L. 113–291, div. A, title IX, § 914][/us/pl/113/291/s914], Dec. 19, 2014, [128 Stat. 3474][/us/stat/128/3474], provided that:
+
+>     “(a)  __Authority__  __.—__ 
+
+>     Notwithstanding the provisions of [section 5911 of title 5][/us/usc/t5/s5911], United States Code, the Secretary of Defense may, for the period of time described in subsection (b), establish and carry out a Government lodging program to provide Government or commercial lodging for employees of the Department of Defense or members of the uniformed services under the Secretary’s jurisdiction performing duty on official travel, and may require such travelers to occupy adequate quarters on a rental basis when available.
+
+>     “(b)  __Program Duration__  __.—__ 
+
+>     The authority to establish and execute a Government lodging program under this section expires on December 31, 2019.
+
+>     “(c)  __Limitation__  __.—__ 
+
+>     A Government lodging program developed under the authority in subsection (a), and a requirement under subsection (a) with respect to an employee of the Department of Defense, may not be construed to be subject to a duty to negotiate under chapter 71 of title 5, United States Code.
+
+>     “(d) __Reports.—__ 
+
+>         “(1)  __Initial report__  __.—__ 
+
+>         Not later than six months after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall submit to the appropriate committees of Congress a report on the exercise of authority provided by subsection (a). The report shall include a detailed description of the facets of the Government lodging program, a description of how the program will increase travel efficiencies within the Department, a description of how the program will increase the safety of authorized travelers of the Department of Defense, and an estimate of the savings expected to be achieved by the program.
+
+>         “(2)  __Annual reports__  __.—__ 
+
+>         Each year, the Secretary shall include with the materials submitted to Congress by the Secretary in support of the budget submitted by the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, a report that provides actual savings achieved (or costs incurred) under the Government lodging program to date and a description of estimated savings for the fiscal year budget being submitted, any changes to program rules made since the prior report, and an overall assessment to date of the program’s effectiveness in increasing efficiency of travel and safety of Department employees.
+
+>         “(3)  __Final report__  __.—__ 
+
+>         With the budget materials submitted to Congress by the Secretary in support of the budget submitted by the President for fiscal year 2019, the Secretary shall include a final report providing the Secretary’s overall assessment of the effectiveness of the Government lodging program established under subsection (a), including a statement of savings achieved (or costs incurred) as of that date, and a recommendation for whether the program shall be made permanent. The Secretary may, in consultation with the heads of other Federal agencies, make a recommendation on whether the program should be expanded and made permanent with respect to those other Federal agencies.
+
+>         “(4)  __Appropriate committees of congress defined__  __.—__ 
+
+>         In this subsection, the term ‘appropriate committees of Congress’ means—
+
+>             “(A) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
+
+>             “(B) the Committee on Armed Services, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.”
+
  __Deposit in Special Fund of Rents and Charges Collected for Use or Occupancy of Quarters__ 
 
 [Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title III, § 320\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1874, as amended by [Pub. L. 100–446, title III, § 316][/us/pl/100/446/s316], Sept. 27, 1988, [102 Stat. 1826][/us/stat/102/1826]; [Pub. L. 101–121, title III, § 317][/us/pl/101/121/s317], Oct. 23, 1989, [103 Stat. 745][/us/stat/103/745], provided that: 
@@ -237,6 +275,10 @@ Aug. 20, 1964, Pub. L. 88–459, § 7, 78 Stat. 558.  </td>
 [/us/pl/99/145/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs813
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/pl/113/291/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs914
+[/us/stat/128/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3474
+[/us/usc/t5/s5911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5911
+[/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/98/473/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fc
 [/us/stat/98/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1837
 [/us/pl/100/446/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2Fs316

@@ -27,7 +27,7 @@
 
         (1)
 
-            (A) The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
+            (A) The Administrator of General Services shall conduct periodic investigations of the cost of travel and the operation of privately owned airplanes and privately owned motorcycles by employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
 
             (B)
 
@@ -49,7 +49,7 @@
 
              The Administrator shall issue regulations under this section which—
 
-                (i) shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in [section 5704(a)(1) of this title][/us/usc/t5/s5704/a/1], the single standard mileage rate established by the Internal Revenue Service, and
+                (i) shall provide that the mileage reimbursement rate for privately owned automobiles, as provided in section 5704(a)(1), is the single standard mileage rate established by the Internal Revenue Service referred to in that section, and
 
                 (ii) shall prescribe mileage reimbursement rates which reflect the current costs as determined by the Administrator of operating privately owned airplanes and motorcycles.
 
@@ -61,7 +61,7 @@
 
     (c) The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 500][/us/stat/80/500]; [Pub. L. 94–22, § 6(a)][/us/pl/94/22/s6/a], May 19, 1975, [89 Stat. 85][/us/stat/89/85]; [Pub. L. 99–234, title I, § 104][/us/pl/99/234/s104], Jan. 2, 1986, [99 Stat. 1758][/us/stat/99/1758]; [Pub. L. 101–391, § 5(a)(1)][/us/pl/101/391/s5/a/1], Sept. 25, 1990, [104 Stat. 750][/us/stat/104/750]; [Pub. L. 103–329, title VI, § 634(b)][/us/pl/103/329/s634/b], (c), Sept. 30, 1994, [108 Stat. 2429][/us/stat/108/2429], 2430; [Pub. L. 104–201, div. A, title XVI, § 1614(a)(1)][/us/pl/104/201/s1614/a/1], Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739]; [Pub. L. 104–316, title I, § 103(e)][/us/pl/104/316/s103/e], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 500][/us/stat/80/500]; [Pub. L. 94–22, § 6(a)][/us/pl/94/22/s6/a], May 19, 1975, [89 Stat. 85][/us/stat/89/85]; [Pub. L. 99–234, title I, § 104][/us/pl/99/234/s104], Jan. 2, 1986, [99 Stat. 1758][/us/stat/99/1758]; [Pub. L. 101–391, § 5(a)(1)][/us/pl/101/391/s5/a/1], Sept. 25, 1990, [104 Stat. 750][/us/stat/104/750]; [Pub. L. 103–329, title VI, § 634(b)][/us/pl/103/329/s634/b], (c), Sept. 30, 1994, [108 Stat. 2429][/us/stat/108/2429], 2430; [Pub. L. 104–201, div. A, title XVI, § 1614(a)(1)][/us/pl/104/201/s1614/a/1], Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739]; [Pub. L. 104–316, title I, § 103(e)][/us/pl/104/316/s103/e], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 113–291, div. A, title IX, § 915(b)][/us/pl/113/291/s915/b], Dec. 19, 2014, [128 Stat. 3475][/us/stat/128/3475].)
 
 <table>
 
@@ -114,6 +114,10 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(A). [Pub. L. 113–291, § 915(b)(1)][/us/pl/113/291/s915/b/1], amended subpar. (A) generally. Prior to amendment, text read as follows: “The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.”
+
+    Subsec. (b)(2)(A)(i). [Pub. L. 113–291, § 915(b)(2)][/us/pl/113/291/s915/b/2], amended cl. (i) generally. Prior to amendment, text read as follows: “shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in [section 5704(a)(1) of this title][/us/usc/t5/s5704/a/1], the single standard mileage rate established by the Internal Revenue Service, and”.
 
     1996—Subsec. (b)(1)(A). [Pub. L. 104–316][/us/pl/104/316] struck out “the Comptroller General of the United States,” after “in consultation with”.
 
@@ -235,7 +239,6 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 ----------
 
 [/us/usc/t5/s5704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5704
-[/us/usc/t5/s5704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5704%2Fa%2F1
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F500
 [/us/pl/94/22/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs6%2Fa
@@ -250,6 +253,11 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 [/us/stat/110/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2739
 [/us/pl/104/316/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fe
 [/us/stat/110/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3829
+[/us/pl/113/291/s915/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs915%2Fb
+[/us/stat/128/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3475
+[/us/pl/113/291/s915/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs915%2Fb%2F1
+[/us/pl/113/291/s915/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs915%2Fb%2F2
+[/us/usc/t5/s5704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5704%2Fa%2F1
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/329/s634/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs634%2Fb

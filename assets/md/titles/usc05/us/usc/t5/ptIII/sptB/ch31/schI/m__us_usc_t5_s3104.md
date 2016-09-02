@@ -217,7 +217,7 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
  __Experimental Personnel Program for Scientific and Technical Personnel__ 
 
-[Pub. L. 105–261, div. A, title XI, § 1101][/us/pl/105/261/s1101], Oct. 17, 1998, [112 Stat. 2139][/us/stat/112/2139], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\] title X, § 1087(d)(6), title XI, § 1113\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, 1654A–314; [Pub. L. 108–136, div. A, title IX, § 921(g)][/us/pl/108/136/s921/g], title XI, § 1116, Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570], 1636; [Pub. L. 109–364, div. A, title XI, § 1103][/us/pl/109/364/s1103], Oct. 17, 2006, [120 Stat. 2408][/us/stat/120/2408]; [Pub. L. 110–181, div. A, title XI, § 1108][/us/pl/110/181/s1108], Jan. 28, 2008, [122 Stat. 358][/us/stat/122/358]; [Pub. L. 111–84, div. A, title XI, § 1104][/us/pl/111/84/s1104], Oct. 28, 2009, [123 Stat. 2485][/us/stat/123/2485]; [Pub. L. 112–81, div. A, title XI, § 1110][/us/pl/112/81/s1110], Dec. 31, 2011, [125 Stat. 1615][/us/stat/125/1615]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vi)][/us/pl/112/239/s1076/c/2/A/vi], title XI, § 1102(a), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], 1973, provided that:
+[Pub. L. 105–261, div. A, title XI, § 1101][/us/pl/105/261/s1101], Oct. 17, 1998, [112 Stat. 2139][/us/stat/112/2139], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\] title X, § 1087(d)(6), title XI, § 1113\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, 1654A–314; [Pub. L. 108–136, div. A, title IX, § 921(g)][/us/pl/108/136/s921/g], title XI, § 1116, Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570], 1636; [Pub. L. 109–364, div. A, title XI, § 1103][/us/pl/109/364/s1103], Oct. 17, 2006, [120 Stat. 2408][/us/stat/120/2408]; [Pub. L. 110–181, div. A, title XI, § 1108][/us/pl/110/181/s1108], Jan. 28, 2008, [122 Stat. 358][/us/stat/122/358]; [Pub. L. 111–84, div. A, title XI, § 1104][/us/pl/111/84/s1104], Oct. 28, 2009, [123 Stat. 2485][/us/stat/123/2485]; [Pub. L. 112–81, div. A, title XI, § 1110][/us/pl/112/81/s1110], Dec. 31, 2011, [125 Stat. 1615][/us/stat/125/1615]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vi)][/us/pl/112/239/s1076/c/2/A/vi], title XI, § 1102(a), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], 1973; [Pub. L. 113–291, div. A, title XI, § 1104][/us/pl/113/291/s1104], Dec. 19, 2014, [128 Stat. 3525][/us/stat/128/3525], provided that:
 
 >     “(a)  __Program Authorized__  __.—__ 
 
@@ -231,15 +231,11 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
 >          without regard to any provision of title 5, United States Code, governing the appointment of employees in the civil service, appoint scientists and engineers from outside the civil service and uniformed services (as such terms are defined in section 2101 of such title) to—
 
->             “(A) not more than 60 scientific and engineering positions in the Defense Advanced Research Projects Agency;
+>             “(A) not more than 100 scientific and engineering positions in the Defense Advanced Research Projects Agency;
 
->             “(B) not more than 40 scientific and engineering positions in the designated laboratories of each of the military services;
+>             “(B) not more than 40 scientific and engineering positions in the designated laboratories of each of the military services; and
 
->             “(C) not more than a total of 10 scientific and engineering positions in the National Geospatial-Intelligence Agency and the National Security Agency;
-
->             “(D) not more than a total of 10 scientific and engineering positions in the Office of the Assistant Secretary of Defense for Research and Engineering; and
-
->             “(E) not more than a total of 10 scientific and engineering positions in the Office of the Director of Operational Test and Evaluation;
+>             “(C) not more than a total of 10 scientific and engineering positions in the Office of the Director of Operational Test and Evaluation;
 
 >         “(2) prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1) at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under [section 5376 of title 5][/us/usc/t5/s5376], United States Code, as increased by locality-based comparability payments under section 5304 of such title, notwithstanding any provision of such title governing the rates of pay or classification of employees in the executive branch; and
 
@@ -249,15 +245,15 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
 >         (1) Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed 4 years.
 
->         “(2) The Secretary may, in the case of a particular employee, extend the period to which service is limited under paragraph (1) by up to 2 years if the Secretary determines that such action is necessary to promote the efficiency of the Defense Advanced Research Projects Agency.
+>         “(2) The Secretary may, in the case of a particular employee, extend the period to which service is limited under paragraph (1) by up to 2 years if the Secretary determines that such action is necessary to promote the efficiency of the Department of Defense.
 
 >     “(d)  __Limitations on Additional Payments__  __.—__ 
 
 >         (1)
 
->          Subject to paragraph (3), the total amount of additional payments paid to an employee under subsection (b)(3) for any 12-month period may not exceed the lesser of the following amounts:
+>          Subject to paragraph (3), the total amount of additional payments paid to an employee under subsection (b)(3) for any calendar year may not exceed the lesser of the following amounts:
 
->             “(A) $50,000 in fiscal year 2010, which may be adjusted annually thereafter by the Secretary, with a percentage increase equal to one-half of 1 percentage point less than the percentage by which the Employment Cost Index, published quarterly by the Bureau of Labor Statistics, for the base quarter of the year before the preceding calendar year exceeds the Employment Cost Index for the base quarter of the second year before the preceding calendar year.
+>             “(A) $50,000 in calendar year 2010, which may be adjusted annually thereafter by the Secretary, with a percentage increase equal to one-half of 1 percentage point less than the percentage by which the Employment Cost Index, published quarterly by the Bureau of Labor Statistics, for the base quarter of the year before the preceding calendar year exceeds the Employment Cost Index for the base quarter of the second year before the preceding calendar year.
 
 >             “(B) The amount equal to 50 percent of the employee’s annual rate of basic pay.
 
@@ -269,7 +265,7 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
 >     “(e)  __Period of Program__  __.—__ 
 
->         (1) The period for carrying out the program authorized under this section begins on October 17, 1998, and ends on September 30, 2016.
+>         (1) The period for carrying out the program authorized under this section begins on October 17, 1998, and ends on September 30, 2019.
 
 >         “(2)
 
@@ -320,6 +316,8 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 >             “(C) The methodology used for identifying and selecting such individuals.
 
 >             “(D) Any additional information that the Secretary considers helpful for assessing the utility of the authority under this section.”
+
+    \[[Pub. L. 113–291, § 1104(b)(2)][/us/pl/113/291/s1104/b/2], which directed amendment of subsec. (d)(2) of [section 1101 of Pub. L. 105–261][/us/pl/105/261/s1101], set out above, by substituting “calendar year” for “fiscal year”, was executed by making the substitution in subsec. (d)(1)(A) of such section before “2010”, to reflect the probable intent of Congress.\]
 
 \[[Pub. L. 112–239, div. A, title XI, § 1102(b)][/us/pl/112/239/s1102/b], Jan. 2, 2013, [126 Stat. 1973][/us/stat/126/1973], provided that: 
 
@@ -476,10 +474,14 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/125/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1615
 [/us/pl/112/239/s1076/c/2/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FA%2Fvi
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
+[/us/pl/113/291/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1104
+[/us/stat/128/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3525
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s5302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5302%2F3
 [/us/usc/t5/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
+[/us/pl/113/291/s1104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1104%2Fb%2F2
+[/us/pl/105/261/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1101
 [/us/pl/112/239/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1102%2Fb
 [/us/stat/126/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1973
 [/us/pl/105/261/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1101

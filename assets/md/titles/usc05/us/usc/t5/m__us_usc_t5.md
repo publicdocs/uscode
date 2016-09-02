@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378]
 
-Current through 113–296not287not291
+Current through 113–296not287
 
 <table>
 

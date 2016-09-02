@@ -163,7 +163,7 @@
 
             (B) If the primary service performed by any limited time appointee employed under this subsection is training or mentoring of employees, the hours of that service shall be included in the hours of service performed for purposes of paragraph (3).
 
-        (7) The authority of the head of an agency under this subsection to waive the application of subsection (a) shall terminate 5 years after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010.
+        (7) The authority of the head of an agency under this subsection to waive the application of subsection (a) shall terminate on December 31, 2019.
 
     (j)
 
@@ -171,7 +171,7 @@
 
         (2) An employee as to whom a waiver under subsection (f), (g), (h), or (i) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 576][/us/stat/100/576]; amended [Pub. L. 100–238, title I, § 134(a)][/us/pl/100/238/s134/a], Jan. 8, 1988, [101 Stat. 1762][/us/stat/101/1762]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 108(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1450; [Pub. L. 101–510, div. A, title XII, § 1206(j)(3)][/us/pl/101/510/s1206/j/3], Nov. 5, 1990, [104 Stat. 1664][/us/stat/104/1664]; [Pub. L. 102–190, div. A, title VI, § 655(c)][/us/pl/102/190/s655/c], Dec. 5, 1991, [105 Stat. 1392][/us/stat/105/1392]; [Pub. L. 102–378, § 8(a)][/us/pl/102/378/s8/a], Oct. 2, 1992, [106 Stat. 1359][/us/stat/106/1359]; [Pub. L. 105–55, title I, § 107][/us/pl/105/55/s107], Oct. 7, 1997, [111 Stat. 1184][/us/stat/111/1184]; [Pub. L. 105–61, title V, § 516(a)(9)][/us/pl/105/61/s516/a/9], Oct. 10, 1997, [111 Stat. 1307][/us/stat/111/1307]; [Pub. L. 108–176, title II, § 226(b)(2)(C)][/us/pl/108/176/s226/b/2/C], Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–84, div. A, title XI, § 1122(b)][/us/pl/111/84/s1122/b], Oct. 28, 2009, [123 Stat. 2507][/us/stat/123/2507]; [Pub. L. 112–96, title V, § 5001(c)(2)(C)][/us/pl/112/96/s5001/c/2/C], Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200].)
+(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 576][/us/stat/100/576]; amended [Pub. L. 100–238, title I, § 134(a)][/us/pl/100/238/s134/a], Jan. 8, 1988, [101 Stat. 1762][/us/stat/101/1762]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 108(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1450; [Pub. L. 101–510, div. A, title XII, § 1206(j)(3)][/us/pl/101/510/s1206/j/3], Nov. 5, 1990, [104 Stat. 1664][/us/stat/104/1664]; [Pub. L. 102–190, div. A, title VI, § 655(c)][/us/pl/102/190/s655/c], Dec. 5, 1991, [105 Stat. 1392][/us/stat/105/1392]; [Pub. L. 102–378, § 8(a)][/us/pl/102/378/s8/a], Oct. 2, 1992, [106 Stat. 1359][/us/stat/106/1359]; [Pub. L. 105–55, title I, § 107][/us/pl/105/55/s107], Oct. 7, 1997, [111 Stat. 1184][/us/stat/111/1184]; [Pub. L. 105–61, title V, § 516(a)(9)][/us/pl/105/61/s516/a/9], Oct. 10, 1997, [111 Stat. 1307][/us/stat/111/1307]; [Pub. L. 108–176, title II, § 226(b)(2)(C)][/us/pl/108/176/s226/b/2/C], Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–84, div. A, title XI, § 1122(b)][/us/pl/111/84/s1122/b], Oct. 28, 2009, [123 Stat. 2507][/us/stat/123/2507]; [Pub. L. 112–96, title V, § 5001(c)(2)(C)][/us/pl/112/96/s5001/c/2/C], Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200]; [Pub. L. 113–291, div. A, title XI, § 1107(b)][/us/pl/113/291/s1107/b], Dec. 19, 2014, [128 Stat. 3527][/us/stat/128/3527].)
 
  __References in Text__ 
 
@@ -179,9 +179,9 @@
 
     The Emergency Economic Stabilization Act of 2008, referred to in subsec. (i)(2)(B), is div. A of [Pub. L. 110–343][/us/pl/110/343], Oct. 3, 2008, [122 Stat. 3765][/us/stat/122/3765]. Title I of the Act is classified principally to subchapter I (§ 5211 et seq.) of chapter 52 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of Title 12][/us/usc/t12/s5201] and Tables.
 
-    The date of enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (i)(7), is the date of enactment of [Pub. L. 111–84][/us/pl/111/84], which was approved Oct. 28, 2009.
-
  __Amendments__ 
+
+    2014—Subsec. (i)(7). [Pub. L. 113–291][/us/pl/113/291] substituted “on December 31, 2019” for “5 years after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010”.
 
     2012—Subsec. (b)(1)(A). [Pub. L. 112–96][/us/pl/112/96] substituted “section 8415(a) through (i)” for “section 8415(a) through (h)”.
 
@@ -216,6 +216,10 @@
  __Change of Name__ 
 
     Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–291][/us/pl/113/291] effective as of Oct. 28, 2014, see [section 1107(c) of Pub. L. 113–291][/us/pl/113/291/s1107/c], set out as a note under [section 8344 of this title][/us/usc/t5/s8344].
 
  __Effective Date of 2003 Amendment__ 
 
@@ -290,13 +294,15 @@
 [/us/stat/123/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2507
 [/us/pl/112/96/s5001/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fc%2F2%2FC
 [/us/stat/126/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F200
+[/us/pl/113/291/s1107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1107%2Fb
+[/us/stat/128/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3527
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F115
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/111/84/s1122/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1122%2Fb%2F2
 [/us/pl/111/84/s1122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1122%2Fb%2F1
@@ -316,6 +322,9 @@
 [/us/pl/101/510/s1206/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1206%2Fj%2F3
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/s1107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1107%2Fc
+[/us/usc/t5/s8344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8344
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s226/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs226%2Fc
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
