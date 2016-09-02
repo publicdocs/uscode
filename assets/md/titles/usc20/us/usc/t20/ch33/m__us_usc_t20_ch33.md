@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1400.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1400" data-uslm-ref="/us/usc/t20/s1400">1400.</a>  </td>
 
     <td> Short title; findings; purposes.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1401" data-uslm-ref="/us/usc/t20/s1401">1401.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1402" data-uslm-ref="/us/usc/t20/s1402">1402.</a>  </td>
 
     <td> Office of Special Education Programs.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1403" data-uslm-ref="/us/usc/t20/s1403">1403.</a>  </td>
 
     <td> Abrogation of State sovereign immunity.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1404" data-uslm-ref="/us/usc/t20/s1404">1404.</a>  </td>
 
     <td> Acquisition of equipment; construction or alteration of facilities.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1405" data-uslm-ref="/us/usc/t20/s1405">1405.</a>  </td>
 
     <td> Employment of individuals with disabilities.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1406" data-uslm-ref="/us/usc/t20/s1406">1406.</a>  </td>
 
     <td> Requirements for prescribing regulations.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1407" data-uslm-ref="/us/usc/t20/s1407">1407.</a>  </td>
 
     <td> State administration.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1408" data-uslm-ref="/us/usc/t20/s1408">1408.</a>  </td>
 
     <td> Paperwork reduction.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1409" data-uslm-ref="/us/usc/t20/s1409">1409.</a>  </td>
 
     <td> Freely associated States.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ASSISTANCE FOR EDUCATION OF ALL CHILDREN WITH DISABILITIES  </td
 
   <tr>
 
-    <td> 1411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1411" data-uslm-ref="/us/usc/t20/s1411">1411.</a>  </td>
 
     <td> Authorization; allotment; use of funds; authorization of appropriations.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ASSISTANCE FOR EDUCATION OF ALL CHILDREN WITH DISABILITIES  </td
 
   <tr>
 
-    <td> 1412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1412" data-uslm-ref="/us/usc/t20/s1412">1412.</a>  </td>
 
     <td> State eligibility.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ASSISTANCE FOR EDUCATION OF ALL CHILDREN WITH DISABILITIES  </td
 
   <tr>
 
-    <td> 1413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1413" data-uslm-ref="/us/usc/t20/s1413">1413.</a>  </td>
 
     <td> Local educational agency eligibility.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ASSISTANCE FOR EDUCATION OF ALL CHILDREN WITH DISABILITIES  </td
 
   <tr>
 
-    <td> 1414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1414" data-uslm-ref="/us/usc/t20/s1414">1414.</a>  </td>
 
     <td> Evaluations, eligibility determinations, individualized education programs, and educational placements.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—ASSISTANCE FOR EDUCATION OF ALL CHILDREN WITH DISABILITIES  </td
 
   <tr>
 
-    <td> 1415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1415" data-uslm-ref="/us/usc/t20/s1415">1415.</a>  </td>
 
     <td> Procedural safeguards.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—ASSISTANCE FOR EDUCATION OF ALL CHILDREN WITH DISABILITIES  </td
 
   <tr>
 
-    <td> 1416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1416" data-uslm-ref="/us/usc/t20/s1416">1416.</a>  </td>
 
     <td> Monitoring, technical assistance, and enforcement.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—ASSISTANCE FOR EDUCATION OF ALL CHILDREN WITH DISABILITIES  </td
 
   <tr>
 
-    <td> 1417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1417" data-uslm-ref="/us/usc/t20/s1417">1417.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—ASSISTANCE FOR EDUCATION OF ALL CHILDREN WITH DISABILITIES  </td
 
   <tr>
 
-    <td> 1418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1418" data-uslm-ref="/us/usc/t20/s1418">1418.</a>  </td>
 
     <td> Program information.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—ASSISTANCE FOR EDUCATION OF ALL CHILDREN WITH DISABILITIES  </td
 
   <tr>
 
-    <td> 1419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1419" data-uslm-ref="/us/usc/t20/s1419">1419.</a>  </td>
 
     <td> Preschool grants.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1431" data-uslm-ref="/us/usc/t20/s1431">1431.</a>  </td>
 
     <td> Findings and policy.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1432" data-uslm-ref="/us/usc/t20/s1432">1432.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1433" data-uslm-ref="/us/usc/t20/s1433">1433.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1434" data-uslm-ref="/us/usc/t20/s1434">1434.</a>  </td>
 
     <td> Eligibility.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1435" data-uslm-ref="/us/usc/t20/s1435">1435.</a>  </td>
 
     <td> Requirements for statewide system.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1436" data-uslm-ref="/us/usc/t20/s1436">1436.</a>  </td>
 
     <td> Individualized family service plan.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1437" data-uslm-ref="/us/usc/t20/s1437">1437.</a>  </td>
 
     <td> State application and assurances.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1438" data-uslm-ref="/us/usc/t20/s1438">1438.</a>  </td>
 
     <td> Uses of funds.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1439.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1439" data-uslm-ref="/us/usc/t20/s1439">1439.</a>  </td>
 
     <td> Procedural safeguards.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1440.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1440" data-uslm-ref="/us/usc/t20/s1440">1440.</a>  </td>
 
     <td> Payor of last resort.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1441" data-uslm-ref="/us/usc/t20/s1441">1441.</a>  </td>
 
     <td> State interagency coordinating council.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1442" data-uslm-ref="/us/usc/t20/s1442">1442.</a>  </td>
 
     <td> Federal administration.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1443" data-uslm-ref="/us/usc/t20/s1443">1443.</a>  </td>
 
     <td> Allocation of funds.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES  </td>
 
   <tr>
 
-    <td> 1444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1444" data-uslm-ref="/us/usc/t20/s1444">1444.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—NATIONAL ACTIVITIES TO IMPROVE EDUCATION OF CHILDREN WITH DISABI
 
   <tr>
 
-    <td> 1450.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1450" data-uslm-ref="/us/usc/t20/s1450">1450.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -337,7 +337,7 @@ Part A—State Personnel Development Grants  </td>
 
   <tr>
 
-    <td> 1451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1451" data-uslm-ref="/us/usc/t20/s1451">1451.</a>  </td>
 
     <td> Purpose; definition of personnel; program authority.  </td>
 
@@ -345,7 +345,7 @@ Part A—State Personnel Development Grants  </td>
 
   <tr>
 
-    <td> 1452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1452" data-uslm-ref="/us/usc/t20/s1452">1452.</a>  </td>
 
     <td> Eligibility and collaborative process.  </td>
 
@@ -353,7 +353,7 @@ Part A—State Personnel Development Grants  </td>
 
   <tr>
 
-    <td> 1453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1453" data-uslm-ref="/us/usc/t20/s1453">1453.</a>  </td>
 
     <td> Applications.  </td>
 
@@ -361,7 +361,7 @@ Part A—State Personnel Development Grants  </td>
 
   <tr>
 
-    <td> 1454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1454" data-uslm-ref="/us/usc/t20/s1454">1454.</a>  </td>
 
     <td> Use of funds.  </td>
 
@@ -369,7 +369,7 @@ Part A—State Personnel Development Grants  </td>
 
   <tr>
 
-    <td> 1455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1455" data-uslm-ref="/us/usc/t20/s1455">1455.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -385,7 +385,7 @@ Part B—Personnel Preparation, Technical Assistance, Model Demonstration Projec
 
   <tr>
 
-    <td> 1461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1461" data-uslm-ref="/us/usc/t20/s1461">1461.</a>  </td>
 
     <td> Purpose; definition of eligible entity.  </td>
 
@@ -393,7 +393,7 @@ Part B—Personnel Preparation, Technical Assistance, Model Demonstration Projec
 
   <tr>
 
-    <td> 1462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1462" data-uslm-ref="/us/usc/t20/s1462">1462.</a>  </td>
 
     <td> Personnel development to improve services and results for children with disabilities.  </td>
 
@@ -401,7 +401,7 @@ Part B—Personnel Preparation, Technical Assistance, Model Demonstration Projec
 
   <tr>
 
-    <td> 1463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1463" data-uslm-ref="/us/usc/t20/s1463">1463.</a>  </td>
 
     <td> Technical assistance, demonstration projects, dissemination of information, and implementation of scientifically based research.  </td>
 
@@ -409,7 +409,7 @@ Part B—Personnel Preparation, Technical Assistance, Model Demonstration Projec
 
   <tr>
 
-    <td> 1464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1464" data-uslm-ref="/us/usc/t20/s1464">1464.</a>  </td>
 
     <td> Studies and evaluations.  </td>
 
@@ -417,7 +417,7 @@ Part B—Personnel Preparation, Technical Assistance, Model Demonstration Projec
 
   <tr>
 
-    <td> 1465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1465" data-uslm-ref="/us/usc/t20/s1465">1465.</a>  </td>
 
     <td> Interim alternative educational settings, behavioral supports, and systemic school interventions.  </td>
 
@@ -425,7 +425,7 @@ Part B—Personnel Preparation, Technical Assistance, Model Demonstration Projec
 
   <tr>
 
-    <td> 1466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1466" data-uslm-ref="/us/usc/t20/s1466">1466.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -441,7 +441,7 @@ Part C—Supports To Improve Results for Children With Disabilities  </td>
 
   <tr>
 
-    <td> 1470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1470" data-uslm-ref="/us/usc/t20/s1470">1470.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -449,7 +449,7 @@ Part C—Supports To Improve Results for Children With Disabilities  </td>
 
   <tr>
 
-    <td> 1471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1471" data-uslm-ref="/us/usc/t20/s1471">1471.</a>  </td>
 
     <td> Parent training and information centers.  </td>
 
@@ -457,7 +457,7 @@ Part C—Supports To Improve Results for Children With Disabilities  </td>
 
   <tr>
 
-    <td> 1472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1472" data-uslm-ref="/us/usc/t20/s1472">1472.</a>  </td>
 
     <td> Community parent resource centers.  </td>
 
@@ -465,7 +465,7 @@ Part C—Supports To Improve Results for Children With Disabilities  </td>
 
   <tr>
 
-    <td> 1473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1473" data-uslm-ref="/us/usc/t20/s1473">1473.</a>  </td>
 
     <td> Technical assistance for parent training and information centers.  </td>
 
@@ -473,7 +473,7 @@ Part C—Supports To Improve Results for Children With Disabilities  </td>
 
   <tr>
 
-    <td> 1474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1474" data-uslm-ref="/us/usc/t20/s1474">1474.</a>  </td>
 
     <td> Technology development, demonstration, and utilization; media services; and instructional materials.  </td>
 
@@ -481,7 +481,7 @@ Part C—Supports To Improve Results for Children With Disabilities  </td>
 
   <tr>
 
-    <td> 1475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1475" data-uslm-ref="/us/usc/t20/s1475">1475.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -497,7 +497,7 @@ Part D—General Provisions  </td>
 
   <tr>
 
-    <td> 1481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1481" data-uslm-ref="/us/usc/t20/s1481">1481.</a>  </td>
 
     <td> Comprehensive plan for parts B and C.  </td>
 
@@ -505,7 +505,7 @@ Part D—General Provisions  </td>
 
   <tr>
 
-    <td> 1482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1482" data-uslm-ref="/us/usc/t20/s1482">1482.</a>  </td>
 
     <td> Administrative provisions.  </td>
 

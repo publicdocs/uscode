@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2301" data-uslm-ref="/us/usc/t20/s2301">2301.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2302" data-uslm-ref="/us/usc/t20/s2302">2302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2303" data-uslm-ref="/us/usc/t20/s2303">2303.</a>  </td>
 
     <td> Transition provisions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2304" data-uslm-ref="/us/usc/t20/s2304">2304.</a>  </td>
 
     <td> Privacy.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2305" data-uslm-ref="/us/usc/t20/s2305">2305.</a>  </td>
 
     <td> Limitation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2306" data-uslm-ref="/us/usc/t20/s2306">2306.</a>  </td>
 
     <td> Special rule.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2306a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2306a" data-uslm-ref="/us/usc/t20/s2306a">2306a.</a>  </td>
 
     <td> Prohibitions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2307" data-uslm-ref="/us/usc/t20/s2307">2307.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2308" data-uslm-ref="/us/usc/t20/s2308">2308.</a>  </td>
 
     <td> Interdepartmental Task Force on Vocational Education and Related Programs.  </td>
 
@@ -113,7 +113,7 @@ Part A—Allotment and Allocation  </td>
 
   <tr>
 
-    <td> 2321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2321" data-uslm-ref="/us/usc/t20/s2321">2321.</a>  </td>
 
     <td> Reservations and State allotment.  </td>
 
@@ -121,7 +121,7 @@ Part A—Allotment and Allocation  </td>
 
   <tr>
 
-    <td> 2322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2322" data-uslm-ref="/us/usc/t20/s2322">2322.</a>  </td>
 
     <td> Within State allocation.  </td>
 
@@ -129,7 +129,7 @@ Part A—Allotment and Allocation  </td>
 
   <tr>
 
-    <td> 2323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2323" data-uslm-ref="/us/usc/t20/s2323">2323.</a>  </td>
 
     <td> Accountability.  </td>
 
@@ -137,7 +137,7 @@ Part A—Allotment and Allocation  </td>
 
   <tr>
 
-    <td> 2324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2324" data-uslm-ref="/us/usc/t20/s2324">2324.</a>  </td>
 
     <td> National activities.  </td>
 
@@ -145,7 +145,7 @@ Part A—Allotment and Allocation  </td>
 
   <tr>
 
-    <td> 2325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2325" data-uslm-ref="/us/usc/t20/s2325">2325.</a>  </td>
 
     <td> Assistance for outlying areas.  </td>
 
@@ -153,7 +153,7 @@ Part A—Allotment and Allocation  </td>
 
   <tr>
 
-    <td> 2326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2326" data-uslm-ref="/us/usc/t20/s2326">2326.</a>  </td>
 
     <td> Native American programs.  </td>
 
@@ -161,7 +161,7 @@ Part A—Allotment and Allocation  </td>
 
   <tr>
 
-    <td> 2327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2327" data-uslm-ref="/us/usc/t20/s2327">2327.</a>  </td>
 
     <td> Tribally controlled postsecondary career and technical institutions.  </td>
 
@@ -169,7 +169,7 @@ Part A—Allotment and Allocation  </td>
 
   <tr>
 
-    <td> 2328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2328" data-uslm-ref="/us/usc/t20/s2328">2328.</a>  </td>
 
     <td> Occupational and employment information.  </td>
 
@@ -185,7 +185,7 @@ Part B—State Provisions  </td>
 
   <tr>
 
-    <td> 2341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2341" data-uslm-ref="/us/usc/t20/s2341">2341.</a>  </td>
 
     <td> State administration.  </td>
 
@@ -193,7 +193,7 @@ Part B—State Provisions  </td>
 
   <tr>
 
-    <td> 2342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2342" data-uslm-ref="/us/usc/t20/s2342">2342.</a>  </td>
 
     <td> State plan.  </td>
 
@@ -201,7 +201,7 @@ Part B—State Provisions  </td>
 
   <tr>
 
-    <td> 2343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2343" data-uslm-ref="/us/usc/t20/s2343">2343.</a>  </td>
 
     <td> Improvement plans.  </td>
 
@@ -209,7 +209,7 @@ Part B—State Provisions  </td>
 
   <tr>
 
-    <td> 2344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2344" data-uslm-ref="/us/usc/t20/s2344">2344.</a>  </td>
 
     <td> State leadership activities.  </td>
 
@@ -225,7 +225,7 @@ Part C—Local Provisions  </td>
 
   <tr>
 
-    <td> 2351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2351" data-uslm-ref="/us/usc/t20/s2351">2351.</a>  </td>
 
     <td> Distribution of funds to secondary education programs.  </td>
 
@@ -233,7 +233,7 @@ Part C—Local Provisions  </td>
 
   <tr>
 
-    <td> 2352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2352" data-uslm-ref="/us/usc/t20/s2352">2352.</a>  </td>
 
     <td> Distribution of funds for postsecondary education programs.  </td>
 
@@ -241,7 +241,7 @@ Part C—Local Provisions  </td>
 
   <tr>
 
-    <td> 2353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2353" data-uslm-ref="/us/usc/t20/s2353">2353.</a>  </td>
 
     <td> Special rules for career and technical education.  </td>
 
@@ -249,7 +249,7 @@ Part C—Local Provisions  </td>
 
   <tr>
 
-    <td> 2354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2354" data-uslm-ref="/us/usc/t20/s2354">2354.</a>  </td>
 
     <td> Local plan for career and technical education programs.  </td>
 
@@ -257,7 +257,7 @@ Part C—Local Provisions  </td>
 
   <tr>
 
-    <td> 2355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2355" data-uslm-ref="/us/usc/t20/s2355">2355.</a>  </td>
 
     <td> Local uses of funds.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—TECH PREP EDUCATION  </td>
 
   <tr>
 
-    <td> 2371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2371" data-uslm-ref="/us/usc/t20/s2371">2371.</a>  </td>
 
     <td> State allotment and application.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—TECH PREP EDUCATION  </td>
 
   <tr>
 
-    <td> 2372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2372" data-uslm-ref="/us/usc/t20/s2372">2372.</a>  </td>
 
     <td> Consolidation of funds.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—TECH PREP EDUCATION  </td>
 
   <tr>
 
-    <td> 2373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2373" data-uslm-ref="/us/usc/t20/s2373">2373.</a>  </td>
 
     <td> Tech prep program.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—TECH PREP EDUCATION  </td>
 
   <tr>
 
-    <td> 2374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2374" data-uslm-ref="/us/usc/t20/s2374">2374.</a>  </td>
 
     <td> Consortium applications.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER II—TECH PREP EDUCATION  </td>
 
   <tr>
 
-    <td> 2375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2375" data-uslm-ref="/us/usc/t20/s2375">2375.</a>  </td>
 
     <td> Report.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER II—TECH PREP EDUCATION  </td>
 
   <tr>
 
-    <td> 2376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2376" data-uslm-ref="/us/usc/t20/s2376">2376.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -337,7 +337,7 @@ Part A—Federal Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2391" data-uslm-ref="/us/usc/t20/s2391">2391.</a>  </td>
 
     <td> Fiscal requirements.  </td>
 
@@ -345,7 +345,7 @@ Part A—Federal Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2392" data-uslm-ref="/us/usc/t20/s2392">2392.</a>  </td>
 
     <td> Authority to make payments.  </td>
 
@@ -353,7 +353,7 @@ Part A—Federal Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2393" data-uslm-ref="/us/usc/t20/s2393">2393.</a>  </td>
 
     <td> Construction.  </td>
 
@@ -361,7 +361,7 @@ Part A—Federal Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2394" data-uslm-ref="/us/usc/t20/s2394">2394.</a>  </td>
 
     <td> Voluntary selection and participation.  </td>
 
@@ -369,7 +369,7 @@ Part A—Federal Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2395" data-uslm-ref="/us/usc/t20/s2395">2395.</a>  </td>
 
     <td> Limitation for certain students.  </td>
 
@@ -377,7 +377,7 @@ Part A—Federal Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2396" data-uslm-ref="/us/usc/t20/s2396">2396.</a>  </td>
 
     <td> Federal laws guaranteeing civil rights.  </td>
 
@@ -385,7 +385,7 @@ Part A—Federal Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2397.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2397" data-uslm-ref="/us/usc/t20/s2397">2397.</a>  </td>
 
     <td> Participation of private school personnel and children.  </td>
 
@@ -393,7 +393,7 @@ Part A—Federal Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2398.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2398" data-uslm-ref="/us/usc/t20/s2398">2398.</a>  </td>
 
     <td> Limitation on Federal regulations.  </td>
 
@@ -409,7 +409,7 @@ Part B—State Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2411" data-uslm-ref="/us/usc/t20/s2411">2411.</a>  </td>
 
     <td> Joint funding.  </td>
 
@@ -417,7 +417,7 @@ Part B—State Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2412" data-uslm-ref="/us/usc/t20/s2412">2412.</a>  </td>
 
     <td> Prohibition on use of funds to induce out-of-State relocation of businesses.  </td>
 
@@ -425,7 +425,7 @@ Part B—State Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2413" data-uslm-ref="/us/usc/t20/s2413">2413.</a>  </td>
 
     <td> State administrative costs.  </td>
 
@@ -433,7 +433,7 @@ Part B—State Administrative Provisions  </td>
 
   <tr>
 
-    <td> 2414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2414" data-uslm-ref="/us/usc/t20/s2414">2414.</a>  </td>
 
     <td> Student assistance and other Federal programs.  </td>
 

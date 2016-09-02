@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs81" data-uslm-ref="/us/usc/t20/s81">81.</a>  </td>
 
     <td> Administration by Regents of Smithsonian Institution.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 82.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs82" data-uslm-ref="/us/usc/t20/s82">82.</a>  </td>
 
     <td> Aid in acquisition of collections.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs83" data-uslm-ref="/us/usc/t20/s83">83.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 84.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs84" data-uslm-ref="/us/usc/t20/s84">84.</a>  </td>
 
     <td> Plans for buildings and bridges.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 85.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs85" data-uslm-ref="/us/usc/t20/s85">85.</a>  </td>
 
     <td> Concessions.  </td>
 

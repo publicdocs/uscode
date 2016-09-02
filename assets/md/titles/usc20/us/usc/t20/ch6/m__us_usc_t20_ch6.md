@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs101" data-uslm-ref="/us/usc/t20/s101">101.</a>  </td>
 
     <td> Annual appropriations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs102" data-uslm-ref="/us/usc/t20/s102">102.</a>  </td>
 
     <td> Application of appropriations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs103" data-uslm-ref="/us/usc/t20/s103">103.</a>  </td>
 
     <td> Publications for National Library for the Blind.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs104" data-uslm-ref="/us/usc/t20/s104">104.</a>  </td>
 
     <td> Annual reports by trustees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs105" data-uslm-ref="/us/usc/t20/s105">105.</a>  </td>
 
     <td> Books for Library of Congress.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs106" data-uslm-ref="/us/usc/t20/s106">106.</a>  </td>
 
     <td> Purchases through the General Services Administration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 106a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs106a" data-uslm-ref="/us/usc/t20/s106a">106a.</a>  </td>
 
     <td> Financial and program audit by Secretary.  </td>
 

@@ -203,19 +203,19 @@
 
                 except that such rate shall not exceed 8.25 percent.
 
-        (7) __Interest rate provision for new loans on or after__  __July 1, 2006__ 
+        (7) __Interest rate provision for new loans on or after__  __July 1, 2006__  __and before__  __July 1, 2013__ 
 
             (A) __Rates for FDSL and FDUSL__ 
 
-                Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+                Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
 
             (B) __PLUS loans__ 
 
-                Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct PLUS loan for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 7.9 percent on the unpaid principal balance of the loan.
+                Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct PLUS loan for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 7.9 percent on the unpaid principal balance of the loan.
 
             (C) __Consolidation loans__ 
 
-            Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+            Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, and before July 1, 2013, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
                 (i) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent; or
 
@@ -235,7 +235,45 @@
 
                 (v) For a loan for which the first disbursement is made on or after July 1, 2011, and before July 1, 2013, 3.4 percent on the unpaid principal balance of the loan.
 
-        (8) __Repayment incentives__ 
+        (8) __Interest rate provisions for new loans on or after__  __July 1, 2013__ 
+
+            (A) __Rates for undergraduate FDSL and FDUSL__ 
+
+            Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+
+                (i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 2.05 percent; or
+
+                (ii) 8.25 percent.
+
+            (B) __Rates for graduate and professional FDUSL__ 
+
+            Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Unsubsidized Stafford Loans issued to graduate or professional students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+
+                (i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 3.6 percent; or
+
+                (ii) 9.5 percent.
+
+            (C) __PLUS loans__ 
+
+            Notwithstanding the preceding paragraphs of this subsection, for Federal Direct PLUS Loans, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+
+                (i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 4.6 percent; or
+
+                (ii) 10.5 percent.
+
+            (D) __Consolidation loans__ 
+
+                Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation Loan for which the application is received on or after July 1, 2013, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent.
+
+            (E) __Consultation__ 
+
+                The Secretary shall determine the applicable rate of interest under this paragraph after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+
+            (F) __Rate__ 
+
+                The applicable rate of interest determined under this paragraph for a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a Federal Direct PLUS Loan shall be fixed for the period of the loan.
+
+        (9) __Repayment incentives__ 
 
             (A) __Incentives for loans disbursed before__  __July 1, 2012__ 
 
@@ -249,7 +287,7 @@
 
                 Notwithstanding any other provision of this part, the Secretary is prohibited from authorizing or providing any repayment incentive not otherwise authorized under this part to encourage on-time repayment of a loan under this part for which the first disbursement of principal is made on or after July 1, 2012, including any reduction in the interest or origination fee rate paid by a borrower of such a loan, except that the Secretary may provide for an interest rate reduction for a borrower who agrees to have payments on such a loan automatically electronically debited from a bank account.
 
-        (9) __Publication__ 
+        (10) __Publication__ 
 
             The Secretary shall determine the applicable rates of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
@@ -573,13 +611,21 @@
 
                 (ii) how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of [section 1091(b) of this title][/us/usc/t20/s1091/b], respectively.
 
-([Pub. L. 89–329, title IV, § 455][/us/pl/89/329/s455], as added [Pub. L. 99–498, title IV, § 404][/us/pl/99/498/s404], Oct. 17, 1986, [100 Stat. 1439][/us/stat/100/1439]; amended [Pub. L. 102–325, title IV, § 451][/us/pl/102/325/s451], July 23, 1992, [106 Stat. 572][/us/stat/106/572]; [Pub. L. 103–66, title IV, § 4021][/us/pl/103/66/s4021], Aug. 10, 1993, [107 Stat. 346][/us/stat/107/346]; [Pub. L. 103–382, title III, § 359][/us/pl/103/382/s359], Oct. 20, 1994, [108 Stat. 3968][/us/stat/108/3968]; [Pub. L. 105–178, title VIII, § 8301(c)][/us/pl/105/178/s8301/c], June 9, 1998, [112 Stat. 498][/us/stat/112/498]; [Pub. L. 105–244, title IV][/us/pl/105/244], §§ 401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, [112 Stat. 1652][/us/stat/112/1652], 1715–1717; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 318(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–49; [Pub. L. 107–139, § 1(b)][/us/pl/107/139/s1/b], (c), Feb. 8, 2002, [116 Stat. 9][/us/stat/116/9]; [Pub. L. 107–314, div. A, title VI, § 651(c)][/us/pl/107/314/s651/c], Dec. 2, 2002, [116 Stat. 2580][/us/stat/116/2580]; [Pub. L. 109–171, title VIII][/us/pl/109/171], §§ 8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, [120 Stat. 160][/us/stat/120/160], 162–164; [Pub. L. 110–84, title II][/us/pl/110/84], §§ 201(b), 202(b), 203(b)(3), 205, title IV, § 401, Sept. 27, 2007, [121 Stat. 791][/us/stat/121/791], 795, 800; [Pub. L. 110–315, title I, § 103(b)(8)][/us/pl/110/315/s103/b/8], title IV, §§ 425(b)(3), 451, Aug. 14, 2008, [122 Stat. 3089][/us/stat/122/3089], 3234, 3261; [Pub. L. 111–39, title IV, § 404(b)(2)][/us/pl/111/39/s404/b/2], July 1, 2009, [123 Stat. 1946][/us/stat/123/1946]; [Pub. L. 111–152, title II, § 2211(a)][/us/pl/111/152/s2211/a], Mar. 30, 2010, [124 Stat. 1078][/us/stat/124/1078]; [Pub. L. 112–25, title V][/us/pl/112/25], §§ 502, 503, Aug. 2, 2011, [125 Stat. 266][/us/stat/125/266]; [Pub. L. 112–141, div. F, title III][/us/pl/112/141], §§ 100301, 100302(a), July 6, 2012, [126 Stat. 979][/us/stat/126/979].)
+([Pub. L. 89–329, title IV, § 455][/us/pl/89/329/s455], as added [Pub. L. 99–498, title IV, § 404][/us/pl/99/498/s404], Oct. 17, 1986, [100 Stat. 1439][/us/stat/100/1439]; amended [Pub. L. 102–325, title IV, § 451][/us/pl/102/325/s451], July 23, 1992, [106 Stat. 572][/us/stat/106/572]; [Pub. L. 103–66, title IV, § 4021][/us/pl/103/66/s4021], Aug. 10, 1993, [107 Stat. 346][/us/stat/107/346]; [Pub. L. 103–382, title III, § 359][/us/pl/103/382/s359], Oct. 20, 1994, [108 Stat. 3968][/us/stat/108/3968]; [Pub. L. 105–178, title VIII, § 8301(c)][/us/pl/105/178/s8301/c], June 9, 1998, [112 Stat. 498][/us/stat/112/498]; [Pub. L. 105–244, title IV][/us/pl/105/244], §§ 401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, [112 Stat. 1652][/us/stat/112/1652], 1715–1717; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 318(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–49; [Pub. L. 107–139, § 1(b)][/us/pl/107/139/s1/b], (c), Feb. 8, 2002, [116 Stat. 9][/us/stat/116/9]; [Pub. L. 107–314, div. A, title VI, § 651(c)][/us/pl/107/314/s651/c], Dec. 2, 2002, [116 Stat. 2580][/us/stat/116/2580]; [Pub. L. 109–171, title VIII][/us/pl/109/171], §§ 8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, [120 Stat. 160][/us/stat/120/160], 162–164; [Pub. L. 110–84, title II][/us/pl/110/84], §§ 201(b), 202(b), 203(b)(3), 205, title IV, § 401, Sept. 27, 2007, [121 Stat. 791][/us/stat/121/791], 795, 800; [Pub. L. 110–315, title I, § 103(b)(8)][/us/pl/110/315/s103/b/8], title IV, §§ 425(b)(3), 451, Aug. 14, 2008, [122 Stat. 3089][/us/stat/122/3089], 3234, 3261; [Pub. L. 111–39, title IV, § 404(b)(2)][/us/pl/111/39/s404/b/2], July 1, 2009, [123 Stat. 1946][/us/stat/123/1946]; [Pub. L. 111–152, title II, § 2211(a)][/us/pl/111/152/s2211/a], Mar. 30, 2010, [124 Stat. 1078][/us/stat/124/1078]; [Pub. L. 112–25, title V][/us/pl/112/25], §§ 502, 503, Aug. 2, 2011, [125 Stat. 266][/us/stat/125/266]; [Pub. L. 112–141, div. F, title III][/us/pl/112/141], §§ 100301, 100302(a), July 6, 2012, [126 Stat. 979][/us/stat/126/979]; [Pub. L. 113–28, § 2(a)][/us/pl/113/28/s2/a], Aug. 9, 2013, [127 Stat. 506][/us/stat/127/506].)
 
  __References in Text__ 
 
     Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of [Pub. L. 102–325, title IV][/us/pl/102/325], July 23, 1992, [106 Stat. 513][/us/stat/106/513], 519.
 
  __Amendments__ 
+
+    2013—Subsec. (b)(7). [Pub. L. 113–28, § 2(a)(1)(A)][/us/pl/113/28/s2/a/1/A], inserted “and before July 1, 2013” after “on or after July 1, 2006” in heading.
+
+    Subsec. (b)(7)(A) to (C). [Pub. L. 113–28, § 2(a)(1)(B)][/us/pl/113/28/s2/a/1/B]–(D), inserted “and before July 1, 2013,” after “on or after July 1, 2006,”.
+
+    Subsec. (b)(8). [Pub. L. 113–28, § 2(a)(3)][/us/pl/113/28/s2/a/3], added par. (8). Former par. (8) redesignated (9).
+
+    Subsec. (b)(9), (10). [Pub. L. 113–28, § 2(a)(2)][/us/pl/113/28/s2/a/2], redesignated pars. (8) and (9) as (9) and (10), respectively.
 
     2012—Subsec. (b)(7)(D). [Pub. L. 112–141, § 100301(1)][/us/pl/112/141/s100301/1], substituted “and before July 1, 2013,” for “and before July 1, 2012,” in introductory provisions.
 
@@ -684,6 +730,12 @@
     1993—[Pub. L. 103–66][/us/pl/103/66] amended section generally, substituting provisions relating to terms and conditions of loans for former provisions relating to withdrawal and termination procedures.
 
     1992—[Pub. L. 102–325][/us/pl/102/325] amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
+
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–28, § 2(b)][/us/pl/113/28/s2/b], Aug. 9, 2013, [127 Stat. 507][/us/stat/127/507], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall take effect as if enacted on July 1, 2013.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -811,8 +863,14 @@
 [/us/stat/125/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F266
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F979
+[/us/pl/113/28/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs2%2Fa
+[/us/stat/127/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F506
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/stat/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F513
+[/us/pl/113/28/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs2%2Fa%2F1%2FA
+[/us/pl/113/28/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs2%2Fa%2F1%2FB
+[/us/pl/113/28/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs2%2Fa%2F3
+[/us/pl/113/28/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs2%2Fa%2F2
 [/us/pl/112/141/s100301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100301%2F1
 [/us/pl/112/141/s100301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100301%2F2
 [/us/pl/112/141/s100302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100302%2Fa
@@ -872,6 +930,8 @@
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/113/28/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs2%2Fb
+[/us/stat/127/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F507
 [/us/pl/111/152/s2211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2211%2Fb
 [/us/stat/124/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1078
 [/us/usc/t20/s1087a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087a

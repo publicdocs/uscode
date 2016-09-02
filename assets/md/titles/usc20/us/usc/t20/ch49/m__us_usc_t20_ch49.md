@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3601" data-uslm-ref="/us/usc/t20/s3601">3601.</a>  </td>
 
     <td> Congressional statement of findings and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3602" data-uslm-ref="/us/usc/t20/s3602">3602.</a>  </td>
 
     <td> Asbestos Hazards School Safety Task Force.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3603" data-uslm-ref="/us/usc/t20/s3603">3603.</a>  </td>
 
     <td> State plan.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3604" data-uslm-ref="/us/usc/t20/s3604">3604.</a>  </td>
 
     <td> Asbestos hazards detection program.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3605" data-uslm-ref="/us/usc/t20/s3605">3605.</a>  </td>
 
     <td> Asbestos Hazards Control Loan Program.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3606" data-uslm-ref="/us/usc/t20/s3606">3606.</a>  </td>
 
     <td> Standards and safety procedures.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3607" data-uslm-ref="/us/usc/t20/s3607">3607.</a>  </td>
 
     <td> Recovery of costs by United States.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3608" data-uslm-ref="/us/usc/t20/s3608">3608.</a>  </td>
 
     <td> Employee protection.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3609" data-uslm-ref="/us/usc/t20/s3609">3609.</a>  </td>
 
     <td> Retained rights.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3610" data-uslm-ref="/us/usc/t20/s3610">3610.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3611" data-uslm-ref="/us/usc/t20/s3611">3611.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

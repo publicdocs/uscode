@@ -105,7 +105,7 @@
 
     (e) __Special due diligence rule__ 
 
-        In carrying out the provisions of subsection (a)(5) 1 of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
+        In carrying out the provisions of subsection (a)(5)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
 
 ([Pub. L. 89–329, title IV, § 463][/us/pl/89/329/s463], as added [Pub. L. 99–498, title IV, § 405(a)][/us/pl/99/498/s405/a], Oct. 17, 1986, [100 Stat. 1444][/us/stat/100/1444]; amended [Pub. L. 100–50, § 13(e)][/us/pl/100/50/s13/e], (f), June 3, 1987, [101 Stat. 349][/us/stat/101/349]; [Pub. L. 102–325, title IV, § 463(a)][/us/pl/102/325/s463/a], (b), July 23, 1992, [106 Stat. 579][/us/stat/106/579]; [Pub. L. 103–208, § 2(f)(5)][/us/pl/103/208/s2/f/5]–(7), Dec. 20, 1993, [107 Stat. 2471][/us/stat/107/2471]; [Pub. L. 105–244, title IV, § 463][/us/pl/105/244/s463], Oct. 7, 1998, [112 Stat. 1724][/us/stat/112/1724]; [Pub. L. 110–315, title IV][/us/pl/110/315], §§ 432(b)(5), 463, Aug. 14, 2008, [122 Stat. 3246][/us/stat/122/3246], 3266; [Pub. L. 111–39, title IV, § 405(2)][/us/pl/111/39/s405/2], July 1, 2009, [123 Stat. 1947][/us/stat/123/1947].)
 

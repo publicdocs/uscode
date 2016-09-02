@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3401" data-uslm-ref="/us/usc/t20/s3401">3401.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3402" data-uslm-ref="/us/usc/t20/s3402">3402.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3403" data-uslm-ref="/us/usc/t20/s3403">3403.</a>  </td>
 
     <td> Relationship with States.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3404" data-uslm-ref="/us/usc/t20/s3404">3404.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3411" data-uslm-ref="/us/usc/t20/s3411">3411.</a>  </td>
 
     <td> Establishment of Department; appointment of Secretary.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3412" data-uslm-ref="/us/usc/t20/s3412">3412.</a>  </td>
 
     <td> Principal officers.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3413" data-uslm-ref="/us/usc/t20/s3413">3413.</a>  </td>
 
     <td> Office for Civil Rights.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3414" data-uslm-ref="/us/usc/t20/s3414">3414.</a>  </td>
 
     <td> Office of Elementary and Secondary Education; inclusion of Office of Migrant Education.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3415" data-uslm-ref="/us/usc/t20/s3415">3415.</a>  </td>
 
     <td> Office of Postsecondary Education.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3416" data-uslm-ref="/us/usc/t20/s3416">3416.</a>  </td>
 
     <td> Office of Vocational and Adult Education.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3417" data-uslm-ref="/us/usc/t20/s3417">3417.</a>  </td>
 
     <td> Office of Special Education and Rehabilitative Services.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3418" data-uslm-ref="/us/usc/t20/s3418">3418.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3419" data-uslm-ref="/us/usc/t20/s3419">3419.</a>  </td>
 
     <td> Institute of Education Sciences.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3420.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3420" data-uslm-ref="/us/usc/t20/s3420">3420.</a>  </td>
 
     <td> Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3421" data-uslm-ref="/us/usc/t20/s3421">3421.</a>  </td>
 
     <td> Office of General Counsel.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3422" data-uslm-ref="/us/usc/t20/s3422">3422.</a>  </td>
 
     <td> Office of Inspector General.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3423" data-uslm-ref="/us/usc/t20/s3423">3423.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3423a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3423a" data-uslm-ref="/us/usc/t20/s3423a">3423a.</a>  </td>
 
     <td> Office of Correctional Education.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3423b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3423b" data-uslm-ref="/us/usc/t20/s3423b">3423b.</a>  </td>
 
     <td> Office of Non-Public Education.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3423c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3423c" data-uslm-ref="/us/usc/t20/s3423c">3423c.</a>  </td>
 
     <td> Office of Indian Education.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3423d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3423d" data-uslm-ref="/us/usc/t20/s3423d">3423d.</a>  </td>
 
     <td> Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3424" data-uslm-ref="/us/usc/t20/s3424">3424.</a>  </td>
 
     <td> Federal Interagency Committee on Education.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3425" data-uslm-ref="/us/usc/t20/s3425">3425.</a>  </td>
 
     <td> Office of Educational Technology.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3426" data-uslm-ref="/us/usc/t20/s3426">3426.</a>  </td>
 
     <td> Liaison for Proprietary Institutions of Higher Education.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
   <tr>
 
-    <td> 3427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3427" data-uslm-ref="/us/usc/t20/s3427">3427.</a>  </td>
 
     <td> Coordinator for the outlying areas.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—TRANSFERS OF AGENCIES AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 3441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3441" data-uslm-ref="/us/usc/t20/s3441">3441.</a>  </td>
 
     <td> Transfers from Department of Health, Education, and Welfare.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—TRANSFERS OF AGENCIES AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 3442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3442" data-uslm-ref="/us/usc/t20/s3442">3442.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—TRANSFERS OF AGENCIES AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 3443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3443" data-uslm-ref="/us/usc/t20/s3443">3443.</a>  </td>
 
     <td> Transfers from Department of Labor.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—TRANSFERS OF AGENCIES AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 3444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3444" data-uslm-ref="/us/usc/t20/s3444">3444.</a>  </td>
 
     <td> Transfer of programs from National Science Foundation.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—TRANSFERS OF AGENCIES AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 3445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3445" data-uslm-ref="/us/usc/t20/s3445">3445.</a>  </td>
 
     <td> Transfers from Department of Justice.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—TRANSFERS OF AGENCIES AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 3446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3446" data-uslm-ref="/us/usc/t20/s3446">3446.</a>  </td>
 
     <td> Transfers from Department of Housing and Urban Development.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—TRANSFERS OF AGENCIES AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 3447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3447" data-uslm-ref="/us/usc/t20/s3447">3447.</a>  </td>
 
     <td> Effect of transfers.  </td>
 
@@ -321,7 +321,7 @@ Part A—Personnel Provisions  </td>
 
   <tr>
 
-    <td> 3461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3461" data-uslm-ref="/us/usc/t20/s3461">3461.</a>  </td>
 
     <td> Officers and employees.  </td>
 
@@ -329,7 +329,7 @@ Part A—Personnel Provisions  </td>
 
   <tr>
 
-    <td> 3462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3462" data-uslm-ref="/us/usc/t20/s3462">3462.</a>  </td>
 
     <td> Experts and consultants.  </td>
 
@@ -337,7 +337,7 @@ Part A—Personnel Provisions  </td>
 
   <tr>
 
-    <td> 3463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3463" data-uslm-ref="/us/usc/t20/s3463">3463.</a>  </td>
 
     <td> Personnel reduction and annual limitations.  </td>
 
@@ -353,7 +353,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3471" data-uslm-ref="/us/usc/t20/s3471">3471.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -361,7 +361,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3472" data-uslm-ref="/us/usc/t20/s3472">3472.</a>  </td>
 
     <td> Delegation of functions.  </td>
 
@@ -369,7 +369,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3473" data-uslm-ref="/us/usc/t20/s3473">3473.</a>  </td>
 
     <td> Reorganization of Department.  </td>
 
@@ -377,7 +377,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3474" data-uslm-ref="/us/usc/t20/s3474">3474.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -385,7 +385,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3475" data-uslm-ref="/us/usc/t20/s3475">3475.</a>  </td>
 
     <td> Contracts.  </td>
 
@@ -393,7 +393,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3476" data-uslm-ref="/us/usc/t20/s3476">3476.</a>  </td>
 
     <td> Regional and field offices.  </td>
 
@@ -401,7 +401,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3477" data-uslm-ref="/us/usc/t20/s3477">3477.</a>  </td>
 
     <td> Acquisition and maintenance of property.  </td>
 
@@ -409,7 +409,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3478" data-uslm-ref="/us/usc/t20/s3478">3478.</a>  </td>
 
     <td> Facilities at remote locations.  </td>
 
@@ -417,7 +417,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3479" data-uslm-ref="/us/usc/t20/s3479">3479.</a>  </td>
 
     <td> Use of facilities.  </td>
 
@@ -425,7 +425,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3480" data-uslm-ref="/us/usc/t20/s3480">3480.</a>  </td>
 
     <td> Copyrights and patents.  </td>
 
@@ -433,7 +433,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3481" data-uslm-ref="/us/usc/t20/s3481">3481.</a>  </td>
 
     <td> Gifts and bequests.  </td>
 
@@ -441,7 +441,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3482" data-uslm-ref="/us/usc/t20/s3482">3482.</a>  </td>
 
     <td> Technical advice.  </td>
 
@@ -449,7 +449,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3483" data-uslm-ref="/us/usc/t20/s3483">3483.</a>  </td>
 
     <td> Working capital fund.  </td>
 
@@ -457,7 +457,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3484" data-uslm-ref="/us/usc/t20/s3484">3484.</a>  </td>
 
     <td> Funds transfer.  </td>
 
@@ -465,7 +465,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3485" data-uslm-ref="/us/usc/t20/s3485">3485.</a>  </td>
 
     <td> Seal of Department.  </td>
 
@@ -473,7 +473,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3486" data-uslm-ref="/us/usc/t20/s3486">3486.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -481,7 +481,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3487.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3487" data-uslm-ref="/us/usc/t20/s3487">3487.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -489,7 +489,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3488" data-uslm-ref="/us/usc/t20/s3488">3488.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -497,7 +497,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3489" data-uslm-ref="/us/usc/t20/s3489">3489.</a>  </td>
 
     <td> General extension of authorizations.  </td>
 
@@ -505,7 +505,7 @@ Part B—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> 3490.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3490" data-uslm-ref="/us/usc/t20/s3490">3490.</a>  </td>
 
     <td> Potential financial interests or impaired objectivity of covered individuals or entities.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS  </td>
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3501" data-uslm-ref="/us/usc/t20/s3501">3501.</a>  </td>
 
     <td> Transfer and allocation of appropriations and personnel.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS  </td>
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3502" data-uslm-ref="/us/usc/t20/s3502">3502.</a>  </td>
 
     <td> Effect on personnel.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS  </td>
 
   <tr>
 
-    <td> 3503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3503" data-uslm-ref="/us/usc/t20/s3503">3503.</a>  </td>
 
     <td> Agency terminations.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS  </td>
 
   <tr>
 
-    <td> 3504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3504" data-uslm-ref="/us/usc/t20/s3504">3504.</a>  </td>
 
     <td> Incidental transfers.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS  </td>
 
   <tr>
 
-    <td> 3505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3505" data-uslm-ref="/us/usc/t20/s3505">3505.</a>  </td>
 
     <td> Savings provisions.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS  </td>
 
   <tr>
 
-    <td> 3506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3506" data-uslm-ref="/us/usc/t20/s3506">3506.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS  </td>
 
   <tr>
 
-    <td> 3507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3507" data-uslm-ref="/us/usc/t20/s3507">3507.</a>  </td>
 
     <td> Existing references to transferor officials or bodies deemed references to transferee officials or bodies.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS  </td>
 
   <tr>
 
-    <td> 3508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3508" data-uslm-ref="/us/usc/t20/s3508">3508.</a>  </td>
 
     <td> Department of Health and Human Services.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS  </td>
 
   <tr>
 
-    <td> 3509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3509" data-uslm-ref="/us/usc/t20/s3509">3509.</a>  </td>
 
     <td> Coordination of programs for handicapped.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER V—TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS  </td>
 
   <tr>
 
-    <td> 3510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3510" data-uslm-ref="/us/usc/t20/s3510">3510.</a>  </td>
 
     <td> Transitional provisions.  </td>
 

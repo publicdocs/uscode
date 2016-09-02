@@ -41,7 +41,7 @@ Part 1—Policy and Purpose  </td>
 
   <tr>
 
-    <td> 1701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1701" data-uslm-ref="/us/usc/t20/s1701">1701.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -49,7 +49,7 @@ Part 1—Policy and Purpose  </td>
 
   <tr>
 
-    <td> 1702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1702" data-uslm-ref="/us/usc/t20/s1702">1702.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -65,7 +65,7 @@ Part 2—Unlawful Practices  </td>
 
   <tr>
 
-    <td> 1703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1703" data-uslm-ref="/us/usc/t20/s1703">1703.</a>  </td>
 
     <td> Denial of equal educational opportunity prohibited.  </td>
 
@@ -73,7 +73,7 @@ Part 2—Unlawful Practices  </td>
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1704" data-uslm-ref="/us/usc/t20/s1704">1704.</a>  </td>
 
     <td> Balance not required.  </td>
 
@@ -81,7 +81,7 @@ Part 2—Unlawful Practices  </td>
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1705" data-uslm-ref="/us/usc/t20/s1705">1705.</a>  </td>
 
     <td> Assignment on neighborhood basis not a denial of equal educational opportunity.  </td>
 
@@ -97,7 +97,7 @@ Part 3—Enforcement  </td>
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1706" data-uslm-ref="/us/usc/t20/s1706">1706.</a>  </td>
 
     <td> Civil actions by individuals denied equal educational opportunities or by Attorney General.  </td>
 
@@ -105,7 +105,7 @@ Part 3—Enforcement  </td>
 
   <tr>
 
-    <td> 1707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1707" data-uslm-ref="/us/usc/t20/s1707">1707.</a>  </td>
 
     <td> Population changes without effect, per se, on school population changes.  </td>
 
@@ -113,7 +113,7 @@ Part 3—Enforcement  </td>
 
   <tr>
 
-    <td> 1708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1708" data-uslm-ref="/us/usc/t20/s1708">1708.</a>  </td>
 
     <td> Jurisdiction of district courts.  </td>
 
@@ -121,7 +121,7 @@ Part 3—Enforcement  </td>
 
   <tr>
 
-    <td> 1709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1709" data-uslm-ref="/us/usc/t20/s1709">1709.</a>  </td>
 
     <td> Intervention by Attorney General.  </td>
 
@@ -129,7 +129,7 @@ Part 3—Enforcement  </td>
 
   <tr>
 
-    <td> 1710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1710" data-uslm-ref="/us/usc/t20/s1710">1710.</a>  </td>
 
     <td> Civil actions by Attorney General; notice of violations; certification respecting undertaking appropriate remedial action.  </td>
 
@@ -145,7 +145,7 @@ Part 4—Remedies  </td>
 
   <tr>
 
-    <td> 1712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1712" data-uslm-ref="/us/usc/t20/s1712">1712.</a>  </td>
 
     <td> Formulating remedies; applicability.  </td>
 
@@ -153,7 +153,7 @@ Part 4—Remedies  </td>
 
   <tr>
 
-    <td> 1713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1713" data-uslm-ref="/us/usc/t20/s1713">1713.</a>  </td>
 
     <td> Priority of remedies.  </td>
 
@@ -161,7 +161,7 @@ Part 4—Remedies  </td>
 
   <tr>
 
-    <td> 1714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1714" data-uslm-ref="/us/usc/t20/s1714">1714.</a>  </td>
 
     <td> Transportation of students.  </td>
 
@@ -169,7 +169,7 @@ Part 4—Remedies  </td>
 
   <tr>
 
-    <td> 1715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1715" data-uslm-ref="/us/usc/t20/s1715">1715.</a>  </td>
 
     <td> District lines.  </td>
 
@@ -177,7 +177,7 @@ Part 4—Remedies  </td>
 
   <tr>
 
-    <td> 1716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1716" data-uslm-ref="/us/usc/t20/s1716">1716.</a>  </td>
 
     <td> Voluntary adoption of remedies.  </td>
 
@@ -185,7 +185,7 @@ Part 4—Remedies  </td>
 
   <tr>
 
-    <td> 1717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1717" data-uslm-ref="/us/usc/t20/s1717">1717.</a>  </td>
 
     <td> Reopening proceedings.  </td>
 
@@ -193,7 +193,7 @@ Part 4—Remedies  </td>
 
   <tr>
 
-    <td> 1718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1718" data-uslm-ref="/us/usc/t20/s1718">1718.</a>  </td>
 
     <td> Limitation on court orders; termination of orders conditioned upon compliance with fifth and fourteenth amendments; statement of basis for termination orders; stay of termination orders.  </td>
 
@@ -209,7 +209,7 @@ Part 5—Definitions  </td>
 
   <tr>
 
-    <td> 1720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1720" data-uslm-ref="/us/usc/t20/s1720">1720.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -225,7 +225,7 @@ Part 6—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 1721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1721" data-uslm-ref="/us/usc/t20/s1721">1721.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—ASSIGNMENT AND TRANSPORTATION OF STUDENTS  </td>
 
   <tr>
 
-    <td> 1751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1751" data-uslm-ref="/us/usc/t20/s1751">1751.</a>  </td>
 
     <td> Prohibition against assignment or transportation of students to overcome racial imbalance.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—ASSIGNMENT AND TRANSPORTATION OF STUDENTS  </td>
 
   <tr>
 
-    <td> 1752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1752" data-uslm-ref="/us/usc/t20/s1752">1752.</a>  </td>
 
     <td> Appeals from Federal district court transfer or transportation orders affecting school attendance areas and achieving balancing of students; postponement of Federal court orders pending exercise of appellate remedy; expiration of section.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—ASSIGNMENT AND TRANSPORTATION OF STUDENTS  </td>
 
   <tr>
 
-    <td> 1753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1753" data-uslm-ref="/us/usc/t20/s1753">1753.</a>  </td>
 
     <td> Uniform rules of evidence requirement.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—ASSIGNMENT AND TRANSPORTATION OF STUDENTS  </td>
 
   <tr>
 
-    <td> 1754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1754" data-uslm-ref="/us/usc/t20/s1754">1754.</a>  </td>
 
     <td> Provisions respecting transportation of pupils to achieve racial balance and judicial power to insure compliance with constitutional standards applicable to the entire United States.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—ASSIGNMENT AND TRANSPORTATION OF STUDENTS  </td>
 
   <tr>
 
-    <td> 1755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1755" data-uslm-ref="/us/usc/t20/s1755">1755.</a>  </td>
 
     <td> Additional priority of remedies after finding of de jure segregation.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—ASSIGNMENT AND TRANSPORTATION OF STUDENTS  </td>
 
   <tr>
 
-    <td> 1756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1756" data-uslm-ref="/us/usc/t20/s1756">1756.</a>  </td>
 
     <td> Remedies with respect to school district lines.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—ASSIGNMENT AND TRANSPORTATION OF STUDENTS  </td>
 
   <tr>
 
-    <td> 1757.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1757" data-uslm-ref="/us/usc/t20/s1757">1757.</a>  </td>
 
     <td> Prohibition of forced busing during school year.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—ASSIGNMENT AND TRANSPORTATION OF STUDENTS  </td>
 
   <tr>
 
-    <td> 1758.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1758" data-uslm-ref="/us/usc/t20/s1758">1758.</a>  </td>
 
     <td> Reasonable time for developing voluntary school desegregation plans following detailed notice of violations.  </td>
 

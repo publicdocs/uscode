@@ -41,7 +41,7 @@ Part A—Gallaudet University  </td>
 
   <tr>
 
-    <td> 4301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4301" data-uslm-ref="/us/usc/t20/s4301">4301.</a>  </td>
 
     <td> Continuation of Gallaudet College as Gallaudet University.  </td>
 
@@ -49,7 +49,7 @@ Part A—Gallaudet University  </td>
 
   <tr>
 
-    <td> 4302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4302" data-uslm-ref="/us/usc/t20/s4302">4302.</a>  </td>
 
     <td> Property rights.  </td>
 
@@ -57,7 +57,7 @@ Part A—Gallaudet University  </td>
 
   <tr>
 
-    <td> 4303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4303" data-uslm-ref="/us/usc/t20/s4303">4303.</a>  </td>
 
     <td> Board of Trustees.  </td>
 
@@ -65,7 +65,7 @@ Part A—Gallaudet University  </td>
 
   <tr>
 
-    <td> 4304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4304" data-uslm-ref="/us/usc/t20/s4304">4304.</a>  </td>
 
     <td> Laurent Clerc National Deaf Education Center.  </td>
 
@@ -73,7 +73,7 @@ Part A—Gallaudet University  </td>
 
   <tr>
 
-    <td> 4305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4305" data-uslm-ref="/us/usc/t20/s4305">4305.</a>  </td>
 
     <td> Agreement with Gallaudet University.  </td>
 
@@ -81,7 +81,9 @@ Part A—Gallaudet University  </td>
 
   <tr>
 
-    <td> 4311, 4321, 4322. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4311" data-uslm-ref="/us/usc/t20/s4311">4311</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4321" data-uslm-ref="/us/usc/t20/s4321">4321</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4322" data-uslm-ref="/us/usc/t20/s4322">4322.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -95,7 +97,7 @@ Part B—National Technical Institute for the Deaf  </td>
 
   <tr>
 
-    <td> 4331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4331" data-uslm-ref="/us/usc/t20/s4331">4331.</a>  </td>
 
     <td> Authority.  </td>
 
@@ -103,7 +105,7 @@ Part B—National Technical Institute for the Deaf  </td>
 
   <tr>
 
-    <td> 4332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4332" data-uslm-ref="/us/usc/t20/s4332">4332.</a>  </td>
 
     <td> Agreement for National Technical Institute for the Deaf.  </td>
 
@@ -119,7 +121,7 @@ Part C—Other Programs  </td>
 
   <tr>
 
-    <td> 4341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4341" data-uslm-ref="/us/usc/t20/s4341">4341.</a>  </td>
 
     <td> Cultural experiences grants.  </td>
 
@@ -135,7 +137,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4351" data-uslm-ref="/us/usc/t20/s4351">4351.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -143,7 +145,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4352" data-uslm-ref="/us/usc/t20/s4352">4352.</a>  </td>
 
     <td> Gifts.  </td>
 
@@ -151,7 +153,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4353" data-uslm-ref="/us/usc/t20/s4353">4353.</a>  </td>
 
     <td> Audit.  </td>
 
@@ -159,7 +161,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4354" data-uslm-ref="/us/usc/t20/s4354">4354.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -167,7 +169,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4355" data-uslm-ref="/us/usc/t20/s4355">4355.</a>  </td>
 
     <td> Monitoring, evaluation, and reporting.  </td>
 
@@ -175,7 +177,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4356.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4356" data-uslm-ref="/us/usc/t20/s4356">4356.</a>  </td>
 
     <td> Liaison for educational programs.  </td>
 
@@ -183,7 +185,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4357.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4357" data-uslm-ref="/us/usc/t20/s4357">4357.</a>  </td>
 
     <td> Federal endowment programs for Gallaudet University and the National Technical Institute for the Deaf.  </td>
 
@@ -191,7 +193,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4358.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4358" data-uslm-ref="/us/usc/t20/s4358">4358.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -199,7 +201,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4359.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4359" data-uslm-ref="/us/usc/t20/s4359">4359.</a>  </td>
 
     <td> Oversight and effect of agreements.  </td>
 
@@ -207,7 +209,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4359a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4359a" data-uslm-ref="/us/usc/t20/s4359a">4359a.</a>  </td>
 
     <td> International students.  </td>
 
@@ -215,7 +217,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4359b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4359b" data-uslm-ref="/us/usc/t20/s4359b">4359b.</a>  </td>
 
     <td> Research priorities.  </td>
 
@@ -223,7 +225,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4360.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4360" data-uslm-ref="/us/usc/t20/s4360">4360.</a>  </td>
 
     <td> National study on the education of the deaf.  </td>
 
@@ -231,7 +233,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4360a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4360a" data-uslm-ref="/us/usc/t20/s4360a">4360a.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -239,7 +241,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4361" data-uslm-ref="/us/usc/t20/s4361">4361.</a>  </td>
 
     <td> Supervision of public business of Gallaudet University.  </td>
 
@@ -247,7 +249,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4362" data-uslm-ref="/us/usc/t20/s4362">4362.</a>  </td>
 
     <td> Purchases through General Services Administration.  </td>
 
@@ -255,7 +257,7 @@ SUBCHAPTER II—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4363" data-uslm-ref="/us/usc/t20/s4363">4363.</a>  </td>
 
     <td> Financial and program audit by Secretary.  </td>
 

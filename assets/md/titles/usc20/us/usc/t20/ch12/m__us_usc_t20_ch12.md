@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs221" data-uslm-ref="/us/usc/t20/s221">221.</a>  </td>
 
     <td> Instructions of citizens from American republics; Government maintained professional educational institutions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 221a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs221a" data-uslm-ref="/us/usc/t20/s221a">221a.</a>  </td>
 
     <td> Instructions of citizens from American republics; United States Military Academy; restrictions; saving provision.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 222 to 224.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs222" data-uslm-ref="/us/usc/t20/s222">222</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs224" data-uslm-ref="/us/usc/t20/s224">224.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs225" data-uslm-ref="/us/usc/t20/s225">225.</a>  </td>
 
     <td> Fund for education of Iranian students in United States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 226.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs226" data-uslm-ref="/us/usc/t20/s226">226.</a>  </td>
 
     <td> Cooperative public and private sector program for providing scholarships to students from the Caribbean and Central America.  </td>
 

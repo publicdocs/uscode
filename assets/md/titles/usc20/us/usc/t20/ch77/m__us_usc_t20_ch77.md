@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9701" data-uslm-ref="/us/usc/t20/s9701">9701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9702" data-uslm-ref="/us/usc/t20/s9702">9702.</a>  </td>
 
     <td> Establishment of Financial Literacy and Education Commission.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9703" data-uslm-ref="/us/usc/t20/s9703">9703.</a>  </td>
 
     <td> Duties of the Commission.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9704" data-uslm-ref="/us/usc/t20/s9704">9704.</a>  </td>
 
     <td> Powers of the Commission.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9705" data-uslm-ref="/us/usc/t20/s9705">9705.</a>  </td>
 
     <td> Commission personnel matters.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9706" data-uslm-ref="/us/usc/t20/s9706">9706.</a>  </td>
 
     <td> Studies by the Comptroller General.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9707" data-uslm-ref="/us/usc/t20/s9707">9707.</a>  </td>
 
     <td> The national public service multimedia campaign to enhance the state of financial literacy.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9708" data-uslm-ref="/us/usc/t20/s9708">9708.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9709" data-uslm-ref="/us/usc/t20/s9709">9709.</a>  </td>
 
     <td> Coordinated education efforts.  </td>
 

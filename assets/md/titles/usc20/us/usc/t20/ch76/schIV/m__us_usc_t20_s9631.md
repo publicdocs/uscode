@@ -205,6 +205,8 @@
 
     Section was enacted as part of the Higher Education Opportunity Act, and not as part of [Pub. L. 107–279][/us/pl/107/279] which comprises this chapter.
 
+ __Amendments__ 
+
     2013—Subsec. (g)(1)(B)(ii). [Pub. L. 112–239][/us/pl/112/239] substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
 
 ----------

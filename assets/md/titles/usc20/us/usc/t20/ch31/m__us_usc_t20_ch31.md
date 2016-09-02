@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221" data-uslm-ref="/us/usc/t20/s1221">1221.</a>  </td>
 
     <td> Short title; applicability; definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1221–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221%E2%80%931" data-uslm-ref="/us/usc/t20/s1221–1">1221–1.</a>  </td>
 
     <td> National policy with respect to equal educational opportunity.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1221–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221%E2%80%932" data-uslm-ref="/us/usc/t20/s1221–2">1221–2.</a>  </td>
 
     <td> National policy with respect to museums as educational institutions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1221–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221%E2%80%933" data-uslm-ref="/us/usc/t20/s1221–3">1221–3.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—FUNCTIONS OF DEPARTMENT OF EDUCATION  </td>
 
   <tr>
 
-    <td> 1221a to 1221e–1c.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221a" data-uslm-ref="/us/usc/t20/s1221a">1221a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931c" data-uslm-ref="/us/usc/t20/s1221e–1c">1221e–1c.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—FUNCTIONS OF DEPARTMENT OF EDUCATION  </td>
 
   <tr>
 
-    <td> 1221e–1d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931d" data-uslm-ref="/us/usc/t20/s1221e–1d">1221e–1d.</a>  </td>
 
     <td> Use of Council staff and facilities.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—FUNCTIONS OF DEPARTMENT OF EDUCATION  </td>
 
   <tr>
 
-    <td> 1221e–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%932" data-uslm-ref="/us/usc/t20/s1221e–2">1221e–2.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—FUNCTIONS OF DEPARTMENT OF EDUCATION  </td>
 
   <tr>
 
-    <td> 1221e–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%933" data-uslm-ref="/us/usc/t20/s1221e–3">1221e–3.</a>  </td>
 
     <td> General authority of Secretary.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—FUNCTIONS OF DEPARTMENT OF EDUCATION  </td>
 
   <tr>
 
-    <td> 1221e–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%934" data-uslm-ref="/us/usc/t20/s1221e–4">1221e–4.</a>  </td>
 
     <td> Educational impact statement.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—FUNCTIONS OF DEPARTMENT OF EDUCATION  </td>
 
   <tr>
 
-    <td> 1221f to 1221i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221f" data-uslm-ref="/us/usc/t20/s1221f">1221f</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221i" data-uslm-ref="/us/usc/t20/s1221i">1221i.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—FUNCTIONS OF DEPARTMENT OF EDUCATION  </td>
 
   <tr>
 
-    <td> 1221j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1221j" data-uslm-ref="/us/usc/t20/s1221j">1221j.</a>  </td>
 
     <td> Television program assistance.  </td>
 
@@ -137,7 +137,7 @@ Part 1—Appropriations  </td>
 
   <tr>
 
-    <td> 1222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1222" data-uslm-ref="/us/usc/t20/s1222">1222.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -145,7 +145,7 @@ Part 1—Appropriations  </td>
 
   <tr>
 
-    <td> 1223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1223" data-uslm-ref="/us/usc/t20/s1223">1223.</a>  </td>
 
     <td> Forward funding.  </td>
 
@@ -153,7 +153,7 @@ Part 1—Appropriations  </td>
 
   <tr>
 
-    <td> 1224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1224" data-uslm-ref="/us/usc/t20/s1224">1224.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -161,7 +161,7 @@ Part 1—Appropriations  </td>
 
   <tr>
 
-    <td> 1225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1225" data-uslm-ref="/us/usc/t20/s1225">1225.</a>  </td>
 
     <td> Availability of appropriations on academic or school-year basis; additional period for obligation of funds.  </td>
 
@@ -169,7 +169,7 @@ Part 1—Appropriations  </td>
 
   <tr>
 
-    <td> 1226.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1226" data-uslm-ref="/us/usc/t20/s1226">1226.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -177,7 +177,7 @@ Part 1—Appropriations  </td>
 
   <tr>
 
-    <td> 1226a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1226a" data-uslm-ref="/us/usc/t20/s1226a">1226a.</a>  </td>
 
     <td> Contingent extension of programs.  </td>
 
@@ -185,7 +185,7 @@ Part 1—Appropriations  </td>
 
   <tr>
 
-    <td> 1226a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1226a%E2%80%931" data-uslm-ref="/us/usc/t20/s1226a–1">1226a–1.</a>  </td>
 
     <td> Payments; installments, advances or reimbursement, and adjustments.  </td>
 
@@ -201,7 +201,7 @@ Part 2—Planning and Evaluation of Federal Education Activities  </td>
 
   <tr>
 
-    <td> 1226b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1226b" data-uslm-ref="/us/usc/t20/s1226b">1226b.</a>  </td>
 
     <td> Responsibility of States to furnish information.  </td>
 
@@ -209,7 +209,7 @@ Part 2—Planning and Evaluation of Federal Education Activities  </td>
 
   <tr>
 
-    <td> 1226c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1226c" data-uslm-ref="/us/usc/t20/s1226c">1226c.</a>  </td>
 
     <td> Biennial evaluation report.  </td>
 
@@ -217,7 +217,7 @@ Part 2—Planning and Evaluation of Federal Education Activities  </td>
 
   <tr>
 
-    <td> 1226c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1226c%E2%80%931" data-uslm-ref="/us/usc/t20/s1226c–1">1226c–1.</a>  </td>
 
     <td> Availability of education reports, etc., to Congressional committees.  </td>
 
@@ -225,7 +225,7 @@ Part 2—Planning and Evaluation of Federal Education Activities  </td>
 
   <tr>
 
-    <td> 1226d, 1227.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1226d" data-uslm-ref="/us/usc/t20/s1226d">1226d</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1227" data-uslm-ref="/us/usc/t20/s1227">1227.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -233,7 +233,7 @@ Part 2—Planning and Evaluation of Federal Education Activities  </td>
 
   <tr>
 
-    <td> 1228.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1228" data-uslm-ref="/us/usc/t20/s1228">1228.</a>  </td>
 
     <td> Prohibition against use of appropriated funds for busing.  </td>
 
@@ -241,7 +241,7 @@ Part 2—Planning and Evaluation of Federal Education Activities  </td>
 
   <tr>
 
-    <td> 1228a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1228a" data-uslm-ref="/us/usc/t20/s1228a">1228a.</a>  </td>
 
     <td> Equity for students, teachers, and other program beneficiaries.  </td>
 
@@ -249,7 +249,7 @@ Part 2—Planning and Evaluation of Federal Education Activities  </td>
 
   <tr>
 
-    <td> 1228b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1228b" data-uslm-ref="/us/usc/t20/s1228b">1228b.</a>  </td>
 
     <td> Coordination.  </td>
 
@@ -257,7 +257,7 @@ Part 2—Planning and Evaluation of Federal Education Activities  </td>
 
   <tr>
 
-    <td> 1228c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1228c" data-uslm-ref="/us/usc/t20/s1228c">1228c.</a>  </td>
 
     <td> Disclosure requirements.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—GENERAL REQUIREMENTS AND CONDITIONS CONCERNING OPERATION AND AD
 
   <tr>
 
-    <td> 1230.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1230" data-uslm-ref="/us/usc/t20/s1230">1230.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -289,7 +289,7 @@ Part 1—General Authority  </td>
 
   <tr>
 
-    <td> 1231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231" data-uslm-ref="/us/usc/t20/s1231">1231.</a>  </td>
 
     <td> Joint funding of programs.  </td>
 
@@ -297,7 +297,7 @@ Part 1—General Authority  </td>
 
   <tr>
 
-    <td> 1231a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231a" data-uslm-ref="/us/usc/t20/s1231a">1231a.</a>  </td>
 
     <td> Collection and dissemination of information.  </td>
 
@@ -305,7 +305,7 @@ Part 1—General Authority  </td>
 
   <tr>
 
-    <td> 1231b, 1231b–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231b" data-uslm-ref="/us/usc/t20/s1231b">1231b</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231b%E2%80%931" data-uslm-ref="/us/usc/t20/s1231b–1">1231b–1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -313,7 +313,7 @@ Part 1—General Authority  </td>
 
   <tr>
 
-    <td> 1231b–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231b%E2%80%932" data-uslm-ref="/us/usc/t20/s1231b–2">1231b–2.</a>  </td>
 
     <td> Review of applications.  </td>
 
@@ -321,7 +321,7 @@ Part 1—General Authority  </td>
 
   <tr>
 
-    <td> 1231c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231c" data-uslm-ref="/us/usc/t20/s1231c">1231c.</a>  </td>
 
     <td> Advice, counsel, and technical assistance.  </td>
 
@@ -329,7 +329,7 @@ Part 1—General Authority  </td>
 
   <tr>
 
-    <td> 1231c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231c%E2%80%931" data-uslm-ref="/us/usc/t20/s1231c–1">1231c–1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -337,7 +337,7 @@ Part 1—General Authority  </td>
 
   <tr>
 
-    <td> 1231d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231d" data-uslm-ref="/us/usc/t20/s1231d">1231d.</a>  </td>
 
     <td> Parental involvement and dissemination.  </td>
 
@@ -345,7 +345,7 @@ Part 1—General Authority  </td>
 
   <tr>
 
-    <td> 1231e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231e" data-uslm-ref="/us/usc/t20/s1231e">1231e.</a>  </td>
 
     <td> Use of funds withheld.  </td>
 
@@ -353,7 +353,7 @@ Part 1—General Authority  </td>
 
   <tr>
 
-    <td> 1231f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231f" data-uslm-ref="/us/usc/t20/s1231f">1231f.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -369,7 +369,7 @@ Part 2—Administration: Requirements and Limitations  </td>
 
   <tr>
 
-    <td> 1231g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1231g" data-uslm-ref="/us/usc/t20/s1231g">1231g.</a>  </td>
 
     <td> Applications.  </td>
 
@@ -377,7 +377,7 @@ Part 2—Administration: Requirements and Limitations  </td>
 
   <tr>
 
-    <td> 1232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232" data-uslm-ref="/us/usc/t20/s1232">1232.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -385,7 +385,7 @@ Part 2—Administration: Requirements and Limitations  </td>
 
   <tr>
 
-    <td> 1232–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232%E2%80%931" data-uslm-ref="/us/usc/t20/s1232–1">1232–1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -393,7 +393,7 @@ Part 2—Administration: Requirements and Limitations  </td>
 
   <tr>
 
-    <td> 1232a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232a" data-uslm-ref="/us/usc/t20/s1232a">1232a.</a>  </td>
 
     <td> Prohibition against Federal control of education.  </td>
 
@@ -401,7 +401,7 @@ Part 2—Administration: Requirements and Limitations  </td>
 
   <tr>
 
-    <td> 1232b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232b" data-uslm-ref="/us/usc/t20/s1232b">1232b.</a>  </td>
 
     <td> Labor standards.  </td>
 
@@ -417,7 +417,7 @@ Part 3—Administration of Education Programs and Projects by States and Local E
 
   <tr>
 
-    <td> 1232c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232c" data-uslm-ref="/us/usc/t20/s1232c">1232c.</a>  </td>
 
     <td> State agency monitoring and enforcement.  </td>
 
@@ -425,7 +425,7 @@ Part 3—Administration of Education Programs and Projects by States and Local E
 
   <tr>
 
-    <td> 1232d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232d" data-uslm-ref="/us/usc/t20/s1232d">1232d.</a>  </td>
 
     <td> Single State application.  </td>
 
@@ -433,7 +433,7 @@ Part 3—Administration of Education Programs and Projects by States and Local E
 
   <tr>
 
-    <td> 1232e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232e" data-uslm-ref="/us/usc/t20/s1232e">1232e.</a>  </td>
 
     <td> Single local educational agency application.  </td>
 
@@ -449,7 +449,7 @@ Part 4—Records; Privacy; Limitation on Withholding Federal Funds  </td>
 
   <tr>
 
-    <td> 1232f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232f" data-uslm-ref="/us/usc/t20/s1232f">1232f.</a>  </td>
 
     <td> Records.  </td>
 
@@ -457,7 +457,7 @@ Part 4—Records; Privacy; Limitation on Withholding Federal Funds  </td>
 
   <tr>
 
-    <td> 1232g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232g" data-uslm-ref="/us/usc/t20/s1232g">1232g.</a>  </td>
 
     <td> Family educational and privacy rights.  </td>
 
@@ -465,7 +465,7 @@ Part 4—Records; Privacy; Limitation on Withholding Federal Funds  </td>
 
   <tr>
 
-    <td> 1232h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232h" data-uslm-ref="/us/usc/t20/s1232h">1232h.</a>  </td>
 
     <td> Protection of pupil rights.  </td>
 
@@ -473,7 +473,7 @@ Part 4—Records; Privacy; Limitation on Withholding Federal Funds  </td>
 
   <tr>
 
-    <td> 1232i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232i" data-uslm-ref="/us/usc/t20/s1232i">1232i.</a>  </td>
 
     <td> Limitations on withholding of Federal assistance.  </td>
 
@@ -481,7 +481,7 @@ Part 4—Records; Privacy; Limitation on Withholding Federal Funds  </td>
 
   <tr>
 
-    <td> 1232j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1232j" data-uslm-ref="/us/usc/t20/s1232j">1232j.</a>  </td>
 
     <td> Prohibition on federally sponsored testing.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1234" data-uslm-ref="/us/usc/t20/s1234">1234.</a>  </td>
 
     <td> Office of Administrative Law Judges.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1234a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1234a" data-uslm-ref="/us/usc/t20/s1234a">1234a.</a>  </td>
 
     <td> Recovery of funds.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1234b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1234b" data-uslm-ref="/us/usc/t20/s1234b">1234b.</a>  </td>
 
     <td> Measure of recovery.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1234c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1234c" data-uslm-ref="/us/usc/t20/s1234c">1234c.</a>  </td>
 
     <td> Remedies for existing violations.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1234d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1234d" data-uslm-ref="/us/usc/t20/s1234d">1234d.</a>  </td>
 
     <td> Withholding.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1234e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1234e" data-uslm-ref="/us/usc/t20/s1234e">1234e.</a>  </td>
 
     <td> Cease and desist orders.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1234f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1234f" data-uslm-ref="/us/usc/t20/s1234f">1234f.</a>  </td>
 
     <td> Compliance agreements.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1234g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1234g" data-uslm-ref="/us/usc/t20/s1234g">1234g.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1234h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1234h" data-uslm-ref="/us/usc/t20/s1234h">1234h.</a>  </td>
 
     <td> Use of recovered funds.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1234i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1234i" data-uslm-ref="/us/usc/t20/s1234i">1234i.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER V—READY TO LEARN TELEVISION  </td>
 
   <tr>
 
-    <td> 1235 to 1235g.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1235" data-uslm-ref="/us/usc/t20/s1235">1235</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1235g" data-uslm-ref="/us/usc/t20/s1235g">1235g.</a>  </td>
 
     <td> Repealed.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs951" data-uslm-ref="/us/usc/t20/s951">951.</a>  </td>
 
     <td> Declaration of findings and purposes.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs952" data-uslm-ref="/us/usc/t20/s952">952.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs953" data-uslm-ref="/us/usc/t20/s953">953.</a>  </td>
 
     <td> National Foundation on the Arts and the Humanities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs954" data-uslm-ref="/us/usc/t20/s954">954.</a>  </td>
 
     <td> National Endowment for the Arts.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 954a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs954a" data-uslm-ref="/us/usc/t20/s954a">954a.</a>  </td>
 
     <td> Access to the arts through support of education.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs955" data-uslm-ref="/us/usc/t20/s955">955.</a>  </td>
 
     <td> National Council on the Arts.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 955a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs955a" data-uslm-ref="/us/usc/t20/s955a">955a.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 955b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs955b" data-uslm-ref="/us/usc/t20/s955b">955b.</a>  </td>
 
     <td> National Medal of Arts.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs956" data-uslm-ref="/us/usc/t20/s956">956.</a>  </td>
 
     <td> National Endowment for the Humanities.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 956a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs956a" data-uslm-ref="/us/usc/t20/s956a">956a.</a>  </td>
 
     <td> National Capital arts and cultural affairs; grant programs.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs957" data-uslm-ref="/us/usc/t20/s957">957.</a>  </td>
 
     <td> National Council on the Humanities.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 957a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs957a" data-uslm-ref="/us/usc/t20/s957a">957a.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs958" data-uslm-ref="/us/usc/t20/s958">958.</a>  </td>
 
     <td> Federal Council on the Arts and the Humanities.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 959.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs959" data-uslm-ref="/us/usc/t20/s959">959.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 959a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs959a" data-uslm-ref="/us/usc/t20/s959a">959a.</a>  </td>
 
     <td> Gifts, bequests, and devises.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES  </td>
 
   <tr>
 
-    <td> 960.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs960" data-uslm-ref="/us/usc/t20/s960">960.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—MUSEUM SERVICES  </td>
 
   <tr>
 
-    <td> 961 to 969.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs961" data-uslm-ref="/us/usc/t20/s961">961</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs969" data-uslm-ref="/us/usc/t20/s969">969.</a>  </td>
 
     <td> Omitted.  </td>
 

@@ -25,9 +25,9 @@
 
   <tr>
 
-    <td> 9001 to 9012. Repealed or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9001" data-uslm-ref="/us/usc/t20/s9001">9001</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9012" data-uslm-ref="/us/usc/t20/s9012">9012.</a>  </td>
 
-    <td> Transferred.  </td>
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 

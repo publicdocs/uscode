@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5701" data-uslm-ref="/us/usc/t20/s5701">5701.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5702" data-uslm-ref="/us/usc/t20/s5702">5702.</a>  </td>
 
     <td> Christopher Columbus Fellowship Foundation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5703" data-uslm-ref="/us/usc/t20/s5703">5703.</a>  </td>
 
     <td> Fellowship recipients.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5704" data-uslm-ref="/us/usc/t20/s5704">5704.</a>  </td>
 
     <td> Stipends.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5705" data-uslm-ref="/us/usc/t20/s5705">5705.</a>  </td>
 
     <td> Christopher Columbus Fellowship Fund.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5706" data-uslm-ref="/us/usc/t20/s5706">5706.</a>  </td>
 
     <td> Audits.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5707" data-uslm-ref="/us/usc/t20/s5707">5707.</a>  </td>
 
     <td> Executive Secretary of Foundation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5708" data-uslm-ref="/us/usc/t20/s5708">5708.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5709" data-uslm-ref="/us/usc/t20/s5709">5709.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

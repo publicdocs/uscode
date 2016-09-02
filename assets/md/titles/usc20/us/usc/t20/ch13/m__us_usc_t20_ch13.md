@@ -33,7 +33,9 @@ SUBCHAPTER I—ASSISTANCE FOR LOCAL EDUCATIONAL AGENCIES IN AREAS AFFECTED BY FE
 
   <tr>
 
-    <td> 231 to 241–1. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs231" data-uslm-ref="/us/usc/t20/s231">231</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241%E2%80%931" data-uslm-ref="/us/usc/t20/s241–1">241–1.</a>  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -47,7 +49,9 @@ SUBCHAPTER II—ASSISTANCE TO LOCAL EDUCATIONAL AGENCIES FOR THE EDUCATION OF CH
 
   <tr>
 
-    <td> 241a to 241b–1. Repealed or Transferred.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241a" data-uslm-ref="/us/usc/t20/s241a">241a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241b%E2%80%931" data-uslm-ref="/us/usc/t20/s241b–1">241b–1.</a>  </td>
+
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
@@ -69,7 +73,7 @@ subpart 1—grants to local educational agencies  </td>
 
   <tr>
 
-    <td> 241c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241c" data-uslm-ref="/us/usc/t20/s241c">241c.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -85,7 +89,9 @@ subpart 2—state operated programs  </td>
 
   <tr>
 
-    <td> 241c–1 to 241c–5. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241c%E2%80%931" data-uslm-ref="/us/usc/t20/s241c–1">241c–1</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241c%E2%80%935" data-uslm-ref="/us/usc/t20/s241c–5">241c–5.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -99,7 +105,9 @@ Part B—Special Incentive Grants  </td>
 
   <tr>
 
-    <td> 241d to 241d–2. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241d" data-uslm-ref="/us/usc/t20/s241d">241d</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241d%E2%80%932" data-uslm-ref="/us/usc/t20/s241d–2">241d–2.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -113,7 +121,9 @@ Part C—Special Grants  </td>
 
   <tr>
 
-    <td> 241d–11, 241d–12. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241d%E2%80%9311" data-uslm-ref="/us/usc/t20/s241d–11">241d–11</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241d%E2%80%9312" data-uslm-ref="/us/usc/t20/s241d–12">241d–12.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -127,7 +137,7 @@ Part D—General Provisions  </td>
 
   <tr>
 
-    <td> 241e to 241o. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241e" data-uslm-ref="/us/usc/t20/s241e">241e</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241" data-uslm-ref="/us/usc/t20/s241">241</a>o. Repealed.  </td>
 
   </tr>
 
@@ -141,7 +151,9 @@ SUBCHAPTER III—FINANCIAL ASSISTANCE TO LOCAL EDUCATIONAL AGENCIES FOR EDUCATIO
 
   <tr>
 
-    <td> 241aa to 241ff. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241aa" data-uslm-ref="/us/usc/t20/s241aa">241aa</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241ff" data-uslm-ref="/us/usc/t20/s241ff">241ff.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -155,9 +167,9 @@ SUBCHAPTER IV—GENERAL  </td>
 
   <tr>
 
-    <td> 242 to 246. Repealed, Transferred, or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs242" data-uslm-ref="/us/usc/t20/s242">242</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs246" data-uslm-ref="/us/usc/t20/s246">246.</a>  </td>
 
-    <td> Omitted.  </td>
+    <td> Repealed, Transferred, or Omitted.  </td>
 
   </tr>
 

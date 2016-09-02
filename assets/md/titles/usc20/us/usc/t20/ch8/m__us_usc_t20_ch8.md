@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs121" data-uslm-ref="/us/usc/t20/s121">121.</a>  </td>
 
     <td> Annual report of president and directors.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs122" data-uslm-ref="/us/usc/t20/s122">122.</a>  </td>
 
     <td> Limitation on use of appropriations.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs123" data-uslm-ref="/us/usc/t20/s123">123.</a>  </td>
 
     <td> Annual appropriations; inspection by Secretary of Education.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs124" data-uslm-ref="/us/usc/t20/s124">124.</a>  </td>
 
     <td> Transfer of Freedmen’s Hospital to Howard University.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs125" data-uslm-ref="/us/usc/t20/s125">125.</a>  </td>
 
     <td> Employees of hospital.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs126" data-uslm-ref="/us/usc/t20/s126">126.</a>  </td>
 
     <td> Authorization of appropriations for construction of hospital facilities.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs127" data-uslm-ref="/us/usc/t20/s127">127.</a>  </td>
 
     <td> Transfer of facilities by University or cessation of operation as teaching hospital facilities; recovery of value by United States.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs128" data-uslm-ref="/us/usc/t20/s128">128.</a>  </td>
 
     <td> Authorization of appropriations for partial support of operation of facilities; separate account.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 129.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs129" data-uslm-ref="/us/usc/t20/s129">129.</a>  </td>
 
     <td> Financial policy; report to Congress.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 130.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs130" data-uslm-ref="/us/usc/t20/s130">130.</a>  </td>
 
     <td> Purchases through the General Services Administration.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 130a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs130a" data-uslm-ref="/us/usc/t20/s130a">130a.</a>  </td>
 
     <td> Financial and program audit by Secretary.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ENDOWMENT  </td>
 
   <tr>
 
-    <td> 130aa.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs130aa" data-uslm-ref="/us/usc/t20/s130aa">130aa.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ENDOWMENT  </td>
 
   <tr>
 
-    <td> 130aa–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs130aa%E2%80%931" data-uslm-ref="/us/usc/t20/s130aa–1">130aa–1.</a>  </td>
 
     <td> Program authorized.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ENDOWMENT  </td>
 
   <tr>
 
-    <td> 130aa–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs130aa%E2%80%932" data-uslm-ref="/us/usc/t20/s130aa–2">130aa–2.</a>  </td>
 
     <td> Investments.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—ENDOWMENT  </td>
 
   <tr>
 
-    <td> 130aa–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs130aa%E2%80%933" data-uslm-ref="/us/usc/t20/s130aa–3">130aa–3.</a>  </td>
 
     <td> Withdrawals and expenditures.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—ENDOWMENT  </td>
 
   <tr>
 
-    <td> 130aa–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs130aa%E2%80%934" data-uslm-ref="/us/usc/t20/s130aa–4">130aa–4.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—ENDOWMENT  </td>
 
   <tr>
 
-    <td> 130aa–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs130aa%E2%80%935" data-uslm-ref="/us/usc/t20/s130aa–5">130aa–5.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

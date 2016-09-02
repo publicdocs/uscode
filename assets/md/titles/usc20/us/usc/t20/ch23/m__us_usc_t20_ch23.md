@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs801" data-uslm-ref="/us/usc/t20/s801">801.</a>  </td>
 
     <td> Congressional findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs802" data-uslm-ref="/us/usc/t20/s802">802.</a>  </td>
 
     <td> Fellowships for city planning, management, housing specialists, and persons with general capacity in urban affairs and problems.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs803" data-uslm-ref="/us/usc/t20/s803">803.</a>  </td>
 
     <td> Matching grants to States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 803a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs803a" data-uslm-ref="/us/usc/t20/s803a">803a.</a>  </td>
 
     <td> Project grants and contracts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs804" data-uslm-ref="/us/usc/t20/s804">804.</a>  </td>
 
     <td> Limitation on grants to any one State.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs805" data-uslm-ref="/us/usc/t20/s805">805.</a>  </td>
 
     <td> Technical assistance, studies, and publication of information.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs806" data-uslm-ref="/us/usc/t20/s806">806.</a>  </td>
 
     <td> Authorization of appropriations; availability of funds.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs807" data-uslm-ref="/us/usc/t20/s807">807.</a>  </td>
 
     <td> Definitions; authorization of appropriations for administrative and other expenses.  </td>
 

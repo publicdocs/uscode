@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5601" data-uslm-ref="/us/usc/t20/s5601">5601.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5602" data-uslm-ref="/us/usc/t20/s5602">5602.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5603" data-uslm-ref="/us/usc/t20/s5603">5603.</a>  </td>
 
     <td> Establishment of Morris K. Udall and Stewart L. Udall Foundation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5604" data-uslm-ref="/us/usc/t20/s5604">5604.</a>  </td>
 
     <td> Purpose of Foundation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5605" data-uslm-ref="/us/usc/t20/s5605">5605.</a>  </td>
 
     <td> Authority of Foundation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5606" data-uslm-ref="/us/usc/t20/s5606">5606.</a>  </td>
 
     <td> Establishment of Morris K. Udall and Stewart L. Udall Trust Fund.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5607" data-uslm-ref="/us/usc/t20/s5607">5607.</a>  </td>
 
     <td> Expenditures and audit of Trust Fund.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5607a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5607a" data-uslm-ref="/us/usc/t20/s5607a">5607a.</a>  </td>
 
     <td> Environmental Dispute Resolution Fund.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5607b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5607b" data-uslm-ref="/us/usc/t20/s5607b">5607b.</a>  </td>
 
     <td> Use of Institute by Federal agency or other entity.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5608" data-uslm-ref="/us/usc/t20/s5608">5608.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5609" data-uslm-ref="/us/usc/t20/s5609">5609.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

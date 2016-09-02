@@ -33,7 +33,7 @@ SUBCHAPTER I—CAREER EDUCATION AND DEVELOPMENT PROGRAMS AND ACTIVITIES  </td>
 
   <tr>
 
-    <td> 2501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2501" data-uslm-ref="/us/usc/t20/s2501">2501.</a>  </td>
 
     <td> Statement of purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—CAREER EDUCATION AND DEVELOPMENT PROGRAMS AND ACTIVITIES  </td>
 
   <tr>
 
-    <td> 2502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2502" data-uslm-ref="/us/usc/t20/s2502">2502.</a>  </td>
 
     <td> Funding requirements.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—CAREER EDUCATION AND DEVELOPMENT PROGRAMS AND ACTIVITIES  </td>
 
   <tr>
 
-    <td> 2503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2503" data-uslm-ref="/us/usc/t20/s2503">2503.</a>  </td>
 
     <td> Administration by Office of Career Education.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CAREER EDUCATION AND DEVELOPMENT PROGRAMS AND ACTIVITIES  </td>
 
   <tr>
 
-    <td> 2504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2504" data-uslm-ref="/us/usc/t20/s2504">2504.</a>  </td>
 
     <td> Prerequisites for State participation.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—CAREER EDUCATION AND DEVELOPMENT PROGRAMS AND ACTIVITIES  </td>
 
   <tr>
 
-    <td> 2505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2505" data-uslm-ref="/us/usc/t20/s2505">2505.</a>  </td>
 
     <td> Grants or contracts.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—CAREER EDUCATION AND DEVELOPMENT PROGRAMS AND ACTIVITIES  </td>
 
   <tr>
 
-    <td> 2506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2506" data-uslm-ref="/us/usc/t20/s2506">2506.</a>  </td>
 
     <td> Functions of National Advisory Council for Career Education.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—GUIDANCE AND COUNSELING ACTIVITIES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2531" data-uslm-ref="/us/usc/t20/s2531">2531.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—GUIDANCE AND COUNSELING ACTIVITIES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2532" data-uslm-ref="/us/usc/t20/s2532">2532.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—GUIDANCE AND COUNSELING ACTIVITIES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2533" data-uslm-ref="/us/usc/t20/s2533">2533.</a>  </td>
 
     <td> Administration by unit in Department of Education.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—GUIDANCE AND COUNSELING ACTIVITIES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2534" data-uslm-ref="/us/usc/t20/s2534">2534.</a>  </td>
 
     <td> Contracts and grants to States, educational agencies, etc.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2561 to 2563.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2561" data-uslm-ref="/us/usc/t20/s2561">2561</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2563" data-uslm-ref="/us/usc/t20/s2563">2563.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2564.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2564" data-uslm-ref="/us/usc/t20/s2564">2564.</a>  </td>
 
     <td> Departmental day care center facilities; establishment; fees and charges; equipment and operation by appropriated funds.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2565" data-uslm-ref="/us/usc/t20/s2565">2565.</a>  </td>
 
     <td> Wayne Morse Chair of Law and Politics.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2566.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2566" data-uslm-ref="/us/usc/t20/s2566">2566.</a>  </td>
 
     <td> Hubert H. Humphrey Institute of Public Affairs; grants for development.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2567.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2567" data-uslm-ref="/us/usc/t20/s2567">2567.</a>  </td>
 
     <td> Everett McKinley Dirksen Congressional Leadership Research Center; grants for development.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2568.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2568" data-uslm-ref="/us/usc/t20/s2568">2568.</a>  </td>
 
     <td> Payments to Humphrey Institute and Dirksen Center; procedures applicable.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2569.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2569" data-uslm-ref="/us/usc/t20/s2569">2569.</a>  </td>
 
     <td> Authorization of appropriations for Humphrey Institute and Dirksen Center.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 971.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs971" data-uslm-ref="/us/usc/t20/s971">971.</a>  </td>
 
     <td> Agreements to indemnify against loss or damage.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 972.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs972" data-uslm-ref="/us/usc/t20/s972">972.</a>  </td>
 
     <td> Items eligible for indemnity agreements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 973.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs973" data-uslm-ref="/us/usc/t20/s973">973.</a>  </td>
 
     <td> Application for indemnity agreements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 974.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs974" data-uslm-ref="/us/usc/t20/s974">974.</a>  </td>
 
     <td> Indemnity limits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 975.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs975" data-uslm-ref="/us/usc/t20/s975">975.</a>  </td>
 
     <td> Claims for losses.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 976.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs976" data-uslm-ref="/us/usc/t20/s976">976.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 977.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs977" data-uslm-ref="/us/usc/t20/s977">977.</a>  </td>
 
     <td> Omitted.  </td>
 

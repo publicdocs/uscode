@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2101" data-uslm-ref="/us/usc/t20/s2101">2101.</a>  </td>
 
     <td> Congressional declaration of findings and purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2102" data-uslm-ref="/us/usc/t20/s2102">2102.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2103" data-uslm-ref="/us/usc/t20/s2103">2103.</a>  </td>
 
     <td> American Folklife Center.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2104" data-uslm-ref="/us/usc/t20/s2104">2104.</a>  </td>
 
     <td> Functions of Center.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2105" data-uslm-ref="/us/usc/t20/s2105">2105.</a>  </td>
 
     <td> Limitations on contracts.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2106" data-uslm-ref="/us/usc/t20/s2106">2106.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2107" data-uslm-ref="/us/usc/t20/s2107">2107.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—VETERANS’ ORAL HISTORY  </td>
 
   <tr>
 
-    <td> 2141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2141" data-uslm-ref="/us/usc/t20/s2141">2141.</a>  </td>
 
     <td> Findings; purpose.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—VETERANS’ ORAL HISTORY  </td>
 
   <tr>
 
-    <td> 2142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2142" data-uslm-ref="/us/usc/t20/s2142">2142.</a>  </td>
 
     <td> Establishment of program at American Folklife Center to collect video and audio recordings of histories of veterans.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—VETERANS’ ORAL HISTORY  </td>
 
   <tr>
 
-    <td> 2143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2143" data-uslm-ref="/us/usc/t20/s2143">2143.</a>  </td>
 
     <td> Private support.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—VETERANS’ ORAL HISTORY  </td>
 
   <tr>
 
-    <td> 2144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs2144" data-uslm-ref="/us/usc/t20/s2144">2144.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

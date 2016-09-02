@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs901" data-uslm-ref="/us/usc/t20/s901">901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs902" data-uslm-ref="/us/usc/t20/s902">902.</a>  </td>
 
     <td> Regulations of Secretary of Defense.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs903" data-uslm-ref="/us/usc/t20/s903">903.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs904" data-uslm-ref="/us/usc/t20/s904">904.</a>  </td>
 
     <td> Leave.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs905" data-uslm-ref="/us/usc/t20/s905">905.</a>  </td>
 
     <td> Quarters, quarters allowances, and storage.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs906" data-uslm-ref="/us/usc/t20/s906">906.</a>  </td>
 
     <td> Entitlements in addition to basic compensation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs907" data-uslm-ref="/us/usc/t20/s907">907.</a>  </td>
 
     <td> Applicability of other laws.  </td>
 

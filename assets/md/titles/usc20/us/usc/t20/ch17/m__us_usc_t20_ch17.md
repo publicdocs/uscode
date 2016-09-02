@@ -33,7 +33,9 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 401 to 403. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs401" data-uslm-ref="/us/usc/t20/s401">401</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs403" data-uslm-ref="/us/usc/t20/s403">403.</a>  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -47,7 +49,9 @@ SUBCHAPTER II—LOANS TO STUDENTS IN INSTITUTIONS OF HIGHER LEARNING  </td>
 
   <tr>
 
-    <td> 421 to 429. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs421" data-uslm-ref="/us/usc/t20/s421">421</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs429" data-uslm-ref="/us/usc/t20/s429">429.</a>  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -69,7 +73,9 @@ Part A—Grants to States  </td>
 
   <tr>
 
-    <td> 441 to 445. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs441" data-uslm-ref="/us/usc/t20/s441">441</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs445" data-uslm-ref="/us/usc/t20/s445">445.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -83,7 +89,9 @@ Part B—Grants to Local Educational Agencies  </td>
 
   <tr>
 
-    <td> 451 to 455. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs451" data-uslm-ref="/us/usc/t20/s451">451</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs455" data-uslm-ref="/us/usc/t20/s455">455.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -97,7 +105,9 @@ SUBCHAPTER IV—NATIONAL DEFENSE FELLOWSHIPS  </td>
 
   <tr>
 
-    <td> 461 to 465. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs461" data-uslm-ref="/us/usc/t20/s461">461</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs465" data-uslm-ref="/us/usc/t20/s465">465.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -119,7 +129,9 @@ Part A—State Programs  </td>
 
   <tr>
 
-    <td> 481 to 485. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs481" data-uslm-ref="/us/usc/t20/s481">481</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs485" data-uslm-ref="/us/usc/t20/s485">485.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -133,7 +145,7 @@ Part B—Counseling and Guidance Training Institutes  </td>
 
   <tr>
 
-    <td> 491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs491" data-uslm-ref="/us/usc/t20/s491">491.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -157,7 +169,9 @@ Part A—Centers and Research and Studies  </td>
 
   <tr>
 
-    <td> 511 to 513. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs511" data-uslm-ref="/us/usc/t20/s511">511</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs513" data-uslm-ref="/us/usc/t20/s513">513.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -171,7 +185,7 @@ Part B—Language Institutes  </td>
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs521" data-uslm-ref="/us/usc/t20/s521">521.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -195,7 +209,7 @@ Part A—Research and Experimentation  </td>
 
   <tr>
 
-    <td> 541, 542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs541" data-uslm-ref="/us/usc/t20/s541">541</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs542" data-uslm-ref="/us/usc/t20/s542">542.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -211,7 +225,7 @@ Part B—Dissemination of Information on New Educational Media  </td>
 
   <tr>
 
-    <td> 551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs551" data-uslm-ref="/us/usc/t20/s551">551.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -227,7 +241,9 @@ Part C—General Provisions  </td>
 
   <tr>
 
-    <td> 561 to 563. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs561" data-uslm-ref="/us/usc/t20/s561">561</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs563" data-uslm-ref="/us/usc/t20/s563">563.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -241,7 +257,9 @@ SUBCHAPTER VIII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 581 to 589. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs581" data-uslm-ref="/us/usc/t20/s581">581</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs589" data-uslm-ref="/us/usc/t20/s589">589.</a>  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -263,7 +281,7 @@ Part I—General  </td>
 
   <tr>
 
-    <td> 591, 592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs591" data-uslm-ref="/us/usc/t20/s591">591</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs592" data-uslm-ref="/us/usc/t20/s592">592.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -279,7 +297,7 @@ Part II—International Affairs  </td>
 
   <tr>
 
-    <td> 601, 602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs601" data-uslm-ref="/us/usc/t20/s601">601</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs602" data-uslm-ref="/us/usc/t20/s602">602.</a>  </td>
 
     <td> Omitted.  </td>
 

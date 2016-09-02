@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4701" data-uslm-ref="/us/usc/t20/s4701">4701.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4702" data-uslm-ref="/us/usc/t20/s4702">4702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4703" data-uslm-ref="/us/usc/t20/s4703">4703.</a>  </td>
 
     <td> Establishment of Barry Goldwater Scholarship and Excellence in Education Foundation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4704" data-uslm-ref="/us/usc/t20/s4704">4704.</a>  </td>
 
     <td> Barry Goldwater scholarship and excellence in education awards.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4705" data-uslm-ref="/us/usc/t20/s4705">4705.</a>  </td>
 
     <td> Stipends.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4706" data-uslm-ref="/us/usc/t20/s4706">4706.</a>  </td>
 
     <td> Scholarship conditions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4707" data-uslm-ref="/us/usc/t20/s4707">4707.</a>  </td>
 
     <td> Barry Goldwater Scholarship and Excellence in Education Fund.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4708" data-uslm-ref="/us/usc/t20/s4708">4708.</a>  </td>
 
     <td> Expenditures from fund.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4709" data-uslm-ref="/us/usc/t20/s4709">4709.</a>  </td>
 
     <td> Executive Secretary.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4710" data-uslm-ref="/us/usc/t20/s4710">4710.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4711" data-uslm-ref="/us/usc/t20/s4711">4711.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

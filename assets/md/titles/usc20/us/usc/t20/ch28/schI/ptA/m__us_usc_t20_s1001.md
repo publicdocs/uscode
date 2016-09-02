@@ -147,6 +147,12 @@
 
 >     “(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976.”
 
+ __Short Title of 2013 Amendment__ 
+
+[Pub. L. 113–28, § 1][/us/pl/113/28/s1], Aug. 9, 2013, [127 Stat. 506][/us/stat/127/506], provided that: 
+
+> “This Act \[amending [section 1087e of this title][/us/usc/t20/s1087e] and enacting provisions set out as a note under [section 1087e of this title][/us/usc/t20/s1087e]\] may be cited as the ‘Bipartisan Student Loan Certainty Act of 2013’.”
+
  __Short Title of 2010 Amendment__ 
 
 [Pub. L. 111–152, title II, § 2001(a)][/us/pl/111/152/s2001/a], Mar. 30, 2010, [124 Stat. 1071][/us/stat/124/1071], provided that: 
@@ -647,6 +653,10 @@
 [/us/usc/t20/s1132d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132d
 [/us/pl/94/482/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs532
 [/us/stat/90/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2241
+[/us/pl/113/28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs1
+[/us/stat/127/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F506
+[/us/usc/t20/s1087e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087e
+[/us/usc/t20/s1087e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087e
 [/us/pl/111/152/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2001%2Fa
 [/us/stat/124/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1071
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152

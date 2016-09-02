@@ -113,7 +113,7 @@
 
     The Older Americans Act of 1965, referred to in subsec. (b)(2)(M), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218]. Title V of the Act, known as the “Older Americans Community Services Employment Act”, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42][/us/usc/t42/s3001] and Tables.
 
-    The Community Services Block Grant Act, referred to in subsec. (b)(2)(O), is subtitle B (§ 671 et seq.) of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under [section 9901 of Title 42][/us/usc/t42/s9901] and Tables.
+    The Community Services Block Grant Act, referred to in subsec. (b)(2)(O), is subtitle B (§ 671 et seq.) of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of Title 42][/us/usc/t42/s9901] and Tables.
 
  __Codification__ 
 

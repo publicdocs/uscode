@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs91" data-uslm-ref="/us/usc/t20/s91">91.</a>  </td>
 
     <td> Literary and scientific collections accessible to investigators and students.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 92.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs92" data-uslm-ref="/us/usc/t20/s92">92.</a>  </td>
 
     <td> Admissions to marine biological station for pursuit of investigations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 93, 94.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs93" data-uslm-ref="/us/usc/t20/s93">93</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs94" data-uslm-ref="/us/usc/t20/s94">94.</a>  </td>
 
     <td> Repealed.  </td>
 

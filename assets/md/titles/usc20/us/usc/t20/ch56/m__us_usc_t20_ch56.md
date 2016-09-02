@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4401" data-uslm-ref="/us/usc/t20/s4401">4401.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4402" data-uslm-ref="/us/usc/t20/s4402">4402.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4411" data-uslm-ref="/us/usc/t20/s4411">4411.</a>  </td>
 
     <td> Establishment of Institute.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4412" data-uslm-ref="/us/usc/t20/s4412">4412.</a>  </td>
 
     <td> Board of Trustees.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4413" data-uslm-ref="/us/usc/t20/s4413">4413.</a>  </td>
 
     <td> Executive Board.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4414" data-uslm-ref="/us/usc/t20/s4414">4414.</a>  </td>
 
     <td> General powers of Board.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4415" data-uslm-ref="/us/usc/t20/s4415">4415.</a>  </td>
 
     <td> President of Institute.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4416" data-uslm-ref="/us/usc/t20/s4416">4416.</a>  </td>
 
     <td> Staff of Institute.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4417" data-uslm-ref="/us/usc/t20/s4417">4417.</a>  </td>
 
     <td> Functions of Institute.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4418" data-uslm-ref="/us/usc/t20/s4418">4418.</a>  </td>
 
     <td> Indian preference.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4419" data-uslm-ref="/us/usc/t20/s4419">4419.</a>  </td>
 
     <td> Nonprofit and nonpolitical nature of Institute.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4420.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4420" data-uslm-ref="/us/usc/t20/s4420">4420.</a>  </td>
 
     <td> Tax status; tort liability.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4421" data-uslm-ref="/us/usc/t20/s4421">4421.</a>  </td>
 
     <td> Transfer of functions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4422" data-uslm-ref="/us/usc/t20/s4422">4422.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4423" data-uslm-ref="/us/usc/t20/s4423">4423.</a>  </td>
 
     <td> Headquarters.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4424" data-uslm-ref="/us/usc/t20/s4424">4424.</a>  </td>
 
     <td> Compliance with other Acts.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4425" data-uslm-ref="/us/usc/t20/s4425">4425.</a>  </td>
 
     <td> Endowment programs.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4426" data-uslm-ref="/us/usc/t20/s4426">4426.</a>  </td>
 
     <td> Provision of facilities.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—NATIVE HAWAIIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4441" data-uslm-ref="/us/usc/t20/s4441">4441.</a>  </td>
 
     <td> Program for Native Hawaiian and Alaska Native culture and arts development.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—NATIVE HAWAIIANS AND ALASKA NATIVES  </td>
 
   <tr>
 
-    <td> 4442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4442" data-uslm-ref="/us/usc/t20/s4442">4442.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 4451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs4451" data-uslm-ref="/us/usc/t20/s4451">4451.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

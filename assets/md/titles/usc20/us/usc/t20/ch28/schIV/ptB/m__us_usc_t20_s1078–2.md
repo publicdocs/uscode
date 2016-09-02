@@ -45,13 +45,13 @@
 
                 (II) does not otherwise have an adverse credit history, as determined by the lender in accordance with the regulations promulgated pursuant to paragraph (1)(A), as such regulations were in effect on the day before May 7, 2008.
 
-            (ii) __Definition of mortgage loan__ 
+    (ii) __Definition of mortgage loan__ 
 
-                In this subparagraph, the term “mortgage loan” means an extension of credit to a borrower that is secured by the primary residence of the borrower.
+    In this subparagraph, the term “mortgage loan” means an extension of credit to a borrower that is secured by the primary residence of the borrower.
 
-            (iii) __Rule of construction__ 
+        (iii) __Rule of construction__ 
 
-                Nothing in this subparagraph shall be construed to limit an eligible lender’s authority under the regulations promulgated pursuant to paragraph (1)(A) to determine that extenuating circumstances exist.
+            Nothing in this subparagraph shall be construed to limit an eligible lender’s authority under the regulations promulgated pursuant to paragraph (1)(A) to determine that extenuating circumstances exist.
 
     (b) __Limitation based on need__ 
 

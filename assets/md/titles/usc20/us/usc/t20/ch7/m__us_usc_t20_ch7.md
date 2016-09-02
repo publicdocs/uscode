@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs111" data-uslm-ref="/us/usc/t20/s111">111.</a>  </td>
 
     <td> Study in certain schools of effect of alcoholic drinks and narcotics.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs112" data-uslm-ref="/us/usc/t20/s112">112.</a>  </td>
 
     <td> Enforcement of section 111.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs113" data-uslm-ref="/us/usc/t20/s113">113.</a>  </td>
 
     <td> Teachers’ certificates dependent on passing examination on effect of alcoholic drinks and narcotics.  </td>
 

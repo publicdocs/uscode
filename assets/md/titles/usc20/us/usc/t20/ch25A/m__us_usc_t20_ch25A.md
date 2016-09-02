@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs921" data-uslm-ref="/us/usc/t20/s921">921.</a>  </td>
 
     <td> Defense dependents’ education system.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs922" data-uslm-ref="/us/usc/t20/s922">922.</a>  </td>
 
     <td> Administration of defense dependents’ education system.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs923" data-uslm-ref="/us/usc/t20/s923">923.</a>  </td>
 
     <td> Space-available enrollment of students; tuition.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 923a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs923a" data-uslm-ref="/us/usc/t20/s923a">923a.</a>  </td>
 
     <td> Enrollment of certain additional children on tuition-free basis.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs924" data-uslm-ref="/us/usc/t20/s924">924.</a>  </td>
 
     <td> Annual educational assessment.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs925" data-uslm-ref="/us/usc/t20/s925">925.</a>  </td>
 
     <td> Budget request for school construction funds for Director of Dependents’ Education.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs926" data-uslm-ref="/us/usc/t20/s926">926.</a>  </td>
 
     <td> School system for dependents in overseas areas.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 927.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs927" data-uslm-ref="/us/usc/t20/s927">927.</a>  </td>
 
     <td> Allotment formula.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 928.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs928" data-uslm-ref="/us/usc/t20/s928">928.</a>  </td>
 
     <td> School advisory committees.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 929.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs929" data-uslm-ref="/us/usc/t20/s929">929.</a>  </td>
 
     <td> Advisory Council on Dependents’ Education.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 930.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs930" data-uslm-ref="/us/usc/t20/s930">930.</a>  </td>
 
     <td> Study of defense dependents’ education system.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs931" data-uslm-ref="/us/usc/t20/s931">931.</a>  </td>
 
     <td> Regulations; issuance and contents.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs932" data-uslm-ref="/us/usc/t20/s932">932.</a>  </td>
 
     <td> Definitions.  </td>
 

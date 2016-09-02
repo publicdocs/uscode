@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs191" data-uslm-ref="/us/usc/t20/s191">191.</a>  </td>
 
     <td> Establishment; site; acquisition of land.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs192" data-uslm-ref="/us/usc/t20/s192">192.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs193" data-uslm-ref="/us/usc/t20/s193">193.</a>  </td>
 
     <td> Administration of arboretum.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs194" data-uslm-ref="/us/usc/t20/s194">194.</a>  </td>
 
     <td> Advisory council.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs195" data-uslm-ref="/us/usc/t20/s195">195.</a>  </td>
 
     <td> Gifts, bequests, or devises for benefit of National Arboretum; separate fund in the Treasury.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs196" data-uslm-ref="/us/usc/t20/s196">196.</a>  </td>
 
     <td> Concessions, fees, and voluntary services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 197.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs197" data-uslm-ref="/us/usc/t20/s197">197.</a>  </td>
 
     <td> Construction of Chinese Garden at the National Arboretum.  </td>
 
